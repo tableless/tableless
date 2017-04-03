@@ -1,6 +1,6 @@
 languageCode = "pt-br"
 title = "Tableless"
-baseURL = "http://tableless.com.br/"
+baseURL = "https://tableless.github.io/hugo-public/"
 theme = "tableless"
 SectionPagesMenu = "main"
 [taxonomies]
