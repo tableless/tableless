@@ -1,0 +1,26 @@
+{{ $.Scratch.Add "single" true }}
+{{ partial "header.html" . }}
+  <header class="tb-post-header">
+  {{ partial "posthero.html" . }}
+  </header>
+
+
+<section class="tb-post">
+
+  <section class="tb-post-content">
+    <article class="tb-post-article">
+      {{.Content}}
+    </article>
+
+{{ partial "disqus.html" . }}
+  </section>
+
+
+  <aside class="tb-aside">
+    Banner
+  </aside>
+
+</section>
+
+{{ partial "footer.html" . }}
+

@@ -1,0 +1,45 @@
+.tb-list
+  @extend .tb-container
+  display: flex
+  flex-wrap: wrap
+
+.tb-list h1
+  flex: 1 0 100%
+  font: 3rem/1.6 $avenirBold
+  margin-bottom: 70px
+  text-transform: uppercase
+
+  small
+    font: .9rem $avenirRegular
+    display: block
+    text-transform: initial
+
+.tb-list-item
+  flex: 1 0 275px
+  margin-bottom: 50px
+
+  &:before
+
+  a
+    text-decoration: none
+
+    &:hover h2
+      color: $red
+  h2
+    margin: 0 0 10px
+    font: 1.1rem $avenirBold
+    color: $gray
+
+  p
+    color: $text-gray
+    font: .9rem/1.4 $avenirRegular
+
+////
+// Big Screen version
+////
+@media #{$break-mobile}
+  .tb-list h1
+    margin-bottom: 100px
+  .tb-list-item
+    margin: 0 30px 90px 0
+  

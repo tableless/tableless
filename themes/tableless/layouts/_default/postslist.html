@@ -1,0 +1,23 @@
+<section class="tb-list">
+{{ if $.Scratch.Get "category" }}
+  <h1><small>posts da categoria </small> {{ .Title }}</h1>
+{{else}}
+  <h1><small>posts do autor </small> {{ .Title }}</h1>
+{{end}}
+
+  {{ range .Data.Pages }}
+  <div class="tb-list-item">
+    <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2>
+   <p>
+    {{if .Param "excerpt"}}
+    {{ .Param "excerpt" }}
+    {{else}}
+    {{ .Summary }}
+    {{end}}
+    </p>
+    </a>
+    {{ partial "byauthor.html" . }}
+  </div>
+  {{ end }}
+
+</section>

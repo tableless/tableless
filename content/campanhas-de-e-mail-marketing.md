@@ -1,0 +1,33 @@
+---
+title: Campanhas de E-mail Marketing
+author: Ederson Ribeiro
+type: post
+date: 2015-03-13
+excerpt: Otimize suas Campanhas de E-mail Marketing e obtenha os resultados que você tanto deseja.
+url: /campanhas-de-e-mail-marketing/
+categories:
+  - Artigos
+tags:
+  - email marketing
+  - emkt
+
+---
+As Campanhas de E-mail Marketing estão em alta e, cada vez mais, presentes e importantes no mundo dos negócios, dos websites, dos hotsites, dos e-commerce, dos sites de compras coletivas e etc. Falar de E-mail Marketing parece fácil, mas costumo dizer que não é algo tão simples assim. E-mail Marketing é a utilização do e-mail como ferramenta de marketing direto, respeitando normas e procedimentos pré-definidos, a fim de analisar o retorno gerado por meio de relatórios e de análises gráficas, o que gera campanhas cada vez mais otimizadas. Essa definição é extremamente pertinente, fazendo com que cheguemos a acreditar que essa ferramenta é a solução para os problemas de empresas que desejam se comunicar com seus clientes. Todavia, isso só se torna possível quando entendemos as práticas e determinamos as estratégias corretas para uma campanha E-mail Marketing.
+
+Contudo, se você conhece um pouco sobre o E-mail Marketing, e acha que é só pegar sua lista de clientes e sair disparando suas campanhas pelo Outlook, aleatoriamente, para conseguir campanhas cada vez mais lucrativas e mais otimizadas, você se enganou. Volte para seu Desktop e faça mais algumas pesquisas ou compre o livro **Estratégias de E-mail Marketing** do Murilo Gun e Bruno Queiroz, que lhe dará uma visão mais abrangente sobre tema.
+
+Afinal, a primeira coisa que devemos pensar para começar a trabalhar campanhas estratégias de E-mail Marketing é a ferramenta que será utilizada, pois para por em prática as campanhas, há várias ferramentas boas disponíveis no mercado como: [Aweber][1], [Mailchimp][2], [Get Response][3], [E-goi][1] e muitas outras por ai. Usar esses tipos de ferramentas, a princípio, pode parecer bobagem, prejuizo para sua empresa como já ouvir falar por ai, mas elas irão lhe ajudar e muito no gerenciamento de suas campanhas, na manutenção de suas listas de e-mails, nos relatórios detalhados das campanhas enviadas e o mais importante, na otimização de tempo.
+
+Pois bem. Agora que você decidiu qual ferramenta usar, vamos nos concentrar na sua lista de e-mails, pois se você está pensando em comprar uma lista daquela empresa que você achou na busca do Google ou aquela lista de de 1 milhão de contatos que te ofereceram na 25 de Março, esqueça! A melhor maneira de obter resultados efetivos com as suas campanhas é utilizando a sua própria lista de e-mails e, se você não tem uma, tente construí-la por meio de pesquisas, de uma assinatura de Newsletter no seu site, por meio de iscas digitais como e-books, conversas diretas com seus clientes, solicitando a eles seus e-mails e, o mais importante, pedindo a autorização deles para poder enviar suas campanhas. Outro ponto importante é a segmentação da lista de e-mails, uma vez que de nada adianta coletar os e-mails de seus clientes e não saber o que realmente eles querem receber. Por isso, procure saber os gostos de seus clientes, seus hábitos de consumo e crie segmentos em sua lista para cada um deles, além de segmentos para sexo, data de aniversário, cidade e estado.
+
+Outra ponto extremamente importante são as estratégias formuladas para suas campanhas. A partir da segmentação de sua lista de e-mails, você já terá uma base do que poderá oferecer para seus clientes, mas sempre a algo a mais para se fazer e, nesse caso, você pode incluir um calendário de datas sazonais e uma estratégia de conteúdo, pois seus clientes precisam de informações relevantes sobre o seu negócio. Portanto, se você tem uma loja de bicicletas em São Paulo, antes de enviar aquela oferta imperdível daquela Mountain Bike, envie alguns e-mails mostrando detalhes e as melhores trilhas para andar de Mountain Bike no Brasil, pois assim você estará estimulando o seu cliente a receber as ofertas da Mountain Bike. Acredite, o resultado de sua campanha será bem melhor, afinal, você quer uma Mountain Bike para se aventurar em trilhas ou para deixar como troféu, acumulando poeira na garagem da sua casa?
+
+Para o fim, deixo a análise das métricas das campanhas de E-mail Marketing. As métricas por si só, não servem para nada, não têm valor algum se não forem analisadas e tomadas como base para novas estratégias. Recentemente, um amigo que trabalha em um e-commerce pediu minha ajuda para melhorar as campanhas de e-mail marketing que ele faz em seu trabalho e eu prontamente me coloquei à disposição, explicando para ele sobre a importância da segmentação da lista, coisa que ele ainda não tinha feito. Pedi que me enviasse os 5 últimos relatórios das campanhas que ele tinha feito. A partir desses relatórios eu fiz uma análise que daria outro artigo se eu fosse citar, mas um desses relatórios me chamou a atenção. Era uma peça de E-mail Marketing com foco em veda com aproximadamente 8 produtos, onde 3 deles com o ticket médio de R$250,00 tiveram um número considerável. Quando somei os cliques únicos, eram mais de 700 e olha que a lista de e-mails não era tão grande assim. Então, disse para ele filtrar pela ferramenta de E-mail Marketing quais foram as pessoas que clicaram nesses produtos e criar um novo segmento, além de criar outra peça de E-mail Marketing com apenas esses 3 produtos, contendo uma descrição bem detalhada que reforçasse os benefícios e as características, juntamente com um desconto de X% por um tempo determinado para despertar a sensação de escassez.
+
+Ou seja, se essas 700 pessoas clicaram nesses produtos é porque elas se interessaram e desejam saber mais sobre eles. Ao fazer tal análise e disparar uma nova campanha que dessa vez está mais trabalhada com informações relevantes sobre o produto e um determinado desconto, a probabilidade de fechamento de venda aumenta consideravelmente e, se desse total, 5% forem convertidos em vendas, já vai ter valido o esforço.
+
+Por isso, a análise detalhada de cada campanha se faz necessária e muito importante para as estratégias de E-mail Marketing, pois não adianta ficar disparando e-mails aleatórios, achando que você conhece seu cliente. Isso é praticamente impossível. Se você realmente quer saber o que seus clientes procuram, comece agora mesmo a analisar suas campanhas, veja se a ferramenta que está usando atende suas necessidades, construa sua lista e crie os segmentos que são importantes para seu negócio. Tenho certeza de que você irá descobrir muitas coisas interessantes sobre eles.
+
+ [1]: http://www.aweber.com/index3.htm
+ [2]: http://mailchimp.com/
+ [3]: http://www.getresponse.com/

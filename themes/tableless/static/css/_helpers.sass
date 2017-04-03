@@ -1,0 +1,98 @@
+
+///
+// Colors
+///
+$gray: #333
+$light-gray: #CACACA
+$text-gray: #494949
+$red: #EB191E
+
+///
+// Mobile
+///
+$break-mobile: "only screen and (min-width: 750px)"
+$space-default: 30px
+
+img
+  max-width: 100%
+
+.tb-container
+  max-width: 1300px
+  margin-right: auto
+  margin-left: auto
+  padding: 0 $space-default
+
+///
+// Fonts
+///
+$avenirRegular: AvenirNextRegular, Arial, Helvetica, Sans-serif
+$avenirBold: AvenirNextBold, Arial, Helvetica, Sans-serif
+$avenirDemi: AvenirNextDemi, Arial, Helvetica, Sans-serif
+$avenirHeavy: AvenirNextHeavy, Arial, Helvetica, Sans-serif
+
+.tb-hero-title
+  text-transform: uppercase
+  text-decoration: none
+  font: 1.3rem/1.2 $avenirBold
+  color: #000
+  margin-bottom: 10px
+  display: block
+
+  a
+    text-decoration: none
+    color: #000
+    &:hover
+      color: $red
+
+.tb-hero-p
+  color: $text-gray
+  font: 1rem/1.5 $avenirRegular
+  margin-top: 25px
+  margin-bottom: 30px
+
+@media #{$break-mobile}
+  .tb-hero-title
+    text-transform: initial
+    font-size: 4rem
+    line-height: 1
+
+  .tb-hero-p
+    color: $text-gray
+    font-size: 1.5rem
+    line-height: 2.5rem
+    max-width: 1000px
+    margin-bottom: 50px
+
+////
+// Common
+////
+
+.tb-author
+  font: .8rem/1 $avenirDemi
+  color: #6D6D6D
+  margin-top: 15px
+  display: block
+
+  a
+    color: $red
+    text-decoration: none
+
+    &:hover
+      color: #000
+      text-decoration: none
+
+  img
+    border-radius: 50%
+    max-width: 35px
+    vertical-align: middle
+    filter: grayscale(1) contrast(.8)
+    margin-right: 5px
+
+@media #{$break-mobile}
+  .tb-author
+    font-size: .9rem
+    img
+      max-width: 40px
+
+    .tb-post-box &
+      font-size: .9rem

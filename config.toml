@@ -1,0 +1,44 @@
+languageCode = "pt-br"
+title = "Tableless"
+baseURL = "http://tableless.com.br/"
+theme = "tableless"
+SectionPagesMenu = "main"
+[taxonomies]
+tag = "tags"
+category = "categories"
+author = "author"
+disqusShortname = "tableless"
+
+[[menu.main]]
+    name = "HTML"
+    weight = -100
+    identifier = "html"
+    url = "/categories/html"
+[[menu.main]]
+    name = "CSS"
+    weight = -99
+    url = "/categories/css/"
+[[menu.main]]
+    name = "JavaScript"
+    weight = -98
+    url = "/categories/javascript/"
+[[menu.main]]
+    name = "Back-end"
+    weight = -97
+    url = "/categories/back-end/"
+[[menu.main]]
+    name = "WordPress"
+    weight = -96
+    url = "/categories/wordpress/"
+[[menu.main]]
+    name = "Design"
+    weight = -95
+    url = "/categories/design/"
+[[menu.main]]
+    name = "Acessibilidade"
+    weight = -95
+    url = "/categories/acessibilidade/"
+[[menu.main]]
+    name = "Na prática"
+    weight = -94
+    url = "/categories/técnicas-e-práticas/"

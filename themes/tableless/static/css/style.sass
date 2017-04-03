@@ -1,0 +1,128 @@
+@import "fonts/fonts.css"
+@import "_helpers.sass"
+@import "_footer.sass"
+@import "_header.sass"
+@import "_single.sass"
+@import "_lists.sass"
+
+*
+  padding: 0
+  margin: 0
+  box-sizing: border-box
+
+body
+  font-size: 100%
+  font-family: $avenirRegular
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+  counter-reset: list-count
+
+.tb-feature-post
+  @extend .tb-container
+  padding: 0 30px
+  margin-bottom: 55px
+
+  p
+//    height: 100px
+  //  overflow: hidden
+    //position: relative
+//    &:after
+  //    position: absolute
+    //  bottom: 4px
+//      right: 0px
+  //    display: inline-block
+    //  content: " ..."
+
+.tb-post-list
+  @extend .tb-container
+  padding: 0 20px
+  display: flex
+  flex-wrap: wrap
+  flex-direction: space-around
+
+.tb-post-box
+  flex: 1 0 300px
+  margin: 0 10px 50px
+
+  img
+    max-width: 100%
+    border-radius: 3px
+
+  h2
+    margin: -10px 0 5px
+    text-transform: uppercase
+    font: 1.1rem $avenirBold
+
+    a
+      color: $gray
+      text-decoration: none
+
+      &:hover
+        color: $red
+  p
+    color: $text-gray
+    font: 1rem/1.4 $avenirRegular
+
+  h2, p
+    padding-left: 10px
+    padding-right: 10px
+
+  .tb-author
+    padding-left: 10px
+
+.tb-categ-flag
+  display: inline-block
+  color: #fff
+  background: $red
+  border-radius: 3px
+  text-decoration: none
+  text-transform: lowercase
+  padding: 5px 10px 2px
+  margin: 0 10px
+  transform: translateY(-20px)
+  font: .8rem $avenirDemi
+  position: relative
+  z-index: 1
+
+.tb-categs .tb-categ-flag
+  display: none
+
+.tb-categs .tb-categ-flag:first-child
+  display: inline-block
+
+////
+// Big Screen version
+////
+@media #{$break-mobile}
+  .tb-feature-post
+    text-align: center
+    padding: 0 30px 120px
+
+    h1 a:hover
+      color: $red
+
+    p
+      margin-left: auto
+      margin-right: auto
+
+  .tb-post-box
+    margin-bottom: 30px
+
+    &:hover img
+      opacity: .9
+
+    h2
+      width: 90%
+      font-size: 1.2rem
+      line-height: 1.4
+      padding: 15px 10px 0
+      margin-bottom: 15px
+
+    p
+      width: 90%
+      font-size: 1rem
+      line-height: 1.5
+
+    .tb-categ-flag
+      font-size: .9rem
+      padding: 7px 10px 3px

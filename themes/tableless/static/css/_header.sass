@@ -1,0 +1,88 @@
+#tb-header
+  padding: 30px $space-default 40px
+
+.tb-logo
+  max-width: 200px
+  display: inline-block
+  vertical-align: middle
+
+  img
+    max-width: 100%
+
+.tb-search
+  float: right
+  margin: 10px 30px 0 0
+
+  img
+    max-width: 100%
+
+#tb-menu
+  padding: 30px 0 30px 30px
+  max-width: 100%
+  overflow: auto
+  -webkit-overflow-scrolling: touch
+
+  ul
+    font-size: 0
+    width: 100vw
+
+  li
+    display: inline-block
+
+  a
+    font: .8rem $avenirBold
+    color: $light-gray
+    text-transform: uppercase
+    text-decoration: none
+    display: inline-block
+    margin-right: 10px
+    &:hover
+      color: $gray
+
+.tb-active a
+  color: $red !important
+
+
+////
+// Big Screens
+////
+@media #{$break-mobile}
+  #tb-header
+    max-width: 1300px
+    margin: 0 auto
+    display: flex
+    flex-wrap: wrap
+    justify-content: space-between
+    align-items: center
+    padding: 70px $space-default 100px
+
+  .tb-logo
+    order: 1
+    flex: 1 0 200px
+
+  #tb-menu
+    order: 2
+    flex: 1 0 50%
+    text-align: center
+    overflow: initial
+    max-width: auto
+    ul
+      width: auto
+
+    a
+      text-transform: initial
+      color: $text-gray
+      font-size: 1rem
+      margin-right: 35px
+
+      &:hover
+        color: $red
+        text-decoration: underline
+
+
+  .tb-search
+    order: 3
+    flex: 1 0 50px
+    max-width: 50px
+    text-align: right
+

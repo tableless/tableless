@@ -1,0 +1,75 @@
+.tb-post
+  @extend .tb-container
+
+.tb-post-header
+  @extend .tb-container
+  margin-bottom: 70px
+
+.tb-post-content
+
+  p
+    font: 1.1rem/1.6 $avenirRegular
+    color: $text-gray
+    letter-spacing: -0.47px
+    margin-bottom: 30px
+
+  a
+    color: $red
+    &:hover
+      color: #000
+
+  li
+    font: 1.1rem/1.5 $avenirRegular
+    margin-bottom: 15px
+
+  ul, ol
+    margin-left: 20px
+    margin-bottom: 40px
+
+  h2
+    margin: 50px 0 10px
+    font: 2rem $avenirBold
+  h3
+    margin: 50px 0 10px
+    font-size: 1.7rem
+  h6
+    margin: 20px 0 10px
+    font-size: .9rem
+
+  blockquote
+    padding: 30px
+    display: block
+
+    p
+      font: italic 1.2rem/1.5 $avenirBold
+
+[class*="lang-"], .hljs
+  padding: 20px !important
+  margin-bottom: 40px
+  line-height: 1.2rem
+
+////
+// Big Screen version
+////
+@media #{$break-mobile}
+  .tb-post
+    display: flex
+
+  .tb-post-header
+    margin-bottom: 150px
+
+  .tb-aside
+    flex: 0 0 360px
+    order: 2
+
+  .tb-post-content
+    padding-left: 30px
+    flex: 1
+    order: 3
+
+    p
+      font-size: 1.3rem
+
+    li
+      font-size: 1.2rem
+

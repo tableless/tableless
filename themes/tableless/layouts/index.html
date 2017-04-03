@@ -1,0 +1,54 @@
+{{ partial "header.html" . }}
+  <!--<ul>
+    {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+      <li><a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ $taxonomyname }}</a>
+        <ul>
+          {{ range $key, $value := $taxonomy }}
+          <li> {{ $key }} </li>
+                <ul>
+                {{ range $value.Pages }}
+                    <li hugo-nav="{{ .RelPermalink}}"><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+                {{ end }}
+                </ul>
+          {{ end }}
+        </ul>
+      </li>
+    {{ end }}
+  </ul>-->
+  <!--{{ range $name, $taxonomy := .Site.Taxonomies.author }}
+    <li><a href="{{ "/author/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>
+  {{ end }}-->
+
+{{ range first 1 .Pages}}
+<section class="tb-feature-post">
+  {{ partial "posthero.html" . }}
+</section>
+{{end}}
+
+<section class="tb-post-list">
+  {{ range first 3 (after 1 .Pages)}}
+  <div class="tb-post-box">
+
+    <a href="{{ .RelPermalink }}">
+      <img src="{{ $.Site.BaseURL }}{{ with .Params.image }}{{ . }}{{ else }}/images/missing-img.png{{ end }}">
+    </a>
+
+    <span class="tb-categs">{{ range .Params.categories }}
+    <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="tb-categ-flag">{{ . }}</a>
+    {{ end }}</span>
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>
+    {{if .Param "excerpt"}}
+    {{ .Param "excerpt" }}
+    {{else}}
+    {{ .Summary }}
+    {{end}}
+    </p>
+
+    {{ partial "byauthor.html" . }}
+
+  </div>
+  {{end}}
+</section>
+
+{{ partial "footer.html" . }}
