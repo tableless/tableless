@@ -1,7 +1,7 @@
 ---
 title: Scrum Master e sua essência.
 author: Athos Bonner
-image: ../uploads/2017/03/151024170936-rugby-4-super-169.jpg
+image: uploads/2017/03/151024170936-rugby-4-super-169.jpg
 type: post
 date: 2017-04-06
 excerpt: O papel do Scrum Master vai muito além de um simples ator de uma metodologia
