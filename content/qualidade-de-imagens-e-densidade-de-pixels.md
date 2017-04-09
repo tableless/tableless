@@ -5,16 +5,6 @@ type: post
 date: 2012-03-26
 excerpt: Entenda melhor sobre densidade de pixels em aparelhos como o iPhone 4 e outros dispositivos que carregam Android.
 url: /qualidade-de-imagens-e-densidade-de-pixels/
-tweetbackscheck:
-  - 1356390394
-dsq_thread_id:
-  - 624638184
-shorturls:
-  - 'a:3:{s:9:"permalink";s:67:"http://tableless.com.br/qualidade-de-imagens-e-densidade-de-pixels/";s:7:"tinyurl";s:26:"http://tinyurl.com/85pu5t4";s:4:"isgd";s:19:"http://is.gd/eEyonN";}'
-twittercomments:
-  - 'a:58:{i:184279751337320449;s:7:"retweet";i:185389074868207616;s:7:"retweet";i:185366306487418881;s:7:"retweet";i:185366001154662400;s:7:"retweet";i:184281208333680640;s:7:"retweet";i:189714661522948099;s:7:"retweet";i:195177179343110145;s:7:"retweet";i:195162846080933888;s:7:"retweet";i:195156458818650114;s:7:"retweet";i:195156302924759040;s:7:"retweet";i:195150817106468865;s:7:"retweet";i:205694898215731200;s:7:"retweet";i:205676447686344704;s:7:"retweet";i:205672675606134784;s:7:"retweet";i:205661860433887232;s:7:"retweet";i:205661662194302976;s:7:"retweet";i:205660557771157505;s:7:"retweet";i:205660189658062848;s:7:"retweet";i:211843479972741120;s:7:"retweet";i:210391488553684993;s:7:"retweet";i:210384746293895168;s:7:"retweet";i:210377515536097280;s:7:"retweet";i:210375890192969733;s:7:"retweet";i:210371612212604928;s:7:"retweet";i:210370782331813888;s:7:"retweet";i:215925001226960896;s:7:"retweet";i:215085728437256192;s:7:"retweet";i:215084399425892353;s:7:"retweet";i:215082598895067139;s:7:"retweet";i:215082472709431296;s:7:"retweet";i:215082260934828032;s:7:"retweet";i:215081991438217216;s:7:"retweet";i:226696484173783040;s:7:"retweet";i:226391192202526720;s:7:"retweet";i:226325676595220481;s:7:"retweet";i:226325399972503553;s:7:"retweet";i:226318545800286208;s:7:"retweet";i:226316318364798976;s:7:"retweet";i:240829197105381376;s:7:"retweet";i:240818903184445440;s:7:"retweet";i:243740599130402816;s:7:"retweet";i:243713608599629825;s:7:"retweet";i:243713017223737344;s:7:"retweet";i:243710198886318081;s:7:"retweet";i:250235891740708864;s:7:"retweet";i:250233594159706112;s:7:"retweet";i:250233548701843458;s:7:"retweet";i:253872029890138112;s:7:"retweet";i:253870653432807424;s:7:"retweet";i:253859831960719361;s:7:"retweet";i:253859427503976449;s:7:"retweet";i:253857568835919872;s:7:"retweet";i:253857497696325632;s:7:"retweet";i:253857323779497985;s:7:"retweet";i:253857290648702976;s:7:"retweet";i:262904279554195456;s:7:"retweet";i:281758010911645696;s:7:"retweet";i:281749359169769472;s:7:"retweet";}'
-tweetcount:
-  - 103
 categories:
   - Acessibilidade
   - Mercado e Comportamento

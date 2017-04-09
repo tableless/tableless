@@ -2,6 +2,7 @@
 title: Moz://a
 author: Diego Eis
 type: post
+image: uploads/2017/01/featured-image-mozilla-logo.png
 date: 2017-01-19
 url: /novo-logo-mozilla/
 titulo_personalizado:

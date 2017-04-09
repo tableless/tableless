@@ -2,7 +2,7 @@
 title: O fim da profissão front-end
 author: Diego Eis
 type: post
-image: /uploads/2017/03/pexels-photo-296983-2.jpg
+image: uploads/2017/03/pexels-photo-296983-2.jpg
 date: 2017-03-20
 stick: yes
 excerpt: O front-end como você conhece vai morrer.

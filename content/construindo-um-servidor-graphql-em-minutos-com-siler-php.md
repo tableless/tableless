@@ -2,7 +2,7 @@
 title: Construindo um servidor GraphQL em minutos com a Siler PHP
 author: Leo Cavalcante
 type: post
-image: /uploads/2017/03/postart.jpg
+image: uploads/2017/03/postart.jpg
 date: 2017-04-04
 stick: yes
 excerpt: GraphQL - uma query language como o SQL, mas desenhada para rodar no lado client
@@ -82,7 +82,7 @@ Se você estiver com dificuldades para configurar seu app GraphiQL, pode dar uma
 
 Com o GraphiQL rodando na 3000 (default do create-react-app) e a API na 8000 (default do siler/project). Podemos testar nosso <em>endpoint</em> com a premissa de que uma chamada pro <em>field</em> <code>foo</code> na <code>Query</code> o retorno deve ser <code>bar</code>:
 
-<img class="alignnone size-full wp-image-57429" src="https://tableless.com.br/wp-content/uploads/2017/03/Capture.png" alt="" width="370" height="233" />
+<img class="alignnone size-full wp-image-57429" src="uploads/2017/03/Capture.png" alt="" width="370" height="233" />
 
 <strong>Maravilha!</strong> Temos aí um Hello World de GraphQL com PHP em apenas 20 linhas de código.
 

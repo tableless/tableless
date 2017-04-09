@@ -28,7 +28,7 @@ Mac: <a href="https://gist.github.com/Turini/94ed27b4f169c66349d2">https://gist.
 
 Muito bem, agora que tudo esta configurado, abra seu terminal. Digite laravel new NomeProjeto. Pronto, isso mesmo, seu projeto já esta criado. Para testá-lo, inicie seu apache do xampp e digite no terminal php artisan serve, nesse momento já pode testar sua aplicação em localhost.
 
-<img class="alignnone wp-image-57488" src="https://tableless.com.br/wp-content/uploads/2017/03/Sem-título.png" alt="" width="648" height="297" />
+<img class="alignnone wp-image-57488" src="uploads/2017/03/Sem-título.png" alt="" width="648" height="297" />
 
 Mas o que é esse artisan? Bom, ele é uma ferramenta de linha de comando, inclusa no framework.
 
