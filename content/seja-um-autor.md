@@ -62,7 +62,34 @@ categories:
 ---
 </pre>
 
-Ali em *categorias*, coloque as categorias já existentes no site, ou se não souber, deixe em branco que os nossos editores comentarão no momento do Pull Request.
+Ali em *categorias*, coloque as categorias já existentes no site, ou se não souber, deixe em branco que os nossos editores comentarão no momento do Pull Request. Mas algumas categorias que você pode aplicar são: 
+
+* Browsers
+* Design
+* Back-end
+* Front-end
+* Mobile
+* CSS
+* HTML
+* JavaScript
+* AngularJS
+* ReactJS
+* Ajax
+* NodeJS
+* jQuery
+* Wordpress
+* Mercado e Comportamento
+* Tecnologia e Tendências
+* Código
+* Agile e Gestão
+* PHP
+* Acessibilidade
+* Semântica
+* Microdata
+* RDFa
+* SEO
+* Git
+* Opinião
 
 Você pode ver um arquivo de [artigo de exemplo aqui](https://raw.githubusercontent.com/tableless/tableless-static/master/content/carreira-de-front-end-vai-morrer.md).
 
