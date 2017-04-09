@@ -11,7 +11,6 @@ categories:
   - Browsers
   - Destaques
   - Notícias
-
 ---
 A Mozilla mudou seu logo.
 

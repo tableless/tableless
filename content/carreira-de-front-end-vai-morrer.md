@@ -4,11 +4,7 @@ author: Diego Eis
 type: post
 image: uploads/2017/03/pexels-photo-296983-2.jpg
 date: 2017-03-20
-stick: yes
 excerpt: O front-end como você conhece vai morrer.
-url: /carreira-de-front-end-vai-morrer/
-titulo_personalizado:
-  - 'O front-end como você conhece <strong>vai morrer</strong>'
 categories:
   - Artigos
   - Código

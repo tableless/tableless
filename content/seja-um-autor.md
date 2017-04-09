@@ -45,9 +45,30 @@ Você pode escrever qualquer assunto relacionado aos tópicos abaixo. Se você a
 
 ## Submeta agora seu artigo
 
+Os artigos são baseados em Markdown. Logo, você precisa escrever seu artigo em Markdown antes de submeter para nós. Se você tiver um artigo em HTML, você pode convertê-lo [usando esse serviço](https://domchristie.github.io/to-markdown/). Além disso, é *OBRIGATÓRIO* o padrão de frontmatter no seu artigo, como segue abaixo:
+
+<pre class="lang-yaml">
+---
+title: Nome do seu artigo
+author: Seu nome
+type: post
+image: endereco-da-imagem-de-destaque/image.jpg
+date: 2017-01-19
+excerpt: Um resumo do seu artigo. Não precisa ser muito longo, mas o suficiente para que os usuários saibam em poucas palavras sobre o que é o seu artigo. É aqui que eles se interessarão pelo seu texto.
+categories:
+  - Browsers
+  - Destaques
+  - Notícias
+---
+</pre>
+
+Ali em *categorias*, coloque as categorias já existentes no site, ou se não souber, deixe em branco que os nossos editores comentarão no momento do Pull Request.
+
+Você pode ver um arquivo de [artigo de exemplo aqui](https://raw.githubusercontent.com/tableless/tableless-static/master/content/carreira-de-front-end-vai-morrer.md).
+
 Para submeter seu artigo, siga os passos:
 
-1. Você não precisa clonar o projeto para submeter um artigo, apenas [siga esse link](https://github.com/tableless/hugo/new/master/content). Aqui é a página de criação de novo arquivo no GitHub;
+1. Você não precisa clonar o projeto para submeter um artigo, apenas [siga esse link](https://github.com/tableless/tableless-static/new/master/content) e escreva o artigo ou cole um artigo já escrito em Markdown. Esta é a página de criação de novo arquivo no GitHub que você já deve conhecer;
 2. Coloque o nome do seu arquivo seguindo esse padrão: **nome-do-artigo.md**. Lembre-se que o artigo deve ser escrito em Markdown. Se seu artigo fizer uso de imagens, coloque em algum seriviço de host de imagens como o [imgh.us](imgh.us) ou [imgur.com](imgur.com) e coloque apenas o endereço da imagem no artigo;
 3. Depois de ter terminado, logo abaixo da área de escrita, há um campo para escrever as informações de commit. Coloque um título no commit e uma descrição sobre o artigo;
 4. Feito isso, selecione a opção **Create a new branch for this commit...** e submeta um Pull Request para a branch Master;
