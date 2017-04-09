@@ -1,0 +1,4 @@
+    {{ range first 7 .Site.Pages }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    {{ end }}
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>medium</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1078.000000, -1647.000000)">
+            <g id="Group-3-Copy" transform="translate(871.000000, 1647.000000)">
+                <g id="medium" transform="translate(207.000000, 0.000000)">
+                    <rect id="Rectangle" x="0" y="0" width="44" height="44"></rect>
+                    <circle id="Oval" stroke="#CCCCCC" stroke-width="2" cx="22" cy="22" r="21"></circle>
+                    <path d="M32,16.3569604 L31.2094313,16.3569604 C30.9158576,16.3569604 30.4997688,16.7856048 30.4997688,17.0600774 L30.4997688,26.9936492 C30.4997688,27.2681218 30.9158576,27.6418717 31.2094313,27.6418717 L32,27.6418717 L32,30 L24.832871,30 L24.832871,27.6418717 L26.3331022,27.6418717 L26.3331022,17.1990656 L26.2602866,17.1990656 L22.7570504,30 L20.0455386,30 L16.5873786,17.1990656 L16.4995377,17.1990656 L16.4995377,27.6418717 L17.9997688,27.6418717 L17.9997688,30 L12,30 L12,27.6418717 L12.7686084,27.6418717 C13.0852982,27.6418717 13.5002312,27.2681218 13.5002312,26.9936492 L13.5002312,17.0600774 C13.5002312,16.7856048 13.0852982,16.3569604 12.7686084,16.3569604 L12,16.3569604 L12,14 L19.5023116,14 L21.9664817,23.2631579 L22.0335183,23.2631579 L24.5196486,14 L32,14 L32,16.3569604" id="Shape" fill="#CCCCCC"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

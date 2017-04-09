@@ -1,9 +1,11 @@
 @import "fonts/fonts.css"
 @import "_helpers.sass"
-@import "_footer.sass"
 @import "_header.sass"
+@import "_footer.sass"
 @import "_single.sass"
+@import "_sidebar.sass"
 @import "_lists.sass"
+@import "_page.sass"
 
 *
   padding: 0
@@ -21,17 +23,6 @@ body
   @extend .tb-container
   padding: 0 30px
   margin-bottom: 55px
-
-  p
-//    height: 100px
-  //  overflow: hidden
-    //position: relative
-//    &:after
-  //    position: absolute
-    //  bottom: 4px
-//      right: 0px
-  //    display: inline-block
-    //  content: " ..."
 
 .tb-post-list
   @extend .tb-container
@@ -93,15 +84,21 @@ body
 ////
 // Big Screen version
 ////
-@media #{$break-mobile}
+@media #{$break-desk}
   .tb-feature-post
     text-align: center
     padding: 0 30px 120px
+
+    .tb-hero-title
+      font-size: 5.3rem
 
     h1 a:hover
       color: $red
 
     p
+      font-size: 1.56rem
+      line-height: 1.9
+      margin-top: 55px
       margin-left: auto
       margin-right: auto
 
@@ -126,3 +123,14 @@ body
     .tb-categ-flag
       font-size: .9rem
       padding: 7px 10px 3px
+
+    .tb-post-img
+      height: 250px
+      overflow: hidden
+      display: block
+      border-radius: 3px
+
+      img
+        max-width: initial
+        width: 130%
+        transform: translateX(-10%)

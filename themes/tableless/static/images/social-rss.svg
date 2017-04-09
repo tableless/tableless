@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43 (38999) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1009.000000, -1648.000000)">
+            <g id="Group-3-Copy" transform="translate(871.000000, 1647.000000)">
+                <g id="Group-5" transform="translate(138.000000, 0.000000)">
+                    <g id="instagram">
+                        <rect id="Rectangle" x="0" y="0" width="44" height="44"></rect>
+                        <circle id="Oval" stroke="#CCCCCC" stroke-width="2" cx="22" cy="23" r="21"></circle>
+                    </g>
+                    <path d="M15.0420483,28.6047619 C15.0420483,27.2635833 16.1247112,26.1761905 17.4600559,26.1761905 C18.7954007,26.1761905 19.8780636,27.2635833 19.8780636,28.6047619 C19.8780636,29.9459405 18.7954007,31.0333333 17.4600559,31.0333333 C16.1247112,31.0333333 15.0420483,29.9459405 15.0420483,28.6047619 Z M31.9681019,31.0333333 L28.7442932,31.0333333 C28.7442932,23.4446548 22.5977177,17.2712262 15.0420483,17.2712262 L15.0420483,14.0333333 C24.3749534,14.0333333 31.9681019,21.6596548 31.9681019,31.0333333 Z M26.3261042,31.0333333 L23.1022955,31.0333333 C23.1022955,26.569619 19.486165,22.9382976 15.0418669,22.9382976 L15.0418669,19.6997976 C21.2640051,19.6997976 26.3261042,24.7840119 26.3261042,31.0333333 Z" id="RSS" fill="#CCCCCC"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

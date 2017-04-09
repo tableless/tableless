@@ -1,38 +1,61 @@
 
 <footer id="tb-footer">
-    <div class="tb-container">
+  <div class="tb-container">
     <ul class="tb-social-links">
-        <li><a href="http://facebook.com/tablelessbr">Facebook</a></li>
-        <li><a href="http://twitter.com/tableless">Twitter</a></li>
-        <li><a href="http://tableless.com.br/feed">RSS</a></li>
-        <li><a href="http://medium.com/tableless">Medium</a></li>
+      <li><a target="_blank" href="http://facebook.com/tablelessbr">Facebook</a></li>
+      <li><a target="_blank" href="http://twitter.com/tableless">Twitter</a></li>
+      <li><a target="_blank" href="{{ .RSSLink }}">RSS</a></li>
+      <li><a target="_blank" href="http://medium.com/tableless">Medium</a></li>
     </ul>
-    <nav class="tb-footer-nav">
-        <a href="">Contato</a>
-        <a href="">Anuncie</a>
-        <a href="">Seja um Autor</a>
-        <a href="">Fazemos código front-end</a>
-    </nav>
+
+    <div class="tb-nav-footer">
+      <nav>
+        <h3>Sobre</h2>
+        <a href="{{ .Site.BaseURL}}sobre-nos/">Sobre o Tableless</a>
+        <a href="{{ .Site.BaseURL}}contato/">Contato</a>
+        <a href="{{ .Site.BaseURL}}anuncie-no-tableless/">Anuncie</a>
+        <a href="{{ .Site.BaseURL}}seja-um-autor/">Seja um Autor</a>
+        <a href="http://tableless.com.br/servicos/">Fazemos código front-end</a>
+      </nav>
+
+      <nav>
+        <h3>Acompanhe</h3>
+        <a href="https://www.eventials.com/tableless/" target="_blank" title="Assista algumas vídeo aulas">Webinars</a>
+        <a href="http://forum.tableless.com.br/" target="_blank" title="Pergunte e resposta perguntas no nosso Fórum">Fórum</a>
+        <a href="http://medium.com/tableless/" target="_blank" title="Acompanhe artigos no Medium">Canal no Medium</a>
+        <a href="https://telegram.me/tableless" target="_blank" title="Acompanhe notíficas e novos posts no Telegram">Canal no Telegram</a>
+      </nav>
+      <nav>
+        <h3>Comunidade</h3>
+        <a href="https://github.com/femug/femug" target="_blank" title="Encontro Front-end no Brasil inteiro">Femug</a>
+        <a href="https://www.meetup.com/pt-BR/CSS-SP/" target="_blank" title="Encontro de CSS em São Paulo">MeetupCSS</a>
+        <a href="http://zofe.com.br/" target="_blank" title="Ouça um Podcast brasileiro sobre Front-end">Podcast ZOFE</a>
+        <a href="https://braziljs.org/" target="_blank" title="Um dos maiores eventos de JavaScript e front-end do Brazil do Universo">BrazilJS</a>
+        <a href="http://devnaestrada.com.br/" target="_blank" title="Podcast brasileiro sobre desenvolvimento web">DevNaEstrada</a>
+      </nav>
+    </div>
 
     <p class="tb-for-community">
-        Escrito pela e para a comunidade web brasileira. <a href="">Ajude</a>.
+      Escrito pela e para a comunidade web brasileira. <a href="{{ .Site.BaseURL}}seja-um-autor/">Ajude</a>
     </p>
-    </div>
+  </div>
 </footer>
 <script
   src="https://code.jquery.com/jquery-3.2.1.min.js"
-  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-  crossorigin="anonymous"></script>
+integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+crossorigin="anonymous"></script>
 
 {{ if $.Scratch.Get "single" }}
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js"></script>
 <script>
-$(document).ready(function() {
-  $('pre').each(function(i, block) {
-    hljs.highlightBlock(block);
-  });
+  $(document).ready(function() {
+    $('pre').each(function(i, block) {
+      hljs.highlightBlock(block);
+    });
 })</script>
 {{ end }}
 
+
+{{ template "_internal/google_analytics_async.html" . }}
 </body>
 </html>

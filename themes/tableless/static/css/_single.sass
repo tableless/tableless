@@ -47,11 +47,16 @@
   padding: 20px !important
   margin-bottom: 40px
   line-height: 1.2rem
+  max-width: 770px
+
 
 ////
 // Big Screen version
 ////
-@media #{$break-mobile}
+@media #{$break-desk}
+  #disqus_thread
+    margin-top: 100px
+
   .tb-post
     display: flex
 
@@ -68,8 +73,11 @@
     order: 3
 
     p
-      font-size: 1.3rem
+      font-size: 1.25rem
+      line-height: 2.31rem
 
     li
       font-size: 1.2rem
 
+  .tb-post-article h2:first-child
+    margin-top: 0

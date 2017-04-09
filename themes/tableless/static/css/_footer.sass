@@ -1,17 +1,85 @@
 #tb-footer
   background: $gray
-  padding: 30px
+  padding: 45px
+
+
+.tb-for-community
+  text-align: center
+  color: #fff
+  font: 1rem $avenirBold
+
+  a
+    color: $red
+    &:hover
+      color: #fff
+      text-decoration: none
 
 .tb-social-links
+  list-style: none
+  text-align: center
+  margin-bottom: 50px
+  li
+    display: inline-block
+
   a
-    background: no-repeat
-  a[href$=tablelessbr]
-    color: red
+    display: inline-block
+    background-repeat: no-repeat
+    background-position: center
+    width: 45px
+    height: 45px
+    text-indent: -8888px
+    overflow: hidden
+
+  a[href^="http://facebook"]
+    background-image: url(../images/social-facebook.svg)
+
+  a[href^="http://twitter"]
+    background-image: url(../images/social-twitter.svg)
+
+  a[href$=".xml"]
+    background-image: url(../images/social-rss.svg)
+
+  a[href^="http://medium.com"]
+    background-image: url(../images/social-medium.svg)
+
+.tb-nav-footer
+
+  nav
+    flex: 1 0 300px
+    margin: 0 0 30px
+    text-align: center
+
+    a
+      color: #fff
+      text-decoration: none
+      display: block
+      text-transform: uppercase
+      padding-bottom: 15px
+      &:hover
+        color: $red
+
+    h3
+      color: #fff
+      margin-bottom: 15px
+      text-transform: uppercase
+      font: 1.4rem $avenirBold
+
 
 
 ////
 // Big Screen version
 ////
-@media #{$break-mobile}
+@media #{$break-desk}
   #tb-footer
-    margin-top: 300px
+    margin-top: 200px
+
+  .tb-nav-footer
+    display: flex
+    flex-wrap: wrap
+    padding: 70px 0
+    nav
+      margin: 0 15px
+      text-align: left
+  .tb-social-links a
+    margin-right: 15px
+

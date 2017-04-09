@@ -3,11 +3,14 @@ title = "Tableless"
 baseURL = "https://tableless.github.io/hugo-public/"
 theme = "tableless"
 SectionPagesMenu = "main"
+
+disqusShortname = "tableless"
+googleAnalytics = "UA-335027-1"
+
 [taxonomies]
 tag = "tags"
 category = "categories"
 author = "author"
-disqusShortname = "tableless"
 
 [[menu.main]]
     name = "HTML"

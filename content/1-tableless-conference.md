@@ -4,15 +4,6 @@ author: Diego Eis
 type: post
 date: 2012-06-11
 excerpt: 'Evento sobre front-end em SP. '
-url: /1-tableless-conference/
-tweetbackscheck:
-  - 1356390390
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6269";s:7:"tinyurl";s:26:"http://tinyurl.com/7ol5dfp";s:4:"isgd";s:19:"http://is.gd/AkhCtj";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id:
-  - 721340897
 categories:
   - Geral
   - Mercado e Comportamento
@@ -23,7 +14,7 @@ categories:
 ---
 Durante muito tempo tenho tentado planejar um evento exclusivamente sobre front-end. Eu não queria um evento normal, falando sobre HTML5, e fazendo coisas girarem com CSS3. Queria realmente levar algum conhecimento de valor para os profissionais front-end. O mercado está aquecido, mas, ao meu ver, o problema é que falta qualidade em grande parte dos profissionais de front no Brasil.
 
-Já entrevistei muitos devs front que se diziam avançados, mas que na hora do teste final, não conseguia escrever uma linha de código sem a ajuda do Dreamweaver. Como alguém pode dizer que sabe HTML se não consegue nem entender para que serve o Doctype? Posso perguntar algo mais complicado: será que grande parte dos nossos profissionais sabem o que é MVC? Será que eles andam falando sobre acessibilidade na web, mas não sabem nem o que é WAI-ARIA? E WebGL? 
+Já entrevistei muitos devs front que se diziam avançados, mas que na hora do teste final, não conseguia escrever uma linha de código sem a ajuda do Dreamweaver. Como alguém pode dizer que sabe HTML se não consegue nem entender para que serve o Doctype? Posso perguntar algo mais complicado: será que grande parte dos nossos profissionais sabem o que é MVC? Será que eles andam falando sobre acessibilidade na web, mas não sabem nem o que é WAI-ARIA? E WebGL?
 
 Quero estender a missão do Tableless para esse evento. Quero que o nível de conhecimento técnico e o valor do profissional front-end aumente. Quero que você valha mais. O perfil desse profissional está mudando, e nós temos que acompanhar essa mudança.
 
