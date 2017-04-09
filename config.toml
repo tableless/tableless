@@ -1,6 +1,6 @@
-languageCode = "pt-br"
+DefaultContentLanguage = "pt-br"
 title = "Tableless"
-baseURL = "https://tableless.github.io/hugo-public/"
+baseURL = "http://159.203.131.161/"
 theme = "tableless"
 SectionPagesMenu = "main"
 
