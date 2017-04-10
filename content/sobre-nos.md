@@ -7,21 +7,21 @@ date: 2016-04-09
 ---
 
 
-Este site foi criado com um único intuito: compartilhar os padrões web e no Brasil. Por volta de 2003, os Padrões Web estavam se popularizando no mundo todo. Aqui no Brasil já haviam algumas listas de discussão (sim, aquelas listas de discussão que funcionavam exclusivamente por e-email) que comentavam sobre o assunto, mas pouco conteúdo era publicado na web brasileira. Até que resolvi (Diego Eis) criar um site onde eu pudesse divulgar não só o que eu estava aprendendo na época (CSS, HTML e JS), mas também os Padrões Web e boas práticas de front-end.
+Este site foi criado com um único intuito: compartilhar os padrões web e no Brasil. Por volta de 2003, os Padrões Web estavam se popularizando no mundo todo. Aqui no Brasil já existia algumas listas de discussão (sim, aquelas antigas listas de discussão que funcionavam exclusivamente por e-email) que comentavam sobre o assunto, mas pouco conteúdo era publicado na web brasileira. Até que resolvi (Diego Eis) criar um site onde eu pudesse divulgar não só o que eu estava aprendendo na época (CSS, HTML e JS), mas também tudo sobre o status dos Padrões Web e as boas práticas de front-end usando as recomendações do W3C.
 
-O Tableless começou a ficar bastante visitado quando comecei a publicar uma série de estudos, onde eu e um monte de pessoas da comunidade começamos a transformar websites que usavam tabelas em sites usando apenas CSS e HTML semântico. Você pode [ver alguns desses sites aqui](http://tableless.com.br/convertidos/). Demos o nome dessa seção do site de **Convertidos do Tableless**.
+O Tableless começou a ficar bastante visitado quando comecei a publicar uma série de estudos, onde eu e um monte de pessoas da comunidade começamos a publicar websites que usavam tabelas para sua estruturação, transformando-os com apenas CSS e HTML semântico. Você pode [ver alguns desses sites aqui](http://tableless.com.br/convertidos/). Essa seção do site ficou conhecida como **Convertidos do Tableless**.
 
 ## Por que o site chama Tableless?
-O nome **Tableless** é um nome bastante polêmico, mas que marca bem a fase que estávamos passando na época: os Padrões Web começaram a crescer porque muitos desenvolvedores passaram a não utilizar tabelas na estruturação de web sites. Você pode não saber, mas há muito tempo atrás, usávamos os elementos de table, tr, td, tbody, thead e etc para estruturamos os websites.
+O nome **Tableless** é um nome bastante polêmico, mas que marca bem a fase na época: os Padrões Web começaram a crescer porque muitos desenvolvedores passaram a não utilizar tabelas na estruturação de web sites. Você pode não saber, mas há muito tempo atrás, usávamos os elementos table, tr, td, tbody, thead e etc para estruturamos os sites e produtos.
 
-Como você sabe, uma boa prática é manter o código semântico, usar cada tag para sua função específica. Tabelas servem para exibir dados tabulados, não para fazer estruturas websites e produtos. Para se referir à estes novos websites, que não usavam tabelas para sua estrutura, demos o nome de "sites tableless".
+Como você sabe, uma boa prática é manter o código semântico, usar cada tag para sua função específica. Tabelas servem para exibir dados tabulados, não para fazer estruturas de layouts. Para se referir à estes novos websites, que não usavam tabelas para sua estrutura, demos o nome de sites "tableless". Lá fora o termo que pegou foram CSS Layouts.
 
-Todo mundo já sabe que dizer que um site é <a href="http://tableless.com.br/web-standards-vs-tableless">tableless</a> não significa que ele seja feito de acordo com os Padrões. Por isso mesmo o nome Tableless já saiu de moda e não quer dizer muita coisa atualmente.
+Todo mundo já sabe que dizer que um site é <a href="http://tableless.com.br/web-standards-vs-tableless">tableless</a> não significa que ele seja feito de acordo com os Padrões. Por isso o nome Tableless já saiu de moda e não quer dizer muita coisa atualmente.
 
-Hoje este site não trata apenas de técnicas e tutoriais sobre desenvolvimento web, mas o foco também está no mercado de desenvolvimento web e um pouco de design.
+Hoje este site não trata apenas de técnicas e tutoriais de CSS e HTML, que faziam muito sentido naquela época, mas ampliamos o foco falando sobre o mercado de desenvolvimento web como um todo, envolvendo os assuntos que estão relacionados à este processo, não incluindo apenas front-end, mas também back-end e design.
 
 ## Nossa missão
-A missão do Tableless é sem dúvida melhorar o nosso mercado. É servir de fonte de inspiração e informação aos profissionais da área e cativar novatos a continuarem estudando, consumindo conteúdo de outros profissionais e principalmente, quando chegar a hora, compartilhar o que aprenderam.
+A missão do Tableless é sem dúvida melhorar o mercado de desenvolvimento web compartilhando conhecimento por meio do site e outros canais. Queremos servir de fonte de inspiração e informação aos profissionais da área e cativar novatos a continuarem estudando, consumindo conteúdo de outros profissionais e principalmente, quando chegar a hora, compartilhar o que aprenderam.
 
 ## Como você pode nos acomapanhar?
 Além do site, nós mantemos uma série de canais para que você acompanhe nosso conteúdo: [Fórum](http://forum.tableless.com.br/), [Twitter](http://twitter.com/tableless), [Facebook](http://facebook.com/tablelessbr), [Medium](http://medium.com/tableless), [Telegram](https://telegram.me/tableless).
