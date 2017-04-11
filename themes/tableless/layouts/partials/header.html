@@ -84,31 +84,14 @@
 
     <nav id="tb-menu">
       <ul>
-
-        {{ $currentPage := . }}
-          {{ range .Site.Menus.main }}
-              {{ if .HasChildren }}
-
-            <li class="sub-menu{{if $currentPage.HasMenuCurrent "main" . }} active{{end}}">
-              <a href="javascript:;" class="">
-                  {{ .Pre }}
-                  {{ .Name }}
-              </a>
-              <ul class="sub">
-                  {{ range .Children }}
-                  <li{{if $currentPage.IsMenuCurrent "main" . }} class="tb-active"{{end}}><a href="{{.URL}}"> {{ .Name }} </a> </li>
-                  {{ end }}
-              </ul>
-          {{else}}
-            <li{{if $currentPage.IsMenuCurrent "main" . }} class="tb-active"{{end}}>
-              <a href="{{.URL}}">
-                  {{ .Pre }}
-                  {{ .Name }}
-              </a>
-          {{end}}
-            </li>
-          {{end}}
-
+        <li><a href="{{ .Site.BaseURL}}categories/html">HTML</a></li>
+        <li><a href="{{ .Site.BaseURL}}categories/css">CSS</a></li>
+        <li><a href="{{ .Site.BaseURL}}categories/javascript">JavaScript</a></li>
+        <li><a href="{{ .Site.BaseURL}}categories/back-end">Back-end</a></li>
+        <li><a href="{{ .Site.BaseURL}}categories/wordpress">WordPress</a></li>
+        <li><a href="{{ .Site.BaseURL}}categories/acessibilidade">Acessibilidade</a></li>
+        <li><a href="{{ .Site.BaseURL}}categories/design">Design</a></li>
+        <li><a href="{{ .Site.BaseURL}}categories/técnicas-e-práticas/">Na prática</a></li>
       </ul>
     </nav>
 
