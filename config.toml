@@ -1,6 +1,6 @@
 DefaultContentLanguage = "pt-br"
 title = "Tableless"
-baseURL = "http://tableless.com.br/"
+baseURL = "https://tableless.com.br/"
 theme = "tableless"
 SectionPagesMenu = "main"
 
