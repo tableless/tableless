@@ -29,7 +29,6 @@
         "target": "https://duckduckgo.com/?sites=tableless.com.br&q={search_term}&kl=br-pt&kz=1&ky=e&k8=g&k1=-1&kj=w&x=0&y=0&ia=web",
         "query-input": "required name=search_term" }
       }
-    }
   </script>
   {{end}}
 
@@ -54,16 +53,21 @@
     { "@context": "http://schema.org",
       "@type": "Article",
       "headline": "{{.Title}}",
-      "image": "{{ $.Site.BaseURL }}{{ with .Params.image }}{{ . }}{{ else }}/images/missing-img.png{{ end }}",
-      "publisher": "Tableless",
+      "author": "{{ .Param "author" }}",
+      "image": "{{ with .Params.image }}{{ . }}{{ else }}/images/missing-img.png{{ end }}",
+      "publisher": {
+        "@type" : "Organization",
+        "name":"Tableless",
+        "logo":"http://tableless.com.br/images/logo.svg"
+        },
       "url": "{{ .RelPermalink }}",
       "wordCount": "{{ .FuzzyWordCount }}",
       "keywords": "{{.Params.tags}}",
       "datePublished": "{{.Params.date}}",
       "dateCreated": "{{.Params.date}}",
       "dateModified": "{{.Params.date}}",
-      "description": "{{ .Summary }}",
-      "articleBody": "{{.Content}}"
+      "articleBody": "{{.Content| plainify}}",
+      "description": "{{ .Summary }}"
     }
   </script>
 
@@ -78,10 +82,6 @@
   <header id="tb-header">
     <a href="{{ .Site.BaseURL }}" class="tb-logo"><img src="images/logo.svg"></a>
 
-    <!--<div class="tb-search">
-      <a href=""><img src="images/search.svg"></a>
-    </div>-->
-
     <nav id="tb-menu">
       <ul>
         <li><a href="{{ .Site.BaseURL}}categories/html">HTML</a></li>
@@ -95,16 +95,16 @@
       </ul>
     </nav>
 
-<form class="tb-search" name="x" action="//duckduckgo.com/">
-    <input type="hidden" value="tableless.com.br" name="sites"></input>
-    <input type="hidden" value="br-pt" name="kl"></input>
-    <input type="hidden" value="1" name="kz"></input>
-    <input type="hidden" value="e" name="ky"></input>
-    <input type="hidden" value="g" name="k8"></input>
-    <input type="hidden" value="-1" name="k1"></input>
-    <input type="hidden" value="w" name="kj"></input>
-    <input type="text" placeholder="Faça sua busca" name="q"></input>
-    <input type="image" src="images/search.svg">
-</form>
+    <form class="tb-search" name="x" action="//duckduckgo.com/">
+        <input type="hidden" value="tableless.com.br" name="sites"></input>
+        <input type="hidden" value="br-pt" name="kl"></input>
+        <input type="hidden" value="1" name="kz"></input>
+        <input type="hidden" value="e" name="ky"></input>
+        <input type="hidden" value="g" name="k8"></input>
+        <input type="hidden" value="-1" name="k1"></input>
+        <input type="hidden" value="w" name="kj"></input>
+        <input type="text" placeholder="Faça sua busca" name="q"></input>
+        <input type="image" src="images/search.svg">
+    </form>
 
   </header>
