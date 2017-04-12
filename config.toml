@@ -7,6 +7,9 @@ SectionPagesMenu = "main"
 disqusShortname = "tableless"
 googleAnalytics = "UA-335027-1"
 
+[permalinks]
+  posts = "/:slug"
+
 [taxonomies]
 tag = "tags"
 category = "categories"

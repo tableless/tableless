@@ -52,10 +52,13 @@ crossorigin="anonymous"></script>
     $('pre').each(function(i, block) {
       hljs.highlightBlock(block);
     });
-})</script>
+  });
+</script>
 {{ end }}
 
 
 {{ template "_internal/google_analytics_async.html" . }}
+
+
 </body>
 </html>
