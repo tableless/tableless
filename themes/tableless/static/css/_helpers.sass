@@ -1,100 +1,134 @@
-#tb-header
-  padding: 30px $space-default 40px
 
-.tb-logo
-  max-width: 200px
+///
+// Fonts
+///
+$avenirRegular: AvenirNextRegular, Arial, Helvetica, Sans-serif
+$avenirBold: AvenirNextBold, Arial, Helvetica, Sans-serif
+$avenirDemi: AvenirNextDemi, Arial, Helvetica, Sans-serif
+$avenirHeavy: AvenirNextHeavy, Arial, Helvetica, Sans-serif
+
+
+///
+// Colors
+///
+$gray: #333
+$light-gray: #CACACA
+$text-gray: #494949
+$red: #EB191E
+
+.tb-color-red
+  color: $red !important
+
+.tb-btn
+  border-radius: 3px
+  padding: 12px 50px
+  font: 1.2rem $avenirBold
+  color: #fff
+  background: $gray
+  text-decoration: none
   display: inline-block
-  vertical-align: middle
+  text-transform: uppercase
+  transition: transform .15s linear
 
-  img
-    max-width: 100%
+  &:hover
+    color: $light-gray
+    transform: scale(1.03)
 
-#tb-menu
-  padding: 30px 0
+  &:active
+    transition: transform .0s linear
+    transform: scale(1)
+
+.tb-btn-seeall
+  width: 280px
+  margin: 100px auto 0
+  display: block
+  text-align: center
+
+  &:before
+    content: "+ "
+    color: $red
+    font-size: 1.5rem
+
+///
+// Mobile
+///
+$break-desk: "only screen and (min-width: 750px)"
+$space-default: 30px
+
+img
   max-width: 100%
-  overflow: auto
-  -webkit-overflow-scrolling: touch
+  height: auto
 
-  ul
-    font-size: 0
-    width: 150vw
+.tb-container
+  max-width: 1300px
+  margin-right: auto
+  margin-left: auto
+  padding: 0 $space-default
 
-  li
-    display: inline-block
+
+.tb-hero-title
+  text-transform: uppercase
+  text-decoration: none
+  font: 1.5rem/1.3 $avenirBold
+  color: #000
+  margin-bottom: 10px
+  display: block
 
   a
-    font: .8rem $avenirBold
-    color: $light-gray
-    text-transform: uppercase
     text-decoration: none
-    display: inline-block
-    margin-right: 10px
+    color: #000
     &:hover
-      color: $gray
+      color: $red
 
-.tb-search
-  display: none
-  order: 3
-  border: 1px solid #E3E3E3
-  flex: 1 0 100px
-  max-width: 210px
-  height: 35px
-  text-align: left
-  position: relative
+.tb-hero-p
+  color: $text-gray
+  font: 1rem/1.5 $avenirRegular
+  margin-top: 25px
+  margin-bottom: 30px
 
-  input[type="text"]
-    color: #656565
-    height: inherit
-    border: none
-    background: transparent
-    padding-left: 15px
-    padding-right: 40px
-    width: 100%
-    line-height: 0
-    outline: none
-  
-  [type="image"]
-    position: absolute
-    right: 10px
-    top: 5px
-
-////
-// Big Screens
-////
 @media #{$break-desk}
-  #tb-header
-    max-width: 1500px
-    margin: 0 auto
-    display: flex
-    flex-wrap: wrap
-    justify-content: space-between
-    align-items: center
-    padding: 70px $space-default 150px
+  .tb-hero-title
+    text-transform: initial
+    font-size: 5.3em
+    line-height: 1.1
+    margin-bottom: 55px
 
-  .tb-logo
-    order: 1
-    flex: 1 0 200px
+  .tb-hero-p
+    color: $text-gray
+    font-size: 1.5rem
+    line-height: 2.5rem
+    max-width: 1000px
+    margin-bottom: 50px
 
-  #tb-menu
-    order: 2
-    flex: 1 0 50%
-    text-align: center
-    overflow: initial
-    max-width: auto
-    ul
-      width: auto
-      padding: 0 20px
-      line-height: 20px
+////
+// Common
+////
+.tb-author
+  font: .8rem/1 $avenirDemi
+  color: #6D6D6D
+  margin-top: 15px
+  display: block
 
-    a
-      text-transform: initial
-      color: $text-gray
-      font-size: 1rem
-      margin-right: 35px
+  a
+    color: $red
+    text-decoration: none
 
-      &:hover
-        color: $red
-        text-decoration: underline
+    &:hover
+      color: #000
+      text-decoration: none
 
-  .tb-search
-    display: block
+  img
+    border-radius: 50%
+    max-width: 35px
+    vertical-align: middle
+    filter: grayscale(1) contrast(.8)
+    margin-right: 5px
+
+@media #{$break-desk}
+  .tb-author
+    font-size: .9rem
+    img
+      max-width: 40px
+
+    .tb-post-box &
+      font-size: .9rem

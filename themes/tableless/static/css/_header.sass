@@ -1,5 +1,5 @@
 #tb-header
-  padding: 30px $space-default 40px
+  padding: 30px $space-default
 
 .tb-logo
   max-width: 200px
@@ -10,14 +10,18 @@
     max-width: 100%
 
 #tb-menu
-  padding: 30px 0
+  padding: 40px 0 30px
   max-width: 100%
   overflow: auto
   -webkit-overflow-scrolling: touch
+  
+  &::-webkit-scrollbar
+    width: 0px
+    background: transparent
 
   ul
     font-size: 0
-    width: 150vw
+    width: 170vw
 
   li
     display: inline-block
