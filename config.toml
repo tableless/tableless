@@ -8,7 +8,7 @@ disqusShortname = "tableless"
 googleAnalytics = "UA-335027-1"
 
 [permalinks]
-  posts = "/:slug"
+  posts = "/:filename"
 
 [taxonomies]
 tag = "tags"
