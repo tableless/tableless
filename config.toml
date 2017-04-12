@@ -9,6 +9,7 @@ googleAnalytics = "UA-335027-1"
 
 [permalinks]
   posts = "/:filename"
+  pages = "/:filename"
 
 [taxonomies]
 tag = "tags"
