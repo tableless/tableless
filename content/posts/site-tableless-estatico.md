@@ -31,6 +31,15 @@ O Hugo é um sistema gerador de arquivos estáticos desenvolvido com a linguagem
 
 Eu não tenho a pretensão de mostrar agora como o Hugo funciona, isso fica para o próximo post. Mas se você se interessar, aqui está o [site oficial](https://gohugo.io/). Taca-lhe pau.
 
+Mas porque não Middleman? Embora eu tenha uma facilidade maior com Middleman por conhece-lo há mais tempo, o Hugo tem algumas facilidades interessantes, por exemplo:
+
+- Boa [gestão de permalinks](https://gohugo.io/extras/permalinks/)
+- Suporta vários tipos de frontmatters: json, toml e yaml
+- A forma de templating usando Sections, Archetypes e Types é bastante interessante (embora eu tenha demorado para entender o conceito)
+- O esquema de oganização e gestão de [Taxonomias](https://gohugo.io/taxonomies/overview/) também é bem legal
+- Suprota [Syntax Hightlighting](http://gohugo.io/extras/highlighting/) nativamente
+- E tem um monte de [extras](https://gohugo.io/extras/) que talvez eu nem precise usar
+
 ## Tableless está mais opensource do que nunca
 O código do Tableless em Wordpress já estava todo [aberto no GitHub](http://github.com/tableless/tableless), assim como essa versão estática, usando Hugo, também está [aberta aqui](http://github.com/tableless/tableless-static) caso alguém queira ajudar.
 
