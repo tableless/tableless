@@ -2,7 +2,7 @@
 title: "Agora o Tableless é estático"
 categories: ["Artigos"]
 excerpt: Tableless não é mais no WordPress.
-image:
+image: http://i.imgur.com/bvQOlPV.png
 type: "post"
 author: Diego Eis
 date: "2017-04-11T21:59:58-03:00"
