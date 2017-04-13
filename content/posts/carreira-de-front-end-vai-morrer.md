@@ -7,11 +7,12 @@ date: 2017-03-20
 excerpt: O front-end como você conhece vai morrer.
 categories:
   - Artigos
+  - Opinião
   - Código
   - Destaques
   - Tecnologia e Tendências
-
 ---
+
 O processo de desenvolvimento web pode se dividir em três categorias: design, front-end e back-end. Na minha opinião, a categoria que tem mais processos manuais e repetitivos é sem duvida o front-end.
 
 Pare pra pensar: o core do trabalho do front-end se resume em duas partes:
