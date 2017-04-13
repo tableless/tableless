@@ -10,9 +10,23 @@
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css">
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/default.min.css">
   {{ if .RSSLink }}
-    <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
-    <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
+  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
   {{ end }}
+
+  <meta property="og:url" content="{{ .RelPermalink }}">
+  {{ if $.Scratch.Get "single"}}<meta property="og:type" content="article">{{end}}
+  <meta property="og:title" content="{{ .Title}}">
+  <meta property="og:description" content="{{.Summary}}">
+  <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
+  <meta property="fb:app_id" content="187329465112652">
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@tableless" />
+  <meta name="twitter:title" content="{{.Title}}" />
+  <meta name="twitter:description" content="{{.Summary}}" />
+  <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}" />
+
 
   {{if .IsHome}}
   <script type='application/ld+json'>
