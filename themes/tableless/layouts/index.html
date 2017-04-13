@@ -8,28 +8,7 @@
 
 <section class="tb-post-list">
   {{ range first 3 (after 1 .Pages)}}
-  <div class="tb-post-box">
-    <a href="{{ .RelPermalink }}">
-      <figure class="tb-post-img">
-        <img alt="Imagem de destaque do post {{ .Title}}" src="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
-      </figure>
-    </a>
-
-    <span class="tb-categs">{{ range .Params.categories }}
-    <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="tb-categ-flag">{{ . }}</a>
-    {{ end }}</span>
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>
-    {{if .Param "excerpt"}}
-      {{ .Param "excerpt" }}
-    {{else}}
-      {{ .Summary }}
-    {{end}}
-    </p>
-
-    {{ partial "byauthor.html" . }}
-
-  </div>
+  {{ partial "postbox.html" . }}
   {{end}}
 </section>
 
