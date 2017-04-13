@@ -19,23 +19,29 @@ tags:
 ---
 O MaterialUp é um site que lista uma série de animações e conceitos que usam as regras visuais e de comportamento do [Material Design do Google][1]. Designers criam animações, comportamentos e conceitos de como aplicativos e elementos se comportariam se fossem feitos usando as regras do Material Design. O legal é perceber que várias animações ali podem ser feitas usando CSS e JS. Mas já vi alguns experimentos ruins, que falharam horrorosamente ([como este][2]) ao tentar simular os comportamentos do Material Design com CSS/JS. Não é que não dá pra fazer, mas é que CSS ainda muito verboso para fazer animações tão detalhadas como estas e usar JS é querer misturar as coisas. Se você estiver falando de um sistema, onde há uma base forte de design, é até possível fazer uma estrutura supimpa, com animações de CSS, que possa se sustentar por algum tempo. A manutenção vai ser terrível, mas vai dar para o gasto. Dá uma olhada em alguns conceitos que tem no MaterialUp. Os primeiros são até feitos com CSS.
 
-<p data-height="513" data-theme-id="1482" data-slug-hash="EBtga" data-default-tab="result" data-user="Michiel" class='codepen'>
-  See the Pen <a href='http://codepen.io/Michiel/pen/EBtga/'>CSS Animation Material Design</a> by Michiel Bijl (<a href='http://codepen.io/Michiel'>@Michiel</a>) on <a href='http://codepen.io'>CodePen</a>.
-</p>
+{{< codepen 
+  hash="EBtga"
+  title="CSS Animation Material Design"
+  user="Michiel"
+  author="Michiel Bijl"
+  height="513"
+>}}
 
+{{< codepen 
+  hash="yyEEKp"
+  title="#1 @MaterialUp concepts"
+  user="pixelass"
+  author="Gregor Adams"
+  height="598"
+>}}
 
-
-<p data-height="598" data-theme-id="1482" data-slug-hash="yyEEKp" data-default-tab="result" data-user="pixelass" class='codepen'>
-  See the Pen <a href='http://codepen.io/pixelass/pen/yyEEKp/'>#1 @MaterialUp concepts</a> by Gregor Adams (<a href='http://codepen.io/pixelass'>@pixelass</a>) on <a href='http://codepen.io'>CodePen</a>.
-</p>
-
-
-
-<p data-height="605" data-theme-id="1482" data-slug-hash="zxZmYj" data-default-tab="result" data-user="pixelass" class='codepen'>
-  See the Pen <a href='http://codepen.io/pixelass/pen/zxZmYj/'>Material design music app (pure CSS)</a> by Gregor Adams (<a href='http://codepen.io/pixelass'>@pixelass</a>) on <a href='http://codepen.io'>CodePen</a>.
-</p>
-
-
+{{< codepen 
+  hash="zxZmYj"
+  title="Material design music app (pure CSS)"
+  user="pixelass"
+  author="Gregor Adams"
+  height="605"
+>}}
 
 [<img src="http://assets0.materialup.com/uploads/3178a08d-5778-4edc-8a71-5deed4579b31/___-1.gif" width="800" height="600" class="alignnone" />][3]
 

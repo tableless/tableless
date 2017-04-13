@@ -1,0 +1,17 @@
+<p
+  data-height="{{ if .Get "height" }}{{ .Get "height" }}{{ else }}400{{ end }}"
+  data-theme-id="{{ if .Get "theme" }}{{ .Get "theme" }}{{ else }}1482{{ end }}"
+  data-slug-hash="{{ .Get "hash" }}"
+  data-default-tab="{{ if .Get "tab" }}{{ .Get "tab" }}{{ else }}result{{ end }}" 
+  data-user="{{ .Get "username" }}"
+  data-embed-version="2"
+  class="codepen"
+>
+  See the Pen 
+  <a href="http://codepen.io/{{ .Get "username" }}/pen/{{ .Get "hash" }}/">{{ .Get "title" }}</a>
+  by {{ .Get "author" }}
+  (<a href="http://codepen.io/{{ .Get "username" }}">@{{ .Get "username" }}</a>)
+  on 
+  <a href="http://codepen.io">CodePen</a>.
+</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
