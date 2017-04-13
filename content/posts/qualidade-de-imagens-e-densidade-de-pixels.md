@@ -410,7 +410,7 @@ O W3C já criou um grupo chamado [Responsive Images Community Group][9] para a c
  [1]: http://www.alistapart.com/articles/a-pixel-identity-crisis/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
  [2]: http://en.wikipedia.org/wiki/Pixel
  [3]: http://www.andrewdaceyphotography.com/articles/dpi/
- [4]: http://tableless.com.br/wp-content/uploads/2012/03/retina.jpg
+ [4]: http://tableless.com.br/uploads/2012/03/retina.jpg
  [5]: http://www.appleinsider.com/articles/12/03/13/how_to_preview_the_retina_display_enhanced_applecom_in_safari_on_mac_or_pc.html
  [6]: http://tableless.com.br/introducao-sobre-media-queries/
  [7]: http://cloudfour.com/how-apple-com-will-serve-retina-images-to-new-ipads/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1

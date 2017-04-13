@@ -40,7 +40,7 @@ O composer.json é o arquivo que o Composer lê para poder realizar as tarefas d
 
 Agora vamos instalar o Composer em nosso projeto. O Composer pode ser utilizado de duas maneiras: de forma local e de forma global. Abordarei aqui a forma local. Para instalá-lo em sistemas Unix, você precisará da _lib curl_ disponível. Se você utiliza o Windows, baixe o executável <a href="https://getcomposer.org/Composer-Setup.exe" target="_blank">aqui</a>. O seguinte comando, executado via terminal (e na raiz de nosso projeto), deve instalar o Composer para você:
 
-[<img class="alignnone wp-image-49783 size-full" src="http://tableless.com.br/wp-content/uploads/2015/06/curl-composer.png" alt="Curl Composer" width="902" height="72" />][1]
+[<img class="alignnone wp-image-49783 size-full" src="http://tableless.com.br/uploads/2015/06/curl-composer.png" alt="Curl Composer" width="902" height="72" />][1]
 
 O comando fará o download e irá compilar o composer.phar e arquivos [`.phar`][2], que são extensões executáveis do PHP. Agora que temos o arquivo de configuração e o Composer em nosso projeto, podemos instalar nossas dependências, ou seja, o Silex propriamente dito. É muito simples realizar a instalação dos pacotes: na raiz do seu projeto, execute o seguinte comando:
 
@@ -48,7 +48,7 @@ O comando fará o download e irá compilar o composer.phar e arquivos [`.phar
 
 É preciso que você tenha o <a href="http://www.php-cli.com/" target="_blank">php-cli</a> disponível em seu terminal. O comando acima verificará o arquivo `composer.json` e logo em seguida fará o download do Silex, conforme requerido no arquivo `.json` da versão 1.2. Após tudo concluído, você verá uma imagem semelhante a essa:
 
-[<img class="alignnone wp-image-49784 size-full" src="http://tableless.com.br/wp-content/uploads/2015/06/packages-installed.png" alt="Silex - Packages instalados" width="742" height="769" />][3]
+[<img class="alignnone wp-image-49784 size-full" src="http://tableless.com.br/uploads/2015/06/packages-installed.png" alt="Silex - Packages instalados" width="742" height="769" />][3]
 
 O Composer instalou o Silex bem como as dependências utilizadas pelo mesmo dentro da pasta `vendor` do nosso projeto. Além do download, ele também mapeia os _namespaces_ dos pacotes e cria um _autoload._ Através deste _autoload_ teremos acesso a todos os pacotes baixados até o momento.
 
@@ -82,6 +82,6 @@ Podemos ver o quão simples é utilizar esse micro framework através dos proce
 
 Por hora, pratique os conhecimentos aqui passados. Nos vemos em breve!
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/06/curl-composer.png
+ [1]: http://tableless.com.br/uploads/2015/06/curl-composer.png
  [2]: http://php.net/phar
- [3]: http://tableless.com.br/wp-content/uploads/2015/06/packages-installed.png
+ [3]: http://tableless.com.br/uploads/2015/06/packages-installed.png

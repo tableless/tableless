@@ -18,7 +18,7 @@ O Google lançou no Webmaster Central Blog uma sessão de perguntas e respostas 
 
 <!--more-->
 
-<img class="alignnone wp-image-50314 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/gtld.jpg" alt="Exemplos de gTLD" width="940" height="492" />
+<img class="alignnone wp-image-50314 size-full" src="http://tableless.com.br/uploads/2015/07/gtld.jpg" alt="Exemplos de gTLD" width="940" height="492" />
 
 Como até pouco tempo atrás o domínio em si tinha uma boa relevância nos resultados de busca, é de se pensar que um domínio .CAFE, por exemplo, exerceria maior influência no resultado quando alguém buscasse por alguma cafeteria que tivesse como seu site principal um domínio terminado em .CAFE. Mas será que isso realmente vai acontecer? Vamos então ver as perguntas mais frequentes em relação a este tema.
 

@@ -18,7 +18,7 @@ tags:
 ---
 Quando pensamos em sistemas de administração de conteúdo logo lembramos do WordPress, do Joomla ou do Drupal. E de fato estes CMS são super completos para lidar com sites, portais e, com algumas adaptações, até mesmo lojas virtuais. Mas se o que você precisa é um blog o Tumblr pode ser uma alternativa bem interessante. Primeiro por que a interface de adição de conteúdo é super simples e dividida por tipos de conteúdo: textos, imagens, vídeos, links, citações, áudio e diálogos. Cada um destes elementos possui uma diagramação diferente, o que pode ser um caminho bem interessante a ser explorado através do design.
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/07/tumblr-interface.jpg" alt="tumblr-interface" width="750" height="400" class="alignnone size-full wp-image-43394" srcset="uploads/2014/07/tumblr-interface.jpg 750w, uploads/2014/07/tumblr-interface-260x139.jpg 260w, uploads/2014/07/tumblr-interface-400x213.jpg 400w" sizes="(max-width: 750px) 100vw, 750px" />
+<img src="http://tableless.com.br/uploads/2014/07/tumblr-interface.jpg" alt="tumblr-interface" width="750" height="400" class="alignnone size-full wp-image-43394" srcset="uploads/2014/07/tumblr-interface.jpg 750w, uploads/2014/07/tumblr-interface-260x139.jpg 260w, uploads/2014/07/tumblr-interface-400x213.jpg 400w" sizes="(max-width: 750px) 100vw, 750px" />
 
 Além disto o Tumblr também funciona como uma rede social. Todos os blogs fazem parte de uma rede de conteúdo com diversas interações como seguir, gostar (o equivalente ao curtir do Facebook) e reblogar (compartilhar). A Dashboard funciona como um grande feed RSS de todos os blogs que o usuário segue. Assim é quase impossível perder uma postagem nova.
 
@@ -32,7 +32,7 @@ Só lembrando que este artigo é apenas sobre desenvolvimento para Tumblr, entã
 
 O primeiro passo para iniciar no desenvolvimento para Tumblr é criar uma conta na plataforma. Então visite o site e registre seu usuário. Em seguida você deve escolher um nome, avatar, descrição e cabeçalho do seu blog. Não esquente a cabeça já que tudo isto pode ser trocado depois. É possível ter mais de um blog por usuário. Escolha o blog que você quiser editar na barra lateral, clique em &#8220;Personalizar&#8221;. A partir desta tela já é possível alterar alguns elementos gráficos como tipografia, formato do avatar, cores do tema e inserir sua ID do Disqus, Google Analalytics e, a opção mais importante de todas para este artigo; &#8220;Editar HTML&#8221;.
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/07/tumblr-editorhtml.jpg" alt="tumblr-editorhtml" width="750" height="400" class="alignnone size-full wp-image-43393" srcset="uploads/2014/07/tumblr-editorhtml.jpg 750w, uploads/2014/07/tumblr-editorhtml-260x139.jpg 260w, uploads/2014/07/tumblr-editorhtml-400x213.jpg 400w" sizes="(max-width: 750px) 100vw, 750px" />
+<img src="http://tableless.com.br/uploads/2014/07/tumblr-editorhtml.jpg" alt="tumblr-editorhtml" width="750" height="400" class="alignnone size-full wp-image-43393" srcset="uploads/2014/07/tumblr-editorhtml.jpg 750w, uploads/2014/07/tumblr-editorhtml-260x139.jpg 260w, uploads/2014/07/tumblr-editorhtml-400x213.jpg 400w" sizes="(max-width: 750px) 100vw, 750px" />
 
 ## Variáveis (Variables)
 
@@ -60,7 +60,7 @@ Através das variáveis e blocos é possível configurar itens como aparência g
 
 Como todo mundo adora uma demo eu criei um layout para um blog fictício para a gente brincar um pouquinho e aprender a desenvolver um tema na prática. É algo bem simples, só para conhecermos as funções finais. Então vamos supor que você tem uma cliente chamada Dani Guerrato (que nome criativo!) e ela enviou o seguinte layout.
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/07/tumblr-layout.jpg" alt="tumblr-layout" width="750" height="1728" class="alignnone size-full wp-image-43395" srcset="uploads/2014/07/tumblr-layout.jpg 750w, uploads/2014/07/tumblr-layout-60x139.jpg 60w, uploads/2014/07/tumblr-layout-400x921.jpg 400w" sizes="(max-width: 750px) 100vw, 750px" />
+<img src="http://tableless.com.br/uploads/2014/07/tumblr-layout.jpg" alt="tumblr-layout" width="750" height="1728" class="alignnone size-full wp-image-43395" srcset="uploads/2014/07/tumblr-layout.jpg 750w, uploads/2014/07/tumblr-layout-60x139.jpg 60w, uploads/2014/07/tumblr-layout-400x921.jpg 400w" sizes="(max-width: 750px) 100vw, 750px" />
 
 É possível dividir a estrutura deste layout em algumas partes. Um cabeçalho contendo título do blog, descrição, nome do usuário, descrição do usuário e avatar. E cinco tipos de post: texto, citação, imagem, link e diálogo. Existem outros formatos, mas a estrutura é muito parecida com a que vamos desenvolver por aqui.
 
@@ -138,7 +138,7 @@ Este nome é completamente arbitrário, ou seja, você pode criar o campo com o 
 
 Fácil, né? Estas configurações avançadas permitem ao usuário customizar o layout do tema utilizando a interface gráfica do Tumblr. 
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/07/tumblr-campopersonalizado.jpg" alt="tumblr-campopersonalizado" width="750" height="400" class="alignnone size-full wp-image-43392" srcset="uploads/2014/07/tumblr-campopersonalizado.jpg 750w, uploads/2014/07/tumblr-campopersonalizado-260x139.jpg 260w, uploads/2014/07/tumblr-campopersonalizado-400x213.jpg 400w" sizes="(max-width: 750px) 100vw, 750px" />
+<img src="http://tableless.com.br/uploads/2014/07/tumblr-campopersonalizado.jpg" alt="tumblr-campopersonalizado" width="750" height="400" class="alignnone size-full wp-image-43392" srcset="uploads/2014/07/tumblr-campopersonalizado.jpg 750w, uploads/2014/07/tumblr-campopersonalizado-260x139.jpg 260w, uploads/2014/07/tumblr-campopersonalizado-400x213.jpg 400w" sizes="(max-width: 750px) 100vw, 750px" />
 
 E não funciona apenas para campos de texto não. Podemos utilizar booleanos como este para todo tipo de conteúdo personalizado como opções de cores, tipografia, widgets e até mesmo variações de CSS. E isto é essencial para quem deseja desenvolver temas para venda ou que tem como público-alvo usuários sem familiaridade com HTML. Você pode criar, por exemplo, um modo de visualização das postagens em lista e outro em grid e o usuário poderá selecionar qual deseja utilizar em seu blog.
 

@@ -17,7 +17,7 @@ tags:
   - w3c
 
 ---
-<img src="http://blog.w3c.br/wp-content/uploads/2013/03/css31-213x300.png" alt="logo CSS3" style="float: left; margin-right:15px; " width="213" height="300" />
+<img src="http://blog.w3c.br/uploads/2013/03/css31-213x300.png" alt="logo CSS3" style="float: left; margin-right:15px; " width="213" height="300" />
 
 Temos abordado bastante a importância da acessibilidade na web na estrutura e semântica do código HTML: cabeçalhos, tabelas, textos alternativos e outros recursos para deixar o _markup_ robusto e acessível. Mas todos são elementos que podem ser manipulados pelo CSS e por isso devemos ter certos cuidados com a acessibilidade deles.
 

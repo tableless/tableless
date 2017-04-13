@@ -41,7 +41,7 @@ O Blending é parte dos _modos de mesclagem,_ que refere-se a pegar duas cores e
 
 É como um &#8220;Juicer&#8221; &#8211; centrifugas de suco, onde você coloca duas frutas de distintas cores numa ponta e tem um colorido suco misturado do outro lado da máquina.
   
-<img class="size-full wp-image-56095 aligncenter" src="http://tableless.com.br/wp-content/uploads/2016/10/Blender-Juicer-Vegetables-Fruits-Drink-777x437.jpg" alt="Blender-Juicer-Vegetables-Fruits-Drink-777x437" width="777" height="437" />
+<img class="size-full wp-image-56095 aligncenter" src="http://tableless.com.br/uploads/2016/10/Blender-Juicer-Vegetables-Fruits-Drink-777x437.jpg" alt="Blender-Juicer-Vegetables-Fruits-Drink-777x437" width="777" height="437" />
 
 &nbsp;
 
@@ -82,7 +82,7 @@ Se você está se sentindo _realmente_ ambicioso, dê uma olhada através Task F
 
 [Todas as cores são baseados numa escala de 0-1, que mapeia diretamente para um valor 0-255 RGB.][4]
 
-<img class="size-full wp-image-56099 aligncenter" src="http://tableless.com.br/wp-content/uploads/2016/10/nee-nees-096-min-compressor.jpg" alt="nee-nees-096-min-compressor" width="3888" height="2592" />
+<img class="size-full wp-image-56099 aligncenter" src="http://tableless.com.br/uploads/2016/10/nee-nees-096-min-compressor.jpg" alt="nee-nees-096-min-compressor" width="3888" height="2592" />
 
 Existem duas categorias de modos de Blending: não-separáveis e os separáveis.
 

@@ -155,7 +155,7 @@ Em geral pensamos no .reduce() como um acumulador, porém somente no sentido de 
 
 De acordo com o nosso testes, vamos observar os passos de execução em uma tabela:
 
-<img class="alignnone size-full wp-image-53670" src="http://tableless.com.br/wp-content/uploads/2016/04/compose-print.png" alt="compose-print" width="737" height="83" />
+<img class="alignnone size-full wp-image-53670" src="http://tableless.com.br/uploads/2016/04/compose-print.png" alt="compose-print" width="737" height="83" />
 
 E com isso temos o resultado da função mais interna (<em class="markup--em markup--p-em">moreExclaim</em>) alimentando as funções mais externas (<em class="markup--em markup--p-em">exclaim</em> e depois <em class="markup--em markup--p-em">toUpperCase</em>).
 

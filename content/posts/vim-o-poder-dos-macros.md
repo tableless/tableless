@@ -32,7 +32,7 @@ e o nosso objetivo é que cada item dessa lista fique uma abaixo da outra, tamb�
 
 Para iniciarmos a gravação de um macro deve ser pressionada tecla **q**, note que a palavra **recording** vai aparecer na parte inferior do editor:
 
-<img class="alignnone size-full wp-image-48305" src="http://tableless.com.br/wp-content/uploads/2015/04/macro-01.gif" alt="macro-01" width="475" height="145" />
+<img class="alignnone size-full wp-image-48305" src="http://tableless.com.br/uploads/2015/04/macro-01.gif" alt="macro-01" width="475" height="145" />
 
 A partir desse momento qualquer tecla pressionada vai ser gravada, e se mais uma vez pressionarmos **q** em _NORMAL MODE_ a gravação vai ser concluída.
 
@@ -76,11 +76,11 @@ O que devemos fazer agora é executar um conjunto de comandos para atingirmos o 
 
 Executando isso temos:
 
-<img class="alignnone size-full wp-image-48308" src="http://tableless.com.br/wp-content/uploads/2015/04/macro-02.gif" alt="macro-02" width="475" height="145" />
+<img class="alignnone size-full wp-image-48308" src="http://tableless.com.br/uploads/2015/04/macro-02.gif" alt="macro-02" width="475" height="145" />
 
 Bacana! Ja temos os comandos gravados em memória, agora vamos usar o atalho **@q** para a execução em cada item:
 
-<img class="alignnone size-full wp-image-48310" src="http://tableless.com.br/wp-content/uploads/2015/04/macro-03.gif" alt="macro-03" width="475" height="145" />
+<img class="alignnone size-full wp-image-48310" src="http://tableless.com.br/uploads/2015/04/macro-03.gif" alt="macro-03" width="475" height="145" />
 
 e voilà, temos nossa lista como queriamos 🙂
 

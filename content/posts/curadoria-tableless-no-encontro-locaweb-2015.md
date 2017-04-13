@@ -35,7 +35,7 @@ E estes outros são convidados para falarem em algumas cidades:
 
 Iremos falar bastante sobre front-end, back-end e UX. AS salas são para desenvolvedores web e curiosos. Todas as [datas e informações podem ser encontradas aqui][1]. O valor são simbólicos R$50,00. Bem barato para um evento deste tamanho.
 
-[<img src="http://tableless.com.br/wp-content/uploads/2015/02/post-17elw-garantaseulugar.png" alt="17 Encontro Locaweb" width="716" height="600" class="alignnone size-full wp-image-46938" srcset="uploads/2015/02/post-17elw-garantaseulugar.png 716w, uploads/2015/02/post-17elw-garantaseulugar-166x139.png 166w, uploads/2015/02/post-17elw-garantaseulugar-400x335.png 400w" sizes="(max-width: 716px) 100vw, 716px" />][13]
+[<img src="http://tableless.com.br/uploads/2015/02/post-17elw-garantaseulugar.png" alt="17 Encontro Locaweb" width="716" height="600" class="alignnone size-full wp-image-46938" srcset="uploads/2015/02/post-17elw-garantaseulugar.png 716w, uploads/2015/02/post-17elw-garantaseulugar-166x139.png 166w, uploads/2015/02/post-17elw-garantaseulugar-400x335.png 400w" sizes="(max-width: 716px) 100vw, 716px" />][13]
 
  [1]: http://eventos.locaweb.com.br/proximos-eventos/
  [2]: http://twitter.com/rafaelrinaldi

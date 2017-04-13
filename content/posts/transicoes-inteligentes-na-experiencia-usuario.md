@@ -41,11 +41,11 @@ A benção e a maldição da web são os hiperlinks. Quando você clica em um li
 
 Uma das grandes características sobre a experiência do usuário de livros é a linearidade. Cada capítulo em um livro baseia-se no anterior. Você deve ler o capítulo um para poder entender o capítulo dois. Quando você pula um capítulo, você está ciente de que pode perder algo e, assim não obter algum conhecimento sobre o conteúdo subseqüente. Na web, e principalmente em websites longos, isso muitas vezes acontece inconscientemente. Ao adicionar um scroll animado, podemos consertar isso:
 
-<img class="alignnone size-full wp-image-39940" alt="scroll-animado" src="http://tableless.com.br/wp-content/uploads/2013/12/scroll-animado.gif" width="500" height="580" />
+<img class="alignnone size-full wp-image-39940" alt="scroll-animado" src="http://tableless.com.br/uploads/2013/12/scroll-animado.gif" width="500" height="580" />
 
 Compare a imagem anterior com essa:
 
-<img class="alignnone size-full wp-image-39943" alt="scroll-sem-animacao" src="http://tableless.com.br/wp-content/uploads/2013/12/scroll-sem-animacao.gif" width="500" height="580" />
+<img class="alignnone size-full wp-image-39943" alt="scroll-sem-animacao" src="http://tableless.com.br/uploads/2013/12/scroll-sem-animacao.gif" width="500" height="580" />
 
 Compare o comportamento padrão dos links (âncoras) com o comportamento animado. Pular conteúdo não é mais uma ação inconsciente; é uma decisão. O site [Hope Lies at 24 Frames Per Second][5] tem um botão de menu para a sua versão móvel que envia o usuário para o topo da página, sem qualquer animação. Levei mais de um minuto para descobrir o que realmente tinha acontecido.
 
@@ -55,7 +55,7 @@ Compare o comportamento padrão dos links (âncoras) com o comportamento animado
 
 Como vimos no último exemplo, transições ajudam os usuários a entender o ritmo e o fluxo de uma interface. Nada parece mais artificial do que uma mudança brusca, pois **mudanças bruscas simplesmente não existem no mundo real**. Vamos olhar outro exemplo: _menus que se alternam (toggle menus)_. Usuários associam o ícone de &#8220;_mais_&#8221; (+) com a ação de adicionar conteúdo ou expandir um elemento. Girando o ícone em 45°, o &#8220;_mais_&#8221; (+) torna-se uma &#8220;_xis_&#8221; (x), um elemento de interface amplamente entendido como _fechar_.
 
-<img class="alignnone size-full wp-image-39944" alt="Stateful-toggle" src="http://tableless.com.br/wp-content/uploads/2013/12/Stateful-toggle.gif" width="500" height="580" />
+<img class="alignnone size-full wp-image-39944" alt="Stateful-toggle" src="http://tableless.com.br/uploads/2013/12/Stateful-toggle.gif" width="500" height="580" />
 
 Essa simples transição muda completamente o significado do ícone. Esse pequeno detalhe faz a diferença entre ter que adivinhar o que vai acontecer a seguir e saber o que o ícone significa em cada estado. Se você me perguntar, essa alternância é bastante _&#8220;amigável&#8221; (user-friendly_). Além disso, observe que o ícone de &#8220;_mais_&#8221; sempre gira na mesma direção que o conteúdo, reforçando o fluxo de informações.
 
@@ -67,11 +67,11 @@ Os formulários de comentários em vários blogs e sites de notícias não são 
 
 Para motivarmos as pessoas a comentarem mais, nós podemos _recolher_ (_collapse_) o formulário e **só mostrarmos o elemento mais crucial: o campo de comentário**. Quando o usuário clica no campo, você pode expandir o formulário. Um exemplo no mundo real dessa revelação progressiva pode ser encontrado na versão beta do site do New York Times:
 
-<img class="alignnone size-full wp-image-39945" alt="NY-Times" src="http://tableless.com.br/wp-content/uploads/2013/12/NY-Times.gif" width="530" height="592" />
+<img class="alignnone size-full wp-image-39945" alt="NY-Times" src="http://tableless.com.br/uploads/2013/12/NY-Times.gif" width="530" height="592" />
 
 Você pode ir até mais longe, definindo o foco do cursor no campo de comentario quando o formulário se expandir. Porém, essa abordagem tem um problema: um princípio fundamental do design de interação é que **uma ação deve acontecer próxima ao local da onde a interação ocorre** (próximo ao local de atenção). Podemos então ir um passo além, e animar o campo de comentário para orientar o usuário:
 
-<img class="alignnone size-full wp-image-39946" alt="ExpandingComments" src="http://tableless.com.br/wp-content/uploads/2013/12/ExpandingComments.gif" width="500" height="580" />
+<img class="alignnone size-full wp-image-39946" alt="ExpandingComments" src="http://tableless.com.br/uploads/2013/12/ExpandingComments.gif" width="500" height="580" />
 
 Você pode até fixar o campo de comentário no topo, expandi-lo nesse sentido e exibir os campos adicionais abaixo dele.
 
@@ -85,7 +85,7 @@ Recolhendo os comentários, nós temos a barra de rolagem para representar o com
 
 Uma das interações mais interessantes a surgir logo após a introdução do iPhone foi o &#8220;_puxar para atualizar (pull to refresh)_&#8220;, iniciada por Loren Brichter. Ela permite ao usuário atualizar o conteúdo de rolagem que esteja disposto numa ordem cronológica reversa. Você pode ver esse conceito em ação no aplicativo do Twitter. Uma vez que você deslizou para o topo da lista de tweets, deslize um pouco mais para atualizar a _timeline_.
 
-<img class="alignnone size-full wp-image-39947" alt="Twitter" src="http://tableless.com.br/wp-content/uploads/2013/12/Twitter.gif" width="240" height="360" />
+<img class="alignnone size-full wp-image-39947" alt="Twitter" src="http://tableless.com.br/uploads/2013/12/Twitter.gif" width="240" height="360" />
 
 Por que isso funciona tão bem? Antes do &#8220;_puxar para atualizar_&#8221; existir, os usuários tinham que apertar o botão de atualizar nos navegadores para carregar mais conteúdo. Ao juntar o desejo do usuário de encontrar mais conteúdo com a ação de atualizar, a necessidade de uma ação explícita tornou-se obsoleta.
 
@@ -95,7 +95,7 @@ Por que isso funciona tão bem? Antes do &#8220;_puxar para atualizar_&#8221; ex
 
 _Sticky labels_ são uma outra sutil, mas útil combinação de um componente de interface e uma transição significativa. Confira o uso desta técnica no [portfólio][6] da Edenspiekermann.
 
-<img class="alignnone size-full wp-image-39948" alt="Sticky-Label" src="http://tableless.com.br/wp-content/uploads/2013/12/Sticky-Label.gif" width="500" height="580" />
+<img class="alignnone size-full wp-image-39948" alt="Sticky-Label" src="http://tableless.com.br/uploads/2013/12/Sticky-Label.gif" width="500" height="580" />
 
 As _labels_ de projeto deslizam juntamente com o conteúdo, proporcionando assim contexto para as imagens à direita, até o próximo projeto aparecer. Este comportamento é semelhante ao livro de endereços no iOS e é especialmente útil para fornecer contextos em seções longas. A transição oferece uma melhor orientação e descrições fáceis baseadas no contexto.
 
@@ -111,7 +111,7 @@ No contexto de UI design, o [glossário de usabilidade][7] (PDF) do website da E
 
 _Ridges (detalhes?)_ são muitas vezes utilizados para melhorar a _affordance_. _Ridges_ em torno de um botão sugerem que este pode ser manipulado. Esta técnica de UX foi amplamente popularizada pelo aplicativo da câmera no iOS.
 
-<img class="alignnone size-full wp-image-39949" alt="iOS_Lockscreen-500-final" src="http://tableless.com.br/wp-content/uploads/2013/12/iOS_Lockscreen-500-final.jpg" width="500" height="750" srcset="uploads/2013/12/iOS_Lockscreen-500-final.jpg 500w, uploads/2013/12/iOS_Lockscreen-500-final-112x168.jpg 112w, uploads/2013/12/iOS_Lockscreen-500-final-206x310.jpg 206w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="alignnone size-full wp-image-39949" alt="iOS_Lockscreen-500-final" src="http://tableless.com.br/uploads/2013/12/iOS_Lockscreen-500-final.jpg" width="500" height="750" srcset="uploads/2013/12/iOS_Lockscreen-500-final.jpg 500w, uploads/2013/12/iOS_Lockscreen-500-final-112x168.jpg 112w, uploads/2013/12/iOS_Lockscreen-500-final-206x310.jpg 206w" sizes="(max-width: 500px) 100vw, 500px" />
 
 Os traços (_ripples_) em torno do botão de câmera na tela de bloqueio do iOS 6, sugerem a idéia do botão ser arrastável. A Apple removeu-os no iOS 7, aparentemente porque os usuários se acostumaram a isso, tornando o ícone mais parecido com um botão independente. Porém, o que acontece é ainda a mesma coisa: quando você arrasta o botão, a tela de bloqueio revela a câmera por baixo. Essa é uma grande técnica para apontar os usuários para os recursos em uma interface.
 
@@ -121,7 +121,7 @@ Os traços (_ripples_) em torno do botão de câmera na tela de bloqueio do iOS 
 
 O Google Chrome no iOS teve o a ação de ocultar baseada no contexto desde que foi lançado. Veja na imagem a seguir:
 
-<img class="alignnone size-full wp-image-39950" alt="CBH" src="http://tableless.com.br/wp-content/uploads/2013/12/CBH.gif" width="500" height="580" />
+<img class="alignnone size-full wp-image-39950" alt="CBH" src="http://tableless.com.br/uploads/2013/12/CBH.gif" width="500" height="580" />
 
 A idéia básica é que os controles de navegação se escondam automaticamente uma vez que o usuário rolar a página para baixo. Assim que o usuário rolar a página para cima novamente, os controles reaparecem. Essa abordagem tanto melhora a experiência contextual (com foco no conteúdo em si) como aumenta o espaço da tela. Esse último, claro, particularmente importante em dispositivos móveis.
 
@@ -175,11 +175,11 @@ A benção e a maldição da web são os hiperlinks. Quando você clica em um li
 
 Uma das grandes características sobre a experiência do usuário de livros é a linearidade. Cada capítulo em um livro baseia-se no anterior. Você deve ler o capítulo um para poder entender o capítulo dois. Quando você pula um capítulo, você está ciente de que pode perder algo e, assim não obter algum conhecimento sobre o conteúdo subseqüente. Na web, e principalmente em websites longos, isso muitas vezes acontece inconscientemente. Ao adicionar um scroll animado, podemos consertar isso:
 
-<img class="alignnone size-full wp-image-39940" alt="scroll-animado" src="http://tableless.com.br/wp-content/uploads/2013/12/scroll-animado.gif" width="500" height="580" />
+<img class="alignnone size-full wp-image-39940" alt="scroll-animado" src="http://tableless.com.br/uploads/2013/12/scroll-animado.gif" width="500" height="580" />
 
 Compare a imagem anterior com essa:
 
-<img class="alignnone size-full wp-image-39943" alt="scroll-sem-animacao" src="http://tableless.com.br/wp-content/uploads/2013/12/scroll-sem-animacao.gif" width="500" height="580" />
+<img class="alignnone size-full wp-image-39943" alt="scroll-sem-animacao" src="http://tableless.com.br/uploads/2013/12/scroll-sem-animacao.gif" width="500" height="580" />
 
 Compare o comportamento padrão dos links (âncoras) com o comportamento animado. Pular conteúdo não é mais uma ação inconsciente; é uma decisão. O site [Hope Lies at 24 Frames Per Second][5] tem um botão de menu para a sua versão móvel que envia o usuário para o topo da página, sem qualquer animação. Levei mais de um minuto para descobrir o que realmente tinha acontecido.
 
@@ -189,7 +189,7 @@ Compare o comportamento padrão dos links (âncoras) com o comportamento animado
 
 Como vimos no último exemplo, transições ajudam os usuários a entender o ritmo e o fluxo de uma interface. Nada parece mais artificial do que uma mudança brusca, pois **mudanças bruscas simplesmente não existem no mundo real**. Vamos olhar outro exemplo: _menus que se alternam (toggle menus)_. Usuários associam o ícone de &#8220;_mais_&#8221; (+) com a ação de adicionar conteúdo ou expandir um elemento. Girando o ícone em 45°, o &#8220;_mais_&#8221; (+) torna-se uma &#8220;_xis_&#8221; (x), um elemento de interface amplamente entendido como _fechar_.
 
-<img class="alignnone size-full wp-image-39944" alt="Stateful-toggle" src="http://tableless.com.br/wp-content/uploads/2013/12/Stateful-toggle.gif" width="500" height="580" />
+<img class="alignnone size-full wp-image-39944" alt="Stateful-toggle" src="http://tableless.com.br/uploads/2013/12/Stateful-toggle.gif" width="500" height="580" />
 
 Essa simples transição muda completamente o significado do ícone. Esse pequeno detalhe faz a diferença entre ter que adivinhar o que vai acontecer a seguir e saber o que o ícone significa em cada estado. Se você me perguntar, essa alternância é bastante _&#8220;amigável&#8221; (user-friendly_). Além disso, observe que o ícone de &#8220;_mais_&#8221; sempre gira na mesma direção que o conteúdo, reforçando o fluxo de informações.
 
@@ -201,11 +201,11 @@ Os formulários de comentários em vários blogs e sites de notícias não são 
 
 Para motivarmos as pessoas a comentarem mais, nós podemos _recolher_ (_collapse_) o formulário e **só mostrarmos o elemento mais crucial: o campo de comentário**. Quando o usuário clica no campo, você pode expandir o formulário. Um exemplo no mundo real dessa revelação progressiva pode ser encontrado na versão beta do site do New York Times:
 
-<img class="alignnone size-full wp-image-39945" alt="NY-Times" src="http://tableless.com.br/wp-content/uploads/2013/12/NY-Times.gif" width="530" height="592" />
+<img class="alignnone size-full wp-image-39945" alt="NY-Times" src="http://tableless.com.br/uploads/2013/12/NY-Times.gif" width="530" height="592" />
 
 Você pode ir até mais longe, definindo o foco do cursor no campo de comentario quando o formulário se expandir. Porém, essa abordagem tem um problema: um princípio fundamental do design de interação é que **uma ação deve acontecer próxima ao local da onde a interação ocorre** (próximo ao local de atenção). Podemos então ir um passo além, e animar o campo de comentário para orientar o usuário:
 
-<img class="alignnone size-full wp-image-39946" alt="ExpandingComments" src="http://tableless.com.br/wp-content/uploads/2013/12/ExpandingComments.gif" width="500" height="580" />
+<img class="alignnone size-full wp-image-39946" alt="ExpandingComments" src="http://tableless.com.br/uploads/2013/12/ExpandingComments.gif" width="500" height="580" />
 
 Você pode até fixar o campo de comentário no topo, expandi-lo nesse sentido e exibir os campos adicionais abaixo dele.
 
@@ -219,7 +219,7 @@ Recolhendo os comentários, nós temos a barra de rolagem para representar o com
 
 Uma das interações mais interessantes a surgir logo após a introdução do iPhone foi o &#8220;_puxar para atualizar (pull to refresh)_&#8220;, iniciada por Loren Brichter. Ela permite ao usuário atualizar o conteúdo de rolagem que esteja disposto numa ordem cronológica reversa. Você pode ver esse conceito em ação no aplicativo do Twitter. Uma vez que você deslizou para o topo da lista de tweets, deslize um pouco mais para atualizar a _timeline_.
 
-<img class="alignnone size-full wp-image-39947" alt="Twitter" src="http://tableless.com.br/wp-content/uploads/2013/12/Twitter.gif" width="240" height="360" />
+<img class="alignnone size-full wp-image-39947" alt="Twitter" src="http://tableless.com.br/uploads/2013/12/Twitter.gif" width="240" height="360" />
 
 Por que isso funciona tão bem? Antes do &#8220;_puxar para atualizar_&#8221; existir, os usuários tinham que apertar o botão de atualizar nos navegadores para carregar mais conteúdo. Ao juntar o desejo do usuário de encontrar mais conteúdo com a ação de atualizar, a necessidade de uma ação explícita tornou-se obsoleta.
 
@@ -229,7 +229,7 @@ Por que isso funciona tão bem? Antes do &#8220;_puxar para atualizar_&#8221; ex
 
 _Sticky labels_ são uma outra sutil, mas útil combinação de um componente de interface e uma transição significativa. Confira o uso desta técnica no [portfólio][6] da Edenspiekermann.
 
-<img class="alignnone size-full wp-image-39948" alt="Sticky-Label" src="http://tableless.com.br/wp-content/uploads/2013/12/Sticky-Label.gif" width="500" height="580" />
+<img class="alignnone size-full wp-image-39948" alt="Sticky-Label" src="http://tableless.com.br/uploads/2013/12/Sticky-Label.gif" width="500" height="580" />
 
 As _labels_ de projeto deslizam juntamente com o conteúdo, proporcionando assim contexto para as imagens à direita, até o próximo projeto aparecer. Este comportamento é semelhante ao livro de endereços no iOS e é especialmente útil para fornecer contextos em seções longas. A transição oferece uma melhor orientação e descrições fáceis baseadas no contexto.
 
@@ -245,7 +245,7 @@ No contexto de UI design, o [glossário de usabilidade][7] (PDF) do website da E
 
 _Ridges (detalhes?)_ são muitas vezes utilizados para melhorar a _affordance_. _Ridges_ em torno de um botão sugerem que este pode ser manipulado. Esta técnica de UX foi amplamente popularizada pelo aplicativo da câmera no iOS.
 
-<img class="alignnone size-full wp-image-39949" alt="iOS_Lockscreen-500-final" src="http://tableless.com.br/wp-content/uploads/2013/12/iOS_Lockscreen-500-final.jpg" width="500" height="750" srcset="uploads/2013/12/iOS_Lockscreen-500-final.jpg 500w, uploads/2013/12/iOS_Lockscreen-500-final-112x168.jpg 112w, uploads/2013/12/iOS_Lockscreen-500-final-206x310.jpg 206w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="alignnone size-full wp-image-39949" alt="iOS_Lockscreen-500-final" src="http://tableless.com.br/uploads/2013/12/iOS_Lockscreen-500-final.jpg" width="500" height="750" srcset="uploads/2013/12/iOS_Lockscreen-500-final.jpg 500w, uploads/2013/12/iOS_Lockscreen-500-final-112x168.jpg 112w, uploads/2013/12/iOS_Lockscreen-500-final-206x310.jpg 206w" sizes="(max-width: 500px) 100vw, 500px" />
 
 Os traços (_ripples_) em torno do botão de câmera na tela de bloqueio do iOS 6, sugerem a idéia do botão ser arrastável. A Apple removeu-os no iOS 7, aparentemente porque os usuários se acostumaram a isso, tornando o ícone mais parecido com um botão independente. Porém, o que acontece é ainda a mesma coisa: quando você arrasta o botão, a tela de bloqueio revela a câmera por baixo. Essa é uma grande técnica para apontar os usuários para os recursos em uma interface.
 
@@ -255,7 +255,7 @@ Os traços (_ripples_) em torno do botão de câmera na tela de bloqueio do iOS 
 
 O Google Chrome no iOS teve o a ação de ocultar baseada no contexto desde que foi lançado. Veja na imagem a seguir:
 
-<img class="alignnone size-full wp-image-39950" alt="CBH" src="http://tableless.com.br/wp-content/uploads/2013/12/CBH.gif" width="500" height="580" />
+<img class="alignnone size-full wp-image-39950" alt="CBH" src="http://tableless.com.br/uploads/2013/12/CBH.gif" width="500" height="580" />
 
 A idéia básica é que os controles de navegação se escondam automaticamente uma vez que o usuário rolar a página para baixo. Assim que o usuário rolar a página para cima novamente, os controles reaparecem. Essa abordagem tanto melhora a experiência contextual (com foco no conteúdo em si) como aumenta o espaço da tela. Esse último, claro, particularmente importante em dispositivos móveis.
 

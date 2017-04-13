@@ -45,7 +45,7 @@ Vou comentar rapidamente as que me chamaram mais a atenção.
 
 Houve uma série de mudanças visuais que além de impressionar, ajudam bastante na experiência de navegação. As abas por exemplo, foram colocadas no topo da página, como o Chrome. Isso facilita e aumenta a área útil do browser.
   
-[<img src="http://tableless.com.br/wp-content/uploads/2009/02/abas-300x158.jpg" alt="abas" title="abas" width="300" height="158" class="alignleft size-medium wp-image-1213" srcset="uploads/2009/02/abas-300x158.jpg 300w, uploads/2009/02/abas.jpg 499w" sizes="(max-width: 300px) 100vw, 300px" />][4]
+[<img src="http://tableless.com.br/uploads/2009/02/abas-300x158.jpg" alt="abas" title="abas" width="300" height="158" class="alignleft size-medium wp-image-1213" srcset="uploads/2009/02/abas-300x158.jpg 300w, uploads/2009/02/abas.jpg 499w" sizes="(max-width: 300px) 100vw, 300px" />][4]
   
 A interface do Safari no Windows segue o mesmo padrão do sistema. Em vez de carregar uma interface própria, que faz com que o programa se torne mais pesado, o pessoal da Apple resolveu fazer com que o Safari tenha o visual nativo do Windows.
 
@@ -61,7 +61,7 @@ O pessoal que desenvolveu o Safari, ainda continua levando a sério aquela hist�
   
 Ele também suporta agora CSS 3 Web Fonts, isso significa que você, designer, não está mais amarrado com meia dúzia de fontes.
   
-[<img src="http://tableless.com.br/wp-content/uploads/2009/02/overlay-devtools-2-20090224-300x183.jpg" alt="overlay-devtools-2-20090224" title="overlay-devtools-2-20090224" width="300" height="183" class="alignright size-medium wp-image-1220" srcset="uploads/2009/02/overlay-devtools-2-20090224-300x183.jpg 300w, uploads/2009/02/overlay-devtools-2-20090224.jpg 880w" sizes="(max-width: 300px) 100vw, 300px" />][5]
+[<img src="http://tableless.com.br/uploads/2009/02/overlay-devtools-2-20090224-300x183.jpg" alt="overlay-devtools-2-20090224" title="overlay-devtools-2-20090224" width="300" height="183" class="alignright size-medium wp-image-1220" srcset="uploads/2009/02/overlay-devtools-2-20090224-300x183.jpg 300w, uploads/2009/02/overlay-devtools-2-20090224.jpg 880w" sizes="(max-width: 300px) 100vw, 300px" />][5]
   
 Sobre HTML5, o Safari agora suporta as características de Offline Support e MediaTags. Sem contar que ele passou no teste Acid 3.
   
@@ -69,7 +69,7 @@ Ele também está renderizando mais rapidamente scripts em Javascript. A Apple d
 
 Ele ganhou também um [Inspetor de código decente][6]. Um ponto contra é que não é possível editar a página por esse Web Inspector como fazemos com o Firebug. Mesmo assim, ele é muito completo, dá para substituir a Firebug.
 
-[<img src="http://tableless.com.br/wp-content/uploads/2009/02/webinspector-300x183.jpg" alt="webinspector" title="webinspector" width="300" height="183" class="alignleft size-medium wp-image-1218" srcset="uploads/2009/02/webinspector-300x183.jpg 300w, uploads/2009/02/webinspector.jpg 880w" sizes="(max-width: 300px) 100vw, 300px" />][7]
+[<img src="http://tableless.com.br/uploads/2009/02/webinspector-300x183.jpg" alt="webinspector" title="webinspector" width="300" height="183" class="alignleft size-medium wp-image-1218" srcset="uploads/2009/02/webinspector-300x183.jpg 300w, uploads/2009/02/webinspector.jpg 880w" sizes="(max-width: 300px) 100vw, 300px" />][7]
 
 Eles inseriram uma série de outras novidades para que possamos controlar erros e fazer testes na hora do desenvolvimento. Realmente é um kit completo (ou quase) de desenvolvimento web. Para ver o resto das características, [veja a lista completa aqui][8]!
 
@@ -82,9 +82,9 @@ Aos poucos o Safari ganha corpo e conquista sua fatia do mercado. A briga vai se
  [1]: http://www.thecounter.com/stats/2008/December/browser.php
  [2]: http://www.thecounter.com/
  [3]: http://www.apple.com/safari/features.html
- [4]: http://tableless.com.br/wp-content/uploads/2009/02/abas.jpg
- [5]: http://tableless.com.br/wp-content/uploads/2009/02/overlay-devtools-2-20090224.jpg
+ [4]: http://tableless.com.br/uploads/2009/02/abas.jpg
+ [5]: http://tableless.com.br/uploads/2009/02/overlay-devtools-2-20090224.jpg
  [6]: http://www.apple.com/safari/whats-new.html#developer
- [7]: http://tableless.com.br/wp-content/uploads/2009/02/webinspector.jpg
+ [7]: http://tableless.com.br/uploads/2009/02/webinspector.jpg
  [8]: http://www.apple.com/safari/features.html#developer
  [9]: http://developer.apple.com/safari/

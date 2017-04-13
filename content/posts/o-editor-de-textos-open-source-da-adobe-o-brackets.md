@@ -57,7 +57,7 @@ Se tiver uma div com um id ou uma class e você clicar em cima de “div” e us
 
 Segue uma tela, mostrando o atalho em funcionamento:
 
-[<img class="aligncenter wp-image-46570 size-full" src="http://tableless.com.br/wp-content/uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g.png" alt="1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g" width="638" height="300" srcset="uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g.png 638w, uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g-265x125.png 265w, uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g-400x188.png 400w" sizes="(max-width: 638px) 100vw, 638px" />][1]
+[<img class="aligncenter wp-image-46570 size-full" src="http://tableless.com.br/uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g.png" alt="1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g" width="638" height="300" srcset="uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g.png 638w, uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g-265x125.png 265w, uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g-400x188.png 400w" sizes="(max-width: 638px) 100vw, 638px" />][1]
 
   1. Caso não exista um seletor, você pode criar ele nesse dropdown “New Rule”, ao clicar nele, você vai poder escolher em que arquivo quer criar a regra (caso tenha mais de um);
   2. Local onde você vai editar a regra e simplesmente dar um Ctrl+S e pronto.
@@ -109,7 +109,7 @@ Se tiver uma div com um id ou uma class e você clicar em cima de “div” e us
 
 Segue uma tela, mostrando o atalho em funcionamento:
 
-[<img class="aligncenter wp-image-46570 size-full" src="http://tableless.com.br/wp-content/uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g.png" alt="1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g" width="638" height="300" srcset="uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g.png 638w, uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g-265x125.png 265w, uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g-400x188.png 400w" sizes="(max-width: 638px) 100vw, 638px" />][1]
+[<img class="aligncenter wp-image-46570 size-full" src="http://tableless.com.br/uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g.png" alt="1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g" width="638" height="300" srcset="uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g.png 638w, uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g-265x125.png 265w, uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g-400x188.png 400w" sizes="(max-width: 638px) 100vw, 638px" />][1]
 
   1. Caso não exista um seletor, você pode criar ele nesse dropdown “New Rule”, ao clicar nele, você vai poder escolher em que arquivo quer criar a regra (caso tenha mais de um);
   2. Local onde você vai editar a regra e simplesmente dar um Ctrl+S e pronto.
@@ -143,5 +143,5 @@ E se você tem alguma dúvida ou quer mais artigos sobre ele, só deixar também
 
 Até a próxima!
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g.png
- [2]: http://tableless.com.br/wp-content/uploads/2015/01/1lhZwadIKR8PR2gXXQrNu8nJCPW_PhW_NhqpHdA.png
+ [1]: http://tableless.com.br/uploads/2015/01/1bdjMIZVWtgGU99McRDyncLzxSq-osBjUEE1k9g.png
+ [2]: http://tableless.com.br/uploads/2015/01/1lhZwadIKR8PR2gXXQrNu8nJCPW_PhW_NhqpHdA.png

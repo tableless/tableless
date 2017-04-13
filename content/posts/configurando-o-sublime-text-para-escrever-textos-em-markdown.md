@@ -65,7 +65,7 @@ Agora vamos configurar nossos pacotes. Para isso, é necessário acessar `Prefer
 
 Você pode alterar os parâmetros conforme a sua vontade. Nos parâmetros acima, já temos um visual semelhante a seguir:
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/10/Captura-de-tela-de-2015-10-17-072103.png" alt="Captura de tela de 2015-10-17 07:21:03" width="1366" height="768" class="alignleft size-full wp-image-51761" />
+<img src="http://tableless.com.br/uploads/2015/10/Captura-de-tela-de-2015-10-17-072103.png" alt="Captura de tela de 2015-10-17 07:21:03" width="1366" height="768" class="alignleft size-full wp-image-51761" />
 
 ## Configurações extras
 
@@ -94,7 +94,7 @@ Existem diversos temas para serem instalados pelo Package Control. Um deles é o
 
 Reinicie o Sublime Text 2 e pronto, temos uma configuração bem legal para editar arquivos Mark Down, veja:
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/10/Captura-de-tela-de-2015-10-17-073140.png" alt="Captura de tela de 2015-10-17 07:31:40" width="1366" height="768" class="alignleft size-full wp-image-51763" />
+<img src="http://tableless.com.br/uploads/2015/10/Captura-de-tela-de-2015-10-17-073140.png" alt="Captura de tela de 2015-10-17 07:31:40" width="1366" height="768" class="alignleft size-full wp-image-51763" />
 
 ## Outros pacotes
 

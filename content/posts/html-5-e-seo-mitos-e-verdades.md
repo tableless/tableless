@@ -33,7 +33,7 @@ O HTML5 foi criado exatamente para dar significado semântico às páginas web, 
 
 A quinta versão do HTML possui uma estrutura mais objetiva e de fácil entendimento pelos navegadores. Cada “parte” ou “sessão” de um site deve ter um significado de acordo com suas tags. Vamos conhecer a estrutura básica do HTML 5:
 
-<img alt="Estrutura HTML5" src="http://tableless.com.br/wp-content/uploads/2013/08/html5-estrutura-420x310.png" width="420" height="310" />
+<img alt="Estrutura HTML5" src="http://tableless.com.br/uploads/2013/08/html5-estrutura-420x310.png" width="420" height="310" />
 
 ### Estruturação
 

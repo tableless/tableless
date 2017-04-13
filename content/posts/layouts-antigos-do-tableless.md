@@ -40,7 +40,7 @@ Eu instalei o blog em WordPress por volta de 2003. Mas o site já existia um pou
 
 É humilde, mas é nosso! 😉
 
- [1]: http://tableless.com.br/wp-content/uploads/2012/03/2003.jpg
- [2]: http://tableless.com.br/wp-content/uploads/2012/03/2004.png
- [3]: http://tableless.com.br/wp-content/uploads/2012/03/2005.png
- [4]: http://tableless.com.br/wp-content/uploads/2012/03/2006.png
+ [1]: http://tableless.com.br/uploads/2012/03/2003.jpg
+ [2]: http://tableless.com.br/uploads/2012/03/2004.png
+ [3]: http://tableless.com.br/uploads/2012/03/2005.png
+ [4]: http://tableless.com.br/uploads/2012/03/2006.png

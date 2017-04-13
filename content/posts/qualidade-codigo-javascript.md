@@ -43,7 +43,7 @@ As regras e convenções utilizadas na análise podem ser encontradas no site <a
 
 Você pode utilizar a <a href="http://www.jslint.com/" target="_blank">versão online da ferramenta</a>, ou então instalar o script através do gerenciador de pacotes do NodeJS (npm). O código-fonte está <a href="https://github.com/douglascrockford/JSLint" target="_blank">disponível no GitHub</a>.
 
-<img src="http://tableless.com.br/wp-content/uploads/2012/07/gjslint.jpg" alt="" width="605" height="439" class="alignnone size-full wp-image-6383" srcset="uploads/2012/07/gjslint.jpg 605w, uploads/2012/07/gjslint-300x217.jpg 300w" sizes="(max-width: 605px) 100vw, 605px" />
+<img src="http://tableless.com.br/uploads/2012/07/gjslint.jpg" alt="" width="605" height="439" class="alignnone size-full wp-image-6383" srcset="uploads/2012/07/gjslint.jpg 605w, uploads/2012/07/gjslint-300x217.jpg 300w" sizes="(max-width: 605px) 100vw, 605px" />
 
 ## JSHint
 
@@ -55,7 +55,7 @@ A documentação do projeto inclui uma <a href="http://www.jshint.com/options/" 
 
 Assim como a JSLint, a JSHint pode <a href="http://www.jshint.com/" target="_blank">analisar seu código online</a> ou pode ser instalada via NPM.
 
-<img src="http://tableless.com.br/wp-content/uploads/2012/07/jshint.jpg" alt="" width="770" height="361" class="alignnone size-full wp-image-6385" srcset="uploads/2012/07/jshint.jpg 770w, uploads/2012/07/jshint-300x140.jpg 300w" sizes="(max-width: 770px) 100vw, 770px" />
+<img src="http://tableless.com.br/uploads/2012/07/jshint.jpg" alt="" width="770" height="361" class="alignnone size-full wp-image-6385" srcset="uploads/2012/07/jshint.jpg 770w, uploads/2012/07/jshint-300x140.jpg 300w" sizes="(max-width: 770px) 100vw, 770px" />
 
 ## Closure Linter
 
@@ -67,7 +67,7 @@ Também diferentemente das anteriores, a Closure Linter vem acompanhada de um sc
 
 Os utilitários podem ser baixados na <a href="https://developers.google.com/closure/utilities/" target="_blank">página do projeto no Google Code</a>. O script _gjslint_ é o responsável pela análise de código enquanto o _fixjsstyle_ corrige os erros encontrados.
 
-<img src="http://tableless.com.br/wp-content/uploads/2012/07/gjslint.jpg" alt="" width="605" height="439" class="alignnone size-full wp-image-6383" srcset="uploads/2012/07/gjslint.jpg 605w, uploads/2012/07/gjslint-300x217.jpg 300w" sizes="(max-width: 605px) 100vw, 605px" />
+<img src="http://tableless.com.br/uploads/2012/07/gjslint.jpg" alt="" width="605" height="439" class="alignnone size-full wp-image-6383" srcset="uploads/2012/07/gjslint.jpg 605w, uploads/2012/07/gjslint-300x217.jpg 300w" sizes="(max-width: 605px) 100vw, 605px" />
 
 ## jQuery Lint
 
@@ -81,6 +81,6 @@ Para finalizar, uma ferramenta para os fãs de jQuery que analisa a sintaxe e a 
 
 É altamente configurável e pode ser adaptada para os padrões de desenvolvimento do seu projeto.
 
-<img src="http://tableless.com.br/wp-content/uploads/2012/07/jquerylint.jpg" alt="" width="366" height="149" class="alignnone size-full wp-image-6384" srcset="uploads/2012/07/jquerylint.jpg 366w, uploads/2012/07/jquerylint-300x122.jpg 300w" sizes="(max-width: 366px) 100vw, 366px" />
+<img src="http://tableless.com.br/uploads/2012/07/jquerylint.jpg" alt="" width="366" height="149" class="alignnone size-full wp-image-6384" srcset="uploads/2012/07/jquerylint.jpg 366w, uploads/2012/07/jquerylint-300x122.jpg 300w" sizes="(max-width: 366px) 100vw, 366px" />
 
 O código-fonte do projeto está disponível no GitHub: <a href="https://github.com/padolsey/jQuery-Lint" target="_blank">github.com/padolsey/jQuery-Lint</a>

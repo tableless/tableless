@@ -18,10 +18,10 @@ O Java supera essa dificuldade, o programa escrito em Java pode ser executado em
 
 Para entender como é possível, basta realizar uma análise comparativa entre os processos de desenvolvimento, compilação e execução de programas com as tecnologias tradicionais e com o Java.
 
-[<img class=" size-full wp-image-48241 aligncenter" src="http://tableless.com.br/wp-content/uploads/2015/04/imagem2.jpg" alt="imagem" width="567" height="394" />][1]
+[<img class=" size-full wp-image-48241 aligncenter" src="http://tableless.com.br/uploads/2015/04/imagem2.jpg" alt="imagem" width="567" height="394" />][1]
 
 Note que o processo de compilação do Java gera uma representação intermediária do código (bytecodes), que pode ser interpretada por qualquer sistema operacional que tenha uma JVM (Java Virtual Machine – Máquina Virtual Java), e é essa JVM que garante que o que foi escrito em Java seja executado em qualquer sistema operacional.
 
 Dessa forma e de outras particularidades, a plataforma Java se distingue claramente das tecnologias de desenvolvimento de software tradicionais.
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/04/imagem2.jpg
+ [1]: http://tableless.com.br/uploads/2015/04/imagem2.jpg

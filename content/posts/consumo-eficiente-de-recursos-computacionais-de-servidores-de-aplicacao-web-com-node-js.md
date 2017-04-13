@@ -41,7 +41,7 @@ Os dados obtidos por ocasião da execução do teste de carga objetivaram trazer
 Com base nos testes realizados percebeu-se que, Node.js demonstrou ter maior desempenho que todas as outras plataformas. Sendo capaz de atender quase o dobro de requisições por segundo, em relação à Thin, tecnologia que demonstrou desempenho mais próximo ao Node.js.
 
 <div id="attachment_53919" style="width: 574px" class="wp-caption alignnone">
-  <img class="wp-image-53919 size-full" src="http://tableless.com.br/wp-content/uploads/2016/04/tempo_resposta.png" alt="Resultado do tempo médio de resposta" width="564" height="332" />
+  <img class="wp-image-53919 size-full" src="http://tableless.com.br/uploads/2016/04/tempo_resposta.png" alt="Resultado do tempo médio de resposta" width="564" height="332" />
   
   <p class="wp-caption-text">
     Figura 1 &#8211; Resultado do tempo médio de resposta (em milissegundos)
@@ -53,7 +53,7 @@ No aspecto tempo de resposta, como pode ser observado na figura acima, o Node.js
 Salienta-se que, em todas as plataformas, o tempo médio de resposta quando 1.000 (um mil) requisições concorrentes estavam sendo executadas não foi um tempo aceitável para ambientes de produção, justificado pela pouca capacidade dos recursos computacionais dos servidores em que as aplicações estavam sendo executadas. Todavia, os aspectos aqui analisados são as diferenças dos resultados apresentados entre as plataformas analisadas, uma vez que todas aplicações foram executadas nas mesmas condições de infraestrutura e hardware.
 
 <div id="attachment_53918" style="width: 574px" class="wp-caption alignnone">
-  <img class="wp-image-53918 size-full" src="http://tableless.com.br/wp-content/uploads/2016/04/req_por_segundo.png" alt="Resultado do throughput (vazão)" width="564" height="332" />
+  <img class="wp-image-53918 size-full" src="http://tableless.com.br/uploads/2016/04/req_por_segundo.png" alt="Resultado do throughput (vazão)" width="564" height="332" />
   
   <p class="wp-caption-text">
     Figura 2 &#8211; Resultado do throughput (vazão)
@@ -63,7 +63,7 @@ Salienta-se que, em todas as plataformas, o tempo médio de resposta quando 1.00
 Este é um indicador do grupo dos indicadores orientados a eficiência, e um dos principais fatores a ser analisado no teste, pois expressa a capacidade do servidor em atender requisições durante um determinado período. No gráfico da figura 2, está exposto o número de requisições executadas por segundo e é notável que das plataformas analisadas, Node.js apresentou o melhor índice de requisições, chegando a obter mais de 500 requisições por segundo para os testes de 1.000 requisições concorrentes, enquanto a plataforma que obteve o segundo melhor índice alcançou, no melhor caso, um valor acima de 400 requisições por segundo, sendo com apenas 100 requisições simultâneas. É visível a grande diferença entre as plataformas, chegando a ter um aumento de desempenho de quase 50% utilizando os mesmo recursos de hardware.
 
 <div id="attachment_53917" style="width: 488px" class="wp-caption alignnone">
-  <img class="wp-image-53917 size-full" src="http://tableless.com.br/wp-content/uploads/2016/04/erros.png" alt="Porcentagem de erros durante os testes" width="478" height="164" />
+  <img class="wp-image-53917 size-full" src="http://tableless.com.br/uploads/2016/04/erros.png" alt="Porcentagem de erros durante os testes" width="478" height="164" />
   
   <p class="wp-caption-text">
     Tabela 1 &#8211; Porcentagem de erros durante os testes
@@ -73,7 +73,7 @@ Este é um indicador do grupo dos indicadores orientados a eficiência, e um dos
 Quanto ao consumo dos recursos computacionais, todas as tecnologias tiveram um consumo bastante alto nas avaliações com mais 100 requisições concorrentes. Thin, não conseguiu completar com sucesso todas as requisições, nos testes de 500 requisições teve uma taxa de erro de 0,44%. Já nas avaliações com 1.000 requisições, essa taxa aumentou para 2,32%, conforme a tabela 1.
 
 <div id="attachment_53921" style="width: 574px" class="wp-caption alignnone">
-  <img class="wp-image-53921 size-full" src="http://tableless.com.br/wp-content/uploads/2016/04/uso_memoria.png" alt="Resultado do consumo de memória RAM" width="564" height="332" />
+  <img class="wp-image-53921 size-full" src="http://tableless.com.br/uploads/2016/04/uso_memoria.png" alt="Resultado do consumo de memória RAM" width="564" height="332" />
   
   <p class="wp-caption-text">
     Figura 3 &#8211; Resultado do consumo de memória RAM
@@ -83,7 +83,7 @@ Quanto ao consumo dos recursos computacionais, todas as tecnologias tiveram um c
 No indicador consumo de memória RAM, figura 3, praticamente todas as plataformas tiveram consumo constante e estável. Das plataformas que conseguiram atender todas as requisições com taxas de erro “zero”, Node.js foi a que teve o menor consumo, enquanto o Twisted foi a que obteve o maior consumo de memória, porém essa diferença entre as plataformas, em geral, foi baixa.
 
 <div id="attachment_53920" style="width: 574px" class="wp-caption alignnone">
-  <img class="wp-image-53920 size-full" src="http://tableless.com.br/wp-content/uploads/2016/04/uso_cpu.png" alt="Resultado consumo de CPU" width="564" height="332" />
+  <img class="wp-image-53920 size-full" src="http://tableless.com.br/uploads/2016/04/uso_cpu.png" alt="Resultado consumo de CPU" width="564" height="332" />
   
   <p class="wp-caption-text">
     Figura 4 &#8211; Resultado consumo de CPU

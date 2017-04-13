@@ -118,13 +118,13 @@ Algumas outras dicas e recomendações podem ser vistas neste documento que o Go
 
 Veja a [segunda parte deste artigo aqui][10].
 
- [1]: http://tableless.com.br/wp-content/uploads/2012/07/waterfall1.png
- [2]: http://tableless.com.br/wp-content/uploads/2012/07/waterfall2.png
+ [1]: http://tableless.com.br/uploads/2012/07/waterfall1.png
+ [2]: http://tableless.com.br/uploads/2012/07/waterfall2.png
  [3]: http://tableless.com.br/css-sprites/
  [4]: https://developers.google.com/speed/docs/best-practices/request?hl=sv
  [5]: http://spriteme.org
- [6]: http://tableless.com.br/wp-content/uploads/2012/08/externaljs1.png
- [7]: http://tableless.com.br/wp-content/uploads/2012/08/externaljs2.png
+ [6]: http://tableless.com.br/uploads/2012/08/externaljs1.png
+ [7]: http://tableless.com.br/uploads/2012/08/externaljs2.png
  [8]: http://www.browserscope.org/
  [9]: https://developers.google.com/speed/docs/best-practices/rtt?hl=sv#AvoidCssImport
  [10]: http://tableless.com.br/performance-frontend-parte2/

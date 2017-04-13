@@ -17,7 +17,7 @@ Alguns navegadores como Chrome, Edge e Safari já começaram a suportar o elemen
 
 Este novo elemento dispensa apresentação. Sua grande vantagem é a excelente usabilidade e internacionalização automática. Veja como fica a apresentação deste elemento no Android 5:
 
-[<img class="  wp-image-50884 aligncenter" src="http://tableless.com.br/wp-content/uploads/2015/08/inputdateandroid.png" alt="inputdateandroid" width="198" height="352" />][1]
+[<img class="  wp-image-50884 aligncenter" src="http://tableless.com.br/uploads/2015/08/inputdateandroid.png" alt="inputdateandroid" width="198" height="352" />][1]
 
 <h3 style="text-align: left;">
   <strong>Propriedade valueAsDate:</strong>
@@ -166,4 +166,4 @@ Uma última atenção a ser tomada é em relação ao método Date.parse(). Depe
 
 Acredito que já seja possível utilizar os novos recursos da **especificação** de internacionalização HTML5 em alguns projetos, com pequenos fallbacks, ao invés de utilizar bibliotecas específicas de internacionalização, como globalize.js e moment.js.
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/08/inputdateandroid.png
+ [1]: http://tableless.com.br/uploads/2015/08/inputdateandroid.png

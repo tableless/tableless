@@ -35,7 +35,7 @@ Vamos enumerar a seguir os recursos disponíveis do cloud9:
 
 Acesse a url <a href="https://c9.io/" target="_blank" rel="nofollow">https://c9.io/</a> e clique no botão SIGN UP, preenchendo o formulário com o seu login, nome, senha e e-mail. Após criar a conta, clique no link “<a class="dashboardLink" href="https://c9.io/dashboard.html" target="_blank" rel="nofollow">Go to your dashboard</a>” e clique no recém criado _workspace_ (área de trabalho). Quando você iniciar o workspace “demo-project”, uma área de trabalho conforme a figura a seguir é criada:
 
-[<img class="alignnone size-full wp-image-51096" src="http://tableless.com.br/wp-content/uploads/2015/09/AAEAAQAAAAAAAAa1AAAAJDMwYTdiNWNjLTM1NmQtNDFlMy05YWMyLWYzMmNhZTViOWM1NA.png" alt="AAEAAQAAAAAAAAa1AAAAJDMwYTdiNWNjLTM1NmQtNDFlMy05YWMyLWYzMmNhZTViOWM1NA" width="800" height="580" />][1]
+[<img class="alignnone size-full wp-image-51096" src="http://tableless.com.br/uploads/2015/09/AAEAAQAAAAAAAAa1AAAAJDMwYTdiNWNjLTM1NmQtNDFlMy05YWMyLWYzMmNhZTViOWM1NA.png" alt="AAEAAQAAAAAAAAa1AAAAJDMwYTdiNWNjLTM1NmQtNDFlMy05YWMyLWYzMmNhZTViOWM1NA" width="800" height="580" />][1]
 
 Em 1, temos a área destinada a abrir arquivos e navegadores, conforme a necessidade. Pode-se, inclusive, “desgrudar” a aba da barra e arrastá-la para o canto da tela, forma a produzir uma nova área de abas. Em 2 temos a árvore de arquivos do seu _workspace_. Perceba que temos pastas “PHP”, “Ruby” etc. Estas pastas apenas indicam que podemos trabalhar com diversas tecnologias ao mesmo tempo. Não é necessário, por exemplo, colocar todos os seus arquivos PHP na pasta. Em 3 temos um menu horizontal com diversas opções, dentre elas o botão “run”, usado para executar projetos e arquivos. Em 4 temos algumas configurações em relação ao tema, layout entre outras opções.
 
@@ -43,7 +43,7 @@ Em 1, temos a área destinada a abrir arquivos e navegadores, conforme a necessi
 
 Após a instalação, vamos testar um arquivo PHP já existente no workspace. Para isso, abra a pasta “php” e clique duas vezes no arquivo index.php. Ele será aberto como uma aba na IDE. Após abrir o arquivo, você verá algo do tipo:
 
-[<img class="alignnone size-full wp-image-51097" src="http://tableless.com.br/wp-content/uploads/2015/09/2015-09-03-19_47_05-Email.png" alt="2015-09-03 19_47_05-Email" width="885" height="442" />][2]
+[<img class="alignnone size-full wp-image-51097" src="http://tableless.com.br/uploads/2015/09/2015-09-03-19_47_05-Email.png" alt="2015-09-03 19_47_05-Email" width="885" height="442" />][2]
 
 Após o apache iniciar, uma URL surge na qual você pode clicá-la. Com isso, uma nova aba será aberta e você poderá conferir o resultado do código PHP gerado. Como tarefa, crie um novo arquivo na pasta PHP chamado “phpinfo.php”, e adicione o seguinte conteúdo:
 
@@ -51,19 +51,19 @@ Após o apache iniciar, uma URL surge na qual você pode clicá-la. Com isso, um
 phpinfo();
 </pre>
 
-[<img class="alignnone size-full wp-image-51098" src="http://tableless.com.br/wp-content/uploads/2015/09/AAEAAQAAAAAAAAYLAAAAJDFmZGM4MDllLWViMTYtNDAyOC1iZDY0LTc3OTQ3NDM0NWViNA.png" alt="AAEAAQAAAAAAAAYLAAAAJDFmZGM4MDllLWViMTYtNDAyOC1iZDY0LTc3OTQ3NDM0NWViNA" width="800" height="458" />][3]
+[<img class="alignnone size-full wp-image-51098" src="http://tableless.com.br/uploads/2015/09/AAEAAQAAAAAAAAYLAAAAJDFmZGM4MDllLWViMTYtNDAyOC1iZDY0LTc3OTQ3NDM0NWViNA.png" alt="AAEAAQAAAAAAAAYLAAAAJDFmZGM4MDllLWViMTYtNDAyOC1iZDY0LTc3OTQ3NDM0NWViNA" width="800" height="458" />][3]
 
 # Utilizando o console/bash
 
 Na parte inferior da IDE existe uma aba chamada _bash,_ a qual você pode utilizar para realizar as mais diferentes ações. A maioria dos comandos Linux que você utiliza em uma shell no seu computador também pode ser usado aqui, conforme o exemplo a seguir:
 
-[<img class="alignnone size-full wp-image-51099" src="http://tableless.com.br/wp-content/uploads/2015/09/AAEAAQAAAAAAAANpAAAAJGRmODIzMTQ5LTg2NTgtNDliMC04NDAyLTc5Njk1ZTk4MGRmYg.png" alt="AAEAAQAAAAAAAANpAAAAJGRmODIzMTQ5LTg2NTgtNDliMC04NDAyLTc5Njk1ZTk4MGRmYg" width="800" height="638" />][4]
+[<img class="alignnone size-full wp-image-51099" src="http://tableless.com.br/uploads/2015/09/AAEAAQAAAAAAAANpAAAAJGRmODIzMTQ5LTg2NTgtNDliMC04NDAyLTc5Njk1ZTk4MGRmYg.png" alt="AAEAAQAAAAAAAANpAAAAJGRmODIzMTQ5LTg2NTgtNDliMC04NDAyLTc5Njk1ZTk4MGRmYg" width="800" height="638" />][4]
 
 # Diversas tecnologias prontas para uso
 
 Uma das vantagens do cloud9, além de você ter uma IDE nativa em qualquer lugar do mundo (basta apenas ter acesso à Internet), é poder utilizar diversas tecnologias prontas para uso. Por exemplo, enjoou do PHP e quer testar o Rails? Basta abrir o terminal e criar o seu projeto:
 
-[<img class="alignnone size-full wp-image-51100" src="http://tableless.com.br/wp-content/uploads/2015/09/AAEAAQAAAAAAAALfAAAAJDg2ZTA0ZTQyLWIwMjctNGVjMi1iNWFjLWUzM2FkZmFjZTQ5NQ.png" alt="AAEAAQAAAAAAAALfAAAAJDg2ZTA0ZTQyLWIwMjctNGVjMi1iNWFjLWUzM2FkZmFjZTQ5NQ" width="630" height="367" />][5]
+[<img class="alignnone size-full wp-image-51100" src="http://tableless.com.br/uploads/2015/09/AAEAAQAAAAAAAALfAAAAJDg2ZTA0ZTQyLWIwMjctNGVjMi1iNWFjLWUzM2FkZmFjZTQ5NQ.png" alt="AAEAAQAAAAAAAALfAAAAJDg2ZTA0ZTQyLWIwMjctNGVjMi1iNWFjLWUzM2FkZmFjZTQ5NQ" width="630" height="367" />][5]
 
 # Para saber mais:
 
@@ -79,8 +79,8 @@ O cloud9 tem uma boa documentação neste endereço:<a href="https://docs.c9.io/
 
 &nbsp;
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/09/AAEAAQAAAAAAAAa1AAAAJDMwYTdiNWNjLTM1NmQtNDFlMy05YWMyLWYzMmNhZTViOWM1NA.png
- [2]: http://tableless.com.br/wp-content/uploads/2015/09/2015-09-03-19_47_05-Email.png
- [3]: http://tableless.com.br/wp-content/uploads/2015/09/AAEAAQAAAAAAAAYLAAAAJDFmZGM4MDllLWViMTYtNDAyOC1iZDY0LTc3OTQ3NDM0NWViNA.png
- [4]: http://tableless.com.br/wp-content/uploads/2015/09/AAEAAQAAAAAAAANpAAAAJGRmODIzMTQ5LTg2NTgtNDliMC04NDAyLTc5Njk1ZTk4MGRmYg.png
- [5]: http://tableless.com.br/wp-content/uploads/2015/09/AAEAAQAAAAAAAALfAAAAJDg2ZTA0ZTQyLWIwMjctNGVjMi1iNWFjLWUzM2FkZmFjZTQ5NQ.png
+ [1]: http://tableless.com.br/uploads/2015/09/AAEAAQAAAAAAAAa1AAAAJDMwYTdiNWNjLTM1NmQtNDFlMy05YWMyLWYzMmNhZTViOWM1NA.png
+ [2]: http://tableless.com.br/uploads/2015/09/2015-09-03-19_47_05-Email.png
+ [3]: http://tableless.com.br/uploads/2015/09/AAEAAQAAAAAAAAYLAAAAJDFmZGM4MDllLWViMTYtNDAyOC1iZDY0LTc3OTQ3NDM0NWViNA.png
+ [4]: http://tableless.com.br/uploads/2015/09/AAEAAQAAAAAAAANpAAAAJGRmODIzMTQ5LTg2NTgtNDliMC04NDAyLTc5Njk1ZTk4MGRmYg.png
+ [5]: http://tableless.com.br/uploads/2015/09/AAEAAQAAAAAAAALfAAAAJDg2ZTA0ZTQyLWIwMjctNGVjMi1iNWFjLWUzM2FkZmFjZTQ5NQ.png

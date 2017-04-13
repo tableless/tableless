@@ -52,7 +52,7 @@ Sem mais&nbsp;delongas, vamos ao que interessa!
 
 Assim como, por padrão, os temas do WordPress ficam localizados no diretório _/wp-content/themes/_, os templates do Joomla! ficam localizados no diretório _/templates/_. Para começar, vamos criar um diretório chamado &#8220;meunovotemplate&#8221; com a seguinte estrutura básica de arquivos de todo template Joomla!:
 
-<img class="alignnone size-full wp-image-49093" src="http://tableless.com.br/wp-content/uploads/2015/05/estrutura-basica-de-arquivos-de-templates-joomla.png" alt="estrutura-basica-de-arquivos-de-templates-joomla" width="283" height="226" />
+<img class="alignnone size-full wp-image-49093" src="http://tableless.com.br/uploads/2015/05/estrutura-basica-de-arquivos-de-templates-joomla.png" alt="estrutura-basica-de-arquivos-de-templates-joomla" width="283" height="226" />
 
 Adicionamos&nbsp;arquivos _index.html_&nbsp;em branco no&nbsp;diretório do template e em seus subdiretórios como&nbsp;medida adicional de segurança contra a exposição de informações da instalação por eventuais tentativas de&nbsp;acesso direto aos&nbsp;diretórios com permissões 775 de FTP — equivalente aos arquivos _index.php_&nbsp;&#8220;silence is golden&#8221; do WordPress.
 
@@ -311,7 +311,7 @@ No exemplo acima, com a&nbsp;configuração de visibilidade&nbsp;do módulo &#82
 
 Existem quatro&nbsp;formas de instalar extensões no Joomla!: pelo JED, enviando um pacote de arquivos, a partir do diretório da instalação ou&nbsp;a partir de um URL. Em&nbsp;nosso caso, optaremos por enviar&nbsp;um pacote de arquivos: é só compactar o conteúdo do diretório do template&nbsp;(_.zip_, _.tar.gz_ ou _tar.bz2_) e fazer o upload no Joomla! pelo Gerenciador de Extensões do painel de administração:
 
-[<img class="alignnone size-full wp-image-48873" src="http://tableless.com.br/wp-content/uploads/2015/05/instalacao-de-extensoes-no-joomla.png" alt="Instalação de extensões no Joomla!" width="900" height="500" />][1]
+[<img class="alignnone size-full wp-image-48873" src="http://tableless.com.br/uploads/2015/05/instalacao-de-extensoes-no-joomla.png" alt="Instalação de extensões no Joomla!" width="900" height="500" />][1]
 
 Os arquivos e subdiretórios do template serão colocados em um diretório com o mesmo nome do arquivo compactado em _/templates/_. Além disso,&nbsp;o template será listado no Gerenciador de Temas — com aquelas informações que informamos no arquivo&nbsp;_templateDetails.xml&nbsp;—,_&nbsp;em que&nbsp;deve ser definido&nbsp;como **tema padrão do site**.
 
@@ -332,5 +332,5 @@ E até a próxima pessoal!
   * <a title="Documentação do Joomla!" href="http://docs.joomla.org" target="_blank">Documentação do Joomla!</a>
   * <a title="Documentação do WordPress" href="http://codex.wordpress.org" target="_blank">Documentação do WordPress</a>
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/05/instalacao-de-extensoes-no-joomla.png
- [2]: http://tableless.com.br/wp-content/uploads/2015/05/template.zip
+ [1]: http://tableless.com.br/uploads/2015/05/instalacao-de-extensoes-no-joomla.png
+ [2]: http://tableless.com.br/uploads/2015/05/template.zip

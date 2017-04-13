@@ -29,7 +29,7 @@ A base do Scrum é o empirismo. Ou seja, a teoria de que só conhecemos algo de 
 
 O termo Scrum surgiu do rugby. No jogo a palavra scrum descreve a formação ordenada dos jogadores em determinados momentos da partida. A inspiração aqui vem da união que equipes esportivas necessitam para vencer o jogo.
 
-<img class="alignnone size-full wp-image-37513" alt="scrum-rugby" src="http://tableless.com.br/wp-content/uploads/2013/05/scrum-rugby.jpg" width="660" height="400" srcset="uploads/2013/05/scrum-rugby.jpg 660w, uploads/2013/05/scrum-rugby-277x168.jpg 277w, uploads/2013/05/scrum-rugby-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37513" alt="scrum-rugby" src="http://tableless.com.br/uploads/2013/05/scrum-rugby.jpg" width="660" height="400" srcset="uploads/2013/05/scrum-rugby.jpg 660w, uploads/2013/05/scrum-rugby-277x168.jpg 277w, uploads/2013/05/scrum-rugby-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## O que você precisa para colocar na prática
 
@@ -115,7 +115,7 @@ Certo, agora que já sabemos tudo o que precisa ser realizado, a equipe define a
 
 É um gráfico que tem a função de monitorar o desenvolvimento da equipe. Funciona da seguinte maneira: todos os dias você anota quantas tarefas do seu Sprint Backlog foram efetivamente cumpridas. Desta maneira você pode saber com antecedência a velocidade que sua equipe trabalha. Este gráfico facilita a previsão de prazos futuros e até mesmo deduzir se a deadline vai estourar. O Burndown Chart é criado tendo como base dois eixos: um vertical representando a quantidade de trabalho que existe a ser feito e um horizontal para o tempo. A linha diagonal mostrará a velocidade da equipe ao completar as tarefas. Você pode utilizar alguma ferramenta para gerar automaticamente este gráfico ou até mesmo montar um utilizando lápis e papel. De qualquer forma a Burndown Chart é uma ótima maneira de medir o nível de produtividade do seu projeto. Lembrando sempre que não dá pra adivinhar o futuro com precisão. A base do Scrum ainda é a experiência empírica.
 
-<img class="alignnone size-full wp-image-37512" alt="burndown-chart" src="http://tableless.com.br/wp-content/uploads/2013/05/burndown-chart.jpg" width="660" height="400" srcset="uploads/2013/05/burndown-chart.jpg 660w, uploads/2013/05/burndown-chart-277x168.jpg 277w, uploads/2013/05/burndown-chart-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37512" alt="burndown-chart" src="http://tableless.com.br/uploads/2013/05/burndown-chart.jpg" width="660" height="400" srcset="uploads/2013/05/burndown-chart.jpg 660w, uploads/2013/05/burndown-chart-277x168.jpg 277w, uploads/2013/05/burndown-chart-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### Kanban Boards
 
@@ -125,7 +125,7 @@ Não é tradicionalmente parte do Scrum, mas é uma boa ferramenta de planejamen
 
 Artefatos, mestres, papéis. A primeira vista tudo isto pode parecer mais um jogo de RPG do que um framework de gerenciamento de projetos&#8230; Mas na verdade tudo é mais simples do que parece. Vou exemplificar com uma situação real.
 
-<img class="alignnone size-full wp-image-37511" alt="scrum" src="http://tableless.com.br/wp-content/uploads/2013/05/scrum.jpg" width="660" height="400" srcset="uploads/2013/05/scrum.jpg 660w, uploads/2013/05/scrum-277x168.jpg 277w, uploads/2013/05/scrum-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37511" alt="scrum" src="http://tableless.com.br/uploads/2013/05/scrum.jpg" width="660" height="400" srcset="uploads/2013/05/scrum.jpg 660w, uploads/2013/05/scrum-277x168.jpg 277w, uploads/2013/05/scrum-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 A sua empresa tem um cliente X que quer lançar um novo site. Um gerente de projetos (Product Owner) faz um briefing e levanta todas as necessidades do site (Users Stories). Ele se reúne com os profissionais de design, front-end e back-end (Equipe de Desenvolvimento) para definir todas as tarefas necessárias para produzir o projeto (Reunião de planejamento) e formaliza isto em uma lista de tarefas (Product Backlog). Você (Scrum Master) fica encarregado de organizar as reuniões e garantir que todos entendam as tarefas. A equipe decide democraticamente que vai entregar a página inicial pronta (Objetivo) até o final da semana (Sprint). A equipe então divide o objetivo em tarefas menores (Sprint Backlog) como criar o layout, desenvolver o HTML e CSS, implantar um sistema de administração de conteúdo e testar tudo em diversos browsers. Cada um escolhe que tarefas gostaria de realizar, define um prazo de duração em horas para cada tarefa e diariamente vocês se reúnem por 15 minutos para acompanhar o andamento do projeto (Reunião Diária). Ao final da semana vocês apresentam o resultado (Revisão da Sprint) e refletem sobre dificuldades e quais melhorias podem ser feitas na próxima semana (Retrospectiva da Sprint). Mas mais importante de tudo vocês entregaram um produto parcial, porém funcional (Incremento) para o cliente. A partir do feedback de todos vocês decidem qual vai ser a tarefa a ser realizada na próxima semana. E assim o ciclo recomeça!
 

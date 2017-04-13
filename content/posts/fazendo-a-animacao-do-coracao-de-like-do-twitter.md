@@ -20,7 +20,7 @@ Quando o Twitter colocou uma animação no coração de Like na versão web, eu 
 
 Antes de olhar o código deles pra pesquisar como foi feito, fiquei pensando em uma série de formas para fazer isso aí. Primeiro, pensei em ter várias imagens, e aí usar `keyframes` pra alterar esse background do elemento a cada X tempo de milésimos de segundos. Depois evolui o pensamento para fazer apenas uma imagem, com todos os &#8220;frames&#8221; da animação. Muito mais inteligente, claro&#8230; lembra dos Sprites&#8230; Pois é. Com essa imagem eu poderia simplesmente mover o background com um transition simples do CSS. A imagem em questão é essa aqui:
 
-[<img src="http://tableless.com.br/wp-content/uploads/2016/01/web_heart_animation.png" alt="web_heart_animation" style="width: 100%; height: auto;" class="alignnone size-full wp-image-52833" />][1]
+[<img src="http://tableless.com.br/uploads/2016/01/web_heart_animation.png" alt="web_heart_animation" style="width: 100%; height: auto;" class="alignnone size-full wp-image-52833" />][1]
 
 Mas a coisa não funcionou muito bem. Ficou mais ou menos assim:
   
@@ -44,7 +44,7 @@ Esse efeito seria o mesmo efeito que eu conseguiria se tivesse feito manualmente
 
 O final, ficou assim:
 
- [1]: http://tableless.com.br/wp-content/uploads/2016/01/web_heart_animation.png
+ [1]: http://tableless.com.br/uploads/2016/01/web_heart_animation.png
  [2]: https://developer.mozilla.org/files/3426/cubic-bezier,ease-in.png
  [3]: https://mdn.mozillademos.org/files/3429/cubic-bezier,ease.png
  [4]: http://easings.net

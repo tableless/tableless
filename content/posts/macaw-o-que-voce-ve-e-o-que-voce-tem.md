@@ -23,7 +23,7 @@ E hoje, sem mais nem menos, venho lhes apresentar o novo &#8220;WYSIWYG&#8221; (
 
 ## Uma ideia
 
-[<img src="http://tableless.com.br/wp-content/uploads/2014/04/Macaw.png" alt="Macaw" width="400" height="400" class="aligncenter size-full wp-image-42007" />][2]
+[<img src="http://tableless.com.br/uploads/2014/04/Macaw.png" alt="Macaw" width="400" height="400" class="aligncenter size-full wp-image-42007" />][2]
 
 Macaw, assim como outros projetos que vem surgindo por ai, teve seu início no Kickstarter, pedindo fundos para poder iniciar o projeto. Em primeira mão seria desenvolvido especialmente para OS X, mas abriram o leque de opções e também ofereceram uma versão para PC.
 
@@ -37,7 +37,7 @@ Achei legal que ele já vem acompanhado do sistema de Grids, com vários tamanho
 
 Mesmo que seja um &#8220;WYSIWYG&#8221;, você não vai perder a semântica do HTML5, que é uma das coisas mais importantes no padrão web de hoje em dia (as ferramentas de busca agradecem!). Não vai perder o acesso do celular por seu site estar todo quebrado, porque você pode fazer ele responsivo e também não vai uma pessoa com necessidade ou um simples robô &#8220;na mão&#8221; por não conseguir interpretar o seu código.
 
-[<img src="http://tableless.com.br/wp-content/uploads/2014/04/macaw2.png" alt="Macaw.co" width="620" height="859" class="aligncenter size-full wp-image-42008" srcset="uploads/2014/04/macaw2.png 620w, uploads/2014/04/macaw2-400x554.png 400w" sizes="(max-width: 620px) 100vw, 620px" />][5]
+[<img src="http://tableless.com.br/uploads/2014/04/macaw2.png" alt="Macaw.co" width="620" height="859" class="aligncenter size-full wp-image-42008" srcset="uploads/2014/04/macaw2.png 620w, uploads/2014/04/macaw2-400x554.png 400w" sizes="(max-width: 620px) 100vw, 620px" />][5]
 
 ## &#8220;Getting Started&#8221;
 
@@ -68,10 +68,10 @@ Vamos discutir sobre o assunto, porque discutir é sempre saudável, hehe.
 Abraços, até a próxima 😉
 
  [1]: http://macaw.co/
- [2]: http://tableless.com.br/wp-content/uploads/2014/04/Macaw.png
+ [2]: http://tableless.com.br/uploads/2014/04/Macaw.png
  [3]: http://attasi.com/
  [4]: https://www.kickstarter.com/projects/macaw/macaw-the-code-savvy-web-design-tool
- [5]: http://tableless.com.br/wp-content/uploads/2014/04/macaw2.png
+ [5]: http://tableless.com.br/uploads/2014/04/macaw2.png
  [6]: http://download.macaw.co/
  [7]: https://secure.macaw.co/
  [8]: http://forum.macaw.co/

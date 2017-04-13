@@ -30,7 +30,7 @@ Eu escrevi [mais sobre isso no Tecnocracia][1], se quiserem dar uma lida.
 
 Existem diversos aplicativos desse tipo nas app stores e pelo visto os norte americanos adoram esse tipo de coisa. A ideia geral é poder desabafar um segredo qualquer, algo que esteja te sufocando, pode receber feedback das pessoas e ninguém saber exatamente quem você é. Um desabafo anônimo, modelo básico do negócio.
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/06/app-anonimato.jpg" alt="app-anonimato" width="660" height="391" class="alignnone size-full wp-image-42975" srcset="uploads/2014/06/app-anonimato.jpg 660w, uploads/2014/06/app-anonimato-400x236.jpg 400w" sizes="(max-width: 660px) 100vw, 660px" />
+<img src="http://tableless.com.br/uploads/2014/06/app-anonimato.jpg" alt="app-anonimato" width="660" height="391" class="alignnone size-full wp-image-42975" srcset="uploads/2014/06/app-anonimato.jpg 660w, uploads/2014/06/app-anonimato-400x236.jpg 400w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Eu não sei o que há, se é uma desnecessidade do anonimato ou uma carência generalizada mesmo, mas esses dois aplicativos citados, que são aparentemente os mais utilizados por brasileiros, não tem exatamente posts nessa linha. O que mais se vê são pessoas procurando pessoas. O Secret parece um Grindr e o Whisper parece um Tindr e ambos parecem o ParPerfeito. As pessoas postam “anúncios” procurando um amor ou sexo, criam pseudônimos que o identifiquem através dos posts ou simplesmente colocam seu nome, e-mail e (pasmem!) até o celular eu já vi publicado.
 

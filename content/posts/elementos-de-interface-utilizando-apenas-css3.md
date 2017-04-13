@@ -28,7 +28,7 @@ Botões, galerias/slides, tabs e até mesmo o famoso efeito de lightbox já pode
 
 ## Galeria
 
-[<img src="http://tableless.com.br/wp-content/uploads/2013/05/gallery-css.jpg" alt="gallery-css" width="660" height="342" class="alignnone size-full wp-image-37344" srcset="uploads/2013/05/gallery-css.jpg 660w, uploads/2013/05/gallery-css-324x168.jpg 324w, uploads/2013/05/gallery-css-588x304.jpg 588w, uploads/2013/05/gallery-css-598x310.jpg 598w" sizes="(max-width: 660px) 100vw, 660px" />][2]
+[<img src="http://tableless.com.br/uploads/2013/05/gallery-css.jpg" alt="gallery-css" width="660" height="342" class="alignnone size-full wp-image-37344" srcset="uploads/2013/05/gallery-css.jpg 660w, uploads/2013/05/gallery-css-324x168.jpg 324w, uploads/2013/05/gallery-css-588x304.jpg 588w, uploads/2013/05/gallery-css-598x310.jpg 598w" sizes="(max-width: 660px) 100vw, 660px" />][2]
 
 [http://benschwarz.github.io/gallery-css/][2]
 
@@ -40,7 +40,7 @@ O pseudo atributo target é aplicado em elementos referenciados por uma âncora.
 
 ## Lightbox
 
-[<img src="http://tableless.com.br/wp-content/uploads/2013/05/lightbox-css.jpg" alt="lightbox-css" width="660" height="342" class="alignnone size-full wp-image-37345" srcset="uploads/2013/05/lightbox-css.jpg 660w, uploads/2013/05/lightbox-css-324x168.jpg 324w, uploads/2013/05/lightbox-css-588x304.jpg 588w, uploads/2013/05/lightbox-css-598x310.jpg 598w" sizes="(max-width: 660px) 100vw, 660px" />][4]
+[<img src="http://tableless.com.br/uploads/2013/05/lightbox-css.jpg" alt="lightbox-css" width="660" height="342" class="alignnone size-full wp-image-37345" srcset="uploads/2013/05/lightbox-css.jpg 660w, uploads/2013/05/lightbox-css-324x168.jpg 324w, uploads/2013/05/lightbox-css-588x304.jpg 588w, uploads/2013/05/lightbox-css-598x310.jpg 598w" sizes="(max-width: 660px) 100vw, 660px" />][4]
 
 [http://tympanus.net/codrops/2011/12/26/css3-lightbox/][4]
 
@@ -48,7 +48,7 @@ O efeito Lightbox é um dos grandes responsáveis pela popularização do JavaSc
 
 ## Menu Dropdown
 
-[<img src="http://tableless.com.br/wp-content/uploads/2013/05/dropdown-css.jpg" alt="dropdown-css" width="660" height="342" class="alignnone size-full wp-image-37343" srcset="uploads/2013/05/dropdown-css.jpg 660w, uploads/2013/05/dropdown-css-324x168.jpg 324w, uploads/2013/05/dropdown-css-588x304.jpg 588w, uploads/2013/05/dropdown-css-598x310.jpg 598w" sizes="(max-width: 660px) 100vw, 660px" />][5]
+[<img src="http://tableless.com.br/uploads/2013/05/dropdown-css.jpg" alt="dropdown-css" width="660" height="342" class="alignnone size-full wp-image-37343" srcset="uploads/2013/05/dropdown-css.jpg 660w, uploads/2013/05/dropdown-css-324x168.jpg 324w, uploads/2013/05/dropdown-css-588x304.jpg 588w, uploads/2013/05/dropdown-css-598x310.jpg 598w" sizes="(max-width: 660px) 100vw, 660px" />][5]
 
 [http://line25.com/tutorials/how-to-create-a-pure-css-dropdown-menu][5]
 
@@ -58,7 +58,7 @@ Ainda dá para usar algum tipo de transition ou animation para deixar o menu mai
 
 ## Abas
 
-[<img src="http://tableless.com.br/wp-content/uploads/2013/05/tabs-css.jpg" alt="tabs-css" width="660" height="342" class="alignnone size-full wp-image-37346" srcset="uploads/2013/05/tabs-css.jpg 660w, uploads/2013/05/tabs-css-324x168.jpg 324w, uploads/2013/05/tabs-css-588x304.jpg 588w, uploads/2013/05/tabs-css-598x310.jpg 598w" sizes="(max-width: 660px) 100vw, 660px" />][6]
+[<img src="http://tableless.com.br/uploads/2013/05/tabs-css.jpg" alt="tabs-css" width="660" height="342" class="alignnone size-full wp-image-37346" srcset="uploads/2013/05/tabs-css.jpg 660w, uploads/2013/05/tabs-css-324x168.jpg 324w, uploads/2013/05/tabs-css-588x304.jpg 588w, uploads/2013/05/tabs-css-598x310.jpg 598w" sizes="(max-width: 660px) 100vw, 660px" />][6]
 
 [http://www.sitepoint.com/css3-tabs-using-target-selector/][6]
 
@@ -66,7 +66,7 @@ E que tal uma interface separada por abas sem usar JavaScript? É isso que este 
 
 ## Tooltip
 
-[<img src="http://tableless.com.br/wp-content/uploads/2013/05/tooltip-css.jpg" alt="tooltip-css" width="660" height="342" class="alignnone size-full wp-image-37347" srcset="uploads/2013/05/tooltip-css.jpg 660w, uploads/2013/05/tooltip-css-324x168.jpg 324w, uploads/2013/05/tooltip-css-588x304.jpg 588w, uploads/2013/05/tooltip-css-598x310.jpg 598w" sizes="(max-width: 660px) 100vw, 660px" />][7]
+[<img src="http://tableless.com.br/uploads/2013/05/tooltip-css.jpg" alt="tooltip-css" width="660" height="342" class="alignnone size-full wp-image-37347" srcset="uploads/2013/05/tooltip-css.jpg 660w, uploads/2013/05/tooltip-css-324x168.jpg 324w, uploads/2013/05/tooltip-css-588x304.jpg 588w, uploads/2013/05/tooltip-css-598x310.jpg 598w" sizes="(max-width: 660px) 100vw, 660px" />][7]
 
 [http://kushagragour.in/lab/hint/][7]
 
@@ -76,7 +76,7 @@ Uma nota importante: as transições nos atributos after e before só foram impl
 
 ## Botões
 
-[<img src="http://tableless.com.br/wp-content/uploads/2013/05/buttons-css.jpg" alt="buttons-css" width="660" height="342" class="alignnone size-full wp-image-37342" srcset="uploads/2013/05/buttons-css.jpg 660w, uploads/2013/05/buttons-css-324x168.jpg 324w, uploads/2013/05/buttons-css-588x304.jpg 588w, uploads/2013/05/buttons-css-598x310.jpg 598w" sizes="(max-width: 660px) 100vw, 660px" />][9]
+[<img src="http://tableless.com.br/uploads/2013/05/buttons-css.jpg" alt="buttons-css" width="660" height="342" class="alignnone size-full wp-image-37342" srcset="uploads/2013/05/buttons-css.jpg 660w, uploads/2013/05/buttons-css-324x168.jpg 324w, uploads/2013/05/buttons-css-588x304.jpg 588w, uploads/2013/05/buttons-css-598x310.jpg 598w" sizes="(max-width: 660px) 100vw, 660px" />][9]
 
 [http://hellohappy.org/css3-buttons/][9]
 

@@ -87,7 +87,7 @@ Um exemplo que eu gosto bastante de usar é:
 
 O próprio Google utiliza CSS Sprites.
 
-[<img class="alignnone size-medium wp-image-47162" src="http://tableless.com.br/wp-content/uploads/2015/02/css-sprites-265x107.png" alt="css-sprites" width="265" height="107" srcset="uploads/2015/02/css-sprites-265x107.png 265w, uploads/2015/02/css-sprites.png 356w" sizes="(max-width: 265px) 100vw, 265px" />][4]
+[<img class="alignnone size-medium wp-image-47162" src="http://tableless.com.br/uploads/2015/02/css-sprites-265x107.png" alt="css-sprites" width="265" height="107" srcset="uploads/2015/02/css-sprites-265x107.png 265w, uploads/2015/02/css-sprites.png 356w" sizes="(max-width: 265px) 100vw, 265px" />][4]
 
 ## 7 &#8211; Websites responsivos
 
@@ -100,4 +100,4 @@ Essas são somente algumas dicas para que você venha ter mais vontade em aplica
  [1]: http://www.google.com.br/webmasters/ "Webmaster"
  [2]: http://tableless.com.br/gulp-o-novo-automatizador/ "Automatizador de tarefas"
  [3]: http://tableless.com.br/css-sprites/ "CSS Sprites"
- [4]: http://tableless.com.br/wp-content/uploads/2015/02/css-sprites.png
+ [4]: http://tableless.com.br/uploads/2015/02/css-sprites.png

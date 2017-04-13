@@ -34,7 +34,7 @@ Antes de ontem (dia 26/07/12), Christian Heilmann ([@codepo8][2]) e John Hammink
 
 Já ontem (dia 27/07/12) passei o dia inteiro no Hackathon na MozillaHQ. O objetivo era criar uma app e submeter para a [Mozilla Marketplace][4].
 
-<img style="margin-left: 78px" src="http://tableless.com.br/wp-content/uploads/2012/07/abb.jpg" alt="" width="560" height="420" />
+<img style="margin-left: 78px" src="http://tableless.com.br/uploads/2012/07/abb.jpg" alt="" width="560" height="420" />
 
 Infelizmente não consegui terminar e submeter a tempo, até porque aproveitei o dia para trocar muitas ideias com esses caras e gravar um vídeo com o Chris mostrando um celular rodando o Boot2Gecko \o/.
 

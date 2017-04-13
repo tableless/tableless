@@ -30,7 +30,7 @@ A usabilidade, ainda é vista como um “diferencial” ou “vantagem estratég
 Qualidade em Uso é um termo cunhado em meados da década de 90 por [Nigel Bevan][1] e incorporada à norma [ISO/IEC 9126][2], originalmente se referindo à qualidade de software. Ela estende a caracterização da qualidade e ergonomia de software contida em determinadas normas ISO, englobando o contexto do ambiente de trabalho para caracterizar a satisfação de uso, focando não apenas no usuário, mas em seu comportamento ao interagir com um sistema computacional. A qualidade interna (propriedades do código) e a qualidade externa (comportamento do software durante a execução) influenciam a qualidade em uso e estão contidas na mesma. Dessa forma, temos a percepção da qualidade verificada através do uso.
 
 <div id="attachment_4019" style="width: 586px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/wp-content/uploads/2011/07/Slide3.png"><img class="size-full wp-image-4019  " src="http://tableless.com.br/wp-content/uploads/2011/07/Slide3.png" alt="Escopos da Qualidade em Uso - adaptado de Bevan (1999)" width="576" height="370" srcset="uploads/2011/07/Slide3.png 960w, uploads/2011/07/Slide3-300x192.png 300w" sizes="(max-width: 576px) 100vw, 576px" /></a>
+  <a href="http://tableless.com.br/uploads/2011/07/Slide3.png"><img class="size-full wp-image-4019  " src="http://tableless.com.br/uploads/2011/07/Slide3.png" alt="Escopos da Qualidade em Uso - adaptado de Bevan (1999)" width="576" height="370" srcset="uploads/2011/07/Slide3.png 960w, uploads/2011/07/Slide3-300x192.png 300w" sizes="(max-width: 576px) 100vw, 576px" /></a>
   
   <p class="wp-caption-text">
     Escopos da Qualidade em Uso - adaptado de Bevan (1999)
@@ -38,7 +38,7 @@ Qualidade em Uso é um termo cunhado em meados da década de 90 por [Nigel Bevan
 </div>
 
 <div id="attachment_4018" style="width: 586px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/wp-content/uploads/2011/07/Slide4.png"><img class="size-full wp-image-4018 " src="http://tableless.com.br/wp-content/uploads/2011/07/Slide4.png" alt="Fatores interligados da Qualidade em Uso" width="576" height="222" srcset="uploads/2011/07/Slide4.png 960w, uploads/2011/07/Slide4-300x115.png 300w" sizes="(max-width: 576px) 100vw, 576px" /></a>
+  <a href="http://tableless.com.br/uploads/2011/07/Slide4.png"><img class="size-full wp-image-4018 " src="http://tableless.com.br/uploads/2011/07/Slide4.png" alt="Fatores interligados da Qualidade em Uso" width="576" height="222" srcset="uploads/2011/07/Slide4.png 960w, uploads/2011/07/Slide4-300x115.png 300w" sizes="(max-width: 576px) 100vw, 576px" /></a>
   
   <p class="wp-caption-text">
     Fatores interligados da Qualidade em Uso - adaptado de Bevan (1999)

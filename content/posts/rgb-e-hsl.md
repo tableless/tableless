@@ -102,4 +102,4 @@ O hexadecimal, queridinho dos nossos corações, sempre estará ao nosso lado. A
  [2]: http://www.w3.org/TR/SVG/types.html#ColorKeywords
  [3]: http://tableless.com.br/css3-breve-introducao-a-rgba
  [4]: http://en.wikipedia.org/wiki/RGB_color_model
- [5]: http://tableless.com.br/wp-content/uploads/2011/06/HSL_color_solid_cylinder_alpha_lowgamma.jpg "HSL_color_solid_cylinder_alpha_lowgamma"
+ [5]: http://tableless.com.br/uploads/2011/06/HSL_color_solid_cylinder_alpha_lowgamma.jpg "HSL_color_solid_cylinder_alpha_lowgamma"

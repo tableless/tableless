@@ -32,7 +32,7 @@ Há uma maneira de organizar melhor seu CSS e deixá-lo organizado para que a ma
 
 Os sites costumam ser dividos em vários pedaços. Um site simples, por exemplo, pode ser divido em 5 pedaços principais: Topo, Coluna da esquerda (onde normalmente vai um menu lateral), Coluna do meio (onde geralmente vai o conteúdo do site), Coluna da direita (publicidade, busca, etc) e Rodapé.
 
-<img width="530" height="504" alt="Exemplo de estrutura" id="image733" src="http://tableless.com.br/wp-content/uploads/2006/07/exemplo.jpg" />
+<img width="530" height="504" alt="Exemplo de estrutura" id="image733" src="http://tableless.com.br/uploads/2006/07/exemplo.jpg" />
 
 Você pode dividir seu CSS de acordo com este padrão. Ou seja, criar um arquivo CSS para cada pedaço do site, e depois importá-los em apenas um arquivo CSS principal, que será linkado na home.
 

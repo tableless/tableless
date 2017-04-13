@@ -42,7 +42,7 @@ Este documento propõe:
 ### Exemplos de CSS Shaders
 
 <div id="attachment_4303" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/wp-content/uploads/2011/10/intro-filtered-element.png"><img class="size-medium wp-image-4303" src="http://tableless.com.br/wp-content/uploads/2011/10/intro-filtered-element-300x194.png" alt="" width="300" height="194" srcset="uploads/2011/10/intro-filtered-element-300x194.png 300w, uploads/2011/10/intro-filtered-element.png 544w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://tableless.com.br/uploads/2011/10/intro-filtered-element.png"><img class="size-medium wp-image-4303" src="http://tableless.com.br/uploads/2011/10/intro-filtered-element-300x194.png" alt="" width="300" height="194" srcset="uploads/2011/10/intro-filtered-element-300x194.png 300w, uploads/2011/10/intro-filtered-element.png 544w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Elemento antes de aplicar o Shaders
@@ -50,7 +50,7 @@ Este documento propõe:
 </div>
 
 <div id="attachment_4304" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/wp-content/uploads/2011/10/intro-example-1.png"><img class="size-medium wp-image-4304" src="http://tableless.com.br/wp-content/uploads/2011/10/intro-example-1-300x202.png" alt="" width="300" height="202" srcset="uploads/2011/10/intro-example-1-300x202.png 300w, uploads/2011/10/intro-example-1.png 550w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="http://tableless.com.br/uploads/2011/10/intro-example-1.png"><img class="size-medium wp-image-4304" src="http://tableless.com.br/uploads/2011/10/intro-example-1-300x202.png" alt="" width="300" height="202" srcset="uploads/2011/10/intro-example-1-300x202.png 300w, uploads/2011/10/intro-example-1.png 550w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Elemento com um vértice shader aplicado

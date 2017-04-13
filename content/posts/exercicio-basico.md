@@ -35,7 +35,7 @@ Esse exercício está **disponível gratuitamente** no [Campus Online][2] també
   
 <http://visie.com.br/campus/>
 
-[<img class="alignleft size-thumbnail wp-image-1026" title="Layout Básico de Tableless" src="http://tableless.com.br/wp-content/uploads/2008/10/layout-tableless-150x150.jpg" alt="Exercício de Tableless do Campus Online" width="150" height="150" />][4]
+[<img class="alignleft size-thumbnail wp-image-1026" title="Layout Básico de Tableless" src="http://tableless.com.br/uploads/2008/10/layout-tableless-150x150.jpg" alt="Exercício de Tableless do Campus Online" width="150" height="150" />][4]
 
 A idéia é implementar esse layout utilizando CSS e XHTML. O layout, como já disse, é bem básico, indicado para o pessoal que está começando agora na área ou que migrou de desenvolvimento com tabelas para desenvolvimento CSS/XHTML.
 

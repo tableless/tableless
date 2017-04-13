@@ -54,7 +54,7 @@ O primeiro passo para estudar a Web Semântica é ter uma visão abrangente de c
 
 A “Pirâmide da Web Semântica” foi descrita ainda em 2001 e segue sendo um dos diagramas mais utilizados para explicar este universo de forma sucinta. Vale notar que esse diagrama possui diversas versões e modificações realizadas por profissionais de diferentes áreas (Ciência da Computação, Ciência da Informação,Biblioteconomia, ente outros), pois existem diversas propostas sobre a organização da Web Semântica, mas a versão que você vê abaixo é uma adaptação (traduzida) da figura original de 2001 que é inclusive a versão utilizada pelo W3C atualmente, com apenas um ou dois adendos que achei necessários.
 
-<img class="wp-image-56086 size-full" src="http://tableless.com.br/wp-content/uploads/2016/10/camadasWebSem.png" alt="camadas_web_semantica" width="484" height="334" />
+<img class="wp-image-56086 size-full" src="http://tableless.com.br/uploads/2016/10/camadasWebSem.png" alt="camadas_web_semantica" width="484" height="334" />
 
 A ideia desta estrutura é definir como implementar a Web Semântica, sendo que cada camada é complementar a camada imediatamente inferior, definindo as linguagens e conceitos chave que devem ser utilizados em tal implementação.
 

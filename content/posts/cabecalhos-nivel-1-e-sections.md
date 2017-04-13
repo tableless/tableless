@@ -45,7 +45,7 @@ Considere uma página com a seguinte estrutura:
 
 O navegadores exibirão o código da seguinte forma:
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/09/teste-titulos1.png" alt="Imagem com as palavras título importante em três tamanhos" width="265" height="141" class="aligncenter size-full wp-image-44187" srcset="uploads/2014/09/teste-titulos1.png 265w, uploads/2014/09/teste-titulos1-261x139.png 261w" sizes="(max-width: 265px) 100vw, 265px" />
+<img src="http://tableless.com.br/uploads/2014/09/teste-titulos1.png" alt="Imagem com as palavras título importante em três tamanhos" width="265" height="141" class="aligncenter size-full wp-image-44187" srcset="uploads/2014/09/teste-titulos1.png 265w, uploads/2014/09/teste-titulos1-261x139.png 261w" sizes="(max-width: 265px) 100vw, 265px" />
 
 Mas para os atuais leitores de tela a informação aparece da seguinte forma:
 
@@ -63,7 +63,7 @@ O que temos hoje é uma gama de tecnologias assistivas que navegam pelos cabeça
 
 Ao passar esse pequeno trecho de código dentro do [validador de markup do W3C][7] não encontramos erros. Ele passa com validação de HTML5 mas mostra o seguinte _warning_ na página:
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/09/validator-01.png" alt="Imagem com o resultado de um aviso do validador de markup referente a  cabeçalhos e leitores de tela" width="835" height="219" class="aligncenter size-full wp-image-44197" srcset="uploads/2014/09/validator-01.png 835w, uploads/2014/09/validator-01-265x69.png 265w, uploads/2014/09/validator-01-400x104.png 400w" sizes="(max-width: 835px) 100vw, 835px" />
+<img src="http://tableless.com.br/uploads/2014/09/validator-01.png" alt="Imagem com o resultado de um aviso do validador de markup referente a  cabeçalhos e leitores de tela" width="835" height="219" class="aligncenter size-full wp-image-44197" srcset="uploads/2014/09/validator-01.png 835w, uploads/2014/09/validator-01-265x69.png 265w, uploads/2014/09/validator-01-400x104.png 400w" sizes="(max-width: 835px) 100vw, 835px" />
 
 Ou seja: para garantir que tecnologias assistivas acessem o conteúdo de cabeçalhos em sua ordem de importância adequada, não considere que elementos <h1> dentro de <section> tenha o mesmo peso de importância de <h1> que estão fora de <section>.Isso não quer dizer que não seja possível utilizar mais de um <h1> dentro de uma página. Se todos os cabeçalhos de nível 1 tem o mesmo valor semântico, eles podem e devem ser utilizados.
 

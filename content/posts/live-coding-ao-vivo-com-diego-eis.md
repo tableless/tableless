@@ -37,7 +37,7 @@ Valor: **R$45** para quem comprar até dia **05 de Dezembro**. Depois o valor se
 
 Queremos experimentar essa nova forma de compartilhar informação. Já temos outros assuntos engatilhados. Logo daremos mais notícias.
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/11/01_Homepage-workshop.jpg" alt="01_Homepage-workshop" width="800" height="1833" class="alignnone size-full wp-image-39808" srcset="uploads/2013/11/01_Homepage-workshop.jpg 800w, uploads/2013/11/01_Homepage-workshop-73x168.jpg 73w, uploads/2013/11/01_Homepage-workshop-135x310.jpg 135w" sizes="(max-width: 800px) 100vw, 800px" />
+<img src="http://tableless.com.br/uploads/2013/11/01_Homepage-workshop.jpg" alt="01_Homepage-workshop" width="800" height="1833" class="alignnone size-full wp-image-39808" srcset="uploads/2013/11/01_Homepage-workshop.jpg 800w, uploads/2013/11/01_Homepage-workshop-73x168.jpg 73w, uploads/2013/11/01_Homepage-workshop-135x310.jpg 135w" sizes="(max-width: 800px) 100vw, 800px" />
 
  [1]: http://about.me/diegoeis/
  [2]: http://bit.ly/primeiro-micro-workshop

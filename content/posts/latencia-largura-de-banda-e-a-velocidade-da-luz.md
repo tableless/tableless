@@ -289,5 +289,5 @@ Abs
 
  [1]: http://tableless.com.br/navigation-timing-api/ "Medindo performance e latência com a Navigation Timing API"
  [2]: http://tableless.com.br/performance-frontend-parte2/ "Performance front-end – Parte 2"
- [3]: http://www.cleberdantas.com/wp-content/uploads/2013/04/bandwidth-vs-latency.png
+ [3]: http://www.cleberdantas.com/uploads/2013/04/bandwidth-vs-latency.png
  [4]: http://www.cleberdantas.com/wp-includes/images/smilies/icon_wink.gif

@@ -20,7 +20,7 @@ Muitos podem questionar o motivo da criação do Comet quando se tem várias out
 
 > Porque design mudou, as ferramentas de design tem que mudar também. Esses insights nos inspirou a criar Projeto Comet.
 
-<img class="alignnone  wp-image-51627" src="http://tableless.com.br/wp-content/uploads/2015/10/Comet_Preview_2.jpg" alt="Comet_Preview_2" width="817" height="459" /><img class="alignnone  wp-image-51626" src="http://tableless.com.br/wp-content/uploads/2015/10/Comet_Preview_1.jpg" alt="Comet_Preview_1" width="820" height="461" />O Comet esta repleto de ferramentas, entre estas estão o livepreview (visualização em tempo real) no seu dispositivo, interação com outros sofwares da Adobe, usará as mais novas técnicas de renderização e composição de hardware, e dentre outras.
+<img class="alignnone  wp-image-51627" src="http://tableless.com.br/uploads/2015/10/Comet_Preview_2.jpg" alt="Comet_Preview_2" width="817" height="459" /><img class="alignnone  wp-image-51626" src="http://tableless.com.br/uploads/2015/10/Comet_Preview_1.jpg" alt="Comet_Preview_1" width="820" height="461" />O Comet esta repleto de ferramentas, entre estas estão o livepreview (visualização em tempo real) no seu dispositivo, interação com outros sofwares da Adobe, usará as mais novas técnicas de renderização e composição de hardware, e dentre outras.
 
 > Nós construímos o Comet como um aplicativo nativo usando as mais recentes técnicas de tecnologia de renderização e composição de hardware. <span class="goog-text-highlight">À medida que continuamos a desenvolver Comet, vamos compartilhar como esta a elaboração do Comet para o desempenho. (&#8230;)</span>
 

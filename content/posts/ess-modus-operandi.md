@@ -45,7 +45,7 @@ Podemos verificar que assim como a ferramenta está em constante aprimoramento, 
 
 Imagino que a dificuldade de utilizar o WordPress em projetos diversos ocorre muito em razão da falta de uma visão geral de seu funcionamento. Minha proposta para compreensão do sistema é uma visão ampla dos recursos, de como eles operam e com qual finalidade. Acredito bastante nesse conceito pois a partir dele fica muito mais fácil visualizar o alcance do WordPress e o método que utilizaremos para integrar nossos projetos a ele. Veja abaixo o gráfico com o esquema proposto:
 
-[<img class="alignnone size-full wp-image-39737" alt="WP Modus Operandi" src="http://tableless.com.br/wp-content/uploads/2013/11/wp-modus-operandi.png" width="600" height="753" srcset="uploads/2013/11/wp-modus-operandi.png 600w, uploads/2013/11/wp-modus-operandi-133x168.png 133w, uploads/2013/11/wp-modus-operandi-247x310.png 247w" sizes="(max-width: 600px) 100vw, 600px" />][1]
+[<img class="alignnone size-full wp-image-39737" alt="WP Modus Operandi" src="http://tableless.com.br/uploads/2013/11/wp-modus-operandi.png" width="600" height="753" srcset="uploads/2013/11/wp-modus-operandi.png 600w, uploads/2013/11/wp-modus-operandi-133x168.png 133w, uploads/2013/11/wp-modus-operandi-247x310.png 247w" sizes="(max-width: 600px) 100vw, 600px" />][1]
 
 Inicialmente temos que pensar no WordPress em seu princípio essencial: gerenciar conteúdo. Partindo dessa premissa básica temos duas vertentes, dois elementos que compõem e dão sentido ao sistema existir: o conteúdo em si e os usuários, os profissionais responsáveis por interagir com tal informação.
 
@@ -73,4 +73,4 @@ Um ponto muito interessante do evento foi ver que os profissionais estão empenh
 
 Como abordei no início do artigo, a idéia central desse estudo é tirar da mente a idéia engessada de posts, páginas, comentários e afins; assumir de vez os tipos personalizados de posts, taxonomias e ir além, nos permitir criar algo inovador com os recursos da ferramenta. Conto com você para seguirmos com esse debate, o que você achou disso tudo? Concorda? Caso possua uma visão diferente, compartilhe também. ; )
 
- [1]: http://tableless.com.br/wp-content/uploads/2013/11/wp-modus-operandi.png
+ [1]: http://tableless.com.br/uploads/2013/11/wp-modus-operandi.png

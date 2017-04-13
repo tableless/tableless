@@ -115,5 +115,5 @@ A equipe por trás da ferramenta está trabalhando a todo vapor lançando corre�
  [1]: http://ionicframework.com/
  [2]: http://cordova.apache.org/
  [3]: https://angularjs.org/
- [4]: http://tableless.com.br/wp-content/uploads/2015/02/Screen-Shot-2015-02-18-at-5.33.43-PM.png
+ [4]: http://tableless.com.br/uploads/2015/02/Screen-Shot-2015-02-18-at-5.33.43-PM.png
  [5]: http://ngcordova.com/

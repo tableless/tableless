@@ -71,31 +71,31 @@ Agora vamos adicionar alguns estilos:
 
 // Definindo as páginas que servirão de exeplo
 #capa{
-	background: url("http://tableless.com.br/wp-content/uploads/2015/11/Paginas-01.png");
+	background: url("http://tableless.com.br/uploads/2015/11/Paginas-01.png");
 }
 #pagina-2{
-	background: url("http://tableless.com.br/wp-content/uploads/2015/11/Paginas-02.png");
+	background: url("http://tableless.com.br/uploads/2015/11/Paginas-02.png");
 }
 #pagina-3{
-	background: url("http://tableless.com.br/wp-content/uploads/2015/11/Paginas-03.png");
+	background: url("http://tableless.com.br/uploads/2015/11/Paginas-03.png");
 }
 #pagina-4{
-	background: url("http://tableless.com.br/wp-content/uploads/2015/11/Paginas-04.png");
+	background: url("http://tableless.com.br/uploads/2015/11/Paginas-04.png");
 }
 #pagina-5{
-	background: url("http://tableless.com.br/wp-content/uploads/2015/11/Paginas-05.png");
+	background: url("http://tableless.com.br/uploads/2015/11/Paginas-05.png");
 }
 #pagina-6{
-	background: url("http://tableless.com.br/wp-content/uploads/2015/11/Paginas-06.png");
+	background: url("http://tableless.com.br/uploads/2015/11/Paginas-06.png");
 }
 #pagina-7{
-	background: url("http://tableless.com.br/wp-content/uploads/2015/11/Paginas-07.png");
+	background: url("http://tableless.com.br/uploads/2015/11/Paginas-07.png");
 }
 #pagina-8{
-	background: url("http://tableless.com.br/wp-content/uploads/2015/11/Paginas-08.png");
+	background: url("http://tableless.com.br/uploads/2015/11/Paginas-08.png");
 }
 #pagina-9{
-	background: url("http://tableless.com.br/wp-content/uploads/2015/11/Paginas-09.png");
+	background: url("http://tableless.com.br/uploads/2015/11/Paginas-09.png");
 }
 </pre>
 

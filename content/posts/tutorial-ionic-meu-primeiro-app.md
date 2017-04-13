@@ -37,7 +37,7 @@ Para criar a estrutura inicial do projeto, vamos utilizar o gerador do Ionic CLI
 <pre class="lang-bash">ionic start weather blank
 </pre>
 
-[<img alt="estrutura de páginas do Ionic" src="http://tableless.com.br/wp-content/uploads/2015/02/Screen-Shot-2015-02-28-at-12.21.21-AM.png" width="163" height="440" class="alignnone size-full wp-image-47368" srcset="uploads/2015/02/Screen-Shot-2015-02-28-at-12.21.21-AM.png 163w, uploads/2015/02/Screen-Shot-2015-02-28-at-12.21.21-AM-51x139.png 51w" sizes="(max-width: 163px) 100vw, 163px" />][1]
+[<img alt="estrutura de páginas do Ionic" src="http://tableless.com.br/uploads/2015/02/Screen-Shot-2015-02-28-at-12.21.21-AM.png" width="163" height="440" class="alignnone size-full wp-image-47368" srcset="uploads/2015/02/Screen-Shot-2015-02-28-at-12.21.21-AM.png 163w, uploads/2015/02/Screen-Shot-2015-02-28-at-12.21.21-AM-51x139.png 51w" sizes="(max-width: 163px) 100vw, 163px" />][1]
 
 Podemos ver então a estrutura de pastas inicial do projeto. Inicialmente vamos mexer somente no conteúdo da pasta _www_ que é onde se encontra nosso projecto html, css e js.
 
@@ -223,7 +223,7 @@ Para adicionarmos as plataformas em que vamos compilar nossa app bastar rodar o 
 
 Após rodar esse comando vamos ver que o Ionic está criando um projeto Android dentro da pasta _platforms_.
 
-[<img src="http://tableless.com.br/wp-content/uploads/2015/02/Screen-Shot-2015-02-28-at-1.13.16-AM.png" alt="Criação do projeto Android" width="1061" height="258" class="alignnone size-full wp-image-47383" srcset="uploads/2015/02/Screen-Shot-2015-02-28-at-1.13.16-AM.png 1061w, uploads/2015/02/Screen-Shot-2015-02-28-at-1.13.16-AM-265x64.png 265w, uploads/2015/02/Screen-Shot-2015-02-28-at-1.13.16-AM-400x97.png 400w" sizes="(max-width: 1061px) 100vw, 1061px" />][2]
+[<img src="http://tableless.com.br/uploads/2015/02/Screen-Shot-2015-02-28-at-1.13.16-AM.png" alt="Criação do projeto Android" width="1061" height="258" class="alignnone size-full wp-image-47383" srcset="uploads/2015/02/Screen-Shot-2015-02-28-at-1.13.16-AM.png 1061w, uploads/2015/02/Screen-Shot-2015-02-28-at-1.13.16-AM-265x64.png 265w, uploads/2015/02/Screen-Shot-2015-02-28-at-1.13.16-AM-400x97.png 400w" sizes="(max-width: 1061px) 100vw, 1061px" />][2]
 
 A partir daí não precisamos fazer mais nada! Basta rodar a app em seu aparelho ou emulador através do comando
 
@@ -234,5 +234,5 @@ Este comando irá fazer o _build_ e enviar para o celular que estiver conectado 
 
 Para quem quiser, o projeto está disponível no <a href="https://github.com/grillorafael/ionic-weather" target="_blank">Github</a>
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/02/Screen-Shot-2015-02-28-at-12.21.21-AM.png
- [2]: http://tableless.com.br/wp-content/uploads/2015/02/Screen-Shot-2015-02-28-at-1.13.16-AM.png
+ [1]: http://tableless.com.br/uploads/2015/02/Screen-Shot-2015-02-28-at-12.21.21-AM.png
+ [2]: http://tableless.com.br/uploads/2015/02/Screen-Shot-2015-02-28-at-1.13.16-AM.png

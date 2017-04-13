@@ -41,7 +41,7 @@ Pré requisitos: <a href="https://nodejs.org/en/" target="_blank">Node.js</a> e 
 
 Após a instalação via NPM, o generator fará algumas perguntas sobre as engines que deseja utilizar e informações sobre seu projeto (exemplo nome), esta parte fica a seu critério. Itens como template engine, pré-processor, taskers&#8230;
 
-<a href="http://ornitorrinko.com/blog/wp-content/uploads/2016/03/Screen-Shot-2016-03-10-at-3.41.32-PM-300x156.png" rel="attachment wp-att-254"><img class="alignnone wp-image-254 size-medium" src="http://ornitorrinko.com/blog/wp-content/uploads/2016/03/Screen-Shot-2016-03-10-at-3.41.32-PM-300x156.png" alt="Tela Instalação Keystone.JS" width="300" height="156" /></a>
+<a href="http://ornitorrinko.com/blog/uploads/2016/03/Screen-Shot-2016-03-10-at-3.41.32-PM-300x156.png" rel="attachment wp-att-254"><img class="alignnone wp-image-254 size-medium" src="http://ornitorrinko.com/blog/uploads/2016/03/Screen-Shot-2016-03-10-at-3.41.32-PM-300x156.png" alt="Tela Instalação Keystone.JS" width="300" height="156" /></a>
 
 Agora você já consegue navegar em <http://localhost:3000> pra ter uma noção do que o framework estruturou para você. Nesse momento, repare que já temos um Blog e uma Galeria de imagens (utilizando uma conta temporária da <a href="http://cloudinary.com/" target="_blank">Cloudinary</a>).
 
@@ -247,7 +247,7 @@ block content
 
 Navegue em <a href="http://localhost:3000/produtos" target="_blank">http://localhost:3000/produtos</a> e verá o resultado 🙂
 
-<a href="http://ornitorrinko.com/blog/wp-content/uploads/2016/03/Screen-Shot-2016-03-11-at-6.10.11-PM-300x148.png" rel="attachment wp-att-271"><img class="alignnone wp-image-271 size-medium" src="http://ornitorrinko.com/blog/wp-content/uploads/2016/03/Screen-Shot-2016-03-11-at-6.10.11-PM-300x148.png" alt="Página Nossos Produtos com Keystone.js" width="300" height="148" /></a>
+<a href="http://ornitorrinko.com/blog/uploads/2016/03/Screen-Shot-2016-03-11-at-6.10.11-PM-300x148.png" rel="attachment wp-att-271"><img class="alignnone wp-image-271 size-medium" src="http://ornitorrinko.com/blog/uploads/2016/03/Screen-Shot-2016-03-11-at-6.10.11-PM-300x148.png" alt="Página Nossos Produtos com Keystone.js" width="300" height="148" /></a>
 
 Neste artigo não foi possível cobrir TODOS os detalhes do Keystone.js. Mas, se você se interessou pelo framework, vale dar uma olhada na <a href="http://keystonejs.com/docs/getting-started/" target="_blank">documentação</a> sobre tipos de dados, formatos, middlewares, serviços já integrados e tudo mais.
 

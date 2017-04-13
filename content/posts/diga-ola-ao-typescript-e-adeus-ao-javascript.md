@@ -57,7 +57,7 @@ Este código feioso aí em cima é 100% javascript compreensível em qualquer na
 
 Abra uma nova aba no seu browser e acesse: <http://www.typescriptlang.org/Playground>. O Playground é um pequeno editor TypeScript que, além de checar possíveis erros de sintaxe, também compila automaticamente o código para Javascript, no qual você pode testá-lo. Não omita o Playground no seu aprendizado, ele pode te ajudar muito, como na figura a seguir.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/12/ts01.png" alt="ts01" width="856" height="277" class="alignleft size-full wp-image-52433" />
+<img src="http://tableless.com.br/uploads/2015/12/ts01.png" alt="ts01" width="856" height="277" class="alignleft size-full wp-image-52433" />
 
 Caso não queira utilizar o Playground, pode-se instalar o TypeScript no seu ambiente de desenvolvimento através do node. O comando a seguir deve ser compreensível para você:
 
@@ -70,7 +70,7 @@ Após instalar o TypeScript no ambiente, você pode usar o comando `tsc` para co
 Editores de texto como o Sublime Text, Atom, VS Code, também tem a capacidade de compilar o arquivo em JavaScript, bastando apenas adicionar plugins relativos ao TypeScript. O `VS Code`, em particular, apresentou um bom comportamento frente aos outros, como pode-se perceber na imagem a seguir.
 
 <div id="attachment_52436" style="width: 549px" class="wp-caption alignleft">
-  <img src="http://tableless.com.br/wp-content/uploads/2015/12/ts02.png" alt="Visual Studio Code" width="539" height="639" class="size-full wp-image-52436" />
+  <img src="http://tableless.com.br/uploads/2015/12/ts02.png" alt="Visual Studio Code" width="539" height="639" class="size-full wp-image-52436" />
   
   <p class="wp-caption-text">
     Visual Studio Code
@@ -78,7 +78,7 @@ Editores de texto como o Sublime Text, Atom, VS Code, também tem a capacidade d
 </div>
 
 <div id="attachment_52438" style="width: 566px" class="wp-caption alignleft">
-  <img src="http://tableless.com.br/wp-content/uploads/2015/12/ts03.png" alt="Sublime Text 2.0.2" width="556" height="765" class="size-full wp-image-52438" />
+  <img src="http://tableless.com.br/uploads/2015/12/ts03.png" alt="Sublime Text 2.0.2" width="556" height="765" class="size-full wp-image-52438" />
   
   <p class="wp-caption-text">
     Sublime Text 2.0.2
@@ -159,7 +159,7 @@ var c: Color = Color.Green;
 
 Quando criamos um enum, usamos o &#8220;poder&#8221; da ide para que possamos programar de forma mais fácil, conforme a figura a seguir.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/12/ts04.png" alt="ts04" width="697" height="145" class="alignleft size-full wp-image-52451" />
+<img src="http://tableless.com.br/uploads/2015/12/ts04.png" alt="ts04" width="697" height="145" class="alignleft size-full wp-image-52451" />
 
 ### Any
 
@@ -238,7 +238,7 @@ Este código feioso aí em cima é 100% javascript compreensível em qualquer na
 
 Abra uma nova aba no seu browser e acesse: <http://www.typescriptlang.org/Playground>. O Playground é um pequeno editor TypeScript que, além de checar possíveis erros de sintaxe, também compila automaticamente o código para Javascript, no qual você pode testá-lo. Não omita o Playground no seu aprendizado, ele pode te ajudar muito, como na figura a seguir.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/12/ts01.png" alt="ts01" width="856" height="277" class="alignleft size-full wp-image-52433" />
+<img src="http://tableless.com.br/uploads/2015/12/ts01.png" alt="ts01" width="856" height="277" class="alignleft size-full wp-image-52433" />
 
 Caso não queira utilizar o Playground, pode-se instalar o TypeScript no seu ambiente de desenvolvimento através do node. O comando a seguir deve ser compreensível para você:
 
@@ -251,7 +251,7 @@ Após instalar o TypeScript no ambiente, você pode usar o comando `tsc` para co
 Editores de texto como o Sublime Text, Atom, VS Code, também tem a capacidade de compilar o arquivo em JavaScript, bastando apenas adicionar plugins relativos ao TypeScript. O `VS Code`, em particular, apresentou um bom comportamento frente aos outros, como pode-se perceber na imagem a seguir.
 
 <div id="attachment_52436" style="width: 549px" class="wp-caption alignleft">
-  <img src="http://tableless.com.br/wp-content/uploads/2015/12/ts02.png" alt="Visual Studio Code" width="539" height="639" class="size-full wp-image-52436" />
+  <img src="http://tableless.com.br/uploads/2015/12/ts02.png" alt="Visual Studio Code" width="539" height="639" class="size-full wp-image-52436" />
   
   <p class="wp-caption-text">
     Visual Studio Code
@@ -259,7 +259,7 @@ Editores de texto como o Sublime Text, Atom, VS Code, também tem a capacidade d
 </div>
 
 <div id="attachment_52438" style="width: 566px" class="wp-caption alignleft">
-  <img src="http://tableless.com.br/wp-content/uploads/2015/12/ts03.png" alt="Sublime Text 2.0.2" width="556" height="765" class="size-full wp-image-52438" />
+  <img src="http://tableless.com.br/uploads/2015/12/ts03.png" alt="Sublime Text 2.0.2" width="556" height="765" class="size-full wp-image-52438" />
   
   <p class="wp-caption-text">
     Sublime Text 2.0.2
@@ -340,7 +340,7 @@ var c: Color = Color.Green;
 
 Quando criamos um enum, usamos o &#8220;poder&#8221; da ide para que possamos programar de forma mais fácil, conforme a figura a seguir.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/12/ts04.png" alt="ts04" width="697" height="145" class="alignleft size-full wp-image-52451" />
+<img src="http://tableless.com.br/uploads/2015/12/ts04.png" alt="ts04" width="697" height="145" class="alignleft size-full wp-image-52451" />
 
 ### Any
 

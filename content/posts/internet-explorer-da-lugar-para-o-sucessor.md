@@ -21,11 +21,11 @@ A Microsoft revelou que está planejando uma nova marca e um novo nome para um b
 
 Spartan é um browser desenhado para trabalhar entre os diversos dispositivos que rodam Windows 10, desde aparelhos com mouse até touch, gestos, vozes, controles, sensores etc.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/03/1541.project-spartan-diagram.gif" alt="1541.project-spartan-diagram" width="739" height="370" class="alignnone size-full wp-image-47933" />
+<img src="http://tableless.com.br/uploads/2015/03/1541.project-spartan-diagram.gif" alt="1541.project-spartan-diagram" width="739" height="370" class="alignnone size-full wp-image-47933" />
 
 A ideia do Internet Explorer é que ele seja usado apenas para motivos de legado e compatibilidade. Não está ainda muito claro como o IE fará parte do Windows 10 ou se ele será apenas direcionado para versões corporativas. O que eles deixam claro é que o Internet Explorer não fará mais parte do futuro da Microsoft.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/03/7041.psatwjpb-image4.png" alt="7041.psatwjpb-image4" width="924" height="700" class="alignnone size-full wp-image-47934" />
+<img src="http://tableless.com.br/uploads/2015/03/7041.psatwjpb-image4.png" alt="7041.psatwjpb-image4" width="924" height="700" class="alignnone size-full wp-image-47934" />
 
 O que o novo browser e o novo motor de renderização significa para os Devs?
 

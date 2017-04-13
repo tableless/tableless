@@ -70,7 +70,7 @@ Sendo um API RESTful, o WP-API permite que aplicações bem interessantes sejam 
 
 VIDA. FUTURO. DOMINAÇÃO DO MERCADO. UM APLICATIVO DA SUA EMPRESA CONSUMINDO DATA DO SITE FEITO EM WORDPRESS.
 
-<img class="size-large wp-image-52378 aligncenter" src="http://tableless.com.br/wp-content/uploads/2015/11/wp.jpg" alt="wp" width="280" height="157" />
+<img class="size-large wp-image-52378 aligncenter" src="http://tableless.com.br/uploads/2015/11/wp.jpg" alt="wp" width="280" height="157" />
 
 O API evolui o WordPress como um CMS para uma aplicação completa. Veja: o API cria um padrão para que outras linguagens consigam interagir diretamente com seu conteúdo.
 
@@ -144,7 +144,7 @@ Concordo com o autor do link de referência sobre o conhecimento de HTTP não se
 
 ### O que significa REST? {#rest}
 
-<img class="alignnone size-medium wp-image-52376" src="http://tableless.com.br/wp-content/uploads/2015/11/rest.jpg" alt="rest" width="279" height="157" />
+<img class="alignnone size-medium wp-image-52376" src="http://tableless.com.br/uploads/2015/11/rest.jpg" alt="rest" width="279" height="157" />
   
 REST é definido por _Representational State Transfer_! Entendi tudo, deixa eu dormir agora, obrigado.
 
@@ -182,7 +182,7 @@ Certo, Cezar. Tudo isso parece mágico, linda teoria. Agora, como posso começar
 
 ## Instalando o plugin e fazendo sua primeira requisição {#instalacao}
 
-<img class="alignnone size-full wp-image-52375" src="http://tableless.com.br/wp-content/uploads/2015/11/plugin_v2b.jpeg" alt="plugin_v2b" width="766" height="343" />
+<img class="alignnone size-full wp-image-52375" src="http://tableless.com.br/uploads/2015/11/plugin_v2b.jpeg" alt="plugin_v2b" width="766" height="343" />
   
 Os exemplos utilizados requerem a versão 2 do API. Para baixá-lo, vá ao repositório do WordPess: <a href="https://wordpress.org/plugins/rest-api/" target="_blank">https://wordpress.org/plugins/rest-api/</a>
 

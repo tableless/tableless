@@ -19,7 +19,7 @@ Espero que vocês gostem 🙂
 
 ## Melhor projeto: [Docpad][3]
 
-[<img src="http://tableless.com.br/wp-content/uploads/2013/02/doc.jpg" alt="doc" width="610" height="156" class="aligncenter size-full wp-image-11841" srcset="uploads/2013/02/doc.jpg 610w, uploads/2013/02/doc-329x84.jpg 329w, uploads/2013/02/doc-588x150.jpg 588w" sizes="(max-width: 610px) 100vw, 610px" />][3]
+[<img src="http://tableless.com.br/uploads/2013/02/doc.jpg" alt="doc" width="610" height="156" class="aligncenter size-full wp-image-11841" srcset="uploads/2013/02/doc.jpg 610w, uploads/2013/02/doc-329x84.jpg 329w, uploads/2013/02/doc-588x150.jpg 588w" sizes="(max-width: 610px) 100vw, 610px" />][3]
 
 Esse deveria ser eleito o projeto open source do ano, isso sim! O Docpad, pra quem não conhece, é um gerador estático feito em NodeJS. Ele é bem parecido com o [Jekyll][4], projeto criado pelos caras do Github em Ruby, só que na minha opinião muito mais completo. Enquanto que o Jekyll é focado na simplicidade para criar blogs estáticos, o Docpad é uma solução muito mais completa para criar qualquer tipo de site.
 
@@ -27,7 +27,7 @@ Eu tenho que criar vergonha na cara para escrever um artigo completo sobre essa 
 
 ## Melhor palestra: [Joshua Davis][7]
 
-[<img src="http://tableless.com.br/wp-content/uploads/2013/02/joshuaa.jpg" alt="joshuaa" width="610" height="336" class="aligncenter size-full wp-image-11845" srcset="uploads/2013/02/joshuaa.jpg 610w, uploads/2013/02/joshuaa-305x168.jpg 305w, uploads/2013/02/joshuaa-562x310.jpg 562w" sizes="(max-width: 610px) 100vw, 610px" />][7]
+[<img src="http://tableless.com.br/uploads/2013/02/joshuaa.jpg" alt="joshuaa" width="610" height="336" class="aligncenter size-full wp-image-11845" srcset="uploads/2013/02/joshuaa.jpg 610w, uploads/2013/02/joshuaa-305x168.jpg 305w, uploads/2013/02/joshuaa-562x310.jpg 562w" sizes="(max-width: 610px) 100vw, 610px" />][7]
 
 Esse mês aconteceu uma das conferências mais importantes do ano, a [W3C Conf][8] em São Francisco.
 
@@ -39,13 +39,13 @@ Além da palestra dele, tiveram outras igualmente incríveis como a da [Lea Vero
 
 ## Melhor artigo: [Sérgio Lopes][12]
 
-[<img src="http://tableless.com.br/wp-content/uploads/2013/02/sergio.jpg" alt="sergio" width="610" height="118" class="aligncenter size-full wp-image-11861" srcset="uploads/2013/02/sergio.jpg 610w, uploads/2013/02/sergio-329x63.jpg 329w, uploads/2013/02/sergio-588x113.jpg 588w" sizes="(max-width: 610px) 100vw, 610px" />][12]
+[<img src="http://tableless.com.br/uploads/2013/02/sergio.jpg" alt="sergio" width="610" height="118" class="aligncenter size-full wp-image-11861" srcset="uploads/2013/02/sergio.jpg 610w, uploads/2013/02/sergio-329x63.jpg 329w, uploads/2013/02/sergio-588x113.jpg 588w" sizes="(max-width: 610px) 100vw, 610px" />][12]
 
 O Sérgio montou uma lista absurdamente completa de conteúdo sobre Responsive Web Design, tudo em português. Lá você encontra os melhores artigos, fóruns, palestras, livros, cursos, enfim se você quer aprender Responsive Web Design aquelas são as melhores referências.
 
 ## Melhor extensão: [Pocket][13]
 
-[<img src="http://tableless.com.br/wp-content/uploads/2013/02/pocket.jpg" alt="pocket" width="610" height="361" class="aligncenter size-full wp-image-11847" srcset="uploads/2013/02/pocket.jpg 610w, uploads/2013/02/pocket-283x168.jpg 283w, uploads/2013/02/pocket-523x310.jpg 523w" sizes="(max-width: 610px) 100vw, 610px" />][13]
+[<img src="http://tableless.com.br/uploads/2013/02/pocket.jpg" alt="pocket" width="610" height="361" class="aligncenter size-full wp-image-11847" srcset="uploads/2013/02/pocket.jpg 610w, uploads/2013/02/pocket-283x168.jpg 283w, uploads/2013/02/pocket-523x310.jpg 523w" sizes="(max-width: 610px) 100vw, 610px" />][13]
 
 Todos os dias me deparo com dezenas de artigos legais, mas nem sempre posso ler eles naquele exato momento. Ano passado encontrei uma maneira inteligente de guardar esses artigos para ler depois, chamada Read it Later. Esse projeto mudou de nome e hoje se chama Pocket.
 

@@ -38,7 +38,7 @@ Antes de tudo é necessário conhecer minimamente a ferramenta e o seu fluxo de 
 
 O primeiro passo é a criação de uma conta no site do github, assim, basta entrar em <https://github.com/> e preencher o formulário de cadastro.
 
-[<img class="size-medium wp-image-37719 aligncenter" alt="Formulário de cadastro - github" src="http://tableless.com.br/wp-content/uploads/2013/06/formulário-de-registro-github-552x310.png" width="552" height="310" srcset="uploads/2013/06/formulário-de-registro-github-552x310.png 552w, uploads/2013/06/formulário-de-registro-github-299x168.png 299w, uploads/2013/06/formulário-de-registro-github.png 677w" sizes="(max-width: 552px) 100vw, 552px" />][1]
+[<img class="size-medium wp-image-37719 aligncenter" alt="Formulário de cadastro - github" src="http://tableless.com.br/uploads/2013/06/formulário-de-registro-github-552x310.png" width="552" height="310" srcset="uploads/2013/06/formulário-de-registro-github-552x310.png 552w, uploads/2013/06/formulário-de-registro-github-299x168.png 299w, uploads/2013/06/formulário-de-registro-github.png 677w" sizes="(max-width: 552px) 100vw, 552px" />][1]
 
 O segundo passo consiste em baixar a aplicação ‘git’, esta será a responsável por toda a manipulação que realizaremos nos repositórios aos quais desejamos contribuir. Recomendo que seja lido primeiramente o artigo elaborado pelo Diego Eis, na seção ‘Instalando o git’, disponível em <http://tableless.com.br/iniciando-no-git-parte-1/>, ou então, se preferir, o próprio pessoal do github disponibiliza uma série de instruções para instalar e configurar o git, estas estão disponíveis em <https://help.github.com/articles/set-up-git>.
 
@@ -53,13 +53,13 @@ O fork consiste em realizar a cópia de um repositório de alguém, adicionando 
 O fork é o primeiro passo para colaborar em um projeto. Por exemplo, percebemos que existe um problema em um arquivo nos exemplos para iniciantes disponíveis no tableless (<http://tableless.com.br/para-iniciantes/>) e queremos realizar a correção. Como o projeto está no github, podemos colaborar! Para isso, navegamos até o repositório (<https://github.com/tableless/iniciantes>) e clicamos na opção fork, localizada no canto direito da página.
 
 <p style="text-align: center">
-  <a href="http://tableless.com.br/wp-content/uploads/2013/06/opções-do-repositório-github.png"><img class="size-full wp-image-37722 aligncenter" alt="Opções disponíveis no repositório" src="http://tableless.com.br/wp-content/uploads/2013/06/opções-do-repositório-github.png" width="413" height="56" srcset="uploads/2013/06/opções-do-repositório-github.png 413w, uploads/2013/06/opções-do-repositório-github-329x44.png 329w" sizes="(max-width: 413px) 100vw, 413px" /></a>
+  <a href="http://tableless.com.br/uploads/2013/06/opções-do-repositório-github.png"><img class="size-full wp-image-37722 aligncenter" alt="Opções disponíveis no repositório" src="http://tableless.com.br/uploads/2013/06/opções-do-repositório-github.png" width="413" height="56" srcset="uploads/2013/06/opções-do-repositório-github.png 413w, uploads/2013/06/opções-do-repositório-github-329x44.png 329w" sizes="(max-width: 413px) 100vw, 413px" /></a>
 </p>
 
 Ao clicar em fork, o repositório em questão é copiado para a nossa base de repositórios e então viramos donos do repositório o qual copiamos, ficando este inclusive disponível na listagem dos nossos repositórios. Notem o símbolo &#8216;Y&#8217; indicando que o repositório foi criado a partir de um fork.
 
 <p style="text-align: center">
-  <a href="http://tableless.com.br/wp-content/uploads/2013/06/lista-de-repositórios-atualizada.png"><img class="size-full wp-image-37720 aligncenter" alt="Lista de repositórios atualizada" src="http://tableless.com.br/wp-content/uploads/2013/06/lista-de-repositórios-atualizada.png" width="251" height="32" /></a>
+  <a href="http://tableless.com.br/uploads/2013/06/lista-de-repositórios-atualizada.png"><img class="size-full wp-image-37720 aligncenter" alt="Lista de repositórios atualizada" src="http://tableless.com.br/uploads/2013/06/lista-de-repositórios-atualizada.png" width="251" height="32" /></a>
 </p>
 
 Agora podemos trabalhar no repositório criado normalmente, executar commits e pushs sem problemas, como se fosse um repositório novo que criamos do zero. Quando terminarmos de realizar as modificações e tivermos realizado os commits e push’s necessários podemos solicitar que o dono do repositório integre o que fizemos com o repositório original através de um pull request (explicado a seguir).
@@ -71,19 +71,19 @@ O pull request consiste em uma solicitação de integração das nossas modifica
 Para realizar um pull request devemos ir até o repositório gerado pela operação de fork (na nossa base de repositórios). Lá, encontraremos um botão chamado ‘pull request’:
 
 <p style="text-align: center">
-  <a href="http://tableless.com.br/wp-content/uploads/2013/06/opções-pull-request.png"><img class="size-full wp-image-37721 aligncenter" alt="Opção de pull request" src="http://tableless.com.br/wp-content/uploads/2013/06/opções-pull-request.png" width="497" height="55" srcset="uploads/2013/06/opções-pull-request.png 497w, uploads/2013/06/opções-pull-request-329x36.png 329w" sizes="(max-width: 497px) 100vw, 497px" /></a>
+  <a href="http://tableless.com.br/uploads/2013/06/opções-pull-request.png"><img class="size-full wp-image-37721 aligncenter" alt="Opção de pull request" src="http://tableless.com.br/uploads/2013/06/opções-pull-request.png" width="497" height="55" srcset="uploads/2013/06/opções-pull-request.png 497w, uploads/2013/06/opções-pull-request-329x36.png 329w" sizes="(max-width: 497px) 100vw, 497px" /></a>
 </p>
 
 Clicando em pull request, podemos escolher a origem e o destino do nosso pull request:
 
 <p style="text-align: center">
-  <a href="http://tableless.com.br/wp-content/uploads/2013/06/realizando-pull-request.png"><img class="size-medium wp-image-37723 aligncenter" alt="Origem e destino do pull request" src="http://tableless.com.br/wp-content/uploads/2013/06/realizando-pull-request-588x52.png" width="588" height="52" srcset="uploads/2013/06/realizando-pull-request-588x52.png 588w, uploads/2013/06/realizando-pull-request-329x29.png 329w, uploads/2013/06/realizando-pull-request-660x59.png 660w, uploads/2013/06/realizando-pull-request.png 913w" sizes="(max-width: 588px) 100vw, 588px" /></a>
+  <a href="http://tableless.com.br/uploads/2013/06/realizando-pull-request.png"><img class="size-medium wp-image-37723 aligncenter" alt="Origem e destino do pull request" src="http://tableless.com.br/uploads/2013/06/realizando-pull-request-588x52.png" width="588" height="52" srcset="uploads/2013/06/realizando-pull-request-588x52.png 588w, uploads/2013/06/realizando-pull-request-329x29.png 329w, uploads/2013/06/realizando-pull-request-660x59.png 660w, uploads/2013/06/realizando-pull-request.png 913w" sizes="(max-width: 588px) 100vw, 588px" /></a>
 </p>
 
 Também podemos escrever um título e comentários sobre o nosso pull request:
 
 <p style="text-align: center">
-  <a href="http://tableless.com.br/wp-content/uploads/2013/06/comentários-e-descrição-pull-request.png"><img class="size-medium wp-image-37718 aligncenter" alt="Comentários e descrição do pull request" src="http://tableless.com.br/wp-content/uploads/2013/06/comentários-e-descrição-pull-request-520x310.png" width="520" height="310" srcset="uploads/2013/06/comentários-e-descrição-pull-request-520x310.png 520w, uploads/2013/06/comentários-e-descrição-pull-request-282x168.png 282w, uploads/2013/06/comentários-e-descrição-pull-request.png 685w" sizes="(max-width: 520px) 100vw, 520px" /></a>
+  <a href="http://tableless.com.br/uploads/2013/06/comentários-e-descrição-pull-request.png"><img class="size-medium wp-image-37718 aligncenter" alt="Comentários e descrição do pull request" src="http://tableless.com.br/uploads/2013/06/comentários-e-descrição-pull-request-520x310.png" width="520" height="310" srcset="uploads/2013/06/comentários-e-descrição-pull-request-520x310.png 520w, uploads/2013/06/comentários-e-descrição-pull-request-282x168.png 282w, uploads/2013/06/comentários-e-descrição-pull-request.png 685w" sizes="(max-width: 520px) 100vw, 520px" /></a>
 </p>
 
 Clicando em ‘Send pull request’, enviamos as nossas modificações para que as mesmas sejam validadas pela comunidade. Isso permite que seja feita uma avaliação sobre o que foi feito. Dessa forma, o dono do repositório poderá integrar as mudanças realizadas ao código do projeto.
@@ -118,4 +118,4 @@ Sempre que possível vou aceitar os requests realizados para vocês verem o que 
 
 Mandem seus requests!
 
- [1]: http://tableless.com.br/wp-content/uploads/2013/06/formulário-de-registro-github.png
+ [1]: http://tableless.com.br/uploads/2013/06/formulário-de-registro-github.png

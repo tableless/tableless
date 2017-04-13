@@ -32,7 +32,7 @@ O WordPress torna fácil publicar um blog ou site e democratiza a publicação d
 
 ## Por que ser Top em WordPress?
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/02/profissional-em-wordpress-414x310.jpg" alt="Profissional em WordPress" width="414" height="310" class="alignnone size-medium wp-image-8156" srcset="uploads/2013/02/profissional-em-wordpress-414x310.jpg 414w, uploads/2013/02/profissional-em-wordpress-224x168.jpg 224w, uploads/2013/02/profissional-em-wordpress.jpg 500w" sizes="(max-width: 414px) 100vw, 414px" />
+<img src="http://tableless.com.br/uploads/2013/02/profissional-em-wordpress-414x310.jpg" alt="Profissional em WordPress" width="414" height="310" class="alignnone size-medium wp-image-8156" srcset="uploads/2013/02/profissional-em-wordpress-414x310.jpg 414w, uploads/2013/02/profissional-em-wordpress-224x168.jpg 224w, uploads/2013/02/profissional-em-wordpress.jpg 500w" sizes="(max-width: 414px) 100vw, 414px" />
 
 Ser comum é normal e subestimado. Você pode não ser o melhor em tudo e se passar sua vida tentando ser, poderá passar sua vida em uma neurose horrível. Além disso, pode ser bom ser apenas ok em alguma coisa e você aceitar isso, pois isso seria bem menos estressante. Dito isso, pode ser muito bom se esforçar para ser melhor naquilo em que você é apaixonado e se isso é WordPress e o controle de fazer suas próprias coisas, você tem muitos benefícios, por exemplo:
 
@@ -80,7 +80,7 @@ Pode parecer óbvio, mas usando o WordPress para você mesmo é uma ótima manei
 
 ## Instalando o WordPress localmente
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/02/mamp-wordpress-381x310.jpg" alt="MAMP WordPress" width="381" height="310" class="alignnone size-medium wp-image-8157" srcset="uploads/2013/02/mamp-wordpress-381x310.jpg 381w, uploads/2013/02/mamp-wordpress-206x168.jpg 206w, uploads/2013/02/mamp-wordpress.jpg 423w" sizes="(max-width: 381px) 100vw, 381px" />
+<img src="http://tableless.com.br/uploads/2013/02/mamp-wordpress-381x310.jpg" alt="MAMP WordPress" width="381" height="310" class="alignnone size-medium wp-image-8157" srcset="uploads/2013/02/mamp-wordpress-381x310.jpg 381w, uploads/2013/02/mamp-wordpress-206x168.jpg 206w, uploads/2013/02/mamp-wordpress.jpg 423w" sizes="(max-width: 381px) 100vw, 381px" />
 
 Você não precisa ser um desenvolvedor para criar um ambiente de desenvolvimento no seu computador. Pode parecer assustador, mas eu me lembro da primeira vez que estava configurando o Xampp com o WordPress e estava totalmente confuso e não tinha ideia do que estava fazendo. Agora eu tenho mais instalações locais do WordPress do que eu posso acompanhar. Instalar WordPress no seu computador significa que você pode fazer o que quiser com ele sem ter que se preocupar com nomes de domínios, hospedagens etc. Depois de instalar o WordPress algumas vezes em seu computador, vai perceber como é extremamente simples. Veja os tutoriais de como instalar o WordPress usando <a href="http://wpmu.org/install-wordpress-locally-on-windows-with-xampp/" target="_blank">Xampp</a> (Windows) ou <a href="http://wp.smashingmagazine.com/2011/09/28/developing-wordpress-locally-with-mamp/" target="_blank">MAMP</a> (Mac).
 
@@ -130,7 +130,7 @@ Já se passaram 10 anos desde que o WordPresss nasceu. Isso significa que há mu
 
 ## Envolva-se
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/02/envolvase-wordpress-465x310.jpeg" alt="Envolva-se" width="465" height="310" class="alignnone size-medium wp-image-8158" srcset="uploads/2013/02/envolvase-wordpress-465x310.jpeg 465w, uploads/2013/02/envolvase-wordpress-252x168.jpeg 252w, uploads/2013/02/envolvase-wordpress.jpeg 500w" sizes="(max-width: 465px) 100vw, 465px" />
+<img src="http://tableless.com.br/uploads/2013/02/envolvase-wordpress-465x310.jpeg" alt="Envolva-se" width="465" height="310" class="alignnone size-medium wp-image-8158" srcset="uploads/2013/02/envolvase-wordpress-465x310.jpeg 465w, uploads/2013/02/envolvase-wordpress-252x168.jpeg 252w, uploads/2013/02/envolvase-wordpress.jpeg 500w" sizes="(max-width: 465px) 100vw, 465px" />
 
 Agora que você aprendeu o básico em WordPress, está na hora de começar a se envolver. Claro, você pode até caminhar sozinho e há muitas pessoas com empresas de sucesso de WordPress que não tem nada a ver com a comunidade. Mas há muitos motivos para se envolver com a comunidade. Aqui está o porquê:
 
@@ -140,7 +140,7 @@ Agora que você aprendeu o básico em WordPress, está na hora de começar a se 
 
 ## Make WordPress.org
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/02/make-wordpress.jpg" alt="Make WordPress" width="527" height="238" class="alignnone size-full wp-image-8159" srcset="uploads/2013/02/make-wordpress.jpg 527w, uploads/2013/02/make-wordpress-329x148.jpg 329w" sizes="(max-width: 527px) 100vw, 527px" />
+<img src="http://tableless.com.br/uploads/2013/02/make-wordpress.jpg" alt="Make WordPress" width="527" height="238" class="alignnone size-full wp-image-8159" srcset="uploads/2013/02/make-wordpress.jpg 527w, uploads/2013/02/make-wordpress-329x148.jpg 329w" sizes="(max-width: 527px) 100vw, 527px" />
 
 Make WordPress.org é o lugar onde você pode encontrar blogs para todos os grupos. Onde costumava haver listas de discussão, agora há blogs. Todos os grupos estão reunidos na <a href="http://make.wordpress.org/" target="_blank">Make WordPress.org</a>. Você pode acompanhar todas elas ou escolher as que são mais relevantes para você. Os blogs que fazem parte são:
 
@@ -174,7 +174,7 @@ Trabalhar online é ótimo, mas não há nada como o encontro cara a cara para c
 
 ## Siga em frente
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/02/siga-wordpress-466x310.jpg" alt="Siga em frente" width="466" height="310" class="alignnone size-medium wp-image-8160" srcset="uploads/2013/02/siga-wordpress-466x310.jpg 466w, uploads/2013/02/siga-wordpress-253x168.jpg 253w, uploads/2013/02/siga-wordpress.jpg 500w" sizes="(max-width: 466px) 100vw, 466px" />
+<img src="http://tableless.com.br/uploads/2013/02/siga-wordpress-466x310.jpg" alt="Siga em frente" width="466" height="310" class="alignnone size-medium wp-image-8160" srcset="uploads/2013/02/siga-wordpress-466x310.jpg 466w, uploads/2013/02/siga-wordpress-253x168.jpg 253w, uploads/2013/02/siga-wordpress.jpg 500w" sizes="(max-width: 466px) 100vw, 466px" />
 
 Ao formar relacionamentos com as pessoas certas, você está no primeiro passo para ficar à frente. Essas pessoas não precisam ser as mais proeminentes, mas pessoas com conhecimento e experiência que você possa confiar. As vezes é uma questão de conhecer as pessoas certas para responder suas perguntas. Isso não significa que você deve chamar as pessoas às 4 da manhã para pedir ajuda. Ao construir novos relacionamentos e interagindo com a comunidade, você terá uma coleção inteira de pessoas que podem ajuda-lo com vários tipos de questões como qual a melhor empresa de hospedagem ou como encontrar um bom programador. Ficando à frente nem sempre é ser o melhor em algo em si, mas conhecer as pessoas certas fazendo as perguntas certas.
 

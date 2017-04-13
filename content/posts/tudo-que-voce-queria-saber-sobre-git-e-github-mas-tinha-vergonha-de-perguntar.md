@@ -38,13 +38,13 @@ O git é um programa que pode ser instalado <a href="http://git-scm.com/download
 
 O github não possui instalação, ele é um serviço, e caso você não tenha uma conta, chegou a hora de criá-la, <a href="https://github.com/" target="_blank">neste link</a>. Após criar a conta, você verá um botão verde `+New Repository` na qual poderá criar um repositório de acordo com a tela a seguir.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/09/github.png" alt="github" width="750" height="477" class="alignleft size-full wp-image-51160" />
+<img src="http://tableless.com.br/uploads/2015/09/github.png" alt="github" width="750" height="477" class="alignleft size-full wp-image-51160" />
 
 Nesta imagem estamos criando um repositório cujo nome é `site`, de domínio público (podem ser criados reps privados pagando uma mensalidade), e com o arquivo `README.md` embutido, que contém uma descrição do seu projeto. Para que possamos começar a entender como o git funciona, é fundamental criar um rep como este para os nossos testes.
 
 Após a criação do repositório, ele estará disponível no endereço `https://github.com/<username>/site`, onde `username`é o login que você usou para se cadastrar. Acessando esta url temos a seguinte resposta:
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/09/github_site.png" alt="github_site" width="1051" height="780" class="alignleft size-full wp-image-51163" />
+<img src="http://tableless.com.br/uploads/2015/09/github_site.png" alt="github_site" width="1051" height="780" class="alignleft size-full wp-image-51163" />
 
 Temos muitas informações nesta tela, pois ela é a tela principal do seu projeto. Explicaremos algumas informações ao longo deste artigo, por enquanto repare apenas no botão `HTTPs Clone Url` na parte inferior à direta. Esta URl será necessária para que possamos &#8220;clonar&#8221; este projeto em nosso ambiente de estudo (sua máquina windows, mac, linux ou a vm). Clique no botão de copiar URL e perceba que a seguinte URL está na área de transferência: `https://github.com/<username>/site.git`
 
@@ -60,7 +60,7 @@ $ git config --global user.email "YOUR EMAIL ADDRESS"
 
 Estas configurações ficam alocadas no arquivo `~/.gitconfig`, onde o ~ é o seu diretório home. No Windows, ele fica em `c:\Usuarios\<username>\.gitconfig`. Veja a figura a seguir com a minha configuração no cloud9.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/09/git_config.png" alt="git_config" width="300" height="146" class="alignleft size-medium wp-image-51167" />
+<img src="http://tableless.com.br/uploads/2015/09/git_config.png" alt="git_config" width="300" height="146" class="alignleft size-medium wp-image-51167" />
 
 ## Vamos clonar!
 
@@ -69,7 +69,7 @@ Então o que temos até agora é o git configurado para utilizar o github e o pr
 <pre>git clone https://github.com/&lt;username&gt;/site.git
 </pre>
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/09/git_clone.png" alt="git_clone" width="720" height="223" class="alignleft size-full wp-image-51172" />
+<img src="http://tableless.com.br/uploads/2015/09/git_clone.png" alt="git_clone" width="720" height="223" class="alignleft size-full wp-image-51172" />
 
 Perceba que, ao fazer o git clone, o projeto é baixado para a sua máquina, e uma pasta com o nome do projeto é criada.
 
@@ -87,23 +87,23 @@ Com o repositório na sua máquina, vamos aprender 4 comandos iniciais que farã
     
     Chegou o momento de praticar um pouco o que vimos até agora, e com bastante calma para que você possa entender cada passo. Após clonar o seu projeto, crie o arquivo `index.html` na pasta site que é o seu repositório git. Após criar o arquivo, execute o comando `git status`. A resposta é semelhante a figura a seguir:
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/git_touch_index.png" alt="git_touch_index" width="628" height="284" class="alignleft size-full wp-image-51179" />
+    <img src="http://tableless.com.br/uploads/2015/09/git_touch_index.png" alt="git_touch_index" width="628" height="284" class="alignleft size-full wp-image-51179" />
     
     Ou seja, o comando `git status` nos trouxe várias informações, que iremos ignorar a princípio, exceto pelo `Untracked files`, dizendo que existe um arquivo que não está sendo &#8220;mapeado&#8221; pelo git. Para preparar este arquivo para o seu versionamento, usamos o comando `git add`, veja:
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/git_add.png" alt="git_add" width="600" height="272" class="alignleft size-full wp-image-51180" />
+    <img src="http://tableless.com.br/uploads/2015/09/git_add.png" alt="git_add" width="600" height="272" class="alignleft size-full wp-image-51180" />
     
     Agora temos o nosso arquivo index.html no INDEX do repositório, ou se você quiser pensar: &#8220;preparado para um commit&#8221;. Para commitar este arquivo, usamos:
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/git_commit.png" alt="git_commit" width="760" height="248" class="alignleft size-full wp-image-51182" />
+    <img src="http://tableless.com.br/uploads/2015/09/git_commit.png" alt="git_commit" width="760" height="248" class="alignleft size-full wp-image-51182" />
     
     Após &#8220;commitar&#8221; o arquivo, ele já está presente no nosso repositório local, tanto que realizamos o comando `git status` novamente e ele retornou que não havia nada de novo no projeto. Perceba agora que, mesmo recarregando o projeto no github, nada muda. Ou seja, estas mudanças até agora foram locais, você pode realizar várias operações antes de publicá-las no github. Para publicar, usamos o comando `git push`:
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/git_push.png" alt="git_push" width="600" height="255" class="alignleft size-full wp-image-51184" />
+    <img src="http://tableless.com.br/uploads/2015/09/git_push.png" alt="git_push" width="600" height="255" class="alignleft size-full wp-image-51184" />
     
     Após realizar o git push podemos ver no site github as mudanças realizadas no projeto:
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/github_site2.png" alt="github_site2" width="812" height="552" class="alignleft size-full wp-image-51185" />
+    <img src="http://tableless.com.br/uploads/2015/09/github_site2.png" alt="github_site2" width="812" height="552" class="alignleft size-full wp-image-51185" />
     
     Desta forma, aprendemos os 4 comandos mais básicos do git, e com ele podemos começar a compreender como funciona o processo de versionamento de arquivos com git e github.
     
@@ -121,11 +121,11 @@ Com o repositório na sua máquina, vamos aprender 4 comandos iniciais que farã
     
     Para exemplificar, vamos alterar o arquivo README.md diretamente no github. Isso é possível clicando no arquivo e depois clicando no ícone para edição, conforme a imagem a seguir.
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/github_edit.png" alt="github_edit" width="935" height="356" class="alignleft size-full wp-image-51241" />
+    <img src="http://tableless.com.br/uploads/2015/09/github_edit.png" alt="github_edit" width="935" height="356" class="alignleft size-full wp-image-51241" />
     
     Após clicar em edit, adicione algum texto, forneça uma mensagem de commit e clique no botão &#8220;Commit Changes&#8221;. Com isso, uma nova revisão no seu projeto é criada, mas como ela foi gerada no github, o seu projeto local está desatualizado. Para atualizar o seu projeto, use `git pull`, e perceba que o arquivo README.md é atualizado de acordo com a sua última revisão, semelhante a figura a seguir.
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/git-pull.png" alt="git-pull" width="520" height="285" class="alignleft size-full wp-image-51242" />
+    <img src="http://tableless.com.br/uploads/2015/09/git-pull.png" alt="git-pull" width="520" height="285" class="alignleft size-full wp-image-51242" />
     
     ## Melhorando o conceito do comando git add
     
@@ -177,15 +177,15 @@ Com o repositório na sua máquina, vamos aprender 4 comandos iniciais que farã
     
     Para isso existe o conceito de branch, que é justamente ramificar o seu projeto em 2, como se cada um deles fosse um repositório, e depois juntá-lo novamente. Voltando ao github, perceba o detalhe da imagem a seguir.
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/master.png" alt="master" width="821" height="344" class="alignleft size-full wp-image-51249" />
+    <img src="http://tableless.com.br/uploads/2015/09/master.png" alt="master" width="821" height="344" class="alignleft size-full wp-image-51249" />
     
     Sem saber, você já está em um branch, que chamamos de master. Perceba também que, sempre que usávamos `git status`, o nome do branch é exibido, e sempre que comitávamos ou fazíamos o push, o mesmo aparecia. Ou seja, até este momento fizemos todas as alterações no master. Você pode criar um branch no github ou em linha de comando. Inicialmente, vamos pelo github, criando o branch &#8220;new_menu&#8221;.
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/new_branch.png" alt="new_branch" width="468" height="328" class="alignleft size-full wp-image-51250" />
+    <img src="http://tableless.com.br/uploads/2015/09/new_branch.png" alt="new_branch" width="468" height="328" class="alignleft size-full wp-image-51250" />
     
     Criamos o branch new_menu, e para que possamos trabalhar nele, usamos o comando `git checkout new_menu`. No primeiro momento que você cria este branch no github, é necessário realizar o comando `git pull` no seu projeto para que ele possa saber que este branch foi criado. Após realizar `git pull`, pode-se alterar para o novo branch, conforme a imagem a seguir.
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/new_menu.png" alt="new_menu" width="604" height="299" class="alignleft size-full wp-image-51252" />
+    <img src="http://tableless.com.br/uploads/2015/09/new_menu.png" alt="new_menu" width="604" height="299" class="alignleft size-full wp-image-51252" />
     
     Neste momento, estamos no branch `new_menu`, e tudo que fizermos agora será pertencente a ele. Caso haja necessidade de voltar ao branch master, basta realizar o comando `git checkout master`.
     
@@ -215,11 +215,11 @@ Com o repositório na sua máquina, vamos aprender 4 comandos iniciais que farã
     
     Após criar o menu, certifique-se de estar no branch new_menu e faça o commit, conforme a figura a seguir.
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/new_menu_commit.png" alt="new_menu_commit" width="716" height="536" class="alignleft size-full wp-image-51254" />
+    <img src="http://tableless.com.br/uploads/2015/09/new_menu_commit.png" alt="new_menu_commit" width="716" height="536" class="alignleft size-full wp-image-51254" />
     
     Agora temos algumas modificações no branch new\_menu, e podemos trabalhar nesse branch por quanto tempo for necessário, já que o master está intacto. Aqui temos uma funcionalidade interessante, que se destaca em relação as outras ferramentas de versionamento. Suponha que, no meio do seu desenvolvimento do menu, surge a necessidade de resolver um bug crítico no master, algo como &#8220;está faltando o h1 no título do seu site&#8221;&#8230;. Ou seja, estamos no branch new\_menu e precisamos alterar o master. Para isso, use o comando `git checkout master`. Ao fazer isso, retornamos ao master e aquele menu que criamos não está mais presente, conforme a figura a seguir.
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/back_to_master.png" alt="back_to_master" width="624" height="686" class="alignleft size-full wp-image-51255" />
+    <img src="http://tableless.com.br/uploads/2015/09/back_to_master.png" alt="back_to_master" width="624" height="686" class="alignleft size-full wp-image-51255" />
     
     É claro que não perdemos o menu, ele está apenas no branch new_menu. Quando retornarmos a ele, voltará. Agora altere o título do site, incluindo o h1, veja:
     
@@ -238,7 +238,7 @@ Com o repositório na sua máquina, vamos aprender 4 comandos iniciais que farã
     
     Após alterar, faça commit e o push! Veja:
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/git_push2.png" alt="git_push2" width="687" height="529" class="alignleft size-full wp-image-51256" />
+    <img src="http://tableless.com.br/uploads/2015/09/git_push2.png" alt="git_push2" width="687" height="529" class="alignleft size-full wp-image-51256" />
     
     Agora que resolvemos o problema do título, podemos voltar ao new_menu: `git checkout new_menu`. Após realizar este comando, temos o menu de volta no arquivo index.html, mas veja que o título não possui a tag H1. Isso acontece que estamos em outro branch. Tudo que acontece no master, fica no master. Tudo que acontece no new\_menu, fica no new\_menu
     
@@ -246,15 +246,15 @@ Com o repositório na sua máquina, vamos aprender 4 comandos iniciais que farã
     
     Se desejar trazer o título do master para o new_menu, devemos fazer uma operação chamada `merge`, que irá juntar um código no outro. Então, estando no branch new_menu, e querendo trazer uma alteração do master para este branch, precisamos realizar o seguinte comando: `git merge master`. Caso existam alterações nas mesmas linhas entre mesmos arquivos, um conflito será gerado, como no exemplo a seguir:
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/conflict.png" alt="conflict" width="595" height="616" class="alignleft size-full wp-image-51259" />
+    <img src="http://tableless.com.br/uploads/2015/09/conflict.png" alt="conflict" width="595" height="616" class="alignleft size-full wp-image-51259" />
     
     Este é um exemplo de conflito que podo ocorrer quando realizamos um merge, indicado em `1`. Perceba que o código html possui uma definição entre dois blocos, o primeiro, em `2` mostra como é o código do branch new_menu, e o segundo bloco, em `3`, mostra como é o código no branch master. Edite o arquivo repassando para a seguinte forma:
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/merge2.png" alt="merge2" width="578" height="613" class="alignleft size-full wp-image-51260" />
+    <img src="http://tableless.com.br/uploads/2015/09/merge2.png" alt="merge2" width="578" height="613" class="alignleft size-full wp-image-51260" />
     
     Ou seja, ajustamos os dois blocos, como se fosse um merge manual. Após resolver o conflito, vamos prepará-lo para o commit no branch new_menu, com o comando `git add`. Veja:
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/merge3.png" alt="merge3" width="779" height="105" class="alignleft size-full wp-image-51261" />
+    <img src="http://tableless.com.br/uploads/2015/09/merge3.png" alt="merge3" width="779" height="105" class="alignleft size-full wp-image-51261" />
     
     Ou seja, resolvemos o conflito &#8220;na mão&#8221; e depois comitamos normalmente.
     
@@ -262,7 +262,7 @@ Com o repositório na sua máquina, vamos aprender 4 comandos iniciais que farã
     
     Quando não alteremos a mesma linha de um arquivo em branches diferentes, conseguimos realizar um merge sem ocasionar conflitos. Isso pode ser notado ao trazermos o menu do branch new_menu para o master, da seguinte forma:
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/merge4.png" alt="merge4" width="585" height="652" class="alignleft size-full wp-image-51262" />
+    <img src="http://tableless.com.br/uploads/2015/09/merge4.png" alt="merge4" width="585" height="652" class="alignleft size-full wp-image-51262" />
     
     Se não houver conflitos, basta realizar um commit normal para confirmar o merge.
     
@@ -270,7 +270,7 @@ Com o repositório na sua máquina, vamos aprender 4 comandos iniciais que farã
     
     O github possui uma ferramenta gráfica para exibir os branches e merges do seu projeto. Clique no ícone em forma de gráfico no menu à direita do site e clique na aba Network, para se ter um resultado semelhante a figura a seguir:
     
-    <img src="http://tableless.com.br/wp-content/uploads/2015/09/graph.png" alt="graph" width="1027" height="446" class="alignleft size-full wp-image-51265" />
+    <img src="http://tableless.com.br/uploads/2015/09/graph.png" alt="graph" width="1027" height="446" class="alignleft size-full wp-image-51265" />
     
     ## Lendo mais
     

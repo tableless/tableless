@@ -591,4 +591,4 @@ Um grande abraço, obrigado!
   * Git do Projeto: <a href="https://github.com/helderburato/iniciando-stylus" target="_blank" rel="nofollow">https://github.com/helderburato/iniciando-stylus</a>
   * Layout: <a href="https://github.com/helderburato/iniciando-stylus/tree/master/sketch" target="_blank" rel="nofollow">https://github.com/helderburato/iniciando-stylus/tree/master/sketch</a>
 
- [1]: http://tableless.com.br/wp-content/uploads/2016/10/director.png
+ [1]: http://tableless.com.br/uploads/2016/10/director.png

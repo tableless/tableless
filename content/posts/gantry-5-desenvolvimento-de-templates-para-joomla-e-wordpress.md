@@ -36,7 +36,7 @@ Vamos apresentar as possibilidades que a versão 5 pode trazer a respeito do 
 ### **Crie várias páginas com configurações e layouts independentes**
 
 <div id="attachment_50481" style="width: 610px" class="wp-caption alignnone">
-  <a href="http://tableless.com.br/wp-content/uploads/2015/07/img12.jpg"><img class="wp-image-50481 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/img12.jpg" alt="Painel Outline" width="600" height="300" /></a>
+  <a href="http://tableless.com.br/uploads/2015/07/img12.jpg"><img class="wp-image-50481 size-full" src="http://tableless.com.br/uploads/2015/07/img12.jpg" alt="Painel Outline" width="600" height="300" /></a>
   
   <p class="wp-caption-text">
     Painel Outline
@@ -54,7 +54,7 @@ Esta é uma das possibilidades mais legais do Gantry 5, pois você consegue faze
 ### **Estilização mais fácil e completa**
 
 <div id="attachment_50482" style="width: 610px" class="wp-caption alignnone">
-  <a href="http://tableless.com.br/wp-content/uploads/2015/07/img2.jpg"><img class="wp-image-50482 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/img2.jpg" alt="Painel Style" width="600" height="300" /></a>
+  <a href="http://tableless.com.br/uploads/2015/07/img2.jpg"><img class="wp-image-50482 size-full" src="http://tableless.com.br/uploads/2015/07/img2.jpg" alt="Painel Style" width="600" height="300" /></a>
   
   <p class="wp-caption-text">
     Painel Style
@@ -66,7 +66,7 @@ O painel **Style** agora tem mais possibilidades de customização e ficou ainda
 ### **Micro módulos personalizáveis**
 
 <div id="attachment_50483" style="width: 610px" class="wp-caption alignnone">
-  <a href="http://tableless.com.br/wp-content/uploads/2015/07/img3.jpg"><img class="wp-image-50483 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/img3.jpg" alt="Painel Settings" width="600" height="300" /></a>
+  <a href="http://tableless.com.br/uploads/2015/07/img3.jpg"><img class="wp-image-50483 size-full" src="http://tableless.com.br/uploads/2015/07/img3.jpg" alt="Painel Settings" width="600" height="300" /></a>
   
   <p class="wp-caption-text">
     Painel Settings
@@ -80,7 +80,7 @@ Existem alguns particles especiais chamados de **Atom**, que possibilitam a entr
 ### **Infinitas possibilidades de customização**
 
 <div id="attachment_50484" style="width: 610px" class="wp-caption alignnone">
-  <a href="http://tableless.com.br/wp-content/uploads/2015/07/img4.jpg"><img class="wp-image-50484 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/img4.jpg" alt="Painel Layout" width="600" height="300" /></a>
+  <a href="http://tableless.com.br/uploads/2015/07/img4.jpg"><img class="wp-image-50484 size-full" src="http://tableless.com.br/uploads/2015/07/img4.jpg" alt="Painel Layout" width="600" height="300" /></a>
   
   <p class="wp-caption-text">
     Painel Layout
@@ -94,7 +94,7 @@ Toda a estrutura do template criado no painel de layout é renderizado no browse
 ### **O editor de Menu**
 
 <div id="attachment_50485" style="width: 610px" class="wp-caption alignnone">
-  <a href="http://tableless.com.br/wp-content/uploads/2015/07/img5.jpg"><img class="wp-image-50485 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/img5.jpg" alt="Editor de Menu" width="600" height="300" /></a>
+  <a href="http://tableless.com.br/uploads/2015/07/img5.jpg"><img class="wp-image-50485 size-full" src="http://tableless.com.br/uploads/2015/07/img5.jpg" alt="Editor de Menu" width="600" height="300" /></a>
   
   <p class="wp-caption-text">
     Editor de Menu

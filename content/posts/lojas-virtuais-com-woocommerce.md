@@ -48,7 +48,7 @@ Instalar o WooCommerce não é muito diferente de instalar qualquer plugin de Wo
 
 Se a mensagem roxa gigante aparecer você está pronto para começar. Clique em **instalar as páginas do WooCommerce**.
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/10/woocommerce-bemvindo.jpg" alt="woocommerce-bemvindo" width="660" height="440" class="alignnone size-full wp-image-39126" srcset="uploads/2013/10/woocommerce-bemvindo.jpg 660w, uploads/2013/10/woocommerce-bemvindo-252x168.jpg 252w, uploads/2013/10/woocommerce-bemvindo-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />
+<img src="http://tableless.com.br/uploads/2013/10/woocommerce-bemvindo.jpg" alt="woocommerce-bemvindo" width="660" height="440" class="alignnone size-full wp-image-39126" srcset="uploads/2013/10/woocommerce-bemvindo.jpg 660w, uploads/2013/10/woocommerce-bemvindo-252x168.jpg 252w, uploads/2013/10/woocommerce-bemvindo-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Se você preferir também pode instalar manualmente.
   
@@ -62,13 +62,13 @@ Se você preferir também pode instalar manualmente.
 
 Antes de começar a vender é preciso, obviamente, fornecer algumas informações para o plugin. Clique em **WooCommerce** e **Configurações**. 
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/10/plugins.jpg" alt="plugins" width="660" height="440" class="alignnone size-full wp-image-39123" srcset="uploads/2013/10/plugins.jpg 660w, uploads/2013/10/plugins-252x168.jpg 252w, uploads/2013/10/plugins-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />
+<img src="http://tableless.com.br/uploads/2013/10/plugins.jpg" alt="plugins" width="660" height="440" class="alignnone size-full wp-image-39123" srcset="uploads/2013/10/plugins.jpg 660w, uploads/2013/10/plugins-252x168.jpg 252w, uploads/2013/10/plugins-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />
 
 A partir deste painel você pode setar as informações fundamentais para o funcionamento de uma loja como moeda, localização, estoque, impostos, frete, pagamento, e-mail, etc.  Os campos são auto explicativos, mas se você precisar de uma ajuda dê uma olhada na [documentação sobre configurações.][4]
 
 Agora você pode [criar o seu próprio tema][5] ou escolher um [template pronto][6].
 
-[<img src="http://tableless.com.br/wp-content/uploads/2013/10/woocommerce-temas.jpg" alt="woocommerce-temas" width="660" height="440" class="alignnone size-full wp-image-39128" srcset="uploads/2013/10/woocommerce-temas.jpg 660w, uploads/2013/10/woocommerce-temas-252x168.jpg 252w, uploads/2013/10/woocommerce-temas-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />][7]
+[<img src="http://tableless.com.br/uploads/2013/10/woocommerce-temas.jpg" alt="woocommerce-temas" width="660" height="440" class="alignnone size-full wp-image-39128" srcset="uploads/2013/10/woocommerce-temas.jpg 660w, uploads/2013/10/woocommerce-temas-252x168.jpg 252w, uploads/2013/10/woocommerce-temas-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />][7]
 
 Para fins de aprendizado neste artigo vamos trabalhar com o tema padrão do WordPress. 
 
@@ -80,17 +80,17 @@ Como dinheiro não nasce em árvore vamos considerar que você está utilizando 
 
 Agora você é o orgulhoso dono de uma loja de mentirinha cheia de produtos falsos. O que é super útil como modelo para testarmos todas as funções do plugin antes de usarmos o conteúdo real, certo?
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/10/woocommerce-produtos.jpg" alt="woocommerce-produtos" width="660" height="440" class="alignnone size-full wp-image-39127" srcset="uploads/2013/10/woocommerce-produtos.jpg 660w, uploads/2013/10/woocommerce-produtos-252x168.jpg 252w, uploads/2013/10/woocommerce-produtos-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />
+<img src="http://tableless.com.br/uploads/2013/10/woocommerce-produtos.jpg" alt="woocommerce-produtos" width="660" height="440" class="alignnone size-full wp-image-39127" srcset="uploads/2013/10/woocommerce-produtos.jpg 660w, uploads/2013/10/woocommerce-produtos-252x168.jpg 252w, uploads/2013/10/woocommerce-produtos-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />
 
 O layout da página de produto no tema padrão ficará mais ou menos assim:
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/10/exemplo-produto.jpg" alt="exemplo-produto" width="660" height="440" class="alignnone size-full wp-image-39121" srcset="uploads/2013/10/exemplo-produto.jpg 660w, uploads/2013/10/exemplo-produto-252x168.jpg 252w, uploads/2013/10/exemplo-produto-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />
+<img src="http://tableless.com.br/uploads/2013/10/exemplo-produto.jpg" alt="exemplo-produto" width="660" height="440" class="alignnone size-full wp-image-39121" srcset="uploads/2013/10/exemplo-produto.jpg 660w, uploads/2013/10/exemplo-produto-252x168.jpg 252w, uploads/2013/10/exemplo-produto-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## A estrutura
 
 A interface do WooCommerce aproveita muitos elementos originais do WordPress. Adicionar e [editar produtos][10], por exemplo, é uma tarefa muito parecida com criar um posts. Basta clicar no item **Produtos** na sidebar e escolher a opção **Novo Produto**. A partir daí é só uma sequência de formulários que qualquer usuário familiarizado com o WordPress é mais do que capaz de compreender.
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/10/novo-produto.jpg" alt="novo-produto" width="660" height="440" class="alignnone size-full wp-image-39122" srcset="uploads/2013/10/novo-produto.jpg 660w, uploads/2013/10/novo-produto-252x168.jpg 252w, uploads/2013/10/novo-produto-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />
+<img src="http://tableless.com.br/uploads/2013/10/novo-produto.jpg" alt="novo-produto" width="660" height="440" class="alignnone size-full wp-image-39122" srcset="uploads/2013/10/novo-produto.jpg 660w, uploads/2013/10/novo-produto-252x168.jpg 252w, uploads/2013/10/novo-produto-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Não vou perder tempo descrevendo como realizar as tarefas básicas pois não existe segredo algum.  Como o foco deste artigo é desenvolvimento vamos conversar um pouco sobre a estrutura do plugin para que você possa projetar suas próprias páginas.
 
@@ -113,7 +113,7 @@ Não vou perder tempo descrevendo como realizar as tarefas básicas pois não ex
 
 Este é o coração do plugin. Os shortcodes funcionam como atalhos para cada módulo. Basta inserir o shortcode correspondente na página ou post que você desejar para mostrar o conteúdo dele em seu layout. Você pode inserir os shortcodes copiando e colando o código ou clicando no ícone do Woo.
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/10/shortcode.jpg" alt="shortcode" width="660" height="440" class="alignnone size-full wp-image-39124" srcset="uploads/2013/10/shortcode.jpg 660w, uploads/2013/10/shortcode-252x168.jpg 252w, uploads/2013/10/shortcode-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />
+<img src="http://tableless.com.br/uploads/2013/10/shortcode.jpg" alt="shortcode" width="660" height="440" class="alignnone size-full wp-image-39124" srcset="uploads/2013/10/shortcode.jpg 660w, uploads/2013/10/shortcode-252x168.jpg 252w, uploads/2013/10/shortcode-465x310.jpg 465w" sizes="(max-width: 660px) 100vw, 660px" />
 
 #### Shortcodes Padrão
 

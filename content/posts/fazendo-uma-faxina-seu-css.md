@@ -66,7 +66,7 @@ Veja como ficou minha página:
 Realizando apenas estes dois passos você já configurou seu ambiente de testes e poderá executar a página no navegador. Assim que a página é carregada, é exibido ao usuário um textarea que pode ser utilizado como entrada de URL na qual ele deseja testar :
 
 <div id="attachment_42093" style="width: 730px" class="wp-caption alignnone">
-  <a href="http://tableless.com.br/wp-content/uploads/2014/04/helium-passo-1.jpg"><img class="size-full wp-image-42093" alt="Helium" src="http://tableless.com.br/wp-content/uploads/2014/04/helium-passo-1.jpg" width="720" height="257" srcset="uploads/2014/04/helium-passo-1.jpg 720w, uploads/2014/04/helium-passo-1-400x142.jpg 400w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+  <a href="http://tableless.com.br/uploads/2014/04/helium-passo-1.jpg"><img class="size-full wp-image-42093" alt="Helium" src="http://tableless.com.br/uploads/2014/04/helium-passo-1.jpg" width="720" height="257" srcset="uploads/2014/04/helium-passo-1.jpg 720w, uploads/2014/04/helium-passo-1-400x142.jpg 400w" sizes="(max-width: 720px) 100vw, 720px" /></a>
   
   <p class="wp-caption-text">
     Tela inicial Helium
@@ -78,7 +78,7 @@ Realizando apenas estes dois passos você já configurou seu ambiente de testes 
 Caso você queira testar a própria página que foi carregada, assim como neste exemplo, bastar clicar  em **‘Start’** que ele irá carregar os resultados :
 
 <div id="attachment_42094" style="width: 730px" class="wp-caption alignnone">
-  <a href="http://tableless.com.br/wp-content/uploads/2014/04/helium-passo-2.jpg"><img class="size-full wp-image-42094" alt="Helium" src="http://tableless.com.br/wp-content/uploads/2014/04/helium-passo-2.jpg" width="720" height="263" srcset="uploads/2014/04/helium-passo-2.jpg 720w, uploads/2014/04/helium-passo-2-400x146.jpg 400w" sizes="(max-width: 720px) 100vw, 720px" /></a>
+  <a href="http://tableless.com.br/uploads/2014/04/helium-passo-2.jpg"><img class="size-full wp-image-42094" alt="Helium" src="http://tableless.com.br/uploads/2014/04/helium-passo-2.jpg" width="720" height="263" srcset="uploads/2014/04/helium-passo-2.jpg 720w, uploads/2014/04/helium-passo-2-400x146.jpg 400w" sizes="(max-width: 720px) 100vw, 720px" /></a>
   
   <p class="wp-caption-text">
     Tela de resultados Helium

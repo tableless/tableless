@@ -89,7 +89,7 @@ Datas dos eventos nas próximas cidades:
   * [**Porto Alegre** dia 09 de Junho][4]
   * [**São Paulo** dia 22 de Junho][5]
 
-<a href="http://eventos.locaweb.com.br" rel="attachment wp-att-53829"><img src="http://tableless.com.br/wp-content/uploads/2016/04/FB_post_cidades2.jpg" alt="FB_post_cidades2" width="716" height="600" class="aligncenter size-full wp-image-53829" /></a>
+<a href="http://eventos.locaweb.com.br" rel="attachment wp-att-53829"><img src="http://tableless.com.br/uploads/2016/04/FB_post_cidades2.jpg" alt="FB_post_cidades2" width="716" height="600" class="aligncenter size-full wp-image-53829" /></a>
 
  [1]: http://eventos.locaweb.com.br/
  [2]: http://eventos.locaweb.com.br/18o-encontro-locaweb-recife/

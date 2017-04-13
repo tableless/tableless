@@ -23,7 +23,7 @@ Eu fui para Boston (agradecimentos à Locaweb) no início da semana para acompan
 
 Um dos melhores e mais organizados eventos que já fui. Todos os dias do evento eles servem café da manhã, aquele bem americano, com linguiça, ovos mexidos, bacon e o escambal. Eles também servem almoço, logo, você não precisa ficar saindo do local do evento para procurar comida. 
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/04/image.jpg" alt="image" class="alignnone size-full wp-image-42390" srcset="uploads/2014/04/image.jpg 2048w, uploads/2014/04/image-400x300.jpg 400w" sizes="(max-width: 2048px) 100vw, 2048px" />
+<img src="http://tableless.com.br/uploads/2014/04/image.jpg" alt="image" class="alignnone size-full wp-image-42390" srcset="uploads/2014/04/image.jpg 2048w, uploads/2014/04/image-400x300.jpg 400w" sizes="(max-width: 2048px) 100vw, 2048px" />
 
 A internet, como sempre, um lixo. Não importa onde você esteja, não importa quem você seja, a internet em eventos sempre vai te deixar na mão. Mas eu até entendo o problema. São muitas pessoas, muitas mesmo. Imagine umas 1000 pessoas com 2 ou 3 aparelhos pendurados cada uma&#8230; não há roteador que aguente.
 

@@ -85,7 +85,7 @@ O formato AMP é totalmente focado em performance e para esse resultado a estrut
   </p>
   
   <p>
-    <img class="alignnone size-full wp-image-55207" src="http://tableless.com.br/wp-content/uploads/2016/07/console.jpg" alt="console" width="466" height="337" />
+    <img class="alignnone size-full wp-image-55207" src="http://tableless.com.br/uploads/2016/07/console.jpg" alt="console" width="466" height="337" />
   </p>
   
   <p>
@@ -93,7 +93,7 @@ O formato AMP é totalmente focado em performance e para esse resultado a estrut
   </p>
   
   <p>
-    <img class="alignnone size-full wp-image-55208" src="http://tableless.com.br/wp-content/uploads/2016/07/extensaoamp.jpg" alt="extensaoamp" width="50" height="38" />
+    <img class="alignnone size-full wp-image-55208" src="http://tableless.com.br/uploads/2016/07/extensaoamp.jpg" alt="extensaoamp" width="50" height="38" />
   </p>
   
   <p>
@@ -105,7 +105,7 @@ O formato AMP é totalmente focado em performance e para esse resultado a estrut
   </p>
   
   <p>
-    <img class="alignnone wp-image-55209" src="http://tableless.com.br/wp-content/uploads/2016/07/Google-AMP-news.jpg" alt="Google-AMP-news" width="800" height="516" />
+    <img class="alignnone wp-image-55209" src="http://tableless.com.br/uploads/2016/07/Google-AMP-news.jpg" alt="Google-AMP-news" width="800" height="516" />
   </p>
   
   <p>

@@ -45,7 +45,7 @@ Uma vez familiares com a premissa do Progressive Enhancement, vamos entender com
 As expectativas e considerações do cliente geram o design e a funcionalidade de sua aplicação. Mas como esse design deve funcionar nos mais diversos cenários é responsabilidade nossa. A primeira etapa é fazer um scan detalhado do que vai ser construido naquela etapa do processo. Se você recebeu wireframes que mostram como sua página deve ser visualizada em um monitores 4:3, 16:9 e mobile em telas paisagem e retrato você deve pegar estes 3 designs e sua estrutura **básica** de HTML para entender quais serão as partes em comum para a partir daí escrever o HTML.
 
 <div id="attachment_2381" style="width: 710px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/wp-content/uploads/2010/12/layouts.png"><img src="http://tableless.com.br/wp-content/uploads/2010/12/layouts.png" alt="Wireframes mostrando diferentes designs para 16:9, 4:3, mobile horizontal e vertical" width="700" height="167" class="size-full wp-image-2381" srcset="uploads/2010/12/layouts.png 700w, uploads/2010/12/layouts-300x71.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a>
+  <a href="http://tableless.com.br/uploads/2010/12/layouts.png"><img src="http://tableless.com.br/uploads/2010/12/layouts.png" alt="Wireframes mostrando diferentes designs para 16:9, 4:3, mobile horizontal e vertical" width="700" height="167" class="size-full wp-image-2381" srcset="uploads/2010/12/layouts.png 700w, uploads/2010/12/layouts-300x71.png 300w" sizes="(max-width: 700px) 100vw, 700px" /></a>
   
   <p class="wp-caption-text">
     Diferentes Wireframes para o mesmo design
@@ -90,7 +90,7 @@ Como você pode ver, os maiores segredos dessa abordagem é separar bem HTML, CS
   * Mantenha suas iterações avancadas em uma camada específica, tanto estilo como script, sempre atento as limitações de Usabilidade e Acessibilidade.
 
 <div id="attachment_2380" style="width: 986px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/wp-content/uploads/2010/12/fluxo_dev.png"><img src="http://tableless.com.br/wp-content/uploads/2010/12/fluxo_dev.png" alt="Fluxograma de desenvolvimento orientado ao Progressive Enhancement" width="700" height="146" class="size-full wp-image-2380" srcset="uploads/2010/12/fluxo_dev.png 976w, uploads/2010/12/fluxo_dev-300x62.png 300w, uploads/2010/12/fluxo_dev-940x198.png 940w" sizes="(max-width: 700px) 100vw, 700px" /></a>
+  <a href="http://tableless.com.br/uploads/2010/12/fluxo_dev.png"><img src="http://tableless.com.br/uploads/2010/12/fluxo_dev.png" alt="Fluxograma de desenvolvimento orientado ao Progressive Enhancement" width="700" height="146" class="size-full wp-image-2380" srcset="uploads/2010/12/fluxo_dev.png 976w, uploads/2010/12/fluxo_dev-300x62.png 300w, uploads/2010/12/fluxo_dev-940x198.png 940w" sizes="(max-width: 700px) 100vw, 700px" /></a>
   
   <p class="wp-caption-text">
     Evolução do código HTML e CSS em uma aplicação que usa PE para diferentes versões: Básica, Mobile, Desktop e Enhanced

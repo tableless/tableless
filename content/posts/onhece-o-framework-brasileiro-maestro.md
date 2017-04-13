@@ -37,7 +37,7 @@ Para executar o framework no seu computador, basta fazer o download do zip e col
 
 Neste artigo estamos usando o WAMP SERVER para facilitar, então basta baixar o Maestro e colocá-lo na pasta **c:\wamp\www,** conforme a imagem a seguir:
 
-[<img class="alignnone size-full wp-image-48348" src="http://tableless.com.br/wp-content/uploads/2015/04/004.png" alt="004" width="522" height="460" />][1]
+[<img class="alignnone size-full wp-image-48348" src="http://tableless.com.br/uploads/2015/04/004.png" alt="004" width="522" height="460" />][1]
 
 Com o maestro no lugar certo, basta acessar:
 
@@ -51,4 +51,4 @@ Se tudo funcionou, estamos prontos para começar a entender melhor o framework, 
 
 Até a próxima pessoal!
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/04/004.png
+ [1]: http://tableless.com.br/uploads/2015/04/004.png

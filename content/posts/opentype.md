@@ -30,7 +30,7 @@ Kerning basicamente, se trata de ajustar os espaços entre os caracteres de mane
 **Ligaduras** são combinações de caracteres que historicamente tendem a se unir ao serem posicionados lado a lado, como ff, ffl, fi ou fj.
 
 <div id="attachment_43150" style="width: 337px" class="wp-caption alignnone">
-  <a href="http://tableless.com.br/wp-content/uploads/2014/06/ligaduras.jpg"><img class="wp-image-43150" src="http://tableless.com.br/wp-content/uploads/2014/06/ligaduras-265x132.jpg" alt="ligaduras" width="327" height="163" srcset="uploads/2014/06/ligaduras-265x132.jpg 265w, uploads/2014/06/ligaduras-400x200.jpg 400w, uploads/2014/06/ligaduras.jpg 558w" sizes="(max-width: 327px) 100vw, 327px" /></a>
+  <a href="http://tableless.com.br/uploads/2014/06/ligaduras.jpg"><img class="wp-image-43150" src="http://tableless.com.br/uploads/2014/06/ligaduras-265x132.jpg" alt="ligaduras" width="327" height="163" srcset="uploads/2014/06/ligaduras-265x132.jpg 265w, uploads/2014/06/ligaduras-400x200.jpg 400w, uploads/2014/06/ligaduras.jpg 558w" sizes="(max-width: 327px) 100vw, 327px" /></a>
   
   <p class="wp-caption-text">
     No texto magenta, não há ligaduras. Veja a diferença na terceira linha ao usar &#8216;ffl&#8217; e &#8216;ffi&#8217;
@@ -63,7 +63,7 @@ As chamadas **PostScript** foram as primeiras a surgir pelas mãos da Adobe. Com
 
 Hoje o único navegador que não oferece suporte ao OpenType é o Opera Mini. Veja a lista de navegadores com suporte, abaixo: (disponível em: <a href="http://caniuse.com/#search=woff" target="_blank">http://caniuse.com/#search=woff</a>)
 
-[<img class="alignnone wp-image-43155 size-full" src="http://tableless.com.br/wp-content/uploads/2014/06/support.png" alt="suporte" width="930" height="351" srcset="uploads/2014/06/support.png 930w, uploads/2014/06/support-265x100.png 265w, uploads/2014/06/support-400x150.png 400w" sizes="(max-width: 930px) 100vw, 930px" />][1]
+[<img class="alignnone wp-image-43155 size-full" src="http://tableless.com.br/uploads/2014/06/support.png" alt="suporte" width="930" height="351" srcset="uploads/2014/06/support.png 930w, uploads/2014/06/support-265x100.png 265w, uploads/2014/06/support-400x150.png 400w" sizes="(max-width: 930px) 100vw, 930px" />][1]
 
 ## Por que usar?
 
@@ -159,4 +159,4 @@ PAMENTAL, J. Domine o OpenType. **Revista W**, São Paulo, n. 167, p. 62-66, Ju
 
 SANGIOVANNI, C. Rapidinha:O que é Kerning. **Choco La Design**, 2011. Disponivel em: <http://chocoladesign.com/rapidinha-o-que-e-kerning>. Acesso em: 9 Junho 2014.
 
- [1]: http://tableless.com.br/wp-content/uploads/2014/06/support.png
+ [1]: http://tableless.com.br/uploads/2014/06/support.png

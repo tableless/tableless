@@ -19,6 +19,6 @@ Os jogos deste bundle podem ainda ser baixados e jogados no Firefox, Chrome ou q
 
 Aproveita lá!
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/10/Screen-Shot-2014-10-20-at-9.35.17-AM.png" alt="Screen Shot 2014-10-20 at 9.35.17 AM" width="1064" height="987" class="alignnone size-full wp-image-44869" srcset="uploads/2014/10/Screen-Shot-2014-10-20-at-9.35.17-AM.png 1064w, uploads/2014/10/Screen-Shot-2014-10-20-at-9.35.17-AM-149x139.png 149w, uploads/2014/10/Screen-Shot-2014-10-20-at-9.35.17-AM-400x371.png 400w" sizes="(max-width: 1064px) 100vw, 1064px" />
+<img src="http://tableless.com.br/uploads/2014/10/Screen-Shot-2014-10-20-at-9.35.17-AM.png" alt="Screen Shot 2014-10-20 at 9.35.17 AM" width="1064" height="987" class="alignnone size-full wp-image-44869" srcset="uploads/2014/10/Screen-Shot-2014-10-20-at-9.35.17-AM.png 1064w, uploads/2014/10/Screen-Shot-2014-10-20-at-9.35.17-AM-149x139.png 149w, uploads/2014/10/Screen-Shot-2014-10-20-at-9.35.17-AM-400x371.png 400w" sizes="(max-width: 1064px) 100vw, 1064px" />
 
  [1]: https://www.humblebundle.com/

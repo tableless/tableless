@@ -51,7 +51,7 @@ Sem áudio não preciso fica me preocupando com a explicação, só digito, grav
 
 Se você quiser mais vídeos e em alta-resolução, visite o [Campus Online][4]. Lá você vai encontrar [vídeos tutoriais de Tableless, Ajax, Javascript][5] e boas práticas de desenvolvimento web.
 
- [1]: http://tableless.com.br/wp-content/uploads/2008/06/3colunas-oitominutos.html
+ [1]: http://tableless.com.br/uploads/2008/06/3colunas-oitominutos.html
  [2]: http://www.vimeo.com/1148661?pg=embed&sec=1148661
  [3]: http://tableless.com.br/sobre-nomes-e-sobrenomes
  [4]: http://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."

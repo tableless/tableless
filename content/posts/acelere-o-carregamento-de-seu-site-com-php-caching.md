@@ -37,7 +37,7 @@ tags:
 
 <span style="font-weight: 400">Vai depender muito da programação do site, mas quanto mais ações forem realizadas no backend, maior será o ganho. Veja abaixo os resultados obtidos durante um teste:</span>
 
- <img class="aligncenter wp-image-55365 size-full" src="http://tableless.com.br/wp-content/uploads/2016/07/phpcaching-benchmarks.jpg" width="1180" height="393" />A versão dinâmica foi entregue em 318 ms e a versão cacheada em 14 ms, 23 vezes mais rápido.
+ <img class="aligncenter wp-image-55365 size-full" src="http://tableless.com.br/uploads/2016/07/phpcaching-benchmarks.jpg" width="1180" height="393" />A versão dinâmica foi entregue em 318 ms e a versão cacheada em 14 ms, 23 vezes mais rápido.
 
 ## Desenvolvimento
 
@@ -65,7 +65,7 @@ tags:
 
 <span style="font-weight: 400">Agora vamos criar o nosso controlador de cache, que irá funcionar da seguinte maneira:</span>
 
-<img class="aligncenter wp-image-55366 " src="http://tableless.com.br/wp-content/uploads/2016/07/phpcaching-diagrama-de-atividades.jpg" width="551" height="551" />
+<img class="aligncenter wp-image-55366 " src="http://tableless.com.br/uploads/2016/07/phpcaching-diagrama-de-atividades.jpg" width="551" height="551" />
   
 <span style="font-weight: 400">Sabendo a lógica de funcionamento, fica mais fácil programar nosso controlador. Crie na raiz do projeto um arquivo chamado <code>index.php</code> com o seguinte código:</span>
 

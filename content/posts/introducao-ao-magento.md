@@ -22,7 +22,7 @@ O Magento é uma plataforma open source online focada em comércio eletrônico (
 
 A plataforma foi lançada em 2007, mas em 2009 já havia conquistado a liderança do mercado, ultrapassando o osCommerce, mudando definitivamente o cenário do e-commerce no mercado mundial e não demonstra qualquer sinal de desaceleração. Hoje o Magento, em sua versão livre, detém 26,2% de share de mercado, segundo levantamento da <a href="http://blog.aheadworks.com/2012/09/magento-got-a-third-slice-of-pie/" target="_blank">aheadWorks</a>. Entre as 20 principais plataformas existentes, ele conquistou 1/4 dos e-commerces mundiais. Se considerarmos as versões pagas do Magento, teremos quase 1/3 de mercado conquistado: 31,4% das lojas virtuais.
 
-[<img class=" wp-image-47296 size-full aligncenter" src="http://tableless.com.br/wp-content/uploads/2015/02/magento-ecommerce-estatisticas.png" alt="magento-ecommerce-estatisticas" width="700" height="414" srcset="uploads/2015/02/magento-ecommerce-estatisticas.png 700w, uploads/2015/02/magento-ecommerce-estatisticas-235x139.png 235w, uploads/2015/02/magento-ecommerce-estatisticas-400x237.png 400w" sizes="(max-width: 700px) 100vw, 700px" />][1]
+[<img class=" wp-image-47296 size-full aligncenter" src="http://tableless.com.br/uploads/2015/02/magento-ecommerce-estatisticas.png" alt="magento-ecommerce-estatisticas" width="700" height="414" srcset="uploads/2015/02/magento-ecommerce-estatisticas.png 700w, uploads/2015/02/magento-ecommerce-estatisticas-235x139.png 235w, uploads/2015/02/magento-ecommerce-estatisticas-400x237.png 400w" sizes="(max-width: 700px) 100vw, 700px" />][1]
   
 Em segundo lugar ficou a Zen Cart, com 13%, e em terceiro lugar a Virtuemart, com 12,1%. As três maiores empresas de plataforma de e-commerce correspondem a mais de 50% das lojas. A queda da osCommerce está cada vez mais visível desde 2011. O player mais antigo do mercado perdeu a liderança e apareceu em quinto lugar, com 7,7%, atrás da PrestaShop, que apareceu com 10,8% dos sites.
 
@@ -38,4 +38,4 @@ Diante destas constatações, para não haver dúvidas e desconfianças, cercar-
 
 Se necessário contrate um Consultor de Marketing Digital, esta pode ser a melhor saída antes da definição de qual plataforma escolher para seu projeto!
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/02/magento-ecommerce-estatisticas.png
+ [1]: http://tableless.com.br/uploads/2015/02/magento-ecommerce-estatisticas.png

@@ -53,7 +53,7 @@ Essa função habilita o suporte para outros tipos de conteúdo, no primeiro par
 
 Após ativar o suporte, terás dentro da edição do seus posts, um espaço feito esse para edição dos Posts Formats.
 
-<img src="http://tableless.com.br/wp-content/uploads/2011/04/edicao.jpg" alt="" width="281" height="130" class="alignnone size-full wp-image-3669" />
+<img src="http://tableless.com.br/uploads/2011/04/edicao.jpg" alt="" width="281" height="130" class="alignnone size-full wp-image-3669" />
 
 ### Personalizando o retorno dos formatos
 

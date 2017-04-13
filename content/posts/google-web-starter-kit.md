@@ -19,7 +19,7 @@ Acredito que cada um tem o seu próprio kit inicial a sua maneira. A galera mais
 
 Mas e se a gente for um passo além? E incluir alguns truques extras na manga como automatizadores, guias de estilos, sincronização multi-dispositivo e otimização de performance? Foi isto que a galera do [Web Fundamentals][3] fez ao criar o [Google Web Starter Kit][4]. Vamos explorar com ele funciona!
 
-[<img src="http://tableless.com.br/wp-content/uploads/2014/08/web-starter-kit.jpg" alt="web-starter-kit" width="960" height="540" class="aligncenter size-full wp-image-44066" srcset="uploads/2014/08/web-starter-kit.jpg 960w, uploads/2014/08/web-starter-kit-247x139.jpg 247w, uploads/2014/08/web-starter-kit-400x225.jpg 400w" sizes="(max-width: 960px) 100vw, 960px" />][5]
+[<img src="http://tableless.com.br/uploads/2014/08/web-starter-kit.jpg" alt="web-starter-kit" width="960" height="540" class="aligncenter size-full wp-image-44066" srcset="uploads/2014/08/web-starter-kit.jpg 960w, uploads/2014/08/web-starter-kit-247x139.jpg 247w, uploads/2014/08/web-starter-kit-400x225.jpg 400w" sizes="(max-width: 960px) 100vw, 960px" />][5]
 
 ### O que ele NÃO é
 
@@ -39,7 +39,7 @@ O primeiro passo, obviamente, é baixar os arquivos. Você pode fazer isto atrav
 
 Um arquivo HTML e um CSS inicial para servir de base para os seus projetos. O HTML inclui diversas meta-tags e alguns snippets úteis pré-prontos como Google Analytics, por exemplo. Esta parte é bem parecida com o HTML5 Boilerplate. É tudo o que os nossos amigos que pararam de ler no parágrafo de cima ganharam.
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/08/web-starter-kit-home.jpg" alt="web-starter-kit-home" width="960" height="540" class="aligncenter size-full wp-image-44063" srcset="uploads/2014/08/web-starter-kit-home.jpg 960w, uploads/2014/08/web-starter-kit-home-247x139.jpg 247w, uploads/2014/08/web-starter-kit-home-400x225.jpg 400w" sizes="(max-width: 960px) 100vw, 960px" />
+<img src="http://tableless.com.br/uploads/2014/08/web-starter-kit-home.jpg" alt="web-starter-kit-home" width="960" height="540" class="aligncenter size-full wp-image-44063" srcset="uploads/2014/08/web-starter-kit-home.jpg 960w, uploads/2014/08/web-starter-kit-home-247x139.jpg 247w, uploads/2014/08/web-starter-kit-home-400x225.jpg 400w" sizes="(max-width: 960px) 100vw, 960px" />
 
 ### Guia de Estilos
 
@@ -65,7 +65,7 @@ Compilação sem esforço.
 
 Ao baixar os arquivos você recebe isto aqui:
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/08/web-starter-kit-pastas.jpg" alt="web-starter-kit-pastas" width="960" height="540" class="aligncenter size-full wp-image-44065" srcset="uploads/2014/08/web-starter-kit-pastas.jpg 960w, uploads/2014/08/web-starter-kit-pastas-247x139.jpg 247w, uploads/2014/08/web-starter-kit-pastas-400x225.jpg 400w" sizes="(max-width: 960px) 100vw, 960px" />
+<img src="http://tableless.com.br/uploads/2014/08/web-starter-kit-pastas.jpg" alt="web-starter-kit-pastas" width="960" height="540" class="aligncenter size-full wp-image-44065" srcset="uploads/2014/08/web-starter-kit-pastas.jpg 960w, uploads/2014/08/web-starter-kit-pastas-247x139.jpg 247w, uploads/2014/08/web-starter-kit-pastas-400x225.jpg 400w" sizes="(max-width: 960px) 100vw, 960px" />
 
 Pode parecer um pouco óbvio para quem não é mais iniciante, mas vamos dar uma olhada em arquivo por arquivo.
 
@@ -242,7 +242,7 @@ Roda a rotina de automação do Gulp e gera um endereço de IP. Basta acessar es
 
 Através deste comando você obtém um relatório completo, utilizando a API do [Google Pagespeed Insights][17].
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/08/web-starter-kit-pagespeed.jpg" alt="web-starter-kit-pagespeed" width="960" height="540" class="aligncenter size-full wp-image-44064" srcset="uploads/2014/08/web-starter-kit-pagespeed.jpg 960w, uploads/2014/08/web-starter-kit-pagespeed-247x139.jpg 247w, uploads/2014/08/web-starter-kit-pagespeed-400x225.jpg 400w" sizes="(max-width: 960px) 100vw, 960px" />
+<img src="http://tableless.com.br/uploads/2014/08/web-starter-kit-pagespeed.jpg" alt="web-starter-kit-pagespeed" width="960" height="540" class="aligncenter size-full wp-image-44064" srcset="uploads/2014/08/web-starter-kit-pagespeed.jpg 960w, uploads/2014/08/web-starter-kit-pagespeed-247x139.jpg 247w, uploads/2014/08/web-starter-kit-pagespeed-400x225.jpg 400w" sizes="(max-width: 960px) 100vw, 960px" />
 
 ### Outros comandos
 

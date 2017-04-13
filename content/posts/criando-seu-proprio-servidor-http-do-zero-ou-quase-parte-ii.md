@@ -50,7 +50,7 @@ A maioria das aplicações que requerem conexão com algum serviço se conectam 
 
 O que acontece é seu navegador irá se conectar ao site, ele sabe que o servidor está respondendo na porta 80 no endereço tal, para isso é necessário que o navegador abre uma porta local aleatória, para que assim o servidor possa saber para quem responder:
 
-[<img src="http://www.raywenderlich.com/wp-content/uploads/2011/06/sockets.jpg" alt="" width="600" height="200" />][2]
+[<img src="http://www.raywenderlich.com/uploads/2011/06/sockets.jpg" alt="" width="600" height="200" />][2]
 
 Pronto agora que entendemos o conceito (ou pelo menos espero que tenham entendido =D) vamos colocar as mãos na massa.
 
@@ -155,5 +155,5 @@ Por hoje ficamos por aqui pessoal, espero que tenham aproveitado bem nossa parte
 Até Mais.
 
  [1]: http://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/ "Criando seu próprio servidor HTTP do zero (ou quase) – Parte I"
- [2]: http://www.raywenderlich.com/wp-content/uploads/2011/06/sockets.jpg
+ [2]: http://www.raywenderlich.com/uploads/2011/06/sockets.jpg
  [3]: http://google.com.br

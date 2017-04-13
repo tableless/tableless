@@ -29,13 +29,13 @@ O Git já instala um GUI básico chamado [Gitk][2], que é uma versão generaliz
 
 A minha sugestão é a aplicação do GitHub. Ele tem versões para [Mac][3] e [Windows][4]. 
 
-<img src="http://tableless.com.br/wp-content/uploads/2012/11/promo-screenshot.png" alt="" title="promo-screenshot" width="515" height="243" class="alignnone size-full wp-image-7313" srcset="uploads/2012/11/promo-screenshot.png 515w, uploads/2012/11/promo-screenshot-300x141.png 300w" sizes="(max-width: 515px) 100vw, 515px" />
+<img src="http://tableless.com.br/uploads/2012/11/promo-screenshot.png" alt="" title="promo-screenshot" width="515" height="243" class="alignnone size-full wp-image-7313" srcset="uploads/2012/11/promo-screenshot.png 515w, uploads/2012/11/promo-screenshot-300x141.png 300w" sizes="(max-width: 515px) 100vw, 515px" />
 
 Com ele você consegue ver, criar e excluir os branchs, clonar repositórios, escolher quais arquivos serão enviados em um determinado commit, visualizar o histórico de commits, visualizar as alterações dos arquivos etc.
 
-<img src="http://tableless.com.br/wp-content/uploads/2012/11/Screen-Shot-2012-11-19-at-2.22.35-PM1.png" alt="" title="Screen Shot 2012-11-19 at 2.22.35 PM" width="808" height="888" class="alignnone size-full wp-image-7337" srcset="uploads/2012/11/Screen-Shot-2012-11-19-at-2.22.35-PM1.png 808w, uploads/2012/11/Screen-Shot-2012-11-19-at-2.22.35-PM1-272x300.png 272w" sizes="(max-width: 808px) 100vw, 808px" />
+<img src="http://tableless.com.br/uploads/2012/11/Screen-Shot-2012-11-19-at-2.22.35-PM1.png" alt="" title="Screen Shot 2012-11-19 at 2.22.35 PM" width="808" height="888" class="alignnone size-full wp-image-7337" srcset="uploads/2012/11/Screen-Shot-2012-11-19-at-2.22.35-PM1.png 808w, uploads/2012/11/Screen-Shot-2012-11-19-at-2.22.35-PM1-272x300.png 272w" sizes="(max-width: 808px) 100vw, 808px" />
 
-[<img src="http://tableless.com.br/wp-content/uploads/2012/11/Screen-Shot-2012-11-19-at-2.23.16-PM-1024x857.png" alt="" title="Screen Shot 2012-11-19 at 2.23.16 PM" width="640" height="535" class="alignnone size-large wp-image-7319" srcset="uploads/2012/11/Screen-Shot-2012-11-19-at-2.23.16-PM-1024x857.png 1024w, uploads/2012/11/Screen-Shot-2012-11-19-at-2.23.16-PM-300x251.png 300w, uploads/2012/11/Screen-Shot-2012-11-19-at-2.23.16-PM.png 1060w" sizes="(max-width: 640px) 100vw, 640px" />][5]
+[<img src="http://tableless.com.br/uploads/2012/11/Screen-Shot-2012-11-19-at-2.23.16-PM-1024x857.png" alt="" title="Screen Shot 2012-11-19 at 2.23.16 PM" width="640" height="535" class="alignnone size-large wp-image-7319" srcset="uploads/2012/11/Screen-Shot-2012-11-19-at-2.23.16-PM-1024x857.png 1024w, uploads/2012/11/Screen-Shot-2012-11-19-at-2.23.16-PM-300x251.png 300w, uploads/2012/11/Screen-Shot-2012-11-19-at-2.23.16-PM.png 1060w" sizes="(max-width: 640px) 100vw, 640px" />][5]
 
 Se você não gostar da aplicação do GitHub, eu usava uma bem útil e ágil chamada [GitX][6]. Não tem versão windows, só Mac.
 
@@ -47,7 +47,7 @@ A aplicação mais bem acabada mesmo é a do GitHub, mesmo assim há algumas lim
  [2]: http://gitk.sourceforge.net
  [3]: http://mac.github.com
  [4]: http://windows.github.com
- [5]: http://tableless.com.br/wp-content/uploads/2012/11/Screen-Shot-2012-11-19-at-2.23.16-PM.png
+ [5]: http://tableless.com.br/uploads/2012/11/Screen-Shot-2012-11-19-at-2.23.16-PM.png
  [6]: http://gitx.frim.nl
  [7]: http://www.syntevo.com/smartgit/index.html
  [8]: http://git-cola.github.com/

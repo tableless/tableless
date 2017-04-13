@@ -20,7 +20,7 @@ Com o advento do HTML5, existe uma nova especificação para reutilização de H
 
 Entra em cena o _template engine_ <a href="http://jade-lang.com" target="_blank">Jade</a>. Com recursos para fazer _include_ de HTML e muitas outras funcionalidades, sua sintaxe é extremamente limpa, baseada em indentação, como o _Python_. No exemplo a seguir (retirado e adaptado do site oficial do projeto) compare seu equivalente transformado em HTML:
 
-<a href="http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-13-às-21.12.59.png" target="_blank"><img class="alignnone" title="JADE e HTML lado a lado" src="http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-13-às-21.12.59.png" alt="Jade e o HTML gerado" width="800" height="357" /></a>
+<a href="http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-13-às-21.12.59.png" target="_blank"><img class="alignnone" title="JADE e HTML lado a lado" src="http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-13-às-21.12.59.png" alt="Jade e o HTML gerado" width="800" height="357" /></a>
 
 Todo começo de linha é interpretado como uma tag HTML, a menos que comece com o operador &#8220;|&#8221;. Neste caso, será interpretado como innerHTML, assim como o texto após uma tag e um espaço (visto na linha 4 da imagem acima).
 
@@ -54,7 +54,7 @@ O código acima irá gerar:
 
 O Jade é muito mais que uma sintaxe limpa para seu HTML. Um grande recurso do Jade é o uso da herança de templates e _includes_. É possível criar uma página base e então criar páginas que estendam esta página com um conteúdo específico. Assim, conseguimos criar um template com os trechos que se repetem em nosso site, como o cabeçalho, o rodapé, etc. Abaixo, um exemplo de herança de templates do Jade:
 
-<img class="alignnone" src="http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-13-às-21.29.23.png" alt="Templates e includes" width="343" height="240" />
+<img class="alignnone" src="http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-13-às-21.29.23.png" alt="Templates e includes" width="343" height="240" />
 
 No arquivo layout.jade acima, é definido o template que será estendido por todas as outras páginas. É possível também visualizar o recurso de includes.
 
@@ -64,25 +64,25 @@ No arquivo layout.jade acima, é definido o template que será estendido por tod
   * `block contentBlock` : esse é o trecho que será sobrescrito por cada página que extender o layout.jade;
   * `include footer`: arquivo footer.jade com o rodapé do site (simplificado para melhor entendimento):
 
-[<img class="alignnone wp-image-50039 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-13-às-22.07.49.png" alt="exemplo de footer do arquivo Jade" width="599" height="120" />][1]
+[<img class="alignnone wp-image-50039 size-full" src="http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-13-às-22.07.49.png" alt="exemplo de footer do arquivo Jade" width="599" height="120" />][1]
 
 O Jade &#8220;inclui&#8221; o código do arquivo no lugar onde ele invocado (onde foi feito o _include_). Criado o layout.jade, basta estender esse layout para cada página do seu site como visto no código abaixo:
 
-[<img class="alignnone wp-image-50040 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-13-às-22.16.40.png" alt="contentBlock foi o nome do bloco definido no arquivo layout.jade para ser sobrescrito." width="746" height="172" />][2]
+[<img class="alignnone wp-image-50040 size-full" src="http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-13-às-22.16.40.png" alt="contentBlock foi o nome do bloco definido no arquivo layout.jade para ser sobrescrito." width="746" height="172" />][2]
 
 O nome _contentBlock_ foi definido no arquivo layout.jade para ser sobrescrito. Com o recurso de _includes_ e _extends_ conseguimos resolver o problema sem ter que replicar código HTML para várias páginas.
 
 Outra funcionalidade que acelera nosso processo de desenvolvimento é o uso dos **_mixins_**. _Mixins_ reusam fragmentos de código HTML, possibilitando parametrizar certos pedaços de código. Vamos tomar como exemplo o _<a href="http://getbootstrap.com/components/#panels-alternatives" target="_blank">panel</a>_ do Bootstrap. Esse é o código usado para criar um _panel_:
 
-<a href="http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-13-às-23.23.28.png" target="_blank"><img class="alignnone wp-image-50050 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-13-às-23.23.28.png" alt="Código para criação de um panel no Bootstrap." width="636" height="393" /></a>
+<a href="http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-13-às-23.23.28.png" target="_blank"><img class="alignnone wp-image-50050 size-full" src="http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-13-às-23.23.28.png" alt="Código para criação de um panel no Bootstrap." width="636" height="393" /></a>
 
 Não é tanto _markup_, mas que tal usarmos a estrutura de um _panel_ com apenas uma linha? Com o uso de _mixins_ isso é possível. Criamos uma estrutura inicial com o _markup_ de um _panel_, parametrizando o que for necessário como o título, o rodapé e o estilo do _panel_. Após criada essa estrutura (_mixin_) para inserir um _panel_, basta chamá-lo com o comando _+panel()_, passando os parâmetros desejados.
 
-[<img class="alignnone wp-image-50150 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-15-às-21.59.46.png" alt="Mixin e seu uso" width="612" height="441" />][3]
+[<img class="alignnone wp-image-50150 size-full" src="http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-15-às-21.59.46.png" alt="Mixin e seu uso" width="612" height="441" />][3]
 
 O seguinte código gerou os _panels_ abaixo. Perceba, que na estrutura criada, se não informarmos um título, o _panel_ ficará sem o seu título. O mesmo para o rodapé. Se não informarmos a classe para estilizar o _panel_, nosso _mixin_ aplica a classe _panel-default_:
 
-[<img class="alignnone wp-image-50151 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-15-às-21.58.49.png" alt="Panels com uso de mixins" width="579" height="488" />][4]
+[<img class="alignnone wp-image-50151 size-full" src="http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-15-às-21.58.49.png" alt="Panels com uso de mixins" width="579" height="488" />][4]
 
 Note que no conteúdo do _mixin_, temos um _block_. Esse será o bloco substituído pelo conteúdo definido abaixo da chamada ao _panel_. Nesse _mixin_, é apresentado também o conceito de variáveis e o comando de decisão `if`. Perceba o grande poder que os _mixins_ nos proporciona. O exemplo acima é simples, mas podemos criar qualquer &#8220;componente&#8221; mais complexo e reutilizá-lo ao longo do nosso desenvolvimento.
 
@@ -92,7 +92,7 @@ Com o Jade também é possível gerar o HTML preservando a indentação ou confi
 
 E se você utiliza algum automatizador de tarefas, basta adicionar o Jade ao seu workflow com o <a href="https://github.com/gruntjs/grunt-contrib-jade" target="_blank">Grunt</a> ou o <a href="https://github.com/phated/gulp-jade" target="_blank">Gulp</a>.
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-13-às-22.07.49.png
- [2]: http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-13-às-22.16.40.png
- [3]: http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-15-às-21.59.46.png
- [4]: http://tableless.com.br/wp-content/uploads/2015/07/Captura-de-Tela-2015-07-15-às-21.58.49.png
+ [1]: http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-13-às-22.07.49.png
+ [2]: http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-13-às-22.16.40.png
+ [3]: http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-15-às-21.59.46.png
+ [4]: http://tableless.com.br/uploads/2015/07/Captura-de-Tela-2015-07-15-às-21.58.49.png

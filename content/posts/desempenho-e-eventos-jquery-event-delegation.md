@@ -79,14 +79,14 @@ Se nós delegarmos isso para um elemento pai das <tr class=&#8221;foo&#8221;>, c
 É possível inspecionar o documento através do _DevTools_ do seu navegador e identificar quais _event listeners_ estão anexados em cada elemento. Essa pode ser uma boa estratégia inicial para auditar a sua página e verificar quais eventos podem ser anexados em elementos mais específicos, além de eliminar possíveis excessos no _document_.
 
 <div id="attachment_49318" style="width: 1450px" class="wp-caption alignnone">
-  <a href="http://tableless.com.br/wp-content/uploads/2015/06/devtools-chrome-evtdelegation.jpg"><img class="size-full wp-image-49318" src="http://tableless.com.br/wp-content/uploads/2015/06/devtools-chrome-evtdelegation.jpg" alt="Screenshot de uma janela do Google Chrome mostrando a aba de eventos do inspector" width="1440" height="223" /></a>
+  <a href="http://tableless.com.br/uploads/2015/06/devtools-chrome-evtdelegation.jpg"><img class="size-full wp-image-49318" src="http://tableless.com.br/uploads/2015/06/devtools-chrome-evtdelegation.jpg" alt="Screenshot de uma janela do Google Chrome mostrando a aba de eventos do inspector" width="1440" height="223" /></a>
   
   <p class="wp-caption-text">
     Aba de eventos do Chrome DevTools
   </p>
 </div>
 
-[<img class="alignnone size-full wp-image-49319" src="http://tableless.com.br/wp-content/uploads/2015/06/devtools-firefox-evtdelegation.jpg" alt="Screenshot de uma janela do Mozilla Firefoz Developer Edition mostrando os de eventos no inspector" width="1440" height="296" />][3]
+[<img class="alignnone size-full wp-image-49319" src="http://tableless.com.br/uploads/2015/06/devtools-firefox-evtdelegation.jpg" alt="Screenshot de uma janela do Mozilla Firefoz Developer Edition mostrando os de eventos no inspector" width="1440" height="296" />][3]
 
 # Conclusão
 
@@ -98,4 +98,4 @@ No próximo artigo vou falar sobre como evitar colisão e duplicação de evento
 
  [1]: https://developer.mozilla.org/pt-BR/docs/Glossario/DOM
  [2]: http://api.jquery.com/ready/
- [3]: http://tableless.com.br/wp-content/uploads/2015/06/devtools-firefox-evtdelegation.jpg
+ [3]: http://tableless.com.br/uploads/2015/06/devtools-firefox-evtdelegation.jpg

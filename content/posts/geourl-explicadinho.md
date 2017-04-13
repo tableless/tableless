@@ -45,7 +45,7 @@ Curiosidades:
   * Coloquei GeoURL em [meu blog][15] também, apontando para minha humilde morada.
   * Nunca copie as meta tags alheias sem saber o que está fazendo. Há dois sites indicados no GeoURL em [meu antigo escritório][16], inclusive o de uma imobiliária de Minas Gerais.
 
- [1]: http://tableless.com.br/wp-content/uploads/2006/05/geourl.jpg
+ [1]: http://tableless.com.br/uploads/2006/05/geourl.jpg
  [2]: http://visie.com.br/blog/
  [3]: http://visie.com.br "Visie Padrões Web - Treinamentos de Web Standards, Tableless, Ajax e Mobilidade"
  [4]: https://addons.mozilla.org/firefox/530/

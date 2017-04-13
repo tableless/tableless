@@ -32,7 +32,7 @@ Assim como qualquer outro _framework_, o MDL oferece uma documentação e vári
 
 O MDL é compatível com todos os navegadores modernos: Google Chrome, Mozilla Firefox, Opera e o novo Microsoft Edge que acaba de chegar no Windows 10. E claro, o MDL é responsivo.
 
-[<img class="alignnone wp-image-49904 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/1-zh2u4rTfC1HqViInpog1Ng.jpeg" alt="Google Material Design Lite para Website" width="1092" height="409" />][1]
+[<img class="alignnone wp-image-49904 size-full" src="http://tableless.com.br/uploads/2015/07/1-zh2u4rTfC1HqViInpog1Ng.jpeg" alt="Google Material Design Lite para Website" width="1092" height="409" />][1]
 
 Assim como aconteceu nos aplicativos, é bem provável que veremos daqui para frente muitos websites aderindo a concepção do MDL, e, segundo informações do artigo do Google, o pessoal de lá não vê a hora que isso aconteça.
 
@@ -40,4 +40,4 @@ Assim como aconteceu nos aplicativos, é bem provável que veremos daqui para fr
 
 O link do Google Developers para o artigo de divulgação do MDL no Medium é este <a href="https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031" target="_blank">aqui</a>.
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/07/1-zh2u4rTfC1HqViInpog1Ng.jpeg
+ [1]: http://tableless.com.br/uploads/2015/07/1-zh2u4rTfC1HqViInpog1Ng.jpeg

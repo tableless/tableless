@@ -39,7 +39,7 @@ Ok, agora que definimos algumas coisas, é <a href="http://www.youtube.com/watch
 
 ## O MULTI-TOGGLE
 
-<img style="width: 550px;height: 375px" title="Fig: Navegação multi-toggle no redesign do site de Barack Obama" alt="Navegação multi-toggle do site do Barack Obama" src="http://bradfrostweb.com/wp-content/uploads/2012/08/Screen-Shot-2012-08-27-at-11.43.41-PM-650x443.png" />
+<img style="width: 550px;height: 375px" title="Fig: Navegação multi-toggle no redesign do site de Barack Obama" alt="Navegação multi-toggle do site do Barack Obama" src="http://bradfrostweb.com/uploads/2012/08/Screen-Shot-2012-08-27-at-11.43.41-PM-650x443.png" />
 
 O menu multi-toggle é basicamente um acordeão encaixado. Basta dar um _tap_ na categoria para revelar sub-categorias ocultas. Uma vez que a tela tenha largura suficiente, é convertida num menu suspenso <a href="http://devsnippets.com/article/reviews/10-brilliant-multi-level-navigation-menu-techniques.html" target="_blank">dropdown multi-level</a>, como já estamos acostumados a ver.
 
@@ -67,7 +67,7 @@ O redesign do site do <a href="http://www.barackobama.com/" target="_blank">Bara
 
 ## O BOM E VELHO RIGHT-TO-LEFT
 
-<img style="width: 475px;height: 427px" title="Navegaçao em tela pequena da Sony" alt="Sony" src="http://bradfrostweb.com/wp-content/uploads/2012/08/sony.gif" />
+<img style="width: 475px;height: 427px" title="Navegaçao em tela pequena da Sony" alt="Sony" src="http://bradfrostweb.com/uploads/2012/08/sony.gif" />
 
 Em vez de itens de sub-navegação aparecendo por baixo da categoria, como no multi-toggle, o nível seguinte da navegação fica à direita (fora da tela) e é animado quando requisitado.
 
@@ -89,7 +89,7 @@ Em vez de itens de sub-navegação aparecendo por baixo da categoria, como no mu
 
 ## PULAR A SUB-NAVEGAÇÃO
 
-<a href="http://bradfrostweb.com/wp-content/uploads/2012/08/wwf.png" target="_blank"><img style="width: 550px;height: 128px" title="A navegação responsiva da WWF ignora a sub-navegação em telas menores, fazendo com que os usuários sejam levados direto à página de destino da categoria." alt="World Wildlife Fund Navigation" src="http://bradfrostweb.com/wp-content/uploads/2012/08/wwf-650x151.png" /></a>
+<a href="http://bradfrostweb.com/uploads/2012/08/wwf.png" target="_blank"><img style="width: 550px;height: 128px" title="A navegação responsiva da WWF ignora a sub-navegação em telas menores, fazendo com que os usuários sejam levados direto à página de destino da categoria." alt="World Wildlife Fund Navigation" src="http://bradfrostweb.com/uploads/2012/08/wwf-650x151.png" /></a>
 
 A sub-navegação normalmente inclui itens que também são inclusos na página principal da categoria. Pelo fato do conteúdo ser acessível desta página, é perfeitamente viável simplesmente levar os usuários de small screens direto à página principal e deixá-lo tomar sua próxima decisão de lá.
 
@@ -119,7 +119,7 @@ A sub-navegação normalmente inclui itens que também são inclusos na página 
 
 ## PRIORITY+
 
-<a href="http://bradfrostweb.com/wp-content/uploads/2012/08/priority2.gif" target="_blank"><img style="width: 550px;height: 467px" title="Padrão Priority+ " alt="Padrão Priority+" src="http://bradfrostweb.com/wp-content/uploads/2012/08/priority2.gif" /></a>
+<a href="http://bradfrostweb.com/uploads/2012/08/priority2.gif" target="_blank"><img style="width: 550px;height: 467px" title="Padrão Priority+ " alt="Padrão Priority+" src="http://bradfrostweb.com/uploads/2012/08/priority2.gif" /></a>
 
 O <a href="http://justmarkup.com/log/2012/06/19/responsive-multi-level-navigation/" target="_blank">padrão Priority+</a> foi cunhado por <a href="http://justmarkup.com/" target="_blank">Michael Scharnagl</a> (<a href="http://twitter.com/justmarkup" target="_blank">@justmarkup</a>) para descrever uma navegação que exibe os elementos considerados &#8220;mais importantes&#8221; na navegação, ocultando os itens menos relevantes por trás de um link &#8220;more&#8221;. Esses itens somente são revelados quando o usuário clicar neste link.
 
@@ -147,7 +147,7 @@ As <a href="http://m.usatoday.com/sports" target="_blank">section pages do site 
 
 ## OFF-CANVAS FLYOUT
 
-<a href="http://bradfrostweb.com/wp-content/uploads/2012/08/nav-obama.png" target="_blank"><img title="Navegação Left Flyout do site do Barack Obama" alt="nav-obama" src="http://bradfrostweb.com/wp-content/uploads/2012/08/nav-obama-650x295.png" width="573" height="260" /></a>
+<a href="http://bradfrostweb.com/uploads/2012/08/nav-obama.png" target="_blank"><img title="Navegação Left Flyout do site do Barack Obama" alt="nav-obama" src="http://bradfrostweb.com/uploads/2012/08/nav-obama-650x295.png" width="573" height="260" /></a>
 
 O menu off-canvas flyout revela uma coluna de navegação. Os itens do sub-menu podem ser tantos quanto o comprimento da própria página, por isso há espaço de sobra para uma longa e/ou complexa navegação. Como já escrevi sobre o <a href="http://bradfrostweb.com/blog/web/responsive-nav-patterns/#left" target="_blank">modelo flyout left</a> antes, vou poupá-los da análise de prós e contras. Em vez disso, estou disponibilizando uma lista de referências para modelos off-canvas.
 
@@ -164,7 +164,7 @@ O menu off-canvas flyout revela uma coluna de navegação. Os itens do sub-menu 
 
 ## CAROUSEL+
 
-<img style="width: 494px;height: 523px" alt="Carousel+ Pattern" src="http://bradfrostweb.com/wp-content/uploads/2012/08/Screen-shot-2012-08-27-at-12.47.20-PM.png" />
+<img style="width: 494px;height: 523px" alt="Carousel+ Pattern" src="http://bradfrostweb.com/uploads/2012/08/Screen-shot-2012-08-27-at-12.47.20-PM.png" />
 
 Este é o menu da moda. O padrão Carousel+ é um carrossel contendo uma categoria principal com opções de sub-navegação exibidas na parte inferior. O usuário pode deslizar horizontalmente pelas opções de navegação ou usar as setas (direita/esquerda) para mover-se pelo carrosel.
 

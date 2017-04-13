@@ -54,7 +54,7 @@ body {
 }
 </pre>
 
-[<img class="alignnone size-full wp-image-51818" src="http://tableless.com.br/wp-content/uploads/2015/10/variables.gif" alt="variables" width="1145" height="433" />][4]
+[<img class="alignnone size-full wp-image-51818" src="http://tableless.com.br/uploads/2015/10/variables.gif" alt="variables" width="1145" height="433" />][4]
 
 #### 2. gray()
 
@@ -69,7 +69,7 @@ Permite que você use mais de 50 tons de cinza (transpilado para rgba()). No pri
 }
 </pre>
 
-[<img class="alignnone size-full wp-image-51819" src="http://tableless.com.br/wp-content/uploads/2015/10/gray.gif" alt="gray" width="1145" height="433" />][5]
+[<img class="alignnone size-full wp-image-51819" src="http://tableless.com.br/uploads/2015/10/gray.gif" alt="gray" width="1145" height="433" />][5]
 
 #### 3. any-link
 
@@ -80,7 +80,7 @@ any-link simplifica os seletores de target de links. Como :link, :visited, :acti
 }
 </pre>
 
-[<img class="alignnone size-full wp-image-51820" src="http://tableless.com.br/wp-content/uploads/2015/10/any-link.gif" alt="any-link" width="1145" height="433" />][6]
+[<img class="alignnone size-full wp-image-51820" src="http://tableless.com.br/uploads/2015/10/any-link.gif" alt="any-link" width="1145" height="433" />][6]
 
 E tem muitas outras features incríveis que vem com o CSS 4, e se você quiser saber mais recomendo você ver esse artigo do [Diego Eis][7].
 
@@ -98,9 +98,9 @@ CSS 4 está trazendo muitas features interessantes para seletores inteligentes, 
  [1]: http://cssnext.io/features/
  [2]: https://github.com/reworkcss/rework
  [3]: https://github.com/postcss/postcss
- [4]: http://tableless.com.br/wp-content/uploads/2015/10/variables.gif
- [5]: http://tableless.com.br/wp-content/uploads/2015/10/gray.gif
- [6]: http://tableless.com.br/wp-content/uploads/2015/10/any-link.gif
+ [4]: http://tableless.com.br/uploads/2015/10/variables.gif
+ [5]: http://tableless.com.br/uploads/2015/10/gray.gif
+ [6]: http://tableless.com.br/uploads/2015/10/any-link.gif
  [7]: http://tableless.com.br/seletores-css-nivel-4-o-que-vem-por-ai/
  [8]: http://cssnext.io/
  [9]: http://css4.rocks/

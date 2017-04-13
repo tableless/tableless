@@ -57,7 +57,7 @@ Legal! E como mudo meu foco para cada uma dessas &#8220;janelas&#8221;?
 
 Você pode mover o seu foco usando o comando **ctrl + w** seguido da direção que a sua janela se encontra:
 
-<img class="aligncenter size-full wp-image-47538" src="http://tableless.com.br/wp-content/uploads/2015/03/present-vim.gif" alt="present-vim" width="710" />
+<img class="aligncenter size-full wp-image-47538" src="http://tableless.com.br/uploads/2015/03/present-vim.gif" alt="present-vim" width="710" />
 
 _a tecla **w** é usada lembrar a palavra **window**_.
 

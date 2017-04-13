@@ -102,7 +102,7 @@ _See, Think, Do and Care _(Veja, Pensa, Faça, Cuide) nos mostram que existem q
   * _Do _ &#8211; Esta é a etapa principal. Aqui o usuário já escolheu o que quer e está no momento de compra. Para chegar até aqui, todo o trabalho que já discutimos até aqui precisa ter sido feito com qualidade, para garantir que estivéssemos entre os escolhidos e por fim estarmos na decisão final de compra do usuário.
   * _Care _&#8211; Não menos importante, aqui precisamos cuidar daquele usuário que se relaciona com a empresa mais de uma vez, ou seja, ele vira um cliente fiel, que compra mais de duas vezes com a empresa. Este cliente precisa de uma atenção especial, pois como diz o ditado, é mil vezes mais fácil e barato manter um cliente do que conquistar um novo cliente.
 
-[<img class="aligncenter wp-image-50216 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/see-think-do-care-audience-intent-clusters.png" alt="see-think-do-care-audience-intent-clusters" width="625" height="460" />][1]
+[<img class="aligncenter wp-image-50216 size-full" src="http://tableless.com.br/uploads/2015/07/see-think-do-care-audience-intent-clusters.png" alt="see-think-do-care-audience-intent-clusters" width="625" height="460" />][1]
 
 ## Mensuração e Atribuição (Repensar as Métricas)
 
@@ -124,7 +124,7 @@ A importância do Mobile pode ser equiparada a um jogo de futebol. Todo o crédi
 Falando em **Micro Conversões**, que são importantes de serem medidas para chegar num ROI (_return on investment_ &#8211; retorno sobre o investimento), podemos utilizar como exemplo a situação a seguir:
 
 <div id="attachment_50215" style="width: 610px" class="wp-caption aligncenter">
-  <img class="wp-image-50215" src="http://tableless.com.br/wp-content/uploads/2015/07/ROI.jpg" alt="ROI" width="600" height="353" />
+  <img class="wp-image-50215" src="http://tableless.com.br/uploads/2015/07/ROI.jpg" alt="ROI" width="600" height="353" />
   
   <p class="wp-caption-text">
     Exemplo de análise de retorno sobre o investimento mobile
@@ -175,4 +175,4 @@ Esta publicação foi inspirada no documentário que você pode assistir a qualq
 
 Inspirado: <a href="https://www.thinkwithgoogle.com/intl/pt-br/collections/mobile-day.html" target="_blank">Think With Google</a> &#8211; <a href="http://www.kaushik.net/avinash/see-think-do-care-win-content-marketing-measurement/" target="_blank">Avinash</a>
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/07/see-think-do-care-audience-intent-clusters.png
+ [1]: http://tableless.com.br/uploads/2015/07/see-think-do-care-audience-intent-clusters.png

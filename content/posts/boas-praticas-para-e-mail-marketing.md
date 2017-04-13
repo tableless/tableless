@@ -105,11 +105,11 @@ Confira mais dicas e boas práticas para o desenvolvimento do seu e-mail marketi
   
     Conheça a tabela de regras antispam.
   
-    <a href="http://emailmarketing.virtualtarget.com.br/wp-content/uploads/2008/04/tabela_de_pontos1.pdf" target="_blank">http://emailmarketing.virtualtarget.com.br/wp-content/uploads/2008/04/tabela_de_pontos1.pdf</a>
+    <a href="http://emailmarketing.virtualtarget.com.br/uploads/2008/04/tabela_de_pontos1.pdf" target="_blank">http://emailmarketing.virtualtarget.com.br/uploads/2008/04/tabela_de_pontos1.pdf</a>
 
 Veja os clientes de e-mail mais utilizados:
   
- <a title="Saiba mais" href="http://www.ecommercebrasil.com.br/artigos/os-clientes-de-e-mail-mais-utilizados-pelos-usuarios/" target="_blank"><img src="http://anyzamaro.com.br/wp-content/uploads/2011/10/emailmarketing1.jpg" alt="Clientes de e-mail mais utilizados" /></a>
+ <a title="Saiba mais" href="http://www.ecommercebrasil.com.br/artigos/os-clientes-de-e-mail-mais-utilizados-pelos-usuarios/" target="_blank"><img src="http://anyzamaro.com.br/uploads/2011/10/emailmarketing1.jpg" alt="Clientes de e-mail mais utilizados" /></a>
 
 Para aprofundar-se melhor sobre o assunto, segue links de referências:
 

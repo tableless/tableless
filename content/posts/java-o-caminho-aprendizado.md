@@ -27,10 +27,10 @@ Como a API Java contém diversas classes e interfaces para o desenvolvimento de 
 
 Sendo assim, pode-se dizer que existem três partes distintas para se aprender acerca do Java: A linguagem de programação, a segunda diz respeito ao funcionamento das ferramentas que compõem o seu ambiente de desenvolvimento, e a terceira é o extenso conjunto de classes e interfaces que compõem a sua API.
 
-[<img class="aligncenter wp-image-48148 size-full" src="http://tableless.com.br/wp-content/uploads/2015/04/imagem1.jpg" alt="" width="623" height="456" />][1]
+[<img class="aligncenter wp-image-48148 size-full" src="http://tableless.com.br/uploads/2015/04/imagem1.jpg" alt="" width="623" height="456" />][1]
 
 Pode-se perceber claramente que “linguagem Java” é uma expressão que não representa todo o caminho a ser trilhado. Para se tornar um desenvolvedor Java, é preciso estudar tanto a linguagem quanto sua API e um ambiente de desenvolvimento. Assim, o mais adequado é assumir o conceito de Java como um conjunto de tecnologias que podem ser aplicadas ao desenvolvimento de software e não apenas como uma linguagem.
 
 Ao tratar do Java tão somente como uma linguagem de programação, ignora-se o segredo de seu sucesso: a produtividade possibilitada por sua extensa API e um ambiente de execução que permite que seus programas sejam executados nos principais sistemas operacionais.
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/04/imagem1.jpg
+ [1]: http://tableless.com.br/uploads/2015/04/imagem1.jpg

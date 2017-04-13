@@ -45,7 +45,7 @@ O Paypal tempos atrás recebia algo em torno de $10 Milhões de dólares em paga
 
 As perspectivas globais são enormes. Abaixo, veja um inforgráfico que o blog [The Meta Cloud][4] preparou. Cuidado para não se assustar.
 
-[<img src="http://tableless.com.br/wp-content/uploads/2011/12/mobile-first-mobile-only.png" alt="" title="mobile-first-mobile-only" width="570" height="902" class="alignnone size-full wp-image-4704" srcset="uploads/2011/12/mobile-first-mobile-only.png 570w, uploads/2011/12/mobile-first-mobile-only-189x300.png 189w" sizes="(max-width: 570px) 100vw, 570px" />][5]
+[<img src="http://tableless.com.br/uploads/2011/12/mobile-first-mobile-only.png" alt="" title="mobile-first-mobile-only" width="570" height="902" class="alignnone size-full wp-image-4704" srcset="uploads/2011/12/mobile-first-mobile-only.png 570w, uploads/2011/12/mobile-first-mobile-only-189x300.png 189w" sizes="(max-width: 570px) 100vw, 570px" />][5]
 
 ### O conceito
 
@@ -82,9 +82,9 @@ Um estudo profundo certamente deve ser feito para que você saiba exatamente qua
 
 Existem também outras formas de acomodar um grande número de informações sem que isso atrapalhe o usuário. Uma delas é criando menus dropdown ou separando uma tela que guarda as informações que serão menos utilizadas mas que são igualmente importantes para a utilização do site/sistema. Veja abaixo dois bons exemplos vindo dos sites Gmail e ESPN.
 
-[<img src="http://tableless.com.br/wp-content/uploads/2011/12/gmail.gif" alt="gmail versão mobile" title="gmail" width="640" height="417" class="alignnone size-full wp-image-4678" srcset="uploads/2011/12/gmail.gif 640w, uploads/2011/12/gmail-300x195.gif 300w" sizes="(max-width: 640px) 100vw, 640px" />][9]
+[<img src="http://tableless.com.br/uploads/2011/12/gmail.gif" alt="gmail versão mobile" title="gmail" width="640" height="417" class="alignnone size-full wp-image-4678" srcset="uploads/2011/12/gmail.gif 640w, uploads/2011/12/gmail-300x195.gif 300w" sizes="(max-width: 640px) 100vw, 640px" />][9]
 
-[<img src="http://tableless.com.br/wp-content/uploads/2011/12/espn.gif" alt="epsn.com versão mobile" title="espn" width="638" height="355" class="alignnone size-full wp-image-4677" srcset="uploads/2011/12/espn.gif 638w, uploads/2011/12/espn-300x166.gif 300w" sizes="(max-width: 638px) 100vw, 638px" />][10]
+[<img src="http://tableless.com.br/uploads/2011/12/espn.gif" alt="epsn.com versão mobile" title="espn" width="638" height="355" class="alignnone size-full wp-image-4677" srcset="uploads/2011/12/espn.gif 638w, uploads/2011/12/espn-300x166.gif 300w" sizes="(max-width: 638px) 100vw, 638px" />][10]
 
 Onde os usuários utilizam seus mobiles e visitam seu site? Bem, de todo lugar. Algumas pessoas acham que usuários utilizam apenas quando estão em filas, ônibus, parados no trânsito etc. Mas algumas pesquisas mostram que 84% dos usuários usam seus dispositivos em casa. Isso mesmo&#8230; em casa. Veja bem: quando as pessoas estão em casa, elas preferem utilizar seus smartphones em vez do notebook/desktop!
   
@@ -98,11 +98,11 @@ Você pode [ler mais sobre este assunto neste livro][11] esperto escrito por [LU
  [2]: http://news.bango.com/2010/02/16/600-percent-growth-in-mobile-web-usage/
  [3]: http://prowireless.com.au/paypal-mobile-payments
  [4]: http://www.plexical.com/blog/2011/09/29/mobile-first-mobile-only/
- [5]: http://www.plexical.com/blog/wp-content/uploads/2011/09/mobile-first-mobile-only.pdf
- [6]: http://tableless.com.br/wp-content/uploads/2011/12/flickr1.png
- [7]: http://tableless.com.br/wp-content/uploads/2011/12/flickr2.png
+ [5]: http://www.plexical.com/blog/uploads/2011/09/mobile-first-mobile-only.pdf
+ [6]: http://tableless.com.br/uploads/2011/12/flickr1.png
+ [7]: http://tableless.com.br/uploads/2011/12/flickr2.png
  [8]: http://m.flickr.com/
- [9]: http://tableless.com.br/wp-content/uploads/2011/12/gmail.gif
- [10]: http://tableless.com.br/wp-content/uploads/2011/12/espn.gif
+ [9]: http://tableless.com.br/uploads/2011/12/gmail.gif
+ [10]: http://tableless.com.br/uploads/2011/12/espn.gif
  [11]: http://www.abookapart.com/products/mobile-first
  [12]: http://www.lukew.com/

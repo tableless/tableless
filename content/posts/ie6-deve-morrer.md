@@ -38,6 +38,6 @@ E tente influênciar usuários normais, a mudar de browser caso ainda use IE6. E
 
  [1]: http://visie.com.br/
  [2]: http://www.css3.info/kill-ie6-to-let-css3-live/
- [3]: http://www.css3.info/wp-content/uploads/2007/04/graph.png
+ [3]: http://www.css3.info/uploads/2007/04/graph.png
  [4]: http://tableless.com.br/?s=CSS3
  [5]: http://getfirefox.com

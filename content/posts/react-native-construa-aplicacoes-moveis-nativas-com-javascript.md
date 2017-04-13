@@ -99,7 +99,7 @@ O arquivo _index.ios.js_ é onde iremos escrever o código da nossa aplicação.
 
 A pasta _ios_ é onde a mágica ocorre. Esta é a pasta que contém o projeto iOS nativo gerado pelo React Native (o mesmo conceito para a pasta android). Faça um teste e abra o arquivo _MyFirstProject.xcodeproj_ no Xcode para visualizar sua extrutura no **Project Navigator** (à esquerda). Agora pressione o botão **Run** na barra de ferramentas, conforme a imagem:
 
-[<img class="alignnone size-full wp-image-52737" src="http://tableless.com.br/wp-content/uploads/2016/01/xcode-run-button.jpg" alt="xcode-run-button" width="442" height="139" />][1]
+[<img class="alignnone size-full wp-image-52737" src="http://tableless.com.br/uploads/2016/01/xcode-run-button.jpg" alt="xcode-run-button" width="442" height="139" />][1]
 
 Com isso acabamos de solicitar a execução do aplicativo. Neste momento estamos &#8220;compilando o código JavaScript&#8221; presente no nosso projeto (criado por default) para Objective-C e gerando o bundle da aplicação. Agora já podemos testar o resultado em um emulador.
 
@@ -109,7 +109,7 @@ Geralmente o emulador demora um pouco para exibir alguma coisa na primeira vez q
 
 Quando o emulador terminar de carregar, o resultado exibido será este:
 
-[<img class="alignnone size-full wp-image-52742" src="http://tableless.com.br/wp-content/uploads/2016/01/react-native-initial-screen_2.jpg" alt="react native initial screen" width="344" height="524" />][2]
+[<img class="alignnone size-full wp-image-52742" src="http://tableless.com.br/uploads/2016/01/react-native-initial-screen_2.jpg" alt="react native initial screen" width="344" height="524" />][2]
 
 Perceba que o aplicativo de exemplo contém apenas poucos parágrafos com instruções básicas:
 
@@ -306,7 +306,7 @@ AppRegistry.registerComponent('MyFirstProject', () =&gt; Tableless);
 
 Se você rodar o aplicativo, irá perceber que o mesmo executa sem erros. Mas, numa primeira olhada, parece que não há nada na tela! Se você observar atentamente, irá perceber que o texto está no canto superior esquerdo da tela, sem qualquer tipo de orientação ou margem. Precisamos corrigir isso!
 
-[<img class="alignnone size-full wp-image-52746" src="http://tableless.com.br/wp-content/uploads/2016/01/react-native-simple-label_1.jpg" alt="react native simple label" width="344" height="524" />][3]
+[<img class="alignnone size-full wp-image-52746" src="http://tableless.com.br/uploads/2016/01/react-native-simple-label_1.jpg" alt="react native simple label" width="344" height="524" />][3]
 
 ### Flexbox
 
@@ -352,7 +352,7 @@ Antes de executar o código, precisamos incluir o **StyleSheet** em nosso escopo
 
 Agora sim. Execute o código pelo Xcode e você verá o seguinte resultado:
 
-[<img class="alignnone size-full wp-image-52767" src="http://tableless.com.br/wp-content/uploads/2016/01/react-native-simple-label_3.2.jpg" alt="react native simple label with border" width="344" height="524" />][4]
+[<img class="alignnone size-full wp-image-52767" src="http://tableless.com.br/uploads/2016/01/react-native-simple-label_3.2.jpg" alt="react native simple label with border" width="344" height="524" />][4]
 
 O texto agora se encontra alinhado no centro da tela e temos uma borda vermelha envolta do container. O que aconteceu aqui?
 
@@ -415,7 +415,7 @@ AppRegistry.registerComponent('MyFirstProject', () =&gt; Tableless);
 
 Executando o código:
 
-[<img class="alignnone size-full wp-image-52746" src="http://tableless.com.br/wp-content/uploads/2016/01/react-native-simple-label_2.jpg" alt="react native simple label" width="344" height="524" />][5]
+[<img class="alignnone size-full wp-image-52746" src="http://tableless.com.br/uploads/2016/01/react-native-simple-label_2.jpg" alt="react native simple label" width="344" height="524" />][5]
 
 Agora que você já está familiarizado com o &#8220;modo React&#8221; de criar aplicações, vamos tentar entender rapidamente o que acontece por baixo dos panos&#8230;
 
@@ -429,7 +429,7 @@ Até então, o único componente presente no iOS e no Android que viabiliza a ex
 
 Em React Native continuamos escrevendo um aplicativo em JavaScript, mas que não exibe uma página web como resultado. Ao invés disso, o nosso código executa uma instância do chamado <a href="http://trac.webkit.org/wiki/JavaScriptCore" target="_blank">JavaScriptCore</a> responsável por renderizar componentes **verdadeiramente nativos** dentro do nosso app. Por exemplo, se você abrir o arquivo _/ios/MyFirstProject/AppDelegate.m_ no Xcode, vai encontrar sempre o seguinte conteúdo, independente da quantidade de código que tiver escrito no seu editor de texto:
 
-[<img class="alignnone size-full wp-image-53026" src="http://tableless.com.br/wp-content/uploads/2016/01/AppDelegate.png" alt="AppDelegate.m image " width="844" height="777" />][6]
+[<img class="alignnone size-full wp-image-53026" src="http://tableless.com.br/uploads/2016/01/AppDelegate.png" alt="AppDelegate.m image " width="844" height="777" />][6]
 
 O segredo está nessa classe `RCTRootView`. Ela é uma classe criada pelo próprio framework, responsável por apresentar os elementos da classe `UIKit` com base no código que escrevemos em JS. Ou seja, o controle do comportamento do nosso app é feito em JavaScript, mas em nenhum momento ocorre compilação desse código para Objective-C, binário ou coisa do tipo. Por isso conseguimos ver atualizações em tempo real em nossa aplicação, uma vez que nenhum código em Objective-C é escrito, apenas código JavaScript. Não tem nada pra re-compilar! Genial.
 
@@ -535,7 +535,7 @@ AppRegistry.registerComponent('MyFirstProject', () =&gt; Tableless);
 
 Pressione **CMD + R** no teclado e veja o resultado do que criamos no seu emulador com poucas linhas de código:
 
-[<img class="alignnone size-full wp-image-52771" src="http://tableless.com.br/wp-content/uploads/2016/01/react-native-alert-ios.gif" alt="react native alert ios" width="640" height="480" />][7]
+[<img class="alignnone size-full wp-image-52771" src="http://tableless.com.br/uploads/2016/01/react-native-alert-ios.gif" alt="react native alert ios" width="640" height="480" />][7]
 
 ### Props & State
 
@@ -650,7 +650,7 @@ AppRegistry.registerComponent('MyFirstProject', () =&gt; Tableless);
 
 Agora nosso label reflete o valor que digitamos em nosso input, veja:
 
-[<img class="alignnone size-full wp-image-52776" src="http://tableless.com.br/wp-content/uploads/2016/01/react-native-text-input-ios.gif" alt="react native text input ios" width="640" height="480" />][8]
+[<img class="alignnone size-full wp-image-52776" src="http://tableless.com.br/uploads/2016/01/react-native-text-input-ios.gif" alt="react native text input ios" width="640" height="480" />][8]
 
 > Caso queira simular o teclado do device, basta ir na barra de ferramentas do emulador e procurar a opção **Hardware -> Keyboard -> Toggle Software Keyboard**. Ao habilitar essa opção, o teclado nativo do device será exibido sempre que um input for solicitado.
 
@@ -827,11 +827,11 @@ AppRegistry.registerComponent('MyFirstProject', () =&gt; MainNav);
 
 O resultado:
 
-[<img class="alignnone size-full wp-image-52778" src="http://tableless.com.br/wp-content/uploads/2016/01/react-navigator-ios.gif" alt="react native navigator ios" width="640" height="480" />][9]
+[<img class="alignnone size-full wp-image-52778" src="http://tableless.com.br/uploads/2016/01/react-navigator-ios.gif" alt="react native navigator ios" width="640" height="480" />][9]
 
 Faça um teste no seu device e observe o quão suave são as animações. Uma vez na tela seguinte, você pode retornar para a anterior com um simples gesto de deslizar os dedos da esquerda para a direita (o famoso **swipe gesture**). Você consegue até mesmo simular uma transição similar em html com `overflow`, mas não será a mesma coisa. Esse é o verdadeiro ganho de trabalhar com componentes 100% nativos: As transições em **60fps** (60 frames por segundo).
 
-[<img class="alignnone size-full wp-image-52793" src="http://tableless.com.br/wp-content/uploads/2016/01/react-native-swipe-60fps.gif" alt="react native swipe 60fps" width="640" height="480" />][10]
+[<img class="alignnone size-full wp-image-52793" src="http://tableless.com.br/uploads/2016/01/react-native-swipe-60fps.gif" alt="react native swipe 60fps" width="640" height="480" />][10]
 
 Por fim, você foi apresentado aos dois principais conceitos do React: **props**, utilizado quando queremos compartilhar valores entre componentes e **state**, quando desejamos monitorar o estado de um componente e suas alterações (geralmente ocasionado por algum evento de usuário).
 
@@ -930,13 +930,13 @@ Enfim&#8230; é uma época excelente para ser um desenvolvedor JavaScript. 🙂
 
 > Conheça mais sobre o React para web <a href="http://tableless.com.br/react-javascript-reativo/" target="_blank">neste post</a> do Davi Ferreira.
 
- [1]: http://tableless.com.br/wp-content/uploads/2016/01/xcode-run-button.jpg
- [2]: http://tableless.com.br/wp-content/uploads/2016/01/react-native-initial-screen_2.jpg
- [3]: http://tableless.com.br/wp-content/uploads/2016/01/react-native-simple-label_1.jpg
- [4]: http://tableless.com.br/wp-content/uploads/2016/01/react-native-simple-label_3.2.jpg
- [5]: http://tableless.com.br/wp-content/uploads/2016/01/react-native-simple-label_2.jpg
- [6]: http://tableless.com.br/wp-content/uploads/2016/01/AppDelegate.png
- [7]: http://tableless.com.br/wp-content/uploads/2016/01/react-native-alert-ios.gif
- [8]: http://tableless.com.br/wp-content/uploads/2016/01/react-native-text-input-ios.gif
- [9]: http://tableless.com.br/wp-content/uploads/2016/01/react-navigator-ios.gif
- [10]: http://tableless.com.br/wp-content/uploads/2016/01/react-native-swipe-60fps.gif
+ [1]: http://tableless.com.br/uploads/2016/01/xcode-run-button.jpg
+ [2]: http://tableless.com.br/uploads/2016/01/react-native-initial-screen_2.jpg
+ [3]: http://tableless.com.br/uploads/2016/01/react-native-simple-label_1.jpg
+ [4]: http://tableless.com.br/uploads/2016/01/react-native-simple-label_3.2.jpg
+ [5]: http://tableless.com.br/uploads/2016/01/react-native-simple-label_2.jpg
+ [6]: http://tableless.com.br/uploads/2016/01/AppDelegate.png
+ [7]: http://tableless.com.br/uploads/2016/01/react-native-alert-ios.gif
+ [8]: http://tableless.com.br/uploads/2016/01/react-native-text-input-ios.gif
+ [9]: http://tableless.com.br/uploads/2016/01/react-navigator-ios.gif
+ [10]: http://tableless.com.br/uploads/2016/01/react-native-swipe-60fps.gif

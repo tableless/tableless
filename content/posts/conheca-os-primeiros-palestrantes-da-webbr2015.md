@@ -19,13 +19,13 @@ tags:
 
 [Lote de inscrições para a Webbr 2015 por R$ 80,00 termina segunda-feira, dia 3 de agosto!][2]
 
-<img src="http://conferenciaweb.w3c.br/wp-content/uploads/2015/07/Andrei-Sambra-220x300.jpeg" alt="Foto de Andrei Sambra" style="float:left;margin: 10px" />
+<img src="http://conferenciaweb.w3c.br/uploads/2015/07/Andrei-Sambra-220x300.jpeg" alt="Foto de Andrei Sambra" style="float:left;margin: 10px" />
 
 A abertura do evento será sobre re-descentralizar da Web! que contará com [**Andrei Sambra**][3], Research Associate do W3C, para discutir o tema como keynote speaker da conferência. O pesquisador comentará os atuais esforços de padronização feitos pelo World Wide Web Consortium (W3C), além dos processos de tradução tecnológica do Massachusetts Institute of Technology (MIT) para construir aplicações e serviços descentralizados.
 
 Além da participação do keynote internacional, diversos especialistas brasileiros abordarão temas importantes para manter a essência da Web aberta como seu principal aspecto.
 
-[<img src="http://tableless.com.br/wp-content/uploads/2015/07/palestrantes2015.jpg" alt="Imagem com foto dos primeiros palestrantes da Webbr2015" width="750" height="515" class="aligncenter size-full wp-image-50520" />][4]
+[<img src="http://tableless.com.br/uploads/2015/07/palestrantes2015.jpg" alt="Imagem com foto dos primeiros palestrantes da Webbr2015" width="750" height="515" class="aligncenter size-full wp-image-50520" />][4]
 
 [**Sérgio Lopes**][5], instrutor e desenvolvedor da Caellum, vai falar sobre as grandes melhorias do **HTTP2** e como isso vai beneficiar tanto o usuário como o desenvolvedor. Nessa palestra, Sérgio vai mostrar os novos recursos do HTTP/2 e como eles simplificam o desenvolvimento, tornam obsoletas várias práticas atuais e deixam as páginas mais rápidas.
 

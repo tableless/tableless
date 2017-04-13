@@ -34,7 +34,7 @@ Então, o JSF executa um processo para coletar as informações, validar e criar
 
 Este processo é composto por 6 fases:
 
-<img class="alignnone size-full wp-image-55231" src="http://tableless.com.br/wp-content/uploads/2016/07/fases-jsf.png" alt="Fases do JSF" width="748" height="411" />
+<img class="alignnone size-full wp-image-55231" src="http://tableless.com.br/uploads/2016/07/fases-jsf.png" alt="Fases do JSF" width="748" height="411" />
 
 &nbsp;
 
@@ -105,7 +105,7 @@ Este foi meu código, claro, há diversos meios diferente para se fazer o mesmo:
 
 E este foi o resultado:
 
-<img class="alignnone size-full wp-image-55232" src="http://tableless.com.br/wp-content/uploads/2016/07/result-jsf-login.png" alt="Formulário de login XHTMl" width="261" height="89" />
+<img class="alignnone size-full wp-image-55232" src="http://tableless.com.br/uploads/2016/07/result-jsf-login.png" alt="Formulário de login XHTMl" width="261" height="89" />
 
 No método logar vou verificar se o usuário e a senha correspondem ao meu nome: &#8220;Julio&#8221;.
 
@@ -180,11 +180,11 @@ E, também, o código do XHTML de resposta em caso de sucesso.
 
 Vamos testar nossa página:
 
-<img class="alignnone size-full wp-image-55233" src="http://tableless.com.br/wp-content/uploads/2016/07/teste-jsf.png" alt="Teste do login em sucesso" width="295" height="111" />
+<img class="alignnone size-full wp-image-55233" src="http://tableless.com.br/uploads/2016/07/teste-jsf.png" alt="Teste do login em sucesso" width="295" height="111" />
   
 Primeiramente coloquei os campos de modo correto, ou seja, com os valores em &#8220;Julio&#8221;, e após pressionar o botão &#8220;Logar&#8221; a página de sucesso foi retornada como esperado.
 
-<img class="alignnone size-full wp-image-55234" src="http://tableless.com.br/wp-content/uploads/2016/07/teste-jsf-sucesso.png" alt="teste-jsf-sucesso" width="159" height="62" />
+<img class="alignnone size-full wp-image-55234" src="http://tableless.com.br/uploads/2016/07/teste-jsf-sucesso.png" alt="teste-jsf-sucesso" width="159" height="62" />
   
 Mas tem um problema, conseguimos acessarmos diretamente a página de sucesso, pois não há nenhuma validação se o usuário está logado. Em casos de sistemas grandes, isso pode ser um enorme problema, pois qualquer usuário poderia ter acesso a informações não permitidas.
 
@@ -352,7 +352,7 @@ Para que funcione, precisamos registrar no faces-config.xml que ele é um Listen
 
 Agora ao tentarmos entrar na página de sucesso diretamente, ele não vai.
   
-<img class="alignnone size-full wp-image-55235" src="http://tableless.com.br/wp-content/uploads/2016/07/resultado-final-jsf.png" alt="Resultado final" width="479" height="267" />
+<img class="alignnone size-full wp-image-55235" src="http://tableless.com.br/uploads/2016/07/resultado-final-jsf.png" alt="Resultado final" width="479" height="267" />
 
 Para quem deseja obter a URL correta, apenas adicionar &#8220;?faces-redirect=true&#8221; ao final da String de redirecionamento no Listener:
 
@@ -400,11 +400,11 @@ public class Listener implements PhaseListener{
 
 Então:
 
-<img class="alignnone size-full wp-image-55236" src="http://tableless.com.br/wp-content/uploads/2016/07/alteracao-param-jsf-2.png" alt="Entrada no browser" width="439" height="92" />
+<img class="alignnone size-full wp-image-55236" src="http://tableless.com.br/uploads/2016/07/alteracao-param-jsf-2.png" alt="Entrada no browser" width="439" height="92" />
 
 Retorna:
 
-<img class="alignnone size-full wp-image-55237" src="http://tableless.com.br/wp-content/uploads/2016/07/alteracao-param-jsf-3.png" alt="Resposta no browser" width="383" height="193" />
+<img class="alignnone size-full wp-image-55237" src="http://tableless.com.br/uploads/2016/07/alteracao-param-jsf-3.png" alt="Resposta no browser" width="383" height="193" />
 
 Obtendo o resultado desejado.
 

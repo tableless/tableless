@@ -59,7 +59,7 @@ Cada seminário vai contar com palestrantes locais. A ideia é fortificar a comu
   
   <tr>
     <td>
-      <img src="http://tableless.com.br/wp-content/uploads/2014/09/diegoeis.jpg" />
+      <img src="http://tableless.com.br/uploads/2014/09/diegoeis.jpg" />
     </td>
     
     <td>

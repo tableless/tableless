@@ -202,7 +202,7 @@ background...............maneira abreviada para declarar todas as propriedades a
 </blockquote>
 
 <pre class="lang-css">header {
-  background: url(<a class="markup--anchor markup--pre-anchor" href="http://tableless.com.br/wp-content/uploads/2013/04/logo-tableless-01.png" rel="nofollow">http://tableless.com.br/wp-content/uploads/2013/04/logo-tableless-01.png</a>) no-repeat center center, url(<a class="markup--anchor markup--pre-anchor" href="http://lorempixel.com/output/city-q-g-1024-768-10.jpg" rel="nofollow">http://lorempixel.com/output/city-q-g-1024-768-10.jpg</a>) no-repeat center top;
+  background: url(<a class="markup--anchor markup--pre-anchor" href="http://tableless.com.br/uploads/2013/04/logo-tableless-01.png" rel="nofollow">http://tableless.com.br/uploads/2013/04/logo-tableless-01.png</a>) no-repeat center center, url(<a class="markup--anchor markup--pre-anchor" href="http://lorempixel.com/output/city-q-g-1024-768-10.jpg" rel="nofollow">http://lorempixel.com/output/city-q-g-1024-768-10.jpg</a>) no-repeat center top;
   height: 100vh;
   width: auto;
   box-sizing: border-box;

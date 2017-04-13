@@ -20,13 +20,13 @@ tags:
 ---
 Arquitetura da informação (AI) é a arte de construir uma estrutura clara e direta em um site, com objetivo de facilitar ao máximo a navegação do usuário e fazer com que ele encontre rapidamente o que está procurando. Vou citar abaixo algumas dicas importantes sobre arquitetura da informação e profundidade, afim de ajudar na conversão em landing pages. Mãos à obra!
 
-<img class="aligncenter" alt="Arquitetura da informação" src="http://www.conversion.com.br/wp-content/uploads/2013/07/usuarios-contexto-conteudo.jpg?9d7bd4" width="210" height="197" />
+<img class="aligncenter" alt="Arquitetura da informação" src="http://www.conversion.com.br/uploads/2013/07/usuarios-contexto-conteudo.jpg?9d7bd4" width="210" height="197" />
 
 ## Técnica da pirâmide invertida
 
 A técnica da pirâmide invertida é um método de escrita jornalística onde o objetivo é expor logo nos primeiros parágrafos as informações mais relevantes sobre o assunto, deixando o artigo mais dinâmico e prendendo mais a atenção do leitor. Quando falamos em profundidade da informação, a técnica da pirâmide invertida é usada para o mesmo efeito. Abordamos na primeira page view os parágrafos que queremos destacar e que possuem a maior relevância. Mais abaixo vem o conteúdo menos importante e em sequência mais abaixo, conteúdos com detalhes informativos mais técnicos e muito mais secundários, interessantes somente a usuários que realmente querem se aprofundar mais. O mais importante é seguir uma ordem de relevância na estrutura do seu conteúdo.
 
-<img class="aligncenter" alt="Pirâmide invertida" src="http://www.conversion.com.br/wp-content/uploads/2013/07/conteudo-piramide.jpg?9d7bd4" width="500" height="365" />
+<img class="aligncenter" alt="Pirâmide invertida" src="http://www.conversion.com.br/uploads/2013/07/conteudo-piramide.jpg?9d7bd4" width="500" height="365" />
 
 ## Pense, planeje e faça
 
@@ -40,7 +40,7 @@ Antes de qualquer coisa, você precisa ter uma estratégia clara de como será o
 
 O conteúdo ainda é rei em SEO e talvez sempre será. É baseado no conteúdo que se constrói a relevância. Mais do que se preocupar em como o Google te dará relevância, se preocupe com o usuário. Isso é dar a ele o máximo de informação sobre o assunto em que está buscando. Tenha o melhor conteúdo e certifique se o seu é melhor do que todos que você vê na internet sobre esse mesmo assunto. Tenha o máximo de informações possíveis. Se for uma página de um produto por exemplo, escreva tudo sobre ele como as principais vantagens e features, detalhes, faça uso de listas para explicar de forma mais clara, use fotos, vídeos, slides, tabelas de especificações técnicas, comparações etc. Resumindo, seja autoridade no assunto, um expert, o melhor. Veja um exemplo de profundidade de conteúdo na landing page da Kindle Fire, tablet da Amazon e como eles trabalharam a profundidade da arquitetura da informação:
 
-<img class="alignnone" alt="Profundidade de conteúdo" src="http://www.conversion.com.br/wp-content/uploads/2013/07/amazon.jpg?9d7bd4" width="500" height="1086" />
+<img class="alignnone" alt="Profundidade de conteúdo" src="http://www.conversion.com.br/uploads/2013/07/amazon.jpg?9d7bd4" width="500" height="1086" />
 
 <a href="http://www.amazon.com/Kindle-Fire-Amazon-tablet/dp/B0083Q04IQ" target="_blank">Veja o exemplo completo</a>
 
@@ -52,7 +52,7 @@ A divisão do conteúdo na página e sua estrutura deve ser clara e objetiva e a
 
 Um comportamento muito comum em usabilidade é que antes de se aprofundar em um texto, damos uma “passada de olho” para sabermos o que pode nos interessar. Lemos alguns títulos, olhamos algumas imagens e caso nos interesse, podemos ler o texto. Do contrário, adeus, página. Por isso, temos que valorizar e destacar os principais títulos da página. Tenha apenas um H1 na página, pois ele será seu título principal e precisa ser o mais visível e destacado. A palavra-chave mais importante precisa estar nesse título. Os títulos mais secundários, como H2 e H3 podem conter variações (long tails) da sua palavra-chave principal e também precisam ter certa visibilidade, mas não maior que a do título principal.
 
-<img class="alignnone" alt="Títulos otimizados" src="http://www.conversion.com.br/wp-content/uploads/2013/07/amazon2.jpg?9d7bd4" width="600" height="425" />
+<img class="alignnone" alt="Títulos otimizados" src="http://www.conversion.com.br/uploads/2013/07/amazon2.jpg?9d7bd4" width="600" height="425" />
 
 ## Mantenha o óbvio
 

@@ -57,11 +57,11 @@ Isto nos diz que o namespace “Tableless” estará presente na pasta _src_ e p
 
 Feito isso baixamos o composer utilizando o comando **curl -sS https://getcomposer.org/installer | php** e em seguida instalamos as dependências através do comando **php composer.phar install**.
 
-<img class="aligncenter size-medium wp-image-41342" src="http://tableless.com.br/wp-content/uploads/2014/03/02-instalando-composer-e-dependencias-403x310.png" alt="Instalando composer e dependências" width="403" height="310" srcset="uploads/2014/03/02-instalando-composer-e-dependencias-403x310.png 403w, uploads/2014/03/02-instalando-composer-e-dependencias-218x168.png 218w, uploads/2014/03/02-instalando-composer-e-dependencias.png 791w" sizes="(max-width: 403px) 100vw, 403px" />
+<img class="aligncenter size-medium wp-image-41342" src="http://tableless.com.br/uploads/2014/03/02-instalando-composer-e-dependencias-403x310.png" alt="Instalando composer e dependências" width="403" height="310" srcset="uploads/2014/03/02-instalando-composer-e-dependencias-403x310.png 403w, uploads/2014/03/02-instalando-composer-e-dependencias-218x168.png 218w, uploads/2014/03/02-instalando-composer-e-dependencias.png 791w" sizes="(max-width: 403px) 100vw, 403px" />
 
 Com a instalação das dependências agora temos a nova estrutura contendo uma pasta _vendor_ contendo todas as bibliotecas de terceiros, um novo arquivo _composer.lock_ e _composer.phar_ os quais já foram descritos em outro artigo sobre PHPUnit com composer e que pode ser acessado [aqui][1].
 
-<img class="aligncenter size-medium wp-image-41343" src="http://tableless.com.br/wp-content/uploads/2014/03/03-nova-estrutura-490x310.png" alt="Nova Estrutura" width="490" height="310" srcset="uploads/2014/03/03-nova-estrutura-490x310.png 490w, uploads/2014/03/03-nova-estrutura-265x168.png 265w, uploads/2014/03/03-nova-estrutura-400x252.png 400w, uploads/2014/03/03-nova-estrutura.png 1086w" sizes="(max-width: 490px) 100vw, 490px" />
+<img class="aligncenter size-medium wp-image-41343" src="http://tableless.com.br/uploads/2014/03/03-nova-estrutura-490x310.png" alt="Nova Estrutura" width="490" height="310" srcset="uploads/2014/03/03-nova-estrutura-490x310.png 490w, uploads/2014/03/03-nova-estrutura-265x168.png 265w, uploads/2014/03/03-nova-estrutura-400x252.png 400w, uploads/2014/03/03-nova-estrutura.png 1086w" sizes="(max-width: 490px) 100vw, 490px" />
 
 ## Próximo passo
 
@@ -115,7 +115,7 @@ Pronto, a nível de produção já temos a configuração, agora criaremos a est
 
 Na raiz de seu projeto crie uma pasta chamada _tests_, dentro dela uma pasta chamada _src_ e dentro da src uma pasta chamada _Tableless_. Perceba que o namespace ficará na mesma estrutura do código de produção, desta forma para utilizarmos uma entidade chamada _User_ por exemplo, usaremos a seguinte declaração: **use Tableless\Entity\User;**. Para a classe de testes de User se for necessária declarar em algum lugar será desta forma: **use Tableless\Entity\UserTest;**.
 
-<img class="aligncenter size-medium wp-image-41345" src="http://tableless.com.br/wp-content/uploads/2014/03/04-estrutura-inicial-testes-398x310.png" alt="Estrutura inicial testes" width="398" height="310" srcset="uploads/2014/03/04-estrutura-inicial-testes-398x310.png 398w, uploads/2014/03/04-estrutura-inicial-testes-215x168.png 215w, uploads/2014/03/04-estrutura-inicial-testes-400x311.png 400w, uploads/2014/03/04-estrutura-inicial-testes.png 542w" sizes="(max-width: 398px) 100vw, 398px" />
+<img class="aligncenter size-medium wp-image-41345" src="http://tableless.com.br/uploads/2014/03/04-estrutura-inicial-testes-398x310.png" alt="Estrutura inicial testes" width="398" height="310" srcset="uploads/2014/03/04-estrutura-inicial-testes-398x310.png 398w, uploads/2014/03/04-estrutura-inicial-testes-215x168.png 215w, uploads/2014/03/04-estrutura-inicial-testes-400x311.png 400w, uploads/2014/03/04-estrutura-inicial-testes.png 542w" sizes="(max-width: 398px) 100vw, 398px" />
 
 Após a criação das pastas necessárias falta a criação do bootstrap de testes e de um arquivo de configurações de execução do PHPUnit.
 
@@ -167,13 +167,13 @@ dentro temos o exclude (diretórios que não serão executados pelos testes) --&
 
 Quase pronto, se rodarmos o comando **./vendor/bin/phpunit -c tests/phpunit.xml** dentro da raiz do projeto teremos a mensagem de que nenhum teste foi executado como na imagem abaixo.
 
-<img class="aligncenter size-medium wp-image-41346" src="http://tableless.com.br/wp-content/uploads/2014/03/05-nenhum-teste-490x310.png" alt="Nenhum Teste" width="490" height="310" srcset="uploads/2014/03/05-nenhum-teste-490x310.png 490w, uploads/2014/03/05-nenhum-teste-265x168.png 265w, uploads/2014/03/05-nenhum-teste-400x253.png 400w, uploads/2014/03/05-nenhum-teste.png 803w" sizes="(max-width: 490px) 100vw, 490px" />
+<img class="aligncenter size-medium wp-image-41346" src="http://tableless.com.br/uploads/2014/03/05-nenhum-teste-490x310.png" alt="Nenhum Teste" width="490" height="310" srcset="uploads/2014/03/05-nenhum-teste-490x310.png 490w, uploads/2014/03/05-nenhum-teste-265x168.png 265w, uploads/2014/03/05-nenhum-teste-400x253.png 400w, uploads/2014/03/05-nenhum-teste.png 803w" sizes="(max-width: 490px) 100vw, 490px" />
 
 >  Como estamos trabalhando com um arquivo de configurações, para rodarmos o phpunit seguindo as definições do arquivo precisamos utilizar o parâmetro **-c** seguido do nome do arquivo.
 
 Obviamente que nenhum teste ainda foi executado porque não temos nenhuma classe de testes. Vamos começar então. Crie uma pasta _Entity_ dentro de _tests/src_. Dentro desta pasta crie um arquivo chamado _UsertTest.php_. A nova estrutura de testes deve estar como na imagem abaixo.
 
-<img class="aligncenter size-medium wp-image-41347" src="http://tableless.com.br/wp-content/uploads/2014/03/06-nova-estrutura-de-testes-379x310.png" alt="Nova estrutura de testes" width="379" height="310" srcset="uploads/2014/03/06-nova-estrutura-de-testes-379x310.png 379w, uploads/2014/03/06-nova-estrutura-de-testes-205x168.png 205w, uploads/2014/03/06-nova-estrutura-de-testes-400x326.png 400w, uploads/2014/03/06-nova-estrutura-de-testes.png 695w" sizes="(max-width: 379px) 100vw, 379px" />
+<img class="aligncenter size-medium wp-image-41347" src="http://tableless.com.br/uploads/2014/03/06-nova-estrutura-de-testes-379x310.png" alt="Nova estrutura de testes" width="379" height="310" srcset="uploads/2014/03/06-nova-estrutura-de-testes-379x310.png 379w, uploads/2014/03/06-nova-estrutura-de-testes-205x168.png 205w, uploads/2014/03/06-nova-estrutura-de-testes-400x326.png 400w, uploads/2014/03/06-nova-estrutura-de-testes.png 695w" sizes="(max-width: 379px) 100vw, 379px" />
 
 No arquivo _UserTest.php_ adicione o namespace do mesmo que é Tableless\Entity.
 
@@ -185,7 +185,7 @@ Agora definimos quais classes utilizaremos para este teste. Como estamos testand
 
 No entanto aí tem um detalhe. A entidade User ainda não existe, mas a criaremos dentro de instantes pois ainda temos uma classe que devemos criar antes mesmo da _User_. Ela se chama _TestCase_ e deve estar no namespace Tableless\Test. Crie em _src/Tableless_ (não em tests/src/Tableless) uma pasta chamada Test e dentro dela um arquivo chamado _TestCase.php_.
 
-<img class="aligncenter size-medium wp-image-41348" src="http://tableless.com.br/wp-content/uploads/2014/03/07-criando-test-case-426x310.png" alt="Criando o TestCase" width="426" height="310" srcset="uploads/2014/03/07-criando-test-case-426x310.png 426w, uploads/2014/03/07-criando-test-case-230x168.png 230w, uploads/2014/03/07-criando-test-case-400x291.png 400w, uploads/2014/03/07-criando-test-case.png 602w" sizes="(max-width: 426px) 100vw, 426px" />
+<img class="aligncenter size-medium wp-image-41348" src="http://tableless.com.br/uploads/2014/03/07-criando-test-case-426x310.png" alt="Criando o TestCase" width="426" height="310" srcset="uploads/2014/03/07-criando-test-case-426x310.png 426w, uploads/2014/03/07-criando-test-case-230x168.png 230w, uploads/2014/03/07-criando-test-case-400x291.png 400w, uploads/2014/03/07-criando-test-case.png 602w" sizes="(max-width: 426px) 100vw, 426px" />
 
 Neste arquivo copie e cole o código abaixo que está comentado para melhor entendimento.
 
@@ -315,7 +315,7 @@ Agora se rodarmos nosso teste novamente o mesmo passará. Ou seja, já temos um 
 
 **./vendor/bin/phpunit -c tests/phpunit.xml**
 
-<img class="aligncenter size-medium wp-image-41349" src="http://tableless.com.br/wp-content/uploads/2014/03/08-primeiro-teste-passando-575x310.png" alt="Primeiro teste passando" width="575" height="310" srcset="uploads/2014/03/08-primeiro-teste-passando-575x310.png 575w, uploads/2014/03/08-primeiro-teste-passando-312x168.png 312w, uploads/2014/03/08-primeiro-teste-passando-400x215.png 400w, uploads/2014/03/08-primeiro-teste-passando.png 797w" sizes="(max-width: 575px) 100vw, 575px" />
+<img class="aligncenter size-medium wp-image-41349" src="http://tableless.com.br/uploads/2014/03/08-primeiro-teste-passando-575x310.png" alt="Primeiro teste passando" width="575" height="310" srcset="uploads/2014/03/08-primeiro-teste-passando-575x310.png 575w, uploads/2014/03/08-primeiro-teste-passando-312x168.png 312w, uploads/2014/03/08-primeiro-teste-passando-400x215.png 400w, uploads/2014/03/08-primeiro-teste-passando.png 797w" sizes="(max-width: 575px) 100vw, 575px" />
 
 ## Definindo hash para senha
 
@@ -328,7 +328,7 @@ Ao rodarmos o teste o mesmo deve quebrar pois ainda não criamos um hash para a 
 
 ** ./vendor/bin/phpunit -c tests/phpunit.xml**
 
-<img class="aligncenter size-medium wp-image-41350" src="http://tableless.com.br/wp-content/uploads/2014/03/09-teste-falhando-hash-523x310.png" alt="Teste falhando hash" width="523" height="310" srcset="uploads/2014/03/09-teste-falhando-hash-523x310.png 523w, uploads/2014/03/09-teste-falhando-hash-283x168.png 283w, uploads/2014/03/09-teste-falhando-hash-400x237.png 400w, uploads/2014/03/09-teste-falhando-hash.png 800w" sizes="(max-width: 523px) 100vw, 523px" />
+<img class="aligncenter size-medium wp-image-41350" src="http://tableless.com.br/uploads/2014/03/09-teste-falhando-hash-523x310.png" alt="Teste falhando hash" width="523" height="310" srcset="uploads/2014/03/09-teste-falhando-hash-523x310.png 523w, uploads/2014/03/09-teste-falhando-hash-283x168.png 283w, uploads/2014/03/09-teste-falhando-hash-400x237.png 400w, uploads/2014/03/09-teste-falhando-hash.png 800w" sizes="(max-width: 523px) 100vw, 523px" />
 
 Agora, na classe Tableless\Entity\User usaremos as seguintes classes do Zend:
 
@@ -354,7 +354,7 @@ E criaremos o método encryptPassword.
 
 Agora rodando **./vendor/bin/phpunit -c tests/phpunit.xml** o teste passa novamente.
 
-<img class="aligncenter size-medium wp-image-41351" src="http://tableless.com.br/wp-content/uploads/2014/03/10-teste-passando-hash-375x310.png" alt="teste passando hash" width="375" height="310" srcset="uploads/2014/03/10-teste-passando-hash-375x310.png 375w, uploads/2014/03/10-teste-passando-hash-203x168.png 203w, uploads/2014/03/10-teste-passando-hash-400x330.png 400w, uploads/2014/03/10-teste-passando-hash.png 795w" sizes="(max-width: 375px) 100vw, 375px" />
+<img class="aligncenter size-medium wp-image-41351" src="http://tableless.com.br/uploads/2014/03/10-teste-passando-hash-375x310.png" alt="teste passando hash" width="375" height="310" srcset="uploads/2014/03/10-teste-passando-hash-375x310.png 375w, uploads/2014/03/10-teste-passando-hash-203x168.png 203w, uploads/2014/03/10-teste-passando-hash-400x330.png 400w, uploads/2014/03/10-teste-passando-hash.png 795w" sizes="(max-width: 375px) 100vw, 375px" />
 
 Assim finalizamos o básico da realização de testes utilizando persitência de dados. A partir de agora veremos algumas configurações avançadas que lhe ajudarão muito no feedback dos testes.
 
@@ -366,7 +366,7 @@ Através do arquivo _phpunit.xml_ podemos definir algumas configurações avanç
 
 Isto quer dizer que utilizaremos um arquivo de bootstrap e dizemos qual arquivo é e também que queremos coloração no output. Caso colors=”true” não estivesse presente nossa visão ficaria desta forma.
 
-<img class="aligncenter size-medium wp-image-41352" src="http://tableless.com.br/wp-content/uploads/2014/03/11-colors-482x310.png" alt="Colors" width="482" height="310" srcset="uploads/2014/03/11-colors-482x310.png 482w, uploads/2014/03/11-colors-261x168.png 261w, uploads/2014/03/11-colors-400x257.png 400w, uploads/2014/03/11-colors.png 806w" sizes="(max-width: 482px) 100vw, 482px" />
+<img class="aligncenter size-medium wp-image-41352" src="http://tableless.com.br/uploads/2014/03/11-colors-482x310.png" alt="Colors" width="482" height="310" srcset="uploads/2014/03/11-colors-482x310.png 482w, uploads/2014/03/11-colors-261x168.png 261w, uploads/2014/03/11-colors-400x257.png 400w, uploads/2014/03/11-colors.png 806w" sizes="(max-width: 482px) 100vw, 482px" />
 
 Podemos definir erros e avisos sendo tratados como exceções.
 
@@ -392,7 +392,7 @@ O log acima está gravando em formato de texto um checklist dos testes que exist
 
 Rodando **./vendor/bin/phpunit -c tests/phpunit.xml** será criada a pasta _tests/data_ contento o arquivo _testdox.txt_ O nome do arquivo é de sua escolha.
 
-<img class="aligncenter size-medium wp-image-41353" src="http://tableless.com.br/wp-content/uploads/2014/03/12-testdox-569x310.png" alt="Testdox" width="569" height="310" srcset="uploads/2014/03/12-testdox-569x310.png 569w, uploads/2014/03/12-testdox-308x168.png 308w, uploads/2014/03/12-testdox-400x217.png 400w, uploads/2014/03/12-testdox.png 891w" sizes="(max-width: 569px) 100vw, 569px" />
+<img class="aligncenter size-medium wp-image-41353" src="http://tableless.com.br/uploads/2014/03/12-testdox-569x310.png" alt="Testdox" width="569" height="310" srcset="uploads/2014/03/12-testdox-569x310.png 569w, uploads/2014/03/12-testdox-308x168.png 308w, uploads/2014/03/12-testdox-400x217.png 400w, uploads/2014/03/12-testdox.png 891w" sizes="(max-width: 569px) 100vw, 569px" />
 
 Também é possível gerar o testdox em formato html, basta alterar testdox-text para testdox-html e testdox.txt para testdox.html mas o mais comum é ser utilizado em formato txt mesmo.
 
@@ -485,7 +485,7 @@ Basicamente estamos definindo que o coverage será em formato html, que o consid
 
 Agora no browser entre em seu localhost na pasta do projeto em que está trabalhando. Em seguida entre na pasta _tests_, após isto em _data_ e por último em coverage. Surpreenda-se!
 
-<img class="aligncenter size-medium wp-image-41354" src="http://tableless.com.br/wp-content/uploads/2014/03/13-coverage-588x223.png" alt="Coverage" width="588" height="223" srcset="uploads/2014/03/13-coverage-588x223.png 588w, uploads/2014/03/13-coverage-329x125.png 329w, uploads/2014/03/13-coverage-660x251.png 660w, uploads/2014/03/13-coverage-400x152.png 400w, uploads/2014/03/13-coverage.png 1324w" sizes="(max-width: 588px) 100vw, 588px" />
+<img class="aligncenter size-medium wp-image-41354" src="http://tableless.com.br/uploads/2014/03/13-coverage-588x223.png" alt="Coverage" width="588" height="223" srcset="uploads/2014/03/13-coverage-588x223.png 588w, uploads/2014/03/13-coverage-329x125.png 329w, uploads/2014/03/13-coverage-660x251.png 660w, uploads/2014/03/13-coverage-400x152.png 400w, uploads/2014/03/13-coverage.png 1324w" sizes="(max-width: 588px) 100vw, 588px" />
 
 Navegando pelos arquivos você identificará o que já está bom e o que precisa ser mais testado. Neste nosso caso chegar a 100% é muito fácil, basta lermos todos os dados do usuário.
 
@@ -498,7 +498,7 @@ $this-&gt;assertEquals('image.png', $registeredUser-&gt;getProfilePic());</pre>
 
 Rode os testes novamente e corra pro abraço!
 
-<img class="aligncenter size-medium wp-image-41355" src="http://tableless.com.br/wp-content/uploads/2014/03/14-coverage-100-588x237.png" alt="Coverage 100%" width="588" height="237" srcset="uploads/2014/03/14-coverage-100-588x237.png 588w, uploads/2014/03/14-coverage-100-329x132.png 329w, uploads/2014/03/14-coverage-100-660x266.png 660w, uploads/2014/03/14-coverage-100-400x161.png 400w, uploads/2014/03/14-coverage-100.png 1303w" sizes="(max-width: 588px) 100vw, 588px" />
+<img class="aligncenter size-medium wp-image-41355" src="http://tableless.com.br/uploads/2014/03/14-coverage-100-588x237.png" alt="Coverage 100%" width="588" height="237" srcset="uploads/2014/03/14-coverage-100-588x237.png 588w, uploads/2014/03/14-coverage-100-329x132.png 329w, uploads/2014/03/14-coverage-100-660x266.png 660w, uploads/2014/03/14-coverage-100-400x161.png 400w, uploads/2014/03/14-coverage-100.png 1303w" sizes="(max-width: 588px) 100vw, 588px" />
 
 Lembrando novamente que para entendimento deste tutorial se faz necessário a leitura dos conteúdos anteriores sobre o tema, sendo eles [TDD, por que usar?][2]  e [PHPUnit, como iniciar sem dores][1].
 
@@ -525,11 +525,11 @@ Com a base criada rode o comando **./vendor/bin/doctrine orm:validate-schema**. 
 
 **./vendor/bin/doctrine orm:validate-schema**
 
-<img class="aligncenter size-medium wp-image-41356" src="http://tableless.com.br/wp-content/uploads/2014/03/15-doctrine-validate-500x310.png" alt="Doctrine Validate Schema" width="500" height="310" srcset="uploads/2014/03/15-doctrine-validate-500x310.png 500w, uploads/2014/03/15-doctrine-validate-271x168.png 271w, uploads/2014/03/15-doctrine-validate-400x247.png 400w, uploads/2014/03/15-doctrine-validate.png 797w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="aligncenter size-medium wp-image-41356" src="http://tableless.com.br/uploads/2014/03/15-doctrine-validate-500x310.png" alt="Doctrine Validate Schema" width="500" height="310" srcset="uploads/2014/03/15-doctrine-validate-500x310.png 500w, uploads/2014/03/15-doctrine-validate-271x168.png 271w, uploads/2014/03/15-doctrine-validate-400x247.png 400w, uploads/2014/03/15-doctrine-validate.png 797w" sizes="(max-width: 500px) 100vw, 500px" />
 
 **./vendor/bin/doctrine orm:schema-tool:create**
 
-<img class="aligncenter size-medium wp-image-41357" src="http://tableless.com.br/wp-content/uploads/2014/03/16-doctrine-create-validate-459x310.png" alt="Doctrine create validate" width="459" height="310" srcset="uploads/2014/03/16-doctrine-create-validate-459x310.png 459w, uploads/2014/03/16-doctrine-create-validate-249x168.png 249w, uploads/2014/03/16-doctrine-create-validate-400x269.png 400w, uploads/2014/03/16-doctrine-create-validate.png 820w" sizes="(max-width: 459px) 100vw, 459px" />
+<img class="aligncenter size-medium wp-image-41357" src="http://tableless.com.br/uploads/2014/03/16-doctrine-create-validate-459x310.png" alt="Doctrine create validate" width="459" height="310" srcset="uploads/2014/03/16-doctrine-create-validate-459x310.png 459w, uploads/2014/03/16-doctrine-create-validate-249x168.png 249w, uploads/2014/03/16-doctrine-create-validate-400x269.png 400w, uploads/2014/03/16-doctrine-create-validate.png 820w" sizes="(max-width: 459px) 100vw, 459px" />
 
 Atualmente possuímos somente a entidade User que indica que uma tabela users será criada no banco de dados. Após a finalização da execução do comando anterior seu banco de dados já estará com a nova estrutura. Ao realizar qualquer alteração na entidade User ou mesmo criar novas entidades você precisará rodar o comando **./vendor/bin/doctrine orm:schema-tool:update** com isso aparecerá uma mensagem informando que já há uma estrutura no banco de dados e lhe pede confirmação sobre o que fazer. Você pode ignorar, ver as alterações ou forçar se tiver certeza do que está fazendo ou mesmo se já visualizou as alterações que serão realizadas e está ciente de que está tudo certo. Basta ler as intruções que o próprio Doctrine fornece que você saberá o que fazer, é muito intuitivo.
 

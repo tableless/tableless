@@ -20,7 +20,7 @@ tags:
   - tutorial
 
 ---
-[<img src="http://tableless.com.br/wp-content/uploads/2015/03/capa.png" alt="Symfony e Twig" width="750" height="403" class="alignnone size-full wp-image-47950" />][1]
+[<img src="http://tableless.com.br/uploads/2015/03/capa.png" alt="Symfony e Twig" width="750" height="403" class="alignnone size-full wp-image-47950" />][1]
 
 No <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-05/" title="iniciando com symfony 2 - parte 05" target="_blank">tutorial anterior</a>, configuramos nosso projeto e criamos nossas páginas, home e show, porém as mesmas se encontram sem estilização, neste tutorial, vamos apenas estruturar nossas páginas de um modo simples e básico, porém funcional. Não entrarei em detalhes sobre o Bootstrap, não é meu objetivo, porém para iniciantes, recomendo a <a href="http://getbootstrap.com/css/" title="Doc. Bootstrap" target="_blank">documentação</a>.
   
@@ -36,7 +36,7 @@ Primeiramente vamos criar uma pasta dentro da pasta Resource do bundle CoreBundl
 
 <a href="http://getbootstrap.com/getting-started/#download" title="Download do bootstrap" target="_blank">Baixe o bootstrap</a>, e copie o arquivo bootstrap.min.css para a pasta css/, veja a imagem abaixo para comparação:
 
-[<img src="http://tableless.com.br/wp-content/uploads/2015/03/011.png" alt="Pasta para bootstrap" width="750" height="403" class="alignnone size-full wp-image-47951" />][2]
+[<img src="http://tableless.com.br/uploads/2015/03/011.png" alt="Pasta para bootstrap" width="750" height="403" class="alignnone size-full wp-image-47951" />][2]
 
 Caso queiram, podem usar o arquivo bootstrap.css, em nosso caso vamos usar o .min.css.
 
@@ -47,7 +47,7 @@ Para que o bootstrap seja carregado vamos entrar no terminal, e digitar:
 
 Desse forma estamos criando um link simbólico do arquivo na pasta web, veja:
 
-[<img src="http://tableless.com.br/wp-content/uploads/2015/03/022.png" alt="Link simbólico" width="750" height="403" class="alignnone size-full wp-image-47952" />][3]
+[<img src="http://tableless.com.br/uploads/2015/03/022.png" alt="Link simbólico" width="750" height="403" class="alignnone size-full wp-image-47952" />][3]
 
 Agora devemos carregar o aquivo bootstrap em nossa aplicação. Vamos entrar no arquivo base.html.twig, caminho: app/Resources/views/base.html.twig, e carregar o bootstrap, no bloco stylesheets, veja na linha 7.
 
@@ -158,7 +158,7 @@ Abra o terminal e digite:
 
 Vamos ter uma lista dos nomes de nossas rotas, a primeira que vamos usar é a rota da home &#8220;/&#8221; , veja a imagem:
 
-[<img src="http://tableless.com.br/wp-content/uploads/2015/03/032.png" alt="Rotas" width="750" height="403" class="alignnone size-full wp-image-47953" />][4]
+[<img src="http://tableless.com.br/uploads/2015/03/032.png" alt="Rotas" width="750" height="403" class="alignnone size-full wp-image-47953" />][4]
 
 Percebemos que o nome dessa rota, está muito extenso, vamos mudar isso, deixando o nome dessa rota e da rota de visualização do post, um pouco mais curto.
 
@@ -192,7 +192,7 @@ Para vermos novamente entre no terminal e digite:
 
 Veja:
   
-[<img src="http://tableless.com.br/wp-content/uploads/2015/03/042.png" alt="Rotas" width="750" height="403" class="alignnone size-full wp-image-47976" />][5]
+[<img src="http://tableless.com.br/uploads/2015/03/042.png" alt="Rotas" width="750" height="403" class="alignnone size-full wp-image-47976" />][5]
 
 Pronto! Agora podemos inserir nossos links.
 
@@ -372,7 +372,7 @@ Entre na url: http://127.0.0.1:8000/
 
 Nossa home está pronto, veja:
 
-[<img src="http://tableless.com.br/wp-content/uploads/2015/03/051.png" alt="blog" width="750" height="403" class="alignnone size-full wp-image-47980" />][6]
+[<img src="http://tableless.com.br/uploads/2015/03/051.png" alt="blog" width="750" height="403" class="alignnone size-full wp-image-47980" />][6]
 
 ## Estruturando e estilizando o show
 
@@ -420,7 +420,7 @@ Veja o arquivo show.html.twig pronto:
 
 Imagem da página pronta:
 
-[<img src="http://tableless.com.br/wp-content/uploads/2015/03/061.png" alt="Show post" width="750" height="403" class="alignnone size-full wp-image-47981" />][7]
+[<img src="http://tableless.com.br/uploads/2015/03/061.png" alt="Show post" width="750" height="403" class="alignnone size-full wp-image-47981" />][7]
 
 ## Conclusão
 
@@ -444,10 +444,10 @@ Links dos tutoriais anteriores:
 
 O projeto <a href="https://github.com/candidosouza/tableless" title="Github do projeto" target="_blank">encontra-se no GitHub</a>!
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/03/capa.png
- [2]: http://tableless.com.br/wp-content/uploads/2015/03/011.png
- [3]: http://tableless.com.br/wp-content/uploads/2015/03/022.png
- [4]: http://tableless.com.br/wp-content/uploads/2015/03/032.png
- [5]: http://tableless.com.br/wp-content/uploads/2015/03/042.png
- [6]: http://tableless.com.br/wp-content/uploads/2015/03/051.png
- [7]: http://tableless.com.br/wp-content/uploads/2015/03/061.png
+ [1]: http://tableless.com.br/uploads/2015/03/capa.png
+ [2]: http://tableless.com.br/uploads/2015/03/011.png
+ [3]: http://tableless.com.br/uploads/2015/03/022.png
+ [4]: http://tableless.com.br/uploads/2015/03/032.png
+ [5]: http://tableless.com.br/uploads/2015/03/042.png
+ [6]: http://tableless.com.br/uploads/2015/03/051.png
+ [7]: http://tableless.com.br/uploads/2015/03/061.png

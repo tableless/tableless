@@ -26,13 +26,13 @@ As técnicas de otimização de conversão também têm se mostrado presentes, e
 
 O Call to Action, ou chamada à ação, são botões de conversão. É clicando nos botões de Call to Action que o usuário é levado para a conversão de uma landing page. Ele é o botão mais importante da página e por isso, é fundamental que ele seja extremamente claro e objetivo em sua chamada e que preferencialmente possua uma cor que contraste com o restante das cores do site e que chame mais atenção que os outros elementos.
 
-[<img alt="Call to Action" src="http://www.conversion.com.br/wp-content/uploads/2013/05/call-to-action.jpg?9d7bd4" width="560" height="388" />][3]
+[<img alt="Call to Action" src="http://www.conversion.com.br/uploads/2013/05/call-to-action.jpg?9d7bd4" width="560" height="388" />][3]
 
 Neste exemplo, o Call to Action é fácil de ser visto na página. O botão se encontra no topo da página e não precisamos usar a barra de rolagem para visualizá-lo. A chamada “Crie uma conta grátis” está mais do que clara e o botão é amarelo, constrastando com o resto das cores. Tenha um botão de Call to Action onde todos possam ver sem ter que pensarem.
 
 ## 2 – Quanto menos escolhas melhor
 
-[<img alt="Muitas escolhas" src="http://www.conversion.com.br/wp-content/uploads/2013/05/muitas-escolhas.jpg?9d7bd4" width="560" height="299" />][4]
+[<img alt="Muitas escolhas" src="http://www.conversion.com.br/uploads/2013/05/muitas-escolhas.jpg?9d7bd4" width="560" height="299" />][4]
 
 > Landing pages: páginas de destino onde o usuário possa concluir uma meta ou objetivo final do site.
 
@@ -72,6 +72,6 @@ As técnicas de otimização de conversão obviamente não se resumem apenas em 
 
  [1]: http://www.conversion.com.br/marketing-digital/ "marketing digital"
  [2]: http://www.conversion.com.br/otimizacao-de-sites-seo/ "SEO"
- [3]: http://www.conversion.com.br/wp-content/uploads/2013/05/call-to-action.jpg?9d7bd4
- [4]: http://www.conversion.com.br/wp-content/uploads/2013/05/muitas-escolhas.jpg?9d7bd4
+ [3]: http://www.conversion.com.br/uploads/2013/05/call-to-action.jpg?9d7bd4
+ [4]: http://www.conversion.com.br/uploads/2013/05/muitas-escolhas.jpg?9d7bd4
  [5]: http://www.conversion.com.br/otimizacao-de-sites-seo/busca-organica/ "busca orgânica"

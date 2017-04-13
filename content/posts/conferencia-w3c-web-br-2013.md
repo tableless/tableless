@@ -17,7 +17,7 @@ A <a href="http://conferenciaweb.w3c.br" target="_blank">Conferência W3C Web.br
 
 Um dos pontos altos na conferência foi o segundo dia onde ocorreu um debate com o tema: Como progredir a Web? Que contou na mesa principal: <a href="http://conferenciaweb.w3c.br/#/page/57" target="_blank">Nathália Sautchuk</a>, <a href="http://conferenciaweb.w3c.br/#/page/67" target="_blank">Yasodara Córdova</a>, <a href="http://conferenciaweb.w3c.br/#/page/55" target="_blank">Sérgio Lopes</a> e <a href="http://conferenciaweb.w3c.br/#kris" target="_blank">Kris Borchers</a> e Vagner Diniz como mediador.
 
-<img class="alignnone size-full wp-image-39583" alt="conference-2013" src="http://tableless.com.br/wp-content/uploads/2013/11/flick1.jpg" width="660" height="347" />
+<img class="alignnone size-full wp-image-39583" alt="conference-2013" src="http://tableless.com.br/uploads/2013/11/flick1.jpg" width="660" height="347" />
 
 #### Os temas abordados foram:
 
@@ -45,13 +45,13 @@ Do outro lado Sérgio Lopes defendeu a tese que não há por quê pessoas sem in
 
 Com certeza um dos destaques foi a palestra do <a href="http://conferenciaweb.w3c.br/#/page/37" target="_blank">Daniel Filho</a> &#8220;Javascript que voa!&#8221;, ele trouxe para a platéia a ideia que o javascript é muito mais que só a web. Desenvolveu um sensor que ao passar a mão acendia um LED tudo isso feito em js e ainda fez um drone voar utilizando o nodecopter e o johnny-five, achei fantástico trabalhar diretamente com hardware. Vale a pena dar uma olhada no <a href="https://github.com/danielfilho" target="_blank">github</a> do Daniel.
 
-<img class="alignnone size-full wp-image-39586" alt="daniel-filho" src="http://tableless.com.br/wp-content/uploads/2013/11/flick2.jpg" width="660" height="347" />
+<img class="alignnone size-full wp-image-39586" alt="daniel-filho" src="http://tableless.com.br/uploads/2013/11/flick2.jpg" width="660" height="347" />
 
 #### Processo de Desenvolvimento Front-End &#8211; Do caos ao Sublime
 
 Nesta palestra <a href="http://conferenciaweb.w3c.br/#jaydson" target="_blank">Jaydson Gomes</a> deu a idéia que não devemos ter medo de quebrar paradigmas, devemos inovar. Não foi uma palestra técnica e sim para refletimos.
 
-<img class="alignnone size-full wp-image-39547" alt="do-caos-ao-sublime" src="http://tableless.com.br/wp-content/uploads/2013/11/do-caos-ao-sublime.jpg" width="660" height="347" srcset="uploads/2013/11/do-caos-ao-sublime.jpg 660w, uploads/2013/11/do-caos-ao-sublime-319x168.jpg 319w, uploads/2013/11/do-caos-ao-sublime-588x310.jpg 588w, uploads/2013/11/do-caos-ao-sublime-589x310.jpg 589w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39547" alt="do-caos-ao-sublime" src="http://tableless.com.br/uploads/2013/11/do-caos-ao-sublime.jpg" width="660" height="347" srcset="uploads/2013/11/do-caos-ao-sublime.jpg 660w, uploads/2013/11/do-caos-ao-sublime-319x168.jpg 319w, uploads/2013/11/do-caos-ao-sublime-588x310.jpg 588w, uploads/2013/11/do-caos-ao-sublime-589x310.jpg 589w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Quando iniciamos em uma empresa podemos ver algo que ainda esteja na época das pedras e não podemos ficar com receio de modificar.
   

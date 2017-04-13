@@ -94,7 +94,7 @@ A requisição externa deve ser realizada dentro do escopo do método `app.get()
 
 ## Acessando o DOM da URL externa
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/07/DOM.gif" alt="DOM" width="1104" height="1040" class="alignleft size-full wp-image-50467" />
+<img src="http://tableless.com.br/uploads/2015/07/DOM.gif" alt="DOM" width="1104" height="1040" class="alignleft size-full wp-image-50467" />
 
 Inspecionamos o código-fonte para ver o seletor da tabela que iremos fazer a raspagem. O cheerio é uma biblioteca que nos dá permissão de manipular facilmente o DOM dos elementos da url. Se você já utilizou jQuery, está familiarizado com a estrutura dos seletores. Depois de encontrar o seletor, iremos manipular os elementos filhos da `div#listagem`, no caso a tabela. 
 
@@ -138,13 +138,13 @@ fs.writeFile('resultado.json', JSON.stringify(resultado, null, 4), function(err)
 
 Assim, quando executarmos o comando `node server.js` no terminal a nossa aplicação irá fazer a raspagem na URL e gerar o arquivo **resultado.json**.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/07/resultado.json_.png" alt="resultado.json" width="1110" height="974" class="alignleft size-full wp-image-50472" />
+<img src="http://tableless.com.br/uploads/2015/07/resultado.json_.png" alt="resultado.json" width="1110" height="974" class="alignleft size-full wp-image-50472" />
 
 ## Validando
 
 É sempre importante validar o que você está fazendo. Podemos verificar se o nosso arquivo .json é válido com a ferramenta <a href="http://jsonlint.com/" target="_blank">JSONLint</a>:
   
-<img src="http://tableless.com.br/wp-content/uploads/2015/07/valid_json.png" alt="valid_json" width="961" height="631" class="alignleft size-full wp-image-50473" />
+<img src="http://tableless.com.br/uploads/2015/07/valid_json.png" alt="valid_json" width="961" height="631" class="alignleft size-full wp-image-50473" />
 
 ## Considerações finais
 

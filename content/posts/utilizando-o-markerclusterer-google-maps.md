@@ -28,21 +28,21 @@ Segundo o Google, trata-se de uma solução para o problema de muitos _pontos_ e
 
 Confuso? Visualmente fica mais fácil para explicar. Imagine que tivéssemos um mapa assim:
 
-[<img class="alignnone size-full wp-image-42294" src="http://tableless.com.br/wp-content/uploads/2014/04/exemplo-antes-MarkerClusterer.png" alt="Exemplo de mapa simples sem a utilização do MarkerClusterer" width="624" height="424" srcset="uploads/2014/04/exemplo-antes-MarkerClusterer.png 624w, uploads/2014/04/exemplo-antes-MarkerClusterer-400x271.png 400w" sizes="(max-width: 624px) 100vw, 624px" />][2]
+[<img class="alignnone size-full wp-image-42294" src="http://tableless.com.br/uploads/2014/04/exemplo-antes-MarkerClusterer.png" alt="Exemplo de mapa simples sem a utilização do MarkerClusterer" width="624" height="424" srcset="uploads/2014/04/exemplo-antes-MarkerClusterer.png 624w, uploads/2014/04/exemplo-antes-MarkerClusterer-400x271.png 400w" sizes="(max-width: 624px) 100vw, 624px" />][2]
 
 Temos alguns pontos que são bem próximos uns dos outros enquanto outros são mais distantes. Aplicando o MarkerClusterer ficaria assim:
 
-[<img class="alignnone size-full wp-image-42295" src="http://tableless.com.br/wp-content/uploads/2014/04/exemplo-depois-MarkerClusterer.png" alt="Exemplo de mapa simples com a utilização do MarkerClusterer" width="624" height="424" srcset="uploads/2014/04/exemplo-depois-MarkerClusterer.png 624w, uploads/2014/04/exemplo-depois-MarkerClusterer-400x271.png 400w" sizes="(max-width: 624px) 100vw, 624px" />][3]
+[<img class="alignnone size-full wp-image-42295" src="http://tableless.com.br/uploads/2014/04/exemplo-depois-MarkerClusterer.png" alt="Exemplo de mapa simples com a utilização do MarkerClusterer" width="624" height="424" srcset="uploads/2014/04/exemplo-depois-MarkerClusterer.png 624w, uploads/2014/04/exemplo-depois-MarkerClusterer-400x271.png 400w" sizes="(max-width: 624px) 100vw, 624px" />][3]
 
 Você pode estar pensando a mesma coisa que pensei a primeira vez que vi o exemplo: _&#8220;Ah, nem precisava agrupar os itens! Tem poucos no mapa!&#8221;_ Pode ser. Agora imagine que tivéssemos um mapa assim:
 
-[<img class="alignnone size-full wp-image-42292" src="http://tableless.com.br/wp-content/uploads/2014/04/exemplo2-antes-MarkerClusterer.png" alt="Exemplo de mapa mais complexo com a utilização do MarkerClusterer" width="624" height="424" srcset="uploads/2014/04/exemplo2-antes-MarkerClusterer.png 624w, uploads/2014/04/exemplo2-antes-MarkerClusterer-400x271.png 400w" sizes="(max-width: 624px) 100vw, 624px" />][4]
+[<img class="alignnone size-full wp-image-42292" src="http://tableless.com.br/uploads/2014/04/exemplo2-antes-MarkerClusterer.png" alt="Exemplo de mapa mais complexo com a utilização do MarkerClusterer" width="624" height="424" srcset="uploads/2014/04/exemplo2-antes-MarkerClusterer.png 624w, uploads/2014/04/exemplo2-antes-MarkerClusterer-400x271.png 400w" sizes="(max-width: 624px) 100vw, 624px" />][4]
 
 Pois é! De acordo com o próprio Google, um mapa assim acaba por se tornar lento pelo fato de um ponto no mapa ser uma combinação de vários elementos no DOM. Logo, quanto mais pontos no mapa, maior o trabalho no navegador para renderização. O legal é que existe até um [teste de velocidade][5] comparando um mapa com e sem o uso do MarkerClusterer.
 
 Como ficaria com a utilização do MarkerClusterer:
 
-[<img class="alignnone size-full wp-image-42293" src="http://tableless.com.br/wp-content/uploads/2014/04/exemplo2-depois-MarkerClusterer.png" alt="Exemplo de mapa mais complexo sem a utilização do MarkerClusterer" width="624" height="424" srcset="uploads/2014/04/exemplo2-depois-MarkerClusterer.png 624w, uploads/2014/04/exemplo2-depois-MarkerClusterer-400x271.png 400w" sizes="(max-width: 624px) 100vw, 624px" />][6]
+[<img class="alignnone size-full wp-image-42293" src="http://tableless.com.br/uploads/2014/04/exemplo2-depois-MarkerClusterer.png" alt="Exemplo de mapa mais complexo sem a utilização do MarkerClusterer" width="624" height="424" srcset="uploads/2014/04/exemplo2-depois-MarkerClusterer.png 624w, uploads/2014/04/exemplo2-depois-MarkerClusterer-400x271.png 400w" sizes="(max-width: 624px) 100vw, 624px" />][6]
 
 Pode ser até que a questão da **perfomance** não influencie tanto no seu projeto, mas um ponto que deve ser considerado é a **usabilidade** e **experiência do usuário** ao interagir com o mapa. **Se colocar no lugar do usuário** nessa hora é fundamental. Pra localizar determinado ponto no mapa: fica mais fácil com todos visíveis próximos uns dos outros ou agrupados em grupos maiores? Logicamente não existe um certo ou errado pois isso vai variar de projeto para projeto, mas vale a discussão com os membros do time.
 
@@ -116,11 +116,11 @@ A parte de HTML e CSS é bem tranquila e, se pararmos pra olhar, até a parte do
 É isso pessoal, a idéia era dar uma passada geral sobre o recurso que pode ser útil para alguém que for mexer com mapas que possuem muitos pontos!
 
  [1]: http://tableless.com.br/api-google-maps-v3/
- [2]: http://tableless.com.br/wp-content/uploads/2014/04/exemplo-antes-MarkerClusterer.png
- [3]: http://tableless.com.br/wp-content/uploads/2014/04/exemplo-depois-MarkerClusterer.png
- [4]: http://tableless.com.br/wp-content/uploads/2014/04/exemplo2-antes-MarkerClusterer.png
+ [2]: http://tableless.com.br/uploads/2014/04/exemplo-antes-MarkerClusterer.png
+ [3]: http://tableless.com.br/uploads/2014/04/exemplo-depois-MarkerClusterer.png
+ [4]: http://tableless.com.br/uploads/2014/04/exemplo2-antes-MarkerClusterer.png
  [5]: http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/examples/speed_test_example.html?
- [6]: http://tableless.com.br/wp-content/uploads/2014/04/exemplo2-depois-MarkerClusterer.png
+ [6]: http://tableless.com.br/uploads/2014/04/exemplo2-depois-MarkerClusterer.png
  [7]: https://developers.google.com/maps/articles/toomanymarkers?hl=pt-br#markerclusterer
  [8]: http://codepen.io/raphaelfabeni/full/hdjgA
  [9]: http://codepen.io/raphaelfabeni/full/zjcFd

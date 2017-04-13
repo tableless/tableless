@@ -67,6 +67,6 @@ Perceba que usei o prefixo `-webkit-` por causa do Safari.
 
 Olha só como está o status no CanIUse.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/10/Screen-Shot-2015-10-07-at-2.50.22-PM.png" alt="Flexbox no Can I Use" width="1254" height="313" class="alignnone size-full wp-image-51607" />
+<img src="http://tableless.com.br/uploads/2015/10/Screen-Shot-2015-10-07-at-2.50.22-PM.png" alt="Flexbox no Can I Use" width="1254" height="313" class="alignnone size-full wp-image-51607" />
 
  [1]: http://tableless.com.br/centralizando-um-objeto-na-horizontal-e-vertical-com-css/

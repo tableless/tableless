@@ -86,7 +86,7 @@ Vamos usar uma estrutura bem básica, pois a nossa mini loja só vai mostrar alg
 
 No final teremos o seguinte resultado:
 
-<img class="alignnone size-full wp-image-46212" src="http://tableless.com.br/wp-content/uploads/2014/12/zoa.jpg" alt="zoa" width="1177" height="576" srcset="uploads/2014/12/zoa.jpg 1177w, uploads/2014/12/zoa-265x129.jpg 265w, uploads/2014/12/zoa-400x195.jpg 400w" sizes="(max-width: 1177px) 100vw, 1177px" />
+<img class="alignnone size-full wp-image-46212" src="http://tableless.com.br/uploads/2014/12/zoa.jpg" alt="zoa" width="1177" height="576" srcset="uploads/2014/12/zoa.jpg 1177w, uploads/2014/12/zoa-265x129.jpg 265w, uploads/2014/12/zoa-400x195.jpg 400w" sizes="(max-width: 1177px) 100vw, 1177px" />
 
 Bem, vamos estudar um pouco o HTML acima.
 
@@ -110,7 +110,7 @@ Para habilitar a ES6 no Chrome Canary, basta você abrir uma nova aba e acessar
 
 Após acessar esta url, você vai procurar algo parecido com a imagem abaixo, basta apenas habilitar e pronto:
 
-<img class="alignnone size-full wp-image-46218" src="http://tableless.com.br/wp-content/uploads/2014/12/zoa21.jpg" alt="zoa2" width="830" height="316" srcset="uploads/2014/12/zoa21.jpg 830w, uploads/2014/12/zoa21-265x100.jpg 265w, uploads/2014/12/zoa21-400x152.jpg 400w" sizes="(max-width: 830px) 100vw, 830px" />
+<img class="alignnone size-full wp-image-46218" src="http://tableless.com.br/uploads/2014/12/zoa21.jpg" alt="zoa2" width="830" height="316" srcset="uploads/2014/12/zoa21.jpg 830w, uploads/2014/12/zoa21-265x100.jpg 265w, uploads/2014/12/zoa21-400x152.jpg 400w" sizes="(max-width: 830px) 100vw, 830px" />
 
 Feito isso, podemos começar :).
 
@@ -186,7 +186,7 @@ Vamos usar uma estrutura bem básica, pois a nossa mini loja só vai mostrar alg
 
 No final teremos o seguinte resultado:
 
-<img class="alignnone size-full wp-image-46212" src="http://tableless.com.br/wp-content/uploads/2014/12/zoa.jpg" alt="zoa" width="1177" height="576" srcset="uploads/2014/12/zoa.jpg 1177w, uploads/2014/12/zoa-265x129.jpg 265w, uploads/2014/12/zoa-400x195.jpg 400w" sizes="(max-width: 1177px) 100vw, 1177px" />
+<img class="alignnone size-full wp-image-46212" src="http://tableless.com.br/uploads/2014/12/zoa.jpg" alt="zoa" width="1177" height="576" srcset="uploads/2014/12/zoa.jpg 1177w, uploads/2014/12/zoa-265x129.jpg 265w, uploads/2014/12/zoa-400x195.jpg 400w" sizes="(max-width: 1177px) 100vw, 1177px" />
 
 Bem, vamos estudar um pouco o HTML acima.
 
@@ -210,7 +210,7 @@ Para habilitar a ES6 no Chrome Canary, basta você abrir uma nova aba e acessar
 
 Após acessar esta url, você vai procurar algo parecido com a imagem abaixo, basta apenas habilitar e pronto:
 
-<img class="alignnone size-full wp-image-46218" src="http://tableless.com.br/wp-content/uploads/2014/12/zoa21.jpg" alt="zoa2" width="830" height="316" srcset="uploads/2014/12/zoa21.jpg 830w, uploads/2014/12/zoa21-265x100.jpg 265w, uploads/2014/12/zoa21-400x152.jpg 400w" sizes="(max-width: 830px) 100vw, 830px" />
+<img class="alignnone size-full wp-image-46218" src="http://tableless.com.br/uploads/2014/12/zoa21.jpg" alt="zoa2" width="830" height="316" srcset="uploads/2014/12/zoa21.jpg 830w, uploads/2014/12/zoa21-265x100.jpg 265w, uploads/2014/12/zoa21-400x152.jpg 400w" sizes="(max-width: 830px) 100vw, 830px" />
 
 Feito isso, podemos começar :).
 

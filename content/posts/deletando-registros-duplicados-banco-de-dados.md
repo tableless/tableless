@@ -34,20 +34,20 @@ Veja na prática como acontece:
 
 Tabelas com os registros duplicados
 
-[<img class="alignnone size-full wp-image-40122" alt="tableless-select-mysql" src="http://tableless.com.br/wp-content/uploads/2014/01/tableless-select-mysql.png" width="487" height="310" srcset="uploads/2014/01/tableless-select-mysql.png 487w, uploads/2014/01/tableless-select-mysql-263x168.png 263w" sizes="(max-width: 487px) 100vw, 487px" />][1]
+[<img class="alignnone size-full wp-image-40122" alt="tableless-select-mysql" src="http://tableless.com.br/uploads/2014/01/tableless-select-mysql.png" width="487" height="310" srcset="uploads/2014/01/tableless-select-mysql.png 487w, uploads/2014/01/tableless-select-mysql-263x168.png 263w" sizes="(max-width: 487px) 100vw, 487px" />][1]
 
 Aplicando o script descrito acima:
 
-[<img class="alignnone size-medium wp-image-40121" alt="tableless-mysql-script-delete" src="http://tableless.com.br/wp-content/uploads/2014/01/tableless-mysql-script-delete-588x205.png" width="588" height="205" srcset="uploads/2014/01/tableless-mysql-script-delete-588x205.png 588w, uploads/2014/01/tableless-mysql-script-delete-329x115.png 329w, uploads/2014/01/tableless-mysql-script-delete-660x231.png 660w, uploads/2014/01/tableless-mysql-script-delete.png 720w" sizes="(max-width: 588px) 100vw, 588px" />][2]
+[<img class="alignnone size-medium wp-image-40121" alt="tableless-mysql-script-delete" src="http://tableless.com.br/uploads/2014/01/tableless-mysql-script-delete-588x205.png" width="588" height="205" srcset="uploads/2014/01/tableless-mysql-script-delete-588x205.png 588w, uploads/2014/01/tableless-mysql-script-delete-329x115.png 329w, uploads/2014/01/tableless-mysql-script-delete-660x231.png 660w, uploads/2014/01/tableless-mysql-script-delete.png 720w" sizes="(max-width: 588px) 100vw, 588px" />][2]
 
 Caso queira apagar todos os registros duplicados, deixando apenas os registros únicos é só trocar o “<” por “!=”
 
 veja um exemplo:
 
-[<img class="alignnone size-medium wp-image-40120" alt="tableless-mysql-script-deletall" src="http://tableless.com.br/wp-content/uploads/2014/01/tableless-mysql-script-deletall-410x310.png" width="410" height="310" srcset="uploads/2014/01/tableless-mysql-script-deletall-410x310.png 410w, uploads/2014/01/tableless-mysql-script-deletall-222x168.png 222w, uploads/2014/01/tableless-mysql-script-deletall.png 733w" sizes="(max-width: 410px) 100vw, 410px" />][3]
+[<img class="alignnone size-medium wp-image-40120" alt="tableless-mysql-script-deletall" src="http://tableless.com.br/uploads/2014/01/tableless-mysql-script-deletall-410x310.png" width="410" height="310" srcset="uploads/2014/01/tableless-mysql-script-deletall-410x310.png 410w, uploads/2014/01/tableless-mysql-script-deletall-222x168.png 222w, uploads/2014/01/tableless-mysql-script-deletall.png 733w" sizes="(max-width: 410px) 100vw, 410px" />][3]
 
 Pronto! É isso aí pessoal, muito simples né?
 
- [1]: http://tableless.com.br/wp-content/uploads/2014/01/tableless-select-mysql.png
- [2]: http://tableless.com.br/wp-content/uploads/2014/01/tableless-mysql-script-delete.png
- [3]: http://tableless.com.br/wp-content/uploads/2014/01/tableless-mysql-script-deletall.png
+ [1]: http://tableless.com.br/uploads/2014/01/tableless-select-mysql.png
+ [2]: http://tableless.com.br/uploads/2014/01/tableless-mysql-script-delete.png
+ [3]: http://tableless.com.br/uploads/2014/01/tableless-mysql-script-deletall.png

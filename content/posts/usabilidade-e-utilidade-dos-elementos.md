@@ -49,9 +49,9 @@ Com os conceitos de affordances em mãos, vamos ao nosso real objetivo: Usabilid
 
 Então devemos em nosso Design, pensar de maneira que, um botão se pareça com um botão, e que as partes que são clicáveis em nosso sistema ou site, se diferencie da demais, como no exemplo à seguir:
 
-<img class="alignnone size-full wp-image-43022" src="http://tableless.com.br/wp-content/uploads/2014/06/wikipedia.jpg" alt="Wikipedia" width="1150" height="453" srcset="uploads/2014/06/wikipedia.jpg 1150w, uploads/2014/06/wikipedia-400x157.jpg 400w" sizes="(max-width: 1150px) 100vw, 1150px" />
+<img class="alignnone size-full wp-image-43022" src="http://tableless.com.br/uploads/2014/06/wikipedia.jpg" alt="Wikipedia" width="1150" height="453" srcset="uploads/2014/06/wikipedia.jpg 1150w, uploads/2014/06/wikipedia-400x157.jpg 400w" sizes="(max-width: 1150px) 100vw, 1150px" />
 
-<img class="alignnone size-full wp-image-43024" src="http://tableless.com.br/wp-content/uploads/2014/06/publicopt.jpg" alt="publicopt" width="781" height="504" srcset="uploads/2014/06/publicopt.jpg 781w, uploads/2014/06/publicopt-400x258.jpg 400w" sizes="(max-width: 781px) 100vw, 781px" />
+<img class="alignnone size-full wp-image-43024" src="http://tableless.com.br/uploads/2014/06/publicopt.jpg" alt="publicopt" width="781" height="504" srcset="uploads/2014/06/publicopt.jpg 781w, uploads/2014/06/publicopt-400x258.jpg 400w" sizes="(max-width: 781px) 100vw, 781px" />
 
 Note que, no site do Wikipedia, todos os links estão em Azul, então é simples para o usuário perceber que em qualquer elemento azul no meio do texto em que ele clicar, será submetido à uma outra página falando algo sobre aquele assunto.
 

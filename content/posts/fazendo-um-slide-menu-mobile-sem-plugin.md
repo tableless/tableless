@@ -115,7 +115,7 @@ Quando você posiciona qualquer elemento em um determinado lugar da tela utiliza
 
 No inspector você pode perceber exatamente o que browser faz quando vai na parte de TIMELINE > FRAME, percebe o processo executado.
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/09/Screen-Shot-2013-09-29-at-8.40.25-PM.png" alt="Screen Shot 2013-09-29 at 8.40.25 PM" width="949" height="432" class="alignnone size-full wp-image-39086" srcset="uploads/2013/09/Screen-Shot-2013-09-29-at-8.40.25-PM.png 949w, uploads/2013/09/Screen-Shot-2013-09-29-at-8.40.25-PM-329x149.png 329w, uploads/2013/09/Screen-Shot-2013-09-29-at-8.40.25-PM-588x267.png 588w, uploads/2013/09/Screen-Shot-2013-09-29-at-8.40.25-PM-660x300.png 660w" sizes="(max-width: 949px) 100vw, 949px" />
+<img src="http://tableless.com.br/uploads/2013/09/Screen-Shot-2013-09-29-at-8.40.25-PM.png" alt="Screen Shot 2013-09-29 at 8.40.25 PM" width="949" height="432" class="alignnone size-full wp-image-39086" srcset="uploads/2013/09/Screen-Shot-2013-09-29-at-8.40.25-PM.png 949w, uploads/2013/09/Screen-Shot-2013-09-29-at-8.40.25-PM-329x149.png 329w, uploads/2013/09/Screen-Shot-2013-09-29-at-8.40.25-PM-588x267.png 588w, uploads/2013/09/Screen-Shot-2013-09-29-at-8.40.25-PM-660x300.png 660w" sizes="(max-width: 949px) 100vw, 949px" />
 
 Quando usamos o top/left, o browser leva um tempo muito grande para redesenhar cada frame da animação, o que resulta em uma animação ruim, nada suave. Se o elemento utiliza muitos detalhes como sombras, bordas, transparências e etc, o browser consome muito processamento para gerar todos esses efeitos. Se há uma sombra atrás do elemento por exemplo, o browser tem que calcular todo o gradiente semi-transparente que essa sombra gera com o background da página a todo momento. 
 
@@ -123,7 +123,7 @@ Ao fazermos a animação usando o translate da propriedade transform do CSS3, to
 
 Veja uma comparação abaixo. Do lado esquerdo é uma animação usando posicionamento normal, com absolute, top/left. Do lado direito é usando o CSS Transform.
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/09/timeline-frames-macbook1.png" alt="timeline-frames-macbook1" width="720" height="193" class="alignnone size-full wp-image-39087" srcset="uploads/2013/09/timeline-frames-macbook1.png 720w, uploads/2013/09/timeline-frames-macbook1-329x88.png 329w, uploads/2013/09/timeline-frames-macbook1-588x157.png 588w, uploads/2013/09/timeline-frames-macbook1-660x176.png 660w" sizes="(max-width: 720px) 100vw, 720px" />
+<img src="http://tableless.com.br/uploads/2013/09/timeline-frames-macbook1.png" alt="timeline-frames-macbook1" width="720" height="193" class="alignnone size-full wp-image-39087" srcset="uploads/2013/09/timeline-frames-macbook1.png 720w, uploads/2013/09/timeline-frames-macbook1-329x88.png 329w, uploads/2013/09/timeline-frames-macbook1-588x157.png 588w, uploads/2013/09/timeline-frames-macbook1-660x176.png 660w" sizes="(max-width: 720px) 100vw, 720px" />
 
 As barras verdes indicam o quanto o elemento foi redesenhado na tela.
 

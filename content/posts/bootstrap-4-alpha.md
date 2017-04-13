@@ -19,7 +19,7 @@ Já faz um tempo que o Bootstrap vem dominando a web. Dificilmente vemos um d
 
 Agora a equipe do Bootstrap <a href="http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/" target="_blank">anunciou</a> sua nova versão, o **Bootstrap 4 Alpha**.
 
-[<img class="alignnone wp-image-50861 size-full" src="http://tableless.com.br/wp-content/uploads/2015/08/bs4-alpha.png" alt="Homepage do Bootstrap 4 Alpha" width="2360" height="1588" />][1]
+[<img class="alignnone wp-image-50861 size-full" src="http://tableless.com.br/uploads/2015/08/bs4-alpha.png" alt="Homepage do Bootstrap 4 Alpha" width="2360" height="1588" />][1]
 
 O framework está repleto de novidades. Algumas delas são:
 
@@ -57,7 +57,7 @@ O lançamento da versão final será dividido em quatro etapas: lançamento de a
 
 > Quando nós lançamos Bootstrap 3, imediatamente paramos todo o apoio para v2.x, causando muita dor para todos os nossos usuários. Isso foi um erro que não vai acontecer novamente. Em um futuro próximo, manteremos o Bootstrap 3 com correções de bugs críticos e melhorias de documentação. Os docs da v3 também continuarão hospedados após a liberação final da v4.
 
-[<img class="alignnone wp-image-50866 size-full" src="http://tableless.com.br/wp-content/uploads/2015/08/Capturar.png" alt="Temas para os criadores que utilizam o Bootstrap 4" width="1349" height="671" />][2]
+[<img class="alignnone wp-image-50866 size-full" src="http://tableless.com.br/uploads/2015/08/Capturar.png" alt="Temas para os criadores que utilizam o Bootstrap 4" width="1349" height="671" />][2]
 
 Além de lançar o Bootstrap 4, também foi anunciado outro projeto: o **Bootstrap Official Themes**, que são alguns temas criados pelos próprios criadores do _framework_. Existem três temas disponíveis para _dashboards_, marketing de um produto e outro para aplicações.
 
@@ -65,5 +65,5 @@ Infelizmente, todos os três são pagos (cada tema custa $99). Ainda não foi 
 
 &nbsp;
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/08/bs4-alpha.png
- [2]: http://tableless.com.br/wp-content/uploads/2015/08/Capturar.png
+ [1]: http://tableless.com.br/uploads/2015/08/bs4-alpha.png
+ [2]: http://tableless.com.br/uploads/2015/08/Capturar.png

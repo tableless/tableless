@@ -39,7 +39,7 @@ Este novo paradigma denota uma revisão a usabilidade com outro olhar para atend
   * As tarefas e objetivos do usuário
 
 <div id="attachment_4590" style="width: 548px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/wp-content/uploads/2011/11/Slide1.jpg"><img class="size-full wp-image-4590  " src="http://tableless.com.br/wp-content/uploads/2011/11/Slide1.jpg" alt="Escopo da Nova Usabilidade" width="538" height="403" srcset="uploads/2011/11/Slide1.jpg 960w, uploads/2011/11/Slide1-300x225.jpg 300w" sizes="(max-width: 538px) 100vw, 538px" /></a>
+  <a href="http://tableless.com.br/uploads/2011/11/Slide1.jpg"><img class="size-full wp-image-4590  " src="http://tableless.com.br/uploads/2011/11/Slide1.jpg" alt="Escopo da Nova Usabilidade" width="538" height="403" srcset="uploads/2011/11/Slide1.jpg 960w, uploads/2011/11/Slide1-300x225.jpg 300w" sizes="(max-width: 538px) 100vw, 538px" /></a>
   
   <p class="wp-caption-text">
     Escopo da Nova Usabilidade

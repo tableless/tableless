@@ -53,13 +53,13 @@ Visto isso e certificando-se de que não há bloqueio aos robôs de busca, exist
 
 Além de consultar o volume de impressões que o site está tendo no Google, é possível monitorar os links que apontam para o site, testar os snippets e utilizar muitos outros recursos nas ferramentas para Webmasters. Existe uma opção bem específica criada recentemente que promete alertar quando um site foi punido manualmente (isso acontece quando o Google identifica compra de links, por exemplo, que é uma ação não recomendada por eles). A imagem a seguir mostra a localização do recurso na ferramenta:
 
-[<img class="size-full wp-image-41265 aligncenter" alt="Google Webmaster Tools - Ações Manuais" src="http://tableless.com.br/wp-content/uploads/2014/02/google-webmaster-tools-acoes-manuais.png" width="634" height="526" srcset="uploads/2014/02/google-webmaster-tools-acoes-manuais.png 634w, uploads/2014/02/google-webmaster-tools-acoes-manuais-202x168.png 202w, uploads/2014/02/google-webmaster-tools-acoes-manuais-373x310.png 373w, uploads/2014/02/google-webmaster-tools-acoes-manuais-400x331.png 400w" sizes="(max-width: 634px) 100vw, 634px" />][2]
+[<img class="size-full wp-image-41265 aligncenter" alt="Google Webmaster Tools - Ações Manuais" src="http://tableless.com.br/uploads/2014/02/google-webmaster-tools-acoes-manuais.png" width="634" height="526" srcset="uploads/2014/02/google-webmaster-tools-acoes-manuais.png 634w, uploads/2014/02/google-webmaster-tools-acoes-manuais-202x168.png 202w, uploads/2014/02/google-webmaster-tools-acoes-manuais-373x310.png 373w, uploads/2014/02/google-webmaster-tools-acoes-manuais-400x331.png 400w" sizes="(max-width: 634px) 100vw, 634px" />][2]
 
 Outra maneira de entender o que está acontecendo com seu site é através do menu Rastreamento > Erros de Rastreamento. Esse relatório da ferramenta mostra erros de DNS, servidor e bloqueio por robots (que falamos anteriormente). Verificando a existência desses erros já podemos ter bons insights de possíveis causas para nossa queda nas buscas.
 
 Se você utilizar o recurso de sitemaps, enviando os sitemaps do seu site através da ferramenta, vai poder acompanhar quantas páginas, de todas contidas no arquivo, estão indexadas. Isso fornece uma informação muito importante, pois as URLs que estão no sitemaps, mas não estão indexadas, provavelmente estão bloqueadas ou gerando algum erro. No exemplo abaixo, a ferramenta mostra que apenas 7% das páginas do sitemap estão indexadas. A própria ferramenta alerta quais URLs estão com problema e por quê.
 
-[<img class="size-full wp-image-41266 aligncenter" alt="Google Webmaster Tools - Sitemaps" src="http://tableless.com.br/wp-content/uploads/2014/02/google-webmaster-tools-sitemaps.png" width="636" height="479" srcset="uploads/2014/02/google-webmaster-tools-sitemaps.png 636w, uploads/2014/02/google-webmaster-tools-sitemaps-223x168.png 223w, uploads/2014/02/google-webmaster-tools-sitemaps-411x310.png 411w, uploads/2014/02/google-webmaster-tools-sitemaps-400x301.png 400w" sizes="(max-width: 636px) 100vw, 636px" />][3]
+[<img class="size-full wp-image-41266 aligncenter" alt="Google Webmaster Tools - Sitemaps" src="http://tableless.com.br/uploads/2014/02/google-webmaster-tools-sitemaps.png" width="636" height="479" srcset="uploads/2014/02/google-webmaster-tools-sitemaps.png 636w, uploads/2014/02/google-webmaster-tools-sitemaps-223x168.png 223w, uploads/2014/02/google-webmaster-tools-sitemaps-411x310.png 411w, uploads/2014/02/google-webmaster-tools-sitemaps-400x301.png 400w" sizes="(max-width: 636px) 100vw, 636px" />][3]
 
 ## Se não existem erros nem bloqueios
 
@@ -72,6 +72,6 @@ Depois de toda a investigação e correções feitas, você pode tentar acelerar
 Agora é só manter a qualidade do seu conteúdo na Web e continuar monitorando seu site.
 
  [1]: https://www.google.com/webmasters/tools/home?hl=pt-BR
- [2]: http://tableless.com.br/wp-content/uploads/2014/02/google-webmaster-tools-acoes-manuais.png
- [3]: http://tableless.com.br/wp-content/uploads/2014/02/google-webmaster-tools-sitemaps.png
+ [2]: http://tableless.com.br/uploads/2014/02/google-webmaster-tools-acoes-manuais.png
+ [3]: http://tableless.com.br/uploads/2014/02/google-webmaster-tools-sitemaps.png
  [4]: https://support.google.com/webmasters/answer/35769?hl=pt-BR

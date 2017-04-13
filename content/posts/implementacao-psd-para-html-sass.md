@@ -20,7 +20,7 @@ Eu mesmo farei essa apresentação e tentarei abordar [o máximo possível em at
 
 Irei implementar o layout abaixo:
   
-<img src="http://tableless.com.br/wp-content/uploads/2015/02/Real_pixel.jpg" alt="Real_pixel" width="1763" height="1245" class="alignnone size-full wp-image-46800" srcset="uploads/2015/02/Real_pixel.jpg 1763w, uploads/2015/02/Real_pixel-197x139.jpg 197w, uploads/2015/02/Real_pixel-400x282.jpg 400w" sizes="(max-width: 1763px) 100vw, 1763px" />
+<img src="http://tableless.com.br/uploads/2015/02/Real_pixel.jpg" alt="Real_pixel" width="1763" height="1245" class="alignnone size-full wp-image-46800" srcset="uploads/2015/02/Real_pixel.jpg 1763w, uploads/2015/02/Real_pixel-197x139.jpg 197w, uploads/2015/02/Real_pixel-400x282.jpg 400w" sizes="(max-width: 1763px) 100vw, 1763px" />
 
 Vamos escrever muito HTML e CSS, além de um monte de dicas sobre como montar códigos bem estruturados. Usarei o Sublime Text, por isso pode ser que você veja alguns truques do editor que facilitam o trabalho diário. As imagens serão recortadas antes para gente salvar algum tempo. Mas o resto tudo eu irei fazer na hora, on the fly, com direito a pitaco e tapa na cara. 😉 
 

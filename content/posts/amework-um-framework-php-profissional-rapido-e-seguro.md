@@ -26,7 +26,7 @@ A arquitetura do Yii permite que o mesmo carregue somente o necessário para apl
 
 &nbsp;
 
-<img class="aligncenter wp-image-43331 size-full" src="http://tableless.com.br/wp-content/uploads/2014/07/performance-20090131.png" alt="PHP Framework Performance Comparison" width="769" height="484" srcset="uploads/2014/07/performance-20090131.png 769w, uploads/2014/07/performance-20090131-220x139.png 220w, uploads/2014/07/performance-20090131-400x251.png 400w" sizes="(max-width: 769px) 100vw, 769px" />
+<img class="aligncenter wp-image-43331 size-full" src="http://tableless.com.br/uploads/2014/07/performance-20090131.png" alt="PHP Framework Performance Comparison" width="769" height="484" srcset="uploads/2014/07/performance-20090131.png 769w, uploads/2014/07/performance-20090131-220x139.png 220w, uploads/2014/07/performance-20090131-400x251.png 400w" sizes="(max-width: 769px) 100vw, 769px" />
 
 No site oficial do <a href="http://www.yiiframework.com/performance/" target="_blank">Yii</a> possui uma descrição mais detalhada sobre seu desempenho. Vale a pena dar uma olhada!
 
@@ -100,15 +100,15 @@ O importante é encontrar o caminho correto até a pasta de instalação do PHP.
 
 No Windows, em &#8220;Propriedades do Sistema” e com a aba &#8220;Avançado&#8221; ativa, clique no botão &#8220;Variáveis de Ambiente&#8230;&#8221;
 
-<img class="alignnone wp-image-43327 size-full" src="http://tableless.com.br/wp-content/uploads/2014/07/01.jpg" alt="Propriedades do Sistema" width="426" height="498" srcset="uploads/2014/07/01.jpg 426w, uploads/2014/07/01-118x139.jpg 118w, uploads/2014/07/01-400x467.jpg 400w" sizes="(max-width: 426px) 100vw, 426px" />
+<img class="alignnone wp-image-43327 size-full" src="http://tableless.com.br/uploads/2014/07/01.jpg" alt="Propriedades do Sistema" width="426" height="498" srcset="uploads/2014/07/01.jpg 426w, uploads/2014/07/01-118x139.jpg 118w, uploads/2014/07/01-400x467.jpg 400w" sizes="(max-width: 426px) 100vw, 426px" />
 
 Na área &#8220;Variáveis do sistema&#8221;, editaremos a variável &#8220;Path&#8221;:
 
-<img class="alignnone wp-image-43328 size-full" src="http://tableless.com.br/wp-content/uploads/2014/07/02.jpg" alt="Variáveis do sistema" width="394" height="437" srcset="uploads/2014/07/02.jpg 394w, uploads/2014/07/02-125x139.jpg 125w" sizes="(max-width: 394px) 100vw, 394px" />
+<img class="alignnone wp-image-43328 size-full" src="http://tableless.com.br/uploads/2014/07/02.jpg" alt="Variáveis do sistema" width="394" height="437" srcset="uploads/2014/07/02.jpg 394w, uploads/2014/07/02-125x139.jpg 125w" sizes="(max-width: 394px) 100vw, 394px" />
 
 Adicione o caminho de instalação do PHP seguido de um ponto e vírgula &#8220;;&#8221; no final e confirme a edição. Veja:
 
-<img class="alignnone wp-image-43329 size-full" src="http://tableless.com.br/wp-content/uploads/2014/07/03.jpg" alt="Variáveis do sistema" width="357" height="154" srcset="uploads/2014/07/03.jpg 357w, uploads/2014/07/03-265x114.jpg 265w" sizes="(max-width: 357px) 100vw, 357px" />
+<img class="alignnone wp-image-43329 size-full" src="http://tableless.com.br/uploads/2014/07/03.jpg" alt="Variáveis do sistema" width="357" height="154" srcset="uploads/2014/07/03.jpg 357w, uploads/2014/07/03-265x114.jpg 265w" sizes="(max-width: 357px) 100vw, 357px" />
 
 Com esta alteração, basicamente estamos informando ao Windows onde ele irá localizar o arquivo php.exe. Confirme a edição, e abra o prompt de comando do Windows.
 
@@ -126,7 +126,7 @@ Após a execução desta linha de comando, o Yii irá criar uma aplicação web 
 
 Veja como ficou a aplicação:
 
-<img class="aligncenter wp-image-43330 size-full" src="http://tableless.com.br/wp-content/uploads/2014/07/04.jpg" alt="Resultado final" width="1027" height="501" srcset="uploads/2014/07/04.jpg 1027w, uploads/2014/07/04-265x129.jpg 265w, uploads/2014/07/04-400x195.jpg 400w" sizes="(max-width: 1027px) 100vw, 1027px" />
+<img class="aligncenter wp-image-43330 size-full" src="http://tableless.com.br/uploads/2014/07/04.jpg" alt="Resultado final" width="1027" height="501" srcset="uploads/2014/07/04.jpg 1027w, uploads/2014/07/04-265x129.jpg 265w, uploads/2014/07/04-400x195.jpg 400w" sizes="(max-width: 1027px) 100vw, 1027px" />
 
 ## ESTRUTURA
 

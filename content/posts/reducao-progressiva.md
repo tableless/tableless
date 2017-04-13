@@ -23,7 +23,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <img class="alignnone size-full wp-image-38918" alt="clippy" src="http://tableless.com.br/wp-content/uploads/2013/09/clippy.jpg" width="660" height="400" srcset="uploads/2013/09/clippy.jpg 660w, uploads/2013/09/clippy-277x168.jpg 277w, uploads/2013/09/clippy-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+  <img class="alignnone size-full wp-image-38918" alt="clippy" src="http://tableless.com.br/uploads/2013/09/clippy.jpg" width="660" height="400" srcset="uploads/2013/09/clippy.jpg 660w, uploads/2013/09/clippy-277x168.jpg 277w, uploads/2013/09/clippy-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 </p>
 
 <p dir="ltr">
@@ -37,7 +37,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://layervault.tumblr.com/post/42361566927/progressive-reduction"><img class="alignnone size-full wp-image-38916" alt="progressive-reduction" src="http://tableless.com.br/wp-content/uploads/2013/09/progressive-reduction.jpg" width="660" height="400" srcset="uploads/2013/09/progressive-reduction.jpg 660w, uploads/2013/09/progressive-reduction-277x168.jpg 277w, uploads/2013/09/progressive-reduction-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" /></a>
+  <a href="http://layervault.tumblr.com/post/42361566927/progressive-reduction"><img class="alignnone size-full wp-image-38916" alt="progressive-reduction" src="http://tableless.com.br/uploads/2013/09/progressive-reduction.jpg" width="660" height="400" srcset="uploads/2013/09/progressive-reduction.jpg 660w, uploads/2013/09/progressive-reduction-277x168.jpg 277w, uploads/2013/09/progressive-reduction-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" /></a>
 </p>
 
 ## O estado atual do design digital
@@ -76,7 +76,7 @@ categories:
 
 O conceito de Regressão Progressiva tem gerado tanto buzz que dividiu opiniões de designers, desenvolvedores e profissionais de UX sendo alvo de [críticas alarmistas][1] e [elogios empolgados][2]. A idéia não é exatamente inédita. Existe até mesmo uma tentativa de registro de [patente da Samsung][3] de dezembro de 2011 relatando um conceito parecido.
 
-[<img class="alignnone size-full wp-image-38915" alt="patente-samsung" src="http://tableless.com.br/wp-content/uploads/2013/09/patente-samsung.jpg" width="660" height="727" srcset="uploads/2013/09/patente-samsung.jpg 660w, uploads/2013/09/patente-samsung-152x168.jpg 152w, uploads/2013/09/patente-samsung-281x310.jpg 281w" sizes="(max-width: 660px) 100vw, 660px" />][4]
+[<img class="alignnone size-full wp-image-38915" alt="patente-samsung" src="http://tableless.com.br/uploads/2013/09/patente-samsung.jpg" width="660" height="727" srcset="uploads/2013/09/patente-samsung.jpg 660w, uploads/2013/09/patente-samsung-152x168.jpg 152w, uploads/2013/09/patente-samsung-281x310.jpg 281w" sizes="(max-width: 660px) 100vw, 660px" />][4]
 
 Esta documentação versa especificamente sobre ícones de interfaces gráficas que mudam de tamanho conforme frequência de uso. A patente está em contestação por que, bem, existem registros mais antigos de interfaces adaptáveis neste sentido&#8230; Não é exatamente uma idéia nova. Mas o artigo do Layer Vault foi o primeiro a descrever o conceito, apresentar bons argumentos e até mesmo alguns exemplos de implementação. O interessante do método é que pela primeira vez o usuário está no centro da mudança. O timing não poderia ser melhor. Em teoria isto pode ser algo tão revolucionário quanto o design responsivo foi para dispositivos móveis ou apenas tempestade em copo d&#8217;agua. A efetividade em si só poderá ser posta a prova empiricamente: implementando a Regressão Progressiva em projetos e testando extensivamente. Por maior que seja o debate entre desenvolvedores, designers e psicólogos quem vai dizer se a idéia funciona na prática ou não, como sempre, são os próprios usuários.
 

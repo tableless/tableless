@@ -35,7 +35,7 @@ O [Zeno Rocha divulgou em maio uma lista dos eventos][2] de desenvolvimento web 
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-7154" src="http://tableless.com.br/wp-content/uploads/2012/10/1-frontinmaceio.jpg" alt="Logo do FrontIn Maceió" width="750" height="308" srcset="uploads/2012/10/1-frontinmaceio.jpg 750w, uploads/2012/10/1-frontinmaceio-300x123.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" />][5]
+[<img class="aligncenter size-full wp-image-7154" src="http://tableless.com.br/uploads/2012/10/1-frontinmaceio.jpg" alt="Logo do FrontIn Maceió" width="750" height="308" srcset="uploads/2012/10/1-frontinmaceio.jpg 750w, uploads/2012/10/1-frontinmaceio-300x123.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" />][5]
 
 HTML5 com tapioca e água de coco! O [FrontInMaceió][6] é a primeira edição de um evento da franquia FrontIn a acontecer no Nordeste, sendo organizado pela recém-fundada [BrazilJS Foundation][7].
 
@@ -47,7 +47,7 @@ A conferência irá abordar temas como performance front-end, pré-processadores
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-7162" src="http://tableless.com.br/wp-content/uploads/2012/10/2-frontinsampa.jpg" alt="Logo do FrontIn Sampa" width="750" height="308" srcset="uploads/2012/10/2-frontinsampa.jpg 750w, uploads/2012/10/2-frontinsampa-300x123.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" />][8]
+[<img class="aligncenter size-full wp-image-7162" src="http://tableless.com.br/uploads/2012/10/2-frontinsampa.jpg" alt="Logo do FrontIn Sampa" width="750" height="308" srcset="uploads/2012/10/2-frontinsampa.jpg 750w, uploads/2012/10/2-frontinsampa-300x123.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" />][8]
 
 Em novembro, o estado de São Paulo ganha dois eventos de front-end. O primeiro é o [FrontInSampa][9], que ocorre na capital dia 3 de novembro.
 
@@ -59,7 +59,7 @@ Os temas previstos para o evento vão desde produtividade e testes A/B até SEO 
 
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-7163" src="http://tableless.com.br/wp-content/uploads/2012/10/3-frontinterior.jpg" alt="Logo do FrontInterior" width="750" height="308" srcset="uploads/2012/10/3-frontinterior.jpg 750w, uploads/2012/10/3-frontinterior-300x123.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" />][10]
+[<img class="aligncenter size-full wp-image-7163" src="http://tableless.com.br/uploads/2012/10/3-frontinterior.jpg" alt="Logo do FrontInterior" width="750" height="308" srcset="uploads/2012/10/3-frontinterior.jpg 750w, uploads/2012/10/3-frontinterior-300x123.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" />][10]
 
 O segundo evento a acontecer em São Paulo é o [FrontInterior][10]. O nome, fora do padrão dos demais eventos, veio da intenção de criar um evento itinerante pelo interior paulista, onde a cada período uma cidade sediará o evento. Sob curadoria do Richard D. Johansen e minha e co-realizado pela [MStech][11], a primeira edição do evento ocorre na cidade de Bauru, dia 24 de novembro.
 

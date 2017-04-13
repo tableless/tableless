@@ -186,7 +186,7 @@ display: &#8220;a a a&#8221; /150px
 
 No exemplo acima fiz duas colunas no código compostos por pontos em vez de fazer com letras. Isso quer dizer que entre as colunas do grid haverá um espaço em branco de 50px de altura. Veja a imagem abaixo para entender melhor o código:
 
-<img src="http://tableless.com.br/wp-content/uploads/2011/05/templatelayout1.gif" alt="" title="templatelayout1" width="364" height="336" class="alignnone size-full wp-image-3767" srcset="uploads/2011/05/templatelayout1.gif 364w, uploads/2011/05/templatelayout1-300x276.gif 300w" sizes="(max-width: 364px) 100vw, 364px" />
+<img src="http://tableless.com.br/uploads/2011/05/templatelayout1.gif" alt="" title="templatelayout1" width="364" height="336" class="alignnone size-full wp-image-3767" srcset="uploads/2011/05/templatelayout1.gif 364w, uploads/2011/05/templatelayout1-300x276.gif 300w" sizes="(max-width: 364px) 100vw, 364px" />
 
 ### O funcionamento da propriedade position
 
@@ -194,7 +194,7 @@ O valor da propriedade position especifica qual linha e coluna o elemento será 
 
 Abaixo veja uma imagem que pegamos diretamente do exemplo do W3C. O layout é muito simples:
   
-[<img src="http://tableless.com.br/wp-content/uploads/2011/05/Untitled-300x89.png" alt="" title="Untitled" width="300" height="89" class="alignnone size-medium wp-image-3768" srcset="uploads/2011/05/Untitled-300x89.png 300w, uploads/2011/05/Untitled.png 914w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img src="http://tableless.com.br/uploads/2011/05/Untitled-300x89.png" alt="" title="Untitled" width="300" height="89" class="alignnone size-medium wp-image-3768" srcset="uploads/2011/05/Untitled-300x89.png 300w, uploads/2011/05/Untitled.png 914w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
 Este layout é representado pelo código abaixo. Primeiro o HTML:
 
@@ -333,6 +333,6 @@ Sim, já funciona, mas não nativamente nos browser. Esta especificação ainda 
 
 Veja um [exemplo funcionando aqui][3].
 
- [1]: http://tableless.com.br/wp-content/uploads/2011/05/Untitled.png
+ [1]: http://tableless.com.br/uploads/2011/05/Untitled.png
  [2]: http://migre.me/4FL7D
  [3]: http://migre.me/4FLGU "exemplo do módulo template layout do CSS3"

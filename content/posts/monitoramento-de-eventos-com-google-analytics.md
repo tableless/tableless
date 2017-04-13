@@ -53,7 +53,7 @@ Ou podemos realizar a chamada através de eventos via jquery:
 
 Uma vez implementado, você pode checar as &#8220;tracks&#8221; dos seus eventos corretamente após 24hr, em: **Comportamento** > **Eventos** dentro do google analytics, assim como a imagem abaixo ilustra:
 
-[<img class="alignleft wp-image-47502 size-full" src="http://tableless.com.br/wp-content/uploads/2015/03/custom-event1-658x415.jpg" alt="relatório de eventos" width="658" height="415" srcset="uploads/2015/03/custom-event1-658x415.jpg 658w, uploads/2015/03/custom-event1-658x415-220x139.jpg 220w, uploads/2015/03/custom-event1-658x415-400x252.jpg 400w" sizes="(max-width: 658px) 100vw, 658px" />][2]
+[<img class="alignleft wp-image-47502 size-full" src="http://tableless.com.br/uploads/2015/03/custom-event1-658x415.jpg" alt="relatório de eventos" width="658" height="415" srcset="uploads/2015/03/custom-event1-658x415.jpg 658w, uploads/2015/03/custom-event1-658x415-220x139.jpg 220w, uploads/2015/03/custom-event1-658x415-400x252.jpg 400w" sizes="(max-width: 658px) 100vw, 658px" />][2]
 
 ## 
 
@@ -84,4 +84,4 @@ São incontáveis os ganhos, principalmente no âmbito da análise ao monitorar
 <a title="Configuração avançada - acompanhamento da Web " href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced?hl=pt-br" target="_blank">Configuração avançada &#8211; acompanhamento da Web </a>
 
  [1]: http://google.com/analytics
- [2]: http://tableless.com.br/wp-content/uploads/2015/03/custom-event1-658x415.jpg
+ [2]: http://tableless.com.br/uploads/2015/03/custom-event1-658x415.jpg

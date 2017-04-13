@@ -40,11 +40,11 @@ Eu quero dar um exemplo claro usando ainda o Material Design do Google. Se você
 
 No Material Design existem três tipos de botões: o floating button, raised button e o flat button. No início parece que não é necessário ter tantos tipos de botões, mas se você pensar direito, há diversos cenários diferentes no ambiente mobile e também no desktop. Cada cenário tem um contexto diferente e que exige uma atenção maior ou menor para as ações.
   
-<img src="http://tableless.com.br/wp-content/uploads/2014/12/material-design.png" alt="material-design" width="928" height="799" class="alignnone size-full wp-image-46185" srcset="uploads/2014/12/material-design.png 928w, uploads/2014/12/material-design-161x139.png 161w, uploads/2014/12/material-design-400x344.png 400w" sizes="(max-width: 928px) 100vw, 928px" />
+<img src="http://tableless.com.br/uploads/2014/12/material-design.png" alt="material-design" width="928" height="799" class="alignnone size-full wp-image-46185" srcset="uploads/2014/12/material-design.png 928w, uploads/2014/12/material-design-161x139.png 161w, uploads/2014/12/material-design-400x344.png 400w" sizes="(max-width: 928px) 100vw, 928px" />
 
 Eles também tomaram cuidado para indicar a frequência de uso de cada tipo de botão, além dos lugares específicos onde cada tipo de botão é usado. Entenda que há ciência nisso aí! Se há um padrão, há organização. Se há organização o cérebro do usuário entende melhor as regras de uso, as restrições etc etc.
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/12/material-buttons.png" alt="material-buttons" width="1400" height="736" class="alignnone size-full wp-image-46186" srcset="uploads/2014/12/material-buttons.png 1400w, uploads/2014/12/material-buttons-265x139.png 265w, uploads/2014/12/material-buttons-400x210.png 400w" sizes="(max-width: 1400px) 100vw, 1400px" />
+<img src="http://tableless.com.br/uploads/2014/12/material-buttons.png" alt="material-buttons" width="1400" height="736" class="alignnone size-full wp-image-46186" srcset="uploads/2014/12/material-buttons.png 1400w, uploads/2014/12/material-buttons-265x139.png 265w, uploads/2014/12/material-buttons-400x210.png 400w" sizes="(max-width: 1400px) 100vw, 1400px" />
 
 A quantidade de elementos de um mesmo tipo também não será problema, já que há restrições de uso. Claro que você não vai adotar uma coleção de 10 botões… Nesse caso inteligência e bom senso precisam ser uma qualidade na sua equipe.
 

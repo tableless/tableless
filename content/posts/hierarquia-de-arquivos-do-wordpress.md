@@ -96,7 +96,7 @@ Abaixo segue a hierarquia de alguns arquivos. Você pode ver muito mais [detalhe
 
 Na documentação do WordPress há [um diagrama muito esclarecedor][3]:
   
-[<img src="http://tableless.com.br/wp-content/uploads/2009/04/template_hierarchy-300x238.png" alt="template_hierarchy" title="template_hierarchy" width="300" height="238" class="alignnone size-medium wp-image-1311" srcset="uploads/2009/04/template_hierarchy-300x238.png 300w, uploads/2009/04/template_hierarchy.png 880w" sizes="(max-width: 300px) 100vw, 300px" />][4]
+[<img src="http://tableless.com.br/uploads/2009/04/template_hierarchy-300x238.png" alt="template_hierarchy" title="template_hierarchy" width="300" height="238" class="alignnone size-medium wp-image-1311" srcset="uploads/2009/04/template_hierarchy-300x238.png 300w, uploads/2009/04/template_hierarchy.png 880w" sizes="(max-width: 300px) 100vw, 300px" />][4]
 
 Muitos desenvolvedores por aí, aconselham que você comece seu theme a partir de um já pronto. Eu já vou além e sugiro que você comece fazendo os arquivos à medida em que for precisando dos arquivos. Assim você **evita grandes quantidade de documentos inúteis** na pasta do seu template. Isso é muito importante caso você esteja fazendo um site, por exemplo. Quanto mais organizado e menor a quantidade de arquivos, melhor. Mesmo assim, não atole todas as funções no _index.php_. Divida cuidadosamente as seções do site para não haver confusão em apenas um arquivo.
 
@@ -107,6 +107,6 @@ No site do [WordPress][5] há outras muitas [informações importantes sobre a H
  [1]: http://codex.wordpress.org/Glossary#Query_string
  [2]: http://codex.wordpress.org/Template_Hierarchy "Hierarquia de arquivo do WordPress - Em inglês"
  [3]: http://codex.wordpress.org/images/1/18/Template_Hierarchy.png
- [4]: http://tableless.com.br/wp-content/uploads/2009/04/template_hierarchy.png
+ [4]: http://tableless.com.br/uploads/2009/04/template_hierarchy.png
  [5]: http://tableless.com.br/categoria/wordpress "Artigos sobre WordPress"
  [6]: http://codex.wordpress.org/Template_Hierarchy

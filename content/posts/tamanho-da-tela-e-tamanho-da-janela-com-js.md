@@ -26,15 +26,15 @@ Você pode usar as duas ocasiões para fazer mudanças no layout ou no funcionam
 
 Redimensionando a janela, os valores mudam e você conhece o tamanho da janela. Para que os valores da tela mudem, modifique a resolução do seu computador e faça um refresh na página. Perceba que aqui no Desktop, ele mostra a resolução que você colocou, que na verdade é uma emulação caso a tela tivesse uma quantidade de pontos por polegada menor do que ela realmente tem.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/02/desktop-width-height.png" alt="desktop-width-height" width="1188" height="762" class="alignnone size-full wp-image-46914" srcset="uploads/2015/02/desktop-width-height.png 1188w, uploads/2015/02/desktop-width-height-217x139.png 217w, uploads/2015/02/desktop-width-height-400x257.png 400w" sizes="(max-width: 1188px) 100vw, 1188px" />
+<img src="http://tableless.com.br/uploads/2015/02/desktop-width-height.png" alt="desktop-width-height" width="1188" height="762" class="alignnone size-full wp-image-46914" srcset="uploads/2015/02/desktop-width-height.png 1188w, uploads/2015/02/desktop-width-height-217x139.png 217w, uploads/2015/02/desktop-width-height-400x257.png 400w" sizes="(max-width: 1188px) 100vw, 1188px" />
 
 Mas até aqui estamos testando isso em um Desktop. Quando testamos isso em um iPhone, que tem densidade de pixels diferente de desktops e toda aquela história, ele vai mostrar o valor real de PPI, que é o valor original da tela do iPhone, sem contar com o valor dobrado da tela retina. Nesse caso, em um iPhone 6, ficaria mais ou menos como a imagem abaixo:
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/02/iphone-width-height.png" alt="iphone-width-height" width="675" height="1135" class="alignnone size-full wp-image-46912" srcset="uploads/2015/02/iphone-width-height.png 675w, uploads/2015/02/iphone-width-height-83x139.png 83w, uploads/2015/02/iphone-width-height-400x673.png 400w" sizes="(max-width: 675px) 100vw, 675px" />
+<img src="http://tableless.com.br/uploads/2015/02/iphone-width-height.png" alt="iphone-width-height" width="675" height="1135" class="alignnone size-full wp-image-46912" srcset="uploads/2015/02/iphone-width-height.png 675w, uploads/2015/02/iphone-width-height-83x139.png 83w, uploads/2015/02/iphone-width-height-400x673.png 400w" sizes="(max-width: 675px) 100vw, 675px" />
 
 E agora em um iPad Air:
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/02/ipad-width-height.png" alt="ipad-width-height" width="880" height="1158" class="alignnone size-full wp-image-46913" srcset="uploads/2015/02/ipad-width-height.png 880w, uploads/2015/02/ipad-width-height-106x139.png 106w, uploads/2015/02/ipad-width-height-400x526.png 400w" sizes="(max-width: 880px) 100vw, 880px" />
+<img src="http://tableless.com.br/uploads/2015/02/ipad-width-height.png" alt="ipad-width-height" width="880" height="1158" class="alignnone size-full wp-image-46913" srcset="uploads/2015/02/ipad-width-height.png 880w, uploads/2015/02/ipad-width-height-106x139.png 106w, uploads/2015/02/ipad-width-height-400x526.png 400w" sizes="(max-width: 880px) 100vw, 880px" />
 
 Como as janelas dos browsers em mobiles são sempre maximizadas, muito dificilmente elas serão muito menores que o tamanho da tela do aparelho.
 

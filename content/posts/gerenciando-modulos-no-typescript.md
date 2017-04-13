@@ -68,7 +68,7 @@ var a = new Aluno("Joãozinho","0001");
 
 Veja que o arquivo principal faz uma referência a classe `Aluno`, do arquivo `aluno.ts`. Com os três arquivos prontos, podemos usar o comando `tsc` para compilar tudo em um único arquivo. Este comando é executado a seguir.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/12/ts05.png" alt="ts05" width="819" height="580" class="aligncenter size-full wp-image-52470" />
+<img src="http://tableless.com.br/uploads/2015/12/ts05.png" alt="ts05" width="819" height="580" class="aligncenter size-full wp-image-52470" />
 
 Nesta imagem usamos o comando `tree` do DOS apenas para mostrar que o arquivo `script.js` foi criado. O principal comando é o:
 
@@ -193,7 +193,7 @@ var a = new ensino.Aluno("Joãozinho", "0001");
 
 Geralmente a organização de módulos é feita em diretórios, para que todos os arquivos não fiquem em somente um único diretório. No caso anterior, poderíamos (na verdade deveríamos) criar os diretórios `src/comum` e `src/ensino` e reorganizar as classes de acordo com a imagem a seguir.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/12/ts06.png" alt="ts06" width="186" height="256" class="aligncenter size-full wp-image-52476" />
+<img src="http://tableless.com.br/uploads/2015/12/ts06.png" alt="ts06" width="186" height="256" class="aligncenter size-full wp-image-52476" />
 
 A única mudança que precisamos realizar no código é no `reference`, que deverá ser:
 
@@ -217,7 +217,7 @@ ao invés de carregar tudo de uma vez, vamos carregando os arquivos javascript n
 
 Crie uma nova pasta e copie os arquivos Pessoa.ts, Aluno.ts e index.ts com a mesma estrutura anterior. Ao invés de criarmos o diretório &#8220;build&#8221;, crie o diretório &#8220;public&#8221;, conforme a imagem a seguir.
 
- <img src="http://tableless.com.br/wp-content/uploads/2015/12/ts07.png" alt="ts07" width="181" height="292" class="aligncenter size-full wp-image-52478" />
+ <img src="http://tableless.com.br/uploads/2015/12/ts07.png" alt="ts07" width="181" height="292" class="aligncenter size-full wp-image-52478" />
 
 ### Redefinido as classes
 
@@ -320,7 +320,7 @@ var a = new Aluno("Joãozinho","0001");
 
 Veja que o arquivo principal faz uma referência a classe `Aluno`, do arquivo `aluno.ts`. Com os três arquivos prontos, podemos usar o comando `tsc` para compilar tudo em um único arquivo. Este comando é executado a seguir.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/12/ts05.png" alt="ts05" width="819" height="580" class="aligncenter size-full wp-image-52470" />
+<img src="http://tableless.com.br/uploads/2015/12/ts05.png" alt="ts05" width="819" height="580" class="aligncenter size-full wp-image-52470" />
 
 Nesta imagem usamos o comando `tree` do DOS apenas para mostrar que o arquivo `script.js` foi criado. O principal comando é o:
 
@@ -445,7 +445,7 @@ var a = new ensino.Aluno("Joãozinho", "0001");
 
 Geralmente a organização de módulos é feita em diretórios, para que todos os arquivos não fiquem em somente um único diretório. No caso anterior, poderíamos (na verdade deveríamos) criar os diretórios `src/comum` e `src/ensino` e reorganizar as classes de acordo com a imagem a seguir.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/12/ts06.png" alt="ts06" width="186" height="256" class="aligncenter size-full wp-image-52476" />
+<img src="http://tableless.com.br/uploads/2015/12/ts06.png" alt="ts06" width="186" height="256" class="aligncenter size-full wp-image-52476" />
 
 A única mudança que precisamos realizar no código é no `reference`, que deverá ser:
 
@@ -469,7 +469,7 @@ ao invés de carregar tudo de uma vez, vamos carregando os arquivos javascript n
 
 Crie uma nova pasta e copie os arquivos Pessoa.ts, Aluno.ts e index.ts com a mesma estrutura anterior. Ao invés de criarmos o diretório &#8220;build&#8221;, crie o diretório &#8220;public&#8221;, conforme a imagem a seguir.
 
- <img src="http://tableless.com.br/wp-content/uploads/2015/12/ts07.png" alt="ts07" width="181" height="292" class="aligncenter size-full wp-image-52478" />
+ <img src="http://tableless.com.br/uploads/2015/12/ts07.png" alt="ts07" width="181" height="292" class="aligncenter size-full wp-image-52478" />
 
 ### Redefinido as classes
 
@@ -550,13 +550,13 @@ Aliás este arquivo ainda não foi criado, já que não executamos o comando `ts
 
 Neste comando indicamos como primeiro parâmetro `./src/index.ts` o arquivo inicial no qual será compilado. O parâmetro `--outDir ./public/js/` indica o diretório de saída da compilação, neste caso será o diretório `public/js`, o mesmo onde se encontra o arquivo require.js. O terceiro parâmetro `--module "amd"` indica a forma como o tsc vai compilar os arquivos, onde AMD significa `Asynchronous Module Definition`. Após executar este comando, os arquivos jsvascript serão criados na pasta `public/js` conforme a imagem a seguir.
 
-<img src="http://tableless.com.br/wp-content/uploads/2015/12/ts08.png" alt="ts08" width="1171" height="580" class="aligncenter size-full wp-image-52480" />
+<img src="http://tableless.com.br/uploads/2015/12/ts08.png" alt="ts08" width="1171" height="580" class="aligncenter size-full wp-image-52480" />
 
 ### Executando no navegador
 
 Chegou o momento de testar o carregamento dinâmico das classes javascript, e para isso você precisa usar um servidor web. Se você possui um servidor web como o apache, basta copiar a pasta `public` para o diretório web e testá-la. Caso negativo, podemos usar o **live-server** que é facilmente instalado através do node: `npm i live-server /g`. Após instalar, acesse o diretório public pela linha de comando e digite o comando `live-server`. O navegador será aberto automaticamente e o arquivo `index.html` será carregado.
 
-Você verá a mensagem _Olá mundo_, mas o que estamos interessados é no carregamento dos arquivos javascript da aplicação. Para isso, se estiver no Chrome, tecle F12, navegue até a aba Networking e recarregue a aplicação com F5. Você obterá um resultado semelhante a figura a seguir. <img src="http://tableless.com.br/wp-content/uploads/2015/12/ts09.png" alt="ts09" width="960" height="677" class="aligncenter size-full wp-image-52481" />
+Você verá a mensagem _Olá mundo_, mas o que estamos interessados é no carregamento dos arquivos javascript da aplicação. Para isso, se estiver no Chrome, tecle F12, navegue até a aba Networking e recarregue a aplicação com F5. Você obterá um resultado semelhante a figura a seguir. <img src="http://tableless.com.br/uploads/2015/12/ts09.png" alt="ts09" width="960" height="677" class="aligncenter size-full wp-image-52481" />
 
 ## Conclusão
 

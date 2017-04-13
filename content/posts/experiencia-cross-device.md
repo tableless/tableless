@@ -34,7 +34,7 @@ Eu vivo comentando aqui no Tableless sobre o desenvolvimento de sistemas e websi
 
 O artigo do [Scott Jenson][5] começa dizendo que a popularização dos smartphones são apenas o começo. Juntando o barateamento das peças para a produção destes aparelhos com a criação sistemas de baixo custo e acessíveis como o Android, não só estão surgindo dispositivos baratos capazes de fazer tarefas que antes eram possíveis apenas em computadores, mas dispositivos baratos baseados na web, trazendo uma experiência cross-device nunca antes experimentada. Um exemplo disso é quando utilizamos estes dispositivos integrados com aplicações como o sistema de som [Sonos][6]. O Scott Jenson chamada de Zombie Apocalypse dos eletrônicos.
 
-[<img src="http://tableless.com.br/wp-content/uploads/2011/12/twitter-original-homepage-300x209.png" alt="" title="twitter-original-homepage" width="300" height="209" class="alignleft size-medium wp-image-4951" srcset="uploads/2011/12/twitter-original-homepage-300x209.png 300w, uploads/2011/12/twitter-original-homepage.png 1022w" sizes="(max-width: 300px) 100vw, 300px" />][7]
+[<img src="http://tableless.com.br/uploads/2011/12/twitter-original-homepage-300x209.png" alt="" title="twitter-original-homepage" width="300" height="209" class="alignleft size-medium wp-image-4951" srcset="uploads/2011/12/twitter-original-homepage-300x209.png 300w, uploads/2011/12/twitter-original-homepage.png 1022w" sizes="(max-width: 300px) 100vw, 300px" />][7]
   
 O paradigma dos computadores desktops estão nos impedindo de enxergar novos caminhos não tão longes assim. Isso é totalmente evidente quando falamos sobre smartphones, no qual nós sabemos que não são computadores desktops e tão somente por isso nós temos outras experiências e outras abordargens quando estamos usando aparelhos deste tipo. Perceba que diversos serviços e aplicações estão sendo portados para os dispositivos móveis porque fazem mais sentido nesse meio. O Twitter mesmo foi criado inicialmente para publicações vindas apenas pelos smartphones. Foi um processo reverso.
 
@@ -66,5 +66,5 @@ Entende o que é a experiência do usuário nesse cenário?
  [4]: http://designmind.frogdesign.com/blog/the-coming-zombie-apocalypse-small-cheap-devices-will-disrupt-our-old-school-ux-assumptions.htm
  [5]: http://twitter.com/scottjenson
  [6]: http://www.sonos.com/
- [7]: http://tableless.com.br/wp-content/uploads/2011/12/twitter-original-homepage.png
+ [7]: http://tableless.com.br/uploads/2011/12/twitter-original-homepage.png
  [8]: http://www.youtube.com/watch?v=7Dv670PwVLM

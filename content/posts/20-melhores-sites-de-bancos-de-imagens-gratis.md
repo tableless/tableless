@@ -19,11 +19,11 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 
 # 2. Negative Space
 
-[<img style="max-width: 600px;" src="http://tableless.com.br/wp-content/uploads/2015/10/lucho-65.jpg" />][3]
+[<img style="max-width: 600px;" src="http://tableless.com.br/uploads/2015/10/lucho-65.jpg" />][3]
 
 # 3. Death to Stock
 
-[<img style="max-width: 600px;" src="http://deathtothestockphoto.com/wp-content/uploads/Death_to_stock_photography_Vibrant-10-of-10.jpg" />][4]
+[<img style="max-width: 600px;" src="http://deathtothestockphoto.com/uploads/Death_to_stock_photography_Vibrant-10-of-10.jpg" />][4]
 
 # 4. FancyCrave
 
@@ -39,7 +39,7 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 
 # 7. Lock & Sotck
 
-[<img style="max-width: 600px;" src="http://i0.wp.com/lockandstockphotos.com/wp-content/uploads/2015/09/IMG_1834.jpg?resize=656%2C438" />][8]
+[<img style="max-width: 600px;" src="http://i0.wp.com/lockandstockphotos.com/uploads/2015/09/IMG_1834.jpg?resize=656%2C438" />][8]
 
 # 8. Startup Stock Photos
 
@@ -83,11 +83,11 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 
 # 18. Foodiesfeed
 
-[<img style="max-width: 600px;" src="http://tableless.com.br/wp-content/uploads/2015/10/foodiesfeed.jpg" />][19]
+[<img style="max-width: 600px;" src="http://tableless.com.br/uploads/2015/10/foodiesfeed.jpg" />][19]
 
 # 19. Jeshoots
 
-[<img style="max-width: 600px;" src="http://jeshoots.com/wp-content/uploads/2015/10/IMG_2603b-773x515.jpg" />][20]
+[<img style="max-width: 600px;" src="http://jeshoots.com/uploads/2015/10/IMG_2603b-773x515.jpg" />][20]
 
 # 20. UHDWallpapers
 
@@ -95,7 +95,7 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 
 # 21. PixaBay
 
-[<img style="max-width: 600px;" src="http://tableless.com.br/wp-content/uploads/2015/10/pixabay.jpg" />][22]
+[<img style="max-width: 600px;" src="http://tableless.com.br/uploads/2015/10/pixabay.jpg" />][22]
 
  [1]: https://unsplash.com
  [2]: http://unsplash.com/

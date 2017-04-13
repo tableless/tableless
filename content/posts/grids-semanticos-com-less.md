@@ -47,11 +47,11 @@ O primeiro passo, obviamente, é criar o grid no seu editor de imagens favoritos
 
 Então vamos considerar uma estrutura basica bem simples. Header, um bloco de conteúdo, sidebar e footer em um wrap de 960 pixes de largura.
 
-<img class="alignnone size-full wp-image-13192" alt="grid-exemplo-layout" src="http://tableless.com.br/wp-content/uploads/2013/03/layout.jpg" width="580" height="407" srcset="uploads/2013/03/layout.jpg 580w, uploads/2013/03/layout-239x168.jpg 239w, uploads/2013/03/layout-441x310.jpg 441w" sizes="(max-width: 580px) 100vw, 580px" />
+<img class="alignnone size-full wp-image-13192" alt="grid-exemplo-layout" src="http://tableless.com.br/uploads/2013/03/layout.jpg" width="580" height="407" srcset="uploads/2013/03/layout.jpg 580w, uploads/2013/03/layout-239x168.jpg 239w, uploads/2013/03/layout-441x310.jpg 441w" sizes="(max-width: 580px) 100vw, 580px" />
 
 Para criar este layout eu utilizei um grid de 12 colunas com 60 pixels de largura. Okay. Layout feito. Hora de desenvolver.
 
-<img class="alignnone size-full wp-image-13191" alt="grid-exemplo-colunas" src="http://tableless.com.br/wp-content/uploads/2013/03/grid.jpg" width="580" height="407" srcset="uploads/2013/03/grid.jpg 580w, uploads/2013/03/grid-239x168.jpg 239w, uploads/2013/03/grid-441x310.jpg 441w" sizes="(max-width: 580px) 100vw, 580px" />
+<img class="alignnone size-full wp-image-13191" alt="grid-exemplo-colunas" src="http://tableless.com.br/uploads/2013/03/grid.jpg" width="580" height="407" srcset="uploads/2013/03/grid.jpg 580w, uploads/2013/03/grid-239x168.jpg 239w, uploads/2013/03/grid-441x310.jpg 441w" sizes="(max-width: 580px) 100vw, 580px" />
 
 ## Construindo o Grid
 
@@ -237,6 +237,6 @@ E vocês? Utilizam algum sistema de grid? Quais são as vantagens e desvantagens
  [7]: http://tableless.com.br/css-dinamico-com-less/ "CSS dinâmico com LESS"
  [8]: http://guideguide.me/ "GuideGuide"
  [9]: http://gridcalculator.dk/ "Grid Calculator"
- [10]: http://tableless.com.br/wp-content/uploads/2013/03/grid.zip
+ [10]: http://tableless.com.br/uploads/2013/03/grid.zip
  [11]: https://raw.github.com/cloudhead/less.js/master/dist/less-1.3.3.min.js "LESS"
  [12]: https://github.com/twigkit/semantic.gs/ "Semantic.gs no GitHub"

@@ -34,25 +34,25 @@ Basicamente podemos classificar as cores através de alguns aspectos. São eles&
 
 Grau que um estimulo de cor pode ser descrito como parecido ou diferente de outro. Confuso, né? Pense na matiz como a personalidade da cor. As matizes são mais ou menos análogas aos nomes que damos para as tonalidades diferentes de cores. É pela matiz que você diferencia o azul do vermelho e do verde, por exemplo. Mas pense na cor pura, sem adição de preto ou branco. Azul marinho ou azul pastel são a mesma matiz: azul.
 
-<img class="alignnone size-full wp-image-39010" alt="matiz" src="http://tableless.com.br/wp-content/uploads/2013/09/matiz.jpg" width="660" height="400" srcset="uploads/2013/09/matiz.jpg 660w, uploads/2013/09/matiz-277x168.jpg 277w, uploads/2013/09/matiz-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39010" alt="matiz" src="http://tableless.com.br/uploads/2013/09/matiz.jpg" width="660" height="400" srcset="uploads/2013/09/matiz.jpg 660w, uploads/2013/09/matiz-277x168.jpg 277w, uploads/2013/09/matiz-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Saturação
 
 A saturação é a intensidade da cor. Imagens com alta saturação são mais vivas e vibrantes. Já imagens com baixa saturação são mais neutras e mudas, mais próximas do cinza. Se você reduzir toda a saturação de uma imagem no monitor ela vai ficar somente em tons de cinza.
 
-<img class="alignnone size-full wp-image-39012" alt="saturacao" src="http://tableless.com.br/wp-content/uploads/2013/09/saturacao.jpg" width="660" height="400" srcset="uploads/2013/09/saturacao.jpg 660w, uploads/2013/09/saturacao-277x168.jpg 277w, uploads/2013/09/saturacao-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39012" alt="saturacao" src="http://tableless.com.br/uploads/2013/09/saturacao.jpg" width="660" height="400" srcset="uploads/2013/09/saturacao.jpg 660w, uploads/2013/09/saturacao-277x168.jpg 277w, uploads/2013/09/saturacao-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Luminosidade
 
 A luminosidade é a escala de claridade. Esta propriedade está ligada a percepção de brilho. Quanto maior a luminosidade de uma cor mais próxima ela estará do branco e quanto menor a luminosidade mais próxima ela estará do preto.
 
-<img class="alignnone size-full wp-image-39009" alt="luminosidade" src="http://tableless.com.br/wp-content/uploads/2013/09/luminosidade.jpg" width="660" height="400" srcset="uploads/2013/09/luminosidade.jpg 660w, uploads/2013/09/luminosidade-277x168.jpg 277w, uploads/2013/09/luminosidade-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39009" alt="luminosidade" src="http://tableless.com.br/uploads/2013/09/luminosidade.jpg" width="660" height="400" srcset="uploads/2013/09/luminosidade.jpg 660w, uploads/2013/09/luminosidade-277x168.jpg 277w, uploads/2013/09/luminosidade-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 # Contraste
 
 Em linhas gerais contraste é uma relação de oposição ou distinção entre dois objetos. Ou seja: coisas que são diferentes umas das outras. Em teoria da cores isto pode significar uma diferença em relação a matiz, saturação e / ou luminosidade. Viu por que era importante entender os outros conceitos? Quanto mais alto o contraste mais diferentes são as cores e portanto mais fácil de serem distinguidas, quanto mais baixo mais próximas elas são e mais difícil é esta tarefa.
 
-<img class="alignnone size-full wp-image-39004" alt="contraste3" src="http://tableless.com.br/wp-content/uploads/2013/09/contraste3.jpg" width="660" height="400" srcset="uploads/2013/09/contraste3.jpg 660w, uploads/2013/09/contraste3-277x168.jpg 277w, uploads/2013/09/contraste3-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39004" alt="contraste3" src="http://tableless.com.br/uploads/2013/09/contraste3.jpg" width="660" height="400" srcset="uploads/2013/09/contraste3.jpg 660w, uploads/2013/09/contraste3-277x168.jpg 277w, uploads/2013/09/contraste3-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Uma questão de percepção
 
@@ -62,7 +62,7 @@ A percepção de contraste varia de pessoa para pessoa e pode piorar com fatores
 
 Mas não basta ser simplesmente diferente para ser bom. Você já sabe intuitivamente que algumas combinações de cores são esquisitas. Um texto magenta em um fundo verde limão, por exemplo, é bem difícil de ler. Em termos práticos, principalmente quando estamos falando de fundos para texto, contraste entre luminosidade diferentes são mais confortáveis para a visão. Por isto que é ótimo ler textos pretos em um fundo branco. Ou vice-versa. Evite cores de luminosidade semelhante, mesmo que elas possuam matizes diferentes.
 
-<img class="alignnone size-full wp-image-39002" alt="contraste1" src="http://tableless.com.br/wp-content/uploads/2013/09/contraste1.jpg" width="660" height="400" srcset="uploads/2013/09/contraste1.jpg 660w, uploads/2013/09/contraste1-277x168.jpg 277w, uploads/2013/09/contraste1-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39002" alt="contraste1" src="http://tableless.com.br/uploads/2013/09/contraste1.jpg" width="660" height="400" srcset="uploads/2013/09/contraste1.jpg 660w, uploads/2013/09/contraste1-277x168.jpg 277w, uploads/2013/09/contraste1-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Quer um bom teste prático? Se o texto estiver vibrando (dando a impressão de estar pulsando) significa que é péssimo para a leitura!
 
@@ -102,27 +102,27 @@ Antes de sair apontando o dedo que o layout do amiguinho está com baixo contras
 
 Bem, um mano chamado Goethe achou que seria interessante organizar esta zona. Em 1810 ele dividiu as cores do espectro visível (aquelas do arco-íris que a gente aprende na escola) em um circulo cromático, ou, para os íntimos, roda das cores. Quanto mais longe uma cor estiver no círculo, maior o contraste.
 
-<img class="alignnone size-full wp-image-39008" alt="goethe" src="http://tableless.com.br/wp-content/uploads/2013/09/goethe.jpg" width="660" height="400" srcset="uploads/2013/09/goethe.jpg 660w, uploads/2013/09/goethe-277x168.jpg 277w, uploads/2013/09/goethe-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39008" alt="goethe" src="http://tableless.com.br/uploads/2013/09/goethe.jpg" width="660" height="400" srcset="uploads/2013/09/goethe.jpg 660w, uploads/2013/09/goethe-277x168.jpg 277w, uploads/2013/09/goethe-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Este círculo cromático foi a base de diversos sistemas de cores. De métodos artísticos para mistura de cores até esquemas voltados para a computação gráfica. O RGB e o CMYK possuem os seus próprios círculos cromáticos.
 
-<img class="alignnone size-full wp-image-39011" alt="rgb" src="http://tableless.com.br/wp-content/uploads/2013/09/rgb.jpg" width="660" height="400" srcset="uploads/2013/09/rgb.jpg 660w, uploads/2013/09/rgb-277x168.jpg 277w, uploads/2013/09/rgb-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39011" alt="rgb" src="http://tableless.com.br/uploads/2013/09/rgb.jpg" width="660" height="400" srcset="uploads/2013/09/rgb.jpg 660w, uploads/2013/09/rgb-277x168.jpg 277w, uploads/2013/09/rgb-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Complementares
 
 Cores complementares são as cores opostas no circulo cromático. Como o contraste é super alto elas são bem uteis para chamar atenção. Isto pode, dependendo da situação, até salvar a vida de uma pessoa. Boias e botes salva-vidas, por exemplo, são laranjas para contrastar com o azul do mar. E azul e laranja são &#8211; você já adivinhou &#8211; cores complementares! Este tipo de contraste é ótimo para ressaltar elementos em imagens e layouts.
 
-<img class="alignnone size-full wp-image-39001" alt="complementares" src="http://tableless.com.br/wp-content/uploads/2013/09/complementares.jpg" width="660" height="400" srcset="uploads/2013/09/complementares.jpg 660w, uploads/2013/09/complementares-277x168.jpg 277w, uploads/2013/09/complementares-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39001" alt="complementares" src="http://tableless.com.br/uploads/2013/09/complementares.jpg" width="660" height="400" srcset="uploads/2013/09/complementares.jpg 660w, uploads/2013/09/complementares-277x168.jpg 277w, uploads/2013/09/complementares-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Mas tome cuidado! A tendência é que cores complementares produzam vibrância e ressaltarem a luminosidade uma da outra quando próximas. Ou seja, contraste deste tipo são péssimos para textos. Quando combinados com matizes com luminosidade alta o efeito é desastroso. Lembra-se do texto rosa no fundo verde? Pois é. São cores complementares no circulo RGB.
 
-<img class="alignnone size-full wp-image-39003" alt="contraste2" src="http://tableless.com.br/wp-content/uploads/2013/09/contraste2.jpg" width="660" height="400" srcset="uploads/2013/09/contraste2.jpg 660w, uploads/2013/09/contraste2-277x168.jpg 277w, uploads/2013/09/contraste2-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39003" alt="contraste2" src="http://tableless.com.br/uploads/2013/09/contraste2.jpg" width="660" height="400" srcset="uploads/2013/09/contraste2.jpg 660w, uploads/2013/09/contraste2-277x168.jpg 277w, uploads/2013/09/contraste2-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Análogas
 
 São as cores vizinhas no circulo. Pelas matizes serem mais parecidas o contraste tende a ser mais baixo e a combinação mais harmoniosa.
 
-<img class="alignnone size-full wp-image-39000" alt="analogas" src="http://tableless.com.br/wp-content/uploads/2013/09/analogas.jpg" width="660" height="400" srcset="uploads/2013/09/analogas.jpg 660w, uploads/2013/09/analogas-277x168.jpg 277w, uploads/2013/09/analogas-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39000" alt="analogas" src="http://tableless.com.br/uploads/2013/09/analogas.jpg" width="660" height="400" srcset="uploads/2013/09/analogas.jpg 660w, uploads/2013/09/analogas-277x168.jpg 277w, uploads/2013/09/analogas-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 # Paletas funcionais
 
@@ -156,7 +156,7 @@ A função desta cor é transmitir textos relacionados a acertos. A mensagem foi
 
 Com uma ajudinha de um pré-processador você pode transformas estas matizes em variáveis e mixins. Desta forma reaproveitar o código fica muito mais fácil. Este é o segredo básico dos frameworks e dominando esta técnica você pode criar o seu próprio muito mais facilmente. E pensando nestas funções deste a fase de criação do layout o desenvolvimento se torna muito mais ágil.
 
-<img class="alignnone size-full wp-image-39005" alt="funcao1" src="http://tableless.com.br/wp-content/uploads/2013/09/funcao1.jpg" width="660" height="201" srcset="uploads/2013/09/funcao1.jpg 660w, uploads/2013/09/funcao1-329x100.jpg 329w, uploads/2013/09/funcao1-588x179.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39005" alt="funcao1" src="http://tableless.com.br/uploads/2013/09/funcao1.jpg" width="660" height="201" srcset="uploads/2013/09/funcao1.jpg 660w, uploads/2013/09/funcao1-329x100.jpg 329w, uploads/2013/09/funcao1-588x179.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Vejamos como ficaria a paleta apresentada acima em CSS + LESS. Primeiro definimos as variaveis:
 
@@ -178,7 +178,7 @@ a {
 color: @principal;
 }</pre>
 
-<img class="alignnone size-full wp-image-39015" alt="funcao-exemplo" src="http://tableless.com.br/wp-content/uploads/2013/09/funcao-exemplo.jpg" width="660" height="201" srcset="uploads/2013/09/funcao-exemplo.jpg 660w, uploads/2013/09/funcao-exemplo-329x100.jpg 329w, uploads/2013/09/funcao-exemplo-588x179.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39015" alt="funcao-exemplo" src="http://tableless.com.br/uploads/2013/09/funcao-exemplo.jpg" width="660" height="201" srcset="uploads/2013/09/funcao-exemplo.jpg 660w, uploads/2013/09/funcao-exemplo-329x100.jpg 329w, uploads/2013/09/funcao-exemplo-588x179.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Este é um pequeno exemplo do que pode ser feito utilizando cores funcionais e pré-processadores. Mas as possibilidades são infinitas. Podemos criar variações mantendo a matiz das cores e apenas modificando valores como matiz e saturação para criar efeitos interessantes. Podemos, por exemplo, escurecer em 20% a cor principal para um efeito de hover.
 
@@ -186,11 +186,11 @@ Este é um pequeno exemplo do que pode ser feito utilizando cores funcionais e p
 color: darken(@principal, 20%);
 }</pre>
 
-<img class="alignnone size-full wp-image-39007" alt="funcao3" src="http://tableless.com.br/wp-content/uploads/2013/09/funcao3.jpg" width="660" height="112" srcset="uploads/2013/09/funcao3.jpg 660w, uploads/2013/09/funcao3-329x55.jpg 329w, uploads/2013/09/funcao3-588x99.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39007" alt="funcao3" src="http://tableless.com.br/uploads/2013/09/funcao3.jpg" width="660" height="112" srcset="uploads/2013/09/funcao3.jpg 660w, uploads/2013/09/funcao3-329x55.jpg 329w, uploads/2013/09/funcao3-588x99.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 É possível criar variações bem interessantes apenas variando a cor e luminosidade.
 
-<img class="alignnone size-full wp-image-39006" alt="funcao2" src="http://tableless.com.br/wp-content/uploads/2013/09/funcao2.jpg" width="660" height="201" srcset="uploads/2013/09/funcao2.jpg 660w, uploads/2013/09/funcao2-329x100.jpg 329w, uploads/2013/09/funcao2-588x179.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-39006" alt="funcao2" src="http://tableless.com.br/uploads/2013/09/funcao2.jpg" width="660" height="201" srcset="uploads/2013/09/funcao2.jpg 660w, uploads/2013/09/funcao2-329x100.jpg 329w, uploads/2013/09/funcao2-588x179.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 É claro, se você não curte utilizar pré-processadores pode fazer este tipo de mistura na unha. Só é um pouquinho mais trabalhoso, mas no final você tem um layout super harmonioso. Experimente criar variações de saturação, mistura e combinação de cores para efeitos interessantes.
 
@@ -206,7 +206,7 @@ Uma caracteristica do flat design é o uso de poucos elementos como linhas, somb
 
 No [portfólio][4] da minha empresa eu utilizei o color blocking para separar os trabalhos de cada cliente na página inicial. Cada bloco deveria ser mais ou menos correspondente a matiz dominante do case apresentado, por isto criei uma boa quantidade de variações (24 matizes). Desta maneira o bloco sempre combina com a identidade visual de cada cliente.
 
-[<img class="alignnone size-full wp-image-39013" alt="paleta-exemplo" src="http://tableless.com.br/wp-content/uploads/2013/09/paleta-exemplo.jpg" width="660" height="527" srcset="uploads/2013/09/paleta-exemplo.jpg 660w, uploads/2013/09/paleta-exemplo-210x168.jpg 210w, uploads/2013/09/paleta-exemplo-388x310.jpg 388w" sizes="(max-width: 660px) 100vw, 660px" />][5]
+[<img class="alignnone size-full wp-image-39013" alt="paleta-exemplo" src="http://tableless.com.br/uploads/2013/09/paleta-exemplo.jpg" width="660" height="527" srcset="uploads/2013/09/paleta-exemplo.jpg 660w, uploads/2013/09/paleta-exemplo-210x168.jpg 210w, uploads/2013/09/paleta-exemplo-388x310.jpg 388w" sizes="(max-width: 660px) 100vw, 660px" />][5]
 
 Para evitar a junção de cores vibrantes eu intercalei blocos coloridos com neutros (brancos com texto preto e vice-versa). Na maior parte dos blocos os textos e botões ficaram nas cores brancas, mas para evitar problemas de contraste utilizei o cinza escuro para cores com alta luminosidade como no caso do amarelo.
 

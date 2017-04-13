@@ -27,7 +27,7 @@ Calma, muita calma. Não precisa ficar desesperado, nesse básico tutorial você
 
 ## O que é o Tinypress?
 
-[<img src="http://tableless.com.br/wp-content/uploads/2014/04/Captura-de-Tela-2014-04-23-às-20.51.26.png" alt="Tinypress Github Blog" width="682" height="258" class="aligncenter size-full wp-image-42246" srcset="uploads/2014/04/Captura-de-Tela-2014-04-23-às-20.51.26.png 682w, uploads/2014/04/Captura-de-Tela-2014-04-23-às-20.51.26-400x151.png 400w" sizes="(max-width: 682px) 100vw, 682px" />][4]
+[<img src="http://tableless.com.br/uploads/2014/04/Captura-de-Tela-2014-04-23-às-20.51.26.png" alt="Tinypress Github Blog" width="682" height="258" class="aligncenter size-full wp-image-42246" srcset="uploads/2014/04/Captura-de-Tela-2014-04-23-às-20.51.26.png 682w, uploads/2014/04/Captura-de-Tela-2014-04-23-às-20.51.26-400x151.png 400w" sizes="(max-width: 682px) 100vw, 682px" />][4]
 
 Antes de tudo eu já aviso: Ele cria um blog estático. Ok, pra alguns isso não seria novidade nenhuma, mas para quem não sabe o que é: Blog estático é basicamente páginas HTML ou Markdown (nesse caso) serem geradas em forma de post. Sim, não existe conexão com um banco de dados para puxar informações, é tudo estático, tá tudo ali, tudo escrito em documento já pronto. O que o tinypress faz é puxar essas páginas e exibir elas em forma de post. Mais ou menos como funciona o Middleman ou o Jekyll, para quem já se aventurou por estas bandas.
 
@@ -41,11 +41,11 @@ O tinypress funciona basicamente assim:
 
 ## Interface e como postar
 
-[<img src="http://tableless.com.br/wp-content/uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.12.44.png" alt="Tinypress Interface" width="728" height="254" class="aligncenter size-full wp-image-42248" srcset="uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.12.44.png 728w, uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.12.44-400x139.png 400w" sizes="(max-width: 728px) 100vw, 728px" />][5]
+[<img src="http://tableless.com.br/uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.12.44.png" alt="Tinypress Interface" width="728" height="254" class="aligncenter size-full wp-image-42248" srcset="uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.12.44.png 728w, uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.12.44-400x139.png 400w" sizes="(max-width: 728px) 100vw, 728px" />][5]
 
 A interface é básica, porém, é tudo que você precisa para escrever um texto, artigo ou qualquer coisa para um blog. Sim, quando eu digo básico, é **bem** básico mesmo, hehe. Mas existem coisas bacanas na publicação do post, tem como escolher as tags, categorias, url amigável entre outros. A é, também tem como você escolher o post como publicado ou apenas draft (rascunho).
 
-[<img src="http://tableless.com.br/wp-content/uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.21.01.png" alt="Tinypress advanced options" width="665" height="284" class="aligncenter size-full wp-image-42249" srcset="uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.21.01.png 665w, uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.21.01-400x170.png 400w" sizes="(max-width: 665px) 100vw, 665px" />][6] 
+[<img src="http://tableless.com.br/uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.21.01.png" alt="Tinypress advanced options" width="665" height="284" class="aligncenter size-full wp-image-42249" srcset="uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.21.01.png 665w, uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.21.01-400x170.png 400w" sizes="(max-width: 665px) 100vw, 665px" />][6] 
 
 Assim como as páginas no github, o Tinypress usa a linguagem Markdown para os posts. Caso você não saiba &#8220;escrever&#8221; em .markdown (.md) olhe sua syntax básica [aqui][7]. Relaxa, não é nada difícil, dá pra aprender rapidinho, até porquê você não vai usar nada avançado, por isso foque mais em aprender o uso de links, títulos, imagens e afins. Recomendo fortemente aprender essa linguagem não apenas para o blog, mas para te beneficiar ao escrever para alguns repositórios do github em outros projetos, visto que a linguagem usada é o markdown.
 
@@ -94,9 +94,9 @@ Abraços 🙂
  [1]: http://tableless.com.br/ghost-simples-e-perfeita-plataforma-para-publicacoes/
  [2]: https://tinypress.co/
  [3]: http://reidark.github.io/criando-paginas-no-github/
- [4]: http://tableless.com.br/wp-content/uploads/2014/04/Captura-de-Tela-2014-04-23-às-20.51.26.png
- [5]: http://tableless.com.br/wp-content/uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.12.44.png
- [6]: http://tableless.com.br/wp-content/uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.21.01.png
+ [4]: http://tableless.com.br/uploads/2014/04/Captura-de-Tela-2014-04-23-às-20.51.26.png
+ [5]: http://tableless.com.br/uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.12.44.png
+ [6]: http://tableless.com.br/uploads/2014/04/Captura-de-Tela-2014-04-23-às-21.21.01.png
  [7]: http://daringfireball.net/projects/markdown/syntax
  [8]: http://jekyllrb.com/docs/github-pages/
  [9]: https://github.com/reidark/reidark.github.io

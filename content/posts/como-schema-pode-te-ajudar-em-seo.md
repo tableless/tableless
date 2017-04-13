@@ -81,7 +81,7 @@ O Google disponibilizou um [artigo no suporte][2] com exemplos sobre o assunto e
 
 Você pode fazer o acompanhamento através do Google Web Master Tools no menu Otimização > Dados estruturados você terá as seguinte tela, onde terá todas as tag encontradas.
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/02/image00.jpg" alt="image00" class="alignnone size-full wp-image-8102" srcset="uploads/2013/02/image00.jpg 480w, uploads/2013/02/image00-329x113.jpg 329w" sizes="(max-width: 480px) 100vw, 480px" />
+<img src="http://tableless.com.br/uploads/2013/02/image00.jpg" alt="image00" class="alignnone size-full wp-image-8102" srcset="uploads/2013/02/image00.jpg 480w, uploads/2013/02/image00-329x113.jpg 329w" sizes="(max-width: 480px) 100vw, 480px" />
 
 É importante esse acompanhamento para identificar o que está dando resultado. O seu código organizado semânticamente não é um fator direto de melhor posicionamento, mas contribue muito para organizar as informações e fazendo as boas práticas de outras técnicas você pode ganhar bons resultados do Google
 
@@ -93,7 +93,7 @@ Os testes são importantes para alcançar um bom resultado. Lembrando que é imp
 
 Outra coisa importante a ser observado. Quando usar schema em suas páginas, os seus resultado na **SERP do Google** não terá uma melhora por causa do código, mas é algo que chama tanta atenção que praticamente pede o nosso clique. E quanto mais pessoas clicarem no mesmo resultado, haverá uma melhora no posicionamento. Então é um fator que influência decisões de pessoas e o clique dessas pessoas influência no Google.
 
-<img src="http://tableless.com.br/wp-content/uploads/2013/02/image01.jpg" alt="image01" width="533" height="93" class="alignnone size-full wp-image-8103" srcset="uploads/2013/02/image01.jpg 533w, uploads/2013/02/image01-329x57.jpg 329w" sizes="(max-width: 533px) 100vw, 533px" />
+<img src="http://tableless.com.br/uploads/2013/02/image01.jpg" alt="image01" width="533" height="93" class="alignnone size-full wp-image-8103" srcset="uploads/2013/02/image01.jpg 533w, uploads/2013/02/image01-329x57.jpg 329w" sizes="(max-width: 533px) 100vw, 533px" />
 
 Veja neste exemplo como é algo que chama atenção. Use isso ao seu favor!!
 

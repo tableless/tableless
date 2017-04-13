@@ -75,7 +75,7 @@ Você deve sempre usar os arquivos e pastas de resource para armazenar valores d
 
 A pasta **res/ **é a pasta do seu projeto que guarda todos os resources da sua aplicação:
 
-[<img class="aligncenter size-full wp-image-48069" src="http://tableless.com.br/wp-content/uploads/2015/04/Tree-do-Android-Studio.png" alt="Tree do Android Studio" width="408" height="648" />][1]
+[<img class="aligncenter size-full wp-image-48069" src="http://tableless.com.br/uploads/2015/04/Tree-do-Android-Studio.png" alt="Tree do Android Studio" width="408" height="648" />][1]
 
 Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Abaixo temos uma tabela retirada da <a href="http://developer.android.com/guide/topics/resources/providing-resources.html" target="_blank">documentação</a> do Android, com os nomes das pastas e os respectivos tipos de resource:
 
@@ -239,7 +239,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
         </p>
         
         <div id="attachment_48078" style="width: 429px" class="wp-caption aligncenter">
-          <a href="http://tableless.com.br/wp-content/uploads/2015/04/resource_devices_diagram2.png"><img class="wp-image-48078 size-full" src="http://tableless.com.br/wp-content/uploads/2015/04/resource_devices_diagram2.png" alt="resource_devices_diagram2" width="419" height="157" /></a>
+          <a href="http://tableless.com.br/uploads/2015/04/resource_devices_diagram2.png"><img class="wp-image-48078 size-full" src="http://tableless.com.br/uploads/2015/04/resource_devices_diagram2.png" alt="resource_devices_diagram2" width="419" height="157" /></a>
           
           <p class="wp-caption-text">
             Dois dispositivos diferentes, cada um utilizando um resource de layout diferente.
@@ -275,7 +275,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
         </p>
         
         <p>
-          <a href="http://tableless.com.br/wp-content/uploads/2015/04/New-Resource-Directory.png"><img class="aligncenter size-full wp-image-48074" src="http://tableless.com.br/wp-content/uploads/2015/04/New-Resource-Directory.png" alt="New Resource Directory" width="843" height="481" /></a>
+          <a href="http://tableless.com.br/uploads/2015/04/New-Resource-Directory.png"><img class="aligncenter size-full wp-image-48074" src="http://tableless.com.br/uploads/2015/04/New-Resource-Directory.png" alt="New Resource Directory" width="843" height="481" /></a>
         </p>
         
         <p>
@@ -287,7 +287,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
         </p>
         
         <p>
-          <a href="http://tableless.com.br/wp-content/uploads/2015/04/New-Resource-Directory-Final.png"><img class="aligncenter size-full wp-image-48077" src="http://tableless.com.br/wp-content/uploads/2015/04/New-Resource-Directory-Final.png" alt="New Resource Directory Final" width="810" height="375" /></a>
+          <a href="http://tableless.com.br/uploads/2015/04/New-Resource-Directory-Final.png"><img class="aligncenter size-full wp-image-48077" src="http://tableless.com.br/uploads/2015/04/New-Resource-Directory-Final.png" alt="New Resource Directory Final" width="810" height="375" /></a>
         </p>
         
         <p>
@@ -353,4 +353,4 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
           A organização das pastas de resources do Android é bem simples e intuitiva e nos permite tornar nossa aplicação compatível com todos os tipos de dispositivos do mercado. Sendo assim, não temos desculpas para desenvolver aplicações cada vez melhores! Abraços e até a próxima!
         </p>
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/04/Tree-do-Android-Studio.png
+ [1]: http://tableless.com.br/uploads/2015/04/Tree-do-Android-Studio.png

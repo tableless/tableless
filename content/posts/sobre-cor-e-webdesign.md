@@ -73,7 +73,7 @@ O RGB (Red, Green e Blue &#8211; ou Vermelho, Verde e Azul) é um sistema de cor
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-37585" alt="rgb" src="http://tableless.com.br/wp-content/uploads/2013/06/rgb.jpg" width="660" height="400" srcset="uploads/2013/06/rgb.jpg 660w, uploads/2013/06/rgb-277x168.jpg 277w, uploads/2013/06/rgb-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37585" alt="rgb" src="http://tableless.com.br/uploads/2013/06/rgb.jpg" width="660" height="400" srcset="uploads/2013/06/rgb.jpg 660w, uploads/2013/06/rgb-277x168.jpg 277w, uploads/2013/06/rgb-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 &nbsp;
 
@@ -111,21 +111,21 @@ Cada campo pode conter apenas um caractere. A função das letras é representar
 
 Cada par é responsável por uma cor aditiva do esquema RGB. Os primeiros 2 números controlam o vermelho, os 2 seguintes o verde e os dois últimos o azul. Ou seja #ff0000 é o vermelho mais claro, #00ff00 é o verde mais claro e #0000ff é o azul mais claro.
 
-<img class="alignnone size-full wp-image-37583" alt="hex-valor" src="http://tableless.com.br/wp-content/uploads/2013/06/hex-valor.jpg" width="660" height="200" srcset="uploads/2013/06/hex-valor.jpg 660w, uploads/2013/06/hex-valor-329x99.jpg 329w, uploads/2013/06/hex-valor-588x178.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37583" alt="hex-valor" src="http://tableless.com.br/uploads/2013/06/hex-valor.jpg" width="660" height="200" srcset="uploads/2013/06/hex-valor.jpg 660w, uploads/2013/06/hex-valor-329x99.jpg 329w, uploads/2013/06/hex-valor-588x178.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Como saber isto pode te ajudar? Simples, através deste mecanismo você pode fazer ajustes de cores no seu design diretamente do CSS de maneira prática e lógica. Você pode deixar uma matiz mais clara ou escura apenas alterando o valor dos pares numéricos.
 
-<img class="alignnone size-full wp-image-37582" alt="hex-luminosidade" src="http://tableless.com.br/wp-content/uploads/2013/06/hex-luminosidade.jpg" width="660" height="400" srcset="uploads/2013/06/hex-luminosidade.jpg 660w, uploads/2013/06/hex-luminosidade-277x168.jpg 277w, uploads/2013/06/hex-luminosidade-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37582" alt="hex-luminosidade" src="http://tableless.com.br/uploads/2013/06/hex-luminosidade.jpg" width="660" height="400" srcset="uploads/2013/06/hex-luminosidade.jpg 660w, uploads/2013/06/hex-luminosidade-277x168.jpg 277w, uploads/2013/06/hex-luminosidade-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Para esquentar uma cor basta aumentar a quantidade de vermelhos (primeiro par) e diminuir a quantidade de azul (último par). Para esfriar basta fazer o processo inverso.
 
-<img class="alignnone size-full wp-image-37581" alt="hex-colorimetria" src="http://tableless.com.br/wp-content/uploads/2013/06/hex-colorimetria.jpg" width="660" height="400" srcset="uploads/2013/06/hex-colorimetria.jpg 660w, uploads/2013/06/hex-colorimetria-277x168.jpg 277w, uploads/2013/06/hex-colorimetria-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37581" alt="hex-colorimetria" src="http://tableless.com.br/uploads/2013/06/hex-colorimetria.jpg" width="660" height="400" srcset="uploads/2013/06/hex-colorimetria.jpg 660w, uploads/2013/06/hex-colorimetria-277x168.jpg 277w, uploads/2013/06/hex-colorimetria-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### HSL
 
 A escala das cores tanto em RGB quanto em códigos HEX varia entre o eixo claro-escuro. Estes modelos deixam de lado outras maneiras mais intuitivas de classificação de cores como matiz e saturação. O HSL surgiu para preencher este vácuo. A idéia aqui é distribuir as cores não em um eixo vertical mas sim em um modelo de cilindro. As cores não são somadas ou subtraídas, mas sim distribuídas ao longo de um circulo cromático. Cada matiz representa um grau do cilindro entre 0 e 360.
 
-<img class="alignnone size-full wp-image-37584" alt="hsl" src="http://tableless.com.br/wp-content/uploads/2013/06/hsl.jpg" width="660" height="400" srcset="uploads/2013/06/hsl.jpg 660w, uploads/2013/06/hsl-277x168.jpg 277w, uploads/2013/06/hsl-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37584" alt="hsl" src="http://tableless.com.br/uploads/2013/06/hsl.jpg" width="660" height="400" srcset="uploads/2013/06/hsl.jpg 660w, uploads/2013/06/hsl-277x168.jpg 277w, uploads/2013/06/hsl-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 A sintaxe dele é da seguinte maneira:
   
@@ -169,25 +169,25 @@ Estima-se que 8% dos homens do mundo e 0.5% das mulheres sofre de algum tipo de 
 
 Na hora de criar um layout um designer sempre tem a mão sua própria paleta de cores. Mas quando é preciso utilizar as cores de outras empresas a coisa complica! Qual é exatamente o tom de azul do Facebook? E do Twitter? E o código hexadecimal do verde Android? A missão do [Brand Colors][9] é justamente servir como um catálogo de cores dos gigantes da internet. Além de ser útil para descobrir rapidamente as cores de marcas famosas, a ferramenta é um bom panorama de quais são os tons mais utilizados na rede.
 
-[<img class="alignnone size-full wp-image-37601" alt="brand-colors" src="http://tableless.com.br/wp-content/uploads/2013/06/brand-colors.jpg" width="660" height="400" srcset="uploads/2013/06/brand-colors.jpg 660w, uploads/2013/06/brand-colors-277x168.jpg 277w, uploads/2013/06/brand-colors-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][10]
+[<img class="alignnone size-full wp-image-37601" alt="brand-colors" src="http://tableless.com.br/uploads/2013/06/brand-colors.jpg" width="660" height="400" srcset="uploads/2013/06/brand-colors.jpg 660w, uploads/2013/06/brand-colors-277x168.jpg 277w, uploads/2013/06/brand-colors-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][10]
 
 ### Cores da Web
 
 Que tal ir um passo além da cor predominante e descobrir a paleta de cores completa de uma marca? Através do [Webcolour Data][11] você pode explorar as cores de qualquer site na internet. Basta inserir a URL e se inspirar no esquema de cores do seu site favorito. A ferramenta exibe resultados (e seus respectivos códigos HEX) em gráficos interessantes com base em porcentagem de uso, distribuição de tons, roda de cores e sites com paletas de cor semelhantes. O Webcolour Data também pode ser útil para realizar uma análise de design e verificar se as cores de um site estão consistentes com aquelas propostas na identidade visual.
 
-[<img class="alignnone size-full wp-image-37600" alt="web-colour-data" src="http://tableless.com.br/wp-content/uploads/2013/06/web-colour-data.jpg" width="660" height="400" srcset="uploads/2013/06/web-colour-data.jpg 660w, uploads/2013/06/web-colour-data-277x168.jpg 277w, uploads/2013/06/web-colour-data-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
+[<img class="alignnone size-full wp-image-37600" alt="web-colour-data" src="http://tableless.com.br/uploads/2013/06/web-colour-data.jpg" width="660" height="400" srcset="uploads/2013/06/web-colour-data.jpg 660w, uploads/2013/06/web-colour-data-277x168.jpg 277w, uploads/2013/06/web-colour-data-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
 
 ### Cores de Fotos
 
 O [Color Thief][13] tem uma proposta semelhante. Mas a idéia aqui é explorar paletas baseadas em fotos. Basta realizar um upload de imagens que a ferramenta captura o esquema de cores predominante.
 
-[<img class="alignnone size-full wp-image-37596" alt="color-thief" src="http://tableless.com.br/wp-content/uploads/2013/06/color-thief.jpg" width="660" height="400" srcset="uploads/2013/06/color-thief.jpg 660w, uploads/2013/06/color-thief-277x168.jpg 277w, uploads/2013/06/color-thief-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][14]
+[<img class="alignnone size-full wp-image-37596" alt="color-thief" src="http://tableless.com.br/uploads/2013/06/color-thief.jpg" width="660" height="400" srcset="uploads/2013/06/color-thief.jpg 660w, uploads/2013/06/color-thief-277x168.jpg 277w, uploads/2013/06/color-thief-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][14]
 
 ### Cores de Filmes
 
 O Tumblr [Movies In Color][15] pode ser uma grande fonte de inspiração para quem curte cinema. A idéia aqui é conhecer a paleta de cores utilizada na cinematografia de filmes como 2001 &#8211; Uma Odisséia no Espaço, O Fabuloso Destino de Amélie Poulain, Clube da Luta e Inception. Você pode navegar por imagens, títulos dos filmes ou nome do diretor de fotografia. Vale o clique!
 
-[<img class="alignnone size-full wp-image-37599" alt="movis-in-color" src="http://tableless.com.br/wp-content/uploads/2013/06/movis-in-color.jpg" width="660" height="400" srcset="uploads/2013/06/movis-in-color.jpg 660w, uploads/2013/06/movis-in-color-277x168.jpg 277w, uploads/2013/06/movis-in-color-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][16]
+[<img class="alignnone size-full wp-image-37599" alt="movis-in-color" src="http://tableless.com.br/uploads/2013/06/movis-in-color.jpg" width="660" height="400" srcset="uploads/2013/06/movis-in-color.jpg 660w, uploads/2013/06/movis-in-color-277x168.jpg 277w, uploads/2013/06/movis-in-color-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][16]
 
 ### Criando suas próprias paletas
 
@@ -245,7 +245,7 @@ O RGB (Red, Green e Blue &#8211; ou Vermelho, Verde e Azul) é um sistema de cor
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-37585" alt="rgb" src="http://tableless.com.br/wp-content/uploads/2013/06/rgb.jpg" width="660" height="400" srcset="uploads/2013/06/rgb.jpg 660w, uploads/2013/06/rgb-277x168.jpg 277w, uploads/2013/06/rgb-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37585" alt="rgb" src="http://tableless.com.br/uploads/2013/06/rgb.jpg" width="660" height="400" srcset="uploads/2013/06/rgb.jpg 660w, uploads/2013/06/rgb-277x168.jpg 277w, uploads/2013/06/rgb-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 &nbsp;
 
@@ -283,21 +283,21 @@ Cada campo pode conter apenas um caractere. A função das letras é representar
 
 Cada par é responsável por uma cor aditiva do esquema RGB. Os primeiros 2 números controlam o vermelho, os 2 seguintes o verde e os dois últimos o azul. Ou seja #ff0000 é o vermelho mais claro, #00ff00 é o verde mais claro e #0000ff é o azul mais claro.
 
-<img class="alignnone size-full wp-image-37583" alt="hex-valor" src="http://tableless.com.br/wp-content/uploads/2013/06/hex-valor.jpg" width="660" height="200" srcset="uploads/2013/06/hex-valor.jpg 660w, uploads/2013/06/hex-valor-329x99.jpg 329w, uploads/2013/06/hex-valor-588x178.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37583" alt="hex-valor" src="http://tableless.com.br/uploads/2013/06/hex-valor.jpg" width="660" height="200" srcset="uploads/2013/06/hex-valor.jpg 660w, uploads/2013/06/hex-valor-329x99.jpg 329w, uploads/2013/06/hex-valor-588x178.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Como saber isto pode te ajudar? Simples, através deste mecanismo você pode fazer ajustes de cores no seu design diretamente do CSS de maneira prática e lógica. Você pode deixar uma matiz mais clara ou escura apenas alterando o valor dos pares numéricos.
 
-<img class="alignnone size-full wp-image-37582" alt="hex-luminosidade" src="http://tableless.com.br/wp-content/uploads/2013/06/hex-luminosidade.jpg" width="660" height="400" srcset="uploads/2013/06/hex-luminosidade.jpg 660w, uploads/2013/06/hex-luminosidade-277x168.jpg 277w, uploads/2013/06/hex-luminosidade-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37582" alt="hex-luminosidade" src="http://tableless.com.br/uploads/2013/06/hex-luminosidade.jpg" width="660" height="400" srcset="uploads/2013/06/hex-luminosidade.jpg 660w, uploads/2013/06/hex-luminosidade-277x168.jpg 277w, uploads/2013/06/hex-luminosidade-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Para esquentar uma cor basta aumentar a quantidade de vermelhos (primeiro par) e diminuir a quantidade de azul (último par). Para esfriar basta fazer o processo inverso.
 
-<img class="alignnone size-full wp-image-37581" alt="hex-colorimetria" src="http://tableless.com.br/wp-content/uploads/2013/06/hex-colorimetria.jpg" width="660" height="400" srcset="uploads/2013/06/hex-colorimetria.jpg 660w, uploads/2013/06/hex-colorimetria-277x168.jpg 277w, uploads/2013/06/hex-colorimetria-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37581" alt="hex-colorimetria" src="http://tableless.com.br/uploads/2013/06/hex-colorimetria.jpg" width="660" height="400" srcset="uploads/2013/06/hex-colorimetria.jpg 660w, uploads/2013/06/hex-colorimetria-277x168.jpg 277w, uploads/2013/06/hex-colorimetria-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### HSL
 
 A escala das cores tanto em RGB quanto em códigos HEX varia entre o eixo claro-escuro. Estes modelos deixam de lado outras maneiras mais intuitivas de classificação de cores como matiz e saturação. O HSL surgiu para preencher este vácuo. A idéia aqui é distribuir as cores não em um eixo vertical mas sim em um modelo de cilindro. As cores não são somadas ou subtraídas, mas sim distribuídas ao longo de um circulo cromático. Cada matiz representa um grau do cilindro entre 0 e 360.
 
-<img class="alignnone size-full wp-image-37584" alt="hsl" src="http://tableless.com.br/wp-content/uploads/2013/06/hsl.jpg" width="660" height="400" srcset="uploads/2013/06/hsl.jpg 660w, uploads/2013/06/hsl-277x168.jpg 277w, uploads/2013/06/hsl-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37584" alt="hsl" src="http://tableless.com.br/uploads/2013/06/hsl.jpg" width="660" height="400" srcset="uploads/2013/06/hsl.jpg 660w, uploads/2013/06/hsl-277x168.jpg 277w, uploads/2013/06/hsl-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 A sintaxe dele é da seguinte maneira:
   
@@ -341,37 +341,37 @@ Estima-se que 8% dos homens do mundo e 0.5% das mulheres sofre de algum tipo de 
 
 Na hora de criar um layout um designer sempre tem a mão sua própria paleta de cores. Mas quando é preciso utilizar as cores de outras empresas a coisa complica! Qual é exatamente o tom de azul do Facebook? E do Twitter? E o código hexadecimal do verde Android? A missão do [Brand Colors][9] é justamente servir como um catálogo de cores dos gigantes da internet. Além de ser útil para descobrir rapidamente as cores de marcas famosas, a ferramenta é um bom panorama de quais são os tons mais utilizados na rede.
 
-[<img class="alignnone size-full wp-image-37601" alt="brand-colors" src="http://tableless.com.br/wp-content/uploads/2013/06/brand-colors.jpg" width="660" height="400" srcset="uploads/2013/06/brand-colors.jpg 660w, uploads/2013/06/brand-colors-277x168.jpg 277w, uploads/2013/06/brand-colors-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][10]
+[<img class="alignnone size-full wp-image-37601" alt="brand-colors" src="http://tableless.com.br/uploads/2013/06/brand-colors.jpg" width="660" height="400" srcset="uploads/2013/06/brand-colors.jpg 660w, uploads/2013/06/brand-colors-277x168.jpg 277w, uploads/2013/06/brand-colors-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][10]
 
 ### Cores da Web
 
 Que tal ir um passo além da cor predominante e descobrir a paleta de cores completa de uma marca? Através do [Webcolour Data][11] você pode explorar as cores de qualquer site na internet. Basta inserir a URL e se inspirar no esquema de cores do seu site favorito. A ferramenta exibe resultados (e seus respectivos códigos HEX) em gráficos interessantes com base em porcentagem de uso, distribuição de tons, roda de cores e sites com paletas de cor semelhantes. O Webcolour Data também pode ser útil para realizar uma análise de design e verificar se as cores de um site estão consistentes com aquelas propostas na identidade visual.
 
-[<img class="alignnone size-full wp-image-37600" alt="web-colour-data" src="http://tableless.com.br/wp-content/uploads/2013/06/web-colour-data.jpg" width="660" height="400" srcset="uploads/2013/06/web-colour-data.jpg 660w, uploads/2013/06/web-colour-data-277x168.jpg 277w, uploads/2013/06/web-colour-data-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
+[<img class="alignnone size-full wp-image-37600" alt="web-colour-data" src="http://tableless.com.br/uploads/2013/06/web-colour-data.jpg" width="660" height="400" srcset="uploads/2013/06/web-colour-data.jpg 660w, uploads/2013/06/web-colour-data-277x168.jpg 277w, uploads/2013/06/web-colour-data-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
 
 ### Cores de Fotos
 
 O [Color Thief][13] tem uma proposta semelhante. Mas a idéia aqui é explorar paletas baseadas em fotos. Basta realizar um upload de imagens que a ferramenta captura o esquema de cores predominante.
 
-[<img class="alignnone size-full wp-image-37596" alt="color-thief" src="http://tableless.com.br/wp-content/uploads/2013/06/color-thief.jpg" width="660" height="400" srcset="uploads/2013/06/color-thief.jpg 660w, uploads/2013/06/color-thief-277x168.jpg 277w, uploads/2013/06/color-thief-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][14]
+[<img class="alignnone size-full wp-image-37596" alt="color-thief" src="http://tableless.com.br/uploads/2013/06/color-thief.jpg" width="660" height="400" srcset="uploads/2013/06/color-thief.jpg 660w, uploads/2013/06/color-thief-277x168.jpg 277w, uploads/2013/06/color-thief-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][14]
 
 ### Cores de Filmes
 
 O Tumblr [Movies In Color][15] pode ser uma grande fonte de inspiração para quem curte cinema. A idéia aqui é conhecer a paleta de cores utilizada na cinematografia de filmes como 2001 &#8211; Uma Odisséia no Espaço, O Fabuloso Destino de Amélie Poulain, Clube da Luta e Inception. Você pode navegar por imagens, títulos dos filmes ou nome do diretor de fotografia. Vale o clique!
 
-[<img class="alignnone size-full wp-image-37599" alt="movis-in-color" src="http://tableless.com.br/wp-content/uploads/2013/06/movis-in-color.jpg" width="660" height="400" srcset="uploads/2013/06/movis-in-color.jpg 660w, uploads/2013/06/movis-in-color-277x168.jpg 277w, uploads/2013/06/movis-in-color-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][16]
+[<img class="alignnone size-full wp-image-37599" alt="movis-in-color" src="http://tableless.com.br/uploads/2013/06/movis-in-color.jpg" width="660" height="400" srcset="uploads/2013/06/movis-in-color.jpg 660w, uploads/2013/06/movis-in-color-277x168.jpg 277w, uploads/2013/06/movis-in-color-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][16]
 
 ### Criando suas próprias paletas
 
 Criar esquemas de cores pode ser uma tarefa mais prática utilizando algum gerador como o][17] da Adobe ou o [Color Scheme Designer][18]. Através destas ferramentas você pode criar esquemas monocromáticos, complementares, análogos, etc. Se você criou algo realmente legal e deseja compartilhar com o mundo ou simplesmente quer navegar por diversas paletas e se inspirar a rede social [Colour Lovers][19] pode ser um lugar interessante.
 
-[<img class="alignnone size-full wp-image-37598" alt="kuler" src="http://tableless.com.br/wp-content/uploads/2013/06/kuler.jpg" width="660" height="400" srcset="uploads/2013/06/kuler.jpg 660w, uploads/2013/06/kuler-277x168.jpg 277w, uploads/2013/06/kuler-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][20]
+[<img class="alignnone size-full wp-image-37598" alt="kuler" src="http://tableless.com.br/uploads/2013/06/kuler.jpg" width="660" height="400" srcset="uploads/2013/06/kuler.jpg 660w, uploads/2013/06/kuler-277x168.jpg 277w, uploads/2013/06/kuler-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][20]
 
 ### Games
 
 Quem disse que você não pode aprender se divertindo? Alguns webgames como o [Color Method][21] testam o seu conhecimento e percepção de cores com base em tom, saturação, cores complementares, análogas&#8230; Cuidado, pode ser viciante!
 
-[<img class="alignnone size-full wp-image-37595" alt="color-method" src="http://tableless.com.br/wp-content/uploads/2013/06/color-method.jpg" width="660" height="400" srcset="uploads/2013/06/color-method.jpg 660w, uploads/2013/06/color-method-277x168.jpg 277w, uploads/2013/06/color-method-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][22]
+[<img class="alignnone size-full wp-image-37595" alt="color-method" src="http://tableless.com.br/uploads/2013/06/color-method.jpg" width="660" height="400" srcset="uploads/2013/06/color-method.jpg 660w, uploads/2013/06/color-method-277x168.jpg 277w, uploads/2013/06/color-method-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][22]
 
 ### Saiba mais:
 

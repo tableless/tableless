@@ -33,7 +33,7 @@ Em criptografia, um certificado de chave pública (também conhecido como um cer
 O uso mais comum dos certificados é de web sites baseados em HTTPS. Browsers validam certificados SSL de servidores web, para que o usuário pode se sentir seguro de que sua interação com o site não tem espiões e que o site é quem afirma ser. Na prática, um usuário obtém uma chave criptografada gerada pelo website, que validada com um fornecedor certificado (uma loja de certificado$) confirma a procedência do certificado. Durante a navegação, este certificado público é enviado a qualquer browser que se conecte ao site, mostrando para o usuário que o endereço é validado – e seguro.
 
 <div id="attachment_3480" style="width: 662px" class="wp-caption alignleft">
-  <a href="http://tableless.com.br/wp-content/uploads/2011/04/certifi.png"><img src="http://tableless.com.br/wp-content/uploads/2011/04/certifi.png" alt="Esta imagem é uma representacao grafica do ultimo paragrafo, mostrando a interacao que o usuario tem com servidor atraves de SSL" width="652" height="207" class="size-full wp-image-3480" srcset="uploads/2011/04/certifi.png 652w, uploads/2011/04/certifi-300x95.png 300w" sizes="(max-width: 652px) 100vw, 652px" /></a>
+  <a href="http://tableless.com.br/uploads/2011/04/certifi.png"><img src="http://tableless.com.br/uploads/2011/04/certifi.png" alt="Esta imagem é uma representacao grafica do ultimo paragrafo, mostrando a interacao que o usuario tem com servidor atraves de SSL" width="652" height="207" class="size-full wp-image-3480" srcset="uploads/2011/04/certifi.png 652w, uploads/2011/04/certifi-300x95.png 300w" sizes="(max-width: 652px) 100vw, 652px" /></a>
   
   <p class="wp-caption-text">
     Intercação de usuário com website seguro atraves de certificados SSL
@@ -60,7 +60,7 @@ Um certificado custa dinheiro. E não é barato. Talvez por isso eles ainda nao 
 
 Mas até ai nada novo. Na real, nada do que esta neste post é novo, apenas **obscuro**. Desde a época do saudoso Netspace Navigator existe uma tag pouco utilizada, e da mesma maneira pouco conhecida &#8211; <keygen> </em>.
 
-      <a href="http://tableless.com.br/wp-content/uploads/2011/04/IC341506.gif"><img src="http://tableless.com.br/wp-content/uploads/2011/04/IC341506.gif" alt="" width="561" height="200" class="alignleft size-full wp-image-3481" /></a>
+      <a href="http://tableless.com.br/uploads/2011/04/IC341506.gif"><img src="http://tableless.com.br/uploads/2011/04/IC341506.gif" alt="" width="561" height="200" class="alignleft size-full wp-image-3481" /></a>
     
 
 Quando a internet ainda engatinhava, a Netscape criou um meio dela mesma poder emitir – e validar – certificados, usando HTTP e HTML. Essa tag é suportada pela maioria dos browsers (exceção a Apple – Safari e iOS), porém nunca foi oficialmente colocada no pacote das especificações HTML. Vinha sendo usada de maneira tímida, mas voltou aos spots com o HTML5. Ou seja, embora muitas documentações mencionem ela como elemento HTML5 (inclusive a do Mozilla Developer Network), é quase mais velha que a especificação HTML4.

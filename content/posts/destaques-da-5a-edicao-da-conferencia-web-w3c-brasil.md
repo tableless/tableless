@@ -18,7 +18,7 @@ Em 2013, a Web.br ocorre nos **dias 18 e 19 de novembro, em São Paulo**, no Cen
 
  <img style="float: right;margin: 0px 0px 10px 10px" alt="Foto de Kris Borchers" src="http://conferenciaweb.w3c.br/wp-content/themes/webbr2013/assets/img/speakers/kris-frame.jpg" />Já no dia 19 de novembro, é a vez do keynote speaker [Kris Borchers][6] abrir os trabalhos. Kris é diretor executivo da jQuery Foundation, onde trabalha para ajudar a fundação a realizar sua missão de transformar a web em um lugar melhor para todos. Ele também é membro do time jQuery UI. Em sua palestra intitulada **“Pushing the Web Forward”**, Kris fará um panorama do envolvimento da jQuery Foundation na criação de padrões e na colaboração com desenvolvedores web.
 
-<img style="clear: right" alt="Web Got's tallent" src="http://conferenciaweb.w3c.br/wp-content/uploads/2013/10/websgottalent_740px_final3.png" />
+<img style="clear: right" alt="Web Got's tallent" src="http://conferenciaweb.w3c.br/uploads/2013/10/websgottalent_740px_final3.png" />
 
 A Conferência Web.br 2013 contará ainda com o concurso [Web&#8217;s Got Talent][7], que reconhecerá as melhores aplicações web que visam fornecer serviços aos usuários. A proposta é promover a adoção de padrões abertos no empreendedorismo. O apresentador do concurso é <a href="http://interney.net/edney-entrevista-interney/" target="_blank">Edney Souza</a>, o Interney, empresário e professor especialista em tecnologias para Marketing Digital. 
 

@@ -45,11 +45,11 @@ Se você deduz que isto é <a href="http://www.w3.org/TR/CSS2/cascade.html#va
 
 Mas `initial` e `inherit` são diferentes quando entendemos que o `inherit` checa se existem outras propriedades no pai que poderão ser utilizadas ou afetadas, antes que seja atribuído o valor inicial. Antes que o navegador decida renderizar o valor herdado, ele deve varrer a cascata de valores acima da propriedade definida e avaliar o possível valor inicial do elemento. Vai depender do que é atribuído no pai mais próximo do elemento:
 
-[<img class="alignnone wp-image-50137 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/example1-initial-inherit-joao-guilherme.png" alt="" width="727" height="285" />][1]
+[<img class="alignnone wp-image-50137 size-full" src="http://tableless.com.br/uploads/2015/07/example1-initial-inherit-joao-guilherme.png" alt="" width="727" height="285" />][1]
 
 `H1` está herdando o valor da cor do elemento mais próximo, encontrando a propriedade incluída no elemento `body`.
 
-[<img class="alignnone wp-image-50138 size-full" src="http://tableless.com.br/wp-content/uploads/2015/07/example2-initial-inherit-joao-guilherme.png" alt="" width="727" height="285" />][2]
+[<img class="alignnone wp-image-50138 size-full" src="http://tableless.com.br/uploads/2015/07/example2-initial-inherit-joao-guilherme.png" alt="" width="727" height="285" />][2]
 
 Desta vez, utilizando o valor inicial, `H1` ignora o valor que poderia ser herdado do elemento `body`, e mantém o valor atribuído pelo navegador, isto é, a raiz responsável por renderizar o HTML.
 
@@ -71,11 +71,11 @@ Recentemente, tive um problema em um projeto ao usar o elemento `video` 100% 
 
 Na primeira versão abaixo, a propriedade **_object-fit_** foi definida com o valor **_contain_**, que era o valor padrão e específico para este elemento no Chrome.
 
-<img class="alignnone" src="http://tableless.com.br/wp-content/uploads/2015/07/BJLyIvi.jpg" alt="Exemplo do uso do elemento video no Chrome com a propriedade initial" width="1234" height="585" />
+<img class="alignnone" src="http://tableless.com.br/uploads/2015/07/BJLyIvi.jpg" alt="Exemplo do uso do elemento video no Chrome com a propriedade initial" width="1234" height="585" />
 
 Já neste segundo exemplo, deixamos o valor definido como `initial`: ele preencheu o espaço que faltava para o vídeo ocupar 100% em relação à página, utilizando o valor inicial do navegador:
 
-<img class="alignnone" src="http://tableless.com.br/wp-content/uploads/2015/07/e8owgRc1.png" alt="Exemplo do uso do elemento video no Chrome sem a propriedade initial" width="1200" height="583" />
+<img class="alignnone" src="http://tableless.com.br/uploads/2015/07/e8owgRc1.png" alt="Exemplo do uso do elemento video no Chrome sem a propriedade initial" width="1200" height="583" />
 
 ### O suporte dos browsers
 
@@ -213,7 +213,7 @@ Segundo os dados do <a href="https://developer.mozilla.org/pt-BR/#" target="_bl
   Texto traduzido e adaptado da fonte: <a href="https://css-tricks.com/getting-acquainted-with-initial/">Getting acquainted with initial</a>
 </p>
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/07/example1-initial-inherit-joao-guilherme.png
- [2]: http://tableless.com.br/wp-content/uploads/2015/07/example2-initial-inherit-joao-guilherme.png
+ [1]: http://tableless.com.br/uploads/2015/07/example1-initial-inherit-joao-guilherme.png
+ [2]: http://tableless.com.br/uploads/2015/07/example2-initial-inherit-joao-guilherme.png
  [3]: http://codepen.io/guicheffeR/pen/jPxKqQ
  [4]: http://tableless.com.br/querido-usuario-atualize-seu-browser/

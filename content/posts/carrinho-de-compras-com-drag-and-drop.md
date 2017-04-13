@@ -205,4 +205,4 @@ Essa é uma versão básica de um carrinho drag and drop que pode sofrer diversa
   * Adicionar funcionalidade para excluir produtos do carrinho;
   * Salvar em cookie o carrinho do usuário, ou via AJAX, ou com o <a href="http://plugins.jquery.com/project/Cookie" target="_blank">plugin de cookies</a> do jQuery.
 
- [1]: http://tableless.com.br/wp-content/uploads/2011/01/exemplo.zip
+ [1]: http://tableless.com.br/uploads/2011/01/exemplo.zip

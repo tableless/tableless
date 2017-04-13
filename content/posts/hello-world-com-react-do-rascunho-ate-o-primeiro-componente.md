@@ -26,7 +26,7 @@ O React foi pensado em como podemos componentizar nossos elementos, de forma que
 
 Sem entrar na polêmica de modularização e componentização no JS, atualmente, nós organizamos na pior das hipóteses &#8211; e mais comum também -, os componentes como partes separadas de códigos. Você pega um pedaço de código HTML, coloca numa determinada página, que é formatada com CSS e manipulada com JS. O código que estrutura, formata e manipula seu componente está separado nesses três arquivos de HTML, CSS e JS. No React, o conceito é mais simples, onde unificamos o HTML dentro do JS, o que no React chamamos de JSX.
 
-<img src="http://tableless.com.br/wp-content/uploads/2016/10/react-component.jpg" alt="react-component" width="1784" height="1298" class="aligncenter size-full wp-image-56272" />
+<img src="http://tableless.com.br/uploads/2016/10/react-component.jpg" alt="react-component" width="1784" height="1298" class="aligncenter size-full wp-image-56272" />
 
 Perceba que na imagem acima &#8211; [peguei como exemplo daqui][2] &#8211; cada retângulo colorido tem um componente pai, com seus componentes internos, que chamamos de componentes filhos. Podemos, então, criar um componente chamado `navBar` com um componente filho chamado `userInfo`, que conterá as informações do usuário. O nosso componente **pai**, guarda estado dos dados que usaremos nos componentes filhos. O **pai** compartilha os dados com os filhos por meio de atributos. Nesse exemplo, a `navBar` iria compartilhar as informações do usuário logado para o componente filho `userInfo`. Esta hierarquia de pai e filho faz com que o gerenciamento de dados seja simples, por que nós sabemos exatamente onde os dados estarão, não causando confusão usando esses dados erroneamente em outros lugares.
 
@@ -177,7 +177,7 @@ Sugiro que fique conosco aqui no Webpack, assim você não se perde no processo.
 
 Para importar seu primeiro módulo, lá no **App.js**, vamos criar uma variável que faz a importação do nosso componente. O arquivo desse componente estará na pasta **components**, dentro da pasta **App**. A estrutura de pastas fica assim:
 
-<img src="http://tableless.com.br/wp-content/uploads/2016/10/folders-react.png" alt="folders-react" width="650" height="618" class="aligncenter size-full wp-image-56270" />
+<img src="http://tableless.com.br/uploads/2016/10/folders-react.png" alt="folders-react" width="650" height="618" class="aligncenter size-full wp-image-56270" />
 
 O seu App.js fica assim:
 
@@ -222,7 +222,7 @@ Perceba uma curiosidade: Por que precisamos de um parênteses em volta do return
 
 Se você for no seu browser e mudar o texto do seu componente, você vai perceber que nosso componente está funcionando! ;-D
 
-<img src="http://tableless.com.br/wp-content/uploads/2016/10/gif-react.gif" alt="gif-react" width="1394" height="878" class="aligncenter size-full wp-image-56271" />
+<img src="http://tableless.com.br/uploads/2016/10/gif-react.gif" alt="gif-react" width="1394" height="878" class="aligncenter size-full wp-image-56271" />
 
 Bom, vou ficando por aqui. O objetivo era apenas fazer um setup rápido, para você conseguir inserir pelo menos um componente e ver as coisas mudando na tela. Talvez as coisas tenham ficado mais claras para você agora, assim como ficaram para mim depois desse estudo. Sugiro que você veja os links abaixo para aprofundar mais seus estudos. Tem conteúdo em ingles e também conteúdo em português. Vá fundo!
 

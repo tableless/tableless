@@ -36,7 +36,7 @@ Quando falo em Taxa de Engajamento estou me referindo à atividade em sua págin
 
 No Facebook ficaria desse jeito:
 
-<img class="alignnone size-full wp-image-52858" src="http://tableless.com.br/wp-content/uploads/2016/01/artigo1.png" alt="artigo1" width="640" height="216" />
+<img class="alignnone size-full wp-image-52858" src="http://tableless.com.br/uploads/2016/01/artigo1.png" alt="artigo1" width="640" height="216" />
   
 Essa fórmula pode mudar um pouco de acordo com cada software que faz o cálculo, mas no geral é bem dentro desse formato estabelecido pelo Social Bakers.
 
@@ -46,7 +46,7 @@ O bacana é que além de analisar nosso próprio desemprenho também podemos co
 
 Abaixo uma análise sobre as páginas oficiais dos _**três principais veículos de comunicação**_ de Fortaleza, minha cidade.
 
-<img class="alignnone size-full wp-image-52859" src="http://tableless.com.br/wp-content/uploads/2016/01/artigo2.png" alt="artigo2" width="640" height="542" />
+<img class="alignnone size-full wp-image-52859" src="http://tableless.com.br/uploads/2016/01/artigo2.png" alt="artigo2" width="640" height="542" />
 
 O maior engajamento é do _**Veículo3**_. Chega ser quatro vezes maior que do _**Veículo1**_.
 

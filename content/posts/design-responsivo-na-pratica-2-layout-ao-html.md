@@ -120,7 +120,7 @@ Hora de colocar a mão no código!
 
 Eu pessoalmente acredito ser mais fácil construir todo o HTML para depois desenvolver o CSS. Mas esta é uma preferência pessoal e não vou ficar aqui cagando regra. Vou manter a estrutura bem simples para nos concentrarmos no CSS. Vamos relembrar o layout que construímos juntos no artigo anterior.
 
-<img class="alignnone size-full wp-image-42216" src="http://tableless.com.br/wp-content/uploads/2014/04/layout-demo.jpg" alt="Demo Layout Responsivo" width="800" height="844" srcset="uploads/2014/04/layout-demo.jpg 800w, uploads/2014/04/layout-demo-400x422.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />
+<img class="alignnone size-full wp-image-42216" src="http://tableless.com.br/uploads/2014/04/layout-demo.jpg" alt="Demo Layout Responsivo" width="800" height="844" srcset="uploads/2014/04/layout-demo.jpg 800w, uploads/2014/04/layout-demo-400x422.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />
 
 Podemos dividir este HTML em cinco estruturas básicas.
 
@@ -416,7 +416,7 @@ Poderíamos, através de JavaScript e/ou CSS3, criar outras soluções de navega
 
 Neste ponto já temos nosso layout em tablets. Esta é uma screenshot em um iPad 2 modo retrato.
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/04/layout-demo-tablet.jpg" alt="layout-demo-tablet" width="800" height="844" class="alignnone size-full wp-image-42226" srcset="uploads/2014/04/layout-demo-tablet.jpg 800w, uploads/2014/04/layout-demo-tablet-400x422.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />
+<img src="http://tableless.com.br/uploads/2014/04/layout-demo-tablet.jpg" alt="layout-demo-tablet" width="800" height="844" class="alignnone size-full wp-image-42226" srcset="uploads/2014/04/layout-demo-tablet.jpg 800w, uploads/2014/04/layout-demo-tablet-400x422.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />
 
 O próximo, e último passo, é criar o layout em smartphones em si. Para isto vamos especificar que todas as colunas também ocupem 100% da tela.
 
@@ -430,7 +430,7 @@ O próximo, e último passo, é criar o layout em smartphones em si. Para isto v
 
 E aqui esta o layout em um smartphone.
 
-<img src="http://tableless.com.br/wp-content/uploads/2014/04/layout-demo-smartphones.jpg" alt="layout-demo-smartphones" width="800" height="600" class="alignnone size-full wp-image-42225" srcset="uploads/2014/04/layout-demo-smartphones.jpg 800w, uploads/2014/04/layout-demo-smartphones-400x300.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />
+<img src="http://tableless.com.br/uploads/2014/04/layout-demo-smartphones.jpg" alt="layout-demo-smartphones" width="800" height="600" class="alignnone size-full wp-image-42225" srcset="uploads/2014/04/layout-demo-smartphones.jpg 800w, uploads/2014/04/layout-demo-smartphones-400x300.jpg 400w" sizes="(max-width: 800px) 100vw, 800px" />
 
 ## Saiba mais
 

@@ -167,7 +167,7 @@ Obs: Caso tenha posts escritos, e não queria excluir o banco de dados, poderá 
 
 Veja a estrutura do banco de dados:
 
-[<img src="http://tableless.com.br/wp-content/uploads/2015/05/01.png" alt="Banco de dados" width="750" height="403" class="alignnone size-full wp-image-48547" />][1]
+[<img src="http://tableless.com.br/uploads/2015/05/01.png" alt="Banco de dados" width="750" height="403" class="alignnone size-full wp-image-48547" />][1]
 
 ## Configurando o Controller
 
@@ -263,7 +263,7 @@ Caso tenham seguido o tutorial e excluído o bando de dados, que foi criado nova
   
 Depois do post criado, click no link e observe a url, verá o slug, que em nosso caso é o slug do titulo, veja:
 
-[<img src="http://tableless.com.br/wp-content/uploads/2015/05/02.png" alt="Urls" width="750" height="50" class="alignnone size-full wp-image-48548" />][2]
+[<img src="http://tableless.com.br/uploads/2015/05/02.png" alt="Urls" width="750" height="50" class="alignnone size-full wp-image-48548" />][2]
 
 ## Conclusão
 
@@ -289,5 +289,5 @@ Links dos tutoriais anteriores:
 
 O projeto encontra-se no <a href="https://github.com/candidosouza/tableless" title="github do projeto" target="_blank">GitHub</a>!
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/05/01.png
- [2]: http://tableless.com.br/wp-content/uploads/2015/05/02.png
+ [1]: http://tableless.com.br/uploads/2015/05/01.png
+ [2]: http://tableless.com.br/uploads/2015/05/02.png

@@ -54,7 +54,7 @@ O HTML tenta resolver parte do problema tentando te dar maneiras de servir image
 
 WebP é um formato de imagem moderna que fornece &#8220;lossless&#8221; (algoritmo de compressão sem perda de qualidade) superior e compressão para imagens na web. Usando WebP, desenvolvedores podem criar imagens menores, mais ricas e que tornam a web mais rápida. As imagens WebP são 26% menores em tamanho em comparação com PNGs, com 25-34% menos perdas de qualidade do que as imagens JPEG.
 
-<img src="http://tableless.com.br/wp-content/uploads/2016/07/compression-webp_lossy.png" alt="compression-webp_lossy" width="744" height="656" class="aligncenter size-full wp-image-55075" />
+<img src="http://tableless.com.br/uploads/2016/07/compression-webp_lossy.png" alt="compression-webp_lossy" width="744" height="656" class="aligncenter size-full wp-image-55075" />
 
 O Lossless das imagens WebP suporta canais alpha com um custo de apenas 22% de bytes adicionais. Para os casos quando a compressão RGB é aceitável, WebP com perdas também suporta a transparência, normalmente fornecendo arquivos três vezes menores em comparação com PNG.
 

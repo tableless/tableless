@@ -35,11 +35,11 @@ A nossa direção natural de leitura no ocidente começa pelo canto superior esq
 
 Blocos de texto alinhados a direita são difíceis de ler já que o ponto inicial de cada linha é completamente irregular. Textos centralizados também possuem o mesmo problema, mas podem ser usados para destacar blocos curtos de informações como títulos e citações.
 
-<img class="alignnone size-full wp-image-7518" src="http://tableless.com.br/wp-content/uploads/2012/12/alinhamento.png" alt="" width="720" height="480" srcset="uploads/2012/12/alinhamento.png 720w, uploads/2012/12/alinhamento-300x200.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7518" src="http://tableless.com.br/uploads/2012/12/alinhamento.png" alt="" width="720" height="480" srcset="uploads/2012/12/alinhamento.png 720w, uploads/2012/12/alinhamento-300x200.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 O caso de textos justificados é um pouco mais complexo. O problema principal aqui é que na internet não existe hifenização. Por conta disto lacunas (também conhecidas como rios) são criadas entre as palavras o que torna a leitura muito desagradável. Ou seja, justifique apenas textos bem curtos que você possui um controle total. Palavra por palavra. Se é algo dinâmico esqueça pois muitas vezes o cliente final não vai ter este tipo de cuidado&#8230;.
 
-<img class="alignnone size-full wp-image-7525" src="http://tableless.com.br/wp-content/uploads/2012/12/lacunas.png" alt="" width="720" height="480" srcset="uploads/2012/12/lacunas.png 720w, uploads/2012/12/lacunas-300x200.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7525" src="http://tableless.com.br/uploads/2012/12/lacunas.png" alt="" width="720" height="480" srcset="uploads/2012/12/lacunas.png 720w, uploads/2012/12/lacunas-300x200.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 É claro que nenhuma destas regras é inquebrável. Mas para quebrar regras é necessário primeiro conhece-las bem. Então se estiver na dúvida sobre qual alinhamento escolher faça o seguro e alinhe à esquerda sem justificar.
 
@@ -53,7 +53,7 @@ São os tipos que contem serifas, ou seja, pequenos traços, ornamentos e/ou pro
   
 **Exemplos de tipos:** Times New Roman, Baskerville, Bookman, Century, Georgia, Garamond e Rockwell.
 
-<img class="alignnone size-full wp-image-7538" src="http://tableless.com.br/wp-content/uploads/2012/12/tipos-serifados.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipos-serifados.png 720w, uploads/2012/12/tipos-serifados-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7538" src="http://tableless.com.br/uploads/2012/12/tipos-serifados.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipos-serifados.png 720w, uploads/2012/12/tipos-serifados-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 #### Sans-serif
 
@@ -61,7 +61,7 @@ Literalmente &#8220;sem serifa&#8221;. Este conjunto de tipos possui caracteres 
   
 **Exemplos de tipos:** Helvetica, Arial, Futura, Gill Sans, Univers e Frutiger
 
-<img class="alignnone size-full wp-image-7539" src="http://tableless.com.br/wp-content/uploads/2012/12/tipos-sem-serifa.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipos-sem-serifa.png 720w, uploads/2012/12/tipos-sem-serifa-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7539" src="http://tableless.com.br/uploads/2012/12/tipos-sem-serifa.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipos-sem-serifa.png 720w, uploads/2012/12/tipos-sem-serifa-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 #### Cursive
 
@@ -69,7 +69,7 @@ As fontes desta familia possuem caracteres inclinados, ligados e/ou conectados r
   
 **Exemplos de tipos:** Comic Sans MS, Blackadder ITC, Lucida Handwriting, Brush Script
 
-<img class="alignnone size-full wp-image-7540" src="http://tableless.com.br/wp-content/uploads/2012/12/tipos-cursivos.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipos-cursivos.png 720w, uploads/2012/12/tipos-cursivos-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7540" src="http://tableless.com.br/uploads/2012/12/tipos-cursivos.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipos-cursivos.png 720w, uploads/2012/12/tipos-cursivos-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 #### Fantasy
 
@@ -77,7 +77,7 @@ São fontes puramente decorativas, mas que ainda representam caracteres. Normalm
   
 **Exemplos de tipos:** Papyrus, Impact, Haettenschweiler, Copperplate
 
-<img class="alignnone size-full wp-image-7541" src="http://tableless.com.br/wp-content/uploads/2012/12/tipos-fantasy.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipos-fantasy.png 720w, uploads/2012/12/tipos-fantasy-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7541" src="http://tableless.com.br/uploads/2012/12/tipos-fantasy.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipos-fantasy.png 720w, uploads/2012/12/tipos-fantasy-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 #### Monospace
 
@@ -85,7 +85,7 @@ Todos os caracteres das fontes monospace possuem a mesma largura fixa. Este tipo
   
 **Exemplos de tipos:** Courier, Prestige Elite, Fixedsys e Monaco
 
-<img class="alignnone size-full wp-image-7548" src="http://tableless.com.br/wp-content/uploads/2012/12/tipos-monospace.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipos-monospace.png 720w, uploads/2012/12/tipos-monospace-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7548" src="http://tableless.com.br/uploads/2012/12/tipos-monospace.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipos-monospace.png 720w, uploads/2012/12/tipos-monospace-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 Algumas fontes podem entrar em mais de uma categoria. Por exemplo a Courier é monospace E serifada.
 
@@ -144,7 +144,7 @@ O peso é a grossura dos caracteres de um tipo. Este atributo é definido pela p
   * 800 &#8211; Extra Bold (Ultra Bold)
   * 900 &#8211; Black (Heavy)
 
-<img class="alignnone size-full wp-image-7545" src="http://tableless.com.br/wp-content/uploads/2012/12/tipos-pesos.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipos-pesos.png 720w, uploads/2012/12/tipos-pesos-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7545" src="http://tableless.com.br/uploads/2012/12/tipos-pesos.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipos-pesos.png 720w, uploads/2012/12/tipos-pesos-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 Cuidado aqui. Principalmente se você for usar uma fonte não web-safe. Se o peso da fonte estiver em numerais e você utilizar &#8220;bold&#8221; o seu browser irá automaticamente criar um falso negrito em torno da fonte. E isto vai atrapalhar bastante o design dela, que ficará com um aspecto grosseiro e com diferenças sutis, porém perceptíveis, na renderização de cada navegador&#8230; Verifique com cuidado quais opções de peso estão disponíveis ao escolher uma fonte. Famílias gratuitas normalmente tem opções limitadas, enquanto fontes pagas possuem uma variedade maior de pesos. Para evitar este problemas utilize a regra font-weight: normal em seu reset. Principalmente se você estiver utilizando um normatizador como o HTML5 boilerplate.
 
@@ -152,7 +152,7 @@ Cuidado aqui. Principalmente se você for usar uma fonte não web-safe. Se o pes
 font-weight: normal;
 }</pre>
 
-<img class="alignnone size-full wp-image-7547" src="http://tableless.com.br/wp-content/uploads/2012/12/fake-bold.png" alt="" width="720" height="240" srcset="uploads/2012/12/fake-bold.png 720w, uploads/2012/12/fake-bold-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7547" src="http://tableless.com.br/uploads/2012/12/fake-bold.png" alt="" width="720" height="240" srcset="uploads/2012/12/fake-bold.png 720w, uploads/2012/12/fake-bold-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 ## Contraste
 
@@ -166,7 +166,7 @@ Lembre-se que contraste não é apenas cor. Contraste é tamanho, peso, distanci
 
 O ritmo de um texto é definido pela hierarquia de tamanho da fonte, distancias de margens, espaçamento e entrelinhas. O ideal aqui é criar um grid horizontal para manter o ritmo equilibrado.
 
-<img class="alignnone size-full wp-image-7522" src="http://tableless.com.br/wp-content/uploads/2012/12/baseline-grid.png" alt="" width="720" height="480" srcset="uploads/2012/12/baseline-grid.png 720w, uploads/2012/12/baseline-grid-300x200.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7522" src="http://tableless.com.br/uploads/2012/12/baseline-grid.png" alt="" width="720" height="480" srcset="uploads/2012/12/baseline-grid.png 720w, uploads/2012/12/baseline-grid-300x200.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 Ritmo vertical é um assunto complexo que poderia render [um artigo inteiro][5]&#8230; Mas se você for levar daqui apenas uma informação se preocupe com o valor entrelinha (line-height). Algo como 140% da altura da fonte é uma boa medida padrão. Se você quiser ser ainda mais preciso pode utilizar alguma ferramenta de calculo com base na proporção aurea como a [Golden Ratio Typography Calculator][6].
 
@@ -183,7 +183,7 @@ font-feature-settings: 'liga';
 -o-font-feature-settings: 'liga';
 }</pre>
 
-<img class="alignnone size-full wp-image-7535" src="http://tableless.com.br/wp-content/uploads/2012/12/tipografia-ligatura1.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipografia-ligatura1.png 720w, uploads/2012/12/tipografia-ligatura1-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7535" src="http://tableless.com.br/uploads/2012/12/tipografia-ligatura1.png" alt="" width="720" height="240" srcset="uploads/2012/12/tipografia-ligatura1.png 720w, uploads/2012/12/tipografia-ligatura1-300x100.png 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 ## Conclusão
 

@@ -52,7 +52,7 @@ Um exemplo disto é o design da Apple. O trecho abaixo é da página sobre o [iP
 
 &nbsp;
 
-[<img class="alignnone size-full wp-image-37661" alt="iphone" src="http://tableless.com.br/wp-content/uploads/2013/06/iphone.jpg" width="660" height="240" srcset="uploads/2013/06/iphone.jpg 660w, uploads/2013/06/iphone-329x119.jpg 329w, uploads/2013/06/iphone-588x213.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][3]
+[<img class="alignnone size-full wp-image-37661" alt="iphone" src="http://tableless.com.br/uploads/2013/06/iphone.jpg" width="660" height="240" srcset="uploads/2013/06/iphone.jpg 660w, uploads/2013/06/iphone-329x119.jpg 329w, uploads/2013/06/iphone-588x213.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][3]
 
 &nbsp;
 
@@ -68,7 +68,7 @@ Outros elementos gráficos como vídeos e ícones complementam a história do pr
 
 Este é provavelmente um dos recursos mais comuns de storytelling, presente em diversos meios como storyboards, histórias em quadrinhos e livros ilustrados. A página [Ben the Bodyguard][4] é um exemplo clássico de narrativa utilizando imagens sequenciais. O produto em questão é um aplicativo de segurança, apresentado pelo mascote da empresa &#8211; Ben, o guarda costas. A ambientação de cenários e os diálogos do personagem reforçam o clima de mistério e perigo. A navegação vertical ativada pela rolagem de mouse é o que dá movimento ao personagem e determina o ritmo e o tempo da história, transmitindo ao usuário um maior controle de interação.
 
-[<img class="alignnone size-full wp-image-37655" alt="ben-thebodyguard" src="http://tableless.com.br/wp-content/uploads/2013/06/ben-thebodyguard.jpg" width="660" height="400" srcset="uploads/2013/06/ben-thebodyguard.jpg 660w, uploads/2013/06/ben-thebodyguard-277x168.jpg 277w, uploads/2013/06/ben-thebodyguard-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][5]
+[<img class="alignnone size-full wp-image-37655" alt="ben-thebodyguard" src="http://tableless.com.br/uploads/2013/06/ben-thebodyguard.jpg" width="660" height="400" srcset="uploads/2013/06/ben-thebodyguard.jpg 660w, uploads/2013/06/ben-thebodyguard-277x168.jpg 277w, uploads/2013/06/ben-thebodyguard-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][5]
 
 ## Narrativas Lineares
 
@@ -76,7 +76,7 @@ Um modelo tradicional de histórias compreende a apresentação de personagens e
 
 Um exemplo bacana de uso desta estrutura tradicional de narrativa é [The Story of Jess and Druss][6]. O site conta através de textos, ilustrações e uma linha de tempo a história de como o casal &#8211; Jess and Druss &#8211; se conheceu, apresentando as dificuldades de viver sozinho e como o amor aconteceu. As ilustrações, a tipografia, as cores e todos os outros elementos de design servem de suporte para contar a história do casal.
 
-[<img class="alignnone size-full wp-image-37662" alt="Jess-and-Druss" src="http://tableless.com.br/wp-content/uploads/2013/06/Jess-and-Druss.jpg" width="660" height="400" srcset="uploads/2013/06/Jess-and-Druss.jpg 660w, uploads/2013/06/Jess-and-Druss-277x168.jpg 277w, uploads/2013/06/Jess-and-Druss-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][7]
+[<img class="alignnone size-full wp-image-37662" alt="Jess-and-Druss" src="http://tableless.com.br/uploads/2013/06/Jess-and-Druss.jpg" width="660" height="400" srcset="uploads/2013/06/Jess-and-Druss.jpg 660w, uploads/2013/06/Jess-and-Druss-277x168.jpg 277w, uploads/2013/06/Jess-and-Druss-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][7]
 
 A lineriadade da história é reforçada novamente pelo uso de uma navegação vertical e outro recurso interessante: a linha do tempo. O efeito de navegação parallax ajuda a transmitir um senso de continuidade para a história que possuí um clímax &#8211; o momento do pedido de casamento &#8211; e uma resolução em forma de um convite para os amigos do casal comparecerem ao evento. Final feliz para nossos personagens!
 
@@ -86,7 +86,7 @@ Se você viveu sua infância nos anos 90 provavelmente se lembra de [livros-jogo
 
 Um exemplo concreto de site que faz uso deste tipo de recurso é o [Cadillac ATS vs The World][9]. Logo na página inicial é possível escolher entre os destinos possíveis (Patagonia, Marrocos, Monaco ou China) e embarcar em uma viagem virtual para cada local. Fotos panorâmicas servem como cenário, mas os depoimentos da equipe e dos moradores locais são o verdadeiro coração da história. As demais imagens, vídeos e informações em uma linguagem turística ajudam a complementar o tema viagem.
 
-[<img class="alignnone size-full wp-image-37656" alt="cadillac" src="http://tableless.com.br/wp-content/uploads/2013/06/cadillac.jpg" width="660" height="400" srcset="uploads/2013/06/cadillac.jpg 660w, uploads/2013/06/cadillac-277x168.jpg 277w, uploads/2013/06/cadillac-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][10]
+[<img class="alignnone size-full wp-image-37656" alt="cadillac" src="http://tableless.com.br/uploads/2013/06/cadillac.jpg" width="660" height="400" srcset="uploads/2013/06/cadillac.jpg 660w, uploads/2013/06/cadillac-277x168.jpg 277w, uploads/2013/06/cadillac-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][10]
 
 ## 
 
@@ -96,11 +96,11 @@ Toda história tem um protagonista. E protagonistas precisam de antagonistas, co
 
 Um case bacana de storytelling é o site da Dropbox. A metáfora de história permeia todo o design da página [Tour][11].
 
-[<img class="alignnone size-full wp-image-37657" alt="dropbox-1" src="http://tableless.com.br/wp-content/uploads/2013/06/dropbox-1.jpg" width="660" height="400" srcset="uploads/2013/06/dropbox-1.jpg 660w, uploads/2013/06/dropbox-1-277x168.jpg 277w, uploads/2013/06/dropbox-1-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
+[<img class="alignnone size-full wp-image-37657" alt="dropbox-1" src="http://tableless.com.br/uploads/2013/06/dropbox-1.jpg" width="660" height="400" srcset="uploads/2013/06/dropbox-1.jpg 660w, uploads/2013/06/dropbox-1-277x168.jpg 277w, uploads/2013/06/dropbox-1-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
 
 Eles exploram claramente o que é o serviço (&#8220;Um lugar para todos os seus arquivos, onde quer que você esteja&#8221;), quem são os possíveis personagens (&#8220;não importa se você é estudante ou profissional, um pai ou um avô.&#8221;), existe um vilão concreto (o medo de &#8220;derramar café sem querer no laptop&#8221;), um herói (a própria Dropbox) e um final feliz (&#8220;Relaxe com a certeza de que todos os seus arquivos estão seguros no Dropbox e nunca se perderão&#8221;). Para reforçar o conceito de história temos elementos esqueumórficos como metáforas (o livro, navegação por páginas, o próprio ícone da dropbox como uma caixa de arquivos) e ilustrações lúdicas para reforçar o ideal de segurança do final feliz.
 
-[<img class="alignnone size-full wp-image-37658" alt="dropbox-2" src="http://tableless.com.br/wp-content/uploads/2013/06/dropbox-2.jpg" width="660" height="400" srcset="uploads/2013/06/dropbox-2.jpg 660w, uploads/2013/06/dropbox-2-277x168.jpg 277w, uploads/2013/06/dropbox-2-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
+[<img class="alignnone size-full wp-image-37658" alt="dropbox-2" src="http://tableless.com.br/uploads/2013/06/dropbox-2.jpg" width="660" height="400" srcset="uploads/2013/06/dropbox-2.jpg 660w, uploads/2013/06/dropbox-2-277x168.jpg 277w, uploads/2013/06/dropbox-2-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
 
 Cada página do livro é em si uma história completa. Seguindo as páginas temos mais alguns elementos interessantes de storytelling como recursos de balõezinhos que remetem diretamente a história em quadrinho, elementos de humor, atribuição de super poder ao herói (máquina do tempo) e novamente vilões concretos (computador pegando fogo).
 
@@ -116,7 +116,7 @@ Quer saber como construir suas próprias personas? Aqui no Tableless temos um ar
 
 Saber disto pode te ajudar a projetar a navegação de maneira mais inteligente. Você não pode controlar as escolhas do usuário, mas pode fornecer uma estrutura lógica coesa para que ele construa seu próprio caminho. Uma história nunca é percebida exatamente como foi imaginada. Cada pessoa entende histórias de maneiras diferentes, adicionando seus próprios pensamentos, sentimentos, percepções e experiências. Interfaces como a do Windows 8 e do [Google Now][14] estão em alta hoje não apenas por que o design minimalista é uma tendência visual da moda, mas por abrirem espaço para que narrativas pessoais possam existir. Ações como criar, escolher, modificar e ordenar blocos de conteúdo permitem um nível de personalização muito maior e assim criam o cenário perfeito para estas narrativas.
 
-[<img class="alignnone size-full wp-image-37660" alt="google-now" src="http://tableless.com.br/wp-content/uploads/2013/06/google-now.jpg" width="660" height="240" srcset="uploads/2013/06/google-now.jpg 660w, uploads/2013/06/google-now-329x119.jpg 329w, uploads/2013/06/google-now-588x213.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][15]
+[<img class="alignnone size-full wp-image-37660" alt="google-now" src="http://tableless.com.br/uploads/2013/06/google-now.jpg" width="660" height="240" srcset="uploads/2013/06/google-now.jpg 660w, uploads/2013/06/google-now-329x119.jpg 329w, uploads/2013/06/google-now-588x213.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][15]
 
 O Google Now oferece uma variedade de informações em cartões de conteúdo que variam de acordo com a localização geográfica da pessoa e seu histórico de pesquisas no Google. Assim é possível exibir informações sobre o clima, trânsito, mapas, fotos, etc de acordo com o uso. Este é um exemplo de estudo de persona levado a sério! O sistema a partir de inputs automáticos traça um perfil de maneira inteligente e como consequência fornece um conteúdo mais relevante.
 
@@ -128,7 +128,7 @@ Se não possuir recursos para ter imagens próprias tente procurar por registros
 
 Você pode ainda utilizar outros recursos visuais como ilustrações ou até mesmo uma tipografia diferente. Além das imagens, elementos do layout como formas, linhas, cores, texturas, padrões, peso, movimento, espaço e proporção são as principais ferramentas para compor o tom. Dependendo do seu contexto letterings expressivos e caligrafia são boas opções e transmitem o sentimento de algo feito a mão com carinho e cuidado. O site [Forefathers Group][17] é um exemplo disto. O uso de lettering, o ar de mistério dos textos, a paleta de cores e ilustrações remete ao tema principal de grupos itinerantes e companhia de circo.
 
-[<img class="alignnone size-full wp-image-37659" alt="Forefathers-Group" src="http://tableless.com.br/wp-content/uploads/2013/06/Forefathers-Group.jpg" width="660" height="400" srcset="uploads/2013/06/Forefathers-Group.jpg 660w, uploads/2013/06/Forefathers-Group-277x168.jpg 277w, uploads/2013/06/Forefathers-Group-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][18]
+[<img class="alignnone size-full wp-image-37659" alt="Forefathers-Group" src="http://tableless.com.br/uploads/2013/06/Forefathers-Group.jpg" width="660" height="400" srcset="uploads/2013/06/Forefathers-Group.jpg 660w, uploads/2013/06/Forefathers-Group-277x168.jpg 277w, uploads/2013/06/Forefathers-Group-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][18]
 
 ## Storytelling transmídia
 
@@ -136,7 +136,7 @@ Você pode ainda utilizar outros recursos visuais como ilustrações ou até mes
 
 Um exemplo de storytelling transmídia é a campanha de e-mails marketing da empresa Meu Móvel de Madeira. Cada e-mail foca em uma persona de usuário em uma situação específica. No [exemplo a seguir][19] o personagem hipotético acabou de comprar uma casa e deseja mobiliar a sala:
 
-[<img class="alignnone size-full wp-image-37663" alt="mmm" src="http://tableless.com.br/wp-content/uploads/2013/06/mmm.jpg" width="660" height="400" srcset="uploads/2013/06/mmm.jpg 660w, uploads/2013/06/mmm-277x168.jpg 277w, uploads/2013/06/mmm-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][20]
+[<img class="alignnone size-full wp-image-37663" alt="mmm" src="http://tableless.com.br/uploads/2013/06/mmm.jpg" width="660" height="400" srcset="uploads/2013/06/mmm.jpg 660w, uploads/2013/06/mmm-277x168.jpg 277w, uploads/2013/06/mmm-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][20]
 
 &nbsp;
 
@@ -182,7 +182,7 @@ Um exemplo disto é o design da Apple. O trecho abaixo é da página sobre o [iP
 
 &nbsp;
 
-[<img class="alignnone size-full wp-image-37661" alt="iphone" src="http://tableless.com.br/wp-content/uploads/2013/06/iphone.jpg" width="660" height="240" srcset="uploads/2013/06/iphone.jpg 660w, uploads/2013/06/iphone-329x119.jpg 329w, uploads/2013/06/iphone-588x213.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][3]
+[<img class="alignnone size-full wp-image-37661" alt="iphone" src="http://tableless.com.br/uploads/2013/06/iphone.jpg" width="660" height="240" srcset="uploads/2013/06/iphone.jpg 660w, uploads/2013/06/iphone-329x119.jpg 329w, uploads/2013/06/iphone-588x213.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][3]
 
 &nbsp;
 
@@ -198,7 +198,7 @@ Outros elementos gráficos como vídeos e ícones complementam a história do pr
 
 Este é provavelmente um dos recursos mais comuns de storytelling, presente em diversos meios como storyboards, histórias em quadrinhos e livros ilustrados. A página [Ben the Bodyguard][4] é um exemplo clássico de narrativa utilizando imagens sequenciais. O produto em questão é um aplicativo de segurança, apresentado pelo mascote da empresa &#8211; Ben, o guarda costas. A ambientação de cenários e os diálogos do personagem reforçam o clima de mistério e perigo. A navegação vertical ativada pela rolagem de mouse é o que dá movimento ao personagem e determina o ritmo e o tempo da história, transmitindo ao usuário um maior controle de interação.
 
-[<img class="alignnone size-full wp-image-37655" alt="ben-thebodyguard" src="http://tableless.com.br/wp-content/uploads/2013/06/ben-thebodyguard.jpg" width="660" height="400" srcset="uploads/2013/06/ben-thebodyguard.jpg 660w, uploads/2013/06/ben-thebodyguard-277x168.jpg 277w, uploads/2013/06/ben-thebodyguard-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][5]
+[<img class="alignnone size-full wp-image-37655" alt="ben-thebodyguard" src="http://tableless.com.br/uploads/2013/06/ben-thebodyguard.jpg" width="660" height="400" srcset="uploads/2013/06/ben-thebodyguard.jpg 660w, uploads/2013/06/ben-thebodyguard-277x168.jpg 277w, uploads/2013/06/ben-thebodyguard-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][5]
 
 ## Narrativas Lineares
 
@@ -206,7 +206,7 @@ Um modelo tradicional de histórias compreende a apresentação de personagens e
 
 Um exemplo bacana de uso desta estrutura tradicional de narrativa é [The Story of Jess and Druss][6]. O site conta através de textos, ilustrações e uma linha de tempo a história de como o casal &#8211; Jess and Druss &#8211; se conheceu, apresentando as dificuldades de viver sozinho e como o amor aconteceu. As ilustrações, a tipografia, as cores e todos os outros elementos de design servem de suporte para contar a história do casal.
 
-[<img class="alignnone size-full wp-image-37662" alt="Jess-and-Druss" src="http://tableless.com.br/wp-content/uploads/2013/06/Jess-and-Druss.jpg" width="660" height="400" srcset="uploads/2013/06/Jess-and-Druss.jpg 660w, uploads/2013/06/Jess-and-Druss-277x168.jpg 277w, uploads/2013/06/Jess-and-Druss-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][7]
+[<img class="alignnone size-full wp-image-37662" alt="Jess-and-Druss" src="http://tableless.com.br/uploads/2013/06/Jess-and-Druss.jpg" width="660" height="400" srcset="uploads/2013/06/Jess-and-Druss.jpg 660w, uploads/2013/06/Jess-and-Druss-277x168.jpg 277w, uploads/2013/06/Jess-and-Druss-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][7]
 
 A lineriadade da história é reforçada novamente pelo uso de uma navegação vertical e outro recurso interessante: a linha do tempo. O efeito de navegação parallax ajuda a transmitir um senso de continuidade para a história que possuí um clímax &#8211; o momento do pedido de casamento &#8211; e uma resolução em forma de um convite para os amigos do casal comparecerem ao evento. Final feliz para nossos personagens!
 
@@ -216,7 +216,7 @@ Se você viveu sua infância nos anos 90 provavelmente se lembra de [livros-jogo
 
 Um exemplo concreto de site que faz uso deste tipo de recurso é o [Cadillac ATS vs The World][9]. Logo na página inicial é possível escolher entre os destinos possíveis (Patagonia, Marrocos, Monaco ou China) e embarcar em uma viagem virtual para cada local. Fotos panorâmicas servem como cenário, mas os depoimentos da equipe e dos moradores locais são o verdadeiro coração da história. As demais imagens, vídeos e informações em uma linguagem turística ajudam a complementar o tema viagem.
 
-[<img class="alignnone size-full wp-image-37656" alt="cadillac" src="http://tableless.com.br/wp-content/uploads/2013/06/cadillac.jpg" width="660" height="400" srcset="uploads/2013/06/cadillac.jpg 660w, uploads/2013/06/cadillac-277x168.jpg 277w, uploads/2013/06/cadillac-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][10]
+[<img class="alignnone size-full wp-image-37656" alt="cadillac" src="http://tableless.com.br/uploads/2013/06/cadillac.jpg" width="660" height="400" srcset="uploads/2013/06/cadillac.jpg 660w, uploads/2013/06/cadillac-277x168.jpg 277w, uploads/2013/06/cadillac-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][10]
 
 ## 
 
@@ -226,11 +226,11 @@ Toda história tem um protagonista. E protagonistas precisam de antagonistas, co
 
 Um case bacana de storytelling é o site da Dropbox. A metáfora de história permeia todo o design da página [Tour][11].
 
-[<img class="alignnone size-full wp-image-37657" alt="dropbox-1" src="http://tableless.com.br/wp-content/uploads/2013/06/dropbox-1.jpg" width="660" height="400" srcset="uploads/2013/06/dropbox-1.jpg 660w, uploads/2013/06/dropbox-1-277x168.jpg 277w, uploads/2013/06/dropbox-1-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
+[<img class="alignnone size-full wp-image-37657" alt="dropbox-1" src="http://tableless.com.br/uploads/2013/06/dropbox-1.jpg" width="660" height="400" srcset="uploads/2013/06/dropbox-1.jpg 660w, uploads/2013/06/dropbox-1-277x168.jpg 277w, uploads/2013/06/dropbox-1-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
 
 Eles exploram claramente o que é o serviço (&#8220;Um lugar para todos os seus arquivos, onde quer que você esteja&#8221;), quem são os possíveis personagens (&#8220;não importa se você é estudante ou profissional, um pai ou um avô.&#8221;), existe um vilão concreto (o medo de &#8220;derramar café sem querer no laptop&#8221;), um herói (a própria Dropbox) e um final feliz (&#8220;Relaxe com a certeza de que todos os seus arquivos estão seguros no Dropbox e nunca se perderão&#8221;). Para reforçar o conceito de história temos elementos esqueumórficos como metáforas (o livro, navegação por páginas, o próprio ícone da dropbox como uma caixa de arquivos) e ilustrações lúdicas para reforçar o ideal de segurança do final feliz.
 
-[<img class="alignnone size-full wp-image-37658" alt="dropbox-2" src="http://tableless.com.br/wp-content/uploads/2013/06/dropbox-2.jpg" width="660" height="400" srcset="uploads/2013/06/dropbox-2.jpg 660w, uploads/2013/06/dropbox-2-277x168.jpg 277w, uploads/2013/06/dropbox-2-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
+[<img class="alignnone size-full wp-image-37658" alt="dropbox-2" src="http://tableless.com.br/uploads/2013/06/dropbox-2.jpg" width="660" height="400" srcset="uploads/2013/06/dropbox-2.jpg 660w, uploads/2013/06/dropbox-2-277x168.jpg 277w, uploads/2013/06/dropbox-2-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
 
 Cada página do livro é em si uma história completa. Seguindo as páginas temos mais alguns elementos interessantes de storytelling como recursos de balõezinhos que remetem diretamente a história em quadrinho, elementos de humor, atribuição de super poder ao herói (máquina do tempo) e novamente vilões concretos (computador pegando fogo).
 
@@ -246,7 +246,7 @@ Quer saber como construir suas próprias personas? Aqui no Tableless temos um ar
 
 Saber disto pode te ajudar a projetar a navegação de maneira mais inteligente. Você não pode controlar as escolhas do usuário, mas pode fornecer uma estrutura lógica coesa para que ele construa seu próprio caminho. Uma história nunca é percebida exatamente como foi imaginada. Cada pessoa entende histórias de maneiras diferentes, adicionando seus próprios pensamentos, sentimentos, percepções e experiências. Interfaces como a do Windows 8 e do [Google Now][14] estão em alta hoje não apenas por que o design minimalista é uma tendência visual da moda, mas por abrirem espaço para que narrativas pessoais possam existir. Ações como criar, escolher, modificar e ordenar blocos de conteúdo permitem um nível de personalização muito maior e assim criam o cenário perfeito para estas narrativas.
 
-[<img class="alignnone size-full wp-image-37660" alt="google-now" src="http://tableless.com.br/wp-content/uploads/2013/06/google-now.jpg" width="660" height="240" srcset="uploads/2013/06/google-now.jpg 660w, uploads/2013/06/google-now-329x119.jpg 329w, uploads/2013/06/google-now-588x213.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][15]
+[<img class="alignnone size-full wp-image-37660" alt="google-now" src="http://tableless.com.br/uploads/2013/06/google-now.jpg" width="660" height="240" srcset="uploads/2013/06/google-now.jpg 660w, uploads/2013/06/google-now-329x119.jpg 329w, uploads/2013/06/google-now-588x213.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][15]
 
 O Google Now oferece uma variedade de informações em cartões de conteúdo que variam de acordo com a localização geográfica da pessoa e seu histórico de pesquisas no Google. Assim é possível exibir informações sobre o clima, trânsito, mapas, fotos, etc de acordo com o uso. Este é um exemplo de estudo de persona levado a sério! O sistema a partir de inputs automáticos traça um perfil de maneira inteligente e como consequência fornece um conteúdo mais relevante.
 
@@ -258,7 +258,7 @@ Se não possuir recursos para ter imagens próprias tente procurar por registros
 
 Você pode ainda utilizar outros recursos visuais como ilustrações ou até mesmo uma tipografia diferente. Além das imagens, elementos do layout como formas, linhas, cores, texturas, padrões, peso, movimento, espaço e proporção são as principais ferramentas para compor o tom. Dependendo do seu contexto letterings expressivos e caligrafia são boas opções e transmitem o sentimento de algo feito a mão com carinho e cuidado. O site [Forefathers Group][17] é um exemplo disto. O uso de lettering, o ar de mistério dos textos, a paleta de cores e ilustrações remete ao tema principal de grupos itinerantes e companhia de circo.
 
-[<img class="alignnone size-full wp-image-37659" alt="Forefathers-Group" src="http://tableless.com.br/wp-content/uploads/2013/06/Forefathers-Group.jpg" width="660" height="400" srcset="uploads/2013/06/Forefathers-Group.jpg 660w, uploads/2013/06/Forefathers-Group-277x168.jpg 277w, uploads/2013/06/Forefathers-Group-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][18]
+[<img class="alignnone size-full wp-image-37659" alt="Forefathers-Group" src="http://tableless.com.br/uploads/2013/06/Forefathers-Group.jpg" width="660" height="400" srcset="uploads/2013/06/Forefathers-Group.jpg 660w, uploads/2013/06/Forefathers-Group-277x168.jpg 277w, uploads/2013/06/Forefathers-Group-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][18]
 
 ## Storytelling transmídia
 
@@ -266,7 +266,7 @@ Você pode ainda utilizar outros recursos visuais como ilustrações ou até mes
 
 Um exemplo de storytelling transmídia é a campanha de e-mails marketing da empresa Meu Móvel de Madeira. Cada e-mail foca em uma persona de usuário em uma situação específica. No [exemplo a seguir][19] o personagem hipotético acabou de comprar uma casa e deseja mobiliar a sala:
 
-[<img class="alignnone size-full wp-image-37663" alt="mmm" src="http://tableless.com.br/wp-content/uploads/2013/06/mmm.jpg" width="660" height="400" srcset="uploads/2013/06/mmm.jpg 660w, uploads/2013/06/mmm-277x168.jpg 277w, uploads/2013/06/mmm-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][20]
+[<img class="alignnone size-full wp-image-37663" alt="mmm" src="http://tableless.com.br/uploads/2013/06/mmm.jpg" width="660" height="400" srcset="uploads/2013/06/mmm.jpg 660w, uploads/2013/06/mmm-277x168.jpg 277w, uploads/2013/06/mmm-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][20]
 
 &nbsp;
 

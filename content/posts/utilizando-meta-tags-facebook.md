@@ -23,7 +23,7 @@ tags:
 Creio que você, usuário frenético de facebook já tenha visto algo mais ou menos assim na sua linha do tempo:
 
 <div id="attachment_40213" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/wp-content/uploads/2014/01/imagem-P.jpg"><img class="size-full wp-image-40213" alt="Imagem compartilhamento Facebook." src="http://tableless.com.br/wp-content/uploads/2014/01/imagem-P.jpg" width="474" height="153" srcset="uploads/2014/01/imagem-P.jpg 474w, uploads/2014/01/imagem-P-329x106.jpg 329w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://tableless.com.br/uploads/2014/01/imagem-P.jpg"><img class="size-full wp-image-40213" alt="Imagem compartilhamento Facebook." src="http://tableless.com.br/uploads/2014/01/imagem-P.jpg" width="474" height="153" srcset="uploads/2014/01/imagem-P.jpg 474w, uploads/2014/01/imagem-P-329x106.jpg 329w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p class="wp-caption-text">
     Facebook Share
@@ -89,7 +89,7 @@ Colocando apenas a URL da imagem já é necessário para que sua postagem a apre
 Pequeno
 
 <div id="attachment_40213" style="width: 484px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/wp-content/uploads/2014/01/imagem-P.jpg"><img class="size-full wp-image-40213" alt="Imagem compartilhamento Facebook." src="http://tableless.com.br/wp-content/uploads/2014/01/imagem-P.jpg" width="474" height="153" srcset="uploads/2014/01/imagem-P.jpg 474w, uploads/2014/01/imagem-P-329x106.jpg 329w" sizes="(max-width: 474px) 100vw, 474px" /></a>
+  <a href="http://tableless.com.br/uploads/2014/01/imagem-P.jpg"><img class="size-full wp-image-40213" alt="Imagem compartilhamento Facebook." src="http://tableless.com.br/uploads/2014/01/imagem-P.jpg" width="474" height="153" srcset="uploads/2014/01/imagem-P.jpg 474w, uploads/2014/01/imagem-P-329x106.jpg 329w" sizes="(max-width: 474px) 100vw, 474px" /></a>
   
   <p class="wp-caption-text">
     Facebook Share Pequeno
@@ -101,7 +101,7 @@ Isso acontece porque ela não é grande o suficiente para ser um Thumbanil de mo
 E caso a imagem seja grande, ou se você especificou uma dimensão grande na tag, ela irá aparecer assim:
 
 <div id="attachment_40214" style="width: 330px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/wp-content/uploads/2014/01/imagem-G.jpg"><img class="size-medium wp-image-40214" alt="Compartilhamento com Thumbnail grande." src="http://tableless.com.br/wp-content/uploads/2014/01/imagem-G-320x310.jpg" width="320" height="310" srcset="uploads/2014/01/imagem-G-320x310.jpg 320w, uploads/2014/01/imagem-G-173x168.jpg 173w, uploads/2014/01/imagem-G.jpg 396w" sizes="(max-width: 320px) 100vw, 320px" /></a>
+  <a href="http://tableless.com.br/uploads/2014/01/imagem-G.jpg"><img class="size-medium wp-image-40214" alt="Compartilhamento com Thumbnail grande." src="http://tableless.com.br/uploads/2014/01/imagem-G-320x310.jpg" width="320" height="310" srcset="uploads/2014/01/imagem-G-320x310.jpg 320w, uploads/2014/01/imagem-G-173x168.jpg 173w, uploads/2014/01/imagem-G.jpg 396w" sizes="(max-width: 320px) 100vw, 320px" /></a>
   
   <p class="wp-caption-text">
     Facebook Share Grande

@@ -66,6 +66,6 @@ A [biblioteca de referência do Safari][2] tem alguns exemplos muito bons sobre 
 
 Para gradientes simples e para ocasiões onde o Internet Explorer não seja requisitado, esse recurso é interessante. Se o IE for realmente uma pedra no seu caminho e você precisa fazer uma versão com imagens para ele, aconselho deixar essa técnica para lá e fazer uma versão com imagens para todos os browsers. Você vai ter o trabalho já de produzir as imagens, recortá-las e etc, não vale a pena manter dois tipos de códigos.
 
- [1]: http://tableless.com.br/wp-content/uploads/2010/09/gradiente.html
+ [1]: http://tableless.com.br/uploads/2010/09/gradiente.html
  [2]: http://developer.apple.com/library/safari/#documentation/InternetWeb/Conceptual/SafariVisualEffectsProgGuide/Gradients/Gradients.html
  [3]: http://www.westciv.com/tools/gradients/index.html

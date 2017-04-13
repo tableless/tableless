@@ -27,11 +27,11 @@ A não ser que você tenha passado o último ano da sua vida em coma, é prováv
 
 A resposta curta é: um par de óculos. A resposta longa: um pequeno computador inserido em uma armação leve com uma pequena tela posicionada no canto superior direito acima da linha de visão capaz de navegar na internet, ler e-mails, realizar buscas por voz, enviar mensagens SMS, tirar fotos, gravar vídeos, traduzir conteúdo, exibir mapas em tempo real, calendários, realizar ligações, iniciar um hangout do Google, enfim, praticamente tudo o que o seu smartphone faz. Só que sem as mãos.
 
-[<img class="alignnone size-full wp-image-38672" alt="google-glass" src="http://tableless.com.br/wp-content/uploads/2013/08/google-glass.jpg" width="660" height="258" srcset="uploads/2013/08/google-glass.jpg 660w, uploads/2013/08/google-glass-329x128.jpg 329w, uploads/2013/08/google-glass-588x229.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][2]
+[<img class="alignnone size-full wp-image-38672" alt="google-glass" src="http://tableless.com.br/uploads/2013/08/google-glass.jpg" width="660" height="258" srcset="uploads/2013/08/google-glass.jpg 660w, uploads/2013/08/google-glass-329x128.jpg 329w, uploads/2013/08/google-glass-588x229.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][2]
 
 Desde seu anúncio o Google Glass divide opiniões. Alguns acreditam que o aparelho é a maior invenção do mundo desde a pizza de pepperoni, outros acham que é um dispositivo criado por uma corporação gananciosa para monitorar todas as ações e controlar a mente das pessoas ou até mesmo que o design do aparelho é uma catástrofe da moda tirado de um filme de ficção cientifica B. Seja qual for a sua opinião é improvável que você fique indiferente ao Google Glass. E independente dela, o fato é que o dispositivo vai revolucionar a maneira como lidamos com a informação.
 
-[<img class="alignnone size-full wp-image-38670" alt="google-glass-model" src="http://tableless.com.br/wp-content/uploads/2013/08/google-glass-model.jpg" width="660" height="372" srcset="uploads/2013/08/google-glass-model.jpg 660w, uploads/2013/08/google-glass-model-298x168.jpg 298w, uploads/2013/08/google-glass-model-550x310.jpg 550w" sizes="(max-width: 660px) 100vw, 660px" />][2]
+[<img class="alignnone size-full wp-image-38670" alt="google-glass-model" src="http://tableless.com.br/uploads/2013/08/google-glass-model.jpg" width="660" height="372" srcset="uploads/2013/08/google-glass-model.jpg 660w, uploads/2013/08/google-glass-model-298x168.jpg 298w, uploads/2013/08/google-glass-model-550x310.jpg 550w" sizes="(max-width: 660px) 100vw, 660px" />][2]
 
 O Google Glass atualmente está em fase de teste. Existem 10.000 usuários (ou Glass Explorers) atualmente no mundo sendo que destes 2.000 são desenvolvedores encarregados de criar conteúdo fresquinho para o aparelho. A previsão de lançamento oficial é no final deste ano e, com base no hype, não deve demorar muito para escutarmos a frase &#8220;Eu quero que meu site funcione no Glass&#8221;. Para isto é necessário conhecer bem o aparelho, seus pontos fortes e fracos e como criar layouts que não atrapalhem o dia-a-dia dos usuários. E mais importante de tudo, como é ver o mundo através das lentes do Google Glass.
 
@@ -59,7 +59,7 @@ Alias, a razão para o sucesso do Glass talvez esteja em uma &#8220;falha&#8221;
 
 O Google Glass mal foi lançado, mas já existem diversas empresas na corrida pelo mercado eyewear. A idéia do [Epifhany][4], por exemplo, é ser fashion. Já o [LiveMap][5] é um capacete para motociclistas com GPS embutido. O [Lumus][6] se propoe a de fato criar uma realidade aumentada. Além destes temos o GlassUp, Scope Technologies, Seebright, Innovega, Telepathy One&#8230; Os diferenciais variam entre design do produto, especificações técnicas e o mais importante: preço. Inicialmente o custo para comprar um aparelho em beta teste do Google Glass foi de $1500 dolares. Alguns [rumores][7] indicam que o valor para o consumidor final será bem mais barato: US$ 299. Mas isto não passa de especulação.
 
-[<img class="alignnone size-full wp-image-38669" alt="http://www.epiphanyeyewear.com" src="http://tableless.com.br/wp-content/uploads/2013/08/epiphany.jpg" width="660" height="355" srcset="uploads/2013/08/epiphany.jpg 660w, uploads/2013/08/epiphany-312x168.jpg 312w, uploads/2013/08/epiphany-576x310.jpg 576w" sizes="(max-width: 660px) 100vw, 660px" />][8]
+[<img class="alignnone size-full wp-image-38669" alt="http://www.epiphanyeyewear.com" src="http://tableless.com.br/uploads/2013/08/epiphany.jpg" width="660" height="355" srcset="uploads/2013/08/epiphany.jpg 660w, uploads/2013/08/epiphany-312x168.jpg 312w, uploads/2013/08/epiphany-576x310.jpg 576w" sizes="(max-width: 660px) 100vw, 660px" />][8]
   
 <small>Epiphany</small>
 
@@ -77,9 +77,9 @@ Este vídeo demonstra como interagir com a timeline.
 
 Já existem alguns serviços em funcionamento no momento como Path, [Evernote][10], CNN, New York Times, Twitter, Facebook, Elle e Tumblr. Todos eles funcionam através de uma permissão ligada a contas do Facebook e / ou Google+. Através do diretório não-oficial [Glass-apps.org][11] é possível ver outros exemplos de serviços, reviews e links para instalação.
 
-[<img class="alignnone size-full wp-image-38668" alt="cnn-google-glass" src="http://tableless.com.br/wp-content/uploads/2013/08/cnn-google-glass.jpg" width="660" height="372" srcset="uploads/2013/08/cnn-google-glass.jpg 660w, uploads/2013/08/cnn-google-glass-298x168.jpg 298w, uploads/2013/08/cnn-google-glass-550x310.jpg 550w" sizes="(max-width: 660px) 100vw, 660px" />][12]
+[<img class="alignnone size-full wp-image-38668" alt="cnn-google-glass" src="http://tableless.com.br/uploads/2013/08/cnn-google-glass.jpg" width="660" height="372" srcset="uploads/2013/08/cnn-google-glass.jpg 660w, uploads/2013/08/cnn-google-glass-298x168.jpg 298w, uploads/2013/08/cnn-google-glass-550x310.jpg 550w" sizes="(max-width: 660px) 100vw, 660px" />][12]
   
-[<img class="alignnone size-full wp-image-38667" alt="cnn-google-glass-2" src="http://tableless.com.br/wp-content/uploads/2013/08/cnn-google-glass-2.jpg" width="660" height="372" srcset="uploads/2013/08/cnn-google-glass-2.jpg 660w, uploads/2013/08/cnn-google-glass-2-298x168.jpg 298w, uploads/2013/08/cnn-google-glass-2-550x310.jpg 550w" sizes="(max-width: 660px) 100vw, 660px" />][12]
+[<img class="alignnone size-full wp-image-38667" alt="cnn-google-glass-2" src="http://tableless.com.br/uploads/2013/08/cnn-google-glass-2.jpg" width="660" height="372" srcset="uploads/2013/08/cnn-google-glass-2.jpg 660w, uploads/2013/08/cnn-google-glass-2-298x168.jpg 298w, uploads/2013/08/cnn-google-glass-2-550x310.jpg 550w" sizes="(max-width: 660px) 100vw, 660px" />][12]
 
 Se empolgou para criar Glassware? A boa notícia é que você não precisa aprender nenhuma linguagem nova. É possível projetar serviços utilizando java, .net, ruby, python e php e a [documentação oficial][13] inclui muitos exemplo, [templates][14] e até mesmo o [CSS dos cards nativos][15].
 
@@ -103,7 +103,7 @@ Os comandos, em teoria, são bem básicos. É possível descer a barra de rolage
 
 Navegar em sites não otimizados para o aparelho pode ser uma tarefa complicada. Se nenhuma tag viewport for definida o Glass irá renderizar o layout de uma página como um browser de desktop (viewport de 960px). Até aí tudo bem, mas isto causa alguns problemas já que o texto de um site &#8220;normal&#8221; é bem difícil de ler na distância focal do Glass sem zoom. O mesma vale para selecionar links com precisão. Então um bom tamanho de texto é fundamental já que, ao contrário dos smartphones, é impossível aproximar mais o aparelho do rosto. Os cards nativos utilizam a fonte Roboto com 5 tamanhos para texto padrão: 70px, 50px, 40px, 34px, 30px. Existem duas exceções: 90px para frases importantes e curtas e 26px para o footer.
 
-[<img class="alignnone size-full wp-image-38671" alt="google-glass-template" src="http://tableless.com.br/wp-content/uploads/2013/08/google-glass-template.jpg" width="660" height="372" srcset="uploads/2013/08/google-glass-template.jpg 660w, uploads/2013/08/google-glass-template-298x168.jpg 298w, uploads/2013/08/google-glass-template-550x310.jpg 550w" sizes="(max-width: 660px) 100vw, 660px" />][16]
+[<img class="alignnone size-full wp-image-38671" alt="google-glass-template" src="http://tableless.com.br/uploads/2013/08/google-glass-template.jpg" width="660" height="372" srcset="uploads/2013/08/google-glass-template.jpg 660w, uploads/2013/08/google-glass-template-298x168.jpg 298w, uploads/2013/08/google-glass-template-550x310.jpg 550w" sizes="(max-width: 660px) 100vw, 660px" />][16]
 
 No caso de sites que utilizam a meta-tag viewport width=device-width a renderização será igual a um smartphone em modo paisagem.
 
@@ -143,11 +143,11 @@ O Google Glass abriu um mundo de possibilidades (semi) infinitas para designers 
 
 Alguns projetos são perfeitamente possíveis como este app de Fitness do [Ok Glass][19].
 
-[<img class="alignnone size-full wp-image-38674" alt="okglass-2" src="http://tableless.com.br/wp-content/uploads/2013/08/okglass-2.jpg" width="660" height="375" srcset="uploads/2013/08/okglass-2.jpg 660w, uploads/2013/08/okglass-2-295x168.jpg 295w, uploads/2013/08/okglass-2-545x310.jpg 545w" sizes="(max-width: 660px) 100vw, 660px" />][20]
+[<img class="alignnone size-full wp-image-38674" alt="okglass-2" src="http://tableless.com.br/uploads/2013/08/okglass-2.jpg" width="660" height="375" srcset="uploads/2013/08/okglass-2.jpg 660w, uploads/2013/08/okglass-2-295x168.jpg 295w, uploads/2013/08/okglass-2-545x310.jpg 545w" sizes="(max-width: 660px) 100vw, 660px" />][20]
 
 Outros nem tanto como este de reconhecimento facial feito pelo mesmo designer.
 
-[<img class="alignnone size-full wp-image-38675" alt="okglass" src="http://tableless.com.br/wp-content/uploads/2013/08/okglass.jpg" width="660" height="372" srcset="uploads/2013/08/okglass.jpg 660w, uploads/2013/08/okglass-298x168.jpg 298w, uploads/2013/08/okglass-550x310.jpg 550w" sizes="(max-width: 660px) 100vw, 660px" />][20]
+[<img class="alignnone size-full wp-image-38675" alt="okglass" src="http://tableless.com.br/uploads/2013/08/okglass.jpg" width="660" height="372" srcset="uploads/2013/08/okglass.jpg 660w, uploads/2013/08/okglass-298x168.jpg 298w, uploads/2013/08/okglass-550x310.jpg 550w" sizes="(max-width: 660px) 100vw, 660px" />][20]
 
 Ainda assim pesquisar os protótipos para a plataforma pode ser uma boa fonte de inspiração. [Este vídeo da Playground Inc][21] também apresenta ideias de aplicativos bem interessantes.
 
@@ -159,7 +159,7 @@ Nenhuma destas ferramentas é perfeita. Mesmo por que interação é algo muito 
 
 Através do [Google Mirror API Playground][22] você pode brincar com templates de cards padrão no seu próprio browser. É possível anexar imagens, escrever textos, renderizar html, cruar menus personalizados, notificações falsas e até visualisar algumas ações da timeline com inserir, modificar e deletar itens.
 
-[<img class="alignnone size-full wp-image-38673" alt="mirror-API-playground" src="http://tableless.com.br/wp-content/uploads/2013/08/mirror-API-playground.jpg" width="660" height="270" srcset="uploads/2013/08/mirror-API-playground.jpg 660w, uploads/2013/08/mirror-API-playground-329x134.jpg 329w, uploads/2013/08/mirror-API-playground-588x240.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][23]
+[<img class="alignnone size-full wp-image-38673" alt="mirror-API-playground" src="http://tableless.com.br/uploads/2013/08/mirror-API-playground.jpg" width="660" height="270" srcset="uploads/2013/08/mirror-API-playground.jpg 660w, uploads/2013/08/mirror-API-playground-329x134.jpg 329w, uploads/2013/08/mirror-API-playground-588x240.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][23]
 
 Este [projeto no Github][24] criado pelo desenvolvedor Gerwin Sturm emula a API para que você possa baixar e realizar testes mais complexos sem ser um dos desenvolvedores oficiais (AKA explores) da plataforma.
 
@@ -167,7 +167,7 @@ Este [projeto no Github][24] criado pelo desenvolvedor Gerwin Sturm emula a API 
 
 O [GlassSim][25] é uma das ferramentas mais interessantes que eu encontrei para simular como é a experiência de utilizar o Glass. Você escolhe um template de card padrão ou escreve do zero a sua própria estrutura utilizando HTML e CSS inline. Depois é possível realizar o upload de uma foto para simular o campo de visão ou até mesmo abrir a sua webcam e ver o layout em ação no mundo real. É possível a partir daí tirar screenshots ou compartilhar o link com outras pessoas. A [galeria][26] exibe alguns exemplos interessantes do que seria possível fazer com o Glass.
 
-[<img class="alignnone size-full wp-image-38688" alt="glassSim" src="http://tableless.com.br/wp-content/uploads/2013/08/glassSim.jpg" width="660" height="352" srcset="uploads/2013/08/glassSim.jpg 660w, uploads/2013/08/glassSim-315x168.jpg 315w, uploads/2013/08/glassSim-581x310.jpg 581w" sizes="(max-width: 660px) 100vw, 660px" />][27]
+[<img class="alignnone size-full wp-image-38688" alt="glassSim" src="http://tableless.com.br/uploads/2013/08/glassSim.jpg" width="660" height="352" srcset="uploads/2013/08/glassSim.jpg 660w, uploads/2013/08/glassSim-315x168.jpg 315w, uploads/2013/08/glassSim-581x310.jpg 581w" sizes="(max-width: 660px) 100vw, 660px" />][27]
 
 ## Conclusão
 

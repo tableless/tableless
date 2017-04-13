@@ -12,13 +12,13 @@ shorturls:
 enclosure:
   - |
     |
-        http://tableless.com.br/wp-content/uploads/2011/02/drops3-modulando-css1.oga
+        http://tableless.com.br/uploads/2011/02/drops3-modulando-css1.oga
         0
         audio/ogg
         
   - |
     |
-        http://tableless.com.br/wp-content/uploads/2011/02/drops3-modulando-css1.mp3
+        http://tableless.com.br/uploads/2011/02/drops3-modulando-css1.mp3
         2013435
         audio/mpeg
         
@@ -48,9 +48,9 @@ tags:
 Existem várias formas de modular seu CSS, vou citar duas delas. A primeira delas é modulando seu código por página. A segunda é modulando por áreas do site.
 
 <!--audio controls> 
-<source src="http://tableless.com.br/wp-content/uploads/2011/02/drops3-modulando-css1.oga" type="audio/ogg" />
-<source src="http://tableless.com.br/wp-content/uploads/2011/02/drops3-modulando-css1.mp3" type="audio/mpeg" />
- Se preferir faça o download do arquivo em <a href="http://tableless.com.br/wp-content/uploads/2011/02/drops3-modulando-css1.mp3" title="Audio MP3 - Duas formas de modular se CSS">Mp3</a> ou <a href="http://tableless.com.br/wp-content/uploads/2011/02/drops3-modulando-css1.oga" title="Audio OGG - Duas formas de modular se CSS">OGA</a>.
+<source src="http://tableless.com.br/uploads/2011/02/drops3-modulando-css1.oga" type="audio/ogg" />
+<source src="http://tableless.com.br/uploads/2011/02/drops3-modulando-css1.mp3" type="audio/mpeg" />
+ Se preferir faça o download do arquivo em <a href="http://tableless.com.br/uploads/2011/02/drops3-modulando-css1.mp3" title="Audio MP3 - Duas formas de modular se CSS">Mp3</a> ou <a href="http://tableless.com.br/uploads/2011/02/drops3-modulando-css1.oga" title="Audio OGG - Duas formas de modular se CSS">OGA</a>.
 </audio-->
 
 
@@ -60,6 +60,6 @@ Veja todos os [nossos drops no Soundcloud][1].
 Se preferir faça o download do arquivo em [Mp3][2] ou [OGA][3]. Ou [inscreva no iTunes][4].
 
  [1]: http://soundcloud.com/tableless
- [2]: http://tableless.com.br/wp-content/uploads/2011/02/drops3-modulando-css1.mp3 "Audio MP3 - Duas formas de modular se CSS"
- [3]: http://tableless.com.br/wp-content/uploads/2011/02/drops3-modulando-css1.oga "Audio OGG - Duas formas de modular se CSS"
+ [2]: http://tableless.com.br/uploads/2011/02/drops3-modulando-css1.mp3 "Audio MP3 - Duas formas de modular se CSS"
+ [3]: http://tableless.com.br/uploads/2011/02/drops3-modulando-css1.oga "Audio OGG - Duas formas de modular se CSS"
  [4]: http://itunes.apple.com/us/podcast/tableless-desenvolvimento/id73330789 "Drops do Tableless no iTunes."

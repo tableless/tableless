@@ -33,7 +33,7 @@ Em conjunto com a nova versão no Polymer, alguns serviços foram imediatamente 
 
 ### Um catálogo de elementos remodelado e mais completo
 
-<img class="alignleft size-full wp-image-49348" src="http://tableless.com.br/wp-content/uploads/2015/06/Screen-Shot-2015-06-02-at-5.09.53-PM.png" alt="Novo Polymer Elements Catalog" width="945" height="515" />
+<img class="alignleft size-full wp-image-49348" src="http://tableless.com.br/uploads/2015/06/Screen-Shot-2015-06-02-at-5.09.53-PM.png" alt="Novo Polymer Elements Catalog" width="945" height="515" />
 
 Na nova versão a <a href="https://elements.polymer-project.org/" target="_blank">camada de elementos</a>, foi definida como uma espécie de &#8220;linhas de produtos&#8221;, basicamente, teremos segmentações mais bem definidas de componentes comumentes utilizados no desenvolvimento web, porém melhor do que falar, vamos ver quais são estes segmentos:
 
@@ -69,7 +69,7 @@ E por enquanto, é isto que temos com relação aos componentes prontos oferecid
 
 ## Bem-vindo Polymer Starter Kit
 
-<img class="alignleft size-full wp-image-49352" src="http://tableless.com.br/wp-content/uploads/2015/06/screenshot-developers.google.com-2015-06-02-17-12-22.png" alt="Site do Polymer Starter Kit" width="1680" height="884" />
+<img class="alignleft size-full wp-image-49352" src="http://tableless.com.br/uploads/2015/06/screenshot-developers.google.com-2015-06-02-17-12-22.png" alt="Site do Polymer Starter Kit" width="1680" height="884" />
   
 Também foi lançado uma nova ferramenta chamada <a href="https://developers.google.com/web/tools/polymer-starter-kit/" target="_blank">Polymer Starter Kit</a>, que basicamente entrega um boilerplate com os últimos elementos lançados e ferramentas para colocar sua aplicação em produção.
 

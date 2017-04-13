@@ -66,12 +66,12 @@ Alguns diferenciais que ele possui são os botões, o modal, os cards, as collec
 
 Eu poderia colocar um milhão de exemplos feitos aqui, mas não tenho os direitos autorais deles então caso queira ver o showcase do site acesse o link <a href="http://materializecss.com/showcase.html" target="_blank">Showcase</a> e veja. Mas para não deixar vocês sem nenhum exemplo deixo aqui um site feito por mim através do materialize, espero que gostem o link está na imagem e abaixo dela.
   
-<a href="http://blog.loguei.com/" target="_blank"><br /> <img src="http://tableless.com.br/wp-content/uploads/2015/09/263dfd28861105.55d5d38e09a6f.jpg" alt="" /><br /> </a>
+<a href="http://blog.loguei.com/" target="_blank"><br /> <img src="http://tableless.com.br/uploads/2015/09/263dfd28861105.55d5d38e09a6f.jpg" alt="" /><br /> </a>
   
 <a href="http://blog.loguei.com/" target="_blank">blog.loguei.com</a>
 
 Bem, aqui terminamos esse maravilhoso assunto sobre um Framework bem simples e maneiro de usar. Espero ter ajudado um pouco a todos. Obrigado ^^.
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/09/materialize-css-framework-01.jpg
- [2]: http://tableless.com.br/wp-content/uploads/2015/09/Sem-Título-1.jpg
- [3]: http://tableless.com.br/wp-content/uploads/2015/09/menu.gif
+ [1]: http://tableless.com.br/uploads/2015/09/materialize-css-framework-01.jpg
+ [2]: http://tableless.com.br/uploads/2015/09/Sem-Título-1.jpg
+ [3]: http://tableless.com.br/uploads/2015/09/menu.gif

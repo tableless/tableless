@@ -33,9 +33,9 @@ Leia mais sobre variáveis no CSS [aqui][2] e [aqui][3].
 
 O **Font Feature Properties** permite usar estilos especiais de textos e efeitos disponíveis em fontes como ligaduras e small-caps. Esses efeitos não são simulações feitas pelo browser, mas os estilos são desenhados pelo author. Existem fonts que você pode usar ligaduras ou não. Se essa opção estiver disponível na familia da font, você poderá optar por usar.
 
-<img src="http://tableless.com.br/wp-content/uploads/2016/04/IMG_0252.jpeg" alt="IMG_0252" width="2178" height="739" class="alignnone size-full wp-image-53572" />
+<img src="http://tableless.com.br/uploads/2016/04/IMG_0252.jpeg" alt="IMG_0252" width="2178" height="739" class="alignnone size-full wp-image-53572" />
 
-<img src="http://tableless.com.br/wp-content/uploads/2016/04/Screen-Shot-2016-04-01-at-3.01.27-PM.png" alt="Screen Shot 2016-04-01 at 3.01.27 PM" width="382" height="200" class="alignnone size-full wp-image-53573" />
+<img src="http://tableless.com.br/uploads/2016/04/Screen-Shot-2016-04-01-at-3.01.27-PM.png" alt="Screen Shot 2016-04-01 at 3.01.27 PM" width="382" height="200" class="alignnone size-full wp-image-53573" />
 
 Você pode [ler mais sobre isso aqui][4].
 

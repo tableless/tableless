@@ -33,7 +33,7 @@ Acredito que o ideal é entregar o mais próximo possível dos 60fps, assim fi
 
 ## O Trampo do Browser
 
-[<img class="alignnone wp-image-49672 size-full" src="http://tableless.com.br/wp-content/uploads/2015/06/rsz_fluxo_de_renderização_do_browser.png" alt="Fluxo de renderização de um frame" width="800" height="230" />][1]
+[<img class="alignnone wp-image-49672 size-full" src="http://tableless.com.br/uploads/2015/06/rsz_fluxo_de_renderização_do_browser.png" alt="Fluxo de renderização de um frame" width="800" height="230" />][1]
 
 O fluxo acima resume as etapas que o browser pode seguir para criar um frame. Nosso código pode influenciar esse fluxo, podendo diminuir o trabalho executado pela engine de renderização. Vamos conhecer cada etapa e descobrir como o código que escrevemos influencia essa sequencia.
 
@@ -99,19 +99,19 @@ Geralmente o F12 abre essas ferramentas pra você (pelo menos no Windows).
 
 ### Google Chrome
 
-[<img class="alignnone wp-image-49668 size-full" src="http://tableless.com.br/wp-content/uploads/2015/06/rsz_2style_render_-_gc.jpg" alt="Google Chrome - Timeline" width="800" height="432" />][2]
+[<img class="alignnone wp-image-49668 size-full" src="http://tableless.com.br/uploads/2015/06/rsz_2style_render_-_gc.jpg" alt="Google Chrome - Timeline" width="800" height="432" />][2]
 
 Costumo usar o Chrome diariamente. Acredito que ele é atualmente o mais completo pois entrega bastante informações. Mas muitas informações. Seria assunto pra um post inteiro.
 
 ### Internet Explorer 11 / Microsoft Edge
 
-[<img class="alignnone wp-image-49669 size-full" src="http://tableless.com.br/wp-content/uploads/2015/06/rsz_style_render_-_ie.jpg" alt="Microsoft Edge - Análise de Desempenho" width="800" height="432" />][3]
+[<img class="alignnone wp-image-49669 size-full" src="http://tableless.com.br/uploads/2015/06/rsz_style_render_-_ie.jpg" alt="Microsoft Edge - Análise de Desempenho" width="800" height="432" />][3]
 
 No momento estou usando o Windows 10 Preview e tenho á disposição o IE11 e o Microsoft Edge. Posso afirmar que ele faz um trabalho decente mas ainda tem muito pra melhorar.
 
 ### Firefox Developer Edition
 
-[<img class="alignnone wp-image-49670 size-full" src="http://tableless.com.br/wp-content/uploads/2015/06/rsz_style_render_-_ff.jpg" alt="Firefox - Análise de Desempenho" width="800" height="215" />][4]
+[<img class="alignnone wp-image-49670 size-full" src="http://tableless.com.br/uploads/2015/06/rsz_style_render_-_ff.jpg" alt="Firefox - Análise de Desempenho" width="800" height="215" />][4]
 
 O Firefox faz um bom trabalho e tem uma ótima documentação, mas nesse quesito ainda tem muito para melhorar se o compararmos ao Chrome.
 
@@ -129,7 +129,7 @@ No Google Web Fundamentals existe uma sessão focada no assunto. Ótimo ponto 
   
 Curso gratuito desenvolvido pela Udacity com a Google. Além das explicações teóricas, tem bastante exercícios práticos.
 
- [1]: http://tableless.com.br/wp-content/uploads/2015/06/rsz_fluxo_de_renderização_do_browser.png
- [2]: http://tableless.com.br/wp-content/uploads/2015/06/rsz_2style_render_-_gc.jpg
- [3]: http://tableless.com.br/wp-content/uploads/2015/06/rsz_style_render_-_ie.jpg
- [4]: http://tableless.com.br/wp-content/uploads/2015/06/rsz_style_render_-_ff.jpg
+ [1]: http://tableless.com.br/uploads/2015/06/rsz_fluxo_de_renderização_do_browser.png
+ [2]: http://tableless.com.br/uploads/2015/06/rsz_2style_render_-_gc.jpg
+ [3]: http://tableless.com.br/uploads/2015/06/rsz_style_render_-_ie.jpg
+ [4]: http://tableless.com.br/uploads/2015/06/rsz_style_render_-_ff.jpg

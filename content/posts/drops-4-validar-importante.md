@@ -14,13 +14,13 @@ twittercomments:
 enclosure:
   - |
     |
-        http://tableless.com.br/wp-content/uploads/2011/03/drops4-validar-importa.ogg
+        http://tableless.com.br/uploads/2011/03/drops4-validar-importa.ogg
         3034743
         audio/ogg
         
   - |
     |
-        http://tableless.com.br/wp-content/uploads/2011/03/drops4-validar-importa.mp3
+        http://tableless.com.br/uploads/2011/03/drops4-validar-importa.mp3
         2060874
         audio/mpeg
         
@@ -42,9 +42,9 @@ tags:
 Validar o HTML é importante? Para que serve o validador? O que ele não analisa?
 
 <!--audio controls> 
-<source src="http://tableless.com.br/wp-content/uploads/2011/03/drops4-validar-importa.ogg" type="audio/ogg" />
-<source src="http://tableless.com.br/wp-content/uploads/2011/03/drops4-validar-importa.mp3" type="audio/mpeg" />
- Se preferir faça o download do arquivo em <a href="http://tableless.com.br/wp-content/uploads/2011/03/drops4-validar-importa.mp3" title="Audio MP3">Mp3</a> ou <a href="http://tableless.com.br/wp-content/uploads/2011/03/drops4-validar-importa.ogg" title="Audio OGG">OGA</a>.
+<source src="http://tableless.com.br/uploads/2011/03/drops4-validar-importa.ogg" type="audio/ogg" />
+<source src="http://tableless.com.br/uploads/2011/03/drops4-validar-importa.mp3" type="audio/mpeg" />
+ Se preferir faça o download do arquivo em <a href="http://tableless.com.br/uploads/2011/03/drops4-validar-importa.mp3" title="Audio MP3">Mp3</a> ou <a href="http://tableless.com.br/uploads/2011/03/drops4-validar-importa.ogg" title="Audio OGG">OGA</a>.
 </audio-->
 
 
@@ -54,6 +54,6 @@ Veja todos os [nossos drops no Soundcloud][1].
 Se preferir faça o download do arquivo em [Mp3][2] ou [OGA][3]. Ou [inscreva no iTunes][4]. <a href="http://tableless.com.br/?feed=podcast" rel="external">Feed direto dos Podcasts</a>.
 
  [1]: http://soundcloud.com/tableless
- [2]: http://tableless.com.br/wp-content/uploads/2011/03/drops4-validar-importa.mp3 "Audio MP3"
- [3]: http://tableless.com.br/wp-content/uploads/2011/03/drops4-validar-importa.ogg "Audio OGG"
+ [2]: http://tableless.com.br/uploads/2011/03/drops4-validar-importa.mp3 "Audio MP3"
+ [3]: http://tableless.com.br/uploads/2011/03/drops4-validar-importa.ogg "Audio OGG"
  [4]: http://itunes.apple.com/us/podcast/tableless-desenvolvimento/id73330789 "Drops do Tableless no iTunes."

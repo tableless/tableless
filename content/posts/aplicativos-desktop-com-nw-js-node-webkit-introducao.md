@@ -71,7 +71,7 @@ No meu caso:
 <pre>cd c:\projetos\olamundo
 c:\nwjs\nw.exe .</pre>
 
-<img class="alignnone wp-image-54795 size-full" src="http://tableless.com.br/wp-content/uploads/2016/06/olamundo01.png" alt="Tela Olá Mundo NW.js" width="966" height="535" />
+<img class="alignnone wp-image-54795 size-full" src="http://tableless.com.br/uploads/2016/06/olamundo01.png" alt="Tela Olá Mundo NW.js" width="966" height="535" />
 
 ## Mais sobre o package.json
 
