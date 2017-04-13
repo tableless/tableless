@@ -11,8 +11,8 @@ categories:
   - O Básico
 tags:
   - meteor
-
 ---
+
 Primeiro, se você ainda não conhece o Meteor, <a href="http://tableless.com.br/apresentando-meteor/" target="_blank">da uma lida aqui</a>.
 
 Não sou tão bom em fazer tutorial quanto em propaganda, deve ser por isso que trabalho numa agência de publicidade e não numa escola, mas vamos ao que interessa, vamos brincar um pouco com Meteor.
@@ -41,9 +41,9 @@ Como a gente não manja ainda, vamos usa-los pra entender como ele funciona!
 
 O `hello-meteor.css` não tem nada, é isso, tá lá só pra ilustrar, como falei antes, mas é lá que vai seu CSS.
 
-O `hello-meteor.html` já tem alguma coisa, mas não é um HTML qualquer. Ele não tem a tag `<html>` e tem essa tal de `<template>` mais essas chaves `{{ }}`.  Primeiro é bom lembrar que a <template> não é coisa que o Meteor inventou é HTML5 e já é <a href="http://www.w3.org/TR/html5/scripting-1.html#the-template-element" target="_blank">recomendação da W3C</a>. As chaves também não são coisa nova do Meteor, quem usa <a href="http://handlebarsjs.com/" target="_blank">Handlebars.js</a> já conhece muito bem e vai estar muito familiarizado já que o <a href="https://atmospherejs.com/meteor/spacebars" target="_blank">Spacebars</a>, a engine do Meteor, é baseada no Handlebars. &#8220;Por que eles fizeram outra template engine?&#8221; você deve estar se perguntando e isso pra ter a <a href="http://docs.meteor.com/#/full/livehtmltemplates" target="_blank">reatividade no HTML</a> que a gente viu no post anterior.
+O `hello-meteor.html` já tem alguma coisa, mas não é um HTML qualquer. Ele não tem a tag `<html>` e tem essa tal de `template` mais essas chaves `{{ }}`.  Primeiro é bom lembrar que a `template` não é coisa que o Meteor inventou é HTML5 e já é [recomendação da W3C](http://www.w3.org/TR/html5/scripting-1.html#the-template-element). As chaves também não são coisa nova do Meteor, quem usa [Handlebars.js](http://handlebarsjs.com/) já conhece muito bem e vai estar muito familiarizado já que o [Spacebars](https://atmospherejs.com/meteor/spacebars), a engine do Meteor, é baseada no Handlebars. &#8220;Por que eles fizeram outra template engine?&#8221; você deve estar se perguntando e isso pra ter a [reatividade no HTML](http://docs.meteor.com/#/full/livehtmltemplates) que a gente viu no post anterior.
 
-Mas o HTML é simples, uma olhada cautelosa e você já entende o que tá acontecendo, tem a `<head>` com um `<title>`, ok; tem a `<body>` com um `<h1>`, normal e tem esse `{{> hello}}` (se você usou o mesmo nome pra pasta), isso faz exatamente o que você tá imaginando, imprime o `<template name="hello">`, declarado logo abaixo, naquele espaço da `<body>`. Se você já tem noção de template engine isso já entrou na sua cabeça, nada diferente de Angular e Ember até aqui.
+Mas o HTML é simples, uma olhada cautelosa e você já entende o que tá acontecendo, tem a `head` com um `title`, ok; tem a `body` com um `h1`, normal e tem esse `{{> hello}}` (se você usou o mesmo nome pra pasta), isso faz exatamente o que você tá imaginando, imprime o `template name="hello"`, declarado logo abaixo, naquele espaço da `body`. Se você já tem noção de template engine isso já entrou na sua cabeça, nada diferente de Angular e Ember até aqui.
 
 ## O hello-meteor.js
 
@@ -51,7 +51,7 @@ Agora sim, o JavaScript, ele que faz acontecer.
 
 A primeira coisa que a gente tem que falar no JS quando se trata do Meteor, são as Booleans: `Meteor.isClient` e `Meteor.isServer`; sim, tenho certeza que você imaginou e é pra isso mesmo pra isso que elas servem. Os arquivos `.js` no Meteor tem por natureza rodar tanto no ambiente cliente quanto no servidor, <a href="http://docs.meteor.com/#/full/structuringyourapp" target="_blank">salvo quando localizados em pastas específicas</a>, que é a parte sobre como organizar seu app em Meteor que a gente pode deixar pra outro post. Sendo assim o Meteor te da essas duas <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean" target="_blank">Booleans</a> pra você saber quando tá em um ambiente ou em outro. No `hello-meteor.js` o `if (Meteor.isClient) {` e o `if (Meteor.isServer) {` estão claros.
 
-No `isServer` não temos muita ação, mas no `isClient` a gente nota essa global `Template`; pra cada `<template>` que você definir nos seus `.html`, a `Template` terá uma propriedade com o nome que você deu, no caso `hello`. E o que você pode fazer com isso? Adicionar helpers e eventos. Helpers, quem trabalha com templates já sabe, são pequenas funções que te ajudam a mover alguma lógica de apresentação que estaria no HTML pro JS, o que faz muito mais sentido e eventos são, bom, eventos, você já conhece eles, são exatamente os eventos do DOM: click, mouseover, submit etc.
+No `isServer` não temos muita ação, mas no `isClient` a gente nota essa global `Template`; pra cada `template` que você definir nos seus `.html`, a `Template` terá uma propriedade com o nome que você deu, no caso `hello`. E o que você pode fazer com isso? Adicionar helpers e eventos. Helpers, quem trabalha com templates já sabe, são pequenas funções que te ajudam a mover alguma lógica de apresentação que estaria no HTML pro JS, o que faz muito mais sentido e eventos são, bom, eventos, você já conhece eles, são exatamente os eventos do DOM: click, mouseover, submit etc.
 
 O <a href="http://docs.meteor.com/#/full/eventmaps" target="_blank">padrão pra selecionar os eventos</a> é: `eventtype selector` e eles pode ser separados por vírgula. No nosso hello-meteor.js temos lá como exemplo: `'click button'` no lugar de `click` poderia ser `submit` e no lugar de `button` poderia ser qualquer seletor CSS como é na jQuery, aliás, já comentei que o Meteor vem a com jQuery por padrão e você pode executar `template.$` e retornar um jQuery Object? 😉 Pois é&#8230;
 
