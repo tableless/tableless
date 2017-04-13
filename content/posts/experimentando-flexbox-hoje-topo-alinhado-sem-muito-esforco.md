@@ -21,7 +21,11 @@ Só que nunca foi tão fácil assim: para deixar eles alinhados verticalmente, p
 
 É aí que entra o **_flexbox_**. Se você usa <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>, sua sintaxe do topo deve ser similar à esta:
 
-See the Pen <a href="http://codepen.io/alanmarcos/pen/xwmWOV/" target="_blank">xwmWOV</a> by Alan Marcos (<a href="http://codepen.io/alanmarcos" target="_blank">@alanmarcos</a>) on <a href="http://codepen.io" target="_blank">CodePen</a>.
+{{< codepen 
+  hash="xwmWOV"
+  user="alanmarcos"
+  author="Alan Marcos"
+>}}
 
 ### Solução
 
@@ -35,7 +39,11 @@ Costumo criar uma classe para esse tipo de alinhamento:
 
 E com só duas linhas de código, temos um topo alinhado horizontalmente sem muito esforço!
 
-See the Pen <a href="http://codepen.io/alanmarcos/pen/epbMgY/" target="_blank">epbMgY</a> by Alan Marcos (<a href="http://codepen.io/alanmarcos" target="_blank">@alanmarcos</a>) on <a href="http://codepen.io" target="_blank">CodePen</a>.
+{{< codepen 
+  hash="epbMgY"
+  user="alanmarcos"
+  author="Alan Marcos"
+>}}
 
 ### Compatibilidade
 
