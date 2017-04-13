@@ -33,6 +33,8 @@ Eu não tenho a pretensão de mostrar agora como o Hugo funciona, isso fica para
 
 Mas porque não Middleman? Embora eu tenha uma facilidade maior com Middleman por conhece-lo há mais tempo, o Hugo tem algumas facilidades interessantes, por exemplo:
 
+- Migração é bico. Quando eu procurei um migrador de WP para Middleman, não encontrei nenhum migrador decente que funcionasse. O migrador do Hugo funcionou de primeira.
+- A geração de estáticos é muito mais rápido que o Middleman. O Tableless tem mais de 1650 posts. Gerar o estático disso tudo leva menos de 2 segundos no Hugo.
 - Boa [gestão de permalinks](https://gohugo.io/extras/permalinks/)
 - Suporta vários tipos de frontmatters: json, toml e yaml
 - A forma de templating usando Sections, Archetypes e Types é bastante interessante (embora eu tenha demorado para entender o conceito)
