@@ -3,6 +3,8 @@ title: CSS3 — Trabalhando com Múltiplas imagens background-images
 author: Moisés Lopes Ferreira
 type: post
 date: 2016-09-07
+aliases:
+  - css3%E2%80%8A-%E2%80%8Atrabalhando-com-multiplas-imagens-background-images/
 excerpt: Quem nunca se deparou com o um layout com imagens “sobrepostas” que precisavam ficar suspensas sobre múltiplas imagens de fundo, com CSS3, você pode aplicar aos elementos múltiplas imagens como plano de fundo sobrepostas. Sem a utilização do Z-index, é isso mesmo “necas de pitibiriba” de Z-index. Que Z-index que nada, agora a MODA é Background-image !!!
 url: /css3 - trabalhando-com-multiplas-imagens-background-images/
 categories:
