@@ -93,7 +93,11 @@ body {
     color: #777;
 }</pre>
 
-See the Pen [Z-index][1] by Moisés lopes ferreira ([@selique][2]) on [CodePen][3].
+{{< codepen 
+  hash="grvvLw"
+  user="selique"
+  author="Moisés lopes ferreira"
+>}}
 
 ### Funciona?!… <em class="markup--em markup--h4-em">SIM!</em> Mas espere um momento, essa não é a única solução… {.graf--h4}
 
@@ -226,7 +230,12 @@ header .intro-text .name-index span {
   font-size: 9.2vw;
 }</pre>
 
-See the Pen [Multiple backgrounds backgroud-image][4] by Moisés lopes ferreira ([@selique][2]) on [CodePen][3].
+{{< codepen 
+  hash="vKddRK"
+  user="selique"
+  author="Moisés lopes ferreira"
+  title="Multiple backgrounds backgroud-image"
+>}}
 
 <p class="graf--p">
   Suporte do navegador para múltiplas imagens com a propriedade CSS background-image é relativamente difundido na implementação do recurso citado acima:

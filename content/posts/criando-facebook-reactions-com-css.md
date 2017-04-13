@@ -141,9 +141,11 @@ O grande segredo então seria conhecer algumas propriedades de animação como, 
 
 ## Veja o demo {.codepen}
 
-<p class="codepen">
-  See the Pen <a href="http://codepen.io/deividmarques/pen/wGvbwY/">wGvbwY</a> by Deivid Marques (<a href="http://codepen.io/deividmarques">@deividmarques</a>) on <a href="http://codepen.io">CodePen</a>.
-</p>
+{{< codepen 
+  hash="wGvbwY"
+  user="deividmarques"
+  author="Deivid Marques"
+>}}
 
 ## Conclusão
 

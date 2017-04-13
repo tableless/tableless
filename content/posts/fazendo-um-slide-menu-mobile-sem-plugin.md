@@ -28,11 +28,13 @@ O resultado é bastante simples: você quer um menu como os apps nativos, daquel
 
 Veja aqui o resultado final.
 
-<p data-height="401" data-theme-id="1482" data-slug-hash="ADnfr" data-user="diegoeis" data-default-tab="result" class='codepen'>
-  See the Pen <a href='http://codepen.io/diegoeis/pen/ADnfr'>Slide menu 3</a> by Diego Eis (<a href='http://codepen.io/diegoeis'>@diegoeis</a>) on <a href='http://codepen.io'>CodePen</a>
-</p>
-
-
+{{< codepen 
+  hash="ADnfr"
+  user="diegoeis"
+  author="Diego Eis"
+  title="Slide menu 3"
+  height="401"
+>}}
 
 ## O HTML
 
@@ -79,11 +81,12 @@ Na primeira linha capturamos o clique no elemento **.menu-anchor**, que é o bot
 
 Agora iniciamos a mágica do CSS. Suponha que você já tenha o layout pronto, posicionando o menu onde ele deveria ficar quando aberto. Como esse exemplo: 
 
-<p data-height="375" data-theme-id="0" data-slug-hash="pCiah" data-user="diegoeis" data-default-tab="result" class='codepen'>
-  See the Pen <a href='http://codepen.io/diegoeis/pen/pCiah'>pCiah</a> by Diego Eis (<a href='http://codepen.io/diegoeis'>@diegoeis</a>) on <a href='http://codepen.io'>CodePen</a>
-</p>
-
-
+{{< codepen 
+  hash="pCiah"
+  user="diegoeis"
+  author="Diego Eis"
+  height="375"
+>}}
 
 Note que o menu ainda está em cima do HEADER e do MAIN. Vamos então deslocá-lo de forma que ele fique escondido, fora do viewport. Assim que o script acima for executado e inserir a classe **menu-active** no HTML, você muda a posição do menu, fazendo-o reaparecer na posição original.
 
@@ -171,11 +174,13 @@ Lembra-se do processo? Quando clicarmos nos 3 risquinhos, o javascript adiciona 
 
 Maravilha! Veja como está agora sem animação:
 
-<p data-height="393" data-theme-id="0" data-slug-hash="kBmDJ" data-user="diegoeis" data-default-tab="result" class='codepen'>
-  See the Pen <a href='http://codepen.io/diegoeis/pen/kBmDJ'>Slide menu 2</a> by Diego Eis (<a href='http://codepen.io/diegoeis'>@diegoeis</a>) on <a href='http://codepen.io'>CodePen</a>
-</p>
-
-
+{{< codepen 
+  hash="kBmDJ"
+  user="diegoeis"
+  author="Diego Eis"
+  title="Slide menu 2"
+  height="393"
+>}}
 
 Vamos inserir agora a animação. Usaremos para isso a propriedade transition do CSS3. Se você não conhece essa propriedade, leia [esse][6], [esse][7] e [esse][7] artigo para entender melhor.
 
@@ -199,11 +204,13 @@ header, .main {
 
 Veja o resultado final com animação:
 
-<p data-height="401" data-theme-id="1482" data-slug-hash="ADnfr" data-user="diegoeis" data-default-tab="result" class='codepen'>
-  See the Pen <a href='http://codepen.io/diegoeis/pen/ADnfr'>Slide menu 3</a> by Diego Eis (<a href='http://codepen.io/diegoeis'>@diegoeis</a>) on <a href='http://codepen.io'>CodePen</a>
-</p>
-
-
+{{< codepen 
+  hash="ADnfr"
+  user="diegoeis"
+  author="Diego Eis"
+  title="Slide menu 3"
+  height="401"
+>}}
 
 E eu acho que é só. Se quiser ver direto no seu aparelho, visite este endereço: <http://cdpn.io/ADnfr>
 

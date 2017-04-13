@@ -514,7 +514,12 @@ Quando combinamos todos os conceitos e o CSS, podemos escrever uma estrutura de 
 
 Confira abaixo a demonstração no CodePen para ver todo o sistema de grid em ação, incluindo grid aninhados.
 
-See the Pen [Understanding CSS Grid Systems][1] by SitePoint ([@SitePoint][2]) on [CodePen][3].
+{{< codepen 
+  hash="dPqqvN"
+  user="SitePoint"
+  author="SitePoint"
+  title="Understanding CSS Grid Systems"
+>}}
 
 Você também experimentar a <a href="http://codepen.io/ryanmorr/full/zxRzyE/" target="_blank">demo em tela cheia</a> para uma melhor impressão. Não se esqueça de brincar com as dimensões da tela para ver como o grid lida com várias resoluções.
 
