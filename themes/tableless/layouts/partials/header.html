@@ -6,6 +6,7 @@
   <link rel="icon" href="favicon.png">
   <base href="{{ .Site.BaseURL }}">
   <title>{{ .Site.Title }}</title>
+
   <link rel="canonical" href="{{ .Permalink }}">
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css">
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/default.min.css">
@@ -17,23 +18,22 @@
   <meta property="og:url" content="{{ .RelPermalink }}">
   {{ if $.Scratch.Get "single"}}<meta property="og:type" content="article">{{end}}
   <meta property="og:title" content="{{ .Title}}">
-  <meta property="og:description" content="{{.Summary}}">
+  <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}" name="description">
   <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
   <meta property="fb:app_id" content="187329465112652">
 
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@tableless" />
-  <meta name="twitter:title" content="{{.Title}}" />
-  <meta name="twitter:description" content="{{.Summary}}" />
-  <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}" />
-
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@tableless">
+  <meta name="twitter:title" content="{{.Title}}">
+  <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}">
+  <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
 
   {{if .IsHome}}
   <script type='application/ld+json'>
     {
       "@context": "http://www.schema.org",
       "@type": "WebSite",
-      "name": "Tableless",
+      "name": "{{.Site.Params.siteName}}",
       "alternateName": "{{ .Site.Title }}",
       "url": "{{ .Site.BaseURL}}",
       "description": "Artigos e notíficas sobre desenvolvimento web e design.",
@@ -71,7 +71,7 @@
       "image": "{{ with .Params.image }}{{ . }}{{ else }}/images/missing-img.png{{ end }}",
       "publisher": {
         "@type" : "Organization",
-        "name":"Tableless",
+        "name":"{{.Site.Params.siteName}}",
         "logo":"http://tableless.com.br/images/logo.svg"
         },
       "url": "{{ .RelPermalink }}",
@@ -79,9 +79,9 @@
       "keywords": "{{.Params.tags}}",
       "datePublished": "{{.Params.date}}",
       "dateCreated": "{{.Params.date}}",
-      "dateModified": "{{.Params.date}}",
+      "dateModified": "{{.Lastmod}}",
       "articleBody": "{{.Content| plainify}}",
-      "description": "{{ .Summary }}"
+      "description": "{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}"
     }
   </script>
 
