@@ -530,7 +530,3 @@ Como você pode ver, não é preciso muito para montar um sistema de grid básic
 Tradução: Tamiris Bonicenha
 
 Acesse o artigo original no <a href="http://www.sitepoint.com/understanding-css-grid-systems/" target="_blank">SitePoint – &#8220;Understanding CSS Grid Systems from the Ground Up&#8221;</a>
-
- [1]: http://codepen.io/SitePoint/pen/dPqqvN/
- [2]: http://codepen.io/SitePoint
- [3]: http://codepen.io

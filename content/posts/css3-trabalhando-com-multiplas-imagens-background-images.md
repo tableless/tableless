@@ -267,8 +267,3 @@ header .intro-text .name-index span {
 <div class="graf--mixtapeEmbed">
   <a class="markup--anchor markup--mixtapeEmbed-anchor" title="https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Background_and_Borders/Using_CSS_multiple_backgrounds" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_Background_and_Borders/Using_CSS_multiple_backgrounds"><strong class="markup--strong markup--mixtapeEmbed-strong">Multiple backgrounds</strong> &#8211; <em class="markup--em markup--mixtapeEmbed-em">Com CSS3 , você pode aplicar aos elementos multiplos planos de fundo. Estes ficam em camadas empilhadas uma acima da…</em>developer.mozilla.org</a>
 </div>
-
- [1]: http://codepen.io/selique/pen/grvvLw/
- [2]: http://codepen.io/selique
- [3]: http://codepen.io
- [4]: http://codepen.io/selique/pen/vKddRK/
