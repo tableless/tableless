@@ -41,11 +41,19 @@
   </div>
 </footer>
 
-{{ if $.Scratch.Get "single" }}
 <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script>
+  // Submenu
+  $(function() {
+    $('#tb-menu li ul').addClass('tb-submenu');
+    $('.tb-submenu').parent().addClass('tb-submenu-parent');
+  });
+</script>
+
+{{ if $.Scratch.Get "single" }}
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js"></script>
 <script>
-  $(document).ready(function() {
+  $(function() {
     $('pre').each(function(i, block) {
       hljs.highlightBlock(block);
     });
