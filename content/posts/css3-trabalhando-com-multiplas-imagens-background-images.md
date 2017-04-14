@@ -6,7 +6,6 @@ date: 2016-09-07
 aliases:
   - css3%E2%80%8A-%E2%80%8Atrabalhando-com-multiplas-imagens-background-images/
 excerpt: Quem nunca se deparou com o um layout com imagens “sobrepostas” que precisavam ficar suspensas sobre múltiplas imagens de fundo, com CSS3, você pode aplicar aos elementos múltiplas imagens como plano de fundo sobrepostas. Sem a utilização do Z-index, é isso mesmo “necas de pitibiriba” de Z-index. Que Z-index que nada, agora a MODA é Background-image !!!
-url: /css3 - trabalhando-com-multiplas-imagens-background-images/
 categories:
   - Adaptive Web Design (AWD)
   - Artigos
@@ -24,7 +23,6 @@ tags:
   - CSS3
   - html
   - z-index
-
 ---
 <p class="graf--p">
   Quem nunca se deparou com um layout com múltiplas imagens “sobrepostas” ou mesmo com títulos ou parágrafos que precisavam ficar suspensos sobre múltiplas imagens de fundo? Essa semana me deparei com o mesmo problema.
