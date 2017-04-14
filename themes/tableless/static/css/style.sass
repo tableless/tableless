@@ -18,6 +18,7 @@ body
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
   counter-reset: list-count
+  overflow-x: hidden
 
 .tb-feature-post
   @extend .tb-container
@@ -86,6 +87,9 @@ body
 // Big Screen version
 ////
 @media #{$break-desk}
+  body
+    overflow-x: auto
+    
   .tb-feature-post
     text-align: center
     padding: 0 30px 120px
