@@ -8,7 +8,7 @@ description = "2017 Tableless Design"
 homepage = "http://tableless.com.br/"
 tags = []
 features = []
-min_version = 1.0
+min_version = .19
 
 [author]
   name = "Diego Eis"
