@@ -13,9 +13,9 @@
   padding: 40px 0 30px
   max-width: 100%
   overflow: auto
-  -webkit-overflow-scrolling: touch
+  overflow-scrolling: touch
   
-  &::-webkit-scrollbar
+  &::scrollbar
     width: 0px
     background: transparent
 
@@ -25,6 +25,7 @@
 
   li
     display: inline-block
+    position: relative
 
   a
     font: .8rem $avenirBold
@@ -79,26 +80,90 @@
     order: 1
     flex: 1 0 200px
 
+  .tb-submenu-parent > a:after
+    border-top: 3px solid $gray !important
+
   #tb-menu
     order: 2
     flex: 1 0 50%
     text-align: center
     overflow: initial
     max-width: auto
+    padding-top: 27px
+    position: relative
+    z-index: 2
+
     ul
       width: auto
       padding: 0 20px
-      line-height: 20px
+    
+      a, span
+        cursor: pointer
+        text-transform: initial
+        padding: 3px 10px
+        color: $text-gray
+        font-size: 1rem
+        margin-right: 20px
 
-    a
-      text-transform: initial
-      color: $text-gray
-      font-size: 1rem
-      margin-right: 35px
+        &:after
+          content: ""
+          display: inline-block
+          margin-left: 7px
+          margin-top: -3px
+          vertical-align: middle
+          width: 0 
+          height: 0 
 
-      &:hover
-        color: $red
-        text-decoration: underline
+          border-left: 3px solid transparent
+          border-right: 3px solid transparent
+          border-top: 3px solid #fff
 
+        &:hover
+          color: $red
+    
+      li ul
+        width: 250px
+        padding: 15px 0 0
+        position: absolute
+        top: 20px
+        left: -20px
+        height: 0
+        overflow: hidden
+        background: rgba(255, 255, 255, .97)
+        max-height: 470px
+
+        li
+          display: block
+          padding: 0
+          transform: scale(1.15) translateY(10px)
+          opacity: 0
+          transition: opacity .25s cubic-bezier(.4, .01, .165, .99), transform .25s cubic-bezier(.4, .01, .165, .99)
+          
+        a
+          display: block !important
+          font-family: $avenirRegular
+          text-align: left
+          padding: 7px 10px
+          margin: 0
+          color: $gray
+
+          &:hover
+            color: $red
+            text-decoration: none
+
+      li:hover
+        ul
+          height: auto
+          overflow: auto
+          padding-left: 20px
+          padding-right: 20px
+
+          li
+            opacity: 1
+            transform: scale(1) translateX(0px)
+            @for $i from 1 through 15
+              &:nth-child(#{$i})
+                transition-delay: #{.26 - ($i * .05)}s
+    
   .tb-search
     display: block
