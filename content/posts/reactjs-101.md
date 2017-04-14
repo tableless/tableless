@@ -8,6 +8,7 @@ url: /reactjs-101/
 categories:
   - Código
   - JavaScript
+  - ReactJS
   - Tecnologia e Tendências
 tags:
   - bibliotecas javascript

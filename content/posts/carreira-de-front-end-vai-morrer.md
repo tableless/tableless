@@ -9,7 +9,8 @@ categories:
   - Artigos
   - Opinião
   - Código
-  - Destaques
+  - JavaScript
+  - ReactJS
   - Tecnologia e Tendências
 ---
 

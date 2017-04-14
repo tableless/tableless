@@ -11,6 +11,7 @@ categories:
   - Código
   - Destaques
   - JavaScript
+  - ReactJS
   - Técnicas e Práticas
 tags:
   - arquitetura

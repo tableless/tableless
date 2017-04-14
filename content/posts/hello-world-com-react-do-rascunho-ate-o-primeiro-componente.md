@@ -7,8 +7,7 @@ url: /hello-world-com-react-do-rascunho-ate-o-primeiro-componente/
 titulo_personalizado:
   - 'ReactJS: Iniciando com o <strong>básico</strong>'
 categories:
-  - Destaques
-  - Geral
+  - ReactJS
   - JavaScript
 tags:
   - JavaScript
