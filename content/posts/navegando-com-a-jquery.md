@@ -3,41 +3,16 @@ title: Navegando com a jQuery
 author: Michael Granados
 type: post
 date: 2008-09-11
-url: /navegando-com-a-jquery/
-aktt_tweeted:
-  - 1
-tweetbackscheck:
-  - 1356394085
-shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/navegando-com-a-jquery";s:7:"tinyurl";s:26:"http://tinyurl.com/3fw6agr";s:4:"isgd";s:19:"http://is.gd/8GYrTb";}'
-twittercomments:
-  - 'a:3:{i:20095929906364416;s:6:"136519";i:20213794324086785;s:7:"retweet";i:20089124849459200;s:7:"retweet";}'
-tweetcount:
-  - 5
-dsq_thread_id:
-  - 503038434
 categories:
   - Código
-  - JQuery
+  - jQuery
   - Técnicas e Práticas
 tags:
-  - ações
-  - CSS
-  - CSS3
-  - dinâmico
-  - elementos
-  - eventos
-  - html
   - JavaScript
   - JQuery
-  - menu
-  - menu com submenu
-  - semântico
-  - submenu
-  - tableless
-
 ---
 Para os designers, familiarizar-se com a jQuery é um ato muito sutil. Isso se deve ao fato da mesma basear-se em um comando ( jQuery ou o seu atalho $ ) que referencia elementos e assim atribuir valores ou aplicar ações a eles. O mais interessante é que usamos as mesmas chamadas que usamos para referenciar elementos quando trabalhamos com CSS. Logo:
+<!--more-->
 
 <pre>$('p') // Chama todos os paragrafos
 $('.menu') // Chama os elementos que contenham a classe menu
@@ -45,7 +20,6 @@ $('#caixas .chamada') // Chama os elementos .chamada que estão dentro de #caixa
 $('.menu, .box') // Chama a classe menu e a classe box
 $('#lista *') // Chama todos os elementos que estão dentro de #lista</pre>
 
-<!--more-->
 
 A jQuery ainda implementa algumas chamadas especiais, baseadas no CSS3.
 
