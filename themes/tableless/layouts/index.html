@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-{{ range first 1 .Pages}}
+{{ range first 1 (where .Site.Pages "Type" "post")}}
 <section class="tb-feature-post">
   {{ partial "posthero.html" . }}
 </section>
