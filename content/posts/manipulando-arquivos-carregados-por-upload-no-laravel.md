@@ -31,7 +31,7 @@ Bom, vamos ver como é possível fazer a manipulação na prática!
 
 Uma <em>action</em> (método de um <em>controller</em>) simples para <em>upload</em> de arquivo geralmente pega a instância do arquivo do <em>request</em>, verifica se um arquivo foi enviado e grava ele no destino final. Provavelmente algo parecido com isso:
 
-<pre>&lt;?php
+<pre class="php">&lt;?php
 
 namespace App\Http\Controllers;
 
@@ -42,17 +42,17 @@ class FileController extends Controller
 {
 
     /**
-     * Resolve o envio do arquivo.
-     *
-     * @param Request $request A instância do request.
-     * @return Response A instância da response.
-     */
+    * Resolve o envio do arquivo.
+    *
+    * @param Request $request A instância do request.
+    * @return Response A instância da response.
+    */
     public function upload(Request $request)
     {
 
         /*
-         * O campo do form com o arquivo tinha o atributo name="file".
-         */
+        * O campo do form com o arquivo tinha o atributo name="file".
+        */
         $file = $request-&gt;file('file');
 
         if (empty($file)) {
