@@ -3,6 +3,15 @@
 # Tableless estático baseado em Hugo
 Este é o site do Tableless estático. Nada de Wordpress nem qualquer outro CMS back-end. Os artigos são escritos em Markdown, com um frontmatter em yaml fácil de entender.
 
+## Rodando o projeto
+Para rodar o projeto você precisar o Hugo instalado na sua máquina. O CSS está usando SASS como pré-processador, para tanto, você precisa ter [SASS instalado na máquina](http://sass-lang.com/install). Uma vez instalado, você pode rodar o comando:
+
+```
+cd themes/tableless/static/css/
+sass --watch style.sass:style.css --style compressed
+```
+
+## Hugo
 O gerador que estamos usando agora é o [Hugo](https://gohugo.io/)... um gerador de arquivos estáticos escrito em Go.
 
 Se você quiser contribuir, por favor, clone o projeto e submeta um Pull Request. Mais do que nunca vamos precisar de ajuda agora.
