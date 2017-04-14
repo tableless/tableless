@@ -47,6 +47,20 @@ Você pode escrever qualquer assunto relacionado aos tópicos abaixo. Se você a
 
 Os artigos são baseados em Markdown. Logo, você precisa escrever ou converter seu texto para Markdown antes de submeter para nós. Se você tiver um artigo em HTML, você pode convertê-lo [usando esse serviço](https://domchristie.github.io/to-markdown/). Além disso, é *OBRIGATÓRIO* o padrão de frontmatter no seu artigo, como segue abaixo:
 
+Para submeter seu artigo, siga os passos:
+
+1. Você não precisa clonar o projeto para submeter um artigo, apenas [siga esse link](https://github.com/tableless/tableless-static/new/master/content/posts) e escreva/cole o artigo em Markdown. Esta é a página de criação de novo arquivo no GitHub que você já deve conhecer;
+2. Coloque o nome do seu arquivo seguindo esse padrão: **nome-do-artigo.md**. 
+3. Se seu artigo fizer uso de imagens, suba-o em algum serviço de host de imagens como o [imgh.us](imgh.us) ou [imgur.com](imgur.com) e coloque apenas o endereço da imagem no artigo;
+4. Depois de ter terminado, logo abaixo da área de escrita, há um campo para escrever as informações de commit. Coloque um título no commit e uma descrição sobre o artigo;
+5. Feito isso, selecione a opção **Create a new branch for this commit...** e submeta um Pull Request para a branch Master;
+6. Aguarde os comentários e a aprovação do pessoal do Tableless; Sucesso! :-D
+
+**ATENÇÃO:** Se seu artigo usar imagens, use serviços como o [imgur.com](imgur.com) para exibir suas imagens. Nós não versionamos as imagens do seu artigo.
+
+Qualquer dúvida, pode falar conosco via [twitter](http://twitter.com/tableless/) ou nos envie um [e-mail](mailto:contato@tableless.com.br).
+
+### Frontmatter
 <pre class="lang-yaml">
 ---
 title: Nome do seu artigo
@@ -62,6 +76,40 @@ categories:
 ---
 </pre>
 
+### Shortcodes
+O Hugo possibilita a criação de shortcodes para facilitar a edição de posts. Se você alguns serviços para embedar código ou vídeos, basta usar os shortcodes abaixo:
+
+#### Codepen
+Para adicionar um embed do seu experimento com Codepen, use o código de shortcode abaixo (criado pelo [Angelo Lucas](https://github.com/tableless/tableless-static/pull/6)):
+
+<pre class="lang-html">
+{{&lt; codepen
+  hash="[Obrigatório]" 
+  user="[Obrigatório]"
+  author="[Opcional]"
+  title="[Opcional]"
+  theme="[Opcional]"
+  tab="[Opcional]"
+  height="[Opcional]"
+&gt;}}
+</pre>
+
+#### YouTube
+Para adicionar o YouTube, use o código abaixo. Troque o `id` do exemplo pelo `id` do seu vídeo:
+
+<pre class="html">
+{{&lt; youtube id="w7Ft2ymGmfc" autoplay="true" &gt;}}
+</pre>
+
+#### Speaker Deck
+Para o Speaker Deck:
+
+<pre>
+{{&lt; speakerdeck 4e8126e72d853c0060001f97 &gt;}}
+</pre>
+
+
+### Categorias
 Ali em *categorias*, coloque as categorias já existentes no site, ou se não souber, deixe em branco que os nossos editores comentarão no momento do Pull Request. Mas algumas categorias que você pode aplicar são: 
 
 * Browsers
@@ -93,15 +141,3 @@ Ali em *categorias*, coloque as categorias já existentes no site, ou se não so
 
 Você pode ver um arquivo de [artigo de exemplo aqui](https://raw.githubusercontent.com/tableless/tableless-static/master/content/carreira-de-front-end-vai-morrer.md).
 
-Para submeter seu artigo, siga os passos:
-
-1. Você não precisa clonar o projeto para submeter um artigo, apenas [siga esse link](https://github.com/tableless/tableless-static/new/master/content/posts) e escreva/cole o artigo em Markdown. Esta é a página de criação de novo arquivo no GitHub que você já deve conhecer;
-2. Coloque o nome do seu arquivo seguindo esse padrão: **nome-do-artigo.md**. 
-3. Se seu artigo fizer uso de imagens, suba-o em algum serviço de host de imagens como o [imgh.us](imgh.us) ou [imgur.com](imgur.com) e coloque apenas o endereço da imagem no artigo;
-4. Depois de ter terminado, logo abaixo da área de escrita, há um campo para escrever as informações de commit. Coloque um título no commit e uma descrição sobre o artigo;
-5. Feito isso, selecione a opção **Create a new branch for this commit...** e submeta um Pull Request para a branch Master;
-6. Aguarde os comentários e a aprovação do pessoal do Tableless; Sucesso! :-D
-
-**ATENÇÃO:** Se seu artigo usar imagens, use serviços como o [imgur.com](imgur.com) para exibir suas imagens. Nós não versionamos as imagens do seu artigo.
-
-Qualquer dúvida, pode falar conosco via [twitter](http://twitter.com/tableless/) ou nos envie um [e-mail](mailto:contato@tableless.com.br).

@@ -17,7 +17,6 @@ O gerador que estamos usando agora é o [Hugo](https://gohugo.io/)... um gerador
 Se você quiser contribuir, por favor, clone o projeto e submeta um Pull Request. Mais do que nunca vamos precisar de ajuda agora.
 Para rodar o projeto, leia o [Quick Start do guia do Hugo](https://gohugo.io/overview/quickstart/). É super rápido e não precisa de tanto setup como outros geradores de conteúdo estático.
 
+## Submendo artigos
 Se você quer ser um autor, leia nesta [página as instruções](http://tableless.com.br/seja-um-autor/) e submeta seus artigos.
-
-
 
