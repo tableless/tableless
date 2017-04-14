@@ -9,14 +9,18 @@ googleAnalytics = "UA-335027-1"
 
 #enableRobotsTXT = "true"
 
+[params]
+    siteName = "Tableless"
+    description = "Website com artigos e textos sobre Padrões Web, Design, Back-end e Front-end tudo em um só lugar. "
+
 [permalinks]
-  posts = "/:filename"
-  pages = "/:filename"
+    posts = "/:filename"
+    pages = "/:filename"
 
 [taxonomies]
-tag = "tags"
-category = "categories"
-author = "author"
+    tag = "tags"
+    category = "categories"
+    author = "author"
 
 [[menu.main]]
     name = "HTML"
