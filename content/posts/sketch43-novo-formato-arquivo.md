@@ -19,6 +19,20 @@ Mas como era esperado, saiu a versão 43 do Sketch. A principal mudança nessa v
 ## Formato em JSON
 No Sketch 42, os arquivos eram baseados em formato binário. Formato binário não são legíveis para seres humanos. O código é fechado. Isso mudou no Sketch 43, que introduziu um novo formato de arquivo baseado em JSON. Como você está cansado de saber, JSON é um formato muito simples de texto para estruturação de dados, fácil de ler e entender por seres humanos e para as máquinas é muito simples de interpretar e gerar. Como ser humano, você consegue escrever facilmente a estrutura de dados manualmente usando JSON por causa do seu formato baseado nos objetos literais do JavaScript e tem uma sintaxe muito enxuta formada por duas partes principais: chave e valor.
 
+Os novos formatos de arquivos do Sketch são basicamente um arquivo ZIP que guardam todos os assets necessários para que o arquivo funcione.
+
+![Estrutura de arquivos do Sketch](http://i.imgur.com/p3ostqh.png)
+
+Faça o teste aí com qualquer arquivo do Sketch 43: renomeie para **.zip** e descompacte o arquivo.
+
+- *meta.json*: Contém metadados sobre o próprio documento como lista de páginas e artboards, versão do Sketch que foi usado para salvar o arquivo, fonts utilizadas etc;
+- *document.json*: contém dados comuns para todas as páginas do docuento, como estilos compartilhados, link para os arquivos JSON na pasta de páginas;
+- *pasta pages*: contem um arquivo JSON por página do documento. Cada arquivo descreve o conteúdo da página;
+- *pasta images*: essa pasta contém todos as imagens usadas no documento, em seu tamanho original. Aqui os designers devem tomar cuidado, se eles usarem uma imagem gigante, essa imagem vai ficar guardada aí, aumentando o tamanho final do arquivo;
+- *user.json*: contém metadados do arquivo, como o canvas viewport e o zoom de cada página, metadados de UI para o próprio App (dimensões dos painéis etc);
+- *pasta previews*: contém uma imagem de preview da última página edtada pelo usuário. Se o tamanho da imagem é menor que 2048x2048, ela será guardada no tamanho original, se não ela será redimensionada para 2048x208;
+
+## Designers deverão aprender a codar?
 O que isso significa para os designers? Nada. Eles não vão criar seus designs escrevendo JSON, o que seria muita estupidez. Mas o fato de que todo o design feito no Sketch é traduzido automaticamente para um formato aberto, com todos os detalhes daquele layout é incrível. Arquivos são abstrações, mas nem por isso os designers mudarão a forma com que interagem com o Sketch.
 
 Alguns mitos que a galera tem falado por aí e várias pessoas já desmentiram:
@@ -32,14 +46,6 @@ Alguns mitos que a galera tem falado por aí e várias pessoas já desmentiram:
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 O formato aberto do Sketch só deixa a tarefa de automatizar os layouts feitos Sketch para HTML/CSS/JS mais perto. Uma das grandes qualidades do Sketch, é que ele valoriza os plugins. Eles sabem que existem pessoas inteligentes nesse mundão afora que podem melhorar ainda mais seu produto fazendo plugins que facilitam algumas tarefas do dia a dia dos designers. Muito por isso eles tem uma [documentação bem legal para desenvolvedores](http://developer.sketchapp.com/reference/api/) que querem entender como é possível interagir com o programa. A [API JavaScript para trabalhar com Sketch está no GitHub](https://github.com/BohemianCoding/SketchAPI).
-
-Os novos formatos de arquivos do Sketch são basicamente um arquivo ZIP que guardam todos os assets necessários para que o arquivo funcione.
-
-![Estrutura de arquivos do Sketch](http://i.imgur.com/p3ostqh.png)
-
-Faça o teste aí com qualquer arquivo do Sketch 43: renomeie para **.zip** e descompacte o arquivo.
-
-Mesmo assim, ainda não vai ser possível versionar decentemente arquivos Sketch. Embora tudo aí seja human-readable, você não vai versionar o conteúdo dos arquivos Sketch, mas o arquivo fechado **.sketch**.
 
 > Translating a visual design to CSS/HTML is now a mundane task of the past. [Andree @blended.io](https://uxdesign.cc/design-is-code-code-is-design-b941c14f3fd8)
 
@@ -64,3 +70,4 @@ Além disso, designers estão aprendendo algumas coisas com os desenvolvedores, 
 - [Sketch API](http://developer.sketchapp.com/reference/api/)
 - [Sketch 43: A brief tour of fact vs folklore](https://blog.prototypr.io/sketch-43-a-brief-tour-of-fact-and-folklore-7772ca7f6e61)
 - [New file format in Sketch 43](http://sketchplugins.com/d/87-new-file-format-in-sketch-43)
+- [Trocando nome de uma layer com Node](http://sketchplugins.com/d/87-new-file-format-in-sketch-43/2)
