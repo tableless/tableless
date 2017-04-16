@@ -3,19 +3,6 @@ title: White, Gray e Black Hats
 author: Diego Eis
 type: post
 date: 2008-07-14
-url: /white-gray-e-black-hats/
-aktt_tweeted:
-  - 1
-tweetbackscheck:
-  - 1356446345
-shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/white-gray-e-black-hats";s:7:"tinyurl";s:26:"http://tinyurl.com/3mx3x4d";s:4:"isgd";s:19:"http://is.gd/scwUGU";}'
-twittercomments:
-  - 'a:3:{i:154629109388029952;s:7:"retweet";i:154617069827137536;s:7:"retweet";i:154616400743366658;s:7:"retweet";}'
-tweetcount:
-  - 5
-dsq_thread_id:
-  - 503038333
 categories:
   - Artigos
   - SEO
@@ -27,12 +14,12 @@ tags:
   - otimizacao website
   - SEO
   - tableless
+excerpt: As técnicas de SEO se encaixam em três grandes opções: White Hat, Gray Hat e Black Hat. Entenda cada uma delas
 
 ---
+
 Existem várias técnicas para colocar seu site em primeiro nos buscadores. As técnicas de SEO se encaixam em três grandes árvores: White Hat (chapéu branco) que são as legais e recomendadas pelos buscadores. Gray Hat, que se utilizadas de forma abusiva são consideradas anti-éticas, embora os buscadores não tenham controle sobre sua prática. Há outras técnicas totalmente ilegais, utilizadas para ter alguma vantagem rápida ou burlar os resultados das buscas. Essas técnicas ilegais são chamadas de Black Hat.
   
-<!--more-->
-
 ### White Hat
 
 São técnicas recomendadas pelos buscadores e podem ser utilizadas sem problemas. Os buscadores conseguem controlá-las e saber se você está quebrando as regras ou está tudo nos conformes.
