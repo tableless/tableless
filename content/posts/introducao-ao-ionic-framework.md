@@ -55,44 +55,8 @@ A sintaxe para a criação de uma nova aplicação é _ionic start NOME\_DO\_APP
 
 Cada gerador irá iniciar seu projeto de uma forma diferente porém todos seguem a mesma estrutura de pastas exibida abaixo.
 
-[## O que é o Ionic?
 
-[Ionic][1] é um framework criado no final de 2013 que visa a criação de aplicações híbridas para dispositivos móveis. Hoje o Ionic encontra-se na versão 1.0.0-beta.14 que segundo a equipe por trás do desenvolvimento, será o último release beta.
-
-Ele nada mais é do que uma pilha de componentes e outros frameworks. Estes componentes são:
-
-  * [Cordova][2]: Integração com recursos nativos dos dispositivos
-  * [AngularJS][3]: Criação da parte Web da App
-  * Ionic Module e o Ionic CLI: Ferramentas e Componentes disponibilizados pelo framework
-
-## Pré-requisitos
-
-Para utilizar o Ionic e desenvolvedor aplicações móveis com o Cordova é necessário ter instalado as seguintes dependências:
-
-  1. NodeJS
-  2. NPM
-
-Vou pular a parte em que diz como instalar o NodeJS e o NPM pois são coisas simples de se encontrar na internet.
-
-## Objetivo do artigo
-
-O objetivo deste artigo é dar uma breve introdução do que é o Ionic e o que ele usa como tecnologias.
-
-## Como começar
-
-Uma vez com NodeJS e o NPM instalados, é necessário instalar 2 módulos globais.
-
-<pre class="lang-bash">npm install -g ionic cordova</pre>
-
-Uma vez com esses dois módulos instalados, usaremos o gerador do Ionic CLI para criar um novo projeto.
-
-<pre class="lang-bash">ionic start appName tabs</pre>
-
-A sintaxe para a criação de uma nova aplicação é _ionic start NOME\_DO\_APP TIPO\_DO\_GENERATOR_. Existem hoje 3 tipos de projeto base que são _tabs_, _blank_ e _sidemenu_.
-
-Cada gerador irá iniciar seu projeto de uma forma diferente porém todos seguem a mesma estrutura de pastas exibida abaixo.
-
-][4] 
+![Ionic Folders](http://tableless.com.br/uploads/2015/02/Screen-Shot-2015-02-18-at-5.33.43-PM.png) 
 
 Uma vez com o projeto criado, podemos roda-lo com o comando _ionic serve_.
 
