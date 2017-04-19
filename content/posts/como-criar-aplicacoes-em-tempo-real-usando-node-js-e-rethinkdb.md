@@ -3,7 +3,9 @@ title: Como criar aplicações em tempo real usando Node.js e RethinkDB
 author: Jscrambler
 type: post
 date: 2017-02-22
-url: /como-criar-aplicacoes-em-tempo-real-usando-node-js-e-rethinkdb/
+aliases: 
+    - /?p=57217
+    - /como-criar-aplicacoes-em-tempo-real-usando-node-js-e-rethinkdb/
 titulo_personalizado:
   - 'Como criar aplicações em tempo real usando <strong>Node.js e RethinkDB</strong>'
 categories:

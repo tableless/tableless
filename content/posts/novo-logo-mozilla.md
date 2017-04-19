@@ -4,7 +4,9 @@ author: Diego Eis
 type: post
 image: uploads/2017/01/featured-image-mozilla-logo.png
 date: 2017-01-19
-url: /novo-logo-mozilla/
+url: /moza/
+aliases:
+  - /novo-logo-mozilla/
 titulo_personalizado:
   - 'Novo logo da <strong>Mozilla</strong>'
 categories:

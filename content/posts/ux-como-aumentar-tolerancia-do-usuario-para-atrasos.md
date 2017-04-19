@@ -3,7 +3,9 @@ title: 'UX: Como aumentar a tolerância do usuário para atrasos'
 author: Mari Coelho
 type: post
 date: 2017-03-01
-url: /ux-como-aumentar-tolerancia-do-usuario-para-atrasos/
+aliases: 
+  - /?p=57101
+  - /ux-como-aumentar-tolerancia-do-usuario-para-atrasos/
 titulo_personalizado:
   - 'UX: Como aumentar a tolerância do <strong>usuário para atrasos</strong>'
 categories:

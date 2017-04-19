@@ -3,7 +3,9 @@ title: Minha experiência com o CT (Centro de Treinamento)
 author: DaniloAgostinho
 type: post
 date: 2017-01-22
-url: /minha-experiencia-com-o-ct-centro-de-treinamento/
+aliases:
+  - /?p=56931
+  - /minha-experiencia-com-o-ct-centro-de-treinamento/
 categories:
   - Artigos
   - CSS

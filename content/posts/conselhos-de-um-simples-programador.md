@@ -3,7 +3,9 @@ title: Conselhos de um simples programador
 author: Tailo Gonsalves
 type: post
 date: 2017-02-19
-url: /conselhos-de-um-simples-programador/
+aliases: 
+  - /?p=57074
+  - /conselhos-de-um-simples-programador/
 categories:
   - Geral
 

@@ -3,7 +3,9 @@ title: Deploy usando git pull e hooks
 author: Diego Eis
 type: post
 date: 2016-07-18
-url: /deploy-usando-git-pull-e-hooks/
+aliases: 
+  - /?p=55107
+  - /deploy-usando-git-pull-e-hooks/
 titulo_personalizado:
   - 'Fazendo deploy usando <strong>git hooks</strong>'
 categories:

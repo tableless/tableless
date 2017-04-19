@@ -4,7 +4,9 @@ author: Lucas Daltro
 type: post
 date: 2017-02-17
 excerpt: Um exemplo prático de como criar seu primeiro código com o Create React App.
-url: /criando-sua-primeira-aplicacao-web-com-react/
+aliases: 
+  - /?p=56997
+  - /criando-sua-primeira-aplicacao-web-com-react/
 categories:
   - JavaScript
 tags:

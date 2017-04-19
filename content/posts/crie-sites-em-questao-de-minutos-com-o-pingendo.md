@@ -3,7 +3,9 @@ title: Crie sites em questão de minutos com o Pingendo
 author: Bruno
 type: post
 date: 2017-03-06
-url: /crie-sites-em-questao-de-minutos-com-o-pingendo/
+aliases: 
+  - /?p=57272
+  - /crie-sites-em-questao-de-minutos-com-o-pingendo/
 categories:
   - CSS
   - Editores
@@ -16,8 +18,8 @@ tags:
   - CSS
   - editores
   - html
-
 ---
+
 Sem dúvidas, o Bootstrap é uma das frameworks mais utilizadas ultimamente, porém, para algumas pessoas, ainda é meio complicado lidar com os códigos, sejam eles HTML, CSS ou JavaScript.
 
 ## O que é o Pingendo?
