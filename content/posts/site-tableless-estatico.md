@@ -39,7 +39,7 @@ Mas porque não Middleman? Embora eu tenha uma facilidade maior com Middleman po
 - Suporta vários tipos de frontmatters: json, toml e yaml
 - A forma de templating usando Sections, Archetypes e Types é bastante interessante (embora eu tenha demorado para entender o conceito)
 - O esquema de oganização e gestão de [Taxonomias](https://gohugo.io/taxonomies/overview/) também é bem legal
-- Suprota [Syntax Hightlighting](http://gohugo.io/extras/highlighting/) nativamente
+- Suporta [Syntax Hightlighting](http://gohugo.io/extras/highlighting/) nativamente
 - E tem um monte de [extras](https://gohugo.io/extras/) que talvez eu nem precise usar
 
 ## Tableless está mais opensource do que nunca
