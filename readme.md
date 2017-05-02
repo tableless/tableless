@@ -1,10 +1,10 @@
 [ ![Codeship Status for tableless/tableless-static](https://app.codeship.com/projects/552ac1e0-ffa1-0134-e51e-2e94cfed1b0b/status?branch=master)](https://app.codeship.com/projects/212354)
 
 # Tableless estático baseado em Hugo
-Este é o site do Tableless estático. Nada de Wordpress nem qualquer outro CMS back-end. Os artigos são escritos em Markdown, com um frontmatter em yaml fácil de entender.
+Este é o site do Tableless estático. Nada de Wordpress, nem qualquer outro CMS back-end. Os artigos são escritos em Markdown, com um frontmatter em yaml fácil de entender.
 
 ## Rodando o projeto
-Para rodar o projeto você precisar o Hugo instalado na sua máquina. O CSS está usando SASS como pré-processador, para tanto, você precisa ter [SASS instalado na máquina](http://sass-lang.com/install). Uma vez instalado, você pode rodar o comando:
+Para rodar o projeto você vai precisar do [Hugo](https://gohugo.io/) instalado na sua máquina. O CSS está usando SASS como pré-processador, para tanto, você precisa ter [SASS instalado na máquina](http://sass-lang.com/install). Uma vez instalado, você pode rodar o comando:
 
 ```
 cd themes/tableless/static/css/
