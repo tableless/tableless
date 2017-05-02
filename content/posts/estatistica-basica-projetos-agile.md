@@ -1,5 +1,5 @@
 ---
-date: "2017-05-01T21:55:20-03:00"
+date: "2017-05-01T20:55:20-03:00"
 title: "Estatística básica nas entregas de projetos agile — Moda, mediana e percentil"
 categories:
   - Agile e Gestão
