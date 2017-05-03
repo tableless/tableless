@@ -41,7 +41,7 @@ Você pode escrever qualquer assunto relacionado aos tópicos abaixo. Se você a
 ## O que nunca vamos publicar
 
 *   Press Releases. Nós não iremos publicar nenhum press release, ao menos nenhum de graça. Por isso ["vendemos" um espaço para quem quer anunciar no site.](http://tableless.com.br/anuncie-no-tableless/) ;-)
-*   Venda de produtos. A não ser que você [queira anunciar aqui no Tableless](http://tableless.com.br/anuncie/), nós não vamos publicar nada desse tipo.
+*   Venda de produtos. A não ser que você [queira anunciar aqui no Tableless](http://tableless.com.br/anuncie-no-tableless/), nós não vamos publicar nada desse tipo.
 
 ## Submeta agora seu artigo
 
