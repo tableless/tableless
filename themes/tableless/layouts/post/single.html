@@ -17,7 +17,7 @@
       <ul>
         {{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.categories" "intersect" .Params.categories ) "Permalink" "!=" .Permalink ) }}
         <li class="tb-related-post">
-          <a href="{{ .RelPermalink }}/?utm_source=relatedLinks">{{ .Title | markdownify }}</a><br />
+          <a href="{{ .RelPermalink }}/?utm_source=tablelessRelatedLin">{{ .Title | markdownify }}</a><br />
         </li>
 
         {{ end }}

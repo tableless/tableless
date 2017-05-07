@@ -9,7 +9,7 @@
   <h2>Últimos posts</h2>
   <ul>
     {{ range first 7 .Site.Pages }}
-    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+    <li><a href="{{ .RelPermalink }}/?utm_source=tablelessSidebarLatestLinks">{{ .Title }}</a></li>
     {{ end }}
   </ul>
 
