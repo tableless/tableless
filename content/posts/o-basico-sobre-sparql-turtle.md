@@ -23,7 +23,7 @@ O RDF por si só não tem uma maneira de expressar Triplas. Um documento Turtle 
 
 O Turtle permite que substituamos as grandes URLs que usamos para identificar nossos dados, por um namespace amigável. Ainda com o exemplo do Steve Jobs, nós definimos um prefixo logo no início do código (que é nosso contexto, onde vamos definir o vocabulário) e depois modificamos o endereço dos predicados por esse prefixo. Teríamos o seguinte código:
 
-```
+```xml
 @prefix schema:<http://schema.org/> .
 
 <http://dbpedia.org/resource/Steve_Jobs> 
@@ -94,7 +94,7 @@ No exemplo abaixo pego todas as obras de Mozart. Estou usando para esse exemplo 
 
 Segue o exemplo:
 
-```
+```sql
 SELECT ?musics
 WHERE {
   ?musics dbo:musicComposer dbr:Wolfgang_Amadeus_Mozart
@@ -164,7 +164,7 @@ Lá você consegue ver a descrição das triplas, a query e também a resposta X
 
 Tente pegar, por exemplo, todos os artistas relacionados a John Lennon. Coisa simples, assim:
 
-```
+```sql
 SELECT ?artists
 WHERE {
   ?artists dbo:associatedMusicalArtist dbr:John_Lennon
@@ -172,14 +172,15 @@ WHERE {
 ```
 
 Ou as músicas escritas por ele:
-```
+
+```sql
 SELECT ?musics
 WHERE {
   ?musics dbp:artist dbr:John_Lennon
 }
 ```
 
-Há uma série de combinações de filtros e comandos que você pode usar com SPARQL para combinar e extrair informações. O pessoal da Wiki Base22 tem uma documentação (https://wiki.base22.com/display/btg/SPARQL+Query+Examples) por exemplos muito boa. Lá você vai aprender a fazer perguntas usando esses dados. 
+Há uma série de combinações de filtros e comandos que você pode usar com SPARQL para combinar e extrair informações. O pessoal da Wiki Base22 tem uma [documentação](https://wiki.base22.com/display/btg/SPARQL+Query+Examples) por exemplos muito boa. Lá você vai aprender a fazer perguntas usando esses dados. 
 
 As declarações RDF (as Triplas) são apenas um framework, um padrão, para ser usado em vários outros formatos como JSON-LD, Turtle, N-triples e outros. A ideia é que não importa qual o formato você esteja usando para expressar os dados, a informação ainda será representada e organizada usando o trio sujeito, predicado e objeto.
 
@@ -187,4 +188,4 @@ O W3C dá um exemplo bem legal para entender isso: números são o oposto de num
 
 O RDF também não é uma aplicação XML. O modelo fundamental do RDF é totalmente independente do XML. Ele é um modelo que descreve e qualifica relações entre duas fontes web.
 
-A página do *John Lennon* lá na DBPedia (http://dbpedia.org/page/John_Lennon), tem todas as informações sobre o cantor. Você consegue essas informações em diversos formatos. Incluindo XML em padrão RDF (http://dbpedia.org/data/John_Lennon.rdf). Esse arquivo RDF tem algo em torno de 2148 linhas, com todos os dados que a DBPedia tem de John Lennon. Há outros formatos disponíveis, como JSON-LD (http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FJohn_Lennon%3E&format=application%2Fjson-ld).
+A página do *John Lennon* lá na [DBPedia](http://dbpedia.org/page/John_Lennon), tem todas as informações sobre o cantor. Você consegue essas informações em diversos formatos. Incluindo XML em padrão [RDF](http://dbpedia.org/data/John_Lennon.rdf). Esse arquivo RDF tem algo em torno de 2148 linhas, com todos os dados que a DBPedia tem de John Lennon. Há outros formatos disponíveis, como [JSON-LD](http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FJohn_Lennon%3E&format=application%2Fjson-ld).
