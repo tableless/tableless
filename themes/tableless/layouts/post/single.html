@@ -12,6 +12,19 @@
       {{.Content}}
     </article>
 
+    <div class="tb-related-posts">
+      <h3>Leia mais:</h3>
+      <ul>
+        {{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.categories" "intersect" .Params.categories ) "Permalink" "!=" .Permalink ) }}
+        <li class="tb-related-post">
+          <a href="{{ .RelPermalink }}/?utm_source=relatedLinks">{{ .Title | markdownify }}</a><br />
+        </li>
+
+        {{ end }}
+      </ul>
+    </div>
+
+
     {{ partial "disqus.html" . }}
   </section>
 

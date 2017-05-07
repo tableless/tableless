@@ -8,7 +8,7 @@
   <span class="tb-categs">{{ range .Params.categories }}
   <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="tb-categ-flag">{{ . }}</a>
   {{ end }}</span>
-  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <h2><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h2>
   <p>
   {{if .Param "excerpt"}}
     {{ .Param "excerpt" }}
