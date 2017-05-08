@@ -4,7 +4,7 @@ author: Carlson Santana Cruz
 type: post
 image: http://imgh.us/dog-41431_1280.png
 date: 2017-05-07
-excerpt: O HaTeMiLe é uma biblioteca que utiliza os padrões web para tentar resolver alguns problemas de acessibilidade, mas como utilizá-la e o que ela realmente faz?
+excerpt: O HaTeMiLe é uma biblioteca que utiliza os Padrões Web para resolver problemas de acessibilidade. Entenda melhor como ela funciona.
 categories:
   - HTML
   - JavaScript
@@ -14,10 +14,10 @@ categories:
 A acessibilidade finalmente esta se tornando uma das metas no desenvolvimento web, mesmo assim ela enfrenta um conjunto de problemas:
 
  1. nas aulas, apostilas e tutoriais sobre desenvolvimento web dificilmente abordam a acessibilidade;
- 2. mesmo conhecendo os padrões web (HTML, CSS e JavaScript) o desenvolvedor pode acabar desenvolvendo páginas web inacessíveis;
+ 2. mesmo conhecendo os Padrões Web (HTML, CSS e JavaScript) o desenvolvedor pode acabar desenvolvendo páginas web inacessíveis;
  3. frameworks e temas utilizados no desenvolvimento podem contribuir com páginas inacessíveis.
 
-Baseando-se nos [polyfills](https://remysharp.com/2010/10/08/what-is-a-polyfill) que permitem prover um recurso não suportado pelo browser foi desenvolvido o [HaTeMiLe](https://github.com/carlsonsantana/HaTeMiLe-for-JavaScript) (anagrama para HTML Accessible, removendo as consoantes de Accessible), uma biblioteca que utiliza os padrões web para tentar resolver alguns problemas de acessibilidade.
+Baseando-se nos [polyfills](https://remysharp.com/2010/10/08/what-is-a-polyfill), que permitem prover um recurso não suportado pelo browser, foi desenvolvido o [HaTeMiLe](https://github.com/carlsonsantana/HaTeMiLe-for-JavaScript) (anagrama para HTML Accessible, removendo as consoantes de Accessible), uma biblioteca que utiliza os Padrões Web para tentar resolver alguns problemas de acessibilidade.
 
 ## Instalação da biblioteca
 
@@ -167,9 +167,9 @@ accessibleAssociation.associateAllLabelsWithFields();
 
 ### Disponibilizar informações não suportadas pelo agente de usuário
 
-Mesmo com o desenvolvedor utilizando corretamente os padrões WEB e [WAI-ARIA](https://www.w3.org/WAI/intro/aria) é possível que o leitor de tela não suporte tal recurso ou mesmo o navegador não passe essa informação para o leitor de tela.
+Mesmo com o desenvolvedor utilizando corretamente os padrões WEB e [WAI-ARIA](https://www.w3.org/WAI/intro/aria), é possível que o leitor de tela não suporte tal recurso ou mesmo o navegador não passe essa informação para o leitor de tela.
 
-Até mesmo para os usuário que não possuem deficiência visual podem desconhecer recursos interessantes implementados na página devido a falta dessa informação fornecida pelo navegador, como por exemplo as teclas de atalho que podem ser utilizadas para facilitar na navegação da página.
+Até mesmo os usuário que não possuem deficiência visual podem desconhecer recursos interessantes implementados na página devido a falta dessa informação fornecida pelo navegador, como por exemplo as teclas de atalho que podem ser utilizadas para facilitar na navegação da página.
 
 Para resolver esse tipo de problema adicione o seguinte código no arquivo *execute_hatemile.js*.
 
