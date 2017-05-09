@@ -71,7 +71,7 @@
 ////
 @media #{$break-desk}
   #tb-header
-    max-width: 1500px
+    max-width: 1400px
     margin: 0 auto
     display: flex
     flex-wrap: wrap
@@ -138,9 +138,9 @@
         li
           display: block
           padding: 0
-          transform: scale(1.15) translateY(10px)
+          transform: scale(1.15) translateY(-10px)
           opacity: 0
-          transition: opacity .25s cubic-bezier(.4, .01, .165, .99), transform .25s cubic-bezier(.4, .01, .165, .99)
+          transition: opacity .20s linear, transform .20s linear
           
         a
           display: block !important
@@ -162,13 +162,14 @@
           padding-right: 20px
           background: rgba(255, 255, 255, .97)
           z-index: 10
+          transition: background .25s linear
           
           li
             opacity: 1
             transform: scale(1) translateX(0px)
             @for $i from 1 through 15
               &:nth-child(#{$i})
-                transition-delay: #{.26 - ($i * .05)}s
+                transition-delay: #{($i * .05)}s
     
   .tb-search
     display: block
