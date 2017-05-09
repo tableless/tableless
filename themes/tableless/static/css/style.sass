@@ -83,6 +83,43 @@ body
 .tb-categs .tb-categ-flag:first-child
   display: inline-block
 
+
+.tb-posts-categs
+  @extend .tb-container
+  padding-top: 100px
+  display: flex
+  flex-wrap: wrap
+
+.tb-post-categ
+  flex: 1 0 300px
+  padding: 0 25px
+
+  h2
+    width: 90%
+    font-size: 1.2rem
+    line-height: 1.4
+    padding: 15px 0 0
+    text-transform: uppercase
+    font: 1.5rem $avenirBold
+    margin-bottom: 15px
+
+  h3
+    font: 1.1rem $avenirRegular
+    margin-bottom: 25px
+
+    a
+      color: $gray
+      text-decoration: none
+
+      &:hover
+        color: $red
+  p
+    width: 90%
+    display: none
+    font-size: 1rem
+    line-height: 1.5
+    margin-bottom: 30px
+
 ////
 // Big Screen version
 ////
