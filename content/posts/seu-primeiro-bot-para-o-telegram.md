@@ -21,6 +21,8 @@ tags:
 
 Os BOTS de chats hoje ja são uma realidade, eles ja estão presente nos aplicativos de mensagens do seu celular, e com certeza voce ja ficou curioso em como alguns deles são desenvolvidos. Nesse artigo vamos mostrar o desenvolvimento de um BOT muito simples utilizando a API do Telegram.
 
+Artigo adaptado de [Bot Telegram](https://github.com/suissa/bot-telegram)
+
 ## Criando o seu BOT
 
 Para esse simples exemplo sera utilizado o JavaScript na plataforma NodeJS em conjunto com a API do Telegram, caso voce nao esteja familiarizado com essa plataforma, voce pode conferir esse otimo artigo aqui do Tableless [Como instalar Node.js no Linux corretamente](https://tableless.com.br/como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os/)
