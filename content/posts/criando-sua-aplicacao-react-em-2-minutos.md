@@ -7,9 +7,10 @@ excerpt: Configurar aplicações que utilizam React pode ser uma tarefa árdua e
 url: /criando-sua-aplicacao-react-em-2-minutos/
 categories:
   - JavaScript
+  - ReactJS
 tags:
   - JavaScript
-  - react
+  - ReactJS
 
 ---
 Para facilitar a criação de aplicações utilizando React, o Facebook lançou uma ferramenta que promete reduzir toda complexidade envolvida em configurar um novo projeto que utilize a tecnologia.

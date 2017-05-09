@@ -7,13 +7,8 @@ url: /contraste-de-cores-acessibilidade-na-web/
 categories:
   - Acessibilidade
   - CSS3
-  - Geral
-  - HTML5
-  - JavaScript
   - Semântica
-  - SEO
   - UX
-  - Web Semântica
 tags:
   - acessibilidade
   - contraste de cores

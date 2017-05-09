@@ -6,9 +6,9 @@ image: http://imgh.us/dog-41431_1280.png
 date: 2017-05-07
 excerpt: O HaTeMiLe é uma biblioteca que utiliza os Padrões Web para resolver problemas de acessibilidade. Entenda melhor como ela funciona.
 categories:
+  - Acessibilidade
   - HTML
   - JavaScript
-  - Acessibilidade
 ---
 
 A acessibilidade finalmente esta se tornando uma das metas no desenvolvimento web, mesmo assim ela enfrenta um conjunto de problemas:

@@ -9,14 +9,10 @@ aliases:
 categories:
   - CSS
   - Editores
-  - Geral
-  - HTML
-  - JavaScript
+  - html
 tags:
   - Criação de sites
   - Criação de websites
-  - CSS
-  - editores
   - html
 ---
 
