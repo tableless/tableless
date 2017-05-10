@@ -19,7 +19,7 @@ tags:
 
 # Criando seu primeiro Bot para o Telegram
 
-Os BOTS de chats hoje ja são uma realidade, eles ja estão presente nos aplicativos de mensagens do seu celular, e com certeza voce ja ficou curioso em como alguns deles são desenvolvidos. Nesse artigo vamos mostrar o desenvolvimento de um BOT muito simples utilizando a API do Telegram.
+Os BOTS de chats hoje já são uma realidade, eles ja estão presentes nos aplicativos de mensagens do seu celular, e com certeza você ja ficou curioso em como alguns deles são desenvolvidos. Nesse artigo vamos mostrar o desenvolvimento de um BOT muito simples utilizando a API do Telegram.
 
 Artigo adaptado de [Bot Telegram](https://github.com/suissa/bot-telegram)
 
