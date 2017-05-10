@@ -5,8 +5,7 @@ type: post
 date: 2014-08-12
 excerpt: Seleção semanal do tableless que reúne links úteis, novidades no mercado front end e alguns sites bem legais.
 url: /tableless-weekly-1/
-dsq_thread_id:
-  - 2918018656
+dsq_thread_id: 2918018656
 categories:
   - Digest
   - Geral

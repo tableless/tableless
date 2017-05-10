@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:71:"http://tableless.com.br/eventos-palestras-cursos-e-muito-muito-trabalho";s:7:"tinyurl";s:26:"http://tinyurl.com/3hr6a3b";s:4:"isgd";s:19:"http://is.gd/eRSmHo";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036363
+dsq_thread_id: 503036363
 tags:
   - cotidiano
 

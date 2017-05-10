@@ -5,8 +5,7 @@ type: post
 date: 2014-04-24
 excerpt: Apresentação sobre o que você precisa aprender para se tornar um desenvolvedor front-end.
 url: /palestra-sobre-como-se-tornar-um-dev-front-end/
-dsq_thread_id:
-  - 2634566566
+dsq_thread_id: 2634566566
 categories:
   - Slides e Apresentações
 tags:

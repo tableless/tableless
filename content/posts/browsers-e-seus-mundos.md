@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/browsers-e-seus-mundos";s:7:"tinyurl";s:26:"http://tinyurl.com/3oz9gu9";s:4:"isgd";s:19:"http://is.gd/NrfacF";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034040
+dsq_thread_id: 503034040
 categories:
   - Browsers
   - Geral

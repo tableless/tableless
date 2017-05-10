@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:67:"http://tableless.com.br/dicas-para-ter-compatibilidade-nos-browsers";s:7:"tinyurl";s:26:"http://tinyurl.com/44fvbok";s:4:"isgd";s:19:"http://is.gd/vMOVgb";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037660
+dsq_thread_id: 503037660
 categories:
   - Artigos
   - Geral

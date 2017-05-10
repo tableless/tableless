@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/video-tutorial-10-implementacao-de-layout";s:7:"tinyurl";s:26:"http://tinyurl.com/3tb7sn8";s:4:"isgd";s:19:"http://is.gd/b03m4v";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035487
+dsq_thread_id: 503035487
 categories:
   - Geral
   - Tecnologia e Tendências

@@ -5,8 +5,7 @@ type: post
 date: 2014-02-28
 excerpt: Veja os caminhos e os desafios vividos por um desenvolvedor front-end em um projeto web.
 url: /desafios-de-um-desenvolvedor-front-end/
-dsq_thread_id:
-  - 2333622791
+dsq_thread_id: 2333622791
 categories:
   - Geral
   - Semântica

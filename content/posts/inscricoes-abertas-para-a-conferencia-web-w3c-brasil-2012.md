@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6950";s:7:"tinyurl";s:26:"http://tinyurl.com/94rsrzk";s:4:"isgd";s:19:"http://is.gd/4rEJB4";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 858838633
+dsq_thread_id: 858838633
 categories:
   - Geral
   - Mercado e Comportamento

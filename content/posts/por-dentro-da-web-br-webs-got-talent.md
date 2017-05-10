@@ -5,8 +5,7 @@ type: post
 date: 2013-10-28
 excerpt: "A quinta edição da Web.br, conferência do W3C Brasil, ocorre nos dias 18 e 19 de novembro de 2013, em São Paulo, trazendo uma grande novidade nesta edição: o concurso Web's Got Talent."
 url: /por-dentro-da-web-br-2013-webs-got-talent/
-dsq_thread_id:
-  - 1909986750
+dsq_thread_id: 1909986750
 categories:
   - Mercado e Comportamento
   - Notícias

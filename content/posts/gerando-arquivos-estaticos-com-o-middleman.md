@@ -5,8 +5,7 @@ type: post
 date: 2014-08-04
 excerpt: Criar projetos usando geradores de arquivos estáticos podem ser uma saída estratégica para evitar ambientes complexos, o Middleman pode te ajudar a desenvolver projetos simples e rápidos.
 url: /gerando-arquivos-estaticos-com-o-middleman/
-dsq_thread_id:
-  - 2899659611
+dsq_thread_id: 2899659611
 categories:
   - Código
   - CSS

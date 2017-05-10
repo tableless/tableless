@@ -13,8 +13,7 @@ twittercomments:
   - 'a:7:{i:153949422533885952;s:7:"retweet";i:153939853841661952;s:7:"retweet";i:153934310024544257;s:7:"retweet";i:169914590929498112;s:7:"retweet";i:174587167174176771;s:7:"retweet";i:174568866054275073;s:7:"retweet";i:174171765503823873;s:7:"retweet";}'
 tweetcount:
   - 13
-dsq_thread_id:
-  - 503040265
+dsq_thread_id: 503040265
 categories:
   - CSS
   - CSS3

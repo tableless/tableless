@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/quem-precisa-de-versao-mobile";s:7:"tinyurl";s:26:"http://tinyurl.com/3ckmjlc";s:4:"isgd";s:19:"http://is.gd/UzbjYf";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037817
+dsq_thread_id: 503037817
 categories:
   - Artigos
   - Browsers

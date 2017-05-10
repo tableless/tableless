@@ -5,8 +5,7 @@ type: post
 date: 2014-05-20
 excerpt: Anotações sobre a palestra sobre Refatoração e Manutenção de CSS em projetos, feito pelo Lucas Mazza.
 url: /anotacoes-da-palestra-lucas-mazza-16elw/
-dsq_thread_id:
-  - 2700165593
+dsq_thread_id: 2700165593
 categories:
   - Eventos e Workshops
   - Slides e Apresentações

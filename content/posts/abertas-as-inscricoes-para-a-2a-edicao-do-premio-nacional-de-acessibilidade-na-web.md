@@ -4,8 +4,7 @@ author: Reinaldo Ferraz
 type: post
 date: 2013-08-05
 url: /abertas-as-inscricoes-para-a-2a-edicao-do-premio-nacional-de-acessibilidade-na-web/
-dsq_thread_id:
-  - 1572774407
+dsq_thread_id: 1572774407
 categories:
   - Acessibilidade
 

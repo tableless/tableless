@@ -5,8 +5,7 @@ type: post
 date: 2013-06-25
 excerpt: Entenda como funciona o Grid 960. Ideal para iniciantes.
 url: /usando-o-plugin-960gs-e-o-photoshop/
-dsq_thread_id:
-  - 1404571107
+dsq_thread_id: 1404571107
 categories:
   - Código
   - Design

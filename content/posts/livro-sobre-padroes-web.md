@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/livro-sobre-padroes-web";s:7:"tinyurl";s:26:"http://tinyurl.com/3jydhtr";s:4:"isgd";s:19:"http://is.gd/HnOJtv";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035294
+dsq_thread_id: 503035294
 tags:
   - cotidiano
 

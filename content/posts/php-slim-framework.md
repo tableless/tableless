@@ -5,8 +5,7 @@ type: post
 date: 2014-06-04
 excerpt: Iniciando com o SLIM Framework.
 url: /php-slim-framework/
-dsq_thread_id:
-  - 2735945634
+dsq_thread_id: 2735945634
 categories:
   - Back-end
   - Código

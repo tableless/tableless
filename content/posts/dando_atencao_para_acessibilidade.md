@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/dando_atencao_para_acessibilidade";s:7:"tinyurl";s:26:"http://tinyurl.com/44dac6s";s:4:"isgd";s:19:"http://is.gd/HlFViV";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033912
+dsq_thread_id: 503033912
 tags:
   - acessibilidade
 

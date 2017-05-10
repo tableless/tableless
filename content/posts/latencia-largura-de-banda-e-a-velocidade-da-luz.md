@@ -5,8 +5,7 @@ type: post
 date: 2013-05-01
 excerpt: Se a velocidade da luz fosse suficiente, estaríamos salvos.
 url: /latencia-largura-de-banda-e-a-velocidade-da-luz/
-dsq_thread_id:
-  - 1251713287
+dsq_thread_id: 1251713287
 categories:
   - Browsers
   - Mercado e Comportamento

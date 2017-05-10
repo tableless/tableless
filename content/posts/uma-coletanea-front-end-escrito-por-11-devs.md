@@ -5,8 +5,7 @@ type: post
 date: 2014-04-01
 excerpt: Um livro de front-end escrito por 11 desenvolvedores brasileiros falando um pouco de tudo. Essa é a Coletânea Front-end.
 url: /uma-coletanea-front-end-escrito-por-11-devs/
-dsq_thread_id:
-  - 2576401067
+dsq_thread_id: 2576401067
 categories:
   - Geral
   - Mercado e Comportamento

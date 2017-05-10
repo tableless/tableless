@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/fiat-uno-e-peugeot-206";s:7:"tinyurl";s:26:"http://tinyurl.com/3kcmenf";s:4:"isgd";s:19:"http://is.gd/4ma9Nx";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037437
+dsq_thread_id: 503037437
 categories:
   - Artigos
   - Tecnologia e Tendências

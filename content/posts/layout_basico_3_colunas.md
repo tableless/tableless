@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/layout_basico_3_colunas";s:7:"tinyurl";s:26:"http://tinyurl.com/3rabfrg";s:4:"isgd";s:19:"http://is.gd/YvsqNb";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031666
+dsq_thread_id: 503031666
 
 ---
 Galera, muita gente pediu, então eu fiz um tutoriazinho básico, que explica como fazer um

@@ -7,8 +7,7 @@ excerpt: Microdados dando mais significado à informação.
 url: /microdados-do-html5/
 tweetbackscheck:
   - 1356399447
-dsq_thread_id:
-  - 862914570
+dsq_thread_id: 862914570
 shorturls:
   - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/microdados-do-html5/";s:7:"tinyurl";s:26:"http://tinyurl.com/8j3peck";s:4:"isgd";s:19:"http://is.gd/0OEuse";}'
 twittercomments:

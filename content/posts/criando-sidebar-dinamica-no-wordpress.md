@@ -13,8 +13,7 @@ twittercomments:
   - 'a:12:{i:36967906554294273;s:7:"retweet";i:36957508065042432;s:7:"retweet";i:156425917344907265;s:7:"retweet";i:156370509796347904;s:7:"retweet";i:156345151780945920;s:7:"retweet";i:156322783184433152;s:7:"retweet";i:159577988613160961;s:7:"retweet";i:159450100849053699;s:7:"retweet";i:159445987721617408;s:7:"retweet";i:159440797467557888;s:7:"retweet";i:159435779637116928;s:7:"retweet";i:159433088785580034;s:7:"retweet";}'
 tweetcount:
   - 29
-dsq_thread_id:
-  - 503039956
+dsq_thread_id: 503039956
 categories:
   - Wordpress
 tags:

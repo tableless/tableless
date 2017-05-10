@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/sobre_rss_atom_etc";s:7:"tinyurl";s:26:"http://tinyurl.com/3pnpoct";s:4:"isgd";s:19:"http://is.gd/E4z2OZ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033026
+dsq_thread_id: 503033026
 categories:
   - Geral
 

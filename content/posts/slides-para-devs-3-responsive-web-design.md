@@ -5,8 +5,7 @@ type: post
 date: 2013-03-19
 excerpt: Slides sobre Responsive Web Design.
 url: /slides-para-devs-3-responsive-web-design/
-dsq_thread_id:
-  - 1145258810
+dsq_thread_id: 1145258810
 categories:
   - Adaptive Web Design (AWD)
   - Responsive Web Design (RWD)

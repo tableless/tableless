@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/video-do-opera-para-mobile";s:7:"tinyurl";s:26:"http://tinyurl.com/3pszx9q";s:4:"isgd";s:19:"http://is.gd/GmFYvx";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034854
+dsq_thread_id: 503034854
 categories:
   - Browsers
   - Geral

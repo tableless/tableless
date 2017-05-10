@@ -8,8 +8,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7054";s:7:"tinyurl";s:26:"http://tinyurl.com/97kc52e";s:4:"isgd";s:19:"http://is.gd/WcgDmW";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 871131785
+dsq_thread_id: 871131785
 sharing_disabled:
   - 1
 tweetbackscheck:

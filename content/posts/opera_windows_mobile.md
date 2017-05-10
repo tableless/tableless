@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/opera_windows_mobile";s:7:"tinyurl";s:26:"http://tinyurl.com/4yry732";s:4:"isgd";s:19:"http://is.gd/cH0myt";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 515269916
+dsq_thread_id: 515269916
 
 ---
 Bem bem bem! Quando eu peguei um palm pela primeira vez fiquei alucinado, naveguei na web e tudo mais! &#8211; Nossa, isso funciona mesmo! Legal pra caramba&#8230; Bah! Leigo! 🙂 Depois, consegui segurar e mexer por alguns minutos um iPaq! Naveguei na web e tudo mais. Não tinha palavras, palm para mim era passado. E pensava agora: Como alguém pode conseguir navegar na web com aquilo?! Não conhecem um PocketPC, só pode! 

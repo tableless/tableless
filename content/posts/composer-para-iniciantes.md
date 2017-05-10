@@ -4,8 +4,7 @@ author: Andre Cardoso
 type: post
 date: 2014-03-18
 url: /composer-para-iniciantes/
-dsq_thread_id:
-  - 2457652649
+dsq_thread_id: 2457652649
 categories:
   - PHP
   - Técnicas e Práticas

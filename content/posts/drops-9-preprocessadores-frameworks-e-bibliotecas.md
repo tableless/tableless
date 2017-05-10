@@ -22,8 +22,7 @@ twittercomments:
   - 'a:3:{i:207988086628560897;s:7:"retweet";i:231385198867136512;s:7:"retweet";i:231383411456086016;s:7:"retweet";}'
 tweetcount:
   - 3
-dsq_thread_id:
-  - 684936937
+dsq_thread_id: 684936937
 categories:
   - Código
   - Drops

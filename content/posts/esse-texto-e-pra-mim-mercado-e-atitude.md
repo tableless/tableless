@@ -13,8 +13,7 @@ twittercomments:
   - 'a:8:{i:261912515355762688;s:7:"retweet";i:261253491702525954;s:7:"retweet";i:261253456919138304;s:7:"retweet";i:260661248616718336;s:7:"retweet";i:260661132296081409;s:7:"retweet";i:260445489835675648;s:7:"retweet";i:268377654565163008;s:7:"retweet";i:271277238564048896;s:7:"retweet";}'
 tweetcount:
   - 17
-dsq_thread_id:
-  - 894862452
+dsq_thread_id: 894862452
 categories:
   - Artigos
   - O Básico

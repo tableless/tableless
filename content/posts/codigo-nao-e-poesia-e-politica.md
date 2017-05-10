@@ -5,8 +5,7 @@ type: post
 date: 2014-06-02
 excerpt: Quando o Search Engine Optimization controla a distribuição da informação, quem controla o SEO?
 url: /codigo-nao-e-poesia-e-politica/
-dsq_thread_id:
-  - 2730512082
+dsq_thread_id: 2730512082
 categories:
   - Mercado e Comportamento
   - Semântica

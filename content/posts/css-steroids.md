@@ -5,8 +5,7 @@ type: post
 date: 2013-11-12
 excerpt: E se pudéssemos escrever folhas de estilo de forma mais poderosa, melhorar nosso código? Vamos lá, vamos ver quais as reais vantagens de se utilizar um pré-processador.
 url: /css-steroids/
-dsq_thread_id:
-  - 1957733368
+dsq_thread_id: 1957733368
 categories:
   - Artigos
   - Código

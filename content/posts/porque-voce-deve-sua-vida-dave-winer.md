@@ -5,8 +5,7 @@ type: post
 date: 2014-05-21
 excerpt: O developer norte-americano de 59 anos criou o RSS, o primeiro sistema de blogs, entre outras tecnologias. E está de olho no futuro da publicação digital
 url: /porque-voce-deve-sua-vida-dave-winer/
-dsq_thread_id:
-  - 2703031663
+dsq_thread_id: 2703031663
 categories:
   - Artigos
   - CMS

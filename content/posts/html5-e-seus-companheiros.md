@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/html5-e-seus-companheiros";s:7:"tinyurl";s:26:"http://tinyurl.com/3pvfqub";s:4:"isgd";s:19:"http://is.gd/DE2KYN";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039474
+dsq_thread_id: 503039474
 categories:
   - Artigos
   - CSS

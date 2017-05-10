@@ -5,8 +5,7 @@ type: post
 date: 2013-05-14
 excerpt: Imagens responsivas, downloads automáticos e logos em vetor sempre atualizados. Não é sonho. Conheça algumas novidades que nos esperam em um futuro próximo.
 url: /3-parametros-de-html-que-voce-dev-usar-em-um-futuro-proximo/
-dsq_thread_id:
-  - 1287604903
+dsq_thread_id: 1287604903
 categories:
   - Artigos
   - HTML

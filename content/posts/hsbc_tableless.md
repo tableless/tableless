@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/hsbc_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3h96bcj";s:4:"isgd";s:19:"http://is.gd/nnEFlg";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032882
+dsq_thread_id: 503032882
 
 ---
 Como alguns já sabem, o site do banco do HSBC virou tableless.

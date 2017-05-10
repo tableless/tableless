@@ -5,8 +5,7 @@ type: post
 date: 2013-07-29
 excerpt: Entenda como funciona o Github Pages.
 url: /criando-paginas-web-para-seus-repositorios-com-o-github-pages/
-dsq_thread_id:
-  - 1544020576
+dsq_thread_id: 1544020576
 categories:
   - O Básico
   - Técnicas e Práticas

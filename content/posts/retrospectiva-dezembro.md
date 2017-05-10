@@ -12,8 +12,7 @@ twittercomments:
   - 'a:13:{i:37461670603259904;s:7:"retweet";i:37460640276807680;s:7:"retweet";i:37459276050083840;s:7:"retweet";i:37457929930018816;s:7:"retweet";i:37456899347587073;s:7:"retweet";i:37455256023465984;s:7:"retweet";i:37454580514037761;s:7:"retweet";i:37454329438806016;s:7:"retweet";i:37438331709030400;s:7:"retweet";i:37417016084144128;s:7:"retweet";i:37409384640286720;s:7:"retweet";i:37408171584655360;s:7:"retweet";i:37404133166284800;s:7:"retweet";}'
 tweetcount:
   - 13
-dsq_thread_id:
-  - 503034385
+dsq_thread_id: 503034385
 categories:
   - Geral
   - Tecnologia e Tendências

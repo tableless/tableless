@@ -5,8 +5,7 @@ type: post
 date: 2014-01-27
 excerpt: Conheça mais sobre a plataforma e veja quais são os primeiros passos para projetar suas próprias aplicações.
 url: /design-de-aplicativos-para-android-parte-1/
-dsq_thread_id:
-  - 2179663213
+dsq_thread_id: 2179663213
 categories:
   - Design
   - Mobile

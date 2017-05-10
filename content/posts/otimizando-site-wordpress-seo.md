@@ -13,8 +13,7 @@ twittercomments:
   - 'a:16:{i:126323578588233730;s:7:"retweet";i:126272383425318913;s:7:"retweet";i:126045268079673344;s:7:"retweet";i:126034119594487808;s:7:"retweet";i:125989528107360256;s:7:"retweet";i:125981861548793856;s:7:"retweet";i:125979997730123776;s:7:"retweet";i:125979969598918658;s:7:"retweet";i:125978568277762048;s:7:"retweet";i:125978432654950400;s:7:"retweet";i:125978192111603713;s:7:"retweet";i:145643854236884993;s:7:"retweet";i:145643827909242880;s:7:"retweet";i:145638748644835328;s:7:"retweet";i:163103148200837120;s:7:"retweet";i:163094327231381504;s:7:"retweet";}'
 tweetcount:
   - 60
-dsq_thread_id:
-  - 503015731
+dsq_thread_id: 503015731
 categories:
   - Técnicas e Práticas
   - Wordpress

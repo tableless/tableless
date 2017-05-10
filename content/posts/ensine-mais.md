@@ -5,8 +5,7 @@ type: post
 date: 2013-12-27
 excerpt: Aprenda ensinando em 2014.
 url: /ensine-mais/
-dsq_thread_id:
-  - 2076375000
+dsq_thread_id: 2076375000
 categories:
   - Artigos
 tags:

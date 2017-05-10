@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/mozilla_redesign";s:7:"tinyurl";s:26:"http://tinyurl.com/3oykt2u";s:4:"isgd";s:19:"http://is.gd/0Gy1Nu";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031775
+dsq_thread_id: 503031775
 
 ---
 E eles sempre inovando!

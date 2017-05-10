@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/apple_virando_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3b9hk6r";s:4:"isgd";s:19:"http://is.gd/71E2gT";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033728
+dsq_thread_id: 503033728
 tags:
   - cotidiano
 

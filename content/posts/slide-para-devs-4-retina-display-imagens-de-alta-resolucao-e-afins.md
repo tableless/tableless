@@ -5,8 +5,7 @@ type: post
 date: 2013-03-28
 excerpt: Apresentações sobre retinas displays, imagens em alta resolução e como construir websites retina ready.
 url: /slide-para-devs-4-retina-display-imagens-de-alta-resolucao-e-afins/
-dsq_thread_id:
-  - 1170593723
+dsq_thread_id: 1170593723
 categories:
   - Design
   - HTML

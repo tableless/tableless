@@ -7,8 +7,7 @@ excerpt: |
   |
     Todos os caminhos levam a web! Saiba tudo sobre a conferência, confira o conteúdo das palestras e espie minhas anotações.
 url: /conferencia-w3c-webbr-2013-primeiro-dia/
-dsq_thread_id:
-  - 1983878259
+dsq_thread_id: 1983878259
 categories:
   - Geral
 tags:

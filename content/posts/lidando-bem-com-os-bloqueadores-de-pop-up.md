@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/lidando-bem-com-os-bloqueadores-de-pop-up";s:7:"tinyurl";s:26:"http://tinyurl.com/4xov5kp";s:4:"isgd";s:19:"http://is.gd/IeCJhA";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503021473
+dsq_thread_id: 503021473
 categories:
   - Artigos
   - Browsers

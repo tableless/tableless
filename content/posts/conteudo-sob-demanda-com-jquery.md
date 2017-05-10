@@ -13,8 +13,7 @@ twittercomments:
   - 'a:12:{i:131435907017478144;s:7:"retweet";i:131374410035765248;s:7:"retweet";i:131362657344303104;s:7:"retweet";i:131358684302422016;s:7:"retweet";i:131344200401821696;s:7:"retweet";i:131343466121805824;s:7:"retweet";i:131342785608556544;s:7:"retweet";i:131341845082013696;s:7:"retweet";i:131341779235647488;s:7:"retweet";i:144800582710988800;s:7:"retweet";i:167415950839267328;s:7:"retweet";i:279221338042929152;s:7:"retweet";}'
 tweetcount:
   - 38
-dsq_thread_id:
-  - 503014231
+dsq_thread_id: 503014231
 categories:
   - JavaScript
   - JQuery

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/pixeladas_aleatorias";s:7:"tinyurl";s:26:"http://tinyurl.com/3tg3r9m";s:4:"isgd";s:19:"http://is.gd/cLUyAO";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031685
+dsq_thread_id: 503031685
 
 ---
 A Simone Villas Boas, andou sumida algum tempo. Mas está voltando com a corda toda em seu

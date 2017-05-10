@@ -7,8 +7,7 @@ excerpt: |
   A busca por padrões na criação de classes CSS é missão em diversas equipes front-end pelo mundo e o pessoal da Yandex parece ter conseguido definir uma metodologia, simples e funcional.
   Com vocês, BEM.
 url: /bem-um-novo-metodo-para-seu-css/
-dsq_thread_id:
-  - 2246439187
+dsq_thread_id: 2246439187
 categories:
   - Artigos
   - CSS

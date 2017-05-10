@@ -5,8 +5,7 @@ type: post
 date: 2014-08-25
 excerpt: Saiba como funcionam as condicionais if, else, while, for e each no SASS.
 url: /usando-condicionais-sass-control-directives/
-dsq_thread_id:
-  - 2919289861
+dsq_thread_id: 2919289861
 categories:
   - CSS
   - SASS

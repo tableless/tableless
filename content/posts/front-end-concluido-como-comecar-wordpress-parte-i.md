@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4835";s:7:"tinyurl";s:26:"http://tinyurl.com/bsv6v2r";s:4:"isgd";s:19:"http://is.gd/OBr5q1";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 527485010
+dsq_thread_id: 527485010
 categories:
   - Wordpress
 tags:

@@ -13,8 +13,7 @@ twittercomments:
   - 'a:10:{i:244954623935410176;s:7:"retweet";i:243353795483013121;s:7:"retweet";i:243349547768758273;s:7:"retweet";i:243348014155055104;s:7:"retweet";i:243347850191314944;s:7:"retweet";i:260456006247653377;s:7:"retweet";i:260433563776872448;s:7:"retweet";i:260431230741405696;s:7:"retweet";i:260427159846404096;s:7:"retweet";i:271660571185774593;s:7:"retweet";}'
 tweetcount:
   - 17
-dsq_thread_id:
-  - 831878683
+dsq_thread_id: 831878683
 categories:
   - Acessibilidade
   - Mercado e Comportamento

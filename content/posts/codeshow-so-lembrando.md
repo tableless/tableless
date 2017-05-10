@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/codeshow-so-lembrando";s:7:"tinyurl";s:26:"http://tinyurl.com/3pff9cu";s:4:"isgd";s:19:"http://is.gd/2Hnvjt";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037290
+dsq_thread_id: 503037290
 tags:
   - cotidiano
 

@@ -5,8 +5,7 @@ type: post
 date: 2013-07-05
 excerpt: Pequenas anotações sobre a palestra do Luli.
 url: /anotacoes-da-palestra-do-luli-radfahrer-no-15elw/
-dsq_thread_id:
-  - 1469315267
+dsq_thread_id: 1469315267
 categories:
   - Geral
 tags:

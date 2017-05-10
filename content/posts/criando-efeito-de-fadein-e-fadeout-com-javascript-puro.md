@@ -5,8 +5,7 @@ type: post
 date: 2014-01-29
 excerpt: Veja como criar um efeito semelhante ao fadeIn e fadeOut da famosa biblioteca Jquery apenas com javascript
 url: /criando-efeito-de-fadein-e-fadeout-com-javascript-puro/
-dsq_thread_id:
-  - 2170230371
+dsq_thread_id: 2170230371
 categories:
   - Código
   - JavaScript

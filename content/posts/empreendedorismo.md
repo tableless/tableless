@@ -13,8 +13,7 @@ twittercomments:
   - 'a:17:{i:260703838556786689;s:7:"retweet";i:260690180338483200;s:7:"retweet";i:260340626925707265;s:7:"retweet";i:259341801373171712;s:7:"retweet";i:259338788063547393;s:7:"retweet";i:259332427116322817;s:7:"retweet";i:259330474873323520;s:7:"retweet";i:259330088603111424;s:7:"retweet";i:259329445721149441;s:7:"retweet";i:259328624925220864;s:7:"retweet";i:266552841701847040;s:7:"retweet";i:266500229342326784;s:7:"retweet";i:266492063661568000;s:7:"retweet";i:270843640824356864;s:7:"retweet";i:270836928650285057;s:7:"retweet";i:282115782165557248;s:7:"retweet";i:281852623718592514;s:7:"retweet";}'
 tweetcount:
   - 48
-dsq_thread_id:
-  - 891793542
+dsq_thread_id: 891793542
 categories:
   - Mercado e Comportamento
   - Notícias

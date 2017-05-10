@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/processos-adocao-padroes";s:7:"tinyurl";s:26:"http://tinyurl.com/44s2pnn";s:4:"isgd";s:19:"http://is.gd/PVKIMc";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039377
+dsq_thread_id: 503039377
 categories:
   - Artigos
   - Código

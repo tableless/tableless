@@ -17,8 +17,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/ie_comendo_mosca";s:7:"tinyurl";s:26:"http://tinyurl.com/3l5dupc";s:4:"isgd";s:19:"http://is.gd/uwnGoP";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032534
+dsq_thread_id: 503032534
 categories:
   - Browsers
 

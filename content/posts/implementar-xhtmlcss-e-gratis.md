@@ -17,8 +17,7 @@ twittercomments:
   - 'a:2:{i:17638262411632640;s:6:"136470";i:17630219045179392;s:7:"retweet";}'
 tweetcount:
   - 3
-dsq_thread_id:
-  - 503038700
+dsq_thread_id: 503038700
 categories:
   - Artigos
   - CSS

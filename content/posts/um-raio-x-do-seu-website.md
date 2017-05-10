@@ -13,8 +13,7 @@ twittercomments:
   - 'a:9:{i:151327323508064257;s:7:"retweet";i:151236453039489025;s:7:"retweet";i:154255318610755584;s:7:"retweet";i:154254464201670657;s:7:"retweet";i:154253700964167680;s:7:"retweet";i:169584844064571392;s:7:"retweet";i:181826903370514433;s:7:"retweet";i:181824512231346176;s:7:"retweet";i:181822569626861570;s:7:"retweet";}'
 tweetcount:
   - 13
-dsq_thread_id:
-  - 503040040
+dsq_thread_id: 503040040
 categories:
   - Artigos
   - CSS

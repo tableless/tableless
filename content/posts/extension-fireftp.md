@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/extension-fireftp";s:7:"tinyurl";s:26:"http://tinyurl.com/3bc4n9f";s:4:"isgd";s:19:"http://is.gd/4WIy5X";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034432
+dsq_thread_id: 503034432
 categories:
   - Browsers
   - Técnicas e Práticas

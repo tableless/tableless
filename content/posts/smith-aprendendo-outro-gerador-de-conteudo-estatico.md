@@ -5,8 +5,7 @@ type: post
 date: 2014-01-15
 excerpt: Conheça o Wintersmith, mais um gerador de conteúdo estático.
 url: /wintersmith-aprendendo-outro-gerador-de-conteudo-estatico/
-dsq_thread_id:
-  - 2125264349
+dsq_thread_id: 2125264349
 categories:
   - Código
   - Técnicas e Práticas

@@ -5,8 +5,7 @@ type: post
 date: 2013-09-10
 excerpt: Um pensamento sobre organização de informação.
 url: /sobre-organizar-informacao/
-dsq_thread_id:
-  - 1674757767
+dsq_thread_id: 1674757767
 categories:
   - Acessibilidade
   - Artigos

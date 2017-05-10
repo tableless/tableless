@@ -13,8 +13,7 @@ twittercomments:
   - 'a:7:{i:235375425478594561;s:7:"retweet";i:235301415751401472;s:7:"retweet";i:235220638443388928;s:7:"retweet";i:235209485067640832;s:7:"retweet";i:238275634336501760;s:7:"retweet";i:238275129975664640;s:7:"retweet";i:250671278464319488;s:7:"retweet";}'
 tweetcount:
   - 13
-dsq_thread_id:
-  - 804324714
+dsq_thread_id: 804324714
 categories:
   - Browsers
   - Código

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/wii-usando-opera";s:7:"tinyurl";s:26:"http://tinyurl.com/4yv5y3x";s:4:"isgd";s:19:"http://is.gd/N0kXh6";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035398
+dsq_thread_id: 503035398
 categories:
   - Browsers
   - Tecnologia e Tendências

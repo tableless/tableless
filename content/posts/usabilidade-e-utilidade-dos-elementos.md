@@ -5,8 +5,7 @@ type: post
 date: 2014-07-02
 excerpt: A utilidade dos objetos na vida real, e dos elementos na web, vão muito além do que o criador imaginou. Já parou pra pensar nisso?
 url: /usabilidade-e-utilidade-dos-elementos/
-dsq_thread_id:
-  - 2765360165
+dsq_thread_id: 2765360165
 categories:
   - Tecnologia e Tendências
   - UX

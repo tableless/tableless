@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/ibm_hp_convertidos";s:7:"tinyurl";s:26:"http://tinyurl.com/3j5lyee";s:4:"isgd";s:19:"http://is.gd/I2CPQf";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031917
+dsq_thread_id: 503031917
 categories:
   - Convertidos
 

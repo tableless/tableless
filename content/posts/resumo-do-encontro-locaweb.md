@@ -5,8 +5,7 @@ type: post
 date: 2013-07-05
 excerpt: Minhas palestras feitas no 15ELW.
 url: /resumo-do-encontro-locaweb/
-dsq_thread_id:
-  - 1469301428
+dsq_thread_id: 1469301428
 categories:
   - Slides e Apresentações
 

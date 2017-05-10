@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:66:"http://tableless.com.br/padroes-web-de-onde-viemos-para-onde-vamos";s:7:"tinyurl";s:26:"http://tinyurl.com/3rkm72s";s:4:"isgd";s:19:"http://is.gd/lezaLP";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035794
+dsq_thread_id: 503035794
 categories:
   - Artigos
   - Geral

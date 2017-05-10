@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/semana_azul";s:7:"tinyurl";s:26:"http://tinyurl.com/3ox6uug";s:4:"isgd";s:19:"http://is.gd/o5ntN2";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033125
+dsq_thread_id: 503033125
 categories:
   - Geral
 tags:

@@ -5,8 +5,7 @@ type: post
 date: 2014-04-16
 excerpt: Um texto sobre variáveis em pré-processadores de CSS e a nova especificação de variáveis para folhas de estilo.
 url: /semantica-de-variaveis-e-propriedades-personalizadas-em-css/
-dsq_thread_id:
-  - 2616763327
+dsq_thread_id: 2616763327
 categories:
   - Geral
 

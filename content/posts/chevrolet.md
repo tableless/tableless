@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:46284760506568705;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503031726
+dsq_thread_id: 503031726
 
 ---
 Vi em uma dúzia de blogs gringos ao mesmo tempo: [chevrolet.com][1], redesign tableless, XHTML com CSS, javascript crossbrowser, muito bom.

@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/indicacoes-de-sites-bonitos";s:7:"tinyurl";s:26:"http://tinyurl.com/44qch2c";s:4:"isgd";s:19:"http://is.gd/MBPPru";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036598
+dsq_thread_id: 503036598
 categories:
   - Bonito de se ver
 

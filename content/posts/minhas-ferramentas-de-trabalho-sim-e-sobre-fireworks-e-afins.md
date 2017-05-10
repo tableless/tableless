@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:84:"http://tableless.com.br/minhas-ferramentas-de-trabalho-sim-e-sobre-fireworks-e-afins";s:7:"tinyurl";s:26:"http://tinyurl.com/44fpc98";s:4:"isgd";s:19:"http://is.gd/SvnuSp";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037203
+dsq_thread_id: 503037203
 categories:
   - Tecnologia e Tendências
 tags:

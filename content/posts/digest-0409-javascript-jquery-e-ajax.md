@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:60:"http://tableless.com.br/digest-0409-javascript-jquery-e-ajax";s:7:"tinyurl";s:26:"http://tinyurl.com/4ypccf8";s:4:"isgd";s:19:"http://is.gd/gFdxhN";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039006
+dsq_thread_id: 503039006
 categories:
   - AJAX
   - Digest

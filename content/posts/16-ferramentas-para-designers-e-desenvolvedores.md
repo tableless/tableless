@@ -5,8 +5,7 @@ type: post
 date: 2013-05-06
 excerpt: Sites, aplicativos, plugins, agregadores e portais que vão fazer toda a diferença na hora de aprender coisas novas, organizar seu dia-a-dia e encontrar inspiração.
 url: /16-ferramentas-para-designers-e-desenvolvedores/
-dsq_thread_id:
-  - 1246895553
+dsq_thread_id: 1246895553
 categories:
   - Browsers
   - Digest

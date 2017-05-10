@@ -7,8 +7,7 @@ excerpt: |
   |
     Estruturando variáveis de forma inteligente com o Maps do SASS.
 url: /utilizando-maps-sass/
-dsq_thread_id:
-  - 2915464932
+dsq_thread_id: 2915464932
 categories:
   - Código
   - Pré-processadores

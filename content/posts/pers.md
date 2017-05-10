@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:34:"http://tableless.com.br/wallpapers";s:7:"tinyurl";s:26:"http://tinyurl.com/3k9po9j";s:4:"isgd";s:19:"http://is.gd/iVQZ6Z";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036479
+dsq_thread_id: 503036479
 tags:
   - cotidiano
 

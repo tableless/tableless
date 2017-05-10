@@ -5,8 +5,7 @@ type: post
 date: 2013-09-03
 excerpt: 'Anotações da minha palestra sobre como fazer seu próprio framework CSS. '
 url: /dicas-de-como-fazer-seu-proprio-framework-css/
-dsq_thread_id:
-  - 1665248375
+dsq_thread_id: 1665248375
 categories:
   - Código
   - CSS

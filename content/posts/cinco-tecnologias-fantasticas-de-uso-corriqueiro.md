@@ -5,8 +5,7 @@ type: post
 date: 2014-05-05
 excerpt: Como a tecnologia comum, que usamos todos os dias, pode ainda impressionar.
 url: /cinco-tecnologias-fantasticas-de-uso-corriqueiro/
-dsq_thread_id:
-  - 2662118947
+dsq_thread_id: 2662118947
 categories:
   - Artigos
 tags:

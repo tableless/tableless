@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/geourl-explicadinho";s:7:"tinyurl";s:26:"http://tinyurl.com/3gltv8y";s:4:"isgd";s:19:"http://is.gd/dV1MvG";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035389
+dsq_thread_id: 503035389
 categories:
   - Geral
 tags:

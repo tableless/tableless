@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/elpi-problema-5";s:7:"tinyurl";s:26:"http://tinyurl.com/3usl5h5";s:4:"isgd";s:19:"http://is.gd/QSe6sJ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038154
+dsq_thread_id: 503038154
 categories:
   - Tecnologia e Tendências
 tags:

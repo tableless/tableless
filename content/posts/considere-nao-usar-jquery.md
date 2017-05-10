@@ -5,8 +5,7 @@ type: post
 date: 2014-02-19
 excerpt: Em projetos pequenos ou em projetos com pouco javascript, considere não usar JQuery.
 url: /considere-nao-usar-jquery/
-dsq_thread_id:
-  - 2279023221
+dsq_thread_id: 2279023221
 titulo_personalizado:
   - 'E se você tentasse utilizar <strong>menos jQuery?</strong>'
 categories:

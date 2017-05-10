@@ -5,8 +5,7 @@ type: post
 date: 2014-04-09
 excerpt: Sinta o gostinho do BDD em um simples hello world
 url: /bdd-na-pratica-parte-1/
-dsq_thread_id:
-  - 2592146000
+dsq_thread_id: 2592146000
 categories:
   - Geral
 

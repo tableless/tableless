@@ -5,8 +5,7 @@ type: post
 date: 2014-02-04
 excerpt: Continuando com a cobertura da Campus Party Brasil 2014 (CPBr7), trago os destaques do segundo dia de palestras (29/01)
 url: /cobertura-campus-party-brasil-2014-parte-2/
-dsq_thread_id:
-  - 2219938246
+dsq_thread_id: 2219938246
 categories:
   - Eventos e Workshops
 tags:

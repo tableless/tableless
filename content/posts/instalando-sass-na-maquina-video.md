@@ -5,8 +5,7 @@ type: post
 date: 2014-08-18
 excerpt: Quer usar SASS em seus projetos? Instale SASS na sua máquina e saia usando.
 url: /instalando-sass-na-maquina-video/
-dsq_thread_id:
-  - 2920943771
+dsq_thread_id: 2920943771
 categories:
   - Código
   - CSS

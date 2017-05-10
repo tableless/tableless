@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:66:"http://tableless.com.br/estatisticas-do-tableless-feed-outubro2006";s:7:"tinyurl";s:26:"http://tinyurl.com/42ojdrk";s:4:"isgd";s:19:"http://is.gd/YUZnbV";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036193
+dsq_thread_id: 503036193
 tags:
   - cotidiano
 

@@ -14,8 +14,7 @@ twittercomments:
   - 'a:1:{i:48006937236873216;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503034458
+dsq_thread_id: 503034458
 categories:
   - Código
   - Podcasts

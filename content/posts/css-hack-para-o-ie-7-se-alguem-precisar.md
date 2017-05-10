@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:63:"http://tableless.com.br/css-hack-para-o-ie-7-se-alguem-precisar";s:7:"tinyurl";s:26:"http://tinyurl.com/3luxwvo";s:4:"isgd";s:19:"http://is.gd/ufyRIx";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503014851
+dsq_thread_id: 503014851
 categories:
   - Browsers
 tags:

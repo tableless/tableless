@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/vista_esta_camisa";s:7:"tinyurl";s:26:"http://tinyurl.com/3v7fv2k";s:4:"isgd";s:19:"http://is.gd/ZfF8J8";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032667
+dsq_thread_id: 503032667
 categories:
   - Geral
 tags:

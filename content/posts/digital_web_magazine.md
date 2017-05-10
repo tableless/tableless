@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/digital_web_magazine";s:7:"tinyurl";s:26:"http://tinyurl.com/3ul3n8l";s:4:"isgd";s:19:"http://is.gd/bEFYsu";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 538507814
+dsq_thread_id: 538507814
 
 ---
 A [Digital Web Magazine][1],

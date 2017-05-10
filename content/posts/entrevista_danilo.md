@@ -16,8 +16,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/entrevista_danilo";s:7:"tinyurl";s:26:"http://tinyurl.com/3zhbzll";s:4:"isgd";s:19:"http://is.gd/xiUTbe";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032121
+dsq_thread_id: 503032121
 categories:
   - Podcasts
 

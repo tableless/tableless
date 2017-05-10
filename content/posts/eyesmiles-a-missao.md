@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/eyesmiles-a-missao";s:7:"tinyurl";s:26:"http://tinyurl.com/3u53p47";s:4:"isgd";s:19:"http://is.gd/BlnFpP";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035155
+dsq_thread_id: 503035155
 tags:
   - cotidiano
 

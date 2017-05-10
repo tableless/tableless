@@ -13,8 +13,7 @@ twittercomments:
   - 'a:12:{i:164385966302298112;s:7:"retweet";i:164372860352200704;s:7:"retweet";i:164346325176025090;s:7:"retweet";i:164334489005326337;s:7:"retweet";i:164038428168699904;s:7:"retweet";i:164019911746789377;s:7:"retweet";i:164019319464923138;s:7:"retweet";i:163971209015468032;s:7:"retweet";i:163946337350594561;s:7:"retweet";i:163944362223480834;s:7:"retweet";i:172363419167637504;s:7:"retweet";i:170469850790105089;s:7:"retweet";}'
 tweetcount:
   - 53
-dsq_thread_id:
-  - 557557663
+dsq_thread_id: 557557663
 categories:
   - Artigos
 tags:

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:82:"http://tableless.com.br/coisas-uteis-que-nao-funcionam-no-ie-1-seletor-inteligente";s:7:"tinyurl";s:26:"http://tinyurl.com/3u94cro";s:4:"isgd";s:19:"http://is.gd/XEdnaE";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036005
+dsq_thread_id: 503036005
 categories:
   - Artigos
   - Browsers

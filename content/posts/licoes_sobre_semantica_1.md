@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/licoes_sobre_semantica_1";s:7:"tinyurl";s:26:"http://tinyurl.com/3nty9gs";s:4:"isgd";s:19:"http://is.gd/Z7jQm9";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031988
+dsq_thread_id: 503031988
 categories:
   - Geral
 tags:

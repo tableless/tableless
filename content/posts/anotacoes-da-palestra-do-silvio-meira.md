@@ -5,8 +5,7 @@ type: post
 date: 2013-05-07
 excerpt: Anotações da palestra que o Silvio Meira fez no Encontro Locaweb de Profissionais de Internet em Curitiba.
 url: /anotacoes-da-palestra-do-silvio-meira/
-dsq_thread_id:
-  - 1270358145
+dsq_thread_id: 1270358145
 categories:
   - Artigos
   - UX

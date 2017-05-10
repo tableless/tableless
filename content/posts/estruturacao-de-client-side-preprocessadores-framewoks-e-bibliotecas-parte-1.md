@@ -9,8 +9,7 @@ tweetbackscheck:
   - 1356453533
 shorturls:
   - 'a:3:{s:9:"permalink";s:101:"http://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/";s:7:"tinyurl";s:26:"http://tinyurl.com/cmn7q57";s:4:"isgd";s:19:"http://is.gd/8dkHWG";}'
-dsq_thread_id:
-  - 682660889
+dsq_thread_id: 682660889
 twittercomments:
   - 'a:14:{i:200399109390221312;s:7:"retweet";i:201014996631695360;s:7:"retweet";i:200514177591279616;s:7:"retweet";i:200412300379815936;s:7:"retweet";i:200406317574262784;s:7:"retweet";i:200379204490104834;s:7:"retweet";i:200289707714813953;s:7:"retweet";i:200271390815952896;s:7:"retweet";i:200271021058699264;s:7:"retweet";i:204618316403322880;s:7:"retweet";i:203535947080540161;s:7:"retweet";i:218776759678681088;s:7:"retweet";i:218752599552299009;s:7:"retweet";i:237612213156855808;s:7:"retweet";}'
 tweetcount:

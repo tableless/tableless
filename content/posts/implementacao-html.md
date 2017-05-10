@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/implementacao-html";s:7:"tinyurl";s:26:"http://tinyurl.com/3zg3nnn";s:4:"isgd";s:19:"http://is.gd/eVYF2y";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037509
+dsq_thread_id: 503037509
 categories:
   - Técnicas e Práticas
   - Tecnologia e Tendências

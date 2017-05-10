@@ -5,8 +5,7 @@ type: post
 date: 2014-07-14
 excerpt: Aprenda o básico da API de Web Notifications.
 url: /web-notifications-api/
-dsq_thread_id:
-  - 2829785744
+dsq_thread_id: 2829785744
 categories:
   - JavaScript
   - Técnicas e Práticas

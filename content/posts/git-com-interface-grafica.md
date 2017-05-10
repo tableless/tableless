@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7301";s:7:"tinyurl";s:26:"http://tinyurl.com/coj7kbg";s:4:"isgd";s:19:"http://is.gd/uZqDRf";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 944349926
+dsq_thread_id: 944349926
 categories:
   - O Básico
   - Técnicas e Práticas

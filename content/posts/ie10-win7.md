@@ -5,8 +5,7 @@ type: post
 date: 2012-10-22
 excerpt: IE10 em Novembro para Windows 7.
 url: /ie10-win7/
-dsq_thread_id:
-  - 894883843
+dsq_thread_id: 894883843
 tweetbackscheck:
   - 1356344991
 shorturls:

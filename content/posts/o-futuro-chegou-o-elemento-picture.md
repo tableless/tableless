@@ -5,8 +5,7 @@ type: post
 date: 2014-06-10
 excerpt: Se você tinha problemas com imagens responsivas, agora não tem mais...
 url: /o-futuro-chegou-o-elemento-picture/
-dsq_thread_id:
-  - 2744674958
+dsq_thread_id: 2744674958
 categories:
   - Artigos
   - Browsers

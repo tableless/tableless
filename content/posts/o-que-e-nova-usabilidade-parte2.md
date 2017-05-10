@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4592";s:7:"tinyurl";s:26:"http://tinyurl.com/7prrob7";s:4:"isgd";s:19:"http://is.gd/5qyLF2";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503012279
+dsq_thread_id: 503012279
 categories:
   - Acessibilidade
   - Artigos

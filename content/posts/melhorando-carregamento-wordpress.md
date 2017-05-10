@@ -13,8 +13,7 @@ twittercomments:
   - 'a:5:{i:104167377658318848;s:7:"retweet";i:163350088545091584;s:7:"retweet";i:163301091491069954;s:7:"retweet";i:163282805592305664;s:7:"retweet";i:163273661510463488;s:7:"retweet";}'
 tweetcount:
   - 11
-dsq_thread_id:
-  - 503040309
+dsq_thread_id: 503040309
 categories:
   - Wordpress
 tags:

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/microsoft_redesign";s:7:"tinyurl";s:26:"http://tinyurl.com/3ck6sau";s:4:"isgd";s:19:"http://is.gd/peAcnU";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031755
+dsq_thread_id: 503031755
 
 ---
 E [aquela][1] empresa que fez [aquele][2] browser, redesenhou o [site][3].

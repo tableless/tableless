@@ -5,8 +5,7 @@ type: post
 date: 2013-06-24
 excerpt: Conheça a nova metodologia para criação e desenvolvimento de layouts através de sistemas de interface modulares.
 url: /o-que-e-design-atomic/
-dsq_thread_id:
-  - 1419149085
+dsq_thread_id: 1419149085
 categories:
   - Adaptive Web Design (AWD)
   - Artigos

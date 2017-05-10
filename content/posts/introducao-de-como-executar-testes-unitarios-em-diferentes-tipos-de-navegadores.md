@@ -5,8 +5,7 @@ type: post
 date: 2013-12-04
 excerpt: Entenda um pouco mais sobre testes unitários e como executá-los em diversas plataformas.
 url: /introducao-de-como-executar-testes-unitarios-em-diferentes-tipos-de-navegadores/
-dsq_thread_id:
-  - 2023558245
+dsq_thread_id: 2023558245
 categories:
   - Browsers
   - JavaScript

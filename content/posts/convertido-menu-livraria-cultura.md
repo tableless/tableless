@@ -15,8 +15,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/convertido-menu-livraria-cultura";s:7:"tinyurl";s:26:"http://tinyurl.com/3kaoclj";s:4:"isgd";s:19:"http://is.gd/yGTags";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503016648
+dsq_thread_id: 503016648
 categories:
   - Código
   - Convertidos

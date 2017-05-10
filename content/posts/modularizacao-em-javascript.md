@@ -5,8 +5,7 @@ type: post
 date: 2013-12-09
 excerpt: Componentes e módulos nunca foram tão mencionados como ultimamente. Ambos são conceitos antigos que devemos entender e passar a adotar o quanto antes. Quem sabe você possa repensar o seu JavaScript hoje mesmo?
 url: /modularizacao-em-javascript/
-dsq_thread_id:
-  - 2037909754
+dsq_thread_id: 2037909754
 categories:
   - JavaScript
   - Técnicas e Práticas

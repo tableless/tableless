@@ -5,8 +5,7 @@ type: post
 date: 2013-08-05
 excerpt: Conheça quais são as técnicas, padrões e principais desafios para o desenvolvimento de aplicativos nativos e interfaces web touch screen.
 url: /design-para-telas-sensiveis-ao-toque/
-dsq_thread_id:
-  - 1572169895
+dsq_thread_id: 1572169895
 categories:
   - Artigos
   - Design

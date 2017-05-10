@@ -5,8 +5,7 @@ type: post
 date: 2013-06-18
 excerpt: Você sabe o que é complexidade ciclomática? E você sabia que já é possível medir a complexidade do seu código JavaScript?
 url: /medindo-a-complexidade-ciclomatica-do-seu-codigo-javascript/
-dsq_thread_id:
-  - 1407418323
+dsq_thread_id: 1407418323
 categories:
   - JavaScript
 tags:

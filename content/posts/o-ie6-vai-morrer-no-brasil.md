@@ -7,8 +7,7 @@ excerpt: Estamos ficando mais perto do dia em que nossos problemas com o IE vão
 url: /o-ie6-vai-morrer-no-brasil/
 tweetbackscheck:
   - 1356446604
-dsq_thread_id:
-  - 506446820
+dsq_thread_id: 506446820
 shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/o-ie6-vai-morrer-no-brasil/";s:7:"tinyurl";s:26:"http://tinyurl.com/d3kufn8";s:4:"isgd";s:19:"http://is.gd/8p26jq";}'
 twittercomments:

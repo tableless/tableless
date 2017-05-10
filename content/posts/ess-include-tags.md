@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/wordpress-include-tags";s:7:"tinyurl";s:26:"http://tinyurl.com/3blm938";s:4:"isgd";s:19:"http://is.gd/KilJqu";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038324
+dsq_thread_id: 503038324
 categories:
   - Técnicas e Práticas
   - Wordpress

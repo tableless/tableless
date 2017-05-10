@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:71:"http://tableless.com.br/sites-para-dispositivos-moveis-breve-introducao";s:7:"tinyurl";s:26:"http://tinyurl.com/4ykk5wr";s:4:"isgd";s:19:"http://is.gd/ioypbT";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034267
+dsq_thread_id: 503034267
 categories:
   - Mobile
   - Técnicas e Práticas

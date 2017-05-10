@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/extension-mouse-gestures";s:7:"tinyurl";s:26:"http://tinyurl.com/3lkc4vz";s:4:"isgd";s:19:"http://is.gd/sW84bB";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034605
+dsq_thread_id: 503034605
 categories:
   - Browsers
 tags:

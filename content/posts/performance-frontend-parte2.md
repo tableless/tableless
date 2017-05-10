@@ -5,8 +5,7 @@ type: post
 date: 2013-01-28
 excerpt: 'O front-end é um dos grandes responsáveis pela performance de um website ou serviço online. '
 url: /performance-frontend-parte2/
-dsq_thread_id:
-  - 1050033325
+dsq_thread_id: 1050033325
 categories:
   - Browsers
   - Código

@@ -5,8 +5,7 @@ type: post
 date: 2013-03-12
 excerpt: Entenda como o uso do CSS influencia a acessibilidade dos seus projetos web.
 url: /css-e-acessibilidade-na-web/
-dsq_thread_id:
-  - 1132699458
+dsq_thread_id: 1132699458
 categories:
   - Acessibilidade
   - CSS

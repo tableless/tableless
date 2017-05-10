@@ -4,8 +4,7 @@ author: George Moura
 type: post
 date: 2014-02-22
 url: /debug-remoto-com-chrome-android/
-dsq_thread_id:
-  - 2302801964
+dsq_thread_id: 2302801964
 categories:
   - Browsers
   - Mobile

@@ -4,8 +4,7 @@ author: Rodrigo Simoni
 type: post
 date: 2013-08-30
 url: /html-5-e-seo-mitos-e-verdades/
-dsq_thread_id:
-  - 1660828959
+dsq_thread_id: 1660828959
 categories:
   - HTML5
   - SEO

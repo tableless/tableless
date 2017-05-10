@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/designers-de-css-a-missao";s:7:"tinyurl";s:26:"http://tinyurl.com/4yv4fou";s:4:"isgd";s:19:"http://is.gd/lyNTXB";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036445
+dsq_thread_id: 503036445
 categories:
   - Tecnologia e Tendências
 tags:

@@ -13,8 +13,7 @@ twittercomments:
   - 'a:1:{i:152060798972342272;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503040005
+dsq_thread_id: 503040005
 categories:
   - Acessibilidade
   - HTML5

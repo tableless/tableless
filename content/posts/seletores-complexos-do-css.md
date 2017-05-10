@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/seletores-complexos-do-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3vyqkk8";s:4:"isgd";s:19:"http://is.gd/VKl143";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038919
+dsq_thread_id: 503038919
 categories:
   - Artigos
   - CSS

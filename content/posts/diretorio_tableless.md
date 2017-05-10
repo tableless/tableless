@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/diretorio_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3vxhflm";s:4:"isgd";s:19:"http://is.gd/XJz4yL";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 581748599
+dsq_thread_id: 581748599
 
 ---
 Lembram do diretório de sites tableless em português que eu estava armando?

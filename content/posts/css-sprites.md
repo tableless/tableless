@@ -9,8 +9,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6446";s:4:"isgd";s:19:"http://is.gd/zXFW2Y";s:7:"tinyurl";s:26:"http://tinyurl.com/7fzye82";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 767905273
+dsq_thread_id: 767905273
 categories:
   - CSS
   - O Básico

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:95:"http://tableless.com.br/coisas-uteis-que-nao-funcionam-no-ie-2-altura-e-largura-minima-e-maxima";s:7:"tinyurl";s:26:"http://tinyurl.com/3q4f62l";s:4:"isgd";s:19:"http://is.gd/eOyvRb";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036054
+dsq_thread_id: 503036054
 categories:
   - Artigos
   - Geral

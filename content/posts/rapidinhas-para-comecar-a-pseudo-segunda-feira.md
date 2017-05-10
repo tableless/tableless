@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:70:"http://tableless.com.br/rapidinhas-para-comecar-a-pseudo-segunda-feira";s:7:"tinyurl";s:26:"http://tinyurl.com/3em44o6";s:4:"isgd";s:19:"http://is.gd/lbeilB";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037372
+dsq_thread_id: 503037372
 categories:
   - Geral
   - Mobile

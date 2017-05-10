@@ -13,8 +13,7 @@ twittercomments:
   - 'a:15:{i:185465263599259648;s:7:"retweet";i:184962080850456576;s:7:"retweet";i:190109851798618113;s:7:"retweet";i:190078622432899073;s:7:"retweet";i:190055412148604930;s:7:"retweet";i:190054694234750977;s:7:"retweet";i:195136072177553408;s:7:"retweet";i:195129367939133440;s:7:"retweet";i:195128153813950465;s:7:"retweet";i:195128147660914688;s:7:"retweet";i:208238172604338177;s:7:"retweet";i:208223411309264896;s:7:"retweet";i:208178528657739776;s:7:"retweet";i:208176808359768065;s:7:"retweet";i:208173693426339840;s:7:"retweet";}'
 tweetcount:
   - 30
-dsq_thread_id:
-  - 626996208
+dsq_thread_id: 626996208
 categories:
   - Browsers
   - Notícias

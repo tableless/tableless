@@ -5,8 +5,7 @@ type: post
 date: 2014-07-21
 excerpt: Entenda como blogs e redes sociais podem andar de mãos dadas, veja como criar uma diagramação diferente para cada tipo de conteúdo e desenvolva temas para Tumblr utilizando variáveis dinâmicas e HTML.
 url: /desenvolvimento-de-temas-para-tumblr/
-dsq_thread_id:
-  - 2828991617
+dsq_thread_id: 2828991617
 categories:
   - CMS
   - Técnicas e Práticas

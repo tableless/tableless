@@ -5,8 +5,7 @@ type: post
 date: 2013-10-31
 excerpt: O termo assets é utilizado na economia para caracterizar todo recurso que se poderá tirar proveito no futuro. Mas não se preocupe, nosso assunto aqui é sobre desenvolvimento web.
 url: /workflow-para-cuidar-dos-seus-assets/
-dsq_thread_id:
-  - 1922824496
+dsq_thread_id: 1922824496
 categories:
   - Artigos
   - Código

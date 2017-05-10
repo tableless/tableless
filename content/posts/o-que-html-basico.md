@@ -7,8 +7,7 @@ excerpt: Entenda o HTML básico, saiba o que significa tags do HTML e entenda co
 url: /o-que-html-basico/
 tweetbackscheck:
   - 1356450861
-dsq_thread_id:
-  - 511187823
+dsq_thread_id: 511187823
 shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/o-que-html-basico/";s:7:"tinyurl";s:26:"http://tinyurl.com/cgp5r8b";s:4:"isgd";s:19:"http://is.gd/rCoZs5";}'
 twittercomments:

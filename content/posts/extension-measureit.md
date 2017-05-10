@@ -14,8 +14,7 @@ twittercomments:
   - 'a:1:{i:41116582608371712;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503034440
+dsq_thread_id: 503034440
 categories:
   - Browsers
 tags:

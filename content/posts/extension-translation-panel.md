@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/extension-translation-panel";s:7:"tinyurl";s:26:"http://tinyurl.com/4xmb6v3";s:4:"isgd";s:19:"http://is.gd/7G0qbt";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034531
+dsq_thread_id: 503034531
 categories:
   - Browsers
   - Técnicas e Práticas

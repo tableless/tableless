@@ -5,8 +5,7 @@ type: post
 date: 2013-06-04
 excerpt: Neste artigo apresento um pouco mais sobre as duas formas disponíveis para criação de objetos em JavaScript, Objetos Literais e Construtores, suas vantagens e desvantagens.
 url: /javascript-objetos-literais-vs-funcoes-construtoras/
-dsq_thread_id:
-  - 1357506101
+dsq_thread_id: 1357506101
 categories:
   - JavaScript
   - Técnicas e Práticas

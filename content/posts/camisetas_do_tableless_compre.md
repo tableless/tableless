@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:37458459695910912;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503032955
+dsq_thread_id: 503032955
 tags:
   - cotidiano
 

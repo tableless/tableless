@@ -7,8 +7,7 @@ excerpt: |
   |
     Com apenas um teste rápido, você poderá fazer uma análise completa das suas folhas de estilo e remover os seletores não utilizados.
 url: /fazendo-uma-faxina-seu-css/
-dsq_thread_id:
-  - 2598345085
+dsq_thread_id: 2598345085
 categories:
   - CSS
 tags:

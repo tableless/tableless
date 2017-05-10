@@ -5,8 +5,7 @@ type: post
 date: 2013-04-14
 excerpt: Criando comandos de atalhos direto no terminal.
 url: /criando-comandos-de-atalhos-no-terminal/
-dsq_thread_id:
-  - 1209281575
+dsq_thread_id: 1209281575
 categories:
   - Editores
   - Técnicas e Práticas

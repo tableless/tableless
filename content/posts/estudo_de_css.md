@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/estudo_de_css";s:7:"tinyurl";s:26:"http://tinyurl.com/3ohjzgc";s:4:"isgd";s:19:"http://is.gd/hGtumw";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031482
+dsq_thread_id: 503031482
 
 ---
 Agora o tableless tem um lugar especial para aquele pessoal que gosta de aprender.

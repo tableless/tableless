@@ -5,8 +5,7 @@ type: post
 date: 2013-03-26
 excerpt: 'Tentar generalizar como as pessoas utilizam seus aparelhos móveis com base em conceitos de fundamentação duvidosa pode muitas vezes levar ao engano. E quem sai prejudicado é o próprio usuário. Conheça os principais mitos sobre o uso de dispositivos móveis. '
 url: /mitos-sobre-dispositivos-moveis/
-dsq_thread_id:
-  - 1165978518
+dsq_thread_id: 1165978518
 categories:
   - Mercado e Comportamento
   - Mobile

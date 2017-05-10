@@ -5,8 +5,7 @@ type: post
 date: 2013-03-20
 excerpt: Inicialmente lançado para aplicações mobile, o framework Zepto.js começa a ganhar espaço também no desktop graças ao seu peso reduzido e a sua alta compatibilidade com jQuery.
 url: /zepto-js-biblioteca-javascript-peso-leve/
-dsq_thread_id:
-  - 1149184803
+dsq_thread_id: 1149184803
 categories:
   - JavaScript
   - JQuery

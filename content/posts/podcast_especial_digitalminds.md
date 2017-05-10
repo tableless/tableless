@@ -21,8 +21,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/podcast_especial_digitalminds";s:7:"tinyurl";s:26:"http://tinyurl.com/455ndj8";s:4:"isgd";s:19:"http://is.gd/rzzEpT";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033089
+dsq_thread_id: 503033089
 categories:
   - Podcasts
 

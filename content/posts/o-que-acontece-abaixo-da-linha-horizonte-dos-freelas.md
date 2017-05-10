@@ -5,8 +5,7 @@ type: post
 date: 2014-05-16
 excerpt: O mercado web no Brasil vai bem,  mas não para todos. O profissionais autônomos conhecidos como free-lancers ou popularmente “freelas” atendem um nicho de mercado que é ignorado pelas agências de publicidade mas enfrentam cada coisa…
 url: /o-que-acontece-abaixo-da-linha-horizonte-dos-freelas/
-dsq_thread_id:
-  - 2646256022
+dsq_thread_id: 2646256022
 categories:
   - Mercado e Comportamento
 

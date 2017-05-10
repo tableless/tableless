@@ -7,8 +7,7 @@ excerpt: |
   E o que vamos falar em 2014? 
   Confira alguns do assuntos que fizeram a cabeça em 2013 e podem ser grandes promessas para 2014.
 url: /o-que-falamos-em-2013/
-dsq_thread_id:
-  - 2095686769
+dsq_thread_id: 2095686769
 categories:
   - Artigos
   - CSS

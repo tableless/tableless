@@ -26,8 +26,7 @@ enclosure:
         2844338
         audio/mpeg
         
-dsq_thread_id:
-  - 503040220
+dsq_thread_id: 503040220
 categories:
   - Código
   - CSS

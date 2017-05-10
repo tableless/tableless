@@ -5,8 +5,7 @@ type: post
 date: 2014-07-01
 excerpt: Aprenda a fazer o upload de arquivos com PHP e AJAX, utilizando WideImage e Jquery Form Plugin.
 url: /upload-de-arquivos-com-php/
-dsq_thread_id:
-  - 2803009875
+dsq_thread_id: 2803009875
 categories:
   - Back-end
   - PHP

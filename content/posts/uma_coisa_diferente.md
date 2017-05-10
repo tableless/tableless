@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/uma_coisa_diferente";s:7:"tinyurl";s:26:"http://tinyurl.com/3kp34k2";s:4:"isgd";s:19:"http://is.gd/LPTQPT";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031782
+dsq_thread_id: 503031782
 
 ---
 [Acompanhe a implementação do novo layout do Tableless][1]! 

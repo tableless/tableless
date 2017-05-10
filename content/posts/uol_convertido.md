@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/uol_convertido";s:7:"tinyurl";s:26:"http://tinyurl.com/3pvlvzc";s:4:"isgd";s:19:"http://is.gd/LrmVSb";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031902
+dsq_thread_id: 503031902
 
 ---
 O nosso amigo [Bruno Torres][1], [converteu][2] a home do site [UOL][3].

@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/digest-0609-javascript-jquery";s:7:"tinyurl";s:26:"http://tinyurl.com/3gahrjh";s:4:"isgd";s:19:"http://is.gd/vogoYM";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 506925436
+dsq_thread_id: 506925436
 categories:
   - Digest
   - JavaScript

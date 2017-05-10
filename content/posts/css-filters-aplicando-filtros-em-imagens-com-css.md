@@ -5,8 +5,7 @@ type: post
 date: 2014-07-10
 excerpt: Veja como aplicar filtros em imagens e elementos apenas com CSS.
 url: /css-filters-aplicando-filtros-em-imagens-com-css/
-dsq_thread_id:
-  - 2825769516
+dsq_thread_id: 2825769516
 categories:
   - CSS
   - Técnicas e Práticas

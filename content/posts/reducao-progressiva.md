@@ -5,8 +5,7 @@ type: post
 date: 2013-09-11
 excerpt: 'Entenda como criar interfaces que se adaptam automaticamente de acordo com o perfil de uso do usuário. '
 url: /reducao-progressiva/
-dsq_thread_id:
-  - 1742636788
+dsq_thread_id: 1742636788
 categories:
   - Artigos
   - UX

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/ganhando_batalha_web";s:7:"tinyurl";s:26:"http://tinyurl.com/3nxrkxk";s:4:"isgd";s:19:"http://is.gd/uqIcaD";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031763
+dsq_thread_id: 503031763
 
 ---
 Acabei de ler o post [Não Basta Acessar, Tem que Comprar][1], no site [Usabilidade & Arquitetura da Informação][2], e concordo plenamente. Existem várias barreiras hoje para conseguirmos fazer o internauta acessar seu site. A primeira delas é fazê-lo visitar, a segunda é fazê-lo usar o site, a outra é fazê-lo voltar ao site&#8230; Completando estes pontos, você conseguiu vencer. 

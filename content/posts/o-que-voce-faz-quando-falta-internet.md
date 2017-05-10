@@ -5,8 +5,7 @@ type: post
 date: 2014-06-12
 excerpt: Não importa o quão avançados são os aparelhos nos nossos bolsos. Em algum momento, serão praticamente inúteis.
 url: /o-que-voce-faz-quando-falta-internet/
-dsq_thread_id:
-  - 2759500590
+dsq_thread_id: 2759500590
 categories:
   - Artigos
   - Mercado e Comportamento

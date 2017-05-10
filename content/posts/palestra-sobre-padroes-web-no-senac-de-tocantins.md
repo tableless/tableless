@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:72:"http://tableless.com.br/palestra-sobre-padroes-web-no-senac-de-tocantins";s:7:"tinyurl";s:26:"http://tinyurl.com/3qp84bx";s:4:"isgd";s:19:"http://is.gd/YbLOdB";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035270
+dsq_thread_id: 503035270
 categories:
   - Geral
 

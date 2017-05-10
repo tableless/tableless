@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/semana-da-mobilidade";s:7:"tinyurl";s:26:"http://tinyurl.com/45yteuq";s:4:"isgd";s:19:"http://is.gd/WpxOoQ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035081
+dsq_thread_id: 503035081
 categories:
   - Geral
   - Tecnologia e Tendências

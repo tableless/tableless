@@ -5,8 +5,7 @@ type: post
 date: 2013-09-17
 excerpt: Conheça a biblioteca React desenvolvida por Facebook e Instagram, que apresenta um novo paradigma para o desenvolvimento de aplicações web.
 url: /react-javascript-reativo/
-dsq_thread_id:
-  - 1769686962
+dsq_thread_id: 1769686962
 categories:
   - JavaScript
 tags:

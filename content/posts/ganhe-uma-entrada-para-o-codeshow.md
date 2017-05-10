@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/ganhe-uma-entrada-para-o-codeshow";s:7:"tinyurl";s:26:"http://tinyurl.com/3q88vkd";s:4:"isgd";s:19:"http://is.gd/m050t9";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037153
+dsq_thread_id: 503037153
 tags:
   - cotidiano
 

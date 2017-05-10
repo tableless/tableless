@@ -5,8 +5,7 @@ type: post
 date: 2013-10-14
 excerpt: Entenda os 10 desejos intrínsecos dos membros da sua equipe.
 url: /champfrogs-10-desejos-intrinsecos/
-dsq_thread_id:
-  - 1855855034
+dsq_thread_id: 1855855034
 categories:
   - Geral
   - Mercado e Comportamento

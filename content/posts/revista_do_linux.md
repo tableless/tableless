@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/revista_do_linux";s:7:"tinyurl";s:26:"http://tinyurl.com/3eh2ssh";s:4:"isgd";s:19:"http://is.gd/0ZovMA";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 572007041
+dsq_thread_id: 572007041
 categories:
   - Geral
 tags:

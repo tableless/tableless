@@ -5,8 +5,7 @@ type: post
 date: 2013-01-29
 excerpt: Entenda como funcionarão os seletores de nível 4 do CSS. Mudanças drásticas para salver nossas vidas.
 url: /seletores-de-css3-nivel-4/
-dsq_thread_id:
-  - 1050089169
+dsq_thread_id: 1050089169
 categories:
   - Código
   - CSS

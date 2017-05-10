@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/curso_de_web_standards";s:7:"tinyurl";s:26:"http://tinyurl.com/42nmozg";s:4:"isgd";s:19:"http://is.gd/5p4lUM";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 505650108
+dsq_thread_id: 505650108
 categories:
   - Artigos
   - Browsers

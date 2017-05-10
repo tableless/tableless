@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/experimente-o-opera-mini";s:7:"tinyurl";s:26:"http://tinyurl.com/3u3v98p";s:4:"isgd";s:19:"http://is.gd/MYkUvQ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034551
+dsq_thread_id: 503034551
 categories:
   - Browsers
   - Geral

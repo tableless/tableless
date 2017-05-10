@@ -5,8 +5,7 @@ type: post
 date: 2014-07-01
 excerpt: Validar formulários sempre demandou algum tempo e dependências como bibliotecas JavaScript. Com HTML5 podemos passar essa responsabilidade para o navegador, ganhando tempo de desenvolvimento e economizando no peso da página.
 url: /validacao-de-formularios-com-html5/
-dsq_thread_id:
-  - 2792655271
+dsq_thread_id: 2792655271
 categories:
   - HTML
   - Traduções

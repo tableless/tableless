@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/aprensetacoes_sobre_css";s:7:"tinyurl";s:26:"http://tinyurl.com/3l9k6zx";s:4:"isgd";s:19:"http://is.gd/MuaWzO";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031888
+dsq_thread_id: 503031888
 
 ---
 2 apresentações ótimas sobre CSS que são paradas obrigatórias.

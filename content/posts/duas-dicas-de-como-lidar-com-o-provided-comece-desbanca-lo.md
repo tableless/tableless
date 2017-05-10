@@ -4,8 +4,7 @@ author: Douglas Faria
 type: post
 date: 2014-02-26
 url: /duas-dicas-de-como-lidar-com-o-provided-comece-desbanca-lo/
-dsq_thread_id:
-  - 2324385432
+dsq_thread_id: 2324385432
 categories:
   - Artigos
   - SEO

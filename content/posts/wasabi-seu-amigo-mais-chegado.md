@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/wasabi-seu-amigo-mais-chegado";s:7:"tinyurl";s:26:"http://tinyurl.com/3nosc2h";s:4:"isgd";s:19:"http://is.gd/WVbwZ4";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034688
+dsq_thread_id: 503034688
 categories:
   - Tecnologia e Tendências
 tags:

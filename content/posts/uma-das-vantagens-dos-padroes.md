@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/uma-das-vantagens-dos-padroes";s:7:"tinyurl";s:26:"http://tinyurl.com/3jhgtcd";s:4:"isgd";s:19:"http://is.gd/uOwYWk";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035183
+dsq_thread_id: 503035183
 categories:
   - Artigos
   - Geral

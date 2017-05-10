@@ -18,8 +18,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/podcast8_entrevista_jonas_galvez2";s:7:"tinyurl";s:26:"http://tinyurl.com/3rxq5tj";s:4:"isgd";s:19:"http://is.gd/B5vWBA";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032254
+dsq_thread_id: 503032254
 categories:
   - Podcasts
 

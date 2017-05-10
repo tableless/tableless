@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/blogcamp-e-codeshow";s:7:"tinyurl";s:26:"http://tinyurl.com/3w9e36a";s:4:"isgd";s:19:"http://is.gd/nzd0Yt";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037387
+dsq_thread_id: 503037387
 categories:
   - Geral
 

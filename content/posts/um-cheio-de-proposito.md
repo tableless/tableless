@@ -5,8 +5,7 @@ type: post
 date: 2012-12-31
 excerpt: Por que em 2013 você precisa de propósito...
 url: /um-2013-cheio-de-proposito/
-dsq_thread_id:
-  - 1001431458
+dsq_thread_id: 1001431458
 categories:
   - Geral
 tags:

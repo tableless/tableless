@@ -12,8 +12,7 @@ twittercomments:
   - 'a:4:{i:27420609470271488;s:7:"retweet";i:27420591564783616;s:7:"retweet";i:27420234260414465;s:7:"retweet";i:27419999169679360;s:7:"retweet";}'
 tweetcount:
   - 4
-dsq_thread_id:
-  - 503037754
+dsq_thread_id: 503037754
 categories:
   - Artigos
   - Técnicas e Práticas

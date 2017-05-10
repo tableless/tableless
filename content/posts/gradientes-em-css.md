@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/gradientes-em-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3gqncch";s:4:"isgd";s:19:"http://is.gd/leoN1w";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503028815
+dsq_thread_id: 503028815
 categories:
   - CSS
   - Técnicas e Práticas

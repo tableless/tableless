@@ -5,8 +5,7 @@ type: post
 date: 2014-02-17
 excerpt: O Tableless fará a curadoria da sala sobre desenvolvimento da Locaweb. Apareça!
 url: /tableless-16-encontro-locaweb/
-dsq_thread_id:
-  - 2279882600
+dsq_thread_id: 2279882600
 categories:
   - Eventos e Workshops
   - Notícias

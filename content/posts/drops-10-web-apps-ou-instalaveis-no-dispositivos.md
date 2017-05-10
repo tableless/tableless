@@ -20,8 +20,7 @@ enclosure:
         4545637
         audio/mpeg
         
-dsq_thread_id:
-  - 735991648
+dsq_thread_id: 735991648
 categories:
   - Drops
 tags:

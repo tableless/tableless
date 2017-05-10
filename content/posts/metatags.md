@@ -15,8 +15,7 @@ twittercomments:
   - 'a:1:{i:14108532416716800;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503037866
+dsq_thread_id: 503037866
 categories:
   - Browsers
   - Podcasts

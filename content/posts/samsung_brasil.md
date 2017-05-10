@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/samsung_brasil";s:7:"tinyurl";s:26:"http://tinyurl.com/3un4xc5";s:4:"isgd";s:19:"http://is.gd/H3yngx";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031472
+dsq_thread_id: 503031472
 categories:
   - Convertidos
   - Técnicas e Práticas

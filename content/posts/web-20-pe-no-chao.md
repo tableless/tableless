@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/web-20-pe-no-chao";s:7:"tinyurl";s:26:"http://tinyurl.com/3u6hz4v";s:4:"isgd";s:19:"http://is.gd/Eq9PWz";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034315
+dsq_thread_id: 503034315
 categories:
   - Geral
   - Tecnologia e Tendências

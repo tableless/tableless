@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/entendendo_css";s:7:"tinyurl";s:26:"http://tinyurl.com/45xnyxc";s:4:"isgd";s:19:"http://is.gd/yQ7dh9";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 512789171
+dsq_thread_id: 512789171
 
 ---
 O [Ronaldo][1] disponibilizou o [quarto artigo][2] da série [Construindo Sites com Padrões Web][3].

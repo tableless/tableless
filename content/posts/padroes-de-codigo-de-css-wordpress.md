@@ -5,8 +5,7 @@ type: post
 date: 2014-07-18
 excerpt: Os padrões de código WordPress são para tornar mais legível, significativo, consistente e bonito o seu código PHP, HTML, CSS e JAVASCRIPT. E nesse artigo veremos alguns pontos sobre o CSS WordPress.
 url: /padroes-de-codigo-de-css-wordpress/
-dsq_thread_id:
-  - 2853665341
+dsq_thread_id: 2853665341
 categories:
   - CSS
   - Técnicas e Práticas

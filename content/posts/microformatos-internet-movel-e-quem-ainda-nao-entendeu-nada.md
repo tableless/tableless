@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:83:"http://tableless.com.br/microformatos-internet-movel-e-quem-ainda-nao-entendeu-nada";s:7:"tinyurl";s:26:"http://tinyurl.com/3r3jdrh";s:4:"isgd";s:19:"http://is.gd/azp2JY";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035637
+dsq_thread_id: 503035637
 categories:
   - Geral
   - Tecnologia e Tendências

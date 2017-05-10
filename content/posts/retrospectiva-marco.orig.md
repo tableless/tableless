@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/retrospectiva-2006-marco";s:7:"tinyurl";s:26:"http://tinyurl.com/4y2j3rl";s:4:"isgd";s:19:"http://is.gd/8qpckP";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 860107018
+dsq_thread_id: 860107018
 categories:
   - Geral
 

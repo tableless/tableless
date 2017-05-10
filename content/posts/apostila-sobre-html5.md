@@ -15,8 +15,7 @@ twittercomments:
   - 'a:5:{i:37468931262259200;s:7:"retweet";i:37468923297275904;s:7:"retweet";i:37468834797461506;s:7:"retweet";i:49862601722695680;s:6:"137301";i:56082592595845120;s:6:"137554";}'
 tweetcount:
   - 5
-dsq_thread_id:
-  - 503015653
+dsq_thread_id: 503015653
 categories:
   - HTML5
 tags:

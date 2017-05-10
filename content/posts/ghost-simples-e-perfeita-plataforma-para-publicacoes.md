@@ -5,8 +5,7 @@ type: post
 date: 2014-03-20
 excerpt: E nós não estamos falando de fantasmas.
 url: /ghost-simples-e-perfeita-plataforma-para-publicacoes/
-dsq_thread_id:
-  - 2409691512
+dsq_thread_id: 2409691512
 categories:
   - Artigos
   - CMS

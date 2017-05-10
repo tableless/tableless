@@ -24,8 +24,7 @@ enclosure:
         2060874
         audio/mpeg
         
-dsq_thread_id:
-  - 503040154
+dsq_thread_id: 503040154
 categories:
   - Código
   - Drops

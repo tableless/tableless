@@ -5,8 +5,7 @@ type: post
 date: 2013-10-08
 excerpt: Dicas do Zeno de Maio.
 url: /dicas-do-zeno-maio-2/
-dsq_thread_id:
-  - 1738105721
+dsq_thread_id: 1738105721
 categories:
   - Código
 

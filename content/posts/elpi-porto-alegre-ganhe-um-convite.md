@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/elpi-porto-alegre-ganhe-um-convite";s:7:"tinyurl";s:26:"http://tinyurl.com/3lj6zjn";s:4:"isgd";s:19:"http://is.gd/UBhvmZ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038177
+dsq_thread_id: 503038177
 categories:
   - Tecnologia e Tendências
 tags:

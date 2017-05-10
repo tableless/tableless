@@ -5,8 +5,7 @@ type: post
 date: 2013-08-22
 excerpt: Brinque com 3D em um editor online baseado em CSS.
 url: /tridiv-dominando-3d-com-css/
-dsq_thread_id:
-  - 1629385207
+dsq_thread_id: 1629385207
 categories:
   - Código
   - CSS

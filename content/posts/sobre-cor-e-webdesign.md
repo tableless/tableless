@@ -5,8 +5,7 @@ type: post
 date: 2013-06-10
 excerpt: Entenda o funcionamento dos sistemas de cores mais utilizados da web e conheça ferramentas úteis para criar e organizar suas próprias paletas.
 url: /sobre-cor-e-webdesign/
-dsq_thread_id:
-  - 1383318570
+dsq_thread_id: 1383318570
 categories:
   - Artigos
   - CSS3

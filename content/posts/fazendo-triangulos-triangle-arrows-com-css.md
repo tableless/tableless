@@ -5,8 +5,7 @@ type: post
 date: 2014-04-18
 excerpt: Como fazer triângulos (arrows) usando apenas com CSS.
 url: /fazendo-triangulos-triangle-arrows-com-css/
-dsq_thread_id:
-  - 2620565847
+dsq_thread_id: 2620565847
 categories:
   - CSS
   - Técnicas e Práticas

@@ -16,8 +16,7 @@ twittercomments:
   - 'a:1:{i:9956163835658240;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503036576
+dsq_thread_id: 503036576
 categories:
   - Bonito de se ver
 tags:

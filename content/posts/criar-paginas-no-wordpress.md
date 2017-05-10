@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/criar-paginas-no-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/3ruo3ca";s:4:"isgd";s:19:"http://is.gd/m4cqKS";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038418
+dsq_thread_id: 503038418
 categories:
   - Artigos
   - Técnicas e Práticas

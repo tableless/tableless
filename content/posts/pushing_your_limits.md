@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/pushing_your_limits";s:7:"tinyurl";s:26:"http://tinyurl.com/3j6g8vq";s:4:"isgd";s:19:"http://is.gd/9pS5Eq";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031963
+dsq_thread_id: 503031963
 
 ---
 Uma ótima [apresentação][1] de [Douglas Bowman][2] sobre criação e desenvolvimento de design com CSS.

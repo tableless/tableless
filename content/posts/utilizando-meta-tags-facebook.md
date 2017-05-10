@@ -5,8 +5,7 @@ type: post
 date: 2014-01-23
 excerpt: O tutorial para compartilhar o conteúdo do seu site no Facebook de forma eficaz.
 url: /utilizando-meta-tags-facebook/
-dsq_thread_id:
-  - 2096849188
+dsq_thread_id: 2096849188
 categories:
   - HTML
   - O Básico

@@ -5,8 +5,7 @@ type: post
 date: 2014-07-23
 excerpt: 9 dicas valiosas para quem está pensando em empreender.
 url: /9-dicas-para-novos-empreendedores/
-dsq_thread_id:
-  - 2847267858
+dsq_thread_id: 2847267858
 categories:
   - Mercado e Comportamento
   - Tecnologia e Tendências

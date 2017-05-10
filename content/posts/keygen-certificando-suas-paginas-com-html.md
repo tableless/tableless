@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/keygen-certificando-suas-paginas-com-html";s:7:"tinyurl";s:26:"http://tinyurl.com/42kr49b";s:4:"isgd";s:19:"http://is.gd/gjHkl2";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503027406
+dsq_thread_id: 503027406
 categories:
   - Código
   - HTML

@@ -13,8 +13,7 @@ twittercomments:
   - 'a:13:{i:274212844919222272;s:7:"retweet";i:274212778967961600;s:7:"retweet";i:274209157748502528;s:7:"retweet";i:272137459779907584;s:7:"retweet";i:272082829716893696;s:7:"retweet";i:271976153319890944;s:7:"retweet";i:271724965462691840;s:7:"retweet";i:271688569326800896;s:7:"retweet";i:271688195924705280;s:7:"retweet";i:278558260628451330;s:7:"retweet";i:281460997875695616;s:7:"retweet";i:281459505919823873;s:7:"retweet";i:280025936605347840;s:7:"retweet";}'
 tweetcount:
   - 35
-dsq_thread_id:
-  - 934706952
+dsq_thread_id: 934706952
 categories:
   - O Básico
   - Técnicas e Práticas

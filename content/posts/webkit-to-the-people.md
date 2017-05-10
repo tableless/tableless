@@ -5,8 +5,7 @@ type: post
 date: 2013-03-18
 excerpt: Entenda por que a monocultura do Webkit pode ser ruim. Ou não.
 url: /webkit-to-the-people/
-dsq_thread_id:
-  - 1145397753
+dsq_thread_id: 1145397753
 categories:
   - Browsers
   - Código

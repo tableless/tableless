@@ -13,8 +13,7 @@ twittercomments:
   - 'a:12:{i:162340719854501890;s:7:"retweet";i:161801950692782080;s:7:"retweet";i:161799745310949376;s:7:"retweet";i:167213195310800896;s:7:"retweet";i:167201726569521152;s:7:"retweet";i:167199990484176896;s:7:"retweet";i:167199783142952961;s:7:"retweet";i:167197784997498880;s:7:"retweet";i:167196760169656321;s:7:"retweet";i:167196756956815360;s:7:"retweet";i:167196595656458240;s:7:"retweet";i:167196547648466944;s:7:"retweet";}'
 tweetcount:
   - 32
-dsq_thread_id:
-  - 550822662
+dsq_thread_id: 550822662
 categories:
   - Código
   - JavaScript

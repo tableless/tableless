@@ -5,8 +5,7 @@ type: post
 date: 2014-05-21
 excerpt: Anotações sobre a palestra de segurança que o Nando fez no 16 Encontro Locaweb.
 url: /anotacoes-palestra-seguranca-em-produtos-web/
-dsq_thread_id:
-  - 2702130948
+dsq_thread_id: 2702130948
 categories:
   - Eventos e Workshops
   - Slides e Apresentações

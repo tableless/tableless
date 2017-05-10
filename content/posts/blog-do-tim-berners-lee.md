@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/blog-do-tim-berners-lee";s:7:"tinyurl";s:26:"http://tinyurl.com/3g5now6";s:4:"isgd";s:19:"http://is.gd/H7fho9";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036232
+dsq_thread_id: 503036232
 categories:
   - Browsers
   - Geral

@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6981";s:7:"tinyurl";s:26:"http://tinyurl.com/d57x5v8";s:4:"isgd";s:19:"http://is.gd/VSM3Ns";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 865454971
+dsq_thread_id: 865454971
 categories:
   - HTML
   - Mercado e Comportamento

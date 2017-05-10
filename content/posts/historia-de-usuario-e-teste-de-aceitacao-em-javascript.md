@@ -5,8 +5,7 @@ type: post
 date: 2014-01-22
 excerpt: 'História de usuário é uma descrição resumida de alguma funcionalidade do sistema sob o ponto de vista do usuário. '
 url: /historia-de-usuario-e-teste-de-aceitacao-em-javascript/
-dsq_thread_id:
-  - 2104572243
+dsq_thread_id: 2104572243
 categories:
   - JavaScript
 tags:

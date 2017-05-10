@@ -5,8 +5,7 @@ type: post
 date: 2013-02-26
 excerpt: Usabilidade não é o forte da maioria dos e-commerces nacionais. Conheça alguns plugins que podem facilitar (e muito) a vida dos usuários da sua loja virtual.
 url: /plugins-jquery-e-bibliotecas-javascript-para-e-commerces/
-dsq_thread_id:
-  - 1104038002
+dsq_thread_id: 1104038002
 categories:
   - JavaScript
   - JQuery

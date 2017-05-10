@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/mais_uns_dias";s:7:"tinyurl";s:26:"http://tinyurl.com/4xgov4u";s:4:"isgd";s:19:"http://is.gd/qo8GYj";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031625
+dsq_thread_id: 503031625
 
 ---
 Galera, me falaram que estava meio apertado a data do final do contest,

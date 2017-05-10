@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/ie8-o-sonho-nao-acabou";s:7:"tinyurl";s:26:"http://tinyurl.com/3loxnzk";s:4:"isgd";s:19:"http://is.gd/S8bQzB";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037958
+dsq_thread_id: 503037958
 categories:
   - Artigos
   - Browsers

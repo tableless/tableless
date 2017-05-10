@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/extension-google-page-rank-status";s:7:"tinyurl";s:26:"http://tinyurl.com/3tdcrct";s:4:"isgd";s:19:"http://is.gd/e3lZZ2";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035468
+dsq_thread_id: 503035468
 categories:
   - Browsers
 tags:

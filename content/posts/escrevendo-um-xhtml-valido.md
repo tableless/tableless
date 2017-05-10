@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/escrevendo-um-xhtml-valido";s:7:"tinyurl";s:26:"http://tinyurl.com/3zwstgf";s:4:"isgd";s:19:"http://is.gd/IIlPd6";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037686
+dsq_thread_id: 503037686
 categories:
   - Artigos
   - HTML

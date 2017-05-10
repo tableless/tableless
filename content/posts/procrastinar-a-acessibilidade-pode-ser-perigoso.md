@@ -12,8 +12,7 @@ twittercomments:
   - 'a:9:{i:38780318370496512;s:7:"retweet";i:38776331152003072;s:7:"retweet";i:38775952062423040;s:7:"retweet";i:38775801188974592;s:7:"retweet";i:38773328701431808;s:7:"retweet";i:38772810952359936;s:7:"retweet";i:38770111909208064;s:7:"retweet";i:38769707515379712;s:7:"retweet";i:38769702394281984;s:7:"retweet";}'
 tweetcount:
   - 9
-dsq_thread_id:
-  - 503037645
+dsq_thread_id: 503037645
 categories:
   - Tecnologia e Tendências
 tags:

@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/manipulando-atributos-jquery";s:7:"tinyurl";s:26:"http://tinyurl.com/3wb2ox5";s:4:"isgd";s:19:"http://is.gd/Pa3wHT";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038690
+dsq_thread_id: 503038690
 categories:
   - Código
   - JQuery

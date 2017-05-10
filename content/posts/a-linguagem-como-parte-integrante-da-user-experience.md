@@ -5,8 +5,7 @@ type: post
 date: 2013-02-26
 excerpt: A linguagem é a ferramenta que utilizamos para entender e definir o mundo. E isto vale também para a criação de interfaces.
 url: /a-linguagem-como-parte-integrante-da-user-experience/
-dsq_thread_id:
-  - 1105236417
+dsq_thread_id: 1105236417
 categories:
   - Código
   - Design

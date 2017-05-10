@@ -5,8 +5,7 @@ type: post
 date: 2013-07-03
 excerpt: Aprenda a modificar o layout da dashboard de maneira simples para facilitar a navegação, personalizar a experiência do usuário e reforçar o branding.
 url: /customizando-o-painel-de-administracao-do-wordpress/
-dsq_thread_id:
-  - 1458641418
+dsq_thread_id: 1458641418
 categories:
   - Artigos
   - Wordpress

@@ -24,8 +24,7 @@ enclosure:
         5257958
         audio/ogg
         
-dsq_thread_id:
-  - 503039824
+dsq_thread_id: 503039824
 categories:
   - Código
   - HTML5

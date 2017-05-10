@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/front-end-ux-e-back-end/";s:7:"tinyurl";s:26:"http://tinyurl.com/d7lgtx7";s:4:"isgd";s:19:"http://is.gd/sVWLBy";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 954944209
+dsq_thread_id: 954944209
 categories:
   - Código
   - Design

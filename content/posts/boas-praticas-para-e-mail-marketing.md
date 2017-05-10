@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6602";s:7:"tinyurl";s:26:"http://tinyurl.com/cgxe3w4";s:4:"isgd";s:19:"http://is.gd/vhqQh2";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 797262658
+dsq_thread_id: 797262658
 categories:
   - Código
   - CSS

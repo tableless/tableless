@@ -5,8 +5,7 @@ type: post
 date: 2014-02-26
 excerpt: Como formatar o texto do atributo placeholder.
 url: /estilizar-e-formatar-placeholder-de-inputs/
-dsq_thread_id:
-  - 2321835699
+dsq_thread_id: 2321835699
 categories:
   - CSS
   - HTML5

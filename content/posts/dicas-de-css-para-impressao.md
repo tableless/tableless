@@ -5,8 +5,7 @@ type: post
 date: 2014-02-24
 excerpt: Seja na hora de levar uma receita para a cozinha, ter uma cópia física de um documento ou guardar um artigo bacana para ler depois, imprimir é uma função que usamos e abusamos em nosso dia-a-dia. Mas será que estamos fazendo tudo o que poderíamos para diagramar sites no papel?
 url: /dicas-de-css-para-impressao/
-dsq_thread_id:
-  - 2310584424
+dsq_thread_id: 2310584424
 categories:
   - CSS
 tags:

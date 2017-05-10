@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/retrospectiva-2006-maio";s:7:"tinyurl";s:26:"http://tinyurl.com/3lu7t8b";s:4:"isgd";s:19:"http://is.gd/i87SO9";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 860106947
+dsq_thread_id: 860106947
 categories:
   - Geral
 

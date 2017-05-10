@@ -7,8 +7,7 @@ excerpt: |
   |
     Neste artigo vamos aprender a utilizar um aspecto bastante importante das funções: protótipos.
 url: /dominando-o-uso-de-prototype-em-javascript/
-dsq_thread_id:
-  - 2543564374
+dsq_thread_id: 2543564374
 categories:
   - JavaScript
   - Técnicas e Práticas

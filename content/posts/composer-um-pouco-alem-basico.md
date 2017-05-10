@@ -5,8 +5,7 @@ type: post
 date: 2014-04-01
 excerpt: 'Este post visa explicar algumas funcionalidades mais avançadas do composer, se você ainda não conhece o composer por favor leia <a title="Composer para iniciantes" href="http://tableless.com.br/composer-para-iniciantes/">Composer para iniciantes</a> antes de prosseguir.'
 url: /composer-um-pouco-alem-basico/
-dsq_thread_id:
-  - 2470206369
+dsq_thread_id: 2470206369
 categories:
   - PHP
   - Técnicas e Práticas

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/documentos_w3c_portugues";s:7:"tinyurl";s:26:"http://tinyurl.com/3u537k9";s:4:"isgd";s:19:"http://is.gd/WEUmrw";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031507
+dsq_thread_id: 503031507
 categories:
   - Artigos
 tags:

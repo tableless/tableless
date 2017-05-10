@@ -5,8 +5,7 @@ type: post
 date: 2013-09-19
 excerpt: No dia-a-dia, a correria em cumprir prazos nos faz buscar e fazer uso de ferramentas que possam auxiliar na velocidade de desenvolvimento. Seja no front ou no design, em tempos de mudanças e transições, nada mais justo que uma lista de algumas ferramentas especiais para que você mantenha seu processo profissional e ágil.
 url: /ferramentas-e-sites-prontos-para-tornar-seu-processo-de-desenvolvimento-mais-agil/
-dsq_thread_id:
-  - 1777581043
+dsq_thread_id: 1777581043
 categories:
   - Artigos
   - Código

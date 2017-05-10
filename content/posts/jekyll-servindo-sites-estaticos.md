@@ -5,8 +5,7 @@ type: post
 date: 2013-11-11
 excerpt: Entenda como o Jekyll funciona e como ele pode te ajudar a fazer websites estáticos, sem banco de dados e fáceis de gerenciar.
 url: /jekyll-servindo-sites-estaticos/
-dsq_thread_id:
-  - 1954136445
+dsq_thread_id: 1954136445
 categories:
   - Código
   - HTML

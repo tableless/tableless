@@ -5,8 +5,7 @@ type: post
 date: 2014-04-25
 excerpt: Teste como sua página se comporta em diversos dispositivos e navegadores.
 url: /visualizando-pagina-responsiva-em-diversos-navegadores/
-dsq_thread_id:
-  - 2634576908
+dsq_thread_id: 2634576908
 categories:
   - Responsive Web Design (RWD)
   - Tecnologia e Tendências

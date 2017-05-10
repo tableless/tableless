@@ -5,8 +5,7 @@ type: post
 date: 2014-06-14
 excerpt: “UX não é só coisa de arquitetos de informação e designers. UX é a base de tudo.”
 url: /ux-uma-responsabilidade-de-todos/
-dsq_thread_id:
-  - 2670639280
+dsq_thread_id: 2670639280
 categories:
   - Design
   - UX

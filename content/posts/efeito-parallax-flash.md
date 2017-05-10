@@ -5,8 +5,7 @@ type: post
 date: 2013-09-12
 excerpt: O efeito parallax tem sido a "modinha" do momento, mas alguns profissionais dizem que o efeito parallax prejudica no SEO do seu site, já outros dizem que isso não acontece e é exatamente isso que vamos explorar aqui com o objetivo de fornecer uma visão geral sobre o assunto.
 url: /efeito-parallax-flash/
-dsq_thread_id:
-  - 1733749210
+dsq_thread_id: 1733749210
 categories:
   - Código
   - SEO

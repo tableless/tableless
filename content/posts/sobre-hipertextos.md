@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/sobre-hipertextos";s:7:"tinyurl";s:26:"http://tinyurl.com/3g6ygx3";s:4:"isgd";s:19:"http://is.gd/BxqBYJ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037928
+dsq_thread_id: 503037928
 categories:
   - Artigos
   - Tecnologia e Tendências

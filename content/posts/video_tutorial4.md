@@ -14,8 +14,7 @@ twittercomments:
   - 'a:3:{i:10315529239666688;s:7:"retweet";i:10256575558062080;s:7:"retweet";i:32833145581608960;s:7:"retweet";}'
 tweetcount:
   - 3
-dsq_thread_id:
-  - 503033463
+dsq_thread_id: 503033463
 categories:
   - Geral
   - Vídeos Tutoriais

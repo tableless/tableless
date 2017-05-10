@@ -5,8 +5,7 @@ type: post
 date: 2013-06-19
 excerpt: Entenda como o seu mercado está e encontre respostas para perguntas importantes para a sua carreira.
 url: /survey-do-desenvolvimento-web-nacional/
-dsq_thread_id:
-  - 1410990793
+dsq_thread_id: 1410990793
 categories:
   - Geral
   - Mercado e Comportamento

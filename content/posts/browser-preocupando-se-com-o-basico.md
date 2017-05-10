@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/browser-preocupando-se-com-o-basico";s:7:"tinyurl";s:26:"http://tinyurl.com/3k46gk8";s:4:"isgd";s:19:"http://is.gd/3n9Nwz";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035357
+dsq_thread_id: 503035357
 categories:
   - Browsers
   - Geral

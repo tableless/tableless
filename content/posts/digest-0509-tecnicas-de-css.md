@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/digest-0509-tecnicas-de-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3cqojfa";s:4:"isgd";s:19:"http://is.gd/ktup05";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039074
+dsq_thread_id: 503039074
 categories:
   - CSS
   - Digest

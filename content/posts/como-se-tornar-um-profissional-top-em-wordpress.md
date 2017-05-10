@@ -5,8 +5,7 @@ type: post
 date: 2013-02-04
 excerpt: Como se tornar um profissional top em Wordpress.
 url: /como-se-tornar-um-profissional-top-em-wordpress/
-dsq_thread_id:
-  - 1064520291
+dsq_thread_id: 1064520291
 categories:
   - Traduções
   - Wordpress

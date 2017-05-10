@@ -5,8 +5,7 @@ type: post
 date: 2013-07-25
 excerpt: 'Conheça mais sobre a palavra reservada this e entenda  como funciona o escopo de um objeto JavaScript.'
 url: /javascript-entendendo-o-this/
-dsq_thread_id:
-  - 1527272460
+dsq_thread_id: 1527272460
 categories:
   - JavaScript
 tags:

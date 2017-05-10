@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:37254327168933888;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503035521
+dsq_thread_id: 503035521
 categories:
   - Geral
   - Podcasts

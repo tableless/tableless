@@ -4,8 +4,7 @@ author: Diego Eis
 type: post
 date: 2013-06-02
 url: /bye-bye-camino/
-dsq_thread_id:
-  - 1350011421
+dsq_thread_id: 1350011421
 categories:
   - Browsers
   - Notícias

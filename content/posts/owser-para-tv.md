@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/web-browser-para-tv";s:7:"tinyurl";s:26:"http://tinyurl.com/3rf6tp4";s:4:"isgd";s:19:"http://is.gd/Eod0Pz";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034410
+dsq_thread_id: 503034410
 categories:
   - Geral
 

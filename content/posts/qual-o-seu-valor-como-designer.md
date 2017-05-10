@@ -4,8 +4,7 @@ author: Lucas Guarabyra
 type: post
 date: 2013-10-19
 url: /qual-o-seu-valor-como-designer/
-dsq_thread_id:
-  - 1864749289
+dsq_thread_id: 1864749289
 categories:
   - Design
   - Mercado e Comportamento

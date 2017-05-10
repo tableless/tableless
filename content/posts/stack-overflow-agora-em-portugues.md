@@ -5,8 +5,7 @@ type: post
 date: 2014-01-29
 excerpt: O Stack Overflow tem versão em português.
 url: /stack-overflow-agora-em-portugues/
-dsq_thread_id:
-  - 2190758138
+dsq_thread_id: 2190758138
 categories:
   - Mercado e Comportamento
   - Notícias

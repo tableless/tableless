@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/siemens_convertido";s:7:"tinyurl";s:26:"http://tinyurl.com/3ms9762";s:4:"isgd";s:19:"http://is.gd/d1vSQZ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032505
+dsq_thread_id: 503032505
 categories:
   - Convertidos
   - Geral

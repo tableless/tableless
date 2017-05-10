@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5315";s:7:"tinyurl";s:26:"http://tinyurl.com/7sf6yg3";s:4:"isgd";s:19:"http://is.gd/3omKze";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 559084614
+dsq_thread_id: 559084614
 categories:
   - JavaScript
   - JQuery

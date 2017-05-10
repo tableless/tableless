@@ -15,8 +15,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:71:"http://tableless.com.br/podcast-tableless-21-desenvolvimento-em-camadas";s:7:"tinyurl";s:26:"http://tinyurl.com/3rx4dty";s:4:"isgd";s:19:"http://is.gd/BM6sSQ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035873
+dsq_thread_id: 503035873
 categories:
   - Geral
   - Podcasts

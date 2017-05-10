@@ -5,8 +5,7 @@ type: post
 date: 2014-07-17
 excerpt: "Como funciona o 'use strict' no JavaScript e saiba como ele pode ajudá-lo."
 url: /javascript-strict-mode/
-dsq_thread_id:
-  - 2850931825
+dsq_thread_id: 2850931825
 categories:
   - JavaScript
 tags:

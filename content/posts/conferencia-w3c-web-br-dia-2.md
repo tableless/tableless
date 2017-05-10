@@ -5,8 +5,7 @@ type: post
 date: 2013-11-27
 excerpt: Confira como foi o segundo dia da Conferência W3C Brasil 2013 com resumo das palestras, slides, fotos e anotações.
 url: /conferencia-w3c-web-br-2013-dia-2/
-dsq_thread_id:
-  - 2003010513
+dsq_thread_id: 2003010513
 categories:
   - Geral
 tags:

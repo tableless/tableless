@@ -5,8 +5,7 @@ type: post
 date: 2013-11-24
 excerpt: Os principais destaques do que rolou no evento do W3C do ano de 2013.
 url: /conferencia-w3c-web-br-2013/
-dsq_thread_id:
-  - 1986397078
+dsq_thread_id: 1986397078
 categories:
   - Geral
 

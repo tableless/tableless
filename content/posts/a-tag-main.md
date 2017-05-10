@@ -5,8 +5,7 @@ type: post
 date: 2013-01-14
 excerpt: Conheça a nova tag MAIN do HTML.
 url: /a-tag-main/
-dsq_thread_id:
-  - 1025167062
+dsq_thread_id: 1025167062
 categories:
   - Código
   - HTML

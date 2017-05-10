@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/cuidado-para-nao-regredir";s:7:"tinyurl";s:26:"http://tinyurl.com/3ezqffz";s:4:"isgd";s:19:"http://is.gd/CvTyld";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036778
+dsq_thread_id: 503036778
 categories:
   - Artigos
   - Geral

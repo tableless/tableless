@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/safari-para-windows";s:7:"tinyurl";s:26:"http://tinyurl.com/3rym3f6";s:4:"isgd";s:19:"http://is.gd/sYt1Xy";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037252
+dsq_thread_id: 503037252
 categories:
   - Browsers
 

@@ -5,8 +5,7 @@ type: post
 date: 2013-06-28
 excerpt: Como lidar com uma navegação complexa no design responsivo? Nesta tradução, Brad Frost mostra os prós e os contras na utilização de alguns padrões de menus.
 url: /padroes-complexos-de-navegacao-no-design-responsivo/
-dsq_thread_id:
-  - 1458578276
+dsq_thread_id: 1458578276
 categories:
   - Design
   - Mobile

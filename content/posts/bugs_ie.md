@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/bugs_ie";s:7:"tinyurl";s:26:"http://tinyurl.com/3apygh5";s:4:"isgd";s:19:"http://is.gd/sDCvkA";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031582
+dsq_thread_id: 503031582
 
 ---
 Este site é muito interessante para estudo pois mostra alguns dos BUGS que

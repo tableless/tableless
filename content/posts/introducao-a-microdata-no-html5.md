@@ -13,8 +13,7 @@ twittercomments:
   - 'a:12:{i:34102754993504256;s:7:"retweet";i:33652459901550593;s:7:"retweet";i:33530466631946240;s:7:"retweet";i:58966758530367488;s:7:"retweet";i:111908287330516992;s:7:"retweet";i:111852511605960706;s:7:"retweet";i:111618827846041601;s:7:"retweet";i:111515107439292416;s:7:"retweet";i:111510892042137600;s:7:"retweet";i:111509910071676928;s:7:"retweet";i:111509384017887232;s:7:"retweet";i:111508908945833984;s:7:"retweet";}'
 tweetcount:
   - 37
-dsq_thread_id:
-  - 503039852
+dsq_thread_id: 503039852
 categories:
   - Artigos
   - HTML5

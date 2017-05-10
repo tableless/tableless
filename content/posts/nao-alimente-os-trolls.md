@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/nao-alimente-os-trolls";s:7:"tinyurl";s:26:"http://tinyurl.com/44w5qv7";s:4:"isgd";s:19:"http://is.gd/USOiN7";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034472
+dsq_thread_id: 503034472
 categories:
   - Geral
 tags:

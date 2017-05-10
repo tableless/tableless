@@ -7,8 +7,7 @@ excerpt: 'A obrigação do desenvolvedor client-side é educar e convencer. Porq
 url: /convencimento-e-educacao-liberdade/
 tweetbackscheck:
   - 1356391031
-dsq_thread_id:
-  - 505376751
+dsq_thread_id: 505376751
 shorturls:
   - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/convencimento-e-educacao-liberdade/";s:7:"tinyurl";s:26:"http://tinyurl.com/7g7gy5s";s:4:"isgd";s:19:"http://is.gd/TxAgfl";}'
 twittercomments:

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/lancamento-do-escritorio-do-w3c-no-brasil";s:7:"tinyurl";s:26:"http://tinyurl.com/3f4yuvp";s:4:"isgd";s:19:"http://is.gd/GxDTfH";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038218
+dsq_thread_id: 503038218
 categories:
   - Geral
 tags:

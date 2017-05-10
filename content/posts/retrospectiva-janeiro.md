@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/retrospectiva-2005-janeiro";s:7:"tinyurl";s:26:"http://tinyurl.com/3kjbguq";s:4:"isgd";s:19:"http://is.gd/vHz8l1";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034256
+dsq_thread_id: 503034256
 categories:
   - Convertidos
 tags:

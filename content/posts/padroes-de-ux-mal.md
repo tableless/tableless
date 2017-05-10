@@ -5,8 +5,7 @@ type: post
 date: 2014-03-17
 excerpt: Conheça as armadilhas mais comuns, por que você deve evitar estes padrões e como escapar do lado sombrio da força.
 url: /padroes-de-ux-mal/
-dsq_thread_id:
-  - 2428959200
+dsq_thread_id: 2428959200
 categories:
   - UX
 tags:

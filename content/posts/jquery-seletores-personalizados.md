@@ -13,8 +13,7 @@ twittercomments:
   - 'a:13:{i:103555847107526656;s:7:"retweet";i:146373488519811074;s:7:"retweet";i:146184692197105664;s:7:"retweet";i:146180775170146306;s:7:"retweet";i:146176533936091136;s:7:"retweet";i:146138959989325825;s:7:"retweet";i:154680583711232000;s:7:"retweet";i:154669817062895616;s:7:"retweet";i:154666532734107648;s:7:"retweet";i:152898003080982529;s:7:"retweet";i:152877171252273152;s:7:"retweet";i:152858986104893440;s:7:"retweet";i:169589285626970113;s:7:"retweet";}'
 tweetcount:
   - 33
-dsq_thread_id:
-  - 503040176
+dsq_thread_id: 503040176
 categories:
   - JQuery
   - Técnicas e Práticas

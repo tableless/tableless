@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:84:"http://tableless.com.br/coisas-uteis-que-nao-funcionam-no-ie-3-seletor-com-asterisco";s:7:"tinyurl";s:26:"http://tinyurl.com/3f3yepg";s:4:"isgd";s:19:"http://is.gd/aZ8f8d";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036377
+dsq_thread_id: 503036377
 categories:
   - Browsers
 tags:

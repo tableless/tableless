@@ -5,8 +5,7 @@ type: post
 date: 2013-05-20
 excerpt: Entenda melhor como otimizar conversões em landing-pages.
 url: /7-dicas-de-otimizacao-de-conversao-em-landing-pages/
-dsq_thread_id:
-  - 1286607856
+dsq_thread_id: 1286607856
 categories:
   - SEO
   - UX

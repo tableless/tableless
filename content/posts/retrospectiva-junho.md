@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:60729232636125184;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503034308
+dsq_thread_id: 503034308
 categories:
   - Geral
   - Tecnologia e Tendências

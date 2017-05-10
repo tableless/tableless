@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:54:"http://tableless.com.br/banana-ou-diamante-qual-voce-e";s:7:"tinyurl";s:26:"http://tinyurl.com/3vzuxcf";s:4:"isgd";s:19:"http://is.gd/8BoP9b";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034802
+dsq_thread_id: 503034802
 categories:
   - Artigos
 tags:

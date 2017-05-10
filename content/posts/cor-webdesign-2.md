@@ -7,8 +7,7 @@ excerpt: |
   |
     Entenda a diferença entre matiz, luminosidade e saturação, aprenda a criar paletas de cores funcionais e conheça a fórmula mágica do contraste.
 url: /cor-webdesign-2/
-dsq_thread_id:
-  - 1786535740
+dsq_thread_id: 1786535740
 categories:
   - Design
 tags:

@@ -5,8 +5,7 @@ type: post
 date: 2013-02-01
 excerpt: Schema são tags padrões que foram adicionadas ao HTML afim de facilitar o entendimento de determinada informação pelos buscadores.
 url: /como-schema-pode-te-ajudar-em-seo/
-dsq_thread_id:
-  - 1059043609
+dsq_thread_id: 1059043609
 categories:
   - Acessibilidade
   - HTML

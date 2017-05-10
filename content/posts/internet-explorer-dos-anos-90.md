@@ -5,8 +5,7 @@ type: post
 date: 2013-01-24
 excerpt: You grew up. So did we. Reconnect with the new Internet Explorer.
 url: /internet-explorer-dos-anos-90/
-dsq_thread_id:
-  - 1043374080
+dsq_thread_id: 1043374080
 categories:
   - Browsers
   - Notícias

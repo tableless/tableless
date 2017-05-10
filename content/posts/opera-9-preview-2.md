@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:11101609127841793;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503034661
+dsq_thread_id: 503034661
 categories:
   - Browsers
   - Geral

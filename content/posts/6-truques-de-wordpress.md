@@ -5,8 +5,7 @@ type: post
 date: 2014-04-22
 excerpt: Alguns truques para personalizar e melhorar o functions.php do seu tema.
 url: /6-truques-de-wordpress/
-dsq_thread_id:
-  - 2630396166
+dsq_thread_id: 2630396166
 categories:
   - Wordpress
 tags:

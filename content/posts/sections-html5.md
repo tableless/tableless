@@ -15,8 +15,7 @@ twittercomments:
   - 'a:2:{i:12673607016652800;s:6:"136331";i:25731677342924801;s:6:"136705";}'
 tweetcount:
   - 2
-dsq_thread_id:
-  - 503039561
+dsq_thread_id: 503039561
 categories:
   - HTML5
   - SEO

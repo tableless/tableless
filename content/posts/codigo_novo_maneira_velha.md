@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/codigo_novo_maneira_velha";s:7:"tinyurl";s:26:"http://tinyurl.com/3svd5l8";s:4:"isgd";s:19:"http://is.gd/coZiYl";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033887
+dsq_thread_id: 503033887
 categories:
   - Artigos
   - Código

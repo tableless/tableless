@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/retrospectiva-2005-maio";s:7:"tinyurl";s:26:"http://tinyurl.com/3bg46u7";s:4:"isgd";s:19:"http://is.gd/dt0sy9";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034304
+dsq_thread_id: 503034304
 categories:
   - Geral
   - Tecnologia e Tendências

@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:19742181963071489;s:6:"136504";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503037773
+dsq_thread_id: 503037773
 categories:
   - Artigos
   - Técnicas e Práticas

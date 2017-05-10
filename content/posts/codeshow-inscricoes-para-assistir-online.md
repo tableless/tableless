@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:64:"http://tableless.com.br/codeshow-inscricoes-para-assistir-online";s:7:"tinyurl";s:26:"http://tinyurl.com/3wnzcf6";s:4:"isgd";s:19:"http://is.gd/JrDjGg";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037403
+dsq_thread_id: 503037403
 categories:
   - Geral
 

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/firefox-1505-e-flofox-theme";s:7:"tinyurl";s:26:"http://tinyurl.com/3u4ym5c";s:4:"isgd";s:19:"http://is.gd/sGx513";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035742
+dsq_thread_id: 503035742
 categories:
   - Browsers
 tags:

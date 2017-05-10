@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/hierarquia-de-arquivos-do-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/3j7m5qr";s:4:"isgd";s:19:"http://is.gd/0tzn55";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039009
+dsq_thread_id: 503039009
 categories:
   - Técnicas e Práticas
   - Wordpress

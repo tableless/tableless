@@ -5,8 +5,7 @@ type: post
 date: 2013-01-14
 excerpt: 'O Maxthon é o browser que mais suporta os padrões web atuais. '
 url: /maxthon/
-dsq_thread_id:
-  - 1025135437
+dsq_thread_id: 1025135437
 categories:
   - Browsers
 tags:

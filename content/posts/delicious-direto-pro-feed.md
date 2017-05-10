@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/delicious-direto-pro-feed";s:7:"tinyurl";s:26:"http://tinyurl.com/44hdbza";s:4:"isgd";s:19:"http://is.gd/wOk3Rn";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034832
+dsq_thread_id: 503034832
 categories:
   - Geral
 

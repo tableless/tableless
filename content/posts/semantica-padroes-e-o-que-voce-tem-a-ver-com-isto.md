@@ -5,8 +5,7 @@ type: post
 date: 2013-12-11
 excerpt: Entenda de uma vez por todas o que é web semântica e compare as principais diferenças entre alguns elementos de HTML.
 url: /semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/
-dsq_thread_id:
-  - 2043361185
+dsq_thread_id: 2043361185
 categories:
   - Semântica
   - Web Semântica

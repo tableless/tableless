@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5117";s:7:"tinyurl";s:26:"http://tinyurl.com/8x5xjox";s:4:"isgd";s:19:"http://is.gd/8OhNeJ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 528840038
+dsq_thread_id: 528840038
 categories:
   - Acessibilidade
   - Browsers

@@ -5,8 +5,7 @@ type: post
 date: 2014-05-08
 excerpt: Utilizando o PHPUnit para realizar testes com persistência de dados.
 url: /phpunit-persistencia-e-configuracoes-avancadas/
-dsq_thread_id:
-  - 2342343412
+dsq_thread_id: 2342343412
 categories:
   - PHP
   - Técnicas e Práticas

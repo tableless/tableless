@@ -13,8 +13,7 @@ twittercomments:
   - 'a:2:{i:276737565053308928;s:7:"retweet";i:276726605898981376;s:7:"retweet";}'
 tweetcount:
   - 3
-dsq_thread_id:
-  - 961333172
+dsq_thread_id: 961333172
 categories:
   - Browsers
   - Notícias

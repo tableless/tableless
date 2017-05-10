@@ -7,8 +7,7 @@ excerpt: Versão do browser Chrome para Android.
 url: /google-chrome-para-android/
 tweetbackscheck:
   - 1356424309
-dsq_thread_id:
-  - 568738663
+dsq_thread_id: 568738663
 shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/google-chrome-para-android/";s:7:"tinyurl";s:26:"http://tinyurl.com/7jccyz7";s:4:"isgd";s:19:"http://is.gd/z6EQHM";}'
 twittercomments:

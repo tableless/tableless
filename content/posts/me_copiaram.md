@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/me_copiaram";s:7:"tinyurl";s:26:"http://tinyurl.com/3jrgmsq";s:4:"isgd";s:19:"http://is.gd/HQuHOM";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032035
+dsq_thread_id: 503032035
 
 ---
 Um visitante deste site me mandou um link hoje de um [artigo][1] super legal do site [Firemasters][2], pena que o artigo era meu! E não estava com as devidas referências.

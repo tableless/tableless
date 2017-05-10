@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7144";s:7:"tinyurl";s:26:"http://tinyurl.com/8kgrxht";s:4:"isgd";s:19:"http://is.gd/Dd1qNm";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 890694416
+dsq_thread_id: 890694416
 categories:
   - Mercado e Comportamento
   - Tecnologia e Tendências

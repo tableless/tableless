@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/codeshow-2010";s:7:"tinyurl";s:26:"http://tinyurl.com/3c8e3mf";s:4:"isgd";s:19:"http://is.gd/4sSgyn";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039424
+dsq_thread_id: 503039424
 categories:
   - Geral
   - Técnicas e Práticas

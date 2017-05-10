@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/before-after-magazine";s:7:"tinyurl";s:26:"http://tinyurl.com/3wjqysw";s:4:"isgd";s:19:"http://is.gd/TVanRN";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037001
+dsq_thread_id: 503037001
 tags:
   - cotidiano
   - Técnicas e Práticas

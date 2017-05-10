@@ -5,8 +5,7 @@ type: post
 date: 2013-12-17
 excerpt: TDD é o desenvolvimento de software orientado a testes. Entenda mais detalhes e como usá-lo!
 url: /tdd-por-que-usar/
-dsq_thread_id:
-  - 2025495728
+dsq_thread_id: 2025495728
 categories:
   - Técnicas e Práticas
 tags:

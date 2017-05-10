@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/festival_gnu_linux";s:7:"tinyurl";s:26:"http://tinyurl.com/3spklln";s:4:"isgd";s:19:"http://is.gd/9IiSGe";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031485
+dsq_thread_id: 503031485
 
 ---
 Alguns posts anteriores, o Elcio mostrou vários links de sites &#8220;gringos&#8221; que estão botando para quebrar com a criação de sites tableless.

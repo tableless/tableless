@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/tagsoup-e-programas-wysiwyg";s:7:"tinyurl";s:26:"http://tinyurl.com/3rzlnd4";s:4:"isgd";s:19:"http://is.gd/CjeE53";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034964
+dsq_thread_id: 503034964
 categories:
   - Artigos
   - Geral

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:80:"http://tableless.com.br/anotacoes-soltas-sobre-como-vender-e-comprar-na-internet";s:7:"tinyurl";s:26:"http://tinyurl.com/3ja6lpp";s:4:"isgd";s:19:"http://is.gd/p3Uok1";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038068
+dsq_thread_id: 503038068
 categories:
   - Artigos
   - Tecnologia e Tendências

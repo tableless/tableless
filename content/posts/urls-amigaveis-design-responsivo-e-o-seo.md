@@ -5,8 +5,7 @@ type: post
 date: 2013-08-28
 excerpt: Conheça algumas práticas legais para você não fazer feio nas buscas feitas por mobile.
 url: /urls-amigaveis-design-responsivo-e-o-seo/
-dsq_thread_id:
-  - 1652335084
+dsq_thread_id: 1652335084
 categories:
   - SEO
 tags:

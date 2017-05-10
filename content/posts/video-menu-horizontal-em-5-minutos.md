@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/video-menu-horizontal-em-5-minutos";s:7:"tinyurl";s:26:"http://tinyurl.com/3o5rw4e";s:4:"isgd";s:19:"http://is.gd/fpVJqY";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038284
+dsq_thread_id: 503038284
 categories:
   - CSS
   - HTML

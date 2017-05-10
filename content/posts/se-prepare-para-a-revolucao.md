@@ -15,8 +15,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/se-prepare-para-a-revolucao";s:7:"tinyurl";s:26:"http://tinyurl.com/3lwbs77";s:4:"isgd";s:19:"http://is.gd/S9pIzt";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039204
+dsq_thread_id: 503039204
 categories:
   - Browsers
   - CSS

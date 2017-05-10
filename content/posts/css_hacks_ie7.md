@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/css_hacks_ie7";s:7:"tinyurl";s:26:"http://tinyurl.com/43nsg4v";s:4:"isgd";s:19:"http://is.gd/4caIQx";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033732
+dsq_thread_id: 503033732
 categories:
   - Browsers
   - Tecnologia e Tendências

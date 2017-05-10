@@ -14,8 +14,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/videos-wordpress-internetmovel-mais";s:7:"tinyurl";s:26:"http://tinyurl.com/3mzdq8j";s:4:"isgd";s:19:"http://is.gd/MV4dZl";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038441
+dsq_thread_id: 503038441
 categories:
   - Mobile
   - Vídeos Tutoriais

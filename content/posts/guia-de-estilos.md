@@ -5,8 +5,7 @@ type: post
 date: 2013-01-09
 excerpt: Entenda mais sobre guias de estilos, padrões para equipes, organização de CSS e mais.
 url: /guia-de-estilos/
-dsq_thread_id:
-  - 994310264
+dsq_thread_id: 994310264
 categories:
   - CSS
   - Design

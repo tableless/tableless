@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/dreamhost-com-60-de-desconto";s:7:"tinyurl";s:26:"http://tinyurl.com/3hscumt";s:4:"isgd";s:19:"http://is.gd/srjXrn";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035418
+dsq_thread_id: 503035418
 categories:
   - Geral
 

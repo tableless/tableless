@@ -5,8 +5,7 @@ type: post
 date: 2014-03-25
 excerpt: Também conhecido como o Santo Graal das páginas de internet, encontrar o carregamento perfeito não é tarefa fácil.
 url: /acelere-o-carregamento-de-suas-paginas/
-dsq_thread_id:
-  - 2503344883
+dsq_thread_id: 2503344883
 categories:
   - JavaScript
   - Técnicas e Práticas

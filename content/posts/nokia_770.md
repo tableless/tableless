@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/nokia_770";s:7:"tinyurl";s:26:"http://tinyurl.com/3cw8u9f";s:4:"isgd";s:19:"http://is.gd/Uho85h";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032812
+dsq_thread_id: 503032812
 categories:
   - Tecnologia e Tendências
 tags:

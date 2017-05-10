@@ -5,8 +5,7 @@ type: post
 date: 2013-11-25
 excerpt: Conheça os dados da pesquisa que fizemos este ano para conhecer alguns números e características do mercado de front-end brasileiro.
 url: /resultados-survey-2013/
-dsq_thread_id:
-  - 1990132708
+dsq_thread_id: 1990132708
 categories:
   - Artigos
   - Código

@@ -5,8 +5,7 @@ type: post
 date: 2013-08-27
 excerpt: 'Maximus era um grande guerreiro e demonstrava ser um excelente observador, desde pegar um punho de terra até reconhecer gladiadores nervosos e grandes parceiros de batalha. Antes de iniciar um projeto, você precisa reconhecer a arena e todas as suas variáveis. '
 url: /o-designer-gladiador/
-dsq_thread_id:
-  - 1654355123
+dsq_thread_id: 1654355123
 categories:
   - Artigos
   - Design

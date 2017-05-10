@@ -5,8 +5,7 @@ type: post
 date: 2014-01-06
 excerpt: Ainda tem dúvidas se deve ou não fazer a versão mobile do seu produto ou site? Saia dessa...
 url: /nao-tenho-versao-mobile-faco-ou-nao-faco/
-dsq_thread_id:
-  - 2092785496
+dsq_thread_id: 2092785496
 categories:
   - CSS
   - Mobile

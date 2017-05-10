@@ -14,8 +14,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:64:"http://tableless.com.br/palestra-implementacao-de-layout-com-css";s:7:"tinyurl";s:26:"http://tinyurl.com/43nsrea";s:4:"isgd";s:19:"http://is.gd/TwBAhU";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038351
+dsq_thread_id: 503038351
 categories:
   - CSS
   - HTML

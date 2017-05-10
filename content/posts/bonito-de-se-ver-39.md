@@ -14,8 +14,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bonito-de-se-ver-39";s:7:"tinyurl";s:26:"http://tinyurl.com/3r7slnw";s:4:"isgd";s:19:"http://is.gd/U9XIhG";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 547011194
+dsq_thread_id: 547011194
 categories:
   - Bonito de se ver
 tags:

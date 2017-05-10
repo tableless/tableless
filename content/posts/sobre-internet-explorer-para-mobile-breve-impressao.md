@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:75:"http://tableless.com.br/sobre-internet-explorer-para-mobile-breve-impressao";s:7:"tinyurl";s:26:"http://tinyurl.com/3epjbjz";s:4:"isgd";s:19:"http://is.gd/PYjAGE";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037604
+dsq_thread_id: 503037604
 categories:
   - Browsers
   - Mobile

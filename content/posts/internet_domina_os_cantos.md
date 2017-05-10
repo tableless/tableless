@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/internet_domina_os_cantos";s:7:"tinyurl";s:26:"http://tinyurl.com/3rx39r8";s:4:"isgd";s:19:"http://is.gd/q6QNKD";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031695
+dsq_thread_id: 503031695
 
 ---
 [Telefônica lança oficialmente o Speedy Wi-Fi][1]

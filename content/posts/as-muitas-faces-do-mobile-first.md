@@ -5,8 +5,7 @@ type: post
 date: 2013-01-25
 excerpt: Quando você perde 80% do seu espaço na tela, todo o conteúdo irrelevante ao design de telas grandes não parece mais tão atrativo ou necessário.
 url: /as-muitas-faces-do-mobile-first/
-dsq_thread_id:
-  - 1050076537
+dsq_thread_id: 1050076537
 categories:
   - Mobile
   - Traduções

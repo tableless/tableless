@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:70:"http://tableless.com.br/internet-explorer-7-chegando-na-festa-atrasado";s:7:"tinyurl";s:26:"http://tinyurl.com/3h3unmr";s:4:"isgd";s:19:"http://is.gd/gAW9De";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036181
+dsq_thread_id: 503036181
 categories:
   - Artigos
   - Browsers

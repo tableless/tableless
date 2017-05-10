@@ -5,8 +5,7 @@ type: post
 date: 2013-02-06
 excerpt: Os favicons são pequenos mas indispensáveis. Entenda como eles funcionam e quais as melhores práticas.
 url: /favicons/
-dsq_thread_id:
-  - 1062038448
+dsq_thread_id: 1062038448
 categories:
   - Acessibilidade
   - Browsers

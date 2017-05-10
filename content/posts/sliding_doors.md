@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/sliding_doors";s:7:"tinyurl";s:26:"http://tinyurl.com/443ek5r";s:4:"isgd";s:19:"http://is.gd/biqChb";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 759855181
+dsq_thread_id: 759855181
 
 ---
 Com a volta do [ALA][1], um artigo indispensável.

@@ -5,8 +5,7 @@ type: post
 date: 2013-09-23
 excerpt: Alguns clientes confundem a postura pessoal com a profissional, o problema a ser superado é quando quer impor o seu estilo para o projeto. Isso também vale para o designer que tenta impor seu estilo no projeto do cliente.
 url: /empresa-alma-nao-cliente/
-dsq_thread_id:
-  - 1790242449
+dsq_thread_id: 1790242449
 categories:
   - Mercado e Comportamento
 tags:

@@ -5,8 +5,7 @@ type: post
 date: 2013-08-06
 excerpt: Uma nova maneira de editar CSS.
 url: /emmet-livestyle/
-dsq_thread_id:
-  - 1576864401
+dsq_thread_id: 1576864401
 categories:
   - Código
   - CSS

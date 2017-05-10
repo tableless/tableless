@@ -13,8 +13,7 @@ twittercomments:
   - 'a:14:{i:148785390248132610;s:7:"retweet";i:149445378301894657;s:7:"retweet";i:149421158670929920;s:7:"retweet";i:149312023434502145;s:7:"retweet";i:148844679771865088;s:7:"retweet";i:148798225191673858;s:7:"retweet";i:148766623988318209;s:7:"retweet";i:148761387181674496;s:7:"retweet";i:148761357922213888;s:7:"retweet";i:148760470516539392;s:7:"retweet";i:148759299601084416;s:7:"retweet";i:148758025551884288;s:7:"retweet";i:148757886930137088;s:7:"retweet";i:148757559669559296;s:7:"retweet";}'
 tweetcount:
   - 86
-dsq_thread_id:
-  - 509376414
+dsq_thread_id: 509376414
 categories:
   - HTML5
   - Notícias

@@ -13,8 +13,7 @@ twittercomments:
   - 'a:10:{i:251064049817747456;s:7:"retweet";i:251049224836374530;s:7:"retweet";i:251047707987283970;s:7:"retweet";i:251046547943469057;s:7:"retweet";i:250388527316086784;s:7:"retweet";i:250294553058344961;s:7:"retweet";i:250278716150792192;s:7:"retweet";i:250278650094690305;s:7:"retweet";i:250278540539461633;s:7:"retweet";i:250248501710172160;s:7:"retweet";}'
 tweetcount:
   - 26
-dsq_thread_id:
-  - 857340547
+dsq_thread_id: 857340547
 categories:
   - Browsers
   - Notícias

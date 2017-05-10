@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/comentarios-condicionais-nao-use";s:7:"tinyurl";s:26:"http://tinyurl.com/3ckl47a";s:4:"isgd";s:19:"http://is.gd/MWEVke";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503016721
+dsq_thread_id: 503016721
 categories:
   - Artigos
   - HTML

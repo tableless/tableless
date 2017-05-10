@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:69:"http://tableless.com.br/aonde-nos-leva-a-morte-do-internet-explorer-6";s:7:"tinyurl";s:26:"http://tinyurl.com/3jsusv2";s:4:"isgd";s:19:"http://is.gd/uhmiB2";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039155
+dsq_thread_id: 503039155
 categories:
   - Browsers
   - Tecnologia e Tendências

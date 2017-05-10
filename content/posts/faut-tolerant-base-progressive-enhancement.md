@@ -5,8 +5,7 @@ type: post
 date: 2014-02-17
 excerpt: Entenda por que o Fault Tolerance é a base para o Progressive Enhancement e também do Adaptive web Design.
 url: /faut-tolerant-base-progressive-enhancement/
-dsq_thread_id:
-  - 2279044377
+dsq_thread_id: 2279044377
 categories:
   - Adaptive Web Design (AWD)
   - CSS

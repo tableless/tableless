@@ -4,8 +4,7 @@ author: Reinaldo Ferraz
 type: post
 date: 2013-03-19
 url: /w3cbrasil-procura-padawans/
-dsq_thread_id:
-  - 1149333885
+dsq_thread_id: 1149333885
 categories:
   - Geral
 

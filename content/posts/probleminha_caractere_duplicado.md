@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/probleminha_caractere_duplicado";s:7:"tinyurl";s:26:"http://tinyurl.com/3mll5pc";s:4:"isgd";s:19:"http://is.gd/ikgjHX";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032835
+dsq_thread_id: 503032835
 
 ---
 Estava aqui, todo feliz, implementando um layout, quando me deparei com um bug&#8230; no maldito do IE. 

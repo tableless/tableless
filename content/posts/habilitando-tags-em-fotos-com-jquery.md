@@ -13,8 +13,7 @@ twittercomments:
   - 'a:11:{i:146190911578181632;s:7:"retweet";i:146190740920336384;s:7:"retweet";i:146190740811292672;s:7:"retweet";i:146190740911951872;s:7:"retweet";i:154981204230279170;s:7:"retweet";i:154979761498767362;s:7:"retweet";i:154978857068404736;s:7:"retweet";i:154978179969331200;s:7:"retweet";i:159802454521810945;s:7:"retweet";i:159801048658219009;s:7:"retweet";i:164941506757668865;s:7:"retweet";}'
 tweetcount:
   - 11
-dsq_thread_id:
-  - 503019008
+dsq_thread_id: 503019008
 categories:
   - Código
   - JavaScript

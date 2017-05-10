@@ -5,8 +5,7 @@ type: post
 date: 2014-04-09
 excerpt: "Desenhe a web."
 url: /macaw-o-que-voce-ve-e-o-que-voce-tem/
-dsq_thread_id:
-  - 2588930080
+dsq_thread_id: 2588930080
 categories:
   - Artigos
   - CSS3

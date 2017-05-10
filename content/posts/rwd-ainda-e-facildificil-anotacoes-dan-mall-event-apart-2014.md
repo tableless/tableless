@@ -5,8 +5,7 @@ type: post
 date: 2014-04-29
 excerpt: Anotações da palestra do Daniel Mall no An Event Apart de Boston, 2014. Ele falou bastante sobre o processo de desenvolver para uma web multi-device.
 url: /rwd-ainda-e-facildificil-anotacoes-dan-mall-event-apart-2014/
-dsq_thread_id:
-  - 2646473654
+dsq_thread_id: 2646473654
 categories:
   - Adaptive Web Design (AWD)
   - Eventos e Workshops

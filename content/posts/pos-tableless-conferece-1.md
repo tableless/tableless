@@ -13,8 +13,7 @@ twittercomments:
   - 'a:19:{i:240155279562530819;s:7:"retweet";i:240144387529666561;s:7:"retweet";i:240141022489882624;s:7:"retweet";i:240140062258524161;s:7:"retweet";i:240139399864655872;s:7:"retweet";i:240133345885958144;s:7:"retweet";i:240131463037739009;s:7:"retweet";i:240129898566516736;s:7:"retweet";i:240129334990483457;s:7:"retweet";i:240126232577064961;s:7:"retweet";i:243031216914309120;s:7:"retweet";i:243029118818607104;s:7:"retweet";i:240800738077466624;s:7:"retweet";i:240463463879680000;s:7:"retweet";i:240461052809183232;s:7:"retweet";i:240460709882908674;s:7:"retweet";i:240430510638252033;s:7:"retweet";i:240275259767525376;s:7:"retweet";i:251010040096497664;s:7:"retweet";}'
 tweetcount:
   - 82
-dsq_thread_id:
-  - 820538592
+dsq_thread_id: 820538592
 categories:
   - Mercado e Comportamento
   - Tecnologia e Tendências

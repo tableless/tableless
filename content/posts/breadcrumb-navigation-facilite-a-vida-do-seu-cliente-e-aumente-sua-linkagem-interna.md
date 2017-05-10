@@ -7,8 +7,7 @@ excerpt: |
   |
     Utilizando dados estruturados é possível criar um breadcrumb bem bacana que, além de auxiliar o seu cliente na navegação interna do seu site, aparece nas pesquisas e aumenta sua linkagem interna.
 url: /breadcrumb-navigation-facilite-a-vida-do-seu-cliente-e-aumente-sua-linkagem-interna/
-dsq_thread_id:
-  - 1614078330
+dsq_thread_id: 1614078330
 categories:
   - SEO
 tags:

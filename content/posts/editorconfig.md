@@ -5,8 +5,7 @@ type: post
 date: 2013-08-19
 excerpt: EditorConfig, um plugin que salva a vida de equipes inteiras.
 url: /editorconfig/
-dsq_thread_id:
-  - 1617492381
+dsq_thread_id: 1617492381
 categories:
   - CSS
   - CSS3

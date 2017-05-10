@@ -5,8 +5,7 @@ type: post
 date: 2013-01-21
 excerpt: Saiba como montar e como funciona um sitemap.xml
 url: /tudo-que-voce-precisa-saber-sobre-sitemaps/
-dsq_thread_id:
-  - 1024163999
+dsq_thread_id: 1024163999
 categories:
   - O Básico
   - SEO

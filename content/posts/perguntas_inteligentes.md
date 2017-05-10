@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/perguntas_inteligentes";s:7:"tinyurl";s:26:"http://tinyurl.com/3m4gznn";s:4:"isgd";s:19:"http://is.gd/uuLhz0";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032634
+dsq_thread_id: 503032634
 categories:
   - Geral
   - Tecnologia e Tendências

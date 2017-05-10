@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:10067192389308416;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503034445
+dsq_thread_id: 503034445
 categories:
   - Browsers
   - Técnicas e Práticas

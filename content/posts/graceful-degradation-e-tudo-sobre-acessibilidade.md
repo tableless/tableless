@@ -15,8 +15,7 @@ twittercomments:
   - 'a:1:{i:174582502474788864;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503039037
+dsq_thread_id: 503039037
 categories:
   - Browsers
   - CSS

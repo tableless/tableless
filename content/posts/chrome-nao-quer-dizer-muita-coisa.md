@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/chrome-nao-quer-dizer-muita-coisa";s:7:"tinyurl";s:26:"http://tinyurl.com/3hclxtr";s:4:"isgd";s:19:"http://is.gd/sLQoKs";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503027601
+dsq_thread_id: 503027601
 categories:
   - Artigos
   - Browsers

@@ -5,8 +5,7 @@ type: post
 date: 2014-07-07
 excerpt: E se um dia você criasse sua própria biblioteca JavaScript, no estilo da jQuery?
 url: /construindo-sua-propria-biblioteca-javascript/
-dsq_thread_id:
-  - 2825600760
+dsq_thread_id: 2825600760
 categories:
   - JavaScript
   - Técnicas e Práticas

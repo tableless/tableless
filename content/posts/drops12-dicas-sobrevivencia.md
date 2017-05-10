@@ -9,8 +9,7 @@ excerpt: |
 url: /drops12-dicas-sobrevivencia/
 tweetbackscheck:
   - 1356389730
-dsq_thread_id:
-  - 833145234
+dsq_thread_id: 833145234
 shorturls:
   - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/drops12-dicas-sobrevivencia/";s:7:"tinyurl";s:26:"http://tinyurl.com/9t24xdx";s:4:"isgd";s:19:"http://is.gd/uqDzdy";}'
 twittercomments:

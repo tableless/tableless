@@ -5,8 +5,7 @@ type: post
 date: 2014-03-16
 excerpt: Você utiliza pré-processadores de CSS? Sabe a diferença entre um mixin e um placeholder? Entenda a diferença entre os dois e saiba quando utilizá-los.
 url: /sass-mixin-ou-placeholder/
-dsq_thread_id:
-  - 2429033279
+dsq_thread_id: 2429033279
 categories:
   - Artigos
   - CSS

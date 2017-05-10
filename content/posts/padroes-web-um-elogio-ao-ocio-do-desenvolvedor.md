@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:70:"http://tableless.com.br/padroes-web-um-elogio-ao-ocio-do-desenvolvedor";s:7:"tinyurl";s:26:"http://tinyurl.com/3t7d6a9";s:4:"isgd";s:19:"http://is.gd/7MrJnP";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037561
+dsq_thread_id: 503037561
 categories:
   - Tecnologia e Tendências
   - Vídeos Tutoriais

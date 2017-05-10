@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/eu_na_anhembi_morumbi";s:7:"tinyurl";s:26:"http://tinyurl.com/449edo9";s:4:"isgd";s:19:"http://is.gd/SbgJh2";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031653
+dsq_thread_id: 503031653
 
 ---
 Aos de São Paulo: começa hoje a [3<sup>a</sup> Semana da Web][1] da [Anhembi Morumbi][2]. Amanhã estarei no [campus Centro][3] e

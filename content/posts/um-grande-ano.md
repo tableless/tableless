@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/2011-um-grande-ano";s:7:"tinyurl";s:26:"http://tinyurl.com/3j7z49h";s:4:"isgd";s:19:"http://is.gd/zNzx25";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039873
+dsq_thread_id: 503039873
 categories:
   - Geral
 tags:

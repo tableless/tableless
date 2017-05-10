@@ -17,8 +17,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:88:"http://tableless.com.br/podcast-20-preocupacoes-sobre-o-desenvimento-para-internet-movel";s:7:"tinyurl";s:26:"http://tinyurl.com/3zdj5or";s:4:"isgd";s:19:"http://is.gd/FTgTQm";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035093
+dsq_thread_id: 503035093
 categories:
   - Geral
   - Podcasts

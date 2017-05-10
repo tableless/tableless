@@ -15,8 +15,7 @@ twittercomments:
   - 'a:14:{i:121307609633538048;s:7:"retweet";i:121066772743979009;s:7:"retweet";i:120968515921518593;s:7:"retweet";i:120958920310259713;s:7:"retweet";i:120951829306671104;s:7:"retweet";i:120951379559849984;s:7:"retweet";i:120863459939323904;s:7:"retweet";i:120862151899480065;s:7:"retweet";i:120861757093838848;s:7:"retweet";i:120861752945676288;s:7:"retweet";i:120861556425752576;s:7:"retweet";i:120861443062104065;s:7:"retweet";i:174587167174176771;s:7:"retweet";i:174568866054275073;s:7:"retweet";}'
 tweetcount:
   - 64
-dsq_thread_id:
-  - 503026302
+dsq_thread_id: 503026302
 categories:
   - CSS
   - Técnicas e Práticas

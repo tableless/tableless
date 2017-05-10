@@ -14,8 +14,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/tabelas-semanticas";s:7:"tinyurl";s:26:"http://tinyurl.com/3mswgau";s:4:"isgd";s:19:"http://is.gd/ZXl31A";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038586
+dsq_thread_id: 503038586
 categories:
   - Artigos
   - CSS

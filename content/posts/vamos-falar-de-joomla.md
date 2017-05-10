@@ -5,8 +5,7 @@ type: post
 date: 2014-03-14
 excerpt: O Joomla evoluiu muito e está presente em grandes projetos. Vale a pena esquecer as mágoas do passado para conhecê-lo melhor.
 url: /vamos-falar-de-joomla/
-dsq_thread_id:
-  - 2429081142
+dsq_thread_id: 2429081142
 categories:
   - CMS
   - Joomla

@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5605";s:7:"tinyurl";s:26:"http://tinyurl.com/7j8sjju";s:4:"isgd";s:19:"http://is.gd/v4x8PE";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 599275774
+dsq_thread_id: 599275774
 categories:
   - Acessibilidade
   - UX

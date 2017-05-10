@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/site_grande";s:7:"tinyurl";s:26:"http://tinyurl.com/44rfpx2";s:4:"isgd";s:19:"http://is.gd/LQTuac";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031914
+dsq_thread_id: 503031914
 
 ---
 Este é o alvo para a parte de [convertidos][1] aqui do [Tableless][2].

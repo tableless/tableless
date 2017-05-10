@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:36:"http://tableless.com.br/falem_de_mim";s:7:"tinyurl";s:26:"http://tinyurl.com/3dwje2q";s:4:"isgd";s:19:"http://is.gd/EMQ5La";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031593
+dsq_thread_id: 503031593
 
 ---
 Mais um blog que eu vivo lendo citou o [Tableless][1]:

@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/para-ficar-de-olho-microformats";s:7:"tinyurl";s:26:"http://tinyurl.com/3baocqn";s:4:"isgd";s:19:"http://is.gd/HCMhgZ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036522
+dsq_thread_id: 503036522
 categories:
   - Browsers
   - Tecnologia e Tendências

@@ -5,8 +5,7 @@ type: post
 date: 2013-04-30
 excerpt: Presentinhos grátis que pegamos no Dribbble.
 url: /freebies-no-dribbble-1/
-dsq_thread_id:
-  - 1240813689
+dsq_thread_id: 1240813689
 categories:
   - Freebies
 tags:

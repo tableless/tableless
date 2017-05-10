@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/opera_1_milhao_downloads";s:7:"tinyurl";s:26:"http://tinyurl.com/3haqoef";s:4:"isgd";s:19:"http://is.gd/OFMJYn";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032596
+dsq_thread_id: 503032596
 categories:
   - Geral
   - Tecnologia e Tendências

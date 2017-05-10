@@ -15,8 +15,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/nth-child";s:7:"tinyurl";s:26:"http://tinyurl.com/42nrmxv";s:4:"isgd";s:19:"http://is.gd/78T9i9";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039138
+dsq_thread_id: 503039138
 categories:
   - CSS
   - Técnicas e Práticas

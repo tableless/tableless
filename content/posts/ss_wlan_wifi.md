@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:29937188628078594;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503031769
+dsq_thread_id: 503031769
 
 ---
 Foge um pouco do escopo do site, mas nem tanto. Este negócio de &#8220;sem fio&#8221; vem dominando, e se a gente não estiver por dentro, com certeza ficaremos para trás. E como qualquer assunto ligado a área de informática, vem de presente uma sopa de letras.

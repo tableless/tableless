@@ -5,8 +5,7 @@ type: post
 date: 2014-03-31
 excerpt: 'Saiba como escolher a melhor solução para lidar com imagens responsivas em larga escala sem sacrificar a performance. '
 url: /imagens-responsivas-de-alta-performance/
-dsq_thread_id:
-  - 2465226163
+dsq_thread_id: 2465226163
 categories:
   - Responsive Web Design (RWD)
 tags:

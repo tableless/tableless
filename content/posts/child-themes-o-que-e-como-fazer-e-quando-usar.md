@@ -5,8 +5,7 @@ type: post
 date: 2013-07-04
 excerpt: Muitas vezes o volume de trabalho é maior do que você ou sua empresa pode suportar, mas há um jeito de tornar o desenvolvimento dos seus projetos em Wordpress ainda mais rápidos.
 url: /child-themes-o-que-e-como-fazer-e-quando-usar/
-dsq_thread_id:
-  - 1458678157
+dsq_thread_id: 1458678157
 categories:
   - Artigos
   - Wordpress

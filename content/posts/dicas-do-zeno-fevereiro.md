@@ -5,8 +5,7 @@ type: post
 date: 2013-02-28
 excerpt: O que rolou de melhor no mundo do front-end nesse mês de fevereiro.
 url: /dicas-do-zeno-fevereiro/
-dsq_thread_id:
-  - 1110517204
+dsq_thread_id: 1110517204
 categories:
   - Código
 

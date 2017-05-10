@@ -5,8 +5,7 @@ type: post
 date: 2014-05-05
 excerpt: Salas de desenvolvimento organizadas pelo Tableless no Encontro Locaweb do Rio de Janeiro e de São Paulo! Vamos mostrar quem é que manda na bagaça. ;-)
 url: /tableless-e-o-16-elw-rio-de-janeiro-e-sp/
-dsq_thread_id:
-  - 2662330445
+dsq_thread_id: 2662330445
 categories:
   - Eventos e Workshops
 tags:

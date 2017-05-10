@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/o-futuro-do-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3rvxp4j";s:4:"isgd";s:19:"http://is.gd/y3aJug";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037059
+dsq_thread_id: 503037059
 categories:
   - Artigos
   - Técnicas e Práticas

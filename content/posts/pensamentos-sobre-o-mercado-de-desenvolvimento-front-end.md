@@ -5,8 +5,7 @@ type: post
 date: 2014-08-14
 excerpt: Temos um novo rockstar no palco.
 url: /pensamentos-sobre-o-mercado-de-desenvolvimento-front-end/
-dsq_thread_id:
-  - 2911239344
+dsq_thread_id: 2911239344
 categories:
   - Artigos
   - Mercado e Comportamento

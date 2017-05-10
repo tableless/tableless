@@ -12,8 +12,7 @@ twittercomments:
   - 'a:2:{i:11434729970601984;s:7:"retweet";i:11434202985664512;s:7:"retweet";}'
 tweetcount:
   - 2
-dsq_thread_id:
-  - 520648054
+dsq_thread_id: 520648054
 
 ---
 [Fog Creek][1], do Joel Spolsky, virou Tableless. Ótimo trabalho do Dave Shea (aquele, do [jardim][2], você sabe&#8230;)

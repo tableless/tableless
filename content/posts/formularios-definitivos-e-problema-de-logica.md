@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:68:"http://tableless.com.br/formularios-definitivos-e-problema-de-logica";s:7:"tinyurl";s:26:"http://tinyurl.com/4ynzlzo";s:4:"isgd";s:19:"http://is.gd/PnI4Rg";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038204
+dsq_thread_id: 503038204
 categories:
   - Código
   - Tecnologia e Tendências

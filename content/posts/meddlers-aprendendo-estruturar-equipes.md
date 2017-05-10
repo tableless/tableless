@@ -5,8 +5,7 @@ type: post
 date: 2013-10-21
 excerpt: Como construir equipes e estruturas em diversos cenários.
 url: /meddlers-aprendendo-estruturar-equipes/
-dsq_thread_id:
-  - 1880920431
+dsq_thread_id: 1880920431
 categories:
   - Mercado e Comportamento
   - Técnicas e Práticas

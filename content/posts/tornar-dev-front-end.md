@@ -5,8 +5,7 @@ type: post
 date: 2013-10-09
 excerpt: Alguns assuntos importantes que você, futuro dev front-end deve saber e conhecer.
 url: /tornar-dev-front-end/
-dsq_thread_id:
-  - 1834589356
+dsq_thread_id: 1834589356
 categories:
   - Artigos
   - Código

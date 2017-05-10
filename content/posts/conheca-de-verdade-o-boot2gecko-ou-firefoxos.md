@@ -9,8 +9,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6544";s:4:"isgd";s:19:"http://is.gd/xFnVGy";s:7:"tinyurl";s:26:"http://tinyurl.com/d7485xc";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 783970492
+dsq_thread_id: 783970492
 categories:
   - Mobile
   - Tecnologia e Tendências

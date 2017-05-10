@@ -5,8 +5,7 @@ type: post
 date: 2014-04-30
 excerpt: Assisti o An Event Apart em Boston. Saiba alguns detalhes nesse post.
 url: /event-apart-boston-2014/
-dsq_thread_id:
-  - 2649194833
+dsq_thread_id: 2649194833
 categories:
   - Eventos e Workshops
 tags:

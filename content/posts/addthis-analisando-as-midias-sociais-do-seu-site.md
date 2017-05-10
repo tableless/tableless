@@ -5,8 +5,7 @@ type: post
 date: 2013-04-18
 excerpt: Conheça algumas vantagens ao utilizar o AddThis em seu site.
 url: /addthis-analisando-as-midias-sociais-do-seu-site/
-dsq_thread_id:
-  - 1219276267
+dsq_thread_id: 1219276267
 categories:
   - Mercado e Comportamento
   - Técnicas e Práticas

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:63:"http://tableless.com.br/cursos-de-padroes-web-e-workshop-gratis";s:7:"tinyurl";s:26:"http://tinyurl.com/3ukmt9s";s:4:"isgd";s:19:"http://is.gd/cMuTTK";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 511109700
+dsq_thread_id: 511109700
 tags:
   - cotidiano
 

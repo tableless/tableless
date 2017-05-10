@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/codeshow-mais-20-vagas-corra";s:7:"tinyurl";s:26:"http://tinyurl.com/3tjwqwx";s:4:"isgd";s:19:"http://is.gd/Dv3qz7";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037396
+dsq_thread_id: 503037396
 categories:
   - Geral
 

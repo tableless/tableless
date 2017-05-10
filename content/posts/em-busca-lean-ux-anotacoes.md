@@ -5,8 +5,7 @@ type: post
 date: 2014-05-08
 excerpt: Anotações sobre a palestra LEAN UX.
 url: /em-busca-lean-ux-anotacoes/
-dsq_thread_id:
-  - 2670442623
+dsq_thread_id: 2670442623
 categories:
   - Eventos e Workshops
   - Slides e Apresentações

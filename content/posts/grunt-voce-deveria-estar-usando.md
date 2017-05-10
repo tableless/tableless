@@ -5,8 +5,7 @@ type: post
 date: 2013-04-14
 excerpt: Entenda como automatizar tarefas com GruntJS.
 url: /grunt-voce-deveria-estar-usando/
-dsq_thread_id:
-  - 1209272560
+dsq_thread_id: 1209272560
 categories:
   - Artigos
   - JavaScript

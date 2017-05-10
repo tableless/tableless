@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/r-100000-jogados-fora";s:7:"tinyurl";s:26:"http://tinyurl.com/3fna3f8";s:4:"isgd";s:19:"http://is.gd/u7LnUv";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035380
+dsq_thread_id: 503035380
 categories:
   - Geral
   - Tecnologia e Tendências

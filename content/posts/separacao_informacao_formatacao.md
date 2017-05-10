@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:15156908218392576;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 627817023
+dsq_thread_id: 627817023
 
 ---
 Para fechar a semana, um [ótimo artigo][1] do

@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/custom-post-types-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/4xnag2m";s:4:"isgd";s:19:"http://is.gd/XyqpeE";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503026190
+dsq_thread_id: 503026190
 categories:
   - Wordpress
 tags:

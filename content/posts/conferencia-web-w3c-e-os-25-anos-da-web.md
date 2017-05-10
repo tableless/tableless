@@ -4,8 +4,7 @@ author: Reinaldo Ferraz
 type: post
 date: 2014-07-30
 url: /conferencia-web-w3c-2014-e-os-25-anos-da-web/
-dsq_thread_id:
-  - 2885562891
+dsq_thread_id: 2885562891
 categories:
   - Eventos e Workshops
   - Geral

@@ -11,8 +11,7 @@ twittercomments:
   - 'a:0:{}'
 tweetbackscheck:
   - 1356447386
-dsq_thread_id:
-  - 672764821
+dsq_thread_id: 672764821
 categories:
   - JQuery
 

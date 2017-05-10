@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:75:"http://tableless.com.br/vote-no-especialista-em-usabilidade-para-presidente";s:7:"tinyurl";s:26:"http://tinyurl.com/3pmlnfx";s:4:"isgd";s:19:"http://is.gd/UXSE3d";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039683
+dsq_thread_id: 503039683
 categories:
   - AJAX
   - Artigos

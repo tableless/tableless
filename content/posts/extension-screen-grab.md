@@ -14,8 +14,7 @@ twittercomments:
   - 'a:1:{i:10476503653425152;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503034420
+dsq_thread_id: 503034420
 categories:
   - Browsers
   - Vídeos Tutoriais

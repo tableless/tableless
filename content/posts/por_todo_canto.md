@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/por_todo_canto";s:7:"tinyurl";s:26:"http://tinyurl.com/42pjk7w";s:4:"isgd";s:19:"http://is.gd/7Dhm5j";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031675
+dsq_thread_id: 503031675
 
 ---
 Ontem o [Rigonatti][1] me seqüestrou para um

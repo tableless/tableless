@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/criando-um-menu-horizontal-com-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3lmognw";s:4:"isgd";s:19:"http://is.gd/BKWBBP";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503014507
+dsq_thread_id: 503014507
 categories:
   - Artigos
   - CSS

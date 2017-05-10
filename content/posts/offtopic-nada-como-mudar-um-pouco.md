@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/offtopic-nada-como-mudar-um-pouco";s:7:"tinyurl";s:26:"http://tinyurl.com/3p6u6h6";s:4:"isgd";s:19:"http://is.gd/EGSPhG";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037246
+dsq_thread_id: 503037246
 tags:
   - cotidiano
   - Técnicas e Práticas

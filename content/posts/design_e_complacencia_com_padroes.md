@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/design_e_complacencia_com_padroes";s:7:"tinyurl";s:26:"http://tinyurl.com/3vz6jp7";s:4:"isgd";s:19:"http://is.gd/ptjLl0";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031707
+dsq_thread_id: 503031707
 categories:
   - Artigos
   - Técnicas e Práticas

@@ -5,8 +5,7 @@ type: post
 date: 2013-11-13
 excerpt: Como testar sua aplicação em um celular com Firefox OS.
 url: /testando-sua-app-firefox-os-em-seu-device/
-dsq_thread_id:
-  - 1961091541
+dsq_thread_id: 1961091541
 categories:
   - Técnicas e Práticas
 tags:

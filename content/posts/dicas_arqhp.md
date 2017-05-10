@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/dicas_arqhp";s:7:"tinyurl";s:26:"http://tinyurl.com/3zcnlgg";s:4:"isgd";s:19:"http://is.gd/2flovw";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 561498995
+dsq_thread_id: 561498995
 
 ---
 Quem é assinante da lista [arqHP][1], deve saber que o [Irapuan Martinez][2] sempre coloca umas dicas no rodapé de todas as mensagens da lista&#8230; Agora estas dicas podem ser encontradas [aqui][3].

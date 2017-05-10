@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/curso-tableless-visie";s:7:"tinyurl";s:26:"http://tinyurl.com/3kyqy5l";s:4:"isgd";s:19:"http://is.gd/T1ojJG";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033681
+dsq_thread_id: 503033681
 categories:
   - Browsers
   - Código

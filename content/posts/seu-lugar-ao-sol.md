@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5682";s:4:"isgd";s:19:"http://is.gd/1nCHyU";s:7:"tinyurl";s:26:"http://tinyurl.com/6vbmstj";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 608064725
+dsq_thread_id: 608064725
 categories:
   - Acessibilidade
   - Código

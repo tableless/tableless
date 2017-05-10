@@ -7,8 +7,7 @@ excerpt: Entenda como a propriedade background-clip do CSS3 funciona.
 url: /propriedade-background-clip/
 tweetbackscheck:
   - 1356443205
-dsq_thread_id:
-  - 525035568
+dsq_thread_id: 525035568
 shorturls:
   - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/propriedade-background-clip/";s:7:"tinyurl";s:26:"http://tinyurl.com/772snvm";s:4:"isgd";s:19:"http://is.gd/bKWwhc";}'
 twittercomments:

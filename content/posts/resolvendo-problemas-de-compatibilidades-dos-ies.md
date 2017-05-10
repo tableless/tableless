@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:72:"http://tableless.com.br/resolvendo-problemas-de-compatibilidades-dos-ies";s:7:"tinyurl";s:26:"http://tinyurl.com/3hsr7xr";s:4:"isgd";s:19:"http://is.gd/NFxdsJ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037240
+dsq_thread_id: 503037240
 categories:
   - Browsers
 tags:

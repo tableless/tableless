@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:34:"http://tableless.com.br/firefox_15";s:7:"tinyurl";s:26:"http://tinyurl.com/3c8px6n";s:4:"isgd";s:19:"http://is.gd/vc38A9";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033929
+dsq_thread_id: 503033929
 categories:
   - Browsers
 

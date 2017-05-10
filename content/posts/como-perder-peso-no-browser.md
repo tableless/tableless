@@ -5,8 +5,7 @@ type: post
 date: 2013-08-23
 excerpt: Nós desenvolvedores falamos tanto das novidades do HTML5, CSS3, EcmaScript 6 que acabamos esquecendo de falar de outras coisas também muito importantes, mas que não são tão novidade assim, como performance.
 url: /como-perder-peso-no-browser/
-dsq_thread_id:
-  - 1130382499
+dsq_thread_id: 1130382499
 categories:
   - Código
 tags:

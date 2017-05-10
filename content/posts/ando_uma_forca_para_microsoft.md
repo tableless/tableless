@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/wasp_dando_uma_forca_para_microsoft";s:7:"tinyurl";s:26:"http://tinyurl.com/3jucwsh";s:4:"isgd";s:19:"http://is.gd/JJrtpX";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032996
+dsq_thread_id: 503032996
 categories:
   - Geral
   - Tecnologia e Tendências

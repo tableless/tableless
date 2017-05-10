@@ -5,8 +5,7 @@ type: post
 date: 2013-02-04
 excerpt: Portal de Desenvolvedores da Locaweb.
 url: /developer-network/
-dsq_thread_id:
-  - 1059551321
+dsq_thread_id: 1059551321
 categories:
   - Artigos
   - Notícias

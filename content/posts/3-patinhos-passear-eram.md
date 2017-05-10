@@ -5,8 +5,7 @@ type: post
 date: 2013-09-09
 excerpt: Usuários tomam decisões a todo momento, você precisa identificar os perfis de usuários, assim como seus objetivos e comportamentos antes de projetar sua interface, assim saberá criar um verdadeiro Design centrado no usuário.
 url: /3-patinhos-passear-eram/
-dsq_thread_id:
-  - 1718590056
+dsq_thread_id: 1718590056
 categories:
   - Design
 tags:

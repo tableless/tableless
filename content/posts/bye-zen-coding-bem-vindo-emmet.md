@@ -11,8 +11,7 @@ twittercomments:
   - 'a:0:{}'
 tweetbackscheck:
   - 1356389719
-dsq_thread_id:
-  - 934412148
+dsq_thread_id: 934412148
 categories:
   - Editores
   - Vídeos Tutoriais

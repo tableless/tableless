@@ -5,8 +5,7 @@ type: post
 date: 2013-08-20
 excerpt: Faça um bom SEO focando-se no usuário.
 url: /o-seo-moderno-e-o-foco-no-usuario/
-dsq_thread_id:
-  - 1614094532
+dsq_thread_id: 1614094532
 categories:
   - SEO
 tags:

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:79:"http://tableless.com.br/video-tutorial-7-centralizando-o-layout-horizontalmente";s:7:"tinyurl";s:26:"http://tinyurl.com/3t7lehz";s:4:"isgd";s:19:"http://is.gd/m9rfVM";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033197
+dsq_thread_id: 503033197
 categories:
   - Geral
   - Vídeos Tutoriais

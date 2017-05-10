@@ -5,8 +5,7 @@ type: post
 date: 2014-07-14
 excerpt: Comunicação é o objetivo final do nosso trabalho. E o meio pelo qual ele se realiza
 url: /nao-se-esqueca-voce-e-um-comunicador/
-dsq_thread_id:
-  - 2842469122
+dsq_thread_id: 2842469122
 categories:
   - Mercado e Comportamento
 

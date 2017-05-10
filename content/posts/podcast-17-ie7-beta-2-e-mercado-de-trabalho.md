@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:67:"http://tableless.com.br/podcast-17-ie7-beta-2-e-mercado-de-trabalho";s:7:"tinyurl";s:26:"http://tinyurl.com/4xkrgnj";s:4:"isgd";s:19:"http://is.gd/kXdQ1g";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034647
+dsq_thread_id: 503034647
 categories:
   - Browsers
   - Podcasts

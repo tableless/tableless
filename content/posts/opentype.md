@@ -5,8 +5,7 @@ type: post
 date: 2014-06-28
 excerpt: Como adicionar tipografia à web com recursos OpenType.
 url: /opentype/
-dsq_thread_id:
-  - 2793098100
+dsq_thread_id: 2793098100
 categories:
   - CSS3
   - Técnicas e Práticas

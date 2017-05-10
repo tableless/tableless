@@ -7,8 +7,7 @@ excerpt: |
   |
     Será que nos dias de hoje todos os problemas envolvendo arquivos de media em dispositivos móveis foram resolvidos, ou novos problemas foram criados?
 url: /frame-player-indo-alem-da-tag-video-em-dispositivos-moveis/
-dsq_thread_id:
-  - 2002987745
+dsq_thread_id: 2002987745
 categories:
   - Código
   - HTML5

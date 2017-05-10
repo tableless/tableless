@@ -12,8 +12,7 @@ twittercomments:
   - 'a:7:{i:129903788499795968;s:7:"retweet";i:129898026578886656;s:7:"retweet";i:129896422169518080;s:7:"retweet";i:129895281268490240;s:7:"retweet";i:129893074926178304;s:7:"retweet";i:154867152074178560;s:7:"retweet";i:154860994290659328;s:7:"retweet";}'
 tweetcount:
   - 12
-dsq_thread_id:
-  - 503040102
+dsq_thread_id: 503040102
 categories:
   - Acessibilidade
   - Artigos

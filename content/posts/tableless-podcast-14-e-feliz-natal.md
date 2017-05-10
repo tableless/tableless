@@ -18,8 +18,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/tableless-podcast-14-e-feliz-natal";s:7:"tinyurl";s:26:"http://tinyurl.com/3e6mmdt";s:4:"isgd";s:19:"http://is.gd/J8DnG8";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034189
+dsq_thread_id: 503034189
 categories:
   - Geral
   - Podcasts

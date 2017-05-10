@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:53641203098468352;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503031547
+dsq_thread_id: 503031547
 
 ---
 Ae galera&#8230;

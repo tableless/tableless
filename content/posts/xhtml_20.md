@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:32:"http://tableless.com.br/xhtml_20";s:7:"tinyurl";s:26:"http://tinyurl.com/3o4l9c4";s:4:"isgd";s:19:"http://is.gd/hqAyIM";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032741
+dsq_thread_id: 503032741
 categories:
   - Tecnologia e Tendências
 

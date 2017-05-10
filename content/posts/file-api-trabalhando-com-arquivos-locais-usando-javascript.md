@@ -5,8 +5,7 @@ type: post
 date: 2014-04-08
 excerpt: Trabalhar com arquivos no lado do cliente antes do HTML5 era dificultoso e e tinha pouco suporte. Com o File API, agora é possível capturar informações e ler o conteúdo de arquivos usando apenas o navegador por meio do javascript.
 url: /file-api-trabalhando-com-arquivos-locais-usando-javascript/
-dsq_thread_id:
-  - 2594877912
+dsq_thread_id: 2594877912
 categories:
   - HTML
   - HTML5

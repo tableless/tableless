@@ -7,8 +7,7 @@ excerpt: Faça algo maravilhoso com a web.
 url: /mozilla-webmaker/
 tweetbackscheck:
   - 1356435909
-dsq_thread_id:
-  - 984446871
+dsq_thread_id: 984446871
 shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/mozilla-webmaker/";s:7:"tinyurl";s:26:"http://tinyurl.com/c7e4pen";s:4:"isgd";s:19:"http://is.gd/2Bh4uy";}'
 twittercomments:

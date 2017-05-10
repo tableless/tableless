@@ -5,8 +5,7 @@ type: post
 date: 2013-04-29
 excerpt: Alguns pontos importantes para começar a atender bem na web.
 url: /atender-bem-para-atender-sempre/
-dsq_thread_id:
-  - 1240775251
+dsq_thread_id: 1240775251
 categories:
   - Artigos
 tags:

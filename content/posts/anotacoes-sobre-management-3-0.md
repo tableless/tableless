@@ -5,8 +5,7 @@ type: post
 date: 2013-10-07
 excerpt: Minhas anotações sobre Management 3.0. Curso que fiz na AdaptWorks sobre gestão para métodologias ágeis.
 url: /anotacoes-sobre-management-3-0/
-dsq_thread_id:
-  - 1830257665
+dsq_thread_id: 1830257665
 categories:
   - Artigos
   - Mercado e Comportamento

@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:54:"http://tableless.com.br/introducao-sobre-media-queries";s:7:"tinyurl";s:26:"http://tinyurl.com/4xzfx8x";s:4:"isgd";s:19:"http://is.gd/zKPYui";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033160
+dsq_thread_id: 503033160
 categories:
   - CSS
   - O Básico

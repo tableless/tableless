@@ -5,8 +5,7 @@ type: post
 date: 2013-02-05
 excerpt: 'Cada vez mais um número maior de ferramentas surge para auxiliar  e agilizar o desenvolvimento web. Conheça alguns frameworks que têm como objetivo controlar e gerenciar o uso de bibliotecas, pré-processadores e utilitários em sites e aplicações web.'
 url: /3-ferramentas-para-criar-e-gerenciar-projetos-web/
-dsq_thread_id:
-  - 1066395256
+dsq_thread_id: 1066395256
 categories:
   - Código
   - HTML

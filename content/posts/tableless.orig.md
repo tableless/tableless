@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/yahoo_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3my6cej";s:4:"isgd";s:19:"http://is.gd/bcXhE9";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031873
+dsq_thread_id: 503031873
 
 ---
 Mais uma grande migração: [Yahoo!][1]. Ainda em processo, como vocês podem ver, mas um excelente trabalho.

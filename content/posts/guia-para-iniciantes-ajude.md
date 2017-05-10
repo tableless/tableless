@@ -5,8 +5,7 @@ type: post
 date: 2013-07-15
 excerpt: Precisamos da sua ajuda para elaborar um guia para os iniciantes na área.
 url: /guia-para-iniciantes-ajude/
-dsq_thread_id:
-  - 1500902853
+dsq_thread_id: 1500902853
 categories:
   - Código
   - CSS

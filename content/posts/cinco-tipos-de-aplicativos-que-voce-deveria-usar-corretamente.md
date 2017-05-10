@@ -5,8 +5,7 @@ type: post
 date: 2014-06-11
 excerpt: Aplicativos de celular são criados diariamente aos balaios. Eu conheço pessoalmente gente que coleciona aplicativos inúteis e também gente que cria exemplares desses, e essa é a única forma de empreendedorismo que conhecem.
 url: /cinco-tipos-de-aplicativos-que-voce-deveria-usar-corretamente/
-dsq_thread_id:
-  - 2753651268
+dsq_thread_id: 2753651268
 categories:
   - Artigos
   - Tecnologia e Tendências

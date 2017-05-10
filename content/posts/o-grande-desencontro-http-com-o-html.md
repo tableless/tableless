@@ -5,8 +5,7 @@ type: post
 date: 2014-01-06
 excerpt: Duas tecnologias criadas sob o mesmo projeto que possuem uma falha de compatibilidade. Vamos conhecer um pouco da história do HTTP e HTML, boas práticas e como manter interações coerentes entre cliente e servidor.
 url: /o-grande-desencontro-http-com-o-html/
-dsq_thread_id:
-  - 2095314894
+dsq_thread_id: 2095314894
 categories:
   - Código
   - HTML

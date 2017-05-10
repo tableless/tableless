@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6057";s:7:"tinyurl";s:26:"http://tinyurl.com/7n8yd6c";s:4:"isgd";s:19:"http://is.gd/3YuL59";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 691953873
+dsq_thread_id: 691953873
 categories:
   - HTML
   - HTML5

@@ -5,8 +5,7 @@ type: post
 date: 2014-06-13
 excerpt: 'Sabe aquelas tags de inclusão de arquivos do WordPress, chamadas de include tags?  Saiba como utilizar cada uma delas de uma forma diferente do que é comumente falado.'
 url: /include-tags-wordpress-conheca-alguns-truques-legais/
-dsq_thread_id:
-  - 2670389421
+dsq_thread_id: 2670389421
 categories:
   - CMS
   - Wordpress

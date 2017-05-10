@@ -5,8 +5,7 @@ type: post
 date: 2014-04-27
 excerpt: Criando uma galeria de imagens com painel de administração e separada por álbuns de imagens com administração em CakePHP, Fancybox e WideImage.
 url: /criando-uma-galeria-de-imagens-com-administracao-em-cakephp-fancybox-e-wideimage/
-dsq_thread_id:
-  - 2633907916
+dsq_thread_id: 2633907916
 categories:
   - Back-end
   - PHP

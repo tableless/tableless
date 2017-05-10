@@ -14,8 +14,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/exercicio-basico";s:7:"tinyurl";s:26:"http://tinyurl.com/3npsjud";s:4:"isgd";s:19:"http://is.gd/widZgH";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038574
+dsq_thread_id: 503038574
 categories:
   - CSS
   - HTML

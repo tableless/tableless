@@ -5,8 +5,7 @@ type: post
 date: 2014-03-14
 excerpt: 'As páginas de um site não aparecem nas buscas ou perderam posições no ranking do buscador: Saiba como identificar se o site sofreu uma punição do Google.'
 url: /como-saber-se-seu-site-foi-punido-pelo-google/
-dsq_thread_id:
-  - 2324919310
+dsq_thread_id: 2324919310
 categories:
   - SEO
 tags:

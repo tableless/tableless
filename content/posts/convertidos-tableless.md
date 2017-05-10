@@ -13,8 +13,7 @@ twittercomments:
   - 'a:5:{i:50681803115212800;s:6:"137354";i:49705450970693632;s:7:"retweet";i:49694229752070144;s:7:"retweet";i:145362389460713472;s:7:"retweet";i:158210568673701888;s:7:"retweet";}'
 tweetcount:
   - 8
-dsq_thread_id:
-  - 503037533
+dsq_thread_id: 503037533
 categories:
   - Bonito de se ver
   - Código

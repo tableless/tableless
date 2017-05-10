@@ -5,8 +5,7 @@ type: post
 date: 2014-02-28
 excerpt: Imagens menores que podem ajudar a tornar a web mais rápida.
 url: /webp-hora-de-brincar/
-dsq_thread_id:
-  - 2153677098
+dsq_thread_id: 2153677098
 categories:
   - Tecnologia e Tendências
 tags:

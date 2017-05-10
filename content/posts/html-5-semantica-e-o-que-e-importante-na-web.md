@@ -15,8 +15,7 @@ twittercomments:
   - 'a:1:{i:19730620334743552;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503038772
+dsq_thread_id: 503038772
 categories:
   - Artigos
   - Código

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/introducao_ajax";s:7:"tinyurl";s:26:"http://tinyurl.com/3jr9d9t";s:4:"isgd";s:19:"http://is.gd/6zLXrf";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033476
+dsq_thread_id: 503033476
 categories:
   - Artigos
   - Técnicas e Práticas

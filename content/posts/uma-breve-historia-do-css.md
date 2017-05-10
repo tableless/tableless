@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/uma-breve-historia-do-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3c89m7g";s:4:"isgd";s:19:"http://is.gd/Tenuh2";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034334
+dsq_thread_id: 503034334
 categories:
   - Artigos
   - Geral

@@ -5,8 +5,7 @@ type: post
 date: 2013-09-16
 excerpt: Entenda por que atender seu cliente pelas redes sociais não é tão bom quanto parece.
 url: /5-razoes-nao-atendimento-redes-sociais/
-dsq_thread_id:
-  - 1746710998
+dsq_thread_id: 1746710998
 categories:
   - Artigos
   - Geral

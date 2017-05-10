@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:72:"http://tableless.com.br/ferramenta-definitiva-para-a-criacao-de-websites";s:7:"tinyurl";s:26:"http://tinyurl.com/4y75jer";s:4:"isgd";s:19:"http://is.gd/N6SO2E";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037486
+dsq_thread_id: 503037486
 categories:
   - Tecnologia e Tendências
 tags:

@@ -5,8 +5,7 @@ type: post
 date: 2013-05-20
 excerpt: Introdução para criar aplicativos para FirefoxOS.
 url: /desenvolvendo-para-firefox-os/
-dsq_thread_id:
-  - 1267251416
+dsq_thread_id: 1267251416
 categories:
   - Técnicas e Práticas
 tags:

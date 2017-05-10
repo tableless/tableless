@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:64:"http://tableless.com.br/entrevista-para-webdesign-internet-movel";s:7:"tinyurl";s:26:"http://tinyurl.com/3cxstv6";s:4:"isgd";s:19:"http://is.gd/HMgbdM";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035150
+dsq_thread_id: 503035150
 categories:
   - Geral
 tags:

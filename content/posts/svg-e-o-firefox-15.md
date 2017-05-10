@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/svg-e-o-firefox-15";s:7:"tinyurl";s:26:"http://tinyurl.com/3qxjajx";s:4:"isgd";s:19:"http://is.gd/G0NPie";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034091
+dsq_thread_id: 503034091
 categories:
   - Browsers
   - Técnicas e Práticas

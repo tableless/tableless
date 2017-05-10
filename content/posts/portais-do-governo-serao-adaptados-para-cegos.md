@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:69:"http://tableless.com.br/portais-do-governo-serao-adaptados-para-cegos";s:7:"tinyurl";s:26:"http://tinyurl.com/3lufype";s:4:"isgd";s:19:"http://is.gd/4KJStC";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037098
+dsq_thread_id: 503037098
 categories:
   - Browsers
 tags:

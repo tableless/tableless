@@ -5,8 +5,7 @@ type: post
 date: 2014-05-27
 excerpt: Que podemos criar formas geométricas e desenhos com CSS, isso já sabemos, mas e se você ainda pudesse fazer seu texto assumir este formato? Conheça CSS Shapes Module 1 e 2.
 url: /css-shapes-e-text-wrap/
-dsq_thread_id:
-  - 2716255140
+dsq_thread_id: 2716255140
 categories:
   - Geral
 

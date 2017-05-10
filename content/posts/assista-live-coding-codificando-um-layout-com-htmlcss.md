@@ -5,8 +5,7 @@ type: post
 date: 2013-12-13
 excerpt: Assista o vídeo do primeiro Workshop do Tableless, por apenas R$45.
 url: /assista-live-coding-codificando-um-layout-com-htmlcss/
-dsq_thread_id:
-  - 2047076127
+dsq_thread_id: 2047076127
 categories:
   - Eventos e Workshops
 tags:

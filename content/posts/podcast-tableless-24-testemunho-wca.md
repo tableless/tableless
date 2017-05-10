@@ -21,8 +21,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/podcast-tableless-24-testemunho-wca";s:7:"tinyurl";s:26:"http://tinyurl.com/3jp75qo";s:4:"isgd";s:19:"http://is.gd/mNltUK";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036120
+dsq_thread_id: 503036120
 categories:
   - Geral
   - Podcasts

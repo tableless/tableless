@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:76:"http://tableless.com.br/video-tutorial-6-transformando-layout-fixo-em-fluido";s:7:"tinyurl";s:26:"http://tinyurl.com/3er5mcq";s:4:"isgd";s:19:"http://is.gd/TZqEtf";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034485
+dsq_thread_id: 503034485
 categories:
   - Geral
   - Vídeos Tutoriais

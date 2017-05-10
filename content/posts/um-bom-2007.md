@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/um-bom-2007";s:7:"tinyurl";s:26:"http://tinyurl.com/3wj7kxs";s:4:"isgd";s:19:"http://is.gd/qLNqCp";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036489
+dsq_thread_id: 503036489
 categories:
   - Geral
 tags:

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/24-ways-to-impress-your-friends";s:7:"tinyurl";s:26:"http://tinyurl.com/3wf3ubf";s:4:"isgd";s:19:"http://is.gd/VRP4Mx";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034244
+dsq_thread_id: 503034244
 categories:
   - Geral
 tags:

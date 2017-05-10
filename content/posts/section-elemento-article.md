@@ -15,8 +15,7 @@ twittercomments:
   - 'a:6:{i:202779216335478787;s:7:"retweet";i:202771255529713666;s:7:"retweet";i:202771244641304577;s:7:"retweet";i:202769131785826304;s:7:"retweet";i:202768171176968192;s:7:"retweet";i:202760990826303489;s:7:"retweet";}'
 tweetcount:
   - 11
-dsq_thread_id:
-  - 503039677
+dsq_thread_id: 503039677
 categories:
   - Código
   - HTML5

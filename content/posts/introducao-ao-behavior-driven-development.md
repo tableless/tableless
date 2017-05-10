@@ -5,8 +5,7 @@ type: post
 date: 2014-02-21
 excerpt: Hoje em dia, se quisermos escrever um bom software. Nossos programadores devem ser especialistas na regra de domínio de nossa aplicação. Não mas...
 url: /introducao-ao-behavior-driven-development/
-dsq_thread_id:
-  - 2275298239
+dsq_thread_id: 2275298239
 categories:
   - PHP
   - Técnicas e Práticas

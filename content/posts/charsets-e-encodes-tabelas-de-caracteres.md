@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:64:"http://tableless.com.br/charsets-e-encodes-tabelas-de-caracteres";s:7:"tinyurl";s:26:"http://tinyurl.com/3hyyf8w";s:4:"isgd";s:19:"http://is.gd/mUlA6o";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037999
+dsq_thread_id: 503037999
 categories:
   - Artigos
   - HTML

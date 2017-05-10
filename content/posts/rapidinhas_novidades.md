@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:23006310035365888;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503032917
+dsq_thread_id: 503032917
 
 ---
   * [Charges do BBB5][1]: Tableless. Quem sabe não temos em breve todo o Charges.com.br em Tableless, hein?

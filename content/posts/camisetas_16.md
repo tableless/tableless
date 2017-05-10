@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:36:"http://tableless.com.br/camisetas_16";s:7:"tinyurl";s:26:"http://tinyurl.com/3qaqcs4";s:4:"isgd";s:19:"http://is.gd/pdbFiv";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033067
+dsq_thread_id: 503033067
 categories:
   - Geral
 tags:

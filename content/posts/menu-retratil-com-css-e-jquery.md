@@ -5,8 +5,7 @@ type: post
 date: 2013-08-12
 excerpt: Navegação para design responsivo sem complicações em quatro sabores diferentes.
 url: /menu-retratil-com-css-e-jquery/
-dsq_thread_id:
-  - 1594441368
+dsq_thread_id: 1594441368
 categories:
   - JQuery
 tags:

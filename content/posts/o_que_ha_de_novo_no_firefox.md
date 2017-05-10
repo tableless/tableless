@@ -12,8 +12,7 @@ twittercomments:
   - 'a:2:{i:48402706859167744;s:7:"retweet";i:48401124948062208;s:7:"retweet";}'
 tweetcount:
   - 2
-dsq_thread_id:
-  - 503032802
+dsq_thread_id: 503032802
 
 ---
 O [Elcio][1] fez uma pequena avaliação sobre o novo firefox que está para sair. 

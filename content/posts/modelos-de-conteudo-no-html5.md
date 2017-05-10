@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/modelos-de-conteudo-no-html5";s:7:"tinyurl";s:26:"http://tinyurl.com/3sd6vhb";s:4:"isgd";s:19:"http://is.gd/MFP3Ld";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039489
+dsq_thread_id: 503039489
 categories:
   - HTML5
   - Técnicas e Práticas

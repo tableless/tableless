@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/mudancas-repentinas";s:7:"tinyurl";s:26:"http://tinyurl.com/3jjf3rn";s:4:"isgd";s:19:"http://is.gd/kO7lnK";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034043
+dsq_thread_id: 503034043
 categories:
   - Geral
 tags:

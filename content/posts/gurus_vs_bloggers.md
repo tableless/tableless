@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/gurus_vs_bloggers";s:7:"tinyurl";s:26:"http://tinyurl.com/3wp4egf";s:4:"isgd";s:19:"http://is.gd/GUaMFu";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 536747238
+dsq_thread_id: 536747238
 
 ---
 Para relaxar na páscoa.

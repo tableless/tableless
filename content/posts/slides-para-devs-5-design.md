@@ -5,8 +5,7 @@ type: post
 date: 2013-04-09
 excerpt: Slides de apresentações sobre design.
 url: /slides-para-devs-5-design/
-dsq_thread_id:
-  - 1195747995
+dsq_thread_id: 1195747995
 categories:
   - Design
   - Slides e Apresentações

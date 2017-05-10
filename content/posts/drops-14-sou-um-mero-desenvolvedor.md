@@ -5,8 +5,7 @@ type: post
 date: 2013-07-23
 excerpt: Um podcast bem pessoal sobre iniciativa.
 url: /drops-14-sou-um-mero-desenvolvedor/
-dsq_thread_id:
-  - 1519950427
+dsq_thread_id: 1519950427
 categories:
   - Drops
 tags:

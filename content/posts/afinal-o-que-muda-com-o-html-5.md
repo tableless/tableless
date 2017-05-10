@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:54:"http://tableless.com.br/afinal-o-que-muda-com-o-html-5";s:7:"tinyurl";s:26:"http://tinyurl.com/3fj9k83";s:4:"isgd";s:19:"http://is.gd/lIDIQh";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039494
+dsq_thread_id: 503039494
 categories:
   - Artigos
   - HTML

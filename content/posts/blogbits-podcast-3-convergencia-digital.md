@@ -15,8 +15,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:63:"http://tableless.com.br/blogbits-podcast-3-convergencia-digital";s:7:"tinyurl";s:26:"http://tinyurl.com/3oz23wr";s:4:"isgd";s:19:"http://is.gd/81JYf6";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034957
+dsq_thread_id: 503034957
 categories:
   - Podcasts
 tags:

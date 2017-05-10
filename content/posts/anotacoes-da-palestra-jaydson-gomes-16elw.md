@@ -5,8 +5,7 @@ type: post
 date: 2014-05-20
 excerpt: Essa são as minhas anotações da palestra do Jaydson Gomes sobre as principais mudanças da próxima versão do Javascript.
 url: /anotacoes-da-palestra-jaydson-gomes-16elw/
-dsq_thread_id:
-  - 2700228622
+dsq_thread_id: 2700228622
 categories:
   - Eventos e Workshops
 

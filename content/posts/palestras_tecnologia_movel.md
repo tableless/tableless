@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/palestras_tecnologia_movel";s:7:"tinyurl";s:26:"http://tinyurl.com/3hrkuby";s:4:"isgd";s:19:"http://is.gd/5xNiyr";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032097
+dsq_thread_id: 503032097
 
 ---
 O site [Mobile Life][1] está promovendo [palestras][2] sobre Tecnologia Móvel.

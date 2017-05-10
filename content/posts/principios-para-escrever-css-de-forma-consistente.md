@@ -9,8 +9,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6294";s:7:"tinyurl";s:26:"http://tinyurl.com/bqs46u5";s:4:"isgd";s:19:"http://is.gd/7iSXRH";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 725958034
+dsq_thread_id: 725958034
 categories:
   - CSS3
 

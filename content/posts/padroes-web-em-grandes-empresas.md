@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/padroes-web-em-grandes-empresas";s:7:"tinyurl";s:26:"http://tinyurl.com/42kof48";s:4:"isgd";s:19:"http://is.gd/b4GqsR";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035824
+dsq_thread_id: 503035824
 categories:
   - Artigos
   - Geral

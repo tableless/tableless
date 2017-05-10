@@ -13,8 +13,7 @@ twittercomments:
   - 'a:15:{i:127017567008202752;s:7:"retweet";i:126271829273870336;s:7:"retweet";i:125926736704708608;s:7:"retweet";i:125922583467147264;s:7:"retweet";i:125916308243099648;s:7:"retweet";i:125909106723782657;s:7:"retweet";i:125904189950926848;s:7:"retweet";i:125902293446049792;s:7:"retweet";i:125901294845173761;s:7:"retweet";i:146070962117410816;s:7:"retweet";i:146068093087649792;s:7:"retweet";i:152116397755994112;s:7:"retweet";i:152103504561979392;s:7:"retweet";i:152101571948314624;s:7:"retweet";i:152100824741457920;s:7:"retweet";}'
 tweetcount:
   - 54
-dsq_thread_id:
-  - 503040288
+dsq_thread_id: 503040288
 categories:
   - Mercado e Comportamento
   - Mobile

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/opera_com_voz";s:7:"tinyurl";s:26:"http://tinyurl.com/3p72gbd";s:4:"isgd";s:19:"http://is.gd/S9JAxO";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032268
+dsq_thread_id: 503032268
 
 ---
 Mais uma novidade para abalar o mundo dos browsers. O Opera lançou o Beta do Opera 8, e a grande novidade é que agora você pode navegar dando comandos de voz.

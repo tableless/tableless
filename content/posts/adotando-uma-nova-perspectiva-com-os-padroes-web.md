@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:72:"http://tableless.com.br/adotando-uma-nova-perspectiva-com-os-padroes-web";s:7:"tinyurl";s:26:"http://tinyurl.com/3atblob";s:4:"isgd";s:19:"http://is.gd/H9nf01";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036028
+dsq_thread_id: 503036028
 categories:
   - Geral
   - Tecnologia e Tendências

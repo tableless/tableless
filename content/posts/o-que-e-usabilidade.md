@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=3823";s:7:"tinyurl";s:26:"http://tinyurl.com/3cuf2he";s:4:"isgd";s:19:"http://is.gd/HB9OEC";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503019883
+dsq_thread_id: 503019883
 categories:
   - Acessibilidade
   - Mercado e Comportamento

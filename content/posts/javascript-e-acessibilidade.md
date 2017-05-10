@@ -15,8 +15,7 @@ twittercomments:
   - 'a:1:{i:15372882397896704;s:6:"136424";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503039694
+dsq_thread_id: 503039694
 categories:
   - Acessibilidade
   - AJAX

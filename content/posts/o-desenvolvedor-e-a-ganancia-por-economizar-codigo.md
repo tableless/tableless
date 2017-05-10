@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:74:"http://tableless.com.br/o-desenvolvedor-e-a-ganancia-por-economizar-codigo";s:7:"tinyurl";s:26:"http://tinyurl.com/442xteo";s:4:"isgd";s:19:"http://is.gd/HntLr7";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036737
+dsq_thread_id: 503036737
 categories:
   - Artigos
   - Tecnologia e Tendências

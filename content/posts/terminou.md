@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:45327983505977344;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503031793
+dsq_thread_id: 503031793
 
 ---
 O Diego terminou agora a pouco de implementar o layout do novo

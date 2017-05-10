@@ -5,8 +5,7 @@ type: post
 date: 2014-06-30
 excerpt: Como classificar melhor os dispositivos para um bom desenvolvimento web.
 url: /sobre-desenvolvimento-multi-device/
-dsq_thread_id:
-  - 2798205509
+dsq_thread_id: 2798205509
 categories:
   - Adaptive Web Design (AWD)
   - CSS

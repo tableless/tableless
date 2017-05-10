@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:62:"http://tableless.com.br/css-frameworks-ou-como-desaprender-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3zujfox";s:4:"isgd";s:19:"http://is.gd/BI0Iy3";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037516
+dsq_thread_id: 503037516
 categories:
   - Artigos
   - CSS

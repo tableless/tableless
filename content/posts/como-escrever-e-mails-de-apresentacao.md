@@ -5,8 +5,7 @@ type: post
 date: 2013-09-02
 excerpt: Saiba como evitar os principais erros na hora de redigir um e-mail, conheça dicas simples para ganhar a simpatia de quem está do outro lado do monitor e nunca mais esqueça seu portfólio.
 url: /como-escrever-e-mails-de-apresentacao/
-dsq_thread_id:
-  - 1657065749
+dsq_thread_id: 1657065749
 categories:
   - Artigos
   - Geral

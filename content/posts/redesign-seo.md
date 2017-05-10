@@ -5,8 +5,7 @@ type: post
 date: 2013-09-24
 excerpt: ' Evite problemas com sua campanha na hora de implementar a cara nova do seu site'
 url: /redesign-seo/
-dsq_thread_id:
-  - 1786520632
+dsq_thread_id: 1786520632
 categories:
   - SEO
 tags:

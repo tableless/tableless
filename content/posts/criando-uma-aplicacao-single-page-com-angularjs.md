@@ -5,8 +5,7 @@ type: post
 date: 2014-06-22
 excerpt: O AngularJS oferece muitos recursos ao desenvolvedor, neste artigo vamos conhecer o de Single Page, utilizando ngView e ngRoute.
 url: /criando-uma-aplicacao-single-page-com-angularjs/
-dsq_thread_id:
-  - 2724224676
+dsq_thread_id: 2724224676
 categories:
   - Artigos
   - JavaScript

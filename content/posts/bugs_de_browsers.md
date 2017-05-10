@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/bugs_de_browsers";s:7:"tinyurl";s:26:"http://tinyurl.com/3rbp4jk";s:4:"isgd";s:19:"http://is.gd/oi82Ib";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 522564551
+dsq_thread_id: 522564551
 categories:
   - Browsers
 tags:

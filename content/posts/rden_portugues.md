@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:39753282402533376;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503031644
+dsq_thread_id: 503031644
 
 ---
 [http://www.csszengarden.com/tr

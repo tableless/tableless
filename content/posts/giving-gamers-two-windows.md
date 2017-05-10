@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/giving-gamers-two-windows";s:7:"tinyurl";s:26:"http://tinyurl.com/3mew7dz";s:4:"isgd";s:19:"http://is.gd/PDxePB";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034847
+dsq_thread_id: 503034847
 categories:
   - Browsers
   - Tecnologia e Tendências

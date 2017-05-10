@@ -5,8 +5,7 @@ type: post
 date: 2014-02-28
 excerpt: Você já pensou no futuro do jQuery?
 url: /o-futuro-jquery/
-dsq_thread_id:
-  - 2336134935
+dsq_thread_id: 2336134935
 categories:
   - JQuery
   - Traduções

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:72:"http://tableless.com.br/sobre-ser-informado-guerra-sobre-a-desinformacao";s:7:"tinyurl";s:26:"http://tinyurl.com/43euozg";s:4:"isgd";s:19:"http://is.gd/JkKNch";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037110
+dsq_thread_id: 503037110
 tags:
   - cotidiano
   - Técnicas e Práticas

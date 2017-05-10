@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/cuidado-onde-voce-enfia-essa-tag-ai";s:7:"tinyurl";s:26:"http://tinyurl.com/3e5bt5a";s:4:"isgd";s:19:"http://is.gd/t2JAzQ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036224
+dsq_thread_id: 503036224
 categories:
   - Geral
 tags:

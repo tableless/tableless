@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/browsers-guerra-fria";s:7:"tinyurl";s:26:"http://tinyurl.com/3gb6qno";s:4:"isgd";s:19:"http://is.gd/oGWmmY";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037982
+dsq_thread_id: 503037982
 categories:
   - Artigos
   - Browsers

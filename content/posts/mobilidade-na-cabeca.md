@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/mobilidade-na-cabeca";s:7:"tinyurl";s:26:"http://tinyurl.com/3z3gjoq";s:4:"isgd";s:19:"http://is.gd/DDW7kr";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036541
+dsq_thread_id: 503036541
 categories:
   - Mobile
   - Tecnologia e Tendências

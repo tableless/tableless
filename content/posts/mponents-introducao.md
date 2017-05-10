@@ -5,8 +5,7 @@ type: post
 date: 2014-05-13
 excerpt: Entenda os principais tópicos e as informações iniciais sobre Web Components.
 url: /web-components-introducao/
-dsq_thread_id:
-  - 2680881717
+dsq_thread_id: 2680881717
 categories:
   - Artigos
   - HTML

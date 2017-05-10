@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/e-o-diferencial-onde-fica";s:7:"tinyurl";s:26:"http://tinyurl.com/3e37ceo";s:4:"isgd";s:19:"http://is.gd/PaT31h";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036091
+dsq_thread_id: 503036091
 categories:
   - Geral
 tags:

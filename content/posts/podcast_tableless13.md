@@ -19,8 +19,7 @@ twittercomments:
   - 'a:5:{i:37585576886665216;s:7:"retweet";i:56508292041687040;s:7:"retweet";i:56437929412800512;s:7:"retweet";i:56412231017037825;s:7:"retweet";i:56399219354910720;s:7:"retweet";}'
 tweetcount:
   - 5
-dsq_thread_id:
-  - 503033903
+dsq_thread_id: 503033903
 categories:
   - Podcasts
 

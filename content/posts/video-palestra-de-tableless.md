@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/video-palestra-de-tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/44zs6b6";s:4:"isgd";s:19:"http://is.gd/LXmP1B";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036188
+dsq_thread_id: 503036188
 categories:
   - Geral
   - Tecnologia e Tendências

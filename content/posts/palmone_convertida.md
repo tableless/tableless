@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:54761240777601024;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 533084322
+dsq_thread_id: 533084322
 categories:
   - Convertidos
   - Geral

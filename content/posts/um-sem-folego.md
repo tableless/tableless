@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/um-2009-sem-folego";s:7:"tinyurl";s:26:"http://tinyurl.com/4xmotp5";s:4:"isgd";s:19:"http://is.gd/l32fER";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038724
+dsq_thread_id: 503038724
 categories:
   - Artigos
   - Geral

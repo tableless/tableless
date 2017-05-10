@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/opera-so-se-nao-for-para-desktops";s:7:"tinyurl";s:26:"http://tinyurl.com/3olh9ob";s:4:"isgd";s:19:"http://is.gd/a7QgFp";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036910
+dsq_thread_id: 503036910
 categories:
   - Artigos
   - Browsers

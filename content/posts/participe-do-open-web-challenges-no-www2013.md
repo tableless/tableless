@@ -5,8 +5,7 @@ type: post
 date: 2013-05-07
 excerpt: O WWW2013 apresenta o Open Web Challeges, uma competição conduzida por Bert Bros, Bernard de Luna, Philippe Le Hégaret e Zeno Rocha. Participe!
 url: /participe-do-open-web-challenges-no-www2013/
-dsq_thread_id:
-  - 1267989674
+dsq_thread_id: 1267989674
 categories:
   - Notícias
 tags:

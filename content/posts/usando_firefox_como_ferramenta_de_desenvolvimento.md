@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:73:"http://tableless.com.br/usando_firefox_como_ferramenta_de_desenvolvimento";s:7:"tinyurl";s:26:"http://tinyurl.com/3hwk5ez";s:4:"isgd";s:19:"http://is.gd/t0acm3";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033564
+dsq_thread_id: 503033564
 categories:
   - Browsers
   - Geral

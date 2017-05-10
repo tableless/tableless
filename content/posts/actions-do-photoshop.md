@@ -5,8 +5,7 @@ type: post
 date: 2013-02-06
 excerpt: Um site com promoções diárias para desenvolvedores e designers.
 url: /actions-do-photoshop/
-dsq_thread_id:
-  - 1068451484
+dsq_thread_id: 1068451484
 categories:
   - Geral
 tags:

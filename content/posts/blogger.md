@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/blogger";s:7:"tinyurl";s:26:"http://tinyurl.com/3mwluv2";s:4:"isgd";s:19:"http://is.gd/zHm9HX";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031645
+dsq_thread_id: 503031645
 
 ---
 O [Blogger][1] está novo!

@@ -5,8 +5,7 @@ type: post
 date: 2014-04-25
 excerpt: Uma ferramenta minimalista para criar um blog estático no Github. Simples, rápido e sem gastar nada.
 url: /criando-um-blog-github-com-tinypress/
-dsq_thread_id:
-  - 2634428903
+dsq_thread_id: 2634428903
 categories:
   - Artigos
   - Notícias

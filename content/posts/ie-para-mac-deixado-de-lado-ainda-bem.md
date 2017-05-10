@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:61:"http://tableless.com.br/ie-para-mac-deixado-de-lado-ainda-bem";s:7:"tinyurl";s:26:"http://tinyurl.com/3zawy67";s:4:"isgd";s:19:"http://is.gd/hFCzb9";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034156
+dsq_thread_id: 503034156
 categories:
   - Browsers
   - Tecnologia e Tendências

@@ -5,8 +5,7 @@ type: post
 date: 2013-02-15
 excerpt: Conheça a biblioteca reveal.js, uma ferramenta poderosa para a criação de apresentações de slides que não dependem de nenhum software especial, apenas um navegador moderno.
 url: /reveal-js-criando-apresentacoes-no-navegador/
-dsq_thread_id:
-  - 1084909678
+dsq_thread_id: 1084909678
 categories:
   - JavaScript
 tags:

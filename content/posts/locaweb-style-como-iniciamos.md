@@ -5,8 +5,7 @@ type: post
 date: 2013-02-19
 excerpt: Como iniciamos e por que resolvemos criar um framework próprio aqui na Locaweb.
 url: /locaweb-style-como-iniciamos/
-dsq_thread_id:
-  - 1092474590
+dsq_thread_id: 1092474590
 categories:
   - Artigos
   - Código

@@ -5,8 +5,7 @@ type: post
 date: 2013-11-18
 excerpt: Saiba como você pode aumentar a acessibilidade da sua página de um jeito fácil com WAI-ARIA.
 url: /wai-aria-estendendo-o-significado-das-interacoes/
-dsq_thread_id:
-  - 1976320508
+dsq_thread_id: 1976320508
 categories:
   - Acessibilidade
   - Código

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/thunderbird";s:7:"tinyurl";s:26:"http://tinyurl.com/3m55som";s:4:"isgd";s:19:"http://is.gd/VLs5fU";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031479
+dsq_thread_id: 503031479
 
 ---
 Estou testando um cliente de email que se chama: [Mozilla Thunderbird][1].

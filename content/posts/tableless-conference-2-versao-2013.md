@@ -5,8 +5,7 @@ type: post
 date: 2013-02-25
 excerpt: 'Tableless Conference: um evento para desenvolvedores web se tornarem melhores.'
 url: /tableless-conference-2-versao-2013/
-dsq_thread_id:
-  - 1104054467
+dsq_thread_id: 1104054467
 categories:
   - Notícias
 tags:

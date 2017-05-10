@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/revista_webdesign";s:7:"tinyurl";s:26:"http://tinyurl.com/3us85el";s:4:"isgd";s:19:"http://is.gd/vo1cft";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032545
+dsq_thread_id: 503032545
 categories:
   - Artigos
   - Geral

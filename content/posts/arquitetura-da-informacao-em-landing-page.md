@@ -5,8 +5,7 @@ type: post
 date: 2013-07-10
 excerpt: 'Construir uma boa arquitetura de informação e aprofundar o assunto da página faz toda a diferença para se obter bons resultados de conversão. '
 url: /arquitetura-da-informacao-em-landing-page/
-dsq_thread_id:
-  - 1464687905
+dsq_thread_id: 1464687905
 categories:
   - Design
   - SEO

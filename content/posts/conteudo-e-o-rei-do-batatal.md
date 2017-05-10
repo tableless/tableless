@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/conteudo-e-o-rei-do-batatal";s:7:"tinyurl";s:26:"http://tinyurl.com/4yws462";s:4:"isgd";s:19:"http://is.gd/DUEqx8";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036746
+dsq_thread_id: 503036746
 categories:
   - Tecnologia e Tendências
 tags:

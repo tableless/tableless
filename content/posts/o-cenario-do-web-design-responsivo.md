@@ -5,8 +5,7 @@ type: post
 date: 2013-07-17
 excerpt: Site responsivo é muito mais que media queries, breakpoints e redimensionamento de imagens. Nesta tradução de artigo da Smashing Magazine, Stéphanie Walter mostra o que é, o que será possível, e o que precisa ser melhorado no RWD.
 url: /o-cenario-do-web-design-responsivo/
-dsq_thread_id:
-  - 1505017271
+dsq_thread_id: 1505017271
 categories:
   - Adaptive Web Design (AWD)
   - CSS3

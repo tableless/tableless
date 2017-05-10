@@ -12,8 +12,7 @@ twittercomments:
   - 'a:6:{i:60554408957706240;s:7:"retweet";i:60360372464529408;s:7:"retweet";i:60356320905273344;s:7:"retweet";i:60338276950749184;s:7:"retweet";i:60135290475511809;s:7:"retweet";i:60127819337969664;s:7:"retweet";}'
 tweetcount:
   - 6
-dsq_thread_id:
-  - 513667414
+dsq_thread_id: 513667414
 
 ---
 A revista [MacMania][1] publicou esse mês nosso artigo sobre simplicidade. Nos próximos meses vão sair um pequeno tutorial da coisa e um estudo de caso. Confira.

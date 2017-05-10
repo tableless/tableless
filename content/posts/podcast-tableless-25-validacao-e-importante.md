@@ -19,8 +19,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:67:"http://tableless.com.br/podcast-tableless-25-validacao-e-importante";s:7:"tinyurl";s:26:"http://tinyurl.com/44dx6hy";s:4:"isgd";s:19:"http://is.gd/5X2yTn";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036265
+dsq_thread_id: 503036265
 categories:
   - Browsers
   - CSS

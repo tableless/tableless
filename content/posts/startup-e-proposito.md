@@ -13,8 +13,7 @@ twittercomments:
   - 'a:6:{i:278641722286809090;s:7:"retweet";i:278608424495882240;s:7:"retweet";i:278562824605798402;s:7:"retweet";i:278277537665257473;s:7:"retweet";i:281463327635410944;s:7:"retweet";i:279904523089219584;s:7:"retweet";}'
 tweetcount:
   - 17
-dsq_thread_id:
-  - 967678740
+dsq_thread_id: 967678740
 categories:
   - Artigos
   - Mercado e Comportamento

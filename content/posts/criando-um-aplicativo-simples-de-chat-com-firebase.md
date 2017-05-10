@@ -5,8 +5,7 @@ type: post
 date: 2014-07-17
 excerpt: Um exemplo de utilização dessa poderosa plataforma de armazenamento e sincronização de dados em tempo real.
 url: /criando-um-aplicativo-simples-de-chat-com-firebase/
-dsq_thread_id:
-  - 2847349797
+dsq_thread_id: 2847349797
 categories:
   - JavaScript
   - Técnicas e Práticas

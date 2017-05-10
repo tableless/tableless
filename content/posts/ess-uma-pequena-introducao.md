@@ -15,8 +15,7 @@ twittercomments:
   - 'a:1:{i:37304100383105025;s:6:"137043";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503037903
+dsq_thread_id: 503037903
 categories:
   - O Básico
   - Wordpress

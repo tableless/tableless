@@ -10,8 +10,7 @@ excerpt: |
   
   Calma, vamos aos poucos. De primeira vista pode parecer extremamente complicado mais depois de saber o que está acontecendo, você vai dizer "poxa era só isso!".
 url: /elevacao-ou-javascript-hoisting/
-dsq_thread_id:
-  - 2715165926
+dsq_thread_id: 2715165926
 categories:
   - Código
   - JavaScript

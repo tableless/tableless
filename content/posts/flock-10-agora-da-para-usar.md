@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/flock-10-agora-da-para-usar";s:7:"tinyurl";s:26:"http://tinyurl.com/3dcoqcj";s:4:"isgd";s:19:"http://is.gd/UOUy2K";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037680
+dsq_thread_id: 503037680
 categories:
   - Artigos
   - Browsers

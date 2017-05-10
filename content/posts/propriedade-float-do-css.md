@@ -15,8 +15,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/propriedade-float-do-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3f6ejmu";s:4:"isgd";s:19:"http://is.gd/x621IW";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038868
+dsq_thread_id: 503038868
 categories:
   - CSS
   - Técnicas e Práticas

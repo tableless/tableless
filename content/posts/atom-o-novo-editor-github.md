@@ -5,8 +5,7 @@ type: post
 date: 2014-02-27
 excerpt: Algumas informações sobre o Atom, o novo editor do Github.
 url: /atom-o-novo-editor-github/
-dsq_thread_id:
-  - 2331936699
+dsq_thread_id: 2331936699
 categories:
   - Editores
   - Notícias

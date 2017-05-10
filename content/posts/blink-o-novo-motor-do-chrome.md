@@ -5,8 +5,7 @@ type: post
 date: 2013-04-04
 excerpt: Google cria seu próprio motor de renderização baseado no WebKit.
 url: /blink-o-novo-motor-do-chrome/
-dsq_thread_id:
-  - 1185565870
+dsq_thread_id: 1185565870
 categories:
   - Notícias
 tags:

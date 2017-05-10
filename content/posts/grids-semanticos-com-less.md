@@ -5,8 +5,7 @@ type: post
 date: 2013-03-08
 excerpt: 'Aprenda a construir rapidamente um grid semântico e responsivo utilizando CSS e uma ajudinha do LESS. '
 url: /grids-semanticos-com-less/
-dsq_thread_id:
-  - 1124074839
+dsq_thread_id: 1124074839
 categories:
   - Artigos
   - Código

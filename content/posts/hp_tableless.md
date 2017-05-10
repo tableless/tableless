@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:36:"http://tableless.com.br/hp_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3tk77cv";s:4:"isgd";s:19:"http://is.gd/i6HUDP";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031500
+dsq_thread_id: 503031500
 
 ---
 Mais um site é [tableless][1]!   

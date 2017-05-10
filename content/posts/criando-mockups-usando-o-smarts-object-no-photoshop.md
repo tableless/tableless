@@ -5,8 +5,7 @@ type: post
 date: 2013-07-29
 excerpt: Criando mockups simples no Photoshop.
 url: /criando-mockups-usando-o-smarts-object-no-photoshop/
-dsq_thread_id:
-  - 1544065192
+dsq_thread_id: 1544065192
 categories:
   - Design
   - O Básico

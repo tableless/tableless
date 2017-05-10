@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:69:"http://tableless.com.br/footiefox-a-copa-em-nosso-navegador-predileto";s:7:"tinyurl";s:26:"http://tinyurl.com/3ollp78";s:4:"isgd";s:19:"http://is.gd/70iw0P";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035522
+dsq_thread_id: 503035522
 categories:
   - Browsers
   - Tecnologia e Tendências

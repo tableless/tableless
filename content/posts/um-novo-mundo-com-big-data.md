@@ -5,8 +5,7 @@ type: post
 date: 2013-07-24
 excerpt: Entendendo um pouco sobre informações e big data.
 url: /um-novo-mundo-com-big-data/
-dsq_thread_id:
-  - 1472881481
+dsq_thread_id: 1472881481
 categories:
   - Artigos
   - Geral

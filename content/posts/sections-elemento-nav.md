@@ -15,8 +15,7 @@ twittercomments:
   - 'a:1:{i:12674706184347648;s:6:"136333";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503039546
+dsq_thread_id: 503039546
 categories:
   - Código
   - HTML5

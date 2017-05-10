@@ -5,8 +5,7 @@ type: post
 date: 2013-10-08
 excerpt: Conheça a ferramenta que permite o desenvolvimento de lojas virtuais através do Wordpress, veja um passo-a-passo de instalação, confira as principais funcionalidades e leve de bônus uma lista de plugins úteis.
 url: /lojas-virtuais-com-woocommerce/
-dsq_thread_id:
-  - 1824939556
+dsq_thread_id: 1824939556
 categories:
   - Wordpress
 tags:

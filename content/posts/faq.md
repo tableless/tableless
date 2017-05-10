@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:27:"http://tableless.com.br/faq";s:7:"tinyurl";s:26:"http://tinyurl.com/42z6lm4";s:4:"isgd";s:19:"http://is.gd/XRrowp";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033277
+dsq_thread_id: 503033277
 categories:
   - Artigos
   - O Básico

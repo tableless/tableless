@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/para_o_alto_e_avante";s:7:"tinyurl";s:26:"http://tinyurl.com/3s54cm3";s:4:"isgd";s:19:"http://is.gd/XLlFhA";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031743
+dsq_thread_id: 503031743
 
 ---
 [Conectado em pleno ar][1]

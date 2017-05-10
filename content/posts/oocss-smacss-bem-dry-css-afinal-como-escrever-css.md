@@ -5,8 +5,7 @@ type: post
 date: 2014-06-23
 excerpt: Conheça os principais estilos de escrita de CSS e aprenda o que você pode extrair deste mar de siglas para escrever código melhor.
 url: /oocss-smacss-bem-dry-css-afinal-como-escrever-css/
-dsq_thread_id:
-  - 2789992839
+dsq_thread_id: 2789992839
 titulo_personalizado:
   - 'OOCSS, SMACSS, BEM, DRY CSS: afinal, <strong>como escrever CSS?</strong>'
 categories:

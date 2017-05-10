@@ -5,8 +5,7 @@ type: post
 date: 2013-07-22
 excerpt: Meus dois centavos sobre a utilização de pré processadores de CSS.
 url: /pre-processadores-usar-ou-nao-usar/
-dsq_thread_id:
-  - 1518177974
+dsq_thread_id: 1518177974
 categories:
   - Artigos
   - CSS

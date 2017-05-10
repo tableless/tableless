@@ -5,8 +5,7 @@ type: post
 date: 2013-05-22
 excerpt: Palestras e fotos do segundo Tableless Conference!
 url: /tableless-conference-2013/
-dsq_thread_id:
-  - 1305429805
+dsq_thread_id: 1305429805
 categories:
   - Código
   - Notícias

@@ -5,8 +5,7 @@ type: post
 date: 2013-06-06
 excerpt: Conheça a metodologia Scrum e aprenda a colocar as estratégias na prática para gerenciar qualquer tipo de projeto.
 url: /desenvolvimento-agil-utilizando-scrum/
-dsq_thread_id:
-  - 1358454513
+dsq_thread_id: 1358454513
 categories:
   - Artigos
 tags:

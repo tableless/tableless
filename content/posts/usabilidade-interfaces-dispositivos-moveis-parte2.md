@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:74:"http://tableless.com.br/usabilidade-interfaces-dispositivos-moveis-parte2/";s:7:"tinyurl";s:26:"http://tinyurl.com/6vrs84o";s:4:"isgd";s:19:"http://is.gd/9AkIZ3";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503016235
+dsq_thread_id: 503016235
 categories:
   - Acessibilidade
   - Mercado e Comportamento

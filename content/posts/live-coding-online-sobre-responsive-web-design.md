@@ -5,8 +5,7 @@ type: post
 date: 2014-04-11
 excerpt: Participe do nosso Micro Workshop Online sobre Responsive Web Design.
 url: /live-coding-online-sobre-responsive-web-design/
-dsq_thread_id:
-  - 2503442433
+dsq_thread_id: 2503442433
 categories:
   - Eventos e Workshops
 tags:

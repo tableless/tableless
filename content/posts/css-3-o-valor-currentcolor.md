@@ -13,8 +13,7 @@ twittercomments:
   - 'a:6:{i:129006088900182016;s:7:"retweet";i:128919657284509697;s:7:"retweet";i:128816152628568064;s:7:"retweet";i:159648388789436418;s:7:"retweet";i:159634576417890304;s:7:"retweet";i:159617514630950915;s:7:"retweet";}'
 tweetcount:
   - 12
-dsq_thread_id:
-  - 503040254
+dsq_thread_id: 503040254
 categories:
   - CSS
   - Técnicas e Práticas

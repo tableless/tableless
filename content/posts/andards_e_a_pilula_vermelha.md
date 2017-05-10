@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/web_standards_e_a_pilula_vermelha";s:7:"tinyurl";s:26:"http://tinyurl.com/3lsaobc";s:4:"isgd";s:19:"http://is.gd/3d1qe8";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033855
+dsq_thread_id: 503033855
 categories:
   - Artigos
   - Geral

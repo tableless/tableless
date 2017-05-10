@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/faculdades-cursos-e-conhecimento";s:7:"tinyurl";s:26:"http://tinyurl.com/3kbo748";s:4:"isgd";s:19:"http://is.gd/NUHW5f";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037327
+dsq_thread_id: 503037327
 categories:
   - Tecnologia e Tendências
 tags:

@@ -5,8 +5,7 @@ type: post
 date: 2013-09-30
 excerpt: Entenda como fazer um menu como nos aplicativos mobile, como o facebook.
 url: /fazendo-um-slide-menu-mobile-sem-plugin/
-dsq_thread_id:
-  - 1809874159
+dsq_thread_id: 1809874159
 categories:
   - Código
   - CSS3

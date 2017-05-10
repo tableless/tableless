@@ -4,8 +4,7 @@ author: Reinaldo Ferraz
 type: post
 date: 2013-10-29
 url: /destaques-da-5a-edicao-da-conferencia-web-w3c-brasil/
-dsq_thread_id:
-  - 1914784468
+dsq_thread_id: 1914784468
 categories:
   - Geral
 

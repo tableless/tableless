@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:35328643551080448;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503032919
+dsq_thread_id: 503032919
 
 ---
 Mas que coisa&#8230;.

@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5796";s:7:"tinyurl";s:26:"http://tinyurl.com/cejbpwp";s:4:"isgd";s:19:"http://is.gd/fAYMYq";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 636240456
+dsq_thread_id: 636240456
 categories:
   - Mobile
   - Notícias

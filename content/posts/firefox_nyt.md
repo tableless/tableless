@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/firefox_nyt";s:7:"tinyurl";s:26:"http://tinyurl.com/3o87rrd";s:4:"isgd";s:19:"http://is.gd/VDzeUN";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031981
+dsq_thread_id: 503031981
 
 ---
 Isso aí! O [Firefox][1] está investindo pesado em sua divulgação. Eles conseguiram arrecadar $250.000 para publicarem sobre o lançamento do Firefox 1.0 no jornal The New York Times.

@@ -7,8 +7,7 @@ excerpt: Saiba tudo sobre o novo gadget da Google e como desenvolver conteúdo p
 url: /design-para-google-glass/
 sharing_disabled:
   - 1
-dsq_thread_id:
-  - 1648971407
+dsq_thread_id: 1648971407
 categories:
   - Design
   - Geral

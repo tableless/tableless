@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/nao-ie-mais-de-20-do-mercado";s:7:"tinyurl";s:26:"http://tinyurl.com/4xjqk53";s:4:"isgd";s:19:"http://is.gd/1MaxhC";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036501
+dsq_thread_id: 503036501
 categories:
   - Browsers
   - Tecnologia e Tendências

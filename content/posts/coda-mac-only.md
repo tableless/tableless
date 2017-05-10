@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/coda-mac-only";s:7:"tinyurl";s:26:"http://tinyurl.com/3mcmqox";s:4:"isgd";s:19:"http://is.gd/K6hIo4";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036949
+dsq_thread_id: 503036949
 categories:
   - Tecnologia e Tendências
 tags:

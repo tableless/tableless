@@ -5,8 +5,7 @@ type: post
 date: 2013-07-16
 excerpt: Neste artigo entenda como funcionam os modos de mesclagem e saiba como utilizar cada um deles através de simples parâmetros de CSS.
 url: /modos-de-mesclagem-em-css/
-dsq_thread_id:
-  - 1503259694
+dsq_thread_id: 1503259694
 categories:
   - Artigos
   - CSS

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/web-standards-vs-tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/452t7ux";s:4:"isgd";s:19:"http://is.gd/kzgdBB";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035771
+dsq_thread_id: 503035771
 categories:
   - Artigos
   - Geral

@@ -5,8 +5,7 @@ type: post
 date: 2013-08-19
 excerpt: Uma lista com os melhores frameworks de CSS
 url: /tabela-comparativa-de-frameworks-css/
-dsq_thread_id:
-  - 1616114891
+dsq_thread_id: 1616114891
 categories:
   - CSS
   - CSS3

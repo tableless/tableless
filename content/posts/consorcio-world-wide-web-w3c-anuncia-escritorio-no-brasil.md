@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:81:"http://tableless.com.br/consorcio-world-wide-web-w3c-anuncia-escritorio-no-brasil";s:7:"tinyurl";s:26:"http://tinyurl.com/3tqz4aj";s:4:"isgd";s:19:"http://is.gd/ZVd7uu";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037571
+dsq_thread_id: 503037571
 categories:
   - Geral
 

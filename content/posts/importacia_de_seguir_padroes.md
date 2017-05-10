@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/importacia_de_seguir_padroes";s:7:"tinyurl";s:26:"http://tinyurl.com/42chylk";s:4:"isgd";s:19:"http://is.gd/YHuzrx";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031931
+dsq_thread_id: 503031931
 categories:
   - Artigos
   - Geral

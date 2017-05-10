@@ -5,8 +5,7 @@ type: post
 date: 2013-11-26
 excerpt: Participe de um micro workshop com o Diego Eis, onde ele implementará ao vivo um layout direto do PSD.
 url: /live-coding-ao-vivo-com-diego-eis/
-dsq_thread_id:
-  - 2002339421
+dsq_thread_id: 2002339421
 categories:
   - Geral
   - Mercado e Comportamento

@@ -15,8 +15,7 @@ twittercomments:
   - 'a:2:{i:35165051476377600;s:7:"retweet";i:35138075948486656;s:7:"retweet";}'
 tweetcount:
   - 2
-dsq_thread_id:
-  - 503039030
+dsq_thread_id: 503039030
 categories:
   - CSS
   - Digest

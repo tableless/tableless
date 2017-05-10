@@ -13,8 +13,7 @@ twittercomments:
   - 'a:10:{i:129293865323728896;s:7:"retweet";i:129191757375225856;s:7:"retweet";i:129181835682004994;s:7:"retweet";i:129179365765423104;s:7:"retweet";i:129179030611173376;s:7:"retweet";i:151369580315545600;s:7:"retweet";i:151367903579607041;s:7:"retweet";i:158724569199415296;s:7:"retweet";i:169585953051131904;s:7:"retweet";i:182259699406737409;s:7:"retweet";}'
 tweetcount:
   - 17
-dsq_thread_id:
-  - 503040210
+dsq_thread_id: 503040210
 categories:
   - CSS
   - HTML

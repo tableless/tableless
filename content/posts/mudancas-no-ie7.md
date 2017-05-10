@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/mudancas-no-ie7";s:7:"tinyurl";s:26:"http://tinyurl.com/3my4sjw";s:4:"isgd";s:19:"http://is.gd/zoMYse";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036071
+dsq_thread_id: 503036071
 categories:
   - Browsers
   - Geral

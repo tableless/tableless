@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/momento-saudoso";s:7:"tinyurl";s:26:"http://tinyurl.com/4xvhmob";s:4:"isgd";s:19:"http://is.gd/oSFeRK";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035200
+dsq_thread_id: 503035200
 tags:
   - cotidiano
 

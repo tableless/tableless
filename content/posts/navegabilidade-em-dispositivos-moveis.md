@@ -15,8 +15,7 @@ twittercomments:
   - 'a:12:{i:10039589313974272;s:7:"retweet";i:10038945760935938;s:7:"retweet";i:10036494471274496;s:7:"retweet";i:131118261176770561;s:7:"retweet";i:131117213972312064;s:7:"retweet";i:131089157580800002;s:7:"retweet";i:131086710468644864;s:7:"retweet";i:131082793206812672;s:7:"retweet";i:131055918484946944;s:7:"retweet";i:131055784187543553;s:7:"retweet";i:131055425318694912;s:7:"retweet";i:131054363467714561;s:7:"retweet";}'
 tweetcount:
   - 29
-dsq_thread_id:
-  - 503039719
+dsq_thread_id: 503039719
 categories:
   - Acessibilidade
   - Artigos

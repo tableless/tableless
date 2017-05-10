@@ -7,8 +7,7 @@ excerpt: |
   |
     Pré-processadores, frameworks, novas propriedades e valores, novidades e mais novidades todas acontecendo ao mesmo tempo e ainda vemos profissionais de front-end perdendo a noção do uso puro e simples de folhas de estilo e da aplicação dos padrões. Por que isso acontece?
 url: /css-puro-e-simples-sqn/
-dsq_thread_id:
-  - 2026959890
+dsq_thread_id: 2026959890
 categories:
   - Artigos
   - CSS3

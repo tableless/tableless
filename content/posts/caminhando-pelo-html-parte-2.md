@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/caminhando-pelo-html-parte-2";s:7:"tinyurl";s:26:"http://tinyurl.com/3los28n";s:4:"isgd";s:19:"http://is.gd/oCa8bL";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034375
+dsq_thread_id: 503034375
 categories:
   - Artigos
   - Browsers

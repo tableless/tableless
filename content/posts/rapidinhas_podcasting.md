@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/rapidinhas_podcasting";s:7:"tinyurl";s:26:"http://tinyurl.com/3arz5zs";s:4:"isgd";s:19:"http://is.gd/UcEIp6";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032899
+dsq_thread_id: 503032899
 categories:
   - Podcasts
 

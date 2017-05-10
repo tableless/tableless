@@ -4,8 +4,7 @@ author: Reinaldo Ferraz
 type: post
 date: 2013-11-27
 url: /participe-da-cerimonia-de-premiacao-todosweb-2013/
-dsq_thread_id:
-  - 2005164808
+dsq_thread_id: 2005164808
 categories:
   - Acessibilidade
   - Geral

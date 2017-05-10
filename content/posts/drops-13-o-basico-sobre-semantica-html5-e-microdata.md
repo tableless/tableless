@@ -5,8 +5,7 @@ type: post
 date: 2013-07-03
 excerpt: Drops 13 sobre semântica
 url: /drops-13-o-basico-sobre-semantica-html5-e-microdata/
-dsq_thread_id:
-  - 1462572199
+dsq_thread_id: 1462572199
 categories:
   - Drops
   - Podcasts

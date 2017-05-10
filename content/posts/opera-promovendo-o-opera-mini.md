@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/opera-promovendo-o-opera-mini";s:7:"tinyurl";s:26:"http://tinyurl.com/3dham66";s:4:"isgd";s:19:"http://is.gd/FZ2im6";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503034519
+dsq_thread_id: 503034519
 categories:
   - Browsers
   - Geral

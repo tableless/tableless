@@ -5,8 +5,7 @@ type: post
 date: 2013-03-21
 excerpt: Gostaria de fazer uma rápida analogia sobre o desenvolvimento do design responsivo de hoje com os softwares de vinte anos atrás.
 url: /design-responsivo-foco-no-ser-humano/
-dsq_thread_id:
-  - 1155144295
+dsq_thread_id: 1155144295
 categories:
   - Design
   - Mobile

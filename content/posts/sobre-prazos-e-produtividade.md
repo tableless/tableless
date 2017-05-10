@@ -5,8 +5,7 @@ type: post
 date: 2013-04-08
 excerpt: Um pensamento sobre prazos e produtividade.
 url: /sobre-prazos-e-produtividade/
-dsq_thread_id:
-  - 1195701445
+dsq_thread_id: 1195701445
 categories:
   - Artigos
   - Técnicas e Práticas

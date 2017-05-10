@@ -16,8 +16,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/entrevista_bruno_2";s:7:"tinyurl";s:26:"http://tinyurl.com/3q4msag";s:4:"isgd";s:19:"http://is.gd/jCU1td";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032113
+dsq_thread_id: 503032113
 categories:
   - Podcasts
 

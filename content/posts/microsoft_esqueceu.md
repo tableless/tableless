@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/microsoft_esqueceu";s:7:"tinyurl";s:26:"http://tinyurl.com/3wnt3jx";s:4:"isgd";s:19:"http://is.gd/S6ggCi";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031565
+dsq_thread_id: 503031565
 
 ---
 [Microsoft se esquece de renovar domínio do Hotmail][1]

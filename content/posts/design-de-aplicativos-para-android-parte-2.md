@@ -5,8 +5,7 @@ type: post
 date: 2014-02-05
 excerpt: Conheça os pixels independentes e as pilhas de resoluções, aprenda a criar e organizar entregáveis de design e descubra ferramentas úteis para criar seus próprios aplicativos Android.
 url: /design-de-aplicativos-para-android-parte-2/
-dsq_thread_id:
-  - 2223844130
+dsq_thread_id: 2223844130
 categories:
   - Design
   - Mobile

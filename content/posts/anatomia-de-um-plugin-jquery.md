@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/anatomia-de-um-plugin-jquery";s:7:"tinyurl";s:26:"http://tinyurl.com/3dv2fyc";s:4:"isgd";s:19:"http://is.gd/8RzJRK";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039503
+dsq_thread_id: 503039503
 categories:
   - Artigos
   - Código

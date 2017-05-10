@@ -5,8 +5,7 @@ type: post
 date: 2014-02-28
 excerpt: Tradução do Code Guide do @mdo.
 url: /code-guide-mdo/
-dsq_thread_id:
-  - 2333497747
+dsq_thread_id: 2333497747
 categories:
   - CSS
   - HTML

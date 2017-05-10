@@ -7,8 +7,7 @@ excerpt: Qual seria o perfil de um desenvolvedor front-end? O que ele deveria sa
 url: /o-dev-front-end-podcast-1/
 tweetbackscheck:
   - 1356453932
-dsq_thread_id:
-  - 678185011
+dsq_thread_id: 678185011
 shorturls:
   - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/o-dev-front-end-podcast-1/";s:7:"tinyurl";s:26:"http://tinyurl.com/bl6pcxr";s:4:"isgd";s:19:"http://is.gd/GsNL4y";}'
 twittercomments:

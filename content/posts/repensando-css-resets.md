@@ -5,8 +5,7 @@ type: post
 date: 2013-02-04
 excerpt: Como melhorar seu CSS Reset.
 url: /repensando-css-resets/
-dsq_thread_id:
-  - 1064394526
+dsq_thread_id: 1064394526
 categories:
   - CSS
   - HTML

@@ -12,8 +12,7 @@ twittercomments:
   - 'a:2:{i:45840037757198336;s:7:"retweet";i:45705630983536640;s:7:"retweet";}'
 tweetcount:
   - 2
-dsq_thread_id:
-  - 503031563
+dsq_thread_id: 503031563
 
 ---
 Esta é ótima&#8230;

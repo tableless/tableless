@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/ha-vagas-na-32bits%e2%84%a2";s:7:"tinyurl";s:26:"http://tinyurl.com/3zu83uh";s:4:"isgd";s:19:"http://is.gd/8MQyc3";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036823
+dsq_thread_id: 503036823
 categories:
   - Geral
 

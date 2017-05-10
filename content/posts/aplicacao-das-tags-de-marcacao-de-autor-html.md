@@ -5,8 +5,7 @@ type: post
 date: 2014-04-30
 excerpt: Saiba como usar a metatag de Author e como isso afeta os motores de busca. Principalmente o Google.
 url: /aplicacao-das-tags-de-marcacao-de-autor-html/
-dsq_thread_id:
-  - 2636390936
+dsq_thread_id: 2636390936
 categories:
   - SEO
 tags:

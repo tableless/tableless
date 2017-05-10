@@ -5,8 +5,7 @@ type: post
 date: 2014-05-29
 excerpt: Desde 2004 venho acompanhando bem de perto o mundo web. Muitas empresas vem ano após ano investindo pesado para tirar as informações de dentro da empresa, literalmente. Várias vertentes tem sido abordadas por empresas de software que precisam determinantemente exteriorizar  os dados de seus clientes, afinal tudo cada dia está mais conectado.
 url: /afinal-e-web-online-ou-cloud-nao-sei-mas-quero-tudo-nas-nuvens/
-dsq_thread_id:
-  - 2719827266
+dsq_thread_id: 2719827266
 categories:
   - Mercado e Comportamento
 

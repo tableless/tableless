@@ -5,8 +5,7 @@ type: post
 date: 2013-03-13
 excerpt: 'Slides que valem a pena ver. #1.'
 url: /slides-devs-1/
-dsq_thread_id:
-  - 1134817132
+dsq_thread_id: 1134817132
 categories:
   - Slides e Apresentações
 tags:

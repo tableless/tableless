@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7132";s:7:"tinyurl";s:26:"http://tinyurl.com/9urbrev";s:4:"isgd";s:19:"http://is.gd/4zVksN";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 888364078
+dsq_thread_id: 888364078
 categories:
   - Browsers
   - Notícias

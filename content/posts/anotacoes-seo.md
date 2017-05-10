@@ -14,8 +14,7 @@ twittercomments:
   - 'a:1:{i:18287600661962752;s:6:"136485";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503038510
+dsq_thread_id: 503038510
 categories:
   - Artigos
   - SEO

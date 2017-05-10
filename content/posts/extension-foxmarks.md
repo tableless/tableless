@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/extension-foxmarks";s:7:"tinyurl";s:26:"http://tinyurl.com/3ljjtyh";s:4:"isgd";s:19:"http://is.gd/A6X5Vv";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035531
+dsq_thread_id: 503035531
 categories:
   - Browsers
 tags:

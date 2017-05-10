@@ -7,8 +7,7 @@ excerpt: Drops 11 falando sobre adaptação ou otimização de sites para mobile
 url: /drops-11-adaptacao-e-otimizacao/
 tweetbackscheck:
   - 1356389574
-dsq_thread_id:
-  - 750326355
+dsq_thread_id: 750326355
 shorturls:
   - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/drops-11-adaptacao-e-otimizacao/";s:7:"tinyurl";s:26:"http://tinyurl.com/bsb2rql";s:4:"isgd";s:19:"http://is.gd/NPopPh";}'
 twittercomments:

@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6404";s:7:"tinyurl";s:26:"http://tinyurl.com/d2dhykv";s:4:"isgd";s:19:"http://is.gd/HZpEUc";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 759056657
+dsq_thread_id: 759056657
 categories:
   - Browsers
   - Código

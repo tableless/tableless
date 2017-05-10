@@ -15,8 +15,7 @@ twittercomments:
   - 'a:2:{i:22703136611241986;s:6:"136598";i:24888935750574080;s:6:"136670";}'
 tweetcount:
   - 2
-dsq_thread_id:
-  - 503034030
+dsq_thread_id: 503034030
 categories:
   - O Básico
   - Tecnologia e Tendências

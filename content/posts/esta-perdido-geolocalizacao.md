@@ -5,8 +5,7 @@ type: post
 date: 2013-04-22
 excerpt: Entendendo como utilizar a API de Geolocalização (geolocation) do HTML5 com Javascript.
 url: /esta-perdido-geolocalizacao/
-dsq_thread_id:
-  - 1227185682
+dsq_thread_id: 1227185682
 categories:
   - HTML5
   - JavaScript

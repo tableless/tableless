@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/firefox_queimando_tudo";s:7:"tinyurl";s:26:"http://tinyurl.com/4x6nz3n";s:4:"isgd";s:19:"http://is.gd/CvR6fc";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031832
+dsq_thread_id: 503031832
 
 ---
 Depois de dois dias que o Firefox 1.0 foi disponibilizado para downloads, ele alcançou a marca de Meio Milhão de downloads. A meta deles era alcançar 1 Milhão em 10 dias!

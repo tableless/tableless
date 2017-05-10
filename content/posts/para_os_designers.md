@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/para_os_designers";s:7:"tinyurl";s:26:"http://tinyurl.com/42ufdtg";s:4:"isgd";s:19:"http://is.gd/eM11jj";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032081
+dsq_thread_id: 503032081
 
 ---
 Muitos designers acham que fazer sites seguindos os Web Standards vai limitar a as possibilidades de se fazer layout, resultando num site todo quadrado, com cara de portal do século passado. A coisa não é bem assim, e digo que é totalmente o contrário&#8230; Os Web Standards dão mais liberdade e idéias novas para o layout. Por isso, segue abaixo uma lista de links que não fazem outra coisa além de listar belos sites que seguem os Web Standards. 

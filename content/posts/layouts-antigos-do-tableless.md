@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/layouts-antigos-do-tableless/";s:7:"tinyurl";s:26:"http://tinyurl.com/7ladry3";s:4:"isgd";s:19:"http://is.gd/xAJNDR";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 615400908
+dsq_thread_id: 615400908
 categories:
   - Artigos
   - Geral

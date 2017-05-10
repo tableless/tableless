@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/congratulations";s:7:"tinyurl";s:26:"http://tinyurl.com/3bczetm";s:4:"isgd";s:19:"http://is.gd/UgYB4J";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 532239682
+dsq_thread_id: 532239682
 
 ---
 Opa, esqueci de uma coisa importante&#8230;

@@ -5,8 +5,7 @@ type: post
 date: 2013-04-21
 excerpt: Apresentações sobre Javascript.
 url: /slide-para-devs-6-js/
-dsq_thread_id:
-  - 1227162092
+dsq_thread_id: 1227162092
 categories:
   - JavaScript
   - Slides e Apresentações

@@ -5,8 +5,7 @@ type: post
 date: 2014-06-15
 excerpt: Um pouco sobre como o mercado web vem crescendo e como os profissionais devem sempre acompanhar este crescimento e suas as tendências.
 url: /o-crescimento-da-web-e-as-tendencias-de-mercado/
-dsq_thread_id:
-  - 2740261411
+dsq_thread_id: 2740261411
 categories:
   - Artigos
   - Mercado e Comportamento

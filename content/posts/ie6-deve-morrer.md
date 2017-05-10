@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/ie6-deve-morrer";s:7:"tinyurl";s:26:"http://tinyurl.com/3qujrx4";s:4:"isgd";s:19:"http://is.gd/lde5J5";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036853
+dsq_thread_id: 503036853
 categories:
   - Browsers
   - Geral

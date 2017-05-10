@@ -5,8 +5,7 @@ type: post
 date: 2014-08-26
 excerpt: Conheça 7 plugins de Sublime Text que podem ajudar a sua produtividade diária.
 url: /7-plugins-sublime-text-que-voce-deveria-conhecer/
-dsq_thread_id:
-  - 2938770245
+dsq_thread_id: 2938770245
 categories:
   - Código
   - Editores

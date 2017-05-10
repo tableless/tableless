@@ -15,8 +15,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/pulga-na-cueca-html5";s:7:"tinyurl";s:26:"http://tinyurl.com/3ny8bla";s:4:"isgd";s:19:"http://is.gd/VasxeW";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038968
+dsq_thread_id: 503038968
 categories:
   - Artigos
   - HTML

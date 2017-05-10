@@ -5,8 +5,7 @@ type: post
 date: 2013-04-18
 excerpt: Para iniciantes, entenda como o Prepared Statements funciona no MySQL.
 url: /prepared-statements-no-mysql/
-dsq_thread_id:
-  - 1219210821
+dsq_thread_id: 1219210821
 categories:
   - Técnicas e Práticas
 

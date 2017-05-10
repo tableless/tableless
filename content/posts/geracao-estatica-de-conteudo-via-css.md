@@ -5,8 +5,7 @@ type: post
 date: 2013-12-02
 excerpt: Entenda como funciona a geração de conteúdo automática via CSS usando a propriedade content.
 url: /geracao-estatica-de-conteudo-via-css/
-dsq_thread_id:
-  - 2016960956
+dsq_thread_id: 2016960956
 categories:
   - CSS
   - CSS3

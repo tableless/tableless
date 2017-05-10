@@ -15,8 +15,7 @@ twittercomments:
   - 'a:2:{i:33228918613868546;s:6:"136995";i:33229249532014592;s:6:"136996";}'
 tweetcount:
   - 2
-dsq_thread_id:
-  - 503026001
+dsq_thread_id: 503026001
 categories:
   - CSS
   - HTML

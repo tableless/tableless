@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:77:"http://tableless.com.br/coisas-uteis-que-nao-funcionam-no-ie-4-position-fixed";s:7:"tinyurl";s:26:"http://tinyurl.com/3u8rfrv";s:4:"isgd";s:19:"http://is.gd/sbzce4";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036557
+dsq_thread_id: 503036557
 categories:
   - Tecnologia e Tendências
 tags:

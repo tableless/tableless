@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/alistapart_novo_em_folha";s:7:"tinyurl";s:26:"http://tinyurl.com/3wks4g6";s:4:"isgd";s:19:"http://is.gd/i3ZCFT";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033400
+dsq_thread_id: 503033400
 tags:
   - cotidiano
 

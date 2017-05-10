@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/css_table_gallery";s:7:"tinyurl";s:26:"http://tinyurl.com/3n75wbs";s:4:"isgd";s:19:"http://is.gd/8JRg77";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033508
+dsq_thread_id: 503033508
 categories:
   - Geral
 

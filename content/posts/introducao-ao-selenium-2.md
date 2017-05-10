@@ -5,8 +5,7 @@ type: post
 date: 2013-12-18
 excerpt: Entenda mais sobre Selenium e entenda como ele pode ajudar em aplicações web.
 url: /introducao-ao-selenium-2/
-dsq_thread_id:
-  - 2039029598
+dsq_thread_id: 2039029598
 categories:
   - JavaScript
   - Técnicas e Práticas

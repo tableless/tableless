@@ -5,8 +5,7 @@ type: post
 date: 2013-08-20
 excerpt: Por que cliente ruim, ninguém quer.
 url: /como-evitar-maus-clientes/
-dsq_thread_id:
-  - 1620374846
+dsq_thread_id: 1620374846
 categories:
   - Artigos
   - Geral

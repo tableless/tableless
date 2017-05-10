@@ -12,8 +12,7 @@ twittercomments:
   - 'a:2:{i:9926025068675072;s:7:"retweet";i:22387968777916416;s:7:"retweet";}'
 tweetcount:
   - 2
-dsq_thread_id:
-  - 503037781
+dsq_thread_id: 503037781
 categories:
   - Geral
 tags:

@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5718";s:7:"tinyurl";s:26:"http://tinyurl.com/86m5kxl";s:4:"isgd";s:19:"http://is.gd/ithSF5";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 617869992
+dsq_thread_id: 617869992
 categories:
   - Acessibilidade
   - Adaptive Web Design (AWD)

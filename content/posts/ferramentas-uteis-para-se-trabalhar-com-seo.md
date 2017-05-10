@@ -4,8 +4,7 @@ author: Douglas Faria
 type: post
 date: 2013-10-23
 url: /ferramentas-uteis-para-se-trabalhar-com-seo/
-dsq_thread_id:
-  - 1890740877
+dsq_thread_id: 1890740877
 categories:
   - SEO
 

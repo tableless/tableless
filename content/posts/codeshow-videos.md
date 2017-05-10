@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/codeshow-videos";s:7:"tinyurl";s:26:"http://tinyurl.com/3clpom2";s:4:"isgd";s:19:"http://is.gd/1C3hB7";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037415
+dsq_thread_id: 503037415
 categories:
   - Geral
   - Vídeos Tutoriais

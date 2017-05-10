@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/se-virando-pra-testar-parte-1-screenshots";s:7:"tinyurl";s:26:"http://tinyurl.com/4xbc3a5";s:4:"isgd";s:19:"http://is.gd/3w2hBq";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036293
+dsq_thread_id: 503036293
 categories:
   - Artigos
   - Browsers

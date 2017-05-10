@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/mobile_life-2";s:7:"tinyurl";s:26:"http://tinyurl.com/43wj8kn";s:4:"isgd";s:19:"http://is.gd/7p8s27";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033827
+dsq_thread_id: 503033827
 categories:
   - Tecnologia e Tendências
 tags:

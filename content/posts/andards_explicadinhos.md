@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:14711303142637568;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 534802671
+dsq_thread_id: 534802671
 
 ---
 Boa parte da relutância em adotar os padrões web pode ser atribuída à ignorância e preconceito dos desenvolvedores em relação a estes padrões. A época da guerra dos browsers, e aquele monte de tabelas aninhadas deixou muita gente com horror de HTML. Por isso estou tentando colocar sempre aqui exemplos de bons sites construídos com padrões. Os de hoje: [Inc.com][1] e [Asset Surveillance][2].

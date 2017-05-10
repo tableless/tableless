@@ -4,8 +4,7 @@ author: Reinaldo Ferraz
 type: post
 date: 2013-09-30
 url: /prorrogadas-inscricoes-para-o-premio-nacional-de-acessibilidade-na-web/
-dsq_thread_id:
-  - 1811572486
+dsq_thread_id: 1811572486
 categories:
   - Acessibilidade
   - Geral

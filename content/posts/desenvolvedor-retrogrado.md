@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/desenvolvedor-retrogrado";s:7:"tinyurl";s:26:"http://tinyurl.com/3nv58jk";s:4:"isgd";s:19:"http://is.gd/FxEx9E";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037355
+dsq_thread_id: 503037355
 categories:
   - Artigos
   - Tecnologia e Tendências

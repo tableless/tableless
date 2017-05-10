@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/comunidade-tableless-ao-vivo-e-se-mexendo";s:7:"tinyurl";s:26:"http://tinyurl.com/4y8t3ze";s:4:"isgd";s:19:"http://is.gd/KOUVF8";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037009
+dsq_thread_id: 503037009
 categories:
   - Tecnologia e Tendências
 tags:

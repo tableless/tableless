@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/opera-mobile-passa-no-acid2";s:7:"tinyurl";s:26:"http://tinyurl.com/3ewasvn";s:4:"isgd";s:19:"http://is.gd/uDOFXR";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035407
+dsq_thread_id: 503035407
 categories:
   - Browsers
 tags:

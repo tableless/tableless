@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:54:"http://tableless.com.br/convertidos-tableless-de-volta";s:7:"tinyurl";s:26:"http://tinyurl.com/3hqcqk5";s:4:"isgd";s:19:"http://is.gd/ygDJWY";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503016262
+dsq_thread_id: 503016262
 categories:
   - Convertidos
   - Tecnologia e Tendências

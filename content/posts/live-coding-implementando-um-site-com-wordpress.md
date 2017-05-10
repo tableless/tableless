@@ -5,8 +5,7 @@ type: post
 date: 2014-01-13
 excerpt: Assista o segundo Micro Workshop com Live Coding do Tableless. Desta vez iremos implementar um site em Wordpress.
 url: /live-coding-implementando-um-site-com-wordpress/
-dsq_thread_id:
-  - 2116177774
+dsq_thread_id: 2116177774
 categories:
   - Eventos e Workshops
 tags:

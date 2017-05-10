@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/construindo_sites_com_padroes";s:7:"tinyurl";s:26:"http://tinyurl.com/3umop4y";s:4:"isgd";s:19:"http://is.gd/82H3qp";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031476
+dsq_thread_id: 503031476
 categories:
   - Artigos
   - Técnicas e Práticas

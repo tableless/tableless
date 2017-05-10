@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5346";s:7:"tinyurl";s:26:"http://tinyurl.com/7h7b62q";s:4:"isgd";s:19:"http://is.gd/5AZaDk";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 560144937
+dsq_thread_id: 560144937
 categories:
   - Artigos
   - Código

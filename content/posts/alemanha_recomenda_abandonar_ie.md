@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/alemanha_recomenda_abandonar_ie";s:7:"tinyurl";s:26:"http://tinyurl.com/3zjdc66";s:4:"isgd";s:19:"http://is.gd/no1Ey6";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031819
+dsq_thread_id: 503031819
 
 ---
 [Alemanha recomenda abandono do Internet Explorer][1]

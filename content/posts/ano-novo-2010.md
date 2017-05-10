@@ -15,8 +15,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/ano-novo-2010";s:7:"tinyurl";s:26:"http://tinyurl.com/3fkopk2";s:4:"isgd";s:19:"http://is.gd/zfQgLZ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039265
+dsq_thread_id: 503039265
 categories:
   - Geral
 tags:

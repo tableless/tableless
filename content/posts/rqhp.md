@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:34:"http://tableless.com.br/wiki_arqhp";s:7:"tinyurl";s:26:"http://tinyurl.com/3pjmpon";s:4:"isgd";s:19:"http://is.gd/q0vPOb";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031583
+dsq_thread_id: 503031583
 
 ---
 Conheça e participe do [Wiki

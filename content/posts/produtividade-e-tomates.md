@@ -5,8 +5,7 @@ type: post
 date: 2014-05-26
 excerpt: Conheça a Técnica Pomodoro, aprenda a gerenciar melhor seu tempo e entenda como fazer mais pausas pode te deixar mais produtivo.
 url: /produtividade-e-tomates/
-dsq_thread_id:
-  - 2707948617
+dsq_thread_id: 2707948617
 categories:
   - Artigos
   - Técnicas e Práticas

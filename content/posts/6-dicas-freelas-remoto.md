@@ -5,8 +5,7 @@ type: post
 date: 2014-03-24
 excerpt: Você tem uma série de disciplinas que fazem você ser um dev melhor trabalhando remoto e apurando seu senso de responsabilidade
 url: /6-dicas-freelas-remoto/
-dsq_thread_id:
-  - 2498387957
+dsq_thread_id: 2498387957
 categories:
   - Artigos
   - Mercado e Comportamento

@@ -26,8 +26,7 @@ twittercomments:
   - 'a:11:{i:42560043203297280;s:6:"137118";i:43316666813255680;s:7:"retweet";i:42625458252152833;s:7:"retweet";i:42611223719710721;s:7:"retweet";i:42274535524941824;s:7:"retweet";i:158344326567563265;s:7:"retweet";i:158334064301051906;s:7:"retweet";i:161270009056854016;s:7:"retweet";i:161268687138074624;s:7:"retweet";i:161266676048986112;s:7:"retweet";i:161261199563038721;s:7:"retweet";}'
 tweetcount:
   - 23
-dsq_thread_id:
-  - 503040047
+dsq_thread_id: 503040047
 categories:
   - Código
   - CSS

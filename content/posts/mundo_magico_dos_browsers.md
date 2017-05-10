@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/mundo_magico_dos_browsers";s:7:"tinyurl";s:26:"http://tinyurl.com/3ogf5qk";s:4:"isgd";s:19:"http://is.gd/Zz01sF";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032397
+dsq_thread_id: 503032397
 categories:
   - Artigos
   - Browsers

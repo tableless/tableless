@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7500";s:7:"tinyurl";s:26:"http://tinyurl.com/ac4b65d";s:4:"isgd";s:19:"http://is.gd/G54CyQ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 970541542
+dsq_thread_id: 970541542
 categories:
   - Design
   - O Básico

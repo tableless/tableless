@@ -8,8 +8,7 @@ excerpt: |
     Já parou pra pensar que aquele background que você utilizava ‘repeat’ que sobrecarregava seu site e nunca ficava perfeito?
     Vamos ver como podemos criar fundos listrados sem a utilização de imagens!
 url: /criando-listras-com-css3/
-dsq_thread_id:
-  - 2648259341
+dsq_thread_id: 2648259341
 categories:
   - CSS
   - CSS3

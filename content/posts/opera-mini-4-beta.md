@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/opera-mini-4-beta";s:7:"tinyurl";s:26:"http://tinyurl.com/44gum4t";s:4:"isgd";s:19:"http://is.gd/VSATfx";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037282
+dsq_thread_id: 503037282
 categories:
   - Browsers
 

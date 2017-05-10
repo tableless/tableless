@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:50841311602946049;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503031621
+dsq_thread_id: 503031621
 
 ---
 Oba, oba, oba!! Antes de falar das novidades, gostaríamos de dar um **Feliz

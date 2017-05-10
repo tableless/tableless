@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:74:"http://tableless.com.br/se-virando-para-testar-parte-3-ies4osx-e-ies4linux";s:7:"tinyurl";s:26:"http://tinyurl.com/3cn3al5";s:4:"isgd";s:19:"http://is.gd/1OBs5J";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037673
+dsq_thread_id: 503037673
 categories:
   - Browsers
 tags:

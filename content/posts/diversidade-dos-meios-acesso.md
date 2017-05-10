@@ -15,8 +15,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/diversidade-dos-meios-acesso";s:7:"tinyurl";s:26:"http://tinyurl.com/3sjagje";s:4:"isgd";s:19:"http://is.gd/Mqc5VK";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039255
+dsq_thread_id: 503039255
 categories:
   - Artigos
   - Browsers

@@ -12,8 +12,7 @@ twittercomments:
   - 'a:5:{i:60816657643347969;s:7:"retweet";i:60719609694793729;s:7:"retweet";i:60718165147131904;s:7:"retweet";i:60717851274788864;s:7:"retweet";i:60716837733810176;s:7:"retweet";}'
 tweetcount:
   - 5
-dsq_thread_id:
-  - 503032793
+dsq_thread_id: 503032793
 
 ---
 Quem já teve um pouco de dor de cabeça para fazer um Menu Dropdown, vai gostar dos links abaixo. 

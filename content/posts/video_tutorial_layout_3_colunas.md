@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/video_tutorial_layout_3_colunas";s:7:"tinyurl";s:26:"http://tinyurl.com/3pwedbb";s:4:"isgd";s:19:"http://is.gd/Lvxnx9";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032174
+dsq_thread_id: 503032174
 categories:
   - Geral
   - Vídeos Tutoriais

@@ -5,8 +5,7 @@ type: post
 date: 2014-02-20
 excerpt: A futura implementação do Javascript Harmony capaz de observar e notificar aplicações sobre as mudanças ocorridas em objetos Javascript.
 url: /javascript-observe/
-dsq_thread_id:
-  - 2277082767
+dsq_thread_id: 2277082767
 categories:
   - Código
   - JavaScript

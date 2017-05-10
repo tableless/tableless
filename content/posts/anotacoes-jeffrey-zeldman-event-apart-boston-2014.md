@@ -5,8 +5,7 @@ type: post
 date: 2014-04-29
 excerpt: O que consegui anotar da palestra do Jeffrey Zeldman no An Event Apart Boston em 2014.
 url: /anotacoes-jeffrey-zeldman-event-apart-boston-2014/
-dsq_thread_id:
-  - 2646438105
+dsq_thread_id: 2646438105
 categories:
   - Eventos e Workshops
   - Slides e Apresentações

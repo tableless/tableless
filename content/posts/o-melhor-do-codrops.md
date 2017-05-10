@@ -5,8 +5,7 @@ type: post
 date: 2013-07-02
 excerpt: Confira uma coletânea dos melhores artigos e tutoriais lançados no Codrops, blog sobre desenvolvimento web com grande foco em interfaces.
 url: /o-melhor-do-codrops/
-dsq_thread_id:
-  - 1454722711
+dsq_thread_id: 1454722711
 categories:
   - Código
 

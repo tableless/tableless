@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:64:"http://tableless.com.br/sites-para-dispositivos-moveis-mediatype";s:7:"tinyurl";s:26:"http://tinyurl.com/3wtrl9k";s:4:"isgd";s:19:"http://is.gd/D4Y2kX";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503037689
+dsq_thread_id: 503037689
 categories:
   - Artigos
   - Mobile

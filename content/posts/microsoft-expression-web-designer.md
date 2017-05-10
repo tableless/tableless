@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/microsoft-expression-web-designer";s:7:"tinyurl";s:26:"http://tinyurl.com/3hhe79a";s:4:"isgd";s:19:"http://is.gd/uBwYMD";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035331
+dsq_thread_id: 503035331
 categories:
   - Geral
 tags:

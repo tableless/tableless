@@ -5,8 +5,7 @@ type: post
 date: 2014-04-10
 excerpt: Bower Gerenciador de pacotes muito usado e Polymer o novo polyfill do Google para Web Components.
 url: /configurando-bower-e-polymer-2/
-dsq_thread_id:
-  - 2596690540
+dsq_thread_id: 2596690540
 categories:
   - Tecnologia e Tendências
 tags:

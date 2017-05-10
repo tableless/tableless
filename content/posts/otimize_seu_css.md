@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:15791271243157505;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503032803
+dsq_thread_id: 503032803
 
 ---
 [Css Optmizer][1] 

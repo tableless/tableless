@@ -17,8 +17,7 @@ twittercomments:
   - 'a:1:{i:10054590510669825;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 503016228
+dsq_thread_id: 503016228
 categories:
   - Convertidos
 tags:

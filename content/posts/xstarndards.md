@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:34:"http://tableless.com.br/xstandards";s:7:"tinyurl";s:26:"http://tinyurl.com/3qcqoxz";s:4:"isgd";s:19:"http://is.gd/B9N0lK";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032071
+dsq_thread_id: 503032071
 
 ---
 A [Simone][1] me enviou um link muito interessante:

@@ -12,8 +12,7 @@ twittercomments:
   - 'a:1:{i:52617799121641472;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 521824625
+dsq_thread_id: 521824625
 
 ---
 Algumas pessoas que viram nosso artigo na [MacMania][1] de dezembro, o segundo da série,

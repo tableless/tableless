@@ -11,8 +11,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7022";s:7:"tinyurl";s:26:"http://tinyurl.com/9nvk4om";s:4:"isgd";s:19:"http://is.gd/liUWge";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 865932208
+dsq_thread_id: 865932208
 categories:
   - CSS3
   - Técnicas e Práticas

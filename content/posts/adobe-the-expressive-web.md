@@ -13,8 +13,7 @@ twittercomments:
   - 'a:4:{i:202070037849321472;s:7:"retweet";i:201008425042329600;s:7:"retweet";i:201003761940963328;s:7:"retweet";i:200998002398208002;s:7:"retweet";}'
 tweetcount:
   - 10
-dsq_thread_id:
-  - 685653414
+dsq_thread_id: 685653414
 categories:
   - Código
   - Mercado e Comportamento

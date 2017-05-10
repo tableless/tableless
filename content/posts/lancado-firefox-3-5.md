@@ -15,8 +15,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/lancado-firefox-3-5";s:7:"tinyurl";s:26:"http://tinyurl.com/42cvtal";s:4:"isgd";s:19:"http://is.gd/umV7VH";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039087
+dsq_thread_id: 503039087
 categories:
   - Browsers
   - CSS

@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bradesco_convertido";s:7:"tinyurl";s:26:"http://tinyurl.com/3pcxn77";s:4:"isgd";s:19:"http://is.gd/Zcab8s";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503032947
+dsq_thread_id: 503032947
 categories:
   - Convertidos
   - Geral

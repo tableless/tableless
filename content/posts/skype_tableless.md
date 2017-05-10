@@ -12,8 +12,7 @@ twittercomments:
   - 'a:2:{i:42790358228275200;s:7:"retweet";i:42710758055882752;s:7:"retweet";}'
 tweetcount:
   - 2
-dsq_thread_id:
-  - 503031899
+dsq_thread_id: 503031899
 
 ---
 Não havia visto ainda. Mas o site do [Skype][1] mudou o design. Fizeram um redesign show, o site ficou muito mais bonito. E que legal, eles seguem os padrões.

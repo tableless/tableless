@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/revolucao_css";s:7:"tinyurl";s:26:"http://tinyurl.com/3krzw36";s:4:"isgd";s:19:"http://is.gd/jTOm6R";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033610
+dsq_thread_id: 503033610
 
 ---
 Ótima iniciativa do [Henrique Costa][1]. Ele criou o site [Revolução do CSS][2]&#8230; é um [CSS Zen Garden][3], só que brasileiro. 

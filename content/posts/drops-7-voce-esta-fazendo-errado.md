@@ -13,8 +13,7 @@ twittercomments:
   - 'a:5:{i:189835085850230784;s:7:"retweet";i:207457890720681984;s:7:"retweet";i:207457392496091136;s:7:"retweet";i:207456786591137793;s:7:"retweet";i:223405467848818689;s:7:"retweet";}'
 tweetcount:
   - 5
-dsq_thread_id:
-  - 637139220
+dsq_thread_id: 637139220
 categories:
   - Drops
   - Mercado e Comportamento

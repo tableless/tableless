@@ -5,8 +5,7 @@ type: post
 date: 2014-03-15
 excerpt: Veremos neste artigo como criar um slideshow do zero apenas com javascript e uma doze elegante de css3.
 url: /criando-slideshow-zero-com-javascript-puro-2/
-dsq_thread_id:
-  - 2310599889
+dsq_thread_id: 2310599889
 categories:
   - JavaScript
 tags:

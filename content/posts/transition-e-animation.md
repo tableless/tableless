@@ -5,8 +5,7 @@ type: post
 date: 2013-04-19
 excerpt: Um guia rápido pra você entender e começar a usar essas duas propriedades do CSS3.
 url: /transition-e-animation/
-dsq_thread_id:
-  - 1212379971
+dsq_thread_id: 1212379971
 titulo_personalizado:
   - 'Entendendo de fato as <strong>animações no CSS</strong>'
 categories:

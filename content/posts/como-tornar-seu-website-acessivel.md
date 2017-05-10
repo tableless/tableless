@@ -13,8 +13,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/como-tornar-seu-website-acessivel";s:7:"tinyurl";s:26:"http://tinyurl.com/3ccl9so";s:4:"isgd";s:19:"http://is.gd/9K4DaG";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039664
+dsq_thread_id: 503039664
 categories:
   - Acessibilidade
   - Artigos

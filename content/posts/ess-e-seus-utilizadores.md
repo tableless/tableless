@@ -5,8 +5,7 @@ type: post
 date: 2013-11-14
 excerpt: Quem são os envolvidos no contexto de criação de projetos baseados em WordPress? Como diferentes profissões podem usar e tirar proveito do CMS?
 url: /wordpress-e-seus-utilizadores/
-dsq_thread_id:
-  - 1929518585
+dsq_thread_id: 1929518585
 categories:
   - Wordpress
 tags:

@@ -13,8 +13,7 @@ twittercomments:
   - 'a:2:{i:144739315350650880;s:7:"retweet";i:152895559601106945;s:7:"retweet";}'
 tweetcount:
   - 2
-dsq_thread_id:
-  - 503040345
+dsq_thread_id: 503040345
 categories:
   - AJAX
   - Código

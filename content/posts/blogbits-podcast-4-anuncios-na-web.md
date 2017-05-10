@@ -15,8 +15,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/blogbits-podcast-4-anuncios-na-web";s:7:"tinyurl";s:26:"http://tinyurl.com/3dhq2pn";s:4:"isgd";s:19:"http://is.gd/Ka5evi";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035040
+dsq_thread_id: 503035040
 categories:
   - Podcasts
 tags:

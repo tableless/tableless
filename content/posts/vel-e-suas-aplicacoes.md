@@ -5,8 +5,7 @@ type: post
 date: 2013-01-07
 excerpt: A implantação generalizada da web em dispositivos móveis torna um alvo de escolha para criadores de conteúdo.
 url: /web-movel-e-suas-aplicacoes/
-dsq_thread_id:
-  - 1010142253
+dsq_thread_id: 1010142253
 categories:
   - HTML
   - JavaScript

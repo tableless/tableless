@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:71:"http://tableless.com.br/se-virando-pra-testar-parte-2-desktops-virtuais";s:7:"tinyurl";s:26:"http://tinyurl.com/4376pxw";s:4:"isgd";s:19:"http://is.gd/a0fc5B";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036311
+dsq_thread_id: 503036311
 categories:
   - Artigos
   - Browsers

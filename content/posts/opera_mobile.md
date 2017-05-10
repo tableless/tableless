@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:36:"http://tableless.com.br/opera_mobile";s:7:"tinyurl";s:26:"http://tinyurl.com/3u295ee";s:4:"isgd";s:19:"http://is.gd/UiJrqJ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 536656809
+dsq_thread_id: 536656809
 
 ---
 Não é só o Firefox que pode ficar feliz. O Opera para Mobile também deve!

@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/podcast_especial2";s:7:"tinyurl";s:26:"http://tinyurl.com/4xmk2ch";s:4:"isgd";s:19:"http://is.gd/H20aOb";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033251
+dsq_thread_id: 503033251
 categories:
   - Podcasts
 

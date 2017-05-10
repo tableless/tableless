@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/o-loop-do-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/3pnfjl3";s:4:"isgd";s:19:"http://is.gd/4R1Scy";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503038097
+dsq_thread_id: 503038097
 categories:
   - Técnicas e Práticas
   - Wordpress

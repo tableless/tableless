@@ -5,8 +5,7 @@ type: post
 date: 2013-01-07
 excerpt: 'Um Framework pode ser o responsável pelo sucesso da sua aplicação e lhe poupar milhares de dólares, assim como pode representar o gargalo do desenvolvimento do seu produto e levar o seu projeto ao fracasso. '
 url: /criando-seu-framework-html-css/
-dsq_thread_id:
-  - 995672744
+dsq_thread_id: 995672744
 categories:
   - Código
   - CSS

@@ -5,8 +5,7 @@ type: post
 date: 2014-01-20
 excerpt: Automatize suas tarefas repetitivas de forma simples e rápida.
 url: /gulp-o-novo-automatizador/
-dsq_thread_id:
-  - 2130313189
+dsq_thread_id: 2130313189
 categories:
   - JavaScript
 tags:

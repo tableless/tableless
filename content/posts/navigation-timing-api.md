@@ -5,8 +5,7 @@ type: post
 date: 2013-03-14
 excerpt: A Navigation Timing API é uma nova especificação do W3C para lidar com aferição de performance de modo mais efetivo em páginas web.
 url: /navigation-timing-api/
-dsq_thread_id:
-  - 1136701493
+dsq_thread_id: 1136701493
 categories:
   - Código
   - JavaScript

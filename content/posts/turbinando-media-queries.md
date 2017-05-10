@@ -5,8 +5,7 @@ type: post
 date: 2013-12-12
 excerpt: Entenda um pouco mais sobre como melhorar o gerenciamento de breakpoints com SASS.
 url: /turbinando-media-queries/
-dsq_thread_id:
-  - 2037688855
+dsq_thread_id: 2037688855
 categories:
   - CSS
   - Pré-processadores

@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/um_novo_conceito_browser";s:7:"tinyurl";s:26:"http://tinyurl.com/3b2yg93";s:4:"isgd";s:19:"http://is.gd/AsRfml";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033767
+dsq_thread_id: 503033767
 categories:
   - Artigos
   - Browsers

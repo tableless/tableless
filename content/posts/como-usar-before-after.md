@@ -7,8 +7,7 @@ excerpt: Como utilizar os pseudo-elementos :before e :after com a propriedade co
 url: /como-usar-before-after/
 tweetbackscheck:
   - 1356409155
-dsq_thread_id:
-  - 776755199
+dsq_thread_id: 776755199
 shorturls:
   - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/como-usar-before-after/";s:7:"tinyurl";s:26:"http://tinyurl.com/d8fuy2s";s:4:"isgd";s:19:"http://is.gd/veZvuf";}'
 twittercomments:

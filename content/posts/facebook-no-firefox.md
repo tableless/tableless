@@ -13,8 +13,7 @@ twittercomments:
   - 'a:1:{i:282898863298330625;s:7:"retweet";}'
 tweetcount:
   - 1
-dsq_thread_id:
-  - 988915320
+dsq_thread_id: 988915320
 categories:
   - Notícias
 

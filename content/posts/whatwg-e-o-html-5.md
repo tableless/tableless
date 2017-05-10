@@ -12,8 +12,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/whatwg-e-o-html-5";s:7:"tinyurl";s:26:"http://tinyurl.com/3mmo2nd";s:4:"isgd";s:19:"http://is.gd/22oCIw";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036666
+dsq_thread_id: 503036666
 categories:
   - Código
   - HTML

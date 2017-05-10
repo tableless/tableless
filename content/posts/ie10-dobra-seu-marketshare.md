@@ -5,8 +5,7 @@ type: post
 date: 2013-05-01
 excerpt: IE10 aumenta seu MarketShare, talvez por causa das vendas do Windows 8.
 url: /ie10-dobra-seu-marketshare/
-dsq_thread_id:
-  - 1251829834
+dsq_thread_id: 1251829834
 categories:
   - Notícias
 tags:

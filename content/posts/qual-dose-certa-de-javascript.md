@@ -5,8 +5,7 @@ type: post
 date: 2014-02-03
 excerpt: Um pouco de JavaScript não obstrusivo e quais as estratégias para garantir uma boa performance e acessibilidade em aplicações ricas.
 url: /qual-dose-certa-de-javascript/
-dsq_thread_id:
-  - 2214033807
+dsq_thread_id: 2214033807
 categories:
   - Artigos
   - JavaScript

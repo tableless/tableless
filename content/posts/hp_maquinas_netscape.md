@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/hp_maquinas_netscape";s:7:"tinyurl";s:26:"http://tinyurl.com/3cs6uzc";s:4:"isgd";s:19:"http://is.gd/KXOpTD";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503033697
+dsq_thread_id: 503033697
 categories:
   - Browsers
 tags:

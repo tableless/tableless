@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/browsers-e-seus-diferenciais";s:7:"tinyurl";s:26:"http://tinyurl.com/3pnebgh";s:4:"isgd";s:19:"http://is.gd/ZQasFZ";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503035857
+dsq_thread_id: 503035857
 categories:
   - Browsers
   - Tecnologia e Tendências

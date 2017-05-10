@@ -5,8 +5,7 @@ type: post
 date: 2013-05-15
 excerpt: Informações para iniciantes no Tableless.
 url: /para-iniciantes/
-dsq_thread_id:
-  - 1290263927
+dsq_thread_id: 1290263927
 categories:
   - O Básico
 tags:

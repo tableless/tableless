@@ -14,8 +14,7 @@ twittercomments:
   - 'a:2:{i:126273018505859072;s:7:"retweet";i:126265157579046912;s:7:"retweet";}'
 tweetcount:
   - 3
-dsq_thread_id:
-  - 503038544
+dsq_thread_id: 503038544
 categories:
   - Técnicas e Práticas
   - Wordpress

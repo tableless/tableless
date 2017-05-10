@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/e-ano-que-vem";s:7:"tinyurl";s:26:"http://tinyurl.com/3j64g7m";s:4:"isgd";s:19:"http://is.gd/Z2rzJV";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503036456
+dsq_thread_id: 503036456
 categories:
   - Geral
   - Tecnologia e Tendências

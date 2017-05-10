@@ -13,8 +13,7 @@ twittercomments:
   - 'a:10:{i:127188376863518722;s:7:"retweet";i:126465282385522690;s:7:"retweet";i:126348029631533056;s:7:"retweet";i:126347228095848448;s:7:"retweet";i:126345823905783808;s:7:"retweet";i:126341375041085440;s:7:"retweet";i:155242144943190018;s:7:"retweet";i:155229542263422976;s:7:"retweet";i:160165094976798720;s:7:"retweet";i:169916451069763584;s:7:"retweet";}'
 tweetcount:
   - 21
-dsq_thread_id:
-  - 503027964
+dsq_thread_id: 503027964
 categories:
   - Acessibilidade
   - Browsers

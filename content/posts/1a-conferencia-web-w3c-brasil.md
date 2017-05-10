@@ -15,8 +15,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/1a-conferencia-web-w3c-brasil";s:7:"tinyurl";s:26:"http://tinyurl.com/3fjtmun";s:4:"isgd";s:19:"http://is.gd/BDHMzC";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503039198
+dsq_thread_id: 503039198
 categories:
   - Código
   - Geral

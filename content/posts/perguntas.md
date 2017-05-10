@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/perguntas";s:7:"tinyurl";s:26:"http://tinyurl.com/3ekjrbf";s:4:"isgd";s:19:"http://is.gd/eD0Apc";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 503031879
+dsq_thread_id: 503031879
 
 ---
 Recebo muitas perguntas por email, e quase sempre não consigo responder a todas. Por isso, tive a seguinte idéia: Pelo menos 1 vez por semana, irei selecionar pelo menos 1 pergunta e disponibilizarei junto com a resposta (claro) aqui no blog. Isso será útil, pois muitas pessoas tem perguntas semelhantes, então poderão ser respondidas. 

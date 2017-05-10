@@ -10,8 +10,7 @@ shorturls:
   - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/ache_podcasts";s:7:"tinyurl";s:26:"http://tinyurl.com/3g2od3g";s:4:"isgd";s:19:"http://is.gd/oCbIz5";}'
 twittercomments:
   - 'a:0:{}'
-dsq_thread_id:
-  - 675677302
+dsq_thread_id: 675677302
 categories:
   - Podcasts
 

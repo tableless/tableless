@@ -5,8 +5,7 @@ type: post
 date: 2013-03-20
 excerpt: Não há mais motivo para você usar nenhum gerador automático de gradiente depois desse GUIA DEFINITIVO DE COMO USAR LINEAR-GRADIENT. Vem comigo e vamos codar.
 url: /como-usar-gradient-no-css-de-forma-consciente/
-dsq_thread_id:
-  - 1152407042
+dsq_thread_id: 1152407042
 categories:
   - CSS3
   - Geral

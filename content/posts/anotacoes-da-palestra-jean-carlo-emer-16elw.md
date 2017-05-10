@@ -5,8 +5,7 @@ type: post
 date: 2014-05-21
 excerpt: Minhas anotações da palestra do Jean Carlo Emer sobre práticas e truques com HTML e CSS.
 url: /anotacoes-da-palestra-jean-carlo-emer-16elw/
-dsq_thread_id:
-  - 2702125206
+dsq_thread_id: 2702125206
 categories:
   - Eventos e Workshops
   - Slides e Apresentações
