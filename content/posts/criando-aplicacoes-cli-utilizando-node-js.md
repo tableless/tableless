@@ -5,6 +5,7 @@ type: post
 date: 2016-05-03
 url: /criando-aplicacoes-cli-utilizando-node-js/
 categories:
+  - nodejs
   - Back-end
   - Código
   - JavaScript
@@ -19,7 +20,7 @@ Este tipo de aplicação é contrária as `GUI Applications` ou `Graphical User 
 ## Por que utilizar CLI?
 
 Um dos principais motivos é a agilidade com que algumas tarefas podem ser executadas. Por utilizar apenas texto, algumas tarefas triviais são mais simples de serem executadas. Por exemplo, para copiar todos os arquivos com terminação `.js` de um diretório para outro:
-  
+
 **GUI:**
 
   1. Abrir o gerenciador de arquivos
@@ -133,7 +134,7 @@ var search    = querystring.stringify({ address: arguments })
 https
   .get('https://maps.googleapis.com/maps/api/geocode/json?' + search, function(res){
     var data = ''
-    
+
     res.on('data', function(newData){
       data += newData
     });
@@ -145,7 +146,7 @@ https
 </pre>
 
 Na linha 9, estamos fazendo uma chamada https para a API do google maps passando como parâmetro o que foi passado para nossa aplicação.
-  
+
 Na linha 18, obtemos como resultado da busca a Latitude e a Longitude da nossa pesquisa. Por prática estou usando apenas o primeiro resultado, mas sinta-se a vontade para brincar com os resultados da API.
 
 Até agora, geramos um arquivo javascript executável através da linha de comando que faz uma busca na API do Google para um endereço passado como parâmetro.
@@ -168,7 +169,7 @@ var search    = querystring.stringify({ address: arguments })
 https
   .get('https://maps.googleapis.com/maps/api/geocode/json?' + search, function(res){
     var data = ''
-    
+
     res.on('data', function(newData){
       data += newData
     });
@@ -203,7 +204,7 @@ Executando a aplicação após ela estar finalizada:
 
 <img src="http://tableless.com.br/uploads/2016/04/3EFswyb-Imgur.gif" alt="Finalizado a aplicação" width="858" height="152" class="alignnone size-full wp-image-53802" />
 
-## Conclusão 
+## Conclusão
 
 Fazer aplicações que serão executadas na linha de comando com NodeJS é muito simples, e requer conhecimentos apenas da linguagem. Estas aplicações poderão ser executadas em qualquer Sistema Operacional (Windows, Linux, Mac) e podem nos ajudar e muito na resolução de tarefas corriqueiras do dia a dia.
 

@@ -7,6 +7,7 @@ excerpt: Da instalação ao seu primeiro web server com JavaScript.
 url: /o-que-nodejs-primeiros-passos-com-node-js/
 dsq_thread_id: 2877932820
 categories:
+  - nodejs
   - Back-end
   - Código
   - JavaScript
@@ -52,7 +53,7 @@ Escreva o seguinte código no seu arquivo:
 
 <pre class="lang-javascript">var http = require('http');
 http.createServer(function(req,res) {
-  res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' }); 
+  res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' });
   res.end('Olá mundo!');
 }).listen(3000);
 console.log('Servidor iniciado em localhost:3000. Ctrl+C para encerrar…');
@@ -74,7 +75,7 @@ Caso você prefira retornar algum _html_ válido para o navegador, basta alterar
 <pre class="lang-javascript">var http = require('http');
 
 http.createServer(function(req,res) { 
-  res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' }); 
+  res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
   res.end('&lt;h2&gt; Olá mundo! &lt;/h2&gt;');
 }).listen(3000);
 
@@ -104,7 +105,7 @@ Para ilustrar estes conceitos, podemos escrever o nosso exemplo anterior em uma 
 var server = http.createServer();
 
 server.on('request', function(req,res) { 
-  res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' }); 
+  res.writeHead(200, { 'Content-Type': 'text/html; charset=utf-8' });
   res.end('&lt;h2&gt; Olá mundo! &lt;/h2&gt;');
 });
 
@@ -123,7 +124,7 @@ Para mostrar um pouco como isso funciona, vamos um programa que escreve duas fra
 
 <pre class="lang-javascript">var frase;
 
-carregaFrase = function (callback) {  
+carregaFrase = function (callback) {
   setTimeout(function() {
     //Simula leitura da frase no banco de dados.
     frase = "Minha frase obstrutiva";
