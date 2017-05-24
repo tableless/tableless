@@ -8,6 +8,7 @@ url: /gerando-arquivos-estaticos-com-o-middleman/
 dsq_thread_id: 2899659611
 categories:
   - Código
+  - middleman
   - CSS
   - HTML
   - Técnicas e Práticas
@@ -17,6 +18,7 @@ tags:
   - middleman
 
 ---
+
 O Middleman, assim como o [Jekyll][1], serve sites estáticos, sem banco de dados, baseados em puro código HTML e informação. Existem uma [série de sistemas][2] desse tipo e é uma das minhas armas em muitos projetos.
 
 ## Instalando
