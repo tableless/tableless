@@ -29,20 +29,20 @@ Se você ainda não acredita muito nesse tipo de solução, talvez seja a hora d
 ---
 
 ## Mergulhando um pouco mais fundo ##
-Na internet, você encontra milhares de posts explicando como começar um projeto React-Native. Há tutoriais para todos os lados. O framework é simples e qualquer um com poucas horas irá conseguir criar um tela básica. Entretanto, a situação é um pouco diferente quando falamos em integração com aplicações nativas e sobre escalabilidade.
+Na internet, você encontra milhares de posts explicando como começar um projeto React-Native. Há tutoriais para todos os lados. O framework é simples e qualquer um com poucas horas irá conseguir criar uma tela básica. Entretanto, a situação é um pouco diferente quando falamos em integração com aplicações nativas e sobre escalabilidade.
 
 **Nesse post quero sair do óbvio e explorar um cenário diferente. Nada para iniciantes ou desenvolvedores que querem construir aplicações simples.**
 
-**Faremos duas "aplicações" react native rodando em um mesmo aplicativo. Uma sobre a outra.**
+**Faremos duas "aplicações" React-Native rodando em um mesmo aplicativo. Uma sobre a outra.**
 
 ![Overview](https://cdn-images-1.medium.com/max/1600/1*HSZFj9r4EIu4IwbjmF8TXw.png)
 
-Inicialmente você poderá ter dificuldade em visualizar um motivo para construir tal cenário, mas tenha certeza que ao final desse post sua cabeça terá idéias malucas da aplicabilidade dessa brincadeira.
+Inicialmente você poderá ter dificuldade em visualizar um motivo para construir tal cenário, mas tenha certeza que ao final desse post sua cabeça terá ideias malucas da aplicabilidade dessa brincadeira.
 
 
 
 ## Começando ##
-Depois do ambiente React Native instalado na sua máquina, vamos inicializar um projeto React Native com dois arquivos um chamado _"App 1"_ e outro chamado _"App2"_.
+Depois do ambiente React-Native instalado na sua máquina, vamos inicializar um projeto React-Native com dois arquivos um chamado _"App 1"_ e outro chamado _"App2"_.
 
 Eu já disponibilizei um projeto em: https://github.com/oximer/react-inside-react
 
@@ -123,25 +123,40 @@ react-native bundle — platform android — dev false — entry-fil
 ---
 
 ## Visão Geral
-Esse projeto pode lhe parecer um pouco maluco e sem serventia, mas lhe garanto que entendê-lo é um importante passo para compreender como o react-native realmente funciona.
+Esse projeto pode lhe parecer um pouco maluco e sem serventia, mas lhe garanto que entendê-lo é um importante passo para compreender como o React-Native realmente funciona.
 
-O famoso Code Push da Microsoft entende essa idéia muito bem e tira proveito dele. O Code Push serve esses arquivos estáticos em um servidor na internet e como isso consegue atualizar as aplicações 1 e 2 remotamente.
+O famoso Code Push da Microsoft entende essa ideia muito bem e tira proveito dele. O Code Push serve esses arquivos estáticos em um servidor na internet e como isso consegue atualizar as aplicações 1 e 2 remotamente.
 
 Outro aspecto interesse é o fato de cada aplicativo funcionar como uma sandbox. Eles não compartilham estados e variáveis. Eles são literalmente independentes e podem até mesmo ser desenvolvidos por times diferentes.
 
 Experimente colocar um contador e um botão em cada um deles… Você verá que as aplicações são independentes.
 
-Finalmente, entenda que não existe mágica no React Native. O seu aplicativo é uma View como qualquer outra, nesse caso uma ReactRootView. O ReactInstanceManger é outra classe essencial para o desenvolvedor que irá integrar uma aplicação React em uma aplicação nativa já existente.
+Finalmente, entenda que não existe mágica no React-Native. O seu aplicativo é uma View como qualquer outra, nesse caso uma ReactRootView. O ReactInstanceManger é outra classe essencial para o desenvolvedor que irá integrar uma aplicação React em uma aplicação nativa já existente.
 
 ## Nem tudo são flores
-Ao optar pelo empacotamento estático, você fica sem algumas features legais do react-native. Nada de _**reload**_ ou _**hot-reload**_ nesse cenário.
+Ao optar pelo empacotamento estático, você fica sem algumas features legais do React-Native. Nada de _**reload**_ ou _**hot-reload**_ nesse cenário.
 
-**Vocês vêm alguma solução?**
+**Vocês vêem alguma solução?**
 
-Eu vejo e posso detalhar mais em outros posts, mas lhes garanto que é possível colocar dois locais servidores node em sua máquina (cada um em uma porta) e ter as principais features de desenvolvimento do react.
+Eu vejo e posso detalhar mais em outros posts, mas lhes garanto que é possível colocar dois servidores node locais em sua máquina (cada um em uma porta) e ter as principais features de desenvolvimento do React.
 
-Outro problema está relacionado a comunicação entre esses dois aplicativos. Se esses aplicativos são independentes, como eles se comunicam?
+Outro problema está relacionado à comunicação entre esses dois aplicativos. Se esses aplicativos são independentes, como eles se comunicam?
 
 A resposta passa pela DeviceEventManagerModule e a criação de um ReactPackage. Elas exploraram a comunicação entre a camada Java e a camada Javascript.
 
-Seria possível fazer isso no IOS? Sim, mas esse post já está longo demais.
+Seria possível fazer isso no iOS? Sim, mas esse post já está longo demais.
+
+
+**Referências para iniciantes em português**
+
+https://tableless.com.br/react-native-construa-aplicacoes-moveis-nativas-com-javascript/
+https://facebook.github.io/react-native/docs/getting-started.html
+https://medium.com/react-native-training
+
+**Referências para iniciantes em inglês**
+
+https://www.raywenderlich.com/126063/react-native-tutorial
+
+**Curso pago, mas bem interessante para quem quer investir um pouco mais**
+
+https://www.udemy.com/the-complete-react-native-and-redux-course/
