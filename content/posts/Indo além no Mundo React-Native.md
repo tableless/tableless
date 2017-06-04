@@ -1,15 +1,15 @@
 ---
-title: Indo além no Mundo React-Native.
+title: Indo além no Mundo React-Native
 author: Jose Urbano Duarte Junior
 type: post
-image: https://cdn-images-1.medium.com/max/1000/1*M0bDjag4DJovh0imf9nYKQ.png
+image: http://i.imgur.com/oudmGva.png
 date: 2017-05-24
-excerpt: Nesse artigo vou sair do óbvio e apresentar algumas coisas possíveis de se realizar com o React Native 
+excerpt: Um estudo pessoal sobre as possibilidade do React Native. 
 url: /indo-alem-no-react-native/
 categories:
   - JavaScript
   - Mobile
-  - Tecnologia e Tendências
+  - ReactJS
   - Código
 tags:
   - ReactNative
