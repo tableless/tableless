@@ -35,7 +35,7 @@ Na internet, você encontra milhares de posts explicando como começar um projet
 
 **Faremos duas "aplicações" React-Native rodando em um mesmo aplicativo. Uma sobre a outra.**
 
-![Overview](https://cdn-images-1.medium.com/max/1600/1*HSZFj9r4EIu4IwbjmF8TXw.png)
+![Overview](http://i.imgur.com/DiTFTwM.png)
 
 Inicialmente você poderá ter dificuldade em visualizar um motivo para construir tal cenário, mas tenha certeza que ao final desse post sua cabeça terá ideias malucas da aplicabilidade dessa brincadeira.
 
@@ -58,7 +58,7 @@ Após a realização das alterações, faça o empacotamento desse projeto. Para
 react-native bundle — platform android — dev false — entry-file app2.js — bundle-output app2.jsbundle
 ```
 
-![react-native-bundle](https://cdn-images-1.medium.com/max/1600/1*nQNTcN7BYD7PvDMdZlGDXA.png)
+![react-native-bundle](http://i.imgur.com/OUzgVp0.png)
 
 Você observará que o empacotador irá criar um arquivo chamado app2.jsbundle. Esse arquivo é semelhante ao que o teu servidor node disponibiliza por padrão na porta 8081.
 
@@ -119,7 +119,7 @@ react-native bundle — platform android — dev false — entry-fil
 
 ## Resultado Final
 
-![finalResult](https://cdn-images-1.medium.com/max/1600/1*HSZFj9r4EIu4IwbjmF8TXw.png)
+![finalResult](http://i.imgur.com/qDFU91F.png)
 ---
 
 ## Visão Geral
