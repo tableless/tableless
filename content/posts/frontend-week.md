@@ -16,7 +16,7 @@ tags:
   - padroes web
 ---
 
-Se você não sabe, vou te mandar a letra (a galera do CSS CastShow já tinha cantado a [bola muito antes](https://www.youtube.com/watch?v=eLgMMwmEHNs)): desde o dia 22/06 até o dia 01/07 está rolando aqui em São Paulo uma super iniciativa que concentra uma série de eventos e Meetups sobre front-end em apenas uma semana, essa iniciativa se chama [Front-end Week](http://frontendweek.com.br/?utm_source=tableless&utm_medium=post_diegoeis).
+Se você não sabe, vou te mandar a letra (a galera do CSS CastShow já tinha cantado a [bola muito antes](https://www.youtube.com/watch?v=eLgMMwmEHNs)): desde o dia 22 de Junho até o dia 01 de Julho está rolando aqui em São Paulo uma super iniciativa que concentra uma série de eventos e Meetups sobre front-end em apenas uma semana, essa iniciativa se chama [Front-end Week](http://frontendweek.com.br/?utm_source=tableless&utm_medium=post_diegoeis).
 
 ## O que já rolou?
 **Dia 22 e 23 de Junho** rolou um novo evento sobre JavaScript chamado [JS Experience](https://jsexperience2017.imasters.com.br/?utm_source=tableless&utm_medium=post_diegoeis), que reuniu os maiores palestrantes sobre front-end do Brasil num lugar só. Não via um evento com tanto potencial desde o BrazilJS. Parabéns ao pessoal da iMasters!
