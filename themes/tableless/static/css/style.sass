@@ -120,6 +120,31 @@ body
     line-height: 1.5
     margin-bottom: 30px
 
+.tb-comuna
+  @extend .tb-container
+  padding: 150px 30px 0
+  margin-bottom: 70px
+  text-align: center
+
+  h2
+    margin-bottom: 15px
+    text-transform: uppercase
+    font: 2rem/1.3 $avenirBold
+  
+  p
+    font: 1.5rem/1.3 $avenirRegular
+    max-width: 900px
+    margin: auto
+    color: $text-gray
+
+  ul
+    list-style: none
+    margin-top: 60px
+
+    li
+      margin-bottom: 20px
+      padding: 0 20px 20px
+
 ////
 // Big Screen version
 ////
@@ -176,3 +201,18 @@ body
         max-width: initial
         width: 130%
         transform: translateX(-10%)
+
+  .tb-comuna
+
+    ul
+      display: flex
+      flex-wrap: wrap
+
+      li
+        transition: linear .05s all
+        flex: 1 0 33%
+        opacity: .8
+
+        &:hover
+          opacity: 1
+          transform: scale(1.05)

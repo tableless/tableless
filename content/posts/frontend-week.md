@@ -1,6 +1,6 @@
 ---
 title: Front-end Week
-author: Diego EIs
+author: Diego Eis
 type: post
 date: 2017-06-27
 excerpt: Uma overdose de eventos e palestras sobre front-end em uma semana.
