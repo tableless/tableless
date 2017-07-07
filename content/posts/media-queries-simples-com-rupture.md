@@ -14,13 +14,13 @@ tags:
   - Stylus
 ---
 
-Hoje em dia, contamos com diversos frameworks, libs e utilitários para facilitar nosso desenvolvimento e também o tornando mais ágil, nessa ideia surgiu o rupture, um utilitário portado para Stylus que promete tornar o uso de media queries mais simples, com sua sintaxe simplificada.
+Hoje em dia, contamos com diversos frameworks, libs e utilitários para facilitar nosso desenvolvimento e também o tornando mais ágil. Nessa ideia surgiu o rupture, um utilitário portado para Stylus que promete tornar o uso de media queries mais simples, com sua sintaxe simplificada.
 
 ## Porque devo experimentar?
-Antes de conhece-lo tinha o trabalho de criar mixins para minhas media queries e nem sempre me satisfaziam, até que o conheci, com uma documentação bacana em poucos minutos já estava tendo uma excelente produtividade, então se você já usa Stylus, use o rupture que é sucesso.
+Antes de conhecer o rupture, eu tinha o trabalho de criar mixins para minhas media queries que nem sempre me satisfaziam, até que o conheci. Com uma documentação bacana, em poucos minutos já estava tendo uma excelente produtividade, então se você já usa Stylus, use o rupture que é sucesso.
 
 ## Mão na massa
-Você pode encontrar e instala-lo seja com o [npm](https://www.npmjs.com/package/rupture) ou [yarn](https://yarnpkg.com/pt-BR/package/rupture).
+Você pode encontrá-lo e instalá-lo seja com o [npm](https://www.npmjs.com/package/rupture) ou [yarn](https://yarnpkg.com/pt-BR/package/rupture).
 
 ```sh
 npm install rupture --save-dev
@@ -42,7 +42,7 @@ rupture.scale       =   0       768px       1024px
 rupture.scale-names =      'm'         't'          'd'
 ```
 
-Nessa especificação acima, nosso breakpoints de mobile poderiam ser utilizados apenas através da string m assim como os breakpoints de tablet utilizando o t em nossos mixins.
+Nessa especificação acima, nosso breakpoints de mobile poderiam ser utilizados apenas através da string "m" assim como os breakpoints de tablet utilizando o "t" em nossos mixins.
 
 ## Mixins
 Irei mostrar alguns dos principais mixins do rupture, pelos menos os que mais utilizo no meu dia-a-dia.
@@ -99,4 +99,4 @@ Esse simples código acima irá gerar isso.
 ```
 
 ## Acho que é isso
-A ideia era apenas mostrar algumas das facilidades que o rupture trás, te convido pra que você de uma [olhadinha no repositório](https://github.com/jescalan/rupture) que lá você encontra muitos outros mixins e recursos interessantes.
+A ideia era apenas mostrar algumas das facilidades que o rupture trás. Convido você a dar uma [olhadinha no repositório](https://github.com/jescalan/rupture) que lá você encontra muitos outros mixins e recursos interessantes.
