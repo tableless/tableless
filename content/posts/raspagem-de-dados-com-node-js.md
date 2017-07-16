@@ -6,10 +6,11 @@ date: 2015-08-12
 url: /raspagem-de-dados-com-node-js/
 categories:
   - JavaScript
+  - nodejs
   - Técnicas e Práticas
 tags:
   - JavaScript
-  - NodeJS
+  - nodejs
   - raspagem de dados
 
 ---

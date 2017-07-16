@@ -8,10 +8,11 @@ url: /alternativa-de-cms-com-keystone-js/
 categories:
   - CMS
   - JavaScript
+  - nodejs
 tags:
   - JavaScript
   - keystone.js
-  - NodeJS
+  - nodejs
 
 ---
 Este é o primeiro artigo de uma série sobre o <a href="http://keystonejs.com/" target="_blank">Keystone.js</a>, um framework desenvolvido em Node.js para servir de CMS e também Web Application. Pra começarmos, será necessário nesse primeiro artigo um pouco de teoria, pra termos uma noção.
