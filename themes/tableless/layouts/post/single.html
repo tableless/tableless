@@ -13,16 +13,23 @@
     </article>
 
     <div class="tb-related-posts">
-      <h3>Leia mais:</h3>
-      <ul>
-        {{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.categories" "intersect" .Params.categories ) "Permalink" "!=" .Permalink ) }}
-        <li class="tb-related-post">
-          <a href="{{ .RelPermalink }}/?utm_source=tablelessRelatedLin">{{ .Title | markdownify }}</a><br />
-        </li>
+      <h3>Leia mais aqui no Tableless:</h3>
 
-        {{ end }}
-      </ul>
+      {{ range first 1 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+        {{ $.Scratch.Set "has_related" true }}
+      {{ end }}
+
+      {{ if $.Scratch.Get "has_related" }}
+          <ul>
+            {{ $num_to_show := .Site.Params.related_content_limit | default 7 }}
+            {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
+              <li class="tb-related-post"><a href="{{ .RelPermalink }}/?utm_source=tablelessRelatedLink">{{ .Title }}</a></li>
+            {{ end }}
+          </ul>
+      {{ end }}
+
     </div>
+
 
 
     {{ partial "disqus.html" . }}

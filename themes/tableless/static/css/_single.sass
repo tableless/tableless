@@ -10,7 +10,7 @@
     max-width: 100%
 
   p
-    font: 1.1rem/1.6 $avenirRegular
+    font: 400 1.1rem/1.6 $fontFamily
     color: $text-gray
     letter-spacing: -0.47px
     margin-bottom: 30px
@@ -22,7 +22,7 @@
       color: #000
 
   li
-    font: 1.1rem/1.5 $avenirRegular
+    font: 400 1.1rem/1.5 $fontFamily
     margin-bottom: 15px
 
   ul, ol
@@ -31,10 +31,10 @@
 
   h2
     margin: 50px 0 10px
-    font: 2rem $avenirBold
+    font: 700 2rem $fontFamily
   h3
     margin: 50px 0 10px
-    font-size: 1.7rem
+    font: 700 1.7rem/1.5 $fontFamily
   h6
     margin: 20px 0 10px
     font-size: .9rem
@@ -44,8 +44,11 @@
     display: block
 
     p
-      font: italic 1.2rem/1.5 $avenirBold
+      font: 700 italic 1.2rem/1.5 $fontFamily
 
+.gist
+  max-width: 800px
+  
 
 ////
 // Big Screen version
@@ -56,6 +59,10 @@
 
   .tb-post
     display: flex
+
+    img
+      max-width: 800px
+      width: 100%
 
   .tb-post-header
     margin-bottom: 150px
@@ -70,8 +77,8 @@
     order: 3
 
     p
-      font-size: 1.25rem
-      line-height: 2.31rem
+      font-size: 1.2rem
+      line-height: 2.1rem
 
     li
       font-size: 1.2rem

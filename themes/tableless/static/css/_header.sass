@@ -30,8 +30,11 @@
     ul
       display: none
 
+      a
+        font: 400 1rem $fontFamily
+
   a
-    font: .8rem $avenirBold
+    font: 700 .8rem $fontFamily
     color: $light-gray
     text-transform: uppercase
     text-decoration: none
@@ -58,7 +61,7 @@
     padding-left: 15px
     padding-right: 40px
     width: 100%
-    line-height: 0
+    line-height: 1
     outline: none
 
   [type="image"]
@@ -147,7 +150,7 @@
 
         a
           display: block !important
-          font-family: $avenirRegular
+          font-family: $fontFamily
           text-align: left
           padding: 7px 10px
           margin: 0
@@ -181,7 +184,7 @@
     flex: 1 0 100%
     display: block
     text-align: right
-    font: 13px $avenirBold
+    font: 700 13px $fontFamily
     text-decoration: none
     color: $gray
     &:hover

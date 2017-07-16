@@ -1,4 +1,4 @@
-@import "fonts/_fonts.sass"
+//@import "fonts/_fonts.sass"
 @import "_helpers.sass"
 @import "_header.sass"
 @import "_footer.sass"
@@ -14,7 +14,7 @@
 
 body
   font-size: 100%
-  font-family: $avenirRegular
+  font-family: $fontFamily
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
   counter-reset: list-count
@@ -44,7 +44,7 @@ body
   h2
     margin: -10px 0 5px
     text-transform: uppercase
-    font: 1.1rem $avenirBold
+    font: 700 1.1rem $fontFamily
 
     a
       color: $gray
@@ -54,7 +54,7 @@ body
         color: $red
   p
     color: $text-gray
-    font: 1rem/1.4 $avenirRegular
+    font: 400 1rem/1.4 $fontFamily
 
   h2, p
     padding-left: 10px
@@ -73,7 +73,7 @@ body
   padding: 5px 10px 2px
   margin: 0 10px
   transform: translateY(-20px)
-  font: .8rem $avenirDemi
+  font: 900 .8rem $fontFamily
   position: relative
   z-index: 1
 
@@ -100,11 +100,11 @@ body
     line-height: 1.4
     padding: 15px 0 0
     text-transform: uppercase
-    font: 1.5rem $avenirBold
+    font: 700 1.5rem $fontFamily
     margin-bottom: 15px
 
   h3
-    font: 1.1rem $avenirRegular
+    font: 400 1.1rem $fontFamily
     margin-bottom: 25px
 
     a
@@ -129,10 +129,10 @@ body
   h2
     margin-bottom: 15px
     text-transform: uppercase
-    font: 2rem/1.3 $avenirBold
+    font: 700 2rem/1.3 $fontFamily
   
   p
-    font: 1.5rem/1.3 $avenirRegular
+    font: 400 1.5rem/1.3 $fontFamily
     max-width: 900px
     margin: auto
     color: $text-gray
@@ -216,3 +216,24 @@ body
         &:hover
           opacity: 1
           transform: scale(1.05)
+
+
+  .tb-editors
+    display: flex
+
+    .tb-editor-bio
+      flex: 1 0 300px
+      padding: 0 20px
+      text-align: center
+      p
+        font-size: 1rem
+        line-height: 1.5
+
+      h3
+        padding: 0
+        margin: 10px 0 0
+
+    img
+      width: auto
+      max-height: 200px
+      border-radius: 100%
