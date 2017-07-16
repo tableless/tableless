@@ -6,14 +6,14 @@ date: 2013-12-30
 url: /javascript-de-forma-assincrona-e-legivel/
 dsq_thread_id: 2082284439
 categories:
-  - Geral
+  - nodejs
   - JavaScript
 tags:
+  - nodejs
   - callback hell
   - JavaScript
-  - JavaScript legível
-
 ---
+
 A programação assíncrona possui a vantagem de gerar códigos perfomáticos. Em certos casos, a implementação de diversas funções assíncronas encadeadas através de funções _callback_ pode prejudicar a leitura e a manutenção do código. Para demonstrar esse encadeamento, vamos utilizar um trecho de código que utiliza a [API do Selenium 2][1]. Baseado em um [exemplo do site do SauceLabs][2].
 
 A API do Selenium WebDriver pode ser utilizada por diversas linguagem de programação, porém, em nosso exemplo, iremos utilizar o NodeJS (JavaScript) e o gerenciador de pacotes NPM, que podem ser baixados no [site oficial][3]. O NPM é necessário para instalar o [PhantomJS][4] e o [WD][5], utilizando o seguinte _script_:

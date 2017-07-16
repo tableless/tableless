@@ -6,7 +6,7 @@ date: 2015-08-14
 excerpt: Aprenda agora em 4 passos simples a modularizar seu código JavaScript utilizando a especificação AMD com RequireJS.
 url: /introducao-ao-amd-com-requirejs/
 categories:
-  - Código
+  - nodejs
   - JavaScript
 tags:
   - amd
