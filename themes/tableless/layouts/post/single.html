@@ -13,13 +13,13 @@
     </article>
 
     <div class="tb-related-posts">
-      <h3>Leia mais aqui no Tableless:</h3>
 
       {{ range first 1 (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
         {{ $.Scratch.Set "has_related" true }}
       {{ end }}
 
       {{ if $.Scratch.Get "has_related" }}
+          <h3>Leia mais aqui no Tableless:</h3>
           <ul>
             {{ $num_to_show := .Site.Params.related_content_limit | default 7 }}
             {{ range first $num_to_show (where (where .Site.Pages ".Params.tags" "intersect" .Params.tags) "Permalink" "!=" .Permalink) }}
