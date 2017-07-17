@@ -2,7 +2,7 @@
 title: Node.js - o back-end do front-end
 author: Tableless
 type: post
-date: 2017-07-07
+date: 2017-07-16
 excerpt: Um pouco sobre hospedagem e a história do Node.JS
 categories:
   - JavaScript
@@ -11,7 +11,7 @@ categories:
 tags:
   - JavaScript
   - nodejs
-draft: true
+ images: http://i.imgur.com/l65nOub.png
 ---
 
 O Node.js se tornou popular a partir de 2009 quando Ryan Dahl, criador do Node.js, divulgou seu projeto para o mundo. De lá para cá ele só tem crescido e ajudado o JavaScript a se popularizar ainda mais com a "Linguagem da Web", agora, não apenas por ser praticamente onipresente na web, mas por quebrar a barreira de ser usada apenas no front-end, passando a ser usada também no Back-end.
