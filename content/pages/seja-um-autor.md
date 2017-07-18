@@ -139,5 +139,5 @@ Ali em *categorias*, coloque as categorias já existentes no site, ou se não so
 * Git
 * Opinião
 
-Você pode ver um arquivo de [artigo de exemplo aqui](https://raw.githubusercontent.com/tableless/tableless-static/master/content/carreira-de-front-end-vai-morrer.md).
+Você pode ver um arquivo de [artigo de exemplo aqui](https://raw.githubusercontent.com/tableless/tableless-static/master/content/posts/carreira-de-front-end-vai-morrer.md).
 
