@@ -27,69 +27,41 @@
 
 <section class="tb-posts-categs">
 
-  <div class="tb-post-categ">
+  <nav>
     <h2>JavaScript</h2>
+    <ul>
     {{ range first 7 .Site.Taxonomies.categories.javascript }}
-
-        <h3><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome">{{ .Page.Title }}</a></h3>
-        <p>
-          {{if .Page.Param "excerpt"}}
-            {{ .Page.Param "excerpt" }}
-          {{else}}
-            {{ .Page.Summary }}
-          {{end}}
-        </p>
-
+        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ">{{ .Page.Title }}</a></li>
     {{ end }}
-  </div>
+    </ul>
+  </nav>
 
-  <div class="tb-post-categ">
+  <nav>
     <h2>Sass</h2>
+    <ul>
     {{ range first 7 .Site.Taxonomies.categories.sass }}
-
-        <h3><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome">{{ .Page.Title }}</a></h3>
-        <p>
-          {{if .Page.Param "excerpt"}}
-            {{ .Page.Param "excerpt" }}
-          {{else}}
-            {{ .Page.Summary }}
-          {{end}}
-        </p>
-
+        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ">{{ .Page.Title }}</a></li>
     {{ end }}
-  </div>
+    </ul>
+  </nav>
 
-  <div class="tb-post-categ">
+  <nav>
     <h2>ReactJS</h2>
+    <ul>
     {{ range first 7 .Site.Taxonomies.categories.reactjs }}
-
-        <h3><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome">{{ .Page.Title }}</a></h3>
-        <p>
-          {{if .Page.Param "excerpt"}}
-            {{ .Page.Param "excerpt" }}
-          {{else}}
-            {{ .Page.Summary }}
-          {{end}}
-        </p>
-
+        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ">{{ .Page.Title }}</a></li>
     {{ end }}
-  </div>
+    </ul>
+  </nav>
 
-  <div class="tb-post-categ">
+  <nav>
     <h2>Design</h2>
+    <ul>
     {{ range first 7 .Site.Taxonomies.categories.design }}
-
-        <h3><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome">{{ .Page.Title }}</a></h3>
-        <p>
-          {{if .Page.Param "excerpt"}}
-            {{ .Page.Param "excerpt" }}
-          {{else}}
-            {{ .Page.Summary }}
-          {{end}}
-        </p>
-
+        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ">{{ .Page.Title }}</a></li>
     {{ end }}
-  </div>
+    </ul>
+  </nav>
 </section>
 <a href="{{ .Site.BaseURL }}todos-os-posts/" class="tb-btn tb-btn-seeall">Artigos</a>
 
