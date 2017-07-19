@@ -69,7 +69,7 @@
     right: 10px
     top: 5px
 
-.tb-lnk-forum
+.tb-channels
   display: none
 
 ////
@@ -77,6 +77,7 @@
 ////
 @media #{$break-desk}
   #tb-header
+    position: relative
     max-width: 1400px
     margin: 0 auto
     display: flex
@@ -180,12 +181,31 @@
   .tb-search
     display: block
 
-  .tb-lnk-forum
-    flex: 1 0 100%
+  .tb-channels
     display: block
-    text-align: right
-    font: 700 13px $fontFamily
-    text-decoration: none
-    color: $gray
-    &:hover
-      color: $red
+    position: absolute
+    top: 30px
+    right: 20px
+
+    li
+      display: inline-block
+      list-style: none
+      padding-left: 15px
+      margin-left: 15px
+      border-left: 1px solid rgba(0, 0, 0, .4)
+
+      &:first-child
+        border-left: none
+  
+    .tb-lnk-forum
+      flex: 1 0 100%
+      display: block
+      text-align: right
+
+    a
+      font: 400 13px $fontFamily
+      text-decoration: none
+      color: $gray
+
+      &:hover
+        color: $red
