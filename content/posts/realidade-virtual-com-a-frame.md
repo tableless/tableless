@@ -4,7 +4,7 @@ author: Bruno Castro
 type: post
 date: 2017-07-16
 excerpt: A-Frame é um framework NODE.JS pra construção de aplicações em 360 no browser.
-image: https://cdn-images-1.medium.com/max/2000/1*WzmJgnPKeugb0Hn1c1qNwA.png
+image: http://i.imgur.com/EWitjy4.png
 categories:
   - nodejs
   - JavaScript
