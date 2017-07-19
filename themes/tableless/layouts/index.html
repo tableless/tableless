@@ -2,7 +2,19 @@
 
 {{ range first 1 (where .Site.Pages "Type" "post")}}
 <section class="tb-feature-post">
-  {{ partial "posthero.html" . }}
+  <h1 class="tb-hero-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </h1>
+  <p class="tb-hero-p">
+    {{if .Param "excerpt"}}
+    {{ .Param "excerpt" }}
+    {{else}}
+    {{ .Summary }}
+    {{end}}
+  </p>
+  {{ partial "byauthor.html" . }}
+  {{ partial "postdate.html" . }}
+  <a href="{{ .Permalink }}#disqus_thread" class="tb-lnk-comments">Comentários</a>
 </section>
 {{end}}
 
