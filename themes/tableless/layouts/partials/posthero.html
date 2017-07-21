@@ -1,10 +1,5 @@
   <h1 class="tb-hero-title">
-    {{ if $.Scratch.Get "single"}}
-     {{ .Title }}
-    {{end}}
-    {{ if .isHome}}
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    {{end}}
+      {{ .Title }}
   </h1>
   <p class="tb-hero-p">
     {{if .Param "excerpt"}}

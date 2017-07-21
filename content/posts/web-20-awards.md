@@ -4,12 +4,6 @@ author: Diego Eis
 type: post
 date: 2006-04-07
 url: /web-20-awards/
-tweetbackscheck:
-  - 1356128498
-shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/web-20-awards";s:7:"tinyurl";s:26:"http://tinyurl.com/3td7bpl";s:4:"isgd";s:19:"http://is.gd/4yxpRo";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 503035156
 categories:
   - Geral
@@ -17,9 +11,7 @@ categories:
 tags:
   - AJAX
   - Técnicas e Práticas
-
 ---
-[Web 2.0 Awards][1]
 
 Fizeram uma seleção dos melhores sites Web 2.0 (sem discussão ao nome, ok?! &#58;&#45;&#80;). O legal é que você acaba conhecendo mais serviços interessantes que existiam por aí, alternativos aos serviços que o pessoal costuma conhecer.
 
@@ -29,4 +21,4 @@ Tem gente que só por que essa onda de Web 2.0 chegou, pensa que algumas soluç�
 
 To errado? Qual sua opinião?
 
- [1]: http://web2.0awards.org/
+http://web2.0awards.org/
