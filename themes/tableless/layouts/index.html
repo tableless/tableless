@@ -19,11 +19,10 @@
 {{end}}
 
 <section class="tb-post-list">
-  {{ range first 3 (after 2 .Pages)}}
+  {{ range first 3 (after 1 .Pages)}}
   {{ partial "postbox.html" . }}
   {{end}}
 </section>
-
 
 <section class="tb-posts-categs">
 
@@ -31,16 +30,16 @@
     <h2>JavaScript</h2>
     <ul>
     {{ range first 7 .Site.Taxonomies.categories.javascript }}
-        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ">{{ .Page.Title }}</a></li>
+        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-js">{{ .Page.Title }}</a></li>
     {{ end }}
     </ul>
   </nav>
 
   <nav>
-    <h2>Sass</h2>
+    <h2>CSS</h2>
     <ul>
-    {{ range first 7 .Site.Taxonomies.categories.sass }}
-        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ">{{ .Page.Title }}</a></li>
+    {{ range first 7 .Site.Taxonomies.categories.css }}
+        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-css">{{ .Page.Title }}</a></li>
     {{ end }}
     </ul>
   </nav>
@@ -49,7 +48,7 @@
     <h2>ReactJS</h2>
     <ul>
     {{ range first 7 .Site.Taxonomies.categories.reactjs }}
-        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ">{{ .Page.Title }}</a></li>
+        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-react">{{ .Page.Title }}</a></li>
     {{ end }}
     </ul>
   </nav>
@@ -58,7 +57,7 @@
     <h2>Design</h2>
     <ul>
     {{ range first 7 .Site.Taxonomies.categories.design }}
-        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ">{{ .Page.Title }}</a></li>
+        <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-design">{{ .Page.Title }}</a></li>
     {{ end }}
     </ul>
   </nav>
