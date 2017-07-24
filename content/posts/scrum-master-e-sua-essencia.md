@@ -13,7 +13,7 @@ O papel do Scrum Master vai muito além de um simples ator de uma metodologia qu
 
 Um cara chamado Jeff Sutherland quando estava na sua primeira equipe de desenvolvimento tentando encontrar uma forma melhor de entregar softwares, ainda criando os papeis de uma metodologia revolucionária, todos os dias ele mostrava para sua equipe um vídeo de um time de rúgbi da Nova Zelândia chamado All Blacks se preparando para enfrentar um adversário, antes do confronto eles realizam um ritual chamado de haka, é uma apresentação fantástica e contagiante. A haka é uma dança de guerreiros maoris, são batidas nos pés e cantos em sincronia, são homens que estão naquele momento se transformando em algo maior, invocando um espírito que não aceitam derrotas e nem desanimo, uma dança que significa cortar a garganta do inimigo, aumente o volume e veja abaixo uma apresentação do All Blacks vs Australia em Auckland, 2016, contagiante.
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/0SUL0piCU5A" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/PptTeyYShdw" frameborder="0" allowfullscreen></iframe>
 
 Depois de algum tempo exibindo um vídeo aos integrantes da equipe, eles começaram a perguntar como poderia reproduzir o haka no seu dia a dia, então depois de uma análise eles listaram as melhores características que valia a pena ser imitadas.
 
