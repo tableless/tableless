@@ -11,7 +11,6 @@ tags:
   - Big Data
   - Semântica
 image: http://i.imgur.com/K8GN3jx.jpg
-draft: true
 ---
 
 Bastante gente, seja na
