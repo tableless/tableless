@@ -11,7 +11,6 @@ tags:
   - Big Data
   - Semântica
 image: https://cdn-images-1.medium.com/max/2000/1*WAxsCkb61Pf3NteZqXwPJQ.jpeg
-draft: true
 ---
 
 Você gosta é de solução né... [Not today](https://media.makeameme.org/created/but-it-is.jpg)! Como um bom
