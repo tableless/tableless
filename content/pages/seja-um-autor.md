@@ -16,7 +16,7 @@ O Tableless é um projeto aberto, logo, para submeter um artigo para nós, basta
 
 ## Cuidado com artigos repetidos
 
-Se você já publicou algum artigo repetido no seu blog pessoal, tudo bem. Mas tente não publicar artigos que já foram publicados em outros sites de conteúdo. Geralmente o Google não gosta disso e muito provavelmente o seu leitor já vai ter lido esse artigo em outros sites. Mesmo assim, fique à vontade para publicar o que achar que seja elevante. 
+Se você já publicou algum artigo repetido no seu blog pessoal, tudo bem. Mas tente não publicar artigos que já foram publicados em outros sites de conteúdo. Geralmente o Google não gosta disso e muito provavelmente o seu leitor já vai ter lido esse artigo em outros sites. Mesmo assim, fique à vontade para publicar o que achar que seja relevante. 
 
 ## Tópicos principais
 
