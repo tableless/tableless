@@ -43,7 +43,7 @@ Repare que no exemplo acima cometemos um erro de digitação e o compilador não
 
 Apesar da linguagem ser relativamente nova e de ainda não ter ganhado a devida popularidade na comunidade, eu vejo o Elm como uma das linguagens para se ficar de olho, pois ela traz e resolve muito dos problemas atuais que encontramos no JavaScript.
 
-Esse primeiro artigo foi apenas uma introdução básica para dispertar sua curiosidade sobre o Elm, mais artigos virão e entrarei em datelhes mais aprofundados da linguaem propriamente dita. 
+Esse primeiro artigo foi apenas uma introdução básica para dispertar sua curiosidade sobre o Elm, mais artigos virão e entrarei em datelhes mais aprofundados da linguagem propriamente dita. 
 
 [1]: http://elm-lang.org/
 [2]: https://twitter.com/rtfeldman
