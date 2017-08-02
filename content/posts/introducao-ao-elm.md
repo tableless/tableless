@@ -3,7 +3,7 @@ title: Introdução ao Elm: diga adeus aos runtime errors
 author: Breno Panzolini
 type: post
 date: 2017-07-31
-excerpt: Uma introdução básica a linguagem Elm.
+excerpt: Uma introdução básica à linguagem Elm.
 categories:
   - JavaScript
   - Tecnologia e Tendências
@@ -11,7 +11,7 @@ categories:
 
 Nos últimos anos o JavaScript vem cada vez mais ganhando espaço no mundo da programação, seja no front-end quanto no back-end ele já se provou capaz de atender todas as demandas e necessidades de qualquer tipo de projeto.
 
-Eu sempre utilizei JavaScript, desde o tempo onde ele servia "apenas" para fazer uma simples validação no client-side, e algo que sempre me chamou muita atenção na linguagem (e por isso acredito que se tornou tão popular) é a liberdade que ela nos fornece, porém ao mesmo tempo que isso é vantajoso por um lado pode se tornar um pesadelo em projetos maiores.
+Eu sempre utilizei JavaScript, desde o tempo onde ele servia "apenas" para fazer uma simples validação no client-side. Algo que sempre me chamou muita atenção na linguagem (e por isso acredito que se tornou tão popular) é a liberdade que ela nos fornece. Porém, ao mesmo tempo que isso é vantajoso por um lado pode se tornar um pesadelo em projetos maiores.
 
 ## O que é esse tal de Elm?
 
@@ -29,21 +29,19 @@ Um dos pontos que mais chamam atenção é que no Elm não existe *runtime excep
 
 Você nunca mais verá aqueles erros de *"Uncaught TypeError"*, isso porque além da forte tipagem da linguaem, não existe *Null* e *Undefined*.
 
-O [Richard Feldman][2] publicou em seu twitter que tem uma aplicação em Elm (em produção) que desde 2015 nunca teve um erro de runtime.
-
-Vou deixar o [link do tweet][3] caso você queira acompanhar a discussão.
+O [Richard Feldman][2] [publicou em seu twitter][3] que tem uma aplicação em Elm (em produção) que desde 2015 nunca teve um erro de runtime.
 
 Outra grande vantagem da linguagem é seu **compilador extremamente poderoso**, acho que nunca vi algo parecido em nenhuma outra linguagem.
 
 ![Compilador do Elm](http://i.imgur.com/5O0lwHl.png)
 
-Repare que no exemplo acima cometemos um erro de digitação e o compilador não apenas sublinhou o erro quanto fez sugestões de correção.
+Repare que no exemplo acima cometemos um erro de digitação e o compilador não apenas sublinhou o erro como fez sugestões de correção.
 
 ## Conclusão
 
 Apesar da linguagem ser relativamente nova e de ainda não ter ganhado a devida popularidade na comunidade, eu vejo o Elm como uma das linguagens para se ficar de olho, pois ela traz e resolve muito dos problemas atuais que encontramos no JavaScript.
 
-Esse primeiro artigo foi apenas uma introdução básica para dispertar sua curiosidade sobre o Elm, mais artigos virão e entrarei em datelhes mais aprofundados da linguagem propriamente dita. 
+Esse primeiro artigo foi apenas uma introdução básica para despertar sua curiosidade sobre o Elm. Mais artigos virão e entrarei em detalhes mais aprofundados da linguagem propriamente dita. 
 
 [1]: http://elm-lang.org/
 [2]: https://twitter.com/rtfeldman
