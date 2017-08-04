@@ -27,7 +27,7 @@ Você pode encontrar mais informações no [site oficial][1] da linguagem, com v
 
 Um dos pontos que mais chamam atenção é que no Elm não existe *runtime exceptions*, ou seja, se o seu código compilar você pode ter certeza de que não irá ter erros em tempo de execução.
 
-Você nunca mais verá aqueles erros de *"Uncaught TypeError"*, isso porque além da forte tipagem da linguaem, não existe *Null* e *Undefined*.
+Você nunca mais verá aqueles erros de *"Uncaught TypeError"*, isso porque além da forte tipagem da linguagem, não existe *Null* e *Undefined*.
 
 O [Richard Feldman][2] [publicou em seu twitter][3] que tem uma aplicação em Elm (em produção) que desde 2015 nunca teve um erro de runtime.
 
