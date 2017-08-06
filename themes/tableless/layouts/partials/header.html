@@ -11,9 +11,14 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}">
+
   <link rel="icon" href="favicon.png">
   <base href="{{ .Site.BaseURL }}">
-  <title>{{ .Site.Title }}</title>
+  <title>
+    {{if $.Scratch.Get "single"}}{{.Title}} - {{ .Site.Title }}{{end}}
+    {{if .IsHome}}{{.Site.Title}} - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web{{end}}
+  </title>
 
   <link rel="canonical" href="{{ .Permalink }}">
 
@@ -40,6 +45,7 @@
   <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
 
   {{if .IsHome}}
+  
   <script type='application/ld+json'>
     {
       "@context": "http://www.schema.org",

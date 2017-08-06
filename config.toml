@@ -1,5 +1,5 @@
 DefaultContentLanguage = "pt-br"
-title = "Tableless Padrões Web"
+title = "Tableless"
 baseURL = "https://tableless.com.br/"
 theme = "tableless"
 SectionPagesMenu = "main"
