@@ -6,6 +6,13 @@
     </script>
   </div>
 
+  <div class="tb-newsletter">
+ <form action="https://tinyletter.com/tableless" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/tableless', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+    <label for="tlemail">Entre na nossa TinyLetter:</label>
+    <input type="text" placeholder="Qual o seu e-mail?" name="email" id="tlemail" />
+    <input type="hidden" value="1" name="embed"/><input type="submit" value="Inscrever-se" />
+  </form>
+</div>
   <h2>Últimos posts</h2>
   <ul>
     {{ range first 7 .Site.Pages }}
