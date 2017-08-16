@@ -14,8 +14,6 @@ image: https://cdn-images-1.medium.com/max/800/1*mHnQtkESVGKj91eunuu7GA.jpeg
 ---
 
 
-# Como criar seu primeiro Progressive Web App do Zero
-
 No meu último *post*, fiz uma [Introdução aos Progressive Web
 Apps](https://medium.com/tableless/introduÃ§Ã£o-aos-progressive-web-apps-ad47ba24cddb#.xe70z63nw)
 onde foquei nas motivações de se criar um PWA, ao invés de um *app* nativo, e em
@@ -35,7 +33,7 @@ Então continue a ler esse *post* para aprender:
 
 *****
 
-#### Sobre a aplicação
+## Sobre a aplicação
 
 Primeiramente vamos conhecer a aplicação que iremos adicionar as técnicas
 necessárias para que ela seja transformada em um PWA.
@@ -63,7 +61,7 @@ Para visualizar a aplicação em produção, basta acessar:
 E o código completo aqui:
 [https://github.com/matheusml/pwa-planning-poker](https://github.com/matheusml/pwa-planning-poker)
 
-#### O arquivo manifest.json
+## O arquivo manifest.json
 
 O primeiro passo, e também o mais fácil, é adicionar o arquivo
 [manifest.json](https://developer.mozilla.org/en-US/docs/Web/Manifest).
@@ -103,7 +101,7 @@ Outras fontes boas sobre o arquivo *manifest.json*:
 Format](https://developer.chrome.com/extensions/manifest)
 * [MDN | Web App Manifest](https://developer.mozilla.org/pt-BR/docs/Web/Manifest)
 
-#### O que é um Service Worker?
+## O que é um Service Worker?
 
 Um problema bem comum que os usuários enfrentam desde o começo da *web*, e que
 vem aumentando com o uso dos dispositivos móveis, é a perda da conexão.
@@ -126,7 +124,7 @@ Em resumo, o SW te dá a opção de manipular as requisições que são feitas p
 aplicação e com isso algo que nunca foi possível antes na *web* agora ficou
 extremamente fácil: o funcionamento *offline*.
 
-#### Como criar um Service Worker
+## Como criar um Service Worker
 
 Agora que já sabemos o que é um SW, e pra quê ele serve, vamos aprender a criar
 um do zero.
@@ -173,7 +171,7 @@ API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
 * [Service worker: A revolução da plataforma
 web](https://braziljs.org/blog/service-worker-a-revolucao-da-plataforma-web/)
 
-#### Lighthouse
+## Lighthouse
 
 A forma fácil de saber se você está no caminho certo na construção do seu
 Progressive Web App é usar alguma ferramenta de inspeção, no caso a que eu mais
@@ -189,7 +187,7 @@ Depois basta aguardar o resultado, e visualizar o *feedback* do Google:
 
 *****
 
-#### Conclusão
+## Conclusão
 
 Pra fechar, com alguns simples passos conseguimos transformar nossa aplicação em
 um Progressive Web App, sendo que agora são possíveis: funcionamento *offline*,
