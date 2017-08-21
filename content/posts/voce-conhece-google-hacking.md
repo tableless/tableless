@@ -24,11 +24,11 @@ corrigidas também**!
 
 ## Bora falar de Google
 
-O Google utiliza uma tecnologia chamada **spiders**, ou **webcrowlers **que são
+O Google utiliza uma tecnologia chamada **spiders**, ou **webcrawlers** que são
 robôs que fazem a varredura na web buscando e** indexando as páginas**. Quando
 fazemos uma busca pela ferramenta ela procura por este termo nestas páginas
 indexadas nos retornando **o que estamos procurando de fato**, cada resultado
-retornado é composto por um **titulo**, uma **url **e uma **descrição**.
+retornado é composto por um **titulo**, uma **url** e uma **descrição**.
 
 Um servidor mal configurado pode expor informações da empresa no Google. Não é
 difícil conseguir acesso a arquivos de base de dados através do Google.
@@ -36,49 +36,49 @@ difícil conseguir acesso a arquivos de base de dados através do Google.
 O **Google Hacking** nada mais é que uma prática para encontrar aquivos e/ou
 falhas a partir do Google, usando ele como uma espécie de scanner, dando
 comandos e possibilitando manipular buscas avançadas por strings chamadas de
-“dorks” ou “operadores de pesquisa”.
+"dorks" ou "operadores de pesquisa".
 
 ## Conhecendo as dorks:
 
-Com a composição de **dorks **nós podemos retornar **domínios específicos**,
+Com a composição de **dorks** nós podemos retornar **domínios específicos**,
 **títulos**, **palavras**, **arquivos**, e algumas outras coisas que vamos ver a
 seguir:
 
-“**site:**” — Busca em um site específico
+"**site:**" — Busca em um site específico
 
 ```
 site:exemplo.com.br
 ```
 
-“**intitle:**” — Busca por título de páginas
+"**intitle:**" — Busca por título de páginas
 
 
 ```
-intitle:”< Fazer login”
+intitle:"< Fazer login"
 ```
 
-“**inurl:**” — Busca de termos presentes na url
+"**inurl:**" — Busca de termos presentes na url
 
 ```
 inurl:/wp-admin
 ```
 
-“**intext:**” — Busca por texto no conteúdo do site
+"**intext:**" — Busca por texto no conteúdo do site
 
 ```
 intext:adminpass
 ```
 
-“**filetype:**” — Busca por formato de arquivos (.jpg,.zip,.txt)
+"**filetype:**" — Busca por formato de arquivos (.jpg,.zip,.txt)
 
 ```
 filetype:.txt
 ```
 
 
-“**-termo**” — O “-” exclui o termo da pesquisa
+"**-termo**" — O "-" exclui o termo da pesquisa
 
-“**2015…2017**” — Retorna resultados entre as datas estipuladas
+"**2015…2017**" — Retorna resultados entre as datas estipuladas
 
 Estes são só **alguns operadores**, com uma básica pesquisa sobre o assunto em
 algum buscador **você consegue uma lista mais extensa**, a minha ideia é alertar
@@ -99,8 +99,8 @@ do meu site, como será que eu poderia fazer? Veja:
 alguma brecha de segurança, caso o google esteja mostrando algo que ele não
 devia estar, podemos **corrigir essa falha de um jeito muito simples**, veja:
 
-Caso ainda não tenha, crie um arquivo “**robots.txt**” na pasta **raiz **do seu
-site e vamos escrever uma regra para poder tirar a pasta “**/exemplo**” da
+Caso ainda não tenha, crie um arquivo "**robots.txt**" na pasta **raiz** do seu
+site e vamos escrever uma regra para poder tirar a pasta "**/exemplo**" da
 indexação geral:
 
 ```
@@ -109,19 +109,19 @@ indexação geral:
 ```
 
 Onde o **User-agent** são os mecanismos de busca, neste caso todos eles. <br>
-**Disallow** vc está desativando a pasta “**/exemplo**”.
+**Disallow** vc está desativando a pasta "**/exemplo**".
 
-- **NÃO **bloqueie no robots.txt até que as páginas **JÁ **indexadas sejam
+- **NÃO** bloqueie no robots.txt até que as páginas **JÁ** indexadas sejam
 removidas; <br> - Adicione a meta tag abaixo em todas as páginas que **desejar
 remover**:
 
 ```html
-<meta name=”robots” content=”noindex” />
+<meta name="robots" content="noindex" />
 ```
 
-Outro método simples de fazer isso é usando o **htpaswd **do **.htaccess**, nele
+Outro método simples de fazer isso é usando o **htpaswd** do **.htaccess**, nele
 você pode limitar **por IP** (que pode ser manipulável e **não muito seguro**)
-ou com **senhas **(**recomendável**).
+ou com **senhas** (**recomendável**).
 
 ### Wordpress
 
@@ -160,7 +160,7 @@ temos** com o Wordpress.
 
 ## Bancos de dados de Dorks
 
-São sites em que podemos encontrar uma variedade de **Dorks **para explorar
+São sites em que podemos encontrar uma variedade de **Dorks** para explorar
 vulnerabilidades dos nossos sites e ver como pessoas **maliciosas** agem na
 **prática**.
 
@@ -168,7 +168,7 @@ vulnerabilidades dos nossos sites e ver como pessoas **maliciosas** agem na
 
 O **Exploit-db** creio eu que seja o site referência entre os hackers **do mundo
 todo**, além disso ele tem uma área dedicada somente ao **Google Hacking** com
-milhares de **Dorks **para explorarmos:
+milhares de **Dorks** para explorarmos:
 
 [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database/)
 
@@ -176,7 +176,7 @@ milhares de **Dorks **para explorarmos:
 
 Outro site muito legal (**e nacional**) com um banco de dados gigante de **Dorks
 **é o **InurlBR**, lá tembém podemos encontrar ferramentas desenvolvidas por
-eles em php para busca de **Dorks **automatizadas, vale a pena dar uma olhada:
+eles em php para busca de **Dorks** automatizadas, vale a pena dar uma olhada:
 
 Imaginamos que o cara que quer **fazer merda na internet** tem bastante tempo
 pra gastar com isso, então temos que pensar a frente e tapar todos os buracos
