@@ -17,8 +17,7 @@ Hoje decidi trazer pra vocês algo que não é
 novidade, porém é bem interessante para quem trabalha com web, vamos falar hoje
 sobre **Google Hacking**!
 
-Antes de tudo quero deixar claro que o que vou escrever e ensinar pra você hoje
-**não te dá o direito de invadir a privacidade de ninguém, isso é crime**! O que
+Antes de tudo, lembre-se: você **não tem o direito de invadir a privacidade de ninguém**! O que
 estou fazendo aqui é para **deixar desenvolvedores cientes de falhas que são
 ridiculamente fáceis de serem exploradas e ridiculamente fáceis de serem
 corrigidas também**!
