@@ -1,6 +1,7 @@
 ---
 title: Tudo o que você sabe sobre produtividade pode estar errado
 author: Wanderson Macêdo
+image: http://i.imgur.com/g0oufzX.jpg
 type: post
 date: 2017-08-19
 excerpt: Um review sobre o Mantra da Produtividade
