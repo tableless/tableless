@@ -2,11 +2,13 @@
 title: Introdução ao Elm: diga adeus aos runtime errors
 author: Breno Panzolini
 type: post
-date: 2017-07-31
+date: 2017-08-23
 excerpt: Uma introdução básica à linguagem Elm.
 categories:
   - JavaScript
+  - Elm
   - Tecnologia e Tendências
+image:  https://cdn-images-1.medium.com/max/720/1*I-3kbXzEIAPAPEGiMcAs0A.png
 ---
 
 Nos últimos anos o JavaScript vem cada vez mais ganhando espaço no mundo da programação, seja no front-end quanto no back-end ele já se provou capaz de atender todas as demandas e necessidades de qualquer tipo de projeto.
