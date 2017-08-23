@@ -8,6 +8,9 @@ categories:
   - JavaScript
   - Elm
   - Tecnologia e Tendências
+tags:
+  - Elm
+  - JavaScript
 image:  https://cdn-images-1.medium.com/max/720/1*I-3kbXzEIAPAPEGiMcAs0A.png
 ---
 
