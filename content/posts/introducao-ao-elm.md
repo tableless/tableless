@@ -1,5 +1,5 @@
 ---
-title: Introdução ao Elm: diga adeus aos runtime errors
+title: Introdução ao Elm - diga adeus aos runtime errors
 author: Breno Panzolini
 type: post
 date: 2017-08-23
