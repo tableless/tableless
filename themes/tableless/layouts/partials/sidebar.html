@@ -1,11 +1,24 @@
 <aside class="tb-aside">
   <!-- /7969368/RetanguloMedio-TopoSidebar -->
-  <div id="div-gpt-ad-1491747715151-0" class="tb-banner-sidebar">
+  <!-- <div id="div-gpt-ad-1491747715151-0" class="tb-banner-sidebar">
     <script>
       googletag.cmd.push(function() { googletag.display('div-gpt-ad-1491747715151-0'); });
     </script>
+  </div> -->
+  <div class="tb-banner-sidebar">
+    <script async type='text/javascript' src='//s.clickiocdn.com/t/common_258.js'></script>
+    <script class='__lxGc__' type='text/javascript'>
+    ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_606620']={'i':__lxGc__.b++};
+    </script>
   </div>
 
+  <div class="tb-newsletter">
+ <form action="https://tinyletter.com/tableless" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/tableless', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+    <label for="tlemail">Entre na nossa TinyLetter:</label>
+    <input type="text" placeholder="Qual o seu e-mail?" name="email" id="tlemail" />
+    <input type="hidden" value="1" name="embed"/><input type="submit" value="Inscrever-se" />
+  </form>
+</div>
   <h2>Últimos posts</h2>
   <ul>
     {{ range first 7 .Site.Pages }}
@@ -13,25 +26,19 @@
     {{ end }}
   </ul>
 
-  <div class="tb-book-recommend">
-    <!-- <h2>Dica de compra de Livro</h2> -->
-    <!-- <a href="http://amzn.to/2uxmDDe">
-      <img src="http://wms-na.amazon-adsystem.com/panda/20070822/BR/img/a-logo-amazon.png" alt="">
-      <img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019NG6PH8&Format=_SL250_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=tableless0d-20" >
-      Guia do mestre programador
-      R$ 26,94
-      <strong>Compre agora</strong>
-    </a> -->
-    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=tableless0d-20&marketplace=amazon&region=BR&placement=B019NG6PH8&asins=B019NG6PH8&linkId=5ebaf7458eff40a4c6ff1f6818d00fee&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
-  </div>
-
   <h2>Categorias</h2>
   <ul>
     {{ range first 10 .Site.Taxonomies.categories.ByCount }}
       <li><a href="/categories/{{ .Name | urlize }}" class="tb-categ-link">{{ .Name }}</a> ({{ .Count }})</li>
     {{ end }}
   </ul>
+
+  <div class="tb-banner-sidebar">
+    <script async type='text/javascript' src='//s.clickiocdn.com/t/common_258.js'></script>
+    <script class='__lxGc__' type='text/javascript'>
+    ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_606621']={'i':__lxGc__.b++};
+    </script>
+  </div>
 
 </aside>
 

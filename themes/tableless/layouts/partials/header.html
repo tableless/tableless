@@ -11,10 +11,14 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <meta name="description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}">
+
   <link rel="icon" href="favicon.png">
   <base href="{{ .Site.BaseURL }}">
-  <title>{{ .Title }} - {{ .Site.Title }}</title>
-
+  <title>
+    {{if $.Scratch.Get "single"}}{{.Title}} - {{ .Site.Title }}{{end}}
+    {{if .IsHome}}{{.Site.Title}} - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web{{end}}
+  </title>
   <link rel="canonical" href="{{ .Permalink }}">
 
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900" rel="stylesheet">
@@ -40,6 +44,7 @@
   <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
 
   {{if .IsHome}}
+  
   <script type='application/ld+json'>
     {
       "@context": "http://www.schema.org",
@@ -133,6 +138,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><a href="{{ .Site.BaseURL}}categories/angularjs" class="tb-menu-link">AngularJS</a></li>
             <li><a href="{{ .Site.BaseURL}}categories/ajax" class="tb-menu-link">Ajax</a></li>
             <li><a href="{{ .Site.BaseURL}}categories/meteor" class="tb-menu-link">Meteor</a></li>
+            <li><a href="{{ .Site.BaseURL}}categories/elm" class="tb-menu-link">Elm</a></li>
           </ul>
         </li>
         <li><a href="{{ .Site.BaseURL}}categories/php" class="tb-menu-link">PHP</a></li>
