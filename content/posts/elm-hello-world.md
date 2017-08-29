@@ -21,17 +21,17 @@ Hoje vamos abordar como instalar o Elm e fazer o seu primeiro Hello World, garan
 
 A forma mais fácil e prática de instalar o Elm é através do **npm**. Porém, se você preferir utilizar um instalador no Windows ou Mac é só acessar a [página oficial][2] e fazer o download.
 
-```npm
+```
 npm install -g elm
 ```
 
 Atenção: se você estiver utilizando Linux talvez pode ser que ocorra um erro de permissão na hora da instalação (mesmo rodando com privilégios de sudo). Se esse for o seu caso sugiro instalar o Elm através do **yarn** (é mais prático do que alterar as configurações globais do npm).
 
 ```
-sudo yarn global add elm
+yarn global add elm
 ```
 
-Após a instalação você terá disponível os seguintes comandos:
+Após a instalação você terá disponíveis os seguintes comandos:
 
 * elm-repl: é o runtime event loop, permite escrever algumas expressões direto no console.
 
@@ -56,9 +56,9 @@ touch Main.elm
 Com o arquivo criado, basta abrir no seu editor favorito (para o exemplo eu estou utilizando o VS Code com a extensão do elm para os *highlights* e o elm-format para identação automática) e escrever o seguinte código:
 
 ```elm
-import Html;
-
 module Main exposing(..)
+
+import Html
 
 main = 
   Html.text "Hello World"
@@ -66,11 +66,11 @@ main =
 
 Sei que provavelmente você ainda não deve estar entendendo nada, mas calma que logo abaixo vamos detalhar linha a linha desse nosso primeiro Hello World.
 
-Para executar o que acabamos de fazer, basta ir no console e chamar o **elm-reactor** para iniciar a aplicação e acessar no browser através do endereço [http://localhost:8000/Main.elm][4].
+Para executar o que acabamos de fazer, basta ir no console e chamar o **elm-reactor** para iniciar a aplicação e acessar no browser através do endereço http://localhost:8000/Main.elm.
 
 ![elm-reactor](http://i.imgur.com/jSCnIkz.png)
 
-Observação: na primeira vez que acessar a página pode ser que demore alguns instantes pois nesse primeiro acesso o Elm está baixando todos os packages necessários para rodar seu projeto.
+Observação: na primeira vez que acessar a página pode ser que demore alguns instantes, pois nesse primeiro acesso o Elm está baixando todos os pacotes necessários para rodar seu projeto.
 
 ## Detalhando o código linha por linha
 
@@ -78,11 +78,11 @@ Vou explicar agora passo a passo o que exatamente cada linha do código acima fa
 
 1. import Html
 
-O Elm tem vários módulos que não são carregados por padrão, um deles é o Html que serve para dar o "output" em Html e por isso começamos primeiramente carregando esse módulo.
+O Elm tem vários módulos que não são carregados por padrão. Um deles é o Html, que serve para dar o "output" em Html e por isso começamos primeiramente carregando esse módulo.
 
 2. module Main exposing(..)
 
-Todo arquivo Elm por padrão é um módulo, esse nome do módulo tem que ser igual ao nome do arquivo criado (no caso do exemplo Main). Quando escrevemos um módulo podemos expor determinadas funções para serem utilizadas em outros módulos, o **exposing(..)** significa que estamos expondo todas as funções desse módulo.
+Todo arquivo Elm por padrão é um módulo, cujo nome tem que ser igual ao nome do arquivo criado (no caso do exemplo Main). Quando escrevemos um módulo podemos expor determinadas funções para serem utilizadas em outros módulos. O **exposing(..)** significa que estamos expondo todas as funções desse módulo.
 
 3. main = 
      Html.text "Hello World"
@@ -109,16 +109,17 @@ Primeiramente criamos uma função chamada *view* que recebe um argumento chamad
 
 Perceba também que agora na nossa função principal, ao invés de passar um texto fixo, estamos chamando a nossa função *view* passando o argumento.
 
+Como já havíamos executado o elm-reactor, após feita essa alteração não existe a necessidade de executá-lo novamente. Basta salvar o arquivo e atualizar o navegador para ver as modificações.
+
 ## Conclusão
 
 Esse artigo foi para mostrar como se fazer a instalação do Elm, e mostrar um pouco dos passos iniciais da linguagem.
 
 No site oficial existe uma [coleção de exemplos][5] para quem quiser se aprofundar mais nos conceitos da linguagem.
 
-No próximo artigo vamos ver como trabalhar com **Decoders**, que é a forma como fazemos para "decodificar" um request Json. E, a partir daí construir realmente aplicações "reais".
+No próximo artigo vamos ver como trabalhar com **Decoders**, que é a forma como fazemos para "decodificar" um request JSON. E, a partir daí construir realmente aplicações "reais".
 
 [1]: https://tableless.com.br/introducao-ao-elm/
 [2]: https://guide.elm-lang.org/install.html
 [3]: http://package.elm-lang.org/
-[4]: http://localhost:8000:Main.elm
 [5]: http://elm-lang.org/examples
