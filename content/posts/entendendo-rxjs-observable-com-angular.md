@@ -4,18 +4,18 @@ author: Wendel Nascimento
 type: post
 image: https://cdn-images-1.medium.com/max/2000/1*P5tBdMSr8xMblX9LDgHm8A.png
 date: 2017-08-08
-excerpt: Uma forma simples, com exemplos reais de como utilizar RxJS e aplicar conceitos de programação reativa com Angular
+excerpt: Uma forma simples de utilizar RxJS para aplicar conceitos de programação reativa com Angular
 categories:
   - JavaScript
   - Tecnologia e Tendências
   - AngularJS
 ---
 
-Após passar por um projeto com *Angular 2*(ou somente *Angular*, para os mais íntimos) posso dizer que: É um *framework* com muitas vantagens, e uma das coisas mais fascinantes que conheci foi uma biblioteca maravilhosa que é o *[RxJS](https://github.com/Reactive-Extensions/RxJS)*(estude este cara e verá as maravilhas de um mundo moderno) e conheci este cara que mudou a minha vida, o famoso ***Observable***.
+Após passar por um projeto com *Angular 2* (ou somente *Angular*, para os mais íntimos) posso dizer que: É um *framework* com muitas vantagens, e uma das coisas mais fascinantes que conheci foi a biblioteca *[RxJS](https://github.com/Reactive-Extensions/RxJS)* (estude este cara e verá as maravilhas de um mundo moderno), o famoso ***Observable*** mudou minha vida.
 
 ### O que é um Observable?
 
-Por definição é uma coleção que funciona de forma unidirecional, ou seja, ele emite notificações sempre que ocorre uma mudança em um de seus itens e a partir disto podemos executar uma ação. Digamos que ele resolve o mesmo problema que a versão anterior do *Angular* havia resolvido com o *$watch*, porém sem usar força bruta. Enquanto no *$watch* verificamos todo nosso escopo por alterações após cada *$digest cycle*(o que tem um grande custo na performance), com *Observable* esta verificação não acontece, pois para cada evento é emitida uma notificação para nosso *Observable* e então tratamos os dados.
+Por definição é uma coleção que funciona de forma unidirecional, ou seja, ele emite notificações sempre que ocorre uma mudança em um de seus itens e a partir disso podemos executar uma ação. Digamos que ele resolve o mesmo problema que a versão anterior do *Angular* havia resolvido com o *$watch*, porém sem usar força bruta. Enquanto no *$watch* verificamos todo nosso escopo por alterações após cada *$digest cycle* (o que tem um grande custo na performance), com *Observable* esta verificação não acontece, pois para cada evento é emitida uma notificação para nosso *Observable* e então tratamos os dados.
 
 ### O que faço com Observable? E onde entra Angular nessa história?
 
@@ -24,12 +24,10 @@ Vamos imaginar o consumo de uma *web service*, algo bem comum em aplicação *Si
     getUsers(): Promise<User[]>{
       return fetch(myApiUrl)
       .then(res=>res.json())
-      .catch(err=>{
-         throw new Error(err.message);  
-       });
+      .catch(err=> Observable.throw(err.message));
     }
 
-O código acima é bem simples, estamos buscando um recurso(Uma lista de usuários, neste caso) e após a resposta transformamos tudo em *JSON.*
+O código acima é bem simples, estamos buscando um recurso (Uma lista de usuários) e após a resposta transformamos tudo em *JSON.*
 
 Entretanto, o novo Angular foi construído pensando em aplicações reativas, abandonando o uso de *Promises* e adotando por padrão o ***Observable***.
 
@@ -41,9 +39,7 @@ Usando Observable a mesma função ficaria da seguinte maneira:
      getUsers(): Observable<User[]> {
         return this.http.get(myApiUrl)
                         .map(res=>res.json())
-                        .catch(err=>{
-                           throw new Error(err.message);  
-                        });
+                        .catch(err=> Observable.throw(err.message));
      } 
      ...
     }
@@ -52,7 +48,7 @@ Usando Observable a mesma função ficaria da seguinte maneira:
 
 A grande vantagem está nos “poderes” que o *Observable* nos dá com seus **operadores**, por exemplo: Podemos “cancelar” *requests* para poupar processamento, ou até mesmo tentar fazer uma nova requisição caso algum problema como perda de conexão aconteça.
 
-O usuário não precisa ver aquela tela de erro, afinal, ele não tem culpa.
+O usuário não precisa ver aquela tela de erro.
 
 ### Operador Subscribe
 
@@ -89,8 +85,8 @@ Se ainda assim você quer muito usar *Angular* em seu projeto e não quer utiliz
 
 ### Operador Retry
 
-Vamos supor que você está tentando fazer o download de um arquivo, mas está em uma conexão com muita oscilação(o que convenhamos que é bem comum no Brasil), é de se esperar que o download falhe.
-Nestes casos podemos utilizar o operador *retry*, que é extremamente simples e funciona da seguinte forma: Se a operação falhar, será executada novamente para tentar completá-la(a quantidade de tentativas é especificada como parâmetro do *retry*). No código ficaria algo parecido com isso:
+Vamos supor que você está tentando fazer o download de um arquivo, mas está em uma conexão com muita oscilação (o que convenhamos que é bem comum no Brasil), é de se esperar que o download falhe.
+Nestes casos podemos utilizar o operador *retry*, que é extremamente simples e funciona da seguinte forma: Se a operação falhar, será executada novamente para tentar completá-la (a quantidade de tentativas é especificada como parâmetro do *retry*). No código ficaria algo parecido com isso:
 
     @Injectable()
     class downloadFileService {
@@ -112,11 +108,11 @@ Nestes casos podemos utilizar o operador *retry*, que é extremamente simples e 
 
 E se em nossa lista de usuários houvesse uma barra de pesquisa onde ao digitar qualquer tecla já fosse disparada a requisição para filtrar os usuários? Parece bem simples. Normalmente, no event *keyup* do campo colocaríamos uma função que filtraria a lista com base no que foi digitado, mas isso tem um problema: Para cada tecla digitada seria gerada uma nova requisição e toda a lista de usuários seria substituída.
 
-Concordemos que substituir a lista a cada letra digitada não é o que queremos fazer, em um mundo perfeito, a única *request* que deve ser considerada é a gerada pelo evento da última letra digitada, isto pode ser resolvido com dois métodos do *Observable*, o *switchMap* e o *debounceTime*.
+Concordemos que substituir a lista a cada letra digitada não é o que queremos fazer. Em um mundo perfeito, a única *request* que deve ser considerada é a gerada pelo evento da última letra digitada, isto pode ser resolvido com dois métodos do *Observable*, o *switchMap* e o *debounceTime*.
 
 ### Operador switchMap
 
-Este operador soluciona um dos problemas, que é termos de processar todas as respostas, mesmo mais antigas. Por exemplo: Se você pesquisou por **Paulo**, serão 5 requisições, uma para cada letra, você irá construir os objetos e substituir em seu array 5 vezes, é algo custoso.
+Este operador soluciona um dos problemas, mesmo mais antigas. Por exemplo: Se você pesquisou por **Paulo**, serão 5 requisições, uma para cada letra, você irá construir os objetos e substituir em seu array 5 vezes, é algo custoso.
 
 O *switchMap* é um dos operadores que você irá usar e se orgulhar infinitamente. Se você fez 5 requisições, ele irá processar apenas a última delas, que é a que realmente importa para nós, construiremos nosso objeto uma vez e substituiremos o array somente uma vez. Seu uso é simples, assim como todos os operadores que vimos até agora.
 
@@ -150,7 +146,7 @@ O *switchMap* é um dos operadores que você irá usar e se orgulhar infinitamen
       ...
     }
 
-Temos um pouco mais de código, mas nada muito complexo, a lógica é simples: No evento *keyup* da barra de pesquisa a função ***handleFilterChange*** é chamada e ela adiciona o valor ao *[Subject](http://reactivex.io/documentation/subject.html)*(que em tese, é uma versão bidirecional do *Observable*), após isso, temos no *ngOnInit* a variável *users* recebendo o resultado do *switchMap*, que busca os usuários filtrando com o valor passado. Sendo assim, quando digitarmos *“Paulo”*, apenas a última requisição será processada e terá seu valor atribuído à variável *users*, pois foi a última a ser enviada.
+Temos um pouco mais de código, mas nada muito complexo, a lógica é simples: No evento *keyup* da barra de pesquisa a função ***handleFilterChange*** é chamada e ela adiciona o valor ao *[Subject](http://reactivex.io/documentation/subject.html)* (que em tese, é uma versão bidirecional do *Observable*), após isso, temos no *ngOnInit* a variável *users* recebendo o resultado do *switchMap*, que busca os usuários filtrando com o valor passado. Sendo assim, quando digitarmos *“Paulo”*, apenas a última requisição será processada e terá seu valor atribuído à variável *users*, pois foi a última a ser enviada.
 
 Mas ainda assim, podemos diminuir este número para apenas uma requisição, e poupar, além de processamento, consumo de dados!
 
@@ -197,6 +193,6 @@ Com o código que havíamos feito anteriormente ficaria assim:
 
 Com isso temos um componente de pesquisa sensacional, e com pouquíssimas linhas de código. Tudo com o poder do *Observable*!
 
-Estes operadores são apenas alguns entre muitos que o ***Observable*** possui, com um pouco mais de leitura podemos aprender a utilizá-los e otimizar muito nossa aplicação, tornando-a não apenas mais rápida, mas também mais inteligente, ajudando o usuário a poupar processamento e dados(o que deve ser uma preocupação, principalmente pensando em aplicações que tendem a ser mais utilizadas em dispositivos móveis).
+Estes operadores são apenas alguns entre muitos que o ***Observable*** possui. Com um pouco mais de leitura podemos aprender a utilizá-los e otimizar muito nossa aplicação, tornando-a não apenas mais rápida, mas também mais inteligente, ajudando o usuário a poupar processamento e dados (o que deve ser uma preocupação, principalmente pensando em aplicações que tendem a ser mais utilizadas em dispositivos móveis).
 
-Quanto mais reativa é a solução que você precisa, melhor é trabalhar com *Observable*, isso quer dizer que se você está trabalhando com uma aplicação que funcione de forma assíncrona(onde a ordem de execução não é um fator denominante para o funcionamento, com *Observable* não existem operações blocantes) ou *realtime*, as vantagens crescem muito se compararmos o trabalho que teríamos utilizando *Promises*, por exemplo. O poder que o *RxJS* nos dá para trabalhar com múltiplos eventos de forma completamente assíncrona pode nos ajudar a construir aplicações muito mais consistentes e resilientes.
+Quanto mais reativa é a solução que você precisa, melhor é trabalhar com *Observable*. Isso quer dizer que se você está trabalhando com uma aplicação que funcione de forma assíncrona (onde a ordem de execução não é um fator determinante para o funcionamento, com *Observable* não existem operações blocantes) ou *realtime*, as vantagens crescem muito se compararmos o trabalho que teríamos utilizando *Promises*, por exemplo. O poder que o *RxJS* nos dá para trabalhar com múltiplos eventos de forma completamente assíncrona pode nos ajudar a construir aplicações muito mais consistentes e resilientes.
