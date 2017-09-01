@@ -65,13 +65,16 @@ Algumas iniciativas destinadas para mulheres ou lideradas por mulheres:
 - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/)
 
 
-### Artigos
+### Artigos e outras coisas
 Alguns artigos sobre poder feminino no mercado de TI:
 
+- [030 - Deb Xavier: criando uma rede poderosa para incentivar o protagonismo profissional feminino](https://www.youtube.com/watch?v=H9EJF3Q1mis)
 - [Mulheres na TI: codando a igualdade](https://imasters.com.br/desenvolvimento/mulheres-na-ti-codando-igualdade/)
 - [Ajudando Mulheres a se tornarem Palestrantes TECH — #1 Desconstrução do Medo](https://medium.com/@bernarddeluna/ajudando-mulheres-a-se-tornarem-palestrantes-tech-1-desconstrução-do-medo-2a2c4e3c33cb)
+- [Todos nós deveríamos ser feministas | Chimamanda Ngozi Adichie | TEDxEuston](https://www.youtube.com/watch?v=hg3umXU_qWc)
 - [Como organizamos o Rails Girls e como você pode começar a programar](http://shipit.resultadosdigitais.com.br/blog/como-organizamos-o-rails-girls-e-como-voce-pode-comecar-a-programar/)
 - [Comitê de Diversidade](https://braziljs.org/comite-de-diversidade/)
+- [Empoderamento feminino | Maíra Liguori](https://www.youtube.com/watch?v=0HBeBrp3xJc)
 - [The TechGirlz Manifesto](https://code.likeagirl.io/the-techgirlz-manifesto-20a0b798bc19)
 - [Falei sobre os machistas no Twitter (e eles não gostaram)](https://medium.com/@liviamorim/falei-sobre-os-machistas-no-twitter-e-eles-não-gostaram-b9873a4ef075)
 - [I finally got a job as a Software Engineer!](https://code.likeagirl.io/i-finally-got-a-job-as-a-software-engineer-a83c7a745afb)
