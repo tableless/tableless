@@ -9,6 +9,7 @@ categories:
   - Na Prática
   - Artigos
   - Tecnologia e Tendências
+image: http://i.imgur.com/nrRWK4S.jpg
 ---
 
 Faz algum tempo que tenho me dedicado a não escrever tantos artigos técnicos. Se você perceber, tenho escrito cada vez menos artigos falando sobre linhas de código e mais artigos falando sobre comportamento, mercado e carreira. Tenho feito isso por vários motivos, mas o mais básico é que eu acho que o mercado precisa amadurecer em outros pontos que nada tem a ver com a parte técnica. 
