@@ -2,7 +2,7 @@
 title: Websites para as massas
 excerpt: Todo mundo precisa de um website e você precisa escolher a faixa de clientes que você quer trabalhar.
 author: Tableless
-image: https://i.imgur.com/QQQT6vw.jpg
+image: https://i.imgur.com/5pwJaUt.jpg
 type: post
 date: 2017-09-02
 categories:
