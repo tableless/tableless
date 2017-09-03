@@ -2,8 +2,8 @@
 title: Entendendo RxJS Observable com Angular
 author: Wendel Nascimento
 type: post
-image: https://cdn-images-1.medium.com/max/2000/1*P5tBdMSr8xMblX9LDgHm8A.png
-date: 2017-09-01
+image: https://i.imgur.com/da746Te.png
+date: 2017-09-03
 excerpt: Uma forma simples de utilizar RxJS para aplicar conceitos de programação reativa com Angular
 categories:
   - JavaScript
