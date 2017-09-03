@@ -11,6 +11,10 @@ cd themes/tableless/static/css/
 sass --watch style.sass:style.css --style compressed
 ```
 
+As vezes quando tento rodar o server do Hugo, acontece de dar um erro no terminal assim: `ERROR 2017/09/03 08:56:44 Error: listen tcp 127.0.0.1:1313: socket: too many open files in system`
+
+Consegui resolver, eu acho, usando as dicas desse link: [https://blog.dekstroza.io/ulimit-shenanigans-on-osx-el-capitan/](https://blog.dekstroza.io/ulimit-shenanigans-on-osx-el-capitan/)
+
 ## Hugo
 O gerador que estamos usando agora é o [Hugo](https://gohugo.io/)... um gerador de arquivos estáticos escrito em Go.
 
