@@ -14,7 +14,7 @@
   </p>
   {{ partial "byauthor.html" . }}
   {{ partial "postdate.html" . }}
-  <a href="{{ .Permalink }}#disqus_thread" class="tb-lnk-comments">Comentários</a>
+  <a href="{{ .Permalink }}#disqus_thread" class="tb-lnk-comments">Seja o primeiro a comentar!</a>
 </section>
 {{end}}
 
@@ -22,6 +22,14 @@
   {{ range first 3 (after 1 .Pages)}}
   {{ partial "postbox.html" . }}
   {{end}}
+</section>
+
+<section class="tb-banner-home">
+  <div class="tb-banner-inner">
+    <script class='__lxGc__' type='text/javascript'>
+    ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_607086']={'i':__lxGc__.b++};
+    </script>
+  </div>
 </section>
 
 <section class="tb-posts-categs">
