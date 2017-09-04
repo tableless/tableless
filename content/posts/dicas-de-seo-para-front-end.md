@@ -12,6 +12,7 @@ tags:
   - SEO
 
 ---
+
 ## 1 &#8211; Webmaster Tools
 
 [Webmaster Tools][1] é uma ferramenta disponibilizada pelo Google e através dela você pode medir o desempenho de seu site, ter informações bem completas de erros e melhorias e muito mais para você que queira investir em otimização.
@@ -28,13 +29,13 @@ Vai lá e da uma olhadinha em tudo isso.
 
 ## 2 &#8211; A tag Title e Description
 
-A tag **<title>** é uma das coisas que o Google mais da relevância na otimização do seu site, sempre planeje bem o que você vai colocar no titulo de sua página, para que seu cliente saiba o que ele vai encontrar entrando nela.
+A tag **&lt;title&gt;** é uma das coisas que o Google mais da relevância na otimização do seu site, sempre planeje bem o que você vai colocar no titulo de sua página, para que seu cliente saiba o que ele vai encontrar entrando nela.
 
-A tag **<description>** também é um dos passos mais importantes na otimização de seu site, e é ele que vai levar a seu cliente uma breve descrição do que ele vai encontrar entrando em sua página.
+A tag **&lt;description&gt;** também é um dos passos mais importantes na otimização de seu site, e é ele que vai levar a seu cliente uma breve descrição do que ele vai encontrar entrando em sua página.
 
 Ah vocês lembram da nossa ferramenta ali em cima, o Webmaster Tools? Ele também nos ajuda bastante com nossas tags Title e Description, entrando no Webmaster Tools indo em **Aspecto da pesquisa > Melhorias de HTML**, lá você encontrará alguns erros reportados, como:
 
-Quais são as páginas que tem meta tag **<title>** e **<description>** duplicadas, longas demais, curtas demais ou até mesmo as páginas que não possuem title, é só você entrar la e ajustar.
+Quais são as páginas que tem meta tag **&lt;title&gt;** e **&lt;description&gt;** duplicadas, longas demais, curtas demais ou até mesmo as páginas que não possuem title, é só você entrar la e ajustar.
 
 ## 3 &#8211; URL amigável
 
