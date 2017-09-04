@@ -62,7 +62,8 @@ Algumas iniciativas destinadas para as mulheres ou lideradas por mulheres:
 - [Code Like a Girl](https://twitter.com/CodeLikeAGirlBR)
 - [Senai Code Experience](https://codexp.sp.senai.br/)
 - [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/)
-
+- [PodProgramar](https://mundopodcast.com.br/podprogramar/)
+- [Women Techmakers](https://www.womentechmakers.com/)
 
 ### Artigos e outras coisas
 Alguns artigos sobre poder feminino no mercado de TI:
