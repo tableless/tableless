@@ -18,19 +18,18 @@ Um desses pontos é o respeito pelo próximo, principalmente pelas mulheres. As 
 
 Mas nos últimos anos, as mulheres tecnológicas desse país tem se juntado numa força única, fazendo com que as mulheres ganhem mais espaço nessa área, com mais igualdade e respeito. Mas, sinceramente, eu não sou a melhor pessoa para falar sobre isso, como disse no início, não sou mulher e não saberia retratar aqui qualquer tipo de dificuldade. Contudo, você não precisa saber muita coisa para não ser um babaca, você só precisa ter respeito.
 
-Há uma grande possibilidade de você que está lendo esse artigo ser homem. Se for, há uma grande possibilidade de você fazer piadinhas machistas, de olhar para uma mulher e assobiar, de comentar com seu amiguinho do lado sobre a “mina” que passou de saia… Essas coisas “pequenas e sem importância” só apontam que falta respeito da sua parte para com as mulheres. Se essa bobeira continuar, NUNCA teremos um ambiente saudável para todas as pessoas.
+Há uma grande possibilidade de você que está lendo esse artigo ser homem. Se for, há uma grande possibilidade de você fazer piadinhas machistas, de olhar para uma mulher e assobiar, de comentar com seu amiguinho do lado sobre a “mina” que passou de saia… Essas coisas “pequenas e sem importância” só apontam a falta de respeito da sua parte para com as mulheres. Se essa bobeira continuar, NUNCA teremos um ambiente saudável para todas as pessoas.
 
-O mínimo que você, homem bonito que trabalha nessa área de TI, deve fazer é ter **respeito**. Piadinhas importam sim. Assobios importam sim.  Comentários velados importam sim. O jeito que você trata as mulheres quando você está conversando sozinho com o seu melhor amigo, importa sim... Porque o respeito de verdade não é dado apenas na presença de uma mulher, mas principalmente na ausência dela. Este é o respeito genuíno. Uma piada machista não deixa de ser machista se for feita na presença apenas de homens. 
+O mínimo que você, homem, que trabalha nessa área de TI precisa fazer é ter **respeito**. Piadinhas importam sim. Assobios importam sim. Comentários velados importam sim. O jeito que você trata as mulheres quando você está conversando sozinho com o seu melhor amigo, importa sim... Porque o respeito de verdade não é dado apenas na presença de uma mulher, mas principalmente na ausência dela. Este é o respeito genuíno. Uma piada machista não deixa de ser machista se for feita apenas na presença de homens. 
 
-O ambiente cruel é um dos motivos de não haver mais mulheres nessa área. É difícil encontrar lugares onde o ambiente seja confortável para mulheres. Ambientes que incentivam a diversidade só podem existir se houver respeito entre os seres viventes (haha) desses ambientes.
+O ambiente cruel é um dos motivos de não haver mais mulheres nessa área. É difícil encontrar lugares onde o ambiente seja realmente agradável e confortável para as mulheres. Ambientes que incentivam a diversidade só podem existir se houver respeito entre os seres viventes (hehehe!) desses ambientes.
 
-Os famosos Códigos de Conduta que os eventos começaram a divulgar uns anos atrás, existem exatamente para criar que um ambiente "seguro". Eu sou contra ter um Código de Conduta, não porque eu acho errado, mas porque não entra na minha cabeça que nós precisamos ensinar pessoas a criarem um ambiente "livre de assédio para todos". Mas infelizmente existem os babacas e nós precisamos ajudá-los a serem pessoas melhores. Logo, códigos de conduta são necessários e importantes para criar uma cultura ótima.
+Os famosos Códigos de Conduta que os eventos começaram a divulgar uns anos atrás, existem exatamente para criar um ambiente "seguro". E eu confesso: sou totalmente contra ter um Código de Conduta, não porque eu acho errado, mas porque não entra na minha cabeça que em pleno 2017 *nós precisamos ensinar pessoas a criarem um ambiente "livre de assédio para todos"*. Mas *infelizmente existem os babacas* e nós precisamos ajudá-los a serem pessoas melhores. Logo, Códigos de Conduta são necessários e importantes para criar uma cultura ótima.
 
 Então, a minha dica é simples: Não seja babaca. E para não ser babaca é mais simples ainda: tenha respeito pela pessoa próxima a você.
 
 ## Iniciativas, heroínas e discursos
-Para finalizar esse rap, é interessante que você saiba e divulgue também as iniciativas que a mulherada tem feito Brasil afora, não apenas para fortalecer a identidade feminina nesse mercado, mas também para ajudar o mercado a crescer em todos os sentidos, inclusive guiando a galera jovem que está chegando agora nesse mundão complexo do desenvolvimento web. 
-
+Para finalizar esse rap, é interessante que você saiba e divulgue as iniciativas que a mulherada tem feito Brasil afora, não apenas para fortalecer a identidade feminina nesse mercado, mas também para ajudar o mercado a crescer em todos os sentidos, inclusive guiando a galera jovem que está chegando agora nesse mundão complexo do desenvolvimento web. 
 
 ### Mulheres para seguir
 Algumas heroínas que você deveria seguir. Elas manjam MUITO sobre desenvolvimento web, sobre cultura feminina, mercado e carreira. 
@@ -49,11 +48,11 @@ Algumas heroínas que você deveria seguir. Elas manjam MUITO sobre desenvolvime
 - [Amanda Rover](https://github.com/amandarover)
 - [Daniela Araujo](https://twitter.com/nyan07)
 
-E uma menção especial para duas das mulheres que mais admiro nesse mundão das interwebs. [Lucia Freitas](https://ladybugbrazil.com/) e a [Simone Villas Boas](http://s1mone.net/). 
+E uma menção especial para duas das mulheres que mais admiro nesse mundão das interwebs: [Lucia Freitas](https://ladybugbrazil.com/) e a [Simone Villas Boas](http://s1mone.net/). 
 
 
 ### Iniciativas
-Algumas iniciativas destinadas para mulheres ou lideradas por mulheres:
+Algumas iniciativas destinadas para as mulheres ou lideradas por mulheres:
 
 - [Luluzinha Camp](https://www.luluzinhacamp.com/)
 - [Rails Girls](http://railsgirls.com/)
