@@ -2,7 +2,7 @@
 title: Mulheres na área de TI e Respeito
 author: Diego Eis
 type: post
-date: 2017-09-01
+date: 2017-09-02
 excerpt: Você não precisa de muito para criar um ambiente ótimo para as mulheres, você só precisa de respeito.
 categories:
   - Diversidade

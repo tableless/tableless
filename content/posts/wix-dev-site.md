@@ -4,7 +4,7 @@ excerpt: Todo mundo precisa de um website e você precisa escolher a faixa de cl
 author: Tableless
 image: https://i.imgur.com/5pwJaUt.jpg
 type: post
-date: 2017-09-02
+date: 2017-09-01
 categories:
   - Ferramentas
   - Técnicas e Práticas
