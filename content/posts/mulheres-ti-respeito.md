@@ -38,7 +38,7 @@ Algumas heroínas que você deveria seguir. Elas manjam MUITO sobre desenvolvime
 - [Talita Pagani](http://talitapagani.com/)
 - [Alda Rocha](https://mjcoffeeholick.github.io/)
 - [Vanessa Me Tonini](https://github.com/vanessametonini)
-- [Aline Barros](https://twitter.com/AlineBastos)
+- [Aline Bastos](https://twitter.com/AlineBastos)
 - [Livia Amorim](https://t.co/93wjxzJZJP)
 - [Evelyn](http://transnerd.com.br/)
 - [Iana Chan](http://www.programaria.org/)
