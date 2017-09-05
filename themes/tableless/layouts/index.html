@@ -14,7 +14,7 @@
   </p>
   {{ partial "byauthor.html" . }}
   {{ partial "postdate.html" . }}
-  <a href="{{ .Permalink }}#disqus_thread" class="tb-lnk-comments">Comentários</a>
+  <a href="{{ .Permalink }}#disqus_thread" class="tb-lnk-comments">Seja o primeiro a comentar!</a>
 </section>
 {{end}}
 
@@ -22,6 +22,14 @@
   {{ range first 3 (after 1 .Pages)}}
   {{ partial "postbox.html" . }}
   {{end}}
+</section>
+
+<section class="tb-banner-home">
+  <div class="tb-banner-inner">
+    <script class='__lxGc__' type='text/javascript'>
+    ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_607086']={'i':__lxGc__.b++};
+    </script>
+  </div>
 </section>
 
 <section class="tb-posts-categs">
@@ -72,7 +80,8 @@
     <li><a class="tb-comuna-banner" id="tb-banner-jssp" href="https://www.meetup.com/pt-BR/Javascript-SP/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/comuna-jssp.png"></a></li>
     <li><a class="tb-comuna-banner" id="tb-banner-femugsp" href="https://www.meetup.com/pt-BR/femugsp/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/comuna-femugsp.png"></a></li>
     <li><a class="tb-comuna-banner" id="tb-banner-reactjssp" href="https://www.meetup.com/pt-BR/ReactJS-SP/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/comuna-reactsp.png"></a></li>
-    <li><a class="tb-comuna-banner" id="tb-banner-htmlsp" href="https://www.meetup.com/pt-BR/html-sp/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/comuna-html5meetup.png"></a></li>
+    <!-- <li><a class="tb-comuna-banner" id="tb-banner-htmlsp" href="https://www.meetup.com/pt-BR/html-sp/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/comuna-html5meetup.png"></a></li> -->
+    <li><a class="tb-comuna-banner" id="tb-banner-codamos" href="https://www.meetup.com/pt-BR/Codamos-Club/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/comuna-codamos.png"></a></li>
     <li><a class="tb-comuna-banner" id="tb-banner-csssp" href="https://www.meetup.com/pt-BR/CSS-SP/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/comuna-meetupcss.png"></a></li>
     <li><a class="tb-comuna-banner" id="tb-banner-processosdev" href="https://www.meetup.com/pt-BR/Processos/?utm_source=tableless&utm_medium=banner_tableless"><img src="images/comuna-processosdev.png"></a></li>
   </ul>
