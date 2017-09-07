@@ -2,8 +2,7 @@
 title: Seu primeiro Hello World em Elm
 author: Breno Panzolini
 type: post
-date: 2017-09-05
-draft: true
+date: 2017-09-07
 excerpt: Guia de como instalar o Elm e fazer seu primeiro Hello World.
 categories:
   - Elm
