@@ -7,7 +7,7 @@ excerpt: Insert sort, selection sort, quick sort, etc. Legal, mas onde esses alg
 categories:
   - JavaScript
   - Na Prática
-image: http://i.imgur.com/nrRWK4S.jpg
+image: https://i.imgur.com/sZptluM.jpg
 ---
 
 [Insert sort](https://pt.wikipedia.org/wiki/Insertion_sort), [selection
