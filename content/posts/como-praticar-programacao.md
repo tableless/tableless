@@ -3,17 +3,19 @@ title: Como Aumentar Suas Skills em Programação de Forma Divertida
 author: Breno Panzolini
 type: post
 date: 2017-09-06
-excerpt: Dicas de sites divertidos para aumentar suas habilidades em determinada linguagem de programação, ou até mesmo aprender uma linguagem nova.
+excerpt: Sites divertidos para aumentar suas habilidades em programação, ou aprender uma nova linguagem.
 categories:
   - Tecnologia e Tendências
 tags:
   - Tecnologia e Tendências
+  - Code Fights
+  - Code Wars
 image: http://i.stack.imgur.com/j4j1p.png
 ---
 
-Sempre gostei muito de conhecer e aprender novas linguagens de programação. Lia livros, assistia vídeos no YouTube e seguia os tutoriais, porém o que sempre acabava fazendo eu esquecer determinada linguagem era justamente a falta de prática.
+Sempre gostei de conhecer e aprender novas linguagens de programação. Porém, a falta de prática sempre acabava me fazendo esquecer os conceitos vistos na linguagem.
 
-Foi a partir da vontade de praticar que acabei encontrando esses 2 sites que vou compartilhar com vocês. Eles me ajudam muito até hoje e espero que ajude vocês também.
+Foi a partir da vontade de praticar que acabei encontrando esses 2 sites que vou compartilhar com vocês. Eles me ajudam muito e espero que ajude vocês também.
 
 # Code Fights
 
@@ -31,7 +33,7 @@ O site é bem intuitivo e tem muitas (muitas mesmo) coisas legais. Vou citar as 
 
 Acima eu citei apenas alguns modos que o Code Fight oferece, no site você vai encontrar uma série de outras coisas legais para evoluir como programador.
 
-Além disso tudo, a parte de **gamification** é muito bem feita o que nós deixa ainda mais engajados com o site (quem não gosta de ter mais ponto que o seu amigo?). Só para citar alguns exemplos eles tem sistemas de ranking, badges, achievements, etc.
+Além disso tudo, a parte de **gamification** é muito bem feita o que nos deixa ainda mais engajados com o site (quem não gosta de ter mais ponto que o seu amigo?). Só para citar alguns exemplos eles tem sistemas de ranking, badges, achievements, etc.
 
 # Code Wars
 
@@ -41,7 +43,7 @@ Na minha opinião, atualmente ele tem menos recursos do que o Code Fights. Basic
 
 Essa parte de desafios segue o mesmo esquema do Code Fights, ou seja, após você resolver é possível ver a solução mais votada para sempre estar aprendendo coisas novas, ou até mesmo uma maneira mais elegante de resolver o mesmo problema.
 
-Um dos grandes pontos positivos do Code Wars é que enquanto no Code Fights você pode escolher apenas uma linguagem para participar dos desafios, já no Code Wars você pode **simultaneamente** participar de desafios em qualquer linguagem de programação disponível no site.
+O maior ponto positivos do Code Wars é poder escolher várias linguagens **simultaneamente** para participar dos desafios.
 
 ![Linguagens Code Wars](http://i.imgur.com/6zDRRor.png)
 
@@ -49,6 +51,6 @@ Já na parte de **gamification** o Code Wars não deixa nada a desejar, ele tamb
 
 # Conclusão
 
-Ambos os sites apresentados são bem parecidos e se complementam, não tem como definir qual dos dois é melhor. Minha dica é fazer uma conta em ambos (já que é de graça) e ver qual dos dois irá mais te agradar.
+Ambos os sites apresentados são bem parecidos e se complementam, não tem como definir qual dos dois é melhor. Minha dica é fazer uma conta em ambos (gratuitamente) e ver qual dos dois mais te agrada.
 
 A única coisa que eu tenho certeza é de que independente do site escolhido, ambos são excelentes para você aprender uma linguagem de programação e evoluir suas habilidades no desenvolvimento como um todo (lógica, boas práticas, etc.).
