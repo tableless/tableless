@@ -1,5 +1,5 @@
 ---
-title: Como Aumentar Suas Skills em Programação de Forma Divertida
+title: Uma maneira divertida para aumentar suas skills em programação
 author: Breno Panzolini
 type: post
 date: 2017-09-06
