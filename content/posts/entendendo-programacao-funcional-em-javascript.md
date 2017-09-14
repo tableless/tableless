@@ -68,8 +68,8 @@ declarados e não geram *side-effects*. Além disso, o retorno de uma função p
 dado um parâmetro será sempre o mesmo. Obviamente os seus testes serão mais
 fáceis de desenvolver, assim como a manutenção da sua aplicação.
 
-<div style="max-width: 70%">
-![](https://cdn-images-1.medium.com/max/800/1*RBr2QH3f_Wm2_tKtsFkQsw.png)
+<div style="text-align: center;">
+	<img style="width: auto;" src="https://cdn-images-1.medium.com/max/800/1*RBr2QH3f_Wm2_tKtsFkQsw.png">
 </div>
 
 E por que estamos falando sobre isso?
