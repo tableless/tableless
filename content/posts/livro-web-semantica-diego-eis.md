@@ -30,3 +30,12 @@ Espero que o livro ajude vários desenvolvedores a entenderem um pouco mais sobr
 [Compre o livro aqui!](http://bit.ly/livro-web-semantica)
 
 Se você já leu o livro, por favor, [faça um review ou dê sua nota (estrelinhas) lá no GoodReads](http://bit.ly/livro-web-semantica-goodreads)!
+
+## Aproveite e veja o livro Guia Front-end
+Eu já escrevi um livro anterior, onde tento mostrar as tecnologias importantes para uma pessoa iniciar na área de front-end. Geralmente um iniciante na área tem dúvidas, falta de tempo, tecnologias, mercado, mais dúvidas. Será que existe um verdadeiro caminho das pedras que devemos percorrer para nos tornarmos bons e verdadeiros desenvolvedores front-end? O que estudar? Qual blog ler? Que fóruns acompanhar? Como participar da comunidade? Será que estou no caminho certo?
+
+Se você é desenvolvedor front-end, quer entrar na área ou busca se tornar um grande profissional, essas dúvidas já devem ter passado por sua cabeça.
+
+Neste livro, eu falo sobre o mundo de desenvolvimento web por meio de uma análise franca e objetiva de diversas tecnologias adotadas, necessidades do mercado e postura profissional. Você não vai aprender diretamente sobre essas tecnologias aqui, mas certamente vai desenvolver um senso mais apurado e uma nova forma de olhar para elas, o que é fundamental nesse mundo de aprendizado não linear.
+
+Compre o livro [Guia Front-end](https://www.casadocodigo.com.br/products/livro-guia-frontend).
