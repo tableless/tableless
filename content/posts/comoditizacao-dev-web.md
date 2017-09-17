@@ -12,6 +12,7 @@ categories:
 tags:
   - Mercado e Comportamento
   - HTML
+image: https://i.imgur.com/826KY6u.jpg
 ---
 
 Comodites são produtos cujo a qualidade ou características são parecidas ou iguais, e por isso a escolha não se baseia pela pelas características do produto, mas pelo preço e necessidade da pessoa/empresa. A Wikipedia dá um [exemplo bem legal](https://pt.wikipedia.org/wiki/Commodity): ela compara o cobre com um sistema de som. Veja que o cobre é igual aqui e em qualquer lugar do mundo. Já um sistema de som tem milhares outros aspectos que levam você, consumidor, a comparar a qualidade entre dois produtos. Você compra uma caixa de som da Apple ou da JBL? Qual a potência máxima das duas caixas? Qual o tamanho, a conectividade, interface, material usado, etc... Sacou a diferença? Comparar dois pedaços de cobre dá na mesma... Comparar dois produtos "já prontos", não. É por isso que as comodites tem preços regulados pelo mercado. O preço do barril de petróleo é o mesmo no mundo inteiro, já o preço das caixas de som, não.
