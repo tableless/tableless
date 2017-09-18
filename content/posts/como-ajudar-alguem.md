@@ -1,5 +1,5 @@
 ---
-title: Como ajuda alguém?
+title: Como ajudar alguém?
 author: Tailo Mateus Gonsalves
 type: post
 date: 2017-09-18
