@@ -25,6 +25,8 @@ Pensando nisso, [quis escrever um livro](http://bit.ly/livro-web-semantica) que 
 É com muito prazer que aviso que o [livro Introdução à Web Semântica: A inteligência da informação](http://bit.ly/livro-web-semantica) foi lançado hoje pela editora Casa do Código. A versão e-book está sido por apenas R$29,90. 
 Tive o prazer de ter o prefácio escrito pelo grande [Newton Calegari](https://twitter.com/newtoncalegari), Gestor de Projetos no W3C e editor da documentação [Data on the Web Best Practices](https://www.w3.org/TR/dwbp/).
 
+Um agradecimento especial para o [Pablo](https://twitter.com/phsilbr) e o [Pothix](https://pothix.com/) por terem me ajudado a revisar o livro na sua versão embrionária, tanto para achar partes do livro que estavam sem sentido, quanto para me dar um norte do que poderia ser melhor. :-D
+
 Espero que o livro ajude vários desenvolvedores a entenderem um pouco mais sobre Web Semântica, instigando a pesquisa do assunto.
 
 [Compre o livro aqui!](http://bit.ly/livro-web-semantica)
