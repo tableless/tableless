@@ -93,6 +93,8 @@ No SpiderMonkey, engine JavaScript utilizada no Firefox.
 No código fonte do navegador, como esperado, muitas vezes simplesmente chama-se
 a implementação do próprio C++, por exemplo o quick sort.
 
+![](https://cdn-images-1.medium.com/max/800/1*4sdtKW2_XviENzCqvq4h7w.png)
+
 [http://en.cppreference.com/w/cpp/algorithm/qsort](http://en.cppreference.com/w/cpp/algorithm/qsort)
 
 ### Discussão antiga
