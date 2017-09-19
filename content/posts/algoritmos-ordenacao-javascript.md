@@ -10,6 +10,12 @@ categories:
 image: https://i.imgur.com/sZptluM.jpg
 ---
 
+<span style="display: block; text-align: center">
+	<span style="width: 280px;">
+	![](https://cdn-images-1.medium.com/max/800/1*nOVvqQbsxxrbURDH_JeXoA.gif)
+	</span>
+</span>
+
 [Insert sort](https://pt.wikipedia.org/wiki/Insertion_sort), [selection
 sort](https://pt.wikipedia.org/wiki/Selection_sort), [quick
 sort](https://pt.wikipedia.org/wiki/Quicksort), etc. Legal, mas onde esses
