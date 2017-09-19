@@ -11,9 +11,11 @@ image: https://i.imgur.com/sZptluM.jpg
 ---
 
 <span style="display: block; text-align: center">
-	<span style="width: 280px;">
+	<span style="display:inline-block; width: 280px;">
 	![](https://cdn-images-1.medium.com/max/800/1*nOVvqQbsxxrbURDH_JeXoA.gif)
 	</span>
+	<br>
+	*gif insertion sort — Wikipedia*
 </span>
 
 [Insert sort](https://pt.wikipedia.org/wiki/Insertion_sort), [selection
