@@ -43,6 +43,10 @@ deseja. Pois o valor será interpretado como uma string e aí sim ordenado.
        return a — b;
     });
     // [10, 20, 40, 101]
+    
+    /*
+	Observe que isso também é útil para ordenar um array de objetos. Ordenando com base em um valor numérico de um determinado atributo. (exe.: idade, peso).
+	*/
 
 
 ### Por trás do Sort()
