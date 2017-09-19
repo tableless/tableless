@@ -76,6 +76,8 @@ E o seguinte comentário:
 
 No WebKit podemos ver sua implementação em C++ para os tratamentos com array.
 
+![](https://cdn-images-1.medium.com/max/800/1*73WlWhS26dVbLvek14_rSQ.png)
+
 [https://trac.webkit.org/browser/trunk/Source/JavaScriptCore/runtime/JSArray.cpp?rev=138530#L972](https://trac.webkit.org/browser/trunk/Source/JavaScriptCore/runtime/JSArray.cpp?rev=138530#L972)
 
 ### SpiderMonkey
