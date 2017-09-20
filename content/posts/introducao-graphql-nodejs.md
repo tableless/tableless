@@ -2,7 +2,7 @@
 title: Introdução ao GraphQL com Node.js
 author: João Paulo Ribeiro
 type: post
-date: 2017-09-20
+date: 2017-09-20 10:00:00
 excerpt: GraphQL é uma linguagem de consulta de dados desenvolvida e usada pelo Facebook, saiba como utilizá-la com Node.js
 categories:
   - nodejs
