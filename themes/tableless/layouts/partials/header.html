@@ -62,11 +62,7 @@
       }
   </script>
   {{end}}
-
-  {{ if $.Scratch.Get "single"}}
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/default.min.css">
-
-  <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
   <script>
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
@@ -80,6 +76,8 @@
       googletag.enableServices();
     });
   </script>
+  {{ if $.Scratch.Get "single"}}
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/default.min.css">
 
   <script type="application/ld+json">
     { "@context": "http://schema.org",
