@@ -29,7 +29,7 @@ Um agradecimento especial para o [Pablo](https://twitter.com/phsilbr) e o [Pothi
 
 Espero que o livro ajude vários desenvolvedores a entenderem um pouco mais sobre Web Semântica, instigando a pesquisa do assunto.
 
-[Compre o livro aqui!](http://bit.ly/livro-web-semantica)
+[Compre o livro aqui!](http://bit.ly/livro-web-semantica) Use o código **DEisWS15x** para ter 15% de desconto até dia 30/09/2017!
 
 Se você já leu o livro, por favor, [faça um review ou dê sua nota (estrelinhas) lá no GoodReads](http://bit.ly/livro-web-semantica-goodreads)!
 
@@ -40,4 +40,4 @@ Se você é desenvolvedor front-end, quer entrar na área ou busca se tornar um 
 
 Neste livro, eu falo sobre o mundo de desenvolvimento web por meio de uma análise franca e objetiva de diversas tecnologias adotadas, necessidades do mercado e postura profissional. Você não vai aprender diretamente sobre essas tecnologias aqui, mas certamente vai desenvolver um senso mais apurado e uma nova forma de olhar para elas, o que é fundamental nesse mundo de aprendizado não linear.
 
-Compre o livro [Guia Front-end](https://www.casadocodigo.com.br/products/livro-guia-frontend).
+Compre o livro [Guia Front-end](https://www.casadocodigo.com.br/products/livro-guia-frontend). Use o código **DEisWS15x** para ter 15% de desconto até dia 30/09/2017!
