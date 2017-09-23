@@ -2,7 +2,7 @@
 title: Uma maneira divertida para aumentar suas skills em programação
 author: Breno Panzolini
 type: post
-date: 2017-09-06
+date: 2017-09-22
 excerpt: Sites divertidos para aumentar suas habilidades em programação, ou aprender uma nova linguagem.
 categories:
   - Tecnologia e Tendências
