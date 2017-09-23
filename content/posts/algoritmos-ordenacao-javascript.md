@@ -10,6 +10,14 @@ categories:
 image: https://i.imgur.com/sZptluM.jpg
 ---
 
+<span style="display: block; text-align: center">
+	<span style="display:inline-block; width: 280px;">
+	![](https://cdn-images-1.medium.com/max/800/1*nOVvqQbsxxrbURDH_JeXoA.gif)
+	</span>
+	<br>
+	*gif insertion sort — Wikipedia*
+</span>
+
 [Insert sort](https://pt.wikipedia.org/wiki/Insertion_sort), [selection
 sort](https://pt.wikipedia.org/wiki/Selection_sort), [quick
 sort](https://pt.wikipedia.org/wiki/Quicksort), etc. Legal, mas onde esses
@@ -43,6 +51,11 @@ deseja. Pois o valor será interpretado como uma string e aí sim ordenado.
        return a — b;
     });
     // [10, 20, 40, 101]
+    
+    /*
+	Observe que isso também é útil para ordenar um array de objetos. Ordenando 
+	com base em um valor numérico de um determinado atributo. (exe.: idade, peso).
+	*/
 
 
 ### Por trás do Sort()
@@ -72,6 +85,8 @@ E o seguinte comentário:
 
 No WebKit podemos ver sua implementação em C++ para os tratamentos com array.
 
+![](https://cdn-images-1.medium.com/max/800/1*73WlWhS26dVbLvek14_rSQ.png)
+
 [https://trac.webkit.org/browser/trunk/Source/JavaScriptCore/runtime/JSArray.cpp?rev=138530#L972](https://trac.webkit.org/browser/trunk/Source/JavaScriptCore/runtime/JSArray.cpp?rev=138530#L972)
 
 ### SpiderMonkey
@@ -86,6 +101,8 @@ No SpiderMonkey, engine JavaScript utilizada no Firefox.
 
 No código fonte do navegador, como esperado, muitas vezes simplesmente chama-se
 a implementação do próprio C++, por exemplo o quick sort.
+
+![](https://cdn-images-1.medium.com/max/800/1*4sdtKW2_XviENzCqvq4h7w.png)
 
 [http://en.cppreference.com/w/cpp/algorithm/qsort](http://en.cppreference.com/w/cpp/algorithm/qsort)
 
