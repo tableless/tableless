@@ -2,13 +2,13 @@
 title: Hackathon em São Paulo em Outubro
 author: Tableless
 type: post
-date: 2017-09-24
+date: 2017-09-24gi
 excerpt: Quer alavancar seu conhecimento de um dia pro outro? Faça um Hackathon
 categories:
   - hackathon
   - serasa
   - publieditorial
-image: https://i.imgur.com/C4QkuJm.jpg
+image: https://i.imgur.com/bb7nAs7.png
 ---
 
 Participar de Hackathons é uma das principais maneiras de aprender a trabalhar em equipe, exigindo o máximo de pró atividade e produtividade de todos os membros da equipe. Além de estar diretamente conectado ao mundo da programação e desenvolvimento. Os Hackathons também são uma maneira de aprender a lidar com problemas e solucioná-los com metodologiais de design thinking, entre outras.
