@@ -2,8 +2,7 @@
 title: Hackathon em São Paulo em Outubro
 author: Tableless
 type: post
-date: 2017-09-22
-draft: true
+date: 2017-09-24
 excerpt: Quer alavancar seu conhecimento de um dia pro outro? Faça um Hackathon
 categories:
   - hackathon
@@ -12,7 +11,7 @@ categories:
 image: https://i.imgur.com/C4QkuJm.jpg
 ---
 
-Participar de Hackathons é uma das principais maneiras de aprender a trabalhar em equipe, exigindo o máximo de pró atividade e produtividade de todos os membros da equipe. Além de estar diretamente conectado ao mundo da programação e desenvolvimento. Os Hackathons também são uma maneira de aprender a lidar com problemas e solucioná-los com metodologiais de design thinkig, entre outras.
+Participar de Hackathons é uma das principais maneiras de aprender a trabalhar em equipe, exigindo o máximo de pró atividade e produtividade de todos os membros da equipe. Além de estar diretamente conectado ao mundo da programação e desenvolvimento. Os Hackathons também são uma maneira de aprender a lidar com problemas e solucioná-los com metodologiais de design thinking, entre outras.
 
 Já participei de um ou outro Hackathon e a experiência é interessante por vários motivos: você praticamente vive em poucos dias o que você viveria em meses numa empresa. É como se você usasse uma máquina do tempo e adiantasse tudo o que poderia acontecer de bom e de ruim num time de produtos. Além disso, você “treina” uma série de skills que não estão ligadas apenas a código. É um intensivão no fast forward.
 
