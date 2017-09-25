@@ -8,13 +8,7 @@ Após ter instalado e configurado o **fancyBox** em seu site, você só precisa 
 // Abre o fancyBox!
 var activityIndicator = $.fancybox.open('', {
     protect: true, // Desabilita clique direito e cria uma proteção simples
-    keyboard: false, // Desabilita o teclado
-    touch : {
-        vertical: false,  // Impede o diálogo de ser arrastado verticalmente
-        momentum: false   // Desabilita animações contínuas para "drag"s
-    },
-    clickContent: function (current, event) { return false }, // Desabilita o clique no geral
-    mobile: { clickContent: function (current, event) { return false } }, // Desabilita o clique no geral
+    modal: true, // Desabilita a p* toda!
 });
 
 // A seguir é exibido o spinner!
