@@ -1,5 +1,5 @@
 ---
-title: Hackathon em São Paulo em Outubro
+title: Hackathon em São Carlos em Outubro
 author: Tableless
 type: post
 date: 2017-09-24
