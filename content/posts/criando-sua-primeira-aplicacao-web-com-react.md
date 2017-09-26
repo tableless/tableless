@@ -4,7 +4,7 @@ author: Lucas Daltro
 type: post
 date: 2017-02-17
 excerpt: Um exemplo prático de como criar seu primeiro código com o Create React App.
-aliases: 
+aliases:
   - /?p=56997
   - /criando-sua-primeira-aplicacao-web-com-react/
 categories:
@@ -30,7 +30,7 @@ let bar = 5; // let declara uma variável
 </pre>
 
 <pre class="lang-javascript">const soma = (a, b) =&gt; a + b;
-ou 
+ou
 const soma = (a, b) =&gt; { return a + b; };
 </pre>
 
@@ -57,7 +57,7 @@ ES6:
   render() {
     return ();
   }
-} 
+}
 </pre>
 
 ES5:
@@ -134,18 +134,18 @@ Depois de instalar o pacote, vamos criar um novo projeto. No terminal digite:
 <pre class="p1"><span class="s1">create-react-app vamos-aprender-react</span></pre>
 
 Depois de alguns minutos todas as dependências estão instaladas e _voilà!_ Temos um projeto pronto para ser criado.
-  
+
 Com o terminal do diretório do seu projeto digite:
 
 <pre>npm start</pre>
 
 Se tudo deu certo, o seu browser em _http://localhost:3000/_ deve estar assim:
-  
-<img class="alignnone wp-image-57013 size-full" src="uploads/2017/01/Captura-de-Tela-2017-01-22-às-19.29.35.png" alt="Imagem ilustrativa do create-react-app" width="1438" height="748" />
+
+![Imagem ilustrativa do create-react-app](https://i.imgur.com/Xi1ogae.png)
 
 Parabéns! Você acabou de criar a sua primeira aplicação com React! Vamos dar uma olhada no que foi gerado:
 
-<img class="alignnone wp-image-57015 size-full" src="uploads/2017/01/Captura-de-Tela-2017-01-22-às-19.34.30.png" alt="Estrutura de pastas do create-react-app" width="232" height="415" />
+![Estrutura de pastas do create-react-app](https://i.imgur.com/C0gXaqu.png)
 
 Como podemos ver, a pastar _src_ contém todos os nosso componentes React. Dentro de _src_ abra o arquivo _index.js_, ele deve conter algo desse tipo:
 
@@ -187,7 +187,7 @@ Substitua o método _render_ por:
 
 Se tentarmos rodar o projeto, veremos o seguinte erro:
 
-<pre>7:13 error 'HelloWorld' is not defined react/jsx-no-undef 
+<pre>7:13 error 'HelloWorld' is not defined react/jsx-no-undef
 </pre>
 
 Isso acontece porque estamos tentando usar um component (HelloWorld) que ainda não foi definido. Vamos resolver isso criando um arquivo chamado HelloWorld.js dentro da pastar _src_. Dentro de HelloWorld coloque:
@@ -218,7 +218,7 @@ export default App;</pre>
 
 Agora abrindo o browser em _http://localhost:3000/_ vemos:
 
-<img class="alignnone wp-image-57018 size-full" src="uploads/2017/01/Captura-de-Tela-2017-01-22-às-20.00.26.png" alt="Exemplo de Hello World" width="1439" height="723" />
+![Exemplo de Hello World](https://i.imgur.com/wDwPZ0s.png)
 
 Ótimo! Nós acabamos de criar nosso primeiro React Component \o/. Mas ele não faz lá muita coisa não é mesmo? Vamos tentar fazer esse componente ser mais customizável.
 
@@ -274,7 +274,7 @@ Tudo que for passado de um componente para outro é adicionado ao objeto _props_
 
 Agora nós temos um componente muito mais genérico:
 
-<img class="alignnone wp-image-57023 size-full" src="uploads/2017/01/Captura-de-Tela-2017-01-22-às-20.18.28.png" alt="Exemplo de Componente React" width="181" height="193" />
+![Exemplo de Componente React](https://i.imgur.com/rU8Tc8f.png)
 
 _Props_ são algo crucial para os componentes React, já que com elas nós podemos fazer com que o nosso componente seja reutilizado até mesmo em outra aplicação. Mas devemos sempre ter em mente que _props_ são imutáveis, uma vez definida a _prop_ &#8216;nome&#8217;, uma instância de HelloWorld não pode mais ser alterada. Ex.:
 
@@ -359,7 +359,7 @@ export default class ContaClick extends React.Component {
  }
 
  clicou = () =&gt; this.setState({clicks: this.state.clicks + 1});
- 
+
  render() {
  return &lt;div&gt;
  &lt;p&gt;{this.state.clicks}&lt;/p&gt;
