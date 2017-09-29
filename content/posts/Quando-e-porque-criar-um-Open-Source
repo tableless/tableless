@@ -1,0 +1,56 @@
+---
+title: Quando e porque criar um Open Source
+author: Raphael Augusto Guastaferro
+type: post
+image: http://imgur.com/gRkXNzr
+date: 2017-01-19
+excerpt: Open source é legal; devo criar um?
+categories:
+  - Código
+  - Tecnologia e Tendências
+  - Opinião
+  - ReactJS
+  - JavaScript
+---
+
+# Quando e porque criar um Open Source
+*Open source é legal; devo criar um?*
+
+Nos últimos anos, o termo [Open Source (ou código aberto)](https://pt.wikipedia.org/wiki/C%C3%B3digo_aberto) tem vindo à tona com frequência, e cada vez mais grandes empresas têm adotado essa filosofia ([Airbnb](https://github.com/airbnb), [Facebook](https://github.com/facebook), [Netflix](https://github.com/Netflix) e até a [Microsoft](https://github.com/Microsoft)).
+
+Além das empresas, muitos desenvolvedores ao redor do mundo resolveram disponibilizar seus códigos para serem utilizados, lidos, alterados e reescritos.
+
+Um dos fatores que contribuiu muito para a popularidade do código aberto nos últimos tempos foi o enorme crescimento do ecossistema Javascript; e o gerenciador de pacotes mais popular da linguagem, o NPM.
+
+Arrisco dizer que, atualmente, é quase impossível um projeto web não utilizar, no mínimo, uma dependência de projeto open source.
+
+## Quando devo pensar em disponibilizar meu código?
+Alguns fatores podem ajudar você a identificar se é o momento de pensar nessa possibilidade:
+- Seu código está bem feito, ou pelo menos aceitável? Afinal, ninguém quer disponibilizar um código sem qualidade para o mundo.
+- Você, como desenvolvedor, utilizaria seu próprio projeto?
+- Há milhares de projetos open source pelo mundo; vale a pena gastar seu tempo nisso? Há espaço para o seu projeto? Seu código pode ser melhor que outros com proposta semelhante ou igual? Ele pode “salvar a vida” de um time de TI?
+- Você tem certeza de que não existem chaves de segurança, regras de negócio e/ou dados pessoais ou secretos no código?
+- Você terá tempo para documentar, corrigir bugs, responder issues e mensagens, revisar pull requests e dar atenção ao projeto?
+Se todas as respostas acima forem positivas, podemos passar para a segunda parte:
+
+## Porque disponibilizar meu código?
+É muito legal utilizar códigos e libs que encontramos na internet, mas… por que eu deveria me esforçar para liberar meu código para terceiros?
+
+- Primeiro de tudo, “gentileza gera gentileza”, “give first/give back”, ou como preferir. Sabe aquela lib que você tanto gosta? E se os desenvolvedores tivessem esse mesmo pensamento?
+- Imagine a possibilidade do mundo inteiro usar, testar e corrigir seu projeto. Isso é Open Source!
+- Você aprende com os feedbacks do seu colega de trabalho? E se qualquer desenvolvedor pudesse te dar feedbacks do seu projeto?
+- Ao liberar um código para ser julgado por todos, naturalmente você se torna mais crítico e atencioso com seu trabalho.
+- Reconhecimento profissional: Com um projeto de sucesso, você pode ser reconhecido entre um grupo ou comunidade de desenvolvedores.
+- Realização profissional (dispensa explicações, não é?).
+
+Criei meu primeiro open source trabalhando na [Celebryts](http://celebryts.com/). Nossa equipe apoia todas as iniciativas open source, e, por isso, sempre que possível disponibilizamos nossos códigos para a comunidade.
+
+Primeiro utilizamos o código internamente, permitindo resolver bugs e melhorá-lo antes da publicação inicial. Quando todos se sentirem seguros com o projeto, ele poderá ser compartilhado.
+
+O projeto que disponibilizamos inicialmente é uma lib para [ReactJS](https://facebook.github.io/react/), que é a [react-autocomplete-tags](https://github.com/celebryts/react-autocomplete-tags).
+
+Precisávamos de um componente com determinadas características, porém, pesquisamos e não encontramos nada que atendesse 100% às nossas necessidades. Por isso, resolvemos criar o código nós mesmos, e percebemos a oportunidade de disponibilizá-lo para o mundo. :)
+
+## Conclusão
+Muitas vezes a oportunidade de criar um open source demora a aparecer, mas se o projeto atender aos pontos citados acima, faça um esforço!
+Utilize seu tempo livre, passe algumas horas a mais no computador ou convença seu chefe a apoiar seu projeto… Vai valer a pena!
