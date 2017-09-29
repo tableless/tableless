@@ -16,7 +16,7 @@ O Tableless é um projeto aberto, logo, para submeter um artigo para nós, basta
 
 ## Cuidado com artigos repetidos
 
-Se você já publicou algum artigo repetido no seu blog pessoal, tudo bem. Mas tente não publicar artigos que já foram publicados em outros sites de conteúdo. Geralmente o Google não gosta disso e muito provavelmente o seu leitor já vai ter lido esse artigo em outros sites. Mesmo assim, fique à vontade para publicar o que achar que seja relevante. 
+Se você já publicou algum artigo repetido no seu blog pessoal, tudo bem. Mas tente não publicar artigos que já foram publicados em outros sites de conteúdo. Geralmente o Google não gosta disso e muito provavelmente o seu leitor já vai ter lido esse artigo em outros sites. Mesmo assim, fique à vontade para publicar o que achar que seja relevante.
 
 ## Tópicos principais
 
@@ -50,13 +50,13 @@ Os artigos são baseados em Markdown. Logo, você precisa escrever ou converter 
 Para submeter seu artigo, siga os passos:
 
 1. Você não precisa clonar o projeto para submeter um artigo, apenas [siga esse link](https://github.com/tableless/tableless-static/new/master/content/posts) e escreva/cole o artigo em Markdown. Esta é a página de criação de novo arquivo no GitHub que você já deve conhecer;
-2. Coloque o nome do seu arquivo seguindo esse padrão: **nome-do-artigo.md**. 
-3. Se seu artigo fizer uso de imagens, suba-o em algum serviço de host de imagens como o [imgh.us](imgh.us) ou [imgur.com](imgur.com) e coloque apenas o endereço da imagem no artigo;
+2. Coloque o nome do seu arquivo seguindo esse padrão: **nome-do-artigo.md**.
+3. Se seu artigo fizer uso de imagens, suba-o em algum serviço de host de imagens como o [imgh.us](https://imgh.us) ou [imgur.com](https://imgur.com) e coloque apenas o endereço da imagem no artigo;
 4. Depois de ter terminado, logo abaixo da área de escrita, há um campo para escrever as informações de commit. Coloque um título no commit e uma descrição sobre o artigo;
 5. Feito isso, selecione a opção **Create a new branch for this commit...** e submeta um Pull Request para a branch Master;
 6. Aguarde os comentários e a aprovação do pessoal do Tableless; Sucesso! :-D
 
-**ATENÇÃO:** Se seu artigo usar imagens, use serviços como o [imgur.com](imgur.com) para exibir suas imagens. Nós não versionamos as imagens do seu artigo.
+**ATENÇÃO:** Se seu artigo usar imagens, use serviços como o [imgur.com](https://imgur.com) para exibir suas imagens. Nós não versionamos as imagens do seu artigo.
 
 Qualquer dúvida, pode falar conosco via [twitter](http://twitter.com/tableless/) ou nos envie um [e-mail](mailto:contato@tableless.com.br).
 
@@ -84,7 +84,7 @@ Para adicionar um embed do seu experimento com Codepen, use o código de shortco
 
 <pre class="lang-html">
 {{&lt; codepen
-  hash="[Obrigatório]" 
+  hash="[Obrigatório]"
   user="[Obrigatório]"
   author="[Opcional]"
   title="[Opcional]"
@@ -110,7 +110,7 @@ Para o Speaker Deck:
 
 
 ### Categorias
-Ali em *categorias*, coloque as categorias já existentes no site, ou se não souber, deixe em branco que os nossos editores comentarão no momento do Pull Request. Mas algumas categorias que você pode aplicar são: 
+Ali em *categorias*, coloque as categorias já existentes no site, ou se não souber, deixe em branco que os nossos editores comentarão no momento do Pull Request. Mas algumas categorias que você pode aplicar são:
 
 * Browsers
 * Design
