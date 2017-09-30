@@ -16,7 +16,7 @@ tags:
 ---
 Algumas vezes você vai preferir usar um sistema de grid feito por você e não algum framework do mercado como o Bootstrap ou o Foundation. Isso tem suas vantagens e desvantagens. Mas se você preferir um grid presonalizado, fazer isso com SASS é mole.
 
-Existe uma série de soluções em SASS aí fora. Algumas mais completas que essa, mas essa acaba ganhando por ser muito simples, com menos recursos, mas muito funcional para projetos pequenos. 
+Existe uma série de soluções em SASS aí fora. Algumas mais completas que essa, mas essa acaba ganhando por ser muito simples, com menos recursos, mas muito funcional para projetos pequenos.
 
 O HTML básico de exemplo será esse:
 
@@ -99,3 +99,10 @@ O output desse `for` é algo mais ou menos assim:
 </pre>
 
 O resultado você pode ver abaixo:
+
+{{< jsfiddle
+  hash="3kwn0wvc"
+  user="tableless"
+  tabs="css,html,result"
+  height="320"
+>}}
