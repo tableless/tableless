@@ -36,7 +36,7 @@ Veja o vídeo com os melhores momentos da última edição:
 - _Data_: 21 e 22 de outubro de 2017
 - _Local_: Serasa Experian São Carlos - Av. Juscelino Kubitscheck, 100 – São Carlos SP
 - _Inscrições_: Abertas até o dia 6 de outubro 2017 – www.experiancejam.com.br
-- _Divulgação dos 200 selecionados_: 9 de outubro 2017
+- _Divulgação dos 200 selecionados_: 6 de outubro 2017
 
 
 
