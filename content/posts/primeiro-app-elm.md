@@ -60,25 +60,58 @@ O próximo passo é criarmos o nosso modelo, para esse exemplo vamos fazer uma a
 type alias Modelo =
     { assunto : String
     , urlGif : String
+    
     }
 ```
 
+Após criado o nosso modelo, é hora de criar o **update** e as **mensagens**.
+
+```elm
+...
 
 
+```
 
+Entenda as mensagens como as possíveis ações que podem acontecer no seu sistema, ou seja, o clique de um botão, a resposta de uma requisição HTTP, o preenchimento de um formulário, etc. 
+
+Já o update é responsável por receber uma mensagem e alterar o nosso modelo, ou seja, podemos considerar o update como a **principal função do projeto**, pois é ela que será responsável por receber uma mensagem e saber como o seu modelo precisa "responder".
+
+Agora vamos criar a nossa **view**, que basicamente será responsável por receber o nosso modelo e mostrar as informações na tela.
 
 ```elm
 
 ```
 
+A primeira vista essa sintaxe pode parecer bem estranha, especialmente para quem está acostumado a escrever HTML "comum", porém lembrem-se de que o Elm é outra linguagem e que no final compila para JavaScript e por isso sua sintaxe é diferente.
+
+No Elm todos os elementos HTML são seguidos de dois colchetes, no primeiro passamos os atributos do elemento e no segundo o conteúdo.
+
+No nosso exemplo temos um *button*, repare que no primeiro colchete passamos um atributo *onClick* passando o nome da mensagem que criamos anteriormente, e no segundo colchete passamos o texto que queremos que apareca no botão.
+
+Agora que já temos quase tudo pronto, vamos criar de fato a função que será responsável por buscar um novo GIF.
 
 ```elm
 
 ```
 
+Essa função é bem simples, ela basicamente busca um Gif e reparem que quando a requisição for finalizada a mensagem **NovoGif** que criamos é "acionada".
 
+Agora todo que já temos todas as partes do nosso projeto, vamos apenas juntar tudo isso na nossa função **main**.
 
+```elm
 
+```
 
+# Executando o projeto
 
+Para testarmos o nosso projeto, precisamos rodar o comando **elm-reactor** para que o servidor seja iniciado, e após isso acessar a url http://localhost:8000/Main.elm.
 
+Apenas uma observação é que nesse primeiro acesso a página pode demorar um pouco para carregar, pois é nesse momento que o Elm está baixando todos os pacotes que estamos utilizando no projeto.
+
+print do projeto
+
+# Conclusão
+
+Nesse artigo vimos como criar uma aplicação em Elm que seja mais próximo de uma aplicação "real", ou seja, temos requisição HTTP e uma view dinâmica que é alterada de acordo com as alterações que nosso modelo sofrem.
+
+Até agora escrevemos apenas código Elm, no próximo artigo vou pegar esse exemplo e mostrar como fazer o *build* da nossa aplicação Elm para de fato termos um JavaScript e podermos utilizar nas nossas aplicações e servidores web.
