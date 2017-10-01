@@ -118,7 +118,7 @@ A primeira vista essa sintaxe pode parecer bem estranha, especialmente para quem
 
 No Elm todos os elementos HTML são seguidos de dois colchetes, no primeiro passamos os atributos do elemento e no segundo o conteúdo.
 
-No nosso exemplo temos um *button*, repare que no primeiro colchete passamos o atributo *onClick* passando o nome da mensagem que criamos anteriormente, e no segundo colchete passamos o texto que queremos que apareca no botão.
+No nosso exemplo temos um *button*, repare que no primeiro colchete passamos o atributo *onClick* passando o nome da mensagem que criamos anteriormente, e no segundo colchete passamos o texto que queremos que apareça no botão.
 
 Agora que já temos quase tudo pronto, vamos criar de fato a função que será responsável por buscar um novo GIF.
 
