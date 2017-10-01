@@ -13,11 +13,11 @@ tags:
 image:  https://cdn-images-1.medium.com/max/720/1*I-3kbXzEIAPAPEGiMcAs0A.png
 ---
 
-Assim como em todos frameworks ou libs de SPA, no Elm o meio mais comum para interagirmos com os dados que estão no servidor e dessa forma criar aplicações "dinâmicas" é através de APIs. Fazemos uma requisição, aguardamos uma resposta do servidor e atualizamos a tela de acordo com os dados recebidos.
+Assim como em todos os frameworks ou libs de SPA, no Elm o meio mais comum para criarmos uma aplicação dinâmica é através de APIs. Fazemos uma requisição, aguardamos uma resposta do servidor e atualizamos a tela de acordo com os dados recebidos.
 
-Antes de partimos para o código recomendo que você tenha lido os artigos anteriores em que fiz uma [introdução ao Elm](https://tableless.com.br/introducao-ao-elm) e mostrei como fazer a [instalação e o Hello World](https://tableless.com.br/elm-hello-world).
+Antes de partir para o código recomendo que você tenha lido os artigos anteriores em que fiz uma [introdução ao Elm](https://tableless.com.br/introducao-ao-elm) e mostrei como fazer a [instalação e o Hello World](https://tableless.com.br/elm-hello-world).
 
-Nesse artigo vamos criar uma aplicação um pouco mais próxima da realidade, ou seja, vamos fazer uma requisição em uma API e alterar o conteúdo dinamicamente de acordo com os dados obtidos.
+Nesse artigo vamos criar uma aplicação um pouco mais próxima da realidade, ou seja, vamos fazer uma requisição HTTP e alterar o conteúdo dinamicamente de acordo com os dados recebidos. Para esse artigo, foi utilizado como base um dos [exemplos oficiais do Elm.](http://elm-lang.org/examples)
 
 # Criando a estrutura do projeto
 
@@ -70,7 +70,7 @@ init busca =
     )
 ```
 
-Além do modelo, também criamos uma função chamada **init** que será responsável por iniciar o estado do nosso modelo. Não se preocupe pois no final quando juntarmos todas as partes ficará mais clara a responsabilidade da função init.
+Além do modelo, também criamos uma função chamada **init** que será responsável por iniciar o estado do nosso modelo. Não se preocupe pois no final quando juntarmos todas as partes ficará mais clara a responsabilidade dessa função.
 
 Após criado o modelo, é hora de criar o **update** e as **mensagens**.
 
@@ -95,7 +95,7 @@ update msg modelo =
             ( modelo, Cmd.none )
 ```
 
-Entenda as mensagens como as possíveis ações que podem acontecer no seu sistema, ou seja, o clique de um botão, a resposta de uma requisição HTTP, o preenchimento de um formulário, etc. 
+Entenda as mensagens como as possíveis ações que podem acontecer no nosso sistema, ou seja, o clique de um botão, a resposta de uma requisição HTTP, o preenchimento de um formulário, etc. 
 
 Já o update é responsável por receber uma mensagem e alterar o nosso modelo, ou seja, podemos considerar o update como a **principal função do projeto**, pois é ela que será responsável por receber uma mensagem e saber como o seu modelo precisa "responder".
 
@@ -114,11 +114,11 @@ view modelo =
         ]
 ```
 
-A primeira vista essa sintaxe pode parecer bem estranha, especialmente para quem está acostumado a escrever HTML "comum", porém lembrem-se de que o Elm é outra linguagem e que no final compila para JavaScript e por isso sua sintaxe é diferente.
+A primeira vista essa sintaxe pode parecer bem estranha, especialmente para quem está acostumado a escrever HTML "normal", porém lembrem-se de que o Elm é outra linguagem e que no final compila para JavaScript e por isso sua sintaxe é diferente.
 
 No Elm todos os elementos HTML são seguidos de dois colchetes, no primeiro passamos os atributos do elemento e no segundo o conteúdo.
 
-No nosso exemplo temos um *button*, repare que no primeiro colchete passamos um atributo *onClick* passando o nome da mensagem que criamos anteriormente, e no segundo colchete passamos o texto que queremos que apareca no botão.
+No nosso exemplo temos um *button*, repare que no primeiro colchete passamos o atributo *onClick* passando o nome da mensagem que criamos anteriormente, e no segundo colchete passamos o texto que queremos que apareca no botão.
 
 Agora que já temos quase tudo pronto, vamos criar de fato a função que será responsável por buscar um novo GIF.
 
@@ -139,9 +139,9 @@ decodeGifUrl =
     Decode.at [ "data", "image_url" ] Decode.string
 ```
 
-Essa função é bem simples, ela basicamente busca um Gif e reparem que quando a requisição for finalizada a mensagem **NovoGif** que criamos é "acionada".
+Essa função é bem simples, ela basicamente busca um Gif e quando a requisição for finalizada a mensagem **NovoGif** que criamos é "acionada".
 
-Agora todo que já temos todas as partes do nosso projeto, vamos apenas juntar tudo isso na nossa função **main**.
+Agora que já temos todas as partes do nosso projeto, vamos apenas juntar tudo isso na nossa função **main**.
 
 ```elm
 ...
@@ -157,7 +157,7 @@ main =
 
 # Executando o projeto
 
-Para testarmos o nosso projeto, precisamos rodar o comando **elm-reactor** para que o servidor seja iniciado, e após isso acessar a url http://localhost:8000/Main.elm.
+Para testarmos o projeto, é necessário rodar o comando **elm-reactor** para que o servidor seja iniciado, e após isso acessar a url http://localhost:8000/Main.elm.
 
 Apenas uma observação é que nesse primeiro acesso a página pode demorar um pouco para carregar, pois é nesse momento que o Elm está baixando todos os pacotes que estamos utilizando no projeto.
 
@@ -165,6 +165,6 @@ Apenas uma observação é que nesse primeiro acesso a página pode demorar um p
 
 # Conclusão
 
-Nesse artigo vimos como criar uma aplicação em Elm que seja mais próximo de uma aplicação "real", ou seja, temos requisição HTTP e uma view dinâmica que é alterada de acordo com as alterações que nosso modelo sofrem.
+Nesse artigo vimos como criar uma aplicação em Elm que seja mais próximo de uma aplicação "real", ou seja, temos uma requisição HTTP e uma view dinâmica que é alterada de acordo com as alterações que nosso modelo sofre.
 
-Até agora escrevemos apenas código Elm, no próximo artigo vou pegar esse exemplo e mostrar como fazer o *build* da nossa aplicação Elm para de fato termos um JavaScript e podermos utilizar nas nossas aplicações e servidores web.
+Até agora escrevemos apenas código Elm, no próximo artigo vou pegar esse exemplo e mostrar como fazer o *build* da nossa aplicação Elm para de fato termos um JavaScript e podermos utilizar nas nossas aplicações web.
