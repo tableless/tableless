@@ -58,18 +58,41 @@ O próximo passo é criarmos o nosso modelo, para esse exemplo vamos fazer uma a
 ...
 
 type alias Modelo =
-    { assunto : String
+    { busca : String
     , urlGif : String
-    
     }
+
+
+init : String -> ( Modelo, Cmd Msg )
+init busca =
+    ( Modelo busca ""
+    , getNovoGif busca
+    )
 ```
 
-Após criado o nosso modelo, é hora de criar o **update** e as **mensagens**.
+Além do modelo, também criamos uma função chamada **init** que será responsável por iniciar o estado do nosso modelo. Não se preocupe pois no final quando juntarmos todas as partes ficará mais clara a responsabilidade da função init.
+
+Após criado o modelo, é hora de criar o **update** e as **mensagens**.
 
 ```elm
 ...
 
+type Msg
+    = BuscarGif
+    | NovoGif (Result Http.Error String)
 
+
+update : Msg -> Modelo -> ( Modelo, Cmd Msg )
+update msg modelo =
+    case msg of
+        BuscarGif ->
+            ( Modelo modelo.busca "", getNovoGif modelo.busca )
+
+        NovoGif (Ok urlGif) ->
+            ( Modelo modelo.busca urlGif, Cmd.none )
+
+        NovoGif (Err _) ->
+            ( modelo, Cmd.none )
 ```
 
 Entenda as mensagens como as possíveis ações que podem acontecer no seu sistema, ou seja, o clique de um botão, a resposta de uma requisição HTTP, o preenchimento de um formulário, etc. 
@@ -79,7 +102,16 @@ Já o update é responsável por receber uma mensagem e alterar o nosso modelo, 
 Agora vamos criar a nossa **view**, que basicamente será responsável por receber o nosso modelo e mostrar as informações na tela.
 
 ```elm
+...
 
+view : Modelo -> Html Msg
+view modelo =
+    div []
+        [ h1 [] [ text modelo.busca ]
+        , button [ onClick BuscarGif ] [ text "Buscar Gif" ]
+        , br [] []
+        , img [ src modelo.urlGif ] []
+        ]
 ```
 
 A primeira vista essa sintaxe pode parecer bem estranha, especialmente para quem está acostumado a escrever HTML "comum", porém lembrem-se de que o Elm é outra linguagem e que no final compila para JavaScript e por isso sua sintaxe é diferente.
@@ -91,7 +123,20 @@ No nosso exemplo temos um *button*, repare que no primeiro colchete passamos um 
 Agora que já temos quase tudo pronto, vamos criar de fato a função que será responsável por buscar um novo GIF.
 
 ```elm
+...
 
+getNovoGif : String -> Cmd Msg
+getNovoGif topic =
+    let
+        url =
+            "https://api.giphy.com/v1/gifs/random?api_key=dc6zaTOxFJmzC&tag=" ++ topic
+    in
+        Http.send NovoGif (Http.get url decodeGifUrl)
+
+
+decodeGifUrl : Decode.Decoder String
+decodeGifUrl =
+    Decode.at [ "data", "image_url" ] Decode.string
 ```
 
 Essa função é bem simples, ela basicamente busca um Gif e reparem que quando a requisição for finalizada a mensagem **NovoGif** que criamos é "acionada".
@@ -99,7 +144,15 @@ Essa função é bem simples, ela basicamente busca um Gif e reparem que quando 
 Agora todo que já temos todas as partes do nosso projeto, vamos apenas juntar tudo isso na nossa função **main**.
 
 ```elm
+...
 
+main =
+    Html.program
+        { init = init "dogs"
+        , view = view
+        , update = update
+        , subscriptions = always Sub.none
+        }
 ```
 
 # Executando o projeto
@@ -108,7 +161,7 @@ Para testarmos o nosso projeto, precisamos rodar o comando **elm-reactor** para 
 
 Apenas uma observação é que nesse primeiro acesso a página pode demorar um pouco para carregar, pois é nesse momento que o Elm está baixando todos os pacotes que estamos utilizando no projeto.
 
-print do projeto
+![imagem do projeto](https://i.imgur.com/guOzS2W.png)
 
 # Conclusão
 
