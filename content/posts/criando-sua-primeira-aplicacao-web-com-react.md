@@ -141,11 +141,15 @@ Com o terminal do diretório do seu projeto digite:
 
 Se tudo deu certo, o seu browser em _http://localhost:3000/_ deve estar assim:
 
-![Imagem ilustrativa do create-react-app](https://i.imgur.com/Xi1ogae.png)
+<span style="display:block; max-width: 800px">
+![Imagem ilustrativa do create-react-app](https://i.imgur.com/Xi1ogae.png style="max-width: 800px")
+</span>
 
 Parabéns! Você acabou de criar a sua primeira aplicação com React! Vamos dar uma olhada no que foi gerado:
 
+<span style="display:block; max-width: 300px">
 ![Estrutura de pastas do create-react-app](https://i.imgur.com/C0gXaqu.png)
+</span>
 
 Como podemos ver, a pastar _src_ contém todos os nosso componentes React. Dentro de _src_ abra o arquivo _index.js_, ele deve conter algo desse tipo:
 
@@ -274,7 +278,9 @@ Tudo que for passado de um componente para outro é adicionado ao objeto _props_
 
 Agora nós temos um componente muito mais genérico:
 
+<span style="display:block; max-width: 180px">
 ![Exemplo de Componente React](https://i.imgur.com/rU8Tc8f.png)
+</span>
 
 _Props_ são algo crucial para os componentes React, já que com elas nós podemos fazer com que o nosso componente seja reutilizado até mesmo em outra aplicação. Mas devemos sempre ter em mente que _props_ são imutáveis, uma vez definida a _prop_ &#8216;nome&#8217;, uma instância de HelloWorld não pode mais ser alterada. Ex.:
 
