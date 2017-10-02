@@ -19,14 +19,14 @@ tags:
 
 webpack (com &#8220;w&#8221; minúsculo, respeitando a grafia do site oficial) é um empacotador de código para projetos web, como o [browserify][1]. O que ele se propõe a fazer de diferente é focar em módulos da sua aplicação. Nem sempre ter todo e qualquer JavaScript/CSS do seu projeto num único arquivo é bom, por isso o webpack tem a ideia de [code splitting][2], onde você modulariza partes reaproveitáveis do seu projeto, facilitando o desenvolvimento independente, por exemplo, ter uma equipe trabalhando em um módulo X e outra num módulo Y, mas ambos de um mesmo projeto.
 
-Não é sempre que a gente faz um projeto tão grande assim, a ponto de precisar separar equipes em diferentes módulos, mas o webpack também pode ser ideal para pequenos projetos.
+Não é sempre que a gente faz um projeto tão grande assim, a ponto de precisar separar equipes em diferentes módulos, mas o webpack também pode ser ideal para pequenos projetos. 
 
 ## Instalando.
 
 É bem simples. Você tem o webpack como pacote do [NodeJS][3]. Se você não sabe o que é NodeJS, [pare agora e leia esse artigo][4]. Sugiro dar uma pesquisada sobre [NPM][5] antes. Se você entendeu tudo até aqui, pode escolher entre tê-lo globalmente ou somente num projeto:
 
-<pre class="lang-bash">&gt; npm install webpack -g
-&gt; npm install webpack --save-dev
+<pre class="lang-bash">&gt; npm install&lt;/span> webpack -g
+&gt; npm install webpack --<span class="hljs-built_in">save</span>-<span class="hljs-built_in">dev</span>
 </pre>
 
 ## Usando {#usando}
