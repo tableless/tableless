@@ -32,7 +32,7 @@ tags:
   Com <a class="markup--anchor markup--p-anchor" title="CSS3" href="https://developer.mozilla.org/en/CSS/CSS3">CSS3</a>, você pode aplicar aos elementos múltiplas imagens sobrepostas como plano de fundo. Sem a utilização do Z-index! É isso mesmo, “necas de pitibiriba” de Z-index.
 </p>
 
-## Velho dilema de sobrepor imagens com div’s com Z-index… {.graf--h4}
+## Velho dilema de sobrepor imagens com div’s com Z-index…
 
 <p class="graf--p">
   A primeira solução que vem à cabeça é o velho e bom “Z-index”, Veja um exemplo de implementação:
@@ -93,13 +93,13 @@ body {
     color: #777;
 }</pre>
 
-{{< codepen 
+{{< codepen
   hash="grvvLw"
   user="selique"
   author="Moisés lopes ferreira"
 >}}
 
-### Funciona?!… <em class="markup--em markup--h4-em">SIM!</em> Mas espere um momento, essa não é a única solução… {.graf--h4}
+### Funciona?!… <em class="markup--em markup--h4-em">SIM!</em> Mas espere um momento, essa não é a única solução…
 
 <p class="graf--p">
   … Você já tava pensando num “workaround” safadinho, a mão da gambiarra chega a tremer nessas horas, mas nada de programação orientada a “Go-Horse”, hoje em dia temos “solucionática” pra quase tudo hehe…
@@ -107,13 +107,13 @@ body {
 
 <div style="width: 510px" class="wp-caption aligncenter">
   <img src="https://cdn-images-1.medium.com/max/800/1*pAiFtxYHdjg4-HP6e46wZA.gif" alt="www.gohorseprocess.com.br/extreme-go-horse-(xgh)" width="500" height="374" />
-  
+
   <p class="wp-caption-text">
     www.gohorseprocess.com.br/extreme-go-horse-(xgh)
   </p>
 </div>
 
-### Conhecendo as propriedades CSS do Background: {.graf--h4}
+### Conhecendo as propriedades CSS do Background:
 
 <pre>background-color.........define a cor do fundo;
 background-image.........define uma imagem de fundo;
@@ -133,11 +133,11 @@ background...............maneira abreviada para declarar todas as propriedades a
   Agora que conhecemos suas propriedades e características… agora vamos ver como o “background-image” funciona para entendermos nosso horizonte de possibilidades:
 </p>
 
-## Background-image VS Z-index — A BATALHA: {.graf--h4}
+## Background-image VS Z-index — A BATALHA:
 
-<p class="graf--p">
-  Quando trabalhamos 2 ou 3 elementos (sejam <img>, <div>, <etc…>) temos um controle até tolerável, mas… quando utilizamos 6, 10 ou mais elementos numa mesma div ou aninhamento próximo, o z-index começa a se tornar “linguiçento” demais e somos obrigados a utilizar mais classes e ids para organizarmos nosso CSS, pensando nisso que escrevi esse post!
-</p>
+
+Quando trabalhamos 2 ou 3 elementos (sejam `<img>`, `<div>`, `<etc…>`) temos um controle até tolerável, mas… quando utilizamos 6, 10 ou mais elementos numa mesma div ou aninhamento próximo, o z-index começa a se tornar “linguiçento” demais e somos obrigados a utilizar mais classes e ids para organizarmos nosso CSS, pensando nisso que escrevi esse post!
+
 
 <p class="graf--p">
   <em>Às vezes não necessariamente queremos ou podemos utilizar o z-index.</em>
@@ -149,13 +149,13 @@ background...............maneira abreviada para declarar todas as propriedades a
 
 <div style="width: 495px" class="wp-caption aligncenter">
   <img src="https://cdn-images-1.medium.com/max/800/1*xt8qqJopHwF-Gcg9xM6t3w.gif" alt="Vida de um Front-end" width="485" height="364" />
-  
+
   <p class="wp-caption-text">
     Front-end Lifestyle
   </p>
 </div>
 
-### Z-index — Quando usar? {.graf--h4}
+### Z-index — Quando usar?
 
 <p class="graf--p">
   Quando temos muitos elementos e precisamos especificar propriedades e características CSS que vão além do propósito de uma “imagem de fundo” ou “sobreposição” então o Z-index é a melhor opção!
@@ -181,7 +181,7 @@ background...............maneira abreviada para declarar todas as propriedades a
   Você pode fazer isso com a propriedade reduzida <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background">background</a> e também com as propriedade individuais, com a exceção de <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-color">background-color</a>. Isto é, as seguintes propriedades de plano de fundo podem ser especificadas com uma lista, uma por fundo: <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background">background</a>, <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-attachment">background-attachment</a>, <a class="markup--anchor markup--p-anchor" title="A propriedade CSS background-clip especifica se o fundo de um elemento, seja cor ou imagem, se extende debaixo de sua borda." href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-clip">background-clip</a>, <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-image">background-image</a>, <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-origin">background-origin</a>, <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-position">background-position</a>, <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-repeat">background-repeat</a>, <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-size">background-size</a>. (rola até gradiente!)
 </p>
 
-## Exemplos {.graf--h3}
+## Exemplos
 
 <p class="graf--p">
   Neste exemplo, três planos de fundos estão empilhados: um texto estilizado, o logo da Tableless.com.br, e uma imagem de fundo ilustrando uma cidade:
@@ -230,7 +230,7 @@ header .intro-text .name-index span {
   font-size: 9.2vw;
 }</pre>
 
-{{< codepen 
+{{< codepen
   hash="vKddRK"
   user="selique"
   author="Moisés lopes ferreira"
