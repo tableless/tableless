@@ -1,0 +1,4 @@
+<p>
+  <iframe frameborder="0" height="{{ if .Get "height" }}{{ .Get "height" }}{{ else }}300{{ end }}" style="width: 100%"
+  src="http://jsfiddle.net/{{ .Get "user" }}/{{ .Get "hash" }}/{{ if .Get "version" }}{{ .Get "version" }}/{{ end }}embedded/{{ if .Get "tabs" }}{{ .Get "tabs" }}{{ else }}result{{end}}/{{ if .Get "tabs" }}{{ .Get "theme" }}{{ else }}light{{end}}"></iframe>
+</p>
