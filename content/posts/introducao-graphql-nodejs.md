@@ -141,7 +141,120 @@ suporte ao estilo do GraphQL
 
 Usaremos os dados abaixo em um arquivo chamado `users.json`:
 
+```
+[
+  {
+    "id":1,
+    "name": "Joao",
+    "age": 22,
+    "knowledge": [
+      {
+        "language": "Javascript",
+        "frameworks": ["express.js", "hapi.js", "AngularJS"]
+      },
+      {
+        "language": "Java",
+        "frameworks": ["Play"]
+      },
+      {
+        "language": "Python",
+        "frameworks": []
+      }
+    ]
+  },
+  {
+    "id":2,
+    "name": "Maria",
+    "age": 20,
+    "knowledge": [
+      {
+        "language": "Javascript",
+        "frameworks": ["ReactJS", "AngularJS"]
+      },
+      {
+        "language": "Java",
+        "frameworks": ["Play", "Spring"]
+      },
+      {
+        "language": "Python",
+        "frameworks": ["Django"]
+      }
+    ]
+  },
+  {
+    "id":3,
+    "name": "Ana",
+    "age": 20,
+    "knowledge": [
+      {
+        "language": "Javascript",
+        "frameworks": ["ReactJS", "express.js"]
+      },
+      {
+        "language": "Ruby",
+        "frameworks": ["Ruby on Rails"]
+      },
+      {
+        "language": "Python",
+        "frameworks": ["Django"]
+      }
+    ]
+  }
+]
+```
+
 Criaremos um arquivo chamado `schema.js` com o seguinte código:
+
+```
+const graphql = require('graphql')
+const users = require('./users.json')
+
+let knowledgeType = new graphql.GraphQLObjectType({
+	name:'Knowledge',
+	fields: {
+		language: { type: graphql.GraphQLString },
+		frameworks: { type: new graphql.GraphQLList(graphql.GraphQLString ) }
+	}
+})
+
+let userType = new graphql.GraphQLObjectType({
+  	name: 'User',
+	fields: {
+		id: { type: new graphql.GraphQLNonNull(graphql.GraphQLInt) },
+		name: { type: new graphql.GraphQLNonNull(graphql.GraphQLString) },
+		full_name: { type: graphql.GraphQLString },
+		age: { type: graphql.GraphQLInt },
+		city: { type: graphql.GraphQLString },
+		tag: { type: graphql.GraphQLString },
+		url: { type: graphql.GraphQLString },
+		knowledge: { type: new graphql.GraphQLList(knowledgeType) }
+	}
+})
+
+let schema = new graphql.GraphQLSchema({
+	query: new graphql.GraphQLObjectType({
+	    	name: 'Query',
+	    	fields: {
+			user: {
+				type: userType,
+				args: {
+				  id:{
+				    type: graphql.GraphQLInt
+				  }
+				},
+				resolve: function (_ , args) {
+					let response = users.find(function (user){
+						return (user.id === args.id)
+					})
+					return response
+				}
+			}
+		}
+	})
+})
+
+module.exports = schema
+```
 
 No código acima criamos dois `GraphQLObjectType` chamados de `userType` e
 `knowledgeType`, eles funcionam como ‘models’ para o `schema`. Precisamos criar
@@ -174,8 +287,9 @@ Inicie o servidor no seu terminal:
     $ node index.js
 
 E acesse a seguinte url no seu browser:
-
-
+```
+http://localhost:3000/user?query={user(id:2){id,name,age,knowledge{language,frameworks}}}
+```
 Você deve receber isso:
 
     {
@@ -231,7 +345,9 @@ Assim passamos a ter dois métodos de query no schema, `user` que retorna o
 usuário com a id passada como argumento e `users` que retorna a lista com todos
 os usuários. Experimente:
 
-
+```
+http://localhost:3000/user?query={users{id,name,age,knowledge{language,frameworks}}}
+```
 Essa url tem uma query no seguinte formato:
 
     query {
@@ -253,6 +369,3 @@ post falando sobre isso porque este já ficou bem extenso. Até mais!
 
 * [http://graphql.org/](http://graphql.org/)
 * [https://code.facebook.com/posts/1691455094417024/graphql-a-data-query-language/](https://code.facebook.com/posts/1691455094417024/graphql-a-data-query-language/)
-* [Nodejs](https://medium.com/tag/nodejs?source=post)
-* [GraphQL](https://medium.com/tag/graphql?source=post)
-* [JavaScript](https://medium.com/tag/javascript?source=post)
