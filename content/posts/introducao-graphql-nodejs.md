@@ -275,6 +275,18 @@ Agora, criaremos o arquivo `index.js` onde iniciaremos o servidor e
 determinaremos a rota que usará o `schema` que acabamos de criar. O código de
 `index.js` será este:
 
+```
+const graphql = require('graphql')
+const graphqlHTTP = require('express-graphql')
+const express = require('express')
+const users = require('./schema')
+const app = express()
+app.use('/user', graphqlHTTP({schema:users, pretty: true}))
+app.listen(3000, function () {
+  console.log('Server on.')
+})
+```
+
 Aqui iniciamos o servidor com express na porta `3000` e criamos uma rota para
 `/user` passando a função `graphqlHTTP({schema:users, pretty: true})`<br> para
 ser chamado sempre que for realizada uma requisição nessa rota. Foi passado um
