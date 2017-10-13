@@ -3,7 +3,7 @@ title: Composer – um pouco além do básico
 author: Andre Cardoso
 type: post
 date: 2014-04-01
-excerpt: 'Este post visa explicar algumas funcionalidades mais avançadas do composer, se você ainda não conhece o composer por favor leia <a title="Composer para iniciantes" href="http://tableless.com.br/composer-para-iniciantes/">Composer para iniciantes</a> antes de prosseguir.'
+excerpt: Este post visa explicar algumas funcionalidades mais avançadas do composer.
 url: /composer-um-pouco-alem-basico/
 dsq_thread_id: 2470206369
 categories:
@@ -14,7 +14,7 @@ tags:
   - php
 
 ---
-No post anterior expliquei o que vem a ser o composer, como baixar, criar o arquivo de configurações e instalar pacotes ou bibliotecas. Agora veremos algumas questões um pouco mais avançadas sobre o uso do composer.
+[No post anterior expliquei o que vem a ser o composer][2], como baixar, criar o arquivo de configurações e instalar pacotes ou bibliotecas. Agora veremos algumas questões um pouco mais avançadas sobre o uso do composer.
 
 ## Instalação global
 
@@ -96,13 +96,13 @@ No demais não há vantagens pois para cada aplicação o composer realizará o 
 
 <img class="aligncenter" src="https://raw.githubusercontent.com/andrebian/posts/master/tableless/composer-um-pouco-alem-do-basico/images/04-dois-projetos-com-vendors-distintos.jpg" alt="Vendors" width="792" height="465" />
 
-## 
+##
 
 ## Errata
 
 Conforme mencionado em um cometário pelo Marcel dos Santos o correto para a instalação ser de fato global seria que o composer estivesse em _/usr/local/bin_. Você pode simplesmente mover o composer.phar que atualmente encontra-se em _/opt/composer_ para a pasta _/usr/local/bin_ e para que seja executado basta em seu terminal digitar **composer.phar** em qualquer ponto do seu sistema operacional.
 
-## 
+##
 
 ## Direcionamento de vendors
 
@@ -186,7 +186,7 @@ Note apenas que na imagem acima eu rodei o update em meu ambiente de desenvolvim
 
 <img class="aligncenter" src="https://raw.githubusercontent.com/andrebian/posts/master/tableless/composer-um-pouco-alem-do-basico/images/06-pacote-em-diretorio-personalizado.jpg" alt="Pacote personalizado" width="795" height="456" />
 
-## 
+##
 
 ## Definição de Autoload
 
@@ -225,7 +225,7 @@ Agora temos de criar nosso arquivo _composer.json_ para que sejam adicionadas a
 <pre class="lang-json">{
     "name": "andrebian/exemplo-composer-tableless",
     "description": "Este pacote foi criado apenas para complementar o post no Tableless",
-    "authors": [ 
+    "authors": [
         {
             "name": "Andre Cardoso",
             "email": "andrecardosodev@gmail.com"
