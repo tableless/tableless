@@ -16,7 +16,9 @@
   <link rel="icon" href="favicon.png">
   <base href="{{ .Site.BaseURL }}">
   <title>
-    {{if $.Scratch.Get "single"}}{{.Title}} - {{ .Site.Title }}{{end}}
+    {{if or ($.Scratch.Get "single") ($.Scratch.Get "page")}}{{.Title}} - {{ .Site.Title }}{{end}}
+    {{if $.Scratch.Get "category"}}Posts da categoria {{.Title}} - {{ .Site.Title }}{{end}}
+    {{if $.Scratch.Get "author"}}Posts do autor {{.Title}} - {{ .Site.Title }}{{end}}
     {{if .IsHome}}{{.Site.Title}} - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web{{end}}
   </title>
 
@@ -25,7 +27,7 @@
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900" rel="stylesheet">
 
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css?{{ .Now.Unix }}">
-  
+
   {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
@@ -45,7 +47,7 @@
   <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
 
   {{if .IsHome}}
-  
+
   <script type='application/ld+json'>
     {
       "@context": "http://www.schema.org",
@@ -67,7 +69,7 @@
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
   </script>
-  
+
   <script>
     googletag.cmd.push(function() {
       googletag.defineSlot('/7969368/RetanguloMedio-TopoSidebar', [[300, 300], [360, 360], [300, 250], [336, 280]], 'div-gpt-ad-1506041417420-0').addService(googletag.pubads());
