@@ -2,7 +2,7 @@
 title: Hackathon em São Carlos em Outubro
 author: Tableless
 type: post
-date: 2017-09-24
+date: 2017-10-13
 excerpt: Quer alavancar seu conhecimento de um dia pro outro? Faça um Hackathon
 categories:
   - hackathon

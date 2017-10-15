@@ -10,7 +10,7 @@ categories:
 tags:
   - Elm
   - JavaScript
-image:  https://cdn-images-1.medium.com/max/720/1*I-3kbXzEIAPAPEGiMcAs0A.png
+image: https://i.imgur.com/c1hEXtl.png
 ---
 
 Assim como em todos os frameworks ou libs de SPA, no Elm o meio mais comum para criarmos uma aplicação dinâmica é através de APIs. Fazemos uma requisição, aguardamos uma resposta do servidor e atualizamos a tela de acordo com os dados recebidos.

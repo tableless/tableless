@@ -40,15 +40,27 @@
     font-size: .9rem
 
   blockquote
-    padding: 30px
-    margin-bottom: 50px
+    padding: 25px
+    margin: 50px 0
     display: block
-    border-left: 5px solid rgba(0, 0, 0, .1)
+    // border-left: 10px solid rgba(0, 0, 0, .1)
+    position: relative
+
+    &:after
+      content: "''"
+      font: italic 25rem Arial, Serif, Georgia, serif
+      color: rgba(0, 0, 0, .05)
+      position: absolute
+      top: -80px
+      left: -70px
+      z-index: 0
 
     p
-      font: italic 2rem/1.5 Georgia, Times, serif
-      color: #666
-      margin-bottom: 0
+      font: italic 1.65rem/1.5 Georgia, Times, serif
+      color: #000
+      margin: 0
+      position: relative
+      z-index: 1
 
 .gist
   max-width: 800px
@@ -60,6 +72,13 @@ p code
   background: #FBF0F0
   border-radius: 4px
   padding: 0 5px
+
+.figcaption_hack
+  display: block
+  font-style: italic
+  text-align: center
+  color: #666
+  margin-bottom: 40px
 
 ////
 // Big Screen version
