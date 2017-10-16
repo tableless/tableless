@@ -12,10 +12,6 @@ tags:
 image: https://cdn-images-1.medium.com/max/2000/1*9CNjZ6CIv9n41vxcXN2Sng.jpeg
 ---
 
-## Como definir seus pilares para tratar Big Data com eficiência, extraindo o
-máximo de valor de seus dados para aplicação eficiente de Data Science e
-Business Intelligence nos seus produtos.
-
 Certas construções são tão bem feitas que merecem reconhecimento, principalmente
 daqueles que estão envolvidos com aquela ciência/arte: Arquitetura, Engenharia,
 Música, Computação ou outras. Como qualquer interprete tem orgulho e gosto ao
