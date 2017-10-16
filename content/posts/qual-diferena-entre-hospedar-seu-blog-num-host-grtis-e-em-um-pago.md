@@ -24,6 +24,8 @@ Aproveita que eles sempre t&ecirc;m promo&ccedil;&otilde;es pra te dar ainda mai
 
 [Programa de afiliados][3].
 
+Conheça mais sobre os planos de hospedagem na [análise da WebLink](https://www.melhorhospedagemdesites.com/provedor-de-hospedagem/weblink/) pelo Melhor Hospedagem de Sites.
+
  [1]: https://weblink.com.br/
  [2]: https://www.weblink.com.br/hospedagem
  [3]: https://afiliados.weblink.com.br/
