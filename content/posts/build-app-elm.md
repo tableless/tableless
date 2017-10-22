@@ -77,7 +77,7 @@ Se você seguiu o passo a passo certinho, a sua estrutura de pastas deve ser sem
 
 Nesse momento nossa aplicação final já está pronta, e com isso basta abrir o arquivo *index.html* em qualquer navegador para ver o resultado final.
 
-![Aplicação final](blob:https://imgur.com/bc4dc133-e358-4a4e-9d18-1bc81d3a8323)
+![Aplicação final](https://i.imgur.com/DPKNEWJ.png)
 
 # Conclusão
 
