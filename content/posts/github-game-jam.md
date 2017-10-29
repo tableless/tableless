@@ -10,7 +10,6 @@ categories:
   - phaser
 ---
 
-
 O 5º aniversário de jogo anual organizado pela GitHub está de volta e está comemorando o código aberto. Claro, não podia ser diferente.
 
 No dia 01 de novembro o GitHub vai anunciar o tema do evento. Logo, você terá o mês inteiro par construir um jogo. Como sempre, você é encorajado a usar mecanismos de jogos, bibliotecas e ferramentas de código aberto no seu jogo, mas você pode usar qualquer tecnologia que desejar. É uma desculpa perfeita para experimentar algo novo também.
