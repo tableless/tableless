@@ -121,4 +121,4 @@ Síndrome do Impostor: O primeiro item leva à este segundo, pois quanto mais vo
 
 ### CONCLUSÃO
 
-Podemos observar que não é só de código que vive um bom desenvolvedor, fique atendo as demais qualidades, que são tão (ou mais) importantes quanto fazer um código exemplar. Não existe uma fórmula mágica para o sucesso, mas acredito que dando uma devida atenção ao que esses profissionais estão lhe falando, já é um excelente primeiro passo para se tornar uma referência.
+Podemos observar que não é só de código que vive um bom desenvolvedor, fique atento as demais qualidades, que são tão (ou mais) importantes quanto fazer um código exemplar. Não existe uma fórmula mágica para o sucesso, mas acredito que dando uma devida atenção ao que esses profissionais estão lhe falando, já é um excelente primeiro passo para se tornar uma referência.
