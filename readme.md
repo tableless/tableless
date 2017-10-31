@@ -4,7 +4,9 @@
 Este é o site do Tableless estático. Nada de Wordpress, nem qualquer outro CMS back-end. Os artigos são escritos em Markdown, com um frontmatter em yaml fácil de entender.
 
 ## Rodando o projeto
-Para rodar o projeto você vai precisar do [Hugo](https://gohugo.io/) instalado na sua máquina. O CSS está usando SASS como pré-processador, para tanto, você precisa ter [SASS instalado na máquina](http://sass-lang.com/install). Uma vez instalado, você pode rodar o comando:
+Para rodar o projeto você vai precisar do [Hugo](https://gohugo.io/) instalado na sua máquina. Leia o [Quick Start direto do site do Hugo para iniciar](https://gohugo.io/getting-started/quick-start/).
+
+O CSS está usando SASS como pré-processador, para tanto, você precisa ter [SASS instalado na máquina](http://sass-lang.com/install). Uma vez instalado, você pode rodar o comando:
 
 ```
 cd themes/tableless/static/css/
