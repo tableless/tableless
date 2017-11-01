@@ -3,7 +3,7 @@ title: O que eu aprendi depois de dar 100 palestras
 author: Zeno Rocha
 type: post
 date: 2017-11-01
-excerpt: Olá! Meu nome é Zeno Rocha. Ao longo dos últimos anos, aprendi muito sobre dar palestras e agora eu to aqui para compartilhar essas lições.
+excerpt: Olá! Meu nome é Zeno Rocha. Ao longo dos últimos anos, aprendi muito sobre dar palestras e agora eu tô aqui para compartilhar essas lições.
 image: https://i.imgur.com/Lg9LTcI.jpg
 categories:
   - Geral
@@ -18,7 +18,7 @@ Seis anos atrás eu estava na universidade. Eu era introvertido e estava lá par
 
 Meu pai sempre me dizia: *"se você quer aprender algo, ensine".* Então, um dia eu decidi submeter uma palestra para um evento. Por algum motivo, eles me aceitaram e foi assim que minha jornada começou.
 
-Nesse momento, estou viajando de Los Angeles para Madri, me preparando para outra palestra. Esta vai ser a minha [109ª apresentação](https://zenorocha.com/talks) e eu to muito animado. Ao longo dos últimos anos, aprendi muito sobre dar palestras e agora eu to aqui para compartilhar essas lições.
+Nesse momento, estou viajando de Los Angeles para Madri, me preparando para outra palestra. Esta vai ser a minha [109ª apresentação](https://zenorocha.com/talks) e eu tô muito animado. Ao longo dos últimos anos, aprendi muito sobre dar palestras e agora eu tô aqui para compartilhar essas lições.
 
 ## Paixão > Conhecimento
 
@@ -40,17 +40,17 @@ Ao fazer uma palestra, muitas pessoas imitam o comportamento que viram durante a
 
 > Seu trabalho como palestrante não é ensinar, seu trabalho é inspirar ação.
 
-E esta ação pode ser qualquer coisa, incluindo incentivar pessoas à se aprodundar mais em um determinado tópico.
+E esta ação pode ser qualquer coisa, incluindo incentivar pessoas a se aprodundar mais em um determinado tópico.
 
 **Uma conferência não é uma sala de aula, uma conferência é um ambiente completamente diferente, então por que palestrantes ainda tratam o público como se fossem estudantes?**
 
-Da próxima vez que você estiver indo para um evento, faça essa experiência: dê ou assista uma palestra, no final peça a alguém para explicar o que ela(e) aprendeu com isso. Você vai ficar surpreso com as respostas.
+Da próxima vez que você estiver indo para um evento, faça essa experiência: dê ou assista uma palestra, no final peça a uma pessoa para explicar o que ela aprendeu com isso. Você vai se surpreender com as respostas.
 
 ![](https://i.imgur.com/bhFGqqc.jpg)
 
 ## Seres humanos são seres visuais
 
-Existem palestrantes que não precisam de um único slide para dar uma palestra foda. Elas(es) tem muitos anos de experiência nas costas e sabem exatamente o que fazer para manter o público focado na sua mensagem. O resto de nós mortais, geralmente usamos slides para orientar nossos pensamentos.
+Existem palestrantes que não precisam de um único slide para dar uma palestra foda. Essas pessoas tem muitos anos de experiência nas costas e sabem exatamente o que fazer para manter o público focado na sua mensagem. O resto de nós mortais geralmente usamos slides para orientar nossos pensamentos.
 
 O problema é que a criação de slides requer uma habilidade diferente, uma habilidade que nem todos possuem, requer design. Muitas pessoas negligenciam isso e não passam tempo suficiente pensando em como seus slides ajudarão a navegar sua estória.
 
@@ -62,11 +62,11 @@ Aqui vão algumas dicas práticas que você pode usar na sua próxima palestra:
 
 * _Tipografia:_ sempre grande.
 * _Contraste:_ sempre alto.
-* _Animações:_ sempre sutil.
+* _Animações:_ sempre sutis.
 * _Texto:_ o menos possível.
 * _Software:_ não importa.
 
-Mas lembre-se, você precisa obviamente de um conteúdo bom, slides bonitinhos não adiantaram nada se o storytelling não for atraente.
+Mas lembre-se, você precisa obviamente de um conteúdo bom, slides bonitinhos não adiantarão nada se o storytelling não for atraente.
 
 ## Tudo bem se sentir nervoso
 
@@ -76,7 +76,7 @@ Eu conheço esse sentimento muito bem e estou aqui para dizer que é tudo bem se
 
 > O dia em que você parar de ficar nervoso, é o dia em que você não se importa mais.
 
-**Faça sua lição de casa - gaste tempo pensando sobre o storytelling e como você vai conduzir o público através dela. Estude o seu conteúdo o máximo possível e aprenda até o ponto onde as notas que você escrever são inúteis. Treine com outras pessoas, mesmo que seja sua mãe ou seu pai.**
+**Faça sua lição de casa - gaste tempo pensando sobre o storytelling e como você vai conduzir o público através dele. Estude o seu conteúdo o máximo possível e aprenda até o ponto onde as notas que você escrever forem inúteis. Treine com outras pessoas, mesmo que seja sua mãe ou seu pai.**
 
 Se você fizer isso, você vai se sentir mais confiante para ir lá e dizer o que precisa dizer. Ainda vai ser difícil, mas pelo menos você sabe que fez o seu melhor.
 
