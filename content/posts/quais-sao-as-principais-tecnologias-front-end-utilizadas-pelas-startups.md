@@ -4,7 +4,7 @@ author: Tableless
 type: post
 date: 2017-11-13
 excerpt: O rápido avanço da tecnologia transforma funções e exige novos profissionais a cada dia.
-image: https://i.imgur.com/XTie51a.jpg
+image: https://i.imgur.com/d3Q3qST.jpg
 categories:
   - JavaScript
   - BackboneJS
