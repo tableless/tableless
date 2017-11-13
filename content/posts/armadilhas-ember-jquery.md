@@ -4,7 +4,7 @@ author: Aurélio Saraiva
 type: post
 date: 2017-11-07
 excerpt: O uso do JQuery em conjunto com o Ember pode trazer diversas armadilhas que vão resultar em lentidão, vazamento de memória e outros problemas.
-image: https://cdn-images-1.medium.com/max/800/1*qVLsLAJnP88dBsQCYumgpA.png
+image: [img]https://i.imgur.com/WUn7weZ.jpg[/img]
 categories:
   - JavaScript
   - jquery
