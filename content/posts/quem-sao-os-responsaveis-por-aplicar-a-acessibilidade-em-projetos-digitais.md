@@ -4,6 +4,7 @@ author: Marcelo Sales
 type: post
 date: 2017-11-13
 excerpt: Você não pode (e não deve) ser o único responsável em falar sobre acessibilidade dentro de uma empresa, mas você pode (e deve) fazer parte dessa equipe.
+image: https://i.imgur.com/XTie51a.jpg
 categories:
   - Acessibilidade
   - WCAG
