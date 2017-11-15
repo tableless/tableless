@@ -2,7 +2,7 @@
 title: Quais são as principais tecnologias de front-end utilizadas pelas startups
 author: Tableless
 type: post
-date: 2017-11-13
+date: 2017-11-14
 excerpt: O rápido avanço da tecnologia transforma funções e exige novos profissionais a cada dia.
 image: https://i.imgur.com/d3Q3qST.jpg
 categories:
