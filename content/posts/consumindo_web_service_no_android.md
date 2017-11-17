@@ -4,14 +4,14 @@ author: Matheus Castiglioni
 type: post
 image: http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2017/11/consumindo-web-service-no-android.jpg
 date: 2017-11-16
-excerpt: Uma tarefa muito comúm do dia a dia seria realizar requisições HTTP e consumir Web Services, mas as vezes pode ser um tanto quanto chata pois precisa de configurações e alguns passos a serem seguidos.
+excerpt: Uma tarefa muito comúm do dia a dia é realizar requisições HTTP e consumir Web Services, mas as vezes pode ser um tanto quanto chata pois precisa de configurações e alguns passos a serem seguidos.
 categories:
   - Mobile
 ---
 
-Uma tarefa muito comúm do dia a dia seria realizar requisições [HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol) e consumir *[Web Services](https://pt.wikipedia.org/wiki/Web_service)*, mas as vezes pode ser um tanto quanto chata pois precisa de configurações e alguns passos a serem seguidos.
+Uma tarefa muito comúm do dia a dia é realizar requisições [HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol) e consumir *[Web Services](https://pt.wikipedia.org/wiki/Web_service)*, mas as vezes pode ser um tanto quanto chata pois precisa de configurações e alguns passos a serem seguidos.
 
-Para exemplo do post, vamos consumir um serviço para buscas de CEP, os passos que deveriamos seguir são:
+Para exemplo do post, vamos consumir um serviço para buscas de CEP, os passos que deveríamos seguir são:
 
 - Desenhar o *layout*
 - Consumir nosso serviço
@@ -75,22 +75,22 @@ O primeiro passo será criar o *layout* da nossa app, como o assunto do *post* r
 </LinearLayout>
 ```
 
-Após adicionar esse *layout* para a *activity*, devemos ter nossa app parecido com:
+Após adicionar esse *layout* para a *activity*, devemos ter nossa app parecida com:
 
 ![App para consumir CEP](http://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2017/11/buscando-cep-requisicao-http.png)
 
 ## Consumindo um serviço
 
-Agora que o *layout* esta pronto, podemos começar a consumir nosso serviço, para isso alguns passos devem ser seguidos, sendo eles:
+Agora que o *layout* está pronto, podemos começar a consumir nosso serviço, para isso alguns passos devem ser seguidos, sendo eles:
 
-- Adicionar um listener no botão **Buscar CEP**
+- Adicionar um *listener* no botão **Buscar CEP**
 - Validar se o CEP foi digitado
 - Realizar a busca do CEP
 - Mostrar os dados para o usuário
 
 ### Adicionando um listener no botão
 
-Primeiro vamos começar adicionando um *listener* em nosso botão, para quando ele for **clicado** realizar alguma função, mas como podemos fazer isso ? Para trabalhar com eventos de *click* em botões podemos utilizar o `setOnClickListener`.
+Primeiro vamos começar adicionando um *listener* em nosso botão, para quando ele for **clicado** realizar alguma função, mas como podemos fazer isso? Para trabalhar com eventos de *click* em botões podemos utilizar o `setOnClickListener`.
 
 Vamos buscar nosso botão e atribuí-lo em uma variável:
 
@@ -121,20 +121,20 @@ public class HttpService {
 }
 ```
 
-Vou chamar a classe de `HttpService` pois a mesma irá consumir um serviço HTTP. Aqui entra um detalhe, toda requisição HTTP deve ser feita em *background* pelo Android, ou seja, a mesma não pode  ser feita na *thread* principal, mas porque isso ocorre ?
+Vou chamar a classe de `HttpService` pois a mesma irá consumir um serviço HTTP. Aqui entra um detalhe, toda requisição HTTP deve ser feita em *background* pelo Android, ou seja, a mesma não pode  ser feita na *thread* principal, mas por que isso ocorre?
 
 #### Entendendo como uma requisição HTTP funciona
 
 Uma requisição HTTP é feita da seguinte maneira:
 
-- Primeiro devemos configurar a requisição(URL, cabeçalhos e resposta)
-- Depois de configurada podemos realizar a requisição
-- Durante o processo de requisição devemos aguardar o servidor responsável processa-la
-- Após o servidor processa-la podemos pegar o retorno
+- Primeiro devemos configurar a requisição (URL, cabeçalhos e resposta).
+- Depois de configurada podemos realizar a requisição.
+- Durante o processo de requisição devemos aguardar o servidor responsável processá-la.
+- Após o servidor processá-la podemos pegar o retorno.
 
 Veja que no terceiro passo não sabemos quanto tempo o servidor irá levar para conseguir processar a requisição e devolver a resposta para a gente, por isso o Android exige que a requisição seja feita em *background*, assim o app não irá travar ou ficar congelado para o usuário enquanto a requisição é realizada. 
 
-Beleza Matheus, agora sabemos o motivo do Android exigir que a requisição seja feita em *background* ou em segundo plano, mas como podemos fazer isso ?
+Beleza Matheus, agora sabemos o motivo do Android exigir que a requisição seja feita em *background* ou em segundo plano, mas como podemos fazer isso?
 
 #### Adaptando nossa classe
 
@@ -146,19 +146,19 @@ public class HttpService extends AsyncTask<Void, Void, CEP> {
 }
 ```
 
-Opa, espera ae Matheus, que doidera é essa de `Void, Void, CEP` ?
+Opa, espera ae Matheus, que doidera é essa de `Void, Void, CEP`?
 
 #### Parâmetros do AsyncTask
 
-Calma, vamos devagar, para tudo tem uma explicação, sempre que extendemos a `AsyncTask` devemos passar esse três parâmetros para ela, sendo eles:
+Calma, vamos devagar, para tudo tem uma explicação, sempre que extendemos a `AsyncTask` devemos passar esses três parâmetros para ela, sendo eles:
 
 - **Primeiro**: Será o tipo de parâmetro enviado para a execução da classe
-- **Segundo**: Será o tipo de parâmetro recebido no método `onProgressUpdate`(não iremos utiliza-lo, o mesmo é chamado sempre que a requisição é atualizada, ideal para barras de progresso)
+- **Segundo**: Será o tipo de parâmetro recebido no método `onProgressUpdate` (não iremos utilizá-lo, o mesmo é chamado sempre que a requisição é atualizada, ideal para barras de progresso)
 - **Terceiro**: Será o tipo de retorno da classe
 
 ### Criando o modelo CEP
 
-Repare que o terceiro parâmetro da `AsyncTask` é uma classe `CEP`, mas ainda não temos ela, então vamos cria-la:
+Repare que o terceiro parâmetro da `AsyncTask` é uma classe `CEP`, mas ainda não temos ela, então vamos criá-la:
 
 ```java
 public class CEP {
@@ -231,7 +231,7 @@ public class CEP {
 }
 ```
 
-Veja que trata apenas de uma classe para representar e armazenar as informações de nosso CEP, não tem segredo.
+Veja que se trata apenas de uma classe para representar e armazenar as informações de nosso CEP, não tem segredo.
 
 Bom, agora que já extendemos a classe `AsyncTask` e conseguimos entender seus parâmetros, devemos sobrescrever o método responsável pela execução em *background*:
 
@@ -246,7 +246,7 @@ protected CEP doInBackground(Void... voids) {
 }
 ```
 
-Para realizar a requisição precisamos de um CEP, mas em nossa classe não recebemos ele ainda, como podemos resolver o problema ? Se nossa classe `HttpService` precisa de um CEP para funcionar, porque não passar o CEP pelo construtor ? Assim garantimos que sempre ela terá um CEP ao ser instânciada(usada):
+Para realizar a requisição precisamos de um CEP, mas em nossa classe não recebemos ele ainda, como podemos resolver o problema? Se nossa classe `HttpService` precisa de um CEP para funcionar, porque não passá-lo pelo construtor? Assim garantimos que sempre ela terá um CEP ao ser instanciada (usada):
 
 ```java
 private final String cep;
@@ -277,7 +277,7 @@ Vamos começar a configurar nossa requisição, o primeiro passo é termos uma `
 URL url = new URL("http://ws.matheuscastiglioni.com.br/ws/cep/find/" + this.cep + "/json/");
 ```
 
-Durante a construção da `URL` pode acontecer de passarmos uma inválida ou que não existe, por isso, devemos realizar um tratamento de exceção com `try catch`:
+Durante a construção da `URL` pode acontecer de passarmos uma que seja inválida ou que não existe, por isso, devemos realizar um tratamento de exceção com `try catch`:
 
 ```java
 try {
@@ -288,7 +288,7 @@ try {
 }
 ```
 
-Agora precisamos abrir uma conexão e configurar os cabeçalhos dela(Tipo de requisição, tipo de retorno, tempo máximo de espera, etc...):
+Agora precisamos abrir uma conexão e configurar os cabeçalhos dela (Tipo de requisição, tipo de retorno, tempo máximo de espera, etc...):
 
 ```java
 try {
@@ -311,7 +311,7 @@ Com as configurações realizadas, precisamos de fato, realizar a conexão, ou s
 connection.connect();
 ```
 
-Pronto, ja conseguimos conectar, mas não basta conectar e realizar a requisição, precisamos de fato pegar a resposta e salvar em alguma variável, como podemos fazer isso ?
+Pronto, já conseguimos conectar, mas não basta conectar e realizar a requisição, precisamos de fato pegar a resposta e salvar em alguma variável, como podemos fazer isso?
 
 #### Lendo a resposta da requisição
 
@@ -321,7 +321,7 @@ Podemos ler a resposta facilmente com a classe `Scanner ` do pacote `java.io`, e
 Scanner scanner = new Scanner();
 ```
 
-Beleza, estamos criando nosso `scanner` mas de onde ele vai ler as informações ? Para isso temos o método `openStream` em nossa `url`:
+Beleza, estamos criando nosso `scanner`, mas de onde ele vai ler as informações? Para isso temos o método `openStream` em nossa `url`:
 
 ```java
 Scanner scanner = new Scanner(url.openStream());
@@ -347,17 +347,17 @@ while (scanner.hasNext()) {
 }
 ```
 
-Beleza, tudo certo ? Errado, até o momento lemos a resposta e passamos para a classe `StringBuilder`, porém, lembra que o terceiro parâmetro de nosso `AsyncTask` era do tipo `CEP` ? Pois é, sendo assim precisaremos retornar um `CEP` em nosso método `doInBackground`, pois até agora temos um JSON lido dentro de uma String:
+Beleza, tudo certo? Errado, até o momento lemos a resposta e passamos para a classe `StringBuilder`, porém, lembra que o terceiro parâmetro de nosso `AsyncTask` era do tipo `CEP`? Pois é, sendo assim precisaremos retornar um `CEP` em nosso método `doInBackground`, pois até agora temos um JSON lido dentro de uma String:
 
 ```json
 {"codibge":3530706,"codestado":35,"cep":"13845-373","logradouro":"Rua Caiapós","complemento":"","bairro":"Jardim Igaçaba","cidade":"Mogi Guaçu","estado":"SP"}
 ```
 
-Afinal, como podemos pegar esse JSON, gravar dentro de uma `String` e converte-lo para a classe `CEP` ?
+Afinal, como podemos pegar esse JSON, gravar dentro de uma `String` e converte-lo para a classe `CEP`?
 
 #### Convertendo dados do json
 
-Realizar a conversão de dados em Java pode ser algo trabalhoso, sabendo isso, a Google lançou uma biblioteca chamada [GSON](https://github.com/google/gson), responsável em abstrair a complexidade na hora de converter dados relacionados com JSON, para começar a usa-la, devemos declarar a dependência em nosso `build.gradle`:
+Realizar a conversão de dados em Java é algo trabalhoso, sabendo isso, a Google lançou uma biblioteca chamada [GSON](https://github.com/google/gson), responsável em abstrair a complexidade na hora de converter dados relacionados com JSON, para começar a usá-la, devemos declarar a dependência em nosso `build.gradle`:
 
 ```graddle
 compile 'com.google.code.gson:gson:2.8.2'
@@ -373,9 +373,9 @@ Com nosso GSON instalado, podemos converter nosso JSON para um objeto do tipo CE
 return new Gson().fromJson(resposta.toString(), CEP.class);
 ```
 
-Muito simples não ?
+Muito simples não?
 
-Agora que nossa classe responsável por realizar a requisição esta pronta, podemos utilizada em *listener* de nosso botão. Caso tenha se perdido em algum passo, segue a classe completa:
+Agora que nossa classe responsável por realizar a requisição esta pronta, podemos utilizá-la no *listener* de nosso botão. Caso tenha se perdido em algum passo, segue a classe completa:
 
 ```java
 public class HttpService extends AsyncTask<Void, Void, CEP> {
@@ -420,9 +420,9 @@ public class HttpService extends AsyncTask<Void, Void, CEP> {
 
 ### Retornando os dados para o usuário
 
-Bom, até o momento de todos os passos que deveriamos realizar:
+Bom, até o momento de todos os passos que deveríamos realizar:
 
-- Adicionar um listener no botão **Buscar CEP**
+- Adicionar um *listener* no botão **Buscar CEP**
 - Validar se o CEP foi digitado
 - Realizar a busca do CEP
 - Mostrar os dados para o usuário
@@ -431,7 +431,7 @@ Ja concluímos os três primeiros, portanto, precisamos apenas retornar os dados
 
 ### Buscando os dados do CEP
 
-Vamos começar buscando os dados do CEP digitado em nosso app, para isso já haviamos criado o *listener*, precisamos apenas fazer uso da nossa classe `HttpService`:
+Vamos começar buscando os dados do CEP digitado em nosso app, para isso já havíamos criado o *listener*, precisamos apenas fazer uso da nossa classe `HttpService`:
 
 ```java
 final EditText cep = findViewById(R.id.etMain_cep);
