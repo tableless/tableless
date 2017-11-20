@@ -4,11 +4,11 @@ author: Tailo Mateus Gonsalves
 type: post
 date: 2017-11-17
 excerpt: Ou apenas me aventurando no Back-end.
-image: https://cdn-images-1.medium.com/max/1030/1*sE9lbaz4Pv6DyTAdh18Tkg.jpeg
+image: https://i.imgur.com/nfwlTfm.png
 categories:
-  - Tecnologia e Tendência
   - NodeJS
-
+  - JavaScript
+  - Tecnologia e Tendência
 tags:
   - API Express
   - Express
