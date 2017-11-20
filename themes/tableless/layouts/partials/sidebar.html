@@ -26,14 +26,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1506041417420-0');
 </div>
   <h2>Últimos posts</h2>
   <ul>
-    {{ range first 7 .Site.Pages }}
+    {{ range first 5 .Site.Pages }}
     <li><a href="{{ .RelPermalink }}/?utm_source=tablelessSidebarLatestLinks" class="tb-latestpost-link">{{ .Title }}</a></li>
     {{ end }}
   </ul>
 
   <h2>Categorias</h2>
   <ul>
-    {{ range first 10 .Site.Taxonomies.categories.ByCount }}
+    {{ range first 12 .Site.Taxonomies.categories.ByCount }}
       <li><a href="/categories/{{ .Name | urlize }}" class="tb-categ-link">{{ .Name }}</a> ({{ .Count }})</li>
     {{ end }}
   </ul>

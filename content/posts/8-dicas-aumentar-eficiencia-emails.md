@@ -32,7 +32,9 @@ Mesmo que seu conteúdo e estratégia sejam excelentes, não existe uma fórmula
 
 Uma boa tática é solicitar que seus leitores tomem algumas medidas simples para que seu e-mail seja sempre entregue. Por exemplo, se o seu leitor possuir um e-mail [Gmail](https://www.google.com/gmail/) você pode solicitar que eles adicionem seu e-mail a sua lista de contatos conforme foto abaixo:
 
- ![](https://i.imgur.com/YqUhGEW.png)
+<span style="display: block; max-width: 300px;">
+![](https://i.imgur.com/YqUhGEW.png)
+</span>
 
 Existem algumas outras configurações possíveis que vão variar de provedor para provedor, mas, vale a pena você pesquisar mais sobre o assunto.
 
