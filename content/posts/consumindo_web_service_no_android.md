@@ -3,7 +3,7 @@ title: Consumindo Web Service no Android
 author: Matheus Castiglioni
 type: post
 image: http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2017/11/consumindo-web-service-no-android.jpg
-date: 2017-11-16
+date: 2017-11-23
 excerpt: Uma tarefa muito comum do dia a dia é realizar requisições HTTP e consumir Web Services, mas às vezes pode ser um tanto quanto chata pois precisa de configurações e alguns passos a serem seguidos.
 categories:
   - Mobile
