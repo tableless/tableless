@@ -4,14 +4,14 @@ author: Matheus Castiglioni
 type: post
 image: http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2017/11/consumindo-web-service-no-android.jpg
 date: 2017-11-16
-excerpt: Uma tarefa muito comúm do dia a dia é realizar requisições HTTP e consumir Web Services, mas as vezes pode ser um tanto quanto chata pois precisa de configurações e alguns passos a serem seguidos.
+excerpt: Uma tarefa muito comum do dia a dia é realizar requisições HTTP e consumir Web Services, mas às vezes pode ser um tanto quanto chata pois precisa de configurações e alguns passos a serem seguidos.
 categories:
   - Mobile
 ---
 
-Uma tarefa muito comúm do dia a dia é realizar requisições [HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol) e consumir *[Web Services](https://pt.wikipedia.org/wiki/Web_service)*, mas as vezes pode ser um tanto quanto chata pois precisa de configurações e alguns passos a serem seguidos.
+Uma tarefa muito comum do dia a dia é realizar requisições [HTTP](https://pt.wikipedia.org/wiki/Hypertext_Transfer_Protocol) e consumir *[Web Services](https://pt.wikipedia.org/wiki/Web_service)*, mas às vezes pode ser um tanto quanto chata pois precisa de configurações e alguns passos a serem seguidos.
 
-Para exemplo do post, vamos consumir um serviço para buscas de CEP, os passos que deveríamos seguir são:
+Para exemplo do post, vamos consumir um serviço para buscas de CEP. Os passos que deveríamos seguir são:
 
 - Desenhar o *layout*
 - Consumir nosso serviço
@@ -23,7 +23,7 @@ Após concluir todos esses passos teremos nossa app funcionando da seguinte mane
 
 ## Desenhando nossa app
 
-O primeiro passo será criar o *layout* da nossa app, como o assunto do *post* refere-se ao *web service*, irei disponibilizar o layout:
+O primeiro passo será criar o *layout* da nossa app. Como o assunto do *post* refere-se ao *web service*, vou disponibilizar o layout:
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -81,7 +81,7 @@ Após adicionar esse *layout* para a *activity*, devemos ter nossa app parecida 
 
 ## Consumindo um serviço
 
-Agora que o *layout* está pronto, podemos começar a consumir nosso serviço, para isso alguns passos devem ser seguidos, sendo eles:
+Agora que o *layout* está pronto, podemos começar a consumir nosso serviço. Para isso alguns passos devem ser seguidos, sendo eles:
 
 - Adicionar um *listener* no botão **Buscar CEP**
 - Validar se o CEP foi digitado
@@ -121,7 +121,7 @@ public class HttpService {
 }
 ```
 
-Vou chamar a classe de `HttpService` pois a mesma irá consumir um serviço HTTP. Aqui entra um detalhe, toda requisição HTTP deve ser feita em *background* pelo Android, ou seja, a mesma não pode  ser feita na *thread* principal, mas por que isso ocorre?
+Vou chamar a classe de `HttpService` pois a mesma vai consumir um serviço HTTP. Aqui entra um detalhe, toda requisição HTTP deve ser feita em *background* pelo Android, ou seja, a mesma não pode  ser feita na *thread* principal, mas por que isso ocorre?
 
 #### Entendendo como uma requisição HTTP funciona
 
@@ -132,7 +132,7 @@ Uma requisição HTTP é feita da seguinte maneira:
 - Durante o processo de requisição devemos aguardar o servidor responsável processá-la.
 - Após o servidor processá-la podemos pegar o retorno.
 
-Veja que no terceiro passo não sabemos quanto tempo o servidor irá levar para conseguir processar a requisição e devolver a resposta para a gente, por isso o Android exige que a requisição seja feita em *background*, assim o app não irá travar ou ficar congelado para o usuário enquanto a requisição é realizada. 
+Veja que no terceiro passo não sabemos quanto tempo o servidor levará para conseguir processar a requisição e devolver, por isso o Android exige que a requisição seja feita em *background*, assim o app não irá travar ou ficar congelado para o usuário enquanto a requisição é realizada. 
 
 Beleza Matheus, agora sabemos o motivo do Android exigir que a requisição seja feita em *background* ou em segundo plano, mas como podemos fazer isso?
 
@@ -315,7 +315,7 @@ Pronto, já conseguimos conectar, mas não basta conectar e realizar a requisiç
 
 #### Lendo a resposta da requisição
 
-Podemos ler a resposta facilmente com a classe `Scanner ` do pacote `java.io`, ela abstrai bastante a complexidade de ler informações:
+Podemos ler a resposta facilmente com a classe `Scanner ` do pacote `java.io`. Ela abstrai bastante a complexidade de ler informações:
 
 ```java
 Scanner scanner = new Scanner();
@@ -327,7 +327,7 @@ Beleza, estamos criando nosso `scanner`, mas de onde ele vai ler as informaçõe
 Scanner scanner = new Scanner(url.openStream());
 ```
 
-Como quase todas as classes do pacote `java.io`, devemos tratar a exceção para arquivos não encontrados, como já temos nosso `try catch`, precisamos apenas adicionar mais um `catch` em nosso `try`:
+Como quase todas as classes do pacote `java.io`, devemos tratar a exceção para arquivos não encontrados. Como já temos nosso `try catch`, precisamos apenas adicionar mais um `catch` em nosso `try`:
 
 ```java
 catch (IOException e) {
@@ -357,7 +357,7 @@ Afinal, como podemos pegar esse JSON, gravar dentro de uma `String` e converte-l
 
 #### Convertendo dados do json
 
-Realizar a conversão de dados em Java é algo trabalhoso, sabendo isso, a Google lançou uma biblioteca chamada [GSON](https://github.com/google/gson), responsável em abstrair a complexidade na hora de converter dados relacionados com JSON, para começar a usá-la, devemos declarar a dependência em nosso `build.gradle`:
+Realizar a conversão de dados em Java é algo trabalhoso, sabendo isso, a Google lançou uma biblioteca chamada [GSON](https://github.com/google/gson), responsável em abstrair a complexidade na hora de converter dados relacionados com JSON. Para começar a usá-la, devemos declarar a dependência em nosso `build.gradle`:
 
 ```graddle
 compile 'com.google.code.gson:gson:2.8.2'
