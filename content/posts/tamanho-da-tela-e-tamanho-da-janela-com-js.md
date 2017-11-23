@@ -5,6 +5,7 @@ type: post
 date: 2015-02-09
 excerpt: Um breve spike para comparar os valores do tamanho da tela e da janela em diversos dispositivos.
 url: /tamanho-da-tela-e-tamanho-da-janela-com-js/
+image: https://i.imgur.com/9Bm1wOZ.jpg
 categories:
   - Adaptive Web Design (AWD)
   - JavaScript
@@ -14,15 +15,15 @@ tags:
   - JavaScript
   - js
   - Mobile
-
 ---
+
 Se você trabalha em um projeto que precisa ser em visto em todos os dispositivos, você precisará ir muito além das Media Queries. Um passo adiante será detectar o tamanho da tela do usuário e também o tamanho da janela usada pelo usuário.
 
 Note que os dois são bem diferentes. Enquanto o usuário está um desktop, ele pode modificar o tamanho da janela do browser e consequentemente isso irá alterar o breakpoint da página. Se você faz um layout responsivo, ele verá o layout se adaptando enquanto faz o redimensionamento da página. Embora ele esteja modificando o tamanho da janela, o tamanho da tela (baseada PPI &#8211; Points Per Inch &#8211; da tela) dele não é modificada. 
 
 Você pode usar as duas ocasiões para fazer mudanças no layout ou no funcionamento da página de acordo com o tamanho da janela ou o tamanho da tela. Abaixo, veja um código bem básico, onde você consegue recuperar esses valores:
 
-
+<script async src="//jsfiddle.net/tableless/w8jcfm0L/embed/js,html,result/"></script>
 
 Redimensionando a janela, os valores mudam e você conhece o tamanho da janela. Para que os valores da tela mudem, modifique a resolução do seu computador e faça um refresh na página. Perceba que aqui no Desktop, ele mostra a resolução que você colocou, que na verdade é uma emulação caso a tela tivesse uma quantidade de pontos por polegada menor do que ela realmente tem.
 
