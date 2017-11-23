@@ -15,7 +15,6 @@ tags:
   - RESTful
   - Wordpress
   - wp
-
 ---
 ## TL;DR
 

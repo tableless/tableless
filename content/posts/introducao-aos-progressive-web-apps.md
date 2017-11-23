@@ -18,7 +18,7 @@ tags:
   - Mobile
 ---
 
-Olhe pro seu *smartphone *agora mesmo e se pergunte: você fez o *download *do
+Olhe pro seu *smartphone* agora mesmo e se pergunte: você fez o *download *do
 aplicativo do Shopping que mais frequenta? E da franquia de restaurantes? E da
 agência de viagens?
 

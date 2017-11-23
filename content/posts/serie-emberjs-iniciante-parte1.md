@@ -8,11 +8,9 @@ url: /serie-emberjs-iniciante-parte1/
 categories:
   - JavaScript
 tags:
-  - Ember
-  - ember.js
+  - emberjs
   - Frameworks Javascript
   - JavaScript
-
 ---
 É com muito prazer que começo a escrever aqui no Tableless para ajudá-lo a utilizar um dos melhores frameworks (IMHO) JavaScript atualmente: o EmberJS.
 
