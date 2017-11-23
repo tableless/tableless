@@ -3,6 +3,8 @@ title: Criando seu próprio servidor HTTP do zero (ou quase) – Parte I
 author: thiguetta
 type: post
 date: 2015-09-01
+excerpt: Aprenda a criar e entenda como funciona um servidor HTTP
+date: 2015-09-01
 url: /criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/
 categories:
   - Back-end
@@ -21,7 +23,7 @@ tags:
   - web standards
 ---
 
-_Você está lendo esse artigo por um patrocínio da Hostinger, especializada em [Servidores VPS](https://www.hostinger.com.br/servidor-vps?utm_source=referral&utm_medium=backlink&utm_campaign=tabeless_servidor)._
+**Você está lendo esse artigo por um patrocínio da Hostinger, especializada em [Servidores VPS](https://www.hostinger.com.br/servidor-vps?utm_source=referral&utm_medium=backlink&utm_campaign=tabeless_servidor).**
 
 Sou apaixonado por tecnologias livres e como sou extremamente curioso, gosto de saber como as coisas funcionam. Como também sou cinestésico, não me contento em apenas em entender, tenho que criar, recriar, escrever, rescrever, inventar, reinventar, enfim sentir realmente como se faz. Nesse vai e vem de aprendizado, minha última curiosidade foi entender como os servidores HTTP funcionam e criar um do zero (ou pelo menos quase).
 
