@@ -8,6 +8,11 @@ image: https://cdn-images-1.medium.com/max/800/1*zHcG2ZywrWKau3AAlYdS6g.jpeg
 categories:
   - emberjs
   - javascript
+tags:
+  - emberjs
+  - Frameworks Javascript
+  - javascript
+  - reactjs
 ---
 
 Ultimamente eu tenho conversado com diversos desenvolvedores sobre Framework

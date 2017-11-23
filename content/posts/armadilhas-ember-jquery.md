@@ -9,6 +9,12 @@ categories:
   - JavaScript
   - jquery
   - emberjs
+tags:
+  - emberjs
+  - Frameworks Javascript
+  - jquery
+  - reactjs
+  - events listeners
 ---
 
 Sim! O uso do JQuery em conjunto com o Ember pode trazer diversas armadilhas que

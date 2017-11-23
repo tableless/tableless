@@ -11,6 +11,8 @@ categories:
   - HTML
 tags:
   - Mercado e Comportamento
+  - Artigos
+  - Opinião
   - HTML
 image: https://i.imgur.com/826KY6u.jpg
 ---
