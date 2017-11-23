@@ -19,8 +19,10 @@ tags:
   - Na Prática
   - w3c
   - web standards
-
 ---
+
+_Você está lendo esse artigo por um patrocínio da Hostinger, especializada em [Servidores VPS](https://www.hostinger.com.br/servidor-vps?utm_source=referral&utm_medium=backlink&utm_campaign=tabeless_servidor)._
+
 Sou apaixonado por tecnologias livres e como sou extremamente curioso, gosto de saber como as coisas funcionam. Como também sou cinestésico, não me contento em apenas em entender, tenho que criar, recriar, escrever, rescrever, inventar, reinventar, enfim sentir realmente como se faz. Nesse vai e vem de aprendizado, minha última curiosidade foi entender como os servidores HTTP funcionam e criar um do zero (ou pelo menos quase).
 
 É claro que para fazer isso eu não fui tão lá embaixo a ponto de utilizar C, utilizei da linguagem de programação da qual me sinto mais confortável e que já oferece algumas facilidades que em C teria que sangrar pra fazer o mesmo porém não impossível, mas enfim, optei por desenvolver em Java, os passos vou contar pra vocês aqui, mas utilizando os mesmo conceitos nada impede que utilize qualquer outra linguagem de programação.
