@@ -14,7 +14,6 @@ categories:
   - HTML5
   - Java
 tags:
-  - desenvolvimento
   - desenvolvimento web
   - http
   - java

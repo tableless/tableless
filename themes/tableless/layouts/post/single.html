@@ -22,11 +22,12 @@
           <a href="{{ .RelPermalink }}?utm_source=tablelessRelatedLink" class="tb-related-post">{{ .Title | markdownify }}</a>
         </li>
         {{ end }}
+        {{ range first 2 .Site.Pages }}
+        <li><a href="{{ .RelPermalink }}/?utm_source=tablelessRelatedLink" class="tb-related-post">{{ .Title }}</a></li>
+        {{ end }}
       </ul>
 
     </div>
-
-
 
     {{ partial "disqus.html" . }}
   </section>
