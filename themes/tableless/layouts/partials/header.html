@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-br" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 <head>
-  <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css?{{ .Now.Unix }}">
+  <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css?{{ now.Unix }}">
+
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -26,7 +27,6 @@
   <link rel="canonical" href="{{ .Permalink }}">
 
   <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900" rel="stylesheet">
-
 
   {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
@@ -148,22 +148,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </ul>
         </li>
         <li><a href="{{ .Site.BaseURL}}categories/php" class="tb-menu-link">PHP</a></li>
-        <!-- <li>
-          <a href="{{ .Site.BaseURL}}categories/back-end" class="tb-menu-link">Back-end</a>
-          <ul>
-            <li><a href="{{ .Site.BaseURL}}categories/ruby" class="tb-menu-link">Ruby</a></li>
-            <li><a href="{{ .Site.BaseURL}}categories/rails" class="tb-menu-link">Rails</a></li>
-            <li><a href="{{ .Site.BaseURL}}categories/java" class="tb-menu-link">Java</a></li>
-          </ul>
-        </li> -->
         <li><a href="{{ .Site.BaseURL}}categories/design" class="tb-menu-link">Design</a></li>
-        <!-- <li>
-          <a href="{{ .Site.BaseURL}}categories/mobile" class="tb-menu-link">Mobile</a>
-          <ul>
-            <li><a href="{{ .Site.BaseURL}}categories/responsive-web-design-rwd" class="tb-menu-link">Responsive Web Design</a></li>
-            <li><a href="{{ .Site.BaseURL}}categories/adaptive-web-design-awd" class="tb-menu-link">Adaptive Web Design</a></li>
-          </ul>
-        </li> -->
         <li>
           <a href="#">Mais categorias</a>
           <ul>
