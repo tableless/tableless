@@ -17,14 +17,14 @@ tags:
   - prerender
 ---
 
-Você já deve saber que boa parte da performance de um site [está relacionado ao tratamento do front-end](https://browserdiet.com/). Além das técnicas como mitificação, concatenação, gzip, sprite images e etc, existe uma prática que tem se tornado bastante popular (mas é MUITO antiga) chamada **prebrowsing**. O prebrowsing é na verdade uma série de técnicas que dão **dicas** para o browser se adiantar enquanto o usuário não toma uma decisão.
+Você já deve saber que boa parte da performance de um site [está relacionado ao tratamento do front-end](https://browserdiet.com/). Além das técnicas como minificação, concatenação, gzip, posição dos links de JS e CSS no HTML, sprite images e etc, existe uma prática que tem se tornado bastante popular (mas é MUITO antiga) chamada **prebrowsing**. O prebrowsing é na verdade uma série de técnicas que dão **dicas** para o browser se adiantar enquanto o usuário não toma uma decisão.
 
-Iremos ver aqui algumas dessas técnicas que formam o **prebrowsing**, sendo elas: *DNS pre-fetching*, *pre-render* e *preconnect*.
+Iremos ver aqui algumas dessas técnicas que formam o **prebrowsing**, sendo elas: *DNS pre-fetching*, *preconnect*, *prefetching* e *pre-render*.
 
 ## Explicando os Hints
-O W3C chama isso de **Resource Hints** e você pode [ver a documentação técnica aqui](https://www.w3.org/TR/resource-hints/#introduction).
+O W3C chama isso de **Resource Hints** e você pode [ver a documentação aqui](https://www.w3.org/TR/resource-hints/#introduction).
 
-Como eu disse, essas técnicas dão **dicas** para o browser de como ele deve carregar antecipadamente os recursos. Elas são dividas em duas formas:
+Como eu disse, essas técnicas dão **dicas** para o browser de como ele deve carregar antecipadamente recursos ou até mesmo páginas inteiras. Elas são dividas em duas formas:
 
 - Um **link de dica de recurso** incluem *dns-prefetch*, *preconnect*, *prefetch* ou *prerender*, que são usados para indicar uma origem ou recurso que devem ser conectados pelo browser. 
 - O browser pode também **especular uma busca**, iniciando o download, carregando e execução de um recurso ou página usando o *prefetch* ou *prerender*.
