@@ -2,14 +2,11 @@ DefaultContentLanguage = "pt-br"
 title = "Tableless"
 baseURL = "https://tableless.com.br/"
 theme = "tableless"
-SectionPagesMenu = "main"
-metaDataFormat="json"
-canonifyURLs = true
 
 disqusShortname = "tableless"
 googleAnalytics = "UA-335027-1"
 
-enableRobotsTXT = true
+#enableRobotsTXT = true
 
 [params]
     siteName = "Tableless"

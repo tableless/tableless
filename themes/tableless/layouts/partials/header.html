@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 <head>
-  <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css?{{ now.Unix }}">
 
   <title>
     {{if or ($.Scratch.Get "single") ($.Scratch.Get "page")}}{{.Title}} - {{ .Site.Title }}{{end}} {{if $.Scratch.Get "category"}}Posts da categoria {{.Title}} - {{ .Site.Title }}{{end}} {{if $.Scratch.Get "author"}}Posts do autor {{.Title}} - {{ .Site.Title}}{{end}} {{if .IsHome}}{{.Site.Title}} - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web{{end}}
@@ -33,6 +32,7 @@
 
   <link rel="icon" href="images/favicon.png">
   <base href="{{ .Site.BaseURL }}">
+  <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css?{{ now.Unix }}">
 
   {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
