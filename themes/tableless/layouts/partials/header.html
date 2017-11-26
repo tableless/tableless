@@ -4,9 +4,7 @@
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css?{{ now.Unix }}">
 
   <title>
-    {{if or ($.Scratch.Get "single") ($.Scratch.Get "page")}}{{.Title}} - {{ .Site.Title }}{{end}} {{if $.Scratch.Get "category"}}Posts
-    da categoria {{.Title}} - {{ .Site.Title }}{{end}} {{if $.Scratch.Get "author"}}Posts do autor {{.Title}} - {{ .Site.Title
-    }}{{end}} {{if .IsHome}}{{.Site.Title}} - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web{{end}}
+    {{if or ($.Scratch.Get "single") ($.Scratch.Get "page")}}{{.Title}} - {{ .Site.Title }}{{end}} {{if $.Scratch.Get "category"}}Posts da categoria {{.Title}} - {{ .Site.Title }}{{end}} {{if $.Scratch.Get "author"}}Posts do autor {{.Title}} - {{ .Site.Title}}{{end}} {{if .IsHome}}{{.Site.Title}} - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web{{end}}
   </title>
 
   <meta charset="utf-8">
