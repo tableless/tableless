@@ -7,8 +7,7 @@ Para rodar o projeto você vai precisar do [Hugo](https://gohugo.io/) instalado 
 O CSS está usando SASS como pré-processador, para tanto, você precisa ter [SASS instalado na máquina](http://sass-lang.com/install). Uma vez instalado, você pode rodar o comando:
 
 ```
-cd themes/tableless/static/css/
-sass --watch style.sass:style.css --style compressed
+sass --watch themes/tableless/static/css/style.sass:themes/tableless/static/css/style.css --style compressed
 ```
 
 As vezes quando tento rodar o server do Hugo, acontece de dar um erro no terminal assim: `ERROR 2017/09/03 08:56:44 Error: listen tcp 127.0.0.1:1313: socket: too many open files in system`
