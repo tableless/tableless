@@ -39,7 +39,6 @@
   
   <link rel="icon" href="images/favicon.png">
   <base href="{{ .Site.BaseURL }}">
-  <script src="{{ .Site.BaseURL}}js/pb210746.js"></script>
 
   {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
@@ -78,7 +77,7 @@
   {{end}}
 
   {{ if $.Scratch.Get "single"}}
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/default.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/default.min.css">
 
   <script type="application/ld+json">
     { "@context": "http://schema.org",
@@ -104,7 +103,8 @@
 
   {{ end }}
 
-  <script async type="text/javascript" src="//s.clickiocdn.com/t/common_258.js"></script>
+  <script async type="text/javascript" src="https://s.clickiocdn.com/t/pb210746.js"></script>
+  <script async type="text/javascript" src="https://s.clickiocdn.com/t/common_258.js"></script>
 </head>
 <body>
 
