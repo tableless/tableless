@@ -108,7 +108,7 @@ A maior utilidade que encontrei para isso é a possibilidade de fazer **_logging
 
 #### Mantendo as coisas simples com o Google Analytics
 
-[<img class="alignnone size-full wp-image-7566" alt="" src="http://tableless.com.br/uploads/2012/12/Final-result.jpg" width="600" height="143" srcset="uploads/2012/12/Final-result.jpg 600w, uploads/2012/12/Final-result-300x71.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />][1]
+[<img class="alignnone size-full wp-image-7566" alt="" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/12/Final-result.jpg" width="600" height="143" srcset="uploads/2012/12/Final-result.jpg 600w, uploads/2012/12/Final-result-300x71.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />][1]
 
 Pra quem já usa o **Google Analytics**, aqui vai uma idéia que iria simplificar bastante o ato de fazer _log_ de erros: em vez de fazer uma requisição _ajax_ para o servidor da nossa aplicação, poderíamos simplesmente disparar <a title="Eventos customizados do Google Analytics" href="https://developers.google.com/analytics/devguides/collection/gajs/eventTrackerGuide?hl=pt-PT" target="_blank">eventos customizados do Google Analytics</a> (com o método **_trackEvent()**), e assim teríamos essas informações prontas com os relatórios bonitinhos da ferramenta – o que nos economizaria o trabalho de desenvolver toda uma estrutura para isso: criar uma tabela de erros no nosso banco de dados, escrever o _backend_ que receberia as requisições _ajax,_ e finalmente, implementar relatórios de erros.
 
@@ -116,4 +116,4 @@ Pra quem já usa o **Google Analytics**, aqui vai uma idéia que iria simplifica
 
 O evento **window.onerror** é suportado por todos os navegadores atuais: Chrome 13+, Firefox 6.0+, Opera 11.60+, Safari 5.1+ e Internet Explorer 5.5+ (quem diria!).
 
- [1]: http://tableless.com.br/uploads/2012/12/Final-result.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/12/Final-result.jpg

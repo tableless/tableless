@@ -58,11 +58,11 @@ A primeira impressão é a que fica. Ter um layout bacana para a tela de login �
 
 Um logotipo é uma parte fundamental de uma marca. Quanto maior a visibilidade que ele tiver, mais fixado ficará na mente das pessoas. Na página inicial do painel de administração acima do formulário de login temos o logo do WordPress.
 
-<img class="alignnone size-full wp-image-37926" alt="wp-login" src="http://tableless.com.br/uploads/2013/06/wp-login.jpg" width="660" height="400" srcset="uploads/2013/06/wp-login.jpg 660w, uploads/2013/06/wp-login-277x168.jpg 277w, uploads/2013/06/wp-login-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37926" alt="wp-login" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/wp-login.jpg" width="660" height="400" srcset="uploads/2013/06/wp-login.jpg 660w, uploads/2013/06/wp-login-277x168.jpg 277w, uploads/2013/06/wp-login-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Para deixar o sistema com a identidade visual da sua empresa o primeiro passo é substituir esta imagem pelo seu próprio logo. Crie um arquivo de imagem com o tamanho máximo de 323 pixels de largura por 67 pixels de altura.
 
-<img class="alignnone size-full wp-image-37925" alt="wp-login-tableless" src="http://tableless.com.br/uploads/2013/06/wp-login-tableless.jpg" width="660" height="400" srcset="uploads/2013/06/wp-login-tableless.jpg 660w, uploads/2013/06/wp-login-tableless-277x168.jpg 277w, uploads/2013/06/wp-login-tableless-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37925" alt="wp-login-tableless" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/wp-login-tableless.jpg" width="660" height="400" srcset="uploads/2013/06/wp-login-tableless.jpg 660w, uploads/2013/06/wp-login-tableless-277x168.jpg 277w, uploads/2013/06/wp-login-tableless-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 O logo do WordPress está como background de uma classe de CSS. Adicione a seguinte classe na sua folha de estilos e substitua o endereço pelo nome e caminho correto da imagem.
 
@@ -132,11 +132,11 @@ body.login div#login p#backtoblog a {}</pre>
 
 OK. Agora que você já modificou a aparência externa do seu administrador está na hora de alterar a aparência interna. O primeiro passo é o ícone do cabeçalho do seu painel de controle. Por padrão temos um pequeno W.
 
-<img class="alignnone size-full wp-image-37922" alt="header-dashboard" src="http://tableless.com.br/uploads/2013/06/header-dashboard.jpg" width="660" height="26" srcset="uploads/2013/06/header-dashboard.jpg 660w, uploads/2013/06/header-dashboard-329x12.jpg 329w, uploads/2013/06/header-dashboard-588x23.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37922" alt="header-dashboard" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/header-dashboard.jpg" width="660" height="26" srcset="uploads/2013/06/header-dashboard.jpg 660w, uploads/2013/06/header-dashboard-329x12.jpg 329w, uploads/2013/06/header-dashboard-588x23.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Para adicionar o seu próprio ícone customizado basta criar uma imagem com 20px quadrados. A imagem precisa ser transparente (formato gif ou png).
 
-<img class="alignnone size-full wp-image-37921" alt="header-dashboard-tableless" src="http://tableless.com.br/uploads/2013/06/header-dashboard-tableless.jpg" width="660" height="26" srcset="uploads/2013/06/header-dashboard-tableless.jpg 660w, uploads/2013/06/header-dashboard-tableless-329x12.jpg 329w, uploads/2013/06/header-dashboard-tableless-588x23.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37921" alt="header-dashboard-tableless" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/header-dashboard-tableless.jpg" width="660" height="26" srcset="uploads/2013/06/header-dashboard-tableless.jpg 660w, uploads/2013/06/header-dashboard-tableless-329x12.jpg 329w, uploads/2013/06/header-dashboard-tableless-588x23.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Você pode modificar o background por CSS da classe #wp-admin-bar-wp-logo .ab-icon ou acrescentar o seguinte código no seu arquivo functions.php.
 
@@ -151,11 +151,11 @@ echo '
 
 Por padrão o footer do WordPress exibe a mensagem &#8220;Obrigado por criar com o WordPress&#8221;.
 
-<img class="alignnone size-full wp-image-37920" alt="footer" src="http://tableless.com.br/uploads/2013/06/footer.jpg" width="660" height="52" srcset="uploads/2013/06/footer.jpg 660w, uploads/2013/06/footer-329x25.jpg 329w, uploads/2013/06/footer-588x46.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37920" alt="footer" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/footer.jpg" width="660" height="52" srcset="uploads/2013/06/footer.jpg 660w, uploads/2013/06/footer-329x25.jpg 329w, uploads/2013/06/footer-588x46.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Ok. Não somos ingratos, mas já que você que criou seu próprio tema seria interessante colocar ali um link para seu portfólio, créditos relativos ao cliente ou a mensagem que você bem entender, certo?
 
-<img class="alignnone size-full wp-image-37919" alt="footer-modificado" src="http://tableless.com.br/uploads/2013/06/footer-modificado.jpg" width="660" height="52" srcset="uploads/2013/06/footer-modificado.jpg 660w, uploads/2013/06/footer-modificado-329x25.jpg 329w, uploads/2013/06/footer-modificado-588x46.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37919" alt="footer-modificado" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/footer-modificado.jpg" width="660" height="52" srcset="uploads/2013/06/footer-modificado.jpg 660w, uploads/2013/06/footer-modificado-329x25.jpg 329w, uploads/2013/06/footer-modificado-588x46.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Para trocar este texto novamente vamos utilizar o nosso grande amigo functions.php. Adicione o seguinte código e mude o texto entre as aspas depois do echo.
 
@@ -169,11 +169,11 @@ add_filter('admin_footer_text', 'remove_footer_admin');</pre>
 
 O administrador em inglês do WordPress saúda o usuário com um &#8220;Howdy!&#8221;. Embora muita gente ache que a saudação jovem e divertida, talvez um cliente sério e corporativo ficasse mais satisfeito com algo menos &#8220;sou um cowboy do Texas&#8221;. Por sorte o painel em português diz um simples &#8220;olá&#8221;. Mesmo assim você poder querer trocar o texto para algo que combine mais com o seu projeto.
 
-<img class="alignnone size-full wp-image-37924" alt="mensagem-header" src="http://tableless.com.br/uploads/2013/06/mensagem-header.jpg" width="660" height="26" srcset="uploads/2013/06/mensagem-header.jpg 660w, uploads/2013/06/mensagem-header-329x12.jpg 329w, uploads/2013/06/mensagem-header-588x23.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37924" alt="mensagem-header" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/mensagem-header.jpg" width="660" height="26" srcset="uploads/2013/06/mensagem-header.jpg 660w, uploads/2013/06/mensagem-header-329x12.jpg 329w, uploads/2013/06/mensagem-header-588x23.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Para trocar o texto da saudação padrão do WordPress basta adicionar o seguinte snippet no arquivo functions.php.
 
-<img class="alignnone size-full wp-image-37923" alt="mensagem-header-modificada" src="http://tableless.com.br/uploads/2013/06/mensagem-header-modificada.jpg" width="660" height="26" srcset="uploads/2013/06/mensagem-header-modificada.jpg 660w, uploads/2013/06/mensagem-header-modificada-329x12.jpg 329w, uploads/2013/06/mensagem-header-modificada-588x23.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37923" alt="mensagem-header-modificada" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/mensagem-header-modificada.jpg" width="660" height="26" srcset="uploads/2013/06/mensagem-header-modificada.jpg 660w, uploads/2013/06/mensagem-header-modificada-329x12.jpg 329w, uploads/2013/06/mensagem-header-modificada-588x23.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 No exemplo a seguir o texto dirá &#8220;Bem vindo&#8221;.
 
@@ -194,7 +194,7 @@ Ah, se o seu admin estiver em inglês substitua &#8220;Olá&#8221; por &#8220;Ho
 
 Todos estes snippets são bacanas para dar um tapa no visual do WordPress. Mas, se você ainda está insatisfeito com o nível de personalização, pode criar um tema completamente diferente. Para isto basta alterar o CSS do administrador. A folha de estilos padrão (/wp-admin/css) é bem completa e organizadinha. Pode ser que você só precise fazer alguns ajustes.
 
-<img class="alignnone size-full wp-image-37918" alt="admin-css" src="http://tableless.com.br/uploads/2013/06/admin-css.jpg" width="660" height="350" srcset="uploads/2013/06/admin-css.jpg 660w, uploads/2013/06/admin-css-316x168.jpg 316w, uploads/2013/06/admin-css-584x310.jpg 584w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37918" alt="admin-css" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/admin-css.jpg" width="660" height="350" srcset="uploads/2013/06/admin-css.jpg 660w, uploads/2013/06/admin-css-316x168.jpg 316w, uploads/2013/06/admin-css-584x310.jpg 584w" sizes="(max-width: 660px) 100vw, 660px" />
 
 &nbsp;
 

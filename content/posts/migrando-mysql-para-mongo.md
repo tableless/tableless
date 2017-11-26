@@ -15,7 +15,7 @@ tags:
 
 O Mongodb é um banco de dados NoSql, open-source e escrito em C++ que salva seus dados em formato JSON(usando BSON — uma versão binária de JSON) utilizando chaves e valores para isso.
 
-[<img class=" size-full wp-image-47555 aligncenter" src="http://tableless.com.br/uploads/2015/03/documentos.png" alt="documentos" width="176" height="81" />][1]
+[<img class=" size-full wp-image-47555 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/documentos.png" alt="documentos" width="176" height="81" />][1]
 
 O que mais diferencia o Mongo dos outros bancos NoSQL é a simplicidade em converter instruções SQL.
   
@@ -123,4 +123,4 @@ db.agenda.save(agd);
 
 No próximo post utilizaremos todas as funções acima e ainda daremos uma alteração especial nas consultas utilizando mongo, espero vocês e até o próximo.
 
- [1]: http://tableless.com.br/uploads/2015/03/documentos.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/documentos.png

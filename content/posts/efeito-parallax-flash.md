@@ -22,7 +22,7 @@ O efeito paralaxe basicamente é uma abordagem de design do site que tem sido us
 
 Um dos principais **benefícios do uso de projeto paralaxe** é que ele permite que o site conte uma história para o visitante apenas por rolagem, não necessariamente uma história do tipo joão e maria com final feliz, mas uma linha de raciocínio lógico para informar o usuário ou até mesmo induzi-lo a alguma ação final seja ela curtir, compartilhar ou comprar algo.
 
-[<img src="http://tableless.com.br/uploads/2013/09/funciona-search-google.jpg" alt="Como funciona search Google" width="598" height="292" class="alignnone size-full wp-image-38870" style="padding:10px 0" srcset="uploads/2013/09/funciona-search-google.jpg 598w, uploads/2013/09/funciona-search-google-329x160.jpg 329w, uploads/2013/09/funciona-search-google-588x287.jpg 588w" sizes="(max-width: 598px) 100vw, 598px" />][3]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/09/funciona-search-google.jpg" alt="Como funciona search Google" width="598" height="292" class="alignnone size-full wp-image-38870" style="padding:10px 0" srcset="uploads/2013/09/funciona-search-google.jpg 598w, uploads/2013/09/funciona-search-google-329x160.jpg 329w, uploads/2013/09/funciona-search-google-588x287.jpg 588w" sizes="(max-width: 598px) 100vw, 598px" />][3]
   
 Uma boa demonstração desta técnica narrativa é encontrada em &#8220;[como funciona a busca][3]&#8220;, onde o Google explica em termos muito básicos como o motor de busca funciona.
 
@@ -52,7 +52,7 @@ Nem precisa me responder, já fiz o teste utilizando a própria página do Googl
   
 O projeto que era uma página paralaxe ficou estática no mobile e foi separado em 3 páginas.
   
-[<img src="http://tableless.com.br/uploads/2013/09/mobile-funciona-search-google.jpg" alt="mobile funciona search google" width="597" height="286" class="alignnone size-full wp-image-38877" srcset="uploads/2013/09/mobile-funciona-search-google.jpg 597w, uploads/2013/09/mobile-funciona-search-google-329x157.jpg 329w, uploads/2013/09/mobile-funciona-search-google-588x281.jpg 588w" sizes="(max-width: 597px) 100vw, 597px" />][6]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/09/mobile-funciona-search-google.jpg" alt="mobile funciona search google" width="597" height="286" class="alignnone size-full wp-image-38877" srcset="uploads/2013/09/mobile-funciona-search-google.jpg 597w, uploads/2013/09/mobile-funciona-search-google-329x157.jpg 329w, uploads/2013/09/mobile-funciona-search-google-588x281.jpg 588w" sizes="(max-width: 597px) 100vw, 597px" />][6]
 
 ## Então a melhor opção é não utilizar Parallax?
 

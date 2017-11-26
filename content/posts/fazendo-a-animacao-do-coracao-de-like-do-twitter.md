@@ -20,7 +20,7 @@ Quando o Twitter colocou uma animação no coração de Like na versão web, eu 
 
 Antes de olhar o código deles pra pesquisar como foi feito, fiquei pensando em uma série de formas para fazer isso aí. Primeiro, pensei em ter várias imagens, e aí usar `keyframes` pra alterar esse background do elemento a cada X tempo de milésimos de segundos. Depois evolui o pensamento para fazer apenas uma imagem, com todos os &#8220;frames&#8221; da animação. Muito mais inteligente, claro&#8230; lembra dos Sprites&#8230; Pois é. Com essa imagem eu poderia simplesmente mover o background com um transition simples do CSS. A imagem em questão é essa aqui:
 
-![](http://tableless.com.br/uploads/2016/01/web_heart_animation.png)
+![](https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/01/web_heart_animation.png)
 
 Quando utilizamos a propriedade `transition`, geralmente usamos os valores `linear`, `ease-in`, `ease-out` e etc&#8230; Essas funções definem como os valores intermediários de uma transição serão calculados. Eles pegam um valor inicial e calculam como a transição vai ocorrer até o valor final.
 

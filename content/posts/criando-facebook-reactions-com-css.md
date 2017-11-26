@@ -157,7 +157,7 @@ O intuito de criar esse pequeno exemplo foi me divertir e também em mostrar os 
 
 <div style="overflow: hidden">
   <p>
-    <a style="float: left;margin: 0 15px 15px 0" href="http://deividmarques.github.io/facebook-reactions-css/"><img class="alignleft size-full wp-image-53344" src="http://tableless.com.br/uploads/2016/02/print-cel.png" alt="facebook reactions com css by Deivid Marques" width="300" height="533" /></a>
+    <a style="float: left;margin: 0 15px 15px 0" href="http://deividmarques.github.io/facebook-reactions-css/"><img class="alignleft size-full wp-image-53344" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/02/print-cel.png" alt="facebook reactions com css by Deivid Marques" width="300" height="533" /></a>
   </p>
   
   <p>

@@ -25,7 +25,7 @@ Pra quem não conhece, essa é uma técnica que se baseia em combinar diversas i
 
 Imagine um menu como esse:
 
-<img class="alignnone size-full wp-image-6451" src="http://tableless.com.br/uploads/2012/07/esc.jpg" alt="" width="720" height="51" srcset="uploads/2012/07/esc.jpg 720w, uploads/2012/07/esc-300x21.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-6451" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/esc.jpg" alt="" width="720" height="51" srcset="uploads/2012/07/esc.jpg 720w, uploads/2012/07/esc-300x21.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 Fazer uma requisição para cada uma das imagens é muito ruim em termos de performance, por isso podemos recorrer aos CSS Sprites da seguinte maneira. Montamos nossa lista não-ordenada de elementos, mas ao invés de utilizarmos a tag _img_, aplicamos uma classe para cada um dos itens.
 

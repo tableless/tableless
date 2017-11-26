@@ -25,4 +25,4 @@ Outro assunto rápido é sobre o Flofox. Se alguém não estiver feliz com o Flo
   
 O Theme se chama Flofox, e pode ser baixado aqui: <http://www.uneasysilence.com/archive/2006/06/6703/>.
 
-<a title="Flofox" onclick="doPopup(739);return false;" class="imagelink" href="http://tableless.com.br/uploads/2006/07/flofox.jpg"><img width="528" height="403" alt="Flofox" id="image739" src="http://tableless.com.br/uploads/2006/07/flofox.jpg" /></a>
+<a title="Flofox" onclick="doPopup(739);return false;" class="imagelink" href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2006/07/flofox.jpg"><img width="528" height="403" alt="Flofox" id="image739" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2006/07/flofox.jpg" /></a>

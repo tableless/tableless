@@ -50,7 +50,7 @@ Para fazer esse exercício, baixe as [cartas do jogo aqui][3]. São cartas com a
 
 Neste passo o participante irá organizar as cartas ordenando as suas motivações do menos importante para o mais importante.
 
-<img src="http://tableless.com.br/uploads/2013/10/moving-motivators1.jpg" alt="moving-motivators1" width="500" height="95" class="alignnone size-full wp-image-39193" srcset="uploads/2013/10/moving-motivators1.jpg 500w, uploads/2013/10/moving-motivators1-329x62.jpg 329w" sizes="(max-width: 500px) 100vw, 500px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/10/moving-motivators1.jpg" alt="moving-motivators1" width="500" height="95" class="alignnone size-full wp-image-39193" srcset="uploads/2013/10/moving-motivators1.jpg 500w, uploads/2013/10/moving-motivators1-329x62.jpg 329w" sizes="(max-width: 500px) 100vw, 500px" />
 
 Você vai perceber que membros da equipe tem resultados totalmente diferentes. O que pode ser muito confuso inicialmente. Isso faz você perceber que cada individuo precisa de um &#8220;ambiente ideal&#8221;, muito diferente do outro membro. Às vezes uma das motivações mais importantes para um membro é a motivação menos importante para outro. Como manter um ambiente estável sabendo dessa informação? Eis a questão.
 
@@ -58,7 +58,7 @@ Você vai perceber que membros da equipe tem resultados totalmente diferentes. O
 
 Agora, mantendo a mesma ordem das cartas, o integrante vai movimentar para cima ou para baixo as desejos/motivações que são mais ou menos afetados quando relacionados ao ambiente de trabalho.
 
-<img src="http://tableless.com.br/uploads/2013/10/moving-motivators2.jpg" alt="moving-motivators1" width="500" height="95" class="alignnone size-full wp-image-39193" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/10/moving-motivators2.jpg" alt="moving-motivators1" width="500" height="95" class="alignnone size-full wp-image-39193" />
 
 Por exemplo: se você acha que seu trabalho não instiga sua curiosidade, sua vontade de pesquisa para aprender novas coisas e etc, mova CURIOSITY para baixo. Mas se você acha que o seu trabalho aumenta sua liberdade, te dando mais autonomia, mova FREEDOM para cima.
 

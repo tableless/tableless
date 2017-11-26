@@ -19,7 +19,7 @@ E… espere.
 
 Não sabe o que é isso? Não sinta-se culpado. Olhe a imagem a seguir.
 
-<img src="http://tableless.com.br/uploads/2014/06/codepiece.jpg" alt="Codepiece, um dos gadgets mais populares dos séculos 15 e 16. " width="640" height="751" class="size-full wp-image-43176" srcset="uploads/2014/06/codepiece.jpg 640w, uploads/2014/06/codepiece-118x139.jpg 118w, uploads/2014/06/codepiece-400x469.jpg 400w" sizes="(max-width: 640px) 100vw, 640px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/06/codepiece.jpg" alt="Codepiece, um dos gadgets mais populares dos séculos 15 e 16. " width="640" height="751" class="size-full wp-image-43176" srcset="uploads/2014/06/codepiece.jpg 640w, uploads/2014/06/codepiece-118x139.jpg 118w, uploads/2014/06/codepiece-400x469.jpg 400w" sizes="(max-width: 640px) 100vw, 640px" />
 
 Codepiece era uma tecnologia, um &#8220;wearable&#8221; usado por nobres na Europa dos séculos 15 e 16. Servia para acentuar o tamanho da genitália masculina. Para quê? Hmmm, mostrar a potência da conexão, talvez. Você encontrará diferentes explicações em livros de história.
 

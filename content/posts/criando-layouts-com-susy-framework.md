@@ -36,13 +36,13 @@ Assumindo que você já tem o Sass instalado, vamos instalar o Susy. Abra o prom
 
 Após concluir a instalação vamos criar uma pasta para o projeto e dentro dela um arquivo index.html, uma pasta css e uma pasta scss com um arquivo style.scss dentro dela.
 
-<img class="alignnone size-full wp-image-50233" src="http://tableless.com.br/uploads/2015/07/estrutura-de-pastas.jpg" alt="Learning Susy" width="617" height="76" />
+<img class="alignnone size-full wp-image-50233" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/estrutura-de-pastas.jpg" alt="Learning Susy" width="617" height="76" />
 
 ## Iniciando o desenvolvimento
 
 Vamos construir o seguinte layout:
 
-<img class="alignnone size-full wp-image-50282" src="http://tableless.com.br/uploads/2015/07/layout.png" alt="layout" />
+<img class="alignnone size-full wp-image-50282" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/layout.png" alt="layout" />
 
 Primeiramente vamos iniciar o Sass para que nosso código possa ser compilado. Abra a pasta do projeto na linha de comando e digite:
 

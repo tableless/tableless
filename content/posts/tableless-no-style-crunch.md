@@ -15,7 +15,7 @@ tags:
   - cotidiano
 
 ---
-[<img width="505" height="246" id="image814" alt="Tableless no Style Crunch" src="http://tableless.com.br/uploads/2007/01/tableless-stylecrunch.png" />][1]
+[<img width="505" height="246" id="image814" alt="Tableless no Style Crunch" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/01/tableless-stylecrunch.png" />][1]
   
 Oba! O [Tableless][2] [apareceu no Style Crunch][1] ontem! Huhu!
 

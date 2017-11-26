@@ -23,5 +23,5 @@ Quer comparar com a primeiríssima versão do site? [Dá uma olhada então nessa
 
 Alguma hora nós voltaremos com a nossa programação normal. 😉
 
- [1]: http://tableless.com.br/uploads/2007/02/interna2007.jpg
- [2]: http://tableless.com.br/uploads/2007/02/interna2006.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/02/interna2007.jpg
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/02/interna2006.jpg

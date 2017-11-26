@@ -139,7 +139,7 @@ A inicialização fica assim:
 
 E o resultado:
 
-<img src="http://tableless.com.br/uploads/2013/02/filtrify.jpg" alt="filtrify" width="378" height="333" class="alignnone size-full wp-image-10921" srcset="uploads/2013/02/filtrify.jpg 378w, uploads/2013/02/filtrify-190x168.jpg 190w, uploads/2013/02/filtrify-351x310.jpg 351w" sizes="(max-width: 378px) 100vw, 378px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/02/filtrify.jpg" alt="filtrify" width="378" height="333" class="alignnone size-full wp-image-10921" srcset="uploads/2013/02/filtrify.jpg 378w, uploads/2013/02/filtrify-190x168.jpg 190w, uploads/2013/02/filtrify-351x310.jpg 351w" sizes="(max-width: 378px) 100vw, 378px" />
 
 ## jQuery Zoom
 

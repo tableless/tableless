@@ -100,4 +100,4 @@ Se você deseja utilizar os critérios apresentados neste artigo, [disponibilize
  [2]: http://tableless.com.br/vote-no-especialista-em-usabilidade-para-presidente
  [3]: http://www.labiutil.inf.ufsc.br/CriteriosErgonomicos/Abertura.html
  [4]: http://www.testinggeek.com/index.php/testing-templates/checklist-guidelines/78-web-application-ui-checklist
- [5]: http://tableless.com.br/uploads/2010/12/Avaliação-Heurística.xls
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/Avaliação-Heurística.xls

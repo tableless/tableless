@@ -200,27 +200,27 @@ Este é o código que temos.Vamos ver como o navegador (Chrome) nos possibilita 
   
 Execute o documento no navegador e aperte F12. Aparecerá a tela do lado direito aperte a seta à esquerda do Local Storage para visualizar os dados salvos pelo documento em execução. No caso abaixo, ainda não temos nenhum valor salvo.
 
-[<img class="alignnone size-medium wp-image-40582" alt="ws1" src="http://tableless.com.br/uploads/2014/01/ws1-588x171.png" width="588" height="171" srcset="uploads/2014/01/ws1-588x171.png 588w, uploads/2014/01/ws1-329x95.png 329w, uploads/2014/01/ws1-660x192.png 660w, uploads/2014/01/ws1.png 970w" sizes="(max-width: 588px) 100vw, 588px" />][1]
+[<img class="alignnone size-medium wp-image-40582" alt="ws1" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ws1-588x171.png" width="588" height="171" srcset="uploads/2014/01/ws1-588x171.png 588w, uploads/2014/01/ws1-329x95.png 329w, uploads/2014/01/ws1-660x192.png 660w, uploads/2014/01/ws1.png 970w" sizes="(max-width: 588px) 100vw, 588px" />][1]
 
 Faça qualquer conta.
   
-[<img class="alignnone size-medium wp-image-40583" alt="ws2" src="http://tableless.com.br/uploads/2014/01/ws2-226x310.png" width="226" height="310" srcset="uploads/2014/01/ws2-226x310.png 226w, uploads/2014/01/ws2-122x168.png 122w, uploads/2014/01/ws2.png 262w" sizes="(max-width: 226px) 100vw, 226px" />][2]
+[<img class="alignnone size-medium wp-image-40583" alt="ws2" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ws2-226x310.png" width="226" height="310" srcset="uploads/2014/01/ws2-226x310.png 226w, uploads/2014/01/ws2-122x168.png 122w, uploads/2014/01/ws2.png 262w" sizes="(max-width: 226px) 100vw, 226px" />][2]
 
 Agora clique em igual (=) para obter o resultado.
   
-[<img class="alignnone size-medium wp-image-40584" alt="ws3" src="http://tableless.com.br/uploads/2014/01/ws3-237x310.png" width="237" height="310" srcset="uploads/2014/01/ws3-237x310.png 237w, uploads/2014/01/ws3-128x168.png 128w, uploads/2014/01/ws3.png 264w" sizes="(max-width: 237px) 100vw, 237px" />][3]
+[<img class="alignnone size-medium wp-image-40584" alt="ws3" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ws3-237x310.png" width="237" height="310" srcset="uploads/2014/01/ws3-237x310.png 237w, uploads/2014/01/ws3-128x168.png 128w, uploads/2014/01/ws3.png 264w" sizes="(max-width: 237px) 100vw, 237px" />][3]
 
 Clicando em salvar, abriremos um prompt para ser digitado o nome do resultado que será utilizado para identificar o valor.
   
-[<img class="alignnone size-medium wp-image-40585" alt="ws4" src="http://tableless.com.br/uploads/2014/01/ws4-588x156.png" width="588" height="156" srcset="uploads/2014/01/ws4-588x156.png 588w, uploads/2014/01/ws4-329x87.png 329w, uploads/2014/01/ws4-660x176.png 660w, uploads/2014/01/ws4.png 944w" sizes="(max-width: 588px) 100vw, 588px" />][4]
+[<img class="alignnone size-medium wp-image-40585" alt="ws4" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ws4-588x156.png" width="588" height="156" srcset="uploads/2014/01/ws4-588x156.png 588w, uploads/2014/01/ws4-329x87.png 329w, uploads/2014/01/ws4-660x176.png 660w, uploads/2014/01/ws4.png 944w" sizes="(max-width: 588px) 100vw, 588px" />][4]
 
 Depois de clicar em OK, abra o inspetor de elementos Developer Tools clique no botão de refresh no rodapé e você verá o valor salvo.
   
-[<img class="alignnone size-medium wp-image-40586" alt="ws5" src="http://tableless.com.br/uploads/2014/01/ws5-588x162.png" width="588" height="162" srcset="uploads/2014/01/ws5-588x162.png 588w, uploads/2014/01/ws5-329x91.png 329w, uploads/2014/01/ws5-660x182.png 660w, uploads/2014/01/ws5.png 936w" sizes="(max-width: 588px) 100vw, 588px" />][5]
+[<img class="alignnone size-medium wp-image-40586" alt="ws5" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ws5-588x162.png" width="588" height="162" srcset="uploads/2014/01/ws5-588x162.png 588w, uploads/2014/01/ws5-329x91.png 329w, uploads/2014/01/ws5-660x182.png 660w, uploads/2014/01/ws5.png 936w" sizes="(max-width: 588px) 100vw, 588px" />][5]
 
 Execute mais um calculo e salve seu valor. Agora clique em LISTAR VALORES e assim serão exibidos todos os valores no localStorage.
   
-[<img class="alignnone size-medium wp-image-40587" alt="ws6" src="http://tableless.com.br/uploads/2014/01/ws6-242x310.png" width="242" height="310" srcset="uploads/2014/01/ws6-242x310.png 242w, uploads/2014/01/ws6-131x168.png 131w, uploads/2014/01/ws6.png 264w" sizes="(max-width: 242px) 100vw, 242px" />][6]
+[<img class="alignnone size-medium wp-image-40587" alt="ws6" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ws6-242x310.png" width="242" height="310" srcset="uploads/2014/01/ws6-242x310.png 242w, uploads/2014/01/ws6-131x168.png 131w, uploads/2014/01/ws6.png 264w" sizes="(max-width: 242px) 100vw, 242px" />][6]
 
 Clicando em APAGAR VALORES os dados sumirão e não serão mais visualizados no Developers Tools e não serão listados na tabela.
 
@@ -228,9 +228,9 @@ Para finalizarmos temos que esclarecer que a maneira de se usar o sessionStorage
 
 Bons estudos e bom trabalho!
 
- [1]: http://tableless.com.br/uploads/2014/01/ws1.png
- [2]: http://tableless.com.br/uploads/2014/01/ws2.png
- [3]: http://tableless.com.br/uploads/2014/01/ws3.png
- [4]: http://tableless.com.br/uploads/2014/01/ws4.png
- [5]: http://tableless.com.br/uploads/2014/01/ws5.png
- [6]: http://tableless.com.br/uploads/2014/01/ws6.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ws1.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ws2.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ws3.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ws4.png
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ws5.png
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ws6.png

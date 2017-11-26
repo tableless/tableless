@@ -18,7 +18,7 @@ tags:
   - responsive
 
 ---
-[<img src="http://tableless.com.br/uploads/2014/12/header-responsive-only-css.png" alt="header-responsive-only-css" class="alignnone size-full wp-image-46175" srcset="uploads/2014/12/header-responsive-only-css.png 750w, uploads/2014/12/header-responsive-only-css-265x106.png 265w, uploads/2014/12/header-responsive-only-css-400x160.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][1]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/header-responsive-only-css.png" alt="header-responsive-only-css" class="alignnone size-full wp-image-46175" srcset="uploads/2014/12/header-responsive-only-css.png 750w, uploads/2014/12/header-responsive-only-css-265x106.png 265w, uploads/2014/12/header-responsive-only-css-400x160.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][1]
 
 A cada novo projeto queremos alcançar o máximo de usuários, não importa se o dispositivo seja grande ou pequeno, tem que funcionar.
 
@@ -218,4 +218,4 @@ Agora o menu é responsivo e bem simples com poucos elementos.
 
 É isso ae pessoal, obrigado
 
- [1]: http://tableless.com.br/uploads/2014/12/header-responsive-only-css.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/header-responsive-only-css.png

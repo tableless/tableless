@@ -25,7 +25,7 @@ Depois de instalado (poderá ser necessário reiniciar o computador em alguns ca
 
 Para testar, rode o comando `meteor --version`; o output é como se espera: a versão instalada do Meteor:
 
-[<img class="alignnone size-full wp-image-50696" src="http://tableless.com.br/uploads/2015/08/meter-version.jpg" alt="meter--version" width="805" height="373" />][1]
+[<img class="alignnone size-full wp-image-50696" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/meter-version.jpg" alt="meter--version" width="805" height="373" />][1]
 
 Falando nisso, tenho que atualizar o meu. Pra quem acabou de instalar a versão vai ser a 1.1.0.3.
 
@@ -37,7 +37,7 @@ O Meteor vai então criar essa pasta `hello-meteor` e vai deixa lá alguns arqui
 
 Como a gente não manja ainda, vamos usa-los pra entender como ele funciona!
 
-[<img class="alignnone size-full wp-image-50701" src="http://tableless.com.br/uploads/2015/08/hellometeor.jpg" alt="hellometeor" width="805" height="373" />][2]
+[<img class="alignnone size-full wp-image-50701" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/hellometeor.jpg" alt="hellometeor" width="805" height="373" />][2]
 
 O `hello-meteor.css` não tem nada, é isso, tá lá só pra ilustrar, como falei antes, mas é lá que vai seu CSS.
 
@@ -61,7 +61,7 @@ Toda chave na `Session` é uma <a href="http://docs.meteor.com/#/full/reactiveva
 
 Quer ver isso tudo funcionando? Só executar `meteor` dentro da pasta do seu app.
 
-[<img class="alignnone size-full wp-image-50707" src="http://tableless.com.br/uploads/2015/08/runnnign.jpg" alt="running" width="805" height="373" />][3]
+[<img class="alignnone size-full wp-image-50707" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/runnnign.jpg" alt="running" width="805" height="373" />][3]
 
 Pronto, app rodando, só entrar em http://localhost:3000/ no seu navegador preferido e clicar à vontade.
 
@@ -69,6 +69,6 @@ Quer saber onde entra o MongoDB nessa história? Que ver o Meteor com Angular ou
 
 Abs!
 
- [1]: http://tableless.com.br/uploads/2015/08/meter-version.jpg
- [2]: http://tableless.com.br/uploads/2015/08/hellometeor.jpg
- [3]: http://tableless.com.br/uploads/2015/08/runnnign.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/meter-version.jpg
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/hellometeor.jpg
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/runnnign.jpg

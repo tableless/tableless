@@ -71,7 +71,7 @@ Há um módulo Node.js muito bacana e fácil de trabalhar com autenticação de 
 
 Passport é um framework extremamente flexível e modular. Ele permite que você trabalhe com as principais estratégias de autenticação, que são: **Basic & Digest**, **OpenID**, **OAuth**, **OAuth 2.0** e **JWT**. Além disso, ele também permite trabalhar com serviços de autenticação externos, como **Facebook**, **Google+**, **Twitter**, entre outros. Aliás, no site oficial da framework, **há uma lista com mais de 300 estratégias de autenticação**, criadas e mantidas por terceiros.
 
-<img class="alignnone size-full wp-image-56151" src="http://tableless.com.br/uploads/2016/10/site-passport.jpg" alt="site-passport" width="1135" height="617" />
+<img class="alignnone size-full wp-image-56151" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/site-passport.jpg" alt="site-passport" width="1135" height="617" />
 
 O site oficial do Passport é: [passportjs.org][2].
 
@@ -85,7 +85,7 @@ JWT (_JSON Web Tokens_) é uma estratégia de autenticação para APIs em REST s
   4. Toda vez que o cliente acessa uma rota que requere autenticação, ele apenas envia esse token para a API para autenticar e liberar os dados de consumo;
   5. O servidor sempre valida esse token para permitir ou bloquear uma solicitação de cliente.
 
-<img class="alignnone size-full wp-image-56152" src="http://tableless.com.br/uploads/2016/10/site-jwt.jpg" alt="site-jwt" width="1135" height="609" />
+<img class="alignnone size-full wp-image-56152" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/site-jwt.jpg" alt="site-jwt" width="1135" height="609" />
 
 Para detalhes específicos sobre JWT, acesse [jwt.io][3].
 

@@ -19,7 +19,7 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 
 # 2. Negative Space
 
-[<img style="max-width: 600px;" src="http://tableless.com.br/uploads/2015/10/lucho-65.jpg" />][3]
+[<img style="max-width: 600px;" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/lucho-65.jpg" />][3]
 
 # 3. Death to Stock
 
@@ -83,7 +83,7 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 
 # 18. Foodiesfeed
 
-[<img style="max-width: 600px;" src="http://tableless.com.br/uploads/2015/10/foodiesfeed.jpg" />][19]
+[<img style="max-width: 600px;" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/foodiesfeed.jpg" />][19]
 
 # 19. Jeshoots
 
@@ -95,7 +95,7 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 
 # 21. PixaBay
 
-[<img style="max-width: 600px;" src="http://tableless.com.br/uploads/2015/10/pixabay.jpg" />][22]
+[<img style="max-width: 600px;" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/pixabay.jpg" />][22]
 
  [1]: https://unsplash.com
  [2]: http://unsplash.com/

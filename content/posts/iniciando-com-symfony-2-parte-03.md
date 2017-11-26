@@ -139,7 +139,7 @@ Pronto, nossa primeira entidade está criada!
   
 Ao entrarmos em nosso projeto, notaremos que uma pasta &#8220;Entity&#8221; foi criada, e nela teremos nossa entidade &#8220;Post&#8221;.
 
-[<img src="http://tableless.com.br/uploads/2015/02/011.png" alt="Criando entidades no symfony" width="750" height="403" class="alignnone size-full wp-image-46965" srcset="uploads/2015/02/011.png 750w, uploads/2015/02/011-259x139.png 259w, uploads/2015/02/011-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][1]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/011.png" alt="Criando entidades no symfony" width="750" height="403" class="alignnone size-full wp-image-46965" srcset="uploads/2015/02/011.png 750w, uploads/2015/02/011-259x139.png 259w, uploads/2015/02/011-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][1]
 
 Nossa entidade Post criada:
 
@@ -483,11 +483,11 @@ Ver o post = url: http://127.0.0.1:8000/post/1
   
 Editar post = url: http://127.0.0.1:8000/post/1/edit
 
-[<img src="http://tableless.com.br/uploads/2015/02/031.png" alt="Páginas criadas" width="750" height="403" class="alignnone size-full wp-image-47111" srcset="uploads/2015/02/031.png 750w, uploads/2015/02/031-259x139.png 259w, uploads/2015/02/031-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][2]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/031.png" alt="Páginas criadas" width="750" height="403" class="alignnone size-full wp-image-47111" srcset="uploads/2015/02/031.png 750w, uploads/2015/02/031-259x139.png 259w, uploads/2015/02/031-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][2]
 
 Ao navegar pelas páginas, verificará, que não tem estilização, porém está funcional, vamos fazer isso mais tarde, poderá verificar também seu banco de dados, e verá que foi criado um banco de dados com o nome &#8220;symfony&#8221;, nesse banco, encontrará a tabela &#8220;post&#8221; que criamos.
 
-[<img src="http://tableless.com.br/uploads/2015/02/021.png" alt="Table post no banco de dados" width="750" height="403" class="alignnone size-full wp-image-47098" srcset="uploads/2015/02/021.png 750w, uploads/2015/02/021-259x139.png 259w, uploads/2015/02/021-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][3]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/021.png" alt="Table post no banco de dados" width="750" height="403" class="alignnone size-full wp-image-47098" srcset="uploads/2015/02/021.png 750w, uploads/2015/02/021-259x139.png 259w, uploads/2015/02/021-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][3]
 
 ## Concluindo
 
@@ -495,6 +495,6 @@ Uma observação importante, estamos criando nossos códigos por linha de comand
 
 Este projeto <a href="https://github.com/candidosouza/tableless" title="GitHub do projeto" target="_blank">encontra-se no gitHub</a>.
 
- [1]: http://tableless.com.br/uploads/2015/02/011.png
- [2]: http://tableless.com.br/uploads/2015/02/031.png
- [3]: http://tableless.com.br/uploads/2015/02/021.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/011.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/031.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/021.png

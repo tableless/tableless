@@ -38,7 +38,7 @@ Webwriting, basicamente, é um conjunto de estratégias para desenvolver um text
 
 O que acontece é que não é só ir lá e escrever. Você deve focar na estratégia e em uma forma de contextualizar a palavra chave no seu texto.
 
-[<img class="alignnone size-full wp-image-40003" alt="como escrever bem para o SEO - 4 passos" src="http://tableless.com.br/uploads/2013/12/produção-de-conteúdo.png" width="817" height="315" srcset="uploads/2013/12/produção-de-conteúdo.png 817w, uploads/2013/12/produção-de-conteúdo-329x126.png 329w, uploads/2013/12/produção-de-conteúdo-588x226.png 588w, uploads/2013/12/produção-de-conteúdo-660x254.png 660w" sizes="(max-width: 817px) 100vw, 817px" />][1]
+[<img class="alignnone size-full wp-image-40003" alt="como escrever bem para o SEO - 4 passos" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/produção-de-conteúdo.png" width="817" height="315" srcset="uploads/2013/12/produção-de-conteúdo.png 817w, uploads/2013/12/produção-de-conteúdo-329x126.png 329w, uploads/2013/12/produção-de-conteúdo-588x226.png 588w, uploads/2013/12/produção-de-conteúdo-660x254.png 660w" sizes="(max-width: 817px) 100vw, 817px" />][1]
 
 **1. Faça um Brainstorm**
 
@@ -126,7 +126,7 @@ Neste caso, você poderia variar a palavra chave e criar o contexto de forma bem
 
 Assim você consegue criar um texto legal, evidenciando e contextualizando a palavra chave. Veja:
 
-[<img class="alignnone size-full wp-image-40004" alt="como escrever conteúdo para seo - contextualizando a palavra chave" src="http://tableless.com.br/uploads/2013/12/palavra-chave-contextualizada.png" width="722" height="409" srcset="uploads/2013/12/palavra-chave-contextualizada.png 722w, uploads/2013/12/palavra-chave-contextualizada-296x168.png 296w, uploads/2013/12/palavra-chave-contextualizada-547x310.png 547w" sizes="(max-width: 722px) 100vw, 722px" />][3]
+[<img class="alignnone size-full wp-image-40004" alt="como escrever conteúdo para seo - contextualizando a palavra chave" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/palavra-chave-contextualizada.png" width="722" height="409" srcset="uploads/2013/12/palavra-chave-contextualizada.png 722w, uploads/2013/12/palavra-chave-contextualizada-296x168.png 296w, uploads/2013/12/palavra-chave-contextualizada-547x310.png 547w" sizes="(max-width: 722px) 100vw, 722px" />][3]
 
 ## Semântica
 
@@ -144,7 +144,7 @@ A sacada aqui não é ter um código validado pelo W3C, e sim algo correto, que 
 
 Conheçam bem o HTML, ou passem isso para alguém que sabe e oriente a sua equipe ou você mesmo a focar na qualidade, não na quantidade. Seja o mestre no assunto, entenda daquilo que você escreve. Seja objetivo e convincente para passar conteúdo relevante. Muita gente sabe muito, mas não transmite da forma correta. Seja criativo e lembre-se: Não especifique, conte uma história!
 
- [1]: http://tableless.com.br/uploads/2013/12/produção-de-conteúdo.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/produção-de-conteúdo.png
  [2]: https://support.google.com/webmasters/answer/2413309?hl=pt-BR
- [3]: http://tableless.com.br/uploads/2013/12/palavra-chave-contextualizada.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/palavra-chave-contextualizada.png
  [4]: http://tableless.com.br/semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/

@@ -224,7 +224,7 @@ http://127.0.0.1:8000
 
 Veja a imagem:
 
-[<img src="http://tableless.com.br/uploads/2015/04/011.png" alt="Paginação" width="750" height="403" class="alignnone size-full wp-image-48300" />][1]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/011.png" alt="Paginação" width="750" height="403" class="alignnone size-full wp-image-48300" />][1]
 
 ## Estilizando a paginação
 
@@ -244,7 +244,7 @@ para:
 
 Atualize a página, e pronto, veja:
 
-[<img src="http://tableless.com.br/uploads/2015/04/021.png" alt="Paginação estilizada" width="750" height="403" class="alignnone size-full wp-image-48301" />][2]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/021.png" alt="Paginação estilizada" width="750" height="403" class="alignnone size-full wp-image-48301" />][2]
 
 ## Conclusão
 
@@ -268,5 +268,5 @@ Links dos tutoriais anteriores:
 
 O projeto encontra-se no <a href="https://github.com/candidosouza/tableless" title="GitHub do projeto" target="_blank">GitHub</a>!
 
- [1]: http://tableless.com.br/uploads/2015/04/011.png
- [2]: http://tableless.com.br/uploads/2015/04/021.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/011.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/021.png

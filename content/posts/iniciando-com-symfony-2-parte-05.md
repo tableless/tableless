@@ -28,11 +28,11 @@ Vamos começar com as configurações.
   
 Entrando no bundle CoreBundle, caminho: src/Tableless/CoreBundle, exclua a pasta Controller.
   
-[<img src="http://tableless.com.br/uploads/2015/03/021.png" alt="Excluindo a pasta controller" width="750" height="403" class="alignnone size-full wp-image-47743" />][1]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/021.png" alt="Excluindo a pasta controller" width="750" height="403" class="alignnone size-full wp-image-47743" />][1]
 
 Ainda neste mesmo bundle vamos excluir a pasta view, caminho: src/Tableless/CoreBundle/Resources/view.
 
-[<img src="http://tableless.com.br/uploads/2015/03/031.png" alt="Excluindo a pasta view" width="750" height="403" class="alignnone size-full wp-image-47744" />][2]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/031.png" alt="Excluindo a pasta view" width="750" height="403" class="alignnone size-full wp-image-47744" />][2]
 
 Agora vamos entrar no bundle ModelBundle, caminho: src/Tableless/ModelBundle.
   
@@ -42,7 +42,7 @@ Vamos mover também a pasta view do ModelBundle para o bundle CoreBundle.
 
 Depois das mudanças, nossa estrutura de pastas ficará como na imagem abaixo:
   
-[<img src="http://tableless.com.br/uploads/2015/03/041.png" alt="Estrutura de pastas pronta" width="750" height="403" class="alignnone size-full wp-image-47746" />][3]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/041.png" alt="Estrutura de pastas pronta" width="750" height="403" class="alignnone size-full wp-image-47746" />][3]
 
 ## Configurando os Controllers
 
@@ -60,7 +60,7 @@ Entre no arquivo app/config/routing.yml e exclua as linhas abaixo:
 
 Deixando somente a rota tableless_core como mostrado na imagem abaixo:
 
-[<img src="http://tableless.com.br/uploads/2015/03/05.png" alt="Arquivo routing.yml" width="750" height="403" class="alignnone size-full wp-image-47747" />][4]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/05.png" alt="Arquivo routing.yml" width="750" height="403" class="alignnone size-full wp-image-47747" />][4]
 
 Agora vamos excluir o DefaultController.php, pois não vamos usar esse controller.
 
@@ -107,7 +107,7 @@ http://127.0.0.1:8000/author/
 
 Se tudo foi configurado corretamente, nossa aplicação voltará a funcionar perfeitamente, veja:
 
-[<img src="http://tableless.com.br/uploads/2015/03/06.png" alt="Página index, e show" width="750" height="403" class="alignnone size-full wp-image-47751" />][5]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/06.png" alt="Página index, e show" width="750" height="403" class="alignnone size-full wp-image-47751" />][5]
 
 ## Criando um Controller
 
@@ -187,7 +187,7 @@ Ao entramos no processo de finalização o assistente nos pergunta se queremos c
 
 Pronto! Nosso controller IndexController está criado, juntamente com suas templates, veja a imagem abaixo:
   
-[<img src="http://tableless.com.br/uploads/2015/03/07.png" alt="Index controller" width="750" height="403" class="alignnone size-full wp-image-47775" />][6]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/07.png" alt="Index controller" width="750" height="403" class="alignnone size-full wp-image-47775" />][6]
 
 Ao entrarmos na url: http://127.0.0.1:8000/, vamos entrar no nosso index, e receberemos a mensagem abaixo:
 
@@ -394,11 +394,11 @@ Veja as imagens para comparação:
 
 index &#8211; url: http://127.0.0.1:8000/
   
-[<img src="http://tableless.com.br/uploads/2015/03/08.png" alt="index" width="750" height="403" class="alignnone size-full wp-image-47767" />][7]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/08.png" alt="index" width="750" height="403" class="alignnone size-full wp-image-47767" />][7]
 
 Pagina show – url: http://127.0.0.1:8000/show/4 -> {o id do seu post} no meu caso 4.
   
-[<img src="http://tableless.com.br/uploads/2015/03/09.png" alt="show" width="750" height="403" class="alignnone size-full wp-image-47768" />][8]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/09.png" alt="show" width="750" height="403" class="alignnone size-full wp-image-47768" />][8]
 
 ## Conclusão
 
@@ -416,11 +416,11 @@ Links dos tutoriais anteriores:
 
 O projeto <a href="https://github.com/candidosouza/tableless" title="Git do projeto" target="_blank">encontra-se no GitHub</a>!
 
- [1]: http://tableless.com.br/uploads/2015/03/021.png
- [2]: http://tableless.com.br/uploads/2015/03/031.png
- [3]: http://tableless.com.br/uploads/2015/03/041.png
- [4]: http://tableless.com.br/uploads/2015/03/05.png
- [5]: http://tableless.com.br/uploads/2015/03/06.png
- [6]: http://tableless.com.br/uploads/2015/03/07.png
- [7]: http://tableless.com.br/uploads/2015/03/08.png
- [8]: http://tableless.com.br/uploads/2015/03/09.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/021.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/031.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/041.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/05.png
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/06.png
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/07.png
+ [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/08.png
+ [8]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/09.png

@@ -25,7 +25,7 @@ A abertura do evento será sobre re-descentralizar da Web! que contará com [**A
 
 Além da participação do keynote internacional, diversos especialistas brasileiros abordarão temas importantes para manter a essência da Web aberta como seu principal aspecto.
 
-[<img src="http://tableless.com.br/uploads/2015/07/palestrantes2015.jpg" alt="Imagem com foto dos primeiros palestrantes da Webbr2015" width="750" height="515" class="aligncenter size-full wp-image-50520" />][4]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/palestrantes2015.jpg" alt="Imagem com foto dos primeiros palestrantes da Webbr2015" width="750" height="515" class="aligncenter size-full wp-image-50520" />][4]
 
 [**Sérgio Lopes**][5], instrutor e desenvolvedor da Caellum, vai falar sobre as grandes melhorias do **HTTP2** e como isso vai beneficiar tanto o usuário como o desenvolvedor. Nessa palestra, Sérgio vai mostrar os novos recursos do HTTP/2 e como eles simplificam o desenvolvimento, tornam obsoletas várias práticas atuais e deixam as páginas mais rápidas.
 

@@ -55,7 +55,7 @@ Aqui na série iremos falar de dois generators: **Yeoman e Slush** =)
 
 ## Sem enrolação, vamos de referências!
 
-][1] [<img class="aligncenter wp-image-44906 size-full" src="http://tableless.com.br/uploads/2014/10/011.jpg" alt="01" width="400" height="326" srcset="uploads/2014/10/011.jpg 400w, uploads/2014/10/011-170x139.jpg 170w" sizes="(max-width: 400px) 100vw, 400px" />][1]
+][1] [<img class="aligncenter wp-image-44906 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/10/011.jpg" alt="01" width="400" height="326" srcset="uploads/2014/10/011.jpg 400w, uploads/2014/10/011-170x139.jpg 170w" sizes="(max-width: 400px) 100vw, 400px" />][1]
 
 Alguns desenvolvedores fronts end optam pelo uso dessa ferramenta pela facilidade e praticidade que a mesma oferece. Usando o Yeoman você terá como gerenciador de tarefas o Gruntjs, podendo optar pelo Gulpjs sem o maior problema. Usando o Slush você vai usar o Gulpjs e seus plugins, apenas isso.
 
@@ -67,4 +67,4 @@ Usar generators ou não, vai da necessidade de cada profissional, podendo ser 
 
 Nos vemos no 2º Capítulo =)
 
- [1]: http://tableless.com.br/uploads/2014/10/011.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/10/011.jpg

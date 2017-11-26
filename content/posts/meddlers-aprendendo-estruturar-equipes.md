@@ -38,13 +38,13 @@ São apenas duas regras simples, sendo elas:
   1. Um time funcional deve conter apenas pessoas de uma mesma espécie, ou seja, se existe um time funcional de front-end, neste time não pode haver um UX. Se há um time funcional de back-end, não pode existir nesse time um front-end. 
   2. Conecte os lados dos times, para visualizar que os times se colaboram entre si, provendo um valor para o outro. 
 
-<img src="http://tableless.com.br/uploads/2013/10/example-meddler.jpg" alt="example-meddler" width="550" height="678" class="alignnone size-full wp-image-39257" srcset="uploads/2013/10/example-meddler.jpg 550w, uploads/2013/10/example-meddler-136x168.jpg 136w, uploads/2013/10/example-meddler-251x310.jpg 251w" sizes="(max-width: 550px) 100vw, 550px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/10/example-meddler.jpg" alt="example-meddler" width="550" height="678" class="alignnone size-full wp-image-39257" srcset="uploads/2013/10/example-meddler.jpg 550w, uploads/2013/10/example-meddler-136x168.jpg 136w, uploads/2013/10/example-meddler-251x310.jpg 251w" sizes="(max-width: 550px) 100vw, 550px" />
 
 Se quiserem, os jogadores podem criar e modificar essas regras ou incluir mais restrições. Assim o jogo pode ficar mais difícil e desafiador. As restrições do jogo são sugeridas para colocar pessoas nos times, limitando por exemplo times que não tenham mais do que 10 membros.
 
 Veja abaixo os &#8220;elementos&#8221; que você pode adicionar em cada time:
 
-<img src="http://tableless.com.br/uploads/2013/10/referencia-meddlers.jpg" alt="referencia-meddlers" width="500" height="363" class="alignnone size-full wp-image-39256" srcset="uploads/2013/10/referencia-meddlers.jpg 500w, uploads/2013/10/referencia-meddlers-231x168.jpg 231w, uploads/2013/10/referencia-meddlers-426x310.jpg 426w" sizes="(max-width: 500px) 100vw, 500px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/10/referencia-meddlers.jpg" alt="referencia-meddlers" width="500" height="363" class="alignnone size-full wp-image-39256" srcset="uploads/2013/10/referencia-meddlers.jpg 500w, uploads/2013/10/referencia-meddlers-231x168.jpg 231w, uploads/2013/10/referencia-meddlers-426x310.jpg 426w" sizes="(max-width: 500px) 100vw, 500px" />
 
 É interessante que o jogador explique quais os benefícios e riscos da estrutura criada por ele.
 

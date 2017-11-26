@@ -30,7 +30,7 @@ Depois que se começa a perder este receio é um caminho sem volta, pelo menos �
 
 ### Fugindo da Zona de Conforto
 
-<img src="http://tableless.com.br/uploads/2016/10/1-HrR5Qc9sWaQMiXTHoCNLYQ.jpeg" alt="1-HrR5Qc9sWaQMiXTHoCNLYQ" width="800" height="532" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/1-HrR5Qc9sWaQMiXTHoCNLYQ.jpeg" alt="1-HrR5Qc9sWaQMiXTHoCNLYQ" width="800" height="532" />
 
 Cara, se você acha que está confortável, minha sugestão: tente mudar algo, nem que seja a sua mesa de trabalho, a área de trabalho do seu computador ou _tanto faz._
 

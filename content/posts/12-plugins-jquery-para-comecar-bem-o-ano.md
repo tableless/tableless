@@ -29,7 +29,7 @@ Procurei escolher plugins mais novos, desenvolvidos recentemente, mas nem todos 
 
 <a href="http://premiumsoftware.net/cleditor/" target="_blank">http://premiumsoftware.net/cleditor/</a>
 
-<img src="http://tableless.com.br/uploads/2011/02/cleditor.jpg" alt="CLEditor em ação" width="627" height="159" class="alignnone size-full wp-image-2947" srcset="uploads/2011/02/cleditor.jpg 627w, uploads/2011/02/cleditor-300x76.jpg 300w" sizes="(max-width: 627px) 100vw, 627px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/cleditor.jpg" alt="CLEditor em ação" width="627" height="159" class="alignnone size-full wp-image-2947" srcset="uploads/2011/02/cleditor.jpg 627w, uploads/2011/02/cleditor-300x76.jpg 300w" sizes="(max-width: 627px) 100vw, 627px" />
 
 No mundo dos editores rich text em javascript, o CKEditor (antigo FCK) e o TinyMCE são os mais famosos. Por serem muito completos, acabam sendo também extremamente pesados. O CLEditor é uma alternativa desenvolvida em jQuery, simples, mas &#8220;pesando&#8221; apenas 16KB. É claro que não vem acompanhado de módulo para upload de imagens e arquivos, inserção e configuração avançada de flash etc., mas nem sempre essas funcionalidades são necessárias.
 
@@ -49,7 +49,7 @@ Plugin mão na roda para sites que utilizam conteúdo em colunas e precisam que 
 
 <a href="http://embedded-help.net/" target="_blank">http://embedded-help.net/</a>
 
-<img src="http://tableless.com.br/uploads/2011/02/help.jpg" alt="Embedded Help em ação" width="627" height="159" class="alignnone size-full wp-image-2950" srcset="uploads/2011/02/help.jpg 627w, uploads/2011/02/help-300x76.jpg 300w" sizes="(max-width: 627px) 100vw, 627px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/help.jpg" alt="Embedded Help em ação" width="627" height="159" class="alignnone size-full wp-image-2950" srcset="uploads/2011/02/help.jpg 627w, uploads/2011/02/help-300x76.jpg 300w" sizes="(max-width: 627px) 100vw, 627px" />
 
 Focado em usabilidade, este plugin oferece uma interface de ajuda dinâmica, em tempo real, a medida que o usuário precisa dela. Por exemplo, você pode exibir tooltips e até mesmo emular o movimento do mouse para indicar ao usuário o que ele deve fazer. O site é um pouco confuso, a documentação também (um problema para quase todos os plugins novos), mas este plugin é genial.
 
@@ -86,7 +86,7 @@ Estamos quase acabando! Este é um dos plugins mais legais desta lista. O Bookle
 
 <a href="http://playground.mobily.pl/jquery/mobily-map.html" target="_blank">http://playground.mobily.pl/jquery/mobily-map.html</a>
 
-<img src="http://tableless.com.br/uploads/2011/02/mobily.jpg" alt="MobilyMap em ação" width="627" height="159" class="alignnone size-full wp-image-2952" srcset="uploads/2011/02/mobily.jpg 627w, uploads/2011/02/mobily-300x76.jpg 300w" sizes="(max-width: 627px) 100vw, 627px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/mobily.jpg" alt="MobilyMap em ação" width="627" height="159" class="alignnone size-full wp-image-2952" srcset="uploads/2011/02/mobily.jpg 627w, uploads/2011/02/mobily-300x76.jpg 300w" sizes="(max-width: 627px) 100vw, 627px" />
 
 Outro plugin bastante interessante. O MobilyMap transforma qualquer imagem em uma interface à la GoogleMaps, com opção de arrastar, adicionar marcadores etc. Também é altamente personalizável. Os marcadores podem possuir tooltips contendo informações e links.
 
@@ -106,6 +106,6 @@ E por falar em imagens, vamos encerrar nossa lista com dois plugins para elas. O
 
 <a href="http://dev.herr-schuessler.de/jquery/popeye/" target="_blank">http://dev.herr-schuessler.de/jquery/popeye/</a>
 
-<img src="http://tableless.com.br/uploads/2011/02/popeye.jpg" alt="Popeye em ação" width="627" height="159" class="alignnone size-full wp-image-2953" srcset="uploads/2011/02/popeye.jpg 627w, uploads/2011/02/popeye-300x76.jpg 300w" sizes="(max-width: 627px) 100vw, 627px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/popeye.jpg" alt="Popeye em ação" width="627" height="159" class="alignnone size-full wp-image-2953" srcset="uploads/2011/02/popeye.jpg 627w, uploads/2011/02/popeye-300x76.jpg 300w" sizes="(max-width: 627px) 100vw, 627px" />
 
 Por último, uma alternativa valiosa para todos os lightboxes e uma forma diferente de exibir fotos e galerias em sua página. O plugin Popeye exibe as galerias _inline_ em um artigo ou texto e suas opções de exibição procuram interferir o mínimo possível na leitura. As transições são muito bacanas e as opções de paginação e legenda também &#8220;saltam aos olhos&#8221;.

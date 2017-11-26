@@ -10,13 +10,13 @@ tweetbackscheck:
 enclosure:
   - |
     |
-        http://tableless.com.br/uploads/2011/01/html5-pode-ser-usado.oga
+        https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/html5-pode-ser-usado.oga
         2461990
         audio/ogg
         
   - |
     |
-        http://tableless.com.br/uploads/2011/01/html5-pode-ser-usado.mp3
+        https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/html5-pode-ser-usado.mp3
         2322934
         audio/mpeg
         
@@ -43,9 +43,9 @@ Saiba mais ouvindo nosso primeiro drops de 2011.
 
 <!--
 <audio controls>
-<source src="http://tableless.com.br/uploads/2011/01/html5-pode-ser-usado.oga" type="audio/ogg" />
-<source src="http://tableless.com.br/uploads/2011/01/html5-pode-ser-usado.mp3" type="audio/mpeg" />
-    Se preferir faça o download do arquivo em <a href="http://tableless.com.br/uploads/2011/01/html5-pode-ser-usado.mp3" title="Audio: HTML5 já pode ser usado">Mp3</a> ou <a href="http://tableless.com.br/uploads/2011/01/html5-pode-ser-usado.oga" title="Audio: HTML5 já pode ser usado">OGA</a>. 
+<source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/html5-pode-ser-usado.oga" type="audio/ogg" />
+<source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/html5-pode-ser-usado.mp3" type="audio/mpeg" />
+    Se preferir faça o download do arquivo em <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/html5-pode-ser-usado.mp3" title="Audio: HTML5 já pode ser usado">Mp3</a> ou <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/html5-pode-ser-usado.oga" title="Audio: HTML5 já pode ser usado">OGA</a>. 
 </audio>
 -->
 
@@ -56,6 +56,6 @@ Veja nossos [Drops aqui no Soundcloud][1].
 Se preferir faça o download do arquivo em [Mp3][2] ou [OGA][3]. Ou [inscreva no iTunes][4].
 
  [1]: http://soundcloud.com/tableless
- [2]: http://tableless.com.br/uploads/2011/01/html5-pode-ser-usado.mp3 "Audio: HTML5 já pode ser usado"
- [3]: http://tableless.com.br/uploads/2011/01/html5-pode-ser-usado.oga "Audio: HTML5 já pode ser usado"
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/html5-pode-ser-usado.mp3 "Audio: HTML5 já pode ser usado"
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/html5-pode-ser-usado.oga "Audio: HTML5 já pode ser usado"
  [4]: http://itunes.apple.com/us/podcast/tableless-desenvolvimento/id73330789 "Drops do Tableless no iTunes."

@@ -36,7 +36,7 @@ Hoje você encontra algumas ferramentas online para criar logos de forma fácil,
 
 ### Logaster
 
-<img src="http://tableless.com.br/uploads/2015/06/logaster.png" alt="logaster" width="1130" height="454" class="alignnone size-full wp-image-49519" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/logaster.png" alt="logaster" width="1130" height="454" class="alignnone size-full wp-image-49519" />
 
 O [Logaster][1] é um dos melhores sites de criação de logos online. Ele dá uma aparência profissional e também é possível criar cartões, envelopes e outras necessidade de papelaria que sempre são necessárias para empresas, principalmente.
 
@@ -46,7 +46,7 @@ Eles dizem que o estado da arte de ferramentas de edição de logos está dispon
 
 ### LogoGarden
 
-<img src="http://tableless.com.br/uploads/2015/06/logogarden.png" alt="logogarden" width="1140" height="578" class="alignnone size-full wp-image-49520" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/logogarden.png" alt="logogarden" width="1140" height="578" class="alignnone size-full wp-image-49520" />
 
 O [LogoGraden][2] é um outro grande serviço online para a criação de logos. Logo Garden permite que você crie logos e também cartões empresariais. Clicando em &#8220;Make my free logo&#8221;, você será redirecionado para uma página, onde você vai escolher qual categoria seu negócio se encaixa e depois seleciona símbolos customizados, coloca o nome da sua empresa e pronto.
 
@@ -54,19 +54,19 @@ Você tem disponível um grande número de símbolos relacionados a qualquer tip
 
 ### OnlineLogoMaker
 
-<img src="http://tableless.com.br/uploads/2015/06/online-logo-maker.png" alt="online-logo-maker" width="1128" height="600" class="alignnone size-full wp-image-49522" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/online-logo-maker.png" alt="online-logo-maker" width="1128" height="600" class="alignnone size-full wp-image-49522" />
 
 A ferramenta do [OnlineLogoMaker][3] faz você se sentir um designer, ele não dá nenhuma assistencia ou guia de ajuda e a interface não tão amigável assim. Entretatno, você consegue escolher dezenas de formas e efeitos para criar seus logos. Se você se sentir confuso com tanta informação, isso não vai ser para você. É necessário ter algum tipo de conhecimento. Essa ferramenta é para profissionais que já trabalham com design. Em compensação, ele é totalmente grátis.
 
 ### FreeLogoServices
 
-<img src="http://tableless.com.br/uploads/2015/06/free-logo-service.png" alt="free-logo-service" width="920" height="584" class="alignnone size-full wp-image-49518" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/free-logo-service.png" alt="free-logo-service" width="920" height="584" class="alignnone size-full wp-image-49518" />
 
 [FreeLogoServices][4] também pode te dar um dos melhores designs para fazer seu logo. Ele é ótimo com os símbolos, textos e ícones. Você pode criar um logo grátis, fazendo algumas mudanças para adequar o logo ao mercado de atuação da sua empresa. Se você gostar, você pode pagar por USD$39.95. Isso te traz uma ótima qualidade, então, o preço não é o problema. Entretanto, você pode usar suas próprias criações para fazer seu logo, claro, se você tiver prática e assim o logo sairá de graça.
 
 ### LogotypeMaker
 
-<img src="http://tableless.com.br/uploads/2015/06/logotype-maker.png" alt="logotype-maker" width="1128" height="508" class="alignnone size-full wp-image-49521" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/logotype-maker.png" alt="logotype-maker" width="1128" height="508" class="alignnone size-full wp-image-49521" />
 
 O [Logotype Maker][5] é bastante poderoso. É muito fácil de usar e permite customizar bastante as cores, fonts, tamanhos e principalmente formatos. Você pode mudar a posição e os efeitos também. Eles tem uma grand ecoleção de cliparts que podem fazer seu logo ser único e bastante original. A ferramenta também te dá a possibilidade de construir reflexos e inner shadows dentre vários outros filtros que podem ser ajustados durante a criação do logo.
 

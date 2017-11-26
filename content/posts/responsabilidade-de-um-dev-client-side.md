@@ -31,7 +31,7 @@ O reconhecimento do desenvolvedor client-side está maior do que nos anos passad
 
 Com o crescimento deste mercado as responsabilidades do desenvolvedor client-side mudou. Na verdade, não apenas as responsabilidades, mas a estrutura da equipe que ele está inserido mudou completamente. Fica mais granulada. Fica se parecendo mais com uma linha de montagem, só que mais específica e menor. Vamos entender basicamente o processo:
 
-[<img class="alignnone size-full wp-image-2275" title="Processo de desenvolvimento simples" src="http://tableless.com.br/uploads/2010/11/organograma.gif" alt="" width="610" height="880" srcset="uploads/2010/11/organograma.gif 610w, uploads/2010/11/organograma-207x300.gif 207w" sizes="(max-width: 610px) 100vw, 610px" />][1]
+[<img class="alignnone size-full wp-image-2275" title="Processo de desenvolvimento simples" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/11/organograma.gif" alt="" width="610" height="880" srcset="uploads/2010/11/organograma.gif 610w, uploads/2010/11/organograma-207x300.gif 207w" sizes="(max-width: 610px) 100vw, 610px" />][1]
 
 Cada etapa deste processo pode ser completado por um ou mais profissionais. Podem haver processos antes do Design, como: planejamento, briefing, entrevistas, levantamento de informações e hipóteses entre outros.
   
@@ -72,4 +72,4 @@ Já o dev que fará o HTML/CSS não precisa ser um designer excelente, mas ele p
 
 Com a divulgação e adoção do HTML5 e CSS3, o mercado de client-side deixa de ser restrito ao trio HTML/CSS/Javascript. Muitos especialistas em SVG, Canvas, XML e etc surgirão. O mercado cresceu e mudou muito. Quanto mais o mercado cresce, mas se torna necessário especializar-se em vez de ser um canivete suiço.
 
- [1]: http://tableless.com.br/uploads/2010/11/organograma.gif
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/11/organograma.gif

@@ -199,8 +199,8 @@ O CSS pode fazer muito por nós, basta os navegadores implementarem essas possib
 
  [1]: http://www.w3.org/TR/css3-selectors/ "Seletores do CSS3"
  [2]: http://tableless.com.br/compatibilidadecss/ "Tabela para ver a compatibilidade de propriedades CSS entre os browsers"
- [3]: http://tableless.com.br/uploads/2009/03/submenu.html "Submenu sem javascript"
- [4]: http://tableless.com.br/uploads/2009/03/lang.html
- [5]: http://tableless.com.br/uploads/2009/03/lastchild.html "Selecionando o último filho"
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/03/submenu.html "Submenu sem javascript"
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/03/lang.html
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/03/lastchild.html "Selecionando o último filho"
  [6]: http://tableless.com.br/seletores-complexos-do-css
  [7]: http://tableless.com.br/seletores-agrupados-e-encadeados

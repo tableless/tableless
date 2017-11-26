@@ -26,7 +26,7 @@ tags:
   - wp-minify
 
 ---
-<!--a href="http://tableless.com.br/uploads/2011/05/site-speed.png"><img src="http://tableless.com.br/uploads/2011/05/site-speed.png" alt="Velocidade do site" width="400" height="300" class="alignnone size-full wp-image-3788" srcset="uploads/2011/05/site-speed.png 400w, uploads/2011/05/site-speed-300x225.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+<!--a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/05/site-speed.png"><img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/05/site-speed.png" alt="Velocidade do site" width="400" height="300" class="alignnone size-full wp-image-3788" srcset="uploads/2011/05/site-speed.png 400w, uploads/2011/05/site-speed-300x225.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
 <em>(Imagem retirada de http://www.netpaths.net/blog/how-to-increase-site-speed-for-google-page-load-algorithm/, em 02/06/11 às 21:06)</em-->
 
 A web cresceu, e com isso várias tecnologias e ferramentas foram criadas ou melhoradas para suprir necessidades requisitadas pelos usuários. Ao longo do tempo clientes e usuários vão pedindo sites mais bonitos e atraentes, e também exigindo rapidez. Para quem usa WordPress, existe aperfeiçoamento e acertos para deixar ele mais rápido. Já para quem não usa, lamento, mas é bom prestar atenção algumas dicas, pois podem servir.

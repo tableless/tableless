@@ -81,7 +81,7 @@ index.php
 
 A saída na tela é a mesma que aparece quando executamos o comando lá no servidor, veja o exemplo da saída no servidor e no navegador:
 
-[<img class="alignnone size-full wp-image-51941" src="http://tableless.com.br/uploads/2015/10/comando_shell_navegador.jpg" alt="comando_shell_navegador" width="657" height="210" />][4]
+[<img class="alignnone size-full wp-image-51941" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/comando_shell_navegador.jpg" alt="comando_shell_navegador" width="657" height="210" />][4]
 
 _* Lembre-se que para enviar esse arquivo ao servidor você não deve usar o ftp, faça isso utilizando o comando |git pull|, já fizemos isso na primeira parte do artigo._
 
@@ -97,11 +97,11 @@ Mas não podemos deixar essa URL aberta, porque qualquer um poderia acessar e is
 
 _* Use este site para gerar seu token: <http://www.miraclesalad.com/webtools/md5.php>_
 
-[<img class="alignnone size-full wp-image-51940" src="http://tableless.com.br/uploads/2015/10/adicionar_webhook.jpg" alt="adicionar_webhook" width="850" height="439" />][5]
+[<img class="alignnone size-full wp-image-51940" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/adicionar_webhook.jpg" alt="adicionar_webhook" width="850" height="439" />][5]
 
 Feito isso, toda vez que enviar um push para o Bitbucket ele vai acessar a URL, e nossa url vai disparar o comando |git pull| no servidor e os arquivos serão atualizados. Nosso deploy já esta funcionando, mas eu também quero visualizar os logs, para ter maior controle sobre oque esta acontecendo.
 
-[<img class="alignnone size-full wp-image-51943" src="http://tableless.com.br/uploads/2015/10/local_git_servidor.jpg" alt="local_git_servidor" width="444" height="352" />][6]
+[<img class="alignnone size-full wp-image-51943" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/local_git_servidor.jpg" alt="local_git_servidor" width="444" height="352" />][6]
 
 _*No seu repositório no Bitbucket, vc pode ver os requests que foram feitos entrando em &#8220;Configurações&#8221;, &#8220;Web Hooks&#8221;, ao lado do Title do seu webhook você clica em &#8220;View Requests&#8221; e pode ver todas as requisições que o Bitbucket fez para a sua URL._
 
@@ -338,9 +338,9 @@ João A. Zonta
  [1]: https://pt.wikipedia.org/wiki/CGI
  [2]: https://pt.wikipedia.org/wiki/Shell_script
  [3]: https://bitbucket.org/jzonta/artigo_atualizacao_arquivos
- [4]: http://tableless.com.br/uploads/2015/10/comando_shell_navegador.jpg
- [5]: http://tableless.com.br/uploads/2015/10/adicionar_webhook.jpg
- [6]: http://tableless.com.br/uploads/2015/10/local_git_servidor.jpg
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/comando_shell_navegador.jpg
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/adicionar_webhook.jpg
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/local_git_servidor.jpg
  [7]: http://joaozonta.com.br/artigo_atualizacao_arquivos/deploy/
  [8]: http://www.joaozonta.com.br
  [9]: https://twitter.com/joaozontaweb

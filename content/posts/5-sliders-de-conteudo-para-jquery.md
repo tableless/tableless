@@ -27,7 +27,7 @@ tags:
 
 <a href="http://nivo.dev7studios.com/" target="_blank">Site oficial</a> | <a href="http://nivo.dev7studios.com/demos/" target="_blank">Exemplos</a>
 
-<img src="http://tableless.com.br/uploads/2011/04/Nivo-Slider-Demos.jpg" alt="" width="620" class="aligncenter size-full wp-image-3612" style="border:2px solid #ccc" srcset="uploads/2011/04/Nivo-Slider-Demos.jpg 633w, uploads/2011/04/Nivo-Slider-Demos-300x178.jpg 300w" sizes="(max-width: 633px) 100vw, 633px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/Nivo-Slider-Demos.jpg" alt="" width="620" class="aligncenter size-full wp-image-3612" style="border:2px solid #ccc" srcset="uploads/2011/04/Nivo-Slider-Demos.jpg 633w, uploads/2011/04/Nivo-Slider-Demos-300x178.jpg 300w" sizes="(max-width: 633px) 100vw, 633px" />
 
 O forte do Nivo Slider é um HTML limpo para a estrutura inicial do slider. Apenas um elemento div com imagens e links é necessário. O foco principal desse slider são imagens, mas o recurso de legenda em HTML acaba possibilitando a exibição de qualquer conteúdo.
 
@@ -38,7 +38,7 @@ Entre as opções oferecidas estão a velocidade e direção da transição e ca
 <a href="http://www.ndoherty.biz/2009/10/coda-slider-2/" target="_blank">Site oficial</a> | <a href="http://www.ndoherty.biz/demos/coda-slider/2.0/" target="_blank">Demo</a>
 
 <p style="text-align:center">
-  <img src="http://tableless.com.br/uploads/2011/04/Coda-Slider-2.0-Niall-Doherty_s-dot-biz.jpg" alt="" width="477" height="503" class="aligncenter size-full wp-image-3624" style="border:2px solid #ccc" srcset="uploads/2011/04/Coda-Slider-2.0-Niall-Doherty_s-dot-biz.jpg 477w, uploads/2011/04/Coda-Slider-2.0-Niall-Doherty_s-dot-biz-284x300.jpg 284w" sizes="(max-width: 477px) 100vw, 477px" />
+  <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/Coda-Slider-2.0-Niall-Doherty_s-dot-biz.jpg" alt="" width="477" height="503" class="aligncenter size-full wp-image-3624" style="border:2px solid #ccc" srcset="uploads/2011/04/Coda-Slider-2.0-Niall-Doherty_s-dot-biz.jpg 477w, uploads/2011/04/Coda-Slider-2.0-Niall-Doherty_s-dot-biz-284x300.jpg 284w" sizes="(max-width: 477px) 100vw, 477px" />
 </p>
 
 Este plugin surgiu baseado no slider do site do aplicativo <a href="http://www.panic.com/coda/" target="_blank">Coda</a>. Cada elemento do slide deve ser um elemento div com a classe &#8220;panel&#8221;.
@@ -49,7 +49,7 @@ O Coda Slider deixa um pouco a desejar na flexibilidade, oferecendo poucas opç�
 
 <a href="http://www.zurb.com/playground/orbit-jquery-image-slider" target="_blank">Site oficial</a>
 
-<img src="http://tableless.com.br/uploads/2011/04/Orbit_-jQuery-Image-Slider-Plugin-from-ZURB-ZURB-Playground-ZURB.com_.jpg" alt="" width="620" class="aligncenter size-full wp-image-3613" style="border:2px solid #ccc" srcset="uploads/2011/04/Orbit_-jQuery-Image-Slider-Plugin-from-ZURB-ZURB-Playground-ZURB.com_.jpg 969w, uploads/2011/04/Orbit_-jQuery-Image-Slider-Plugin-from-ZURB-ZURB-Playground-ZURB.com_-300x152.jpg 300w" sizes="(max-width: 969px) 100vw, 969px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/Orbit_-jQuery-Image-Slider-Plugin-from-ZURB-ZURB-Playground-ZURB.com_.jpg" alt="" width="620" class="aligncenter size-full wp-image-3613" style="border:2px solid #ccc" srcset="uploads/2011/04/Orbit_-jQuery-Image-Slider-Plugin-from-ZURB-ZURB-Playground-ZURB.com_.jpg 969w, uploads/2011/04/Orbit_-jQuery-Image-Slider-Plugin-from-ZURB-ZURB-Playground-ZURB.com_-300x152.jpg 300w" sizes="(max-width: 969px) 100vw, 969px" />
 
 Desenvolvido originalmente para ser um slider de imagens, o Orbit acabou incorporando também conteúdo HTML, desde que o elemento div do conteúdo contenha um background definido.
 
@@ -59,7 +59,7 @@ Sua versão compactada é bem leve, 3.2kb e um outro diferencial bacana do Orbit
 
 <a href="http://css-tricks.com/anythingslider-jquery-plugin/" target="_blank">Site oficial</a> | <a href="http://css-tricks.com/examples/AnythingSlider/" target="_blank">Exemplos</a>
 
-<img src="http://tableless.com.br/uploads/2011/04/AnythingSlider-CSS-Tricks.jpg" alt="" width="620" class="aligncenter size-full wp-image-3610" style="border:2px solid #ccc" srcset="uploads/2011/04/AnythingSlider-CSS-Tricks.jpg 616w, uploads/2011/04/AnythingSlider-CSS-Tricks-300x194.jpg 300w" sizes="(max-width: 616px) 100vw, 616px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/AnythingSlider-CSS-Tricks.jpg" alt="" width="620" class="aligncenter size-full wp-image-3610" style="border:2px solid #ccc" srcset="uploads/2011/04/AnythingSlider-CSS-Tricks.jpg 616w, uploads/2011/04/AnythingSlider-CSS-Tricks-300x194.jpg 300w" sizes="(max-width: 616px) 100vw, 616px" />
 
 Como o próprio nome sugere, o AnythingSlider aceita tudo e qualquer tipo de conteúdo. Nas palavras do autor, &#8220;o plugin é uma tentativa de reunir todas as funcionalidades encontradas em outros plugins deste tipo&#8221;.
 
@@ -69,7 +69,7 @@ Como o próprio nome sugere, o AnythingSlider aceita tudo e qualquer tipo de con
 
 <a href="http://www.gougouzian.fr/projects/jquery/moodular/" target="_blank">Site oficial</a>
 
-<img src="http://tableless.com.br/uploads/2011/04/moodular-not-another-jQuery-carousel_slider-plugin.jpg" alt="" width="620" class="aligncenter size-full wp-image-3647" style="border:2px solid #ccc" srcset="uploads/2011/04/moodular-not-another-jQuery-carousel_slider-plugin.jpg 914w, uploads/2011/04/moodular-not-another-jQuery-carousel_slider-plugin-300x169.jpg 300w" sizes="(max-width: 914px) 100vw, 914px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/moodular-not-another-jQuery-carousel_slider-plugin.jpg" alt="" width="620" class="aligncenter size-full wp-image-3647" style="border:2px solid #ccc" srcset="uploads/2011/04/moodular-not-another-jQuery-carousel_slider-plugin.jpg 914w, uploads/2011/04/moodular-not-another-jQuery-carousel_slider-plugin-300x169.jpg 300w" sizes="(max-width: 914px) 100vw, 914px" />
 
 O legal do Moodular é, como também o nome sugere, ser modular: core, control e effects. Dessa forma se você precisa de um slider simples não é necessário carregar o módulo de controle, por exemplo.
 

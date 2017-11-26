@@ -32,7 +32,7 @@ Os parâmetros de carregamento da página são acessados através das propriedad
 É possível testar o _**window.performance**_ diretamente no console do navegador. Supondo que estamos utilizando o Chrome, basta abrir a Developer Tools > Console e digitar _**performance**_ no prompt. Abaixo, um exemplo do que você poderá obter. Note que o Chrome adiciona mais uma propriedade chamada _**memory**_, que pode ser acessada pelo _**performance.memory**_, apresentando informações sobre a utilização de memória pelo JavaScript.
 
 <div id="attachment_15833" style="width: 413px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/uploads/2013/03/Capturar.png"><img class="size-full wp-image-15833" alt="Detalhes das propriedades do Navigation Timing API" src="http://tableless.com.br/uploads/2013/03/Capturar.png" width="403" height="512" srcset="uploads/2013/03/Capturar.png 403w, uploads/2013/03/Capturar-132x168.png 132w, uploads/2013/03/Capturar-244x310.png 244w" sizes="(max-width: 403px) 100vw, 403px" /></a>
+  <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/03/Capturar.png"><img class="size-full wp-image-15833" alt="Detalhes das propriedades do Navigation Timing API" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/03/Capturar.png" width="403" height="512" srcset="uploads/2013/03/Capturar.png 403w, uploads/2013/03/Capturar-132x168.png 132w, uploads/2013/03/Capturar-244x310.png 244w" sizes="(max-width: 403px) 100vw, 403px" /></a>
   
   <p class="wp-caption-text">
     Detalhes das propriedades do Navigation Timing API

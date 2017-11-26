@@ -70,4 +70,4 @@ Conforme vou atualizando o conteúdo do site, vou reorganizando a segunda parte 
  [21]: http://tableless.com.br/wordpress/
  [22]: http://tableless.com.br/aprenda
  [23]: http://tableless.com.br/compatibilidadecss/ "Tabela de compatibilidade de CSS e Browsers"
- [24]: http://tableless.com.br/uploads/2007/05/referenciacss.pdf "Guia de referência rápida de CSS"
+ [24]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/05/referenciacss.pdf "Guia de referência rápida de CSS"

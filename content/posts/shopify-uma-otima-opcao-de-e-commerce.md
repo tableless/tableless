@@ -17,7 +17,7 @@ Como desenvolvedores, nós temos a tendência de fazer nossos próprios produtos
 
 **O [Shopify][1] é tudo o que você precisa para vender online**. Este é o destaque estampado no site do Shopify. Eu já tive uma série de clientes, pequenos, que não conseguiam ou não podiam pagar para desenvolver e manter um e-commerce completo, decente e principalmente customizado. Por isso, passei a indicar algumas soluções prontas, como o Shopify e até mesmo o WooCommerce, quando era o caso de um projeto em WordPress. 
 
-<img src="http://tableless.com.br/uploads/2015/07/img1.jpg" alt="spotify" width="887" height="602" class="alignnone size-full wp-image-49982" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/img1.jpg" alt="spotify" width="887" height="602" class="alignnone size-full wp-image-49982" />
 
 ## Vantagens do Shopify
 
@@ -32,11 +32,11 @@ Uma vantagem muito interessante é a possibilidade de você conseguir vender pel
 
 Achei muito fácil a &#8220;entrada&#8221; no sistema. Com 3 passos fáceis, sem muito blá blá blá a gente já consegue ter o cadastro feito e em poucos segundos já estamos na interface de administração do e-commerce.
 
-<img src="http://tableless.com.br/uploads/2015/07/admin-loja-spotify.jpg" alt="admin-loja-spotify" width="1500" height="998" class="alignnone size-full wp-image-49983" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/admin-loja-spotify.jpg" alt="admin-loja-spotify" width="1500" height="998" class="alignnone size-full wp-image-49983" />
 
 Além disso, eles tem uma espécie de App Store de plugins/extensões. Essas extensões são feitos por outros desenvolvedores e empresas ligadas à venda online. A vantagem é que isso evita a necessidade de desenvolver alguma feature extra. Basta procurar primeiro nessa &#8220;loja de plugins&#8221; e se não tiver, aí sim let&#8217;s por a mão na massa. Se for o caso de desenvolver algo por fora, considere colocar na App Store para vender e ganhar um extra. Pode ser que outras pessoas precisam da sua solução.
 
-<img src="http://tableless.com.br/uploads/2015/07/cards-appstore.jpg" alt="cards-appstore" width="1000" height="665" class="alignnone size-full wp-image-49988" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/cards-appstore.jpg" alt="cards-appstore" width="1000" height="665" class="alignnone size-full wp-image-49988" />
 
 Como eu disse no começo, pode ser um pouco estranho um desenvolvedor usar oferecer algo pronto para seu cliente. Mas não há motivos para que isso não seja uma boa prática. Além de economizar seu tempo, você fideliza o cliente mostrando uma tecnologia que talvez ele nunca descobriria sozinho, onde ele irá economizar tempo e dinheiro.
 

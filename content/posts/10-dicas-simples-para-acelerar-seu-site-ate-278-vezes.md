@@ -37,7 +37,7 @@ Pense que seu visitante é um cliente fiel, que voltará inúmeras vezes ao seu 
 Por isso separei aqui 10 dicas simples, focadas em banco de dados, para você otimizar o carregamento das páginas do seu site.
 
 <div id="attachment_51733" style="width: 510px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-51733" src="http://tableless.com.br/uploads/2015/10/1909270-many-cars-are-driving-at-night-on-a-highway-and-create-light-trails.jpg" alt="O mundo se move rápido. Seu site deve fazer o mesmo" width="500" height="248" />
+  <img class="size-full wp-image-51733" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/1909270-many-cars-are-driving-at-night-on-a-highway-and-create-light-trails.jpg" alt="O mundo se move rápido. Seu site deve fazer o mesmo" width="500" height="248" />
   
   <p class="wp-caption-text">
     <em>O mundo se move rápido. Seu site deve fazer o mesmo</em>
@@ -75,7 +75,7 @@ Imagine um site ou blog que exibe apenas 10 registros por página. O correto é 
 Já vi códigos sem esse `LIMIT`, que buscam diversos registros e pegam, via programação, apenas os 10 primeiros.
 
 <div id="attachment_51740" style="width: 505px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-51740" src="http://tableless.com.br/uploads/2015/10/usuaio-impaciente.jpg" alt="Esse cliente você já perdeu" width="495" height="309" />
+  <img class="size-full wp-image-51740" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/usuaio-impaciente.jpg" alt="Esse cliente você já perdeu" width="495" height="309" />
   
   <p class="wp-caption-text">
     <em>Esse cliente você já perdeu</em>
@@ -120,7 +120,7 @@ Porém, bastariam duas consultas ou mesmo um simples `JOIN` para resolver o prob
 Explico o **Problema do N + 1** em mais detalhes <a href="http://rberaldo.com.br/o-problema-do-n-mais-1/" target="_blank">neste artigo</a>.
 
 <div id="attachment_51745" style="width: 510px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-51745" src="http://tableless.com.br/uploads/2015/10/seo-slow-loading11.jpg" alt="De olho no relógio!" width="500" height="333" />
+  <img class="size-full wp-image-51745" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/seo-slow-loading11.jpg" alt="De olho no relógio!" width="500" height="333" />
   
   <p class="wp-caption-text">
     <em>De olho no relógio!</em>
@@ -188,7 +188,7 @@ Para o MySQL, um simples exemplo de otimização pode ser feito com esta consult
 <pre class="sourceCode sql"><code class="sourceCode sql">OPTIMIZE &lt;span class="kw">TABLE&lt;/span> nome_da_tabela;</code></pre>
 
 <div id="attachment_51742" style="width: 646px" class="wp-caption aligncenter">
-  <img class="size-full wp-image-51742" src="http://tableless.com.br/uploads/2015/10/foguete.jpg" alt="Site rápido como foguete: desempenho até 278 Vezes maior" width="636" height="301" />
+  <img class="size-full wp-image-51742" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/foguete.jpg" alt="Site rápido como foguete: desempenho até 278 Vezes maior" width="636" height="301" />
   
   <p class="wp-caption-text">
     <em>Site rápido como foguete: desempenho até 278 Vezes maior</em>

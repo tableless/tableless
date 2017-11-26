@@ -45,7 +45,7 @@ Após isto, descompacte o conteúdo do arquivo que você baixou no site do Codei
 
 Colocando a pasta do Codeigniter neste local será possível visualizar uma estrutura como a que segue:
 
-<img class="aligncenter wp-image-49601 size-full" src="http://tableless.com.br/uploads/2015/05/estrutura-inicial-codeigniter.png" alt="estrutura do codeigniter" width="688" height="273" />
+<img class="aligncenter wp-image-49601 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/estrutura-inicial-codeigniter.png" alt="estrutura do codeigniter" width="688" height="273" />
 
 Dentro da pasta _application_, ficarão todos os arquivos importantes para o desenvolvimento da sua aplicação.  Na pasta _system_ ficam o que podemos chamar de &#8220;_kernel_&#8221; do _framework_, mas isso é assunto para outro momento. 😀
 
@@ -53,15 +53,15 @@ Dentro da pasta _application_ você encontrará duas pastas importantes para o 
 
 Com o Apache inicializado, acesse o endereço: **_http://localhost/CodeIgniter-3.0.0/_**. Será possível ver seu Codeigniter funcionando conforme a imagem a seguir:
 
-[<img class="alignnone wp-image-49602 size-full" src="http://tableless.com.br/uploads/2015/05/screenshot-localhost-2015-06-17-10-47-23.png" alt="Tela - Seja bem vindo ao Codeigniter" width="1512" height="394" />][1]
+[<img class="alignnone wp-image-49602 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/screenshot-localhost-2015-06-17-10-47-23.png" alt="Tela - Seja bem vindo ao Codeigniter" width="1512" height="394" />][1]
 
 Ao acessar a pasta _controller_ será possível visualizar o controlador responsável pela exibição desta tela. Dentro do arquivo também será possível verificar qual a _view_ chamada para exibir os dados na tela.
 
 Acesse a _view_ existente (na pasta _views_) e você poderá alterar o conteúdo HTML a ser exibido, como no exemplo abaixo:
 
-[<img class="aligncenter wp-image-49603 size-full" src="http://tableless.com.br/uploads/2015/05/screenshot-localhost-2015-06-17-10-51-21.png" alt="Conteúdo HTML Hello World com Codeigniter" width="302" height="141" />][2]
+[<img class="aligncenter wp-image-49603 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/screenshot-localhost-2015-06-17-10-51-21.png" alt="Conteúdo HTML Hello World com Codeigniter" width="302" height="141" />][2]
 
 Ao acessar os arquivos conforme explicado neste post você verá como é fácil a realização deste exemplo. Até breve \o/
 
- [1]: http://tableless.com.br/uploads/2015/05/screenshot-localhost-2015-06-17-10-47-23.png
- [2]: http://tableless.com.br/uploads/2015/05/screenshot-localhost-2015-06-17-10-51-21.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/screenshot-localhost-2015-06-17-10-47-23.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/screenshot-localhost-2015-06-17-10-51-21.png

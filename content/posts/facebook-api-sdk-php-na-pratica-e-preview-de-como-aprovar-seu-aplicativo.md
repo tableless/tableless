@@ -10,7 +10,7 @@ categories:
   - PHP
 
 ---
-<img class="aligncenter size-full wp-image-48618" src="http://tableless.com.br/uploads/2015/05/800px-Facebook.png" alt="facebook" width="800" height="301" />
+<img class="aligncenter size-full wp-image-48618" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/800px-Facebook.png" alt="facebook" width="800" height="301" />
 
 Recentemente o Facebook anunciou que sua API seria atualizada para a versão 4.0 e a mesma sofreria fortes mudanças. Eis que esse dia chegou, pff!
   
@@ -256,11 +256,11 @@ O Facebook deixou um <a href="https://developers.facebook.com/docs/opengraph/sub
   
 Lembre-se de deixar o seu aplicativo visível para o todos (público) para facilitar, mas pelo que vi você pode deixar privado e designar um usuário de teste para eles testarem.
 
-<img class="aligncenter wp-image-48607 size-full" src="http://tableless.com.br/uploads/2015/05/status-public.jpg" alt="" width="500" height="161" />
+<img class="aligncenter wp-image-48607 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/status-public.jpg" alt="" width="500" height="161" />
 
 Em App Details você precisa preencher a maioria dos campos, em português mesmo. Também precisa de pelo menos 3 screenshots do seu aplicativo bem como a maioria das imagens de capa, baner, ícone, etc.
 
-<img class="aligncenter wp-image-48608 size-full" src="http://tableless.com.br/uploads/2015/05/informacoes.jpg" alt="" width="500" height="1042" />
+<img class="aligncenter wp-image-48608 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/informacoes.jpg" alt="" width="500" height="1042" />
 
 É importante observar que como mencionei anteriormente, não podemos deixar uma frase de compartilhamento pré-definida, o que um dia foi um prática comum da maioria das marcas. Caso isso ocorra seu aplicativo não será aprovado.
   

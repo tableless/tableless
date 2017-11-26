@@ -28,7 +28,7 @@ Neste artigo vou mostrar como é fácil criar, ativar e fazer uma alteração no
 
 Primeiramente precisamos criar um diretório para o seu child theme na pasta de temas do wordpress (wp-content/themes) .
 
-[<img class="alignnone size-full wp-image-37984" alt="criar" src="http://tableless.com.br/uploads/2013/07/criar.jpg" width="294" height="174" srcset="uploads/2013/07/criar.jpg 294w, uploads/2013/07/criar-283x168.jpg 283w" sizes="(max-width: 294px) 100vw, 294px" />][1]
+[<img class="alignnone size-full wp-image-37984" alt="criar" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/criar.jpg" width="294" height="174" srcset="uploads/2013/07/criar.jpg 294w, uploads/2013/07/criar-283x168.jpg 283w" sizes="(max-width: 294px) 100vw, 294px" />][1]
 
 Você pode dar qualquer nome a este diretório, mas o [codex do WordPress][2] recomenda que você use o nome do tema pai sucedido de “-child” apenas por uma questão de organização.
 
@@ -48,7 +48,7 @@ A única diferença do arquivo **style.css** de um child theme para o de um tema
   
 Agora só falta ativarmos o tema no painel do wordpress.
 
-[<img class="alignnone size-full wp-image-37989" alt="ativar" src="http://tableless.com.br/uploads/2013/07/ativar.png" width="328" height="344" srcset="uploads/2013/07/ativar.png 328w, uploads/2013/07/ativar-160x168.png 160w, uploads/2013/07/ativar-295x310.png 295w" sizes="(max-width: 328px) 100vw, 328px" />][3]
+[<img class="alignnone size-full wp-image-37989" alt="ativar" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/ativar.png" width="328" height="344" srcset="uploads/2013/07/ativar.png 328w, uploads/2013/07/ativar-160x168.png 160w, uploads/2013/07/ativar-295x310.png 295w" sizes="(max-width: 328px) 100vw, 328px" />][3]
 
 ## Como funciona?
 
@@ -56,7 +56,7 @@ Pronto, agora que criamos o nosso child theme vamos entender como ele funciona.
   
 Após ativar o tema, nosso site deverá aparecer assim (sem estilos aplicados):
 
-[<img class="alignnone size-full wp-image-37991" style="border: 1px solid #333" alt="theme-zero" src="http://tableless.com.br/uploads/2013/07/theme-zero.png" width="468" height="380" srcset="uploads/2013/07/theme-zero.png 468w, uploads/2013/07/theme-zero-206x168.png 206w, uploads/2013/07/theme-zero-381x310.png 381w" sizes="(max-width: 468px) 100vw, 468px" />][4]
+[<img class="alignnone size-full wp-image-37991" style="border: 1px solid #333" alt="theme-zero" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/theme-zero.png" width="468" height="380" srcset="uploads/2013/07/theme-zero.png 468w, uploads/2013/07/theme-zero-206x168.png 206w, uploads/2013/07/theme-zero-381x310.png 381w" sizes="(max-width: 468px) 100vw, 468px" />][4]
 
 Isso ocorre pois o WordPress desativa a folha de estilos padrão (do tema pai) ao ativar o tema filho. Logo precisamos adicionar uma nova folha de estilos ao nosso tema.
 
@@ -92,11 +92,11 @@ Pronto, no código acima estamos importando a folha de estilos do nosso tema pai
 
 Antes
 
-[<img class="alignnone size-full wp-image-37998" alt="antes" src="http://tableless.com.br/uploads/2013/07/antes.png" width="355" height="200" srcset="uploads/2013/07/antes.png 355w, uploads/2013/07/antes-298x168.png 298w" sizes="(max-width: 355px) 100vw, 355px" />][5]
+[<img class="alignnone size-full wp-image-37998" alt="antes" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/antes.png" width="355" height="200" srcset="uploads/2013/07/antes.png 355w, uploads/2013/07/antes-298x168.png 298w" sizes="(max-width: 355px) 100vw, 355px" />][5]
 
 Depois&#8230;
 
-[<img alt="depois" src="http://tableless.com.br/uploads/2013/07/depois.png" width="355" height="200" />][6]
+[<img alt="depois" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/depois.png" width="355" height="200" />][6]
 
 Pronto! Assim as alterações em estilos são bem simples de ser feitas, basta saber as classes do tema pai e um pouco de [efeito cascata, herança e especificidade do CSS][7].
 
@@ -110,10 +110,10 @@ Espero que tenham gostado e qualquer dúvida postem nos comentários!
   
 Abraço!
 
- [1]: http://tableless.com.br/uploads/2013/07/criar.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/criar.jpg
  [2]: http://codex.wordpress.org/Child_Themes
- [3]: http://tableless.com.br/uploads/2013/07/ativar.png
- [4]: http://tableless.com.br/uploads/2013/07/theme-zero.png
- [5]: http://tableless.com.br/uploads/2013/07/antes.png
- [6]: http://tableless.com.br/uploads/2013/07/depois.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/ativar.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/theme-zero.png
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/antes.png
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/depois.png
  [7]: http://www.tableless.com.br/efeito-cascata-e-especificidade-do-css/

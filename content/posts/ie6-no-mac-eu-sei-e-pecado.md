@@ -23,7 +23,7 @@ tags:
   - ie6
 
 ---
-[<img src="http://tableless.com.br/uploads/2007/05/ie6mac.png" alt="IE6 no Mac" height="235" width="366" />][1]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/05/ie6mac.png" alt="IE6 no Mac" height="235" width="366" />][1]
 
 Eu usava este programa no Linux um tempão atrás&#8230; Funcionava até que bem. Ele tem uma versão pra Mac. Para instalar o IE6 fácil: só selecionei o IE na lista de programas suportados que o CrossOver fornece, cliquei em install, ele baixou alguns pacotes, emulou o reboot do Windows (!) e pronto, o IE estava funcionando. Uma boa maneira de testar os sites de agora em diante. Tá aí a dica&#8230;
 
@@ -33,7 +33,7 @@ Eu ia colocar screenshots aqui, mas [um cara já o fez e colocou as imagens no F
 
 [CrossOver para Mac][5]
 
- [1]: http://tableless.com.br/uploads/2007/05/ie6mac.png "IE6 no Mac"
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/05/ie6mac.png "IE6 no Mac"
  [2]: http://www.tatanka.com.br/ies4linux/page/Main_Page
  [3]: http://www.z3lab.org/sections/blogs/philipp-weitershausen/2006_11_30_how-to-install-ie6-on
  [4]: http://flickr.com/photos/jnewland/sets/72157594262220246/

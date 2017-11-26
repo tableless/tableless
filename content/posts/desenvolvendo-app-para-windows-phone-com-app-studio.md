@@ -28,7 +28,7 @@ Não é necessário codificar linhas de código, o que pode poupar tempo para qu
 Desde  o inicio do projeto da sua aplicação o App Studio apresenta uma  interface que dispensa a codificação de estruturas de comunicação com a internet ou interface gráfica por código de programação, pois o sistema realiza isso para você mostrando o preview automaticamente quando é acrescentado novas ferramentas e funcionalidades no app.
 
 <div id="attachment_50960" style="width: 701px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/uploads/2015/08/ScreenHunter_11-Aug.-26-00.29.jpg"><img class=" wp-image-50960" src="http://tableless.com.br/uploads/2015/08/ScreenHunter_11-Aug.-26-00.29.jpg" alt="Ambiente de desenvolvimento da App Studio" width="691" height="362" /></a>
+  <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/ScreenHunter_11-Aug.-26-00.29.jpg"><img class=" wp-image-50960" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/ScreenHunter_11-Aug.-26-00.29.jpg" alt="Ambiente de desenvolvimento da App Studio" width="691" height="362" /></a>
   
   <p class="wp-caption-text">
     Ambiente de desenvolvimento da App Studio

@@ -69,7 +69,7 @@ logo.svg
 
 E terá a seguinte cara:
 
-<img class="alignnone wp-image-55617 size-full" src="http://tableless.com.br/uploads/2016/08/1-pd5QJ5nHm0h9x4Fa9ey0AQ.png" alt="1-pd5QJ5nHm0h9x4Fa9ey0AQ" width="800" height="489" />
+<img class="alignnone wp-image-55617 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/08/1-pd5QJ5nHm0h9x4Fa9ey0AQ.png" alt="1-pd5QJ5nHm0h9x4Fa9ey0AQ" width="800" height="489" />
 
 Ao alterar qualquer um dos arquivos e salvar, eles serão recompilados automaticamente e o browser também será atualizado. Se erros forem encontrados, eles são exibidos no console.
 

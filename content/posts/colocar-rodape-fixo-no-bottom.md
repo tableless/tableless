@@ -114,4 +114,4 @@ Funciona em IE7+ e em bons browsers.
 
 Link para o arquivo de exemplo: [Footer fixo no Rodapé][1]
 
- [1]: http://tableless.com.br/uploads/2010/01/footer.html
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/01/footer.html

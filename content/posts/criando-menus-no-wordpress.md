@@ -112,7 +112,7 @@ Para terminar a explicação, os Menus do WordPress contém uma opção para des
 
 Primeiro, ative a opção de descrição desta forma: Abra a seção de menus no painel de administração e vá a Screen Options (Opções de tela) e ative a opção Description (Descrição)
 
-[<img src="http://tableless.com.br/uploads/2011/02/ativando-descricao-300x80.png" alt="" width="300" height="80" class="alignnone size-medium wp-image-3099" srcset="uploads/2011/02/ativando-descricao-300x80.png 300w, uploads/2011/02/ativando-descricao.png 324w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/ativando-descricao-300x80.png" alt="" width="300" height="80" class="alignnone size-medium wp-image-3099" srcset="uploads/2011/02/ativando-descricao-300x80.png 300w, uploads/2011/02/ativando-descricao.png 324w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
 Vamos personalizar o menu para receber as informações de descrição, adicione em functions.php: 
 
@@ -191,10 +191,10 @@ $output .= $indent . &#8216;
     
     Você pode determinar o valor da descrição no mesmo lugar aonde você altere as informações do menu.
     
-    [<img src="http://tableless.com.br/uploads/2011/02/adicionando-descricao-300x242.png" alt="" width="300" height="242" class="alignnone size-medium wp-image-3098" srcset="uploads/2011/02/adicionando-descricao-300x242.png 300w, uploads/2011/02/adicionando-descricao.png 418w" sizes="(max-width: 300px) 100vw, 300px" />][2]
+    [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/adicionando-descricao-300x242.png" alt="" width="300" height="242" class="alignnone size-medium wp-image-3098" srcset="uploads/2011/02/adicionando-descricao-300x242.png 300w, uploads/2011/02/adicionando-descricao.png 418w" sizes="(max-width: 300px) 100vw, 300px" />][2]
     
     Fonte da descrição: [http://www.kriesi.at/archives/improve-your-wordpress-navigation-menu-output][3]
 
- [1]: http://tableless.com.br/uploads/2011/02/ativando-descricao.png
- [2]: http://tableless.com.br/uploads/2011/02/adicionando-descricao.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/ativando-descricao.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/adicionando-descricao.png
  [3]: http://www.kriesi.at/archives/improve-your-wordpress-navigation-menu-output "Fonte da descrição"

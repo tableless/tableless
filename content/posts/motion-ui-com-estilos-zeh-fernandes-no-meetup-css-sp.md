@@ -22,7 +22,7 @@ Neste artigo no Tableless, quero compartilhar a experiência de participar de um
 
 ## Meetup CSS SP
 
-<img class="aligncenter size-full wp-image-49710" src="http://tableless.com.br/uploads/2015/06/logos-meetup-css-sp.jpg" alt="Logos Meetup e Meetup CSS SP" width="474" height="200" />
+<img class="aligncenter size-full wp-image-49710" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/logos-meetup-css-sp.jpg" alt="Logos Meetup e Meetup CSS SP" width="474" height="200" />
 
 Excelente ferramenta para manter-se informado sobre os eventos que acontecem perto da sua cidade e com temas relacionados ao seu interesse, o **<a href="http://www.meetup.com/pt/" target="_blank">Meetup</a>** mescla site e aplicativo, permitindo a qualquer pessoa organizar e divulgar eventos e encontros em torno de qualquer tema. Eu já conhecia o site, mas só recentemente passei a acessá-lo com frequência. Foi quando descobri o **<a href="http://www.meetup.com/pt/CSS-SP/" target="_blank">Meetup CSS SP</a>**, comunidade organizada por **<a href="http://twitter.com/raphaelfabeni" target="_blank">Raphael Fabeni</a>** e **<a href="http://twitter.com/lfeh" target="_blank">Felipe Fialho</a>** que promove encontros para discutir assuntos do mundo front-end, com foco principalmente na linguagem de marcação CSS.
 
@@ -60,11 +60,11 @@ Como dito anteriormente, os principais elementos utilizados pelo CSS3 para criar
 
 Para saber mais sobre o que faz cada uma destas propriedades, o Raphael Fabeni criou uma <a href="http://www.raphaelfabeni.com.br/lab-css3/" target="_blank">lista</a> resumindo as possibilidade de animações do CSS3:
 
-<a href="http://www.raphaelfabeni.com.br/lab-css3/" target="_blank"><img class="alignnone wp-image-49698 size-full" src="http://tableless.com.br/uploads/2015/06/lab-css3-raphael-fabeni.png" alt="Lab CSS3 Raphael Fabeni" width="1085" height="710" /></a>
+<a href="http://www.raphaelfabeni.com.br/lab-css3/" target="_blank"><img class="alignnone wp-image-49698 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/lab-css3-raphael-fabeni.png" alt="Lab CSS3 Raphael Fabeni" width="1085" height="710" /></a>
 
 Já as principais propriedades de um elemento a serem modificadas por uma animação são _Position_, _Transform_, _Opacity_ e _Color_.
 
-<img class="aligncenter wp-image-49699 size-full" src="http://tableless.com.br/uploads/2015/06/propriedades-alteradas-por-animacoes.png" alt="Propriedades alteradas por animações" width="610" height="162" />
+<img class="aligncenter wp-image-49699 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/propriedades-alteradas-por-animacoes.png" alt="Propriedades alteradas por animações" width="610" height="162" />
 
 Uma dica valiosa dada por <a href="https://twitter.com/aprilzero" target="_blank">A</a><a href="https://twitter.com/aprilzero" target="_blank">nand</a> <a href="https://twitter.com/aprilzero" target="_blank">Sharma</a> é:
 
@@ -76,11 +76,11 @@ Outro fator importante a ser considerado ao utilizar animações é performance
 
 As camadas e suas respectivas propriedades:
 
-<img class="alignnone wp-image-49700 size-full" src="http://tableless.com.br/uploads/2015/06/camadas-e-propriedades-animcao.png" alt="Camadas e suas respectivas propriedades" width="804" height="505" />
+<img class="alignnone wp-image-49700 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/camadas-e-propriedades-animcao.png" alt="Camadas e suas respectivas propriedades" width="804" height="505" />
 
 Este comparativo retirado da apresentação **<a href="http://pt.slideshare.net/hugobessaa/performance-em-animacoes" target="_blank">Performance em Animações</a>** do **Hugo Bessa** mostra o processamento exigido por cada cada camada alterada nas animações:
 
-<a href="http://pt.slideshare.net/hugobessaa/performance-em-animacoes" target="_blank"><img class="alignnone wp-image-49701 size-full" src="http://tableless.com.br/uploads/2015/06/composite-layers-hugo-bessa.png" alt="Comparativo de performance nas camadas de animação por Hugo Bessa" width="1007" height="703" /></a>
+<a href="http://pt.slideshare.net/hugobessaa/performance-em-animacoes" target="_blank"><img class="alignnone wp-image-49701 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/composite-layers-hugo-bessa.png" alt="Comparativo de performance nas camadas de animação por Hugo Bessa" width="1007" height="703" /></a>
 
 ### _Easing_ e _Timing_
 
@@ -90,7 +90,7 @@ O **_easing_** pode ser entendido como a aceleração ou desaceleração inicia
 
 O site <a href="http://easings.net/pt-br" target="_blank">easings.net</a> oferece referências sobre os diversos tipos de efeitos de suavização:
 
-<a href="http://easings.net/pt-br" target="_blank"><img class="alignnone wp-image-49697 size-full" src="http://tableless.com.br/uploads/2015/06/easing.png" alt="Exemplos de easings" width="878" height="622" /></a>
+<a href="http://easings.net/pt-br" target="_blank"><img class="alignnone wp-image-49697 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/easing.png" alt="Exemplos de easings" width="878" height="622" /></a>
 
 Já o **_timing_** está relacionado ao tempo de duração das animações. Animações muito longas não provocam a sensação de realidade, por isso, prefira efeitos com pouco milissegundos, algo entre 0,2 e 0,6 segundos.
 
@@ -116,7 +116,7 @@ Vários pontos de vista foram levantados, e o que tornou o debate mais interessa
   * Pensar as animações antes de desenvolver o código é mais produtivo, pois elas terão propósito semântico e comunicacional, informando o usuário sobre o que esperar da interface e como interagir com a mesma. Isto não exclui que, após a definição dos _sketchs_ ou layouts, quaisquer dos profissionais envolvidos sugiram melhorias. Como dito anteriormente, a responsabilidade é de todos.
   * Use animações com moderação. A atitude de criar a interface e somente depois de pronta receber resolver &#8220;dar uma animada&#8221; pode ser o maior dos erros. Interface não é circo, e a intenção é comunicar com propósito e significância. Planeje, pesquise, busque referências no mundo _online_ e _offline_.
 
-<img class="aligncenter size-full wp-image-49709" src="http://tableless.com.br/uploads/2015/06/fotos-meetup-css-sp-8.jpg" alt="Fotos Meetup CSS SP 8" width="695" height="520" />
+<img class="aligncenter size-full wp-image-49709" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/fotos-meetup-css-sp-8.jpg" alt="Fotos Meetup CSS SP 8" width="695" height="520" />
 
 Em suma, os _Meetups_ são excelentes oportunidades para conhecer profissionais que lidam com assuntos do seu interesse, aprender novas abordagens, solucionar problemas ou aumentar a rede de contatos.
 

@@ -22,7 +22,7 @@ Muitas vezes, um _title_ e uma _description_ pobre não chamam o usuário para u
 
 O Google, sabendo que o usuário, muitas vezes, fica indeciso sobre qual conteúdo acessar, começou a mostrar informações extras nas páginas de resultados. São os chamados _rich scnippets_, ou resultados ricos. Hoje o Google disponibiliza uma série de informações extras, dependendo da consulta. Alguns exemplos são avaliação dos usuários, faixas de um álbum, filmes de um determinado ator e inclusive o autor de um artigo (imagem).
 
-[<img class="alignnone size-full wp-image-42275" src="http://tableless.com.br/uploads/2014/04/snippet-com-author.png" alt="snippet-com-author" width="547" height="109" srcset="uploads/2014/04/snippet-com-author.png 547w, uploads/2014/04/snippet-com-author-400x79.png 400w" sizes="(max-width: 547px) 100vw, 547px" />][1]
+[<img class="alignnone size-full wp-image-42275" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/snippet-com-author.png" alt="snippet-com-author" width="547" height="109" srcset="uploads/2014/04/snippet-com-author.png 547w, uploads/2014/04/snippet-com-author-400x79.png 400w" sizes="(max-width: 547px) 100vw, 547px" />][1]
 
 Mas como o Google faz essa &#8220;mágica&#8221;? Como ele sabe o nome e tem uma foto do autor do artigo? Muito simples! Através do link com o perfil dele no Google Plus. O autor, por sua vez, precisa colocar em suas informações de perfil na rede social, o link para o blog onde é colaborador.
 
@@ -60,7 +60,7 @@ Vale lembrar que a marcação deve ser inserida apenas em páginas que tenham um
 
 No perfil do Google Plus você encontra as informações de links e sites onde o usuário é colaborador, na aba Sobre, em seguida na seção Links.
 
-[<img class="alignnone size-full wp-image-42287" src="http://tableless.com.br/uploads/2014/04/author-google-plus.png" alt="author-google-plus" width="759" height="494" srcset="uploads/2014/04/author-google-plus.png 759w, uploads/2014/04/author-google-plus-400x260.png 400w" sizes="(max-width: 759px) 100vw, 759px" />][2]
+[<img class="alignnone size-full wp-image-42287" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/author-google-plus.png" alt="author-google-plus" width="759" height="494" srcset="uploads/2014/04/author-google-plus.png 759w, uploads/2014/04/author-google-plus-400x260.png 400w" sizes="(max-width: 759px) 100vw, 759px" />][2]
 
 Pronto, é só inserir o link do Blog em que você escreve.
 
@@ -70,7 +70,7 @@ O Google também recomenda que o autor utilize uma foto sua no perfil. Perfis co
 
 Você pode testar se suas marcações deram certo na [ferramenta de teste de dados estruturados do próprio Google][3]. Mesmo que os dados do autor ainda não estejam aparecendo nos resultados de busca, se tudo estiver funcionando, o preview irá mostrar.
 
-[<img class="wp-image-42288 aligncenter" src="http://tableless.com.br/uploads/2014/04/testar-rich-snippets.png" alt="testar-rich-snippets" width="696" height="338" srcset="uploads/2014/04/testar-rich-snippets.png 836w, uploads/2014/04/testar-rich-snippets-400x194.png 400w" sizes="(max-width: 696px) 100vw, 696px" />][4]
+[<img class="wp-image-42288 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/testar-rich-snippets.png" alt="testar-rich-snippets" width="696" height="338" srcset="uploads/2014/04/testar-rich-snippets.png 836w, uploads/2014/04/testar-rich-snippets-400x194.png 400w" sizes="(max-width: 696px) 100vw, 696px" />][4]
 
 ## Estatísticas do Autor
 
@@ -84,7 +84,7 @@ Ainda há muito o que descobrir sobre essa relação que o Google estabelece ent
 
 Para manter a estratégia correta é bom estar atento às próximas novidades do Google, principalmente se o Google Plus começar a ganhar mais espaço entre as redes sociais. Em 2014 é possível que o G+ comece a receber mais usuários ativos, já que recentemente o Google abriu espaço para anúncios com +Plus Ads, o que provavelmente atrairá anunciantes para lá.
 
- [1]: http://tableless.com.br/uploads/2014/04/snippet-com-author.png
- [2]: http://tableless.com.br/uploads/2014/04/author-google-plus.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/snippet-com-author.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/author-google-plus.png
  [3]: http://www.google.com.br/webmasters/tools/richsnippets
- [4]: http://tableless.com.br/uploads/2014/04/testar-rich-snippets.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/testar-rich-snippets.png

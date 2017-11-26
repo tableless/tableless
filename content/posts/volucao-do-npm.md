@@ -18,7 +18,7 @@ tags:
   - yarn
 
 ---
-<img class="aligncenter wp-image-56337" style="text-align: center" src="http://tableless.com.br/uploads/2016/10/yarn-kitten-full.png" alt="yarn-kitten-full" width="300" height="135" />
+<img class="aligncenter wp-image-56337" style="text-align: center" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/yarn-kitten-full.png" alt="yarn-kitten-full" width="300" height="135" />
 
 Nos primórdios do desenvolvimento web e afins, trabalhar com bibliotecas era uma tarefa árdua. Lembro que tínhamos que pesquisar pela biblioteca, escolher uma versão, baixar o zip e implementar em nosso projeto. Não parece nada de outro mundo ao se tratar de pequenos projetos, mas quando estamos falando de projetos um pouco maiores, isso se torna um transtorno.  A coisa se torna ainda mais complicada quando há a dependência entre bibliotecas.
 

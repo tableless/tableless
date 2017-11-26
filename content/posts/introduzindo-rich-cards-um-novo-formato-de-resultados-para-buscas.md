@@ -23,7 +23,7 @@ Todo mundo sabe que a maneira de interagir em um resultado de busca depende mui
 
 &#8220;Rich Cards&#8221; nada mais são do que um novo formato do resultado de uma busca, baseado no sucesso dos Dados Estruturados. Assim como os Dados Estruturados, os &#8220;Rich Cards&#8221; usam a estruturação do <a href="http://schema.org/" target="_blank">schema.org</a> para exibir conteúdo em um formato ainda mais envolvente e visual, com o foco em oferecer uma melhor experiência ao usuário de dispositivos móveis.
 
- <img class="size-full wp-image-54126" src="http://tableless.com.br/uploads/2016/05/rich-result-evolution.png" alt="Evolução do Rech Result" width="1600" height="900" />Evolução da pesquisa de consultas: com “rich cards”, os resultados são apresentados em carrosséis que são fáceis de navegar por rolagem esquerda e direita. Carrosséis podem conter todos os cartões do mesmo site ou de vários sites.
+ <img class="size-full wp-image-54126" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/05/rich-result-evolution.png" alt="Evolução do Rech Result" width="1600" height="900" />Evolução da pesquisa de consultas: com “rich cards”, os resultados são apresentados em carrosséis que são fáceis de navegar por rolagem esquerda e direita. Carrosséis podem conter todos os cartões do mesmo site ou de vários sites.
 
 Para quem tem seu próprio site ou quem trabalha gerenciando sites de pessoas/empresas, esta com certeza é uma nova oportunidade para de destacar nos resultados da pesquisa e atrair mais e melhores usuários para sua página. Por exemplo, se você tem um site de **receitas**, você pode agora construir uma visualização mais rica de seu conteúdo  com uma imagem de destaque para cada prato. Este novo formato visual ajuda os usuários a encontrarem o que eles querem de imediato, sem ter que ficar lendo a descrição para ver se aquela é realmente a receita que estava procurando, e assim garantindo que sua página de receita sobre bolo de cenoura realmente atraia pessoas interessadas em bolo de cenoura.
 
@@ -45,13 +45,13 @@ Segundo o Google, é altamente recomendável usar JSON-LD na sua implementação
   * Veja uma pré-visualização na <a href="https://search.google.com/structured-data/testing-tool/u/0/" target="_blank">renovada Ferramenta de Teste de Dados Estruturados</a> de como os &#8220;Rich Cards&#8221; podem aparecer nas buscas (atualmente disponível para receitas e filmes).
   * Use a Ferramenta de Teste para ver erros e ajustar sua marcação em tempo real.
 
-<img class="size-full wp-image-54127 aligncenter" src="http://tableless.com.br/uploads/2016/05/structured-data-testing-tool.png" alt="ferramenta de teste de dados estruturados" width="1265" height="782" />
+<img class="size-full wp-image-54127 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/05/structured-data-testing-tool.png" alt="ferramenta de teste de dados estruturados" width="1265" height="782" />
 
 **Mantenha o controle na cobertura e depuração de erros**
   
 Veja como muitos dos seus &#8220;Rich Cards&#8221; são indexados no novo <a href="https://www.google.com/webmasters/tools/rich-cards" target="_blank">relatório de Pesquisa sobre &#8220;Rich Cards&#8221;</a>.
 
-<img class="size-full wp-image-54125 aligncenter" src="http://tableless.com.br/uploads/2016/05/rich-card-errors.png" alt="Erros de Rich Cards" width="926" height="524" />
+<img class="size-full wp-image-54125 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/05/rich-card-errors.png" alt="Erros de Rich Cards" width="926" height="524" />
 
   * Mantenha-se atento para os erros (também listados no relatório de &#8220;Rich Cards&#8221;). Cada exemplo de erro é &#8220;linkado&#8221; diretamente para a ferramenta de Teste de Dados Estruturados para que você possa testá-lo.
   * Lembre-se de <a href="https://support.google.com/sites/answer/100283" target="_blank">enviar um sitemap (mapa do site)</a> para ajudar o Google a descobrir todo o seu conteúdo.
@@ -60,7 +60,7 @@ Veja como muitos dos seus &#8220;Rich Cards&#8221; são indexados no novo <a hr
   
 No relatório de &#8220;Rich Cards&#8221;, você verá que eles podem ser melhorados/reforçados pela marcação de campos adicionais.
 
-<img class="size-full wp-image-54124 aligncenter" src="http://tableless.com.br/uploads/2016/05/enhanceable-rich-cards.png" alt="enhanceable rich cards" width="912" height="575" />
+<img class="size-full wp-image-54124 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/05/enhanceable-rich-cards.png" alt="enhanceable rich cards" width="912" height="575" />
 
 &nbsp;
 

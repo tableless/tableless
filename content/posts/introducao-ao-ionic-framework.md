@@ -56,7 +56,7 @@ A sintaxe para a criação de uma nova aplicação é _ionic start NOME\_DO\_APP
 Cada gerador irá iniciar seu projeto de uma forma diferente porém todos seguem a mesma estrutura de pastas exibida abaixo.
 
 
-![Ionic Folders](http://tableless.com.br/uploads/2015/02/Screen-Shot-2015-02-18-at-5.33.43-PM.png) 
+![Ionic Folders](https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/Screen-Shot-2015-02-18-at-5.33.43-PM.png) 
 
 Uma vez com o projeto criado, podemos roda-lo com o comando _ionic serve_.
 
@@ -79,5 +79,5 @@ A equipe por trás da ferramenta está trabalhando a todo vapor lançando corre�
  [1]: http://ionicframework.com/
  [2]: http://cordova.apache.org/
  [3]: https://angularjs.org/
- [4]: http://tableless.com.br/uploads/2015/02/Screen-Shot-2015-02-18-at-5.33.43-PM.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/Screen-Shot-2015-02-18-at-5.33.43-PM.png
  [5]: http://ngcordova.com/

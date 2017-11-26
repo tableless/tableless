@@ -43,7 +43,7 @@ Existem dois tipos principais de arquivos de imagens. Vetores e Bitmaps. Os arqu
 
 As vantagens de se utilizar gráficos em vetor são incríveis. Primeiramente por que é possível redimensiona-los infinitamente sem perder qualidade ou nitidez. Na prática isto significa que um ícone, por exemplo, terá a mesma aparência sem distorções em um smartphone ou uma televisão de 42&#8221;. Não importa qual é a quantidade de espaço que a imagem ocupa, o arquivo terá o mesmo peso. O que potencialmente economiza a quantidade de banda necessária para realizar o download, minimiza a quantidade de requisições para o servidor já que não são necessárias diversas imagens diferentes para servir todas as necessidades, etc&#8230; A possibilidade de uso de medidas relativas também faz dos gráficos em SVG o formato ideal para se trabalhar com design responsivo.
 
-<img class="alignnone size-full wp-image-7315" alt="SVG vs PNG" src="http://tableless.com.br/uploads/2012/11/svg-versus-png.jpg" width="720" height="495" srcset="uploads/2012/11/svg-versus-png.jpg 720w, uploads/2012/11/svg-versus-png-300x206.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7315" alt="SVG vs PNG" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/svg-versus-png.jpg" width="720" height="495" srcset="uploads/2012/11/svg-versus-png.jpg 720w, uploads/2012/11/svg-versus-png-300x206.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" />
 
 ## Onde e quando aplicar
 

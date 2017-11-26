@@ -34,5 +34,5 @@ São os 50 mil hard users (com potencial de usar muito o seu site) de renda méd
 
  [1]: http://marketshare.hitslink.com/report.aspx?qprid=3
  [2]: http://br-linux.org/linux/net-applications-firefox-14
- [3]: http://tableless.com.br/uploads/2007/01/browsum200612.thumbnail.png
- [4]: http://tableless.com.br/uploads/2007/01/browsum200612.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/01/browsum200612.thumbnail.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/01/browsum200612.png

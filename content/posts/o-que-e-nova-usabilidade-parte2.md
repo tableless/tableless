@@ -49,7 +49,7 @@ Entretanto, os testes de usabilidade não perderam sua relevância, apenas preci
 A nova usabilidade estende os conceitos fundamentados na usabilidade tradicional. Fatores como Comunicação, Colaboração, Ética e Valor Agregado tornam-se mais relevantes e pertinentes às aplicações desenvolvidas atualmente e, com isso, passam a representar pontos críticos da interação que têm impacto na satisfação de uso.
 
 <div id="attachment_4593" style="width: 548px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/uploads/2011/11/Slide2.jpg"><img class="size-full wp-image-4593  " src="http://tableless.com.br/uploads/2011/11/Slide2.jpg" alt="Pontos chaves da Nova Usabilidade" width="538" height="403" srcset="uploads/2011/11/Slide2.jpg 960w, uploads/2011/11/Slide2-300x225.jpg 300w" sizes="(max-width: 538px) 100vw, 538px" /></a>
+  <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/11/Slide2.jpg"><img class="size-full wp-image-4593  " src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/11/Slide2.jpg" alt="Pontos chaves da Nova Usabilidade" width="538" height="403" srcset="uploads/2011/11/Slide2.jpg 960w, uploads/2011/11/Slide2-300x225.jpg 300w" sizes="(max-width: 538px) 100vw, 538px" /></a>
   
   <p class="wp-caption-text">
     Pontos chaves da Nova Usabilidade

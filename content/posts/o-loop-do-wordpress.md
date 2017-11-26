@@ -76,4 +76,4 @@ Esse código puxa do banco: título do post, o conteúdo do post, o dia que foi 
  [1]: http://codex.wordpress.org/The_Loop
  [2]: http://codex.wordpress.org/Template_Tags
  [3]: http://codex.wordpress.org/Template_Tags/the_content
- [4]: http://tableless.com.br/uploads/2008/04/exemplo-loop-wordpressphp.zip
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2008/04/exemplo-loop-wordpressphp.zip

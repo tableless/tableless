@@ -50,7 +50,7 @@ Além disso, <strong class="markup--strong markup--p-strong">30%</strong> dos cu
 
 A qualidade de escrita de código influencia diretamente nos custos do projeto e da qualidade de vida do software.
 
-<img class="alignnone size-full wp-image-56001" src="http://tableless.com.br/uploads/2016/09/Group.png" alt="Group" width="1138" height="600" />
+<img class="alignnone size-full wp-image-56001" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/09/Group.png" alt="Group" width="1138" height="600" />
 
 ### Mente aberta para novas ideias
 

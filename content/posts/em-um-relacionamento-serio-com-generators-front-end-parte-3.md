@@ -22,7 +22,7 @@ tags:
 
 ---
 <h2 style="text-align: center">
-  <img class="aligncenter size-full wp-image-46781" src="http://tableless.com.br/uploads/2015/02/pngbase643ef91c517603490c.png" alt="png;base643ef91c517603490c" width="281" height="408" srcset="uploads/2015/02/pngbase643ef91c517603490c.png 281w, uploads/2015/02/pngbase643ef91c517603490c-96x139.png 96w" sizes="(max-width: 281px) 100vw, 281px" />
+  <img class="aligncenter size-full wp-image-46781" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/pngbase643ef91c517603490c.png" alt="png;base643ef91c517603490c" width="281" height="408" srcset="uploads/2015/02/pngbase643ef91c517603490c.png 281w, uploads/2015/02/pngbase643ef91c517603490c-96x139.png 96w" sizes="(max-width: 281px) 100vw, 281px" />
 </h2>
 
 ## TL;DR
@@ -235,6 +235,6 @@ Mas é isso&#8230;Um abração!!! E até o próximo post.
 
 &nbsp;
 
-<img class="alignleft size-medium wp-image-46783" src="http://tableless.com.br/uploads/2015/02/elvis-thanks.gif" alt="elvis-thanks" width="247" height="139" />
+<img class="alignleft size-medium wp-image-46783" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/elvis-thanks.gif" alt="elvis-thanks" width="247" height="139" />
 
  [1]: https://github.com/webcomponents/slush-element

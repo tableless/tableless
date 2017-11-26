@@ -29,7 +29,7 @@ Agora, basta instalar nossas dependências com o seguinte comando:
 
 <pre class="lang-sh">$ composer install</pre>
 
-<img class="size-full wp-image-42015 aligncenter" alt="Captura de tela 2014-04-06 13.52.43" src="http://tableless.com.br/uploads/2014/04/Captura-de-tela-2014-04-06-13.52.43.png" width="684" height="816" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-13.52.43.png 684w, uploads/2014/04/Captura-de-tela-2014-04-06-13.52.43-400x477.png 400w" sizes="(max-width: 684px) 100vw, 684px" />
+<img class="size-full wp-image-42015 aligncenter" alt="Captura de tela 2014-04-06 13.52.43" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/Captura-de-tela-2014-04-06-13.52.43.png" width="684" height="816" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-13.52.43.png 684w, uploads/2014/04/Captura-de-tela-2014-04-06-13.52.43-400x477.png 400w" sizes="(max-width: 684px) 100vw, 684px" />
   
 De forma alternativa, você poderá fazer uma instalação global baixando o arquivo `behat.phar` e deixando acessível de seu sistema operacional, geralmente esse processo é simples, e basta criar um link simbólico em `/usr/local/bin` para o arquivo que deseja executar.
 
@@ -39,19 +39,19 @@ Se dermos uma olhada na estrutura que o _**composer**_ criou para a gente, notar
 
 Para começar criaremos o arquivo **example.feature**.
 
-<img class="size-full wp-image-42019 aligncenter" alt="Estrutura de diretórios" src="http://tableless.com.br/uploads/2014/04/Captura-de-tela-2014-04-06-14.25.49.png" width="407" height="95" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-14.25.49.png 407w, uploads/2014/04/Captura-de-tela-2014-04-06-14.25.49-400x93.png 400w" sizes="(max-width: 407px) 100vw, 407px" />
+<img class="size-full wp-image-42019 aligncenter" alt="Estrutura de diretórios" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/Captura-de-tela-2014-04-06-14.25.49.png" width="407" height="95" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-14.25.49.png 407w, uploads/2014/04/Captura-de-tela-2014-04-06-14.25.49-400x93.png 400w" sizes="(max-width: 407px) 100vw, 407px" />
 
 Se você estiver usando o **Sublime Text**, instale essa extensão [https://github.com/omissis/sublime-behat-syntax][4] que provê highlight em arquivos *.feature
 
 No nosso arquivo **example.feature**, iremos descrever nosso cenário, o que queremos _testar._
 
-<img class="alignnone size-full wp-image-42024" alt="Captura de tela 2014-04-06 14.54.18" src="http://tableless.com.br/uploads/2014/04/Captura-de-tela-2014-04-06-14.54.18.png" width="609" height="474" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-14.54.18.png 609w, uploads/2014/04/Captura-de-tela-2014-04-06-14.54.18-400x311.png 400w" sizes="(max-width: 609px) 100vw, 609px" />
+<img class="alignnone size-full wp-image-42024" alt="Captura de tela 2014-04-06 14.54.18" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/Captura-de-tela-2014-04-06-14.54.18.png" width="609" height="474" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-14.54.18.png 609w, uploads/2014/04/Captura-de-tela-2014-04-06-14.54.18-400x311.png 400w" sizes="(max-width: 609px) 100vw, 609px" />
 
 Com uma **feature** já escrita, iremos executar o _behat_ para nos dar a descrição e métodos dessa feature em PHP, daí prosseguiremos com a implementação dos métodos que eles nos forneceu. Para isso basta executarmos o arquivo **behat**, dentro da pasta **bin** que foi criada pelo _composer_.
 
 <pre class="lang-sh">$ bin/behat features/example.feature</pre>
 
-<img class="alignnone size-full wp-image-42029" alt="Behat feature" src="http://tableless.com.br/uploads/2014/04/Captura-de-tela-2014-04-06-15.07.06.png" width="684" height="620" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-15.07.06.png 684w, uploads/2014/04/Captura-de-tela-2014-04-06-15.07.06-400x362.png 400w" sizes="(max-width: 684px) 100vw, 684px" />
+<img class="alignnone size-full wp-image-42029" alt="Behat feature" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/Captura-de-tela-2014-04-06-15.07.06.png" width="684" height="620" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-15.07.06.png 684w, uploads/2014/04/Captura-de-tela-2014-04-06-15.07.06-400x362.png 400w" sizes="(max-width: 684px) 100vw, 684px" />
 
 Assim, o **behat** cospe pra nos um código PHP para que coloquemos na classe de feature. E aí começaremos a _codar_ os cenários. No arquivo `features/bootstrap/FeatureContext.php` colaremos o código que foi fornecido pelo **behat**.
 
@@ -86,7 +86,7 @@ Agora que temos uma ideia de como o **behat** trabalha, faremos o clássico **he
   
 Em nosso arquivo `example.feature` descreveremos o seguinte cenário:
 
-<img class="alignnone size-full wp-image-42040" alt="Hello world feature behat" src="http://tableless.com.br/uploads/2014/04/Captura-de-tela-2014-04-06-16.53.08.png" width="605" height="333" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-16.53.08.png 605w, uploads/2014/04/Captura-de-tela-2014-04-06-16.53.08-400x220.png 400w" sizes="(max-width: 605px) 100vw, 605px" />
+<img class="alignnone size-full wp-image-42040" alt="Hello world feature behat" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/Captura-de-tela-2014-04-06-16.53.08.png" width="605" height="333" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-16.53.08.png 605w, uploads/2014/04/Captura-de-tela-2014-04-06-16.53.08-400x220.png 400w" sizes="(max-width: 605px) 100vw, 605px" />
 
 Nesse cenário estaremos testando que quando passarmos a string **Hello world,** nossa classe tem que concatenar nossa string a uma exclamação. Com isso já poderemos escrever nossa classe PHP para testar essa **feature.**
 
@@ -120,7 +120,7 @@ Se executarmos o teste com o **behat**, poderemos ver como está o nosso cenári
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-42045" alt="Behat hello world execution" src="http://tableless.com.br/uploads/2014/04/Captura-de-tela-2014-04-06-17.16.30.png" width="740" height="494" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-17.16.30.png 740w, uploads/2014/04/Captura-de-tela-2014-04-06-17.16.30-400x267.png 400w" sizes="(max-width: 740px) 100vw, 740px" />
+<img class="alignnone size-full wp-image-42045" alt="Behat hello world execution" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/Captura-de-tela-2014-04-06-17.16.30.png" width="740" height="494" srcset="uploads/2014/04/Captura-de-tela-2014-04-06-17.16.30.png 740w, uploads/2014/04/Captura-de-tela-2014-04-06-17.16.30-400x267.png 400w" sizes="(max-width: 740px) 100vw, 740px" />
 
 ## Conclusão
 

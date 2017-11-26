@@ -18,7 +18,7 @@ tags:
   - Symfony2 tutorial
 
 ---
-[<img src="http://tableless.com.br/uploads/2015/02/symfony-logo-tableless.png" alt="Symfony logo" width="720" height="450" class="alignnone size-full wp-image-46879" srcset="uploads/2015/02/symfony-logo-tableless.png 720w, uploads/2015/02/symfony-logo-tableless-222x139.png 222w, uploads/2015/02/symfony-logo-tableless-400x250.png 400w" sizes="(max-width: 720px) 100vw, 720px" />][1]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/symfony-logo-tableless.png" alt="Symfony logo" width="720" height="450" class="alignnone size-full wp-image-46879" srcset="uploads/2015/02/symfony-logo-tableless.png 720w, uploads/2015/02/symfony-logo-tableless-222x139.png 222w, uploads/2015/02/symfony-logo-tableless-400x250.png 400w" sizes="(max-width: 720px) 100vw, 720px" />][1]
 
 Depois de já instalado o Symfony 2, como postado no <a title="Iniciando com Symfony2" href="http://tableless.com.br/iniciando-com-symfony-2/" target="_blank">artigo anterior que escrevi</a>, vamos avançar nosso processo criando um simples blog.
   
@@ -32,7 +32,7 @@ Antes de criarmos de nosso primeiro bundle, vamos fazer uma pequena modificaçã
 
 Exclua a pasta AppBundle como mostrado na imagem, caminho src/AppBundle.
 
-[<img src="http://tableless.com.br/uploads/2015/02/01.png" alt="Imagem pastas app/AppBundle" width="750" height="403" class="alignnone size-full wp-image-46808" srcset="uploads/2015/02/01.png 750w, uploads/2015/02/01-259x139.png 259w, uploads/2015/02/01-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][2]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/01.png" alt="Imagem pastas app/AppBundle" width="750" height="403" class="alignnone size-full wp-image-46808" srcset="uploads/2015/02/01.png 750w, uploads/2015/02/01-259x139.png 259w, uploads/2015/02/01-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][2]
 
 Vamos apagar o registro desse bundle que acabamos de excluir, pois todos os bundles são registrados no AppKernel para que possamos usá-los.
 
@@ -113,7 +113,7 @@ Para criarmos nosso bunble, digitamos no terminal:
 
 Após darmos o enter aparecerá a seguinte tela, que é um assistente do Symfony para nos ajudar na geração do bundle:
   
-[<img src="http://tableless.com.br/uploads/2015/02/02.png" alt="Criando bundle pelo symfony console" width="750" height="403" class="alignnone size-full wp-image-46838" srcset="uploads/2015/02/02.png 750w, uploads/2015/02/02-259x139.png 259w, uploads/2015/02/02-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][3]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/02.png" alt="Criando bundle pelo symfony console" width="750" height="403" class="alignnone size-full wp-image-46838" srcset="uploads/2015/02/02.png 750w, uploads/2015/02/02-259x139.png 259w, uploads/2015/02/02-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][3]
 
 O symfony nos pede para digitarmos nossa namespace, que é o caminho completo do nosso bundle, primeiramente, temos que dar um nome para nosso vendor, caso não entenda, sugiro a <a href="http://www.php-fig.org/psr/psr-4/" title="PSR-04" target="_blank">leitura da PSR-4</a>, em meus projetos particulares, coloco a sigla do meu nome como vendor &#8220;CJSN&#8221;, porém você pode colocar o nome do seu projeto, do seu cliente, etc&#8230; Aqui vamos colocar Tableless, em seguida o nome de nosso bundle.
 
@@ -167,9 +167,9 @@ E pergunta se queremos inserir rotas para esse bundle, digitamos enter.
 
 E pronto, nosso bundle está criado, veja as imagems abaixo para comparação.
   
-[<img src="http://tableless.com.br/uploads/2015/02/03.png" alt="Finalizando criação de bundle" width="750" height="403" class="alignnone size-full wp-image-46843" srcset="uploads/2015/02/03.png 750w, uploads/2015/02/03-259x139.png 259w, uploads/2015/02/03-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][4]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/03.png" alt="Finalizando criação de bundle" width="750" height="403" class="alignnone size-full wp-image-46843" srcset="uploads/2015/02/03.png 750w, uploads/2015/02/03-259x139.png 259w, uploads/2015/02/03-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][4]
 
-[<img src="http://tableless.com.br/uploads/2015/02/03-1.png" alt="Imagem finalizada CoreBundle" width="750" height="403" class="alignnone size-full wp-image-46875" srcset="uploads/2015/02/03-1.png 750w, uploads/2015/02/03-1-259x139.png 259w, uploads/2015/02/03-1-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][5]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/03-1.png" alt="Imagem finalizada CoreBundle" width="750" height="403" class="alignnone size-full wp-image-46875" srcset="uploads/2015/02/03-1.png 750w, uploads/2015/02/03-1-259x139.png 259w, uploads/2015/02/03-1-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][5]
 
 Para vermos se está tudo certo, podemos entrar em nosso navegador e digitar a rota exemplo criada pelo Symfony: @Route(&#8220;/hello/{name}&#8221;), então digitamos a url no navegador: http://127.0.0.1:8000/hello/Tableless
   
@@ -216,7 +216,7 @@ src/Tableless/ModelBundle/Controller
   
 src/Tableless/ModelBundle/Resources/views
 
-[<img src="http://tableless.com.br/uploads/2015/02/04.png" alt="Excluindo pastas" width="750" height="403" class="alignnone size-full wp-image-46859" srcset="uploads/2015/02/04.png 750w, uploads/2015/02/04-259x139.png 259w, uploads/2015/02/04-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][6]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/04.png" alt="Excluindo pastas" width="750" height="403" class="alignnone size-full wp-image-46859" srcset="uploads/2015/02/04.png 750w, uploads/2015/02/04-259x139.png 259w, uploads/2015/02/04-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][6]
 
 ## Concluindo
 
@@ -224,9 +224,9 @@ Pronto, nosso simples projeto, está configurado e pronto para darmos inicio aos
   
 Para finalizarmos, recomendo novamente a <a href="http://symfony.com/doc/current/index.html" title="Documentação do Symfony" target="_blank">documentação do Symfony</a>, caso queiram fazer testes, estudar, se aprofundar mais no assunto!
 
- [1]: http://tableless.com.br/uploads/2015/02/symfony-logo-tableless.png
- [2]: http://tableless.com.br/uploads/2015/02/01.png
- [3]: http://tableless.com.br/uploads/2015/02/02.png
- [4]: http://tableless.com.br/uploads/2015/02/03.png
- [5]: http://tableless.com.br/uploads/2015/02/03-1.png
- [6]: http://tableless.com.br/uploads/2015/02/04.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/symfony-logo-tableless.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/01.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/02.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/03.png
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/03-1.png
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/04.png

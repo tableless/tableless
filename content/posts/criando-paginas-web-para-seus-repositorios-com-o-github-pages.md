@@ -22,7 +22,7 @@ O github é um dos principais meios de compartilhamento de projetos disponíveis
 
 Visando expandir a forma de divulgação de projetos, o github possui um serviço chamado ‘github pages’, que serve principalmente para prover páginas na internet sobre os repositórios. Essas páginas podem servir para divulgar exemplos, demos, documentações e qualquer outro tipo de informação sobre o seu projeto. E o melhor, esse serviço é de graça, basta ter uma conta no github! 😀
 
-[<img class="size-full wp-image-38035 aligncenter" alt="its-free" src="http://tableless.com.br/uploads/2013/07/its-free.png" width="520" height="300" srcset="uploads/2013/07/its-free.png 520w, uploads/2013/07/its-free-291x168.png 291w" sizes="(max-width: 520px) 100vw, 520px" />][1]
+[<img class="size-full wp-image-38035 aligncenter" alt="its-free" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/its-free.png" width="520" height="300" srcset="uploads/2013/07/its-free.png 520w, uploads/2013/07/its-free-291x168.png 291w" sizes="(max-width: 520px) 100vw, 520px" />][1]
 
 ## Conhecimentos iniciais
 
@@ -40,19 +40,19 @@ Uma das opções que o github nos dá é a criação automática de páginas. Co
 
 Para criar uma página utilizando o github pages clique na opção ‘settings’ do seu repositório:
 
-[<img class="size-full wp-image-38034 aligncenter" alt="github-settings-option" src="http://tableless.com.br/uploads/2013/07/github-settings-option.png" width="113" height="44" />][2]
+[<img class="size-full wp-image-38034 aligncenter" alt="github-settings-option" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/github-settings-option.png" width="113" height="44" />][2]
 
 O github irá abrir as opções de configurações do repositório, lá, poderá ser encontrado um botão chamado ‘Automatic page generator’, dentro da seção &#8216;GitHub Pages&#8217;:
 
-[<img class="size-medium wp-image-38031 aligncenter" alt="github-pages-box" src="http://tableless.com.br/uploads/2013/07/github-pages-box-588x148.png" width="588" height="148" srcset="uploads/2013/07/github-pages-box-588x148.png 588w, uploads/2013/07/github-pages-box-329x83.png 329w, uploads/2013/07/github-pages-box-660x166.png 660w, uploads/2013/07/github-pages-box.png 681w" sizes="(max-width: 588px) 100vw, 588px" />][3]
+[<img class="size-medium wp-image-38031 aligncenter" alt="github-pages-box" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/github-pages-box-588x148.png" width="588" height="148" srcset="uploads/2013/07/github-pages-box-588x148.png 588w, uploads/2013/07/github-pages-box-329x83.png 329w, uploads/2013/07/github-pages-box-660x166.png 660w, uploads/2013/07/github-pages-box.png 681w" sizes="(max-width: 588px) 100vw, 588px" />][3]
 
 Ao clicar nesse botão, você será redirecionado para um formulário contendo alguns campos e um editor de conteúdo, lá, você deverá informar o nome do projeto (que servirá como título na página criada), um subtítulo e o conteúdo que queremos que seja apresentado (em formato de markdown específico do github, referência disponível em <a href="http://github.github.com/github-flavored-markdown/" target="_blank">http://github.github.com/github-flavored-markdown/</a>):
 
-[<img class="size-medium wp-image-38032 aligncenter" alt="github-pages-form" src="http://tableless.com.br/uploads/2013/07/github-pages-form-588x305.png" width="588" height="305" srcset="uploads/2013/07/github-pages-form-588x305.png 588w, uploads/2013/07/github-pages-form-322x168.png 322w, uploads/2013/07/github-pages-form-596x310.png 596w, uploads/2013/07/github-pages-form.png 944w" sizes="(max-width: 588px) 100vw, 588px" />][4]
+[<img class="size-medium wp-image-38032 aligncenter" alt="github-pages-form" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/github-pages-form-588x305.png" width="588" height="305" srcset="uploads/2013/07/github-pages-form-588x305.png 588w, uploads/2013/07/github-pages-form-322x168.png 322w, uploads/2013/07/github-pages-form-596x310.png 596w, uploads/2013/07/github-pages-form.png 944w" sizes="(max-width: 588px) 100vw, 588px" />][4]
 
 Após informar esses dados, poderemos escolher o layout que queremos. Assim, ao clicarmos no botão ‘Continue to Layouts’ somos redirecionados para um local onde são exibidos alguns templates pré-prontos que github nos disponibiliza. Basta clicar em algum deles para termos uma live-preview de como a nossa página irá ficar:
 
-[<img class="size-medium wp-image-38033 aligncenter" alt="github-pages-template" src="http://tableless.com.br/uploads/2013/07/github-pages-template-474x310.png" width="474" height="310" srcset="uploads/2013/07/github-pages-template-474x310.png 474w, uploads/2013/07/github-pages-template-256x168.png 256w, uploads/2013/07/github-pages-template.png 930w" sizes="(max-width: 474px) 100vw, 474px" />][5]
+[<img class="size-medium wp-image-38033 aligncenter" alt="github-pages-template" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/github-pages-template-474x310.png" width="474" height="310" srcset="uploads/2013/07/github-pages-template-474x310.png 474w, uploads/2013/07/github-pages-template-256x168.png 256w, uploads/2013/07/github-pages-template.png 930w" sizes="(max-width: 474px) 100vw, 474px" />][5]
 
 Se você quiser editar o que escreveu, basta clicar no botão ‘edit’, senão, se estiver satisfeito com o resultado, basta clicar no botão ‘publish’.
 
@@ -84,7 +84,7 @@ A resposta dessa pergunta pode ser respondida ao observarmos os branches do noss
 
 O gh-pages é o responsável por conter os arquivos que darão vida à nossa página, assim, se o explorarmos, poderemos ver que existem arquivos como ‘index.html’, arquivos ‘.css’ entre outros. Enfim, é um branch que representa toda a página gerada.
 
-[<img class="size-full wp-image-38030 aligncenter" alt="github-gh-pages-branch" src="http://tableless.com.br/uploads/2013/07/github-gh-pages-branch.png" width="512" height="232" srcset="uploads/2013/07/github-gh-pages-branch.png 512w, uploads/2013/07/github-gh-pages-branch-329x149.png 329w" sizes="(max-width: 512px) 100vw, 512px" />][6]
+[<img class="size-full wp-image-38030 aligncenter" alt="github-gh-pages-branch" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/github-gh-pages-branch.png" width="512" height="232" srcset="uploads/2013/07/github-gh-pages-branch.png 512w, uploads/2013/07/github-gh-pages-branch-329x149.png 329w" sizes="(max-width: 512px) 100vw, 512px" />][6]
 
 ## Mas, e agora? Como edito a minha página?
 
@@ -140,9 +140,9 @@ No final das contas, por mais que o código seja muito bem elaborado e etc, a me
 
 Portanto, minha recomendação é que se você possui um projeto hospedado no github, tente criar uma página para ele. Quem sabe você não acaba atraíndo mais desenvolvedores para ajudar e torne o seu projeto mais legal ainda?
 
- [1]: http://tableless.com.br/uploads/2013/07/its-free.png
- [2]: http://tableless.com.br/uploads/2013/07/github-settings-option.png
- [3]: http://tableless.com.br/uploads/2013/07/github-pages-box.png
- [4]: http://tableless.com.br/uploads/2013/07/github-pages-form.png
- [5]: http://tableless.com.br/uploads/2013/07/github-pages-template.png
- [6]: http://tableless.com.br/uploads/2013/07/github-gh-pages-branch.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/its-free.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/github-settings-option.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/github-pages-box.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/github-pages-form.png
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/github-pages-template.png
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/github-gh-pages-branch.png

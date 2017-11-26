@@ -211,7 +211,7 @@ Há bastante coisa para se ler aqui:
   * [CSS: Transition Timing Functions][8]
 
  [1]: http://webkit.org/
- [2]: http://tableless.com.br/uploads/2009/06/cssanimation.html "Exemplo de CSS Animation"
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/06/cssanimation.html "Exemplo de CSS Animation"
  [3]: http://www.w3.org/TR/css3-animations/#introduction
  [4]: http://www.nabble.com/Apple%27s-Proposal-for-CSS-Transformations-to13615345.html
  [5]: http://www.w3.org/TR/css3-animations/ "Documentação do W3C para CSS Animation"

@@ -36,7 +36,7 @@ PS: São ferramentas que por padrão já vem com o Yeoman, porém temos a opçã
 
 ### Ta, me convence!
 
-[<img class="alignnone size-full wp-image-46124" src="http://tableless.com.br/uploads/2014/12/convence.jpg" alt="convence" width="477" height="275" srcset="uploads/2014/12/convence.jpg 477w, uploads/2014/12/convence-241x139.jpg 241w, uploads/2014/12/convence-400x230.jpg 400w" sizes="(max-width: 477px) 100vw, 477px" />][1]
+[<img class="alignnone size-full wp-image-46124" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/convence.jpg" alt="convence" width="477" height="275" srcset="uploads/2014/12/convence.jpg 477w, uploads/2014/12/convence-241x139.jpg 241w, uploads/2014/12/convence-400x230.jpg 400w" sizes="(max-width: 477px) 100vw, 477px" />][1]
 
 O Yeoman sendo uma ferramenta completa, pode proporcionar para você formas práticas e ágeis de desenvolvimento com menos tempo e com boa qualidade. Alguns criticam, outros elogiam, mas você só saberá o resultado se positivo ou negativo, quando usar esse brinquedinho.
 
@@ -44,7 +44,7 @@ Penso o seguinte: Uma ferramenta nova no marcado ou até mesmo uma antiga com no
 
 ### Dicas importantes antes de praticar
 
-[<img class="alignnone size-full wp-image-46127" src="http://tableless.com.br/uploads/2014/12/dica.jpg" alt="dica" width="400" height="245" srcset="uploads/2014/12/dica.jpg 400w, uploads/2014/12/dica-226x139.jpg 226w" sizes="(max-width: 400px) 100vw, 400px" />][2]
+[<img class="alignnone size-full wp-image-46127" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/dica.jpg" alt="dica" width="400" height="245" srcset="uploads/2014/12/dica.jpg 400w, uploads/2014/12/dica-226x139.jpg 226w" sizes="(max-width: 400px) 100vw, 400px" />][2]
 
 Antes de mais nada já saiba que não ter medo do terminal é um diferencial. Sacanagem Hahaha. Mas é importante saber que a maioria das configurações e monitoramento serão via terminal, por isso é bom entender e interpretar cada linha de comando digitada.
 
@@ -54,7 +54,7 @@ Uma observação válida a ser feita é o seguinte: Você que desenvolve com Ma
 
 ### Vendo teorias na prática
 
-[<img class="alignnone size-full wp-image-46128" src="http://tableless.com.br/uploads/2014/12/vendo-tv.jpg" alt="vendo-tv" width="381" height="315" srcset="uploads/2014/12/vendo-tv.jpg 381w, uploads/2014/12/vendo-tv-168x139.jpg 168w" sizes="(max-width: 381px) 100vw, 381px" />][5]
+[<img class="alignnone size-full wp-image-46128" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/vendo-tv.jpg" alt="vendo-tv" width="381" height="315" srcset="uploads/2014/12/vendo-tv.jpg 381w, uploads/2014/12/vendo-tv-168x139.jpg 168w" sizes="(max-width: 381px) 100vw, 381px" />][5]
 
 Conforme comentado acima, precisa ter nodejs instalado, por isso instale e após a instalação seguia os passos seguintes.
 
@@ -68,11 +68,11 @@ O comando &#8220;generator-webapp&#8221; é o gerador de aplicações web padrã
 
 ### Mas o que vem depois?
 
-[<img class="alignnone  wp-image-46228" src="http://tableless.com.br/uploads/2014/12/01.jpg" alt="01" width="338" height="190" srcset="uploads/2014/12/01.jpg 400w, uploads/2014/12/01-247x139.jpg 247w" sizes="(max-width: 338px) 100vw, 338px" />][6]
+[<img class="alignnone  wp-image-46228" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/01.jpg" alt="01" width="338" height="190" srcset="uploads/2014/12/01.jpg 400w, uploads/2014/12/01-247x139.jpg 247w" sizes="(max-width: 338px) 100vw, 338px" />][6]
 
 Após o processo de instalação seguida passo a passo, a ferramenta já pode ser usada para criar suas aplicações. Você vai perceber que o YO já te retorna uma estrutura de pasta bem completa com tudo que você precisa e ainda alguns recursos a mais. Veja abaixo!
 
-[<img class="alignnone  wp-image-46230" src="http://tableless.com.br/uploads/2014/12/estrutura-raiz.jpg" alt="estrutura raiz" width="193" height="269" srcset="uploads/2014/12/estrutura-raiz.jpg 233w, uploads/2014/12/estrutura-raiz-99x139.jpg 99w" sizes="(max-width: 193px) 100vw, 193px" />][7]
+[<img class="alignnone  wp-image-46230" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/estrutura-raiz.jpg" alt="estrutura raiz" width="193" height="269" srcset="uploads/2014/12/estrutura-raiz.jpg 233w, uploads/2014/12/estrutura-raiz-99x139.jpg 99w" sizes="(max-width: 193px) 100vw, 193px" />][7]
 
 Analisando a estrutura, digo o seguinte:
 
@@ -84,11 +84,11 @@ Analisando a estrutura, digo o seguinte:
 
 ### A tal pasta APP da minha aplicação
 
-[<img class="alignnone  wp-image-46231" src="http://tableless.com.br/uploads/2014/12/02.jpg" alt="02" width="355" height="239" srcset="uploads/2014/12/02.jpg 425w, uploads/2014/12/02-206x139.jpg 206w, uploads/2014/12/02-400x269.jpg 400w" sizes="(max-width: 355px) 100vw, 355px" />][8]
+[<img class="alignnone  wp-image-46231" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/02.jpg" alt="02" width="355" height="239" srcset="uploads/2014/12/02.jpg 425w, uploads/2014/12/02-206x139.jpg 206w, uploads/2014/12/02-400x269.jpg 400w" sizes="(max-width: 355px) 100vw, 355px" />][8]
 
 Enfim chegamos a pasta de desenvolvimento, é aqui que começa toda a sua aplicação, você não precisa mexer em nenhuma outra pasta, tudo que você precisa mexer e criar vai ser dentro deste diretório, beleza? Veja como funciona a estrutura da pasta e logo após vamos ver funcionando e depois daremos o **build** \*-\*
 
-[<img class="alignnone  wp-image-46232" src="http://tableless.com.br/uploads/2014/12/estrutura-app.jpg" alt="estrutura-app" width="134" height="277" srcset="uploads/2014/12/estrutura-app.jpg 154w, uploads/2014/12/estrutura-app-67x139.jpg 67w" sizes="(max-width: 134px) 100vw, 134px" />][9]
+[<img class="alignnone  wp-image-46232" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/estrutura-app.jpg" alt="estrutura-app" width="134" height="277" srcset="uploads/2014/12/estrutura-app.jpg 154w, uploads/2014/12/estrutura-app-67x139.jpg 67w" sizes="(max-width: 134px) 100vw, 134px" />][9]
 
 Acredito que detalhar essa estrutura não tem tanta necessidade, pois as pastas e arquivos já falam por si, não é mesmo? Mas qualquer dúvida pode deixar seu comentário que responderei com prazer.
 
@@ -100,7 +100,7 @@ Após isso você criar sua aplicação normalmente, usando como ponto de partida
 
 ### ****_E se eu quiser baixar outros componentes e plugins?_****
 
-[<img class="alignnone  wp-image-46233" src="http://tableless.com.br/uploads/2014/12/03.jpg" alt="03" width="335" height="216" srcset="uploads/2014/12/03.jpg 400w, uploads/2014/12/03-215x139.jpg 215w" sizes="(max-width: 335px) 100vw, 335px" />][10]
+[<img class="alignnone  wp-image-46233" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/03.jpg" alt="03" width="335" height="216" srcset="uploads/2014/12/03.jpg 400w, uploads/2014/12/03-215x139.jpg 215w" sizes="(max-width: 335px) 100vw, 335px" />][10]
 
 É uma boa pergunta e simples de responder. Para baixar outro componente como por exemplo AngularJS vamos usar o Bower, nosso gerenciador de componentes. E para baixar um novo plugin como por exemplo JSHINT vamos usar o Gruntjs que gerencia nossas tarefas. Os comandos abaixo mostra como baixar componentes e plugins.
 
@@ -114,7 +114,7 @@ Após isso você criar sua aplicação normalmente, usando como ponto de partida
 
 ### E meu ambiente de produção?
 
-[<img class="alignnone  wp-image-46234" src="http://tableless.com.br/uploads/2014/12/04.jpg" alt="04" width="363" height="252" srcset="uploads/2014/12/04.jpg 392w, uploads/2014/12/04-200x139.jpg 200w" sizes="(max-width: 363px) 100vw, 363px" />][11]
+[<img class="alignnone  wp-image-46234" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/04.jpg" alt="04" width="363" height="252" srcset="uploads/2014/12/04.jpg 392w, uploads/2014/12/04-200x139.jpg 200w" sizes="(max-width: 363px) 100vw, 363px" />][11]
 
 Chegamos ao nosso momento de build da aplicação. O yeoman compila todos os arquivos da pasta app e nos retorna uma pasta chamada “dist” é lá que encontram seus arquivos de produção prontos para serem usados e testados. Lembrando que qualquer alteração não poderá ser feita na pasta “dist” e sim em “app”.
 
@@ -144,17 +144,17 @@ Links de referência Yeoman que podem complementar o Post
 
 Chegamos ao final desse capítulo tentando expor as qualidades que o Yeoman pode nos dar e sua forma de uso. No próximo capítulo teremos nosso amigo Beto Muniz ([@obetomuniz][17]) falando sobre Slush dentro da série. Não perca os próximos capítulos da série, onde no 4º capítulo finalizaremos com algumas dicas, apresentaremos projetos que foram criados a parir de um desses generators e mostrar como criar seu próprio generator. Valeu =]
 
- [1]: http://tableless.com.br/uploads/2014/12/convence.jpg
- [2]: http://tableless.com.br/uploads/2014/12/dica.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/convence.jpg
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/dica.jpg
  [3]: http://nodejs.org/download/
  [4]: https://www.ruby-lang.org/pt/downloads/
- [5]: http://tableless.com.br/uploads/2014/12/vendo-tv.jpg
- [6]: http://tableless.com.br/uploads/2014/12/01.jpg
- [7]: http://tableless.com.br/uploads/2014/12/estrutura-raiz.jpg
- [8]: http://tableless.com.br/uploads/2014/12/02.jpg
- [9]: http://tableless.com.br/uploads/2014/12/estrutura-app.jpg
- [10]: http://tableless.com.br/uploads/2014/12/03.jpg
- [11]: http://tableless.com.br/uploads/2014/12/04.jpg
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/vendo-tv.jpg
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/01.jpg
+ [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/estrutura-raiz.jpg
+ [8]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/02.jpg
+ [9]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/estrutura-app.jpg
+ [10]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/03.jpg
+ [11]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/04.jpg
  [12]: Ao%20dar o build ele gera o diretório “dist” contendo nele os arquivos de produção. Já que estamos automatizando tudo, jamais em toda sua vida use FTP e sim faça deploy =) Abaixo segue algumas referências de um módulo do grunt que você pode acrescentar em sua aplicação e deixá-la mais interessante. Assim você miniminiza retrabalhos. Estou falando de rsync
  [13]: http://yeoman.io/
  [14]: https://github.com/yeoman/yeoman

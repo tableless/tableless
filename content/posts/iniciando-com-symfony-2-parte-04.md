@@ -70,7 +70,7 @@ Nossa entidade Author está pronta.
 
 Ao entrarmos na pasta src/Tableless/ModelBundle/Entity/ vamos encontrá-la.
 
-[<img src="http://tableless.com.br/uploads/2015/03/02.png" alt="Entidade Author criada" width="750" height="403" class="alignnone size-full wp-image-47412" srcset="uploads/2015/03/02.png 750w, uploads/2015/03/02-259x139.png 259w, uploads/2015/03/02-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][1]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/02.png" alt="Entidade Author criada" width="750" height="403" class="alignnone size-full wp-image-47412" srcset="uploads/2015/03/02.png 750w, uploads/2015/03/02-259x139.png 259w, uploads/2015/03/02-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][1]
 
 Agora devemos adicionar a annotations, @ORM\Table(name=&#8221;author&#8221;) para o nome da nossa tabela, veja na linha 10:
 
@@ -455,7 +455,7 @@ Teremos o resultado:
 
 Entrando no banco de dados vamos perceber que a tabela author criada:
 
-[<img src="http://tableless.com.br/uploads/2015/03/03.png" alt="Tabela Author" width="750" height="403" class="alignnone size-full wp-image-47434" srcset="uploads/2015/03/03.png 750w, uploads/2015/03/03-259x139.png 259w, uploads/2015/03/03-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][2]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/03.png" alt="Tabela Author" width="750" height="403" class="alignnone size-full wp-image-47434" srcset="uploads/2015/03/03.png 750w, uploads/2015/03/03-259x139.png 259w, uploads/2015/03/03-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][2]
 
 ## Criando o CRUD da entidade Author
 
@@ -876,7 +876,7 @@ Para verificarmos se está tudo correto, precisamos criar primeiramente um autor
 
 Veja abaixo:
 
-[<img src="http://tableless.com.br/uploads/2015/03/04.png" alt="autor" width="750" height="403" class="alignnone size-full wp-image-47469" srcset="uploads/2015/03/04.png 750w, uploads/2015/03/04-259x139.png 259w, uploads/2015/03/04-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][3]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/04.png" alt="autor" width="750" height="403" class="alignnone size-full wp-image-47469" srcset="uploads/2015/03/04.png 750w, uploads/2015/03/04-259x139.png 259w, uploads/2015/03/04-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][3]
 
 Lembrando que a url de autor é:
 
@@ -890,6 +890,6 @@ http://127.0.0.1:8000/post/
 
 Vamos terminar este tutorial, pois seu conteúdo está muito extenso, no próximo, vamos fazer as configurações necessárias em nossa simples aplicação, e vamos criar um index, para mostrar nossos posts, que configuraremos com o Bootstrap, e com o template engine twig. O projeto <a href="https://github.com/candidosouza/tableless" title="GitHub do projeto" target="_blank">encontra-se no GitHub</a>!
 
- [1]: http://tableless.com.br/uploads/2015/03/02.png
- [2]: http://tableless.com.br/uploads/2015/03/03.png
- [3]: http://tableless.com.br/uploads/2015/03/04.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/02.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/03.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/04.png

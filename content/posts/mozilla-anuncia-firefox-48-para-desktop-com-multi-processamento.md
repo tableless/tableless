@@ -15,7 +15,7 @@ Mozilla anunciou em 02 de Agosto, o lançamento do Firefox 48, a introdução de
 
 Firefox 48 é a primeira versão do navegador que inclui Electrólise (ou e10s), um recurso de multi-processo de desenvolvedores do Mozilla que têm sido muito trabalhada nesses últimos sete anos.
 
-<img src="http://tableless.com.br/uploads/2016/08/unnamed.jpg" alt="unnamed" width="800" height="530" class="aligncenter size-full wp-image-55641" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/08/unnamed.jpg" alt="unnamed" width="800" height="530" class="aligncenter size-full wp-image-55641" />
 
 O Multi-processo do Firefox separa os processos de conteúdo da web e interface do usuário, de modo que quando uma página web consume uma grande quantidade de processamento, outras abas abertas, botões e menus não ficam sem resposta. A Mozilla diz que vai ativar o recurso nos bastidores em uma implantação para o os usuários do Firefox 48 ao longo das próximas semanas.
 

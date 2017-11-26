@@ -110,15 +110,15 @@ Veja um [exemplo aqui][11]. Tente ver com um smartphone como o iPhone, Android, 
 
 Manipular o Viewport nos dá possibilidades para personalizar o visual de qualquer site para praticamente qualquer dispositivo, não importa sua resolução ou seu tamanho de tela. Quando unimos isso às [media queries][12], temos um outro mundo de possibilidades.
 
- [1]: http://tableless.com.br/uploads/2011/04/980px.png
- [2]: http://tableless.com.br/uploads/2011/04/viewport-980.png
- [3]: http://tableless.com.br/uploads/2011/04/viewport-320px.png
- [4]: http://tableless.com.br/uploads/2011/04/rolagem.png
- [5]: http://tableless.com.br/uploads/2011/04/initi-scale1.png
- [6]: http://tableless.com.br/uploads/2011/04/init-scale15.png
- [7]: http://tableless.com.br/uploads/2011/04/init-scale2.png
- [8]: http://tableless.com.br/uploads/2011/04/scale1-text.png
- [9]: http://tableless.com.br/uploads/2011/04/scale15-text.png
- [10]: http://tableless.com.br/uploads/2011/04/scale2-text.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/980px.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/viewport-980.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/viewport-320px.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/rolagem.png
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/initi-scale1.png
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/init-scale15.png
+ [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/init-scale2.png
+ [8]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/scale1-text.png
+ [9]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/scale15-text.png
+ [10]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/scale2-text.png
  [11]: http://tableless.github.com/exemplos/viewport/viewport.html
  [12]: http://tableless.com.br/introducao-sobre-media-queries

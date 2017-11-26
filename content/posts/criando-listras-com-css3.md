@@ -23,7 +23,7 @@ O início de tudo vem com a utilização CSS Gradientes quando foi falado inicia
 Primeiro precisamos saber quais são os tipos de gradientes que podemos utilizar :
 
 <div id="attachment_42329" style="width: 845px" class="wp-caption aligncenter">
-  <img class="wp-image-42329 size-full" src="http://tableless.com.br/uploads/2014/04/propriedade.jpg" alt="propriedades " width="835" height="260" srcset="uploads/2014/04/propriedade.jpg 835w, uploads/2014/04/propriedade-400x124.jpg 400w" sizes="(max-width: 835px) 100vw, 835px" />
+  <img class="wp-image-42329 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/propriedade.jpg" alt="propriedades " width="835" height="260" srcset="uploads/2014/04/propriedade.jpg 835w, uploads/2014/04/propriedade-400x124.jpg 400w" sizes="(max-width: 835px) 100vw, 835px" />
   
   <p class="wp-caption-text">
     Tabela explicativa das propriedades gradiente com CSS3
@@ -36,7 +36,7 @@ O [Bernard de Luna escreveu um arquivo completo aqui no Tableless][1] mostrando
 
 Veja o seguinte exemplo :
 
-<img class="alignnone size-full wp-image-42362" src="http://tableless.com.br/uploads/2014/04/1-90g.jpg" alt="listra-css" width="295" height="252" />
+<img class="alignnone size-full wp-image-42362" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/1-90g.jpg" alt="listra-css" width="295" height="252" />
 
 Veja o código:
 
@@ -52,11 +52,11 @@ background: repeating-linear-gradient(
 
 A propriedade contém as seguintes informações o nível de inclinação ( em graus ) de qual será as listras, as cores que você deseja colocar e a largura das mesmas. Veja a mesma imagem só que com o nível de inclinação em 45 graus :
 
-<img class="alignnone size-full wp-image-42361" src="http://tableless.com.br/uploads/2014/04/1-45g.jpg" alt="fundo-listras-css" width="264" height="249" />
+<img class="alignnone size-full wp-image-42361" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/1-45g.jpg" alt="fundo-listras-css" width="264" height="249" />
 
 Vamos analisar a imagem com um pouco mais de atenção :
 
-<img class="alignnone size-full wp-image-42360" src="http://tableless.com.br/uploads/2014/04/1-45b.jpg" alt="listra-css-analise" width="416" height="416" srcset="uploads/2014/04/1-45b.jpg 416w, uploads/2014/04/1-45b-400x400.jpg 400w" sizes="(max-width: 416px) 100vw, 416px" />
+<img class="alignnone size-full wp-image-42360" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/1-45b.jpg" alt="listra-css-analise" width="416" height="416" srcset="uploads/2014/04/1-45b.jpg 416w, uploads/2014/04/1-45b-400x400.jpg 400w" sizes="(max-width: 416px) 100vw, 416px" />
 
 Podemos ver as dimensões de 10px em vermelho, a segunda lista iniciando com 20px e o grau de inclinação de 45º.
 
@@ -64,7 +64,7 @@ Podemos ver as dimensões de 10px em vermelho, a segunda lista iniciando com 20p
 
 Se você fizer o background com uma listra padrão , e depois fazer metade das listras totalmente transparente ao invés de utilizar cores,você poderá implementar o efeito de gradiente na sua propriedade e fazer isso único elemento:
 
-<img class="alignnone size-full wp-image-42364" src="http://tableless.com.br/uploads/2014/04/2-45g.jpg" alt="listra-css-gradiente" width="178" height="162" />
+<img class="alignnone size-full wp-image-42364" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/2-45g.jpg" alt="listra-css-gradiente" width="178" height="162" />
 
 Veja seu código:
 
@@ -93,7 +93,7 @@ Sim, isto mesmo! Podemos utilizar texturas, imagens que acabam dando um maior ef
 
 Vamos analisar a seguinte imagem :
 
-<img class="alignnone size-full wp-image-42365" src="http://tableless.com.br/uploads/2014/04/3-45g.jpg" alt="listra-css-com-imagem" width="298" height="162" />
+<img class="alignnone size-full wp-image-42365" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/3-45g.jpg" alt="listra-css-com-imagem" width="298" height="162" />
 
 Veja o código equivalente :
 
@@ -118,7 +118,7 @@ Diante desta propriedade podemos analisar que inicialmente possuímos 45º de in
 
 Bom, o CSS3 é uma ferramenta poderosa, não temos como duvidar disto, imagine criar o seguinte efeito:
 
-<img class="alignnone size-full wp-image-42363" src="http://tableless.com.br/uploads/2014/04/1-360g.jpg" alt="listra-imagem-radial" width="274" height="161" />
+<img class="alignnone size-full wp-image-42363" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/1-360g.jpg" alt="listra-imagem-radial" width="274" height="161" />
 
 Bom, isto é possível, veja só que simples:
 

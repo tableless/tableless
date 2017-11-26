@@ -37,7 +37,7 @@ Após a criação da pasta, vamos entrar na mesma, com o comando:
 
 Vamos instalar o Symfony via composer, caso não o conheça, ou tenha dúvidas, leia este post (<a title="Composer para iniciantes" href="//tableless.com.br/composer-para-iniciantes/" target="_blank">Composer para iniciantes</a>). Para fazermos o Download do Symfony entramos no <a title="Symfony Download" href="http://symfony.com/download" target="_blank">site</a> e copiamos o comando, como na imagem abaixo:
   
-[<img class="alignnone size-full wp-image-46532" src="http://tableless.com.br/uploads/2015/01/01.png" alt="Download do Symfony" width="750" height="403" srcset="uploads/2015/01/01.png 750w, uploads/2015/01/01-259x139.png 259w, uploads/2015/01/01-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][1]
+[<img class="alignnone size-full wp-image-46532" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/01.png" alt="Download do Symfony" width="750" height="403" srcset="uploads/2015/01/01.png 750w, uploads/2015/01/01-259x139.png 259w, uploads/2015/01/01-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][1]
 
 Vamos trocar o final do código, onde está path/ vamos colocar symfony/ que será a pasta onde instalaremos o Symfony, o comando ficará assim:
 
@@ -45,7 +45,7 @@ Vamos trocar o final do código, onde está path/ vamos colocar symfony/ que ser
 
 Ao darmos enter, a instalação irá começar como na imagem abaixo, isso poderá demorar alguns minutos, já que o composer irá baixar a distribuição padrão do Symfony, juntamente com todas as suas bibliotecas.
 
-[<img class="alignnone size-full wp-image-46533" src="http://tableless.com.br/uploads/2015/01/02.png" alt="Instalação do symfony" width="750" height="403" srcset="uploads/2015/01/02.png 750w, uploads/2015/01/02-259x139.png 259w, uploads/2015/01/02-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][2]
+[<img class="alignnone size-full wp-image-46533" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/02.png" alt="Instalação do symfony" width="750" height="403" srcset="uploads/2015/01/02.png 750w, uploads/2015/01/02-259x139.png 259w, uploads/2015/01/02-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][2]
 
 Ao baixar todos os componentes, a instalação do symfony vai nos fazer diversas perguntas.
 
@@ -107,7 +107,7 @@ Em nosso caso vamos usar o PDO, que hoje é <a title="PHP PDO" href="http://php.
 
 Segue a imagem para comparação, se tudo ocorreu bem, ficará assim:
 
-[<img class="alignnone size-full wp-image-46534" src="http://tableless.com.br/uploads/2015/01/03.png" alt="Instalando Symfony" width="750" height="403" srcset="uploads/2015/01/03.png 750w, uploads/2015/01/03-259x139.png 259w, uploads/2015/01/03-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][3]
+[<img class="alignnone size-full wp-image-46534" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/03.png" alt="Instalando Symfony" width="750" height="403" srcset="uploads/2015/01/03.png 750w, uploads/2015/01/03-259x139.png 259w, uploads/2015/01/03-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][3]
 
 ## Rodando a aplicação
 
@@ -143,7 +143,7 @@ Abrimos nosso navegador e digitamos a url: http://127.0.0.1:8000/
   
 E Pronto!
 
-[<img class="alignnone size-full wp-image-46535" src="http://tableless.com.br/uploads/2015/01/04.png" alt="Página do Symfony" width="736" height="403" srcset="uploads/2015/01/04.png 736w, uploads/2015/01/04-254x139.png 254w, uploads/2015/01/04-400x219.png 400w" sizes="(max-width: 736px) 100vw, 736px" />][4]
+[<img class="alignnone size-full wp-image-46535" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/04.png" alt="Página do Symfony" width="736" height="403" srcset="uploads/2015/01/04.png 736w, uploads/2015/01/04-254x139.png 254w, uploads/2015/01/04-400x219.png 400w" sizes="(max-width: 736px) 100vw, 736px" />][4]
 
 Irá aparecer um erro na tela, por não termos configurado as nossas rotas no Controller, porém sabemos que nossa aplicação está rodando. O Symfony gera uma rota de teste automaticamente, e para vermos se está tudo certo sem erros, então digitamos em nosso navegador a url:
   
@@ -157,7 +157,7 @@ O Symfony está rodando com sucesso!
 
 A debug toolbar é uma barra de ferramentas do Symfony, fantástica, que nos traz informações valiosas.
 
-[<img class="alignnone size-full wp-image-46590" src="http://tableless.com.br/uploads/2015/01/061.png" alt="Debug toolbar Symfony2" width="750" height="83" srcset="uploads/2015/01/061.png 750w, uploads/2015/01/061-265x29.png 265w, uploads/2015/01/061-400x44.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][5]
+[<img class="alignnone size-full wp-image-46590" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/061.png" alt="Debug toolbar Symfony2" width="750" height="83" srcset="uploads/2015/01/061.png 750w, uploads/2015/01/061-265x29.png 265w, uploads/2015/01/061-400x44.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][5]
 
 1 &#8211; No início temos o ícone do Symfony, que ao colocarmos o ponteiro do mouse em cima, a barra nos mostra a versão do Symfony juntamente com um link para a documentação.
 
@@ -234,8 +234,8 @@ O projeto se encontra no <a title="GitHub Candido Souza" href="https://github.co
 
 Para finalizarmos, recomendo a <a title="Documentação do Symfony" href="http://symfony.com/doc/current/index.html" target="_blank">documentação do Symfony</a>, ótima para estudos!
 
- [1]: http://tableless.com.br/uploads/2015/01/01.png
- [2]: http://tableless.com.br/uploads/2015/01/02.png
- [3]: http://tableless.com.br/uploads/2015/01/03.png
- [4]: http://tableless.com.br/uploads/2015/01/04.png
- [5]: http://tableless.com.br/uploads/2015/01/061.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/01.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/02.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/03.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/04.png
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/061.png

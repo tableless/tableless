@@ -33,7 +33,7 @@ Uma importante diferença está no fato do Node ser _single threaded_. Embora is
 
 A instalação do **Node.js** é extremamente simples graças ao fato de o **V8 JavaScript Engine** ser completamente multi-plataforma, tudo que você precisa fazer é visitar a <a href="http://www.nodejs.org/" rel="noreferrer">página oficial do Node.js</a>, clicar em &#8220;INSTALL&#8221; e seguir as instruções.
 
-<img style="width: 100%" src="http://tableless.com.br/uploads/2014/07/node_2.png" alt="img node 2" />
+<img style="width: 100%" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/07/node_2.png" alt="img node 2" />
 
 Após a instalação, basta executar o seguinte comando no seu terminal para verificar se foi instalado corretamente:
 
@@ -82,7 +82,7 @@ http.createServer(function(req,res) { 
 console.log('Servidor iniciado em localhost:3000. Ctrl+C para encerrar…’);
 </pre>
 
-<img style="width: 100%" src="http://tableless.com.br/uploads/2014/07/node_1.png" alt="img node 1" />
+<img style="width: 100%" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/07/node_1.png" alt="img node 1" />
 
 Agora basta voltar ao seu navegador e ver o resultado.
 

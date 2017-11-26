@@ -43,15 +43,15 @@ Faça um esforço e apareça no evento da sua cidade… vamos conversar!
 
 Fotos do último evento, em Curitiba!
 
-<img src="http://tableless.com.br/uploads/2014/05/13874835124_d41e546f73_b.jpg" alt="13874835124_d41e546f73_b" width="1024" height="768" class="alignnone size-full wp-image-42411" srcset="uploads/2014/05/13874835124_d41e546f73_b.jpg 1024w, uploads/2014/05/13874835124_d41e546f73_b-400x300.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/05/13874835124_d41e546f73_b.jpg" alt="13874835124_d41e546f73_b" width="1024" height="768" class="alignnone size-full wp-image-42411" srcset="uploads/2014/05/13874835124_d41e546f73_b.jpg 1024w, uploads/2014/05/13874835124_d41e546f73_b-400x300.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-<img src="http://tableless.com.br/uploads/2014/05/13874419645_f0c9793449_b.jpg" alt="13874419645_f0c9793449_b" width="1024" height="768" class="alignnone size-full wp-image-42412" srcset="uploads/2014/05/13874419645_f0c9793449_b.jpg 1024w, uploads/2014/05/13874419645_f0c9793449_b-400x300.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/05/13874419645_f0c9793449_b.jpg" alt="13874419645_f0c9793449_b" width="1024" height="768" class="alignnone size-full wp-image-42412" srcset="uploads/2014/05/13874419645_f0c9793449_b.jpg 1024w, uploads/2014/05/13874419645_f0c9793449_b-400x300.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-<img src="http://tableless.com.br/uploads/2014/05/13874425115_c864849376_b.jpg" alt="13874425115_c864849376_b" width="1024" height="768" class="alignnone size-full wp-image-42413" srcset="uploads/2014/05/13874425115_c864849376_b.jpg 1024w, uploads/2014/05/13874425115_c864849376_b-400x300.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/05/13874425115_c864849376_b.jpg" alt="13874425115_c864849376_b" width="1024" height="768" class="alignnone size-full wp-image-42413" srcset="uploads/2014/05/13874425115_c864849376_b.jpg 1024w, uploads/2014/05/13874425115_c864849376_b-400x300.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-<img src="http://tableless.com.br/uploads/2014/05/13874479913_047110de66_b.jpg" alt="13874479913_047110de66_b" width="1024" height="768" class="alignnone size-full wp-image-42414" srcset="uploads/2014/05/13874479913_047110de66_b.jpg 1024w, uploads/2014/05/13874479913_047110de66_b-400x300.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/05/13874479913_047110de66_b.jpg" alt="13874479913_047110de66_b" width="1024" height="768" class="alignnone size-full wp-image-42414" srcset="uploads/2014/05/13874479913_047110de66_b.jpg 1024w, uploads/2014/05/13874479913_047110de66_b-400x300.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
-<img src="http://tableless.com.br/uploads/2014/05/13874480183_468de5652d_b.jpg" alt="13874480183_468de5652d_b" width="1024" height="768" class="alignnone size-full wp-image-42415" srcset="uploads/2014/05/13874480183_468de5652d_b.jpg 1024w, uploads/2014/05/13874480183_468de5652d_b-400x300.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/05/13874480183_468de5652d_b.jpg" alt="13874480183_468de5652d_b" width="1024" height="768" class="alignnone size-full wp-image-42415" srcset="uploads/2014/05/13874480183_468de5652d_b.jpg 1024w, uploads/2014/05/13874480183_468de5652d_b-400x300.jpg 400w" sizes="(max-width: 1024px) 100vw, 1024px" />
 
 Para ver mais fotos, [se liga no Flickr][3].
 

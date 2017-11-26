@@ -21,13 +21,13 @@ O termo while pode ser traduzido para o português como “enquanto”. Este ter
 
 Veja que a inicialização precede o início da repetição. Isso significa que você deve definir o estado inicial dos elementos que serão utilizados nesse laço antes de seu cabeçalho. A palavra reservada while sempre será seguida de um par de parênteses, que delimitam a condição desta estrutura de repetição. Essa condição deve ser uma expressão booleana e, enquanto ela for verdadeira, esta estrutura continuará executando as instruções contidas no seu corpo.
 
-[<img class=" size-full wp-image-49309 aligncenter" src="http://tableless.com.br/uploads/2015/06/while.bmp" alt="while" width="599" height="225" />][1]
+[<img class=" size-full wp-image-49309 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/while.bmp" alt="while" width="599" height="225" />][1]
 
 ## Do-while
 
 A estrutura de repetição do-while é uma variação da estrutura while. Existe uma diferença sutil, porém importante, entre elas. Em um laço while, a condição é testada antes da primeira execução das instruções que compõem seu corpo. Desse modo, se a condição for falsa na primeira vez em que for avaliada, as instrução desse laço não serão executadas nenhuma vez. Em um laço do-while, por outro lado, a condição somente é avaliada depois que suas instruções são executadas pela primeira vez, assim, mesmo que a condição desse laço seja falsa antes de ele iniciar, suas instruções serão executadas pelo menos uma vez.
 
-[<img class=" size-full wp-image-49310 aligncenter" src="http://tableless.com.br/uploads/2015/06/do-while.bmp" alt="do-while" width="612" height="240" />][2]
+[<img class=" size-full wp-image-49310 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/do-while.bmp" alt="do-while" width="612" height="240" />][2]
 
 ## Estrutura For
 
@@ -39,7 +39,7 @@ Observe que a inicialização, condição e iteração aparecem, entre parêntes
 
 O laço for e o laço while são apenas formas diferentes de uma mesma estrutura básica de repetição. Qualquer laço for pode ser transcrito em termos de um laço while e vice-versa. Do mesmo modo que em um laço while, se a condição de um laço for já é falsa logo na primeira avaliação que se fizer dela, as instruções contidas em seu corpo jamais serão executadas.
 
-[<img class=" size-full wp-image-49311 aligncenter" src="http://tableless.com.br/uploads/2015/06/for.bmp" alt="for" width="459" height="157" />][3]
+[<img class=" size-full wp-image-49311 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/for.bmp" alt="for" width="459" height="157" />][3]
 
 ## Quebras de Laço
 
@@ -53,13 +53,13 @@ Enquanto a instrução break é utilizada para encerrar um laço, a instrução 
 
 O enhanced-for foi introduzido a partir do&nbsp;Java 5, e é utilizado para realizar as varreduras em collections. Para cada iteração do for, o elemento da iteração é atribuído à variável. Utilizando o enhanced-for, você é obrigado a percorrer um array por exemplo.
 
-[<img class=" size-full wp-image-49312 aligncenter" src="http://tableless.com.br/uploads/2015/06/enhanced-for.bmp" alt="enhanced-for" width="410" height="204" />][4]
+[<img class=" size-full wp-image-49312 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/enhanced-for.bmp" alt="enhanced-for" width="410" height="204" />][4]
 
 Bom galera, essa foi uma passada rápida pelas estruturas de repetição que o java oferece, sugestões e críticas serão sempre bem recebidas, obrigado.
 
 &nbsp;
 
- [1]: http://tableless.com.br/uploads/2015/06/while.bmp
- [2]: http://tableless.com.br/uploads/2015/06/do-while.bmp
- [3]: http://tableless.com.br/uploads/2015/06/for.bmp
- [4]: http://tableless.com.br/uploads/2015/06/enhanced-for.bmp
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/while.bmp
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/do-while.bmp
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/for.bmp
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/enhanced-for.bmp

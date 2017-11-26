@@ -45,4 +45,4 @@ O Coda não é tão bom quanto pensam. Percebam que quando eu fecho as tags de i
 
  [1]: http://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"
  [2]: http://www.youtube.com/watch?v=9KlSuomZkdQ "Construindo o XHTML e CSS de um formulário"
- [3]: http://tableless.com.br/uploads/2008/06/index.html
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2008/06/index.html

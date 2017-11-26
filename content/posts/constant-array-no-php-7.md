@@ -83,10 +83,10 @@ O código acima irá imprimir:
 
 <pre>Array ( [0] =&gt; pera [1] =&gt; uva [2] =&gt; maça )</pre>
 
-[<img class="alignnone size-full wp-image-52669" src="http://tableless.com.br/uploads/2016/01/Captura-de-tela-de-2016-01-02-16-17-16.png" alt="Constant Class PHP com array" width="491" height="303" />][1]
+[<img class="alignnone size-full wp-image-52669" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/01/Captura-de-tela-de-2016-01-02-16-17-16.png" alt="Constant Class PHP com array" width="491" height="303" />][1]
 
 Lembrando que, para obter sucesso com os exemplos acima, é necessário ter a versão 7 do PHP ou superior. As demais versões não dão suporte á constantes do tipo _array_.
 
 No exemplo, também foi usado a _short sintaxe_ do array. Você também pode usar a sintaxe antiga, mas é uma questão de gosto pessoal. Eu, particularmente, quando escrevo um array, sempre procuro usar a versão curta. Além de ser mais bonita e simples, também se aproxima de outras linguagens, como o JavaScript, por exemplo.
 
- [1]: http://tableless.com.br/uploads/2016/01/Captura-de-tela-de-2016-01-02-16-17-16.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/01/Captura-de-tela-de-2016-01-02-16-17-16.png

@@ -20,7 +20,7 @@ Quem assistiu a animação da Pixar &#8220;Os Incríveis&#8221; conhece essa cen
 
 À partir daí a Edna cita uma relação de vários heróis que foram detonados por causa da capa. Homem-Trovão, Mega-Homem, Dinamite, entre outros e todos foram traídos pela falta de utilidade da capa em seus uniformes. Se pensarmos bem, a capa não tem valor funcional nenhum aos heróis, a não ser pela estética. Ainda que eu esteja falando de algo que não existem na verdade, alguém já viu alguma profissão onde a capa faz realmente alguma coisa? Não né!
 
-<img src="http://tableless.com.br/uploads/2015/10/thumb-nada-de-capa-quando-a-firula-e-mais-do-que-a-funcao-002.jpg" alt="thumb-nada-de-capa-quando-a-firula-e-mais-do-que-a-funcao-002" width="800" height="334" class="aligncenter size-full wp-image-51533" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/thumb-nada-de-capa-quando-a-firula-e-mais-do-que-a-funcao-002.jpg" alt="thumb-nada-de-capa-quando-a-firula-e-mais-do-que-a-funcao-002" width="800" height="334" class="aligncenter size-full wp-image-51533" />
 
 ### Mas acreditem, sites também possuem capas
 
@@ -34,7 +34,7 @@ Claro eu concordo, eu sei que existe exceções. HTML5 está aí para provar iss
 
 **É ele o foco de tudo!**
 
-<img src="http://tableless.com.br/uploads/2015/10/thumb-nada-de-capa-quando-a-firula-e-mais-do-que-a-funcao-001.jpg" alt="thumb-nada-de-capa-quando-a-firula-e-mais-do-que-a-funcao-001" width="800" height="389" class="aligncenter size-full wp-image-51531" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/thumb-nada-de-capa-quando-a-firula-e-mais-do-que-a-funcao-001.jpg" alt="thumb-nada-de-capa-quando-a-firula-e-mais-do-que-a-funcao-001" width="800" height="389" class="aligncenter size-full wp-image-51531" />
 
 Isso para não falar das inúmeras plataformas em que um site roda hoje em dia. É desktop com zilhões de resoluções, netbooks, tablets, smartphones e outros tipos de tela. E não me venham com a frase pronta &#8220;_**Ah, ninguém vai entrar no site da minha empresa pelo XBox!**_&#8221; que não cola mais ok!
 

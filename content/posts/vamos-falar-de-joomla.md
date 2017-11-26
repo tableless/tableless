@@ -29,7 +29,7 @@ O joomla versão 3, atualmente na versão 3.2.2 sem dúvida alguma veio trazendo
 
 ## US3R Friendly
 
-<img class="aligncenter size-medium wp-image-41238" alt="user-friendly" src="http://tableless.com.br/uploads/2014/02/user-friendly-588x240.jpg" width="588" height="240" srcset="uploads/2014/02/user-friendly-588x240.jpg 588w, uploads/2014/02/user-friendly-329x134.jpg 329w, uploads/2014/02/user-friendly-660x269.jpg 660w, uploads/2014/02/user-friendly-400x163.jpg 400w, uploads/2014/02/user-friendly.jpg 939w" sizes="(max-width: 588px) 100vw, 588px" />
+<img class="aligncenter size-medium wp-image-41238" alt="user-friendly" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/user-friendly-588x240.jpg" width="588" height="240" srcset="uploads/2014/02/user-friendly-588x240.jpg 588w, uploads/2014/02/user-friendly-329x134.jpg 329w, uploads/2014/02/user-friendly-660x269.jpg 660w, uploads/2014/02/user-friendly-400x163.jpg 400w, uploads/2014/02/user-friendly.jpg 939w" sizes="(max-width: 588px) 100vw, 588px" />
 
 O novo Joomla veio trazendo novidades desde a sua instalação, que agora é super rápida e simples. A área administrativa foi totalmente reformulada e re-estilizada graças ao incrível trabalho de UI/UX da equipe [Joomla JUX][1].
 
@@ -37,7 +37,7 @@ A maior novidade que esta nova versão trouxe foi a adoção do Bootstrap como b
 
 ## Developer Tools
 
-<img class="aligncenter size-medium wp-image-41246" alt="dev-tools" src="http://tableless.com.br/uploads/2014/02/dev-tools-588x112.jpg" width="588" height="112" srcset="uploads/2014/02/dev-tools-588x112.jpg 588w, uploads/2014/02/dev-tools-329x62.jpg 329w, uploads/2014/02/dev-tools-660x126.jpg 660w, uploads/2014/02/dev-tools-400x76.jpg 400w, uploads/2014/02/dev-tools.jpg 940w" sizes="(max-width: 588px) 100vw, 588px" />
+<img class="aligncenter size-medium wp-image-41246" alt="dev-tools" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/dev-tools-588x112.jpg" width="588" height="112" srcset="uploads/2014/02/dev-tools-588x112.jpg 588w, uploads/2014/02/dev-tools-329x62.jpg 329w, uploads/2014/02/dev-tools-660x126.jpg 660w, uploads/2014/02/dev-tools-400x76.jpg 400w, uploads/2014/02/dev-tools.jpg 940w" sizes="(max-width: 588px) 100vw, 588px" />
 
 Com a implementação de novas ferramentas agora você pode codificar e criar interfaces gastando muito menos tempo em desenvolvimento. O usuário agora conta com a biblioteca Joomla User Interface (JUI) que oferece uma padronização tanto para o backend quanto para o frontend. Economize tempo também utilizando LESS e jQuery em seus projetos. Conte também com a biblioteca de ícones [Icomoon][2], que oferece uma diversidade de ícones inclusive otimizados para retina.
 

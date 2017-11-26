@@ -18,7 +18,7 @@ Você descobre o tamanho de uma string ou a quantidade de valores em uma Array v
 
 A maioria dos valores em JS tem propriedades. As exceções, quase que obviamente, são os valores `null` e o `undefined`.
 
-<img src="http://tableless.com.br/uploads/2015/08/img1.png" alt="img1" width="461" height="72" class="alignnone size-full wp-image-50652" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/img1.png" alt="img1" width="461" height="72" class="alignnone size-full wp-image-50652" />
 
 Os dois caminhos mais comuns de acessar uma propriedade no JavaScript é com o **.** (ponto) ou pelos colchetes **[]**. As duas expressões `valor.propriedade` ou `valor[propriedade]` acessam uma propriedade de valor, mas não necessariamente a mesma propriedade. A diferença está em como a propriedade é interpretada. Quando usamos a propriedade via ponto, a propriedade precisa ser um nome de variável válida, e isso nomeia diretamente o nome da propriedade. Por sua vez, quando usamos um nome dentro dos colchetes, este nome é avaliado se é mesmo uma nome de propriedade válido. Enquanto o `valor.propriedade` pega o nome da propriedade e usa o valor obtido, enquanto ao usar `valor[propriedade]` tenta avaliar a expressão e usa o resultado como o nome da propriedade. 
 

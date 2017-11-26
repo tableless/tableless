@@ -40,7 +40,7 @@ Agora já estão prontas as declarações de nossas dependências basta baixar o
 Isto irá de maneira automática baixar todas as dependências que foram especificadas no arquivo composer.json, e neste exemplo trata-se apenas do PHPUnit no entanto o próprio PHP Unit requer algumas bibliotecas de terceiros então outras bibliotecas estarão disponíveis além do mesmo dentro da pasta _vendor_ que será criada.
 
 <div id="attachment_40041" style="width: 407px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40041 " alt="PHPUnit - Instalação a partir do composer" src="http://tableless.com.br/uploads/2013/12/01-composer-install-397x310.png" width="397" height="310" srcset="uploads/2013/12/01-composer-install-397x310.png 397w, uploads/2013/12/01-composer-install-215x168.png 215w, uploads/2013/12/01-composer-install.png 881w" sizes="(max-width: 397px) 100vw, 397px" />
+  <img class="size-medium wp-image-40041 " alt="PHPUnit - Instalação a partir do composer" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/01-composer-install-397x310.png" width="397" height="310" srcset="uploads/2013/12/01-composer-install-397x310.png 397w, uploads/2013/12/01-composer-install-215x168.png 215w, uploads/2013/12/01-composer-install.png 881w" sizes="(max-width: 397px) 100vw, 397px" />
   
   <p class="wp-caption-text">
     Instalação a partir do composer
@@ -48,7 +48,7 @@ Isto irá de maneira automática baixar todas as dependências que foram especif
 </div>
 
 <div id="attachment_40049" style="width: 394px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40049 " alt="PHPUnit - Estrutura de pastas" src="http://tableless.com.br/uploads/2013/12/02-estrutura-pastas-384x310.png" width="384" height="310" srcset="uploads/2013/12/02-estrutura-pastas-384x310.png 384w, uploads/2013/12/02-estrutura-pastas-208x168.png 208w, uploads/2013/12/02-estrutura-pastas.png 784w" sizes="(max-width: 384px) 100vw, 384px" />
+  <img class="size-medium wp-image-40049 " alt="PHPUnit - Estrutura de pastas" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/02-estrutura-pastas-384x310.png" width="384" height="310" srcset="uploads/2013/12/02-estrutura-pastas-384x310.png 384w, uploads/2013/12/02-estrutura-pastas-208x168.png 208w, uploads/2013/12/02-estrutura-pastas.png 784w" sizes="(max-width: 384px) 100vw, 384px" />
   
   <p class="wp-caption-text">
     Estrutura de pastas
@@ -75,7 +75,7 @@ No arquivo composer.json agora é dito que o autoloader deve reconhecer o namesp
 &nbsp;
 
 <div id="attachment_40044" style="width: 598px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40044 " alt="PHPUnit - Nova estrutura de pastas" src="http://tableless.com.br/uploads/2013/12/4-nova-estrutura-pastas-588x303.png" width="588" height="303" />
+  <img class="size-medium wp-image-40044 " alt="PHPUnit - Nova estrutura de pastas" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/4-nova-estrutura-pastas-588x303.png" width="588" height="303" />
   
   <p class="wp-caption-text">
     Nova estrutura de pastas
@@ -95,7 +95,7 @@ Começando com um teste simples, e na verdade este artigo somente mostrará o us
 Criado o arquivo _PHPNativeElementsTest.php_ dentro do diretório tests, siga o exemplo abaixo.
 
 <div id="attachment_40045" style="width: 383px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40045  " alt="PHPUnit - Estrutura inicial do primeiro teste" src="http://tableless.com.br/uploads/2013/12/5-estrutura-primeiro-teste-373x310.png" width="373" height="310" srcset="uploads/2013/12/5-estrutura-primeiro-teste-373x310.png 373w, uploads/2013/12/5-estrutura-primeiro-teste-202x168.png 202w, uploads/2013/12/5-estrutura-primeiro-teste.png 738w" sizes="(max-width: 373px) 100vw, 373px" />
+  <img class="size-medium wp-image-40045  " alt="PHPUnit - Estrutura inicial do primeiro teste" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/5-estrutura-primeiro-teste-373x310.png" width="373" height="310" srcset="uploads/2013/12/5-estrutura-primeiro-teste-373x310.png 373w, uploads/2013/12/5-estrutura-primeiro-teste-202x168.png 202w, uploads/2013/12/5-estrutura-primeiro-teste.png 738w" sizes="(max-width: 373px) 100vw, 373px" />
   
   <p class="wp-caption-text">
     Estrutura inicial do primeiro teste
@@ -125,7 +125,7 @@ Com isto uma tela de ajuda deve aparecer com todas as opções disponíveis para
 Ao rodarmos o comando acima a mensagem resultante deverá ser a de que não há testes disponíveis na classe testada.
 
 <div id="attachment_40050" style="width: 484px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40050  " alt="PHPUnit - Falta de testes" src="http://tableless.com.br/uploads/2013/12/6-falta-de-testes-474x310.png" width="474" height="310" srcset="uploads/2013/12/6-falta-de-testes-474x310.png 474w, uploads/2013/12/6-falta-de-testes-256x168.png 256w, uploads/2013/12/6-falta-de-testes.png 881w" sizes="(max-width: 474px) 100vw, 474px" />
+  <img class="size-medium wp-image-40050  " alt="PHPUnit - Falta de testes" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/6-falta-de-testes-474x310.png" width="474" height="310" srcset="uploads/2013/12/6-falta-de-testes-474x310.png 474w, uploads/2013/12/6-falta-de-testes-256x168.png 256w, uploads/2013/12/6-falta-de-testes.png 881w" sizes="(max-width: 474px) 100vw, 474px" />
   
   <p class="wp-caption-text">
     Informação de que ainda não há testes
@@ -143,7 +143,7 @@ Após o método _tearDown_ que já encontra-se na classe _PHPNativeElementsTest_
 Como estamos utilizando o Autoloader, em nossa classe de teste usaremos o namespace &#8220;_Application\__NativeElements\Math&#8221;_ para carregar a nossa classe que será testada a partir da classe de testes. Como atributo de nossa classe de teste adicionaremos &#8220;$math&#8221; e nele instanciaremos a classe _Application\__NativeElements\Math_ dentro do método _setUp_.
 
 <div id="attachment_40052" style="width: 434px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40052 " alt="PHPUnit - Nova estrutura da classe de teste" src="http://tableless.com.br/uploads/2013/12/7-nova-estrutura-classe-de-testes1-424x310.png" width="424" height="310" srcset="uploads/2013/12/7-nova-estrutura-classe-de-testes1-424x310.png 424w, uploads/2013/12/7-nova-estrutura-classe-de-testes1-230x168.png 230w, uploads/2013/12/7-nova-estrutura-classe-de-testes1.png 804w" sizes="(max-width: 424px) 100vw, 424px" />
+  <img class="size-medium wp-image-40052 " alt="PHPUnit - Nova estrutura da classe de teste" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/7-nova-estrutura-classe-de-testes1-424x310.png" width="424" height="310" srcset="uploads/2013/12/7-nova-estrutura-classe-de-testes1-424x310.png 424w, uploads/2013/12/7-nova-estrutura-classe-de-testes1-230x168.png 230w, uploads/2013/12/7-nova-estrutura-classe-de-testes1.png 804w" sizes="(max-width: 424px) 100vw, 424px" />
   
   <p class="wp-caption-text">
     Nova estrutura da classe de teste
@@ -155,7 +155,7 @@ Como estamos utilizando o Autoloader, em nossa classe de teste usaremos o namesp
 _Application\__NativeElements\Math_ ainda não existe. Este é o próximo passo, o código que fará o testes passar.
 
 <div id="attachment_40053" style="width: 498px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40053 " alt="PHPUnit - Quebra do teste" src="http://tableless.com.br/uploads/2013/12/8-quebra-do-teste-488x310.png" width="488" height="310" srcset="uploads/2013/12/8-quebra-do-teste-488x310.png 488w, uploads/2013/12/8-quebra-do-teste-264x168.png 264w, uploads/2013/12/8-quebra-do-teste.png 875w" sizes="(max-width: 488px) 100vw, 488px" />
+  <img class="size-medium wp-image-40053 " alt="PHPUnit - Quebra do teste" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/8-quebra-do-teste-488x310.png" width="488" height="310" srcset="uploads/2013/12/8-quebra-do-teste-488x310.png 488w, uploads/2013/12/8-quebra-do-teste-264x168.png 264w, uploads/2013/12/8-quebra-do-teste.png 875w" sizes="(max-width: 488px) 100vw, 488px" />
   
   <p class="wp-caption-text">
     Quebra do teste por não existir a classe testada
@@ -167,7 +167,7 @@ _Application\__NativeElements\Math_ ainda não existe. Este é o próximo passo,
 _Math.php_ dentro do diretório _Application/NativeElements_ e no mesmo a classe _Math_ definindo como namespace _Application\NativeElements_. Por hora nenhum método é criado nesta nova classe.
 
 <div id="attachment_40056" style="width: 514px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40056 " alt="PHPUnit - Classe de produção, nela os problemas criados nos testes serão solucionados" src="http://tableless.com.br/uploads/2013/12/9-class-504x310.png" width="504" height="310" srcset="uploads/2013/12/9-class-504x310.png 504w, uploads/2013/12/9-class-273x168.png 273w, uploads/2013/12/9-class.png 955w" sizes="(max-width: 504px) 100vw, 504px" />
+  <img class="size-medium wp-image-40056 " alt="PHPUnit - Classe de produção, nela os problemas criados nos testes serão solucionados" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/9-class-504x310.png" width="504" height="310" srcset="uploads/2013/12/9-class-504x310.png 504w, uploads/2013/12/9-class-273x168.png 273w, uploads/2013/12/9-class.png 955w" sizes="(max-width: 504px) 100vw, 504px" />
   
   <p class="wp-caption-text">
     Classe de produção, nela os problemas criados nos testes serão solucionados
@@ -179,7 +179,7 @@ _Math.php_ dentro do diretório _Application/NativeElements_ e no mesmo a classe
 _sum_ ).
 
 <div id="attachment_40057" style="width: 598px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40057 " alt="PHPUnit - Faltando método sum" src="http://tableless.com.br/uploads/2013/12/10-method-missing-588x289.png" width="588" height="289" srcset="uploads/2013/12/10-method-missing-588x289.png 588w, uploads/2013/12/10-method-missing-329x162.png 329w, uploads/2013/12/10-method-missing-628x310.png 628w, uploads/2013/12/10-method-missing.png 880w" sizes="(max-width: 588px) 100vw, 588px" />
+  <img class="size-medium wp-image-40057 " alt="PHPUnit - Faltando método sum" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/10-method-missing-588x289.png" width="588" height="289" srcset="uploads/2013/12/10-method-missing-588x289.png 588w, uploads/2013/12/10-method-missing-329x162.png 329w, uploads/2013/12/10-method-missing-628x310.png 628w, uploads/2013/12/10-method-missing.png 880w" sizes="(max-width: 588px) 100vw, 588px" />
   
   <p class="wp-caption-text">
     Faltando método sum
@@ -189,7 +189,7 @@ _sum_ ).
 <!-- P { margin-bottom: 0.08in; }A:link {  } -->Ao criar o método sum e sua lógica estando correta o teste atual passará, então passamos do estágio vermelho para o estágio verde. Como este exemplo é uma simples operação matemática muito provavelmente não será necessária uma refatoração. No entanto sendo um lógica mais complexa o ideal é que sempre comece testando pequenos passos, que são chamados de baby steps ou passos de bebê. Ao se deparar com uma situação complexa em que o resultado depende de N variáveis, trata-se sempre o meio mais simples e os testes passando passa-se a procurar solucionar uma nova condição para o resultado.
 
 <div id="attachment_40058" style="width: 598px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40058 " alt="PHPUnit - Método com a lógica necessária e primeiro teste passando" src="http://tableless.com.br/uploads/2013/12/11-pass-588x262.png" width="588" height="262" srcset="uploads/2013/12/11-pass-588x262.png 588w, uploads/2013/12/11-pass-329x146.png 329w, uploads/2013/12/11-pass-660x294.png 660w, uploads/2013/12/11-pass.png 1364w" sizes="(max-width: 588px) 100vw, 588px" />
+  <img class="size-medium wp-image-40058 " alt="PHPUnit - Método com a lógica necessária e primeiro teste passando" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/11-pass-588x262.png" width="588" height="262" srcset="uploads/2013/12/11-pass-588x262.png 588w, uploads/2013/12/11-pass-329x146.png 329w, uploads/2013/12/11-pass-660x294.png 660w, uploads/2013/12/11-pass.png 1364w" sizes="(max-width: 588px) 100vw, 588px" />
   
   <p class="wp-caption-text">
     Método com a lógica necessária e primeiro teste passando
@@ -199,7 +199,7 @@ _sum_ ).
 <!-- P { margin-bottom: 0.08in; }A:link {  } -->Agora basta adicionar os asserts para as demais operações matemáticas.
 
 <div id="attachment_40059" style="width: 598px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40059 " alt="PHPUnit - Outros métodos de operações matemáticas simples" src="http://tableless.com.br/uploads/2013/12/12-other-methods-588x272.png" width="588" height="272" srcset="uploads/2013/12/12-other-methods-588x272.png 588w, uploads/2013/12/12-other-methods-329x152.png 329w, uploads/2013/12/12-other-methods-660x305.png 660w, uploads/2013/12/12-other-methods.png 1358w" sizes="(max-width: 588px) 100vw, 588px" />
+  <img class="size-medium wp-image-40059 " alt="PHPUnit - Outros métodos de operações matemáticas simples" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/12-other-methods-588x272.png" width="588" height="272" srcset="uploads/2013/12/12-other-methods-588x272.png 588w, uploads/2013/12/12-other-methods-329x152.png 329w, uploads/2013/12/12-other-methods-660x305.png 660w, uploads/2013/12/12-other-methods.png 1358w" sizes="(max-width: 588px) 100vw, 588px" />
   
   <p class="wp-caption-text">
     Outros métodos de operações matemáticas simples
@@ -211,7 +211,7 @@ _sum_ ).
 > Como pode ser percebido, como terceiro parâmetro do assert foi adicionada uma mensagem opcional, isso para que ao dar erro da asserção tal mensagem seja exibida, conforme a imagem seguinte.
 
 <div id="attachment_40060" style="width: 507px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40060 " alt="PHPUnit - Mensagem de erro de asserção" src="http://tableless.com.br/uploads/2013/12/13-message-497x310.png" width="497" height="310" srcset="uploads/2013/12/13-message-497x310.png 497w, uploads/2013/12/13-message-269x168.png 269w, uploads/2013/12/13-message.png 809w" sizes="(max-width: 497px) 100vw, 497px" />
+  <img class="size-medium wp-image-40060 " alt="PHPUnit - Mensagem de erro de asserção" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/13-message-497x310.png" width="497" height="310" srcset="uploads/2013/12/13-message-497x310.png 497w, uploads/2013/12/13-message-269x168.png 269w, uploads/2013/12/13-message.png 809w" sizes="(max-width: 497px) 100vw, 497px" />
   
   <p class="wp-caption-text">
     Mensagem de erro de asserção
@@ -229,7 +229,7 @@ _Math_, dá pra perceber que há muita repetição pois todos os métodos recebe
 Frenta à necessidade de refatoração novamente começamos a partir do teste e ele fica como na imagem a seguir:
 
 <div id="attachment_40061" style="width: 498px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40061 " alt="PHPUnit - Alterações na classe de teste" src="http://tableless.com.br/uploads/2013/12/14-test-refactor-488x310.png" width="488" height="310" srcset="uploads/2013/12/14-test-refactor-488x310.png 488w, uploads/2013/12/14-test-refactor-264x168.png 264w, uploads/2013/12/14-test-refactor.png 899w" sizes="(max-width: 488px) 100vw, 488px" />
+  <img class="size-medium wp-image-40061 " alt="PHPUnit - Alterações na classe de teste" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/14-test-refactor-488x310.png" width="488" height="310" srcset="uploads/2013/12/14-test-refactor-488x310.png 488w, uploads/2013/12/14-test-refactor-264x168.png 264w, uploads/2013/12/14-test-refactor.png 899w" sizes="(max-width: 488px) 100vw, 488px" />
   
   <p class="wp-caption-text">
     Alterações na classe de teste
@@ -239,7 +239,7 @@ Frenta à necessidade de refatoração novamente começamos a partir do teste e 
 <!-- P { margin-bottom: 0.08in; }A:link {  } -->Com a refatoração nossa classe Math é modificada e criada uma interface:
 
 <div id="attachment_40063" style="width: 598px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40063 " alt="PHPUnit - refatoração da classe Math" src="http://tableless.com.br/uploads/2013/12/15-refactor-588x284.png" width="588" height="284" srcset="uploads/2013/12/15-refactor-588x284.png 588w, uploads/2013/12/15-refactor-329x159.png 329w, uploads/2013/12/15-refactor-640x310.png 640w, uploads/2013/12/15-refactor.png 1354w" sizes="(max-width: 588px) 100vw, 588px" />
+  <img class="size-medium wp-image-40063 " alt="PHPUnit - refatoração da classe Math" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/15-refactor-588x284.png" width="588" height="284" srcset="uploads/2013/12/15-refactor-588x284.png 588w, uploads/2013/12/15-refactor-329x159.png 329w, uploads/2013/12/15-refactor-640x310.png 640w, uploads/2013/12/15-refactor.png 1354w" sizes="(max-width: 588px) 100vw, 588px" />
   
   <p class="wp-caption-text">
     Refatoração da classe Math
@@ -249,7 +249,7 @@ Frenta à necessidade de refatoração novamente começamos a partir do teste e 
 <!-- P { margin-bottom: 0.08in; }A:link {  } -->E agora rodando novamente o teste após a refatoração, simplesmente continuamos com tudo verde, ou seja, alteramos muito a forma de implementação de uma classe e ela continua executando seu papel como deve.
 
 <div id="attachment_40064" style="width: 587px" class="wp-caption aligncenter">
-  <img class="size-medium wp-image-40064 " alt="PHPUnit - Teste passando após refatoração" src="http://tableless.com.br/uploads/2013/12/16-refactor-pass-577x310.png" width="577" height="310" srcset="uploads/2013/12/16-refactor-pass-577x310.png 577w, uploads/2013/12/16-refactor-pass-313x168.png 313w, uploads/2013/12/16-refactor-pass.png 818w" sizes="(max-width: 577px) 100vw, 577px" />
+  <img class="size-medium wp-image-40064 " alt="PHPUnit - Teste passando após refatoração" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/16-refactor-pass-577x310.png" width="577" height="310" srcset="uploads/2013/12/16-refactor-pass-577x310.png 577w, uploads/2013/12/16-refactor-pass-313x168.png 313w, uploads/2013/12/16-refactor-pass.png 818w" sizes="(max-width: 577px) 100vw, 577px" />
   
   <p class="wp-caption-text">
     Teste passando após refatoração

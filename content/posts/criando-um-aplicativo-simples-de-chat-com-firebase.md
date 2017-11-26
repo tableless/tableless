@@ -117,7 +117,7 @@ Com o que foi construído até agora, já conseguimos que as mensagens cheguem a
 
 Nessa página é possível ver uma representação gráfica da fila de objetos que está sendo criada quando você envia as mensagens, como na imagem a seguir: 
 
-<img class="aligncenter size-full wp-image-43526" src="http://tableless.com.br/uploads/2014/07/Captura-de-Tela-2014-07-16-às-00.52.241.png" alt="Captura de Tela 2014-07-16 às 00.52.24" srcset="uploads/2014/07/Captura-de-Tela-2014-07-16-às-00.52.241.png 1344w, uploads/2014/07/Captura-de-Tela-2014-07-16-às-00.52.241-198x139.png 198w, uploads/2014/07/Captura-de-Tela-2014-07-16-às-00.52.241-400x279.png 400w" sizes="(max-width: 1344px) 100vw, 1344px" />
+<img class="aligncenter size-full wp-image-43526" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/07/Captura-de-Tela-2014-07-16-às-00.52.241.png" alt="Captura de Tela 2014-07-16 às 00.52.24" srcset="uploads/2014/07/Captura-de-Tela-2014-07-16-às-00.52.241.png 1344w, uploads/2014/07/Captura-de-Tela-2014-07-16-às-00.52.241-198x139.png 198w, uploads/2014/07/Captura-de-Tela-2014-07-16-às-00.52.241-400x279.png 400w" sizes="(max-width: 1344px) 100vw, 1344px" />
 
 Entretanto, ainda precisamos mostrar essas mensagens para todos usuários conectados ao chat em seus navegadores. 
 

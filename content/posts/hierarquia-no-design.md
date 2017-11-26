@@ -24,7 +24,7 @@ De acordo com as designers Ellen Lupton e Jennifer Cole Phillips, autoras do liv
 
 Abaixo alguns exemplos onde a hierarquia é aplicada:
 
-<img class="size-full wp-image-54066" src="http://tableless.com.br/uploads/2016/05/Parcel.png" alt="Parcel" width="1351" height="642" />
+<img class="size-full wp-image-54066" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/05/Parcel.png" alt="Parcel" width="1351" height="642" />
 
 &nbsp;
 
@@ -32,7 +32,7 @@ No site de entregas [Parcel][1], a home foi pensada e construída de forma que a
 
 &nbsp;
 
-<img class="size-full wp-image-54067" src="http://tableless.com.br/uploads/2016/05/webField.png" alt="webField" width="1348" height="642" />
+<img class="size-full wp-image-54067" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/05/webField.png" alt="webField" width="1348" height="642" />
 
 &nbsp;
 

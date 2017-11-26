@@ -573,7 +573,7 @@ Para vermos a mágica acontecer, só precisamos, atualizar nosso banco, para iss
 
 Pronto! Nosso upload de imagem, está pronto, veja a imagem:
 
-[<img src="http://tableless.com.br/uploads/2015/04/01.png" alt="Botão de upload no formulário no symfony" width="750" height="403" class="alignnone size-full wp-image-48201" />][1]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/01.png" alt="Botão de upload no formulário no symfony" width="750" height="403" class="alignnone size-full wp-image-48201" />][1]
 
 ## Configurando as views
 
@@ -602,7 +602,7 @@ Vamos fazer os testes, criando um novo post, e inserindo uma imagem.
   
 Observe a imagem na pasta web/uploads/cover.
 
-[<img src="http://tableless.com.br/uploads/2015/04/02.png" alt="Pasta de upload no symfony" width="750" height="403" class="alignnone size-full wp-image-48205" />][2]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/02.png" alt="Pasta de upload no symfony" width="750" height="403" class="alignnone size-full wp-image-48205" />][2]
 
 ## Conclusão
 
@@ -624,5 +624,5 @@ Links dos tutoriais anteriores:
 
 O projeto encontra-se no <a href="https://github.com/candidosouza/tableless" title="GitHub do projeto" target="_blank">GitHub</a>!
 
- [1]: http://tableless.com.br/uploads/2015/04/01.png
- [2]: http://tableless.com.br/uploads/2015/04/02.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/01.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/02.png

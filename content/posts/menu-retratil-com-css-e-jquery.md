@@ -62,11 +62,11 @@ Aqui já começamos a ter diferenças de um menu para o outro. Trabalharemos com
 
 Hoje vamos desenvolver dois tipos de menus horizontais diferentes. Um empurrará todo o site para baixo ao abrir ([demo][3]).
 
-<img class="alignnone size-full wp-image-38487" alt="nav-1" src="http://tableless.com.br/uploads/2013/08/nav-1.jpg" width="660" height="322" srcset="uploads/2013/08/nav-1.jpg 660w, uploads/2013/08/nav-1-329x160.jpg 329w, uploads/2013/08/nav-1-588x286.jpg 588w, uploads/2013/08/nav-1-635x310.jpg 635w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38487" alt="nav-1" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/nav-1.jpg" width="660" height="322" srcset="uploads/2013/08/nav-1.jpg 660w, uploads/2013/08/nav-1-329x160.jpg 329w, uploads/2013/08/nav-1-588x286.jpg 588w, uploads/2013/08/nav-1-635x310.jpg 635w" sizes="(max-width: 660px) 100vw, 660px" />
 
 E o outro, se abrirá sobre o site ([demo][4]).
 
-<img class="alignnone size-full wp-image-38488" alt="nav-2" src="http://tableless.com.br/uploads/2013/08/nav-2.jpg" width="660" height="322" srcset="uploads/2013/08/nav-2.jpg 660w, uploads/2013/08/nav-2-329x160.jpg 329w, uploads/2013/08/nav-2-588x286.jpg 588w, uploads/2013/08/nav-2-635x310.jpg 635w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38488" alt="nav-2" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/nav-2.jpg" width="660" height="322" srcset="uploads/2013/08/nav-2.jpg 660w, uploads/2013/08/nav-2-329x160.jpg 329w, uploads/2013/08/nav-2-588x286.jpg 588w, uploads/2013/08/nav-2-635x310.jpg 635w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Note que entre os dois htmls existe apenas uma classe diferente: a div &#8220;drop&#8221;. Esta divisão extra está apenas no segundo exemplo no menu que passa por cima do conteúdo do site. Ela terá uma altura fixa, que será a altura do meu menu quando fechado. Quando ele se abrir, a div que sustenta nosso menu continuará do mesmo tamanho, fazendo com que os demais elementos sobreponham o resto do site.
 
@@ -175,17 +175,17 @@ Uma maneira interessante de testar o menu funcionando antes de aplicar o JavaScr
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38499" alt="menu-lateral" src="http://tableless.com.br/uploads/2013/08/menu-lateral.jpg" width="660" height="322" srcset="uploads/2013/08/menu-lateral.jpg 660w, uploads/2013/08/menu-lateral-329x160.jpg 329w, uploads/2013/08/menu-lateral-588x286.jpg 588w, uploads/2013/08/menu-lateral-635x310.jpg 635w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38499" alt="menu-lateral" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/menu-lateral.jpg" width="660" height="322" srcset="uploads/2013/08/menu-lateral.jpg 660w, uploads/2013/08/menu-lateral-329x160.jpg 329w, uploads/2013/08/menu-lateral-588x286.jpg 588w, uploads/2013/08/menu-lateral-635x310.jpg 635w" sizes="(max-width: 660px) 100vw, 660px" />
 
 São dois os modelos de menu vertical:
   
 Um abrirá a partir da esquerda empurrando todo o site para a direita ao abrir ([demo][5]).
 
-<img class="alignnone size-full wp-image-38489" alt="nav-3" src="http://tableless.com.br/uploads/2013/08/nav-3.jpg" width="660" height="322" srcset="uploads/2013/08/nav-3.jpg 660w, uploads/2013/08/nav-3-329x160.jpg 329w, uploads/2013/08/nav-3-588x286.jpg 588w, uploads/2013/08/nav-3-635x310.jpg 635w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38489" alt="nav-3" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/nav-3.jpg" width="660" height="322" srcset="uploads/2013/08/nav-3.jpg 660w, uploads/2013/08/nav-3-329x160.jpg 329w, uploads/2013/08/nav-3-588x286.jpg 588w, uploads/2013/08/nav-3-635x310.jpg 635w" sizes="(max-width: 660px) 100vw, 660px" />
 
 E o outro, se abrirá sobre o conteúdo ([demo][6]).
 
-<img class="alignnone size-full wp-image-38490" alt="nav-4" src="http://tableless.com.br/uploads/2013/08/nav-4.jpg" width="660" height="322" srcset="uploads/2013/08/nav-4.jpg 660w, uploads/2013/08/nav-4-329x160.jpg 329w, uploads/2013/08/nav-4-588x286.jpg 588w, uploads/2013/08/nav-4-635x310.jpg 635w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38490" alt="nav-4" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/nav-4.jpg" width="660" height="322" srcset="uploads/2013/08/nav-4.jpg 660w, uploads/2013/08/nav-4-329x160.jpg 329w, uploads/2013/08/nav-4-588x286.jpg 588w, uploads/2013/08/nav-4-635x310.jpg 635w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Primeiro, vamos ao CSS do menu quando o viewport for maior que 800px. Neste exemplo, deixei o menu em um background escuro e ocupando 20% do viewport. Assim, o conteúdo, ocupará os 80% restantes. Como os itens da minha lista não ficarão mais uns aos lados dos outros, neste caso eu a mantive o display &#8220;block&#8221; desde o CSS desktop. E, também deixei o gatilho com &#8220;display:none&#8221; e a minha imagem com 80% de largura.
 

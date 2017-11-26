@@ -135,6 +135,6 @@ Enfim, estes são apenas exemplos simples da liberdade que temos quando compreen
 
 E quanto a performance? Nunca tema usar a _Bracket Notation_: ela é mais performática. Veja em <a href="http://jsperf.com/filipe-property-accessors" target="_blank">http://jsperf.com/filipe-property-accessors</a>.
 
-[<img class="alignnone wp-image-50898 size-full" src="http://tableless.com.br/uploads/2015/08/property.jpg" alt="Comparação de performance usando brackets notation" width="683" height="438" />][1]
+[<img class="alignnone wp-image-50898 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/property.jpg" alt="Comparação de performance usando brackets notation" width="683" height="438" />][1]
 
- [1]: http://tableless.com.br/uploads/2015/08/property.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/property.jpg

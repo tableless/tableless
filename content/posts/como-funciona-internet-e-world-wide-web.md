@@ -24,7 +24,7 @@ Muito sucinto, não? Então vamos ver com um pouco mais de detalhes&#8230;
 
 Antes de falarmos sobre a Web, precisamos conhecer um pouco sobre **rede de computadores**. Uma **rede de computadores** é a interconexão entre computadores que permite a **comunicação de dados** entre si. Esta comunicação pode ser feita através de **cabos** ou **sem fios**. Para entender melhor como os computadores se comunicam entre si, utilizarei como exemplo o _acesso a uma página da web_.
 
-<img class="alignnone wp-image-51929 size-full" title="Redes de computadores" src="http://tableless.com.br/uploads/2015/10/computer-network.png" alt="Redes de computadores" width="760" height="400" />
+<img class="alignnone wp-image-51929 size-full" title="Redes de computadores" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/computer-network.png" alt="Redes de computadores" width="760" height="400" />
 
 Suponha que queira acessar o site do **<a href="http://www.pensandonaweb.com.br" target="_blank">Pensando na Web</a>** para ler alguns posts interessantes sobre desenvolvimento web. Daí você abre o seu navegador predileto e digita `www.pensandonaweb.com.br` na barra de endereços e, passados poucos segundos, a página inicial do blog é exibida. Como esse processo todo, aparentemente simples, ocorre?
 
@@ -36,7 +36,7 @@ Acontece que os computadores possuem um endereço numérico único chamado **end
 
 Continuando com o exemplo anterior, vamos imaginar que o **cliente** de endereço IP `177.178.79.80` queira, através da porta `65000`, iniciar uma conexão com o **servidor** de endereço IP `185.186.87.88` na porta `80` para obter a página inicial do Pensando na Web.
 
-<img class="alignnone wp-image-51930 size-full" title="Modelo cliente-servidor" src="http://tableless.com.br/uploads/2015/10/client-server-model.png" alt="Modelo cliente-servidor" width="760" height="320" />
+<img class="alignnone wp-image-51930 size-full" title="Modelo cliente-servidor" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/client-server-model.png" alt="Modelo cliente-servidor" width="760" height="320" />
 
 Mas espere, como o cliente sabe o endereço IP e a porta no servidor que deve conectar para obter a página inicial do Pensando na Web se nada disso foi informado? Ou melhor, se só o que foi informado foi `www.pensandonaweb.com.br` na barra de endereços de seu navegador?
 
@@ -127,7 +127,7 @@ Transfer-Encoding: chunked
 
 Este processo de _requisição_ e _resposta_ por meio do protocolo HTTP acontece através da conexão estabelecida entre o _cliente_ e o _servidor_ por meio do protocolo TCP. As **mensagens** de requisição e resposta geradas pelo navegador e servidor web são quebradas em _pacotes_ e enviadas através da rede com toda a &#8220;infraestrutura&#8221; que o TCP oferece. Esta abordagem que os sites e aplicações web utilizam é conhecida como arquitetura **cliente-servidor**.
 
-[<img class="alignnone wp-image-51931 size-full" title="Arquitetura cliente-servidor" src="http://tableless.com.br/uploads/2015/10/client-server-approach.png" alt="Arquitetura cliente-servidor" width="760" height="560" />][1]
+[<img class="alignnone wp-image-51931 size-full" title="Arquitetura cliente-servidor" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/client-server-approach.png" alt="Arquitetura cliente-servidor" width="760" height="560" />][1]
 
 O HTTP tem se tornado um &#8220;idioma&#8221; amplamente falado. Outras aplicações, além de seu navegador e de servidores web, estão aprendendo a falar este idioma. Programas de linha de comando como o **curl** e o **wget** e a maior parte das linguagens de programação sabem falar o HTTP. Aqueles aplicativos marotos de listas de tarefas e redes sociais que você tem no seu _smartphone_ também utilizam o HTTP para se comunicar. Guarde este nome, que você irá ouvi-lo bastante caso decida seguir a vida de desenvolvedor web.
 
@@ -169,4 +169,4 @@ O entendimento do funcionamento da Internet e da World Wide Web é importante pa
 
 A sua compreensão sobre o assunto te ajudará no entendimento de outros conceitos relacionados ao desenvolvimento web e facilitará o seu caminho nesta jornada. Bons estudos! 😉
 
- [1]: http://tableless.com.br/uploads/2015/10/client-server-approach.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/client-server-approach.png

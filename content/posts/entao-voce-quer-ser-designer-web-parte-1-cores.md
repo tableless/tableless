@@ -35,7 +35,7 @@ Vamos às ferramentas:
 
 ### Color Palette Generator
 
-<img class="aligncenter wp-image-49263 size-full" src="http://tableless.com.br/uploads/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-color-palette-generator.png" alt="DeGraeve.com - Paleta de Cores para Designers Web " width="800" height="480" />
+<img class="aligncenter wp-image-49263 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-color-palette-generator.png" alt="DeGraeve.com - Paleta de Cores para Designers Web " width="800" height="480" />
 
 Uma excelente ferramenta online que tem uma função bastante útil quando o conceito central do seu projeto é uma fotografia. Imagine que você precisa criar a paleta de cores baseada nessa imagem. Normalmente você abriria a imagem no Photoshop e usaria o conta-gotas, selecionando algumas partes onde a cor fosse mais relevante, e criaria uma nova paleta com as cores desejadas. Isso seria mega trabalhoso, além do fato de confiar seu olho para decidir quais cores seriam as mais relevantes na imagem.
 
@@ -43,13 +43,13 @@ Com **<a href="http://www.degraeve.com/color-palette/" target="_blank">Color Pal
 
 ### Material Palette
 
-<img class="aligncenter wp-image-49265 size-full" src="http://tableless.com.br/uploads/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-material-palette.png" alt="material palette - Paleta de Cores para Designers Web " width="800" height="480" />
+<img class="aligncenter wp-image-49265 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-material-palette.png" alt="material palette - Paleta de Cores para Designers Web " width="800" height="480" />
 
 Seguindo a onda &#8220;_Flat Design_&#8220;, a **<a href="http://www.materialpalette.com/" target="_blank">Material Palete</a>** é uma ferramenta que certamente vem a calhar. Basta escolher duas cores, e ela simula interfaces &#8216;_mobile flat_&#8216;, além de sugerir combinações. Você pode alterar a combinação baseado em uma das cores e recomeçar o ciclo, que, uma vez definido, fica disponível para download nos formatos CSS, SASS, LESS, SVG, XML e PNG.
 
 ### Adobe Color CC
 
-<img class="aligncenter wp-image-49267 size-full" src="http://tableless.com.br/uploads/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-color-adobe.png" alt="Adobe Color CC - Paleta de Cores para Designers Web " width="800" height="480" />
+<img class="aligncenter wp-image-49267 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-color-adobe.png" alt="Adobe Color CC - Paleta de Cores para Designers Web " width="800" height="480" />
 
 Para quem tem um perfil na Adobe a dica é usar o **<a href="https://color.adobe.com/pt/" target="_blank">Adobe Color CC</a>**, ideal para fazer estudos de combinação de cores e salvar na nuvem. Você pode começar a paleta baseada em uma cor específica ou em uma imagem, fazendo inclusive ajustes online. A ferramenta indica a paleta de 5 cores que pode ser refinada conforme o gosto do freguês.
 
@@ -57,13 +57,13 @@ Além disso, há uma galeria de paletas com os temas públicos de outros usuár
 
 ### Paletton
 
-<a href="http://paletton.com/" target="_blank"><img class="aligncenter wp-image-49268 size-full" src="http://tableless.com.br/uploads/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-paletton.png" alt="Paletton - Paleta de Cores" width="800" height="480" /></a>
+<a href="http://paletton.com/" target="_blank"><img class="aligncenter wp-image-49268 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-paletton.png" alt="Paletton - Paleta de Cores" width="800" height="480" /></a>
 
 **[Paletton][1]** é uma ferramenta online no formato _Color Schemer_, onde selecionamos uma cor inicial, podendo ajustar infinitas combinações, sempre com as opções de variação monocromática, cor adjacente, tríade (três cores), tétrada (quatro cores), e sempre de forma editável. Uma vez decidida a paleta, basta fazer download nos formatos HTML, CSS, LESS, XML, entre outros.
 
 ### COLOURlovers
 
-<img class="aligncenter wp-image-49269 size-full" src="http://tableless.com.br/uploads/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-colour-lovers.png" alt="COLOURlovers - Paleta de Cores para Designers Web " width="800" height="480" />
+<img class="aligncenter wp-image-49269 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-colour-lovers.png" alt="COLOURlovers - Paleta de Cores para Designers Web " width="800" height="480" />
 
 Uma mistura de rede social e ferramenta, **<a href="http://www.colourlovers.com/" target="_blank">COLOURlovers</a>** é antes de mais nada um ótimo laboratório na hora de criar paletas de cores. A ferramenta também auxilia na criação de cores únicas, _patterns_, entre outros.
 
@@ -71,13 +71,13 @@ Comece a criar a paleta baseada numa cor única, que pode ser ajustada a qualqu
 
 ### Coolors
 
-<img class="aligncenter wp-image-49270 size-full" src="http://tableless.com.br/uploads/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-coolors.png" alt="Coolors - Paleta de Cores para Designers Web " width="800" height="480" />
+<img class="aligncenter wp-image-49270 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-coolors.png" alt="Coolors - Paleta de Cores para Designers Web " width="800" height="480" />
 
 Conheci esta a ferramenta recentemente e me apaixonei. **<a href="http://coolors.co/app" target="_blank">Coolors</a>** é simples e fácil de usar. É ideal para usuários mais exigentes que precisam ajustar não só a cor, mas também outros tipos de saída (tem até CMYK para impressos) e canais de cor. Você define uma cor e vai ajustando conforme a sua necessidade. Caso esteja de acordo com uma cor, basta fechar o cadeado e ajustar as outras até completar a paleta.
 
 O processo é manual, mas oferece um enorme controle para quem não deseja que um algorítimo decida sua composição. Para quem busca inspiração antes de meter a mão na massa, o site também oferece uma vasta galeria de paletas, com a possibilidade de exportação nos formatos PDF, PNG, SCSS e SVG. E se você for usuário dos serviços na nuvem da Adobe, há ainda a possibilidade de inserir diretamente no Illustrator e  Photoshop um Add-on por U$ 5,00. Uma pechincha.
 
-<img class="aligncenter size-full wp-image-49279" src="http://tableless.com.br/uploads/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-livro-jardim-secreto.png" alt="E aí, ficou com uma vontade incontrolável de sair colorindo tudo?" width="800" height="471" />
+<img class="aligncenter size-full wp-image-49279" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/thumb-entao-voce-quer-ser-designer-web-parte-1-cores-livro-jardim-secreto.png" alt="E aí, ficou com uma vontade incontrolável de sair colorindo tudo?" width="800" height="471" />
 
 **E aí, ficou com uma vontade incontrolável de sair colorindo tudo?**
 

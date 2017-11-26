@@ -30,13 +30,13 @@ A formação abrange conteúdos de HTML5, CSS3, JavaScript e JQuery e tudo isso 
 
 O diferencial da Quaddro em comparação aos cursos de curta duração é o cuidado com o ensino completo, reservando tempo para explicações, exemplos, práticas e desafios durante o treinamento.
 
-<img src="http://tableless.com.br/uploads/2012/10/HTML5-BANNER.png" alt="" title="HTML5-BANNER" width="700" height="288" class="alignnone size-full wp-image-7055" srcset="uploads/2012/10/HTML5-BANNER.png 952w, uploads/2012/10/HTML5-BANNER-300x123.png 300w" sizes="(max-width: 700px) 100vw, 700px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/10/HTML5-BANNER.png" alt="" title="HTML5-BANNER" width="700" height="288" class="alignnone size-full wp-image-7055" srcset="uploads/2012/10/HTML5-BANNER.png 952w, uploads/2012/10/HTML5-BANNER-300x123.png 300w" sizes="(max-width: 700px) 100vw, 700px" />
 
 Além das Formações HTML5 Mobile Expert e iOS Programmer a Quaddro lançou recentemente o primeiro treinamento regular de iBooks Author do Brasil, visando capacitar aqueles que desejam dominar a ferramenta de editoração eletrônica da Apple.
 
 O treinamento de HTML também prepara o aluno para criar widgets customizados para o iBooks Author, tornado o seu livro eletrônico mais interativo!
 
-<img src="http://tableless.com.br/uploads/2012/10/novaSalaQuaddro-300x225.jpg" alt="" title="novaSalaQuaddro" width="300" height="225" class="alignleft size-medium wp-image-7056" srcset="uploads/2012/10/novaSalaQuaddro-300x225.jpg 300w, uploads/2012/10/novaSalaQuaddro.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/10/novaSalaQuaddro-300x225.jpg" alt="" title="novaSalaQuaddro" width="300" height="225" class="alignleft size-medium wp-image-7056" srcset="uploads/2012/10/novaSalaQuaddro-300x225.jpg 300w, uploads/2012/10/novaSalaQuaddro.jpg 600w" sizes="(max-width: 300px) 100vw, 300px" />
 
 Com salas de aula novas e bem planejadas, compostas por um iMac i5 e um iPad 3 para cada aluno com conexão de internet por fibra ótica. As turmas tem até 9 alunos para garantir um bom rendimento e domínio dos conteúdos ministrados.
 

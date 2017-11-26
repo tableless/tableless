@@ -28,12 +28,12 @@ O Google acaba de lançar o [Google Chrome para Android][1]. Antes que você fiq
 
 Eles reimaginaram o uso de tabs para os mobiles, e nas tablets a utilização as tavs ficaram similares com o Chrome para Desktops. Temos também incluído nessa versão mobile o famoso &#8220;Porn mode&#8221; ou o Incognito, que é o modo de navegação privativa.
 
-[<img src="http://tableless.com.br/uploads/2012/02/Tablet-phone-YT-G-Maps.png" alt="" title="Tablet-phone-YT-G-Maps" width="720" height="346" class="alignnone size-full wp-image-5474" srcset="uploads/2012/02/Tablet-phone-YT-G-Maps.png 1249w, uploads/2012/02/Tablet-phone-YT-G-Maps-300x144.png 300w, uploads/2012/02/Tablet-phone-YT-G-Maps-1024x491.png 1024w" sizes="(max-width: 720px) 100vw, 720px" />][2]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/02/Tablet-phone-YT-G-Maps.png" alt="" title="Tablet-phone-YT-G-Maps" width="720" height="346" class="alignnone size-full wp-image-5474" srcset="uploads/2012/02/Tablet-phone-YT-G-Maps.png 1249w, uploads/2012/02/Tablet-phone-YT-G-Maps-300x144.png 300w, uploads/2012/02/Tablet-phone-YT-G-Maps-1024x491.png 1024w" sizes="(max-width: 720px) 100vw, 720px" />][2]
 
 O Google Chrome para Android ainda está em fase beta e você pode [baixá-lo no MarketPlace][3] mais próximo.
 
 Uma boa notícia para toda a comunidade de desenvolvimento web mobile. A briga fica acirrada entre os sistemas. O que é bom para nós e para os usuários. Agora oremos para que o IE10 para Windows Phone saia logo, o que eu duvido. Acho que ele somente virá com o Windows Phone 8. Entretanto temos um ótimo cenário quando falamos sobre browsers para mobiles.
 
  [1]: http://chrome.blogspot.com/2012/02/introducing-chrome-for-android.html
- [2]: http://tableless.com.br/uploads/2012/02/Tablet-phone-YT-G-Maps.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/02/Tablet-phone-YT-G-Maps.png
  [3]: https://market.android.com/details?id=com.android.chrome

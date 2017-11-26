@@ -61,7 +61,7 @@ padding:10px;
 
 A princípio, seu texto está assim:
 
-[<img class="alignnone size-medium wp-image-5549" src="http://tableless.com.br/uploads/2012/02/img1.png" alt="" width="300" height="151" />][1]
+[<img class="alignnone size-medium wp-image-5549" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/02/img1.png" alt="" width="300" height="151" />][1]
 
 Agora, vamos abrir um dos editores de imagem – Photoshop ou Fireworks – e criar uma **imagem PNG** com a nossa textura. Em meu teste inicial, eu utilizei uma imagem de textura pronta, mas o resultado não ficou como esperado, então aconselho colocar seus dotes de criação em atividade e realmente criar a textura.
   
@@ -69,7 +69,7 @@ Abaixo uma breve explicação da textura que criei no Fireworks.
 
 Utilizando o Fireworks, crie um novo documento (1900&#215;200), selecione a ferramenta pincel, depois aplique as seguintes características (barra de ferramentas inferior): **Tip size – 300 | Stroke Category – Pencil Pixel Soft | Texture – Line vertical e Burlap.**
 
-**[<img class="size-medium wp-image-5550 alignleft" style="margin-right: 10px" src="http://tableless.com.br/uploads/2012/02/img2.png" alt="" width="300" height="269" />][2]**
+**[<img class="size-medium wp-image-5550 alignleft" style="margin-right: 10px" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/02/img2.png" alt="" width="300" height="269" />][2]**
 
 Na hora de escolher a melhor forma de exportar sua imagem, o cuidado com o peso em kb continua valendo. Em se tratando de PNG, é muito fácil um simples arquivo ficar com mais de 500kb, por isso, em meus testes observei que exportando em PNG8 você vai ter um arquivo de 52kb com uma qualidade visual menor, mas que dependendo do estilo de textura é perfeitamente aplicável, ou exportando em PNG32 você preza por uma qualidade visual melhor, mas ao custo de um arquivo de 200kb. A escolha vai depender da velocidade de conexão ao qual você vai estabelecer para esta aplicação e do resultado visual que você julgar aceitável.
 
@@ -99,7 +99,7 @@ mask-image: url(text2.png);
   
 Reload no navegador&#8230; e voilá! Um texto com um preenchimento texturizado.
 
-[<img class="alignnone size-medium wp-image-5553" src="http://tableless.com.br/uploads/2012/02/img3.png" alt="" width="300" height="117" />][3]
+[<img class="alignnone size-medium wp-image-5553" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/02/img3.png" alt="" width="300" height="117" />][3]
 
 Daí para frente você pode incrementar utilizando <a title="Propriedade @font-face CSS – Fonts externas na web" href="http://tableless.com.br/font-face-fonts-externas-na-web/" target="_blank">font-face</a>, <a title="CSS3 – Sombras em textos e elementos" href="http://tableless.com.br/css3-sombras-em-textos-e-elementos/" target="_blank">text-shadow</a> ou outras texturas. Fica a critério da sua criatividade.
 
@@ -107,6 +107,6 @@ Até a próxima!
 
 😉
 
- [1]: http://tableless.com.br/uploads/2012/02/img1.png
- [2]: http://tableless.com.br/uploads/2012/02/img2.png
- [3]: http://tableless.com.br/uploads/2012/02/img3.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/02/img1.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/02/img2.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/02/img3.png

@@ -59,7 +59,7 @@ Veja bem. Não estou dizendo que a culpa do baixo retorno de um projeto é o des
 
 Aqui mesmo no Tableless já foi falado sobre <a href="http://tableless.com.br/7-dicas-de-otimizacao-de-conversao-em-landing-pages/" target="_blank">otimização de conversões<b> </b>através de landing pages</a>. Para quem não sabe, conversão é o resultado de um objetivo traçado, por exemplo, uma venda, um cadastro, entre outros. E _landing pages_ são páginas de aterrissagem construídas para direcionar tráfego com objetivo o dos usuários tomarem uma ação (cadastro em formulário, clique, etc.) e que traga um resultado esperado (captação de e-mails, vendas, etc).
 
-<img class="alignnone wp-image-52134 size-full" src="http://tableless.com.br/uploads/2015/11/iMac-Office.png" alt="Design não é apenas o que parece e o que se sente. Design é como funciona - Steve Jobs" width="620" height="413" />
+<img class="alignnone wp-image-52134 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/11/iMac-Office.png" alt="Design não é apenas o que parece e o que se sente. Design é como funciona - Steve Jobs" width="620" height="413" />
 
 Uma página de aterrissagem é inútil se o tráfego não estiver qualificado para o que é ofertado. Não adianta direcionar pessoas interessadas em carros para uma página que fala sobre bicicletas. _Landing pages_ não fazem mágicas e muito menos lavam a mente de ninguém. Elas estão lá para potencializar a decisão de compra do usuário interessado em um assunto e que vive postergando esta decisão para outro momento.
 
@@ -96,7 +96,7 @@ Veja este estudo:
 
 Durante um <a href="http://Teste de cores com botão na página inicial do site da Performable Durante um <a>teste</a> com um total de 2.000 visitas a equipe da Perfomable [http://blog.hubspot.com/blog/tabid/6307/bid/20566/The-Button-Color-A-B-Test-Red-Beats-Green.aspx] queria avaliar qual botão obteria mais cliques entre duas versões de páginas. A página original possuía um botão verde que correspondia também a cor verde usada também no padrão visual usado no logo da empresa. Foi definido na versão concorrente um botão vermelho, o resto do layout era totalmente igual. Sabe qual foi o resultado? 21% a mais pessoas clicaram no botão vermelho em relação ao botão verde." target="_blank">teste com um total de 2.000 visitas</a> a equipe da Perfomable queria avaliar qual botão obteria mais cliques entre duas versões de páginas. A página original possuía um botão verde que correspondia também a cor verde usada no padrão visual do logotipo da empresa. Foi definido na versão concorrente um botão vermelho, sendo o resto do layout totalmente igual. Sabe qual foi o resultado?
 
-21% a mais pessoas clicaram no botão vermelho em relação ao botão verde.<img class="alignnone wp-image-52133 size-full" src="http://tableless.com.br/uploads/2015/11/teste-ab-pratica.png" alt="Exemplo de Teste A/B" width="620" height="817" />
+21% a mais pessoas clicaram no botão vermelho em relação ao botão verde.<img class="alignnone wp-image-52133 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/11/teste-ab-pratica.png" alt="Exemplo de Teste A/B" width="620" height="817" />
 
 Muitos escolhem cores aleatórias para competir com a página da versão original, mas esta escolha de cores sem critérios, pode acarretar em muitos testes e necessidade de enviar mais tráfego.
 

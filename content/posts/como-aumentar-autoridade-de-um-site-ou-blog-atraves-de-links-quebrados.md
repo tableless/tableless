@@ -15,7 +15,7 @@ tags:
 ## Aumentar Autoridade do um site
 
 <div align="center">
-  <img class="size-full wp-image-55928 aligncenter" src="http://tableless.com.br/uploads/2016/08/autoridade2.jpg" alt="autoridade2" width="700" height="329" />
+  <img class="size-full wp-image-55928 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/08/autoridade2.jpg" alt="autoridade2" width="700" height="329" />
 </div>
 
 &nbsp;

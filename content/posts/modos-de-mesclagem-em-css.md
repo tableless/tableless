@@ -49,11 +49,11 @@ Quer conferir ao vivo? Preparei uma [demo completa destes modos de mesclagem no 
 
 Para o meu exemplo, estou considerando como base uma div sólida com a cor azul com o hexadecimal #00c0ff.
 
-<img class="alignnone size-full wp-image-38139" alt="base" src="http://tableless.com.br/uploads/2013/07/base.jpg" width="660" height="400" srcset="uploads/2013/07/base.jpg 660w, uploads/2013/07/base-277x168.jpg 277w, uploads/2013/07/base-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38139" alt="base" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/base.jpg" width="660" height="400" srcset="uploads/2013/07/base.jpg 660w, uploads/2013/07/base-277x168.jpg 277w, uploads/2013/07/base-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Por padrão, todos os elementos estão no modo de mesclagem &#8220;normal&#8221;, o que significa que ele não irá interagir com elementos das camadas inferiores. Na prática isto quer dizer que o visual é o referente a cor de mesclagem.
 
-<img class="alignnone size-full wp-image-38151" alt="normal" src="http://tableless.com.br/uploads/2013/07/normal.jpg" width="660" height="400" srcset="uploads/2013/07/normal.jpg 660w, uploads/2013/07/normal-277x168.jpg 277w, uploads/2013/07/normal-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38151" alt="normal" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/normal.jpg" width="660" height="400" srcset="uploads/2013/07/normal.jpg 660w, uploads/2013/07/normal-277x168.jpg 277w, uploads/2013/07/normal-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Para aplicar um modo de mesclagem a sintaxe em CSS é bem simples.
 
@@ -67,7 +67,7 @@ Infelizmente não foram todos os modos do Photoshop que foram introduzidos no CS
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38150" alt="multiply" src="http://tableless.com.br/uploads/2013/07/multiply.jpg" width="660" height="400" srcset="uploads/2013/07/multiply.jpg 660w, uploads/2013/07/multiply-277x168.jpg 277w, uploads/2013/07/multiply-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38150" alt="multiply" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/multiply.jpg" width="660" height="400" srcset="uploads/2013/07/multiply.jpg 660w, uploads/2013/07/multiply-277x168.jpg 277w, uploads/2013/07/multiply-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: multiply; blend-mode: multiply; }</pre>
 
@@ -77,7 +77,7 @@ Este parâmetro multiplica a cor base pela cor de mesclagem. Imagine que você e
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38154" alt="screen" src="http://tableless.com.br/uploads/2013/07/screen.jpg" width="660" height="400" srcset="uploads/2013/07/screen.jpg 660w, uploads/2013/07/screen-277x168.jpg 277w, uploads/2013/07/screen-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38154" alt="screen" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/screen.jpg" width="660" height="400" srcset="uploads/2013/07/screen.jpg 660w, uploads/2013/07/screen-277x168.jpg 277w, uploads/2013/07/screen-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: screen; blend-mode: screen; }</pre>
 
@@ -87,7 +87,7 @@ Você pode pensar no screen como o contrário do multiply. Este parâmetro multi
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38152" alt="overlay" src="http://tableless.com.br/uploads/2013/07/overlay.jpg" width="660" height="400" srcset="uploads/2013/07/overlay.jpg 660w, uploads/2013/07/overlay-277x168.jpg 277w, uploads/2013/07/overlay-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38152" alt="overlay" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/overlay.jpg" width="660" height="400" srcset="uploads/2013/07/overlay.jpg 660w, uploads/2013/07/overlay-277x168.jpg 277w, uploads/2013/07/overlay-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: overlay; blend-mode: overlay; }</pre>
 
@@ -97,7 +97,7 @@ Reticula as cores. A cor de base não é substituída, clareada ou escurecida, m
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38143" alt="darken" src="http://tableless.com.br/uploads/2013/07/darken.jpg" width="660" height="400" srcset="uploads/2013/07/darken.jpg 660w, uploads/2013/07/darken-277x168.jpg 277w, uploads/2013/07/darken-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38143" alt="darken" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/darken.jpg" width="660" height="400" srcset="uploads/2013/07/darken.jpg 660w, uploads/2013/07/darken-277x168.jpg 277w, uploads/2013/07/darken-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: darken; blend-mode: darken; }</pre>
 
@@ -107,7 +107,7 @@ Examina as cores dos elementos sobrepostos e seleciona a cor mais escura como a 
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38148" alt="lighten" src="http://tableless.com.br/uploads/2013/07/lighten.jpg" width="660" height="400" srcset="uploads/2013/07/lighten.jpg 660w, uploads/2013/07/lighten-277x168.jpg 277w, uploads/2013/07/lighten-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38148" alt="lighten" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/lighten.jpg" width="660" height="400" srcset="uploads/2013/07/lighten.jpg 660w, uploads/2013/07/lighten-277x168.jpg 277w, uploads/2013/07/lighten-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: lighten; blend-mode: lighten; }</pre>
 
@@ -117,7 +117,7 @@ O oposto do Darken. Examina os elementos sobrepostos e o resultante é a tonalid
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38141" alt="color-dodge" src="http://tableless.com.br/uploads/2013/07/color-dodge.jpg" width="660" height="400" srcset="uploads/2013/07/color-dodge.jpg 660w, uploads/2013/07/color-dodge-277x168.jpg 277w, uploads/2013/07/color-dodge-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38141" alt="color-dodge" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/color-dodge.jpg" width="660" height="400" srcset="uploads/2013/07/color-dodge.jpg 660w, uploads/2013/07/color-dodge-277x168.jpg 277w, uploads/2013/07/color-dodge-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: color-dodge; blend-mode: color-dodge; }</pre>
 
@@ -127,7 +127,7 @@ Clareia a cor de base para refletir a cor de mesclagem, diminuindo o contraste e
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38140" alt="color-burn" src="http://tableless.com.br/uploads/2013/07/color-burn.jpg" width="660" height="400" srcset="uploads/2013/07/color-burn.jpg 660w, uploads/2013/07/color-burn-277x168.jpg 277w, uploads/2013/07/color-burn-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38140" alt="color-burn" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/color-burn.jpg" width="660" height="400" srcset="uploads/2013/07/color-burn.jpg 660w, uploads/2013/07/color-burn-277x168.jpg 277w, uploads/2013/07/color-burn-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: color-burn; blend-mode: color-burn; }</pre>
 
@@ -137,7 +137,7 @@ Como o nome indica, faz o contrário da subexposição de cor. Este parâmetro e
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38146" alt="hard-light" src="http://tableless.com.br/uploads/2013/07/hard-light.jpg" width="660" height="400" srcset="uploads/2013/07/hard-light.jpg 660w, uploads/2013/07/hard-light-277x168.jpg 277w, uploads/2013/07/hard-light-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38146" alt="hard-light" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/hard-light.jpg" width="660" height="400" srcset="uploads/2013/07/hard-light.jpg 660w, uploads/2013/07/hard-light-277x168.jpg 277w, uploads/2013/07/hard-light-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: hard-light; blend-mode: hard-light; }</pre>
 
@@ -147,7 +147,7 @@ O efeito Hard-Light é semelhante a iluminar o elemento com uma luz direta. Se a
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38155" alt="soft-light" src="http://tableless.com.br/uploads/2013/07/soft-light.jpg" width="660" height="400" srcset="uploads/2013/07/soft-light.jpg 660w, uploads/2013/07/soft-light-277x168.jpg 277w, uploads/2013/07/soft-light-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38155" alt="soft-light" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/soft-light.jpg" width="660" height="400" srcset="uploads/2013/07/soft-light.jpg 660w, uploads/2013/07/soft-light-277x168.jpg 277w, uploads/2013/07/soft-light-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: soft-light; blend-mode: soft-light; }</pre>
 
@@ -157,7 +157,7 @@ O efeito Hard-Light é semelhante a iluminar o elemento com uma luz direta. Se a
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38144" alt="difference" src="http://tableless.com.br/uploads/2013/07/difference.jpg" width="660" height="400" srcset="uploads/2013/07/difference.jpg 660w, uploads/2013/07/difference-277x168.jpg 277w, uploads/2013/07/difference-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38144" alt="difference" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/difference.jpg" width="660" height="400" srcset="uploads/2013/07/difference.jpg 660w, uploads/2013/07/difference-277x168.jpg 277w, uploads/2013/07/difference-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: difference; blend-mode: difference; }</pre>
 
@@ -167,7 +167,7 @@ Retira os pigmentos da cor do canal que tiver mais brilho e subtrai pelo outro. 
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38145" alt="exclusion" src="http://tableless.com.br/uploads/2013/07/exclusion.jpg" width="660" height="400" srcset="uploads/2013/07/exclusion.jpg 660w, uploads/2013/07/exclusion-277x168.jpg 277w, uploads/2013/07/exclusion-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38145" alt="exclusion" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/exclusion.jpg" width="660" height="400" srcset="uploads/2013/07/exclusion.jpg 660w, uploads/2013/07/exclusion-277x168.jpg 277w, uploads/2013/07/exclusion-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: exclusion; blend-mode: exclusion; }</pre>
 
@@ -177,7 +177,7 @@ Funciona de maneira semelhante ao modo de mesclagem Difference, mas com menor co
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38153" alt="saturation" src="http://tableless.com.br/uploads/2013/07/saturation.jpg" width="660" height="400" srcset="uploads/2013/07/saturation.jpg 660w, uploads/2013/07/saturation-277x168.jpg 277w, uploads/2013/07/saturation-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38153" alt="saturation" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/saturation.jpg" width="660" height="400" srcset="uploads/2013/07/saturation.jpg 660w, uploads/2013/07/saturation-277x168.jpg 277w, uploads/2013/07/saturation-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: saturation; blend-mode: saturation; }</pre>
 
@@ -187,7 +187,7 @@ A cor resultante possuirá o valor de matiz e luminosidade da base, com a satura
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38142" alt="color" src="http://tableless.com.br/uploads/2013/07/color.jpg" width="660" height="400" srcset="uploads/2013/07/color.jpg 660w, uploads/2013/07/color-277x168.jpg 277w, uploads/2013/07/color-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38142" alt="color" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/color.jpg" width="660" height="400" srcset="uploads/2013/07/color.jpg 660w, uploads/2013/07/color-277x168.jpg 277w, uploads/2013/07/color-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: color; blend-mode: color; }</pre>
 
@@ -197,7 +197,7 @@ Preserva os níveis de luminosidade da cor base, mesclando com a matiz e a satur
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38149" alt="luminosity" src="http://tableless.com.br/uploads/2013/07/luminosity.jpg" width="660" height="400" srcset="uploads/2013/07/luminosity.jpg 660w, uploads/2013/07/luminosity-277x168.jpg 277w, uploads/2013/07/luminosity-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38149" alt="luminosity" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/luminosity.jpg" width="660" height="400" srcset="uploads/2013/07/luminosity.jpg 660w, uploads/2013/07/luminosity-277x168.jpg 277w, uploads/2013/07/luminosity-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: luminosity; blend-mode: luminosity; }</pre>
 
@@ -207,7 +207,7 @@ A cor resultante possui a luminosidade da cor de mesclagem com a matiz e satura�
 
 &nbsp;
 
-<img class="alignnone size-full wp-image-38147" alt="hue" src="http://tableless.com.br/uploads/2013/07/hue.jpg" width="660" height="400" srcset="uploads/2013/07/hue.jpg 660w, uploads/2013/07/hue-277x168.jpg 277w, uploads/2013/07/hue-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38147" alt="hue" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/hue.jpg" width="660" height="400" srcset="uploads/2013/07/hue.jpg 660w, uploads/2013/07/hue-277x168.jpg 277w, uploads/2013/07/hue-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 <pre class="lang-css">* { -webkit-blend-mode: hue; blend-mode: hue; }</pre>
 

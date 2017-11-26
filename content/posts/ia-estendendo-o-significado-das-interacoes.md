@@ -157,7 +157,7 @@ Portanto, mesmo que alguns elementos fiquem redundantes, é interessante você s
 
 Aqui você marca os estados ou as propriedades de cada elemento. É muito simples também. Por exemplo, suponha que você tenha um collapse com o código abaixo:
 
-<img src="http://tableless.com.br/uploads/2013/11/Screen-Shot-2013-11-18-at-11.36.46-AM.png" alt="Screen Shot 2013-11-18 at 11.36.46 AM" width="857" height="263" class="alignnone size-full wp-image-39521" srcset="uploads/2013/11/Screen-Shot-2013-11-18-at-11.36.46-AM.png 857w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.36.46-AM-329x100.png 329w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.36.46-AM-588x180.png 588w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.36.46-AM-660x202.png 660w" sizes="(max-width: 857px) 100vw, 857px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/Screen-Shot-2013-11-18-at-11.36.46-AM.png" alt="Screen Shot 2013-11-18 at 11.36.46 AM" width="857" height="263" class="alignnone size-full wp-image-39521" srcset="uploads/2013/11/Screen-Shot-2013-11-18-at-11.36.46-AM.png 857w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.36.46-AM-329x100.png 329w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.36.46-AM-588x180.png 588w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.36.46-AM-660x202.png 660w" sizes="(max-width: 857px) 100vw, 857px" />
 
 Quando o collapse abre, o código pode ficar assim:
 
@@ -175,7 +175,7 @@ Note que o atributo `aria-expanded="true"` indica que o collapse está aberto. Q
 
 Há também o caso de algum elemento que controle uma modal ou tenha um submenu. Veja como é simples:
 
-<img src="http://tableless.com.br/uploads/2013/11/Screen-Shot-2013-11-18-at-11.40.54-AM.png" alt="Screen Shot 2013-11-18 at 11.40.54 AM" width="384" height="383" class="alignnone size-full wp-image-39522" srcset="uploads/2013/11/Screen-Shot-2013-11-18-at-11.40.54-AM.png 384w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.40.54-AM-168x168.png 168w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.40.54-AM-310x310.png 310w" sizes="(max-width: 384px) 100vw, 384px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/Screen-Shot-2013-11-18-at-11.40.54-AM.png" alt="Screen Shot 2013-11-18 at 11.40.54 AM" width="384" height="383" class="alignnone size-full wp-image-39522" srcset="uploads/2013/11/Screen-Shot-2013-11-18-at-11.40.54-AM.png 384w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.40.54-AM-168x168.png 168w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.40.54-AM-310x310.png 310w" sizes="(max-width: 384px) 100vw, 384px" />
 
 <pre class="lang-html">&lt;ul&gt;
   &lt;li aria-haspopup="true"&gt;
@@ -194,7 +194,7 @@ Note o atributo `aria-haspopup="true"` que indica que aquele LI controla um subm
 
 Ou, suponha que você tenha um botão de enviar. Essa ação precisa de uma descrição explicativa. Como o exemplo abaixo:
 
-<img src="http://tableless.com.br/uploads/2013/11/Screen-Shot-2013-11-18-at-11.42.53-AM.png" alt="Screen Shot 2013-11-18 at 11.42.53 AM" width="648" height="141" class="alignnone size-full wp-image-39523" srcset="uploads/2013/11/Screen-Shot-2013-11-18-at-11.42.53-AM.png 648w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.42.53-AM-329x71.png 329w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.42.53-AM-588x127.png 588w" sizes="(max-width: 648px) 100vw, 648px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/Screen-Shot-2013-11-18-at-11.42.53-AM.png" alt="Screen Shot 2013-11-18 at 11.42.53 AM" width="648" height="141" class="alignnone size-full wp-image-39523" srcset="uploads/2013/11/Screen-Shot-2013-11-18-at-11.42.53-AM.png 648w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.42.53-AM-329x71.png 329w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.42.53-AM-588x127.png 588w" sizes="(max-width: 648px) 100vw, 648px" />
 
 <pre class="lang-html">&lt;a class="btn btn-primary" aria-describeby="desc-send"&gt;
   Enviar
@@ -209,7 +209,7 @@ O atributo `aria-describeby="id-do-elemento-descricao"` indica qual elemento est
 
 Outro exemplo muito interessante:
   
-<img src="http://tableless.com.br/uploads/2013/11/Screen-Shot-2013-11-18-at-11.45.32-AM.png" alt="Screen Shot 2013-11-18 at 11.45.32 AM" width="576" height="140" class="alignnone size-full wp-image-39524" srcset="uploads/2013/11/Screen-Shot-2013-11-18-at-11.45.32-AM.png 576w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.45.32-AM-329x79.png 329w" sizes="(max-width: 576px) 100vw, 576px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/Screen-Shot-2013-11-18-at-11.45.32-AM.png" alt="Screen Shot 2013-11-18 at 11.45.32 AM" width="576" height="140" class="alignnone size-full wp-image-39524" srcset="uploads/2013/11/Screen-Shot-2013-11-18-at-11.45.32-AM.png 576w, uploads/2013/11/Screen-Shot-2013-11-18-at-11.45.32-AM-329x79.png 329w" sizes="(max-width: 576px) 100vw, 576px" />
 
 Eu sei que é chato customizar essas coisas, mas às vezes é necessário. Se tiver que fazê-lo, faça do jeito certo. Assim:
 

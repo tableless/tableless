@@ -202,7 +202,7 @@ A implementação do LESS pode ser feita _on the fly_, com JavaScript. Esse mét
 
 Por exemplo, para aplicativos Ruby/Rails existe uma [gem][2] que converte arquivos LESS para CSS. Já o o módulo _compressor_ do Django oferece suporte nativo.
 
-<img src="http://tableless.com.br/uploads/2011/09/less.jpg" alt="Screenshot do aplicativo LESS para Mac OS" width="620" height="354" class="aligncenter size-full wp-image-4535" srcset="uploads/2011/09/less.jpg 620w, uploads/2011/09/less-300x171.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/09/less.jpg" alt="Screenshot do aplicativo LESS para Mac OS" width="620" height="354" class="aligncenter size-full wp-image-4535" srcset="uploads/2011/09/less.jpg 620w, uploads/2011/09/less-300x171.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" />
 
 Outra solução bacana é o [aplicativo LESS para Mac][3].
 

@@ -186,11 +186,11 @@ Agora é só compilar, rodar e ver o resultado =D
 
 No caso de sucesso deve aparecer como na figura abaixo:
 
-[<img class="alignnone size-full wp-image-51391" src="http://tableless.com.br/uploads/2015/09/sucesso.png" alt="200 - Sucesso" width="1279" height="707" />][3]
+[<img class="alignnone size-full wp-image-51391" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/sucesso.png" alt="200 - Sucesso" width="1279" height="707" />][3]
 
 Caso a página não existe, deve aparecer assim:
 
-[<img class="alignnone size-full wp-image-51392" src="http://tableless.com.br/uploads/2015/09/erro404.png" alt="Erro 404" width="1280" height="709" />][4]
+[<img class="alignnone size-full wp-image-51392" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/erro404.png" alt="Erro 404" width="1280" height="709" />][4]
 
 Temos um servidor funcional capaz de fornecer as páginas HTML para os clientes que solicitarem, mas perceba que nosso servidor atende a apenas uma requisição e se encerra logo em seguida, sem contar que nosso método main ficou gigante, mas fique tranquilo, isso será assunto para a próxima e ultima parte do tutorial, onde vamos organizar melhor nosso código, tratar alguns comandos do servidor importantes como manter a conexão viva e trabalhar com múltiplas requisições, conexões simultâneas e afins. Por hora fica o exercício, tente organizar o código a sua maneira, altere como desejar, crie mais páginas HTML e teste e veja se está sendo exibida corretamente, todo código feito até aqui está no final da página e está todo comentado para facilitar o entendimento.
 
@@ -202,5 +202,5 @@ Download do código fonte: <a href="https://github.com/thiguetta/ServidorHTTP" t
 
  [1]: http://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/ "Criando seu próprio servidor HTTP do zero (ou quase) – Parte I"
  [2]: http://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/ "Criando seu próprio servidor HTTP do zero (ou quase) – Parte II"
- [3]: http://tableless.com.br/uploads/2015/09/sucesso.png
- [4]: http://tableless.com.br/uploads/2015/09/erro404.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/sucesso.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/erro404.png

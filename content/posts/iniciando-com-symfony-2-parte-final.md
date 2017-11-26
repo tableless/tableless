@@ -154,7 +154,7 @@ E gerar as rotas, damos enter:
 
 Pronto, nosso bundle UserBundle está criado, veja:
 
-[<img src="http://tableless.com.br/uploads/2015/06/01.png" alt="pasta" width="750" height="403" class="alignnone size-full wp-image-49557" />][2]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/01.png" alt="pasta" width="750" height="403" class="alignnone size-full wp-image-49557" />][2]
 
 Nosso bundle está criado, vamos criar nossa entidade User.
 
@@ -162,7 +162,7 @@ Nosso bundle está criado, vamos criar nossa entidade User.
 
 Vamos entrar no bundle UserBundle, caminho src/Tableless/UserBundle/, e vamos criar uma pasta chamada Entity. Nessa pasta vamos criar uma classe User, que será nossa entidade, veja:
 
-[<img src="http://tableless.com.br/uploads/2015/06/02.png" alt="Entidade User" width="750" height="403" class="alignnone size-full wp-image-49558" />][3]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/02.png" alt="Entidade User" width="750" height="403" class="alignnone size-full wp-image-49558" />][3]
 
 A nossa entidade User tem que estender a entidade User do FOSUserBundle, vamos dar um use nessa classe e vamos apelida lá de BaseUser, veja:
 
@@ -321,7 +321,7 @@ Para que tudo ocorra bem, temos que atualizar o banco de dados, para criar a tab
 
 veja:
 
-[<img src="http://tableless.com.br/uploads/2015/06/03.png" alt="Tabela do banco de dados" width="750" height="403" class="alignnone size-full wp-image-49559" />][4]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/03.png" alt="Tabela do banco de dados" width="750" height="403" class="alignnone size-full wp-image-49559" />][4]
 
 ## Estilizando as templates do FOSUserBundle.
 
@@ -332,17 +332,17 @@ O FOSUserBundle está configurado e instalado em nosso sistema, para que possamo
 
 E veremos todas as rotas criadas em nosso sistema através FOSUserBundle, veja:
 
-[<img src="http://tableless.com.br/uploads/2015/06/04.png" alt="Router Debug" width="750" height="403" class="alignnone size-full wp-image-49561" />][5]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/04.png" alt="Router Debug" width="750" height="403" class="alignnone size-full wp-image-49561" />][5]
 
 Podemos entrar em todas as rotas, e perceberemos que está sem estilização, por exemplo: a rota /register/, se acessamos no navegador essa rota: url: http://127.0.0.1:8000/register/ veja:
 
-[<img src="http://tableless.com.br/uploads/2015/06/05.png" alt="tela de registro" width="750" height="403" class="alignnone size-full wp-image-49562" />][6]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/05.png" alt="tela de registro" width="750" height="403" class="alignnone size-full wp-image-49562" />][6]
 
 Está funcionando perfeitamente, porém sem estilização. Vou explicar como fazer para melhorarmos isso, porém não vou me aprofundar.
   
 As templates do FOSUserBundle estão todas na pasta friendsofsymfony dentro do diretório vendor/, porém, sabemos que nunca devemos mexer em nada no diretório vendor, entretanto podemos sobrescrever essas templates principais do FOSUserBundle, para isso vamos criar uma pasta chamada FOSUserBundle em app/Resources, e dentro da pasta criada, vamos criar outra pasta chamada views, veja:
 
-[<img src="http://tableless.com.br/uploads/2015/06/06.png" alt="Pasta views" width="750" height="403" class="alignnone size-full wp-image-49563" />][7]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/06.png" alt="Pasta views" width="750" height="403" class="alignnone size-full wp-image-49563" />][7]
 
 O FOSUserBundle, trabalha com um layout principal, para que possamos sobrescrevê-lo, dentro da pasta views, vamos criar um arquivo chamado layout.html.twig e estender a nossa template base já criada anteriormente. A tamplate layout.html.twig ficará dessa forma, veja:
 
@@ -357,7 +357,7 @@ O FOSUserBundle, trabalha com um layout principal, para que possamos sobrescrev�
 
 Pronto, se acessarmos novamente o url: http://127.0.0.1:8000/register/, teremos o resultado:
 
-[<img src="http://tableless.com.br/uploads/2015/06/07.png" alt="Tela de registro pronta" width="750" height="403" class="alignnone size-full wp-image-49564" />][8]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/07.png" alt="Tela de registro pronta" width="750" height="403" class="alignnone size-full wp-image-49564" />][8]
 
 Pronto, ficou melhor que anteriormente, porém podemos melhorar essa estilização, em meu caso vou deixar como está, mas caso queiram, é só criar um arquivo css com as devidas estilizações, e chamá- lo no base.html.twig que configuramos no <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-06/" target="_blank">tutorial 06</a>, ou usar o próprio bootstrap, e fazer as alterações nos arquivos.
   
@@ -374,7 +374,7 @@ Podemos criar os usuários pela url: http://127.0.0.1:8000/register/, porém os 
 
 Podemos perceber que agora temos mais opções, pois instalamos o FOSUserBundle, veja:
 
-[<img src="http://tableless.com.br/uploads/2015/06/08.png" alt="Novos comandos" width="750" height="403" class="alignnone size-full wp-image-49565" />][9]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/08.png" alt="Novos comandos" width="750" height="403" class="alignnone size-full wp-image-49565" />][9]
 
 E para criar um usuário administrador digitamos:
 
@@ -383,7 +383,7 @@ E para criar um usuário administrador digitamos:
 
 damos um nome, um e-mail e senha, veja:
 
-[<img src="http://tableless.com.br/uploads/2015/06/09.png" alt="Criando usuário" width="750" height="150" class="alignnone size-full wp-image-49566" />][10]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/09.png" alt="Criando usuário" width="750" height="150" class="alignnone size-full wp-image-49566" />][10]
 
 Porém o usuário criado, ainda é um usuário normal, vamos torná-lo um administrador, ainda no terminal, digite:
 
@@ -469,7 +469,7 @@ public function createAction(Request $request)
 
 Veja o erro caso o usuário não tenha acesso:
 
-[<img src="http://tableless.com.br/uploads/2015/06/10.png" alt="Erro de usuário não autorizado" width="750" height="403" class="alignnone size-full wp-image-49583" />][11]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/10.png" alt="Erro de usuário não autorizado" width="750" height="403" class="alignnone size-full wp-image-49583" />][11]
 
 Pronto!
   
@@ -520,13 +520,13 @@ Links dos tutoriais anteriores:
 O projeto encontra-se no <a href="https://github.com/candidosouza/tableless" target="_blank">GitHub</a>!
 
  [1]: #other-posts-symfony
- [2]: http://tableless.com.br/uploads/2015/06/01.png
- [3]: http://tableless.com.br/uploads/2015/06/02.png
- [4]: http://tableless.com.br/uploads/2015/06/03.png
- [5]: http://tableless.com.br/uploads/2015/06/04.png
- [6]: http://tableless.com.br/uploads/2015/06/05.png
- [7]: http://tableless.com.br/uploads/2015/06/06.png
- [8]: http://tableless.com.br/uploads/2015/06/07.png
- [9]: http://tableless.com.br/uploads/2015/06/08.png
- [10]: http://tableless.com.br/uploads/2015/06/09.png
- [11]: http://tableless.com.br/uploads/2015/06/10.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/01.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/02.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/03.png
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/04.png
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/05.png
+ [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/06.png
+ [8]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/07.png
+ [9]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/08.png
+ [10]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/09.png
+ [11]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/10.png

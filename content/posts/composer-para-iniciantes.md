@@ -109,11 +109,11 @@ Para fins didáticos mostrarei aqui a utilização de uma biblioteca para slug c
 
 Muito bem, agora está tudo pronto para que você veja o composer em ação. Na pasta raíz de sua aplicação (que é a mesma que o _composer.json_ e o _composer.phar_ se encontram) rode o comando **php composer.phar install**. Este comando fará o composer ler as configurações setadas no arquivo json e instalar todas as bibliotecas/pacotes necessários para a sua aplicação e também estas mesmas bibliotecas que possuírem dependências terão as mesmas resolvidas. Pense no composer mais ou menos como o apt-get do Linux debian-like. Nele, ao instalar um pacote qualquer todas suas dependências são resolvidas automaticamente.
 
-<img class="aligncenter size-large wp-image-41193" alt="Estruturdo composer e instalação" src="http://tableless.com.br/uploads/2014/02/estrutura-e-instalacao-660x292.png" width="660" height="292" srcset="uploads/2014/02/estrutura-e-instalacao-660x292.png 660w, uploads/2014/02/estrutura-e-instalacao-329x146.png 329w, uploads/2014/02/estrutura-e-instalacao-588x261.png 588w, uploads/2014/02/estrutura-e-instalacao-400x177.png 400w, uploads/2014/02/estrutura-e-instalacao.png 1275w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="aligncenter size-large wp-image-41193" alt="Estruturdo composer e instalação" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/estrutura-e-instalacao-660x292.png" width="660" height="292" srcset="uploads/2014/02/estrutura-e-instalacao-660x292.png 660w, uploads/2014/02/estrutura-e-instalacao-329x146.png 329w, uploads/2014/02/estrutura-e-instalacao-588x261.png 588w, uploads/2014/02/estrutura-e-instalacao-400x177.png 400w, uploads/2014/02/estrutura-e-instalacao.png 1275w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Perceba que na pasta em que encontra-se sua aplicação agora existem a pasta _vendor_, um arquivo _composer.phar_ (que já encontrava-se ali), um arquivo _composer.json_ (que já encontrava-se ali) e um arquivo _composer.lock_ – que é o arquivo gerado automaticamente após a instalação com sucesso.
 
-<img class="aligncenter size-full wp-image-41194" alt="Estrutura de arquivos após a instalação via composer" src="http://tableless.com.br/uploads/2014/02/estrutura-arquivos.png" width="682" height="333" srcset="uploads/2014/02/estrutura-arquivos.png 682w, uploads/2014/02/estrutura-arquivos-329x160.png 329w, uploads/2014/02/estrutura-arquivos-588x287.png 588w, uploads/2014/02/estrutura-arquivos-634x310.png 634w, uploads/2014/02/estrutura-arquivos-400x195.png 400w" sizes="(max-width: 682px) 100vw, 682px" />
+<img class="aligncenter size-full wp-image-41194" alt="Estrutura de arquivos após a instalação via composer" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/estrutura-arquivos.png" width="682" height="333" srcset="uploads/2014/02/estrutura-arquivos.png 682w, uploads/2014/02/estrutura-arquivos-329x160.png 329w, uploads/2014/02/estrutura-arquivos-588x287.png 588w, uploads/2014/02/estrutura-arquivos-634x310.png 634w, uploads/2014/02/estrutura-arquivos-400x195.png 400w" sizes="(max-width: 682px) 100vw, 682px" />
 
 ## O próximo passo (mais um)
 
@@ -148,13 +148,13 @@ echo '&lt;b&gt;Frase com aplicação de slug: &lt;/b&gt;' . $slug . "&lt;br /&gt
 
 Perfeito, agora basta exibir no seu browser ou mesmo via terminal.
 
-<img class="aligncenter size-full wp-image-41196" alt="Slug rodando no terminal" src="http://tableless.com.br/uploads/2014/02/slug-terminal.png" width="816" height="424" srcset="uploads/2014/02/slug-terminal.png 816w, uploads/2014/02/slug-terminal-323x168.png 323w, uploads/2014/02/slug-terminal-588x305.png 588w, uploads/2014/02/slug-terminal-596x310.png 596w, uploads/2014/02/slug-terminal-400x207.png 400w" sizes="(max-width: 816px) 100vw, 816px" />
+<img class="aligncenter size-full wp-image-41196" alt="Slug rodando no terminal" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/slug-terminal.png" width="816" height="424" srcset="uploads/2014/02/slug-terminal.png 816w, uploads/2014/02/slug-terminal-323x168.png 323w, uploads/2014/02/slug-terminal-588x305.png 588w, uploads/2014/02/slug-terminal-596x310.png 596w, uploads/2014/02/slug-terminal-400x207.png 400w" sizes="(max-width: 816px) 100vw, 816px" />
 
 &nbsp;
 
 Acessando nosso localhost através de um browser o resultado será este
 
-<img class="aligncenter size-full wp-image-41195" alt="Slug rodando no navegador" src="http://tableless.com.br/uploads/2014/02/slug-browser.png" width="621" height="353" srcset="uploads/2014/02/slug-browser.png 621w, uploads/2014/02/slug-browser-295x168.png 295w, uploads/2014/02/slug-browser-545x310.png 545w, uploads/2014/02/slug-browser-400x227.png 400w" sizes="(max-width: 621px) 100vw, 621px" />
+<img class="aligncenter size-full wp-image-41195" alt="Slug rodando no navegador" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/slug-browser.png" width="621" height="353" srcset="uploads/2014/02/slug-browser.png 621w, uploads/2014/02/slug-browser-295x168.png 295w, uploads/2014/02/slug-browser-545x310.png 545w, uploads/2014/02/slug-browser-400x227.png 400w" sizes="(max-width: 621px) 100vw, 621px" />
 
 ## Complementando
 

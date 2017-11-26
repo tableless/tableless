@@ -29,7 +29,7 @@ O primeiro e mais importante fator, é saber o que seu visitante busca. Para for
 
 Uma ferramenta poderosa ao seu lado para realizar tal análise é o **<a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a>**. Já conhecido por muitos, ele é capaz de mostrar como os usuários chegam até o seu site e qual conteúdo acessam mais. Com estes dados, e sabendo o que seu projeto é capaz de fornecer de melhor àquela pessoa, você pode focar seu tempo (que é tão precioso quanto o do visitante) na criação de um conteúdo que atenda as expectativas de quem chega até você. Confira aqui um post que ensina melhor <a href="http://tableless.com.br/monitoramento-de-eventos-com-google-analytics/" target="_blank">como monitorar eventos com o Google Analytics</a>.
 
-[<img class=" size-full wp-image-39272 aligncenter" src="http://tableless.com.br/uploads/2013/10/google-analytics_products_sm_01.jpg" alt="Google Analytics" width="474" height="164" srcset="uploads/2013/10/google-analytics_products_sm_01.jpg 474w, uploads/2013/10/google-analytics_products_sm_01-329x113.jpg 329w" sizes="(max-width: 474px) 100vw, 474px" />][1]
+[<img class=" size-full wp-image-39272 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/10/google-analytics_products_sm_01.jpg" alt="Google Analytics" width="474" height="164" srcset="uploads/2013/10/google-analytics_products_sm_01.jpg 474w, uploads/2013/10/google-analytics_products_sm_01-329x113.jpg 329w" sizes="(max-width: 474px) 100vw, 474px" />][1]
 
 Além da &#8220;mãozinha&#8221; que o Google lhe oferece, que tal desenvolver sua própria ferramenta de análise? Saber quais os termos mais buscados em seu site e quais páginas são mais acessadas, à sua maneira, parece uma boa ideia?
 
@@ -63,4 +63,4 @@ Tempo&#8230; tempo&#8230; tempo. Tenha sempre essa palavra em mente quando estiv
 
 É interessante que o usuário passe bastante tempo em seu site? Sim, mas desde que o retorno que ele obtenha através do conteúdo consumido seja justamente proporcional a esse tempo. Foco em fornecer soluções no menor tempo possível e, em paradoxo, você terá um usuário fiel por muito tempo.
 
- [1]: http://tableless.com.br/uploads/2013/10/google-analytics_products_sm_01.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/10/google-analytics_products_sm_01.jpg

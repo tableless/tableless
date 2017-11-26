@@ -50,7 +50,7 @@ Dizer que você faz &#8220;design atômico&#8221; não significa (infelizmente) 
 
 Da mesma forma que Guias de Estilo, o design atômico também é modular. Ele parte do pressuposto que as páginas na internet na realidade são sistemas, ou seja,  conjuntos de elementos interconectados que formam um todo organizado. Inspirado pelas aulas de química do colegial Frost percebeu que os componentes de uma página da internet se comportam de maneira muito parecida com a de átomos, moléculas e organismos. Páginas na internet são basicamente compostas por um grupo finito de elementos (tags HTML) que podem se agrupar de diferentes maneiras para criar sistemas complexos.
 
-[<img class="alignnone size-full wp-image-37823" alt="atomic-design" src="http://tableless.com.br/uploads/2013/06/atomic-design.jpg" width="660" height="340" srcset="uploads/2013/06/atomic-design.jpg 660w, uploads/2013/06/atomic-design-326x168.jpg 326w, uploads/2013/06/atomic-design-588x302.jpg 588w, uploads/2013/06/atomic-design-601x310.jpg 601w" sizes="(max-width: 660px) 100vw, 660px" />][6]
+[<img class="alignnone size-full wp-image-37823" alt="atomic-design" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/atomic-design.jpg" width="660" height="340" srcset="uploads/2013/06/atomic-design.jpg 660w, uploads/2013/06/atomic-design-326x168.jpg 326w, uploads/2013/06/atomic-design-588x302.jpg 588w, uploads/2013/06/atomic-design-601x310.jpg 601w" sizes="(max-width: 660px) 100vw, 660px" />][6]
 
 ### Os Átomos
 
@@ -62,31 +62,31 @@ A palavra átomo quer dizer &#8220;aquilo que não pode ser dividido&#8221;. E q
 
 Bem, no Atomic Design os átomos funcionam da mesma forma. São os menores elementos disponíveis em linguagem de marcação de texto: tags. Os átomos são elementos isolados que não precisam de um contexto para existir. Pense em coisas soltas como labels, inputs, campos de formulário, botões, títulos, parágrafos&#8230;  ou até mesmo elementos abstratos como paleta de cores e font-stacks. Estes são os blocos básicos utilizados para construir elementos maiores.
 
-<img class="alignnone size-full wp-image-37841" alt="exemplo-de-atomo" src="http://tableless.com.br/uploads/2013/06/exemplo-de-atomo.jpg" width="660" height="340" srcset="uploads/2013/06/exemplo-de-atomo.jpg 660w, uploads/2013/06/exemplo-de-atomo-326x168.jpg 326w, uploads/2013/06/exemplo-de-atomo-588x302.jpg 588w, uploads/2013/06/exemplo-de-atomo-601x310.jpg 601w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37841" alt="exemplo-de-atomo" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/exemplo-de-atomo.jpg" width="660" height="340" srcset="uploads/2013/06/exemplo-de-atomo.jpg 660w, uploads/2013/06/exemplo-de-atomo-326x168.jpg 326w, uploads/2013/06/exemplo-de-atomo-588x302.jpg 588w, uploads/2013/06/exemplo-de-atomo-601x310.jpg 601w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### Moléculas
 
 Moléculas aqui são basicamente agrupamentos de um ou mais átomos. As moléculas fazem os componentes isolados funcionarem com um propósito único. Uma label um campo de formulário e um botão não são uteis isoladamente, mas juntos podem cumprir uma função específica como realizar uma busca. Um conjunto de headings torna-se a molécula hgroup.
 
-<img class="alignnone size-full wp-image-37842" alt="exemplo-de-molecula" src="http://tableless.com.br/uploads/2013/06/exemplo-de-molecula.jpg" width="660" height="142" srcset="uploads/2013/06/exemplo-de-molecula.jpg 660w, uploads/2013/06/exemplo-de-molecula-329x70.jpg 329w, uploads/2013/06/exemplo-de-molecula-588x126.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37842" alt="exemplo-de-molecula" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/exemplo-de-molecula.jpg" width="660" height="142" srcset="uploads/2013/06/exemplo-de-molecula.jpg 660w, uploads/2013/06/exemplo-de-molecula-329x70.jpg 329w, uploads/2013/06/exemplo-de-molecula-588x126.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### Organismos
 
 Você pode pensar neles como uma colagem de elementos. Da mesma maneira que uma molécula é um conjunto de átomos, organismos são um conjunto de moléculas. Normalmente isto vai corresponder a uma seção do site como header, footer, sidebar, etc. Ao contrário das moléculas, os organismos podem ter diversos propósitos funcionando paralelamente. Um header, por exemplo,  pode possuir elementos como logotipo, navegação, formulário de login, campo de busca, call to action, etc. E cada um deles realiza uma ação específica. Um conjunto formado por moléculas como hgroup, span e data pode ser o organismo cabeçalho de um artigo.
 
-<img class="alignnone size-full wp-image-37843" alt="exemplo-de-organismo" src="http://tableless.com.br/uploads/2013/06/exemplo-de-organismo.jpg" width="660" height="193" srcset="uploads/2013/06/exemplo-de-organismo.jpg 660w, uploads/2013/06/exemplo-de-organismo-329x96.jpg 329w, uploads/2013/06/exemplo-de-organismo-588x171.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37843" alt="exemplo-de-organismo" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/exemplo-de-organismo.jpg" width="660" height="193" srcset="uploads/2013/06/exemplo-de-organismo.jpg 660w, uploads/2013/06/exemplo-de-organismo-329x96.jpg 329w, uploads/2013/06/exemplo-de-organismo-588x171.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### Templates
 
 Okay, aqui a metáfora de ciência acabou. Isto acontece por que a partir desta etapa já é possível mostrar algo para o cliente e ele provavelmente pode achar você meio maluco se tentar explicar seu layout utilizando um modelo atômico.  É melhor continuar com um vocabulário familiar&#8230; Templates são &#8211; você provavelmente adivinhou &#8211; conjuntos de organismos. Neste momento o design começa a ficar mais concreto. Você pode pensar em templates como wireframes de HTML de baixa fidelidade. Aqui já é possível visualizar o esqueleto do seu site ao vivo de maneira interativa. Seguindo com o nosso exemplo teríamos a página completa composta por diversos organismos.
 
-<img class="alignnone size-full wp-image-37845" alt="exemplo-de-template" src="http://tableless.com.br/uploads/2013/06/exemplo-de-template.jpg" width="660" height="502" srcset="uploads/2013/06/exemplo-de-template.jpg 660w, uploads/2013/06/exemplo-de-template-220x168.jpg 220w, uploads/2013/06/exemplo-de-template-407x310.jpg 407w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37845" alt="exemplo-de-template" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/exemplo-de-template.jpg" width="660" height="502" srcset="uploads/2013/06/exemplo-de-template.jpg 660w, uploads/2013/06/exemplo-de-template-220x168.jpg 220w, uploads/2013/06/exemplo-de-template-407x310.jpg 407w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### Páginas
 
 As página são a evolução dos templates para um design de alta fidelidade mais complexo com cor, tipografia e conteúdo. Através da página é possível ver todos os elementos menores como imagens e videos no contexto real e assim validar a efetividade do template. Após os ajustes necessários você tem o produto final. Este seria o nosso exemplo de wireframe com um conteúdo &#8220;real&#8221;.
 
-<img class="alignnone size-full wp-image-37844" alt="exemplo-de-pagina" src="http://tableless.com.br/uploads/2013/06/exemplo-de-pagina.jpg" width="660" height="612" srcset="uploads/2013/06/exemplo-de-pagina.jpg 660w, uploads/2013/06/exemplo-de-pagina-181x168.jpg 181w, uploads/2013/06/exemplo-de-pagina-334x310.jpg 334w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37844" alt="exemplo-de-pagina" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/exemplo-de-pagina.jpg" width="660" height="612" srcset="uploads/2013/06/exemplo-de-pagina.jpg 660w, uploads/2013/06/exemplo-de-pagina-181x168.jpg 181w, uploads/2013/06/exemplo-de-pagina-334x310.jpg 334w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### Vantagens do Modelo
 
@@ -96,13 +96,13 @@ O Design Atômico promove uma evolução linear de objetos abstratos menos compl
 
 O modelo teórico do design atômico já é interessante e relevante por si só. Mas Frost criou uma ferramenta que funciona como uma mistura de sandbox e boilerplate: o [Pattern Lab][7]. Através da ferramenta podemos construir sistemas de design utilizando uma biblioteca de componentes em PHP, um conjunto de padrões comuns de user interface, uma suite de testes responsiva, dentre outros recursos. Tudo dividido e organizado entre átomos, moléculas e organismos de maneira que você possa criar suas próprias páginas e templates.  Alias, os exemplos utilizados neste artigo foram totalmente retirados do Pattern Lab.
 
-[<img class="alignnone size-full wp-image-37850" alt="patternlab" src="http://tableless.com.br/uploads/2013/06/patternlab.jpg" width="660" height="260" srcset="uploads/2013/06/patternlab.jpg 660w, uploads/2013/06/patternlab-329x129.jpg 329w, uploads/2013/06/patternlab-588x231.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][8]
+[<img class="alignnone size-full wp-image-37850" alt="patternlab" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/patternlab.jpg" width="660" height="260" srcset="uploads/2013/06/patternlab.jpg 660w, uploads/2013/06/patternlab-329x129.jpg 329w, uploads/2013/06/patternlab-588x231.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />][8]
 
 A vantagem em relação aos Frameworks é que esta biblioteca é aberta, flexível e te dá espaço para criar seus próprios componentes da maneira que você bem entender. Tudo isto pronto para você  incluir, organizar e agrupar módulos como quiser através de tags PHP. Algo bem parecido com a sintaxe do WordPress, por exemplo. Se você se interessou basta visitar o [repositório no Github][9] para começar a brincar. Se você não curte PHP, tudo bem. Já existe uma galera criando versões para outras linguagens de programação. Você pode conferir o port para [Jekyll neste outro repositório][10].
 
 Para ser sincera o layout padrão do Pattern Lab é bem feio. Mas esta é a intenção mesmo. A idéia é ser um facilitador para a criação do SEU design. Então todo visual é simples e neutro de maneira que você possa acrescentar seu próprio CSS. Ou seja, o Pattern Lab é propositalmente incompleto. A intenção aqui não é ser um framework, mas um conjunto de módulos que incluem os elementos mais utilizados em Guias de Estilo e outras coisas que as vezes esquecemos / são difíceis de incluir em mock-ups estáticos como padrões para animação em CSS, avatares de usuário, animação de loading, tags de áudio&#8230;
 
-<img class="alignnone size-full wp-image-37846" alt="exemplo-animations" src="http://tableless.com.br/uploads/2013/06/exemplo-animations.jpg" width="660" height="260" srcset="uploads/2013/06/exemplo-animations.jpg 660w, uploads/2013/06/exemplo-animations-329x129.jpg 329w, uploads/2013/06/exemplo-animations-588x231.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-37846" alt="exemplo-animations" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/exemplo-animations.jpg" width="660" height="260" srcset="uploads/2013/06/exemplo-animations.jpg 660w, uploads/2013/06/exemplo-animations-329x129.jpg 329w, uploads/2013/06/exemplo-animations-588x231.jpg 588w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### Não faz milagres
 

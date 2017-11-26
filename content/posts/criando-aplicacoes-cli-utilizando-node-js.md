@@ -35,7 +35,7 @@ Um dos principais motivos é a agilidade com que algumas tarefas podem ser execu
   1. Abrir o terminal
   2. Executar o comando de cópia `cp *.js destinationfolder`
 
-<img class="aligncenter size-full wp-image-53787" src="http://tableless.com.br/uploads/2016/04/tableless.gif" alt="Cópia de arquivos exemplo" width="639" height="114" />
+<img class="aligncenter size-full wp-image-53787" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/04/tableless.gif" alt="Cópia de arquivos exemplo" width="639" height="114" />
 
 Além disto, você consegue automatizar diversas tarefas criando arquivos executáveis, simplesmente executando estes arquivos (que podem ser em bash, python, ou qualquer outra linguagem que rode em ambiente Shell).
 
@@ -202,7 +202,7 @@ Utilizamos o retorno da API do Forecast para mostrar no terminal algumas das inf
 
 Executando a aplicação após ela estar finalizada:
 
-<img src="http://tableless.com.br/uploads/2016/04/3EFswyb-Imgur.gif" alt="Finalizado a aplicação" width="858" height="152" class="alignnone size-full wp-image-53802" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/04/3EFswyb-Imgur.gif" alt="Finalizado a aplicação" width="858" height="152" class="alignnone size-full wp-image-53802" />
 
 ## Conclusão
 

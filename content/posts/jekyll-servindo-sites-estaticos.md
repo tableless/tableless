@@ -38,7 +38,7 @@ O Jekyll é um gerador de códigos estáticos. A ideia é que você crie página
 
 A coisa toda é muito simples: todo o arquivo que tiver **_** (underline) na frente do nome, o Jekyll vai ignorar no pacote final, quando converter seu projeto. Veja uma estrutura de um dos nossos projetos:
 
-<img src="http://tableless.com.br/uploads/2013/11/Screen-Shot-2013-11-10-at-5.09.22-PM.png" alt="Screen Shot 2013-11-10 at 5.09.22 PM" width="265" height="277" class="alignnone size-full wp-image-39447" srcset="uploads/2013/11/Screen-Shot-2013-11-10-at-5.09.22-PM.png 265w, uploads/2013/11/Screen-Shot-2013-11-10-at-5.09.22-PM-160x168.png 160w" sizes="(max-width: 265px) 100vw, 265px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/Screen-Shot-2013-11-10-at-5.09.22-PM.png" alt="Screen Shot 2013-11-10 at 5.09.22 PM" width="265" height="277" class="alignnone size-full wp-image-39447" srcset="uploads/2013/11/Screen-Shot-2013-11-10-at-5.09.22-PM.png 265w, uploads/2013/11/Screen-Shot-2013-11-10-at-5.09.22-PM-160x168.png 160w" sizes="(max-width: 265px) 100vw, 265px" />
 
 A pasta **_includes** guarda arquivos que serão reutilizados nas páginas do projeto, tipo o header, footer, sidebar e etc ou qualquer outra coisa de acordo com sua necessidade.
 

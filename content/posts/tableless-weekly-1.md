@@ -29,7 +29,7 @@ Mas por que criar uma nova tag se podíamos fazer isso com uma div? A questão �
 
 Que tal mostrar na prática? Então vamos lá&#8230;
 
-<img class="alignnone size-full wp-image-43803" src="http://tableless.com.br/uploads/2014/08/dialog.png" alt="dialog" width="1844" height="900" srcset="uploads/2014/08/dialog.png 1844w, uploads/2014/08/dialog-265x129.png 265w, uploads/2014/08/dialog-400x195.png 400w" sizes="(max-width: 1844px) 100vw, 1844px" />
+<img class="alignnone size-full wp-image-43803" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/08/dialog.png" alt="dialog" width="1844" height="900" srcset="uploads/2014/08/dialog.png 1844w, uploads/2014/08/dialog-265x129.png 265w, uploads/2014/08/dialog-400x195.png 400w" sizes="(max-width: 1844px) 100vw, 1844px" />
   
 Provavelmente você já deve ter visto muitas dessas por aí ou até feito alguma.
 

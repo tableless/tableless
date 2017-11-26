@@ -14,7 +14,7 @@ O Vue.js destaca-se pela sua simplicidade em executar as mesmas tarefas dos outr
 
 Neste artigo usaremos o [JSFiddle][1] como ferramenta para compreender os processos básicos do Vue, então não será necessário, a princípio, instalar nada no seu sistema. Abra o jsfiddle em outra aba do seu navegador e acesse o menu JavaScript, conforme a imagem a seguir, escolha o framework Vue 1.0 para ser carregado:
 
-<img src="http://tableless.com.br/uploads/2016/06/2016-06-28-12_23_29-Create-a-new-fiddle-JSFiddle.png" alt="JSFiddle+Vue" width="625" height="623" class="aligncenter size-full wp-image-54927" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/06/2016-06-28-12_23_29-Create-a-new-fiddle-JSFiddle.png" alt="JSFiddle+Vue" width="625" height="623" class="aligncenter size-full wp-image-54927" />
 
 ## Estrutura inicial
 
@@ -61,7 +61,7 @@ e JavaScript:
 
 A configuração no fiddle fica semelhante a figura a seguir:
 
-<img src="http://tableless.com.br/uploads/2016/06/2016-06-28-14_43_35-Create-a-new-fiddle-JSFiddle.png" alt="2016-06-28 14_43_35-Create a new fiddle - JSFiddle" width="665" height="360" class="aligncenter size-full wp-image-54937" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/06/2016-06-28-14_43_35-Create-a-new-fiddle-JSFiddle.png" alt="2016-06-28 14_43_35-Create a new fiddle - JSFiddle" width="665" height="360" class="aligncenter size-full wp-image-54937" />
 
 Clique no botão **Run** para executar o código. A resposta é exibida na caixa da direta. Neste caso, a mensagem Hello World será exibida.
 
@@ -93,7 +93,7 @@ Javascript
 
 O que temos agora é uma nova variável chamada &#8220;nome&#8221;, que esta ligada ao {{nome}} e também ao v-model do input. Quando alteramoso valor do input, a variável nome é alterada também, e a o nome aparece após o Hello World, conforme a figura a seguir:
 
-<img src="http://tableless.com.br/uploads/2016/06/2016-06-28-15_12_15-Create-a-new-fiddle-JSFiddle.png" alt="2016-06-28 15_12_15-Create a new fiddle - JSFiddle" width="591" height="330" class="aligncenter size-full wp-image-54939" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/06/2016-06-28-15_12_15-Create-a-new-fiddle-JSFiddle.png" alt="2016-06-28 15_12_15-Create a new fiddle - JSFiddle" width="591" height="330" class="aligncenter size-full wp-image-54939" />
 
 **Criando uma lista**
 
@@ -128,7 +128,7 @@ Javascript
 
 Neste exemplo, a variável `fruits` é um array de objetos, que contém a propriedade `name`. No Html, usamos o elemento `v-for` para realizar um loop no `&lt;li&gt;` repetindo este item para cada elemento do array. A resposta do código é exibida a seguir:
 
-<img src="http://tableless.com.br/uploads/2016/06/2016-06-28-15_20_33-Create-a-new-fiddle-JSFiddle.png" alt="2016-06-28 15_20_33-Create a new fiddle - JSFiddle" width="441" height="365" class="aligncenter size-full wp-image-54942" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/06/2016-06-28-15_20_33-Create-a-new-fiddle-JSFiddle.png" alt="2016-06-28 15_20_33-Create a new fiddle - JSFiddle" width="441" height="365" class="aligncenter size-full wp-image-54942" />
 
  **Para saber mais** 
 
@@ -140,7 +140,7 @@ O Vue.js destaca-se pela sua simplicidade em executar as mesmas tarefas dos outr
 
 Neste artigo usaremos o [JSFiddle][1] como ferramenta para compreender os processos básicos do Vue, então não será necessário, a princípio, instalar nada no seu sistema. Abra o jsfiddle em outra aba do seu navegador e acesse o menu JavaScript, conforme a imagem a seguir, escolha o framework Vue 1.0 para ser carregado:
 
-<img src="http://tableless.com.br/uploads/2016/06/2016-06-28-12_23_29-Create-a-new-fiddle-JSFiddle.png" alt="JSFiddle+Vue" width="625" height="623" class="aligncenter size-full wp-image-54927" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/06/2016-06-28-12_23_29-Create-a-new-fiddle-JSFiddle.png" alt="JSFiddle+Vue" width="625" height="623" class="aligncenter size-full wp-image-54927" />
 
 ## Estrutura inicial
 
@@ -187,7 +187,7 @@ e JavaScript:
 
 A configuração no fiddle fica semelhante a figura a seguir:
 
-<img src="http://tableless.com.br/uploads/2016/06/2016-06-28-14_43_35-Create-a-new-fiddle-JSFiddle.png" alt="2016-06-28 14_43_35-Create a new fiddle - JSFiddle" width="665" height="360" class="aligncenter size-full wp-image-54937" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/06/2016-06-28-14_43_35-Create-a-new-fiddle-JSFiddle.png" alt="2016-06-28 14_43_35-Create a new fiddle - JSFiddle" width="665" height="360" class="aligncenter size-full wp-image-54937" />
 
 Clique no botão **Run** para executar o código. A resposta é exibida na caixa da direta. Neste caso, a mensagem Hello World será exibida.
 
@@ -219,7 +219,7 @@ Javascript
 
 O que temos agora é uma nova variável chamada &#8220;nome&#8221;, que esta ligada ao {{nome}} e também ao v-model do input. Quando alteramoso valor do input, a variável nome é alterada também, e a o nome aparece após o Hello World, conforme a figura a seguir:
 
-<img src="http://tableless.com.br/uploads/2016/06/2016-06-28-15_12_15-Create-a-new-fiddle-JSFiddle.png" alt="2016-06-28 15_12_15-Create a new fiddle - JSFiddle" width="591" height="330" class="aligncenter size-full wp-image-54939" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/06/2016-06-28-15_12_15-Create-a-new-fiddle-JSFiddle.png" alt="2016-06-28 15_12_15-Create a new fiddle - JSFiddle" width="591" height="330" class="aligncenter size-full wp-image-54939" />
 
 **Criando uma lista**
 
@@ -254,7 +254,7 @@ Javascript
 
 Neste exemplo, a variável `fruits` é um array de objetos, que contém a propriedade `name`. No Html, usamos o elemento `v-for` para realizar um loop no `&lt;li&gt;` repetindo este item para cada elemento do array. A resposta do código é exibida a seguir:
 
-<img src="http://tableless.com.br/uploads/2016/06/2016-06-28-15_20_33-Create-a-new-fiddle-JSFiddle.png" alt="2016-06-28 15_20_33-Create a new fiddle - JSFiddle" width="441" height="365" class="aligncenter size-full wp-image-54942" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/06/2016-06-28-15_20_33-Create-a-new-fiddle-JSFiddle.png" alt="2016-06-28 15_20_33-Create a new fiddle - JSFiddle" width="441" height="365" class="aligncenter size-full wp-image-54942" />
 
  **Para saber mais** 
 

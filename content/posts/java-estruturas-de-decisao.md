@@ -48,13 +48,13 @@ O método equals é usado para a comparação. A classe String e as classes Wrap
 
 Toda comparação utilizando o equals irá verificar, primeiro se existe uma sobrescrita do mesmo nas classes comparadas. Caso não haja, o método padrão da classe Object é utilizado.
 
-[<img class=" wp-image-48938 size-full aligncenter" src="http://tableless.com.br/uploads/2015/05/equals-com-objeto.bmp" alt="" width="456" height="238" />][1]
+[<img class=" wp-image-48938 size-full aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/equals-com-objeto.bmp" alt="" width="456" height="238" />][1]
 
 O resultado será falso, pois as classes, apesar de terem os mesmos atributos e métodos, a referência é diferente, como eu disse mas acima, para descobrir se as referências são iguais, deve-se utilizar “ == ”.
 
 O equals também poderá ser utilizado para a comparação de Strings:
 
-[<img class=" wp-image-48939 size-full aligncenter" src="http://tableless.com.br/uploads/2015/05/equals-com-string.bmp" alt="" width="527" height="201" />][2]
+[<img class=" wp-image-48939 size-full aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/equals-com-string.bmp" alt="" width="527" height="201" />][2]
 
 Nesse caso, a primeira instrução irá gerar uma resposta false, pois não estamos utilizando o método equalsIgnoreCase, que ignora as letras maiúsculas e minúsculas, portanto, a segunda instrução irá gerar uma resposta true.
 
@@ -62,7 +62,7 @@ Nesse caso, a primeira instrução irá gerar uma resposta false, pois não esta
 
 Esse código trata-se de um operador matemático, com um condicional. Em alguns casos, ambos podem ter comportamento um pouco diferente. Lembrando também que o ternário sempre deve retornar valor, e o valor será sempre do mesmo tipo, para ambos os lados da expressão.
 
-[<img class=" size-full wp-image-48941 aligncenter" src="http://tableless.com.br/uploads/2015/05/if-ternario.bmp" alt="operador ternario" width="632" height="288" />][3]
+[<img class=" size-full wp-image-48941 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/if-ternario.bmp" alt="operador ternario" width="632" height="288" />][3]
 
 Nesse caso, temos duas condições, essas duas condições são iguais, porém a de cima utiliza o operador ternário.
 
@@ -72,7 +72,7 @@ A estrutura de decisão switch-case, ou simplesmente switch, é uma forma simple
 
 A sintaxe geral da estrutura switch é a seguinte:
 
-[<img class=" size-full wp-image-48942 aligncenter" src="http://tableless.com.br/uploads/2015/05/switch.bmp" alt="switch" width="514" height="408" />][4]
+[<img class=" size-full wp-image-48942 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/switch.bmp" alt="switch" width="514" height="408" />][4]
 
 Se for utilizada uma expressão, ela deve retornar um tipo de dados compatível com todos os valores especificados através das declarações case. Por dedução, todas as declarações devem conter valores de um mesmo tipo. Caso esteja utilizada uma variável, seu tipo também deve ser compatível com os valores das declarações.
 
@@ -82,7 +82,7 @@ A palavra reservada break é utilizada na estrutura switch para promover um desv
 
 A palavra default indica que caso nenhum dos cases seja utilizado, a instrução que se encontra no default será executada.
 
- [1]: http://tableless.com.br/uploads/2015/05/equals-com-objeto.bmp
- [2]: http://tableless.com.br/uploads/2015/05/equals-com-string.bmp
- [3]: http://tableless.com.br/uploads/2015/05/if-ternario.bmp
- [4]: http://tableless.com.br/uploads/2015/05/switch.bmp
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/equals-com-objeto.bmp
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/equals-com-string.bmp
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/if-ternario.bmp
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/switch.bmp

@@ -27,7 +27,7 @@ O pixel parece uma unidade fixa quando você escreve códigos CSS, mas na realid
 
 iOS? Este artigo não é sobre Android? Pois é, amigo, tenho uma má notícia. Os celulares da Apple são todos padronizados então se fossemos separar todos os iPhones do mundo de acordo com a resolução só existiriam duas pilhas: normal e retina (HD). Como o Android é um sistema aberto e democrático existem diversas marcas, cada uma criando aparelhos com a densidade de pixels que está na moda no momento e… Moral da história: existem 6 pilhas de densidade para Android. Cada uma engloba uma determinada faixa de pontos por polegada e é rotulada com uma sigla charmosa. Parece bem mais trabalhoso a princípio. Mas nem tudo está perdido. O segredo para criar um layout que vai manter a consistência em diferentes aparelhos está nos pixels virtuais.
 
-<img class="alignnone size-full wp-image-40536" alt="densidade-de-pixels" src="http://tableless.com.br/uploads/2014/01/densidade-de-pixels.jpg" width="660" height="400" srcset="uploads/2014/01/densidade-de-pixels.jpg 660w, uploads/2014/01/densidade-de-pixels-277x168.jpg 277w, uploads/2014/01/densidade-de-pixels-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-40536" alt="densidade-de-pixels" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/densidade-de-pixels.jpg" width="660" height="400" srcset="uploads/2014/01/densidade-de-pixels.jpg 660w, uploads/2014/01/densidade-de-pixels-277x168.jpg 277w, uploads/2014/01/densidade-de-pixels-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Pilhas de densidade
 
@@ -52,7 +52,7 @@ DP (também chamado de DIP) é uma sigla para Density-independent Pixels, ou sej
 
 Vamos para um exemplo prático. Se você tiver um ícone em PNG de 32dp (ou 32px na resolução base MDPI) vai precisar das seguintes versões para atender as outras resoluções: 48px (HDPI), 64px (XHDPI), 96px (XXHDPI) e 128px (XXXHDPI). Mas, como vocês podem notar através da tabela, a grande maioria dos usuários (78.4%) se concentra entre as resoluções MDPI-XDHPI. Ou seja, se você tiver que priorizar se concentre nestas três faixas.
 
-<img class="alignnone size-full wp-image-40541" alt="icones-de-acao" src="http://tableless.com.br/uploads/2014/01/icones-de-acao.jpg" width="660" height="400" srcset="uploads/2014/01/icones-de-acao.jpg 660w, uploads/2014/01/icones-de-acao-277x168.jpg 277w, uploads/2014/01/icones-de-acao-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-40541" alt="icones-de-acao" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/icones-de-acao.jpg" width="660" height="400" srcset="uploads/2014/01/icones-de-acao.jpg 660w, uploads/2014/01/icones-de-acao-277x168.jpg 277w, uploads/2014/01/icones-de-acao-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Lembre-se na hora de converter as medidas de sempre arredondar o número se aparecerem casas decimais. Se você partir do pressuposto que 1px é a menor unidade de medida possível não existe meio pixel.
 
@@ -76,13 +76,13 @@ A ponta do dedo de uma pessoa tem por volta por volta de 9mm, o que corresponde 
 
 48dp é um tamanho legal para definir como grid horizontal do seu layout.
 
-[<img class="alignnone size-full wp-image-40549" alt="ritmo" src="http://tableless.com.br/uploads/2014/01/ritmo.jpg" width="660" height="400" srcset="uploads/2014/01/ritmo.jpg 660w, uploads/2014/01/ritmo-277x168.jpg 277w, uploads/2014/01/ritmo-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][3]
+[<img class="alignnone size-full wp-image-40549" alt="ritmo" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ritmo.jpg" width="660" height="400" srcset="uploads/2014/01/ritmo.jpg 660w, uploads/2014/01/ritmo-277x168.jpg 277w, uploads/2014/01/ritmo-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][3]
 
 ## Tipografia
 
 A família tipográfica padrão do Android 4.4 é a Roboto. A fonte pode ser baixada gratuitamente através do [Google Fonts][4] e vem com uma série de pesos diferentes: thin, light, regular, medium, bold e black e versões condensadas.
 
-[<img class="alignnone size-full wp-image-40546" alt="roboto-font" src="http://tableless.com.br/uploads/2014/01/roboto-font.jpg" width="660" height="400" srcset="uploads/2014/01/roboto-font.jpg 660w, uploads/2014/01/roboto-font-277x168.jpg 277w, uploads/2014/01/roboto-font-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][5]
+[<img class="alignnone size-full wp-image-40546" alt="roboto-font" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/roboto-font.jpg" width="660" height="400" srcset="uploads/2014/01/roboto-font.jpg 660w, uploads/2014/01/roboto-font-277x168.jpg 277w, uploads/2014/01/roboto-font-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][5]
 
 ### SP
 
@@ -98,7 +98,7 @@ Para resumir o drama das unidades de medida:
 
 Para garantir a legibilidade a documentação oficial recomenda alguns tamanhos para texto:
 
-<img class="alignnone size-full wp-image-40538" alt="escala-roboto" src="http://tableless.com.br/uploads/2014/01/escala-roboto.jpg" width="660" height="400" srcset="uploads/2014/01/escala-roboto.jpg 660w, uploads/2014/01/escala-roboto-277x168.jpg 277w, uploads/2014/01/escala-roboto-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-40538" alt="escala-roboto" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/escala-roboto.jpg" width="660" height="400" srcset="uploads/2014/01/escala-roboto.jpg 660w, uploads/2014/01/escala-roboto-277x168.jpg 277w, uploads/2014/01/escala-roboto-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Lembre-se que, se você tiver usando o Photoshop deve converter o tamanho de acordo com a densidade que escolheu trabalhar. Vamos supor que o seu artboard seja o XDPI (720x1280px). Isto significa 1sp = 2px. Ou seja, o texto de 22sp vai valer 44px e assim por diante.
 
@@ -106,7 +106,7 @@ Lembre-se que, se você tiver usando o Photoshop deve converter o tamanho de aco
 
 ## Ícones
 
-[<img class="alignnone size-full wp-image-40542" alt="icones" src="http://tableless.com.br/uploads/2014/01/icones1.jpg" width="660" height="400" srcset="uploads/2014/01/icones1.jpg 660w, uploads/2014/01/icones1-277x168.jpg 277w, uploads/2014/01/icones1-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][6]
+[<img class="alignnone size-full wp-image-40542" alt="icones" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/icones1.jpg" width="660" height="400" srcset="uploads/2014/01/icones1.jpg 660w, uploads/2014/01/icones1-277x168.jpg 277w, uploads/2014/01/icones1-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][6]
 
 ### Launcher
 
@@ -257,7 +257,7 @@ Existem alguns padrões para nomear os assets que são úteis na hora de encontr
 
 Separe os ícones em pastas de acordo com a densidade. Lembre-se de utilizar o mesmo nome para as diferentes versões do mesmo ícone para facilitar na hora de encontrar o asset que você precisa.
 
-<img class="alignnone size-full wp-image-40539" alt="estritura-de-pastas" src="http://tableless.com.br/uploads/2014/01/estritura-de-pastas.jpg" width="660" height="400" srcset="uploads/2014/01/estritura-de-pastas.jpg 660w, uploads/2014/01/estritura-de-pastas-277x168.jpg 277w, uploads/2014/01/estritura-de-pastas-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-40539" alt="estritura-de-pastas" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/estritura-de-pastas.jpg" width="660" height="400" srcset="uploads/2014/01/estritura-de-pastas.jpg 660w, uploads/2014/01/estritura-de-pastas-277x168.jpg 277w, uploads/2014/01/estritura-de-pastas-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Branding
 
@@ -285,19 +285,19 @@ Seguindo estas etapas seu trabalho está concluído!  Abaixo eu separei algumas
 
 A seção [Android Downloads][11] da documentação oficial conta com diversos itens úteis: kit de stencils para wireframes, ícones de ação em formato vetor e bitmap, paleta de cores e guia sobre a fonte Roboto. Vale a sua visita!
 
-[<img class="alignnone size-full wp-image-40531" alt="android-developers-downloads" src="http://tableless.com.br/uploads/2014/01/android-developers-downloads.jpg" width="660" height="400" srcset="uploads/2014/01/android-developers-downloads.jpg 660w, uploads/2014/01/android-developers-downloads-277x168.jpg 277w, uploads/2014/01/android-developers-downloads-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
+[<img class="alignnone size-full wp-image-40531" alt="android-developers-downloads" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/android-developers-downloads.jpg" width="660" height="400" srcset="uploads/2014/01/android-developers-downloads.jpg 660w, uploads/2014/01/android-developers-downloads-277x168.jpg 277w, uploads/2014/01/android-developers-downloads-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
 
 ### Android UI Design Kit for Photoshop
 
 O kit [Android UI][13] em formato Photoshop tem versões dos elementos da user interface do Android 4.4 prontinho para você utilizar. São barrinhas, campos de formulário, abas, botões do sistema, enfim, uma série de recursos super úteis para você desenvolver o layout do seu aplicativo. O arquivo é sempre atualizado para máxima compatibilidade com a última versão do sistema operacional.
 
-[<img class="alignnone size-full wp-image-40533" alt="android-ui-design-kit" src="http://tableless.com.br/uploads/2014/01/android-ui-design-kit.jpg" width="660" height="400" srcset="uploads/2014/01/android-ui-design-kit.jpg 660w, uploads/2014/01/android-ui-design-kit-277x168.jpg 277w, uploads/2014/01/android-ui-design-kit-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][14]
+[<img class="alignnone size-full wp-image-40533" alt="android-ui-design-kit" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/android-ui-design-kit.jpg" width="660" height="400" srcset="uploads/2014/01/android-ui-design-kit.jpg 660w, uploads/2014/01/android-ui-design-kit-277x168.jpg 277w, uploads/2014/01/android-ui-design-kit-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][14]
 
 ### Android Developers
 
 Se você prefere assistir vídeo aulas, dê uma olhada no canal do Youtube [Android Developers][15], principalmente na série Design Bytes. São vídeo curtos e gratuitos que dão uma série de pinceladas úteis sobre as melhores práticas. A maior parte dos vídeos está em inglês, mas alguns já estão sendo nacionalizados.
 
-[<img class="alignnone size-full wp-image-40532" alt="android-developers" src="http://tableless.com.br/uploads/2014/01/android-developers.jpg" width="660" height="400" srcset="uploads/2014/01/android-developers.jpg 660w, uploads/2014/01/android-developers-277x168.jpg 277w, uploads/2014/01/android-developers-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][16]
+[<img class="alignnone size-full wp-image-40532" alt="android-developers" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/android-developers.jpg" width="660" height="400" srcset="uploads/2014/01/android-developers.jpg 660w, uploads/2014/01/android-developers-277x168.jpg 277w, uploads/2014/01/android-developers-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][16]
 
 ### Conversores de densidade
 
@@ -307,19 +307,19 @@ Se você ficou meio perdido para converter medidas de pixel para dp, dê uma olh
   
 [Android DPI Calculator][18]
 
-[<img class="alignnone size-full wp-image-40537" alt="density-converter" src="http://tableless.com.br/uploads/2014/01/density-converter.jpg" width="660" height="400" srcset="uploads/2014/01/density-converter.jpg 660w, uploads/2014/01/density-converter-277x168.jpg 277w, uploads/2014/01/density-converter-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][19]
+[<img class="alignnone size-full wp-image-40537" alt="density-converter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/density-converter.jpg" width="660" height="400" srcset="uploads/2014/01/density-converter.jpg 660w, uploads/2014/01/density-converter-277x168.jpg 277w, uploads/2014/01/density-converter-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][19]
 
 ### Android App Icon Template
 
 O [App Icon Template][20] é um arquivo de Photoshop com smart objects para que você possa criar e visualizar seu launcher icon renderizado na tela inicial do Android. O pacote ainda acompanha texturas, linhas guias e actions para automatizar o processo de exportar o ícone para diversas densidades de tela. Existe também uma versão do mesmo template para iOS.
 
-[<img class="alignnone size-full wp-image-40534" alt="app-icon-template" src="http://tableless.com.br/uploads/2014/01/app-icon-template.jpg" width="660" height="400" srcset="uploads/2014/01/app-icon-template.jpg 660w, uploads/2014/01/app-icon-template-277x168.jpg 277w, uploads/2014/01/app-icon-template-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][21]
+[<img class="alignnone size-full wp-image-40534" alt="app-icon-template" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/app-icon-template.jpg" width="660" height="400" srcset="uploads/2014/01/app-icon-template.jpg 660w, uploads/2014/01/app-icon-template-277x168.jpg 277w, uploads/2014/01/app-icon-template-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][21]
 
 ### Android Asset Studio
 
 Se você é um desenvolvedor e não entende nada de design o [Android Asset Studio][22] pode ser útil para você. A ferramenta é um kit com diversos geradores para criar os assets básicos de interfaces Android. Basta customizar as cores, definir um estilo para os itens e baixar os arquivos. O kit de ferramentas conta ainda com um gerador de ícones, gaveta de navegação e frames de smartphones para apresentar o seu layout. Não dá para criar nada especialmente genial, mas é um bom ponto de partida se você deseja criar uma aplicação simples.
 
-[<img class="alignnone size-full wp-image-40535" alt="asset-studio" src="http://tableless.com.br/uploads/2014/01/asset-studio.jpg" width="660" height="400" srcset="uploads/2014/01/asset-studio.jpg 660w, uploads/2014/01/asset-studio-277x168.jpg 277w, uploads/2014/01/asset-studio-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][23]
+[<img class="alignnone size-full wp-image-40535" alt="asset-studio" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/asset-studio.jpg" width="660" height="400" srcset="uploads/2014/01/asset-studio.jpg 660w, uploads/2014/01/asset-studio-277x168.jpg 277w, uploads/2014/01/asset-studio-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][23]
 
 ### Fluid UI
 
@@ -335,7 +335,7 @@ O pixel parece uma unidade fixa quando você escreve códigos CSS, mas na realid
 
 iOS? Este artigo não é sobre Android? Pois é, amigo, tenho uma má notícia. Os celulares da Apple são todos padronizados então se fossemos separar todos os iPhones do mundo de acordo com a resolução só existiriam duas pilhas: normal e retina (HD). Como o Android é um sistema aberto e democrático existem diversas marcas, cada uma criando aparelhos com a densidade de pixels que está na moda no momento e… Moral da história: existem 6 pilhas de densidade para Android. Cada uma engloba uma determinada faixa de pontos por polegada e é rotulada com uma sigla charmosa. Parece bem mais trabalhoso a princípio. Mas nem tudo está perdido. O segredo para criar um layout que vai manter a consistência em diferentes aparelhos está nos pixels virtuais.
 
-<img class="alignnone size-full wp-image-40536" alt="densidade-de-pixels" src="http://tableless.com.br/uploads/2014/01/densidade-de-pixels.jpg" width="660" height="400" srcset="uploads/2014/01/densidade-de-pixels.jpg 660w, uploads/2014/01/densidade-de-pixels-277x168.jpg 277w, uploads/2014/01/densidade-de-pixels-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-40536" alt="densidade-de-pixels" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/densidade-de-pixels.jpg" width="660" height="400" srcset="uploads/2014/01/densidade-de-pixels.jpg 660w, uploads/2014/01/densidade-de-pixels-277x168.jpg 277w, uploads/2014/01/densidade-de-pixels-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Pilhas de densidade
 
@@ -360,7 +360,7 @@ DP (também chamado de DIP) é uma sigla para Density-independent Pixels, ou sej
 
 Vamos para um exemplo prático. Se você tiver um ícone em PNG de 32dp (ou 32px na resolução base MDPI) vai precisar das seguintes versões para atender as outras resoluções: 48px (HDPI), 64px (XHDPI), 96px (XXHDPI) e 128px (XXXHDPI). Mas, como vocês podem notar através da tabela, a grande maioria dos usuários (78.4%) se concentra entre as resoluções MDPI-XDHPI. Ou seja, se você tiver que priorizar se concentre nestas três faixas.
 
-<img class="alignnone size-full wp-image-40541" alt="icones-de-acao" src="http://tableless.com.br/uploads/2014/01/icones-de-acao.jpg" width="660" height="400" srcset="uploads/2014/01/icones-de-acao.jpg 660w, uploads/2014/01/icones-de-acao-277x168.jpg 277w, uploads/2014/01/icones-de-acao-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-40541" alt="icones-de-acao" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/icones-de-acao.jpg" width="660" height="400" srcset="uploads/2014/01/icones-de-acao.jpg 660w, uploads/2014/01/icones-de-acao-277x168.jpg 277w, uploads/2014/01/icones-de-acao-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Lembre-se na hora de converter as medidas de sempre arredondar o número se aparecerem casas decimais. Se você partir do pressuposto que 1px é a menor unidade de medida possível não existe meio pixel.
 
@@ -384,13 +384,13 @@ A ponta do dedo de uma pessoa tem por volta por volta de 9mm, o que corresponde 
 
 48dp é um tamanho legal para definir como grid horizontal do seu layout.
 
-[<img class="alignnone size-full wp-image-40549" alt="ritmo" src="http://tableless.com.br/uploads/2014/01/ritmo.jpg" width="660" height="400" srcset="uploads/2014/01/ritmo.jpg 660w, uploads/2014/01/ritmo-277x168.jpg 277w, uploads/2014/01/ritmo-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][3]
+[<img class="alignnone size-full wp-image-40549" alt="ritmo" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/ritmo.jpg" width="660" height="400" srcset="uploads/2014/01/ritmo.jpg 660w, uploads/2014/01/ritmo-277x168.jpg 277w, uploads/2014/01/ritmo-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][3]
 
 ## Tipografia
 
 A família tipográfica padrão do Android 4.4 é a Roboto. A fonte pode ser baixada gratuitamente através do [Google Fonts][4] e vem com uma série de pesos diferentes: thin, light, regular, medium, bold e black e versões condensadas.
 
-[<img class="alignnone size-full wp-image-40546" alt="roboto-font" src="http://tableless.com.br/uploads/2014/01/roboto-font.jpg" width="660" height="400" srcset="uploads/2014/01/roboto-font.jpg 660w, uploads/2014/01/roboto-font-277x168.jpg 277w, uploads/2014/01/roboto-font-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][5]
+[<img class="alignnone size-full wp-image-40546" alt="roboto-font" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/roboto-font.jpg" width="660" height="400" srcset="uploads/2014/01/roboto-font.jpg 660w, uploads/2014/01/roboto-font-277x168.jpg 277w, uploads/2014/01/roboto-font-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][5]
 
 ### SP
 
@@ -406,7 +406,7 @@ Para resumir o drama das unidades de medida:
 
 Para garantir a legibilidade a documentação oficial recomenda alguns tamanhos para texto:
 
-<img class="alignnone size-full wp-image-40538" alt="escala-roboto" src="http://tableless.com.br/uploads/2014/01/escala-roboto.jpg" width="660" height="400" srcset="uploads/2014/01/escala-roboto.jpg 660w, uploads/2014/01/escala-roboto-277x168.jpg 277w, uploads/2014/01/escala-roboto-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-40538" alt="escala-roboto" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/escala-roboto.jpg" width="660" height="400" srcset="uploads/2014/01/escala-roboto.jpg 660w, uploads/2014/01/escala-roboto-277x168.jpg 277w, uploads/2014/01/escala-roboto-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Lembre-se que, se você tiver usando o Photoshop deve converter o tamanho de acordo com a densidade que escolheu trabalhar. Vamos supor que o seu artboard seja o XDPI (720x1280px). Isto significa 1sp = 2px. Ou seja, o texto de 22sp vai valer 44px e assim por diante.
 
@@ -414,7 +414,7 @@ Lembre-se que, se você tiver usando o Photoshop deve converter o tamanho de aco
 
 ## Ícones
 
-[<img class="alignnone size-full wp-image-40542" alt="icones" src="http://tableless.com.br/uploads/2014/01/icones1.jpg" width="660" height="400" srcset="uploads/2014/01/icones1.jpg 660w, uploads/2014/01/icones1-277x168.jpg 277w, uploads/2014/01/icones1-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][6]
+[<img class="alignnone size-full wp-image-40542" alt="icones" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/icones1.jpg" width="660" height="400" srcset="uploads/2014/01/icones1.jpg 660w, uploads/2014/01/icones1-277x168.jpg 277w, uploads/2014/01/icones1-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][6]
 
 ### Launcher
 
@@ -565,7 +565,7 @@ Existem alguns padrões para nomear os assets que são úteis na hora de encontr
 
 Separe os ícones em pastas de acordo com a densidade. Lembre-se de utilizar o mesmo nome para as diferentes versões do mesmo ícone para facilitar na hora de encontrar o asset que você precisa.
 
-<img class="alignnone size-full wp-image-40539" alt="estritura-de-pastas" src="http://tableless.com.br/uploads/2014/01/estritura-de-pastas.jpg" width="660" height="400" srcset="uploads/2014/01/estritura-de-pastas.jpg 660w, uploads/2014/01/estritura-de-pastas-277x168.jpg 277w, uploads/2014/01/estritura-de-pastas-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-40539" alt="estritura-de-pastas" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/estritura-de-pastas.jpg" width="660" height="400" srcset="uploads/2014/01/estritura-de-pastas.jpg 660w, uploads/2014/01/estritura-de-pastas-277x168.jpg 277w, uploads/2014/01/estritura-de-pastas-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Branding
 
@@ -593,19 +593,19 @@ Seguindo estas etapas seu trabalho está concluído!  Abaixo eu separei algumas
 
 A seção [Android Downloads][11] da documentação oficial conta com diversos itens úteis: kit de stencils para wireframes, ícones de ação em formato vetor e bitmap, paleta de cores e guia sobre a fonte Roboto. Vale a sua visita!
 
-[<img class="alignnone size-full wp-image-40531" alt="android-developers-downloads" src="http://tableless.com.br/uploads/2014/01/android-developers-downloads.jpg" width="660" height="400" srcset="uploads/2014/01/android-developers-downloads.jpg 660w, uploads/2014/01/android-developers-downloads-277x168.jpg 277w, uploads/2014/01/android-developers-downloads-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
+[<img class="alignnone size-full wp-image-40531" alt="android-developers-downloads" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/android-developers-downloads.jpg" width="660" height="400" srcset="uploads/2014/01/android-developers-downloads.jpg 660w, uploads/2014/01/android-developers-downloads-277x168.jpg 277w, uploads/2014/01/android-developers-downloads-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][12]
 
 ### Android UI Design Kit for Photoshop
 
 O kit [Android UI][13] em formato Photoshop tem versões dos elementos da user interface do Android 4.4 prontinho para você utilizar. São barrinhas, campos de formulário, abas, botões do sistema, enfim, uma série de recursos super úteis para você desenvolver o layout do seu aplicativo. O arquivo é sempre atualizado para máxima compatibilidade com a última versão do sistema operacional.
 
-[<img class="alignnone size-full wp-image-40533" alt="android-ui-design-kit" src="http://tableless.com.br/uploads/2014/01/android-ui-design-kit.jpg" width="660" height="400" srcset="uploads/2014/01/android-ui-design-kit.jpg 660w, uploads/2014/01/android-ui-design-kit-277x168.jpg 277w, uploads/2014/01/android-ui-design-kit-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][14]
+[<img class="alignnone size-full wp-image-40533" alt="android-ui-design-kit" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/android-ui-design-kit.jpg" width="660" height="400" srcset="uploads/2014/01/android-ui-design-kit.jpg 660w, uploads/2014/01/android-ui-design-kit-277x168.jpg 277w, uploads/2014/01/android-ui-design-kit-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][14]
 
 ### Android Developers
 
 Se você prefere assistir vídeo aulas, dê uma olhada no canal do Youtube [Android Developers][15], principalmente na série Design Bytes. São vídeo curtos e gratuitos que dão uma série de pinceladas úteis sobre as melhores práticas. A maior parte dos vídeos está em inglês, mas alguns já estão sendo nacionalizados.
 
-[<img class="alignnone size-full wp-image-40532" alt="android-developers" src="http://tableless.com.br/uploads/2014/01/android-developers.jpg" width="660" height="400" srcset="uploads/2014/01/android-developers.jpg 660w, uploads/2014/01/android-developers-277x168.jpg 277w, uploads/2014/01/android-developers-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][16]
+[<img class="alignnone size-full wp-image-40532" alt="android-developers" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/android-developers.jpg" width="660" height="400" srcset="uploads/2014/01/android-developers.jpg 660w, uploads/2014/01/android-developers-277x168.jpg 277w, uploads/2014/01/android-developers-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][16]
 
 ### Conversores de densidade
 
@@ -615,25 +615,25 @@ Se você ficou meio perdido para converter medidas de pixel para dp, dê uma olh
   
 [Android DPI Calculator][18]
 
-[<img class="alignnone size-full wp-image-40537" alt="density-converter" src="http://tableless.com.br/uploads/2014/01/density-converter.jpg" width="660" height="400" srcset="uploads/2014/01/density-converter.jpg 660w, uploads/2014/01/density-converter-277x168.jpg 277w, uploads/2014/01/density-converter-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][19]
+[<img class="alignnone size-full wp-image-40537" alt="density-converter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/density-converter.jpg" width="660" height="400" srcset="uploads/2014/01/density-converter.jpg 660w, uploads/2014/01/density-converter-277x168.jpg 277w, uploads/2014/01/density-converter-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][19]
 
 ### Android App Icon Template
 
 O [App Icon Template][20] é um arquivo de Photoshop com smart objects para que você possa criar e visualizar seu launcher icon renderizado na tela inicial do Android. O pacote ainda acompanha texturas, linhas guias e actions para automatizar o processo de exportar o ícone para diversas densidades de tela. Existe também uma versão do mesmo template para iOS.
 
-[<img class="alignnone size-full wp-image-40534" alt="app-icon-template" src="http://tableless.com.br/uploads/2014/01/app-icon-template.jpg" width="660" height="400" srcset="uploads/2014/01/app-icon-template.jpg 660w, uploads/2014/01/app-icon-template-277x168.jpg 277w, uploads/2014/01/app-icon-template-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][21]
+[<img class="alignnone size-full wp-image-40534" alt="app-icon-template" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/app-icon-template.jpg" width="660" height="400" srcset="uploads/2014/01/app-icon-template.jpg 660w, uploads/2014/01/app-icon-template-277x168.jpg 277w, uploads/2014/01/app-icon-template-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][21]
 
 ### Android Asset Studio
 
 Se você é um desenvolvedor e não entende nada de design o [Android Asset Studio][22] pode ser útil para você. A ferramenta é um kit com diversos geradores para criar os assets básicos de interfaces Android. Basta customizar as cores, definir um estilo para os itens e baixar os arquivos. O kit de ferramentas conta ainda com um gerador de ícones, gaveta de navegação e frames de smartphones para apresentar o seu layout. Não dá para criar nada especialmente genial, mas é um bom ponto de partida se você deseja criar uma aplicação simples.
 
-[<img class="alignnone size-full wp-image-40535" alt="asset-studio" src="http://tableless.com.br/uploads/2014/01/asset-studio.jpg" width="660" height="400" srcset="uploads/2014/01/asset-studio.jpg 660w, uploads/2014/01/asset-studio-277x168.jpg 277w, uploads/2014/01/asset-studio-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][23]
+[<img class="alignnone size-full wp-image-40535" alt="asset-studio" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/asset-studio.jpg" width="660" height="400" srcset="uploads/2014/01/asset-studio.jpg 660w, uploads/2014/01/asset-studio-277x168.jpg 277w, uploads/2014/01/asset-studio-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][23]
 
 ### Fluid UI
 
 Esta ferramenta é bem interessante para criar wireframes e fluxogramas online. O][24] conta com diversos elementos comuns de uma interface Android em um esquema drag and drop para você criar rascunhos com velocidade. O plano gratuito permite criar até 10 telas, mas existem outros planos pagos ilimitados.
 
-[<img class="alignnone size-full wp-image-40540" alt="fluidui" src="http://tableless.com.br/uploads/2014/01/fluidui.jpg" width="660" height="400" srcset="uploads/2014/01/fluidui.jpg 660w, uploads/2014/01/fluidui-277x168.jpg 277w, uploads/2014/01/fluidui-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][25]
+[<img class="alignnone size-full wp-image-40540" alt="fluidui" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/fluidui.jpg" width="660" height="400" srcset="uploads/2014/01/fluidui.jpg 660w, uploads/2014/01/fluidui-277x168.jpg 277w, uploads/2014/01/fluidui-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" />][25]
 
 ### Saiba mais
 

@@ -28,11 +28,11 @@ Todo o webdesign como conhecemos hoje é baseado em metáforas. Utilizamos botõ
 
 Cada pessoa segura seu celular de maneira única. Mas, para generalizar, existem três grupos de pegadas básicas: segurar o celular com uma mão e tocar a tela com a outra, segurar o telefone com as duas mãos e usar a ponta dos dedões para teclar e &#8211; a pegada Mestra &#8211; segurar e teclar com uma mesma mão. Esta última é a mais comum. [Segundo uma pesquisa realizada por profissionais de UX][1] 49% das pessoas segura o telefone desta maneira. E não é a toa. É libertador utilizar apenas uma mão pois você pode fazer outras coisas com a outra&#8230; Por outro lado isto também é limitador pois boa parte da tela fica coberta. A dica que fica para os designers é utilizar controles primários no arco formado a partir do canto inferior, já que a área superior é mais difícil de alcançar.
 
-<img class="alignnone size-full wp-image-38273" alt="area-segura-iphone" src="http://tableless.com.br/uploads/2013/07/area-segura-iphone.jpg" width="660" height="600" srcset="uploads/2013/07/area-segura-iphone.jpg 660w, uploads/2013/07/area-segura-iphone-184x168.jpg 184w, uploads/2013/07/area-segura-iphone-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38273" alt="area-segura-iphone" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/area-segura-iphone.jpg" width="660" height="600" srcset="uploads/2013/07/area-segura-iphone.jpg 660w, uploads/2013/07/area-segura-iphone-184x168.jpg 184w, uploads/2013/07/area-segura-iphone-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Já reparou que a maior parte da navegação de aplicativos nativos fica justamente na parte de inferior da tela? Está aí a explicação!
 
-<img class="alignnone size-full wp-image-38277" alt="android-home" src="http://tableless.com.br/uploads/2013/07/android-home.jpg" width="660" height="600" srcset="uploads/2013/07/android-home.jpg 660w, uploads/2013/07/android-home-184x168.jpg 184w, uploads/2013/07/android-home-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38277" alt="android-home" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/android-home.jpg" width="660" height="600" srcset="uploads/2013/07/android-home.jpg 660w, uploads/2013/07/android-home-184x168.jpg 184w, uploads/2013/07/android-home-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Alias este tipo de diagramação conteúdo no topo, controles embaixo não é comum apenas em aplicativos de smartphones. Diversos outros aparelhos como calculadoras, balanças e iPods também partem deste mesmo princípio de design.
 
@@ -40,7 +40,7 @@ Quanto a direção &#8211; direita ou esquerda &#8211; não é algo que possa se
 
 O Aplicativo do Instagram, por exemplo, deixa a função principal &#8211; tirar fotos &#8211; no centro.
 
-<img class="alignnone size-full wp-image-38270" alt="instagram" src="http://tableless.com.br/uploads/2013/07/instagram.jpg" width="660" height="600" srcset="uploads/2013/07/instagram.jpg 660w, uploads/2013/07/instagram-184x168.jpg 184w, uploads/2013/07/instagram-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38270" alt="instagram" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/instagram.jpg" width="660" height="600" srcset="uploads/2013/07/instagram.jpg 660w, uploads/2013/07/instagram-184x168.jpg 184w, uploads/2013/07/instagram-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
 
 De posse destes dados fica muito mais fácil hierarquizar informações. Deixe os botões mais importantes embaixo e as opções menos frequentes no topo. Alias, a parte de cima da tela é uma área ótima para opções que podem alterar significativamente os dados como editar ou deletar. Já que é uma região mais difícil de alcançar você evita que o usuário encoste acidentalmente e apague algo importante.
 
@@ -52,7 +52,7 @@ Websites são aplicativos que funcionam dentro de outro aplicativo: o navegador.
 
 Deixar a lista de links aberta no topo também pode ser uma estratégia perigosa. Dependendo da quantidade de opções da sua página isto pode ofuscar completamente o conteúdo. A melhor prática de navegação, neste caso, é colapsar o menu em apenas uma âncora. Este tipo de abordagem pode ser facilmente criada utilizando JavaScript ou CSS3. Se você precisa de uma ajudinha o plugin [Responsive Nav][2] dá conta do recado.
 
-<img class="alignnone size-full wp-image-38271" alt="responsive-nav" src="http://tableless.com.br/uploads/2013/07/responsive-nav.jpg" width="660" height="600" srcset="uploads/2013/07/responsive-nav.jpg 660w, uploads/2013/07/responsive-nav-184x168.jpg 184w, uploads/2013/07/responsive-nav-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38271" alt="responsive-nav" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/responsive-nav.jpg" width="660" height="600" srcset="uploads/2013/07/responsive-nav.jpg 660w, uploads/2013/07/responsive-nav-184x168.jpg 184w, uploads/2013/07/responsive-nav-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Uma outra abordagem, ainda mais simples, é deixar a navegação no rodapé da página (sem ser fixa). Assim você dá ao usuário o que ele quer ver primeiro: o conteúdo.
 
@@ -62,7 +62,7 @@ Lembra das três pegadas básicas de smartphones? Esqueça elas por aqui! A ergo
 
 A posição mais confortável para menus acaba sendo nos cantos superiores, já que ficam próximos aos dedões. A área do meio neste caso deve ser evitada já que para alcança-la é necessário cobrir a tela com o braço, ofuscando o conteúdo.
 
-<img class="alignnone size-full wp-image-38272" alt="area-segura-ipad" src="http://tableless.com.br/uploads/2013/07/area-segura-ipad.jpg" width="660" height="600" srcset="uploads/2013/07/area-segura-ipad.jpg 660w, uploads/2013/07/area-segura-ipad-184x168.jpg 184w, uploads/2013/07/area-segura-ipad-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38272" alt="area-segura-ipad" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/area-segura-ipad.jpg" width="660" height="600" srcset="uploads/2013/07/area-segura-ipad.jpg 660w, uploads/2013/07/area-segura-ipad-184x168.jpg 184w, uploads/2013/07/area-segura-ipad-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Para outros tipos de controles (principalmente os que afetam o conteúdo a ser exibido imediantamente no canvas) o ideal é que fiquem mesmo na parte de baixo. Isto vale para o caso de navegação por thumbnails, por exemplo.
 
@@ -110,7 +110,7 @@ A lei de Fitts é um modelo do movimento humano utilizado em ergonomia para prev
 
 Utilizar características físicas do mundo real como inercia e gravidade transformam a interface em algo tangível, dando um senso maior de realidade para objetos virtuais. Quando usados de maneira inteligente os gestos podem criar uma experiência verdadeiramente imersiva. No aplicativo de desenho Paper 53 é possível apagar itens realizando movimentos circulares anti-horários e refazer ações em movimentos circulares horários. A impressão é que podemos controlar o tempo, avançando e voltando sem precisar procurar uma borracha e interromper o ato de desenhar. O aplicativo nem é dos mais completos em termos de paleta de opções, mas seu fluxo de trabalho é tão gostoso que Paper 53 acabou sendo um grande sucesso.
 
-<img class="alignnone size-full wp-image-38276" alt="paper53" src="http://tableless.com.br/uploads/2013/07/paper53.jpg" width="660" height="495" srcset="uploads/2013/07/paper53.jpg 660w, uploads/2013/07/paper53-224x168.jpg 224w, uploads/2013/07/paper53-413x310.jpg 413w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38276" alt="paper53" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/paper53.jpg" width="660" height="495" srcset="uploads/2013/07/paper53.jpg 660w, uploads/2013/07/paper53-224x168.jpg 224w, uploads/2013/07/paper53-413x310.jpg 413w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### A busca por um padrão
 
@@ -124,11 +124,11 @@ Todo o webdesign como conhecemos hoje é baseado em metáforas. Utilizamos botõ
 
 Cada pessoa segura seu celular de maneira única. Mas, para generalizar, existem três grupos de pegadas básicas: segurar o celular com uma mão e tocar a tela com a outra, segurar o telefone com as duas mãos e usar a ponta dos dedões para teclar e &#8211; a pegada Mestra &#8211; segurar e teclar com uma mesma mão. Esta última é a mais comum. [Segundo uma pesquisa realizada por profissionais de UX][1] 49% das pessoas segura o telefone desta maneira. E não é a toa. É libertador utilizar apenas uma mão pois você pode fazer outras coisas com a outra&#8230; Por outro lado isto também é limitador pois boa parte da tela fica coberta. A dica que fica para os designers é utilizar controles primários no arco formado a partir do canto inferior, já que a área superior é mais difícil de alcançar.
 
-<img class="alignnone size-full wp-image-38273" alt="area-segura-iphone" src="http://tableless.com.br/uploads/2013/07/area-segura-iphone.jpg" width="660" height="600" srcset="uploads/2013/07/area-segura-iphone.jpg 660w, uploads/2013/07/area-segura-iphone-184x168.jpg 184w, uploads/2013/07/area-segura-iphone-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38273" alt="area-segura-iphone" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/area-segura-iphone.jpg" width="660" height="600" srcset="uploads/2013/07/area-segura-iphone.jpg 660w, uploads/2013/07/area-segura-iphone-184x168.jpg 184w, uploads/2013/07/area-segura-iphone-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Já reparou que a maior parte da navegação de aplicativos nativos fica justamente na parte de inferior da tela? Está aí a explicação!
 
-<img class="alignnone size-full wp-image-38277" alt="android-home" src="http://tableless.com.br/uploads/2013/07/android-home.jpg" width="660" height="600" srcset="uploads/2013/07/android-home.jpg 660w, uploads/2013/07/android-home-184x168.jpg 184w, uploads/2013/07/android-home-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38277" alt="android-home" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/android-home.jpg" width="660" height="600" srcset="uploads/2013/07/android-home.jpg 660w, uploads/2013/07/android-home-184x168.jpg 184w, uploads/2013/07/android-home-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Alias este tipo de diagramação conteúdo no topo, controles embaixo não é comum apenas em aplicativos de smartphones. Diversos outros aparelhos como calculadoras, balanças e iPods também partem deste mesmo princípio de design.
 
@@ -136,7 +136,7 @@ Quanto a direção &#8211; direita ou esquerda &#8211; não é algo que possa se
 
 O Aplicativo do Instagram, por exemplo, deixa a função principal &#8211; tirar fotos &#8211; no centro.
 
-<img class="alignnone size-full wp-image-38270" alt="instagram" src="http://tableless.com.br/uploads/2013/07/instagram.jpg" width="660" height="600" srcset="uploads/2013/07/instagram.jpg 660w, uploads/2013/07/instagram-184x168.jpg 184w, uploads/2013/07/instagram-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38270" alt="instagram" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/instagram.jpg" width="660" height="600" srcset="uploads/2013/07/instagram.jpg 660w, uploads/2013/07/instagram-184x168.jpg 184w, uploads/2013/07/instagram-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
 
 De posse destes dados fica muito mais fácil hierarquizar informações. Deixe os botões mais importantes embaixo e as opções menos frequentes no topo. Alias, a parte de cima da tela é uma área ótima para opções que podem alterar significativamente os dados como editar ou deletar. Já que é uma região mais difícil de alcançar você evita que o usuário encoste acidentalmente e apague algo importante.
 
@@ -148,7 +148,7 @@ Websites são aplicativos que funcionam dentro de outro aplicativo: o navegador.
 
 Deixar a lista de links aberta no topo também pode ser uma estratégia perigosa. Dependendo da quantidade de opções da sua página isto pode ofuscar completamente o conteúdo. A melhor prática de navegação, neste caso, é colapsar o menu em apenas uma âncora. Este tipo de abordagem pode ser facilmente criada utilizando JavaScript ou CSS3. Se você precisa de uma ajudinha o plugin [Responsive Nav][2] dá conta do recado.
 
-<img class="alignnone size-full wp-image-38271" alt="responsive-nav" src="http://tableless.com.br/uploads/2013/07/responsive-nav.jpg" width="660" height="600" srcset="uploads/2013/07/responsive-nav.jpg 660w, uploads/2013/07/responsive-nav-184x168.jpg 184w, uploads/2013/07/responsive-nav-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38271" alt="responsive-nav" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/responsive-nav.jpg" width="660" height="600" srcset="uploads/2013/07/responsive-nav.jpg 660w, uploads/2013/07/responsive-nav-184x168.jpg 184w, uploads/2013/07/responsive-nav-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Uma outra abordagem, ainda mais simples, é deixar a navegação no rodapé da página (sem ser fixa). Assim você dá ao usuário o que ele quer ver primeiro: o conteúdo.
 
@@ -158,7 +158,7 @@ Lembra das três pegadas básicas de smartphones? Esqueça elas por aqui! A ergo
 
 A posição mais confortável para menus acaba sendo nos cantos superiores, já que ficam próximos aos dedões. A área do meio neste caso deve ser evitada já que para alcança-la é necessário cobrir a tela com o braço, ofuscando o conteúdo.
 
-<img class="alignnone size-full wp-image-38272" alt="area-segura-ipad" src="http://tableless.com.br/uploads/2013/07/area-segura-ipad.jpg" width="660" height="600" srcset="uploads/2013/07/area-segura-ipad.jpg 660w, uploads/2013/07/area-segura-ipad-184x168.jpg 184w, uploads/2013/07/area-segura-ipad-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38272" alt="area-segura-ipad" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/area-segura-ipad.jpg" width="660" height="600" srcset="uploads/2013/07/area-segura-ipad.jpg 660w, uploads/2013/07/area-segura-ipad-184x168.jpg 184w, uploads/2013/07/area-segura-ipad-341x310.jpg 341w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Para outros tipos de controles (principalmente os que afetam o conteúdo a ser exibido imediantamente no canvas) o ideal é que fiquem mesmo na parte de baixo. Isto vale para o caso de navegação por thumbnails, por exemplo.
 
@@ -206,7 +206,7 @@ A lei de Fitts é um modelo do movimento humano utilizado em ergonomia para prev
 
 Utilizar características físicas do mundo real como inercia e gravidade transformam a interface em algo tangível, dando um senso maior de realidade para objetos virtuais. Quando usados de maneira inteligente os gestos podem criar uma experiência verdadeiramente imersiva. No aplicativo de desenho Paper 53 é possível apagar itens realizando movimentos circulares anti-horários e refazer ações em movimentos circulares horários. A impressão é que podemos controlar o tempo, avançando e voltando sem precisar procurar uma borracha e interromper o ato de desenhar. O aplicativo nem é dos mais completos em termos de paleta de opções, mas seu fluxo de trabalho é tão gostoso que Paper 53 acabou sendo um grande sucesso.
 
-<img class="alignnone size-full wp-image-38276" alt="paper53" src="http://tableless.com.br/uploads/2013/07/paper53.jpg" width="660" height="495" srcset="uploads/2013/07/paper53.jpg 660w, uploads/2013/07/paper53-224x168.jpg 224w, uploads/2013/07/paper53-413x310.jpg 413w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38276" alt="paper53" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/paper53.jpg" width="660" height="495" srcset="uploads/2013/07/paper53.jpg 660w, uploads/2013/07/paper53-224x168.jpg 224w, uploads/2013/07/paper53-413x310.jpg 413w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### A busca por um padrão
 
@@ -222,13 +222,13 @@ Essa é uma palavra que vem gerando um certo buzz ultimamente. Para quem não sa
 
 O aplicativo de calculadora mais antigo do iOS, como demonstrado neste comparativo da revista [Wired][9], é inspirado no visual de um objeto real: a calculadora Braun ET44 de 1977.
 
-<img class="alignnone size-full wp-image-38274" alt="calculator" src="http://tableless.com.br/uploads/2013/07/calculator.jpg" width="660" height="411" srcset="uploads/2013/07/calculator.jpg 660w, uploads/2013/07/calculator-269x168.jpg 269w, uploads/2013/07/calculator-497x310.jpg 497w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38274" alt="calculator" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/calculator.jpg" width="660" height="411" srcset="uploads/2013/07/calculator.jpg 660w, uploads/2013/07/calculator-269x168.jpg 269w, uploads/2013/07/calculator-497x310.jpg 497w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Esta é uma técnica que divide opiniões. O iOS usou durante bastante tempo, mas interfaces mais recentes como a do Windows 8 tem optado por elementos sólidos sem texturas. Se você pretende ou não utilizar feltro verde e madeirinha nos seus layouts isto fica a seu critério e eu não vou entrar neste mérito. Só é necessário lembrar de uma coisa: se uma interface lembra um objeto do mundo real ela deve se comportar da mesma maneira. Criou um aplicativo que lembra um livrinho? As pessoas vão querer virar as páginas. Preste bastante atenção neste tipo de comportamento &#8220;intuitivo&#8221; ou você pode acabar frustrando seu usuário mais do que agradando. [E tente não exagerar][10], ok?
 
 As vezes quebrar as barreiras do esqueumorfismo pode dar um ar novo a funções antigas. O aplicativo MyScript Calculator seria uma simples calculadora. A diferença é que você pode escrever os números na tela utilizando a ponta dos dedos ou uma caneta stylus. Através deste mecanismo é muito mais rápido &#8211; e divertido! &#8211; fazer operações matemáticas. O aplicativo ainda utiliza referências do mundo real (papel quadriculado), mas sem ficar preso as limitações de uma calculadora física.
 
-<img class="alignnone size-full wp-image-38275" alt="script-calculator" src="http://tableless.com.br/uploads/2013/07/script-calculator.jpg" width="660" height="495" srcset="uploads/2013/07/script-calculator.jpg 660w, uploads/2013/07/script-calculator-224x168.jpg 224w, uploads/2013/07/script-calculator-413x310.jpg 413w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-38275" alt="script-calculator" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/script-calculator.jpg" width="660" height="495" srcset="uploads/2013/07/script-calculator.jpg 660w, uploads/2013/07/script-calculator-224x168.jpg 224w, uploads/2013/07/script-calculator-413x310.jpg 413w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Conclusão
 

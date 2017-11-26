@@ -198,5 +198,5 @@ Agora, mesmo o seletor **div p** sendo mais específico, ele não controlará o 
   
 Use com cuidado. Se você colocar muitos **!important** no seu código, a utilidade deste valor se perderá. [Veja o exemplo][2].
 
- [1]: http://tableless.com.br/uploads/2009/07/inherit.html "exemplo do valor inherit do CSS"
- [2]: http://tableless.com.br/uploads/2009/07/important.html
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/07/inherit.html "exemplo do valor inherit do CSS"
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/07/important.html

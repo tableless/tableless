@@ -247,4 +247,4 @@ Pegue aqui os dois códigos para estudar: [Reconstrução Menu Livraria Cultura]
  [2]: http://tableless.com.br/convertidos/livraria-cultura/menu/original/
  [3]: http://tableless.com.br/image-replacement-x-imagens
  [4]: http://tableless.com.br/convertidos/livraria-cultura/menu/correto/
- [5]: http://tableless.com.br/uploads/2010/01/livraria-cultura.zip
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/01/livraria-cultura.zip

@@ -36,7 +36,7 @@ Já a barra da direita, mostra a listagem de breakpoints, pausando o debugger, e
 
 Lá no GitHub eles tem as instruções de como você pode usar isso HOJE. Mas eles já colocaram na versão [Nighly Build][6]. Queria ter trazido mais informações de uso, eu até clonei e rodei o `npm install`, mas está rodando até agora! 😉
 
-<img src="http://tableless.com.br/uploads/2016/09/Screen-Shot-2016-09-14-at-2.27.50-PM.png" alt="Screen Shot 2016-09-14 at 2.27.50 PM" width="1262" height="725" class="aligncenter size-full wp-image-55942" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/09/Screen-Shot-2016-09-14-at-2.27.50-PM.png" alt="Screen Shot 2016-09-14 at 2.27.50 PM" width="1262" height="725" class="aligncenter size-full wp-image-55942" />
 
  [1]: https://github.com/devtools-html/debugger.html/
  [2]: https://cloud.githubusercontent.com/assets/2134/16933811/babb4eec-4d05-11e6-8c7e-f133e54b756f.png

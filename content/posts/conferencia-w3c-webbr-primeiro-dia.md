@@ -31,7 +31,7 @@ A primeira keynote do dia foi da Fernanda Weiden (Facebook). A Fernanda apresent
   * Se uma aplicação está muito complicada é porque está tudo errado.
   * A possibilidade de buscar a conteúdos a qualquer momento permite transformar informação em conhecimento.
 
-## <img class="alignnone size-large wp-image-39548" alt="evolucao-sistemas" src="http://tableless.com.br/uploads/2013/11/evolucao-sistemas-589x310.jpg" width="589" height="310" srcset="uploads/2013/11/evolucao-sistemas-589x310.jpg 589w, uploads/2013/11/evolucao-sistemas-319x168.jpg 319w, uploads/2013/11/evolucao-sistemas-588x310.jpg 588w, uploads/2013/11/evolucao-sistemas.jpg 660w" sizes="(max-width: 589px) 100vw, 589px" />
+## <img class="alignnone size-large wp-image-39548" alt="evolucao-sistemas" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/evolucao-sistemas-589x310.jpg" width="589" height="310" srcset="uploads/2013/11/evolucao-sistemas-589x310.jpg 589w, uploads/2013/11/evolucao-sistemas-319x168.jpg 319w, uploads/2013/11/evolucao-sistemas-588x310.jpg 588w, uploads/2013/11/evolucao-sistemas.jpg 660w" sizes="(max-width: 589px) 100vw, 589px" />
 
 ## Processo de Desenvolvimento Front-End &#8211; Do caos ao Sublime.
 
@@ -43,7 +43,7 @@ Jaydson Gomes (Front-end Engineer do Terra) abriu os trabalhos com um aviso: &#8
   * Documentação é fundamental para o legado tecnológico.
   * É necessário centralizar toda a informação para facilitar o acesso a ela.
 
-## [<img class="alignnone size-large wp-image-39547" alt="do-caos-ao-sublime" src="http://tableless.com.br/uploads/2013/11/do-caos-ao-sublime-589x310.jpg" width="589" height="310" srcset="uploads/2013/11/do-caos-ao-sublime-589x310.jpg 589w, uploads/2013/11/do-caos-ao-sublime-319x168.jpg 319w, uploads/2013/11/do-caos-ao-sublime-588x310.jpg 588w, uploads/2013/11/do-caos-ao-sublime.jpg 660w" sizes="(max-width: 589px) 100vw, 589px" />][3]
+## [<img class="alignnone size-large wp-image-39547" alt="do-caos-ao-sublime" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/do-caos-ao-sublime-589x310.jpg" width="589" height="310" srcset="uploads/2013/11/do-caos-ao-sublime-589x310.jpg 589w, uploads/2013/11/do-caos-ao-sublime-319x168.jpg 319w, uploads/2013/11/do-caos-ao-sublime-588x310.jpg 588w, uploads/2013/11/do-caos-ao-sublime.jpg 660w" sizes="(max-width: 589px) 100vw, 589px" />][3]
 
 ## Jogos com HTML5
 
@@ -67,7 +67,7 @@ Afinal, por que fazer design responsivo? Por que a galera bacana está fazendo? 
   * Conteúdo é o que gira a web.
   * O design responsivo é como um bonde, se você correr dá para pegar ainda, mas daqui a 2, 3 anos pode ser tarde demais para a experimentação.
 
-## [<img class="alignnone size-large wp-image-39549" alt="responsivo-na-pratica" src="http://tableless.com.br/uploads/2013/11/responsivo-na-pratica-589x310.jpg" width="589" height="310" srcset="uploads/2013/11/responsivo-na-pratica-589x310.jpg 589w, uploads/2013/11/responsivo-na-pratica-319x168.jpg 319w, uploads/2013/11/responsivo-na-pratica-588x310.jpg 588w, uploads/2013/11/responsivo-na-pratica.jpg 660w" sizes="(max-width: 589px) 100vw, 589px" />][3]
+## [<img class="alignnone size-large wp-image-39549" alt="responsivo-na-pratica" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/responsivo-na-pratica-589x310.jpg" width="589" height="310" srcset="uploads/2013/11/responsivo-na-pratica-589x310.jpg 589w, uploads/2013/11/responsivo-na-pratica-319x168.jpg 319w, uploads/2013/11/responsivo-na-pratica-588x310.jpg 588w, uploads/2013/11/responsivo-na-pratica.jpg 660w" sizes="(max-width: 589px) 100vw, 589px" />][3]
 
 ## WAI-ARIA
 
@@ -91,7 +91,7 @@ Já pensou como será o CSS de amanhã? E de depois de amanhã? E daqui há 10 a
 
 Veja os [slides desta palestra no Speaker Deck][9].
 
-[<img class="alignnone size-large wp-image-39546" alt="css-layouts" src="http://tableless.com.br/uploads/2013/11/css-layouts-589x310.jpg" width="589" height="310" srcset="uploads/2013/11/css-layouts-589x310.jpg 589w, uploads/2013/11/css-layouts-319x168.jpg 319w, uploads/2013/11/css-layouts-588x310.jpg 588w, uploads/2013/11/css-layouts.jpg 660w" sizes="(max-width: 589px) 100vw, 589px" />][3]
+[<img class="alignnone size-large wp-image-39546" alt="css-layouts" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/css-layouts-589x310.jpg" width="589" height="310" srcset="uploads/2013/11/css-layouts-589x310.jpg 589w, uploads/2013/11/css-layouts-319x168.jpg 319w, uploads/2013/11/css-layouts-588x310.jpg 588w, uploads/2013/11/css-layouts.jpg 660w" sizes="(max-width: 589px) 100vw, 589px" />][3]
 
 ### Por enquanto é só&#8230;
 

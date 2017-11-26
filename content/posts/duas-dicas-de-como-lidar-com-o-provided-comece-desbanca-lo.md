@@ -47,31 +47,31 @@ Faça o seguinte:
 
 No menu à esquerda, expanda Aquisição (Traffic Source), depois expanda otimização de mecanismos de pesquisa (Search engine optimization) e clique em Consultas (Queries).
 
-[<img class="alignnone size-full wp-image-40936" alt="Como lidar com o not provided" src="http://tableless.com.br/uploads/2014/02/linkar-gtw-no-ga.png" width="711" height="362" srcset="uploads/2014/02/linkar-gtw-no-ga.png 711w, uploads/2014/02/linkar-gtw-no-ga-329x168.png 329w, uploads/2014/02/linkar-gtw-no-ga-588x299.png 588w, uploads/2014/02/linkar-gtw-no-ga-608x310.png 608w" sizes="(max-width: 711px) 100vw, 711px" />][2]
+[<img class="alignnone size-full wp-image-40936" alt="Como lidar com o not provided" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/linkar-gtw-no-ga.png" width="711" height="362" srcset="uploads/2014/02/linkar-gtw-no-ga.png 711w, uploads/2014/02/linkar-gtw-no-ga-329x168.png 329w, uploads/2014/02/linkar-gtw-no-ga-588x299.png 588w, uploads/2014/02/linkar-gtw-no-ga-608x310.png 608w" sizes="(max-width: 711px) 100vw, 711px" />][2]
 
 ### PASSO 2
 
 Configure como achar melhor e clique em EDITAR, no final da página:
 
-[<img class="alignnone size-full wp-image-40937" alt="configurando o google analytics" src="http://tableless.com.br/uploads/2014/02/2.png" width="829" height="1200" srcset="uploads/2014/02/2.png 829w, uploads/2014/02/2-116x168.png 116w, uploads/2014/02/2-214x310.png 214w" sizes="(max-width: 829px) 100vw, 829px" />][3]
+[<img class="alignnone size-full wp-image-40937" alt="configurando o google analytics" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/2.png" width="829" height="1200" srcset="uploads/2014/02/2.png 829w, uploads/2014/02/2-116x168.png 116w, uploads/2014/02/2-214x310.png 214w" sizes="(max-width: 829px) 100vw, 829px" />][3]
 
 ### PASSO 3
 
 Após clicar em editar, uma nova janela do GTW será aberta e você deverá selecionar o site em questão:
 
-[<img class="alignnone size-full wp-image-40938" alt="PASSO 3 Após clicar em editar, uma nova janela do GTW será aberta e você deverá selecionar o site em questão 2" src="http://tableless.com.br/uploads/2014/02/3.png" width="1529" height="583" srcset="uploads/2014/02/3.png 1529w, uploads/2014/02/3-329x125.png 329w, uploads/2014/02/3-588x224.png 588w, uploads/2014/02/3-660x251.png 660w" sizes="(max-width: 1529px) 100vw, 1529px" />][4]
+[<img class="alignnone size-full wp-image-40938" alt="PASSO 3 Após clicar em editar, uma nova janela do GTW será aberta e você deverá selecionar o site em questão 2" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/3.png" width="1529" height="583" srcset="uploads/2014/02/3.png 1529w, uploads/2014/02/3-329x125.png 329w, uploads/2014/02/3-588x224.png 588w, uploads/2014/02/3-660x251.png 660w" sizes="(max-width: 1529px) 100vw, 1529px" />][4]
 
 ### PASSO 4
 
 Clique em Salvar e, na próxima tela, Salvar novamente:
 
-[<img class="alignnone size-full wp-image-40939" alt="not provide analytics" src="http://tableless.com.br/uploads/2014/02/5.png" width="829" height="1200" srcset="uploads/2014/02/5.png 829w, uploads/2014/02/5-116x168.png 116w, uploads/2014/02/5-214x310.png 214w" sizes="(max-width: 829px) 100vw, 829px" />][5]
+[<img class="alignnone size-full wp-image-40939" alt="not provide analytics" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/5.png" width="829" height="1200" srcset="uploads/2014/02/5.png 829w, uploads/2014/02/5-116x168.png 116w, uploads/2014/02/5-214x310.png 214w" sizes="(max-width: 829px) 100vw, 829px" />][5]
 
 Feito isso, ao voltar no mesmo relatório, em Aquisição (Traffic Source > otimização de mecanismos de pesquisa (Search engine optimization) > Consultas, você verá uma lista de Keywords vindas diretamente do GTW.
 
 Ficará mais ou menos assim:
 
-[<img class="alignnone size-full wp-image-40940" alt="Not provided" src="http://tableless.com.br/uploads/2014/02/6.png" width="319" height="452" srcset="uploads/2014/02/6.png 319w, uploads/2014/02/6-118x168.png 118w, uploads/2014/02/6-218x310.png 218w" sizes="(max-width: 319px) 100vw, 319px" />][6]
+[<img class="alignnone size-full wp-image-40940" alt="Not provided" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/6.png" width="319" height="452" srcset="uploads/2014/02/6.png 319w, uploads/2014/02/6-118x168.png 118w, uploads/2014/02/6-218x310.png 218w" sizes="(max-width: 319px) 100vw, 319px" />][6]
 
 Prontinho! Agora você já tem dados essenciais e importantes para suas estratégias de SEO. Mas você achou que era só isso? Não!
 
@@ -81,7 +81,7 @@ Vamos lá:
 
 Em Aquisição > Palavras-chave > Organico, troque a dimensão primária para **Página de Destino** (se o seu estiver em Inglês, procure por Landing Pages).
 
-[<img class="alignnone size-full wp-image-40941" alt="Landing pages para SEO" src="http://tableless.com.br/uploads/2014/02/7.png" width="572" height="305" srcset="uploads/2014/02/7.png 572w, uploads/2014/02/7-315x168.png 315w" sizes="(max-width: 572px) 100vw, 572px" />][7]
+[<img class="alignnone size-full wp-image-40941" alt="Landing pages para SEO" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/7.png" width="572" height="305" srcset="uploads/2014/02/7.png 572w, uploads/2014/02/7-315x168.png 315w" sizes="(max-width: 572px) 100vw, 572px" />][7]
 
 Com esse novo relatório em mãos você pode pensar de algumas maneiras. Uma delas é que você tem controle da otimização OnPage das suas páginas e assim fica bacana criar uma relação assim:
 
@@ -98,9 +98,9 @@ Material complementar:
 Espero que ajude vocês, até logo!
 
  [1]: http://googleblog.blogspot.com.br/2011/10/making-search-more-secure.html
- [2]: http://tableless.com.br/uploads/2014/02/linkar-gtw-no-ga.png
- [3]: http://tableless.com.br/uploads/2014/02/2.png
- [4]: http://tableless.com.br/uploads/2014/02/3.png
- [5]: http://tableless.com.br/uploads/2014/02/5.png
- [6]: http://tableless.com.br/uploads/2014/02/6.png
- [7]: http://tableless.com.br/uploads/2014/02/7.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/linkar-gtw-no-ga.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/2.png
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/3.png
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/5.png
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/6.png
+ [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/7.png

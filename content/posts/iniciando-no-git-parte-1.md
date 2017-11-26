@@ -40,7 +40,7 @@ O Git pensa um pouco diferente: ele trata os dados como snapshots. Cada vez que 
 
 Esta imagem vem direto do GitHub. Fica mais fácil entender como ele atrela um commit no outro usando snapshots.
   
-<img src="http://tableless.com.br/uploads/2012/11/gh-mac-app.png" alt="Github" width="1960" height="1062" class="alignnone size-full wp-image-40447" srcset="uploads/2012/11/gh-mac-app.png 1960w, uploads/2012/11/gh-mac-app-310x168.png 310w, uploads/2012/11/gh-mac-app-572x310.png 572w" sizes="(max-width: 1960px) 100vw, 1960px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/gh-mac-app.png" alt="Github" width="1960" height="1062" class="alignnone size-full wp-image-40447" srcset="uploads/2012/11/gh-mac-app.png 1960w, uploads/2012/11/gh-mac-app-310x168.png 310w, uploads/2012/11/gh-mac-app-572x310.png 572w" sizes="(max-width: 1960px) 100vw, 1960px" />
 
 ## Áreas de operação
 
@@ -52,7 +52,7 @@ O Work Directory é onde você vai trabalhar. Os arquivos ficam aí para poderem
 
 Quando você faz uma alteração em algum arquivo, ele vai para o Staging Area, que é uma área intermediária. Basicamente o Staging Area contém o Git Directory com os arquivos modificados, onde ele guarda as informações sobre o que vai no seu próximo commit. Veja a imagem abaixo direto do [site do Git][4].
 
-<img class="alignnone size-full wp-image-7264" title="18333fig0106-tn" src="http://tableless.com.br/uploads/2012/11/18333fig0106-tn.png" alt="" width="500" height="460" srcset="uploads/2012/11/18333fig0106-tn.png 500w, uploads/2012/11/18333fig0106-tn-300x276.png 300w" sizes="(max-width: 500px) 100vw, 500px" />
+<img class="alignnone size-full wp-image-7264" title="18333fig0106-tn" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/18333fig0106-tn.png" alt="" width="500" height="460" srcset="uploads/2012/11/18333fig0106-tn.png 500w, uploads/2012/11/18333fig0106-tn-300x276.png 300w" sizes="(max-width: 500px) 100vw, 500px" />
 
 ## Instalando o Git
 
@@ -134,4 +134,4 @@ Veja um vídeo que mostra os comandos básicos do GIT:
  [4]: http://git-scm.com/
  [5]: http://code.google.com/p/msysgit
  [6]: http://code.google.com/p/git-osx-installer
- [7]: http://tableless.com.br/uploads/2012/11/Screen-Shot-2012-11-19-at-11.21.33-AM.png
+ [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/Screen-Shot-2012-11-19-at-11.21.33-AM.png

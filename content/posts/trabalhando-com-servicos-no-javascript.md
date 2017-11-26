@@ -133,7 +133,7 @@ Este é um exemplo bem interessante. Estamos combinando _closures_ com _factory_
 Com isso podemos criar vários contadores, e trabalhar como melhor convir com estes contadores.
 
 <div id="attachment_56186" style="width: 510px" class="wp-caption aligncenter">
-  <img class="wp-image-56186 size-full" src="http://tableless.com.br/uploads/2016/10/wtf.gif" alt="Só isso! Simples, né?" width="500" height="284" />
+  <img class="wp-image-56186 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/wtf.gif" alt="Só isso! Simples, né?" width="500" height="284" />
   
   <p class="wp-caption-text">
     Só isso! Simples, né?
@@ -168,7 +168,7 @@ Agora temos dois arquivos, um contendo o _factory_ do contador, e outro contendo
 
 ## Módulos JavaScript
 
-<img class="size-full wp-image-56185 aligncenter" src="http://tableless.com.br/uploads/2016/10/module.gif" alt="module" width="400" height="250" />
+<img class="size-full wp-image-56185 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/module.gif" alt="module" width="400" height="250" />
 
 Como visto anteriormente, é bem simples criar serviços com JavaScript, basta antes entender alguns conceitos.
 

@@ -102,7 +102,7 @@ Um HTML bem escrito, limpo e escalonado garante uma melhora sensível no desenvo
 
 Algumas coisas podem soar como óbvias mas é comum o já _marginalizado_ HTML (assunto para outro post) ser entregue a responsabilidade de desenvolvedores de outras frentes (como java por exemplo) para garantir um prazo de entrega mais rápido e menor custo, uma vez que desenvolvimento e integração acontecem no mesmo momento. HTML é sim uma linguagem realmente simples. Porém ela também é muito criteriosa e domina-lá é a garantia entre os milhões de page-views e um mirror do seu-site-que-fechou-ano-passado no web archive. Estamos falando de milhares/milhões de visitas e transações simultâneas, alta performance, alta colaboração, interoperabilidade de dispositivos, garantia cross-browser, garantia de baixo impacto e custo para mudanças estruturais futuras da aplicação (design), redução de gastos na implementação do projeto devido a rapidez da integração dos componentes ao front-end, de um responsável em entender as requisições do cliente e discutí-las com linguagem simples, para garantir que as expectativas criadas possam ser atingidas na camada web da aplicação e devidamente repassadas para as outras frentes do projeto. A lista é maior. Não é pouca coisa e o mais indicado para preencher esta demanda somos nós. Se a satisfação do usuário é medida diretamente pela sua experiência no front-end, somos nós os presidentes. Detalhando um passo-a-passo de Usabilidade, isso fica mais claro ainda:
 
-[<img class="aligncenter size-full wp-image-2139" src="http://tableless.com.br/uploads/2010/10/visual_map.png" alt="Um mapa mostrando todas as etapas de um Plano de Usabilidade" width="681" height="454" srcset="uploads/2010/10/visual_map.png 890w, uploads/2010/10/visual_map-300x200.png 300w" sizes="(max-width: 681px) 100vw, 681px" />][1]
+[<img class="aligncenter size-full wp-image-2139" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/10/visual_map.png" alt="Um mapa mostrando todas as etapas de um Plano de Usabilidade" width="681" height="454" srcset="uploads/2010/10/visual_map.png 890w, uploads/2010/10/visual_map-300x200.png 300w" sizes="(max-width: 681px) 100vw, 681px" />][1]
 
 Voltaremos a esse Plano de Usabilidade no próximo post, discutindo a criticidade de cada uma das etapas, e aplicabilidade de acordo com tamanho e prazo de entrega do projeto, porém posso adiantar que das 26 etapas, em pelo menos 17 um profissional sênior de HTML/CSS/JS deve ter grande desenvoltura, com atuação moderada/leve ou massiva:
 
@@ -131,6 +131,6 @@ Referências:
   * [How do colors affect purchases?][3]
   * <a href="http://oreilly.com/catalog/9780596529307" target="_blank">High Performance Web Sites &#8211; Essential Knowledge for Front-End Engineers</a>
 
- [1]: http://tableless.com.br/uploads/2010/10/visual_map.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/10/visual_map.png
  [2]: http://www.usability.gov/methods/process.html
  [3]: http://blog.kissmetrics.com/color-psychology/?wide=1

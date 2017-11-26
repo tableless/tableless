@@ -31,7 +31,7 @@ Executei uma dinâmica recentemente como voluntário do PMI-CE, o qual faço par
 
 Cada participante foi convidado de acordo com seu perfil de uso e representam as personas prioritárias do projeto.
 
-<img class="alignnone size-full wp-image-56525" src="http://tableless.com.br/uploads/2016/11/1WhatsApp-Image-2016-11-21-at-22.00.11.jpeg" alt="1whatsapp-image-2016-11-21-at-22-00-11" width="1280" height="720" />
+<img class="alignnone size-full wp-image-56525" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/11/1WhatsApp-Image-2016-11-21-at-22.00.11.jpeg" alt="1whatsapp-image-2016-11-21-at-22-00-11" width="1280" height="720" />
 
 **Funcionou assim:**
 

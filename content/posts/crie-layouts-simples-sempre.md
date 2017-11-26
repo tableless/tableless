@@ -32,7 +32,7 @@ Podemos dizer que o conceito desse pensamento é irmão do título desse artigo.
 Como princípio básico, eu construo os meus layouts o mais simples possível para os usuários. Mas para chegar numa interface simples é preciso muito convencimento e poder de argumentação com os clientes. 100% dos que eu atendi nesses anos, jamais criou o seu próprio conteúdo de comunicação sem que eu brigasse pelo usuário!
 
 <div id="attachment_47659" style="width: 791px" class="wp-caption aligncenter">
-  <img class="wp-image-47659" src="http://tableless.com.br/uploads/2015/03/crie-layouts-simples-sempre-001.jpg" alt="&quot;Don't be evil&quot; - Frase conceito do Google usada como norte em todos os projetos." width="781" height="368" srcset="uploads/2015/03/crie-layouts-simples-sempre-001.jpg 800w, uploads/2015/03/crie-layouts-simples-sempre-001-265x125.jpg 265w, uploads/2015/03/crie-layouts-simples-sempre-001-400x189.jpg 400w" sizes="(max-width: 781px) 100vw, 781px" />
+  <img class="wp-image-47659" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/crie-layouts-simples-sempre-001.jpg" alt="&quot;Don't be evil&quot; - Frase conceito do Google usada como norte em todos os projetos." width="781" height="368" srcset="uploads/2015/03/crie-layouts-simples-sempre-001.jpg 800w, uploads/2015/03/crie-layouts-simples-sempre-001-265x125.jpg 265w, uploads/2015/03/crie-layouts-simples-sempre-001-400x189.jpg 400w" sizes="(max-width: 781px) 100vw, 781px" />
   
   <p class="wp-caption-text">
     &#8220;Don&#8217;t be evil&#8221; &#8211; Frase conceito do Google usada como norte em todos os projetos.
@@ -47,14 +47,14 @@ Por mais que eu concorde com esse último argumento, isso não significa que ele
 
 A prova disso é que se você pedir para um empresário responder junto com ele uma simples matriz de <a title="Análise SWOT | Esse link abre numa nova janela" href="http://pt.wikipedia.org/wiki/An%C3%A1lise_SWOT" target="_blank">Análise SWOT</a> sobre a sua empresa, ele será incapaz de responder de forma equilibrada a maioria dos tópicos. Ora vai superestimar alguns pontos, como subestimar outros. O resultado dessa estratégia é criar uma interface que efetivamente não comunica, não atrai, e não interage com o consumidor/usuário.
 
-<img class="aligncenter wp-image-47658" src="http://tableless.com.br/uploads/2015/03/crie-layouts-simples-sempre-002.jpg" alt="crie-layouts-simples-sempre-002" width="350" height="328" srcset="uploads/2015/03/crie-layouts-simples-sempre-002.jpg 800w, uploads/2015/03/crie-layouts-simples-sempre-002-148x139.jpg 148w, uploads/2015/03/crie-layouts-simples-sempre-002-400x375.jpg 400w" sizes="(max-width: 350px) 100vw, 350px" />
+<img class="aligncenter wp-image-47658" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/crie-layouts-simples-sempre-002.jpg" alt="crie-layouts-simples-sempre-002" width="350" height="328" srcset="uploads/2015/03/crie-layouts-simples-sempre-002.jpg 800w, uploads/2015/03/crie-layouts-simples-sempre-002-148x139.jpg 148w, uploads/2015/03/crie-layouts-simples-sempre-002-400x375.jpg 400w" sizes="(max-width: 350px) 100vw, 350px" />
 
 Aliás, interagir é um verbo que dificilmente os pequenos e médios empresários gostam de conjugar. O foco mesmo é a concorrência em todas as análises e tomadas de decisões. Para quase todas as perguntas a resposta é sempre a mesma. &#8220;_**Deixa eu ver como o meu concorrente está fazendo no site dele.**_&#8221; E assim, adeus diferencial.
 
 ### Mas e o conceito do simples?
 
 <div id="attachment_47660" style="width: 800px" class="wp-caption aligncenter">
-  <img class="wp-image-47660" src="http://tableless.com.br/uploads/2015/03/crie-layouts-simples-sempre-003.jpg" alt="&quot;Design é função, não forma&quot; (Steve Jobs)" width="790" height="411" srcset="uploads/2015/03/crie-layouts-simples-sempre-003.jpg 800w, uploads/2015/03/crie-layouts-simples-sempre-003-265x139.jpg 265w, uploads/2015/03/crie-layouts-simples-sempre-003-400x208.jpg 400w" sizes="(max-width: 790px) 100vw, 790px" />
+  <img class="wp-image-47660" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/crie-layouts-simples-sempre-003.jpg" alt="&quot;Design é função, não forma&quot; (Steve Jobs)" width="790" height="411" srcset="uploads/2015/03/crie-layouts-simples-sempre-003.jpg 800w, uploads/2015/03/crie-layouts-simples-sempre-003-265x139.jpg 265w, uploads/2015/03/crie-layouts-simples-sempre-003-400x208.jpg 400w" sizes="(max-width: 790px) 100vw, 790px" />
   
   <p class="wp-caption-text">
     &#8220;Design é função, não forma&#8221; (Steve Jobs)

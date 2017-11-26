@@ -61,7 +61,7 @@ Todas as especificações baseadas em DocBlock contém _tags_ (identificadas atr
 ### Os tipos de blocos de comentários do CSSDoc
 
 <div id="attachment_2550" style="width: 238px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/uploads/2010/12/cssdoc-cssfile-structure-00.png"><img src="http://tableless.com.br/uploads/2010/12/cssdoc-cssfile-structure-00-228x300.png" alt="Estrutura do CSSDoc" width="228" height="300" class="size-medium wp-image-2550" srcset="uploads/2010/12/cssdoc-cssfile-structure-00-228x300.png 228w, uploads/2010/12/cssdoc-cssfile-structure-00.png 274w" sizes="(max-width: 228px) 100vw, 228px" /></a>
+  <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/cssdoc-cssfile-structure-00.png"><img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/cssdoc-cssfile-structure-00-228x300.png" alt="Estrutura do CSSDoc" width="228" height="300" class="size-medium wp-image-2550" srcset="uploads/2010/12/cssdoc-cssfile-structure-00-228x300.png 228w, uploads/2010/12/cssdoc-cssfile-structure-00.png 274w" sizes="(max-width: 228px) 100vw, 228px" /></a>
   
   <p class="wp-caption-text">
     Estrutura do CSSDoc
@@ -98,7 +98,7 @@ E mesmo com o uso do CSSDoc você pode continuar a utilizar o comentário conven
 
 ### Bônus: Cheat Sheet
 
-Desenvolvi uma Cheat Sheet (guia de referência rápida) não oficial, em inglês, sobre as principais tags do CSSDoc e os comentários de arquivo e de seção. Você pode baixá-la <a href="http://tableless.com.br/uploads/2010/12/cssdoc_cheat_sheet.pdf" target="_blank">aqui</a>.
+Desenvolvi uma Cheat Sheet (guia de referência rápida) não oficial, em inglês, sobre as principais tags do CSSDoc e os comentários de arquivo e de seção. Você pode baixá-la <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/cssdoc_cheat_sheet.pdf" target="_blank">aqui</a>.
 
 Para saber mais sobre o projeto e ver outros exemplos de aplicação das _tags_: <a href="http://www.cssdoc.net" target="_blank">CSSDoc.net</a>
 

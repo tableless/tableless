@@ -42,7 +42,7 @@ Nos kit&#8217;s poderíamos encontrar:
   * Camiseta (muito bonita por sinal)
   * Arduino Uno (sim, você leu certo, Arduino)
 
-## [<img class="aligncenter wp-image-48385" src="http://tableless.com.br/uploads/2015/04/arduino.jpg" alt="arduino" width="365" height="486" />][1]
+## [<img class="aligncenter wp-image-48385" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/arduino.jpg" alt="arduino" width="365" height="486" />][1]
 
 ## Apresentação
 
@@ -56,7 +56,7 @@ Apartir dai foram horas e mais horas codificando, revisando usabilidade de layou
 
 Durante as milhares de horas de revisão das ideia que seriam apresentadas ao final do hackathon, foi oferecido várias refeições, lanches, coffebreaks. E claro, sem deixar passar uma geladeira com refrigerantes, sucos, milkshakes, bebidas energéticas que nós revigoravam a todo o momento.
 
-[<img class="aligncenter wp-image-48386" src="http://tableless.com.br/uploads/2015/04/timelove.jpg" alt="timelove" width="365" height="274" />][2]
+[<img class="aligncenter wp-image-48386" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/timelove.jpg" alt="timelove" width="365" height="274" />][2]
 
 ## Time to friends
 
@@ -74,5 +74,5 @@ Foi um festival de ideias criativas, pessoas empenhadas, todos aplaudindo as apr
 
 Por fim tivemos as premiações de melhor aplicação desenvolvida e das categorias web, mobile, cidadania.
 
- [1]: http://tableless.com.br/uploads/2015/04/arduino.jpg
- [2]: http://tableless.com.br/uploads/2015/04/timelove.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/arduino.jpg
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/timelove.jpg

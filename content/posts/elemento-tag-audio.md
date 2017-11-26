@@ -14,13 +14,13 @@ twittercomments:
 enclosure:
   - |
     |
-        http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3
+        https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3
         3418240
         audio/mpeg
         
   - |
     |
-        http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg
+        https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg
         5257958
         audio/ogg
         
@@ -156,12 +156,12 @@ Como no caso dos vídeos, ainda é um problema termos um formato que funcione co
 
 A sintaxe é muito simples:
 
-<pre lang="HTML">&lt;audio src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" controls="controls">&lt;/audio>
+<pre lang="HTML">&lt;audio src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" controls="controls">&lt;/audio>
 </pre>
 
 Colocando um conteúdo dentro da tag para que browsers que não suportam possam baixar este arquivo.
 
-<pre lang="HTML" line="1">&lt;audio src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" controls="controls">
+<pre lang="HTML" line="1">&lt;audio src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" controls="controls">
    Você pode <a href="http://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/">baixar essa música gratuitamente no Public Domain 2Ten.</a>
 &lt;/audio>
 </pre>
@@ -169,15 +169,15 @@ Colocando um conteúdo dentro da tag para que browsers que não suportam possam 
 Suponha então que você tenha que servir dois tipos de formatos de audio para cobrir a maioria dos browsers:
 
 <pre lang="HTML">&lt;audio controls="controls">
-  &lt;source src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg" type="audio/ogg" />
-  &lt;source src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" type="audio/mpeg" />
+  &lt;source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg" type="audio/ogg" />
+  &lt;source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" type="audio/mpeg" />
    Você pode <a href="http://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/">baixar essa música gratuitamente no Public Domain 2Ten.</a>
 &lt;/audio>
 </pre>
 
 Resultado:
   
-<audio controls="controls"><source src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg" type="audio/ogg" /><source src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" type="audio/mpeg" />Você pode [baixar essa música gratuitamente no Public Domain 2Ten.][1]</audio>
+<audio controls="controls"><source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg" type="audio/ogg" /><source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" type="audio/mpeg" />Você pode [baixar essa música gratuitamente no Public Domain 2Ten.][1]</audio>
 
 Se você entrar com o Internet Explorer, provavelmente ele mostrará a mensagem para baixar o arquivo que colocamos. 😉
 
@@ -389,12 +389,12 @@ Como no caso dos vídeos, ainda é um problema termos um formato que funcione co
 
 A sintaxe é muito simples:
 
-<pre lang="HTML">&lt;audio src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" controls>&lt;/audio>
+<pre lang="HTML">&lt;audio src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" controls>&lt;/audio>
 </pre>
 
 Colocando um conteúdo dentro da tag para que browsers que não suportam possam baixar este arquivo.
 
-<pre lang="HTML">&lt;audio src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" controls="controls">
+<pre lang="HTML">&lt;audio src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" controls="controls">
    Você pode <a href="http://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/">baixar essa música gratuitamente no Public Domain 2Ten.</a>
 &lt;/audio>
 </pre>
@@ -402,15 +402,15 @@ Colocando um conteúdo dentro da tag para que browsers que não suportam possam 
 Suponha então que você tenha que servir dois tipos de formatos de audio para cobrir a maioria dos browsers:
 
 <pre lang="HTML">&lt;audio controls>
-  &lt;source src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg" type="audio/ogg" />
-  &lt;source src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" type="audio/mpeg" />
+  &lt;source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg" type="audio/ogg" />
+  &lt;source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" type="audio/mpeg" />
    Você pode <a href="http://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/">baixar essa música gratuitamente no Public Domain 2Ten.</a>
 &lt;/audio>
 </pre>
 
 Resultado:
   
-<audio controls><source src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg" type="audio/ogg" /><source src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" type="audio/mpeg" />Você pode [baixar essa música gratuitamente no Public Domain 2Ten.][1]</audio>
+<audio controls><source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg" type="audio/ogg" /><source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" type="audio/mpeg" />Você pode [baixar essa música gratuitamente no Public Domain 2Ten.][1]</audio>
 
 Se você entrar com o Internet Explorer, provavelmente ele mostrará a mensagem para baixar o arquivo que colocamos. 😉
 
@@ -519,7 +519,7 @@ Você pode criar seu próprio player se preferir. Você pode manipular os contro
 
 Teste abaixo:
 
-<audio id="player" controls><source src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg" type="audio/ogg" /><source src="http://tableless.com.br/uploads/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" type="audio/mpeg" />Você pode [baixar essa música gratuitamente no Public Domain 2Ten.][1]</audio>
+<audio id="player" controls><source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg" type="audio/ogg" /><source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" type="audio/mpeg" />Você pode [baixar essa música gratuitamente no Public Domain 2Ten.][1]</audio>
 
 <div class="controlsplayer" style="padding:20px;">
   <button onclick="javascript: document.getElementById('player').play()">Play</button><br /> <button onclick="javascript: document.getElementById('player').pause()">Pause</button><br /> <button onclick="javascript: document.getElementById('player').volume += 0.1">Aumenta Volume</button><br /> <button onclick="javascript: document.getElementById('player').volume -= 0.1">Diminui Volume</button>

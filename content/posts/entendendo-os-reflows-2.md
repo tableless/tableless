@@ -48,7 +48,7 @@ Para explicar como isso acontece, o importante é entender como um navegador ren
 Document Object Model (DOM) é uma interface independente de linguagem e plataforma para representar e interagir com objetos em HTML, XHTML e XML. Mas o DOM é mais que isso; toda linguagem estruturada tem uma arvore DOM.
 
 <div id="attachment_3941" style="width: 490px" class="wp-caption alignleft">
-  <a href="http://tableless.com.br/uploads/2011/07/DOMTree.gif"><img class="size-full wp-image-3941 " src="http://tableless.com.br/uploads/2011/07/DOMTree.gif" alt="Exemplo de arvore DOM para documento HTML" width="480" height="212" srcset="uploads/2011/07/DOMTree.gif 800w, uploads/2011/07/DOMTree-300x132.gif 300w" sizes="(max-width: 480px) 100vw, 480px" /></a>
+  <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/DOMTree.gif"><img class="size-full wp-image-3941 " src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/DOMTree.gif" alt="Exemplo de arvore DOM para documento HTML" width="480" height="212" srcset="uploads/2011/07/DOMTree.gif 800w, uploads/2011/07/DOMTree-300x132.gif 300w" sizes="(max-width: 480px) 100vw, 480px" /></a>
   
   <p class="wp-caption-text">
     Exemplo de arvore DOM para documento HTML
@@ -60,7 +60,7 @@ Mas sobre o DOM podemos dizer que programas ou scripts podem dinamicamente acess
 ## Render Tree e como realmente entender display X visibility
 
 <div id="attachment_3942" style="width: 514px" class="wp-caption alignnone">
-  <a href="http://tableless.com.br/uploads/2011/07/render.png"><img class="size-full wp-image-3942 " src="http://tableless.com.br/uploads/2011/07/render.png" alt="Como a render tree e montada" width="504" height="234" srcset="uploads/2011/07/render.png 630w, uploads/2011/07/render-300x139.png 300w" sizes="(max-width: 504px) 100vw, 504px" /></a>
+  <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/render.png"><img class="size-full wp-image-3942 " src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/render.png" alt="Como a render tree e montada" width="504" height="234" srcset="uploads/2011/07/render.png 630w, uploads/2011/07/render-300x139.png 300w" sizes="(max-width: 504px) 100vw, 504px" /></a>
   
   <p class="wp-caption-text">
     Como a render tree é montada
@@ -104,7 +104,7 @@ Para explicar como isso acontece, o importante é entender como um navegador ren
 Document Object Model (DOM) é uma interface independente de linguagem e plataforma para representar e interagir com objetos em HTML, XHTML e XML. Mas o DOM é mais que isso; toda linguagem estruturada tem uma arvore DOM.
 
 <div id="attachment_3941" style="width: 490px" class="wp-caption alignleft">
-  <a href="http://tableless.com.br/uploads/2011/07/DOMTree.gif"><img class="size-full wp-image-3941 " src="http://tableless.com.br/uploads/2011/07/DOMTree.gif" alt="Exemplo de arvore DOM para documento HTML" width="480" height="212" srcset="uploads/2011/07/DOMTree.gif 800w, uploads/2011/07/DOMTree-300x132.gif 300w" sizes="(max-width: 480px) 100vw, 480px" /></a>
+  <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/DOMTree.gif"><img class="size-full wp-image-3941 " src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/DOMTree.gif" alt="Exemplo de arvore DOM para documento HTML" width="480" height="212" srcset="uploads/2011/07/DOMTree.gif 800w, uploads/2011/07/DOMTree-300x132.gif 300w" sizes="(max-width: 480px) 100vw, 480px" /></a>
   
   <p class="wp-caption-text">
     Exemplo de arvore DOM para documento HTML
@@ -116,7 +116,7 @@ Mas sobre o DOM podemos dizer que programas ou scripts podem dinamicamente acess
 ## Render Tree e como realmente entender display X visibility
 
 <div id="attachment_3942" style="width: 514px" class="wp-caption alignnone">
-  <a href="http://tableless.com.br/uploads/2011/07/render.png"><img class="size-full wp-image-3942 " src="http://tableless.com.br/uploads/2011/07/render.png" alt="Como a render tree e montada" width="504" height="234" srcset="uploads/2011/07/render.png 630w, uploads/2011/07/render-300x139.png 300w" sizes="(max-width: 504px) 100vw, 504px" /></a>
+  <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/render.png"><img class="size-full wp-image-3942 " src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/render.png" alt="Como a render tree e montada" width="504" height="234" srcset="uploads/2011/07/render.png 630w, uploads/2011/07/render-300x139.png 300w" sizes="(max-width: 504px) 100vw, 504px" /></a>
   
   <p class="wp-caption-text">
     Como a render tree é montada

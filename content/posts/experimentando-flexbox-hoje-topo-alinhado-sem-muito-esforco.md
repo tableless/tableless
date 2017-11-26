@@ -15,7 +15,7 @@ tags:
 ---
 Como muitos desenvolvedores web, gosto de experimentar _features_ novas ocasionalmente. Uma das coisas que costumava fazer em todo projeto é deixar o menu alinhado horizontalmente à logo, como no exemplo abaixo:
 
-[<img class="alignnone wp-image-52030 size-full" src="http://tableless.com.br/uploads/2015/11/print.png" alt="Exemplo de topo com logo e links" width="1175" height="78" />][1]
+[<img class="alignnone wp-image-52030 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/11/print.png" alt="Exemplo de topo com logo e links" width="1175" height="78" />][1]
 
 Só que nunca foi tão fácil assim: para deixar eles alinhados verticalmente, precisamos adicionar `margin` ou `padding` à logo ou ao menu. E com a popularização do site responsivo, os tamanhos dessas propriedades não eram os únicos problemas: tanto a logo quanto o espaçamento entre os links poderiam diminuir ou aumentar conforme o tamanho da tela e daria um grande trabalho (criar vários _media queries_ com vários ajustes em cada resolução) para conseguirmos alinhar em todos os dispositivos.
 
@@ -53,4 +53,4 @@ A <a href="http://caniuse.com/flexbox" target="_blank">compatibilidade do flexbo
 
 Pode parecer um problema pequeno, mas estas duas linhas acabaram resolvendo muitos problemas nos meus projetos mais recentes. Como o _flexbox_ ainda não é uma _feature_ &#8220;100% _bulletproof&#8221;_, recomendo usar em pequenos ajustes como o deste post.
 
- [1]: http://tableless.com.br/uploads/2015/11/print.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/11/print.png

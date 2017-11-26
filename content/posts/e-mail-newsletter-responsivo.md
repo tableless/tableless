@@ -295,7 +295,7 @@ A principal regra no desenvolvimento de e-mails newsletter é a de sempre prefer
 
 Vamos começar pelo layout para desktops. Para a nossa demo vamos considerar uma tabela com uma largura de 640px, dividida em duas colunas com 320px cada. Para fazer o distanciamento dessas colunas vamos trabalhar com o parâmetro cellpadding. Uma outra opção seria o cellspacing, mas neste caso o espaço a mais entre as células da tabela faria com que ela ficasse maior do que 640px e desalinharia o layout. Já quando usamos cellpadding, o espaço é adicionado internamente nas células, sem aumentar o tamanho final da tabela.
 
-<img class="alignnone size-full wp-image-7628" alt="Screenshot Demo E-mail Newsletter" src="http://tableless.com.br/uploads/2012/12/screenshot-demo-email-newsl.jpg" width="720" height="760" srcset="uploads/2012/12/screenshot-demo-email-newsl.jpg 720w, uploads/2012/12/screenshot-demo-email-newsl-284x300.jpg 284w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7628" alt="Screenshot Demo E-mail Newsletter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/12/screenshot-demo-email-newsl.jpg" width="720" height="760" srcset="uploads/2012/12/screenshot-demo-email-newsl.jpg 720w, uploads/2012/12/screenshot-demo-email-newsl-284x300.jpg 284w" sizes="(max-width: 720px) 100vw, 720px" />
 
 Ainda pensando na versão desktop, para alinhar em duas colunas usaremos o aling=left diretamente na tabela. Isso equivaleria ao float:left do CSS. Mas, se aplicar o float:left você poderia ter problemas com alguns leitores de e-mails desktop, como o outlook 2007.
 
@@ -323,7 +323,7 @@ Ainda pensando na versão desktop, para alinhar em duas colunas usaremos o aling
 
 Agora vamos ao CSS! Antes de tudo, nós vamos colocar os media queries no inicio do nosso código. Isso irá evitar algum acidente caso o leitor de e-mails da pessoa resolva ler seus media queries mesmo que você não queira. É raro, mas acontece&#8230; E, se acontecer, o código a seguir, que é o da versão desktop, irá sobrescrever o código do Media Querie evitando que carregue parâmetros específicos para o smartphone na versão desktop do site.
 
-<img class="alignnone size-full wp-image-7631" alt="Screenshot E-mail Newsletter Mobile" src="http://tableless.com.br/uploads/2012/12/screenshot-newsletter-mobil.jpg" width="720" height="760" srcset="uploads/2012/12/screenshot-newsletter-mobil.jpg 720w, uploads/2012/12/screenshot-newsletter-mobil-284x300.jpg 284w" sizes="(max-width: 720px) 100vw, 720px" />
+<img class="alignnone size-full wp-image-7631" alt="Screenshot E-mail Newsletter Mobile" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/12/screenshot-newsletter-mobil.jpg" width="720" height="760" srcset="uploads/2012/12/screenshot-newsletter-mobil.jpg 720w, uploads/2012/12/screenshot-newsletter-mobil-284x300.jpg 284w" sizes="(max-width: 720px) 100vw, 720px" />
 
 Para transformar o código acima, que é de duas colunas, em um código de uma coluna basta eu mandar a tabela principal, com 640px de largura, ficar com menos que isso. As colunas internas, que tem 320px cada irão se manter deste mesmo tamanho e “cair” uma para baixo da outra quando a tabela principal passar a ser menor. Não se esqueça de usar o !important para sobrepor os estilos do HTML.
 
@@ -418,7 +418,7 @@ Da mesma forma que acontece com os browsers, a medida que os clientes de e-mail 
  [3]: http://blog.popupdesign.com.br/design-responsivo-i-o-que-e-e-por-que-usar/ "Design Responsivo 1"
  [4]: http://blog.popupdesign.com.br/design-responsivo-grids-e-texto/ "Design Responsivo 2"
  [5]: http://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/ "Design Responsivo 3"
- [6]: http://tableless.com.br/uploads/2012/12/exemplo_newsletter_responsiva.rar "Exemplo de Newsletter Responsiva"
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/12/exemplo_newsletter_responsiva.rar "Exemplo de Newsletter Responsiva"
  [7]: http://www.campaignmonitor.com/guides/mobile/ "Responsive Email Design"
  [8]: http://www.zurb.com/playground/responsive-email-templates "Responsive Email Templates"
  [9]: http://sergiolopes.org/email-newsletter-mobile-responsivo/ "Email Newsletter Mobile Responsivo"

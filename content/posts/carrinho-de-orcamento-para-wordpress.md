@@ -20,7 +20,7 @@ O WordPress agiliza muito o trabalho de qualquer um que queira publicar online u
 
 Com o ambiente do wordpress instalado, seu tema precisa ter compatibilidade com o plugin **<a href="https://br.wordpress.org/plugins/woocommerce/screenshots/" target="_blank">WooCommerce</a>**. Ele transforma seu tema em uma loja virtual e se integra sem problemas, tendo extensões gratuitas e  premium, caso não tenha um tema pago o <a href="https://wordpress.org/themes/author/woothemes/" target="_blank">diretório de temas do WooCommerce</a> te da algumas opções gratuitas, o resultado será um produto próximo a esse com o botão comprar.
 
-<img class="alignnone  wp-image-53980" src="http://tableless.com.br/uploads/2016/05/botao-comprar.png" alt="botao-comprar" width="643" height="368" />
+<img class="alignnone  wp-image-53980" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/05/botao-comprar.png" alt="botao-comprar" width="643" height="368" />
 
 Se você nunca viu o WooCommerce, nós já falamos muito sobre WooCommerce aqui no Tableless:
 
@@ -33,11 +33,11 @@ O Plugin que faz a mágica chama-se <a href="https://wordpress.org/plugins/yith
 
 No painel administrativo do wordpress iremos acessa as configurações do plugin.
 
-<img class="alignnone size-full wp-image-53982" src="http://tableless.com.br/uploads/2016/05/acesso-painel.png" alt="acesso-painel" width="160" height="127" />
+<img class="alignnone size-full wp-image-53982" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/05/acesso-painel.png" alt="acesso-painel" width="160" height="127" />
 
 O próximo passo será fazer a customização em que a versão gratuita disponibiliza em configurações gerais.
 
-<img class="alignnone  wp-image-53984" src="http://tableless.com.br/uploads/2016/05/passo-a-passo.png" alt="passo-a-passo" width="745" height="260" />
+<img class="alignnone  wp-image-53984" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/05/passo-a-passo.png" alt="passo-a-passo" width="745" height="260" />
 
 **1 &#8211; Request Quote Page**
 
@@ -65,15 +65,15 @@ O próximo passo será fazer a customização em que a versão gratuita disponib
 
 Veja o resultado, o botão é substituído pelo texto que você customizou nas configurações gerais.
 
-<img class="alignnone  wp-image-53985" src="http://tableless.com.br/uploads/2016/05/pedido-de-orcamento.png" alt="pedido-de-orcamento" width="653" height="397" />
+<img class="alignnone  wp-image-53985" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/05/pedido-de-orcamento.png" alt="pedido-de-orcamento" width="653" height="397" />
 
 O cliente clicou no botão solicitar orçamento aparecerá uma mensagem avisado que o produto foi adicionado a lista de orçamento.
 
-<img class="alignnone size-full wp-image-53986" src="http://tableless.com.br/uploads/2016/05/click-botao.png" alt="click-botao" width="644" height="412" />
+<img class="alignnone size-full wp-image-53986" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/05/click-botao.png" alt="click-botao" width="644" height="412" />
 
 Em **visualiza na lista** o cliente será levado para uma página para ele vai preencher um formulário com os dados de contato.
 
-<img class="alignnone  wp-image-53987" src="http://tableless.com.br/uploads/2016/05/finalização.png" alt="finalização" width="748" height="417" />
+<img class="alignnone  wp-image-53987" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/05/finalização.png" alt="finalização" width="748" height="417" />
 
 ## Recebendo o formulário no e-mail
 

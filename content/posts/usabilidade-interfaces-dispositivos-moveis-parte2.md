@@ -29,7 +29,7 @@ tags:
 Como vimos na primeira parte do artigo, as diretrizes existentes de usabilidade continuam valendo no contexto mobile, mas precisam ser revistas e interpretadas de outra forma. Podemos perceber que o gargalo é conseguir manter as informações e funcionalidades que fazem sentido neste cenário. Adequar aplicações ao contexto de dispositivos móveis apresenta determinados vieses de desenvolvimento.
 
 <div id="attachment_4585" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/uploads/2011/11/Prototipação2.jpg"><img class="size-medium wp-image-4585" src="http://tableless.com.br/uploads/2011/11/Prototipação2-300x225.jpg" alt="Variedade de Dispositivos" width="300" height="225" srcset="uploads/2011/11/Prototipação2-300x225.jpg 300w, uploads/2011/11/Prototipação2.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+  <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/11/Prototipação2.jpg"><img class="size-medium wp-image-4585" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/11/Prototipação2-300x225.jpg" alt="Variedade de Dispositivos" width="300" height="225" srcset="uploads/2011/11/Prototipação2-300x225.jpg 300w, uploads/2011/11/Prototipação2.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" /></a>
   
   <p class="wp-caption-text">
     Variedade de Dispositivos

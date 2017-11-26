@@ -38,7 +38,7 @@ Esse atributo indica o tipo de controle de entrada de dados como o popular `<inp
 
 Alguns controles de formulários herdam sistemas de validação sem a necessidade de escrever qualquer código. Por exemplo, `<input type="email">` valida o campo para garantir que o dado digitado seja de fato um endereço de e-mail válido. Se o campo tiver um dado inválido, o formulário não vai poder ser submetido até que esse erro seja corrigido.
 
-<img class="alignnone size-full wp-image-42961" src="http://tableless.com.br/uploads/2014/06/validacao-email.png" alt="Imagem mostrando a validação client-side em um campo de formulário" width="297" height="100" />
+<img class="alignnone size-full wp-image-42961" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/06/validacao-email.png" alt="Imagem mostrando a validação client-side em um campo de formulário" width="297" height="100" />
 
 [Teste o exemplo nesse link][5] digitando um endereço de e-mail válido ([Link do CodePen original][6]).
 
@@ -104,9 +104,9 @@ Esse corresponde a cores hexadecimais. Por exemplo #3b5998 ou #000.
 
 Para fornecer ao usuário uma descrição da `pattern`, ou um erro reportando que o valor inserido está inválido, você pode utilizar o atributo `title`, dessa maneira:
 
-<img class="alignnone size-full wp-image-42964" src="http://tableless.com.br/uploads/2014/06/validacao-title.png" alt="Imagem mostra o atributo title de um campo de formulário ao usuário deixar o mouse sob ele" width="273" height="100" />
+<img class="alignnone size-full wp-image-42964" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/06/validacao-title.png" alt="Imagem mostra o atributo title de um campo de formulário ao usuário deixar o mouse sob ele" width="273" height="100" />
 
-<img class="alignnone size-full wp-image-42965" src="http://tableless.com.br/uploads/2014/06/validacao-erro.png" alt="Imagem mostra erro devido à entrada de dados inválidos em um campo de formuláriop" width="269" height="100" />
+<img class="alignnone size-full wp-image-42965" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/06/validacao-erro.png" alt="Imagem mostra erro devido à entrada de dados inválidos em um campo de formuláriop" width="269" height="100" />
 
 [Veja aqui um exemplo][15]. ([Link para o CodePen original][16]).
 
@@ -120,7 +120,7 @@ Essa validação substitui a validação básica de formulário implementada com
 
 Exemplo: `<input name="my_name" required="" type="text">` ou `<input name="my_name" required="required" type="text">` para compatibilidade XHTML.
 
-<img class="alignnone size-full wp-image-42966" src="http://tableless.com.br/uploads/2014/06/validacao-required.png" alt="Imagem mostra erro da validação HTML5 em um campo de formulário que é obrigatório." width="208" height="150" />
+<img class="alignnone size-full wp-image-42966" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/06/validacao-required.png" alt="Imagem mostra erro da validação HTML5 em um campo de formulário que é obrigatório." width="208" height="150" />
 
 Todos os links de exemplos acima utilizam o atributo `required`, assim você pode testá-los tentando submetê-los sem digitar nada nos campos.
 

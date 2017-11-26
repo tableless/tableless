@@ -20,7 +20,7 @@ tags:
 
 É uma estrutura de navegação que auxilia o usuário a se localizar entre as páginas (níveis) do website. Para cada nível da estrutura, é criado um link da sessão correspondente. Assim, caso o usuário queira ir direto para a sessão de Eletrônicos, bastaria clicar no nível “Eletrônico”.  Veja na prática:
 
-[<img class=" wp-image-38563 " alt="Exemplo de Breadcrumb aplicado ao website" src="http://tableless.com.br/uploads/2013/08/exemplo-de-breadcrumb-navigation-588x158.png" width="353" height="95" srcset="uploads/2013/08/exemplo-de-breadcrumb-navigation-588x158.png 588w, uploads/2013/08/exemplo-de-breadcrumb-navigation-329x88.png 329w, uploads/2013/08/exemplo-de-breadcrumb-navigation.png 631w" sizes="(max-width: 353px) 100vw, 353px" />][1]
+[<img class=" wp-image-38563 " alt="Exemplo de Breadcrumb aplicado ao website" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/exemplo-de-breadcrumb-navigation-588x158.png" width="353" height="95" srcset="uploads/2013/08/exemplo-de-breadcrumb-navigation-588x158.png 588w, uploads/2013/08/exemplo-de-breadcrumb-navigation-329x88.png 329w, uploads/2013/08/exemplo-de-breadcrumb-navigation.png 631w" sizes="(max-width: 353px) 100vw, 353px" />][1]
 
 ## Porque eu devo utilizar breadcrumb?
 
@@ -32,7 +32,7 @@ Outro fator é que o Google privilegia sites que o ajudam a melhorar suas pesqui
 
 Dados estruturados são informações formatadas por um padrão comum aos mecanismos de Busca como Google, Bing eYahoo. Através deles o mecanismo refina a busca e obtém informações mais precisas e relevantes. O Google utiliza desse artifício para interpretar e criar [**rich snippets**][2] para o seu site. Veja a imagem:
 
-[<img class="size-medium wp-image-38564" alt="Exemplo direto na pesquisa do Google, utilizando dados estruturados." src="http://tableless.com.br/uploads/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google-588x82.png" width="588" height="82" srcset="uploads/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google-588x82.png 588w, uploads/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google-329x46.png 329w, uploads/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google-660x92.png 660w, uploads/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google.png 953w" sizes="(max-width: 588px) 100vw, 588px" />][3]
+[<img class="size-medium wp-image-38564" alt="Exemplo direto na pesquisa do Google, utilizando dados estruturados." src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google-588x82.png" width="588" height="82" srcset="uploads/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google-588x82.png 588w, uploads/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google-329x46.png 329w, uploads/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google-660x92.png 660w, uploads/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google.png 953w" sizes="(max-width: 588px) 100vw, 588px" />][3]
 
 Caso você queira dar uma lida sobre marcação de Dados Estruturados, aqui no Tableless tem um artigo bem bacana do [Thiago Santos][4]:
 
@@ -125,7 +125,7 @@ Não deixe de implementar o Breadcrumb em seu site, pois são vários os benefí
 
 Como é simples de se fazer, torna-se um ótimo recurso para as suas estratégias de SEO e uma forma de mostrar um site mais organizado.
 
- [1]: http://tableless.com.br/uploads/2013/08/exemplo-de-breadcrumb-navigation.png
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/exemplo-de-breadcrumb-navigation.png
  [2]: https://support.google.com/webmasters/answer/99170?hl=pt-BR
- [3]: http://tableless.com.br/uploads/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google.png
  [4]: http://tableless.com.br/author/thiagosantos/

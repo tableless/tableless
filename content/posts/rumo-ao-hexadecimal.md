@@ -29,15 +29,15 @@ Como sugere o nome, esse sistema trabalha com 10 símbolos: 0, 1, 2, 3, 4, 5, 6,
 
 Você provavelmente tem em sua memória lembranças de alguns conceitos como: unidade, dezena, centena e milhar.
 
-<img class="aligncenter wp-image-49638 size-full" src="http://tableless.com.br/uploads/2015/06/unidade.jpg" alt="valor decimal" width="229" height="69" />
+<img class="aligncenter wp-image-49638 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/unidade.jpg" alt="valor decimal" width="229" height="69" />
 
 Cada algarismo possui a base 10 elevada a uma potência de valor crescente, começando em zero da direita pra esquerda. Vemos que o primeiro algarismo posicionado à direita é a representação da unidade. A base é 10 e a potência é 0. Qualquer número elevado a zero o resultado é 1. Como eu sei que você sabe trabalhar com potências, não vou ficar explicando o que é dez ao quadrado, certo?
 
-<img class="aligncenter size-full wp-image-49645" src="http://tableless.com.br/uploads/2015/06/101.jpg" alt="base dez" width="227" height="105" />
+<img class="aligncenter size-full wp-image-49645" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/101.jpg" alt="base dez" width="227" height="105" />
 
 Agora é só multiplicar o resultado da base com o algarismo em questão. Voltando ao exemplo da unidade, temos o seguinte: 1 x 5 = 5. A lógica se aplica para todos os outros.
 
-[<img class=" size-full wp-image-49622 aligncenter" src="http://tableless.com.br/uploads/2015/06/10-resultado.jpg" alt="sistema decimal" width="215" height="235" />][1]
+[<img class=" size-full wp-image-49622 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/10-resultado.jpg" alt="sistema decimal" width="215" height="235" />][1]
 
 Olha lá o número em que nós chegamos somando todos os resultados: 5 + 10 + 0 + 2000 = 2015. Bacana, né? Então vamos para o próximo.
 
@@ -55,39 +55,39 @@ Quer dizer que o computador que está na minha mesa, o tablet que está na minha
 
 Para que não pareça muito confuso, vamos associar o transistor a uma lâmpada. Se não há passagem de corrente elétrica a lâmpada está desligada, se há, ela está ligada. No sistema binário a lâmpada é um bit e a representação do “desligado” é o dígito **0** e do “ligado” o **1**.
 
-<img class="aligncenter size-full wp-image-49630" src="http://tableless.com.br/uploads/2015/06/lampada_animada.gif" alt="lâmpada representando um bit" width="104" height="236" />
+<img class="aligncenter size-full wp-image-49630" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/lampada_animada.gif" alt="lâmpada representando um bit" width="104" height="236" />
 
 O que temos de informação nos computadores são combinações desses dois dígitos. Cada caractere que eu escrevo agora, por exemplo, contém alguns bits para ser armazenado. Os bits são colocados em grupos de oito e são chamados de Byte.
 
-<img class="aligncenter size-full wp-image-49621" src="http://tableless.com.br/uploads/2015/06/8bits1byte.jpg" alt="ilustração de lâmpadas representando um bit" width="579" height="165" />
+<img class="aligncenter size-full wp-image-49621" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/8bits1byte.jpg" alt="ilustração de lâmpadas representando um bit" width="579" height="165" />
 
 Vamos voltar à história da conexão de internet de 30Mbps. O que queremos saber é quantos Bytes, e não bits por segundo nossa conexão realiza o download de arquivos. Para isso basta dividir por 8. No caso: 30/8 = 3.75. Com uma conexão de 30Mb por segundo conseguimos baixar no máximo até 3.75MB por segundo. Claro que esse número varia por n fatores externos. Ficando claro que não conseguiríamos baixar o arquivo de 30MB em apenas 1 segundo.
 
 Vimos que no sistema **dec**imal a base é 10, aqui no sistema **bi**nário a base é 2. A lógica é a mesma.
 
-<img class="aligncenter size-full wp-image-49620" src="http://tableless.com.br/uploads/2015/06/2.jpg" alt="valores da base dois" width="384" height="49" />
+<img class="aligncenter size-full wp-image-49620" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/2.jpg" alt="valores da base dois" width="384" height="49" />
 
 Com o tempo você acaba decorando esses valores. Assim como fizemos com o sistema decimal, vamos esmiuçar também o sistema binário. Nesse exemplo, vamos realizar a conversão de um número no sistema binário para o sistema decimal.
 
-<img class="aligncenter size-full wp-image-49623" src="http://tableless.com.br/uploads/2015/06/binario-decimal.jpg" alt="conversão de binário para decimal" width="512" height="193" />
+<img class="aligncenter size-full wp-image-49623" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/binario-decimal.jpg" alt="conversão de binário para decimal" width="512" height="193" />
 
 Legal, né? O número 01011010 em binário é o número 90 em decimal. Vamos fazer o processo inverso agora, converter o número decimal 90 para o sistema binário. Para isso, nós vamos realizar divisões sequenciais sendo que o divisor é o 2, por causa da base 2.
 
-<img class="aligncenter size-full wp-image-49627" src="http://tableless.com.br/uploads/2015/06/divisoes-sequenciais.jpg" alt="converter decimal com divisões sequenciais" width="322" height="235" />
+<img class="aligncenter size-full wp-image-49627" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/divisoes-sequenciais.jpg" alt="converter decimal com divisões sequenciais" width="322" height="235" />
 
 Quando o resto for 0 ou 1 nós paramos por aí. Repare que nessas divisões não nos interessam as casas decimais. Quando chegamos ao quociente 1, nós paramos a divisão. A leitura do número binário gerado pelas divisões é da direita pra esquerda, e o valor que atingimos foi: 1011010. Se você observou atentamente, viu que nosso número binário está com apenas 7 dígitos, porque o número decimal 90 apenas requer 7 bits para ser armazenado. Não se incomode, se quiser representá-lo como 8 bits basta colocar um 0 à esquerda dele, resultando em: **01011010**.
 
 Ah, mas eu não gosto de fazer conta. Tudo bem, vamos fazer uma abordagem mais lúdica. Vamos supor que nós temos 90 dinheiros, uma moeda que eu inventei, representado em apenas uma cédula. O que gera uma dificuldade imensa para jogar no fliper, já que precisamos de trocado. Vamos na padaria e pedimos para que o atendente troque esses 90 dinheiros em cédula por 90 dinheiros em moedas.
 
-<img class="aligncenter size-full wp-image-49626" src="http://tableless.com.br/uploads/2015/06/dinheiro.jpg" alt="ilustração das moedas e cédula" width="475" height="119" />
+<img class="aligncenter size-full wp-image-49626" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/dinheiro.jpg" alt="ilustração das moedas e cédula" width="475" height="119" />
 
 Claro que ele não vai te dar uma moeda de 128 dinheiros, até porque é muito mais do que os 90 dinheiros em cédula que temos. Na nossa conversão binária a moeda 128 não vai ser utilizada e a representamos com o dígito 0. E a moeda 64, podemos utilizá-la? Claro, qualquer valor em moeda que seja igual ou menor do que o valor em cédula. Se utilizamos a moeda de 64, no binário atribuímos o dígito 1. A lógica se repete para o resto da conta, sendo:
 
-<img class="aligncenter size-full wp-image-49625" src="http://tableless.com.br/uploads/2015/06/dinheiro-conta.jpg" alt="tabela com cédula e valores em moedas" width="340" height="566" />
+<img class="aligncenter size-full wp-image-49625" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/dinheiro-conta.jpg" alt="tabela com cédula e valores em moedas" width="340" height="566" />
 
 Como já acabamos de trocar nosso dinheiro e não vamos utilizar a moeda de valor 1 colocamos o valor 0 no binário.
 
-<img class="aligncenter size-full wp-image-49624" src="http://tableless.com.br/uploads/2015/06/dinheiro-binario.jpg" alt="decimal para binário ilustrado" width="505" height="207" />
+<img class="aligncenter size-full wp-image-49624" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/dinheiro-binario.jpg" alt="decimal para binário ilustrado" width="505" height="207" />
 
 Se você está se perguntando qual o valor máximo que conseguimos armazenar em 8 bits, aí vai: 11111111 (já que queremos o valor máximo, todos os bits tem que estar ligados), agora é só somar todos os valores dos número elevados: 1 + 2 + 4 + 8 + 16 + 32 + 64 + 128 = 255.
 
@@ -99,7 +99,7 @@ O sistema RGB significa: Red (vermelho), Green (verde) e Blue (azul). São as co
 
 Em praticamente qualquer software de computação gráfica você vai encontrar uma paleta de cores. Nela você terá alguma coisa similar a isso:
 
-<img class="aligncenter size-full wp-image-49632" src="http://tableless.com.br/uploads/2015/06/rgb.jpg" alt="paleta rgb" width="320" height="71" />
+<img class="aligncenter size-full wp-image-49632" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/rgb.jpg" alt="paleta rgb" width="320" height="71" />
 
 Dá pra ver como as coisas começam a se encaixar? OIha aí novamente os valores 0 e 255. Quer dizer, sabemos que 0 a 255 (256) é a capacidade de armazenamento de 8 bits (1 Byte). Se temos o valor zero, não temos emissão de luz do canal de cor específico. Se os três canais de cor estiverem em zero, sabemos que no sistema digital é a representação da cor preta, porque nenhum canal está emitindo luz.
 
@@ -107,7 +107,7 @@ Com a adição máxima de todos os canais de cor (todos em 255) temos a cor bran
 
 Se você é daqueles que gosta de saber sempre o porquê das coisas, tenho uma coisa simples e interessante pra te falar. Uma imagem digital bitmap é composta por pixels (menor unidade gráfica, como se fossem tijolos que compõem as paredes da sua casa), até aí tranquilo. Como vimos, as combinações dos três canais formam as cores que nós desejamos. Numa imagem digital é como se tivéssemos três folhas vegetais sobrepostas, cada folha representando um canal de cor. Vamos supor que esse pixel aí embaixo seja um dos vários que compõem uma imagem qualquer:
 
-<img class="aligncenter size-full wp-image-49631" src="http://tableless.com.br/uploads/2015/06/pixel.jpg" alt="pixel e valores em seus canais" width="204" height="196" />
+<img class="aligncenter size-full wp-image-49631" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/pixel.jpg" alt="pixel e valores em seus canais" width="204" height="196" />
 
 Pra compor a cor laranja desse único pixel, em cada canal de cor teremos variações de valores para que quando combinadas formem essa informação. Como cada canal tem 8 bits e temos três canais, fica claro o porquê que chamamos de imagens de 24 bits. E também agora é nítido que precisamos de 3 Bytes para armazenar as informações de um pixel só.
 
@@ -129,19 +129,19 @@ Como sabemos que toda estrutura computacional dos sistemas utiliza código biná
 
 Cada símbolo em hexadecimal consegue representar quatro dígitos no sistema binário, o que seria 4 bits. A tabela abaixo mostra a representação de mesmos valores em sistemas diferentes.
 
-<img class="aligncenter size-full wp-image-49639" src="http://tableless.com.br/uploads/2015/06/tabela.jpg" alt="tabela decimal, binário e hexadecimal" width="473" height="621" />
+<img class="aligncenter size-full wp-image-49639" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/tabela.jpg" alt="tabela decimal, binário e hexadecimal" width="473" height="621" />
 
 Por enquanto não parece fazer muito sentido apenas olhando essa tabela, mas com certeza você está acostumado com o tripleto hexadecimal. Sabe aquele carinha que você copia do Photoshop e cola no seu CSS? Então, é o tripleto. Como foi explicado acima, um símbolo no sistema hexadecimal armazena 4 bits de informação. Porém, já vimos também que a cor no sistema digital utiliza 8 bits por canal. Então vamos lá: 4 + 4 = 8. Consequentemente para representar um canal de cor do sistema digital precisamos de dois símbolos em hexadecimal. Como sabemos que temos três canais de cor, precisamos exatamente do que você pensou: tripleto hexadecimal. Coloquei abaixo o código hexadecimal que representa a cor branca, só por já estarem acostumados com ele.
 
-<img class="aligncenter size-full wp-image-49633" src="http://tableless.com.br/uploads/2015/06/tripleto.jpg" alt="tripleto hexadecimal" width="361" height="145" />
+<img class="aligncenter size-full wp-image-49633" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/tripleto.jpg" alt="tripleto hexadecimal" width="361" height="145" />
 
 Bom, não precisa nem pensar pra saber quanto que esse código hexadecimal vale em binário, é só bater o olho na tabela, mas de qualquer forma, vamos lá:
 
-[<img class=" wp-image-49692 size-full aligncenter" src="http://tableless.com.br/uploads/2015/06/hexa-binario.jpg" alt="" width="505" height="209" />][2]
+[<img class=" wp-image-49692 size-full aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/hexa-binario.jpg" alt="" width="505" height="209" />][2]
 
 Nós já aprendemos a converter do sistema binário para o decimal, mas de qualquer forma vamos finalizar:
 
-<img class="aligncenter size-full wp-image-49628" src="http://tableless.com.br/uploads/2015/06/final.jpg" alt="conversão binário para decimal" width="512" height="192" />
+<img class="aligncenter size-full wp-image-49628" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/final.jpg" alt="conversão binário para decimal" width="512" height="192" />
 
 Agora vai lá no Photoshop e coloca na paleta de cor o valor 255 em cada canal: R, G e B. O resultado é a cor branca, que já sabemos o porquê. O hexadecimal é o tal do #FFFFFF.
 
@@ -151,5 +151,5 @@ Se está acostumado a escrever seu código hexadecimal dessa forma no seu CSS: #
 
 Pronto! Agora faça um teste você mesmo com as conversões. 🙂
 
- [1]: http://tableless.com.br/uploads/2015/06/10-resultado.jpg
- [2]: http://tableless.com.br/uploads/2015/06/hexa-binario.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/10-resultado.jpg
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/hexa-binario.jpg

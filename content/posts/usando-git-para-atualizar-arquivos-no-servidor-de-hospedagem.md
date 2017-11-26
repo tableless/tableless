@@ -34,19 +34,19 @@ Descompacte o arquivo putty.zip e execute o arquivo PUTTYGEN.EXE;
 
 Clique em |Generate|, para que a chave seja criada você deve movimentar o mouse na área em branco do programa e esperar a barra de progresso chegar até o final:
 
-[<img class="alignnone size-full wp-image-51450" src="http://tableless.com.br/uploads/2015/09/puttygen_01.jpg" alt="puttygen_01" width="492" height="476" />][3]
+[<img class="alignnone size-full wp-image-51450" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/puttygen_01.jpg" alt="puttygen_01" width="492" height="476" />][3]
 
 Clique em |Save private key|, vai aparecer uma janela avisando que não definimos um passphrase, clique em sim e salve sua chave.ppk, o arquivo ppk é usado para identificar seu computador no bitbucket, vamos usa-lo mais tarde.
 
 Ainda no PuttyGen, vamos copiar a nossa chave |Public Key| para inserir no bitbucket.
 
-[<img class="alignnone size-full wp-image-51451" src="http://tableless.com.br/uploads/2015/09/puttygen_02.jpg" alt="puttygen_02" width="492" height="476" />][4]
+[<img class="alignnone size-full wp-image-51451" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/puttygen_02.jpg" alt="puttygen_02" width="492" height="476" />][4]
 
 Abra o bitbucket, clique em |Gerenciar conta| > |Chaves SSH| > |Adicionar Chave|;
 
 Na janela que abrir escolha um nome para identificar a chave, pode ser qualquer nome, e no campo key cole a chave que copiamos lá do PuttyGen.
 
-[<img class="alignnone size-full wp-image-51443" src="http://tableless.com.br/uploads/2015/09/chave_bitbucket.jpg" alt="chave_bitbucket" width="786" height="466" />][5]
+[<img class="alignnone size-full wp-image-51443" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/chave_bitbucket.jpg" alt="chave_bitbucket" width="786" height="466" />][5]
 
 Já pode fechar o PuttyGen, vamos agora inicializar a chave no computador, execute o PAGEANT.EXE, quando você executa aparece um ícone na barra de tarefas ao lado do relógio do windows, clique duas vezes para abrir o PAGEANT;
 
@@ -64,7 +64,7 @@ Nos níveis de acesso você escolhe se vai ser um repositório privado ou públi
 
 Não precisa mexer no restante das configurações, veja abaixo como ficou:
 
-[<img class="alignnone size-full wp-image-51444" src="http://tableless.com.br/uploads/2015/09/configuracao_bitbucket_01.jpg" alt="configuracao_bitbucket_01" width="614" height="580" />][6]
+[<img class="alignnone size-full wp-image-51444" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_bitbucket_01.jpg" alt="configuracao_bitbucket_01" width="614" height="580" />][6]
 
 Após essa etapa vai aparecer uma tela de confirmação dizendo que o repositório está vazio e algumas dicas de como configurar, vamos criar um repositório do zero.
 
@@ -78,11 +78,11 @@ Digite |git init| para iniciar um novo repositório local;
 
 No bitbucket, selecione o seu repositório, depois no menu a esquerda, clique em clonar, vai abrir uma janela, selecione ssh e copie o texto que tem no campo ao lado;
 
-[<img class="alignnone size-full wp-image-51445" src="http://tableless.com.br/uploads/2015/09/configuracao_bitbucket_02.jpg" alt="configuracao_bitbucket_02" width="667" height="390" />][7]
+[<img class="alignnone size-full wp-image-51445" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_bitbucket_02.jpg" alt="configuracao_bitbucket_02" width="667" height="390" />][7]
 
 Cole o texto copiado no seu terminal e espere a mensagem de confirmação, deve ser parecida com a mensagem abaixo:
 
-[<img class="alignnone size-full wp-image-51448" src="http://tableless.com.br/uploads/2015/09/configuracao_git_windows.jpg" alt="configuracao_git_windows" width="657" height="282" />][8]
+[<img class="alignnone size-full wp-image-51448" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_git_windows.jpg" alt="configuracao_git_windows" width="657" height="282" />][8]
 
 Entre na pasta do seu repositório e crie um arquivo para fazer nosso primeiro commit, eu criei um arquivo chamado &#8220;artigo.html&#8221;;
 
@@ -92,7 +92,7 @@ Agora vamos fazer o commit |git commit -m &#8220;Primeiro Commit|
 
 Depois enviar para o servidor com o comando |git push -u origin master|
 
-[<img class="alignnone size-full wp-image-51449" src="http://tableless.com.br/uploads/2015/09/configuracao_git_windows_01.jpg" alt="configuracao_git_windows_01" width="657" height="301" />][9]
+[<img class="alignnone size-full wp-image-51449" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_git_windows_01.jpg" alt="configuracao_git_windows_01" width="657" height="301" />][9]
 
 Nossa configuração no windows já está pronta, já pode enviar e receber arquivos do repositório, agora vamos configurar nosso servidor de hospedagem.
 
@@ -106,15 +106,15 @@ Digite |ssh-keygen|, vc vai ver uma mensagem pedindo em qual arquivo você quer 
 
 Logo após vai pedir o passphrase, novamente é só apertar Enter, pode deixar em branco;
 
-[<img class="alignnone size-full wp-image-51446" src="http://tableless.com.br/uploads/2015/09/configuracao_git_linux_01.jpg" alt="configuracao_git_linux_01" width="652" height="409" />][10]
+[<img class="alignnone size-full wp-image-51446" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_git_linux_01.jpg" alt="configuracao_git_linux_01" width="652" height="409" />][10]
 
 Se você usou o arquivo padrão para gerar a chave digite |cat ~/.ssh/id_rsa.pub| para visualizar a sua chave, copie esse código, e adicione uma nova chave no bitbucket com essa chave, da mesma maneira que fizemos com a chave que foi criada no windows.
 
-[<img class="alignnone size-full wp-image-51447" src="http://tableless.com.br/uploads/2015/09/configuracao_git_linux_02.jpg" alt="configuracao_git_linux_02" width="642" height="131" />][11]
+[<img class="alignnone size-full wp-image-51447" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_git_linux_02.jpg" alt="configuracao_git_linux_02" width="642" height="131" />][11]
 
 Pronto, agora vamos clonar nosso repositório, da mesma maneira que fizemos no windows, abra o repositório no bitbucket, depois no menu a esquerda, clique em clonar, vai abrir uma janela, selecione ssh e copie o texto que tem no campo ao lado;
 
-[<img class="alignnone size-full wp-image-51445" src="http://tableless.com.br/uploads/2015/09/configuracao_bitbucket_02.jpg" alt="configuracao_bitbucket_02" width="667" height="390" />][7]
+[<img class="alignnone size-full wp-image-51445" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_bitbucket_02.jpg" alt="configuracao_bitbucket_02" width="667" height="390" />][7]
 
 Execute o comando no seu terminal ssh;
 
@@ -132,12 +132,12 @@ No próximo artigo vou explicar como fazer o deploy automático usando php, semp
 
  [1]: http://elcio.com.br/pare-de-usar-ftp/
  [2]: http://tableless.com.br/tornar-dev-front-end/
- [3]: http://tableless.com.br/uploads/2015/09/puttygen_01.jpg
- [4]: http://tableless.com.br/uploads/2015/09/puttygen_02.jpg
- [5]: http://tableless.com.br/uploads/2015/09/chave_bitbucket.jpg
- [6]: http://tableless.com.br/uploads/2015/09/configuracao_bitbucket_01.jpg
- [7]: http://tableless.com.br/uploads/2015/09/configuracao_bitbucket_02.jpg
- [8]: http://tableless.com.br/uploads/2015/09/configuracao_git_windows.jpg
- [9]: http://tableless.com.br/uploads/2015/09/configuracao_git_windows_01.jpg
- [10]: http://tableless.com.br/uploads/2015/09/configuracao_git_linux_01.jpg
- [11]: http://tableless.com.br/uploads/2015/09/configuracao_git_linux_02.jpg
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/puttygen_01.jpg
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/puttygen_02.jpg
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/chave_bitbucket.jpg
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_bitbucket_01.jpg
+ [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_bitbucket_02.jpg
+ [8]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_git_windows.jpg
+ [9]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_git_windows_01.jpg
+ [10]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_git_linux_01.jpg
+ [11]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/configuracao_git_linux_02.jpg

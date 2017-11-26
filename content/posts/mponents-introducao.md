@@ -184,7 +184,7 @@ Se você não encontrar no seu Chrome, tente baixar o [Chrome Canary][6].
 
 Abra o Developer Tools, clique no ícone da engrenagem para abrir a tela de configurações. Procure a opção, habilite e pronto, você já tem super poderes.
 
-<img src="http://tableless.com.br/uploads/2014/05/shadow-dom-chrome-config.png" alt="shadow-dom-chrome-config" class="alignnone size-full wp-image-42548" srcset="uploads/2014/05/shadow-dom-chrome-config.png 2372w, uploads/2014/05/shadow-dom-chrome-config-400x165.png 400w" sizes="(max-width: 2372px) 100vw, 2372px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/05/shadow-dom-chrome-config.png" alt="shadow-dom-chrome-config" class="alignnone size-full wp-image-42548" srcset="uploads/2014/05/shadow-dom-chrome-config.png 2372w, uploads/2014/05/shadow-dom-chrome-config-400x165.png 400w" sizes="(max-width: 2372px) 100vw, 2372px" />
 
 ## Suporte
 

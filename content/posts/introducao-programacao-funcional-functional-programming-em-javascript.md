@@ -100,7 +100,7 @@ Alterei o nome da função, pois além de fazer mais sentido, fica claro para o 
 
 Opps, quase pura. O leitor mais atento já pode ter percebido que, na verdade, ela alterou sim a variável _cities_ também. Isso porque em JavaScript, assim como Java e outros linguagens, no momento em que fizemos : `collection[i].pacote = alguma coisa`, esta alterando o objeto que esta alocado na referência _collection[i]._
 
-<img class="alignnone size-full wp-image-53585" src="http://tableless.com.br/uploads/2016/04/tuto3.png" alt="tuto3" width="867" height="138" />
+<img class="alignnone size-full wp-image-53585" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/04/tuto3.png" alt="tuto3" width="867" height="138" />
 
 Para que essa função seja realmente pura, teremos que clonar o objeto para somente após inserirmos essa nova propriedade. Para isso, vou criar um objecto chamado utilities, que conterá funções utilitárias para nossa aplicação, e a primeira será o método `cloneObject`.
 
@@ -146,7 +146,7 @@ Para que essa função seja realmente pura, teremos que clonar o objeto para som
 });
 </pre>
 
-<img class="alignnone size-full wp-image-53587" src="http://tableless.com.br/uploads/2016/04/tuto5.png" alt="tuto5" width="872" height="138" />
+<img class="alignnone size-full wp-image-53587" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/04/tuto5.png" alt="tuto5" width="872" height="138" />
 
 Agora sim, temos uma função realmente pura, que não altera nenhum dado externo. Como calculamos os pacotes a partir do preço da passagem e do hotel, devemos checar se o objeto em questão contém essas duas propriedades para evitarmos erros, pois agora essa função é mais abstrata e pode receber qualquer tipo de coleção.
 

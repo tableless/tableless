@@ -18,7 +18,7 @@ tags:
   - Técnicas e Práticas
 
 ---
-<a href="http://tableless.com.br/coda-mac-only/coda-editor-para-mac/" rel="attachment wp-att-870" title="Coda - Editor para Mac"><img src="http://tableless.com.br/uploads/2007/04/coda.png" title="Coda - Editor para Mac" alt="Coda - Editor para Mac" height="107" width="277" class="imgleft" /></a>Quando eu era usuário de Windows, meu editor predileto era o [EditPlus][1] por ser rápido e por ter FTP integrado. Eu podia com ele editar CSS, XHTML, arquivos Python, ASP ou PHP. Tudo numa coisa só. Tudo muito fácil.
+<a href="http://tableless.com.br/coda-mac-only/coda-editor-para-mac/" rel="attachment wp-att-870" title="Coda - Editor para Mac"><img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/04/coda.png" title="Coda - Editor para Mac" alt="Coda - Editor para Mac" height="107" width="277" class="imgleft" /></a>Quando eu era usuário de Windows, meu editor predileto era o [EditPlus][1] por ser rápido e por ter FTP integrado. Eu podia com ele editar CSS, XHTML, arquivos Python, ASP ou PHP. Tudo numa coisa só. Tudo muito fácil.
   
 Quando migrei para Mac, perdi essa facilidade e tive que usar tudo separado: tinha um programa para FTP &#8211; muito bom por sinal &#8211; chamado [Transmit][2]. E 2 outros editores de código: para trabalhar com CSS o [CSSEdit][3]. Com XHTML e outras linguagens o [TextMate][4]. Hoje descobri o [Coda][5], que é dos mesmos criadores do [Transmit][2]. Tem tudo que eu sempre quis em um editor pra Mac e me devolveu aquele conforto de usar apenas um programa para tudo. Sim, com uma experiência muito melhor.
 

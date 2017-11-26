@@ -62,7 +62,7 @@ E algumas especificações relacionadas, que não são desenvolvidas pelo WHATWG
 O gráfico abaixo, desenvolvido por Sergey Mavrody fornece uma boa visão deste contexto e do relacionamento entre as novas APIs e o HTML, além de mostrar o status de desenvolvimento de cada uma destas especificações. Note que o Web Storage ainda está incluído junto à especificação do HTML5, mas isto já mudou.
 
 <div id="attachment_5982" style="width: 650px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/uploads/2012/04/800px-HTML5-APIs-and-related-technologies-by-Sergey-Mavrody.png"><img class=" wp-image-5982 " src="http://tableless.com.br/uploads/2012/04/800px-HTML5-APIs-and-related-technologies-by-Sergey-Mavrody.png" alt="HTML5 e as APIs relacionadas" width="640" height="434" srcset="uploads/2012/04/800px-HTML5-APIs-and-related-technologies-by-Sergey-Mavrody.png 800w, uploads/2012/04/800px-HTML5-APIs-and-related-technologies-by-Sergey-Mavrody-300x203.png 300w" sizes="(max-width: 640px) 100vw, 640px" /></a>
+  <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/800px-HTML5-APIs-and-related-technologies-by-Sergey-Mavrody.png"><img class=" wp-image-5982 " src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/800px-HTML5-APIs-and-related-technologies-by-Sergey-Mavrody.png" alt="HTML5 e as APIs relacionadas" width="640" height="434" srcset="uploads/2012/04/800px-HTML5-APIs-and-related-technologies-by-Sergey-Mavrody.png 800w, uploads/2012/04/800px-HTML5-APIs-and-related-technologies-by-Sergey-Mavrody-300x203.png 300w" sizes="(max-width: 640px) 100vw, 640px" /></a>
   
   <p class="wp-caption-text">
     HTML5 e as APIs relacionadas por Sergey Mavrody

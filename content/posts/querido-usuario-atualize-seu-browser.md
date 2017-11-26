@@ -40,7 +40,7 @@ Mas **o browser que você está usando pode estar limitando esse potencial**. En
 
 Todos que acessam páginas na internet em um computador utilizam um navegador (também conhecido como Browser). Sem um browser você não pode ver ou interagir com websites. Como você acessa websites como Facebook e YouTube? Você provavelmente utiliza um programa comum que se abre quando você clica em um grande ícone com um &#8220;E&#8221; azul na sua área de trabalho. Ele deve se parecer com isso:
 
-[<img src="http://tableless.com.br/uploads/2012/07/ie-logo.jpg" alt="Logo do Internet Explorer" title="Logo do Internet Explorer" width="500" height="300" class="alignnone size-full wp-image-6423" srcset="uploads/2012/07/ie-logo.jpg 500w, uploads/2012/07/ie-logo-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/ie-logo.jpg" alt="Logo do Internet Explorer" title="Logo do Internet Explorer" width="500" height="300" class="alignnone size-full wp-image-6423" srcset="uploads/2012/07/ie-logo.jpg 500w, uploads/2012/07/ie-logo-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
 Este &#8220;e&#8221; não é um atalho para um programa genérico de Internet. Ele é um atalho para um browser feito pela Microsoft, chamado de &#8220;Internet Explorer&#8221; (também conhecido apenas como IE). Ao passar de 17 anos, este browser foi o browser mais popular. Em uma vez, ele foi o melhor browser que você poderia utilizar. Mas isso não mais verdade agora.
 
@@ -66,11 +66,11 @@ Novos browsers suportam novas tecnologias (como HTML5 e CSS3). Estas linguagens 
 
 Para demonstrar este problema, dê uma olhada na imagem abaixo. Essa imagem é um screeshot tirada de um infográfico de um site chamado [Rainforest Deforestation][2] (um site sobre reflorestamento). Veja como ele aparece no IE8:
 
-[<img src="http://tableless.com.br/uploads/2012/07/krause-ie8.jpg" alt="" title="krause-ie8" width="500" height="296" class="alignnone size-full wp-image-6426" srcset="uploads/2012/07/krause-ie8.jpg 500w, uploads/2012/07/krause-ie8-300x177.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][3]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/krause-ie8.jpg" alt="" title="krause-ie8" width="500" height="296" class="alignnone size-full wp-image-6426" srcset="uploads/2012/07/krause-ie8.jpg 500w, uploads/2012/07/krause-ie8-300x177.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][3]
 
 Agora veja como ele aparece em browsers novos como o Chrome ou o Firefox:
 
-[<img src="http://tableless.com.br/uploads/2012/07/krause-chrome.jpg" alt="" title="krause-chrome" width="500" height="276" class="alignnone size-full wp-image-6425" srcset="uploads/2012/07/krause-chrome.jpg 500w, uploads/2012/07/krause-chrome-300x165.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][4]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/krause-chrome.jpg" alt="" title="krause-chrome" width="500" height="276" class="alignnone size-full wp-image-6425" srcset="uploads/2012/07/krause-chrome.jpg 500w, uploads/2012/07/krause-chrome-300x165.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][4]
 
 IE8 causa muitos problemas nessa página: muitos elementos gráficos não estão aparecendo, todas as animações não funcionam e muitos blocos de textos estão mal alinhados. Isso é causado pelo fato de que a página foi construída com novas tecnologias de design que os browsers antigos com o IE8 não suportam.
 
@@ -82,25 +82,25 @@ Agora que você entende que é altamente recomendável atualizar seu browser, va
 
 Em Maio de 2012, de acordo com um site de estatísticas, o [Google Chrome][5] (todas as versões combinadas) se tornou o browser mais popular no mundo (comparando com o IE, com todas as suas versões combinadas). Chrome foi lançado em 2008 e tem um número maior de vantagens sob browsers antigos com o IE8.
 
-[<img src="http://tableless.com.br/uploads/2012/07/chrome-logo1.jpg" alt="" title="chrome-logo1" width="500" height="300" class="alignnone size-full wp-image-6430" srcset="uploads/2012/07/chrome-logo1.jpg 500w, uploads/2012/07/chrome-logo1-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][5]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/chrome-logo1.jpg" alt="" title="chrome-logo1" width="500" height="300" class="alignnone size-full wp-image-6430" srcset="uploads/2012/07/chrome-logo1.jpg 500w, uploads/2012/07/chrome-logo1-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][5]
 
 #### [Mozilla Firefox][6]
 
 O [Firefox][6] foi o principal competidor do Internet Explorer desde algo em torno do ano 2000. Até Google Chrome se tornar o browser mais popular, Firefox é um grande browser com muitas vantagens sob browsers antigos.
 
-[<img src="http://tableless.com.br/uploads/2012/07/ff-logo.jpg" alt="" title="ff-logo" width="500" height="300" class="alignnone size-full wp-image-6427" srcset="uploads/2012/07/ff-logo.jpg 500w, uploads/2012/07/ff-logo-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][6]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/ff-logo.jpg" alt="" title="ff-logo" width="500" height="300" class="alignnone size-full wp-image-6427" srcset="uploads/2012/07/ff-logo.jpg 500w, uploads/2012/07/ff-logo-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][6]
 
 #### [Opera][7]
 
 Comparado com os outros browsers, Opera não é tão usado, mas tem sido utilizado por muitos usuários desde os anos 90. Opera sempre foi um browser vanguardista em inovação e suporte a muitas tecnologias e características que fazem websites se tornarem mais rápidos e mais ricos.
 
-[<img src="http://tableless.com.br/uploads/2012/07/opera-logo.jpg" alt="" title="opera-logo" width="500" height="300" class="alignnone size-full wp-image-6428" srcset="uploads/2012/07/opera-logo.jpg 500w, uploads/2012/07/opera-logo-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][7]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/opera-logo.jpg" alt="" title="opera-logo" width="500" height="300" class="alignnone size-full wp-image-6428" srcset="uploads/2012/07/opera-logo.jpg 500w, uploads/2012/07/opera-logo-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][7]
 
 #### [Apple Safari][8]
 
 Este é o browser utilizado pelos usuários de iPhones e iPads. Em relação as suas características, o Safari é muito parecido com o Google Chrome e foi lançado em torno do ano de 2003.
 
-[<img src="http://tableless.com.br/uploads/2012/07/safari-logo.jpg" alt="" title="safari-logo" width="500" height="300" class="alignnone size-full wp-image-6429" srcset="uploads/2012/07/safari-logo.jpg 500w, uploads/2012/07/safari-logo-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][8]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/safari-logo.jpg" alt="" title="safari-logo" width="500" height="300" class="alignnone size-full wp-image-6429" srcset="uploads/2012/07/safari-logo.jpg 500w, uploads/2012/07/safari-logo-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][8]
 
 ### Por que os novos browsers são melhores?
 
@@ -132,7 +132,7 @@ Como mencionamos anteriormente, uma das características dos novos browsers é a
   * [Lista de desejos da Amazon][11], que te permite adicionar virtualmente qualquer produto de qualquer website para a sua lista de desejos da Amazon.
   * [Dicionário do Google][12], que permite clicar duas vezes em qualquer palavra para ver qual é sua definição.
 
-[<img src="http://tableless.com.br/uploads/2012/07/chrome-store.jpg" alt="" title="chrome-store" width="1196" height="636" class="alignnone size-full wp-image-6432" srcset="uploads/2012/07/chrome-store.jpg 1196w, uploads/2012/07/chrome-store-300x159.jpg 300w, uploads/2012/07/chrome-store-1024x544.jpg 1024w" sizes="(max-width: 1196px) 100vw, 1196px" />][5]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/chrome-store.jpg" alt="" title="chrome-store" width="1196" height="636" class="alignnone size-full wp-image-6432" srcset="uploads/2012/07/chrome-store.jpg 1196w, uploads/2012/07/chrome-store-300x159.jpg 300w, uploads/2012/07/chrome-store-1024x544.jpg 1024w" sizes="(max-width: 1196px) 100vw, 1196px" />][5]
 
 E os [complementos para Firefox][13]? Bem, adicionalmente às extensões mencionadas do Chrome, há algumas escolhas populares e úteis incluindo:
 
@@ -148,7 +148,7 @@ Todo mundo tem favoritos (ou Bookmarks, como alguns chamam) no browser que são 
 
 Para instruções de como transferir seus favoritos para seu novo browser, visite o site [Browsing Better][19] website. Quando você visitar a página, clique no ícone do browser que você está usando atualmente e siga as instruções das imagens que aparecerem.
 
-<img src="http://tableless.com.br/uploads/2012/07/ie-export.jpg" alt="" title="ie-export" width="500" height="395" class="alignnone size-full wp-image-6433" srcset="uploads/2012/07/ie-export.jpg 500w, uploads/2012/07/ie-export-300x237.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/ie-export.jpg" alt="" title="ie-export" width="500" height="395" class="alignnone size-full wp-image-6433" srcset="uploads/2012/07/ie-export.jpg 500w, uploads/2012/07/ie-export-300x237.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
 
 ### Eu não quero mudar &#8211; Estou feliz com o Internet Explorer
 
@@ -156,7 +156,7 @@ Se mesmo depois de ter lido tudo que escrevemos acima você ainda não querer mu
   
 Você pode continuar utilizando o Internet Explorer e ter a velocidade e experiências parecidas com a do Google Chrome bastando instalar um add-on do Internet Explorer chamado [Chrome Frame][20].
 
-<img src="http://tableless.com.br/uploads/2012/07/chrome-frame.jpg" alt="" title="chrome-frame" width="476" height="485" class="alignnone size-full wp-image-6434" srcset="uploads/2012/07/chrome-frame.jpg 476w, uploads/2012/07/chrome-frame-294x300.jpg 294w" sizes="(max-width: 476px) 100vw, 476px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/chrome-frame.jpg" alt="" title="chrome-frame" width="476" height="485" class="alignnone size-full wp-image-6434" srcset="uploads/2012/07/chrome-frame.jpg 476w, uploads/2012/07/chrome-frame-294x300.jpg 294w" sizes="(max-width: 476px) 100vw, 476px" />
 
 Chrome Frame é um add-on que ativa novas tecnologias como o HTML5 e CSS3 nas versões 6, 7, 8 e 9 do Internet Explorer. Se as páginas que você visita estiver utilizando alguma dessas novas tecnologias, você terá uma experiência muito similar ao Google Chrome &#8211; mesmo quando utilizar versões antigas do Internet Explorer.
 
@@ -174,10 +174,10 @@ Não importa o que você esteja fazendo na web &#8211; lendo emails, comprando, 
 
 **_Este artigo é uma tradução do artigo original feito pela [Smashing Magazine][22]._**
 
- [1]: http://tableless.com.br/uploads/2012/07/ie-logo.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/ie-logo.jpg
  [2]: http://www.jonathan-krause.de/rainforest
- [3]: http://tableless.com.br/uploads/2012/07/krause-ie8.jpg
- [4]: http://tableless.com.br/uploads/2012/07/krause-chrome.jpg
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/krause-ie8.jpg
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/krause-chrome.jpg
  [5]: https://www.google.com.br/chrome
  [6]: http://www.mozilla.org/pt-BR/firefox/new/?from=getfirefox
  [7]: http://www.opera.com/

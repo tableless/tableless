@@ -185,5 +185,5 @@ O principal problema com na utilização de **@font-face** é que arquivo da fon
  [1]: http://typekit.com/
  [2]: http://www.mikeindustries.com/blog/archive/2004/12/sifr-2.0-release-candidate-2
  [3]: http://www.fontsquirrel.com/fontface/generator
- [4]: http://tableless.com.br/uploads/2010/03/fonface.html
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/03/fonface.html
  [5]: http://www.w3.org/TR/css3-fonts/#the-font-face-rule

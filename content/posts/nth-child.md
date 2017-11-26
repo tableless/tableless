@@ -110,7 +110,7 @@ Se você ainda não leu sobre seletores do CSS, leia estes artigos abaixo:
   * [Seletores Complexos do CSS][5]
 
  [1]: http://www.w3.org/TR/css3-selectors/#nth-child-pseudo
- [2]: http://tableless.com.br/uploads/2009/07/nth-child-ex1.html
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/07/nth-child-ex1.html
  [3]: http://tableless.com.br/seletores-agrupados-e-encadeados
  [4]: http://tableless.com.br/pseudo-classes-css
  [5]: http://tableless.com.br/seletores-complexos-do-css

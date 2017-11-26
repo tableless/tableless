@@ -35,7 +35,7 @@ http://api.bit.ly/shorten?version=**[VERSÃO]**&longUrl=**[URL]**&login=**[LOGIN
 
 Basta substituir os dados pelos seus e a requisição retornará um arquivo XML com as informações que precisamos. Veja um exemplo:
 
-<img class="alignnone wp-image-50423 size-full" src="http://tableless.com.br/uploads/2015/07/XML2.png" alt="" width="879" height="288" />
+<img class="alignnone wp-image-50423 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/XML2.png" alt="" width="879" height="288" />
 
 Bom, visto isso vamos aos códigos! Primeiramente criaremos uma função no **functions.php** do seu tema, substituindo LOGIN e API por seus respectivos dados:
 

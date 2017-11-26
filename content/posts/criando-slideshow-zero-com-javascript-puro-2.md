@@ -25,7 +25,7 @@ Depois de criar um artigo no devmedia de [como criar um slideshow do zero em Jqu
 Abaixo o resultado final do nosso slide:
 
 <div id="attachment_40991" style="width: 579px" class="wp-caption aligncenter">
-  <a href="http://tableless.com.br/uploads/2014/02/slide.fw_.png"><img class="size-medium wp-image-40991" title="Criando slideshow do zero com javascript puro" alt="Criando slideshow do zero com javascript puro" src="http://tableless.com.br/uploads/2014/02/slide.fw_-569x310.png" width="569" height="310" srcset="uploads/2014/02/slide.fw_-569x310.png 569w, uploads/2014/02/slide.fw_-308x168.png 308w, uploads/2014/02/slide.fw_.png 1365w" sizes="(max-width: 569px) 100vw, 569px" /></a>
+  <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/slide.fw_.png"><img class="size-medium wp-image-40991" title="Criando slideshow do zero com javascript puro" alt="Criando slideshow do zero com javascript puro" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/slide.fw_-569x310.png" width="569" height="310" srcset="uploads/2014/02/slide.fw_-569x310.png 569w, uploads/2014/02/slide.fw_-308x168.png 308w, uploads/2014/02/slide.fw_.png 1365w" sizes="(max-width: 569px) 100vw, 569px" /></a>
   
   <p class="wp-caption-text">
     Resultado final do nosso slide

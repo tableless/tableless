@@ -30,7 +30,7 @@ Simples: a camada de interação com o usuário. Ela apenas faz a  **exibição
 
 O responsável por **receber** todas as **requisições** do **usuário**. Seus métodos chamados actions são responsáveis por uma página, controlando qual model usar e qual view será mostrado ao usuário.
 
-[<img class="aligncenter size-full wp-image-47324" src="http://tableless.com.br/uploads/2015/02/laravel-introducao.jpg" alt="laravel-introducao" width="505" height="367" srcset="uploads/2015/02/laravel-introducao.jpg 505w, uploads/2015/02/laravel-introducao-191x139.jpg 191w, uploads/2015/02/laravel-introducao-400x291.jpg 400w" sizes="(max-width: 505px) 100vw, 505px" />][1]
+[<img class="aligncenter size-full wp-image-47324" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/laravel-introducao.jpg" alt="laravel-introducao" width="505" height="367" srcset="uploads/2015/02/laravel-introducao.jpg 505w, uploads/2015/02/laravel-introducao-191x139.jpg 191w, uploads/2015/02/laravel-introducao-400x291.jpg 400w" sizes="(max-width: 505px) 100vw, 505px" />][1]
 
 Caso você ainda esteja um pouco confuso, espero que esse diálogo possa te &#8220;dar a luz&#8221;.
 
@@ -56,4 +56,4 @@ Caso você ainda esteja um pouco confuso, espero que esse diálogo possa te &#82
   <strong>View</strong> &#8211; Vlw. Mostrando ao usuário&#8230;
 </p>
 
- [1]: http://tableless.com.br/uploads/2015/02/laravel-introducao.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/laravel-introducao.jpg

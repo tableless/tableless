@@ -60,7 +60,7 @@ Vamos realizar um passo a passo com a ferramenta online.
 
 2. Ao acessar a página você vera uma simples function, para realizar um teste básico;
 
-[<img src="http://tableless.com.br/uploads/2015/01/Closure-Compiler-Service-2015-01-24-01-41-58.png" alt="Closure Compiler Service 2015-01-24 01-41-58" width="1280" height="663" class="aligncenter size-full wp-image-46694" srcset="uploads/2015/01/Closure-Compiler-Service-2015-01-24-01-41-58.png 1280w, uploads/2015/01/Closure-Compiler-Service-2015-01-24-01-41-58-265x137.png 265w, uploads/2015/01/Closure-Compiler-Service-2015-01-24-01-41-58-400x207.png 400w" sizes="(max-width: 1280px) 100vw, 1280px" />][3]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/Closure-Compiler-Service-2015-01-24-01-41-58.png" alt="Closure Compiler Service 2015-01-24 01-41-58" width="1280" height="663" class="aligncenter size-full wp-image-46694" srcset="uploads/2015/01/Closure-Compiler-Service-2015-01-24-01-41-58.png 1280w, uploads/2015/01/Closure-Compiler-Service-2015-01-24-01-41-58-265x137.png 265w, uploads/2015/01/Closure-Compiler-Service-2015-01-24-01-41-58-400x207.png 400w" sizes="(max-width: 1280px) 100vw, 1280px" />][3]
 
 ## Na prática com Closure Compiler Service API
 

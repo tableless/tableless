@@ -66,7 +66,7 @@ Partindo da IHC, a usabilidade aborda a forma como o usuário se comunica com a 
   </p>
   
   <div id="attachment_4011" style="width: 548px" class="wp-caption aligncenter">
-    <a href="http://tableless.com.br/uploads/2011/07/Slide1.png"><img class="size-full wp-image-4011  " src="http://tableless.com.br/uploads/2011/07/Slide1.png" alt="Técnicas utilizadas para garantir e verificar a usabilidade em diferentes etapas" width="538" height="403" srcset="uploads/2011/07/Slide1.png 960w, uploads/2011/07/Slide1-300x225.png 300w" sizes="(max-width: 538px) 100vw, 538px" /></a>
+    <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/Slide1.png"><img class="size-full wp-image-4011  " src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/Slide1.png" alt="Técnicas utilizadas para garantir e verificar a usabilidade em diferentes etapas" width="538" height="403" srcset="uploads/2011/07/Slide1.png 960w, uploads/2011/07/Slide1-300x225.png 300w" sizes="(max-width: 538px) 100vw, 538px" /></a>
     
     <p class="wp-caption-text">
       Técnicas utilizadas para garantir e verificar a usabilidade em diferentes etapas
@@ -95,7 +95,7 @@ Partindo da IHC, a usabilidade aborda a forma como o usuário se comunica com a 
   </p>
   
   <div id="attachment_4012" style="width: 586px" class="wp-caption aligncenter">
-    <a href="http://tableless.com.br/uploads/2011/07/Slide2.png"><img class="size-full wp-image-4012 " src="http://tableless.com.br/uploads/2011/07/Slide2.png" alt="O escopo da usabilidade" width="576" height="432" srcset="uploads/2011/07/Slide2.png 960w, uploads/2011/07/Slide2-300x225.png 300w" sizes="(max-width: 576px) 100vw, 576px" /></a>
+    <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/Slide2.png"><img class="size-full wp-image-4012 " src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/Slide2.png" alt="O escopo da usabilidade" width="576" height="432" srcset="uploads/2011/07/Slide2.png 960w, uploads/2011/07/Slide2-300x225.png 300w" sizes="(max-width: 576px) 100vw, 576px" /></a>
     
     <p class="wp-caption-text">
       O escopo da usabilidade

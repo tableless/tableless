@@ -69,4 +69,4 @@ A propriedade `column-gap` cria um espaço entre as colunas, um gap.
 Utilizamos aqui os prefixos -moz- e -webkit-, estas propriedades não funcionam oficialmente em nenhum browser. Mas já podem ser usados em browsers como Firefox e Safari. Fique à vontade para testar e comentar aqui os resultados!
 
  [1]: http://www.w3.org/TR/css3-multicol/#cw
- [2]: http://tableless.com.br/uploads/2009/07/css3-columns.html
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/07/css3-columns.html

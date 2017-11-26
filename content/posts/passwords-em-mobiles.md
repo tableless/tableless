@@ -61,8 +61,8 @@ Leia mais sobre o assunto:
   * [Mobile Design Details: Hide/Show Passwords][1]
 
  [1]: http://www.lukew.com/ff/entry.asp?1653
- [2]: http://tableless.com.br/uploads/2012/11/Screen-Shot-2012-11-11-at-9.25.25-PM.png
- [3]: http://tableless.com.br/uploads/2012/11/hidepass4.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/Screen-Shot-2012-11-11-at-9.25.25-PM.png
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/hidepass4.png
  [4]: http://danamckay.wordpress.com/2010/01/22/password-masking-and-the-difference-between-usability-and-user-experience/
  [5]: http://www.useit.com/alertbox/passwords.html
  [6]: http://www.nngroup.com/events/tutorials/usability.html

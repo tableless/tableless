@@ -29,7 +29,7 @@ O [Web Index][1], projeto liderado pelo Tim Berners-Lee, foi lançado hoje. Trat
 
 As pesquisas e bases de dados que existem hoje mensuram apenas dados quantitativos, tipo: número de assinantes de internet, velocidade de conexão, número de usuários e etc. O Tim Berners-Lee e o pessoal da Web Foundation entende que esses dados não são suficientes para construir uma Web aberta e significativa, que seja uma ferramenta real de transformação e que aumente os padrões de vida, que reduz conflitos e que melhore o governo. É importante entender os impacto sociais, econômicos e políticos que a Web agrega. Ok, você sabe que a conexão é rápida, mas será que as informações que os usuários tem disponíveis sobre as iniciativas governo são de qualidade? Entende a diferença da informação que a Web Index quer compilar?
 
- <img src="http://tableless.com.br/uploads/2012/09/Screen-Shot-2012-09-05-at-10.41.32-AM.png" alt="gráfico que mostra o impacto político da web no Brasil" title="Impacto político da web no Brasil" class="size-full" />
+ <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/09/Screen-Shot-2012-09-05-at-10.41.32-AM.png" alt="gráfico que mostra o impacto político da web no Brasil" title="Impacto político da web no Brasil" class="size-full" />
 
 Com essa ideia, eles construíram um index de informações sobre a **qualidade** da Web (e não internet, não vá confundir) em diversos países, compilando dados em diversas dimensões para mensurar a saúde da Web, transformando e disponibilizando esses dados para que a tomada de decisões em setores públicos ou privados sejam mais corretos e conscientes.
 

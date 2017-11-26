@@ -80,7 +80,7 @@ Você deve estar acostumado a trabalhar com os eixos X e Y no CSS padrão. No CS
 
 Abaixo segue uma imagem do resultado do exemplo:
   
-[<img src="http://tableless.com.br/uploads/2011/12/img-transform3d.png" alt="" title="img-transform3d" width="801" height="706" class="alignnone size-full wp-image-4795" srcset="uploads/2011/12/img-transform3d.png 801w, uploads/2011/12/img-transform3d-300x264.png 300w" sizes="(max-width: 801px) 100vw, 801px" />][7]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/12/img-transform3d.png" alt="" title="img-transform3d" width="801" height="706" class="alignnone size-full wp-image-4795" srcset="uploads/2011/12/img-transform3d.png 801w, uploads/2011/12/img-transform3d-300x264.png 300w" sizes="(max-width: 801px) 100vw, 801px" />][7]
 
 Nós podemos utilizar também alguns atalhos para estes valores onde podemos definir as três dimensões de uma vez:
 

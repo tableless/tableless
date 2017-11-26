@@ -106,7 +106,7 @@ Antes de modificar algo no projeto, vamos verificar o que já foi gerado de gra�
 
 Este comando inicia um servidor local na nossa máquina e abre uma nova aba no browser com a aplicação no ar. Como o _LiveReload_ já vem habilitado por padrão, modificações que fizermos no código serão refletidas automaticamente no browser:
 
-<img style="border: 1px solid #666" src="http://tableless.com.br/uploads/2016/10/ionic-2-localhost-1.jpg" alt="Ionic 2 - Screenshot 1 localhost" />
+<img style="border: 1px solid #666" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic-2-localhost-1.jpg" alt="Ionic 2 - Screenshot 1 localhost" />
 
 Vamos ver isso acontecendo em tempo real. Abra o arquivo **home.html** e remova o código desnecessário até que ele fique assim:
 
@@ -122,7 +122,7 @@ Vamos ver isso acontecendo em tempo real. Abra o arquivo **home.html** e remova 
 
 Confira a mudança ocorrendo automaticamente no browser:
 
-<img style="border: 1px solid #666" src="http://tableless.com.br/uploads/2016/10/ionic-2-localhost-2.jpg" alt="Ionic 2 - Screenshot 2 localhost" />
+<img style="border: 1px solid #666" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic-2-localhost-2.jpg" alt="Ionic 2 - Screenshot 2 localhost" />
 
 Agora vamos dar uma olhada no componente responsável por controlar nosso template. Abra o arquivo **home.ts**:
 
@@ -257,7 +257,7 @@ Ele representa o valor que será exibido em cada célula da lista, que, neste ca
 
 Agora salve o arquivo e verifique o resultado no browser. É provável que você esteja vendo algo assim:
 
-<img style="border: 1px solid #666" src="http://tableless.com.br/uploads/2016/10/ionic-2-localhost-3.jpg" alt="Ionic 2 - Screenshot 3 localhost" />
+<img style="border: 1px solid #666" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic-2-localhost-3.jpg" alt="Ionic 2 - Screenshot 3 localhost" />
 
 Se você entendeu tudo que foi explicado até aqui, significa que você já domina boa parte dos principais conceitos não só do Ionic 2 como também do Angular 2. Parabéns!
 
@@ -284,7 +284,7 @@ Ainda em **home.html**, altere o conteúdo atual de dentro da tag **<ion-content
 
 Salve o arquivo e visualize o resultado no browser:
 
-<img style="border: 1px solid #666" src="http://tableless.com.br/uploads/2016/10/ionic-2-localhost-4.jpg" alt="Ionic 2 - Screenshot 4 localhost" />
+<img style="border: 1px solid #666" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic-2-localhost-4.jpg" alt="Ionic 2 - Screenshot 4 localhost" />
 
 Agora estamos utilizando um novo template de lista, que comporta imagens. O Ionic já faz o serviço de ajustar os itens pra você contanto que indiquemos isso através dos atributos e classes que o framework nos oferece. Perceba, por exemplo, o atributo **item-left** presente dentro da tag **<ion-thumbnail>**. Altere seu nome para **item-right** e você verá que as imagens serão posicionadas à direita da célula. Tente também alterar a tag **<ion-thumbnail>** para **<ion-avatar>** e verá que as imagens ficarão menores e com bordas arredondadas. Muito conveniente!
 
@@ -459,7 +459,7 @@ Utilizamos o método **forEach** do JavaScript para iterar pelo array de feeds e
 
 Veja o resultado de todas estas modificações rodando em um device iOS:
 
-<img style="border: 1px solid #666" src="http://tableless.com.br/uploads/2016/10/ionic2-step5.gif" alt="Ionic 2 - InAppBrowser" />
+<img style="border: 1px solid #666" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic2-step5.gif" alt="Ionic 2 - InAppBrowser" />
 
 ### Passo 6 &#8211; Adicionando scroll infinito na célula
 
@@ -516,7 +516,7 @@ O novo método é bem parecido com o **fetchContent**, com a diferença de que c
 
 O resultado você confere abaixo:
 
-<img style="border: 1px solid #666" src="http://tableless.com.br/uploads/2016/10/ionic2-step6.gif" alt="Ionic 2 - Infinite Scroll" />
+<img style="border: 1px solid #666" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic2-step6.gif" alt="Ionic 2 - Infinite Scroll" />
 
 E, com isto, incluímos uma funcionalidade extremamente importante em aplicações móveis: A habilidade de adicionar itens em uma lista por demanda, algo que enriquece em muito a experiência do usuário. Se você estava esperando instruções muito complexas, sinto lhe desapontar!
 
@@ -571,7 +571,7 @@ Perceba como o método é similar àquele que escrevemos para o scroll infinito.
 
 Nossa aplicação agora utiliza o refresher para atualizar a lista com os novos posts, veja:
 
-<img style="border: 1px solid #666" src="http://tableless.com.br/uploads/2016/10/ionic2-step7.gif" alt="Ionic 2 - Refresher" />
+<img style="border: 1px solid #666" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic2-step7.gif" alt="Ionic 2 - Refresher" />
 
 ### Passo 8 &#8211; Filtrando a lista com uma Action Sheet
 
@@ -820,7 +820,7 @@ insira o seguinte código na tag **<ion-icon>** em **home.html**:
 
 O resultado pode ser visto abaixo:
 
-<img style="border: 1px solid #666" src="http://tableless.com.br/uploads/2016/10/ionic2-step8.gif" alt="Ionic 2 - Action Sheet" />
+<img style="border: 1px solid #666" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic2-step8.gif" alt="Ionic 2 - Action Sheet" />
 
 ### Passo 9 &#8211; Adicionando um provider e uma barra de busca
 
@@ -940,11 +940,11 @@ Agora inclua o seguinte método em **home.ts**:
 
 Veja o resultado rodando em um iPhone:
 
-<img style="border: 1px solid #666" src="http://tableless.com.br/uploads/2016/10/ionic2-step9.gif" alt="Ionic 2 - SearchBar" />
+<img style="border: 1px solid #666" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic2-step9.gif" alt="Ionic 2 - SearchBar" />
 
 Antes de concluir eu gostaria de mostrar um recurso fornecido pelo framework que nos permite testar o comportamento e visual da nossa aplicação em diferentes plataformas chamado **Ionic Lab**. Caso ainda esteja com o servidor ativo, basta inserir **/ionic-lab** após o número da porta na url ou digitar `ionic serve --lab` no terminal. O resultado é o seguinte:
 
-<img style="border: 1px solid #666" src="http://tableless.com.br/uploads/2016/10/ionic-2-ionic-lab.jpg" alt="Ionic 2 - Ionic Lab" />
+<img style="border: 1px solid #666" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic-2-ionic-lab.jpg" alt="Ionic 2 - Ionic Lab" />
 
 Na imagem acima você consegue visualizar o nosso aplicativo no **iOS**, **Android** e **Windows Phone**! O Ionic não apenas executa o build da aplicação com uma única base de código para dispositivos diferentes como também se adapta ao comportamento e estilo visual de cada um, numa tentativa de fazer com que o usuário sempre tenha uma experiência condizente com a plataforma que utiliza. Perceba, por exemplo, como o spinner, a barra de busca, os ícones e estilo da lista são diferentes entre as plataformas. No caso do iOS, são incluídos até mesmo as setas na lateral direita da célula, o que é comum na plataforma. Além de tudo isso, poder testar aplicativos dessa maneira e ainda tirar proveito do recurso de _LiveReload_ enquanto você está programando é algo realmente especial.
 
@@ -1009,7 +1009,7 @@ Nosso aplicativo agora depende de algumas mudanças visuais para corrigir alguns
 
 Um dos pontos de atenção é a maneira como os textos devem ser apresentados ao usuário. O Material Design trabalha com a noção de hierarquia baseada em tons e opacidade. Em outras palavras, textos primários (que representam títulos e informações de destaque) recebem 87% de opacidade enquanto subtítulos recebem 54%. Veja abaixo:
 
-<img style="border: 1px solid #666" src="http://tableless.com.br/uploads/2016/10/ionic-2-material-design-spec.jpg" alt="Ionic 2 - Material Design Spec" />
+<img style="border: 1px solid #666" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic-2-material-design-spec.jpg" alt="Ionic 2 - Material Design Spec" />
 
 Se você for inspecionar as cores presentes nos textos das células (utilize o _Devtools_ para tal) vai notar que elas não seguem este ponto da especificação da linguagem. O texto principal, por exemplo, utiliza preto puro e é sempre bom (fica aqui a dica) <a href="https://ianstormtaylor.com/design-tip-never-use-black" target="_blank">evitar</a> preto puro em seus designs sempre que possível.
 
@@ -1107,7 +1107,7 @@ E insira a seguinte instrução dentro do método construtor do arquivo **src/ap
 
 E agora veja como ficou o visual final da nossa aplicação rodando em um iPhone 6:
 
-<img style="border: 1px solid #666" src="http://tableless.com.br/uploads/2016/10/ionic2-step10.gif" alt="Ionic 2 - UX enhancement" />
+<img style="border: 1px solid #666" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic2-step10.gif" alt="Ionic 2 - UX enhancement" />
 
 #### 10.5 &#8211; Aumentando o desempenho
 
@@ -1141,5 +1141,5 @@ Bons estudos e até a próxima!
 
 > Se você ficou curioso sobre a criação de aplicativos multiplataforma que utilizam tecnologia da web, saiba que o Ionic não é a única opção existente. Leia meu post sobre **<a href="http://tableless.com.br/react-native-construa-aplicacoes-moveis-nativas-com-javascript/" target="_blank">React Native</a>** e descubra como já é possível criar uma aplicação 100% nativa utilizando JavaScript.
 
- [1]: http://tableless.com.br/uploads/2016/10/tumblr_npjjd6T4Lu1tq4of6o1_400.gif
- [2]: http://tableless.com.br/uploads/2016/10/ionic-2-localhost-5.jpg
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/tumblr_npjjd6T4Lu1tq4of6o1_400.gif
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic-2-localhost-5.jpg

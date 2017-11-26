@@ -58,17 +58,17 @@ Este é o exemplo de wireframe que vamos criar passo-a-passo para o nosso exempl
 
 Este é o meu rascunho inicial:
 
-<img class="alignnone size-full wp-image-27002" alt="wireframe-sketch" src="http://tableless.com.br/uploads/2013/04/wireframe-sketch1.jpg" width="660" height="708" srcset="uploads/2013/04/wireframe-sketch1.jpg 660w, uploads/2013/04/wireframe-sketch1-156x168.jpg 156w, uploads/2013/04/wireframe-sketch1-288x310.jpg 288w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-27002" alt="wireframe-sketch" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/wireframe-sketch1.jpg" width="660" height="708" srcset="uploads/2013/04/wireframe-sketch1.jpg 660w, uploads/2013/04/wireframe-sketch1-156x168.jpg 156w, uploads/2013/04/wireframe-sketch1-288x310.jpg 288w" sizes="(max-width: 660px) 100vw, 660px" />
 
 E agora o mesmo modelo recriado no Photoshop:
 
-<img class="alignnone size-full wp-image-27021" alt="wireframe-desktop" src="http://tableless.com.br/uploads/2013/04/wireframe-desktop.jpg" width="660" height="666" srcset="uploads/2013/04/wireframe-desktop.jpg 660w, uploads/2013/04/wireframe-desktop-166x168.jpg 166w, uploads/2013/04/wireframe-desktop-307x310.jpg 307w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-27021" alt="wireframe-desktop" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/wireframe-desktop.jpg" width="660" height="666" srcset="uploads/2013/04/wireframe-desktop.jpg 660w, uploads/2013/04/wireframe-desktop-166x168.jpg 166w, uploads/2013/04/wireframe-desktop-307x310.jpg 307w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### Tablets
 
 A técnica para adaptar esta estrutura para as outras versões é simples. Diminua o número de colunas no grid. Se inicialmente tinhamos 16 colunas no desktop, teremos 10 no tablet e 4 no smartphone, por exemplo. O conteúdo deve se re-arranjar para caber nesta estrutura menor. Então no tablet ao invés de 4 destaques lado-a-lado temos 2 fileiras com 2 destaques cada. Para adequar-se a estas mudanças as imagens ficaram maiores. Outra modificação foi um ajuste  no tamanho do texto do menu.
 
-<img class="alignnone size-full wp-image-26973" alt="wireframe-tablet" src="http://tableless.com.br/uploads/2013/04/wireframe-tablet.jpg" width="660" height="894" srcset="uploads/2013/04/wireframe-tablet.jpg 660w, uploads/2013/04/wireframe-tablet-124x168.jpg 124w, uploads/2013/04/wireframe-tablet-228x310.jpg 228w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-26973" alt="wireframe-tablet" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/wireframe-tablet.jpg" width="660" height="894" srcset="uploads/2013/04/wireframe-tablet.jpg 660w, uploads/2013/04/wireframe-tablet-124x168.jpg 124w, uploads/2013/04/wireframe-tablet-228x310.jpg 228w" sizes="(max-width: 660px) 100vw, 660px" />
 
 &nbsp;
 
@@ -76,7 +76,7 @@ A técnica para adaptar esta estrutura para as outras versões é simples. Dimin
 
 Como a tela dos smartphones é ainda menor, é necessário re-arranjar as estruturas novamente e fazer alguns outros ajustes. Isto não significa necessariamente diminuir os elementos de tamanho. Lembre-se que a maior parte dos dispositivos móveis utilizam touch screens. Você deve adaptar os elementos considerando esta área de toque. Links muito pequenos e juntinhos são difíceis selecionar. O ideal é que o usuário possa navegar no site sem precisar dar zoom. Por isto optei por colapsar os elementos em um menu drop-down. Os destaques agora ocupam o espaço total do wrap. Optei por juntar os 4 destaques em uma navegação estilo slider (navegáveis através de seletores em forma de &#8220;bolinhas&#8221;). Outra mudança estetica significativa foi o banner. Como pretendo incluir texto em HTML  com os serviços principais da empresa optei por deixa-lo em uma caixa preta abaixo da foto. Desta maneira as imagens ficam mais visíveis e o formato não prejudica a leitura do texto.
 
-<img class="alignnone size-full wp-image-26972" alt="wireframe-smartphone" src="http://tableless.com.br/uploads/2013/04/wireframe-smartphone.jpg" width="660" height="1102" srcset="uploads/2013/04/wireframe-smartphone.jpg 660w, uploads/2013/04/wireframe-smartphone-100x168.jpg 100w, uploads/2013/04/wireframe-smartphone-185x310.jpg 185w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-26972" alt="wireframe-smartphone" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/wireframe-smartphone.jpg" width="660" height="1102" srcset="uploads/2013/04/wireframe-smartphone.jpg 660w, uploads/2013/04/wireframe-smartphone-100x168.jpg 100w, uploads/2013/04/wireframe-smartphone-185x310.jpg 185w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Resoluções
 
@@ -128,17 +128,17 @@ Este é o exemplo de wireframe que vamos criar passo-a-passo para o nosso exempl
 
 Este é o meu rascunho inicial:
 
-<img class="alignnone size-full wp-image-27002" alt="wireframe-sketch" src="http://tableless.com.br/uploads/2013/04/wireframe-sketch1.jpg" width="660" height="708" srcset="uploads/2013/04/wireframe-sketch1.jpg 660w, uploads/2013/04/wireframe-sketch1-156x168.jpg 156w, uploads/2013/04/wireframe-sketch1-288x310.jpg 288w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-27002" alt="wireframe-sketch" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/wireframe-sketch1.jpg" width="660" height="708" srcset="uploads/2013/04/wireframe-sketch1.jpg 660w, uploads/2013/04/wireframe-sketch1-156x168.jpg 156w, uploads/2013/04/wireframe-sketch1-288x310.jpg 288w" sizes="(max-width: 660px) 100vw, 660px" />
 
 E agora o mesmo modelo recriado no Photoshop:
 
-<img class="alignnone size-full wp-image-27021" alt="wireframe-desktop" src="http://tableless.com.br/uploads/2013/04/wireframe-desktop.jpg" width="660" height="666" srcset="uploads/2013/04/wireframe-desktop.jpg 660w, uploads/2013/04/wireframe-desktop-166x168.jpg 166w, uploads/2013/04/wireframe-desktop-307x310.jpg 307w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-27021" alt="wireframe-desktop" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/wireframe-desktop.jpg" width="660" height="666" srcset="uploads/2013/04/wireframe-desktop.jpg 660w, uploads/2013/04/wireframe-desktop-166x168.jpg 166w, uploads/2013/04/wireframe-desktop-307x310.jpg 307w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ### Tablets
 
 A técnica para adaptar esta estrutura para as outras versões é simples. Diminua o número de colunas no grid. Se inicialmente tinhamos 16 colunas no desktop, teremos 10 no tablet e 4 no smartphone, por exemplo. O conteúdo deve se re-arranjar para caber nesta estrutura menor. Então no tablet ao invés de 4 destaques lado-a-lado temos 2 fileiras com 2 destaques cada. Para adequar-se a estas mudanças as imagens ficaram maiores. Outra modificação foi um ajuste  no tamanho do texto do menu.
 
-<img class="alignnone size-full wp-image-26973" alt="wireframe-tablet" src="http://tableless.com.br/uploads/2013/04/wireframe-tablet.jpg" width="660" height="894" srcset="uploads/2013/04/wireframe-tablet.jpg 660w, uploads/2013/04/wireframe-tablet-124x168.jpg 124w, uploads/2013/04/wireframe-tablet-228x310.jpg 228w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-26973" alt="wireframe-tablet" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/wireframe-tablet.jpg" width="660" height="894" srcset="uploads/2013/04/wireframe-tablet.jpg 660w, uploads/2013/04/wireframe-tablet-124x168.jpg 124w, uploads/2013/04/wireframe-tablet-228x310.jpg 228w" sizes="(max-width: 660px) 100vw, 660px" />
 
 &nbsp;
 
@@ -146,7 +146,7 @@ A técnica para adaptar esta estrutura para as outras versões é simples. Dimin
 
 Como a tela dos smartphones é ainda menor, é necessário re-arranjar as estruturas novamente e fazer alguns outros ajustes. Isto não significa necessariamente diminuir os elementos de tamanho. Lembre-se que a maior parte dos dispositivos móveis utilizam touch screens. Você deve adaptar os elementos considerando esta área de toque. Links muito pequenos e juntinhos são difíceis selecionar. O ideal é que o usuário possa navegar no site sem precisar dar zoom. Por isto optei por colapsar os elementos em um menu drop-down. Os destaques agora ocupam o espaço total do wrap. Optei por juntar os 4 destaques em uma navegação estilo slider (navegáveis através de seletores em forma de &#8220;bolinhas&#8221;). Outra mudança estetica significativa foi o banner. Como pretendo incluir texto em HTML  com os serviços principais da empresa optei por deixa-lo em uma caixa preta abaixo da foto. Desta maneira as imagens ficam mais visíveis e o formato não prejudica a leitura do texto.
 
-<img class="alignnone size-full wp-image-26972" alt="wireframe-smartphone" src="http://tableless.com.br/uploads/2013/04/wireframe-smartphone.jpg" width="660" height="1102" srcset="uploads/2013/04/wireframe-smartphone.jpg 660w, uploads/2013/04/wireframe-smartphone-100x168.jpg 100w, uploads/2013/04/wireframe-smartphone-185x310.jpg 185w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-26972" alt="wireframe-smartphone" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/wireframe-smartphone.jpg" width="660" height="1102" srcset="uploads/2013/04/wireframe-smartphone.jpg 660w, uploads/2013/04/wireframe-smartphone-100x168.jpg 100w, uploads/2013/04/wireframe-smartphone-185x310.jpg 185w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Resoluções
 
@@ -174,13 +174,13 @@ Na minha empresa criamos modelos estáticos para serem aprovados pelos clientes 
 
 Para o nosso exemplo criei a empresa fictícia Space Tour.
 
-<img class="alignnone size-full wp-image-26991" alt="wifreframe" src="http://tableless.com.br/uploads/2013/04/wifreframe.jpg" width="660" height="672" srcset="uploads/2013/04/wifreframe.jpg 660w, uploads/2013/04/wifreframe-165x168.jpg 165w, uploads/2013/04/wifreframe-304x310.jpg 304w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-26991" alt="wifreframe" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/wifreframe.jpg" width="660" height="672" srcset="uploads/2013/04/wifreframe.jpg 660w, uploads/2013/04/wifreframe-165x168.jpg 165w, uploads/2013/04/wifreframe-304x310.jpg 304w" sizes="(max-width: 660px) 100vw, 660px" />
 
 Mesmo com um conteúdo falso aplicado ainda é difícil de imaginar como o produto final vai se comportar online, principalmente no caso de dispositivos móveis. Para que o cliente possa visualizar como o layout vai se comportar é interessante utilizar mock-ups de hardwares reais. Basta procurar no Google que existem diversos recursos gratuitos para este fim. O site [PSD Covers][9], por exemplo, possui actions e templates de Photoshop em alta resolução que podem ajudar bastante na apresentação final. O][10] também pode ser uma boa fonte para recursos gratuitos.
 
-<img class="alignnone size-full wp-image-26974" alt="mockup-ipad" src="http://tableless.com.br/uploads/2013/04/mockup-ipad.jpg" width="660" height="680" srcset="uploads/2013/04/mockup-ipad.jpg 660w, uploads/2013/04/mockup-ipad-163x168.jpg 163w, uploads/2013/04/mockup-ipad-300x310.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-26974" alt="mockup-ipad" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/mockup-ipad.jpg" width="660" height="680" srcset="uploads/2013/04/mockup-ipad.jpg 660w, uploads/2013/04/mockup-ipad-163x168.jpg 163w, uploads/2013/04/mockup-ipad-300x310.jpg 300w" sizes="(max-width: 660px) 100vw, 660px" />
 
-<img class="alignnone size-full wp-image-26975" alt="mockup-smartphone" src="http://tableless.com.br/uploads/2013/04/mockup-smartphone.jpg" width="660" height="536" srcset="uploads/2013/04/mockup-smartphone.jpg 660w, uploads/2013/04/mockup-smartphone-206x168.jpg 206w, uploads/2013/04/mockup-smartphone-381x310.jpg 381w" sizes="(max-width: 660px) 100vw, 660px" />
+<img class="alignnone size-full wp-image-26975" alt="mockup-smartphone" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/mockup-smartphone.jpg" width="660" height="536" srcset="uploads/2013/04/mockup-smartphone.jpg 660w, uploads/2013/04/mockup-smartphone-206x168.jpg 206w, uploads/2013/04/mockup-smartphone-381x310.jpg 381w" sizes="(max-width: 660px) 100vw, 660px" />
 
 ## Um processo em evolução
 
@@ -197,7 +197,7 @@ Bem, agora você já sabe como criar um protótipo de design responsivo. Com o l
  [5]: http://www.envisionsuccess.net/images/responsive-guide.jpg "Responsive Guide Wallpaper"
  [6]: http://dribbble.com/shots/410635-Responsive-Grid-PSD/ "Responsive Grid PSD"
  [7]: http://framelessgrid.com/ "Frameless"
- [8]: http://tableless.com.br/uploads/2013/04/grid.zip "Grid"
+ [8]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/grid.zip "Grid"
  [9]: http://www.psdcovers.com/ "PSD Covers"
  [10]: http://dribbble.com/ "dribbble"
  [11]: http://tableless.com.br/?s=design+responsivo "Tableless Design Responsivo"

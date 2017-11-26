@@ -27,7 +27,7 @@ O usuário [Angelo Lucas][2] do nosso fórum postou a seguinte resposta:
 >   2. Instale o PHP, Mysql na sua máquina. Baixe o WordPress e instale-o, ele vem com alguns temas incluso
 >   3. Duplique um tema do wordpress e começe a implementar seu HTML na programação já existente, não é difícil, não é chato.
 
-Gostei bastante da resposta, mas o assunto é tão empolgante que merecia um conteúdo mais detalhado. E para melhorar o aprendizado e nos guiar, <a href="http://tableless.com.br/uploads/2011/12/layout-para-desenvolvimento-wordpress.jpg" target="_blank">desenhei um layout bem simples</a>. **Não reparem, sou péssimo design.**
+Gostei bastante da resposta, mas o assunto é tão empolgante que merecia um conteúdo mais detalhado. E para melhorar o aprendizado e nos guiar, <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/12/layout-para-desenvolvimento-wordpress.jpg" target="_blank">desenhei um layout bem simples</a>. **Não reparem, sou péssimo design.**
 
 ### Iniciando o desenvolvimento
 
@@ -54,7 +54,7 @@ Dois arquivos do tema possuem importância e servem para aumentar a nossa produt
 
 Vou mostrar um exemplo de meus arquivos header.php e footer.php para vocês terem noção.
 
-[<img src="http://tableless.com.br/uploads/2011/12/header-para-desenvolvimento-wordpress.jpg" alt="Header para desenvolvimento WordPress" width="600" height="63" class="alignnone size-medium wp-image-4843" />][3]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/12/header-para-desenvolvimento-wordpress.jpg" alt="Header para desenvolvimento WordPress" width="600" height="63" class="alignnone size-medium wp-image-4843" />][3]
 
 **header.php**
 
@@ -110,7 +110,7 @@ Já ouviram falar no **Loop do WordPress**? Confiram esse [artigo][9] pois vão 
 
 Vamos ao exemplo da página inicial:
 
-<img src="http://tableless.com.br/uploads/2011/12/conteudo.jpg" alt="Conteudo para tema no WordPress" width="600" height="578" class="alignnone size-full wp-image-5034" srcset="uploads/2011/12/conteudo.jpg 1000w, uploads/2011/12/conteudo-300x289.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/12/conteudo.jpg" alt="Conteudo para tema no WordPress" width="600" height="578" class="alignnone size-full wp-image-5034" srcset="uploads/2011/12/conteudo.jpg 1000w, uploads/2011/12/conteudo-300x289.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />
 
 <pre class="lang-php">&lt;?php get_header(); ?&gt;
 &lt;div id="blog"&gt;
@@ -148,7 +148,7 @@ Quero deixar o espaço sempre aberto para quem tiver dúvidas, dar sugestões, c
 
  [1]: http://tableless.com.br/forum/discussion/55/customizacao-tema-wordpress
  [2]: http://tableless.com.br/forum/profile/375/angelolucas
- [3]: http://tableless.com.br/uploads/2011/12/header-para-desenvolvimento-wordpress.jpg
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/12/header-para-desenvolvimento-wordpress.jpg
  [4]: http://codex.wordpress.org/pt-br:Template_Tags/bloginfo
  [5]: http://codex.wordpress.org/Function_Reference/wp_title
  [6]: http://codex.wordpress.org/Function_Reference/wp_head

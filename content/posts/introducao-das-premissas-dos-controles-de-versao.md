@@ -38,7 +38,7 @@ A última revisão, a mais atual, normalmente é chamada de _HEAD_. Existem mome
 
 Imagine que exista a **versão de produção** que é aquela que está no ar. É a versão que o usuário está utilizando. É importante que nós não modifiquemos esta versão porque alguém pode commitar algo errado, quebrar tudo e o usuario reclamar. Por isso nós precisamos de outro ambiente para evoluir as features, resolver bugs e etc, sem afetar o branch principal. Essa forma é usado em projetos pequenos, mas algo parecido é feito em projetos grandes, onde aumentamos o número de servidores para termos mais segurança ao fazer os deploys.
 
-<img src="http://tableless.com.br/uploads/2012/01/branch.jpg" alt="" title="branch" width="770" height="188" class="alignnone size-full wp-image-5212" srcset="uploads/2012/01/branch.jpg 770w, uploads/2012/01/branch-300x73.jpg 300w" sizes="(max-width: 770px) 100vw, 770px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/01/branch.jpg" alt="" title="branch" width="770" height="188" class="alignnone size-full wp-image-5212" srcset="uploads/2012/01/branch.jpg 770w, uploads/2012/01/branch-300x73.jpg 300w" sizes="(max-width: 770px) 100vw, 770px" />
 
 É muito útil criarmos novos **trunks** (tronco) quando precisamos fazer modificações drásticas de novas features, resolver bugs ou modificar layout. 
 

@@ -1667,7 +1667,7 @@ Os PDFs estão presos a um tamanho fixo, lembra? O que significa que as palavras
   * [ePub Read][16] &#8211; Firefox
 
  [1]: http://idpf.org/ "IDPF"
- [2]: http://tableless.com.br/uploads/2012/01/meulivro.epub_.zip
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/01/meulivro.epub_.zip
  [3]: http://code.google.com/p/sigil/ "Sigil"
  [4]: http://idpf.org/epub "IDPF"
  [5]: http://code.google.com/p/epubcheck/ "ePub Check"

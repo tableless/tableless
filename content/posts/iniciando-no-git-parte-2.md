@@ -34,11 +34,11 @@ Antes de tudo você precisa entender em qual status os arquivos se encontram. Vo
 
 Você já clonou ou iniciou seu projeto no Git e agora vai fazer modificações nos arquivos e enviar essas modificações para o repositório. Lembre-se que os arquivos em seu Work Directory podem estar **traked** ou **untracked**. Vou manter os termos em inglês para você se familiarizar melhor. Arquivos com status **tracked** são arquivos que já estão inseridos no repositório. Eles podem ser **unmodified** (que não foram modificados por você), **modified** (que foram modificados por você) ou **staged** (que são os arquivos que acabaram de ser mudados).
 
-<img src="http://tableless.com.br/uploads/2012/11/18333fig0201-tn.png" alt="" title="18333fig0201-tn" width="500" height="317" class="alignnone size-full wp-image-7272" srcset="uploads/2012/11/18333fig0201-tn.png 500w, uploads/2012/11/18333fig0201-tn-300x190.png 300w" sizes="(max-width: 500px) 100vw, 500px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/18333fig0201-tn.png" alt="" title="18333fig0201-tn" width="500" height="317" class="alignnone size-full wp-image-7272" srcset="uploads/2012/11/18333fig0201-tn.png 500w, uploads/2012/11/18333fig0201-tn-300x190.png 300w" sizes="(max-width: 500px) 100vw, 500px" />
 
 Esse ciclo é repetido diversas e diversas vezes. Veja abaixo um exemplo:
 
-[<img src="http://tableless.com.br/uploads/2012/11/git2-1024x549.jpg" alt="" title="git2" width="640" height="343" class="alignnone size-large wp-image-7273" srcset="uploads/2012/11/git2-1024x549.jpg 1024w, uploads/2012/11/git2-300x161.jpg 300w, uploads/2012/11/git2.jpg 1131w" sizes="(max-width: 640px) 100vw, 640px" />][2]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/git2-1024x549.jpg" alt="" title="git2" width="640" height="343" class="alignnone size-large wp-image-7273" srcset="uploads/2012/11/git2-1024x549.jpg 1024w, uploads/2012/11/git2-300x161.jpg 300w, uploads/2012/11/git2.jpg 1131w" sizes="(max-width: 640px) 100vw, 640px" />][2]
 
 ## Commit
 
@@ -54,7 +54,7 @@ O comando é este:
 
 Se você fizer um **git log** no projeto, você consegue visualizar uma lista de todos os commits enviados para o projeto, seus commits e commits de outros integrantes. Veja abaixo:
 
-<img src="http://tableless.com.br/uploads/2012/11/Screen-Shot-2012-11-19-at-12.17.50-PM.png" alt="" title="Screen Shot 2012-11-19 at 12.17.50 PM" width="756" height="609" class="alignnone size-full wp-image-7274" srcset="uploads/2012/11/Screen-Shot-2012-11-19-at-12.17.50-PM.png 756w, uploads/2012/11/Screen-Shot-2012-11-19-at-12.17.50-PM-300x241.png 300w" sizes="(max-width: 756px) 100vw, 756px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/Screen-Shot-2012-11-19-at-12.17.50-PM.png" alt="" title="Screen Shot 2012-11-19 at 12.17.50 PM" width="756" height="609" class="alignnone size-full wp-image-7274" srcset="uploads/2012/11/Screen-Shot-2012-11-19-at-12.17.50-PM.png 756w, uploads/2012/11/Screen-Shot-2012-11-19-at-12.17.50-PM-300x241.png 300w" sizes="(max-width: 756px) 100vw, 756px" />
 
 ## Pull
 
@@ -79,5 +79,5 @@ A [documentação do Git][3] é muito fácil de ler e entender. É bem objetiva 
 Veja um vídeo que mostra os comandos básicos do GIT:
 
  [1]: http://tableless.com.br/iniciando-no-git-parte-1/
- [2]: http://tableless.com.br/uploads/2012/11/git2.jpg
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/git2.jpg
  [3]: http://git-scm.com/docs

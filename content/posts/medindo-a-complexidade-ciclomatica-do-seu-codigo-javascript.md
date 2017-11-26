@@ -102,7 +102,7 @@ Segundo a pesquisa da Aivosto, uma correção aplicada em um método com complex
 ## Plato
 
 <p style="text-align: center">
-  <img src="http://tableless.com.br/uploads/2013/06/complexityplato.jpg" alt="complexityplato" width="372" height="396" class="alignnone size-full wp-image-37790" style="border: 1px solid #ccc" srcset="uploads/2013/06/complexityplato.jpg 372w, uploads/2013/06/complexityplato-157x168.jpg 157w, uploads/2013/06/complexityplato-291x310.jpg 291w" sizes="(max-width: 372px) 100vw, 372px" />
+  <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/complexityplato.jpg" alt="complexityplato" width="372" height="396" class="alignnone size-full wp-image-37790" style="border: 1px solid #ccc" srcset="uploads/2013/06/complexityplato.jpg 372w, uploads/2013/06/complexityplato-157x168.jpg 157w, uploads/2013/06/complexityplato-291x310.jpg 291w" sizes="(max-width: 372px) 100vw, 372px" />
 </p>
 
 Desenvolvida por Jarrod Overson, a ferramenta <a href="https://github.com/jsoverson/plato" target="_blank">Plato</a> aplica na prática todas as teorias de medição de complexidade ciclomática, exibindo na forma de gráficos dados como taxa de mantenabilidade, bugs estimados e erros de lint.
@@ -132,7 +132,7 @@ Abaixo temos alguns exemplos de relatórios disponibilizados no repositório do 
 ## Bugs estimados
 
 <p style="text-align: center">
-  <img src="http://tableless.com.br/uploads/2013/06/bugs.jpg" alt="bugs" width="404" height="246" class="alignnone size-full wp-image-37786" style="border: 1px solid #ccc" srcset="uploads/2013/06/bugs.jpg 404w, uploads/2013/06/bugs-275x168.jpg 275w" sizes="(max-width: 404px) 100vw, 404px" />
+  <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/bugs.jpg" alt="bugs" width="404" height="246" class="alignnone size-full wp-image-37786" style="border: 1px solid #ccc" srcset="uploads/2013/06/bugs.jpg 404w, uploads/2013/06/bugs-275x168.jpg 275w" sizes="(max-width: 404px) 100vw, 404px" />
 </p>
 
 Um gráfico que chama a atenção nos relatórios do Plato é o de bugs estimados. Afinal de contas, entregar um produto sem bugs é (ou deveria ser) o objetivo final de qualquer desenvolvedor.

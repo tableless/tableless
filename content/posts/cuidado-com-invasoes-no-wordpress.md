@@ -28,13 +28,13 @@ Há duas semanas, passei sérios problemas com o WordPress, com o blog [Papo de 
 
 Por otimizar o site, sempre estou verificando como as páginas do blog estão se comportando no Google. Busquei por **site:papodebuteco.net** para verificar todas as minhas páginas indexas no Google, e obtive o seguinte resultado:
 
-[<img class="alignnone size-medium wp-image-5948" src="http://tableless.com.br/uploads/2012/04/serp-papo-de-buteco-300x280.png" alt="" width="300" height="280" srcset="uploads/2012/04/serp-papo-de-buteco-300x280.png 300w, uploads/2012/04/serp-papo-de-buteco.png 800w" sizes="(max-width: 300px) 100vw, 300px" />][2]
+[<img class="alignnone size-medium wp-image-5948" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/serp-papo-de-buteco-300x280.png" alt="" width="300" height="280" srcset="uploads/2012/04/serp-papo-de-buteco-300x280.png 300w, uploads/2012/04/serp-papo-de-buteco.png 800w" sizes="(max-width: 300px) 100vw, 300px" />][2]
 
 Ao primeiro olhar, já observei as tags de título das páginas estavam totalmente diferentes, no mínimo estranho, não é? Comecei a estudar a situação, e conclui que neste caso, aconteceu uma espécie de **[Cloaking][3]**, que reproduzia a página normal para o usuário e outra página para o Google.
 
 De primeira, achei que eram os plug-ins instalados no site que estavam fazendo isso, mas até que o Google me enviou a seguinte mensagem para o **[Web Master Tools][4]**** **do site:
 
-[<img class="alignnone size-medium wp-image-5951" src="http://tableless.com.br/uploads/2012/04/mensagem-google-300x211.png" alt="" width="300" height="211" srcset="uploads/2012/04/mensagem-google-300x211.png 300w, uploads/2012/04/mensagem-google.png 1000w" sizes="(max-width: 300px) 100vw, 300px" />][5]
+[<img class="alignnone size-medium wp-image-5951" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/mensagem-google-300x211.png" alt="" width="300" height="211" srcset="uploads/2012/04/mensagem-google-300x211.png 300w, uploads/2012/04/mensagem-google.png 1000w" sizes="(max-width: 300px) 100vw, 300px" />][5]
 
 Ao acessar o link indicado na mensagem, e realmente foi mostrada uma página com um conteúdo não relacionado ao blog.
 
@@ -46,13 +46,13 @@ O que precisa ser feito é: **Reinstalar o WordPress para atualizar seus arquivo
 
 Em seu painel de adiminstração, procure no menu de navegação por **Atualizações** e siga como na imagem abaixo:
 
-[<img class="alignnone size-medium wp-image-5944" src="http://tableless.com.br/uploads/2012/04/menu-navegacao-128x300.png" alt="" width="128" height="300" srcset="uploads/2012/04/menu-navegacao-128x300.png 128w, uploads/2012/04/menu-navegacao.png 286w" sizes="(max-width: 128px) 100vw, 128px" />][6][<img class="alignright size-medium wp-image-5953" src="http://tableless.com.br/uploads/2012/04/reinstalando-wordpress-300x164.png" alt="" width="300" height="164" srcset="uploads/2012/04/reinstalando-wordpress-300x164.png 300w, uploads/2012/04/reinstalando-wordpress.png 800w" sizes="(max-width: 300px) 100vw, 300px" />][7]
+[<img class="alignnone size-medium wp-image-5944" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/menu-navegacao-128x300.png" alt="" width="128" height="300" srcset="uploads/2012/04/menu-navegacao-128x300.png 128w, uploads/2012/04/menu-navegacao.png 286w" sizes="(max-width: 128px) 100vw, 128px" />][6][<img class="alignright size-medium wp-image-5953" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/reinstalando-wordpress-300x164.png" alt="" width="300" height="164" srcset="uploads/2012/04/reinstalando-wordpress-300x164.png 300w, uploads/2012/04/reinstalando-wordpress.png 800w" sizes="(max-width: 300px) 100vw, 300px" />][7]
 
 Depois disso, acessei a página que o Google indicou na mensagem e não tive mais problemas, a página foi carregou com seu conteúdo real.
 
 Para confirmar, você pode tirar a _“prova real”_ **buscando como o Googlebot**, que é uma ferramenta encontrada no Google Webmaster Tools.
 
-[<img class="size-medium wp-image-5945 alignleft" src="http://tableless.com.br/uploads/2012/04/gwmt-1-300x156.png" alt="" width="300" height="156" srcset="uploads/2012/04/gwmt-1-300x156.png 300w, uploads/2012/04/gwmt-1-1024x535.png 1024w, uploads/2012/04/gwmt-1.png 1423w" sizes="(max-width: 300px) 100vw, 300px" />][8]
+[<img class="size-medium wp-image-5945 alignleft" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/gwmt-1-300x156.png" alt="" width="300" height="156" srcset="uploads/2012/04/gwmt-1-300x156.png 300w, uploads/2012/04/gwmt-1-1024x535.png 1024w, uploads/2012/04/gwmt-1.png 1423w" sizes="(max-width: 300px) 100vw, 300px" />][8]
 
 &nbsp;
 
@@ -81,13 +81,13 @@ Se o seu site ainda não é integrado ao Google **[Web Master Tools][9]**, aces
 Quero aproveitar o espaço para agradecer [Leandro Lopes][11] (dono do blog Papo de Buteco), que autorizou a postagem de exemplos relacionados ao blog dele. É importante relatar o que aconteceu, ainda mais com casos verídicos, pois pode acontecer com qualquer um.
 
  [1]: http://papodebuteco.net
- [2]: http://tableless.com.br/uploads/2012/04/serp-papo-de-buteco.png
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/serp-papo-de-buteco.png
  [3]: http://www.mestreseo.com.br/black-hat/cloaking-aplicacao-scripts-blackhat-e-questoes-eticas "Cloaking"
  [4]: https://www.google.com/webmasters/tools
- [5]: http://tableless.com.br/uploads/2012/04/mensagem-google.png
- [6]: http://tableless.com.br/uploads/2012/04/menu-navegacao.png
- [7]: http://tableless.com.br/uploads/2012/04/reinstalando-wordpress.png
- [8]: http://tableless.com.br/uploads/2012/04/gwmt-1.png
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/mensagem-google.png
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/menu-navegacao.png
+ [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/reinstalando-wordpress.png
+ [8]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/gwmt-1.png
  [9]: https://www.google.com/webmasters/tools/
  [10]: http://webperfeita.com/10-dicas-para-aumentar-a-seguranca-do-wordpress/
  [11]: http://twitter.com/#!/papodebuteco

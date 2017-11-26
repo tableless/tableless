@@ -94,11 +94,11 @@ O [Litmus][7] é um ambiente de testes e análise de email marketing que surgiu 
 
 Além disso, você consegue criar ou modificar o código do seu email diretamente pelo sistema deles, facilitando MUITO a adequação do código, principalmente porque eles tem um syntax checker que verifica se você está usando alguma regra que não funciona nos clientes de email do mercado.
 
-<img src="http://tableless.com.br/uploads/2015/04/litmus-editor.jpg" alt="litmus-editor" width="500" height="273" class="alignnone size-full wp-image-48119" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/litmus-editor.jpg" alt="litmus-editor" width="500" height="273" class="alignnone size-full wp-image-48119" />
 
 Há uma feature chamada Interactive Testing. Esse negócio conecta em uma máquina virtual com o seu layout aberto no cliente de email e um lugar para você modificar seu código. Quando você muda alguma coisa no código, ele muda no cliente de email! Pensa na utilidade desse negócio.
 
-<img src="http://tableless.com.br/uploads/2015/04/litmus-interactive-testing.jpg" alt="litmus-interactive-testing" width="500" height="272" class="alignnone size-full wp-image-48120" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/litmus-interactive-testing.jpg" alt="litmus-interactive-testing" width="500" height="272" class="alignnone size-full wp-image-48120" />
 
 ### PutsMail
 

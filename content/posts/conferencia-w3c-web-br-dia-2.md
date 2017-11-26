@@ -22,7 +22,7 @@ A abertura do evento ficou por conta do Kris Borchers, diretor executivo da jQue
 
 Confira os slides da palestra em [Push Talk][2].
 
-<img class="alignnone size-full wp-image-39616" alt="10942790554_7fc663fe68_c" src="http://tableless.com.br/uploads/2013/11/10942790554_7fc663fe68_c.jpg" width="589" height="597" srcset="uploads/2013/11/10942790554_7fc663fe68_c.jpg 589w, uploads/2013/11/10942790554_7fc663fe68_c-165x168.jpg 165w, uploads/2013/11/10942790554_7fc663fe68_c-305x310.jpg 305w" sizes="(max-width: 589px) 100vw, 589px" />
+<img class="alignnone size-full wp-image-39616" alt="10942790554_7fc663fe68_c" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/10942790554_7fc663fe68_c.jpg" width="589" height="597" srcset="uploads/2013/11/10942790554_7fc663fe68_c.jpg 589w, uploads/2013/11/10942790554_7fc663fe68_c-165x168.jpg 165w, uploads/2013/11/10942790554_7fc663fe68_c-305x310.jpg 305w" sizes="(max-width: 589px) 100vw, 589px" />
 
 ### Snippets
 
@@ -34,7 +34,7 @@ Confira os slides da palestra em [Push Talk][2].
 
 Após a abertura, Kris Borchers continuou no palco justamente com Nathália Sautchuk (CGI.br), Yasodara Córdova (W3C Brasil) e Sérgio Lopes (desenvolvedor na Caelum) para um debate acalorado sobre os rumos da Web. Os participantes (e a platéia) se revezaram respondendo e formulando perguntas instigantes como &#8220;Como o desenvolvedor comum pode fazer a web progredir?&#8221; ou &#8220;Como fazer o usuário leigo entender e se envolver o processo de desenvolvimento e criação de padrões?&#8221;. O debate passou por tópicos como as vantages e desvantagens da implantação do ensino de programação na escola, pequenos desenvolvedores vs. grandes corporações e a importância da comunidade Open Source. Ninguém saiu de lá com respostas absolutas para estes questionamentos, mas tenho certeza de estarmos fazendo as perguntas certas e é justamente através deste tipo de diálogo que a web pode progredir.
 
-<img class="alignnone size-full wp-image-39614" alt="10943233685_602afa66f5_c" src="http://tableless.com.br/uploads/2013/11/10943233685_602afa66f5_c.jpg" width="589" height="393" srcset="uploads/2013/11/10943233685_602afa66f5_c.jpg 589w, uploads/2013/11/10943233685_602afa66f5_c-251x168.jpg 251w, uploads/2013/11/10943233685_602afa66f5_c-464x310.jpg 464w" sizes="(max-width: 589px) 100vw, 589px" />
+<img class="alignnone size-full wp-image-39614" alt="10943233685_602afa66f5_c" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/10943233685_602afa66f5_c.jpg" width="589" height="393" srcset="uploads/2013/11/10943233685_602afa66f5_c.jpg 589w, uploads/2013/11/10943233685_602afa66f5_c-251x168.jpg 251w, uploads/2013/11/10943233685_602afa66f5_c-464x310.jpg 464w" sizes="(max-width: 589px) 100vw, 589px" />
 
 ### Snippets
 
@@ -74,7 +74,7 @@ A segunda etapa foi liderada pelo jornalista Rafael Kenski (Abril). O tema da pa
 
 A terceira parte foi um debate entre os dois apresentadores, moderados por Gustavo Faleiros (InfoAmazonia). As perguntas da platéia compreenderam temas como direitos autorais, DRM Social e diferenças entre o mercado nacional e internacional. Foram sugeridas ainda maneiras alternativas de monetização, como utilizar livros distribuídos gratuitamente como um marketing para a promoção de palestras e eventos.
 
-<img class="alignnone size-full wp-image-39618" alt="10945342453_e7354ac055_c" src="http://tableless.com.br/uploads/2013/11/10945342453_e7354ac055_c.jpg" width="589" height="393" srcset="uploads/2013/11/10945342453_e7354ac055_c.jpg 589w, uploads/2013/11/10945342453_e7354ac055_c-251x168.jpg 251w, uploads/2013/11/10945342453_e7354ac055_c-464x310.jpg 464w" sizes="(max-width: 589px) 100vw, 589px" />
+<img class="alignnone size-full wp-image-39618" alt="10945342453_e7354ac055_c" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/10945342453_e7354ac055_c.jpg" width="589" height="393" srcset="uploads/2013/11/10945342453_e7354ac055_c.jpg 589w, uploads/2013/11/10945342453_e7354ac055_c-251x168.jpg 251w, uploads/2013/11/10945342453_e7354ac055_c-464x310.jpg 464w" sizes="(max-width: 589px) 100vw, 589px" />
 
 &#8211; Direito autoral é uma corrida entre gato e rato onde o gato sempre vai perder.
   
@@ -122,7 +122,7 @@ A última palestra foi apresentada pela Vanessa Tonini. A Vanessa comentou um po
 
 O encerramento do evento ficou por conta do concurso Web&#8217;s Got Talent, um reconhecimento merecido aos empreendedores brasileiros. Foram muitos projetos super interessantes (você pode ver a lista completa no [site da premiação][3]), apresentados pelo empresário Edney Souza, também conhecido como Interney. Os grandes vencedores da noite foram [Arte Fora do Museu][4] em primeiríssimo lugar, seguidos de [ProDeaf][5] e do [Loggi][6]. Mas todos os finalistas da noite merecem o seu clique!
 
-<img class="alignnone size-full wp-image-39613" alt="webgottallent" src="http://tableless.com.br/uploads/2013/11/webgottallent.jpg" width="589" height="393" srcset="uploads/2013/11/webgottallent.jpg 589w, uploads/2013/11/webgottallent-251x168.jpg 251w, uploads/2013/11/webgottallent-464x310.jpg 464w" sizes="(max-width: 589px) 100vw, 589px" />
+<img class="alignnone size-full wp-image-39613" alt="webgottallent" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/webgottallent.jpg" width="589" height="393" srcset="uploads/2013/11/webgottallent.jpg 589w, uploads/2013/11/webgottallent-251x168.jpg 251w, uploads/2013/11/webgottallent-464x310.jpg 464w" sizes="(max-width: 589px) 100vw, 589px" />
 
 ## Conclusão
 

@@ -249,6 +249,6 @@ E, não esqueça: se você já tiver desenvolvido um plugin, deixe o link nos co
   * [Exemplo online: jquery.fila][2]
   * [Exemplo online: jquery.marcaTexto][3]
 
- [1]: http://tableless.com.br/uploads/2010/09/plugins.zip
+ [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/09/plugins.zip
  [2]: http://tableless.github.com/exemplos/anatomia-plugin-jquery/fila.html
  [3]: http://tableless.github.com/exemplos/anatomia-plugin-jquery/

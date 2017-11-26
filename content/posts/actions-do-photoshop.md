@@ -19,6 +19,6 @@ A MightyDeals tem uma série de promoções para designers e desenvolvedores com
 
 A ideia é interessante já que uma série de coisas como ebooks, actions de photoshop, fotos, ícones e outras coisas podem ou sair bem caro normalmente ou você tem que ficar dando uma de detetive até encontrar algo gratuito por aí.
 
-[<img src="http://tableless.com.br/uploads/2013/02/big-preview-650.jpg" alt="big-preview-650" width="650" height="6234" class="alignnone size-full wp-image-8187" />][1]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/02/big-preview-650.jpg" alt="big-preview-650" width="650" height="6234" class="alignnone size-full wp-image-8187" />][1]
 
  [1]: http://bit.ly/XNrqWQ

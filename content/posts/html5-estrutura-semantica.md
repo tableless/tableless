@@ -68,7 +68,7 @@ Na estrutura acima, utilizei alguns nomes de classes e ids que costumamos utiliz
 
 Entenda que agora, qualquer elemento pode ter seu conteúdo separado por seções com o elemento **section**. Note também que os elementos podem ter também um **header** e um **footer** independentes do resto do layout. Como na imagem.
 
-[<img src="http://tableless.com.br/uploads/1999/11/printtableless-300x167.gif" alt="Exemplo Elemento HEADER" title="Exemplo Elemento HEADER" width="300" height="167" class="alignnone size-medium wp-image-1178" srcset="uploads/1999/11/printtableless-300x167.gif 300w, uploads/1999/11/printtableless.gif 603w" sizes="(max-width: 300px) 100vw, 300px" />][3]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/1999/11/printtableless-300x167.gif" alt="Exemplo Elemento HEADER" title="Exemplo Elemento HEADER" width="300" height="167" class="alignnone size-medium wp-image-1178" srcset="uploads/1999/11/printtableless-300x167.gif 300w, uploads/1999/11/printtableless.gif 603w" sizes="(max-width: 300px) 100vw, 300px" />][3]
 
 Uma dúvida comum entre os desenvolvedores é como fazer a estruturação e distribuição das tags de títulos (h1 até h6). Por exemplo, se eu utilizei já a tag H1 no logo do site, poderei utilizar para o título do artigo? Se repetirmos muitas vezes as mesmas tags de títulos, a importância que cada título tem sobre o outro se perderá. O Google poderá indexar de forma diferente e etc.
   
@@ -109,5 +109,5 @@ Irei escrever outros artigos sobre a inserção de vídeo e audio no código e u
 
  [1]: http://tableless.com.br/microformatos-internet-movel-e-quem-ainda-nao-entendeu-nada
  [2]: http://tableless.com.br/html-5-semantica-e-o-que-e-importante-na-web
- [3]: http://tableless.com.br/uploads/1999/11/printtableless.gif
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/1999/11/printtableless.gif
  [4]: http://www.whatwg.org/specs/web-apps/current-work/multipage/semantics.html

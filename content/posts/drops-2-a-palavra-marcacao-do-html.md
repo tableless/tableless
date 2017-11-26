@@ -16,13 +16,13 @@ tweetcount:
 enclosure:
   - |
     |
-        http://tableless.com.br/uploads/2011/01/drops2-marcacao-html.oga
+        https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/drops2-marcacao-html.oga
         4210332
         audio/ogg
         
   - |
     |
-        http://tableless.com.br/uploads/2011/01/drops2-marcacao-html.mp3
+        https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/drops2-marcacao-html.mp3
         4943120
         audio/mpeg
         
@@ -45,9 +45,9 @@ tags:
 Você já parou para pensar o que significa a palavra **marcação** da abreviação do HTML?
 
 <!--audio controls> 
-<source src="http://tableless.com.br/uploads/2011/01/drops2-marcacao-html.oga" type="audio/ogg" />
-<source src="http://tableless.com.br/uploads/2011/01/drops2-marcacao-html.mp3" type="audio/mpeg" />
- Se preferir faça o download do arquivo em <a href="http://tableless.com.br/uploads/2011/01/drops2-marcacao-html.mp3" title="Audio: HTML5 já pode ser usado">Mp3</a> ou <a href="http://tableless.com.br/uploads/2011/01/drops2-marcacao-html.oga" title="Audio: HTML5 já pode ser usado">OGA</a>.
+<source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/drops2-marcacao-html.oga" type="audio/ogg" />
+<source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/drops2-marcacao-html.mp3" type="audio/mpeg" />
+ Se preferir faça o download do arquivo em <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/drops2-marcacao-html.mp3" title="Audio: HTML5 já pode ser usado">Mp3</a> ou <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/drops2-marcacao-html.oga" title="Audio: HTML5 já pode ser usado">OGA</a>.
 </audio-->
 
 
@@ -57,6 +57,6 @@ Veja todos os [nossos drops no Soundcloud][1].
 Se preferir faça o download do arquivo em [Mp3][2] ou [OGA][3]. Ou [inscreva no iTunes][4].
 
  [1]: http://soundcloud.com/tableless
- [2]: http://tableless.com.br/uploads/2011/01/drops2-marcacao-html.mp3 "Audio: HTML5 já pode ser usado"
- [3]: http://tableless.com.br/uploads/2011/01/drops2-marcacao-html.oga "Audio: HTML5 já pode ser usado"
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/drops2-marcacao-html.mp3 "Audio: HTML5 já pode ser usado"
+ [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/drops2-marcacao-html.oga "Audio: HTML5 já pode ser usado"
  [4]: http://itunes.apple.com/us/podcast/tableless-desenvolvimento/id73330789 "Drops do Tableless no iTunes."

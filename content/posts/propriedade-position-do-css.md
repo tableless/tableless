@@ -63,13 +63,13 @@ Todos os positions precisam de um ponto para iniciar o cálculo da coordenada pa
 
 O position relative posiciona o elemento em relação a si mesmo. Ou seja, o ponto zero será o canto superior esquerdo, e ele começará a contar a partir dali. 
 
-[<img src="http://tableless.com.br/uploads/2009/05/position-relative.gif" alt="position-relative" title="position-relative" width="400" height="400" class="alignnone size-full wp-image-1408" srcset="uploads/2009/05/position-relative.gif 400w, uploads/2009/05/position-relative-150x150.gif 150w, uploads/2009/05/position-relative-300x300.gif 300w" sizes="(max-width: 400px) 100vw, 400px" />][4]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/05/position-relative.gif" alt="position-relative" title="position-relative" width="400" height="400" class="alignnone size-full wp-image-1408" srcset="uploads/2009/05/position-relative.gif 400w, uploads/2009/05/position-relative-150x150.gif 150w, uploads/2009/05/position-relative-300x300.gif 300w" sizes="(max-width: 400px) 100vw, 400px" />][4]
 
 ### Position Absolute
 
 O Position Absolute é um tanto diferente do Relative. Enquanto o elemento com Position Relative utiliza seu próprio canto para referenciar sua posição, o elemento com Position Absolute se utiliza do ponto superior esquerdo de outros elementos. Estes elementos são os parentes dele do elemento com position absolute. Mais especificamente o pai.
 
-[<img src="http://tableless.com.br/uploads/2009/05/position-absolute.gif" alt="position-absolute" title="position-absolute" width="500" height="500" class="alignnone size-full wp-image-1409" srcset="uploads/2009/05/position-absolute.gif 500w, uploads/2009/05/position-absolute-150x150.gif 150w, uploads/2009/05/position-absolute-300x300.gif 300w" sizes="(max-width: 500px) 100vw, 500px" />][5]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/05/position-absolute.gif" alt="position-absolute" title="position-absolute" width="500" height="500" class="alignnone size-full wp-image-1409" srcset="uploads/2009/05/position-absolute.gif 500w, uploads/2009/05/position-absolute-150x150.gif 150w, uploads/2009/05/position-absolute-300x300.gif 300w" sizes="(max-width: 500px) 100vw, 500px" />][5]
 
 [Veja um exemplo em HTML.][6]
 
@@ -79,12 +79,12 @@ Logo, o div com position absolute referencia sua posição pelo div mais próxim
 
 Uma ocasião bem simples onde usaríamos position é na home do Flickr. Onde temos aquela imagem bonita de capa e o nome do autor logo abaixo. Para posicionar o nome do autor lá no rodape do div, você utilizaria o Position. Veja a imagem de exemplo:
 
-[<img src="http://tableless.com.br/uploads/2009/05/flickr-exemplo.jpg" alt="flickr-exemplo" title="flickr-exemplo" width="578" height="411" class="alignnone size-full wp-image-1414" srcset="uploads/2009/05/flickr-exemplo.jpg 578w, uploads/2009/05/flickr-exemplo-300x213.jpg 300w" sizes="(max-width: 578px) 100vw, 578px" />][7]
+[<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/05/flickr-exemplo.jpg" alt="flickr-exemplo" title="flickr-exemplo" width="578" height="411" class="alignnone size-full wp-image-1414" srcset="uploads/2009/05/flickr-exemplo.jpg 578w, uploads/2009/05/flickr-exemplo-300x213.jpg 300w" sizes="(max-width: 578px) 100vw, 578px" />][7]
 
  [1]: http://tableless.com.br/propriedade-float-do-css
- [2]: http://tableless.com.br/uploads/2009/04/fixed.html
+ [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/04/fixed.html
  [3]: http://tableless.github.io/exemplos/position-fixed.html
- [4]: http://tableless.com.br/uploads/2009/05/position-relative.gif
- [5]: http://tableless.com.br/uploads/2009/05/position-absolute.gif
- [6]: http://tableless.com.br/uploads/2009/05/position-absolute.html "Exemplo de com funciona o Position Absolute"
- [7]: http://tableless.com.br/uploads/2009/05/flickr-exemplo.jpg
+ [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/05/position-relative.gif
+ [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/05/position-absolute.gif
+ [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/05/position-absolute.html "Exemplo de com funciona o Position Absolute"
+ [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/05/flickr-exemplo.jpg

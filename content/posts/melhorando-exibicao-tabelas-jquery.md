@@ -24,7 +24,7 @@ tags:
 ---
 Tabelas (aquelas com dados tabulares) são elementos importantes, principalmente em sistemas web. É muito comum a presença de tabelas na listagem dos registros em um aplicativo CRUD. Abaixo temos um exemplo de uma dessas tabelas:
 
-<img src="http://tableless.com.br/uploads/2011/03/tabela.png" alt="Tabela HTML de exemplo" width="609" height="488" class="aligncenter size-full wp-image-3182" srcset="uploads/2011/03/tabela.png 609w, uploads/2011/03/tabela-300x240.png 300w" sizes="(max-width: 609px) 100vw, 609px" />
+<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/03/tabela.png" alt="Tabela HTML de exemplo" width="609" height="488" class="aligncenter size-full wp-image-3182" srcset="uploads/2011/03/tabela.png 609w, uploads/2011/03/tabela-300x240.png 300w" sizes="(max-width: 609px) 100vw, 609px" />
 
 <a href="https://github.com/tableless/exemplos/tree/gh-pages/melhorando-exibicao-tabelas-jquery" target="_blank">Clique aqui para fazer o download do exemplo</a> ou <a href="http://tableless.github.com/exemplos/melhorando-exibicao-tabelas-jquery/" target="_blank">aqui para visualizar o exemplo no navegador</a>.
 

@@ -45,7 +45,7 @@ Netscape e Microsoft guerreavam com Netscape 2 e IE3.0 lá em 1996 e enquanto a 
 </h2>
 
 <p>
-  <img src="http://tableless.com.br/uploads/2011/07/dom_tree.gif" alt="dom_tree" width="700" height="365" class="alignnone size-full wp-image-43633" />
+  <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/dom_tree.gif" alt="dom_tree" width="700" height="365" class="alignnone size-full wp-image-43633" />
 </p>
 
 <p>
@@ -72,7 +72,7 @@ Netscape e Microsoft guerreavam com Netscape 2 e IE3.0 lá em 1996 e enquanto a 
     </h2>
     
     <div id="attachment_3942" style="width: 413px" class="wp-caption alignnone">
-      <a href="http://tableless.com.br/uploads/2011/07/render.png"><img class="size-full wp-image-3942  " src="http://tableless.com.br/uploads/2011/07/render.png" alt="Como a render tree e montada" width="403" height="187" srcset="uploads/2011/07/render.png 630w, uploads/2011/07/render-300x139.png 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
+      <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/render.png"><img class="size-full wp-image-3942  " src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/render.png" alt="Como a render tree e montada" width="403" height="187" srcset="uploads/2011/07/render.png 630w, uploads/2011/07/render-300x139.png 300w" sizes="(max-width: 403px) 100vw, 403px" /></a>
       
       <p class="wp-caption-text">
         Como a render tree é montada
@@ -142,7 +142,7 @@ Netscape e Microsoft guerreavam com Netscape 2 e IE3.0 lá em 1996 e enquanto a 
             </p>
             
             <div id="attachment_3988" style="width: 570px" class="wp-caption alignnone">
-              <a href="http://tableless.com.br/uploads/2011/07/renderizaao_HTML5-5.png"><img class="size-full wp-image-3988 " src="http://tableless.com.br/uploads/2011/07/renderizaao_HTML5-5.png" alt="Arvore DOM com suporte HTML5" width="560" height="472" srcset="uploads/2011/07/renderizaao_HTML5-5.png 800w, uploads/2011/07/renderizaao_HTML5-5-300x252.png 300w" sizes="(max-width: 560px) 100vw, 560px" /></a>
+              <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/renderizaao_HTML5-5.png"><img class="size-full wp-image-3988 " src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/renderizaao_HTML5-5.png" alt="Arvore DOM com suporte HTML5" width="560" height="472" srcset="uploads/2011/07/renderizaao_HTML5-5.png 800w, uploads/2011/07/renderizaao_HTML5-5-300x252.png 300w" sizes="(max-width: 560px) 100vw, 560px" /></a>
               
               <p class="wp-caption-text">
                 Arvore DOM com suporte HTML5
@@ -150,7 +150,7 @@ Netscape e Microsoft guerreavam com Netscape 2 e IE3.0 lá em 1996 e enquanto a 
             </div>
             
             <div id="attachment_3987" style="width: 576px" class="wp-caption alignnone">
-              <a href="http://tableless.com.br/uploads/2011/07/renderizacaoIE-5.png"><img class="size-full wp-image-3987  " src="http://tableless.com.br/uploads/2011/07/renderizacaoIE-5.png" alt="Arvore DOM IE e outros navegadores sem suporte HTML5" width="566" height="458" srcset="uploads/2011/07/renderizacaoIE-5.png 1178w, uploads/2011/07/renderizacaoIE-5-300x243.png 300w, uploads/2011/07/renderizacaoIE-5-1024x830.png 1024w" sizes="(max-width: 566px) 100vw, 566px" /></a>
+              <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/renderizacaoIE-5.png"><img class="size-full wp-image-3987  " src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/07/renderizacaoIE-5.png" alt="Arvore DOM IE e outros navegadores sem suporte HTML5" width="566" height="458" srcset="uploads/2011/07/renderizacaoIE-5.png 1178w, uploads/2011/07/renderizacaoIE-5-300x243.png 300w, uploads/2011/07/renderizacaoIE-5-1024x830.png 1024w" sizes="(max-width: 566px) 100vw, 566px" /></a>
               
               <p class="wp-caption-text">
                 Arvore DOM IE e outros navegadores sem suporte HTML5
