@@ -15,7 +15,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   <meta name="description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}">
 
-  <link rel="icon" href="favicon.png">
+  <link rel="icon" href="images/favicon.png">
   <base href="{{ .Site.BaseURL }}">
   <title>
     {{if or ($.Scratch.Get "single") ($.Scratch.Get "page")}}{{.Title}} - {{ .Site.Title }}{{end}}
