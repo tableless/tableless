@@ -3,30 +3,38 @@
 <head>
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css?{{ now.Unix }}">
 
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-MBKHDNC');</script>
-  <!-- End Google Tag Manager -->
+  <title>
+    {{if or ($.Scratch.Get "single") ($.Scratch.Get "page")}}{{.Title}} - {{ .Site.Title }}{{end}} {{if $.Scratch.Get "category"}}Posts
+    da categoria {{.Title}} - {{ .Site.Title }}{{end}} {{if $.Scratch.Get "author"}}Posts do autor {{.Title}} - {{ .Site.Title
+    }}{{end}} {{if .IsHome}}{{.Site.Title}} - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web{{end}}
+  </title>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  
   <meta name="description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}">
+
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900" rel="stylesheet">
+  
+  <link rel="dns-prefetch" href="https://www.googletagmanager.com/">
+  <link rel="dns-prefetch" href="https://duckduckgo.com/">
+  <link rel="dns-prefetch" href="https://www.google-analytics.com/">
+  <link rel="dns-prefetch" href="https://cloud.netlifyusercontent.com/">
+  <link rel="dns-prefetch" href="https://fonts.googleapis.com/">
+  <link rel="dns-prefetch" href="//s.clickiocdn.com/">
+  <link rel="dns-prefetch" href="https://code.jquery.com/">
+  <link rel="preconnect" href="https://code.jquery.com/">
+  <link rel="preconnect" href="https://duckduckgo.com/">
+  <link rel="preconnect" href="https://www.googletagmanager.com/">
+  <link rel="preconnect" href="https://www.google-analytics.com/">
+  <link rel="preconnect" href="https://cloud.netlifyusercontent.com/">
+  <link rel="preconnect" href="https://fonts.googleapis.com/">
+  <link rel="preconnect" href="//s.clickiocdn.com/">
+  
+  <link rel="canonical" href="{{ .Permalink }}">
 
   <link rel="icon" href="images/favicon.png">
   <base href="{{ .Site.BaseURL }}">
-  <title>
-    {{if or ($.Scratch.Get "single") ($.Scratch.Get "page")}}{{.Title}} - {{ .Site.Title }}{{end}}
-    {{if $.Scratch.Get "category"}}Posts da categoria {{.Title}} - {{ .Site.Title }}{{end}}
-    {{if $.Scratch.Get "author"}}Posts do autor {{.Title}} - {{ .Site.Title }}{{end}}
-    {{if .IsHome}}{{.Site.Title}} - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web{{end}}
-  </title>
-
-  <link rel="canonical" href="{{ .Permalink }}">
-
-  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900" rel="stylesheet">
 
   {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
@@ -47,7 +55,6 @@
   <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
 
   {{if .IsHome}}
-
   <script type='application/ld+json'>
     {
       "@context": "http://www.schema.org",
@@ -64,21 +71,7 @@
       }
   </script>
   {{end}}
-  <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
-  <script>
-    var googletag = googletag || {};
-    googletag.cmd = googletag.cmd || [];
-  </script>
 
-  <script>
-    googletag.cmd.push(function() {
-      googletag.defineSlot('/7969368/RetanguloMedio-TopoSidebar', [[300, 300], [360, 360], [300, 250], [336, 280]], 'div-gpt-ad-1506041417420-0').addService(googletag.pubads());
-      googletag.defineSlot('/7969368/BannerHorizontal', [[900, 150], [1024, 768], [900, 90]], 'div-gpt-ad-1506041417420-1').addService(googletag.pubads());
-      googletag.defineSlot('/7969368/Sidebar_300x600', [300, 600], 'div-gpt-ad-1506563254706-0').addService(googletag.pubads());
-      googletag.pubads().enableSingleRequest();
-      googletag.enableServices();
-    });
-  </script>
   {{ if $.Scratch.Get "single"}}
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/styles/default.min.css">
 
@@ -110,17 +103,13 @@
   <script async type="text/javascript" src="//s.clickiocdn.com/t/common_258.js"></script>
 </head>
 <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBKHDNC"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
 
   <header id="tb-header">
     <a href="{{ .Site.BaseURL }}" class="tb-logo"><img src="images/logo.svg"></a>
     <ul class="tb-channels">
       <li><a href="http://bit.ly/forum-tableless" class="tb-lnk-forum">Acesse nosso <b>Fórum</b></a></li>
-      <li><a href="http://tableless.com.br/anuncie-no-tableless" class="tb-lnk-anuncie">Anuncie conosco</a></li>
-      <li><a href="http://tableless.com.br/seja-um-autor" class="tb-lnk-sejaauthor">Escreva conosco</a></li>
+      <li><a href="https://tableless.com.br/anuncie-no-tableless" class="tb-lnk-anuncie">Anuncie conosco</a></li>
+      <li><a href="https://tableless.com.br/seja-um-autor" class="tb-lnk-sejaauthor">Escreva conosco</a></li>
       <li><a href="https://tableless.com.br/servicos/" class="tb-lnk-psdhtml">PSD para HTML</a></li>
       <!-- <li><a href="http://medium.com/tableless/" class="tb-lnk-medium">Acesse nosso <b>Medium</b></a></li> -->
     </ul>
