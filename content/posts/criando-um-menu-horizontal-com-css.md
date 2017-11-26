@@ -5,14 +5,6 @@ type: post
 date: 2007-12-06
 excerpt: Aprenda como criar um menu horizontal padrão com CSS.
 url: /criando-um-menu-horizontal-com-css/
-aktt_notify_twitter:
-  - no
-tweetbackscheck:
-  - 1356458897
-shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/criando-um-menu-horizontal-com-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3lmognw";s:4:"isgd";s:19:"http://is.gd/BKWBBP";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 503014507
 categories:
   - Artigos
@@ -20,16 +12,18 @@ categories:
   - O Básico
   - Técnicas e Práticas
 tags:
-  - aprenda
   - CSS
-  - listas
   - menu horizontal
   - Na Prática
   - tecnicas css
-  - tutorial
-
 ---
-Se você não quiser ler, mas ver como fazer, [assista um vídeo][1]. Neste vídeo é mostrado [como fazer um menu horizontal com CSS][1]. E se quiser aprender mais, [visite o Campus Online e cadastre-se grátis][2] para ver vídeos sobre desenvolvimento web.
+
+<div class="tb-article-banner">
+<script async type='text/javascript' src='//s.clickiocdn.com/t/common_258.js'></script>
+<script class='__lxGc__' type='text/javascript'>
+((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_609152']={'i':__lxGc__.b++};
+</script>
+</div>
 
 Quer fazer um **menu horizontal** que seja fácil de personalizar e de fazer manutenção?
   

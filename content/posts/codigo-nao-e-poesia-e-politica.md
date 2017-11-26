@@ -6,14 +6,21 @@ date: 2014-06-02
 excerpt: Quando o Search Engine Optimization controla a distribuição da informação, quem controla o SEO?
 url: /codigo-nao-e-poesia-e-politica/
 dsq_thread_id: 2730512082
+image: https://i.imgur.com/eUApiUj.jpg
 categories:
   - Mercado e Comportamento
   - Semântica
   - SEO
   - Tecnologia e Tendências
   - Web Semântica
-
+tags:
+  - Mercado e Comportamento
+  - Semântica
+  - SEO
+  - Tecnologia e Tendências
+  - Web Semântica
 ---
+
 Maio foi um mês intenso para o New York Times. Além de cortes importantes no staff, &#8220;vazou&#8221; na web [um interessante documento][1] da equipe de inovação do jornal. Por meio [dele][2], ficamos sabendo que a audiência da home do site está em decadência. Apenas um terço dos visitantes chega ao NYT por ali. O resto vem de redes sociais e de busca orgânica.
 
 Faz sentido. Quantos artigos você leu recentemente a partir de algum tipo de home? Mesmo considerando as páginas iniciais de blogs. Eu, por exemplo, consumo quase toda minha informação a partir de feeds (RSS), Twitter e newsletters. Tudo vem filtrado, destilado, legítimo escocês. Aliás, isso também vale pras nossas vidas off-line. Há quanto tempo você não se perde num sebo? Ou vai a uma loja de discos?
