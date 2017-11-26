@@ -3,12 +3,14 @@ title: Conselhos de um simples programador
 author: Tailo Mateus Gonsalves
 type: post
 date: 2017-02-19
-aliases: 
-  - /?p=57074
-  - /conselhos-de-um-simples-programador/
 categories:
-  - Geral
-
+  - Opinião
+  - Mercado e Comportamento
+  - Carreira
+tags:
+  - Opinião
+  - Mercado e Comportamento
+  - Carreira
 ---
 Aqui estão conselhos de um simples programador ou apenas algumas situações que vivenciei na minha vida.
 

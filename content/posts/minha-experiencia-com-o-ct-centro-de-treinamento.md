@@ -4,7 +4,6 @@ author: DaniloAgostinho
 type: post
 date: 2017-01-22
 aliases:
-  - /?p=56931
   - /minha-experiencia-com-o-ct-centro-de-treinamento/
 categories:
   - Artigos

@@ -4,7 +4,6 @@ author: Bruno
 type: post
 date: 2017-03-06
 aliases: 
-  - /?p=57272
   - /crie-sites-em-questao-de-minutos-com-o-pingendo/
 categories:
   - CSS

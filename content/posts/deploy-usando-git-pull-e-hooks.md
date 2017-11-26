@@ -4,7 +4,6 @@ author: Diego Eis
 type: post
 date: 2016-07-18
 aliases: 
-  - /?p=55107
   - /deploy-usando-git-pull-e-hooks/
 titulo_personalizado:
   - 'Fazendo deploy usando <strong>git hooks</strong>'
