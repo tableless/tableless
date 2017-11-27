@@ -6,7 +6,8 @@ theme = "tableless"
 disqusShortname = "tableless"
 googleAnalytics = "UA-335027-1"
 
-#enableRobotsTXT = true
+enableRobotsTXT = true
+disableLiveReload = true
 
 [params]
     siteName = "Tableless"
