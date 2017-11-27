@@ -12,8 +12,6 @@
   
   <meta name="description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}">
 
-  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900" rel="stylesheet">
-  
   <link rel="preconnect" href="https://code.jquery.com/">
   <link rel="preconnect" href="https://duckduckgo.com/">
   <link rel="preconnect" href="https://www.googletagmanager.com/">
@@ -23,9 +21,11 @@
   <link rel="preconnect" href="http://vidanalytics.taboola.com/putes">
   <link rel="preconnect" href="http://vidanalytics.taboola.com/putes/player_waterfall">
   <link rel="preconnect" href="http://wf.taboola.com/VideoBidRequestHandlerServlet">
-  <link rel="prefetch" href="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
-  <link rel="prefetch" href="https://s.clickiocdn.com/t/pb210746.js">
-  <link rel="prefetch" href="https://s.clickiocdn.com/t/common_258.js">
+  <link rel="preconnect" href="http://wf.taboola.com/VideoBidRequestHandlerServlet">
+  <link rel="preconnect" href="https://adserver.adtech.de/">
+  <link rel="prefetch" href="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" as="javascript">
+  <link rel="prefetch" href="https://s.clickiocdn.com/t/pb210746.js" as="javascript">
+  <link rel="prefetch" href="https://s.clickiocdn.com/t/common_258.js" as="javascript">
 
 {{ range first 1 (where .Site.Pages "Type" "post")}}
   <link rel="prerender" href="{{ .RelPermalink }}">
