@@ -42,18 +42,6 @@
   </div>
 </footer>
 
-
-{{ if $.Scratch.Get "single" }}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js"></script>
-<script>
-  hljs.configure({
-      tabReplace: '    ',
-      classPrefix: 'codeHighlight'
-    })
-    hljs.initHighlighting();
-</script>
-{{ end }}
-
 <script id="dsq-count-scr" src="//tableless.disqus.com/count.js" async></script>
 
 {{ template "_internal/google_analytics_async.html" . }}
