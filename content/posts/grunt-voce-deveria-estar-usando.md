@@ -13,8 +13,8 @@ categories:
   - Tooling
 tags:
   - grunt
-	- task-runner
-	- gulp
+  - task-runner
+  - gulp
   - JavaScript
   - tarefas
   - tutorial
@@ -96,23 +96,23 @@ Para criar um arquivo _package.json_ você pode utilizar o comando _npm init_.
 Exemplo:
 
 <pre class="lang-json">{
-	"name": "meu-projeto",
-	"version": "0.0.1",
-	"description": "Meu íncrivel projeto",
-	"homepage": "http://vagnersantana.com/meuprojeto",
-	"repository": {
-		"type": "git",
-		"url": "http://github.com/vagnervjs/meu-projeto"
-	},
-	"engines": {
-		"node": "0.8.x",
-		"npm": "1.1.x"
-	},
-	"devDependencies": {
-		"grunt-cli": "0.1.6",
-		"grunt": "~0.4.1",
-		"grunt-contrib-jshint": "~0.1.1"
-	}
+  "name": "meu-projeto",
+  "version": "0.0.1",
+  "description": "Meu íncrivel projeto",
+  "homepage": "http://vagnersantana.com/meuprojeto",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/vagnervjs/meu-projeto"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "devDependencies": {
+    "grunt-cli": "0.1.6",
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.1.1"
+  }
 }</pre>
 
 Para instalar o Grunt e os plugins dele, você pode usar o comando _npm install &#8211;save-dev_ que além de instalar localmente, adiciona a dependência e sua versão na sessão _devDependences_ do arquivo _package.json_.
@@ -122,35 +122,35 @@ O arquivo _Gruntfile.js_ é composto da função principal que engloba tudo, das
 Exemplo:
 
 <pre class="lang-javascript">module.exports = function(grunt) {
-	'use strict';
+  'use strict';
 
-	// configuração do projeto
-	var gruntConfig = {
-		pkg: grunt.file.readJSON('package.json'),
-		min: {
-			dist: {
-				src: ['src/assets/js/main.js'],
-				dest: 'src/assets/js/all.min.js'
-			}
-		},
-		cssmin: {
-			dist: {
-				src: ['src/assets/css/main.css'],
-				dest: 'src/assets/css/all.min.css'
-			}
-		},
-		jshint: {
-			all: ['src/assets/**/*.js']
-		}
-	};
+  // configuração do projeto
+  var gruntConfig = {
+    pkg: grunt.file.readJSON('package.json'),
+    min: {
+      dist: {
+        src: ['src/assets/js/main.js'],
+        dest: 'src/assets/js/all.min.js'
+      }
+    },
+    cssmin: {
+      dist: {
+        src: ['src/assets/css/main.css'],
+        dest: 'src/assets/css/all.min.css'
+      }
+    },
+    jshint: {
+      all: ['src/assets/**/*.js']
+    }
+  };
 
-	grunt.initConfig(gruntConfig);
+  grunt.initConfig(gruntConfig);
 
-	// carregando plugins
-	grunt.loadNpmTasks('grunt-contrib-jshint');
+  // carregando plugins
+  grunt.loadNpmTasks('grunt-contrib-jshint');
 
-	// tarefas
-	grunt.registerTask('default', ['jshint']);
+  // tarefas
+  grunt.registerTask('default', ['jshint']);
 };</pre>
 
 Bom, pra quem não entendeu direito as linhas acima, eu explico: dentro da função foram declaradas várias tarefas e suas configurações, por exemplo: _min_ é responsável por minificar os arquvios da pasta descrita na propriedade _src_ e enviar para o arquivo de destino em _desc_. Depois de definir as tarefas e configurações em _initConfig()_, é nescessário carregar os plugins grunt de terceitos, caso esteja utilizando algum.
@@ -172,20 +172,20 @@ Para deploy estou utilizando o _grunt-rsync_. Esse plugin cria uma tarefa de sin
 Veja a configuração da tarefa:
 
 <pre class="lang-javascript">rsync: {
-	dist: {
-		src: './src/',
-		dest: './dist',
-		recursive: true,
-		syncDest: true,
-		exclude: ['main.*']
-	},
-	deploy: {
-		src: './dist/',
-		dest: '/var/www',
-		host: 'root@vagnersantana.com',
-		recursive: true,
-		syncDest: true
-	}
+  dist: {
+    src: './src/',
+    dest: './dist',
+    recursive: true,
+    syncDest: true,
+    exclude: ['main.*']
+  },
+  deploy: {
+    src: './dist/',
+    dest: '/var/www',
+    host: 'root@vagnersantana.com',
+    recursive: true,
+    syncDest: true
+  }
 }</pre>
 
 Explicando: em dist eu estou fazendo uma sincronização local, preparando a aplicação para deploy, nela eu removo os arquivos que tem nome &#8220;main&#8221; pois estes foram minificados e concatenados em tarefas anteriores. Depois disso, defino a tarefa de deploy, que pega a pasta &#8216;./dist&#8217; que acabou de ser criada ou atualizada, e envio ela para meu servidor. A propriedade &#8220;dest&#8221; agora é é o diretório remoto e a propriedade &#8220;host&#8221; é o usuário e endereço do meu servidor remoto.
