@@ -13,11 +13,13 @@ categories:
   - Tooling
 tags:
   - grunt
+	- task-runner
+	- gulp
   - JavaScript
   - tarefas
   - tutorial
-
 ---
+
 Todo programador é preguiçoso, e isso é fato, pois sempre estamos procurando ferramentas que automatizem o trabalho para nós. Mas isso necessariamente não é algo ruim, pelo contrário, automatizar tarefas (objetivo do Grunt) implica em ganho de produção e isso é ótimo. O que não podemos deixar acontecer é a não realização de tarefas primordiais para que uma aplicação tenha qualidade.
 
 Minificação e concatenação de arquivos por exemplo são tarefas básicas e você não deve deixar isso de lado, mas fazer isso usando um plugin no editor (que seja o Sublime Text) ou um site, copiar o código minificado, colar em um novo arquivo renomeado com .min no final e por fim salvar, e toda vez que alterar o código ter que repetir essa operação é um saco.

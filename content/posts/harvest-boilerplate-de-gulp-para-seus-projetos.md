@@ -11,11 +11,11 @@ categories:
   - Tooling
 tags:
   - grunt
+  - task-runner
   - gulp
-  - js
-  - task runner
-
+  - javascript
 ---
+
 Não importa qual o Task Runner você usa. Muitos gostam de Grunt, outros de Gulp, outros usam Rake e todos tem o seu encanto e seus truques. Já usei muito Grunt, mas ultimamente tenho experimentado o Gulp. Cara&#8230; como é rápido. Por isso, tive a grande ideia de criar um boilerplate para os meus projetos, onde eu consigo rapidamente concatenar os assets, otimizar imagens, criar source maps dos arquivos SASS, subir um servidor e várias outras coisas.
 
 Mas antes de iniciar a criação desse boilerplate, obviamente, procurei se alguém não já teve essa ideia e feito esse trabalho para mim. Foi aí que eu achei o [Harvest][1].
