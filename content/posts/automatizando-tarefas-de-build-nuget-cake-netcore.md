@@ -2,6 +2,7 @@
 title: Automatizando tarefas com Cake
 excerpt: Saiba como automatizar tarefas de build, teste e deploy de pacotes Nuget com Cake e .Net Core.
 author: Wellington Nascimento
+image: https://i.imgur.com/6gIyUPo.jpg
 type: post
 date: 2017-11-29
 categories:
