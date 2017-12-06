@@ -1,6 +1,6 @@
 ---
 title: CSS 3 – O valor currentColor
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-05-02
 excerpt: O currentColor copia a cor da propriedade color e a aplica em outras propriedades de cor, como background, border e etc.

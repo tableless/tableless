@@ -1,6 +1,6 @@
 ---
 title: Firefox 1.0
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-11-09
 url: /firefox_1/

@@ -1,6 +1,6 @@
 ---
 title: Iniciando com Symfony 2 – Parte 03
-author: Candido Souza
+authors: Candido Souza
 type: post
 date: 2015-02-18
 excerpt: Nesse tutorial vamos criar uma entidade e fazer o CRUD para nossa aplicação, e para agilizar nosso processo, continuaremos a usar o componente Console do Symfony 2, porém, em conjundo com Doctrine ORM.

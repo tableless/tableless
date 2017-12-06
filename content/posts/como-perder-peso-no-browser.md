@@ -1,6 +1,6 @@
 ---
 title: Como perder peso (no browser)
-author: Zeno Rocha
+authors: Zeno Rocha
 type: post
 date: 2013-08-23
 excerpt: Nós desenvolvedores falamos tanto das novidades do HTML5, CSS3, EcmaScript 6 que acabamos esquecendo de falar de outras coisas também muito importantes, mas que não são tão novidade assim, como performance.

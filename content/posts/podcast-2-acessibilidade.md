@@ -1,6 +1,6 @@
 ---
 title: 'Acessibilidade – Podcast #2'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-06-01
 excerpt: Podcast sobre acessibilidade

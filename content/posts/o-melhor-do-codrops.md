@@ -1,6 +1,6 @@
 ---
 title: O melhor do Codrops
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2013-07-02
 excerpt: Confira uma coletânea dos melhores artigos e tutoriais lançados no Codrops, blog sobre desenvolvimento web com grande foco em interfaces.

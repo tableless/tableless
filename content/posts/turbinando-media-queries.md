@@ -1,6 +1,6 @@
 ---
 title: Turbinando as Media Queries
-author: Átila Fassina
+authors: Átila Fassina
 type: post
 date: 2013-12-12
 excerpt: Entenda um pouco mais sobre como melhorar o gerenciamento de breakpoints com SASS.

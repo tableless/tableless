@@ -1,6 +1,6 @@
 ---
 title: Uber é 8 ou 80
-author: Tiago Dória
+authors: Tiago Dória
 type: post
 date: 2015-07-14
 excerpt: |

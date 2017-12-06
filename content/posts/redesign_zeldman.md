@@ -1,6 +1,6 @@
 ---
 title: Redesign do Zeldman
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-05-03
 url: /redesign_zeldman/

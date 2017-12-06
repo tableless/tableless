@@ -1,6 +1,6 @@
 ---
 title: 'Inteligência Social: Taxa de Engajamento!'
-author: thonyconde
+authors: thonyconde
 type: post
 date: 2016-01-13
 url: /inteligencia-social-taxa-de-engajamento/

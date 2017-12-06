@@ -1,6 +1,6 @@
 ---
 title: Web Notifications API
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-07-14
 excerpt: Aprenda o básico da API de Web Notifications.

@@ -1,6 +1,6 @@
 ---
 title: Cada um na sua
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-12-05
 url: /cada_um_na_sua/

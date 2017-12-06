@@ -1,6 +1,6 @@
 ---
 title: Help The CSS Working Group With Backgrounds and Borders
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-07-21
 url: /help_the_css_working_group/

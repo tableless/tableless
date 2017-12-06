@@ -1,6 +1,6 @@
 ---
 title: Guia para Iniciantes – Ajude
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-07-15
 excerpt: Precisamos da sua ajuda para elaborar um guia para os iniciantes na área.

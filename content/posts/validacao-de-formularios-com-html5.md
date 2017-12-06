@@ -1,6 +1,6 @@
 ---
 title: Validação de formulários com HTML5
-author: Raphael Fabeni
+authors: Raphael Fabeni
 type: post
 date: 2014-07-01
 excerpt: Validar formulários sempre demandou algum tempo e dependências como bibliotecas JavaScript. Com HTML5 podemos passar essa responsabilidade para o navegador, ganhando tempo de desenvolvimento e economizando no peso da página.

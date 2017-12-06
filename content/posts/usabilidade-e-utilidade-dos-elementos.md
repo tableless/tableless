@@ -1,6 +1,6 @@
 ---
 title: Usabilidade e a Utilidade dos Elementos
-author: Lenilson Nascimento
+authors: Lenilson Nascimento
 type: post
 date: 2014-07-02
 excerpt: A utilidade dos objetos na vida real, e dos elementos na web, vão muito além do que o criador imaginou. Já parou pra pensar nisso?

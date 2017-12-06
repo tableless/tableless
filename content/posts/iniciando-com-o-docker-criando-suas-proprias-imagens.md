@@ -1,6 +1,6 @@
 ---
 title: 'Iniciando com o Docker: Criando suas próprias imagens'
-author: André Kiffer
+authors: André Kiffer
 type: post
 date: 2016-04-28
 url: /iniciando-com-o-docker-criando-suas-proprias-imagens/

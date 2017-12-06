@@ -1,6 +1,6 @@
 ---
 title: Concorra ao livro Smashing HTML5 no Twitter!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-16
 url: /concorra-ao-livro-smashing-html5-no-twitter/

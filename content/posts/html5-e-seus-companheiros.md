@@ -1,6 +1,6 @@
 ---
 title: HTML5 e seus companheiros
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-07-06
 excerpt: 'O HTML5 veio para mudar. Mas o HTML5 sozinho não faz verão. Por isso, é bom que saibamos que o CSS e o Javascript fazem boa parte do trabalho. '

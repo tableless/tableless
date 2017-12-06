@@ -1,6 +1,6 @@
 ---
 title: Comunidade Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-02-09
 url: /comunidade-sobre-tableless/

@@ -1,6 +1,6 @@
 ---
 title: Usando o plugin 960gs e o Photoshop
-author: Flavio Santana
+authors: Flavio Santana
 type: post
 date: 2013-06-25
 excerpt: Entenda como funciona o Grid 960. Ideal para iniciantes.

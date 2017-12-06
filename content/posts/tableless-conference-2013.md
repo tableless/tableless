@@ -1,6 +1,6 @@
 ---
 title: 'Tableless Conference #2 2013'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-05-22
 excerpt: Palestras e fotos do segundo Tableless Conference!

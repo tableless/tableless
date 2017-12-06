@@ -1,6 +1,6 @@
 ---
 title: Opera para Windows Mobile
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-08-31
 url: /opera_windows_mobile/

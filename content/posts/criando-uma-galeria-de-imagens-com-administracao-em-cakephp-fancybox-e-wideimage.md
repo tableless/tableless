@@ -1,6 +1,6 @@
 ---
 title: Criando uma galeria de imagens com administração em CakePHP, Fancybox e WideImage)
-author: Erik Figueiredo
+authors: Erik Figueiredo
 type: post
 date: 2014-04-27
 excerpt: Criando uma galeria de imagens com painel de administração e separada por álbuns de imagens com administração em CakePHP, Fancybox e WideImage.

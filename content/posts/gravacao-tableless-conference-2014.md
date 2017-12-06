@@ -1,6 +1,6 @@
 ---
 title: Gravação do Tableless Conference 2014
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-10-26
 excerpt: Assista todas as palestras que ocorreram no Tableless Conference 2014.

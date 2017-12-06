@@ -1,6 +1,6 @@
 ---
 title: Sobre RSS, Atom e etc
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-07-07
 url: /sobre_rss_atom_etc/

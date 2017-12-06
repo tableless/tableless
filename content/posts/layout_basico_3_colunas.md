@@ -1,6 +1,6 @@
 ---
 title: Layout básico de 3 colunas
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-05-27
 url: /layout_basico_3_colunas/

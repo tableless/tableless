@@ -1,6 +1,6 @@
 ---
 title: O desenvolvedor e a ganância por economizar código
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-02-23
 url: /o-desenvolvedor-e-a-ganancia-por-economizar-codigo/

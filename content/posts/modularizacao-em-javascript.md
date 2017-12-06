@@ -1,6 +1,6 @@
 ---
 title: Modularização em JavaScript
-author: Jean Carlo Emer
+authors: Jean Carlo Emer
 type: post
 date: 2013-12-09
 excerpt: Componentes e módulos nunca foram tão mencionados como ultimamente. Ambos são conceitos antigos que devemos entender e passar a adotar o quanto antes. Quem sabe você possa repensar o seu JavaScript hoje mesmo?

@@ -1,6 +1,6 @@
 ---
 title: Seu primeiro bot para o Telegram
-author: Rafael Augusto
+authors: Rafael Augusto
 type: post
 image: https://cdn-images-1.medium.com/max/1000/1*M0bDjag4DJovh0imf9nYKQ.png
 date: 2017-05-12

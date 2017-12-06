@@ -1,6 +1,6 @@
 ---
 title: O Safari para iPhone – Desenvolvimento web para iPhone
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-10-13
 excerpt: O desenvolvimento web para mobiles está se tornando algo comum. Fazer sites para aparelhos como o iPhone deixou de ser coisa de outro mundo, mesmo assim, há certos detalhes que precisamos entender.

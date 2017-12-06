@@ -1,6 +1,6 @@
 ---
 title: Um pouco sobre OpenType
-author: Fabiano de Lima Abreu
+authors: Fabiano de Lima Abreu
 type: post
 date: 2014-06-28
 excerpt: Como adicionar tipografia à web com recursos OpenType.

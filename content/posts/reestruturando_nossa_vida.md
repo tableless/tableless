@@ -1,6 +1,6 @@
 ---
 title: 'Internet: Reestruturando nossa vida'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-13
 url: /reestruturando_nossa_vida/

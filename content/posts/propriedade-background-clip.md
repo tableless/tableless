@@ -1,6 +1,6 @@
 ---
 title: Propriedade background-clip
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-03
 excerpt: Entenda como a propriedade background-clip do CSS3 funciona.

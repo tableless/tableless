@@ -1,6 +1,6 @@
 ---
 title: Estatísticas do Tableless Junho-06
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-06-12
 url: /estatisticas-do-tableless/

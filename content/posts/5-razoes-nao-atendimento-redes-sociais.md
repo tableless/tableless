@@ -1,6 +1,6 @@
 ---
 title: 5 Razões para não fazer atendimento em redes sociais
-author: Manoel Netto
+authors: Manoel Netto
 type: post
 date: 2013-09-16
 excerpt: Entenda por que atender seu cliente pelas redes sociais não é tão bom quanto parece.

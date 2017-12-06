@@ -1,6 +1,6 @@
 ---
 title: Efeito cascata, herança e especificidade do CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-07-21
 excerpt: O efeito cascata do CSS é controlado pela especificidade e pela herança das propriedades.

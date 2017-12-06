@@ -1,6 +1,6 @@
 ---
 title: CSS3 – Abas com a pseudo-classe :target
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-03-21
 excerpt: 'Fazer abas sempre foi muito chato para mim. Agora, os problemas acabaram com o :target. '

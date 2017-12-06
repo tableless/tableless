@@ -1,6 +1,6 @@
 ---
 title: Browser – Preocupando-se com o básico
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-05-17
 url: /browser-preocupando-se-com-o-basico/

@@ -1,6 +1,6 @@
 ---
 title: Dicas para ter compatibilidade nos browsers
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-11-30
 url: /dicas-para-ter-compatibilidade-nos-browsers/

@@ -1,6 +1,6 @@
 ---
 title: GDG DevFest Extended 2015
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-03-20
 excerpt: Conheça o DevFest Extended, evento do Google para gestores, empreededores e desenvolvedores.

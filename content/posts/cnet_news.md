@@ -1,6 +1,6 @@
 ---
 title: CNet News
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-10-10
 url: /cnet_news/

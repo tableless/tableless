@@ -1,6 +1,6 @@
 ---
 title: Entendendo as diretivas e fazendo abas com AngularJS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-09-08
 excerpt: As diretivas do AngularJS estendem o código HTML, atribuindo funcionalidades aos componentes. Entenda como as diretivas funcionam fazendo uma funcionalidade básica de abas (tabs).

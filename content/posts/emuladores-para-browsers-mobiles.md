@@ -1,6 +1,6 @@
 ---
 title: Emuladores para browsers mobiles
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-03-23
 excerpt: São diversos aparelhos com diversas versões de browsers. Qual escolher? Por onde nivelar o desenvolvimento? Qual browser é melhor?

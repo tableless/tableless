@@ -1,6 +1,6 @@
 ---
 title: O básico sobre o automatizador de tarefas Make
-author: Cristiano Santos
+authors: Cristiano Santos
 type: post
 date: 2016-04-11
 excerpt: Vocês trocariam seu Gruntfile (ou semelhantes) por um Makefile?

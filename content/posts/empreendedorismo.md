@@ -1,6 +1,6 @@
 ---
 title: Web.br 2012 – Empreendedorismo
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-10-19
 excerpt: Anotações sobre a palestra de empreendedorismo na web e criação de produtos da Webbr2012.

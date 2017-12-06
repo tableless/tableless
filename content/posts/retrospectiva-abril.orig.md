@@ -1,6 +1,6 @@
 ---
 title: Retrospectiva 2006 – Abril
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-01-11
 url: /retrospectiva-2006-abril/

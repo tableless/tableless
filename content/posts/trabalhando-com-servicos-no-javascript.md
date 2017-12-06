@@ -1,6 +1,6 @@
 ---
 title: Trabalhando com serviços no Javascript
-author: Vinicius Reis
+authors: Vinicius Reis
 type: post
 date: 2016-11-08
 url: /trabalhando-com-servicos-no-javascript/

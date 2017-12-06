@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Behavior Driven Development
-author: Jefersson Nathan
+authors: Jefersson Nathan
 type: post
 date: 2014-02-21
 excerpt: Hoje em dia, se quisermos escrever um bom software. Nossos programadores devem ser especialistas na regra de domínio de nossa aplicação. Não mas...

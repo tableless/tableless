@@ -1,6 +1,6 @@
 ---
 title: English Version!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-10-13
 url: /english_version/

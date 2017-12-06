@@ -1,6 +1,6 @@
 ---
 title: JAVA – A ORIGEM
-author: Fellipe Filgueiras
+authors: Fellipe Filgueiras
 type: post
 date: 2015-04-07
 excerpt: Entendendo um pouco sobre a história do Java.

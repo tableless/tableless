@@ -1,6 +1,6 @@
 ---
 title: Simuladores de Browsers Mobiles
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-01-20
 excerpt: iPhone, Android e S60. Há simulador de browsers para todos estes smartphones. Versionar sites para mobiles nunca foi tão fácil.

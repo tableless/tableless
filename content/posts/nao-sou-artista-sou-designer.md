@@ -1,6 +1,6 @@
 ---
 title: Não sou artista, sou designer
-author: cristianoweb
+authors: cristianoweb
 type: post
 date: 2015-03-04
 url: /nao-sou-artista-sou-designer/

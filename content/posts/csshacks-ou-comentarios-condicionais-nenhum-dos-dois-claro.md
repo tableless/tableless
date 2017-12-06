@@ -1,6 +1,6 @@
 ---
 title: CSSHacks ou Comentários Condicionais? Nenhum dos dois, claro.
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-05-04
 url: /csshacks-ou-comentarios-condicionais-nenhum-dos-dois-claro/

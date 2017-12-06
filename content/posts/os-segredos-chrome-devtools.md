@@ -1,6 +1,6 @@
 ---
 title: Os Segredos do Chrome DevTools
-author: Zeno Rocha
+authors: Zeno Rocha
 type: post
 date: 2014-09-04
 excerpt: Conheça a série de 10 vídeos que vai te transformar em um ninja em DevTools

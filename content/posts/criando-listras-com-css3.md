@@ -1,6 +1,6 @@
 ---
 title: Criando listras com CSS3
-author: Jhonathan Souza Soares
+authors: Jhonathan Souza Soares
 type: post
 date: 2014-05-15
 excerpt: |

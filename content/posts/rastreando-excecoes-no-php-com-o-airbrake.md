@@ -1,6 +1,6 @@
 ---
 title: Rastreando exceções no PHP com o Airbrake
-author: Gustavo Straube
+authors: Gustavo Straube
 type: post
 date: 2014-09-15
 excerpt: Aprenda a rastrear erros em aplicações PHP e, assim, simplificar a manutenção do seu código.

@@ -1,7 +1,7 @@
 ---
 title: Front in BH chega a sua sexta edição
 excerpt: Evento voltado para desenvolvedores apresenta tendências do mercado e capacita profissionais mineiros 
-author: Tableless
+authors: Tableless
 image: https://i.imgur.com/xz0UTDN.png
 type: post
 date: 2017-09-02

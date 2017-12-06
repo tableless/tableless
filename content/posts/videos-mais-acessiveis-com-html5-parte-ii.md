@@ -1,6 +1,6 @@
 ---
 title: Vídeos mais acessíveis com HTML5 – parte II
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2011-03-15
 url: /videos-mais-acessiveis-com-html5-parte-ii/

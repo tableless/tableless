@@ -1,6 +1,6 @@
 ---
 title: Encontro Locaweb de Profissionais de Internet
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-06-13
 url: /encontro-locaweb-de-profissionais-de-internet/

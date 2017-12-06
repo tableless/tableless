@@ -1,6 +1,6 @@
 ---
 title: Comentários do Post Anterior
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-04-25
 url: /minha_vez_de_comentar/

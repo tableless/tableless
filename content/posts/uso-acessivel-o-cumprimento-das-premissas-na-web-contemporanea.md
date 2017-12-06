@@ -1,6 +1,6 @@
 ---
 title: 'Uso acessível: O cumprimento das premissas na web contemporânea'
-author: Gabriel Ramos
+authors: Gabriel Ramos
 type: post
 date: 2015-10-29
 excerpt: 'Motivações ao desenvolvimento acessível. '

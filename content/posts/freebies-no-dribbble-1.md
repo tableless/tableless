@@ -1,6 +1,6 @@
 ---
 title: 'Freebies no Dribbble #1'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-04-30
 excerpt: Presentinhos grátis que pegamos no Dribbble.

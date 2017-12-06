@@ -1,6 +1,6 @@
 ---
 title: Pílulas
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-09-12
 url: /pilulas/

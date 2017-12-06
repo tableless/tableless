@@ -1,6 +1,6 @@
 ---
 title: Um guia para o elemento ‘time’ do HTML5
-author: Raphael Fabeni
+authors: Raphael Fabeni
 type: post
 date: 2014-09-29
 excerpt: Conheça mais detalhes sobre a tag Time. Ela parece inocente, mas guarda vários segredos.

@@ -1,6 +1,6 @@
 ---
 title: 99,9% dos sites web estão obsoletos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-06-12
 url: /99_dos_sites_sao_obsoletos/

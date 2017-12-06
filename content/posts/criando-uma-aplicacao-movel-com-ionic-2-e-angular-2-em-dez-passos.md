@@ -1,6 +1,6 @@
 ---
 title: Criando uma aplicação móvel com Ionic 2 e Angular 2 em dez passos
-author: Carlos Cabral
+authors: Carlos Cabral
 type: post
 date: 2016-11-04
 url: /criando-uma-aplicacao-movel-com-ionic-2-e-angular-2-em-dez-passos/

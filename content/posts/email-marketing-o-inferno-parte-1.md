@@ -1,6 +1,6 @@
 ---
 title: Email Marketing – O Inferno – Parte 1
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-04-06
 excerpt: Um overview sobre a construção de Email Marketing.

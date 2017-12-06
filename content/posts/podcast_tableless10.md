@@ -1,6 +1,6 @@
 ---
 title: 'Podcast Tableless #10'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-29
 url: /podcast_tableless10/

@@ -1,6 +1,6 @@
 ---
 title: Validar é importante?!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-11-01
 url: /validar-e-importante/

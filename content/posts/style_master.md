@@ -1,6 +1,6 @@
 ---
 title: Style Master
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-09
 url: /style_master/

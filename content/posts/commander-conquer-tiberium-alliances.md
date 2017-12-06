@@ -1,6 +1,6 @@
 ---
 title: 'Command & Conquer: Tiberium Alliances'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-12-19
 excerpt: A EA / Phenomic está criando um jogo em HTML5 e não é joguinho bobo não. Aguarde.

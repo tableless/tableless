@@ -1,6 +1,6 @@
 ---
 title: HP oferecerá máquinas com Netscape
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-10-04
 url: /hp_maquinas_netscape/

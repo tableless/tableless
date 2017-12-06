@@ -1,6 +1,6 @@
 ---
 title: 'Fault Tolerance: a base do Progressive Enhancement'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-02-17
 excerpt: Entenda por que o Fault Tolerance é a base para o Progressive Enhancement e também do Adaptive web Design.

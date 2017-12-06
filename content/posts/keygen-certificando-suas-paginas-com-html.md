@@ -1,6 +1,6 @@
 ---
 title: 'Keygen: Certificando suas paginas com HTML'
-author: Alysson Franklin
+authors: Alysson Franklin
 type: post
 date: 2011-04-13
 excerpt: Uma tag que ressucitou do passado com mais força e vigor.

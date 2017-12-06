@@ -1,6 +1,6 @@
 ---
 title: Mozilla libera primeira compilação do Servo, o seu motor de renderização
-author: tableless
+authors: tableless
 type: post
 date: 2016-07-03
 url: /mozilla-libera-primeira-compilacao-do-servo-o-seu-motor-de-renderizacao/

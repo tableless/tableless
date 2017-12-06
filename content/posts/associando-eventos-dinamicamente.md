@@ -1,6 +1,6 @@
 ---
 title: Associando eventos dinamicamente
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2010-10-04
 excerpt: 'Você sabia que é possível associar eventos antes mesmo dos elementos estarem presentes no DOM? Conheça os métodos .live() e .delegate() e aprenda a interagir com ações do usuário no seu site. '

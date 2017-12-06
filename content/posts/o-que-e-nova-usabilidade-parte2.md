@@ -1,6 +1,6 @@
 ---
 title: Você sabe o que é a “nova usabilidade”? – parte II
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2011-12-12
 excerpt: A nova usabilidade procura trazer abordagens para lidar com os novos desafios para o desenvolvimento de aplicações baseadas em tecnologias emergentes, como dispositivos móveis.

@@ -1,6 +1,6 @@
 ---
 title: Introdução ao CSS 3D – Flip Card
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-12-21
 excerpt: Entenda como funciona o CSS 3D e suas aplicações.

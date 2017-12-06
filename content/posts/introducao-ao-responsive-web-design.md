@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Responsive Web Design
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-08-15
 excerpt: Responsive Web Design é um nome bonito para um conceito antigo. Hoje seus usuários utilizam diversos dispositivos e meios de acesso para encontrar informação. Saiba como podemos entregar informação de forma eficaz e inteligente.

@@ -1,6 +1,6 @@
 ---
 title: Cinco tipos de aplicativos que você deveria usar corretamente
-author: Manoel Netto
+authors: Manoel Netto
 type: post
 date: 2014-06-11
 excerpt: Aplicativos de celular são criados diariamente aos balaios. Eu conheço pessoalmente gente que coleciona aplicativos inúteis e também gente que cria exemplares desses, e essa é a única forma de empreendedorismo que conhecem.

@@ -1,6 +1,6 @@
 ---
 title: Usando GIT para atualizar arquivos no servidor de hospedagem
-author: João A. Zonta
+authors: João A. Zonta
 type: post
 date: 2015-10-08
 url: /usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem/

@@ -1,6 +1,6 @@
 ---
 title: Palestra Produtividade e Web 2
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-05-22
 url: /palestra-produtividade-e-web-2/

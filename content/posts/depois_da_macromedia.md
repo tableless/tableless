@@ -1,6 +1,6 @@
 ---
 title: Depois da Macromedia
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-11-02
 url: /depois_da_macromedia/

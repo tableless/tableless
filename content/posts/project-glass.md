@@ -1,6 +1,6 @@
 ---
 title: Project Glass
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-04-04
 excerpt: Um mundo atrás do seu óculos.

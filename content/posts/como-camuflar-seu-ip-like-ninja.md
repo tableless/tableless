@@ -1,6 +1,6 @@
 ---
 title: Como camuflar seu ip like a ninja
-author: Júlio Carneiro
+authors: Júlio Carneiro
 type: post
 date: 2016-12-04
 url: /como-camuflar-seu-ip-like-ninja/

@@ -1,6 +1,6 @@
 ---
 title: Wiki do Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-06-07
 url: /wiki_tableless/

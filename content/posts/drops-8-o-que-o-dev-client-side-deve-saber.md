@@ -1,6 +1,6 @@
 ---
 title: Drops 8 – O que o dev client-side deve saber
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-04-19
 excerpt: O que você sabe?

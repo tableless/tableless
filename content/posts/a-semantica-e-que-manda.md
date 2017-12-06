@@ -1,6 +1,6 @@
 ---
 title: A Semântica é que manda
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-04-06
 url: /a-semantica-e-que-manda/

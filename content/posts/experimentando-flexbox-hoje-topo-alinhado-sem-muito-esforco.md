@@ -1,6 +1,6 @@
 ---
 title: 'Experimentando flexbox hoje: topo alinhado sem muito esforço'
-author: Alan Marcos
+authors: Alan Marcos
 type: post
 date: 2015-11-25
 excerpt: Com poucas linhas de código é possível posicionar elementos facilmente para páginas responsivas

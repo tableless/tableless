@@ -1,6 +1,6 @@
 ---
 title: Conferência W3C Web.br 2013 – Dia 1
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2013-11-20
 excerpt: |

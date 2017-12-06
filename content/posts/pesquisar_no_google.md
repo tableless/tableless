@@ -1,6 +1,6 @@
 ---
 title: Pesquisar no Google
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-24
 url: /pesquisar_no_google/

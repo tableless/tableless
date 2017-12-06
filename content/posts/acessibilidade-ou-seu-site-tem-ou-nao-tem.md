@@ -1,6 +1,6 @@
 ---
 title: 'Acessibilidade: ou seu site tem ou não tem.'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-05-25
 url: /acessibilidade-ou-seu-site-tem-ou-nao-tem/

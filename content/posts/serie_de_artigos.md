@@ -1,6 +1,6 @@
 ---
 title: Série de artigos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-18
 url: /serie_de_artigos/

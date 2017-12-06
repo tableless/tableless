@@ -1,6 +1,6 @@
 ---
 title: Redesign e SEO
-author: Douglas Faria
+authors: Douglas Faria
 type: post
 date: 2013-09-24
 excerpt: ' Evite problemas com sua campanha na hora de implementar a cara nova do seu site'

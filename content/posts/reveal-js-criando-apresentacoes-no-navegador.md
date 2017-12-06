@@ -1,6 +1,6 @@
 ---
 title: 'Reveal.js: criando apresentações no navegador'
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2013-02-15
 excerpt: Conheça a biblioteca reveal.js, uma ferramenta poderosa para a criação de apresentações de slides que não dependem de nenhum software especial, apenas um navegador moderno.

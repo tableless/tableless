@@ -1,6 +1,6 @@
 ---
 title: 'Lições sobre Semântica #4 – Listas'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-03-12
 url: /licoes-sobre-semantica-4-listas/

@@ -1,6 +1,6 @@
 ---
 title: 'Software Livre: A missão'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-04-29
 url: /software_livre_brasil/

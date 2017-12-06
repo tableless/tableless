@@ -1,6 +1,6 @@
 ---
 title: Ensine mais
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-12-27
 excerpt: Aprenda ensinando em 2014.

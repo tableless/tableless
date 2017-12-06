@@ -1,6 +1,6 @@
 ---
 title: Foto Digital
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-12-24
 url: /foto_digital/

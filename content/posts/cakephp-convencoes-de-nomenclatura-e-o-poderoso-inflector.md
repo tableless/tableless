@@ -1,6 +1,6 @@
 ---
 title: CakePHP convenções de nomenclatura e o poderoso Inflector!
-author: Lucas Macedo
+authors: Lucas Macedo
 type: post
 date: 2015-03-19
 excerpt: Entenda como funcionam as convenções de nomenclatura do CakePHP.

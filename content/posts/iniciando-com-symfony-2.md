@@ -1,6 +1,6 @@
 ---
 title: Iniciando com Symfony 2
-author: Candido Souza
+authors: Candido Souza
 type: post
 date: 2015-01-21
 excerpt: Neste simples tutorial, vamos fazer a instalação do Symfony 2 e abordar alguns conceitos inicias.

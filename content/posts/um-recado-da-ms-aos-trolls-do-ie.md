@@ -1,6 +1,6 @@
 ---
 title: Um recado da MS aos trolls do IE
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-12-06
 excerpt: Uma homenagem da Microsoft aos trolls do IE.

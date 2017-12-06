@@ -1,6 +1,6 @@
 ---
 title: API de cotações de Bolsa de Valores, Dólar e Euro
-author: Henrique Schreiner
+authors: Henrique Schreiner
 type: post
 date: 2014-12-29
 excerpt: Aprenda a utilizar uma API para consulta de cotações com PHP.

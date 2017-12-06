@@ -1,6 +1,6 @@
 ---
 title: CSS3 – :checked
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-01-23
 url: /css3-checked/

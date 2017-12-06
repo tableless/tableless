@@ -1,6 +1,6 @@
 ---
 title: Internet Explorer 8, 9 e 10 foram pro saco
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-01-12
 excerpt: O fim de uma era.

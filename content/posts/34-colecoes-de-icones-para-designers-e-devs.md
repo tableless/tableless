@@ -1,6 +1,6 @@
 ---
 title: 34 coleções de ícones para designers e devs
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-10-03
 excerpt: ícones, ícones, ícones para todos!

@@ -1,6 +1,6 @@
 ---
 title: Entendendo Programação Funcional em JavaScript de uma vez
-author: Matheus Lima
+authors: Matheus Lima
 type: post
 date: 2017-09-14
 excerpt: Você já percebeu que cada vez mais o termo Programação Funcional vem sendo usado pela comunidade?

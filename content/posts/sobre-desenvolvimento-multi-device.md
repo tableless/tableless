@@ -1,6 +1,6 @@
 ---
 title: Sobre desenvolvimento multi-device
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-06-30
 excerpt: Como classificar melhor os dispositivos para um bom desenvolvimento web.

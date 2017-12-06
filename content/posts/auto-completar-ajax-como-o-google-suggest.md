@@ -1,6 +1,6 @@
 ---
 title: Auto-completar Ajax como o Google Suggest
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-01-27
 url: /auto-completar-ajax-como-o-google-suggest/

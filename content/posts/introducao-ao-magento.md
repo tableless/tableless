@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Magento
-author: Claudio Pelizari
+authors: Claudio Pelizari
 type: post
 date: 2015-03-02
 excerpt: A plataforma foi lançada em 2007, e em 2009 já havia conquistado a liderança, mudando o cenário do e-commerce no mercado mundial.

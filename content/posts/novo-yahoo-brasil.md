@@ -1,6 +1,6 @@
 ---
 title: Novo Yahoo! Brasil
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-08-09
 url: /novo-yahoo-brasil/

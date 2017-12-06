@@ -1,6 +1,6 @@
 ---
 title: Separação entre Informação e Formatação
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-05-14
 url: /separacao_informacao_formatacao/

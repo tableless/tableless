@@ -1,6 +1,6 @@
 ---
 title: 'Grunt: você deveria estar usando!'
-author: Vagner Santana
+authors: Vagner Santana
 type: post
 date: 2013-04-14
 excerpt: Entenda como automatizar tarefas com GruntJS.

@@ -1,6 +1,6 @@
 ---
 title: Performance do seu CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-03-29
 excerpt: Entenda o que pode melhorar ou piorar a performance de carregamento do seu CSS.

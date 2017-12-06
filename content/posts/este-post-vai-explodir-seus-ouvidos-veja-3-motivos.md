@@ -1,6 +1,6 @@
 ---
 title: Este post vai explodir seus ouvidos. Veja 3 motivos
-author: Eduardo Fernandes
+authors: Eduardo Fernandes
 type: post
 date: 2014-05-26
 excerpt: Recentemente, o BuzzFeed publicou sua primeira tentativa de viralizar conteúdo em áudio. Alguns produtores de podcasts e empresas de rádio, como a NPR, ficaram de olho. Será que agora vai? Será que o todo-contagioso site conseguirá, finalmente, levar o áudio via web para as massas?

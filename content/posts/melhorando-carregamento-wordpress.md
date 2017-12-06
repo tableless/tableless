@@ -1,6 +1,6 @@
 ---
 title: Melhorando carregamento do WordPress
-author: Paulo Rodrigues
+authors: Paulo Rodrigues
 type: post
 date: 2011-06-09
 excerpt: Aprenda dicas úteis para deixar seu site em WordPress mais rápido. Facilitando a vida do usuário e melhorando resultados nos mecanismos de busca.

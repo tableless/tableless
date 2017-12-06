@@ -1,6 +1,6 @@
 ---
 title: 'Sections: elemento article – Parte 4'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-10-25
 excerpt: O elemento article define um bloco de informação, texto, comentários e etc. Ele é um elemento mais específico que o section ou que o div.

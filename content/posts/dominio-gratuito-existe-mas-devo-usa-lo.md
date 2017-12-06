@@ -1,6 +1,6 @@
 ---
 title: Domínio Gratuito existe, mas, devo usá-lo?
-author: Victor "reidark" Matias
+authors: Victor "reidark" Matias
 type: post
 date: 2014-01-05
 excerpt: Muitos tipos de domínio estão espalhados pela web, inclusive os gratuitos, mas, afinal, eu posso realmente usar?

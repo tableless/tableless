@@ -1,6 +1,6 @@
 ---
 title: Acessibilidade, como mudar o Brasil?
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2012-03-27
 excerpt: O que podemos fazer para mudar a realidade da acessibilidade no desenvolvimento de sites no Brasil? Participe.

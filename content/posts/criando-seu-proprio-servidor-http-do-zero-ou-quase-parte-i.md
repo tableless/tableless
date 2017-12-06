@@ -1,6 +1,6 @@
 ---
 title: Criando seu próprio servidor HTTP do zero (ou quase) – Parte I
-author: thiguetta
+authors: thiguetta
 type: post
 date: 2015-09-01
 excerpt: Aprenda a criar e entenda como funciona um servidor HTTP

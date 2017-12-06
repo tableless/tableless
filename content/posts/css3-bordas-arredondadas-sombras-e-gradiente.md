@@ -1,6 +1,6 @@
 ---
 title: CSS3 com PIE – bordas, sombras e gradiente
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2011-04-04
 excerpt: Utilizar CSS3 no front-end de websites ainda parece uma realidade um pouco distante devido a incompatibilidade de renderização entre os browsers, mas com o lançamento final dos navegadores IE9 e Firefox 4, esta realidade fica ainda mais próxima da prática efetiva que vai criar a nova etapa do desenvolvimento tableless.

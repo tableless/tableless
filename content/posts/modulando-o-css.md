@@ -1,6 +1,6 @@
 ---
 title: Modulando o CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-11-12
 excerpt: 'As vezes não é inteligente fazer o código CSS todo em apenas um arquivo CSS. É aí que entra a modularização do CSS. '

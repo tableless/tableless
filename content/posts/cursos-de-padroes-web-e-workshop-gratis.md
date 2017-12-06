@@ -1,6 +1,6 @@
 ---
 title: Cursos de Padrões Web e Workshop Grátis
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-11-13
 url: /cursos-de-padroes-web-e-workshop-gratis/

@@ -1,6 +1,6 @@
 ---
 title: Microformatos, internet móvel, e quem ainda não entendeu nada.
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-06-27
 url: /microformatos-internet-movel-e-quem-ainda-nao-entendeu-nada/

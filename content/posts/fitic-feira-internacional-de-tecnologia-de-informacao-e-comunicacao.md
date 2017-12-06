@@ -1,6 +1,6 @@
 ---
 title: FITIC – Feira Internacional de Tecnologia de Informação e Comunicação
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-06-29
 url: /fitic-feira-internacional-de-tecnologia-de-informacao-e-comunicacao/

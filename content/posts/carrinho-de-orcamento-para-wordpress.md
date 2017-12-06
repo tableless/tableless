@@ -1,6 +1,6 @@
 ---
 title: Carrinho de orçamento para WordPress
-author: Orivelton Cesar
+authors: Orivelton Cesar
 type: post
 date: 2016-05-09
 url: /carrinho-de-orcamento-para-wordpress/

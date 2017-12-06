@@ -1,6 +1,6 @@
 ---
 title: "Yii Framework - um framework PHP profissional, rápido e seguro!"
-author: Diego do Nascimento
+authors: Diego do Nascimento
 date: 2014-08-03
 categories:
   - Artigos

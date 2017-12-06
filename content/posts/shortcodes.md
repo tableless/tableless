@@ -1,6 +1,6 @@
 ---
 title: Shortcodes
-author: Paulo Rodrigues
+authors: Paulo Rodrigues
 type: post
 date: 2011-01-18
 excerpt: Um dos API’s mais importantes do WordPress, fácil de usar e customizar.

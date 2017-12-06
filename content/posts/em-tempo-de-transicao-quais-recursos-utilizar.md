@@ -1,6 +1,6 @@
 ---
 title: Em tempo de transição, quais recursos utilizar?
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2011-05-24
 excerpt: Acompanhar todas as mudanças que o desenvolvimento web vem sofrendo é tarefa muito difícil e bastante trabalhosa. Alguns de nós ainda preferem sentir-se mais seguros quanto a regulamentação dessas diretrizes e outros já estão testando e experimentando. Pra onde podemos direcionar nossa postura às evoluções?

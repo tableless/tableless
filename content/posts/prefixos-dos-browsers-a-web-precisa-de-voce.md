@@ -1,6 +1,6 @@
 ---
 title: 'Prefixos dos browsers: A web precisa de você'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-02-13
 excerpt: Por uma web mais livre.

@@ -1,6 +1,6 @@
 ---
 title: 'Atom: o novo editor by Github'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-02-27
 excerpt: Algumas informações sobre o Atom, o novo editor do Github.

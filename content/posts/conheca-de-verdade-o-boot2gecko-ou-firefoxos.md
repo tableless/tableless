@@ -1,6 +1,6 @@
 ---
 title: Conheça de verdade o Boot2Gecko (ou FirefoxOS)
-author: Zeno Rocha
+authors: Zeno Rocha
 type: post
 date: 2012-01-29
 excerpt: Não seria lindo se pudéssemos criar apps nativas para um sistema operacional mobile totalmente open source e feito em HTML, CSS e JavaScript? Bom, agora você já pode.

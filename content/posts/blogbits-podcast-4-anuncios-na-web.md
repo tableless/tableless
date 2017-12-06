@@ -1,6 +1,6 @@
 ---
 title: 'BlogBits Podcast #4 – Anúncios na Web'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-03-24
 url: /blogbits-podcast-4-anuncios-na-web/

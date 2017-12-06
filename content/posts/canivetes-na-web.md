@@ -1,6 +1,6 @@
 ---
 title: Canivetes na web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-02-03
 excerpt: Durante muito tempo as agências web achavam que o desenvolvedor deveria ser uma espécie de canivete suiço.

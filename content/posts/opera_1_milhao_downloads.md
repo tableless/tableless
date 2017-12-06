@@ -1,6 +1,6 @@
 ---
 title: 1 Milhão de Downloads
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-04-29
 url: /opera_1_milhao_downloads/

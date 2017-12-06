@@ -1,6 +1,6 @@
 ---
 title: 'Gulp: O novo automatizador'
-author: Guilherme Kalani
+authors: Guilherme Kalani
 type: post
 date: 2014-01-20
 excerpt: Automatize suas tarefas repetitivas de forma simples e rápida.

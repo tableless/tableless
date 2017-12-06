@@ -1,6 +1,6 @@
 ---
 title: Conteúdo é o rei do batatal
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-02-27
 url: /conteudo-e-o-rei-do-batatal/

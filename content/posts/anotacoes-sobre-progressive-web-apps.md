@@ -1,6 +1,6 @@
 ---
 title: Anotações sobre Progressive Web Apps
-author: Everton de Paula
+authors: Everton de Paula
 type: post
 date: 2017-01-24
 url: /anotacoes-sobre-progressive-web-apps/

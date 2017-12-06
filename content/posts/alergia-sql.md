@@ -1,6 +1,6 @@
 ---
 title: Alergia à SQL
-author: grillorafael
+authors: grillorafael
 type: post
 date: 2015-03-16
 url: /alergia-sql/

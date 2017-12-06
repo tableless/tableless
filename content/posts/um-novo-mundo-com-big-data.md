@@ -1,6 +1,6 @@
 ---
 title: Um novo mundo com Big Data
-author: João Paulo de Almeida
+authors: João Paulo de Almeida
 type: post
 date: 2013-07-24
 excerpt: Entendendo um pouco sobre informações e big data.

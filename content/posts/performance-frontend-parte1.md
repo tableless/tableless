@@ -1,6 +1,6 @@
 ---
 title: Performance front-end – Parte 1
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-08-13
 excerpt: Entenda como você pode melhorar a velocidade do seu site de maneira rápida e simples.

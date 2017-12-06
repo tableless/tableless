@@ -1,6 +1,6 @@
 ---
 title: Emulador de Windows Mobile
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-16
 url: /emulador_windows_mobile/

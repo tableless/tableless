@@ -1,6 +1,6 @@
 ---
 title: Conferência W3C Web.br 2013 – Dia 2
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2013-11-27
 excerpt: Confira como foi o segundo dia da Conferência W3C Brasil 2013 com resumo das palestras, slides, fotos e anotações.

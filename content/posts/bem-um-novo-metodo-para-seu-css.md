@@ -1,6 +1,6 @@
 ---
 title: BEM, um novo método para seu CSS
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2014-02-10
 excerpt: |

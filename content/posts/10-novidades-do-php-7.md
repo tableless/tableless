@@ -1,6 +1,6 @@
 ---
 title: 10 novidades do PHP 7
-author: Roberto Beraldo
+authors: Roberto Beraldo
 type: post
 date: 2015-09-29
 excerpt: O PHP 7 deve ser lançado até o final desde ano de 2015. Há muitas novidades. Mostro aqui 10 delas, inclusive a melhoria no desempenho

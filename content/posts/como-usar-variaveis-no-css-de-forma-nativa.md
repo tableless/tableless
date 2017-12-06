@@ -1,6 +1,6 @@
 ---
 title: Como usar variáveis no CSS de forma nativa
-author: Afonso Pacifer
+authors: Afonso Pacifer
 type: post
 date: 2015-11-17
 excerpt: Como utilizar o conceito de variáveis nativas do CSS3.

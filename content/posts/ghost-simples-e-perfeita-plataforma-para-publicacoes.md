@@ -1,6 +1,6 @@
 ---
 title: Ghost – A simples e perfeita plataforma para publicações
-author: Victor "reidark" Matias
+authors: Victor "reidark" Matias
 type: post
 date: 2014-03-20
 excerpt: E nós não estamos falando de fantasmas.

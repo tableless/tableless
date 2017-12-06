@@ -1,6 +1,6 @@
 ---
 title: Mozilla Redesign
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-01
 url: /mozilla_redesign/

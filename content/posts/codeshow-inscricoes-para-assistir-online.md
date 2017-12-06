@@ -1,6 +1,6 @@
 ---
 title: CodeShow – Inscrições para assistir online
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-08-14
 url: /codeshow-inscricoes-para-assistir-online/

@@ -1,6 +1,6 @@
 ---
 title: A informação e a formatação (parte 1)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-08-04
 url: /informacao_formatacao/

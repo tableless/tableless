@@ -1,6 +1,6 @@
 ---
 title: Instalando e configurando NGINX via Homebrew
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2017-01-12
 url: /instalando-e-configurando-nginx-via-homebrew/

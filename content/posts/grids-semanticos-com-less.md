@@ -1,6 +1,6 @@
 ---
 title: Grids semânticos com LESS
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2013-03-08
 excerpt: 'Aprenda a construir rapidamente um grid semântico e responsivo utilizando CSS e uma ajudinha do LESS. '

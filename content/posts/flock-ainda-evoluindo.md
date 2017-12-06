@@ -1,6 +1,6 @@
 ---
 title: Flock, ainda evoluindo.
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-07-02
 url: /flock-ainda-evoluindo/

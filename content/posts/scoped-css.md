@@ -1,6 +1,6 @@
 ---
 title: Scoped CSS
-author: Almir Filho
+authors: Almir Filho
 type: post
 date: 2012-09-13
 excerpt: Scoped CSS é um novo recurso do HTML5 nos permite definir estilos que serão aplicados apenas em um determinado escopo de marcação.

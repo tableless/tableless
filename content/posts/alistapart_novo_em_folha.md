@@ -1,6 +1,6 @@
 ---
 title: A List Apart novo em folha
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-23
 url: /alistapart_novo_em_folha/

@@ -1,6 +1,6 @@
 ---
 title: Firefox 1.0.7
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-10-04
 url: /firefox_17/

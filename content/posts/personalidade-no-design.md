@@ -1,6 +1,6 @@
 ---
 title: Personalidade no Design
-author: Will Sales
+authors: Will Sales
 type: post
 date: 2012-11-12
 excerpt: O design de interfaces está em uma ampla categoria chamada Interação Humano-Computador. Se isto lhe soa familar, saiba que é muito do que os designers de UX lidam todos os dias.

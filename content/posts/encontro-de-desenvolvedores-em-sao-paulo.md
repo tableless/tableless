@@ -1,6 +1,6 @@
 ---
 title: Encontro de Desenvolvedores em São Paulo
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-06-20
 url: /encontro-de-desenvolvedores-em-sao-paulo/

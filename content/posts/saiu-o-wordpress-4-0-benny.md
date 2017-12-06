@@ -1,6 +1,6 @@
 ---
 title: 'Saiu o WordPress 4.0: “Benny”'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-09-04
 excerpt: Atualização do Wordpress 4.0.

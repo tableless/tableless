@@ -1,6 +1,6 @@
 ---
 title: 'Adobe Edge Inspect: Uma ajudinha no desenvolvimento para múltiplos dispositivos'
-author: Gabriel Nascimento
+authors: Gabriel Nascimento
 type: post
 date: 2012-09-30
 excerpt: Saiba como você pode testar seu código em diversos dispositivos com o Adobe Edge Inspect

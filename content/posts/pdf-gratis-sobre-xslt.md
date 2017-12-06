@@ -1,6 +1,6 @@
 ---
 title: PDF grátis sobre XSLT
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-01-28
 url: /pdf-gratis-sobre-xslt/

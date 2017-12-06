@@ -1,6 +1,6 @@
 ---
 title: 'FootieFox: a Copa em nosso navegador predileto.'
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-06-08
 url: /footiefox-a-copa-em-nosso-navegador-predileto/

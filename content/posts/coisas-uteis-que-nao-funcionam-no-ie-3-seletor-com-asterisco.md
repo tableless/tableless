@@ -1,6 +1,6 @@
 ---
 title: 'Coisas úteis que não funcionam no IE #3 – Seletor com asterísco'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-12-04
 url: /coisas-uteis-que-nao-funcionam-no-ie-3-seletor-com-asterisco/

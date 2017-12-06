@@ -1,6 +1,6 @@
 ---
 title: Utilize ferramentas SEO para aumentar o tráfego do site
-author: NewYorkerinBrasil
+authors: NewYorkerinBrasil
 type: post
 date: 2016-06-26
 url: /utilize-ferramentas-seo-para-aumentar-o-trafego-do-site/

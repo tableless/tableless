@@ -1,6 +1,6 @@
 ---
 title: CSS puro e simples (só que não).
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2013-12-05
 excerpt: |

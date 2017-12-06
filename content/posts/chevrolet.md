@@ -1,6 +1,6 @@
 ---
 title: Chevrolet.com
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-08-18
 url: /chevrolet/

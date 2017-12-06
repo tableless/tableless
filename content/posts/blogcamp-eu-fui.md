@@ -1,6 +1,6 @@
 ---
 title: BlogCamp – Eu Fui!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-08-28
 url: /blogcamp-eu-fui/

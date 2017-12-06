@@ -1,6 +1,6 @@
 ---
 title: O nome UX está errado
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-06-09
 excerpt: A sigla UX não é exclusividade de um profissional específico. Só para os prepotentes.

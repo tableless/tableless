@@ -1,6 +1,6 @@
 ---
 title: Formulários definitivos e problema de lógica
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2008-05-25
 url: /formularios-definitivos-e-problema-de-logica/

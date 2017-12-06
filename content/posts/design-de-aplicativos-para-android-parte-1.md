@@ -1,6 +1,6 @@
 ---
 title: Design de Aplicativos para Android – Parte 1
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2014-01-27
 excerpt: Conheça mais sobre a plataforma e veja quais são os primeiros passos para projetar suas próprias aplicações.

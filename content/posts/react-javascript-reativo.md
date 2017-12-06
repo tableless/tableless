@@ -1,6 +1,6 @@
 ---
 title: 'React: JavaScript reativo'
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2013-09-17
 excerpt: Conheça a biblioteca React desenvolvida por Facebook e Instagram, que apresenta um novo paradigma para o desenvolvimento de aplicações web.

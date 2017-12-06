@@ -1,6 +1,6 @@
 ---
 title: GoMo – Teste seu site mobile
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-02-16
 excerpt: Teste seu site com o Google GoMo.

@@ -1,6 +1,6 @@
 ---
 title: 'Podcast #15'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-12-28
 url: /podcast-15/

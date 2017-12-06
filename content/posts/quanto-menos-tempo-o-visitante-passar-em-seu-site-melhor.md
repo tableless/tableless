@@ -1,6 +1,6 @@
 ---
 title: Quanto menos tempo o visitante passar em seu site, melhor!
-author: Paulo César Moraes
+authors: Paulo César Moraes
 type: post
 date: 2015-06-20
 excerpt: Conheça o seu público, personalize seu conteúdo e ofereça uma experiência focada no tempo aos usuários do seu site.

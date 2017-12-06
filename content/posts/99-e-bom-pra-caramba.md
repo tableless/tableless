@@ -1,6 +1,6 @@
 ---
 title: 99% é bom pra caramba
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-04-10
 url: /99-e-bom-pra-caramba/

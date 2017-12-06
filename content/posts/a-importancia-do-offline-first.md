@@ -1,6 +1,6 @@
 ---
 title: A importância de desenvolver considerando off-line first
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2015-11-18
 excerpt: Uma aplicação web que funcione off-line é fundamental nos dias de hoje, tendo em vista a mobilidade, instabilidade de rede e mesmo a falta de acesso à internet.

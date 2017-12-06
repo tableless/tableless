@@ -1,6 +1,6 @@
 ---
 title: Ainda arrumando
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-12-16
 excerpt: Os tutoriais sobre Ajax estão de volta.

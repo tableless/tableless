@@ -1,6 +1,6 @@
 ---
 title: Redesign 2007
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-10-13
 url: /redesign-2007/

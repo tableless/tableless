@@ -1,6 +1,6 @@
 ---
 title: CSS3 – Breve introdução ao RGBA
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-05-02
 excerpt: 'Normalmente em web trabalhamos com cores na forma de hexadecimal. Agora o RGBA nos permite que você aplique em uma determinada cor transparência. '

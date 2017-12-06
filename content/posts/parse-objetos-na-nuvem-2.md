@@ -1,6 +1,6 @@
 ---
 title: Parse – Objetos na nuvem
-author: Gabriel Ramos
+authors: Gabriel Ramos
 type: post
 date: 2015-07-07
 excerpt: Parse, um banco de dados, na nuvem, orientado a objetos.

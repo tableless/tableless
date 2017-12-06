@@ -1,6 +1,6 @@
 ---
 title: Breadcrumb Navigation – Facilite a vida do seu cliente e aumente sua linkagem interna
-author: Douglas Faria
+authors: Douglas Faria
 type: post
 date: 2013-08-18
 excerpt: |

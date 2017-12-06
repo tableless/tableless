@@ -1,6 +1,6 @@
 ---
 title: Webinsider
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-11-10
 url: /webinsider/

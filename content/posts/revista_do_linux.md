@@ -1,6 +1,6 @@
 ---
 title: Revista do Linux
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-06-17
 url: /revista_do_linux/

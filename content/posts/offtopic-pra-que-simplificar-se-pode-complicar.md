@@ -1,6 +1,6 @@
 ---
 title: Pra que simplificar se pode complicar? (Offtopic?)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-04-09
 url: /offtopic-pra-que-simplificar-se-pode-complicar/

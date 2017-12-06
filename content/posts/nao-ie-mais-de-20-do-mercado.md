@@ -1,6 +1,6 @@
 ---
 title: 'Não-IE: mais de 20% do mercado'
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-01-02
 url: /nao-ie-mais-de-20-do-mercado/

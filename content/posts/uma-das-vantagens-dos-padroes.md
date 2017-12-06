@@ -1,6 +1,6 @@
 ---
 title: Uma das vantagens dos Padrões
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-04-10
 url: /uma-das-vantagens-dos-padroes/

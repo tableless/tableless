@@ -1,6 +1,6 @@
 ---
 title: 24 ways to impress your friends
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-12-30
 url: /24-ways-to-impress-your-friends/

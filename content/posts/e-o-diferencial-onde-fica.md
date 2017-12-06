@@ -1,6 +1,6 @@
 ---
 title: E o diferencial, onde fica?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-10-04
 url: /e-o-diferencial-onde-fica/

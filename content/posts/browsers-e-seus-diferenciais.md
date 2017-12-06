@@ -1,6 +1,6 @@
 ---
 title: Browsers e seus diferenciais
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-08-13
 url: /browsers-e-seus-diferenciais/

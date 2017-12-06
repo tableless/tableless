@@ -1,6 +1,6 @@
 ---
 title: 'BlogBits Podcast #2'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-24
 url: /blogbits-podcast-2/

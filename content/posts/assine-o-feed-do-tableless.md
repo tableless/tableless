@@ -1,6 +1,6 @@
 ---
 title: Assine o Feed do Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-06-11
 url: /assine-o-feed-do-tableless/

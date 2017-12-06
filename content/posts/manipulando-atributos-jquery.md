@@ -1,6 +1,6 @@
 ---
 title: Vídeo Tutorial – Manipulando atributos com JQuery
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-12-03
 url: /manipulando-atributos-jquery/

@@ -1,6 +1,6 @@
 ---
 title: Firefox! Queimando tudo!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-17
 url: /firefox_queimando_tudo/

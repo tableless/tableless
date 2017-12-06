@@ -1,6 +1,6 @@
 ---
 title: Lançamento do escritório do W3C no Brasil
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-05-27
 url: /lancamento-do-escritorio-do-w3c-no-brasil/

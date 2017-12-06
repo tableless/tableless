@@ -1,6 +1,6 @@
 ---
 title: Internet por todo canto
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-06-18
 url: /por_todo_canto/

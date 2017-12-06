@@ -1,6 +1,6 @@
 ---
 title: IBM e HP convertidos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-10-17
 url: /ibm_hp_convertidos/

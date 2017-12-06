@@ -1,6 +1,6 @@
 ---
 title: Animações fluídas à 60fps
-author: Alan Cezar
+authors: Alan Cezar
 type: post
 date: 2015-06-29
 excerpt: Fazendo animações a 60fps nos browsers atuais.

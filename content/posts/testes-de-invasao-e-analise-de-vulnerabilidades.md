@@ -1,6 +1,6 @@
 ---
 title: Testes de Invasão e Análise de Vulnerabilidades
-author: Marcus Aurelius
+authors: Marcus Aurelius
 type: post
 date: 2016-04-26
 excerpt: O que são teste de invasão e análises de vulnerabilidades?

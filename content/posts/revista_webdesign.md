@@ -1,6 +1,6 @@
 ---
 title: Matéria sobre Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-04-06
 url: /revista_webdesign/

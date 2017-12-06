@@ -1,6 +1,6 @@
 ---
 title: 'Macaw: O que você vê é o que você tem.'
-author: Victor "reidark" Matias
+authors: Victor "reidark" Matias
 type: post
 date: 2014-04-09
 excerpt: "Desenhe a web."

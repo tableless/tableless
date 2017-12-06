@@ -1,6 +1,6 @@
 ---
 title: Criando um plugin JavaScript (sem jQuery!)
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2012-11-07
 excerpt: Com a evolução dos navegadores e suas implementações de JavaScript e CSS3, será que precisamos mesmo utilizar jQuery em nossos projetos?

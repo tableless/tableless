@@ -1,6 +1,6 @@
 ---
 title: Brincando com css3
-author: Deivid Marques
+authors: Deivid Marques
 type: post
 date: 2012-11-19
 excerpt: O CSS3 está aí e você pode aprender brincando e usando toda sua criatividade. Conheça o canal da Mozilla onde você pode mostrar seus experimentos.

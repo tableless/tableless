@@ -1,6 +1,6 @@
 ---
 title: Charges.com.br é Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-17
 url: /chargescombr_tableless/

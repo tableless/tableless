@@ -1,6 +1,6 @@
 ---
 title: Muito Obrigado!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-08-27
 url: /muito_obrigado/

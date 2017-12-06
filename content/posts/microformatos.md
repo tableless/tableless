@@ -1,6 +1,6 @@
 ---
 title: Microformatos
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-12-20
 url: /microformatos/

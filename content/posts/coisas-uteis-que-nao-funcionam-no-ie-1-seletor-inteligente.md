@@ -1,6 +1,6 @@
 ---
 title: 'Coisas úteis que não funcionam no IE #1 – seletor inteligente'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-09-15
 url: /coisas-uteis-que-nao-funcionam-no-ie-1-seletor-inteligente/

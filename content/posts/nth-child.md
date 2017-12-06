@@ -1,6 +1,6 @@
 ---
 title: 'Propriedade do CSS: nth-child'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-07-16
 excerpt: 'A pseudo-classe nth-child seleciona elementos dentre uma árvore de elementos se referindo a posição específica de cada um. Você pode por exemplo selecionar os elementos ímpares ou pares. '

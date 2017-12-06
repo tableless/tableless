@@ -1,6 +1,6 @@
 ---
 title: Palestras sobre Tecnologia Móvel
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-11-21
 url: /palestras_tecnologia_movel/

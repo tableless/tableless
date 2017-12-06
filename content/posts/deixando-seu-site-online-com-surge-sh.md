@@ -1,6 +1,6 @@
 ---
 title: Deixando seu site online com Surge.sh
-author: Fabio Soares
+authors: Fabio Soares
 type: post
 date: 2016-08-29
 excerpt: Com apenas seis caracteres na linha de comando você pode deixar seu site estático online.

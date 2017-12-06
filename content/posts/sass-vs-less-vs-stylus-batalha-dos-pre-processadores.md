@@ -1,6 +1,6 @@
 ---
 title: 'Sass vs. LESS vs. Stylus: Batalha dos Pré-processadores'
-author: Wendell Adriel
+authors: Wendell Adriel
 type: post
 date: 2016-03-28
 excerpt: |

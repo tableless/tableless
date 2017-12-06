@@ -1,6 +1,6 @@
 ---
 title: Criando alias para executar testes com PHPUnit
-author: alanricardox
+authors: alanricardox
 type: post
 date: 2015-09-30
 excerpt: Uma maneira prática e fácil de testar múltiplos projetos que fazem uso do PHPUnit com um único alias "phpunit" para qualquer projeto ou um alias dedicado a realizar testes para projetos pré-definidos.

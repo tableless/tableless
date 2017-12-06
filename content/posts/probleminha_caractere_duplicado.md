@@ -1,6 +1,6 @@
 ---
 title: Problema – Caractere Duplicado
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-14
 url: /probleminha_caractere_duplicado/

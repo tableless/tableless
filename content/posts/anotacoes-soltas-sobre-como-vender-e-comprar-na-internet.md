@@ -1,6 +1,6 @@
 ---
 title: Anotações soltas sobre como vender e comprar na internet (por um leigo)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-04-14
 url: /anotacoes-soltas-sobre-como-vender-e-comprar-na-internet/

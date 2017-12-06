@@ -1,6 +1,6 @@
 ---
 title: Conheça o Vue.js, um framework javascript para criação de componentes web reativos
-author: Daniel Schmitz
+authors: Daniel Schmitz
 type: post
 date: 2016-08-08
 url: /conheca-o-vue-js-um-framework-javascript-para-criacao-de-componentes-web-reativos/

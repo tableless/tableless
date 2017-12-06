@@ -1,6 +1,6 @@
 ---
 title: Deletando registros duplicados no banco de dados
-author: George Moura
+authors: George Moura
 type: post
 date: 2014-01-09
 excerpt: Fazendo um script para apagar entradas duplicadas no MySQL.

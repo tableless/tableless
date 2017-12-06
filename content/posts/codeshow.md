@@ -1,6 +1,6 @@
 ---
 title: CodeShow
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-04-16
 url: /codeshow/

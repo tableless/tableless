@@ -1,6 +1,6 @@
 ---
 title: Entendendo os valores ‘initial’ e ‘inherit’ do CSS
-author: João Guilherme
+authors: João Guilherme
 type: post
 date: 2015-07-21
 excerpt: "Qual a razão da existência dos valores 'initial' e 'inherit' na maioria dos atributos do CSS? Suas propriedades tem bastante significado, confira e entenda."

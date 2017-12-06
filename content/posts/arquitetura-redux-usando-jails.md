@@ -1,6 +1,6 @@
 ---
 title: A arquitetura Redux usando Jails
-author: Javiani
+authors: Javiani
 type: post
 date: 2016-04-18
 url: /arquitetura-redux-usando-jails/

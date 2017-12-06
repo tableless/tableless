@@ -1,6 +1,6 @@
 ---
 title: 'Podcast Tableless #24 – Testemunho WCA'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-10-12
 url: /podcast-tableless-24-testemunho-wca/

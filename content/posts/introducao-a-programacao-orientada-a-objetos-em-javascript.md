@@ -1,6 +1,6 @@
 ---
 title: Introdução à programação orientada a objetos em Javascript
-author: Henrique Schreiner
+authors: Henrique Schreiner
 type: post
 date: 2014-09-16
 excerpt: Neste post, vamos criar uma pequena classe em javascript que aborda este método, para que possamos entendê-lo de forma simples e aplicar em nossos projetos.

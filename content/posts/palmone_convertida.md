@@ -1,6 +1,6 @@
 ---
 title: PalmOne Convertida
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-04-29
 url: /palmone_convertida/

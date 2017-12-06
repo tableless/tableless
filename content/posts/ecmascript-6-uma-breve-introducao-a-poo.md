@@ -1,6 +1,6 @@
 ---
 title: ECMAScript 6, uma breve introdução à POO
-author: Lenilson Nascimento
+authors: Lenilson Nascimento
 type: post
 date: 2014-12-15
 excerpt: 'Veja como ficou a programação orientada à objetos na nova especificação do JavaScript. Construiremos uma mini loja virtual  usando classes com ECMAScript 6!'

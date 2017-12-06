@@ -1,6 +1,6 @@
 ---
 title: Vida de Home Office
-author: Jeferson Diniz
+authors: Jeferson Diniz
 type: post
 date: 2015-03-19
 excerpt: Saiba as vantagens e desvantagens de fazer Home Office.

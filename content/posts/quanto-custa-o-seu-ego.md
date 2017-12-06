@@ -1,6 +1,6 @@
 ---
 title: Quanto custa o seu ego?
-author: Eduardo Fernandes
+authors: Eduardo Fernandes
 type: post
 date: 2014-06-20
 excerpt: E se pudéssemos cobrar uma taxa (ou pedir desconto) ao trabalharmos com certo tipo de personalidades?

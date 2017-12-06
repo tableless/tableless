@@ -1,6 +1,6 @@
 ---
 title: A síndrome de Gabriela
-author: Pablo Silva
+authors: Pablo Silva
 type: post
 date: 2017-10-28
 excerpt: Se você nunca ouviu essa modinha

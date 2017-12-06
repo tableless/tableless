@@ -1,6 +1,6 @@
 ---
 title: Me achando por aí
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-01-06
 url: /me-achando-por-ai/

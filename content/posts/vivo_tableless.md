@@ -1,6 +1,6 @@
 ---
 title: VIVO-SP Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-04-17
 url: /vivo_tableless/

@@ -1,6 +1,6 @@
 ---
 title: Curso de Tableless e Ajax
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-04-18
 url: /curso__webstandards/

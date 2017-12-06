@@ -1,6 +1,6 @@
 ---
 title: Como saber se seu site foi punido pelo Google
-author: Carina Andrade
+authors: Carina Andrade
 type: post
 date: 2014-03-14
 excerpt: 'As páginas de um site não aparecem nas buscas ou perderam posições no ranking do buscador: Saiba como identificar se o site sofreu uma punição do Google.'

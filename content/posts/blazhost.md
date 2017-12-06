@@ -1,6 +1,6 @@
 ---
 title: Mais um!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-05-15
 url: /blazhost/

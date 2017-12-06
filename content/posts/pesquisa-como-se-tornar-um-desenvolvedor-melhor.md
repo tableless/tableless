@@ -1,6 +1,6 @@
 ---
 title: Pesquisa – Como se tornar um desenvolvedor melhor
-author: Tailo Mateus Gonsalves
+authors: Tailo Mateus Gonsalves
 type: post
 date: 2017-10-31
 image: https://i.imgur.com/JvE8HAp.jpg

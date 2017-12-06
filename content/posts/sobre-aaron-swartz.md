@@ -1,6 +1,6 @@
 ---
 title: Sobre Aaron Swartz
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-06-26
 excerpt: Só um pensamento rápido sobre Aaron Swartz.

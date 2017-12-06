@@ -1,6 +1,6 @@
 ---
 title: Habilitando tags em fotos com jQuery
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2011-06-20
 excerpt: Aprenda a desenvolver uma interface para permitir que usuários apliquem tags/marcações nas fotos do seu aplicativo.

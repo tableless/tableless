@@ -1,6 +1,6 @@
 ---
 title: Criando um blog com Octopress e Github Pages
-author: Diogo Beato
+authors: Diogo Beato
 type: post
 date: 2013-12-19
 excerpt: Crie um blog em Octopress, framework baseado em Jekyll.
@@ -55,7 +55,7 @@ Uma das grandes vantagens que notei no Octopress, é a parte de customizar seu
 url:            # url do seu blog: joseh.github.io
 title:          # Titulo do blog: Zueiro na Net
 subtitle:       # Subtítulo do blog (Slogan)
-author:         # Nome do autor do blog.
+authors:         # Nome do autor do blog.
 simple_search:  # Engine da barra de pesquisa no site, default é o google.
 description:    # Descrição do blog
 date_format:    # Formato de data, no nosso caso “%d/%m/%Y”
@@ -120,7 +120,7 @@ title: "começando a zueira na net"
 date: 2013-11-29 11:14:44 -0200
 comments: true
 categories:[zueiro na net, blog, octopress, ruby]
-author: Zeh Zueiro
+authors: Zeh Zueiro
 ---
 Cheguei na net e to afim de zueira, meu primeiro post é sobre...
 </code></pre>

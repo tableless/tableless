@@ -1,6 +1,6 @@
 ---
 title: Composer para iniciantes
-author: Andre Cardoso
+authors: Andre Cardoso
 type: post
 date: 2014-03-18
 url: /composer-para-iniciantes/

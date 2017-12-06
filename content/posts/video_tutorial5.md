@@ -1,6 +1,6 @@
 ---
 title: 'Video Tutorial #5'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-05
 url: /video_tutorial5/

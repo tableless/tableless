@@ -1,6 +1,6 @@
 ---
 title: Afinal, como usar herança no CSS?
-author: fernahh
+authors: fernahh
 type: post
 date: 2015-10-11
 url: /afinal-como-usar-heranca-no-css/

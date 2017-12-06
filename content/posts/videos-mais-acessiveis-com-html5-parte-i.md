@@ -1,6 +1,6 @@
 ---
 title: Vídeos mais acessíveis com HTML5 – parte I
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2011-02-15
 excerpt: DFXP é a mais recente especificação do W3C baseada em XML para trabalhar com legendas em vídeos do HTML5.

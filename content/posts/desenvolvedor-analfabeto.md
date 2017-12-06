@@ -1,6 +1,6 @@
 ---
 title: Desenvolvedor analfabeto (sim, é sobre WYSIWYG)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-06-04
 excerpt: A idéia é que você saiba HTML de ponta a ponta.

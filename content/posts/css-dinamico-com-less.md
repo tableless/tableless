@@ -1,6 +1,6 @@
 ---
 title: CSS dinâmico com LESS
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2011-11-16
 excerpt: 'Já imaginou poder declarar variáveis, implementar funções e mixins em suas folhas de estilo? Este é objetivo principal da biblioteca LESS: ampliar o funcionamento do CSS, tornando-o altamente dinâmico.'

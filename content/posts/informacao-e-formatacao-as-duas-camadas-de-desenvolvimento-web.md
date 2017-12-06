@@ -1,6 +1,6 @@
 ---
 title: Informação e Formatação; As duas camadas de desenvolvimento web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-12-06
 url: /informacao-e-formatacao-as-duas-camadas-de-desenvolvimento-web/

@@ -1,6 +1,6 @@
 ---
 title: Open Web Device
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-08-14
 excerpt: Um celular amigável para os desenvolvedores.

@@ -1,6 +1,6 @@
 ---
 title: Design Patterns em JavaScript – Observer
-author: Bruno Ruiz
+authors: Bruno Ruiz
 type: post
 date: 2014-09-19
 excerpt: Entenda um pouco mais sobre o pattern JavaScript Observer.

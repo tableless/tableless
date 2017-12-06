@@ -1,6 +1,6 @@
 ---
 title: O status da conectividade mundial
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-03-02
 excerpt: Conheça alguns dados sobre o status da conectividade no mundo.

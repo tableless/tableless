@@ -1,6 +1,6 @@
 ---
 title: 'Rapidinhas: Instale, Experimente'
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-06-23
 url: /rapidinhas_instale_experimente/

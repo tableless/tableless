@@ -1,6 +1,6 @@
 ---
 title: Atlassian libera documentação da sua biblioteca visual
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2017-10-29
 excerpt: A Atlassian liberou para uso público seu guideline visual.

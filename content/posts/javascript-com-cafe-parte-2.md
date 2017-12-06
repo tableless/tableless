@@ -1,6 +1,6 @@
 ---
 title: JavaScript com café, parte 2
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2012-05-29
 excerpt: Conheça conceitos avançados sobre a linguagem CoffeeScript. Aprenda a utilizar classes, escopo e operadores existenciais.

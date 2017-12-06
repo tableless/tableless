@@ -1,6 +1,6 @@
 ---
 title: Acelere o desenvolvimento front-end com Jade
-author: Harryson Guimarães
+authors: Harryson Guimarães
 type: post
 date: 2015-08-03
 excerpt: Aprenda a criar mixins, recursos de include, laços de repetição for, variáveis e muito mais no HTML com Jade.

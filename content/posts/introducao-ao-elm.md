@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Elm - diga adeus aos runtime errors
-author: Breno Panzolini
+authors: Breno Panzolini
 type: post
 date: 2017-08-23
 excerpt: Uma introdução básica à linguagem Elm.

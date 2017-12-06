@@ -1,6 +1,6 @@
 ---
 title: Seja bem-vindo ao Big Data e Eu serei seu guia — Parte 2 - Enfrentando um Problema
-author: Allan Sene
+authors: Allan Sene
 type: post
 date: 2017-07-30
 excerpt: Grandes desafios por traz da contrução de sistemas de bancos de dados de alta disponibilidade e escaláveis.

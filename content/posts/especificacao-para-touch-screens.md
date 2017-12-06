@@ -1,6 +1,6 @@
 ---
 title: Especificação para touch screens
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-06-22
 excerpt: Interações em interfaces touch são diferentes das interfaces baseadas com mouse. Hoje temos pleno controle das ações baseadas com mouse, mas este controle não pode ser expandido para as interfaces touch. As ações e as forma de comportamento do usuário são diferentes.

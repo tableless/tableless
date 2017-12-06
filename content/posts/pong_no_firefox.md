@@ -1,6 +1,6 @@
 ---
 title: Pong no Firefox
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-24
 url: /pong_no_firefox/

@@ -1,6 +1,6 @@
 ---
 title: Aprenda a programar Javascript no Codecademy
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-24
 excerpt: Aprenda a programar de um jeito fácil.

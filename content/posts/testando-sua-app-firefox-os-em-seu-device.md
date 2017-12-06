@@ -1,6 +1,6 @@
 ---
 title: Testando sua app do Firefox OS em seu device
-author: Willem Allan
+authors: Willem Allan
 type: post
 date: 2013-11-13
 excerpt: Como testar sua aplicação em um celular com Firefox OS.

@@ -1,6 +1,6 @@
 ---
 title: 'Silex 2 & Middlewares 101 – Parte 02'
-author: Nando Kstro Net
+authors: Nando Kstro Net
 type: post
 date: 2017-02-19
 excerpt: |

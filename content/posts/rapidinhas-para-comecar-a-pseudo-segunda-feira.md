@@ -1,6 +1,6 @@
 ---
 title: Rapidinhas – para começar a pseudo-segunda-feira
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-07-10
 url: /rapidinhas-para-comecar-a-pseudo-segunda-feira/

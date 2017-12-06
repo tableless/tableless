@@ -1,6 +1,6 @@
 ---
 title: Diga olá ao TypeScript e adeus ao JavaScript
-author: Daniel Schmitz
+authors: Daniel Schmitz
 type: post
 date: 2015-12-14
 url: /diga-ola-ao-typescript-e-adeus-ao-javascript/

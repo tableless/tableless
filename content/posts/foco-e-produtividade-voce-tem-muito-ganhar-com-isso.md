@@ -1,6 +1,6 @@
 ---
 title: Foco e Produtividade. Você tem muito a ganhar com isso
-author: Felipe Chama
+authors: Felipe Chama
 type: post
 date: 2015-04-30
 excerpt: Recentemente tenho me cobrado muito na questão de organização, parei para pensar e vi que minha vida estava desorganizada e consequentemente perdia algo preciso, o tempo.

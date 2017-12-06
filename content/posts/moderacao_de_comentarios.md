@@ -1,6 +1,6 @@
 ---
 title: Moderação de Comentários
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-08
 url: /moderacao_de_comentarios/

@@ -1,6 +1,6 @@
 ---
 title: Caramba! Eles não param mais!!!
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-07-17
 url: /caramba_nao_param/

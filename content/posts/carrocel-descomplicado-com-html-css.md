@@ -1,6 +1,6 @@
 ---
 title: Carrossel descomplicado com HTML, CSS
-author: Leonardo Camp
+authors: Leonardo Camp
 type: post
 date: 2016-09-04
 url: /carrocel-descomplicado-com-html-css/

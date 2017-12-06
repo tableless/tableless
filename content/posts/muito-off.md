@@ -1,6 +1,6 @@
 ---
 title: Muito Off! :-)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-02-01
 url: /muito-off/

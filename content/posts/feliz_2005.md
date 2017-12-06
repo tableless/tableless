@@ -1,6 +1,6 @@
 ---
 title: '</2004> <2005>'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-01-01
 url: /feliz_2005/

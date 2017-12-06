@@ -1,6 +1,6 @@
 ---
 title: Em busca do Lean UX – Anotações
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-05-08
 excerpt: Anotações sobre a palestra LEAN UX.

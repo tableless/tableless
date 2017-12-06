@@ -1,6 +1,6 @@
 ---
 title: EPTV.com.br é tableless
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-07-20
 url: /eptv_tableless/

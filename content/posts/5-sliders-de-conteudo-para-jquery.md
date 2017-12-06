@@ -1,6 +1,6 @@
 ---
 title: 5 sliders de conteúdo para jQuery
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2011-05-25
 excerpt: Sliders são ferramentas poderosas para destacar conteúdo em um site. Neste artigo você confere cinco opções de plugins jQuery para a implementação dessa funcionalidade.

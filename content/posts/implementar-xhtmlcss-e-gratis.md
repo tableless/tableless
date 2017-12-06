@@ -1,6 +1,6 @@
 ---
 title: Implementar XHTML/CSS é grátis
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-12-08
 excerpt: 'Você pode ser diferente, mas isso só depende de você. '

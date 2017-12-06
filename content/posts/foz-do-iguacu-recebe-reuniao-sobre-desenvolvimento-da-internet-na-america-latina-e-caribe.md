@@ -1,6 +1,6 @@
 ---
 title: Foz do Iguaçu recebe reunião sobre desenvolvimento da Internet na América Latina e Caribe
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2017-03-24
 url: /foz-do-iguacu-recebe-reuniao-sobre-desenvolvimento-da-internet-na-america-latina-e-caribe/

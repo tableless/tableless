@@ -1,6 +1,6 @@
 ---
 title: Como usar linear-gradient em CSS de forma consciente?
-author: Bernard De Luna
+authors: Bernard De Luna
 type: post
 date: 2013-03-20
 excerpt: Não há mais motivo para você usar nenhum gerador automático de gradiente depois desse GUIA DEFINITIVO DE COMO USAR LINEAR-GRADIENT. Vem comigo e vamos codar.

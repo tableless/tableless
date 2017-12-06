@@ -1,6 +1,6 @@
 ---
 title: Seletores CSS Nível 4 – O que vem por aí
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-01-12
 excerpt: Saiba quais os seletores que irão salvar sua vida muito em breve.

@@ -1,6 +1,6 @@
 ---
 title: Drops 5 – Responsabilidade Dev Front-end
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-04-20
 excerpt: Os dev front-end fazem mais do que ficar pintando quadradinhos o dia inteiro.

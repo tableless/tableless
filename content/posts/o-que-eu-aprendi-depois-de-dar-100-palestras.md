@@ -1,6 +1,6 @@
 ---
 title: O que eu aprendi depois de dar 100 palestras
-author: Zeno Rocha
+authors: Zeno Rocha
 type: post
 date: 2017-11-01
 excerpt: Olá! Meu nome é Zeno Rocha. Ao longo dos últimos anos, aprendi muito sobre dar palestras e agora eu tô aqui para compartilhar essas lições.

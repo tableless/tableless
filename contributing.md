@@ -59,7 +59,7 @@ Qualquer dúvida, pode falar conosco via [twitter](http://twitter.com/tableless/
 <pre class="lang-yaml">
 ---
 title: Nome do seu artigo
-author: Seu nome
+authors: Seu nome
 type: post
 image: http://imgur.com/endereco-da-imagem-de-destaque.jpg
 date: 2017-01-19

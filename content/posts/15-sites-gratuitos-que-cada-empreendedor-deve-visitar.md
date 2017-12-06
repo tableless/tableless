@@ -1,6 +1,6 @@
 ---
 title: 10 sites gratuitos sobre tecnologia e empreendedorismo
-author: tableless
+authors: tableless
 type: post
 date: 2016-07-18
 url: /15-sites-gratuitos-que-cada-empreendedor-deve-visitar/

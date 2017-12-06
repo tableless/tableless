@@ -1,6 +1,6 @@
 ---
 title: JAVA – O caminho do aprendizado
-author: Fellipe Filgueiras
+authors: Fellipe Filgueiras
 type: post
 date: 2015-04-16
 excerpt: Entenda o que é necessário para aprender e se tornar um desenvolvedor Java.

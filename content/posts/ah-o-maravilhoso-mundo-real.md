@@ -1,6 +1,6 @@
 ---
 title: Ah, o maravilhoso mundo real
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2009-09-10
 excerpt: O que é mais importante, RDF ou bordas arredondadas? O novo formato de especificações modulares do W3C vai ajudar os desenvolvedores, agilizando os releases de navegador, ou vai tornar nossa vida uma bagunça?

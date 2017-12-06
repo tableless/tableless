@@ -1,6 +1,6 @@
 ---
 title: 'Assista: [Live Coding] Codificando um Layout com HTML/CSS'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-12-13
 excerpt: Assista o vídeo do primeiro Workshop do Tableless, por apenas R$45.

@@ -1,6 +1,6 @@
 ---
 title: Conferência Web.br 2014 e os 25 anos da Web
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2014-07-30
 url: /conferencia-web-w3c-2014-e-os-25-anos-da-web/

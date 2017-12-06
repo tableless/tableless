@@ -1,6 +1,6 @@
 ---
 title: Medindo performance e latência com a Navigation Timing API
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2013-03-14
 excerpt: A Navigation Timing API é uma nova especificação do W3C para lidar com aferição de performance de modo mais efetivo em páginas web.

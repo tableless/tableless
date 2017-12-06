@@ -1,6 +1,6 @@
 ---
 title: An Event Apart Boston 2014
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-04-30
 excerpt: Assisti o An Event Apart em Boston. Saiba alguns detalhes nesse post.

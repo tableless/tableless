@@ -1,6 +1,6 @@
 ---
 title: Cursos online com a School of Net
-author: tableless
+authors: tableless
 type: post
 image: http://i.imgur.com/iIVcZuZ.jpg
 date: "2017-04-11T20:59:58-03:00"

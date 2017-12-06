@@ -1,6 +1,6 @@
 ---
 title: Introdução bem rápida sobre vim
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2017-01-03
 url: /introducao-bem-rapida-sobre-vim/

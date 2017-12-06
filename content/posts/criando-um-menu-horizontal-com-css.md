@@ -1,6 +1,6 @@
 ---
 title: Criando um Menu Horizontal com CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-12-06
 excerpt: Aprenda como criar um menu horizontal padrão com CSS.

@@ -1,6 +1,6 @@
 ---
 title: WordPress Include Tags
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-07-06
 url: /wordpress-include-tags/

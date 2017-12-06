@@ -1,6 +1,6 @@
 ---
 title: Hierarquia de arquivos do WordPress
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-04-08
 excerpt: O Wordpress utiliza uma hierarquia de arquivos para a criação de themes. Para criar bons sites e blogs baseados em Wordpress, é importante que você entenda essa hierarquia.

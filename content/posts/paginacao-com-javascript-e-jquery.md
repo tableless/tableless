@@ -1,6 +1,6 @@
 ---
 title: Paginação com JavaScript e jQuery
-author: Dyemerson Almeida
+authors: Dyemerson Almeida
 type: post
 date: 2016-06-29
 excerpt: Como fazer um script de paginação usando JavaScript e jQuery

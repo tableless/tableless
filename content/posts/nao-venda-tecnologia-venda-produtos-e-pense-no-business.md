@@ -1,6 +1,6 @@
 ---
 title: Não venda tecnologia. Venda produtos e pense no business.
-author: thonyconde
+authors: thonyconde
 type: post
 date: 2015-04-04
 excerpt: Entregue resultados, não apenas websites. Seja a peça chave dos negócios.

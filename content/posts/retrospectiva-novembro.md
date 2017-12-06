@@ -1,6 +1,6 @@
 ---
 title: Retrospectiva 2005 – Novembro
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-01-11
 url: /retrospectiva-2005-novembro/

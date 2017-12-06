@@ -1,6 +1,6 @@
 ---
 title: Por que inscrever seu site no prêmio de acessibilidade?
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2016-03-04
 excerpt: O Todos@Web vai além de uma premiação. É um reconhecimento das boas práticas de acessibilidade e uma forma de receber feedback gratuito de especialistas em acessibilidade sobre seu projeto.

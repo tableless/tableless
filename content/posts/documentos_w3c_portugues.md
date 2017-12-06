@@ -1,6 +1,6 @@
 ---
 title: Documentos do W3C em Português
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-08-07
 url: /documentos_w3c_portugues/

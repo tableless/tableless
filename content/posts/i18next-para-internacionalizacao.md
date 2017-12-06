@@ -1,6 +1,6 @@
 ---
 title: i18next para Internacionalização
-author: Thulio Philipe
+authors: Thulio Philipe
 type: post
 date: 2014-10-20
 url: /i18next-para-internacionalizacao/

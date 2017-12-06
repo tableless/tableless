@@ -1,6 +1,6 @@
 ---
 title: Utilizando o MarkerClusterer no Google Maps
-author: Raphael Fabeni
+authors: Raphael Fabeni
 type: post
 date: 2014-05-07
 excerpt: 'Você utiliza bastante o Google Maps em seus projetos? Já aconteceu de vários pontos ficarem muito próximos uns dos outros? Confira o MarkerClusterer, um recurso do Google para casos desse tipo que melhora a visualização do mapa. '

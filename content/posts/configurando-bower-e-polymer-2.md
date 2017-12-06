@@ -1,6 +1,6 @@
 ---
 title: Configurando Bower e Polymer
-author: Mateus Ortiz
+authors: Mateus Ortiz
 type: post
 date: 2014-04-10
 excerpt: Bower Gerenciador de pacotes muito usado e Polymer o novo polyfill do Google para Web Components.

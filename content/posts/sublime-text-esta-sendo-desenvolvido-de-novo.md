@@ -1,6 +1,6 @@
 ---
 title: Sublime Text está sendo desenvolvido de novo
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-02-10
 excerpt: Até que enfim o Sublime Text voltou!

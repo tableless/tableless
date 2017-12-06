@@ -1,6 +1,6 @@
 ---
 title: O Front-end auxiliando o Marketing Digital
-author: Deivid Marques
+authors: Deivid Marques
 type: post
 date: 2012-09-30
 excerpt: Nos dias atuais estamos ligados a semântica, seo, performance, boas práticas, entre outros assuntos, que tal ajudar também a equipe de Marketing Digital?

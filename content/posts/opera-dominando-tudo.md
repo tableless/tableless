@@ -1,6 +1,6 @@
 ---
 title: Opera experimentando o -webkit-
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-04-30
 excerpt: Opera suportando o prefixo -webkit-.

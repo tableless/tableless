@@ -1,6 +1,6 @@
 ---
 title: IE comendo mosca
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-04-01
 url: /ie_comendo_mosca/

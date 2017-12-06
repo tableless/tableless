@@ -1,6 +1,6 @@
 ---
 title: 'Yarn: A evolução do NPM'
-author: Daniel Campos
+authors: Daniel Campos
 type: post
 date: 2016-11-03
 excerpt: 'No dia 11 de outubro de 2016, o Facebook anunciou o seu novo gerenciador de pacotes para Javascript: o Yarn, que vem com a proposta de ser mais rápido, seguro e confiável que o NPM. O Yarn é open source, e nasceu com a colaboração, também, das empresas Exponent, Google, e Tilde.'

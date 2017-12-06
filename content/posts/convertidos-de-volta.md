@@ -1,6 +1,6 @@
 ---
 title: Convertidos de volta
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-01-12
 excerpt: 'O Convertidos do Tableless marcou época. Hoje, voltamos com o convertidos novamente, mas agora de uma maneira diferente. Mais didática. '

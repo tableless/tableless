@@ -1,6 +1,6 @@
 ---
 title: Cinco tecnologias fantásticas de uso corriqueiro
-author: Manoel Netto
+authors: Manoel Netto
 type: post
 date: 2014-05-05
 excerpt: Como a tecnologia comum, que usamos todos os dias, pode ainda impressionar.

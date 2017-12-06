@@ -1,6 +1,6 @@
 ---
 title: Código Limpo – Escreva seu código hoje sem esquecer da manutenção de amanhã
-author: tableless
+authors: tableless
 type: post
 date: 2017-01-13
 excerpt: Seu código é legível e fácil de dar manutenção? Veja neste post porque escrever código limpo é importante e como equilibrar isso com os prazos dos projetos.

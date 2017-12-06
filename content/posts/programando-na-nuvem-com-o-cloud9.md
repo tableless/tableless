@@ -1,6 +1,6 @@
 ---
 title: Programando na nuvem com o cloud9
-author: Daniel Schmitz
+authors: Daniel Schmitz
 type: post
 date: 2015-10-01
 url: /programando-na-nuvem-com-o-cloud9/

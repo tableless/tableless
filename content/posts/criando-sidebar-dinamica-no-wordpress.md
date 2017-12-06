@@ -1,6 +1,6 @@
 ---
 title: Criando Sidebar Dinâmica no WordPress
-author: Paulo Rodrigues
+authors: Paulo Rodrigues
 type: post
 date: 2011-01-18
 excerpt: Aprenda a adicionar sidebars e adicione os widgets disponíveis dentro do painel de administração.

@@ -1,6 +1,6 @@
 ---
 title: Propriedade Float do CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-02-13
 excerpt: Vídeo que demonstra a propriedade float do CSS. Essa propriedade é responsável pela administração do posicionamento das caixas do layout.

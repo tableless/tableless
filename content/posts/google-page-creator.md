@@ -1,6 +1,6 @@
 ---
 title: Google Page Creator
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-23
 url: /google-page-creator/

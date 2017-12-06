@@ -1,6 +1,6 @@
 ---
 title: 2.7 Bilhões de Celulares
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-01-25
 url: /27-bilhoes-de-celulares/

@@ -1,6 +1,6 @@
 ---
 title: 'Web Storage  – HTML5'
-author: Bruno Ruiz
+authors: Bruno Ruiz
 type: post
 date: 2014-01-28
 excerpt: Cookies foram por muito tempo, e ainda são hoje, uma das formas mais utilizadas para armazenar dados no cliente. No entanto, com o advento do padrão HTML5, surgiram novas alternativas para armazenamento de dados no cliente. A principal delas é o WebStorage.

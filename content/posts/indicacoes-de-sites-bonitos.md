@@ -1,6 +1,6 @@
 ---
 title: Indicações de sites bonitos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-01-17
 url: /indicacoes-de-sites-bonitos/

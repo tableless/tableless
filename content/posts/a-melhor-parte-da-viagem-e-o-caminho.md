@@ -1,6 +1,6 @@
 ---
 title: A melhor parte da viagem é o caminho
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-30
 excerpt: Um pouco de auto ajuda não faz mal a ninguém.

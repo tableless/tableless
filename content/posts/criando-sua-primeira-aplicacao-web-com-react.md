@@ -1,6 +1,6 @@
 ---
 title: Criando a sua primeira aplicação web com React
-author: Lucas Daltro
+authors: Lucas Daltro
 type: post
 date: 2017-02-17
 excerpt: Um exemplo prático de como criar seu primeiro código com o Create React App.

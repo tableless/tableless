@@ -1,6 +1,6 @@
 ---
 title: Locaweb Developer Network
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-02-04
 excerpt: Portal de Desenvolvedores da Locaweb.

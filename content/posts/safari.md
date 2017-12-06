@@ -1,6 +1,6 @@
 ---
 title: Safari
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-01-16
 url: /safari/

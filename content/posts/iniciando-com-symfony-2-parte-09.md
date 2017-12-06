@@ -1,6 +1,6 @@
 ---
 title: Iniciando com Symfony 2 – Parte 09
-author: Candido Souza
+authors: Candido Souza
 type: post
 date: 2015-05-24
 excerpt: Nesse tutorial, vamos instalar o bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts.

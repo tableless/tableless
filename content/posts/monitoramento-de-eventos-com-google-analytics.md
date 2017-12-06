@@ -1,6 +1,6 @@
 ---
 title: Monitoramento de eventos com Google Analytics
-author: Fabiano de Lima Abreu
+authors: Fabiano de Lima Abreu
 type: post
 date: 2015-03-06
 excerpt: Aprenda a mensurar a interação dos usuários no seu site através do Google Analytics.

@@ -1,6 +1,6 @@
 ---
 title: As cores da minha web
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2012-04-02
 excerpt: Tenho um grande amigo que sonhava ser piloto de avião. Porém, seu sonho de pilotar acabou quando, aos trinta anos de idade, ele descobriu que tinha um grau de daltonismo que o impediu de continuar o treinamento.

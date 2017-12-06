@@ -1,6 +1,6 @@
 ---
 title: Portable Firefox
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-06-09
 url: /portable-firefox/

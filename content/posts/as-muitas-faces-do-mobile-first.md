@@ -1,6 +1,6 @@
 ---
 title: As muitas faces do Mobile First
-author: Will Sales
+authors: Will Sales
 type: post
 date: 2013-01-25
 excerpt: Quando você perde 80% do seu espaço na tela, todo o conteúdo irrelevante ao design de telas grandes não parece mais tão atrativo ou necessário.

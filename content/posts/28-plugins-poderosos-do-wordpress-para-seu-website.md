@@ -1,6 +1,6 @@
 ---
 title: 28 Plugins poderosos do WordPress para seu website
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-10-01
 url: /28-plugins-poderosos-do-wordpress-para-seu-website/

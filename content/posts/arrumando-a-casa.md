@@ -1,6 +1,6 @@
 ---
 title: Arrumando a casa
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-12-15
 excerpt: Aos poucos estamos colocando de volta o conteúdo do Tableless. Acaba de ir para o ar o tutorial básico.

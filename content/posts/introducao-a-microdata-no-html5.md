@@ -1,6 +1,6 @@
 ---
 title: Introdução a Microdata no HTML5
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2010-12-20
 excerpt: De forma similar aos microformats, microdata do HTML5 permite representar determinadas informações de forma mais semântica.

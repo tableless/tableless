@@ -1,6 +1,6 @@
 ---
 title: Migrando de enterprise dev para startup dev
-author: Ulysses Marins
+authors: Ulysses Marins
 type: post
 date: 2016-09-11
 url: /migrando-de-enterprise-dev-para-startup-dev/

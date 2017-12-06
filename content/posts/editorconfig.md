@@ -1,6 +1,6 @@
 ---
 title: EditorConfig
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-08-19
 excerpt: EditorConfig, um plugin que salva a vida de equipes inteiras.

@@ -1,6 +1,6 @@
 ---
 title: Dicas da arqHP
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-07-21
 url: /dicas_arqhp/

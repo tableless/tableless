@@ -1,6 +1,6 @@
 ---
 title: Mobile First – A arte de pensar com foco
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-12-13
 excerpt: Os dispositivos móveis estão tomando conta do mundo. Sendo assim, o que você acha de pensarmos nos dispositivos móveis antes de pensarmos nos desktops?

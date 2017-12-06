@@ -1,6 +1,6 @@
 ---
 title: Como aumentar a autoridade de um site ou blog através de links quebrados
-author: Adriano Luz
+authors: Adriano Luz
 type: post
 date: 2016-08-28
 url: /como-aumentar-autoridade-de-um-site-ou-blog-atraves-de-links-quebrados/

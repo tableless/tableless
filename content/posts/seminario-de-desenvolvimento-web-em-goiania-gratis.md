@@ -1,6 +1,6 @@
 ---
 title: Seminário de Desenvolvimento Web em Goiânia (grátis)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-09-18
 excerpt: Alô Goiânia, participe do Seminário Locaweb de Desenvolvimento!

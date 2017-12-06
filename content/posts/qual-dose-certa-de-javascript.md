@@ -1,6 +1,6 @@
 ---
 title: Qual a dose certa de JavaScript
-author: Jean Carlo Emer
+authors: Jean Carlo Emer
 type: post
 date: 2014-02-03
 excerpt: Um pouco de JavaScript não obstrusivo e quais as estratégias para garantir uma boa performance e acessibilidade em aplicações ricas.

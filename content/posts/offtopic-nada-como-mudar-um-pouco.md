@@ -1,6 +1,6 @@
 ---
 title: '[offtopic] Nada como mudar um pouco'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-06-06
 url: /offtopic-nada-como-mudar-um-pouco/

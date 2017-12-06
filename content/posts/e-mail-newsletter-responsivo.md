@@ -1,6 +1,6 @@
 ---
 title: E-mail Newsletter Responsivo
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2013-01-03
 excerpt: Entenda como funciona e como fazer um email marketing responsivo.

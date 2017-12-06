@@ -1,6 +1,6 @@
 ---
 title: Afinal, o que muda com o HTML 5?
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2010-09-15
 excerpt: Há algumas mudanças que vão ocorrer tanto nas estruturas técnicas do desenvolvimento de webpages quanto na postura e parâmetros que o profissional deverá apresentar na criação de um website.

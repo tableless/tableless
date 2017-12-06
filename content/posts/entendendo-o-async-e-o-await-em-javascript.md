@@ -1,6 +1,6 @@
 ---
 title: Entendendo o async e o await em JavaScript
-author: Wendell Adriel
+authors: Wendell Adriel
 type: post
 date: 2016-04-12
 excerpt: 'As funcionalidades async / await não conseguiram chegar para o ES6, mas isso não significa que elas não irão chegar ao JavaScript. Enquanto escrevo esse post, ela é uma proposta na fase 3 e está sendo trabalhada ativamente. As funcionalidades já estão no Edge e devem chegar a outros browsers assim que chegar na fase 4 - pavimentando seu caminho para inclusão na próxima edição da linguagem (veja também: Processo TC39).'

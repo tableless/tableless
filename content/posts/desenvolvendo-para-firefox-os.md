@@ -1,6 +1,6 @@
 ---
 title: Desenvolvendo para Firefox OS
-author: Willem Allan
+authors: Willem Allan
 type: post
 date: 2013-05-20
 excerpt: Introdução para criar aplicativos para FirefoxOS.

@@ -1,6 +1,6 @@
 ---
 title: Hp Brasil é tableless!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-07-29
 url: /hp_tableless/

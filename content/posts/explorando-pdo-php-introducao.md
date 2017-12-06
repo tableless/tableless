@@ -1,6 +1,6 @@
 ---
 title: Explorando a PDO — Introdução
-author: Wanderson Macêdo
+authors: Wanderson Macêdo
 type: post
 date: 2017-08-16
 excerpt: Por que e como eu deveria usar a PDO - PHP Data Objects.

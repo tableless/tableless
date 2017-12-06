@@ -1,6 +1,6 @@
 ---
 title: Mozilla anuncia Firefox 48 para desktop com multi-processamento
-author: tableless
+authors: tableless
 type: post
 date: 2016-08-05
 url: /mozilla-anuncia-firefox-48-para-desktop-com-multi-processamento/

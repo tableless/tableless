@@ -1,6 +1,6 @@
 ---
 title: Coda – Mac only
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-04-25
 url: /coda-mac-only/

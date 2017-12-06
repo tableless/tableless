@@ -1,6 +1,6 @@
 ---
 title: Terminou
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-09-02
 url: /terminou/

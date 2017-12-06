@@ -1,6 +1,6 @@
 ---
 title: Para o alto e avante!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-08-25
 url: /para_o_alto_e_avante/

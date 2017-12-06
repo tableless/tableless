@@ -1,6 +1,6 @@
 ---
 title: Foxmarks
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-06-09
 url: /extension-foxmarks/

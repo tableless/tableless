@@ -1,6 +1,6 @@
 ---
 title: Pontuação de especificidade da CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-04-25
 excerpt: Entenda como o browser calcula a especificidade do seu seletor e evite conflitos entre estilos.

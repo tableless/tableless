@@ -1,6 +1,6 @@
 ---
 title: 10º Encontro Locaweb de Profissionais de Internet
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2008-04-18
 url: /10o-encontro-locaweb/

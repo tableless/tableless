@@ -1,6 +1,6 @@
 ---
 title: Giving gamers two windows
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-02-15
 url: /giving-gamers-two-windows/

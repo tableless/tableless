@@ -1,6 +1,6 @@
 ---
 title: Rotas dinâmicas no Silex
-author: Nando Kstro Net
+authors: Nando Kstro Net
 type: post
 date: 2015-07-13
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: nth-child() e calc() – Uma proposta para o abandono de frameworks de grids responsivos
-author: rogerio dias moreira
+authors: rogerio dias moreira
 type: post
 date: 2015-07-06
 excerpt: Conheça mais sobre estas duas propriedades para a construção de layouts responsivos sem o utilizar frameworks de grids.

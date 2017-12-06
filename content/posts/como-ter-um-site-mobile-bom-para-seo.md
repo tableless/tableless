@@ -1,6 +1,6 @@
 ---
 title: Como ter um site mobile bom para SEO
-author: Carina Andrade
+authors: Carina Andrade
 type: post
 date: 2016-01-26
 url: /como-ter-um-site-mobile-bom-para-seo/

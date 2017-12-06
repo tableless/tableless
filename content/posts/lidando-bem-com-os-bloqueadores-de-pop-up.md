@@ -1,6 +1,6 @@
 ---
 title: Lidando bem com os bloqueadores de pop-up
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-12-06
 url: /lidando-bem-com-os-bloqueadores-de-pop-up/

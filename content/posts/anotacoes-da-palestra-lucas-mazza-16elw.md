@@ -1,6 +1,6 @@
 ---
 title: 'Anotações palestra: Manutenção e Refatoração de CSS'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-05-20
 excerpt: Anotações sobre a palestra sobre Refatoração e Manutenção de CSS em projetos, feito pelo Lucas Mazza.

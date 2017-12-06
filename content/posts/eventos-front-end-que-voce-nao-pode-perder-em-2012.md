@@ -1,6 +1,6 @@
 ---
 title: Eventos Front-end que você não pode perder em 2012
-author: Zeno Rocha
+authors: Zeno Rocha
 type: post
 date: 2012-01-30
 excerpt: Fique por dentro do que acontece de melhor na nossa área!

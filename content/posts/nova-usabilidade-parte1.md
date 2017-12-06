@@ -1,6 +1,6 @@
 ---
 title: Você sabe o que é a “nova usabilidade”? – parte I
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2011-12-05
 excerpt: A usabilidade não pode se focar apenas para desktops e notebooks, mas para dispositivos emergentes, que são utilizados hoje e os que ainda irão surgir.

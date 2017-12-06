@@ -1,6 +1,6 @@
 ---
 title: 'BlogBits #9 – Espaço publicitário: incentivos, mimos e compra de opiniões'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-04-08
 url: /blogbits-9-espaco-publicitario-incentivos-mimos-e-compra-de-opinioes/

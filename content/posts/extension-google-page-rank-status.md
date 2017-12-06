@@ -1,6 +1,6 @@
 ---
 title: Google Page Rank Status
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-06-07
 url: /extension-google-page-rank-status/

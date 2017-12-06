@@ -1,6 +1,6 @@
 ---
 title: WHATWG e o HTML 5
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-01-26
 url: /whatwg-e-o-html-5/

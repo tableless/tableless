@@ -1,6 +1,6 @@
 ---
 title: A luta pelo Leo ainda não acabou
-author: Lenilson Nascimento
+authors: Lenilson Nascimento
 type: post
 date: 2015-07-20
 excerpt: Continue ajudando o Leo à vencer o câncer

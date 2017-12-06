@@ -1,6 +1,6 @@
 ---
 title: Editor Vim – Encontrar e Substituir
-author: Henrique Schreiner
+authors: Henrique Schreiner
 type: post
 date: 2015-03-03
 excerpt: Dicas de comandos no Vim que podem te ajudar a poupar tempo, dinheiro e deixar o seu cliente feliz e satisfeito.

@@ -1,6 +1,6 @@
 ---
 title: Web.br 2014 – Caminhos da Inovação
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-09-26
 url: /web-br-2014-caminhos-da-inovacao/

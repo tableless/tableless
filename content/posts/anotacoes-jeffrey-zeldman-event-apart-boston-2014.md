@@ -1,6 +1,6 @@
 ---
 title: Entendendo o Web Design – Jeffrey Zeldman – An Event Apart Boston 2014
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-04-29
 excerpt: O que consegui anotar da palestra do Jeffrey Zeldman no An Event Apart Boston em 2014.

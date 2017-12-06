@@ -1,6 +1,6 @@
 ---
 title: O Product Owner deve estar na Sprint Retrospective?
-author: talesbaz
+authors: talesbaz
 type: post
 date: 2016-06-26
 url: /o-product-owner-deve-estar-na-sprint-retrospective/

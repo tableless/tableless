@@ -1,6 +1,6 @@
 ---
 title: 'Introdução: diversidade dos meios acesso'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-09-28
 excerpt: Lidar com a quantidade de meios de acesso é e será um grande desafio no desenvolvimento para web. E não estou falando apenas sobre mobiles. O negócio é mais amplo e complexo. Há mobiles, desktops, consoles e uma pancada de outos dispositivos que ainda não são populares, mas serão um dia.

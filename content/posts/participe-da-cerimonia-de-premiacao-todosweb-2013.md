@@ -1,6 +1,6 @@
 ---
 title: Participe da Cerimônia de Premiação do Todos@web 2013
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2013-11-27
 url: /participe-da-cerimonia-de-premiacao-todosweb-2013/

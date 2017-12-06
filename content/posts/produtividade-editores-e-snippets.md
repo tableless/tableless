@@ -1,6 +1,6 @@
 ---
 title: 'Produtividade: editores e snippets'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-02-18
 excerpt: Se você é um desenvolvedor de verdade, você deve conhecer seu editor de códigos. Não importa qual ele seja, contanto que você o conheça do começo ao fim, saiba suas limitações e saiba utilizar suas vantagens para minimizar o tempo de produção.

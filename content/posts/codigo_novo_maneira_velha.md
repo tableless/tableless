@@ -1,6 +1,6 @@
 ---
 title: Código novo, maneira velha
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-11-21
 url: /codigo_novo_maneira_velha/

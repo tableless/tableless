@@ -1,6 +1,6 @@
 ---
 title: 'JavaScript: entendendo o this'
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2013-07-25
 excerpt: 'Conheça mais sobre a palavra reservada this e entenda  como funciona o escopo de um objeto JavaScript.'

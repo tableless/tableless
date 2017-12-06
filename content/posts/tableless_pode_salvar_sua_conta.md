@@ -1,6 +1,6 @@
 ---
 title: Tableless pode salvar sua conta da Telefônica
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-09-16
 url: /tableless_pode_salvar_sua_conta/

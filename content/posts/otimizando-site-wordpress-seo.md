@@ -1,6 +1,6 @@
 ---
 title: Otimizando seu site em WordPress para SEO
-author: Paulo Rodrigues
+authors: Paulo Rodrigues
 type: post
 date: 2011-03-17
 excerpt: Vamos ver como podemos aperfeiçoar seu site em WordPress para SEO e veja a importância de fazer isso.

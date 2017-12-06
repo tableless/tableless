@@ -1,6 +1,6 @@
 ---
 title: Crie sites em questão de minutos com o Pingendo
-author: Bruno
+authors: Bruno
 type: post
 date: 2017-03-06
 aliases: 

@@ -1,6 +1,6 @@
 ---
 title: Grid simples com SASS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-04-29
 excerpt: Criando um grid simples com SCSS.

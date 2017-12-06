@@ -1,6 +1,6 @@
 ---
 title: Drops 2 – A palavra Marcação do HTML
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-01-31
 excerpt: A abreviação HTML tem muito a nos dizer.

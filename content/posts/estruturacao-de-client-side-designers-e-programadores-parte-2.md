@@ -1,6 +1,6 @@
 ---
 title: 'Estruturação de front-end – Parte 2: Designers e Programadores'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-05-14
 excerpt: Entendendo e sincronizando as necessidades dos designers e programadores.

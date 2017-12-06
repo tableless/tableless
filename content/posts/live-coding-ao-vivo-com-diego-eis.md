@@ -1,6 +1,6 @@
 ---
 title: Live Coding com Diego Eis
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-11-26
 excerpt: Participe de um micro workshop com o Diego Eis, onde ele implementará ao vivo um layout direto do PSD.

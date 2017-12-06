@@ -1,6 +1,6 @@
 ---
 title: Imagens em alta resolução utilizando SVG
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2012-11-27
 excerpt: Entenda o que são imagens SVG e como você poderá utilizá-las hoje.

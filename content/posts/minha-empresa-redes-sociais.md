@@ -1,6 +1,6 @@
 ---
 title: Minha empresa está nas redes sociais. E agora?
-author: João Paulo de Almeida
+authors: João Paulo de Almeida
 type: post
 date: 2012-09-05
 excerpt: Há alguns anos atrás não se acreditavam que as redes socias iriam alcançar tamanha proporção e poder de comunicação como hoje.

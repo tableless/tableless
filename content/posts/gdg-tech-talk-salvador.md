@@ -1,6 +1,6 @@
 ---
 title: GDG Tech Talk Salvador
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-10-16
 excerpt: Participe do Grupo de Desenvolvedores do Google em Salvador!

@@ -1,6 +1,6 @@
 ---
 title: 'Podcast #20 –  Preocupações sobre o desenvolvimento para internet móvel'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-03-30
 url: /podcast-20-preocupacoes-sobre-o-desenvimento-para-internet-movel/

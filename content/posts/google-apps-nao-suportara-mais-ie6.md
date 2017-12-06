@@ -1,6 +1,6 @@
 ---
 title: Google Apps não suportará mais IE6
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-02-02
 excerpt: Deixar de suportar o IE6 é questão de sobrevivência. Não é capricho do desenvolvedor ou falta de vontade. Ou nivelamos por baixo a experiência do usuário, ou forçamos uma mudança de comportamento.

@@ -1,6 +1,6 @@
 ---
 title: Terra.com tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-05-03
 url: /terracom_tableless/

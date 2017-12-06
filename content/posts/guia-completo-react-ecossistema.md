@@ -1,6 +1,6 @@
 ---
 title: O Guia Completo do React e o seu Ecossistema
-author: Matheus Lima
+authors: Matheus Lima
 type: post
 date: 2017-07-18
 excerpt: Você ouve falar frequentemente sobre o React mas sabe pouco sobre ele?

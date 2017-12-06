@@ -1,6 +1,6 @@
 ---
 title: Quem deve se preocupar com os Padrões Web?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-09-20
 url: /quem-deve-se-preocupar-com-os-padroes-web/

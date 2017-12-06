@@ -1,6 +1,6 @@
 ---
 title: Criando páginas web para seus repositórios com o GitHub Pages
-author: William Martins
+authors: William Martins
 type: post
 date: 2013-07-29
 excerpt: Entenda como funciona o Github Pages.

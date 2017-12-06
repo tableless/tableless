@@ -1,6 +1,6 @@
 ---
 title: Web.br 2016 – A Conferência do W3C no Brasil
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-10-04
 url: /web-br-2016-conferencia-do-w3c-no-brasil/

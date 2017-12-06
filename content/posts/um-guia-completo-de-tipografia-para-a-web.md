@@ -1,6 +1,6 @@
 ---
 title: Um guia completo de tipografia para a web
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2012-12-12
 excerpt: Entenda os princípios da tipografia na web e saiba como melhorar a leitura dos usuários.

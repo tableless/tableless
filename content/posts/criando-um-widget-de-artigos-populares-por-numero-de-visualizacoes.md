@@ -1,6 +1,6 @@
 ---
 title: Criando um widget de “Artigos Populares” por numero de visualizações
-author: Léo Juoli
+authors: Léo Juoli
 type: post
 date: 2015-08-13
 url: /criando-um-widget-de-artigos-populares-por-numero-de-visualizacoes/

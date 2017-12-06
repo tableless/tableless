@@ -1,6 +1,6 @@
 ---
 title: Consórcio World Wide Web (W3C) anuncia escritório no Brasil
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-11-01
 url: /consorcio-world-wide-web-w3c-anuncia-escritorio-no-brasil/

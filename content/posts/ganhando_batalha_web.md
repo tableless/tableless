@@ -1,6 +1,6 @@
 ---
 title: Ganhando a batalha na web!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-08-31
 url: /ganhando_batalha_web/

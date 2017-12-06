@@ -1,6 +1,6 @@
 ---
 title: Prepare-se para a Revolução
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-09-02
 excerpt: O W3C mudou. Isso vai modificar todo um fluxo de trabalho e a velocidade das implementações dos browsers e a forma com que os desenvolvedores trabalham.

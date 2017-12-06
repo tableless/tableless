@@ -1,6 +1,6 @@
 ---
 title: 'Bonito de se ver #36 – Especial de Natal 2006'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-12-25
 url: /bonito-de-se-ver-36-especial-de-natal/

@@ -1,6 +1,6 @@
 ---
 title: Vulnerabilidades em Sistemas Web
-author: Marcus Aurelius
+authors: Marcus Aurelius
 type: post
 date: 2016-07-11
 excerpt: Uma das principais vulnerabilidades web se encontram na URL do site e nem todos os desenvolvedores têm conhecimento delas

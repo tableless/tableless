@@ -1,6 +1,6 @@
 ---
 title: API para Autenticar usuários com JWT e Passport
-author: Jscrambler
+authors: Jscrambler
 type: post
 date: 2016-10-19
 url: /autenticar-usuarios-com-jwt-e-passport/

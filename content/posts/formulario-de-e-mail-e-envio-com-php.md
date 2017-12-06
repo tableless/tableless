@@ -1,6 +1,6 @@
 ---
 title: Formulário de e-mail e envio com PHP
-author: Filipe Teixeira
+authors: Filipe Teixeira
 type: post
 date: 2015-08-18
 excerpt: Como abandonar um script pronto em Perl e criar um formulário de envio de e-mail simples com PHP.

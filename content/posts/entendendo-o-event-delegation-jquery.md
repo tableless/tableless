@@ -1,6 +1,6 @@
 ---
 title: Entendendo o Event Delegation da função on() no jQuery
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-02-02
 excerpt: 'Um pouco sobre event delegation com a função <code>on()</code> do jQuery.'

@@ -1,6 +1,6 @@
 ---
 title: Em quem você vai votar?! :-D
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-10-27
 url: /em_quem_vc_vai_votar/

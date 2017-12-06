@@ -1,6 +1,6 @@
 ---
 title: JPA de A à Z – Por que conhecer?
-author: Mateus Malaquias
+authors: Mateus Malaquias
 type: post
 date: 2016-08-30
 url: /jpa-de-z-por-que-conhecer/

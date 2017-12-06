@@ -1,6 +1,6 @@
 ---
 title: Mais alguns dias pro final
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-04-05
 url: /mais_uns_dias/

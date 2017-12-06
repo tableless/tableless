@@ -1,6 +1,6 @@
 ---
 title: Aplicando um Plano de Usabilidade – Parte 1
-author: Alysson Franklin
+authors: Alysson Franklin
 type: post
 date: 2011-01-04
 excerpt: 'Aprenda a planejar e analisar seu website antes de colocar a mão na massa - quer dizer, no código.'

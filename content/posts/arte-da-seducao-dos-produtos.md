@@ -1,6 +1,6 @@
 ---
 title: A Arte da Sedução dos Produtos
-author: Marcus Himura
+authors: Marcus Himura
 type: post
 date: 2015-10-02
 url: /arte-da-seducao-dos-produtos/

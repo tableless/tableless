@@ -1,6 +1,6 @@
 ---
 title: Podcast número 0
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-11-11
 url: /podcast/

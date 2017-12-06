@@ -1,6 +1,6 @@
 ---
 title: Usando seletores aninhados do SASS com cuidado
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-09-22
 excerpt: Cuidado com o pesadelo das nesting selectors dos pré-processadores.

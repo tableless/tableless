@@ -1,6 +1,6 @@
 ---
 title: Blogger Tableless!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-05-10
 url: /blogger/

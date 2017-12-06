@@ -1,6 +1,6 @@
 ---
 title: Font icons – Utilizando ícones em formato de font
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-08-20
 excerpt: Aprenda a usar font para fazer elementos com ícones.

@@ -1,6 +1,6 @@
 ---
 title: Sobre prazos e produtividade
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-04-08
 excerpt: Um pensamento sobre prazos e produtividade.

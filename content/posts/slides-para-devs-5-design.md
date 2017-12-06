@@ -1,6 +1,6 @@
 ---
 title: 'Slides para devs #5 – Design'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-04-09
 excerpt: Slides de apresentações sobre design.

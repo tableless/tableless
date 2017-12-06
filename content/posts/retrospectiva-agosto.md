@@ -1,6 +1,6 @@
 ---
 title: Retrospectiva 2005 – Agosto
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-01-08
 url: /retrospectiva-2005-agosto/

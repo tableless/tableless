@@ -1,6 +1,6 @@
 ---
 title: Opera, só se não for para Desktops
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-04-12
 url: /opera-so-se-nao-for-para-desktops/

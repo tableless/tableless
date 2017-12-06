@@ -1,6 +1,6 @@
 ---
 title: JavaScript Strict Mode
-author: Fabiano de Lima Abreu
+authors: Fabiano de Lima Abreu
 type: post
 date: 2014-07-17
 excerpt: "Como funciona o 'use strict' no JavaScript e saiba como ele pode ajudá-lo."

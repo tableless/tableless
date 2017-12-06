@@ -1,6 +1,6 @@
 ---
 title: Camadas de desenvolvimento client-side
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-10-10
 excerpt: Você pode se assustar com isso, mas a tabela foi um marco na história do design para web. Ela abriu portas. Mostrou caminhos.

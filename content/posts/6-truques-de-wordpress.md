@@ -1,6 +1,6 @@
 ---
 title: 6 truques básicos do functions.php do WordPress
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-04-22
 excerpt: Alguns truques para personalizar e melhorar o functions.php do seu tema.

@@ -1,6 +1,6 @@
 ---
 title: CSS3 – Animation e regra keyframe
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-05-09
 excerpt: Saiba como o CSS 3 possibilita a criação de efeitos de animações e transições.

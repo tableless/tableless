@@ -1,6 +1,6 @@
 ---
 title: Codeshow 2010
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-03-25
 excerpt: Quer ver o pessoal da Visie colocar um sistema no ar em um dia? Venha então para o CodeShow 2010.

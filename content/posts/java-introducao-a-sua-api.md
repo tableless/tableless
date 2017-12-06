@@ -1,6 +1,6 @@
 ---
 title: JAVA – Introdução a sua API
-author: Fellipe Filgueiras
+authors: Fellipe Filgueiras
 type: post
 date: 2015-05-18
 url: /java-introducao-a-sua-api/

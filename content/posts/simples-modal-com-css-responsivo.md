@@ -1,6 +1,6 @@
 ---
 title: Simples modal com CSS responsivo
-author: Palloi Hofmann
+authors: Palloi Hofmann
 type: post
 date: 2015-01-21
 excerpt: Continuando com os artigos, vamos utilizar novamente os seletores de css para exibir nosso modal.

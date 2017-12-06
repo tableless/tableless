@@ -1,6 +1,6 @@
 ---
 title: Revolução CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-19
 url: /revolucao_css/

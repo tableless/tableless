@@ -1,6 +1,6 @@
 ---
 title: 'Bonito de se ver #11 (Brasil)'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-01
 url: /bonito_de_se_ver11_brasil/

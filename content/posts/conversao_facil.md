@@ -1,6 +1,6 @@
 ---
 title: Conversão fácil
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-10-10
 url: /conversao_facil/

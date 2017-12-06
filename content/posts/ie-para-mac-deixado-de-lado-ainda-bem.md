@@ -1,6 +1,6 @@
 ---
 title: IE para MAC deixado de lado (ainda bem)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-12-19
 url: /ie-para-mac-deixado-de-lado-ainda-bem/

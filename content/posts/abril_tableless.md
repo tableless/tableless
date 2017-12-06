@@ -1,6 +1,6 @@
 ---
 title: Abril.com.br Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-01
 url: /abril_tableless/

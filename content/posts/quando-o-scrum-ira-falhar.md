@@ -1,6 +1,6 @@
 ---
 title: Quando o Scrum irá falhar
-author: marcoaacoliveira
+authors: marcoaacoliveira
 type: post
 date: 2016-05-07
 url: /quando-o-scrum-ira-falhar/

@@ -1,6 +1,6 @@
 ---
 title: Implementação HTML
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-09-20
 url: /implementacao-html/

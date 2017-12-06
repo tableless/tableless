@@ -1,6 +1,6 @@
 ---
 title: MaterialUp – Uma coleção de conceitos usando Material Design
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-03-27
 excerpt: Alguns conceitos de animação e design baseados no Material Design do Google.

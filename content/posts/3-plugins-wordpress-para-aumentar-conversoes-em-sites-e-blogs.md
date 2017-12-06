@@ -1,6 +1,6 @@
 ---
 title: 3 Plugins WordPress para Aumentar Conversões em Sites e Blogs
-author: adrianoluz
+authors: adrianoluz
 type: post
 date: 2016-11-22
 url: /3-plugins-wordpress-para-aumentar-conversoes-em-sites-e-blogs/

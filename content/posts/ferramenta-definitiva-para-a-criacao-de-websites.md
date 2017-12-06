@@ -1,6 +1,6 @@
 ---
 title: Ferramenta definitiva para a criação de websites?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-09-19
 url: /ferramenta-definitiva-para-a-criacao-de-websites/

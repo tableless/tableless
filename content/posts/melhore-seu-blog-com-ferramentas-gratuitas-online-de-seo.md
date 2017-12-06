@@ -1,6 +1,6 @@
 ---
 title: Melhore seu blog com ferramentas gratuitas online de SEO
-author: grant
+authors: grant
 type: post
 date: 2016-05-12
 url: /melhore-seu-blog-com-ferramentas-gratuitas-online-de-seo/

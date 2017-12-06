@@ -1,6 +1,6 @@
 ---
 title: Eu não sou uma máquina
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2012-08-30
 excerpt: Além da grande barreira de acessibilidade, já que os CAPTCHAs tradicionais não costumam ser acessíveis, novas modalidades de CAPTCHA mais difíceis vem sendo criados para evitar que robôs consigam acessar seus formulários.

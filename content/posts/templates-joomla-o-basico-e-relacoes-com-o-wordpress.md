@@ -1,6 +1,6 @@
 ---
 title: 'Templates Joomla!: o básico e relações com o WordPress'
-author: Wellyson Freitas
+authors: Wellyson Freitas
 type: post
 date: 2015-05-25
 excerpt: Saiba como criar um template básico para o Joomla! e conheça as relações existentes com os temas do WordPress — os melhores CMS que existem atualmente.

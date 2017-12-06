@@ -1,6 +1,6 @@
 ---
 title: Ferramentas úteis para se trabalhar com SEO
-author: Douglas Faria
+authors: Douglas Faria
 type: post
 date: 2013-10-23
 url: /ferramentas-uteis-para-se-trabalhar-com-seo/

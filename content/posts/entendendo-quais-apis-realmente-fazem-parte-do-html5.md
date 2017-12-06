@@ -1,6 +1,6 @@
 ---
 title: Entendendo quais APIs (realmente) fazem parte do HTML5
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2012-05-02
 excerpt: Sabemos que o HTML5 não se trata apenas de marcação, mas também de um conjunto de novas funcionalidades encapsuladas em APIs que podem ser acessadas via JavaScript. Porém, algumas destas APIs não fazem parte do núcleo do HTML5.

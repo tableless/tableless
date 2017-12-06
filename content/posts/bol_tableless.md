@@ -1,6 +1,6 @@
 ---
 title: Bol Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-03
 url: /bol_tableless/

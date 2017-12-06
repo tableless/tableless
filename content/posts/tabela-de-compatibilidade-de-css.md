@@ -1,6 +1,6 @@
 ---
 title: Tabela de compatibilidade de CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-11-08
 url: /tabela-de-compatibilidade-de-css/

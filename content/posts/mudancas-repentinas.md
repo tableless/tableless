@@ -1,6 +1,6 @@
 ---
 title: Novo Tableless, agora WordPress
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-12-13
 url: /mudancas-repentinas/

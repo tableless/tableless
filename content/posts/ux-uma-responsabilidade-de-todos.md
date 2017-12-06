@@ -1,6 +1,6 @@
 ---
 title: 'UX: uma Responsabilidade de Todos'
-author: Lenilson Nascimento
+authors: Lenilson Nascimento
 type: post
 date: 2014-06-14
 excerpt: “UX não é só coisa de arquitetos de informação e designers. UX é a base de tudo.”

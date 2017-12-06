@@ -1,6 +1,6 @@
 ---
 title: Caminhando pelo HTML – parte 1
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-12-11
 url: /caminhando-pelo-html-parte-1/

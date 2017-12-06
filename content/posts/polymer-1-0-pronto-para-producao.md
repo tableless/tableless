@@ -1,6 +1,6 @@
 ---
 title: 'Polymer 1.0 : Pronto para produção'
-author: Beto Muniz
+authors: Beto Muniz
 type: post
 date: 2015-06-08
 excerpt: Tudo sobre a mais nova versão do Polymer e porque ele está pronto para produção

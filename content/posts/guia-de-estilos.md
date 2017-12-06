@@ -1,6 +1,6 @@
 ---
 title: Guia de Estilos
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2013-01-09
 excerpt: Entenda mais sobre guias de estilos, padrões para equipes, organização de CSS e mais.

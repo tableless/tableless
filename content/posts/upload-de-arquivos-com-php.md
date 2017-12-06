@@ -1,6 +1,6 @@
 ---
 title: Upload de arquivos com PHP
-author: Lucas Caprio
+authors: Lucas Caprio
 type: post
 date: 2014-07-01
 excerpt: Aprenda a fazer o upload de arquivos com PHP e AJAX, utilizando WideImage e Jquery Form Plugin.

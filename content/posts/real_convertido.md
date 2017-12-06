@@ -1,6 +1,6 @@
 ---
 title: Real.com convertido
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-03-21
 url: /real_convertido/

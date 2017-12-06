@@ -1,6 +1,6 @@
 ---
 title: 'Digest 04/09: CSS, HTML e Layout'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-04-25
 excerpt: Um bando de links interessantes sobre HTML, CSS e um pouco de layout.

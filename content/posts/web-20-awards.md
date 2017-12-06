@@ -1,6 +1,6 @@
 ---
 title: Web 2.0 Awards
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-04-07
 url: /web-20-awards/

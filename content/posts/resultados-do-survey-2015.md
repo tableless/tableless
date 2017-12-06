@@ -1,6 +1,6 @@
 ---
 title: Resultados do Survey 2015
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-04-18
 excerpt: Resultados do Survey em 2015. Conheça o status atual dos profissionais do mercado de web.

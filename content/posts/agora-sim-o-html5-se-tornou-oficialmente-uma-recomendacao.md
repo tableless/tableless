@@ -1,6 +1,6 @@
 ---
 title: 'Agora sim: o HTML5 se tornou oficialmente uma Recomendação'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-10-28
 excerpt: Finalmente o HTML5 se tornou oficialmente uma recomendação do W3C.

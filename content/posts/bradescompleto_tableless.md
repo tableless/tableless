@@ -1,6 +1,6 @@
 ---
 title: Bradescompleto é Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-22
 url: /bradescompleto_tableless/

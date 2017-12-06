@@ -1,6 +1,6 @@
 ---
 title: CSS3 – O que vem por aí…
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2010-11-22
 excerpt: 'Além da linguagem de marcação, a semântica e a utilização de bibliotecas Javascript no desenvolvimento HTML5, as folhas de estilo também serão reestruturadas para atender as diversas possibilidades que os novos padrões permitirão. Portanto, com vocês: o CSS3.'

@@ -1,6 +1,6 @@
 ---
 title: Participe da cerimônia de premiação do Todos@Web
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2014-11-25
 excerpt: Participe do momento máximo da acessibilidade Web no Brasil. Assista a cerimônia de premiação do Todos@Web. Inscreva-se! A entrada é gratuita.

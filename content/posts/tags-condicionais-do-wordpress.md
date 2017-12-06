@@ -1,6 +1,6 @@
 ---
 title: Tags Condicionais do WordPress
-author: Paulo Rodrigues
+authors: Paulo Rodrigues
 type: post
 date: 2011-04-12
 excerpt: As Tags Condicionais são usadas para manipular o conteúdo exibido ou especificar informações na página

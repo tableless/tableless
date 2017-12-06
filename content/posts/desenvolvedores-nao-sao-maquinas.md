@@ -1,6 +1,6 @@
 ---
 title: Desenvolvedores não são máquinas
-author: Thyago Rafael
+authors: Thyago Rafael
 type: post
 date: 2015-07-30
 url: /desenvolvedores-nao-sao-maquinas/

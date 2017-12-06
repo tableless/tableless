@@ -1,6 +1,6 @@
 ---
 title: Princípio de Paretto e o desenvolvimento de jogos indie
-author: Thiago Teles
+authors: Thiago Teles
 type: post
 date: 2016-07-01
 url: /principio-de-paretto-e-o-desenvolvimento-de-jogos-indie/

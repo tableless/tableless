@@ -1,6 +1,6 @@
 ---
 title: Microsoft Redesign
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-08-26
 url: /microsoft_redesign/

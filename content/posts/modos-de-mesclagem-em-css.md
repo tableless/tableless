@@ -1,6 +1,6 @@
 ---
 title: Modos de Mesclagem em CSS – Blend Mode CSS
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2013-07-16
 excerpt: Neste artigo entenda como funcionam os modos de mesclagem e saiba como utilizar cada um deles através de simples parâmetros de CSS.

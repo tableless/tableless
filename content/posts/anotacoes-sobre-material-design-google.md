@@ -1,6 +1,6 @@
 ---
 title: Anotações sobre Material Design do Google
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-12-03
 excerpt: Anotações sobre o Material Design, o novo conceito de design que o Google tem adotado em seus produtos.

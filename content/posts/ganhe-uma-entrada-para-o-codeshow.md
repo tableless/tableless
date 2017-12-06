@@ -1,6 +1,6 @@
 ---
 title: Ganhe uma entrada para o CodeShow
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-05-29
 url: /ganhe-uma-entrada-para-o-codeshow/

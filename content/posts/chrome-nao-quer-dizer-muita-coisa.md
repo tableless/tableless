@@ -1,6 +1,6 @@
 ---
 title: O Chrome não quer dizer muita coisa
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-09-02
 url: /chrome-nao-quer-dizer-muita-coisa/

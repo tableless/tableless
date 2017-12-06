@@ -1,6 +1,6 @@
 ---
 title: 'Vim: o poder dos macros'
-author: weslleyaraujo
+authors: weslleyaraujo
 type: post
 date: 2015-04-28
 excerpt: Execute a mesma ação múltiplas vezes dentro de vim.

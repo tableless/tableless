@@ -1,6 +1,6 @@
 ---
 title: Sobre Internet Explorer para Mobile – Breve impressão
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-11-07
 url: /sobre-internet-explorer-para-mobile-breve-impressao/

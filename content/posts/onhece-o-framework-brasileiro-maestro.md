@@ -1,6 +1,6 @@
 ---
 title: Você conhece o Framework brasileiro Maestro?
-author: Daniel Schmitz
+authors: Daniel Schmitz
 type: post
 date: 2015-04-27
 url: /voce-conhece-o-framework-brasileiro-maestro/

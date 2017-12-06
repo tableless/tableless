@@ -1,6 +1,6 @@
 ---
 title: JPA Hibernate – Como funciona a anotação @version?
-author: Mateus Malaquias
+authors: Mateus Malaquias
 type: post
 date: 2016-06-19
 url: /hibernate-como-funciona-anotacao-version/

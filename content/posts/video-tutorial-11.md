@@ -1,6 +1,6 @@
 ---
 title: 'Video Tutorial #11 – Amostra do Opera Mini'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-08-11
 url: /video-tutorial-11/

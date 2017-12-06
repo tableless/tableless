@@ -1,6 +1,6 @@
 ---
 title: Configurando o Sublime Text para escrever textos em MarkDown
-author: Daniel Schmitz
+authors: Daniel Schmitz
 type: post
 date: 2015-10-26
 url: /configurando-o-sublime-text-para-escrever-textos-em-markdown/

@@ -1,6 +1,6 @@
 ---
 title: Programadores podem se tornar bons escritores?
-author: Tiago Dória
+authors: Tiago Dória
 type: post
 date: 2014-09-05
 excerpt: Escrever código todos os dias pode ser comparado a escrever um livro?

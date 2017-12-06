@@ -1,6 +1,6 @@
 ---
 title: 'Se virando pra testar – Parte 2: Desktops Virtuais'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-11-22
 url: /se-virando-pra-testar-parte-2-desktops-virtuais/

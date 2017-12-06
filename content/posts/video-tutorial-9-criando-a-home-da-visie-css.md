@@ -1,6 +1,6 @@
 ---
 title: 'Video Tutorial #9 – Implementando a home de um site'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-03-24
 url: /video-tutorial-9-criando-a-home-da-visie-css/

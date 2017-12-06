@@ -1,6 +1,6 @@
 ---
 title: O que são Media Types do CSS?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-06
 excerpt: Media Types servem para direcionar um determinado CSS para um determinado tipo de meio de acesso.

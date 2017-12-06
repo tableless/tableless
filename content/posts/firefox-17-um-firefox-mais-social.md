@@ -1,6 +1,6 @@
 ---
 title: 'Firefox 17: um firefox mais social'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-10-17
 excerpt: O Firefox vai ser um browser mais social.

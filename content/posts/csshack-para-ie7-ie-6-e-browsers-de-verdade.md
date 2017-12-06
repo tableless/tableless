@@ -1,6 +1,6 @@
 ---
 title: CSSHack para IE7, IE 6 e browsers de verdade
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-05-02
 url: /csshack-para-ie7-ie-6-e-browsers-de-verdade/

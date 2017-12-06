@@ -1,6 +1,6 @@
 ---
 title: Introdução ao CSS Animation
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-06-29
 excerpt: CSS Animation manipula características dos elementos, transformando-os modificando por meio de transições os valores das propriedades definidas dos elementos.

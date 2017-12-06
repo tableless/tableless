@@ -1,6 +1,6 @@
 ---
 title: Feed Icons Standards
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-12-26
 url: /feed-icon/

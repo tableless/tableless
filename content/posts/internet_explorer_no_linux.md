@@ -1,6 +1,6 @@
 ---
 title: Internet Explorer no Linux
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-04-30
 url: /internet_explorer_no_linux/

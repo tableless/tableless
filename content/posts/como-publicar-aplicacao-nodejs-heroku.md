@@ -1,6 +1,6 @@
 ---
 title: Como publicar aplicação NodeJS no Heroku
-author: Igor Ribeiro Lima
+authors: Igor Ribeiro Lima
 type: post
 date: 2014-06-22
 excerpt: 'Neste artigo vou utilizar uma <a href="http://minhas-midias-sociais.herokuapp.com/" rel="noreferrer">aplicação <em>single page</em></a> para demonstrar passo a passo as etapas necessárias para publicar uma aplicação no <a href="https://www.heroku.com/" rel="noreferrer">Heroku</a>.'

@@ -1,6 +1,6 @@
 ---
 title: 'Anotações palestra: O futuro do JavaScript'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-05-20
 excerpt: Essa são as minhas anotações da palestra do Jaydson Gomes sobre as principais mudanças da próxima versão do Javascript.

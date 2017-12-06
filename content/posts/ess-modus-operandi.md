@@ -1,6 +1,6 @@
 ---
 title: WordPress Modus Operandi
-author: Mazetto
+authors: Mazetto
 type: post
 date: 2013-12-03
 excerpt: O WordPress tem sido utilizado por diferentes tipos de usuários e para diversas finalidades; a proposta mais recente é utilizá-lo como plataforma de aplicações. No entanto, muitos de seus usuários não exploram suas capacidades. Para estimular a compreensão do WordPress e ampliar seu uso para projetos diferenciados, temos aqui um estudo diferente.

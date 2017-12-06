@@ -1,6 +1,6 @@
 ---
 title: Iterators ES6
-author: Bruno Belarmino
+authors: Bruno Belarmino
 type: post
 date: 2015-03-20
 excerpt: Uma nova forma de interagir com collections no Javascript

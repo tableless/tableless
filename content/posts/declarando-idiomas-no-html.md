@@ -1,6 +1,6 @@
 ---
 title: Declarando idiomas no HTML
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-09
 excerpt: O conteúdo online pode ser acessado no mundo inteiro, não importa seu idioma. Para tanto o idioma deve ser declarado corretamente para que os meios de acesso entreguem o conteúdo da melhor forma possível.

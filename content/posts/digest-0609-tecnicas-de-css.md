@@ -1,6 +1,6 @@
 ---
 title: 'Digest 06/09: Técnicas de CSS'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-07-07
 url: /digest-0609-tecnicas-de-css/

@@ -1,6 +1,6 @@
 ---
 title: Aplicações comem conteúdo. Só os bem tratados.
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-05-22
 url: /aplicacoes-comem-conteudo/

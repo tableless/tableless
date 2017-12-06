@@ -1,6 +1,6 @@
 ---
 title: Como criar aplicações em tempo real usando Node.js e RethinkDB
-author: Jscrambler
+authors: Jscrambler
 type: post
 date: 2017-02-22
 titulo_personalizado:

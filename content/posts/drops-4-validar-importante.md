@@ -1,6 +1,6 @@
 ---
 title: Drops 4 – Validar é importante?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-03-25
 excerpt: Validar o HTML é importante? Para que serve o validador? O que ele não analisa?

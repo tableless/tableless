@@ -1,6 +1,6 @@
 ---
 title: Fluxo de execução assíncrono em JavaScript – Promises
-author: Jean Carlo Emer
+authors: Jean Carlo Emer
 type: post
 date: 2015-08-07
 excerpt: 'Este é o segundo artigo de uma série que trata de execução assíncrona no JavaScript. Neste vamos ver algumas limitações das callbacks e como as <em>promises</em> podem ser um recurso poderoso de programação.'

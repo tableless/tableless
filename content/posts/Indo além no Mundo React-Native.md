@@ -1,6 +1,6 @@
 ---
 title: Indo além no Mundo React-Native
-author: Jose Urbano Duarte Junior
+authors: Jose Urbano Duarte Junior
 type: post
 image: http://i.imgur.com/oudmGva.png
 date: 2017-05-24

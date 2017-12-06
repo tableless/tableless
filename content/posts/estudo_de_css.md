@@ -1,6 +1,6 @@
 ---
 title: Estudo de CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-07-22
 url: /estudo_de_css/

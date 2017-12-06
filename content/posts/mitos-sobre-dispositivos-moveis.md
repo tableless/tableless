@@ -1,6 +1,6 @@
 ---
 title: Mitos sobre dispositivos móveis
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2013-03-26
 excerpt: 'Tentar generalizar como as pessoas utilizam seus aparelhos móveis com base em conceitos de fundamentação duvidosa pode muitas vezes levar ao engano. E quem sai prejudicado é o próprio usuário. Conheça os principais mitos sobre o uso de dispositivos móveis. '

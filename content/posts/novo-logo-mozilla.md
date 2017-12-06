@@ -1,6 +1,6 @@
 ---
 title: Moz://a
-author: Diego Eis
+authors: Diego Eis
 type: post
 image: uploads/2017/01/featured-image-mozilla-logo.png
 date: 2017-01-19

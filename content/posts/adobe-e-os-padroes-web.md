@@ -1,6 +1,6 @@
 ---
 title: Adobe e os Padrões Web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-05-03
 excerpt: A Adobe e suas iniciativas para ajudar o desenvolvimento web.

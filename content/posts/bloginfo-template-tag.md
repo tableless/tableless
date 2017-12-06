@@ -1,6 +1,6 @@
 ---
 title: Bloginfo Template Tag
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-08-21
 url: /bloginfo-template-tag/

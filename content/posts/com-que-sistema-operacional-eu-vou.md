@@ -1,6 +1,6 @@
 ---
 title: Com que sistema operacional eu vou?
-author: João Paulo de Almeida
+authors: João Paulo de Almeida
 type: post
 date: 2012-09-17
 excerpt: Você ainda é daquelas pessoas que escolhem seu aparelho celular pela beleza? Ou então pela cor, forma e marca?

@@ -1,6 +1,6 @@
 ---
 title: Assegurando a qualidade do seu código JavaScript
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2012-07-09
 excerpt: Conheça ferramentas de análise de código que ajudam a manter a qualidade e o padrão de suas aplicações javascript.

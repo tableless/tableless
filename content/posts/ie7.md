@@ -1,6 +1,6 @@
 ---
 title: Ie7 is coming! Será?!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-02-15
 url: /ie7/

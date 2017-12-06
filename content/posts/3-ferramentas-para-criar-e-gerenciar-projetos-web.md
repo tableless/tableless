@@ -1,6 +1,6 @@
 ---
 title: 3 ferramentas para criar e gerenciar projetos web
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2013-02-05
 excerpt: 'Cada vez mais um número maior de ferramentas surge para auxiliar  e agilizar o desenvolvimento web. Conheça alguns frameworks que têm como objetivo controlar e gerenciar o uso de bibliotecas, pré-processadores e utilitários em sites e aplicações web.'

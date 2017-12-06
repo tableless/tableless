@@ -1,6 +1,6 @@
 ---
 title: Google, por quê?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-12-18
 url: /google-porque/

@@ -1,6 +1,6 @@
 ---
 title: Navegação em mobiles
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-08-31
 url: /navegacao-em-mobiles/

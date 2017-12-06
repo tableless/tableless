@@ -1,6 +1,6 @@
 ---
 title: O perfil T-Shaped e o dev full-stack
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-11-26
 url: /o-perfil-t-shaped-e-o-dev-full-stack/

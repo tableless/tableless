@@ -1,6 +1,6 @@
 ---
 title: Criando seu próprio servidor HTTP do zero (ou quase) – Parte III
-author: thiguetta
+authors: thiguetta
 type: post
 date: 2015-10-05
 url: /criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/

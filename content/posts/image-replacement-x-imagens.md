@@ -1,6 +1,6 @@
 ---
 title: Image-Replacement x Imagens
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-12-06
 url: /image-replacement-x-imagens/

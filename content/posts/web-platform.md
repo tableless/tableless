@@ -1,6 +1,6 @@
 ---
 title: Web Platform
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-10-09
 excerpt: Sua web documentada.

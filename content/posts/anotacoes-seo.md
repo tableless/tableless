@@ -1,6 +1,6 @@
 ---
 title: Anotações sobre SEO
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-09-08
 url: /anotacoes-seo/

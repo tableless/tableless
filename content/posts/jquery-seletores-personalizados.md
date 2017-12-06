@@ -1,6 +1,6 @@
 ---
 title: 'jQuery: seletores personalizados'
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2011-03-30
 excerpt: Como se não bastasse ser altamente personalizável através de plugins, o framework jQuery também é bastante flexível com seus seletores. Além de poder localizar objetos e elementos por ID, classe, nome do elemento, expressões e atributos também é possível criar o seu próprio seletor.

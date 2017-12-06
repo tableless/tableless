@@ -1,6 +1,6 @@
 ---
 title: WAI-ARIA – Estendendo o significado das interações
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-11-18
 excerpt: Saiba como você pode aumentar a acessibilidade da sua página de um jeito fácil com WAI-ARIA.

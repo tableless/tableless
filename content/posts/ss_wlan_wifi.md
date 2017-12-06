@@ -1,6 +1,6 @@
 ---
 title: Wireless? WLAN? Wi-Fi?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-08-31
 url: /wireless_wlan_wifi/

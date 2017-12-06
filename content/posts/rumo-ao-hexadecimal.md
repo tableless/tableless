@@ -1,6 +1,6 @@
 ---
 title: Rumo ao hexa(decimal)
-author: Guilherme Buchalla
+authors: Guilherme Buchalla
 type: post
 date: 2015-06-22
 url: /rumo-ao-hexadecimal/

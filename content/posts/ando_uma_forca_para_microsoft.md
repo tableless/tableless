@@ -1,6 +1,6 @@
 ---
 title: 'Rapidinhas: WASP dando uma força para Microsoft'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-07-05
 url: /wasp_dando_uma_forca_para_microsoft/

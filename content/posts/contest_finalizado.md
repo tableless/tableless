@@ -1,6 +1,6 @@
 ---
 title: Contest – Finalizado – Meu Parecer
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-20
 url: /contest_finalizado/

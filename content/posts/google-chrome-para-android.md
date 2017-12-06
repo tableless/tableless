@@ -1,6 +1,6 @@
 ---
 title: Google Chrome para Android
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-02-08
 excerpt: Versão do browser Chrome para Android.

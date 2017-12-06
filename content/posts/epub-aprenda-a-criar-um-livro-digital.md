@@ -1,6 +1,6 @@
 ---
 title: 'ePub: Aprenda a criar um livro digital'
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2012-02-01
 excerpt: |

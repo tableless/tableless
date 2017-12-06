@@ -1,6 +1,6 @@
 ---
 title: Download.com Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-07-21
 url: /downloadcom_tableless/

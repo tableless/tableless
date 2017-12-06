@@ -1,6 +1,6 @@
 ---
 title: Construindo Sites com Padrões WEB
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-06-24
 url: /construindo_sites_com_padroes/

@@ -1,6 +1,6 @@
 ---
 title: Para Iniciantes
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-05-15
 excerpt: Informações para iniciantes no Tableless.

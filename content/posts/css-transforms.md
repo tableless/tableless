@@ -1,6 +1,6 @@
 ---
 title: CSS Transforms
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-01-10
 excerpt: '"CSS 2D Transforms allow elements rendered by CSS to be trans- formed in two-dimensional space." É aqui que a graça do CSS 3 começa.'

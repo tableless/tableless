@@ -1,6 +1,6 @@
 ---
 title: 'Design responsivo: foco no ser humano'
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2013-03-21
 excerpt: Gostaria de fazer uma rápida analogia sobre o desenvolvimento do design responsivo de hoje com os softwares de vinte anos atrás.

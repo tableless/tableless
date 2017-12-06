@@ -1,6 +1,6 @@
 ---
 title: 'ELPI: Problema 4'
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2008-05-04
 url: /elpi-problema-4/

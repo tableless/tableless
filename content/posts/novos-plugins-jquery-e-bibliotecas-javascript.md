@@ -1,6 +1,6 @@
 ---
 title: Novos plugins jQuery e bibliotecas JavaScript
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2012-06-12
 excerpt: Animações, slides, fotos, templates e compartilhamento estão nessa lista de plugins jQuery e bibliotecas JavaScript que foram destaque nesta primeira metade de 2012.

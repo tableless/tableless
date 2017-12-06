@@ -1,6 +1,6 @@
 ---
 title: Requisições AJAX no WordPress
-author: Guilherme Brero
+authors: Guilherme Brero
 type: post
 date: 2016-05-20
 url: /requisicoes-ajax-no-wordpress/

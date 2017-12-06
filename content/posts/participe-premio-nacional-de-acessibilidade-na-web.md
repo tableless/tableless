@@ -1,6 +1,6 @@
 ---
 title: Participe do Prêmio Nacional de Acessibilidade na Web 2014
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2014-09-02
 excerpt: Se você desenvolve websites acessíveis, essa é a sua chance de ter o trabalho reconhecido no Prêmio Todos@Web

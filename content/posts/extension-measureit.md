@@ -1,6 +1,6 @@
 ---
 title: MeasureIt
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-23
 url: /extension-measureit/

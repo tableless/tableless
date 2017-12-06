@@ -1,6 +1,6 @@
 ---
 title: 'Não se esqueça: você é um comunicador'
-author: Eduardo Fernandes
+authors: Eduardo Fernandes
 type: post
 date: 2014-07-14
 excerpt: Comunicação é o objetivo final do nosso trabalho. E o meio pelo qual ele se realiza

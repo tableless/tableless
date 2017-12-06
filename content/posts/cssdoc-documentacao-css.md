@@ -1,6 +1,6 @@
 ---
 title: CSSDoc – padrão para documentação de folhas de estilo
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2011-01-02
 excerpt: Como padronizar seu código CSS com eficiência com CSSDoc.

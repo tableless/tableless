@@ -1,6 +1,6 @@
 ---
 title: Tradução dos artigos do A List Apart
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-09
 url: /traducao-dos-artigos-do-a-list-apart/

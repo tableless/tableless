@@ -1,6 +1,6 @@
 ---
 title: Flexbox – Organizando seu layout
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-10-01
 excerpt: Entenda como a recomendação de Flexbox poderá nos ajudar a organizar a estrutura de sites e aplicações

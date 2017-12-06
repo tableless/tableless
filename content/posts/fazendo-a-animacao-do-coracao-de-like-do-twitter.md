@@ -1,6 +1,6 @@
 ---
 title: Fazendo a animação do coração de like do Twitter
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-01-12
 excerpt: Fazendo a animação do coraçãozinho do Twitter.

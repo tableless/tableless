@@ -1,6 +1,6 @@
 ---
 title: Firefox Quantum
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2017-11-13
 excerpt: Novo Firefox, duas vezes mais rápido para renderizar páginas, consumindo 30% menos memória que o Chrome.

@@ -1,6 +1,6 @@
 ---
 title: Redesign do Google Fonts
-author: tableless
+authors: tableless
 type: post
 date: 2016-06-24
 url: /reimaginando-o-google-fontes/

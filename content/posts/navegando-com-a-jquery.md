@@ -1,6 +1,6 @@
 ---
 title: Navegando com a jQuery
-author: Michael Granados
+authors: Michael Granados
 type: post
 date: 2008-09-11
 categories:

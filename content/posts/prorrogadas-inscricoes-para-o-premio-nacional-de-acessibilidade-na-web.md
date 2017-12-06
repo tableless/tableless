@@ -1,6 +1,6 @@
 ---
 title: Prorrogadas as inscrições para o Prêmio Nacional de Acessibilidade na Web
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2013-09-30
 url: /prorrogadas-inscricoes-para-o-premio-nacional-de-acessibilidade-na-web/

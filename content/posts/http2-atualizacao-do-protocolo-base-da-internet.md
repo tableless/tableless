@@ -1,6 +1,6 @@
 ---
 title: HTTP/2 – Atualização do protocolo base da internet
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-02-18
 excerpt: O protocolo HTTP vai receber oficialmente uma grande atualização em breve. Saiba o que mudou.

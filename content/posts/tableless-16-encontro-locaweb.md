@@ -1,6 +1,6 @@
 ---
 title: O Tableless escolheu os palestrantes do 16º Encontro Locaweb
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-02-17
 excerpt: O Tableless fará a curadoria da sala sobre desenvolvimento da Locaweb. Apareça!

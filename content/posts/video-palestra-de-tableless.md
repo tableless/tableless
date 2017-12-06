@@ -1,6 +1,6 @@
 ---
 title: 'Vídeo: palestra de Tableless'
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-10-24
 url: /video-palestra-de-tableless/

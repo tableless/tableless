@@ -1,6 +1,6 @@
 ---
 title: Aprendendo JavaScript online
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-06-19
 excerpt: Sites para aprender JavaScript de maneira fácil e interativa.

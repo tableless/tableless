@@ -1,6 +1,6 @@
 ---
 title: Revista Front-end Magazine
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-09-15
 excerpt: Conheça uma revista especializada em desenvolvimento front-end.

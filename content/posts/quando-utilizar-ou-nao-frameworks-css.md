@@ -1,6 +1,6 @@
 ---
 title: Quando utilizar (ou não) frameworks CSS
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2011-09-01
 excerpt: A utilização de frameworks HTML e/ou CSS ainda é um assunto que divide a opinião dos desenvolvedores.

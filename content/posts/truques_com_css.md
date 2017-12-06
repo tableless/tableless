@@ -1,6 +1,6 @@
 ---
 title: Desculpas
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-03-02
 url: /truques_com_css/

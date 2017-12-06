@@ -1,6 +1,6 @@
 ---
 title: Quem precisa de versão mobile?
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-12-12
 url: /quem-precisa-de-versao-mobile/

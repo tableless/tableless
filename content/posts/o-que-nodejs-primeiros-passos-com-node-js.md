@@ -1,6 +1,6 @@
 ---
 title: O que é Node.js e saiba os primeiros passos
-author: Cosme Lopes
+authors: Cosme Lopes
 type: post
 date: 2014-07-28
 excerpt: Da instalação ao seu primeiro web server com JavaScript.

@@ -1,6 +1,6 @@
 ---
 title: Ah, os detalhes…
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-02-01
 url: /ah-os-detalhes/

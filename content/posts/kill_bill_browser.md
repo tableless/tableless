@@ -1,6 +1,6 @@
 ---
 title: Kill Bill´s Browser
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-11-11
 url: /kill_bill_browser/

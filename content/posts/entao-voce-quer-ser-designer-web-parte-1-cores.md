@@ -1,6 +1,6 @@
 ---
 title: Então você quer ser designer web? (Parte 1 – Cores)
-author: cristianoweb
+authors: cristianoweb
 type: post
 date: 2015-06-04
 excerpt: Nesta primeira parte, conheça algumas ferramentas para trabalhar com paletas de cores e tornar-se um designer web.

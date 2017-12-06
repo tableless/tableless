@@ -1,6 +1,6 @@
 ---
 title: O dilema da sintaxe no HTML5
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2012-01-11
 excerpt: Fechar ou não as tags? Colocar os valores de atributo entre aspas? Estas escolhas nem sempre podem ser uma questão de gosto.

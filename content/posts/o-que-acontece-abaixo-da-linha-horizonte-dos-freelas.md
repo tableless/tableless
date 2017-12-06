@@ -1,6 +1,6 @@
 ---
 title: O que acontece abaixo da linha do horizonte dos “freelas”
-author: Carlos Renato Gaddini
+authors: Carlos Renato Gaddini
 type: post
 date: 2014-05-16
 excerpt: O mercado web no Brasil vai bem,  mas não para todos. O profissionais autônomos conhecidos como free-lancers ou popularmente “freelas” atendem um nicho de mercado que é ignorado pelas agências de publicidade mas enfrentam cada coisa…

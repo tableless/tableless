@@ -1,6 +1,6 @@
 ---
 title: Adobe Edge
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-09-26
 excerpt: 'Adobe Edge - uma suíte que reúne diversas aplicações para ajudar os desenvolvedores web.'

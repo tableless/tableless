@@ -1,6 +1,6 @@
 ---
 title: How Firefox Works
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-03-04
 url: /how_firefox_works/

@@ -1,6 +1,6 @@
 ---
 title: 'Digest 04/09: Javascript, JQuery e Ajax'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-04-29
 excerpt: Links sobre Javascript, JQuery e Ajax para estudar e ter como referência.

@@ -1,6 +1,6 @@
 ---
 title: Doctype e Browsers Modes
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-03-07
 url: /doctype/

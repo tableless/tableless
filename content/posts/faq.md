@@ -1,6 +1,6 @@
 ---
 title: FAQ sobre Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-08
 excerpt: Entenda o que são Web Standards, o que é Tableless, quais as vantagens, relação com acessibilidade e tudo mais.

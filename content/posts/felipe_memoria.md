@@ -1,6 +1,6 @@
 ---
 title: Felipe Memória
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-08-25
 url: /felipe_memoria/

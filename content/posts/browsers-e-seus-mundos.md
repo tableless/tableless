@@ -1,6 +1,6 @@
 ---
 title: Browsers e seus mundos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-11-02
 url: /browsers-e-seus-mundos/

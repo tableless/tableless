@@ -1,6 +1,6 @@
 ---
 title: 'BlogBits Podcast #3 – Convergência Digital'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-03-10
 url: /blogbits-podcast-3-convergencia-digital/

@@ -1,6 +1,6 @@
 ---
 title: Fluxo de execução assíncrono em JavaScript – Generators e Async Functions
-author: Jean Carlo Emer
+authors: Jean Carlo Emer
 type: post
 date: 2016-05-23
 excerpt: Tardou mas não falhou e veio como presente de ano novo. Este é o terceiro artigo de uma série que trata sobre execução assíncrona no JavaScript. Veremos a seguir como funcionam Generators e qual a sua aplicação em conjunto com Promises. Tratando um pouco do que vem por ai, faremos uma análise sobre a especificação de Async Functions.

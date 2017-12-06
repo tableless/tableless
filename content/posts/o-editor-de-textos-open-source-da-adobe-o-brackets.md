@@ -1,6 +1,6 @@
 ---
 title: O editor de textos Open Source da Adobe, o Brackets!
-author: Felipe Correia
+authors: Felipe Correia
 type: post
 date: 2015-01-17
 excerpt: O Brackets é um editor de textos muito novo, e é um daqueles projetos que vem para inovar e mudar a forma como as pessoas agem, olham, e fazem determinadas coisas, no nosso caso, o Brackets veio para dar uma acelerada no nosso desenvolvimento Front-end.

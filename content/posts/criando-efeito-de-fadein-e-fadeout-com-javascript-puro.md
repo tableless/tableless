@@ -1,6 +1,6 @@
 ---
 title: Criando efeito de fadeIn e fadeOut com javascript puro
-author: Clovis Neto
+authors: Clovis Neto
 type: post
 date: 2014-01-29
 excerpt: Veja como criar um efeito semelhante ao fadeIn e fadeOut da famosa biblioteca Jquery apenas com javascript

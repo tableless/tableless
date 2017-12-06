@@ -1,6 +1,6 @@
 ---
 title: Metatags – Breve introdução de uso e teoria
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-01-11
 excerpt: Metatags servem dar informação sobre seu site para sistemas de buscas ou outras aplicações. Metadados são estruturas de informações que descrevem características de uma fonte de informação.

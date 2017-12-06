@@ -1,6 +1,6 @@
 ---
 title: Por que eu não gosto do nome startup
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-09-10
 excerpt: Um texto informal do por que eu não gosto do nome startup.

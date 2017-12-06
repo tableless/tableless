@@ -1,6 +1,6 @@
 ---
 title: ReactConf Brasil 2017
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2017-10-01
 excerpt: A conferência Brasileira sobre ReactJS.

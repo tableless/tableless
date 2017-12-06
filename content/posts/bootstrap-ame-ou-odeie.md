@@ -1,6 +1,6 @@
 ---
 title: 'Web.br 2014 – Bootstrap: Ame ou Odeie'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-09-26
 excerpt: A visão de uma back-end sobre a utilização do Bootstrap.

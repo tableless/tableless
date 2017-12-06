@@ -1,6 +1,6 @@
 ---
 title: Como testar design responsivo
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2013-10-16
 excerpt: 'Conheça algumas ferramentas essenciais para testar o seu layout, aprenda a sincronizar dispositivos móveis, organize sua própria biblioteca de testes e saiba o que fazer caso você não possua um smartphone. '

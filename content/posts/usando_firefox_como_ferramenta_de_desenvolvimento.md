@@ -1,6 +1,6 @@
 ---
 title: Usando o Firefox como ferramenta de desenvolvimento
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-06
 url: /usando_firefox_como_ferramenta_de_desenvolvimento/

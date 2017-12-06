@@ -1,6 +1,6 @@
 ---
 title: Java SE 7 Programmer I (1Z0-803) – Parte I
-author: Dionatan Marques
+authors: Dionatan Marques
 type: post
 date: 2016-01-27
 url: /java-se-7-programmer-i-1z0-803-parte-i/

@@ -1,6 +1,6 @@
 ---
 title: 'Media queries simples com rupture'
-author: Guilherme Bayer
+authors: Guilherme Bayer
 type: post
 image: http://i.imgur.com/Wl1JzuY.png
 date: 2017-07-07

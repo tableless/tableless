@@ -1,6 +1,6 @@
 ---
 title: 'Lições sobre semântica #1'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-11-08
 url: /licoes_sobre_semantica_1/

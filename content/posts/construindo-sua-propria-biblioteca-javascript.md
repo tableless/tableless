@@ -1,6 +1,6 @@
 ---
 title: Construindo sua própria biblioteca javascript
-author: Clovis Neto
+authors: Clovis Neto
 type: post
 date: 2014-07-07
 excerpt: E se um dia você criasse sua própria biblioteca JavaScript, no estilo da jQuery?

@@ -1,6 +1,6 @@
 ---
 title: Tutorial Ionic – Meu primeiro app
-author: grillorafael
+authors: grillorafael
 type: post
 date: 2015-03-05
 excerpt: Tutorial de como criar seu primeiro app utilizando o Ionic Framework através de uma app meteorológica geolocalizada para Android e iOS

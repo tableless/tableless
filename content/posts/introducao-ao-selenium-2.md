@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Selenium 2
-author: Igor Ribeiro Lima
+authors: Igor Ribeiro Lima
 type: post
 date: 2013-12-18
 excerpt: Entenda mais sobre Selenium e entenda como ele pode ajudar em aplicações web.

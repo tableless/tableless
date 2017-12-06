@@ -1,6 +1,6 @@
 ---
 title: Interface Guide para Apps Mobiles
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-05-26
 excerpt: Guias de interface para desenvolvimento mobile.

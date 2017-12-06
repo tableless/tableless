@@ -1,6 +1,6 @@
 ---
 title: Assinatura de newsletter com PHP integrada à API do Mailchimp
-author: Gustavo Straube
+authors: Gustavo Straube
 type: post
 date: 2015-02-10
 excerpt: O Mailchimp é um serviço bem bacana para gerenciar newsletters — e tem uma versão gratuita que atende muito bem quem tem até 2 mil assinantes. Vou dar uma ideia, através de um exemplo básico, do que é possível fazer com a API do serviço, usando PHP.

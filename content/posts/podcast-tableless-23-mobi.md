@@ -1,6 +1,6 @@
 ---
 title: 'Podcast Tableless #23 – .mobi'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-09-28
 url: /podcast-tableless-23-mobi/

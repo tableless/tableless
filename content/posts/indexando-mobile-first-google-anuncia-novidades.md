@@ -1,6 +1,6 @@
 ---
 title: Indexando mobile-first – Google anuncia novidades
-author: Rodrigo Fávaro
+authors: Rodrigo Fávaro
 type: post
 date: 2016-11-30
 url: /indexando-mobile-first-google-anuncia-novidades/

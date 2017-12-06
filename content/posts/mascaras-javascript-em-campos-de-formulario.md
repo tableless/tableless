@@ -1,6 +1,6 @@
 ---
 title: Máscaras Javascript em Campos de Formulário
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-01-19
 url: /mascaras-javascript-em-campos-de-formulario/

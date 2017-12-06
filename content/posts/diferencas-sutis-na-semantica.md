@@ -1,6 +1,6 @@
 ---
 title: Diferenças sutis na semântica
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-05-15
 url: /diferencas-sutis-na-semantica/

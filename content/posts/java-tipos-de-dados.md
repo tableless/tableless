@@ -1,6 +1,6 @@
 ---
 title: JAVA – Tipos de dados
-author: Fellipe Filgueiras
+authors: Fellipe Filgueiras
 type: post
 date: 2015-05-11
 url: /java-tipos-de-dados/

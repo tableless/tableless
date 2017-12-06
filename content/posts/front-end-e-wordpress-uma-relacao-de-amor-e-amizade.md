@@ -1,6 +1,6 @@
 ---
 title: 'Front-end e WordPress: uma relação de amor e amizade'
-author: Italo Góis
+authors: Italo Góis
 type: post
 date: 2015-05-28
 excerpt: Conheça os tópicos mais comuns sobre a sintaxe de funcionamento do Wordpress, o CMS que ajuda desenvolvedores front-end a criarem sites mesmo sem o conhecimento de linguagens de programação.

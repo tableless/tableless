@@ -1,6 +1,6 @@
 ---
 title: O Tableless tem RSS viu?!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-08-06
 url: /rss_do_tableless/

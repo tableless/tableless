@@ -1,6 +1,6 @@
 ---
 title: 'Bonito de se ver #23 – Brasil'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-12-19
 url: /bonito-de-se-ver-23-brasil/

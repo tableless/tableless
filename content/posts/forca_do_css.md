@@ -1,6 +1,6 @@
 ---
 title: A força do CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-07-09
 url: /forca_do_css/

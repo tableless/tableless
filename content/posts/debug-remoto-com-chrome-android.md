@@ -1,6 +1,6 @@
 ---
 title: Debug Remoto com Chrome no Android
-author: George Moura
+authors: George Moura
 type: post
 date: 2014-02-22
 url: /debug-remoto-com-chrome-android/

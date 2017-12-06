@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Electron
-author: Henrique Sosa
+authors: Henrique Sosa
 type: post
 date: 2015-11-09
 excerpt: Desenvolvedor web também pode construir aplicações desktop. Com o Electron, você usa HTML, CSS e JavaScript.

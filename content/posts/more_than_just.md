@@ -1,6 +1,6 @@
 ---
 title: Web Standards – More than Just
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-23
 url: /more_than_just/

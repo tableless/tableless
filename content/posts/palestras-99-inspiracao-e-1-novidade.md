@@ -1,6 +1,6 @@
 ---
 title: Palestras = 99% inspiração e 1% novidade
-author: Tiago Dória
+authors: Tiago Dória
 type: post
 date: 2015-10-28
 url: /palestras-99-inspiracao-e-1-novidade/

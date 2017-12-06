@@ -1,6 +1,6 @@
 ---
 title: 'Eyesmiles: A missão'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-04-07
 url: /eyesmiles-a-missao/

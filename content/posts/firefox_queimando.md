@@ -1,6 +1,6 @@
 ---
 title: 1.000.000 de Firefox queimando tudo!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-19
 url: /firefox_queimando/

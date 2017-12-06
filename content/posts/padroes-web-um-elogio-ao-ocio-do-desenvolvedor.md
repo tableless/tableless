@@ -1,6 +1,6 @@
 ---
 title: Padrões Web – Um elogio ao ócio do desenvolvedor
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-10-02
 url: /padroes-web-um-elogio-ao-ocio-do-desenvolvedor/

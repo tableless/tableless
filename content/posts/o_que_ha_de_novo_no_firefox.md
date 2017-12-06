@@ -1,6 +1,6 @@
 ---
 title: O que há de novo no Firefox?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-08
 url: /o_que_ha_de_novo_no_firefox/

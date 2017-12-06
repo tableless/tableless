@@ -1,6 +1,6 @@
 ---
 title: Customizando links
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-02-18
 excerpt: Customizar links do site pode ser algo rápido e útil para o seu visitante. Fazemos essa customização com a ajuda dos seletores complexos, onde conseguimos filtrar e selecionar links específicos de acordo com o valor do HREF.

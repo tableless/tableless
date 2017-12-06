@@ -1,6 +1,6 @@
 ---
 title: Congratulations!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-10-16
 url: /congratulations/

@@ -1,6 +1,6 @@
 ---
 title: 'Pré-processadores: usar ou não usar?'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-07-22
 excerpt: Meus dois centavos sobre a utilização de pré processadores de CSS.

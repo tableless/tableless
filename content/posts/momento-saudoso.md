@@ -1,6 +1,6 @@
 ---
 title: Momento saudoso
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-04-12
 url: /momento-saudoso/

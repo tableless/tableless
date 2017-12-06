@@ -1,6 +1,6 @@
 ---
 title: Quer emprego ou quer anunciar um emprego?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-11-24
 url: /quer-emprego-ou-quer-anunciar-um-emprego/

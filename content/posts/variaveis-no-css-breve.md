@@ -1,6 +1,6 @@
 ---
 title: Variáveis no CSS – Breve
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-06-18
 excerpt: Variáveis no CSS, em breve, perto de você.

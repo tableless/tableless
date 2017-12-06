@@ -1,6 +1,6 @@
 ---
 title: Feed Validation Service pela W3C
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-11-21
 url: /feed_validation_service/

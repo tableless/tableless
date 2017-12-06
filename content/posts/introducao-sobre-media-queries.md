@@ -1,6 +1,6 @@
 ---
 title: Introdução sobre Media Queries
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-07-06
 excerpt: Media Queries é a utilização de Media Types com uma ou mais expressões envolvendo características de uma media para definir formatações para diversos dispositivos. O browser ou a aplicação lê as expressões definidas na query, caso o dispositivo se encaixe nestas requisições, o CSS será aplicado.

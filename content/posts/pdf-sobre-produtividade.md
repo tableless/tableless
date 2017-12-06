@@ -1,6 +1,6 @@
 ---
 title: PDF sobre Produtividade
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2008-03-03
 url: /pdf-sobre-produtividade/

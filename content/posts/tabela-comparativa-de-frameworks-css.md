@@ -1,6 +1,6 @@
 ---
 title: Tabela comparativa de Frameworks CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-08-19
 excerpt: Uma lista com os melhores frameworks de CSS

@@ -1,6 +1,6 @@
 ---
 title: Cut the Rope
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-03-28
 excerpt: Cut the Rope, o jogo de iOS que virou case em HTML5.

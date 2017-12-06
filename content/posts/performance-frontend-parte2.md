@@ -1,6 +1,6 @@
 ---
 title: Performance front-end – Parte 2
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-01-28
 excerpt: 'O front-end é um dos grandes responsáveis pela performance de um website ou serviço online. '

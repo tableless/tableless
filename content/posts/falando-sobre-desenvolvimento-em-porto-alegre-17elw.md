@@ -1,6 +1,6 @@
 ---
 title: 'Evento sobre desenvolvimento em Porto Alegre – #17elw'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-04-22
 excerpt: Ganhe um ingresso para um evento em Porto Alegre.

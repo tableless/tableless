@@ -1,6 +1,6 @@
 ---
 title: Pixeladas Aleatórias
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-06-24
 url: /pixeladas_aleatorias/

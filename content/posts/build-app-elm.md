@@ -1,6 +1,6 @@
 ---
 title: Compilando sua aplicação Elm
-author: Breno Panzolini
+authors: Breno Panzolini
 type: post
 date: 2017-10-22
 excerpt: Como fazer a compilação de uma aplicação escrita Elm para JavaScript e assim poder utilizar no browser.

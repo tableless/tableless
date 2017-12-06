@@ -1,6 +1,6 @@
 ---
 title: 'E-mail marketing: descubra os 4 piores erros'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-12-26
 url: /e-mail-marketing-descubra-os-4-piores-erros/

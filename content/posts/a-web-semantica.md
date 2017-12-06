@@ -1,6 +1,6 @@
 ---
 title: A Web Semântica
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-11-02
 excerpt: Entenda o que significa Web Semântica.

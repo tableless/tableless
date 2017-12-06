@@ -1,6 +1,6 @@
 ---
 title: Um pensamento sobre design para web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-19
 excerpt: Um pensamento sobre design impresso, desenvolvimento e design para web.

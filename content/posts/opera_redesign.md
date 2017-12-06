@@ -1,6 +1,6 @@
 ---
 title: Redesign no site do Opera
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-10-26
 url: /opera_redesign/

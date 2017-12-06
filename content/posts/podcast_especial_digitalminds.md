@@ -1,6 +1,6 @@
 ---
 title: Podcast Especial Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-07-20
 url: /podcast_especial_digitalminds/

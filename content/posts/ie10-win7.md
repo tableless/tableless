@@ -1,6 +1,6 @@
 ---
 title: IE10 no Windows 7
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-10-22
 excerpt: IE10 em Novembro para Windows 7.

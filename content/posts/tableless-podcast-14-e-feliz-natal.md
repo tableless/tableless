@@ -1,6 +1,6 @@
 ---
 title: 'Tableless Podcast #14 e Feliz Natal'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-12-23
 url: /tableless-podcast-14-e-feliz-natal/

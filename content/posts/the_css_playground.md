@@ -1,6 +1,6 @@
 ---
 title: The Css Playground
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-04-06
 url: /the_css_playground/

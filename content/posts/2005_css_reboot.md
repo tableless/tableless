@@ -1,6 +1,6 @@
 ---
 title: 2005 CSS Reboot
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-02
 url: /2005_css_reboot/

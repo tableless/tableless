@@ -1,6 +1,6 @@
 ---
 title: Comentários Condicionais – Não use
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-12-18
 url: /comentarios-condicionais-nao-use/

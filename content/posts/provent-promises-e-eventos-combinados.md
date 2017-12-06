@@ -1,6 +1,6 @@
 ---
 title: Provent – Promises e Eventos… combinados.
-author: Mauricio Soares
+authors: Mauricio Soares
 type: post
 date: 2015-10-07
 url: /provent-promises-e-eventos-combinados/

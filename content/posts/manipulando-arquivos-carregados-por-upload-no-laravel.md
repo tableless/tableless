@@ -1,6 +1,6 @@
 ---
 title: Manipulando arquivos carregados por upload no Laravel
-author: Gustavo Straube
+authors: Gustavo Straube
 image: uploads/2017/03/ivars-krutainis-153526_.jpg
 type: post
 date: 2017-04-07

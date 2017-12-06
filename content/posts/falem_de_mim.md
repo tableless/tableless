@@ -1,6 +1,6 @@
 ---
 title: Falem Bem ou Falem Mal…
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-04-10
 url: /falem_de_mim/

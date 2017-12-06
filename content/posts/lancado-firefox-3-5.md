@@ -1,6 +1,6 @@
 ---
 title: Lançado Firefox 3.5
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-07-01
 excerpt: O Firefox 3.5 foi lançado e está com uma série de modificações, principalmente atualizações para facilitar o desenvolvimento com HTML e CSS. Baixe, teste e compartilhe!

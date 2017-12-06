@@ -1,6 +1,6 @@
 ---
 title: Porque você deve sua vida a Dave Winer
-author: Eduardo Fernandes
+authors: Eduardo Fernandes
 type: post
 date: 2014-05-21
 excerpt: O developer norte-americano de 59 anos criou o RSS, o primeiro sistema de blogs, entre outras tecnologias. E está de olho no futuro da publicação digital

@@ -1,6 +1,6 @@
 ---
 title: Um bom 2007
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-01-01
 url: /um-bom-2007/

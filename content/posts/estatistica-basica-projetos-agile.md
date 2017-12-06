@@ -7,7 +7,7 @@ categories:
 excerpt: "Como um pouco de estatística básica pode nos ajudar a entender melhor as entregas de projetos web"
 image: http://imgh.us/pexels-photo-147408.jpeg
 type: "post"
-author: "Diego Eis"
+authors: "Diego Eis"
 ---
 
 Cada uma das metodologias de gestão de projetos tem suas próprias

@@ -1,6 +1,6 @@
 ---
 title: Responsabilidade de um dev client-side
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-11-10
 excerpt: Designer de web tem que saber codificar HTML/CSS/Javascript? Um desenvolvedor client-side tem que saber design?

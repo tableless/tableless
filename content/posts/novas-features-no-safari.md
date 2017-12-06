@@ -1,6 +1,6 @@
 ---
 title: Novas features no Safari
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-04-01
 excerpt: O que mudou no Safari no iOS 9.3 e o El Capitan 10.11.

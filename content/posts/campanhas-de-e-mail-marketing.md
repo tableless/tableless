@@ -1,6 +1,6 @@
 ---
 title: Campanhas de E-mail Marketing
-author: Ederson Ribeiro
+authors: Ederson Ribeiro
 type: post
 date: 2015-03-13
 excerpt: Otimize suas Campanhas de E-mail Marketing e obtenha os resultados que você tanto deseja.

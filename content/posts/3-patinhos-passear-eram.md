@@ -1,6 +1,6 @@
 ---
 title: 3 patinhos foram passear. Por que? Quem eram eles?
-author: Bernard De Luna
+authors: Bernard De Luna
 type: post
 date: 2013-09-09
 excerpt: Usuários tomam decisões a todo momento, você precisa identificar os perfis de usuários, assim como seus objetivos e comportamentos antes de projetar sua interface, assim saberá criar um verdadeiro Design centrado no usuário.

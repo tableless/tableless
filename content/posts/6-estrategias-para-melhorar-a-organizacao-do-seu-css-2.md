@@ -1,6 +1,6 @@
 ---
 title: 6 estratégias para melhorar a organização do seu CSS
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2010-09-20
 excerpt: Algumas estratégias simples podem ser utilizadas para deixar o seu CSS mais organizado, consistente e de fácil manutenção.

@@ -1,6 +1,6 @@
 ---
 title: CSS on steroids
-author: Jean Carlo Emer
+authors: Jean Carlo Emer
 type: post
 date: 2013-11-12
 excerpt: E se pudéssemos escrever folhas de estilo de forma mais poderosa, melhorar nosso código? Vamos lá, vamos ver quais as reais vantagens de se utilizar um pré-processador.

@@ -1,6 +1,6 @@
 ---
 title: O que é autoridade do domínio ou Domain Authority?
-author: Douglas Faria
+authors: Douglas Faria
 type: post
 date: 2014-10-07
 excerpt: Entenda o que significa Domain Authority.

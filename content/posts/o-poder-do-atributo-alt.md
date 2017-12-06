@@ -1,6 +1,6 @@
 ---
 title: O poder do atributo “ALT”
-author: Leonardo Lima
+authors: Leonardo Lima
 type: post
 date: 2015-02-27
 excerpt: 'Técnicas que podem resolver vários problemas que desenvolvedores web enfrentam, caso não utilizem a atributo <strong>ALT</strong> corretamente.'

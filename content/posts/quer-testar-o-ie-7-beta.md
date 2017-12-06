@@ -1,6 +1,6 @@
 ---
 title: Quer testar o IE 7 beta?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-31
 url: /quer-testar-o-ie-7-beta/

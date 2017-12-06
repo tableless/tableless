@@ -1,6 +1,6 @@
 ---
 title: Analisando o código Stylus de um projeto
-author: helderburato
+authors: helderburato
 type: post
 date: 2016-11-18
 url: /iniciando-com-o-pre-processador-stylus/

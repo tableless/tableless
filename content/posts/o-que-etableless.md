@@ -1,6 +1,6 @@
 ---
 title: O que é Tableless?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-09
 url: /o-que-etableless/

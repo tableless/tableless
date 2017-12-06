@@ -1,6 +1,6 @@
 ---
 title: Anotações Palestra 16ELW – Zeno Rocha
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-04-22
 excerpt: Anotações da palestra do Zeno Rocha no evento 16 Encontro Locaweb

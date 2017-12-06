@@ -1,6 +1,6 @@
 ---
 title: Goodyear Brasil é Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-15
 url: /goodyear_tableless/

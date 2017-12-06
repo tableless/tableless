@@ -1,6 +1,6 @@
 ---
 title: 'O dev front-end – Podcast #1'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-05-06
 excerpt: Qual seria o perfil de um desenvolvedor front-end? O que ele deveria saber ou não?

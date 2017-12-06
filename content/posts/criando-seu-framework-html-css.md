@@ -1,6 +1,6 @@
 ---
 title: Criando seu próprio Framework HTML CSS
-author: Bernard De Luna
+authors: Bernard De Luna
 type: post
 date: 2013-01-07
 excerpt: 'Um Framework pode ser o responsável pelo sucesso da sua aplicação e lhe poupar milhares de dólares, assim como pode representar o gargalo do desenvolvimento do seu produto e levar o seu projeto ao fracasso. '

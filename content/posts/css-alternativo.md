@@ -1,6 +1,6 @@
 ---
 title: CSS alternativo
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-04-14
 url: /css-alternativo/

@@ -1,6 +1,6 @@
 ---
 title: 'Flat design: a nova tendência dos gradientes'
-author: Isaque Melo
+authors: Isaque Melo
 type: post
 date: 2015-06-12
 excerpt: Como utilizar gradientes em meio ao flat design nas suas composições web.

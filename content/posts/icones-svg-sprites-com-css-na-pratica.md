@@ -1,6 +1,6 @@
 ---
 title: Ícones – SVG Sprites com CSS na prática
-author: rogerio dias moreira
+authors: rogerio dias moreira
 type: post
 date: 2015-05-29
 excerpt: Criando um sprites usando ícones SVG.

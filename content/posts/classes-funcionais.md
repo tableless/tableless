@@ -1,6 +1,6 @@
 ---
 title: Classes Funcionais
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-11-28
 excerpt: Crie classes que podem ser reutilizadas de acordo com a sua necessidade.

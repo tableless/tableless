@@ -1,6 +1,6 @@
 ---
 title: Tabelas semânticas
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-10-27
 url: /tabelas-semanticas/

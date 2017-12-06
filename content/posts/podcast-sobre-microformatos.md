@@ -1,6 +1,6 @@
 ---
 title: Podcast sobre Microformatos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-06-07
 url: /podcast-sobre-microformatos/

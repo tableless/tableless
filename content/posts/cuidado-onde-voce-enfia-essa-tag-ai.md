@@ -1,6 +1,6 @@
 ---
 title: Cuidado onde você enfia essa tag aí!
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-10-27
 url: /cuidado-onde-voce-enfia-essa-tag-ai/

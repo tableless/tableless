@@ -1,6 +1,6 @@
 ---
 title: Bye Zen Coding, Bem-vindo Emmet!
-author: Zeno Rocha
+authors: Zeno Rocha
 type: post
 date: 2012-11-19
 excerpt: Conheça o plugin que vem para substituir o Zen Coding e prepare-se para se tornar um jedi!

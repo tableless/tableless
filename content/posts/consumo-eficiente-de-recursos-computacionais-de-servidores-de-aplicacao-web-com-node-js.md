@@ -1,6 +1,6 @@
 ---
 title: Consumo eficiente de recursos computacionais de servidores de aplicação web com Node.js
-author: Jamerson Bernardo
+authors: Jamerson Bernardo
 type: post
 date: 2016-04-28
 excerpt: 'Este  artigo  é  o  resultado  de  uma  análise  da  plataforma  Node.js, especificamente quando submetida a um alto número de acessos simultâneos, comparando os números dos indicadores de serviço e eficiência obtidos em testes de performance.'

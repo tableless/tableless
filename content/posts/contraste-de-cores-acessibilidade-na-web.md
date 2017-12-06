@@ -1,6 +1,6 @@
 ---
 title: Contraste de cores – Acessibilidade na web
-author: Orivelton Cesar
+authors: Orivelton Cesar
 type: post
 date: 2017-02-01
 url: /contraste-de-cores-acessibilidade-na-web/

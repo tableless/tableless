@@ -1,6 +1,6 @@
 ---
 title: Adicionando Post Thumbnail
-author: Paulo Rodrigues
+authors: Paulo Rodrigues
 type: post
 date: 2011-01-17
 excerpt: O WordPress depois de sua versão 2.9 disponibilizou uma funcionalidade de Post Thumbnails. Essa funcionalidade é uma característica do tema que é uma miniatura da imagem de determinado post, pode ser usado em Páginas, Posts ou até Custom Post Types.

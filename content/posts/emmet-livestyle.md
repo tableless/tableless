@@ -1,6 +1,6 @@
 ---
 title: Emmet LiveStyle
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-08-06
 excerpt: Uma nova maneira de editar CSS.

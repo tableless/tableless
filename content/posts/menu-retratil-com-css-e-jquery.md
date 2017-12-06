@@ -1,6 +1,6 @@
 ---
 title: Menu Retrátil com CSS e jQuery
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2013-08-12
 excerpt: Navegação para design responsivo sem complicações em quatro sabores diferentes.

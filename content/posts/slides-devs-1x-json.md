@@ -1,6 +1,6 @@
 ---
 title: 'Slides para devs #11 – JSON'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-10-03
 excerpt: Alguns slides sobre JSON e Javascript.

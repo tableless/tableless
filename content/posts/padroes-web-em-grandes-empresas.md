@@ -1,6 +1,6 @@
 ---
 title: Padrões Web em grandes empresas
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-08-10
 url: /padroes-web-em-grandes-empresas/

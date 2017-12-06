@@ -1,6 +1,6 @@
 ---
 title: Webstandards bem explicadinhos
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-07-22
 url: /web_standards_explicadinhos/

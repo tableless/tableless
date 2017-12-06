@@ -1,6 +1,6 @@
 ---
 title: 'React Native: Construa aplicações móveis nativas com JavaScript'
-author: Carlos Cabral
+authors: Carlos Cabral
 type: post
 date: 2016-04-05
 excerpt: |

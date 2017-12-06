@@ -1,6 +1,6 @@
 ---
 title: Abertas as inscrições para a 2ª edição do Prêmio Nacional de Acessibilidade na Web
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2013-08-05
 url: /abertas-as-inscricoes-para-a-2a-edicao-do-premio-nacional-de-acessibilidade-na-web/

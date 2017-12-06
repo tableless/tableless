@@ -1,6 +1,6 @@
 ---
 title: Mostrar posts recentes no WordPress
-author: Pedro Rogério
+authors: Pedro Rogério
 type: post
 date: 2008-09-23
 url: /mostrar-posts-recentes-no-wordpress/

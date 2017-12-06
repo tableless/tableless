@@ -1,6 +1,6 @@
 ---
 title: Sobrevivendo na selva da Internet
-author: João Paulo de Almeida
+authors: João Paulo de Almeida
 type: post
 date: 2012-09-17
 excerpt: Sites e mais sites sendo lançados a cada segundo, busca desenfreada para alcançar o topo das redes de pesquisa. Como controlar quem entra e saí de seu site? Ficar de olho apenas no Analytics ajuda?

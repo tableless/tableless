@@ -1,6 +1,6 @@
 ---
 title: Anotações da palestra do Luli Radfahrer no 15ELW
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-07-05
 excerpt: Pequenas anotações sobre a palestra do Luli.

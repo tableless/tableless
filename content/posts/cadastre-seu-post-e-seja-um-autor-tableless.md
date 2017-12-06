@@ -1,6 +1,6 @@
 ---
 title: Cadastre seu post e seja um autor do Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-02-13
 excerpt: Seja um autor do Tableless. Cadastre-se no nosso Wordpress e compartilhe seus artigos.

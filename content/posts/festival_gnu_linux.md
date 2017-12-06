@@ -1,6 +1,6 @@
 ---
 title: I Festival GNU/Linux de Salvador
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-07-26
 url: /festival_gnu_linux/

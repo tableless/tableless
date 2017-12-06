@@ -1,6 +1,6 @@
 ---
 title: jQuery é bom para designers
-author: Michael Granados
+authors: Michael Granados
 type: post
 date: 2008-08-05
 url: /jquery-e-bom-para-designers/

@@ -1,6 +1,6 @@
 ---
 title: Tamanho da tela e tamanho da janela com JavaScript
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-02-09
 excerpt: Um breve spike para comparar os valores do tamanho da tela e da janela em diversos dispositivos.

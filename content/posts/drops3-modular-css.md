@@ -1,6 +1,6 @@
 ---
 title: Drops 3 – Duas formas de modular seu CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-02-28
 excerpt: Duas maneiras de modular seu código CSS.

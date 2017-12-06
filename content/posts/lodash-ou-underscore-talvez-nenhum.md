@@ -1,6 +1,6 @@
 ---
 title: Lodash ou Underscore? Talvez, nenhum!
-author: Eduardo Rabelo
+authors: Eduardo Rabelo
 type: post
 date: 2016-03-31
 url: /lodash-ou-underscore-talvez-nenhum/

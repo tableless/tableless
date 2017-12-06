@@ -1,6 +1,6 @@
 ---
 title: 'Motion UI com estilos: Zeh Fernandes no Meetup CSS SP'
-author: Danilo Vitoriano
+authors: Danilo Vitoriano
 type: post
 date: 2015-06-23
 excerpt: A experiência em participar de um Meetup sobre Motion UI.

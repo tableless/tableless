@@ -1,6 +1,6 @@
 ---
 title: 'Slides para Devs #6 – Javascript'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-04-21
 excerpt: Apresentações sobre Javascript.

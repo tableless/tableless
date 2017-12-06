@@ -1,6 +1,6 @@
 ---
 title: Opera Grátis e um recesso rápido
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-21
 url: /opera_gratis/

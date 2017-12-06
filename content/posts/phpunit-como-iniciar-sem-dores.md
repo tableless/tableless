@@ -1,6 +1,6 @@
 ---
 title: PHPUnit, como iniciar sem dores
-author: Andre Cardoso
+authors: Andre Cardoso
 type: post
 date: 2014-01-07
 excerpt: Instalando o PHUnit utilizando o gerenciador de pacotes Composer.

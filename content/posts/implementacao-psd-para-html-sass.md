@@ -1,6 +1,6 @@
 ---
 title: Implementação PSD para HTML + SASS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-02-03
 excerpt: Assista um Webinar com o Diego Eis implementando um PSD para HTML + SASS online.

@@ -1,6 +1,6 @@
 ---
 title: Introdução ao webpack
-author: Leo Cavalcante
+authors: Leo Cavalcante
 type: post
 date: 2015-02-23
 excerpt: 'Conheça o webpack: um bundler que permite dividir seu código em múltiplos módulos para serem lidos sob demanda.'

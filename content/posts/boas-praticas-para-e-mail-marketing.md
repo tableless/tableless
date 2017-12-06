@@ -1,6 +1,6 @@
 ---
 title: Boas práticas para E-mail Marketing
-author: Deivid Marques
+authors: Deivid Marques
 type: post
 date: 2012-08-08
 excerpt: Algumas dicas práticas para codificação de email marketings.

@@ -1,6 +1,6 @@
 ---
 title: 'Bonito de se ver Brasil #2'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-02
 url: /bonito_de_ser_brasil2/

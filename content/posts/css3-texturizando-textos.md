@@ -1,6 +1,6 @@
 ---
 title: CSS3 – Texturizando textos
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2012-02-23
 excerpt: Com funcionalidades que apoiam resultados visuais exclusivamente à folhas de estilo, o CSS3 está sendo criado para otimizar fluxo e ritmo de trabalho, além de aproximar ainda mais Designers de Interfaces à profissionais Front-End. Com vocês, a texturização de textos via CSS3.

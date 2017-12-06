@@ -1,6 +1,6 @@
 ---
 title: Não “otimize” seu código
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-11-09
 url: /nao-otimize-seu-codigo/

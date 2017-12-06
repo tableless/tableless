@@ -1,6 +1,6 @@
 ---
 title: A importância de seguir padrões
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-10-22
 url: /importacia_de_seguir_padroes/

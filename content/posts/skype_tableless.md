@@ -1,6 +1,6 @@
 ---
 title: Skype é Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-10-08
 url: /skype_tableless/

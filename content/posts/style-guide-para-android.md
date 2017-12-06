@@ -1,6 +1,6 @@
 ---
 title: Style Guide para Android
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-13
 excerpt: Google lança Style Guide para desenvolvedores Android.

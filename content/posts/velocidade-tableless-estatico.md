@@ -1,6 +1,6 @@
 ---
 title: Performance do Tableless estático
-author: Diego Eis
+authors: Diego Eis
 excerpt: Uma análise simples de velocidade do Tableless depois da mudança para código estático.
 type: post
 date: 2017-05-23

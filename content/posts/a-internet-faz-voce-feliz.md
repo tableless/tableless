@@ -1,6 +1,6 @@
 ---
 title: A internet faz você feliz?
-author: Tiago Dória
+authors: Tiago Dória
 type: post
 date: 2015-10-08
 url: /a-internet-faz-voce-feliz/

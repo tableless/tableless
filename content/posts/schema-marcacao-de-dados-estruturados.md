@@ -1,6 +1,6 @@
 ---
 title: Schema – Marcação de dados estruturados
-author: thiago-pacheco
+authors: thiago-pacheco
 type: post
 date: 2012-04-02
 excerpt: Entenda como o Schema pode ajudar a auxiliar o vocabulário de marcação de dados em páginas web.

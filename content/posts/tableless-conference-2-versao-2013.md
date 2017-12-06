@@ -1,6 +1,6 @@
 ---
 title: Tableless Conference 2 – versão 2013
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-02-25
 excerpt: 'Tableless Conference: um evento para desenvolvedores web se tornarem melhores.'

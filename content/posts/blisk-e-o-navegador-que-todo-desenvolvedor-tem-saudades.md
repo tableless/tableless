@@ -1,6 +1,6 @@
 ---
 title: Blisk é o navegador que todo desenvolvedor sente falta
-author: tableless
+authors: tableless
 type: post
 date: 2016-06-20
 url: /blisk-e-o-navegador-que-todo-desenvolvedor-tem-saudades/

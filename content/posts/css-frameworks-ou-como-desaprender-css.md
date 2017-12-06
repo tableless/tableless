@@ -1,6 +1,6 @@
 ---
 title: CSS Frameworks ou como desaprender CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-10-09
 url: /css-frameworks-ou-como-desaprender-css/

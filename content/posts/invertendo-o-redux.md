@@ -1,6 +1,6 @@
 ---
 title: Invertendo o Redux
-author: Javiani
+authors: Javiani
 type: post
 date: 2016-09-09
 url: /invertendo-o-redux/

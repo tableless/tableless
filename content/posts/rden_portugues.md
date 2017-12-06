@@ -1,6 +1,6 @@
 ---
 title: CSS Zen Garden em português
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-05-10
 url: /zen_garden_portugues/

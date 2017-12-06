@@ -1,6 +1,6 @@
 ---
 title: Aplicativos Desktop com NW.js – Node Webkit – Introdução
-author: João A. Zonta
+authors: João A. Zonta
 type: post
 date: 2016-07-14
 excerpt: Este é o primeiro artigo de uma série sobre aplicações desktop usando tecnologias web. (HTML, CSS, Javascript e WebGL)

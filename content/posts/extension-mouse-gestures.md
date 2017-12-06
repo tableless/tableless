@@ -1,6 +1,6 @@
 ---
 title: 'Extension: Mouse Gestures'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-03
 url: /extension-mouse-gestures/

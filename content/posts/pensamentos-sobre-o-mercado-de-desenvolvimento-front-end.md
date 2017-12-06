@@ -1,6 +1,6 @@
 ---
 title: O mercado de desenvolvimento front-end
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-08-14
 excerpt: Temos um novo rockstar no palco.

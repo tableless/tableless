@@ -1,6 +1,6 @@
 ---
 title: Drops 1 – HTML5 já pode ser usado
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-01-17
 excerpt: Por que mesmo você não usa o HTML5?

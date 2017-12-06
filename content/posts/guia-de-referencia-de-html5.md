@@ -1,6 +1,6 @@
 ---
 title: Guia de Referência de HTML5
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-02
 excerpt: Cheat sheets completos sobre HTML5.

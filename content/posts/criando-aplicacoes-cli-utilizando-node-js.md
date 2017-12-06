@@ -1,6 +1,6 @@
 ---
 title: Criando aplicações CLI utilizando Node.js
-author: Igor Santana
+authors: Igor Santana
 type: post
 date: 2016-05-03
 url: /criando-aplicacoes-cli-utilizando-node-js/

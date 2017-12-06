@@ -1,6 +1,6 @@
 ---
 title: A internet começa a dominar os cantos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-06-25
 url: /internet_domina_os_cantos/

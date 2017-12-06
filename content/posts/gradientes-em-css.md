@@ -1,6 +1,6 @@
 ---
 title: Gradientes em CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-09-22
 excerpt: Já é possível criar gradientes apenas utilizando CSS3. Sem imagens e com alguma compatibilidade com a maioria dos browsers do mercado. Vale a pena experimentar.

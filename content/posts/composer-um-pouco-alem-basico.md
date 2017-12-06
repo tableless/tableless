@@ -1,6 +1,6 @@
 ---
 title: Composer – um pouco além do básico
-author: Andre Cardoso
+authors: Andre Cardoso
 type: post
 date: 2014-04-01
 excerpt: Este post visa explicar algumas funcionalidades mais avançadas do composer.

@@ -1,6 +1,6 @@
 ---
 title: 'Se virando pra testar – Parte 1: Screenshots'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-11-16
 url: /se-virando-pra-testar-parte-1-screenshots/

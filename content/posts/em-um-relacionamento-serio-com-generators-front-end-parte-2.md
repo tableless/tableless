@@ -1,6 +1,6 @@
 ---
 title: Em um relacionamento sério com generators front-end – Parte 2
-author: Pedro Polisenso
+authors: Pedro Polisenso
 type: post
 date: 2014-12-10
 excerpt: Na parte 2 de nossa série, vamos falar de Yeoman, um generator que, na minha opinião, é bem completo e atende a grandes necessidades na criação de um projeto.

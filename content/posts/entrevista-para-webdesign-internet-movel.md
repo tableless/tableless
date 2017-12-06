@@ -1,6 +1,6 @@
 ---
 title: Entrevista para WebDesign – Internet Móvel
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-04-06
 url: /entrevista-para-webdesign-internet-movel/

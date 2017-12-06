@@ -1,6 +1,6 @@
 ---
 title: Internet Explorer 7 Reviews
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-04
 url: /internet_explorer_7_reviews/

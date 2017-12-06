@@ -1,6 +1,6 @@
 ---
 title: Acessibilidade não é Altruísmo
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-03-14
 url: /acessibilidade-nao-e-altruismo/

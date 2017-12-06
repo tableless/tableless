@@ -1,6 +1,6 @@
 ---
 title: Responsive Web Design – Adaptação vs Otimização
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-06-26
 excerpt: 'O que é melhor: um site que se adapta bem em diversas telas ou um site totalmente otimizado e de alta perfomance?'

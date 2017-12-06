@@ -1,6 +1,6 @@
 ---
 title: Nem só de client-side vive um site
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-08-28
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: Sublime Text 2 – Meu novo editor
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-04-16
 excerpt: Entenda um pouco sobre o editor que está quebrando tudo.

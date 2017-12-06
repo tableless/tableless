@@ -1,6 +1,6 @@
 ---
 title: Dicas de como fazer seu próprio framework CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-09-03
 excerpt: 'Anotações da minha palestra sobre como fazer seu próprio framework CSS. '

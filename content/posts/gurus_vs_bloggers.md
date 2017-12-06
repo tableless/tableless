@@ -1,6 +1,6 @@
 ---
 title: Gurus Vs. Bloggers
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-04-09
 url: /gurus_vs_bloggers/

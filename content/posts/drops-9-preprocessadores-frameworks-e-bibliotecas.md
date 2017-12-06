@@ -1,6 +1,6 @@
 ---
 title: Drops 9 – Préprocessadores, frameworks e bibliotecas
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-05-11
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: Como escrever bem para o SEO – Texto e Contexto, da palavra-chave à semântica.
-author: Douglas Faria
+authors: Douglas Faria
 type: post
 date: 2014-01-03
 excerpt: Entenda como melhorar o texto para os sistemas de busca.

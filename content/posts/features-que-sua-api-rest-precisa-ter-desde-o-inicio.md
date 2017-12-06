@@ -1,6 +1,6 @@
 ---
 title: Features que sua API REST precisa ter desde o início
-author: Ulysses Marins
+authors: Ulysses Marins
 type: post
 date: 2016-11-17
 url: /features-que-sua-api-rest-precisa-ter-desde-o-inicio/

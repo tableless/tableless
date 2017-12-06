@@ -1,6 +1,6 @@
 ---
 title: Creme de papaia e Geolocalização
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2012-11-28
 excerpt: Utilize a API de geolocalização de uma maneira mais útil.

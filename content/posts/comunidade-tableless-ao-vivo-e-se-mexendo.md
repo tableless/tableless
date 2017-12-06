@@ -1,6 +1,6 @@
 ---
 title: Comunidade Tableless – ao vivo e se mexendo
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-04-30
 url: /comunidade-tableless-ao-vivo-e-se-mexendo/

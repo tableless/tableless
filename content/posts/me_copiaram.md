@@ -1,6 +1,6 @@
 ---
 title: Me copiaram na cara larga!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-11-11
 url: /me_copiaram/

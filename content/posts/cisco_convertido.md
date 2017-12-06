@@ -1,6 +1,6 @@
 ---
 title: Cisco Systems Convertido
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-01-05
 url: /cisco_convertido/

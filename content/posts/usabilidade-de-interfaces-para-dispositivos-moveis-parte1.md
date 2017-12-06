@@ -1,6 +1,6 @@
 ---
 title: Usabilidade de interfaces para dispositivos móveis – parte I
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2011-11-21
 excerpt: O que muda nas questões de usabilidade quando estamos falando em dispositivos móveis?

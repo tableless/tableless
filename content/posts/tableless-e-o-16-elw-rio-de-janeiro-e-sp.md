@@ -1,6 +1,6 @@
 ---
 title: Tableless e o 16 ELW no Rio de Janeiro e SP
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-05-05
 excerpt: Salas de desenvolvimento organizadas pelo Tableless no Encontro Locaweb do Rio de Janeiro e de São Paulo! Vamos mostrar quem é que manda na bagaça. ;-)

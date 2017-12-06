@@ -1,6 +1,6 @@
 ---
 title: Digital Web Magazine
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-05-19
 url: /digital_web_magazine/

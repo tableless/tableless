@@ -1,6 +1,6 @@
 ---
 title: Usabilidade para desenvolvedores front-end
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2010-10-13
 excerpt: A usabilidade possui diversos critérios a serem trabalhados durante todo o processo de desenvolvimento de uma interface, mas no dia-a-dia podemos melhorar a experiência do usuário através de pequenos detalhes.

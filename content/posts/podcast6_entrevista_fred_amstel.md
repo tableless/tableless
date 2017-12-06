@@ -1,6 +1,6 @@
 ---
 title: 'Podcast#6'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-12-16
 excerpt: 'Entrevista com Fred Van Amstel - Parte 2'

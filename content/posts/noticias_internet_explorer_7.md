@@ -1,6 +1,6 @@
 ---
 title: Notícias sobre Internet Explorer 7
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-04-25
 url: /noticias_internet_explorer_7/

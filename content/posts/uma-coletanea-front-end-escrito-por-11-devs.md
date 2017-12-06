@@ -1,6 +1,6 @@
 ---
 title: Uma coletânea front-end escrito por 11 devs
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-04-01
 excerpt: Um livro de front-end escrito por 11 desenvolvedores brasileiros falando um pouco de tudo. Essa é a Coletânea Front-end.

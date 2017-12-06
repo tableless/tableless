@@ -1,6 +1,6 @@
 ---
 title: Nada de Capa – Quando a firula é mais do que a função
-author: cristianoweb
+authors: cristianoweb
 type: post
 date: 2015-10-03
 url: /nada-de-capa-quando-a-firula-e-mais-do-que-a-funcao/

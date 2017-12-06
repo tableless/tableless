@@ -1,6 +1,6 @@
 ---
 title: Detectando navegadores com Bowser
-author: Raphael Guastaferro
+authors: Raphael Guastaferro
 type: post
 date: 2015-11-24
 excerpt: Projeto hospedado no GitHub ajuda a detectar versões e detalhes do navegador utilizado

@@ -1,6 +1,6 @@
 ---
 title: 'Champfrogs: 10 desejos intrínsecos'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-10-14
 excerpt: Entenda os 10 desejos intrínsecos dos membros da sua equipe.

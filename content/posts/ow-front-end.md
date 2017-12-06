@@ -1,6 +1,6 @@
 ---
 title: Workflow Front-end
-author: Bruno Ruiz
+authors: Bruno Ruiz
 type: post
 date: 2015-01-21
 excerpt: O desenvolvimento em html, javascript e CSS é uma forma mágica de se construir um mundo novo a cada linha de código. Os mágicos do front-end precisam de cartolas para que retirem seus coelhos.

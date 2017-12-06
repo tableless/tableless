@@ -1,6 +1,6 @@
 ---
 title: Desenvolvendo sua primeira aplicação com Elm
-author: Breno Panzolini
+authors: Breno Panzolini
 type: post
 date: 2017-10-09
 excerpt: Como escrever aplicações dinâmicas, fazer requisições HTTP e interpretar JSON.

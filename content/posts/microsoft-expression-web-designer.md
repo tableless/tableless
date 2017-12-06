@@ -1,6 +1,6 @@
 ---
 title: Microsoft Expression Web Designer
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-05-16
 url: /microsoft-expression-web-designer/

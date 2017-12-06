@@ -1,6 +1,6 @@
 ---
 title: Destaques da 5ª edição da Conferência Web W3C Brasil
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2013-10-29
 url: /destaques-da-5a-edicao-da-conferencia-web-w3c-brasil/

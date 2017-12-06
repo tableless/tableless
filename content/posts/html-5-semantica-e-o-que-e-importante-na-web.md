@@ -1,6 +1,6 @@
 ---
 title: HTML 5 – Semântica e o que é importante na web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-01-26
 excerpt: 'Bem como o CSS3 o HTML 5 vem para mudar totalmente a forma que a web é construída. '

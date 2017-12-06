@@ -1,6 +1,6 @@
 ---
 title: Sobre ser informado (guerra sobre a desinformação)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-05-24
 url: /sobre-ser-informado-guerra-sobre-a-desinformacao/

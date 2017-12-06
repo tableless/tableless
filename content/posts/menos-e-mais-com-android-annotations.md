@@ -1,6 +1,6 @@
 ---
 title: Menos é mais com Android Annotations
-author: Pablo Silva
+authors: Pablo Silva
 type: post
 date: 2016-09-19
 url: /menos-e-mais-com-android-annotations/

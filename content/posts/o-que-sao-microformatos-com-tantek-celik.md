@@ -1,6 +1,6 @@
 ---
 title: O que são Microformatos com Tantek Çelik
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-07-14
 url: /o-que-sao-microformatos-com-tantek-celik/

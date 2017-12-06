@@ -1,6 +1,6 @@
 ---
 title: CodeShow – Mais 20 vagas! CORRA!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-08-09
 url: /codeshow-mais-20-vagas-corra/

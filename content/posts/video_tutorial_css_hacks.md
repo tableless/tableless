@@ -1,6 +1,6 @@
 ---
 title: 'Vídeo Tutorial #2 – Css Hacks'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-12-17
 url: /video_tutorial_css_hacks/

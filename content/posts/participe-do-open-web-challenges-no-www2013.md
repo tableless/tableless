@@ -1,6 +1,6 @@
 ---
 title: Participe do Open Web Challenges na WWW2013!
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2013-05-07
 excerpt: O WWW2013 apresenta o Open Web Challeges, uma competição conduzida por Bert Bros, Bernard de Luna, Philippe Le Hégaret e Zeno Rocha. Participe!

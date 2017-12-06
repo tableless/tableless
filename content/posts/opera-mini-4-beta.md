@@ -1,6 +1,6 @@
 ---
 title: Opera Mini 4 beta
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-06-20
 url: /opera-mini-4-beta/

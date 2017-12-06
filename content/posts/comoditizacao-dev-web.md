@@ -1,6 +1,6 @@
 ---
 title: A comoditização do desenvolvimento web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2017-09-11
 excerpt: Tem uma faixa de serviços e soluções no mercado de web que viraram comodites.

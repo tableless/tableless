@@ -1,6 +1,6 @@
 ---
 title: Inscrições abertas para o MeetupCSS, dia 20 de Outubro, na Locaweb
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-10-14
 url: /meetupcss-dia-20-de-outubro-na-locaweb/

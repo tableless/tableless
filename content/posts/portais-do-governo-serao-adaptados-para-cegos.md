@@ -1,6 +1,6 @@
 ---
 title: Portais do governo serão adaptados para cegos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-05-15
 url: /portais-do-governo-serao-adaptados-para-cegos/

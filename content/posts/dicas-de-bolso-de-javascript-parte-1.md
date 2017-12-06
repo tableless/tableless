@@ -1,6 +1,6 @@
 ---
 title: 'JavaScript: Dicas de bolso – parte 1'
-author: Raphael Fabeni
+authors: Raphael Fabeni
 type: post
 date: 2015-05-21
 excerpt: Dicas rápidas de JavaScript, uma linguagem beeem legal mas cheia de pegadinhas do malandro.

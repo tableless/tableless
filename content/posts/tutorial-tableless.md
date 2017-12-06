@@ -1,6 +1,6 @@
 ---
 title: Tutorial Tableless Básico em HTML5 – Layout de 3 colunas
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-05-14
 url: /tutorial-tableless/

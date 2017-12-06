@@ -1,6 +1,6 @@
 ---
 title: O básico sobre Expressões Regulares
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-06-15
 excerpt: Desmistificando as Expressões Regulares.

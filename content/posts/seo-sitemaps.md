@@ -1,6 +1,6 @@
 ---
 title: SEO – Sitemaps
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-07-02
 excerpt: Saiba como funciona o sitemap.xml

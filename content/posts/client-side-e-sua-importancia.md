@@ -1,6 +1,6 @@
 ---
 title: Client-side e sua importância
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-01-21
 excerpt: Dar atenção a um código XHTML bem escrito, é abrir portas para deficientes e usuários de diversos dispositivos.

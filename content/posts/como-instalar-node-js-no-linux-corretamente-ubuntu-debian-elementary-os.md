@@ -1,6 +1,6 @@
 ---
 title: Como instalar Node.js no Linux corretamente (Ubuntu, Debian, Elementary OS)
-author: Mateus Malaquias
+authors: Mateus Malaquias
 type: post
 date: 2017-01-09
 url: /como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os/

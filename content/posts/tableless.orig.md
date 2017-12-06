@@ -1,6 +1,6 @@
 ---
 title: Yahoo.com tableless
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-09-29
 url: /yahoo_tableless/

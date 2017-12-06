@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Ionic Framework
-author: grillorafael
+authors: grillorafael
 type: post
 date: 2015-02-26
 excerpt: Ionic é um framework para desenvolvimento de aplicações para dispositivos móveis que visa o desenvolvimento de apps híbridas e de rápido e fácil desenvolvimento. Este artigo irá dar uma breve introdução à ferramenta e como dar o primeiro passo com ela.

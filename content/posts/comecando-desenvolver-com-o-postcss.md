@@ -1,6 +1,6 @@
 ---
 title: Começando desenvolver com o PostCSS
-author: Júlio Carneiro
+authors: Júlio Carneiro
 type: post
 date: 2017-07-21
 excerpt: Reinvente o modo como você escreve seu CSS.

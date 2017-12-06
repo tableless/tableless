@@ -1,6 +1,6 @@
 ---
 title: 'Anotações de palestra: Além do que se vê – práticas com HTML e CSS'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-05-21
 excerpt: Minhas anotações da palestra do Jean Carlo Emer sobre práticas e truques com HTML e CSS.

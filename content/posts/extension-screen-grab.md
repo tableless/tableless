@@ -1,6 +1,6 @@
 ---
 title: Screen Grabdpres
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-19
 url: /extension-screen-grab/

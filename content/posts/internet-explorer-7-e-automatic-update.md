@@ -1,6 +1,6 @@
 ---
 title: Internet Explorer 7 e Automatic Update
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-07-27
 url: /internet-explorer-7-e-automatic-update/

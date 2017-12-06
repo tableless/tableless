@@ -1,6 +1,6 @@
 ---
 title: Opera promovendo o Opera Mini
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-24
 url: /opera-promovendo-o-opera-mini/

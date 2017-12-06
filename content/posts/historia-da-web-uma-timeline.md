@@ -1,6 +1,6 @@
 ---
 title: História da Web – Uma timeline
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-10-03
 excerpt: Conheça a história da web numa linha do tempo completa e muito informativa.

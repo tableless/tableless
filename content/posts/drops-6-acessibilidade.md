@@ -1,6 +1,6 @@
 ---
 title: Drops 6 – Acessibilidade
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-03-21
 excerpt: Um pouco sobre acessibilidade.

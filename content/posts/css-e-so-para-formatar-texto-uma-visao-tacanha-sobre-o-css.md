@@ -1,6 +1,6 @@
 ---
 title: Css é só para formatar texto – Uma visão tacanha sobre o CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-09-19
 url: /css-e-so-para-formatar-texto-uma-visao-tacanha-sobre-o-css/

@@ -1,6 +1,6 @@
 ---
 title: Como criar seu primeiro Progressive Web App do Zero
-author: Matheus Lima
+authors: Matheus Lima
 type: post
 date: 2017-08-09
 excerpt: Entenda e crie seu Progressive Web App

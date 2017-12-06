@@ -1,6 +1,6 @@
 ---
 title: Browsers dos Dispositivos Móveis
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-03-31
 url: /browsers_em_dispositivos_moveis/

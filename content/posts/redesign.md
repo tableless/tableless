@@ -1,6 +1,6 @@
 ---
 title: Redesign!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-14
 url: /redesign/

@@ -1,6 +1,6 @@
 ---
 title: Mudar ícones dos Custom Post Types no WordPress 3.8
-author: Julian Leno
+authors: Julian Leno
 type: post
 date: 2014-01-13
 excerpt: Como atualizar os ícones do Custom Post Types do novo Wordpress.

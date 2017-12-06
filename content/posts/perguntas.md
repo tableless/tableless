@@ -1,6 +1,6 @@
 ---
 title: Perguntas! Perguntas! Perguntas!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-10-03
 url: /perguntas/

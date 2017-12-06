@@ -1,6 +1,6 @@
 ---
 title: Gestão ágil – Management 3.0
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-10-07
 excerpt: Minhas anotações sobre Management 3.0. Curso que fiz na AdaptWorks sobre gestão para métodologias ágeis.

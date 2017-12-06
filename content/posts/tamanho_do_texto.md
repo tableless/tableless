@@ -1,6 +1,6 @@
 ---
 title: Tamanho do texto em diferentes browsers
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-08-22
 url: /tamanho_do_texto/

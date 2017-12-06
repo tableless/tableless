@@ -1,6 +1,6 @@
 ---
 title: 7 Plugins do sublime text que você deveria conhecer
-author: Pedro Polisenso
+authors: Pedro Polisenso
 type: post
 date: 2014-08-26
 excerpt: Conheça 7 plugins de Sublime Text que podem ajudar a sua produtividade diária.

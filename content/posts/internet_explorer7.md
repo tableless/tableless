@@ -1,6 +1,6 @@
 ---
 title: Internet Explorer 7
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-07-29
 url: /internet_explorer7/

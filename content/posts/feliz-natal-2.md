@@ -1,6 +1,6 @@
 ---
 title: Feliz Natal
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-12-22
 url: /feliz-natal-2/

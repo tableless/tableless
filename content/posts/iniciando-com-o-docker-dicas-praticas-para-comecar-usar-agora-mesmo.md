@@ -1,6 +1,6 @@
 ---
 title: 'Iniciando com o Docker: dicas práticas para começar a usar agora mesmo'
-author: André Kiffer
+authors: André Kiffer
 type: post
 date: 2016-04-19
 excerpt: Informações introdutórias para começar com Docker.

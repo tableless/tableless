@@ -1,6 +1,6 @@
 ---
 title: Esse texto é pra mim – mercado e atitude
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-10-22
 excerpt: Pensando alto.

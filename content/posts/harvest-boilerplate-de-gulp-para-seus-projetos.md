@@ -1,6 +1,6 @@
 ---
 title: 'Harvest: Boilerplate de Gulp para seus projetos'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-10-07
 excerpt: Um boilerplate de Gulp com tarefas básicas de build e gerenciamento do projeto.

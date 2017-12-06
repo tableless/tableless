@@ -1,6 +1,6 @@
 ---
 title: Curadoria do Tableless no Encontro Locaweb 2015
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-02-11
 excerpt: Estamos fazendo a curadoria de palestrantes no Encontro Locaweb de 2015 em várias cidades. Participe!

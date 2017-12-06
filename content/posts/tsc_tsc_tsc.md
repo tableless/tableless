@@ -1,6 +1,6 @@
 ---
 title: Tsc, tsc, tsc …
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-08-10
 url: /tsc_tsc_tsc/

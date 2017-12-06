@@ -1,6 +1,6 @@
 ---
 title: Crise nos Padrões Web? – Guerra civil lá fora
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-08-16
 url: /crise-nos-padroes-web-guerra-civil-la-fora/

@@ -1,6 +1,6 @@
 ---
 title: Live Coding Online sobre Responsive Web Design
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-04-11
 excerpt: Participe do nosso Micro Workshop Online sobre Responsive Web Design.

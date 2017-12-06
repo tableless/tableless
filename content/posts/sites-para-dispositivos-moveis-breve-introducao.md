@@ -1,6 +1,6 @@
 ---
 title: Sites para Dispositivos Móveis – Breve introdução
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-05
 url: /sites-para-dispositivos-moveis-breve-introducao/

@@ -1,6 +1,6 @@
 ---
 title: 'Jasmine: entendendo os matchers'
-author: Raphael Fabeni
+authors: Raphael Fabeni
 type: post
 date: 2015-03-30
 excerpt: Provavelmente você já deve ter ouvido de Jasmine certo? Por acaso, você conhece todos os matchers que ele nos oferece pra testar?

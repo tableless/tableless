@@ -1,6 +1,6 @@
 ---
 title: Documentário sobre o Jeffrey Zeldman
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-09-04
 excerpt: 'Documentário sobre um dos lendários da comunidade web mundial: Jeffrey Zeldman.'

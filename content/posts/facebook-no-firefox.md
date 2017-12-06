@@ -1,6 +1,6 @@
 ---
 title: Facebook no Firefox
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-12-23
 excerpt: Converse pelo Facebook Messenger diretamente pelo Firefox.

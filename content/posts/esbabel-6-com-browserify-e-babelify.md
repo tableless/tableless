@@ -1,6 +1,6 @@
 ---
 title: ES2015 – Babel 6 com Browserify e Babelify
-author: Renato Augusto Gama dos Santos
+authors: Renato Augusto Gama dos Santos
 type: post
 date: 2015-11-23
 excerpt: O Babel 6 trouxe muitas mudanças na maneira que convertemos arquivos ES2015 para ES5.

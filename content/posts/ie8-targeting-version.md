@@ -1,6 +1,6 @@
 ---
 title: Browser Targeting Version
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-01-25
 url: /ie8-targeting-version/

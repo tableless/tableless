@@ -1,6 +1,6 @@
 ---
 title: Começando com o Angular Material  – Parte 1
-author: Júlio Carneiro
+authors: Júlio Carneiro
 type: post
 date: 2016-08-08
 url: /comecando-com-o-angular-material -parte-1/

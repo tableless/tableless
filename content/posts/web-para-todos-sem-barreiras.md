@@ -1,6 +1,6 @@
 ---
 title: Web para Todos quer acabar com as barreiras de navegação na Internet no Brasil
-author: W3C Brasil
+authors: W3C Brasil
 type: post
 date: 2017-09-20
 excerpt: Iniciativa nasce com um movimento apoiado por diversas entidades, empresas, influenciadores e indivíduos que querem sites acessíveis para qualquer pessoa.

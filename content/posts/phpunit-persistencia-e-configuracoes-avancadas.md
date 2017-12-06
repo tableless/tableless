@@ -1,6 +1,6 @@
 ---
 title: PHPUnit – persistência e configurações avançadas
-author: Andre Cardoso
+authors: Andre Cardoso
 type: post
 date: 2014-05-08
 excerpt: Utilizando o PHPUnit para realizar testes com persistência de dados.

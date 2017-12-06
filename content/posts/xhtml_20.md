@@ -1,6 +1,6 @@
 ---
 title: Atualização no Draft do XHTML 2.0
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-30
 url: /xhtml_20/

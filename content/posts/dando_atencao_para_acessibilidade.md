@@ -1,6 +1,6 @@
 ---
 title: Dando atenção para a Acessibilidade
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-11-24
 url: /dando_atencao_para_acessibilidade/

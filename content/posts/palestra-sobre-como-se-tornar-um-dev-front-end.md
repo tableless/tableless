@@ -1,6 +1,6 @@
 ---
 title: Palestra sobre como se tornar um dev front-end
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-04-24
 excerpt: Apresentação sobre o que você precisa aprender para se tornar um desenvolvedor front-end.

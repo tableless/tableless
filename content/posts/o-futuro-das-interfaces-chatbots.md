@@ -1,6 +1,6 @@
 ---
 title: 'O futuro das interfaces: Chatbots'
-author: Raphael Guastaferro
+authors: Raphael Guastaferro
 type: post
 date: 2017-02-13
 url: /o-futuro-das-interfaces-chatbots/

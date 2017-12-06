@@ -1,6 +1,6 @@
 ---
 title: Dicas do Zeno – Maio
-author: Zeno Rocha
+authors: Zeno Rocha
 type: post
 date: 2013-10-08
 excerpt: Dicas do Zeno de Maio.

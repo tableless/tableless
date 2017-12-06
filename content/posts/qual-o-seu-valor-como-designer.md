@@ -1,6 +1,6 @@
 ---
 title: Qual o seu valor como designer?
-author: Lucas Guarabyra
+authors: Lucas Guarabyra
 type: post
 date: 2013-10-19
 url: /qual-o-seu-valor-como-designer/

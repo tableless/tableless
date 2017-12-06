@@ -1,6 +1,6 @@
 ---
 title: O Crescimento da Web e as Tendências de Mercado
-author: Lenilson Nascimento
+authors: Lenilson Nascimento
 type: post
 date: 2014-06-15
 excerpt: Um pouco sobre como o mercado web vem crescendo e como os profissionais devem sempre acompanhar este crescimento e suas as tendências.

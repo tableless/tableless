@@ -1,6 +1,6 @@
 ---
 title: 'W3C e WHATWG: amor e ódio'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-10-29
 excerpt: Um quer se mover rapidamente. O outro quer estabilidade e segurança.

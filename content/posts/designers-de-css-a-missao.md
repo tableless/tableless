@@ -1,6 +1,6 @@
 ---
 title: Designers de CSS – a missão
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-12-20
 url: /designers-de-css-a-missao/

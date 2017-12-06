@@ -1,6 +1,6 @@
 ---
 title: 'Slides para Devs #4 – Retina display, imagens de alta resolução e afins'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-03-28
 excerpt: Apresentações sobre retinas displays, imagens em alta resolução e como construir websites retina ready.

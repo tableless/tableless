@@ -1,6 +1,6 @@
 ---
 title: Tableless no Style Crunch
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-01-05
 url: /tableless-no-style-crunch/

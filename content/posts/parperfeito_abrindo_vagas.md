@@ -1,6 +1,6 @@
 ---
 title: Par Perfeito abrindo vagas
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-26
 url: /parperfeito_abrindo_vagas/

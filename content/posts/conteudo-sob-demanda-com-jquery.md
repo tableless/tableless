@@ -1,6 +1,6 @@
 ---
 title: Conteúdo sob demanda com jQuery
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2011-04-19
 excerpt: Veja como exibir o conteúdo do seu site acabando com a necessidade de paginação e atualização da página.

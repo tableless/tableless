@@ -1,6 +1,6 @@
 ---
 title: Collections ES6 – parte 1
-author: Bruno Belarmino
+authors: Bruno Belarmino
 type: post
 date: 2015-05-12
 excerpt: Novas estruturas de dados do Javascript

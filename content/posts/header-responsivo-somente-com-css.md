@@ -1,6 +1,6 @@
 ---
 title: Header responsivo somente com css
-author: Palloi Hofmann
+authors: Palloi Hofmann
 type: post
 date: 2014-12-08
 excerpt: A cada novo projeto queremos alcançar o máximo de usuários, não importa se o dispositivo seja grande ou pequeno, tem que funcionar.

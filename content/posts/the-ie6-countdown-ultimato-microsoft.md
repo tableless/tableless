@@ -1,6 +1,6 @@
 ---
 title: The IE6 Countdown – O ultimato da Microsoft
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-03-06
 excerpt: 'O Internet Explorer 6 é um câncer. A cura desse câncer é a própria Microsoft. Com a campanha The IE6 Countdown, a Microsoft quer diminuir para 1% o marketshare do IE6 no mundo! '

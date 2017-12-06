@@ -1,6 +1,6 @@
 ---
 title: Sobre comunidade e respeito
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-09-07
 url: /sobre-comunidade-e-respeito/

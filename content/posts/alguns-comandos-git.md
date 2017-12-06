@@ -1,6 +1,6 @@
 ---
 title: Comandos iniciais do Git
-author: Candido Souza
+authors: Candido Souza
 type: post
 date: 2015-01-09
 excerpt: Conheça os comandos básicos do Git nesse artigo simples.

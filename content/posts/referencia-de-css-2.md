@@ -1,6 +1,6 @@
 ---
 title: Referência de CSS 2
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-05-04
 url: /referencia-de-css-2/

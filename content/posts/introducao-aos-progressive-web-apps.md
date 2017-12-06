@@ -1,6 +1,6 @@
 ---
 title: Introdução aos Progressive Web Apps
-author: Matheus Lima
+authors: Matheus Lima
 type: post
 date: 2017-11-23
 excerpt: Olhe pro seu smartphone agora mesmo. Você fez o download do aplicativo do Shopping que mais frequenta? E da franquia de restaurantes? E da agência de viagens?

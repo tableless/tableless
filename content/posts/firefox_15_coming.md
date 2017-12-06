@@ -1,6 +1,6 @@
 ---
 title: Firefox 1.5 is coming
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-02
 url: /firefox_15_coming/

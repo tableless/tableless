@@ -1,6 +1,6 @@
 ---
 title: Editores
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-08-26
 excerpt: Introdução sobre alguns editores mais comuns para se trabalhar com HTML e CSS.

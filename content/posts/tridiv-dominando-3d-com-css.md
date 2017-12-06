@@ -1,6 +1,6 @@
 ---
 title: Tridiv – Dominando 3D com CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-08-22
 excerpt: Brinque com 3D em um editor online baseado em CSS.

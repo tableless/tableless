@@ -1,6 +1,6 @@
 ---
 title: Scrum Master e sua essência.
-author: Athos Bonner
+authors: Athos Bonner
 image: uploads/2017/03/151024170936-rugby-4-super-169.jpg
 type: post
 date: 2017-04-06

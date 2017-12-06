@@ -1,6 +1,6 @@
 ---
 title: Cuidado para não regredir
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-03-09
 url: /cuidado-para-nao-regredir/

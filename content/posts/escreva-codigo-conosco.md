@@ -1,6 +1,6 @@
 ---
 title: Escreva código conosco
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-04-03
 excerpt: Contribua escrevendo código para o site Tableless.

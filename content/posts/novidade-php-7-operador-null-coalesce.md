@@ -1,6 +1,6 @@
 ---
 title: Novidade PHP 7 – Operador Null Coalesce
-author: Eduardo Abreu
+authors: Eduardo Abreu
 type: post
 date: 2016-02-19
 excerpt: Existente em diversas outras linguagens, o operador Null Coalesce agora também faz parte da sintaxe do PHP 7.

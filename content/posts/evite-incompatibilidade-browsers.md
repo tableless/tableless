@@ -1,6 +1,6 @@
 ---
 title: 6 dicas para evitar problemas de incompatibilidade entre browsers.
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2010-09-28
 excerpt: Mesmo com o lançamento de versões beta dos principais browsers, prontos para receber o HTML5, profissionais ainda enfrentam dificuldades em realizar o trabalho de webstandards nos dias de hoje.

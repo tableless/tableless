@@ -1,6 +1,6 @@
 ---
 title: Propriedade @font-face CSS – Fonts externas na web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-03-30
 excerpt: font-face possibilita utilizar fonts externas em websites. Você já pode utilizar essa regra agora.

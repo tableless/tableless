@@ -1,6 +1,6 @@
 ---
 title: Exercício Básico
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-10-20
 url: /exercicio-basico/

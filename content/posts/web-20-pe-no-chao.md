@@ -1,6 +1,6 @@
 ---
 title: Web 2.0 pé no chão
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-01-03
 url: /web-20-pe-no-chao/

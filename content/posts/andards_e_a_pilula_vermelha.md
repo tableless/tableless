@@ -1,6 +1,6 @@
 ---
 title: Web Standards e a Pílula Vermelha
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-11-11
 url: /web_standards_e_a_pilula_vermelha/

@@ -1,6 +1,6 @@
 ---
 title: 'Apresentando: Meteor!'
-author: Leo Cavalcante
+authors: Leo Cavalcante
 type: post
 date: 2015-08-06
 url: /apresentando-meteor/

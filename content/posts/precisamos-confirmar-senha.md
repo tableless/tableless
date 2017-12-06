@@ -1,6 +1,6 @@
 ---
 title: Precisamos confirmar a senha?
-author: Marcus Himura
+authors: Marcus Himura
 type: post
 date: 2015-10-02
 url: /precisamos-confirmar-senha/

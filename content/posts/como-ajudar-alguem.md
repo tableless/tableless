@@ -1,6 +1,6 @@
 ---
 title: Como ajudar alguém?
-author: Tailo Mateus Gonsalves
+authors: Tailo Mateus Gonsalves
 type: post
 date: 2017-09-18
 excerpt: Você também quer mudar o mundo?

@@ -1,6 +1,6 @@
 ---
 title: Conheça o debugger.html – Depurador de JS da Mozilla
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-09-14
 url: /conheca-o-debugger-html-depurador-de-js-da-mozilla/

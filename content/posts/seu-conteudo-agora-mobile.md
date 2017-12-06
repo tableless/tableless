@@ -1,6 +1,6 @@
 ---
 title: Seu Conteúdo, Agora Mobile
-author: Will Sales
+authors: Will Sales
 type: post
 date: 2012-11-22
 excerpt: |

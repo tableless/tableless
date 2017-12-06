@@ -1,6 +1,6 @@
 ---
 title: Dicas úteis e ferramentas para criar logos online
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-06-15
 excerpt: Entenda como ferramentas online podem te ajudar a criar logos para seu site e sua empresa.

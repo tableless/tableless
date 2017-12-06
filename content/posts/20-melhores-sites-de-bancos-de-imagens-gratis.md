@@ -1,6 +1,6 @@
 ---
 title: 20 melhores sites de bancos de imagens grátis
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-10-26
 url: /20-melhores-sites-de-bancos-de-imagens-gratis/

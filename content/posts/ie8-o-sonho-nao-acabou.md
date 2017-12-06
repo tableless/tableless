@@ -1,6 +1,6 @@
 ---
 title: IE8 – O sonho não acabou
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-03-09
 url: /ie8-o-sonho-nao-acabou/

@@ -1,6 +1,6 @@
 ---
 title: Novidades Adobe Creative Cloud 2017
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-12-19
 url: /novidades-adobe-creative-cloud-2017/

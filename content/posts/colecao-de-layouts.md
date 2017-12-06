@@ -1,6 +1,6 @@
 ---
 title: Coleção de Layouts
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-04-11
 url: /colecao-de-layouts/

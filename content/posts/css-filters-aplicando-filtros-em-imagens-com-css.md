@@ -1,6 +1,6 @@
 ---
 title: CSS Filters – Aplicando filtros em imagens com CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-07-10
 excerpt: Veja como aplicar filtros em imagens e elementos apenas com CSS.

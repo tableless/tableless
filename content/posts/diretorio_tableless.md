@@ -1,6 +1,6 @@
 ---
 title: Diretório tableless no ar
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-05-02
 url: /diretorio_tableless/

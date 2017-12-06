@@ -1,6 +1,6 @@
 ---
 title: Ainda muito cedo para dizer…
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-03
 url: /ainda-muito-cedo-para-dizer/

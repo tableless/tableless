@@ -1,6 +1,6 @@
 ---
 title: Conheça os primeiros palestrantes da Webbr2015
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2015-07-31
 excerpt: 'Divulgados os nomes dos primeiros palestrantes nacionais e o primeiro keynote speaker internacional  da Conferência Web W3C Brasil, que acontece dias 22 e 23 de setembro em São Paulo.'

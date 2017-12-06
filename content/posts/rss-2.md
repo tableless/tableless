@@ -1,6 +1,6 @@
 ---
 title: RSS
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-07-03
 url: /rss-2/

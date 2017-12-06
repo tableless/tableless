@@ -1,6 +1,6 @@
 ---
 title: 'Zepto.js: JavaScript peso-leve'
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2013-03-20
 excerpt: Inicialmente lançado para aplicações mobile, o framework Zepto.js começa a ganhar espaço também no desktop graças ao seu peso reduzido e a sua alta compatibilidade com jQuery.

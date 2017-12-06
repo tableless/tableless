@@ -1,6 +1,6 @@
 ---
 title: Drops 10 – Web Apps ou Instaláveis no dispositivos?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-06-22
 excerpt: Aplicações baseadas em web ou aplicações instaladas no dispositivos?

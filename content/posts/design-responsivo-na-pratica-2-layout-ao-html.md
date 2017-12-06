@@ -1,6 +1,6 @@
 ---
 title: 'Design Responsivo na prática 2: do layout ao HTML'
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2014-04-28
 excerpt: Acompanhe o desenvolvimento de um HTML/CSS responsivo passo-a-passo a partir de um layout fixo, com direito a muitas dicas, comentários e demo.

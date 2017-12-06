@@ -1,6 +1,6 @@
 ---
 title: Fazendo um slide menu mobile – sem plugin
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-09-30
 excerpt: Entenda como fazer um menu como nos aplicativos mobile, como o facebook.

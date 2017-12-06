@@ -1,6 +1,6 @@
 ---
 title: Latência, largura de banda e a velocidade da luz
-author: Cleber Dantas
+authors: Cleber Dantas
 type: post
 date: 2013-05-01
 excerpt: Se a velocidade da luz fosse suficiente, estaríamos salvos.

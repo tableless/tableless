@@ -1,6 +1,6 @@
 ---
 title: TagSoup e programas WYSIWYG
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-03-15
 url: /tagsoup-e-programas-wysiwyg/

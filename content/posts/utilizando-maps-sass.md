@@ -1,6 +1,6 @@
 ---
 title: Utilizando Map Structure do Sass
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-08-11
 excerpt: |

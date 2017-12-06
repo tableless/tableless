@@ -1,6 +1,6 @@
 ---
 title: 2015 – O ano em que o celular ultrapassou o desktop
-author: Rodrigo Fávaro
+authors: Rodrigo Fávaro
 type: post
 date: 2015-07-20
 excerpt: Como o Mobile mudou não apenas a internet, mas também a nossa vida e como lidamos com a tecnologia.

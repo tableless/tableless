@@ -1,6 +1,6 @@
 ---
 title: Como tornar seu website acessível?
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2010-10-18
 excerpt: 'Ao ler este título talvez você esteja se perguntando: “mas se ele já foi publicado, já pode ser acessado por todos, certo?!” e a resposta mais correta é: “depende”. Que tal entender melhor o que significa acessibilidade na web?'

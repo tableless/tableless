@@ -1,6 +1,6 @@
 ---
 title: WordPress – Uma pequena introdução
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-02-10
 excerpt: 'Entenda o básico do Wordpress. '

@@ -1,6 +1,6 @@
 ---
 title: Encontro de Desenvolvedores Curitiba – 21/Maio
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-05-18
 url: /encontro-de-desenvolvedores-curitiba-21maio/

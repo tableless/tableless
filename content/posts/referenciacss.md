@@ -1,6 +1,6 @@
 ---
 title: Referência rápida de CSS em Português
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-05-14
 excerpt: Um guia para você lembrar do que o CSS é capaz.

@@ -1,6 +1,6 @@
 ---
 title: Alternativas ao jQuery
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2011-08-17
 excerpt: Conheça as principais opções de frameworks e bibliotecas no desenvolvimento JavaScript e saiba que existe vida além do jQuery

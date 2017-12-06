@@ -1,6 +1,6 @@
 ---
 title: Startup e propósito
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-12-10
 excerpt: Depois que o dinheiro pinga no bolso o que sobra é apenas propósito.

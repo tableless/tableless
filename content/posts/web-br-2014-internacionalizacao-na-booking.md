@@ -1,6 +1,6 @@
 ---
 title: Web.br 2014 – Internacionalização na Booking
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-09-26
 excerpt: Anotações da palestra sobre internacionalização da Booking na Web.br 2014.

@@ -1,6 +1,6 @@
 ---
 title: Eventos Front-end que você não pode perder em 2012 – parte 2
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2012-10-22
 excerpt: Confira os eventos de front-end que ocorrem nos próximos meses.

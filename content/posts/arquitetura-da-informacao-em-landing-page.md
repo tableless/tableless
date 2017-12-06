@@ -1,6 +1,6 @@
 ---
 title: Arquitetura da Informação em Landing Page
-author: Rodrigo Simoni
+authors: Rodrigo Simoni
 type: post
 date: 2013-07-10
 excerpt: 'Construir uma boa arquitetura de informação e aprofundar o assunto da página faz toda a diferença para se obter bons resultados de conversão. '

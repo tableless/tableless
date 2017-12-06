@@ -1,6 +1,6 @@
 ---
 title: Utilizando navigator.language
-author: Leonardo Lima
+authors: Leonardo Lima
 type: post
 date: 2014-12-15
 excerpt: |

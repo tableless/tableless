@@ -1,6 +1,6 @@
 ---
 title: 'Slides para Devs #1'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-03-13
 excerpt: 'Slides que valem a pena ver. #1.'

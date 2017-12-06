@@ -1,6 +1,6 @@
 ---
 title: 'Netscape: O Retorno!'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-11-18
 url: /netscape_o_retorno/

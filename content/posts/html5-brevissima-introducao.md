@@ -1,6 +1,6 @@
 ---
 title: HTML 5 – brevíssima introdução
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-06-29
 excerpt: Uma pequena introdução sobre HTML5 e sua história.

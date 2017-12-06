@@ -1,6 +1,6 @@
 ---
 title: Criar páginas no WordPress
-author: Pedro Rogério
+authors: Pedro Rogério
 type: post
 date: 2008-08-26
 url: /criar-paginas-no-wordpress/

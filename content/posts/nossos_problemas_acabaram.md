@@ -1,6 +1,6 @@
 ---
 title: Nossos problemas acabaram! Ou quase.
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-12
 url: /nossos_problemas_acabaram/

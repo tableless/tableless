@@ -1,6 +1,6 @@
 ---
 title: Video tutorial – Implementando HTML
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-11-13
 url: /video-tutorial-implementando-html/

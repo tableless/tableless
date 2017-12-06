@@ -1,6 +1,6 @@
 ---
 title: Introdução ao CSS Shaders – Parte 1
-author: Giovanni Keppelen
+authors: Giovanni Keppelen
 type: post
 date: 2011-10-03
 excerpt: 'Shaders CSS é um complemento para Filter Effects. Além disso, shaders CSS introduz uma noção de Vertex Shader para um modelo de filtro. '

@@ -1,6 +1,6 @@
 ---
 title: WordPress para front-end, iniciando um projeto.
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2013-04-01
 excerpt: Estranho dizer que vamos falar de Wordpress classificando à um grupo específico, mas se o seu negócio é “html’s“, “css’s“ e algumas arriscadas em “jquery’s“ e “javascript’s“, você vai entender do que estou falando.

@@ -1,6 +1,6 @@
 ---
 title: Animando com jQuery
-author: Michael Granados
+authors: Michael Granados
 type: post
 date: 2009-01-05
 excerpt: Que tal experimentar fazer uma área onde o usuário clica em um botão de mostrar/ocultar menu?

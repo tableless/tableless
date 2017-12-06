@@ -1,6 +1,6 @@
 ---
 title: Criando um aplicativo simples de chat com Firebase
-author: Cosme Lopes
+authors: Cosme Lopes
 type: post
 date: 2014-07-17
 excerpt: Um exemplo de utilização dessa poderosa plataforma de armazenamento e sincronização de dados em tempo real.

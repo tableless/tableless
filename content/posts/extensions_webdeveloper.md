@@ -1,6 +1,6 @@
 ---
 title: 'Extension: Web Developer'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-27
 url: /extensions_webdeveloper/

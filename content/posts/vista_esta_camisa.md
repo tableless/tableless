@@ -1,6 +1,6 @@
 ---
 title: 'Contest: Vista esta Camisa'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-07
 url: /vista_esta_camisa/

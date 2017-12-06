@@ -1,6 +1,6 @@
 ---
 title: GAP é Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-05
 url: /gap_tableless/

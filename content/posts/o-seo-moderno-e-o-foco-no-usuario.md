@@ -1,6 +1,6 @@
 ---
 title: O SEO moderno e o foco no usuário
-author: Douglas Faria
+authors: Douglas Faria
 type: post
 date: 2013-08-20
 excerpt: Faça um bom SEO focando-se no usuário.

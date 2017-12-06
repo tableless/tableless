@@ -1,6 +1,6 @@
 ---
 title: Atrás do Front(End)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-05-27
 excerpt: Um podcast sobre comunicaçnao, produção de conteúdo e outras experiências.

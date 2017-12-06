@@ -1,6 +1,6 @@
 ---
 title: Construindo um servidor GraphQL em minutos com a Siler PHP
-author: Leo Cavalcante
+authors: Leo Cavalcante
 type: post
 image: uploads/2017/03/postart.jpg
 date: 2017-04-04

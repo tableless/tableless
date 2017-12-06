@@ -1,6 +1,6 @@
 ---
 title: Construindo uma página com login no JSF
-author: Julio Cezar Dourado
+authors: Julio Cezar Dourado
 type: post
 date: 2016-09-06
 excerpt: 'Vamos criar passo-a-passo um login utilizando o framework de Java - JSF. Conheceremos, também, as sessões do JSF e como interceptá-las.'

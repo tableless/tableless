@@ -1,6 +1,6 @@
 ---
 title: Internet Explorer Developer Toolbar Beta
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-29
 url: /internet_explorer_developer_toolbar/

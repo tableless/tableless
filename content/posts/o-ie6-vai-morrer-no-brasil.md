@@ -1,6 +1,6 @@
 ---
 title: O IE6 vai morrer no Brasil
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-12-16
 excerpt: Estamos ficando mais perto do dia em que nossos problemas com o IE vão acabar... ou pelo menos ficar perto disso.

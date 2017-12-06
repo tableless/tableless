@@ -1,6 +1,6 @@
 ---
 title: 8 dicas para aumentar a eficiência de seus e-mails
-author: Tableless
+authors: Tableless
 type: post
 date: 2017-11-19
 excerpt: Garanta que seus e-mails sejam abertos.

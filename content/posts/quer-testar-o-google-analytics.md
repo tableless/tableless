@@ -1,6 +1,6 @@
 ---
 title: Quer testar o Google Analytics?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-06-21
 url: /quer-testar-o-google-analytics/

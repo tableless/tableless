@@ -1,6 +1,6 @@
 ---
 title: Entrevista com Bert Bos (Criador da CSS) e W3C
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-09-14
 url: /entrevista-com-bert-bos-e-hakon-wium-lie-criador-da-css-e-w3c/

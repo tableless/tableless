@@ -1,6 +1,6 @@
 ---
 title: Iniciando projeto com laravel – parte 1
-author: Tailo Mateus Gonsalves
+authors: Tailo Mateus Gonsalves
 type: post
 date: 2017-04-04
 stick: yes

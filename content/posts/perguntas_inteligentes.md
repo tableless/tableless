@@ -1,6 +1,6 @@
 ---
 title: Fácil e rápido
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-02
 url: /perguntas_inteligentes/

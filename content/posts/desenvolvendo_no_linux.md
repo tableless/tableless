@@ -1,6 +1,6 @@
 ---
 title: Novos Ares
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-03-09
 url: /desenvolvendo_no_linux/

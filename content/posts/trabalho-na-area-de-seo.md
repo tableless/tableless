@@ -1,6 +1,6 @@
 ---
 title: Trabalho na área de SEO
-author: Serguey
+authors: Serguey
 type: post
 date: 2016-01-27
 excerpt: Entenda o que é SEO e o que torna essa profissão promissora.

@@ -1,6 +1,6 @@
 ---
 title: Teste de carga em APIs utilizando Artillery
-author: Ulysses Marins
+authors: Ulysses Marins
 type: post
 date: 2017-03-06
 url: /teste-de-carga-em-apis-utilizando-artillery/

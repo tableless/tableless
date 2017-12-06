@@ -1,6 +1,6 @@
 ---
 title: A Batalha das App Stores – Conheça os Pontos Fortes e Previsões
-author: Eduardo Leal Jr
+authors: Eduardo Leal Jr
 type: post
 date: 2012-04-04
 excerpt: Veja alguns números referentes a guerra entre as Apps Stores.

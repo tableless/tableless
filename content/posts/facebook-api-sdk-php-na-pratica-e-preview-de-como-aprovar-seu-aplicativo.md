@@ -1,6 +1,6 @@
 ---
 title: Facebook API – SDK PHP na prática e preview de como aprovar seu aplicativo
-author: Marcelo Galvão
+authors: Marcelo Galvão
 type: post
 date: 2015-05-13
 url: /facebook-api-sdk-php-na-pratica-e-preview-de-como-aprovar-seu-aplicativo/

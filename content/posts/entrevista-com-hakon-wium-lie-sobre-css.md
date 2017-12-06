@@ -1,6 +1,6 @@
 ---
 title: Entrevista com Hakon Wium Lie sobre CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-07-13
 url: /entrevista-com-hakon-wium-lie-sobre-css/

@@ -1,6 +1,6 @@
 ---
 title: Crie seu jogo em HTML5 com enchant.js
-author: Ezequiel M. Mello
+authors: Ezequiel M. Mello
 type: post
 date: 2015-07-28
 excerpt: Com poucas linhas de código é possível criar um jogo simples em HTML5 utilizando o framework enchant.js.

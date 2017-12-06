@@ -1,6 +1,6 @@
 ---
 title: Não alimente os Trolls
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-23
 url: /nao-alimente-os-trolls/

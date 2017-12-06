@@ -1,6 +1,6 @@
 ---
 title: Criando um “blog” no Github com tinypress.
-author: Victor "reidark" Matias
+authors: Victor "reidark" Matias
 type: post
 date: 2014-04-25
 excerpt: Uma ferramenta minimalista para criar um blog estático no Github. Simples, rápido e sem gastar nada.

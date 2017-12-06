@@ -1,6 +1,6 @@
 ---
 title: Tendências (utópicas?)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-08-17
 url: /tendencias_utopicas/

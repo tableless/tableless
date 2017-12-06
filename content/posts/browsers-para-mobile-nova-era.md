@@ -1,6 +1,6 @@
 ---
 title: Browsers para Mobile – Nova era
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-06-29
 url: /browsers-para-mobile-nova-era/

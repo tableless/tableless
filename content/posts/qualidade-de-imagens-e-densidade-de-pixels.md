@@ -1,6 +1,6 @@
 ---
 title: Qualidade de Imagens e densidade de pixels
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-03-26
 excerpt: Entenda melhor sobre densidade de pixels em aparelhos como o iPhone 4 e outros dispositivos que carregam Android.

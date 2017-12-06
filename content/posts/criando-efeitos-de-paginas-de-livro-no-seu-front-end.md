@@ -1,6 +1,6 @@
 ---
 title: Criando efeitos de páginas de livro no seu front-end
-author: Fabio Soares
+authors: Fabio Soares
 type: post
 date: 2016-01-14
 excerpt: Uma breve introdução da biblioteca Turn.js para fazer efeitos de páginas de livros no seu front-end.

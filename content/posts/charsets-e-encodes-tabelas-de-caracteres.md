@@ -1,6 +1,6 @@
 ---
 title: Charsets e Encodes – Tabelas de caracteres
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-03-31
 excerpt: Entenda como funciona a tabela de caracteres e encodes no HTML.

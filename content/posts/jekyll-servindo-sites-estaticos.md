@@ -1,6 +1,6 @@
 ---
 title: Servindo sites estáticos com Jekyll
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-11-11
 excerpt: Entenda como o Jekyll funciona e como ele pode te ajudar a fazer websites estáticos, sem banco de dados e fáceis de gerenciar.

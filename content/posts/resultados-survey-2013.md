@@ -1,6 +1,6 @@
 ---
 title: Resultados do Survey 2013
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-11-25
 excerpt: Conheça os dados da pesquisa que fizemos este ano para conhecer alguns números e características do mercado de front-end brasileiro.

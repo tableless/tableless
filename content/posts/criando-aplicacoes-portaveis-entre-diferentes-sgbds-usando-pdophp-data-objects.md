@@ -1,6 +1,6 @@
 ---
 title: Criando aplicações portáveis entre diferentes SGBDs usando PDO(PHP Data Objects)
-author: Anrahh
+authors: Anrahh
 type: post
 date: 2016-09-26
 url: /criando-aplicacoes-portaveis-entre-diferentes-sgbds-usando-pdophp-data-objects/

@@ -1,6 +1,6 @@
 ---
 title: 'Slides para Devs #3 – Responsive Web Design'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-03-19
 excerpt: Slides sobre Responsive Web Design.

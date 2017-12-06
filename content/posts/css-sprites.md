@@ -1,6 +1,6 @@
 ---
 title: CSS Sprites
-author: Zeno Rocha
+authors: Zeno Rocha
 type: post
 date: 2012-01-16
 excerpt: Como fazer de forma moderna e sem chatices

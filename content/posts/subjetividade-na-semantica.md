@@ -1,6 +1,6 @@
 ---
 title: Subjetividade na Semântica
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-04-09
 url: /subjetividade-na-semantica/

@@ -1,6 +1,6 @@
 ---
 title: Google Reader para Wii
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-05-09
 url: /google-reader-para-wii/

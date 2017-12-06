@@ -1,6 +1,6 @@
 ---
 title: Bower na prática
-author: Diogo Beato
+authors: Diogo Beato
 type: post
 date: 2014-01-15
 excerpt: Um dos grandes problemas encontrados no desenvolvimento de software é o gerenciamento de dependências. Saiba como o Bower pode ajudar.

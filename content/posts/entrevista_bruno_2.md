@@ -1,6 +1,6 @@
 ---
 title: 'Podcast Tableless #2'
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-11-25
 excerpt: 'Entrevista com Bruno Torres - parte 2'

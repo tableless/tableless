@@ -1,6 +1,6 @@
 ---
 title: Como uma simples mudança de cores pode revolucionar seu site
-author: David Arty
+authors: David Arty
 type: post
 date: 2015-11-27
 excerpt: 'Testes A/B: design orientado à conversão de leads qualificados'

@@ -1,6 +1,6 @@
 ---
 title: Tudo que você gostaria de saber sobre plugins jQuery e ninguém teve paciência de explicar
-author: Zeno Rocha
+authors: Zeno Rocha
 type: post
 date: 2012-11-02
 excerpt: Pra você que cansou de ser um mero manipulador de plugins alheios

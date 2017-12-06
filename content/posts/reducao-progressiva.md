@@ -1,6 +1,6 @@
 ---
 title: Redução Progressiva
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2013-09-11
 excerpt: 'Entenda como criar interfaces que se adaptam automaticamente de acordo com o perfil de uso do usuário. '

@@ -1,6 +1,6 @@
 ---
 title: Acelere o carregamento de seu site com PHP Caching
-author: Felipe Torretto
+authors: Felipe Torretto
 type: post
 date: 2016-07-07
 url: /acelere-o-carregamento-de-seu-site-com-php-caching/

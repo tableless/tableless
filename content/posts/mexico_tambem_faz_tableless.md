@@ -1,6 +1,6 @@
 ---
 title: México também faz tableless!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-09-23
 url: /mexico_tambem_faz_tableless/

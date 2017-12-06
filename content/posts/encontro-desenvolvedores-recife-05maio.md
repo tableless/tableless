@@ -1,6 +1,6 @@
 ---
 title: Encontro Desenvolvedores Recife – 05/Maio
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-04-25
 excerpt: Encontro Locaweb de Desenvolvimento e profissionais de internet!

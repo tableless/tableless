@@ -1,6 +1,6 @@
 ---
 title: Locaweb Style – Como iniciamos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-02-19
 excerpt: Como iniciamos e por que resolvemos criar um framework próprio aqui na Locaweb.

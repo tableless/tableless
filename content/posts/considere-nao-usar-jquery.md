@@ -1,6 +1,6 @@
 ---
 title: Considere não usar JQuery
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-02-19
 excerpt: Em projetos pequenos ou em projetos com pouco javascript, considere não usar JQuery.

@@ -1,6 +1,6 @@
 ---
 title: Bootstrap 4 Alpha
-author: Isaque Melo
+authors: Isaque Melo
 type: post
 date: 2015-08-27
 excerpt: O framework Bootstrap chega na versão 4 (alpha) com pré-processador Sass e outras mudanças.

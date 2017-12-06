@@ -1,6 +1,6 @@
 ---
 title: Finalistas do Prêmio Todos@Web são divulgados
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-11-13
 excerpt: Iniciativa do W3C Brasil vai premiar projetos, pessoas e instituições que promovem a acessibilidade na Web

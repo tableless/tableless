@@ -1,6 +1,6 @@
 ---
 title: Video do Opera para Mobile
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-21
 url: /video-do-opera-para-mobile/

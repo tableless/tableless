@@ -1,6 +1,6 @@
 ---
 title: BlogCamp e CodeShow
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-08-02
 url: /blogcamp-e-codeshow/

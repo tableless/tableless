@@ -1,6 +1,6 @@
 ---
 title: ELPI Porto Alegre, ganhe um convite.
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2008-05-14
 url: /elpi-porto-alegre-ganhe-um-convite/

@@ -1,6 +1,6 @@
 ---
 title: Internet Explorer dos anos 90
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-01-24
 excerpt: You grew up. So did we. Reconnect with the new Internet Explorer.

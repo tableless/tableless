@@ -1,6 +1,6 @@
 ---
 title: Navegabilidade em Dispositivos Móveis
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2010-11-17
 excerpt: Minimizar a quantidade de informações e o esforço de interação com os elementos de interface. Estes são os princípios-chave que para que websites possam ser utilizados da melhor forma em dispositivos móveis.

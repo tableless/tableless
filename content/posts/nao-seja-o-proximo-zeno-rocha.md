@@ -1,6 +1,6 @@
 ---
 title: Não seja o próximo Zeno Rocha
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-10-27
 excerpt: Seguir o caminho de alguém, não quer dizer que você precisa ser essa pessoa.

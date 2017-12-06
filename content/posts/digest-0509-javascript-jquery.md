@@ -1,6 +1,6 @@
 ---
 title: 'Digest 05/09: Javascript, JQuery'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-05-25
 excerpt: Links e dicas sobre JQuery e Javascript.

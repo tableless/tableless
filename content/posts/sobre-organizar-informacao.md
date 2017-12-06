@@ -1,6 +1,6 @@
 ---
 title: Sobre organizar informação
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-09-10
 excerpt: Um pensamento sobre organização de informação.

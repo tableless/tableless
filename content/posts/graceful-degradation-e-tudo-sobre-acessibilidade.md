@@ -1,6 +1,6 @@
 ---
 title: Graceful degradation é tudo sobre Acessibilidade
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-04-12
 excerpt: Cada tipo de dispositivo e perfil de usuário tem um nível de experiência. Você precisa dar a melhor experiência possível para cada um destes perfis. Isso se chama Graceful Degradation.

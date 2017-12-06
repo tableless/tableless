@@ -1,6 +1,6 @@
 ---
 title: Ouigo - Pinball em WebGL
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2017-07-31
 excerpt: Um pinball rodando direto do seu browser.

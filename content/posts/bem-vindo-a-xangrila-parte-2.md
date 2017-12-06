@@ -1,6 +1,6 @@
 ---
 title: Bem vindo a Xangri-lá – Parte 2
-author: Alysson Franklin
+authors: Alysson Franklin
 type: post
 date: 2010-12-06
 excerpt: Voltamos a Xangri-lá, para entender como as coisas funcionam. Veja como aplicar o Progressive Enhancement criando e customizando metodologias de trabalho. As expectativas e considerações do cliente geram o design e a funcionalidade de sua aplicação.

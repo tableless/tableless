@@ -1,6 +1,6 @@
 ---
 title: Um pouco sobre imagens para Web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-07-05
 url: /um-pouco-sobre-imagens-para-web/

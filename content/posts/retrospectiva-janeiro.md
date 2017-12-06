@@ -1,6 +1,6 @@
 ---
 title: Retrospectiva 2005 – Janeiro
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-01-01
 url: /retrospectiva-2005-janeiro/

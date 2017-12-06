@@ -1,6 +1,6 @@
 ---
 title: Faz uma animação legal aí!
-author: Vanessa Nunes
+authors: Vanessa Nunes
 type: post
 date: 2016-05-12
 url: /faz-uma-animacao-legal-ai/

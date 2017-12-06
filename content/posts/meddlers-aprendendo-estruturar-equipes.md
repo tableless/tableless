@@ -1,6 +1,6 @@
 ---
 title: Meddlers – Aprendendo a estruturar equipes
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-10-21
 excerpt: Como construir equipes e estruturas em diversos cenários.

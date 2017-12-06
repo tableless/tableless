@@ -1,6 +1,6 @@
 ---
 title: Realinhamento ou Redesign
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-04-13
 excerpt: Eu não sei você, mas eu adoro quando meus apps e websites preferidos mudam seus designs.

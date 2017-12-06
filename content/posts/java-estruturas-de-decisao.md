@@ -1,6 +1,6 @@
 ---
 title: JAVA – Estruturas de Decisão
-author: Fellipe Filgueiras
+authors: Fellipe Filgueiras
 type: post
 date: 2015-05-22
 excerpt: Entenda o que são as estruturas de decisão no Java.

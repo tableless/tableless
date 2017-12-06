@@ -1,6 +1,6 @@
 ---
 title: Hierarquia no design
-author: Fabio Marelli
+authors: Fabio Marelli
 type: post
 date: 2016-06-30
 url: /hierarquia-no-design/

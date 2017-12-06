@@ -1,6 +1,6 @@
 ---
 title: Opera Mobile passa no Acid2
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-05-31
 url: /opera-mobile-passa-no-acid2/

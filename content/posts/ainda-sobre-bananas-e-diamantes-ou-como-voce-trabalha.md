@@ -1,6 +1,6 @@
 ---
 title: Ainda sobre Bananas e Diamantes, ou como você trabalha
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-11-07
 url: /ainda-sobre-bananas-e-diamantes-ou-como-voce-trabalha/

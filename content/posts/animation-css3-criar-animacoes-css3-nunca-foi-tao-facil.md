@@ -1,6 +1,6 @@
 ---
 title: All Animation CSS3 – Criar animações CSS3 nunca foi tão fácil
-author: Clovis Neto
+authors: Clovis Neto
 type: post
 date: 2014-10-13
 excerpt: Animações cross-browser que darão mais ênfase a suas páginas como controles deslizantes, efeitos 3D’s, etc...

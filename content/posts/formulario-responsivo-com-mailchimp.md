@@ -1,6 +1,6 @@
 ---
 title: Formulário responsivo com MailChimp
-author: Palloi Hofmann
+authors: Palloi Hofmann
 type: post
 date: 2015-02-06
 excerpt: Cada dia mais estamos utilizando serviços disponíveis na web, principalmente aqueles que tem um plano básico gratuito que permite integrações.

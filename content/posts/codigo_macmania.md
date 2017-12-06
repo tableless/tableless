@@ -1,6 +1,6 @@
 ---
 title: Código do Tableless na MacMania
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-12-15
 url: /codigo_macmania/

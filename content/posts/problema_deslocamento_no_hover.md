@@ -1,6 +1,6 @@
 ---
 title: Problema – Deslocamento no Hover
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-07-14
 url: /problema_deslocamento_no_hover/

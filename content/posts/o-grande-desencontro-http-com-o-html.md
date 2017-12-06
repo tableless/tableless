@@ -1,6 +1,6 @@
 ---
 title: O grande desencontro do HTTP com o HTML
-author: Jean Carlo Emer
+authors: Jean Carlo Emer
 type: post
 date: 2014-01-06
 excerpt: Duas tecnologias criadas sob o mesmo projeto que possuem uma falha de compatibilidade. Vamos conhecer um pouco da história do HTTP e HTML, boas práticas e como manter interações coerentes entre cliente e servidor.

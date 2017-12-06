@@ -1,6 +1,6 @@
 ---
 title: O Caminho Suave para o Tableless
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-12-06
 url: /o-caminho-suave-para-o-tableless/

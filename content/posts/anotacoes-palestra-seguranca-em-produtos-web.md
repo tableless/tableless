@@ -1,6 +1,6 @@
 ---
 title: 'Anotações palestra: Segurança em Aplicações Web'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-05-21
 excerpt: Anotações sobre a palestra de segurança que o Nando fez no 16 Encontro Locaweb.

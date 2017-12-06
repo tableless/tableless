@@ -1,6 +1,6 @@
 ---
 title: 'Desempenho e eventos jQuery: event delegation'
-author: leobetosouza
+authors: leobetosouza
 type: post
 date: 2015-06-10
 excerpt: Como a utilização de event delegation com o jQuery pode ser otimizada.

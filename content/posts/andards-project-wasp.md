@@ -1,6 +1,6 @@
 ---
 title: Web Standards Project – WaSP
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-06-23
 url: /web-standards-project-wasp/

@@ -1,6 +1,6 @@
 ---
 title: Closure Tools
-author: Leonardo Lima
+authors: Leonardo Lima
 type: post
 date: 2015-01-25
 excerpt: Uma excelente ferramenta de minificação de arquivo javascript. Vou falar alguma coisa sobre Closure Tools e alguns exemplos de código fonte.

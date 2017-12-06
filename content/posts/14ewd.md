@@ -1,6 +1,6 @@
 ---
 title: 14º Encontro de Web Design – SP
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-03-27
 excerpt: Evento Encontro de Web Design em São Paulo. Porque trocar experiências é coisa básica.

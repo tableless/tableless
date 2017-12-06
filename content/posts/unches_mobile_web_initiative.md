@@ -1,6 +1,6 @@
 ---
 title: W3C Launches Mobile Web Initiative
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-11
 url: /w3c_launches_mobile_web_initiative/

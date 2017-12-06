@@ -1,6 +1,6 @@
 ---
 title: UOL convertido
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-10-08
 url: /uol_convertido/

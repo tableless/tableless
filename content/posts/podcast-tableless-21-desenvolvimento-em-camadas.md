@@ -1,6 +1,6 @@
 ---
 title: 'Podcast Tableless #21 – Desenvolvimento em camadas'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-08-17
 url: /podcast-tableless-21-desenvolvimento-em-camadas/

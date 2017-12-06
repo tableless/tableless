@@ -1,6 +1,6 @@
 ---
 title: Dicas de SEO para Front-end
-author: Gabriel Azevedo
+authors: Gabriel Azevedo
 type: post
 date: 2015-02-19
 excerpt: 'Sabemos que SEO é uma forte arma que nos possibilita alcançar um bom posicionamento nos sites de busca e aqui vai algumas dicas para isso. '

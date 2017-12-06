@@ -1,6 +1,6 @@
 ---
 title: Drops 15 – Eu era contra pré-processadores
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-03-30
 excerpt: Eu era contra pré-processadores, mas aprendi a gostar deles.

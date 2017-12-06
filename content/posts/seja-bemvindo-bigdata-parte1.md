@@ -1,6 +1,6 @@
 ---
 title: Seja bem-vindo ao Big Data e Eu serei seu guia — Parte 1 - Cursos
-author: Allan Sene
+authors: Allan Sene
 type: post
 date: 2017-07-24
 excerpt: Um guia pra começar bem na sua carreira de Engenheiro de Dados/Especialista Big Data, sem gastar rios de dinheiro.

@@ -1,6 +1,6 @@
 ---
 title: Usando condicionais no Sass – Control Directives
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-08-25
 excerpt: Saiba como funcionam as condicionais if, else, while, for e each no SASS.

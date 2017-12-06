@@ -1,6 +1,6 @@
 ---
 title: Destaques responsivos
-author: Palloi Hofmann
+authors: Palloi Hofmann
 type: post
 date: 2014-12-29
 excerpt: Estou de volta como prometido anteriormente com uma séria de artigos, hoje criaremos 3 destaques com um comportamento totalmente responsivo.

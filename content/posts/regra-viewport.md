@@ -1,6 +1,6 @@
 ---
 title: Entendendend a regra @viewport do HTML
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-06-04
 excerpt: Você poderá manipular o viewport diretamente do seu código CSS.

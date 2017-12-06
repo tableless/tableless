@@ -1,6 +1,6 @@
 ---
 title: 'A Era da  Informação não chegou'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-03-20
 url: /a-era-da-informacao-nao-chegou/

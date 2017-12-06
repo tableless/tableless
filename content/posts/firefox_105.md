@@ -1,6 +1,6 @@
 ---
 title: Firefox 1.0.5
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-07-13
 url: /firefox_105/

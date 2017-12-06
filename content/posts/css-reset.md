@@ -1,6 +1,6 @@
 ---
 title: CSS Reset
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-09-13
 url: /css-reset/

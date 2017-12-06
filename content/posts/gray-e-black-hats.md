@@ -1,6 +1,6 @@
 ---
 title: White, Gray e Black Hats
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-07-14
 categories:

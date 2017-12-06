@@ -1,6 +1,6 @@
 ---
 title: Como funciona a Internet e a World Wide Web
-author: Marcel dos Santos
+authors: Marcel dos Santos
 type: post
 date: 2015-11-23
 excerpt: Conhecermos alguns conceitos por trás do funcionamento da Internet e da World Wide Web é fundamental para os que entram no mundo do desenvolvimento web.

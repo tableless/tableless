@@ -1,6 +1,6 @@
 ---
 title: Identificando os IEs
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-07-10
 excerpt: Utilize dois modos simples para identificar os IEs em seus projetos.

@@ -1,6 +1,6 @@
 ---
 title: 'Acessibilidade na web: Como tornar seu site acessível.'
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2015-10-26
 excerpt: |

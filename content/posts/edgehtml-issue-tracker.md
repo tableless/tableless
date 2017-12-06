@@ -1,6 +1,6 @@
 ---
 title: EdgeHTML issue tracker
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-04-04
 excerpt: Cadastre e acompanhe bugs do browser da Microsoft Edge.

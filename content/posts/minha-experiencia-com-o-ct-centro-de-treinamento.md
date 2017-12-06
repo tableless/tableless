@@ -1,6 +1,6 @@
 ---
 title: Minha experiência com o CT (Centro de Treinamento)
-author: DaniloAgostinho
+authors: DaniloAgostinho
 type: post
 date: 2017-01-22
 aliases:

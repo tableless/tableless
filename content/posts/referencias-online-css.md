@@ -1,6 +1,6 @@
 ---
 title: Digest – Referências de CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-07-20
 excerpt: Uma listagem de algumas referências e lista de propriedades sobre propriedades do CSS.

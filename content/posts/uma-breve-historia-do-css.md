@@ -1,6 +1,6 @@
 ---
 title: Uma breve história do CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-11
 url: /uma-breve-historia-do-css/

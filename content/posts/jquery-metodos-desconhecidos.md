@@ -1,6 +1,6 @@
 ---
 title: 'jQuery: métodos desconhecidos'
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2012-01-31
 excerpt: Conheça alguns métodos pouco utilizados mas que podem ser grandes aliados dos desenvolvedores jQuery.

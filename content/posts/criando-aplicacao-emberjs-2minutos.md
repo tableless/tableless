@@ -1,6 +1,6 @@
 ---
 title: Criando uma aplicação Ember.js em 2 minutos
-author: Aurélio Saraiva
+authors: Aurélio Saraiva
 type: post
 date: 2017-10-29
 excerpt: “Mas Ember parou no tempo”... Será?!

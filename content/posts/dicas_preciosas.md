@@ -1,6 +1,6 @@
 ---
 title: Dicas preciosas
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-12-09
 url: /dicas_preciosas/

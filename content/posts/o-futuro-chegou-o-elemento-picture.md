@@ -1,6 +1,6 @@
 ---
 title: 'O futuro chegou: O elemento picture'
-author: Victor "reidark" Matias
+authors: Victor "reidark" Matias
 type: post
 date: 2014-06-10
 excerpt: Se você tinha problemas com imagens responsivas, agora não tem mais...

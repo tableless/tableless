@@ -1,6 +1,6 @@
 ---
 title: Mais sites tableless!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-09-18
 url: /mais_sites_tableless/

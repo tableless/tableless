@@ -1,6 +1,6 @@
 ---
 title: Entendendo a indentação no Javascript
-author: Júlio Carneiro
+authors: Júlio Carneiro
 type: post
 date: 2016-07-06
 url: /entendendo-indentacao-no-javascript/

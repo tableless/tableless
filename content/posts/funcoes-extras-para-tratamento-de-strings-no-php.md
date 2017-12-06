@@ -1,6 +1,6 @@
 ---
 title: Funções extras para tratamento de Strings no PHP
-author: chaves_dev
+authors: chaves_dev
 type: post
 date: 2015-03-09
 excerpt: Há alguns dias atrás enquanto estava contribuindo em um webservice, me deparei novamente com um problema para tratamento de strings no PHP, onde precisava fazer algumas operações extras.

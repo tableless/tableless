@@ -1,6 +1,6 @@
 ---
 title: Tableless.com.br – The Wonder Years
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-12-07
 url: /tablelesscombr-the-wonder-years/

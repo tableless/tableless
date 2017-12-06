@@ -1,6 +1,6 @@
 ---
 title: O kit do desenvolvedor Front-end
-author: Tailo Mateus Gonsalves
+authors: Tailo Mateus Gonsalves
 type: post
 date: 2017-10-18
 excerpt: Precisamos falar de código bom.

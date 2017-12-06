@@ -1,6 +1,6 @@
 ---
 title: 'Estruturação de front-end – Parte 1: Preprocessadores, Framewoks e Bibliotecas'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-05-09
 excerpt: Entenda a diferença entre preprocessadores, frameworks e bibliotecas de client-side. Saiba o que usar em seus projetos e quais as suas particularidades.

@@ -1,6 +1,6 @@
 ---
 title: Entendendo Sistemas de Grid CSS do Zero
-author: Tamiris Bonicenha
+authors: Tamiris Bonicenha
 type: post
 date: 2015-08-11
 excerpt: A matemática por trás dos sistemas de grid.

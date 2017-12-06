@@ -1,6 +1,6 @@
 ---
 title: Nokia Convertido
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-01-11
 url: /nokia_convertido/

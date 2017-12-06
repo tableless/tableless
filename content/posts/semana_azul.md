@@ -1,6 +1,6 @@
 ---
 title: Semana Azul
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-07-22
 url: /semana_azul/

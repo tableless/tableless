@@ -1,6 +1,6 @@
 ---
 title: Raspagem de dados com Node.js
-author: Rennan Martini Rodrigues
+authors: Rennan Martini Rodrigues
 type: post
 date: 2015-08-12
 url: /raspagem-de-dados-com-node-js/

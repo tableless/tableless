@@ -1,6 +1,6 @@
 ---
 title: Um raio-x do seu website
-author: Alysson Franklin
+authors: Alysson Franklin
 type: post
 date: 2011-03-03
 excerpt: 'Ferramentas e metodologia para entregar mais e com maior qualidade. O Progressive Enhancement pode nos ajudar como mostramos em outros artigos. E hoje vamos mergulhar em um tópico específico da metodologia. '

@@ -1,6 +1,6 @@
 ---
 title: Um software para front-end e UI Designers
-author: Rodrigo Godoy
+authors: Rodrigo Godoy
 type: post
 date: 2016-09-26
 url: /um-software-para-front-end-e-ui-designers/

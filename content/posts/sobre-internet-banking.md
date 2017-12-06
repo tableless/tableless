@@ -1,6 +1,6 @@
 ---
 title: Sobre Internet Banking
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-03-11
 url: /sobre-internet-banking/

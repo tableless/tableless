@@ -1,6 +1,6 @@
 ---
 title: Utilizando a Biblioteca Modernizr
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-10-17
 excerpt: Alguns browsers não aceitam as novas features de CSS3 e HTML5. Saiba como detectá-los e tratá-los com a biblioteca Modernizr.

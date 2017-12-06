@@ -1,6 +1,6 @@
 ---
 title: Em qualquer dispositivo…
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-16
 url: /internet_banking_do_passado/

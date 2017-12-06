@@ -1,6 +1,6 @@
 ---
 title: Material Design com Materialize
-author: Tiago Luiz
+authors: Tiago Luiz
 type: post
 date: 2015-09-30
 excerpt: Crie seu site utilizando um Framework totalmente material design, que não deixa a desejar em nada e seus resultados podem te surpreender. Do Conceito à prática com layout Material.

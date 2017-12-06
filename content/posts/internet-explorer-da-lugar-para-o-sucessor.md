@@ -1,6 +1,6 @@
 ---
 title: Internet Explorer dá lugar para o sucessor
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-03-25
 excerpt: Entendendo um pouco mais sobre novo browser Spartan e seu novo motor de renderização.

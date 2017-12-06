@@ -1,6 +1,6 @@
 ---
 title: 'Bonito de se ver #6'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-17
 categories:

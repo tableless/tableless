@@ -1,6 +1,6 @@
 ---
 title: Cobertura Campus Party Brasil 2014 – Parte 1
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2014-01-30
 excerpt: O Tableless está na Campus Party Brasil 2014! Confira os destaques do primeiro dia do evento (28/01).

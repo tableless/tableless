@@ -1,6 +1,6 @@
 ---
 title: Escrevendo um XHTML válido
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-12-06
 url: /escrevendo-um-xhtml-valido/

@@ -1,6 +1,6 @@
 ---
 title: JavaScript de forma assíncrona e legível
-author: Igor Ribeiro Lima
+authors: Igor Ribeiro Lima
 type: post
 date: 2013-12-30
 url: /javascript-de-forma-assincrona-e-legivel/

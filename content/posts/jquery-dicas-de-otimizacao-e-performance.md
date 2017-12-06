@@ -1,6 +1,6 @@
 ---
 title: 'jQuery: dicas de otimização e performance'
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2012-01-10
 excerpt: Performance é um aspecto muito importante em aplicações web. Confira algumas dicas simples de como otimizar seu código jQuery.

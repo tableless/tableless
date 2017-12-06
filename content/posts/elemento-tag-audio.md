@@ -1,6 +1,6 @@
 ---
 title: 'HTML5: Elemento AUDIO'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-12-14
 excerpt: A tag audio é suportada pela maioria dos browsers atuais. Ela representa um som ou um stream de audio e pode ser utilizada agora. Leia como.

@@ -1,6 +1,6 @@
 ---
 title: Plugins de GIT para Sublime e Brackets
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-01-20
 excerpt: Conheça alguns plugins para integrar o Git no Sublime e Brackets

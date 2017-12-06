@@ -1,6 +1,6 @@
 ---
 title: Código Limpo
-author: Alan Cezar
+authors: Alan Cezar
 type: post
 date: 2015-02-11
 url: /codigo-limpo/

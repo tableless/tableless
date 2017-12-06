@@ -1,6 +1,6 @@
 ---
 title: 5 dicas para jogar dinheiro no lixo com email marketing
-author: Manoel Netto
+authors: Manoel Netto
 type: post
 date: 2013-10-01
 excerpt: Saiba como você pode jogar dinheiro fora em 5 dicas básicas.

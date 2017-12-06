@@ -1,6 +1,6 @@
 ---
 title: Apple virando tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-10-13
 url: /apple_virando_tableless/

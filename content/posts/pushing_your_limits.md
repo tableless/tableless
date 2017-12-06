@@ -1,6 +1,6 @@
 ---
 title: Pushing Your Limits
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-10-26
 url: /pushing_your_limits/

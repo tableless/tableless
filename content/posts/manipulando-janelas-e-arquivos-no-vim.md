@@ -1,6 +1,6 @@
 ---
 title: Manipulando janelas e arquivos no VIM
-author: weslleyaraujo
+authors: weslleyaraujo
 type: post
 date: 2015-03-11
 excerpt: Algumas dicas para trabalhar de maneira rápida com múltiplos arquivos no VIM.

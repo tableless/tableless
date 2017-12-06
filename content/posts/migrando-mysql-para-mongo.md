@@ -1,6 +1,6 @@
 ---
 title: Migrando do MySQL para Mongo
-author: Elvis
+authors: Elvis
 type: post
 date: 2015-03-22
 excerpt: Breve explicação sobre como migrar do MySQL para o MongoDB.

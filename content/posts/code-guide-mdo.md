@@ -1,6 +1,6 @@
 ---
 title: Code Guide by @mdo
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-02-28
 excerpt: Tradução do Code Guide do @mdo.

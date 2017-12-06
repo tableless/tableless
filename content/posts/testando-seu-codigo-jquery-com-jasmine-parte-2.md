@@ -1,6 +1,6 @@
 ---
 title: Testando seu código jQuery com Jasmine – Parte 2
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2011-10-04
 excerpt: Nesta segunda parte você conhece um pouco mais sobre o framework de testes Jasmine. Aprenda a criar matchers personalizados e testar AJAX e métodos em objetos.

@@ -1,6 +1,6 @@
 ---
 title: Introdução ao AMD com Require.js
-author: Lucas Caprio
+authors: Lucas Caprio
 type: post
 date: 2015-08-14
 excerpt: Aprenda agora em 4 passos simples a modularizar seu código JavaScript utilizando a especificação AMD com RequireJS.

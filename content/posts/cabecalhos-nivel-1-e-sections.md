@@ -1,6 +1,6 @@
 ---
 title: Cabeçalhos nível 1, sections e acessibilidade
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2014-09-01
 excerpt: Como múltiplos H1 dentro de sections impactam a acessibilidade da sua página

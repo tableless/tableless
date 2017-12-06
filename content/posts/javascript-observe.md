@@ -1,6 +1,6 @@
 ---
 title: Javascript Observe
-author: João Felix
+authors: João Felix
 type: post
 date: 2014-02-20
 excerpt: A futura implementação do Javascript Harmony capaz de observar e notificar aplicações sobre as mudanças ocorridas em objetos Javascript.

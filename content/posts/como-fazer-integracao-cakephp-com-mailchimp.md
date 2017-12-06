@@ -1,6 +1,6 @@
 ---
 title: Como fazer integração do CakePHP com Mailchimp
-author: Gustavo Henrique Prado Reis
+authors: Gustavo Henrique Prado Reis
 type: post
 date: 2015-03-26
 excerpt: Aprenda como fazer integração do Mailchimp com o framework CakePHP

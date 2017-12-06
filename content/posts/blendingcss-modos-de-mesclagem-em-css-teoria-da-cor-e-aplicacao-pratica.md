@@ -1,6 +1,6 @@
 ---
 title: '#BlendingCSS – Modos de mesclagem em CSS: Teoria da Cor e Aplicação Prática'
-author: Moisés Lopes Ferreira
+authors: Moisés Lopes Ferreira
 type: post
 date: 2016-11-01
 url: /blendingcss-modos-de-mesclagem-em-css-teoria-da-cor-e-aplicacao-pratica/

@@ -1,6 +1,6 @@
 ---
 title: Padrões Complexos de Navegação no Design Responsivo
-author: Will Sales
+authors: Will Sales
 type: post
 date: 2013-06-28
 excerpt: Como lidar com uma navegação complexa no design responsivo? Nesta tradução, Brad Frost mostra os prós e os contras na utilização de alguns padrões de menus.

@@ -1,6 +1,6 @@
 ---
 title: Seletores Agrupados e Encadeados
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-03-09
 excerpt: Sobre seletores agrupados e seletores encadeados. Explicação rápida e básica.

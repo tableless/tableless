@@ -1,6 +1,6 @@
 ---
 title: Convencimento e educação = liberdade
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-12-15
 excerpt: 'A obrigação do desenvolvedor client-side é educar e convencer. Porque ninguém gosta de perder tempo e dinheiro. '

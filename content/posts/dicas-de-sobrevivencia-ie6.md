@@ -1,6 +1,6 @@
 ---
 title: Dicas de sobrevivência em uma era pós o IE6
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-04-09
 excerpt: Confira algumas propriedades importantes do CSS que você não podia usar no IE6, mas pode usar hoje no IE7 ou superior.

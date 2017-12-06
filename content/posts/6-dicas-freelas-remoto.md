@@ -1,6 +1,6 @@
 ---
 title: 6 dicas para se dar bem em freelas e trabalhos remotos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-03-24
 excerpt: Você tem uma série de disciplinas que fazem você ser um dev melhor trabalhando remoto e apurando seu senso de responsabilidade

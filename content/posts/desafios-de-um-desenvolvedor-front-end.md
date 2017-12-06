@@ -1,6 +1,6 @@
 ---
 title: Desafios de um desenvolvedor front-end
-author: Deivid Marques
+authors: Deivid Marques
 type: post
 date: 2014-02-28
 excerpt: Veja os caminhos e os desafios vividos por um desenvolvedor front-end em um projeto web.

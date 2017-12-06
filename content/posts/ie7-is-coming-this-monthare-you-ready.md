@@ -1,6 +1,6 @@
 ---
 title: IE7 Is Coming This Month…Are you Ready?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-10-09
 url: /ie7-is-coming-this-monthare-you-ready/

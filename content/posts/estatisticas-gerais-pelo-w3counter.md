@@ -1,6 +1,6 @@
 ---
 title: Estatísticas gerais pelo W3Counter
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-05-29
 url: /estatisticas-gerais-pelo-w3counter/

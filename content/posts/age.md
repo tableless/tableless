@@ -1,6 +1,6 @@
 ---
 title: ZenGarage
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-15
 url: /zengarage/

@@ -1,6 +1,6 @@
 ---
 title: Layouts antigos do Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-03-18
 excerpt: Versões antigas do layout do Tableless...

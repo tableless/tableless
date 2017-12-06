@@ -1,6 +1,6 @@
 ---
 title: Livro sobre Padrões Web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-04-26
 url: /livro-sobre-padroes-web/

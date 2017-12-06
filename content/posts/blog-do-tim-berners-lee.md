@@ -1,6 +1,6 @@
 ---
 title: Rapidinhas
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-10-29
 url: /blog-do-tim-berners-lee/

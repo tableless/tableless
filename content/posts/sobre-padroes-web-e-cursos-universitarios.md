@@ -1,6 +1,6 @@
 ---
 title: Sobre Padrões Web e Cursos Universitários
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-01-09
 url: /sobre-padroes-web-e-cursos-universitarios/

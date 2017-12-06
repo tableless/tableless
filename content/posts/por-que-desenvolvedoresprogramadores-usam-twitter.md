@@ -1,6 +1,6 @@
 ---
 title: Por que Desenvolvedores/Programadores usam Twitter?
-author: Mateus Malaquias
+authors: Mateus Malaquias
 type: post
 date: 2016-11-29
 url: /por-que-desenvolvedoresprogramadores-usam-twitter/

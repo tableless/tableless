@@ -1,6 +1,6 @@
 ---
 title: KISS!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-02-01
 url: /kiss/

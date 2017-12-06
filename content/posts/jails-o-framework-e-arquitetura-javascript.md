@@ -1,6 +1,6 @@
 ---
 title: Jails – O Framework e a Arquitetura do Javascript
-author: Javiani
+authors: Javiani
 type: post
 date: 2015-06-17
 excerpt: Eu escrevi meu próprio framework por que estava insatisfeito com os oferecidos no mercado. E foi ótimo!

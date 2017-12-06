@@ -1,6 +1,6 @@
 ---
 title: Prepared Statements no MySQL
-author: Layo Azevedo
+authors: Layo Azevedo
 type: post
 date: 2013-04-18
 excerpt: Para iniciantes, entenda como o Prepared Statements funciona no MySQL.

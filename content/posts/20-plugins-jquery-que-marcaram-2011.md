@@ -1,6 +1,6 @@
 ---
 title: 20 plugins jQuery que marcaram 2011
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2011-12-15
 excerpt: Final de ano, época de listas. Confira 20 plugins jQuery que chamaram atenção em 2011, incluindo slideshows, utilitários para formulários e o framework jQuery Mobile.

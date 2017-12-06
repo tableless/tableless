@@ -1,6 +1,6 @@
 ---
 title: Instalando o CAKEPHP 3.0 via Composer
-author: Eduardo Abreu
+authors: Eduardo Abreu
 type: post
 date: 2015-06-07
 excerpt: Instalando o CakePHP via Composer.

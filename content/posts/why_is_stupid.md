@@ -1,6 +1,6 @@
 ---
 title: Why tables for layout is stupid
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-10-28
 url: /why_is_stupid/

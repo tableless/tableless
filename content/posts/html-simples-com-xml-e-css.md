@@ -1,6 +1,6 @@
 ---
 title: HTML simples com XML e CSS
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-12-06
 url: /html-simples-com-xml-e-css/

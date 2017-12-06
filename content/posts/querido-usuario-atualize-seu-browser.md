@@ -1,6 +1,6 @@
 ---
 title: 'Querido usuário: Por favor, atualize seu browser'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-07-15
 excerpt: Um texto que pode ajudar os usuários normais a atualizar seus browsers antigos.

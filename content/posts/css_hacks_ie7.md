@@ -1,6 +1,6 @@
 ---
 title: Css Hacks e IE 7
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-10-13
 url: /css_hacks_ie7/

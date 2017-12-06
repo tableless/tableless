@@ -1,6 +1,6 @@
 ---
 title: Constant Array no PHP 7
-author: Rodrigo Brandão
+authors: Rodrigo Brandão
 type: post
 date: 2016-02-18
 excerpt: Com o lançamento do PHP 7, agora é possível criar constantes do tipo array (vetor).

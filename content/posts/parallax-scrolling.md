@@ -1,6 +1,6 @@
 ---
 title: Parallax Scrolling
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2012-12-03
 excerpt: Entenda como funciona o efeito parallax.

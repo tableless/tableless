@@ -1,6 +1,6 @@
 ---
 title: 'Podcast #19 – WYSIWYG, WiMax e a onda móvel'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-03-14
 url: /podcast-19-wysiwyg-wimax-e-a-onda-movel/

@@ -1,6 +1,6 @@
 ---
 title: Comprei um Chromebook. E agora?
-author: Marcelo Matzembacher
+authors: Marcelo Matzembacher
 type: post
 date: 2015-04-28
 excerpt: Saiba, basicamente, como é um ambiente de desenvolvimento em um Chromebook. Levantei até um Wordpress. ;-)

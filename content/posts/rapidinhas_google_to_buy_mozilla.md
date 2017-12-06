@@ -1,6 +1,6 @@
 ---
 title: 'Rapidinhas: Google to buy Mozilla?'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-30
 url: /rapidinhas_google_to_buy_mozilla/

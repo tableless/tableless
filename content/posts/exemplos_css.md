@@ -1,6 +1,6 @@
 ---
 title: Exemplos de CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-11
 url: /exemplos_css/

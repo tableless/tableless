@@ -1,6 +1,6 @@
 ---
 title: Gantry 5 – Desenvolvimento de templates para Joomla e WordPress
-author: Léo WG
+authors: Léo WG
 type: post
 date: 2015-08-17
 excerpt: O Gantry é um framework de template Open Source e gratuito para o desenvolvimento de templates em Joomla e Wordpress.

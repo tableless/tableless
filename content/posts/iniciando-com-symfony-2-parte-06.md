@@ -1,6 +1,6 @@
 ---
 title: Iniciando com Symfony 2 – Parte 06
-author: Candido Souza
+authors: Candido Souza
 type: post
 date: 2015-04-01
 excerpt: Nesse tutorial vamos estruturar e estilizar nossas páginas com Bootstrap e com o mecanismo de template para PHP, o Twig.

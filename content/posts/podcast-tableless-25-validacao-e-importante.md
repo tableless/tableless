@@ -1,6 +1,6 @@
 ---
 title: 'Podcast Tableless #25 – Validação é importante?!'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-11-09
 url: /podcast-tableless-25-validacao-e-importante/

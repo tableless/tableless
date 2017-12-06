@@ -1,6 +1,6 @@
 ---
 title: Comparando os navegadores
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-27
 url: /comparando_os_navegadores/

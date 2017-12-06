@@ -1,6 +1,6 @@
 ---
 title: Uma forma simples de criar um bom hábito
-author: Tailo Mateus Gonsalves
+authors: Tailo Mateus Gonsalves
 type: post
 date: 2017-08-31
 excerpt: O que é um hábito?

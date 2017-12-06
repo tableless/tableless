@@ -1,6 +1,6 @@
 ---
 title: PNG ou GIF?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-12-10
 url: /png_ou_gif/

@@ -1,6 +1,6 @@
 ---
 title: Firefox 1.5.0.5 e Flofox Theme
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-07-27
 url: /firefox-1505-e-flofox-theme/

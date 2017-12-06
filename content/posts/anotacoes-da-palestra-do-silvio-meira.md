@@ -1,6 +1,6 @@
 ---
 title: Anotações da palestra do Silvio Meira
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-05-07
 excerpt: Anotações da palestra que o Silvio Meira fez no Encontro Locaweb de Profissionais de Internet em Curitiba.

@@ -1,6 +1,6 @@
 ---
 title: Otimizando e organizando seu front-end com PHP
-author: Layo Azevedo
+authors: Layo Azevedo
 type: post
 date: 2013-04-28
 excerpt: Quer ser diferente no mercado? Conheça o PHP e suas vertentes. Auxiliando e organizando seus projetos front-end

@@ -1,6 +1,6 @@
 ---
 title: Front-end United – Leo Kzw
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-03-17
 excerpt: Uma campanha para ajudar o Leonardo Konarzewski a vencer um câncer raro.

@@ -1,6 +1,6 @@
 ---
 title: Gerenciando módulos no TypeScript
-author: Daniel Schmitz
+authors: Daniel Schmitz
 type: post
 date: 2016-01-12
 url: /gerenciando-modulos-no-typescript/

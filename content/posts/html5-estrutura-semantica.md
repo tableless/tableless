@@ -1,6 +1,6 @@
 ---
 title: HTML 5 – Mudanças na estrutura e semântica
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-02-16
 excerpt: Todos os dias sites e mais sites são publicados na internet e nenhum deles com um padrão de nomenclatura de classes e ids.

@@ -1,6 +1,6 @@
 ---
 title: O futuro do jQuery
-author: Dave Arel
+authors: Dave Arel
 type: post
 date: 2014-02-28
 excerpt: Você já pensou no futuro do jQuery?

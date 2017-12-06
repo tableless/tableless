@@ -1,6 +1,6 @@
 ---
 title: Rollover Rápido
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-05-09
 url: /rollover_rapido/

@@ -1,6 +1,6 @@
 ---
 title: Podcast sob encomenda
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-12-16
 url: /podcast-sob-encomenda/

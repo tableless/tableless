@@ -1,6 +1,6 @@
 ---
 title: Como usar os pseudo elementos :before e o :after
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-07-23
 excerpt: Como utilizar os pseudo-elementos :before e :after com a propriedade content.

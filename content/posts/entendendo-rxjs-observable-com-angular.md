@@ -1,6 +1,6 @@
 ---
 title: Entendendo RxJS Observable com Angular
-author: Wendel Nascimento
+authors: Wendel Nascimento
 type: post
 image: https://i.imgur.com/da746Te.png
 date: 2017-09-03

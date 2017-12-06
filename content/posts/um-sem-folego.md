@@ -1,6 +1,6 @@
 ---
 title: Um 2009 sem fôlego
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-01-01
 excerpt: Este foi um ano de batalhas como qualquer outro. Mas 2009 está chegando e quem sabe qual será o caminho que o desenvolvimento web irá percorrer?

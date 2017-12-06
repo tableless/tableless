@@ -1,6 +1,6 @@
 ---
 title: Utilizando Mixins em pré-processadores CSS
-author: João Felix
+authors: João Felix
 type: post
 date: 2014-01-13
 excerpt: Entendendo o básico de mixins do SASS.

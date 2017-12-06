@@ -1,6 +1,6 @@
 ---
 title: Sites para Dispositivos Móveis – MediaType
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-12-06
 url: /sites-para-dispositivos-moveis-mediatype/

@@ -1,6 +1,6 @@
 ---
 title: Como criar um Chrome App com o seu Chromebook
-author: Roger Albino
+authors: Roger Albino
 type: post
 date: 2015-06-01
 excerpt: Criando seu primeiro App para Chrome direto do seu Chromebook!

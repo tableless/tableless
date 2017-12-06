@@ -1,6 +1,6 @@
 ---
 title: Wasabi – Seu amigo mais chegado
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-09
 url: /wasabi-seu-amigo-mais-chegado/

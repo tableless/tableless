@@ -1,6 +1,6 @@
 ---
 title: Lendo um arquivo de texto com AJAX
-author: Moacyr Minéro
+authors: Moacyr Minéro
 type: post
 date: 2011-09-14
 url: /lendo-um-arquivo-de-texto-com-ajax/

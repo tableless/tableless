@@ -1,6 +1,6 @@
 ---
 title: 'Material Design Lite: O framework do Google'
-author: Isaque Melo
+authors: Isaque Melo
 type: post
 date: 2015-07-08
 excerpt: A biblioteca de componentes e templates já conhecida dos aplicativos agora para websites em CSS, HTML e Javascript.

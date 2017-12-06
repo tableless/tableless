@@ -1,6 +1,6 @@
 ---
 title: 'Breve introdução: XHTML Mobile Profile'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-03-28
 url: /breve-introducao-xhtml-mobile-profile/

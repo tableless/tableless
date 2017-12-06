@@ -1,6 +1,6 @@
 ---
 title: Aplicação da Metatag de Autor no HTML
-author: Carina Andrade
+authors: Carina Andrade
 type: post
 date: 2014-04-30
 excerpt: Saiba como usar a metatag de Author e como isso afeta os motores de busca. Principalmente o Google.

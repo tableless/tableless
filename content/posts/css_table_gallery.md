@@ -1,6 +1,6 @@
 ---
 title: CSS Table Gallery
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-02
 url: /css_table_gallery/

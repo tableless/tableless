@@ -1,6 +1,6 @@
 ---
 title: EYESMiLES
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-07-13
 url: /eyesmiles/

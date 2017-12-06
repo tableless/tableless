@@ -1,6 +1,6 @@
 ---
 title: Duas dicas de como lidar com o Not Provided
-author: Douglas Faria
+authors: Douglas Faria
 type: post
 date: 2014-02-26
 url: /duas-dicas-de-como-lidar-com-o-provided-comece-desbanca-lo/

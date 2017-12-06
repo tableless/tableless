@@ -1,6 +1,6 @@
 ---
 title: Netscape 8
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-20
 url: /netscape_8/

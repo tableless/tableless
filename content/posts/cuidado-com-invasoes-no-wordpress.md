@@ -1,6 +1,6 @@
 ---
 title: Cuidado com invasões no WordPress
-author: Paulo Rodrigues
+authors: Paulo Rodrigues
 type: post
 date: 2012-04-20
 excerpt: O WordPress não é perfeito e possui falhas, tome cuidado com possíveis invasões.

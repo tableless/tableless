@@ -1,6 +1,6 @@
 ---
 title: Email Marketing – Testes e CSS Inliner – Parte 2
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-04-20
 excerpt: Testando e melhorando o fluxo de produção de código de email marketing.

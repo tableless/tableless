@@ -1,6 +1,6 @@
 ---
 title: Como se tornar um profissional Top em WordPress
-author: Rodrigo Simoni
+authors: Rodrigo Simoni
 type: post
 date: 2013-02-04
 excerpt: Como se tornar um profissional top em Wordpress.

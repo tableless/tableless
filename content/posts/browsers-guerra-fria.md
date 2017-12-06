@@ -1,6 +1,6 @@
 ---
 title: Browsers – Guerra Fria
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-03-18
 url: /browsers-guerra-fria/

@@ -1,6 +1,6 @@
 ---
 title: Banana ou Diamante, qual você é?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-13
 url: /banana-ou-diamante-qual-voce-e/

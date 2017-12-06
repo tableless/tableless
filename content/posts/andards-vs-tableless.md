@@ -1,6 +1,6 @@
 ---
 title: Web Standards vs Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-07-27
 url: /web-standards-vs-tableless/

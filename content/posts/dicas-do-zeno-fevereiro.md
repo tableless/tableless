@@ -1,6 +1,6 @@
 ---
 title: Dicas do Zeno – Fevereiro
-author: Zeno Rocha
+authors: Zeno Rocha
 type: post
 date: 2013-02-28
 excerpt: O que rolou de melhor no mundo do front-end nesse mês de fevereiro.

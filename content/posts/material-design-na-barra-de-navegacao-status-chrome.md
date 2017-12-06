@@ -1,6 +1,6 @@
 ---
 title: 'Material Design na barra de navegação & status do Chrome'
-author: Joédyson Bezerra
+authors: Joédyson Bezerra
 type: post
 date: 2015-04-27
 excerpt: Saiba como customizar a barra de navegação do Chrome no Android usando apenas HTML.

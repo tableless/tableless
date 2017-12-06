@@ -1,6 +1,6 @@
 ---
 title: O futuro do CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-05-09
 url: /o-futuro-do-css/

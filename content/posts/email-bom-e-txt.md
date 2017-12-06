@@ -1,6 +1,6 @@
 ---
 title: Email bom é TXT
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-12-06
 url: /email-bom-e-txt/

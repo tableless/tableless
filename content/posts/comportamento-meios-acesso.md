@@ -1,6 +1,6 @@
 ---
 title: Comportamento e meios de acesso
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-03-18
 url: /comportamento-meios-acesso/

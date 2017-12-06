@@ -1,6 +1,6 @@
 ---
 title: Plugins jQuery e bibliotecas JavaScript para e-commerces
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2013-02-26
 excerpt: Usabilidade não é o forte da maioria dos e-commerces nacionais. Conheça alguns plugins que podem facilitar (e muito) a vida dos usuários da sua loja virtual.

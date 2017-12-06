@@ -1,6 +1,6 @@
 ---
 title: OOCSS ou CSS do jeito certo
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-12-19
 excerpt: O CSS é algo muito simples de ser escrito mas com apenas um deslize todo o código pode transformar o projeto em um inferno. Saiba como podemos evitar isso.

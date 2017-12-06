@@ -1,6 +1,6 @@
 ---
 title: Desenvolvedor Retrógrado
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-07-01
 url: /desenvolvedor-retrogrado/

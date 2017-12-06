@@ -1,6 +1,6 @@
 ---
 title: 'Web Components: Introdução'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-05-13
 excerpt: Entenda os principais tópicos e as informações iniciais sobre Web Components.

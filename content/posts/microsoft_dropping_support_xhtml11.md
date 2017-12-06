@@ -1,6 +1,6 @@
 ---
 title: Microsoft Dropping Support for XHTML1.1
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-01
 url: /microsoft_dropping_support_xhtml11/

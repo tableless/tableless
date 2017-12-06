@@ -1,6 +1,6 @@
 ---
 title: Isso é coisa básica
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-11-05
 url: /isso-e-coisa-basica/

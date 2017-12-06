@@ -1,6 +1,6 @@
 ---
 title: Google Web Starter Kit
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2014-09-01
 excerpt: Conheça o boilerplate focado em design responsivo e performance criado pela equipe da Google.

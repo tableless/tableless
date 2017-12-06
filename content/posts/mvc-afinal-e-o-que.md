@@ -1,6 +1,6 @@
 ---
 title: MVC – Afinal, é o quê ?
-author: Allan Ramos
+authors: Allan Ramos
 type: post
 date: 2015-02-26
 excerpt: Explicando o MVC, um padrão de arquitetura para organizar sua aplicação.

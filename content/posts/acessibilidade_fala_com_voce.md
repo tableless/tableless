@@ -1,6 +1,6 @@
 ---
 title: Acessibilidade fala com você
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-08-04
 url: /acessibilidade_fala_com_voce/

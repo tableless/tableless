@@ -1,6 +1,6 @@
 ---
 title: Como se tornar um dev front-end
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-10-09
 excerpt: Alguns assuntos importantes que você, futuro dev front-end deve saber e conhecer.

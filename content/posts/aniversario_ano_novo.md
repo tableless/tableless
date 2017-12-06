@@ -1,6 +1,6 @@
 ---
 title: Aniversário e Ano Novo
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-01-01
 url: /aniversario_ano_novo/

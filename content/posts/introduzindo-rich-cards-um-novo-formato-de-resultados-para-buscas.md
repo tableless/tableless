@@ -1,6 +1,6 @@
 ---
 title: Introduzindo “Rich Cards”, um novo formato de resultados para Buscas
-author: Rodrigo Fávaro
+authors: Rodrigo Fávaro
 type: post
 date: 2016-07-04
 url: /introduzindo-rich-cards-um-novo-formato-de-resultados-para-buscas/

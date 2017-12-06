@@ -1,6 +1,6 @@
 ---
 title: Como criar um time de Dados eficiente dentro da sua organização
-author: Allan Sene
+authors: Allan Sene
 type: post
 date: 2017-10-15
 excerpt: Como definir seus pilares para tratar Big Data com eficiência, extraindo o máximo de valor de seus dados para aplicação eficiente de Data Science e Business Intelligence nos seus produtos.

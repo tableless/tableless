@@ -1,6 +1,6 @@
 ---
 title: Browser de código aberto em Celulares
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-13
 url: /browser_codigo_aberto_celulares/

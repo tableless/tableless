@@ -1,6 +1,6 @@
 ---
 title: Páginas acessíveis com o HaTeMiLe
-author: Carlson Santana Cruz
+authors: Carlson Santana Cruz
 type: post
 image: http://imgh.us/dog-41431_1280.png
 date: 2017-05-07

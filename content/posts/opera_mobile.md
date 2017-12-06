@@ -1,6 +1,6 @@
 ---
 title: 'Opera Mobile: 1.000.000 de Downloads.'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-24
 url: /opera_mobile/

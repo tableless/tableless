@@ -1,6 +1,6 @@
 ---
 title: Convertidos Tableless de volta
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-03-06
 url: /convertidos-tableless-de-volta/

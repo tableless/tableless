@@ -1,6 +1,6 @@
 ---
 title: PHP na linha de comando
-author: Gustavo Straube
+authors: Gustavo Straube
 type: post
 date: 2014-07-24
 excerpt: O PHP, assim como outras linguagens de programação, oferece a opção de execução via linha de comando. Aprenda nesse passo a passo básico como usar o terminal para executar seus scripts.

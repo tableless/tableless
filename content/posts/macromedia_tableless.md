@@ -1,6 +1,6 @@
 ---
 title: Macromedia Tableless
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-08-25
 url: /macromedia_tableless/

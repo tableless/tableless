@@ -1,6 +1,6 @@
 ---
 title: Integração Contínua com Travis CI — Parte 01
-author: Jaime Neves
+authors: Jaime Neves
 type: post
 date: 2016-12-12
 url: /integracao-continua-com-travis-ci - parte-01/

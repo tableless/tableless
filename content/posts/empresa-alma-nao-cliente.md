@@ -1,6 +1,6 @@
 ---
 title: A sua empresa tem alma e não é a do seu cliente
-author: Bernard De Luna
+authors: Bernard De Luna
 type: post
 date: 2013-09-23
 excerpt: Alguns clientes confundem a postura pessoal com a profissional, o problema a ser superado é quando quer impor o seu estilo para o projeto. Isso também vale para o designer que tenta impor seu estilo no projeto do cliente.

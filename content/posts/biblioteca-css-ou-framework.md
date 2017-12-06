@@ -1,6 +1,6 @@
 ---
 title: Biblioteca CSS ou Framework?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-10-10
 excerpt: 'O que é melhor utilizar: biblioteca de CSS ou um Framework?'

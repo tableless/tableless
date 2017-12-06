@@ -1,6 +1,6 @@
 ---
 title: Pocket-Sized Design
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-08-31
 url: /pocket_sized_design/

@@ -1,6 +1,6 @@
 ---
 title: Desenvolvendo apps para SmartTVs com HTML, CSS e Ajax
-author: WillBliner
+authors: WillBliner
 type: post
 date: 2015-08-03
 excerpt: Entenda como funciona o básico do desenvolvimento pra SmartTVs.

@@ -1,6 +1,6 @@
 ---
 title: Melhores Práticas Web Components
-author: Mateus Ortiz
+authors: Mateus Ortiz
 type: post
 date: 2014-09-10
 excerpt: Conheça práticas simples que podem ajudar na organização do seu web component.

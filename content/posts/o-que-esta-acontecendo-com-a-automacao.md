@@ -1,6 +1,6 @@
 ---
 title: Mas afinal, o que está acontecendo com a automação?
-author: Tailo Mateus Gonsalves
+authors: Tailo Mateus Gonsalves
 type: post
 image: http://i.imgur.com/NQLUTgq.jpg
 date: 2017-06-09

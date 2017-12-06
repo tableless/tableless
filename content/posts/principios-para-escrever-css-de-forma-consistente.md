@@ -1,6 +1,6 @@
 ---
 title: Princípios para escrever CSS de forma consistente
-author: Zeno Rocha
+authors: Zeno Rocha
 type: post
 date: 2012-02-14
 excerpt: Pra você que não aguenta mais ver código bagunçado

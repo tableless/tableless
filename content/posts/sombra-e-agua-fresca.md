@@ -1,6 +1,6 @@
 ---
 title: Sombra e água fresca – 1º de Abril atrasado! ;-)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-04-02
 url: /sombra-e-agua-fresca/

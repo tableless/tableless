@@ -1,6 +1,6 @@
 ---
 title: 'Padrões Web: De onde viemos, para onde vamos?'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-08-08
 url: /padroes-web-de-onde-viemos-para-onde-vamos/

@@ -1,6 +1,6 @@
 ---
 title: R$100.000 jogados fora?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-05-26
 url: /r-100000-jogados-fora/

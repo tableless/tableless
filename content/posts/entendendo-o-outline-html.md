@@ -1,6 +1,6 @@
 ---
 title: Entendendo o Outline do HTML
-author: Daniel Ramos
+authors: Daniel Ramos
 type: post
 date: 2015-01-22
 excerpt: Entenda porquê não usar tantos H1 e como funciona o fluxo de outline do HTML.

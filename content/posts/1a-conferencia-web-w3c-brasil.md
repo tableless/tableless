@@ -1,6 +1,6 @@
 ---
 title: 1a. Conferência Web W3C Brasil
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-08-28
 excerpt: O W3C no Brasil tem feito uma série de iniciativas para alavancar e divulgar o desenvolvimento dos padrões web. Esse é um trabalho árduo, principalmente em países do tamanho do Brasil, que tem um número grande de programadores, designers e outros profissionais.

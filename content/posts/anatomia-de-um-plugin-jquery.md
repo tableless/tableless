@@ -1,6 +1,6 @@
 ---
 title: Anatomia de um plugin jQuery
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2010-09-14
 excerpt: jQuery é um framework JavaScript, o mais sexy do pedaço, que transformou essa linguagem em uma das mais importantes ferramentas presentes no set de um webdesigner ou um desenvolvedor frontend. O que antes era chato e complicado, passou a ser extremamente dinâmico e elegante.

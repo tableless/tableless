@@ -1,6 +1,6 @@
 ---
 title: SEO para iniciantes – O básico
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-09-15
 url: /seo-iniciantes-basico/

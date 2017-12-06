@@ -1,6 +1,6 @@
 ---
 title: Processos e Adoção de Padrões
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-03-03
 excerpt: Um pouco sobre o processo de aprovação e adoção de recomendações do W3C.

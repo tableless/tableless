@@ -1,6 +1,6 @@
 ---
 title: Palestra sobre Padrões Web no SENAC de Tocantins
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-04-26
 url: /palestra-sobre-padroes-web-no-senac-de-tocantins/

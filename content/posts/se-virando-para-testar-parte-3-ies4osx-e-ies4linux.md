@@ -1,6 +1,6 @@
 ---
 title: 'Se virando para testar – Parte 3: IES4OSX e IES4Linux'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-12-03
 url: /se-virando-para-testar-parte-3-ies4osx-e-ies4linux/

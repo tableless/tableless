@@ -1,6 +1,6 @@
 ---
 title: Campo input date do HTML5 e internacionalização
-author: rogerio dias moreira
+authors: rogerio dias moreira
 type: post
 date: 2015-09-30
 url: /html5-input-date-e-internacionalizacao/

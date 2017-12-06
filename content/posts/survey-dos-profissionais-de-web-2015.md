@@ -1,6 +1,6 @@
 ---
 title: Pesquisa nacional para profissionais de web 2015
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-09-14
 excerpt: Buscando informações para entender melhor o mercado de web brasileiro.

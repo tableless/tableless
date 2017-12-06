@@ -1,6 +1,6 @@
 ---
 title: Nós quebramos a web
-author: fernahh
+authors: fernahh
 type: post
 date: 2015-05-04
 excerpt: É sempre difícil apontar o erro de alguém. Ainda mais para pessoas que não aceitam críticas. Porém, é preciso olhar para nós mesmos para corrigir nossos problemas.

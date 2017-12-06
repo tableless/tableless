@@ -1,6 +1,6 @@
 ---
 title: 'Underscore.js: cinto de utilidades JavaScript'
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2012-09-19
 excerpt: Conheça esta biblioteca JavaScript que apresenta um conjunto sólido de utilitários para manipular listas e estruturas de dados.

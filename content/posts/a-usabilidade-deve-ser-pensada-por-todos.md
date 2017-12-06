@@ -1,6 +1,6 @@
 ---
 title: A usabilidade deve ser pensada por todos
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2012-03-05
 excerpt: A usabilidade é um compromisso de todos em um projeto. Ö que precisa acontecer é um diálogo maior entre o especialista de usabilidade e o restante da equipe.

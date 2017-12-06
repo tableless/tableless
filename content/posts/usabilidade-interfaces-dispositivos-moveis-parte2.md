@@ -1,6 +1,6 @@
 ---
 title: Usabilidade de interfaces para dispositivos móveis – parte II
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2011-11-23
 excerpt: Adequar aplicações ao contexto de dispositivos móveis apresenta determinados vieses de desenvolvimento.

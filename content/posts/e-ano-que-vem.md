@@ -1,6 +1,6 @@
 ---
 title: E ano que vem?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-12-22
 url: /e-ano-que-vem/

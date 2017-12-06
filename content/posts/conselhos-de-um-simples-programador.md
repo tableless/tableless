@@ -1,6 +1,6 @@
 ---
 title: Conselhos de um simples programador
-author: Tailo Mateus Gonsalves
+authors: Tailo Mateus Gonsalves
 type: post
 date: 2017-02-19
 categories:

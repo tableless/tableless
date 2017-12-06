@@ -1,6 +1,6 @@
 ---
 title: RGB e HSL
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-06-27
 excerpt: RGB e HSL são os formatos que estão se tornando populares no desenvolvimento web. Entenda como cada um funciona e saiba quais suas vantagens.

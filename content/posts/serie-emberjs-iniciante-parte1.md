@@ -1,6 +1,6 @@
 ---
 title: EmberJS para iniciantes – Parte 1
-author: Anderson de Castro
+authors: Anderson de Castro
 type: post
 date: 2014-10-29
 excerpt: Iniciando com Ember.JS

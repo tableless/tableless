@@ -1,6 +1,6 @@
 ---
 title: Dicas e truques de Sublime Text
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-09-04
 excerpt: Conheça algumas dicas e truques do Sublime Text.

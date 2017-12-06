@@ -1,6 +1,6 @@
 ---
 title: Proteja seu código usando o Webpack
-author: Jscrambler
+authors: Jscrambler
 type: post
 date: 2016-11-28
 url: /proteja-seu-codigo-usando-o-webpack/

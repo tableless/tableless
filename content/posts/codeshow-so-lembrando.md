@@ -1,6 +1,6 @@
 ---
 title: CodeShow – Só lembrando!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-06-20
 url: /codeshow-so-lembrando/

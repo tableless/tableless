@@ -1,6 +1,6 @@
 ---
 title: 'O básico: O que é HTML?'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-01-21
 excerpt: Entenda o HTML básico, saiba o que significa tags do HTML e entenda como fazer.

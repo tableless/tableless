@@ -1,6 +1,6 @@
 ---
 title: Use as facilidades do CSS 4 hoje
-author: Mateus Ortiz
+authors: Mateus Ortiz
 type: post
 date: 2015-10-26
 excerpt: |

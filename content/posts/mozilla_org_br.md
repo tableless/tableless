@@ -1,6 +1,6 @@
 ---
 title: Mozilla.org.br
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-11-10
 url: /mozilla_org_br/

@@ -1,6 +1,6 @@
 ---
 title: Fluxo de execução assíncrono em JavaScript – Callbacks
-author: Jean Carlo Emer
+authors: Jean Carlo Emer
 type: post
 date: 2015-07-27
 excerpt: Este é o primeiro artigo de uma pequena série a respeito de execução de código assíncrono. Definiremos o que é fluxo de execução e veremos o que é e quão importante é dominar as callbacks na escrita de código JavaScript.

@@ -1,6 +1,6 @@
 ---
 title: Microsoft compra W3C
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-04-01
 url: /microsoft-compra-w3c/

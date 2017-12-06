@@ -1,6 +1,6 @@
 ---
 title: '#1 Tableless Conference'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-06-11
 excerpt: 'Evento sobre front-end em SP. '

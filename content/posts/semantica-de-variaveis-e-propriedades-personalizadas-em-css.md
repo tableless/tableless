@@ -1,6 +1,6 @@
 ---
 title: Semântica de variáveis e propriedades personalizadas em CSS
-author: Jean Carlo Emer
+authors: Jean Carlo Emer
 type: post
 date: 2014-04-16
 excerpt: Um texto sobre variáveis em pré-processadores de CSS e a nova especificação de variáveis para folhas de estilo.

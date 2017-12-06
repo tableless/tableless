@@ -1,6 +1,6 @@
 ---
 title: O que falamos em 2013?
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2014-01-06
 excerpt: |

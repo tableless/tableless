@@ -1,6 +1,6 @@
 ---
 title: Property accessors e porque você deveria saber usá-los
-author: filipemerker
+authors: filipemerker
 type: post
 date: 2015-09-11
 excerpt: Notações diferentes para acessar as propriedades de um mesmo objeto em JavaScript

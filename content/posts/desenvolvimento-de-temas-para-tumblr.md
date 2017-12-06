@@ -1,6 +1,6 @@
 ---
 title: Desenvolvimento de temas para Tumblr
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2014-07-21
 excerpt: Entenda como blogs e redes sociais podem andar de mãos dadas, veja como criar uma diagramação diferente para cada tipo de conteúdo e desenvolva temas para Tumblr utilizando variáveis dinâmicas e HTML.

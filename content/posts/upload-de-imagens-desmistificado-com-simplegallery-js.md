@@ -1,6 +1,6 @@
 ---
 title: Upload de imagens desmistificado com simpleGallery.js
-author: Fabio Carvalho
+authors: Fabio Carvalho
 type: post
 date: 2016-09-07
 excerpt: Upload, certamente, é uma parte difícil na programação, provavelmente você já teve problemas com isso. Por que não simplificar? Confira como o simpleGallery.js pode lhe ajudar nesta jornada.

@@ -6,7 +6,7 @@ categories:
 excerpt: Entendendo um pouco sobre serialização RDF com Turtle e criando queries simples com Sparql
 image: http://imgh.us/pexels-photo-245618.jpeg
 type: "post"
-author: Diego Eis
+authors: Diego Eis
 date: "2017-05-07T16:10:22-03:00"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Tudo o que você precisa saber sobre Sitemaps
-author: thiago-pacheco
+authors: thiago-pacheco
 type: post
 date: 2013-01-21
 excerpt: Saiba como montar e como funciona um sitemap.xml

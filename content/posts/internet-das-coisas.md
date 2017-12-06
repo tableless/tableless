@@ -1,6 +1,6 @@
 ---
 title: Web.br 2014 – Internet das Coisas
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-09-25
 excerpt: |

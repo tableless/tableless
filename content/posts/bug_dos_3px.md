@@ -1,6 +1,6 @@
 ---
 title: Bug dos 3 Pixels
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-07-06
 url: /bug_dos_3px/

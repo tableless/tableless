@@ -1,6 +1,6 @@
 ---
 title: Web Móvel e suas aplicações
-author: Giovanni Keppelen
+authors: Giovanni Keppelen
 type: post
 date: 2013-01-07
 excerpt: A implantação generalizada da web em dispositivos móveis torna um alvo de escolha para criadores de conteúdo.

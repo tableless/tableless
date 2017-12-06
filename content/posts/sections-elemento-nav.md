@@ -1,6 +1,6 @@
 ---
 title: 'Sections: elemento nav – Parte 2'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-09-30
 excerpt: O elemento NAV agrupa blocos de links de um mesmo assunto ou links internos do website. Ele indica que um determinado bloco é um bloco de navegação.

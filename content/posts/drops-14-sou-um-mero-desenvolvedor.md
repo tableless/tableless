@@ -1,6 +1,6 @@
 ---
 title: Drops 14 – Sou um mero desenvolvedor
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-07-23
 excerpt: Um podcast bem pessoal sobre iniciativa.

@@ -1,6 +1,6 @@
 ---
 title: E mais links
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-05
 url: /e-mais-links/

@@ -1,6 +1,6 @@
 ---
 title: 7 funções essenciais do PHP que você deve conhecer
-author: Adriano dos Santos Júnior
+authors: Adriano dos Santos Júnior
 type: post
 date: 2015-07-03
 excerpt: Arranjos, datas, laços e outras práticas para facilitar a programação.

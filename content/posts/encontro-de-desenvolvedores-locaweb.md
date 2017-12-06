@@ -1,6 +1,6 @@
 ---
 title: Encontro de Desenvolvedores Locaweb
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-04-19
 url: /encontro-de-desenvolvedores-locaweb/

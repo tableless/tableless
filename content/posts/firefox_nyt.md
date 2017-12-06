@@ -1,6 +1,6 @@
 ---
 title: Firefox in The New York Times
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-11-05
 url: /firefox_nyt/

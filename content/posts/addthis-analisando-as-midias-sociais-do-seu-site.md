@@ -1,6 +1,6 @@
 ---
 title: 'AddThis: analisando as mídias sociais do seu site'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-04-18
 excerpt: Conheça algumas vantagens ao utilizar o AddThis em seu site.

@@ -1,6 +1,6 @@
 ---
 title: Design e complacência com padrões
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-06-28
 url: /design_e_complacencia_com_padroes/

@@ -1,6 +1,6 @@
 ---
 title: Uma coisa diferente!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-02
 url: /uma_coisa_diferente/

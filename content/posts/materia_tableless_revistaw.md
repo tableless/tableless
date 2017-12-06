@@ -1,6 +1,6 @@
 ---
 title: 'RevistaW: Matéria sobre Tableless'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-29
 url: /materia_tableless_revistaw/

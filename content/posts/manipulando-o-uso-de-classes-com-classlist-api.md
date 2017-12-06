@@ -1,6 +1,6 @@
 ---
 title: Manipulando o uso de classes com classList API
-author: Guilherme Bayer
+authors: Guilherme Bayer
 type: post
 date: 2016-04-18
 excerpt: Manipule facilmente suas classes com o uso da classList API, uma API pequena e simples, porem de grande utilidade.

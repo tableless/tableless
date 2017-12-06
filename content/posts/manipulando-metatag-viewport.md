@@ -1,6 +1,6 @@
 ---
 title: Manipulando a metatag Viewport
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-04-18
 excerpt: Aprenda a manipular o viewport de mobiles e outros dispositivos com a metatag Viewport do HTML.

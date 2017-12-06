@@ -1,6 +1,6 @@
 ---
 title: O maravilhoso mundo dos Browsers
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-02-17
 url: /mundo_magico_dos_browsers/

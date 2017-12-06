@@ -1,6 +1,6 @@
 ---
 title: O novo software que substitui o Flash
-author: Isaque Melo
+authors: Isaque Melo
 type: post
 date: 2015-12-02
 url: /fim-definitivo-do-flash-o-novo-software-da-substituto/

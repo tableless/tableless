@@ -1,6 +1,6 @@
 ---
 title: Entrevista com Joel Spolsky
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-29
 url: /entrevista_joel_spolsky/

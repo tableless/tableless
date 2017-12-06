@@ -1,6 +1,6 @@
 ---
 title: Site em Ajax? Site em Flash? Pergunta ruim.
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-09-14
 url: /site-em-ajax-site-em-flash-pergunta-ruim/

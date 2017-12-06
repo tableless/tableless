@@ -1,6 +1,6 @@
 ---
 title: Responsive Web Design – focando a coisa certa
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-03-20
 excerpt: Será que todo mundo precisa de um design responsivo? Você pode não estar dando atenção para o que realmente importa.

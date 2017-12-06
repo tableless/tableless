@@ -1,6 +1,6 @@
 ---
 title: Humble Mozilla Bundle
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-10-20
 excerpt: Humble Bundle da Mozilla. Veja jogos independentes que a Mozilla está oferecendo no pacote.

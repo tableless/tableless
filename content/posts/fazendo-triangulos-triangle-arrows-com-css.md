@@ -1,6 +1,6 @@
 ---
 title: Como fazer triângulos (setas ou arrows) com CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-04-18
 excerpt: Como fazer triângulos (arrows) usando apenas com CSS.

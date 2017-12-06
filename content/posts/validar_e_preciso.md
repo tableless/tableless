@@ -1,6 +1,6 @@
 ---
 title: Validar é preciso?
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-06-30
 url: /validar_e_preciso/

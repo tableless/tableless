@@ -1,6 +1,6 @@
 ---
 title: CSS Hack para o IE 7 – se alguém precisar
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-04-26
 url: /css-hack-para-o-ie-7-se-alguem-precisar/

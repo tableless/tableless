@@ -1,6 +1,6 @@
 ---
 title: Documentos poliglotas com XHTML5
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2012-05-16
 excerpt: O XHTML5 permite utilizar a sintaxe do XML/XHTML em documentos HTML5

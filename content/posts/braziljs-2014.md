@@ -1,6 +1,6 @@
 ---
 title: BrazilJS 2014
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-08-25
 excerpt: Anotações das palestras que rolaram no BrazilJS de 2014.

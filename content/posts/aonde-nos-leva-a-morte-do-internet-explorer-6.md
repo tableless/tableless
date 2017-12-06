@@ -1,6 +1,6 @@
 ---
 title: Aonde nos leva a morte do Internet Explorer 6?
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2009-07-17
 excerpt: O Internet Explorer 6 morreu. Parece que o mercado estava apenas aguardando o anúncio de que seus usuários já são em menor número que os da versão 8 para se livrar de uma porção de velho código ruim. O quanto isso nos faz realmente avançar?

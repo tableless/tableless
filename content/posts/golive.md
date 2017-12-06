@@ -1,6 +1,6 @@
 ---
 title: Adobe GoLive Cs2
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-03
 url: /golive/

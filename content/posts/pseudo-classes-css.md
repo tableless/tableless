@@ -1,6 +1,6 @@
 ---
 title: 'Seletores do CSS: Pseudo-classes'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-03-23
 excerpt: Uma breve explicação sobre pseudo-classes, seus funcionamentos e tipos.

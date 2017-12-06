@@ -1,6 +1,6 @@
 ---
 title: Minhas ferramentas de trabalho (sim, é sobre fireworks e afins)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-06-05
 url: /minhas-ferramentas-de-trabalho-sim-e-sobre-fireworks-e-afins/

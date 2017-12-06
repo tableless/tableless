@@ -1,6 +1,6 @@
 ---
 title: Visualizando páginas responsivas em diversos navegadores
-author: Igor Ribeiro Lima
+authors: Igor Ribeiro Lima
 type: post
 date: 2014-04-25
 excerpt: Teste como sua página se comporta em diversos dispositivos e navegadores.

@@ -1,6 +1,6 @@
 ---
 title: Não tenho versão mobile, faço ou não faço?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-01-06
 excerpt: Ainda tem dúvidas se deve ou não fazer a versão mobile do seu produto ou site? Saia dessa...

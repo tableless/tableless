@@ -1,6 +1,6 @@
 ---
 title: Safari para Windows
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-06-11
 url: /safari-para-windows/

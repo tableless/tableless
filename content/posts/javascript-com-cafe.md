@@ -1,6 +1,6 @@
 ---
 title: JavaScript com café
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2012-04-09
 excerpt: Conheça a linguagem CoffeeScript que, diferente dos frameworks e bibliotecas, compila código JavaScript puro ao invés de ser apenas mais uma camada sobre a linguagem.

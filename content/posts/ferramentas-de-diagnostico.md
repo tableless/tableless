@@ -1,6 +1,6 @@
 ---
 title: Ferramentas de diagnóstico
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-04-11
 excerpt: 'Quando algo de estranho acontece, é bom estar preparado. '

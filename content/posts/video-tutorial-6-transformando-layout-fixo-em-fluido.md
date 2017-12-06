@@ -1,6 +1,6 @@
 ---
 title: 'Video Tutorial #6 – Transformando layout fixo em fluido'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-24
 url: /video-tutorial-6-transformando-layout-fixo-em-fluido/

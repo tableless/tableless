@@ -1,6 +1,6 @@
 ---
 title: Desenvolvendo para IE6
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-12-06
 excerpt: Você ainda desenvolve para IE6? Você cobra mais por isso? Eu sim.

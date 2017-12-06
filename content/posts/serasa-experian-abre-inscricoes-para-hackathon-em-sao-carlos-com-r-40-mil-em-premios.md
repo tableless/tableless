@@ -1,7 +1,7 @@
 ---
 title: 'Serasa Experian abre inscrições para hackathon em São Carlos  com R$ 40 mil em prêmios'
 image: '/uploads/2017/03/2.jpeg'
-author: tableless
+authors: tableless
 type: post
 date: 2017-03-29
 excerpt: Duzentos participantes serão selecionados e se reunirão nos dias 6 e 7 de maio, no centro de excelência da empresa, para propor soluções para quatro desafios

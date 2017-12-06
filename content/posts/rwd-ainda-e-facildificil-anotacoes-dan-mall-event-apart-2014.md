@@ -1,6 +1,6 @@
 ---
 title: RWD é fácil/difícil – Anotações Dan Mall – An Event Apart 2014
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-04-29
 excerpt: Anotações da palestra do Daniel Mall no An Event Apart de Boston, 2014. Ele falou bastante sobre o processo de desenvolver para uma web multi-device.

@@ -1,6 +1,6 @@
 ---
 title: Sobre hipertextos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-02-18
 url: /sobre-hipertextos/

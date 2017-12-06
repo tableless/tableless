@@ -1,6 +1,6 @@
 ---
 title: 'Comet: A mais nova ferramenta de Design da Adobe'
-author: Isaque Melo
+authors: Isaque Melo
 type: post
 date: 2015-10-08
 url: /comet-mais-nova-ferramenta-de-design-da-adobe/

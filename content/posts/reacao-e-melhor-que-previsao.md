@@ -1,6 +1,6 @@
 ---
 title: Reação é melhor que previsão
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-12-23
 url: /reacao-e-melhor-que-previsao/

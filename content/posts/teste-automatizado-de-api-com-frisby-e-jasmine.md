@@ -1,6 +1,6 @@
 ---
 title: Teste automatizado de API com frisby e jasmine
-author: rogerio dias moreira
+authors: rogerio dias moreira
 type: post
 date: 2015-08-27
 url: /teste-automatizado-de-api-com-frisby-e-jasmine/

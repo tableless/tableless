@@ -1,6 +1,6 @@
 ---
 title: Curso de Web Standards
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-10-08
 url: /curso_de_web_standards/

@@ -1,6 +1,6 @@
 ---
 title: Procrastinar a Acessibilidade pode ser perigoso
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-11-16
 url: /procrastinar-a-acessibilidade-pode-ser-perigoso/

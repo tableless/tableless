@@ -1,6 +1,6 @@
 ---
 title: Dicas valiosas para sua carreira de Dev (ou de T.I.)
-author: Jonas Scherer
+authors: Jonas Scherer
 type: post
 date: 2015-02-26
 excerpt: Dicas para você que está iniciando na carreira de desenvolvedor ou na área de T.I.

@@ -1,6 +1,6 @@
 ---
 title: Iniciando no GIT – Parte 2
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-11-22
 excerpt: Commit, Push e Pull. Entenda o que fazer depois que modificar arquivos.

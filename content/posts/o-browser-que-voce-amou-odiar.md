@@ -1,6 +1,6 @@
 ---
 title: O browser que você amou odiar
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-03-28
 excerpt: 'O Internet Explorer só serve para uma coisa: baixar outros browsers. Veja a mais nova campanha da Microsoft.'

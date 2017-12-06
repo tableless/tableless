@@ -1,6 +1,6 @@
 ---
 title: 'Video Tutorial #7 – Centralizando o Layout horizontalmente'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-24
 url: /video-tutorial-7-centralizando-o-layout-horizontalmente/

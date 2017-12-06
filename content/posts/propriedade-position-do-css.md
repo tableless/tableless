@@ -1,6 +1,6 @@
 ---
 title: Propriedade Position do CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-05-12
 excerpt: 'A propriedade position não serve para criar estruturas de layouts. Você o usará para coisas mais simples. Existem 3 tipos: relative, absolute e fixed. Entenda como eles funcionam e quais as suas relações.'

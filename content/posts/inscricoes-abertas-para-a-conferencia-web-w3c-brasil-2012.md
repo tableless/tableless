@@ -1,6 +1,6 @@
 ---
 title: Inscrições abertas para a Conferência Web W3C Brasil 2012
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2012-09-25
 url: /inscricoes-abertas-para-a-conferencia-web-w3c-brasil-2012/

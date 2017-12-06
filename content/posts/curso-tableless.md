@@ -1,6 +1,6 @@
 ---
 title: Curso de Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-29
 url: /curso-tableless/

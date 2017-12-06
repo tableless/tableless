@@ -1,6 +1,6 @@
 ---
 title: Quer estudar CSS?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-06-08
 url: /quer_estudar/

@@ -1,6 +1,6 @@
 ---
 title: Qual unidade utilizar – Pixel, EM ou REM
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-09-03
 excerpt: Entenda mais sobre as duas unidades prediletas pelos desenvolvedores.

@@ -1,6 +1,6 @@
 ---
 title: ColorZilla
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-25
 url: /extension-colorzilla/

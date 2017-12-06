@@ -1,6 +1,6 @@
 ---
 title: Coding for Easy Redesign
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-10-29
 url: /coding_for_easy_redesign/

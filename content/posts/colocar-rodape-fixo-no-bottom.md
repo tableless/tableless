@@ -1,6 +1,6 @@
 ---
 title: Colocar Rodapé fixo no fim da página
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-01-12
 excerpt: Como deixar o Rodapé fixo fim da página quando houver pouco conteúdo.

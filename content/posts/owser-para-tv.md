@@ -1,6 +1,6 @@
 ---
 title: Web Browser para TV
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-17
 url: /web-browser-para-tv/

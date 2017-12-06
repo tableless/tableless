@@ -1,6 +1,6 @@
 ---
 title: Convertido – Menu (Livraria Cultura)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-01-12
 excerpt: Reconstruindo o menu da Livraria Cultura.

@@ -1,6 +1,6 @@
 ---
 title: Celulares?! Onde?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-21
 url: /celulares-onde/

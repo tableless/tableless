@@ -1,6 +1,6 @@
 ---
 title: Iniciando com Symfony 2 – Parte 04
-author: Candido Souza
+authors: Candido Souza
 type: post
 date: 2015-03-04
 excerpt: Nesse tutorial vamos criar uma entidade Author e fazer o relacionamento com a entidade Post criada anteriormente, usando o componente Console do Symfony em conjundo com Doctrine ORM.

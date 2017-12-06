@@ -1,6 +1,6 @@
 ---
 title: TVA inicia em maio os testes com WiMAX
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-03-08
 url: /tva-inicia-em-maio-os-testes-com-wimax/

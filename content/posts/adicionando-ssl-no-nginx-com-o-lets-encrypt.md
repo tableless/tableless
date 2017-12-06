@@ -1,6 +1,6 @@
 ---
 title: Adicionando SSL no NGINX com o Let’s Encrypt
-author: Sergio Rodrigues
+authors: Sergio Rodrigues
 type: post
 date: 2016-12-02
 url: /adicionando-ssl-no-nginx-com-o-lets-encrypt/

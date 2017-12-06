@@ -1,6 +1,6 @@
 ---
 title: Adotando uma nova perspectiva com os Padrões Web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-09-10
 url: /adotando-uma-nova-perspectiva-com-os-padroes-web/

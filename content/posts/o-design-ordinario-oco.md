@@ -1,6 +1,6 @@
 ---
 title: Sobre o design oco
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-12-11
 excerpt: Sobre design ordinário e argumentos.

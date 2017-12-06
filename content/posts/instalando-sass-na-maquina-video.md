@@ -1,6 +1,6 @@
 ---
 title: Instalando SASS na máquina – video
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-08-18
 excerpt: Quer usar SASS em seus projetos? Instale SASS na sua máquina e saia usando.

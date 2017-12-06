@@ -1,6 +1,6 @@
 ---
 title: Geração de conteúdo estático via CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-12-02
 excerpt: Entenda como funciona a geração de conteúdo automática via CSS usando a propriedade content.

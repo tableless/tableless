@@ -1,6 +1,6 @@
 ---
 title: Iniciando com Symfony 2 – Parte 02
-author: Candido Souza
+authors: Candido Souza
 type: post
 date: 2015-02-09
 excerpt: Neste tutorial veremos como o Symfony facilita nosso processo de desenvolvimento e produtividade com o seu componete console.

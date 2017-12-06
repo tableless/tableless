@@ -1,6 +1,6 @@
 ---
 title: Samsung Brasil
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-03-30
 url: /samsung_brasil/

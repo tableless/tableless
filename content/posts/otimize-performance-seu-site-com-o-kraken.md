@@ -1,6 +1,6 @@
 ---
 title: Otimize a performance do seu site com o Kraken
-author: FelipeMartinin
+authors: FelipeMartinin
 type: post
 date: 2015-04-14
 excerpt: Usando Kraken para otimizar suas imagens.

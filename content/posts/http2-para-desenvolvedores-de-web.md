@@ -1,6 +1,6 @@
 ---
 title: HTTP2 para Desenvolvedores de Web
-author: Marcelo Paiva
+authors: Marcelo Paiva
 type: post
 date: 2015-04-21
 excerpt: Entenda um pouco mais como o HTTP2 vai ajudar na construção de sites.

@@ -1,6 +1,6 @@
 ---
 title: Css para diagramar livros
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-11-29
 url: /css_para_diagramar_livros/

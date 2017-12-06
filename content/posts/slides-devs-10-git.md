@@ -1,6 +1,6 @@
 ---
 title: 'Slides para devs #10 – GIT'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-09-26
 excerpt: Veja algumas apresentações sobre GIT

@@ -1,6 +1,6 @@
 ---
 title: Por que utilizar Go/Golang no seu backend?
-author: Ulysses Marins
+authors: Ulysses Marins
 type: post
 date: 2016-06-28
 excerpt: Com o respaldo dos criadores do Unix, UTF-8 e Google, a Golang promete ser rápida, simples e legível.

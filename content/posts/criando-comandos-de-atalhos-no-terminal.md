@@ -1,6 +1,6 @@
 ---
 title: Criando comandos de atalhos no terminal
-author: Willem Allan
+authors: Willem Allan
 type: post
 date: 2013-04-14
 excerpt: Criando comandos de atalhos direto no terminal.

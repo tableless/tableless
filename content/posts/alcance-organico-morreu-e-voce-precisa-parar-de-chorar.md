@@ -1,6 +1,6 @@
 ---
 title: Alcance orgânico morreu e você precisa parar de chorar!
-author: thonyconde
+authors: thonyconde
 type: post
 date: 2015-08-06
 excerpt: Virou rotina reclamar da constante queda no alcance orgânico do Facebook. O alcance orgânico precisa morrer o quanto antes

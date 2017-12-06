@@ -1,6 +1,6 @@
 ---
 title: Introdução aos padrões de codificação
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-23
 excerpt: 'É mais importante para o time concordar em um único estilo de código do que encontrar o estilo perfeito. '

@@ -1,6 +1,6 @@
 ---
 title: Criando seu próprio servidor HTTP do zero (ou quase) – Parte Final
-author: thiguetta
+authors: thiguetta
 type: post
 date: 2015-10-27
 excerpt: Na última parte deste tutorial, aprenda sobre threads e como transformar seu servidor para receber múltiplas conexões.

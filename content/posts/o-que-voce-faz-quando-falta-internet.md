@@ -1,6 +1,6 @@
 ---
 title: O que você faz quando falta a internet?
-author: Eduardo Fernandes
+authors: Eduardo Fernandes
 type: post
 date: 2014-06-12
 excerpt: Não importa o quão avançados são os aparelhos nos nossos bolsos. Em algum momento, serão praticamente inúteis.

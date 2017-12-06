@@ -1,6 +1,6 @@
 ---
 title: Problema com o servidor
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-10-31
 url: /problemas_com_o_servidor/

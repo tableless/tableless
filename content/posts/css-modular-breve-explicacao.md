@@ -1,6 +1,6 @@
 ---
 title: CSS Modular – Breve explicação
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-07-11
 url: /css-modular-breve-explicacao/

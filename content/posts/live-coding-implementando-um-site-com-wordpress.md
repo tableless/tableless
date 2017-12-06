@@ -1,6 +1,6 @@
 ---
 title: '[Live Coding] Implementando um site com WordPress'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-01-13
 excerpt: Assista o segundo Micro Workshop com Live Coding do Tableless. Desta vez iremos implementar um site em Wordpress.

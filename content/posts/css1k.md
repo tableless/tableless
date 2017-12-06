@@ -1,6 +1,6 @@
 ---
 title: CSS1K
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-20
 excerpt: Implementando designs com apenas 1k de CSS. Você encara?

@@ -1,6 +1,6 @@
 ---
 title: Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de perguntar
-author: Daniel Schmitz
+authors: Daniel Schmitz
 type: post
 date: 2015-10-07
 excerpt: 'Crie, compartilhe, acompanhe e versione projetos com o poder do git,  tudo na nuvem pelo github.'

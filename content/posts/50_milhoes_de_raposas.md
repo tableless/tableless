@@ -1,6 +1,6 @@
 ---
 title: 50 Milhões de Raposas
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-04-30
 url: /50_milhoes_de_raposas/

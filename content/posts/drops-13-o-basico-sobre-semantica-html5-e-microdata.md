@@ -1,6 +1,6 @@
 ---
 title: Drops 13 – O basico sobre semântica, HTML5 e microdata
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-07-03
 excerpt: Drops 13 sobre semântica

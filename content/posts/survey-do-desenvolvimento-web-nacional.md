@@ -1,6 +1,6 @@
 ---
 title: Survey do mercado web nacional
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-06-19
 excerpt: Entenda como o seu mercado está e encontre respostas para perguntas importantes para a sua carreira.

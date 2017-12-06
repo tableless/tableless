@@ -1,6 +1,6 @@
 ---
 title: Include Tags WordPress, conheça alguns truques legais
-author: Wanderson Macêdo
+authors: Wanderson Macêdo
 type: post
 date: 2014-06-13
 excerpt: 'Sabe aquelas tags de inclusão de arquivos do WordPress, chamadas de include tags?  Saiba como utilizar cada uma delas de uma forma diferente do que é comumente falado.'

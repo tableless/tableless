@@ -1,6 +1,6 @@
 ---
 title: Seletores Complexos do CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-03-11
 excerpt: Os seletores complexos mostram como a CSS pode ser dinâmica e direta.

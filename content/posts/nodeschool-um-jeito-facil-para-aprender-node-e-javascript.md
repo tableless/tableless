@@ -1,6 +1,6 @@
 ---
 title: NodeSchool – Um jeito fácil para aprender Node e JavaScript
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-07-13
 excerpt: NodeSchool, um workshop de código aberto, presencial ou online.

@@ -1,6 +1,6 @@
 ---
 title: Layouts Tableless são quadrados
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-01-18
 url: /layout_quadrado/

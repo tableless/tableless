@@ -1,6 +1,6 @@
 ---
 title: Web Index
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-09-05
 excerpt: 'Web Index - Indicadores de qualidade da Web no mundo todo.'

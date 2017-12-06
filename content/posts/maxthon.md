@@ -1,6 +1,6 @@
 ---
 title: Maxthon
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-01-14
 excerpt: 'O Maxthon é o browser que mais suporta os padrões web atuais. '

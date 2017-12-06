@@ -1,6 +1,6 @@
 ---
 title: 2006, “tamo aí na atividade”!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-01
 url: /2006-tamo-ai-na-atividade/

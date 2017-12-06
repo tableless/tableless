@@ -1,6 +1,6 @@
 ---
 title: Experiência cross-device
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-12-22
 excerpt: Estamos prestes de presenciar uma invasão eletrônica de dispositivos de todos os tamanhos e utilidades em conjunto com aplicações onipresentes.

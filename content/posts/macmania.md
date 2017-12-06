@@ -1,6 +1,6 @@
 ---
 title: MacMania
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-11-16
 url: /macmania/

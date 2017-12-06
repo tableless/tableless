@@ -1,6 +1,6 @@
 ---
 title: 'Tableless Conference #3 – 2014'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-10-08
 excerpt: O Tableless Conference é o evento do Tableless e esse ano vai ser louco!

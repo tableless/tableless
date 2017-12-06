@@ -1,6 +1,6 @@
 ---
 title: Slashdot Tableless
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-09-23
 url: /slashdot_tableless/

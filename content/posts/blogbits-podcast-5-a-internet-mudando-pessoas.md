@@ -1,6 +1,6 @@
 ---
 title: 'BlogBits Podcast #5 – A internet mudando pessoas'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-03-30
 url: /blogbits-podcast-5-a-internet-mudando-pessoas/

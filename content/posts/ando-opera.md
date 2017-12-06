@@ -1,6 +1,6 @@
 ---
 title: Wii usando Opera!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-05-29
 url: /wii-usando-opera/

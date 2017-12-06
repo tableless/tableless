@@ -1,6 +1,6 @@
 ---
 title: Transições inteligentes na experiência do usuário
-author: Raphael Fabeni
+authors: Raphael Fabeni
 type: post
 date: 2013-12-16
 excerpt: Alguns websites superam outros, seja em seu conteúdo, usabilidade, design, funcionalidades, etc. Detalhes do design de interação e animação fazem uma diferença fundamental em websites modernos. Vamos compartilhar algumas lições tiradas de vários modelos e analisar por que esses simples padrões funcionam tão bem.

@@ -1,6 +1,6 @@
 ---
 title: CodeShow Videos
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-08-16
 url: /codeshow-videos/

@@ -1,6 +1,6 @@
 ---
 title: Em um relacionamento sério com generators front-end – Parte 1
-author: Pedro Polisenso
+authors: Pedro Polisenso
 type: post
 date: 2014-10-29
 excerpt: Essa é uma série que vai abordar generators usados por desenvolvedores front end no mercado. Um post que vai mostrar desde conceitos até a prática, que convém a nós é o que mais interessa.

@@ -1,6 +1,6 @@
 ---
 title: Como automatizar a criação de Virtual Hosts
-author: Léo WG
+authors: Léo WG
 type: post
 date: 2015-12-06
 url: /como-automatizar-criacao-de-virtual-hosts/

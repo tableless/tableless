@@ -1,6 +1,6 @@
 ---
 title: Safer Place – Um game feito pelo W3C
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-08-07
 excerpt: 'Ajude o  W3C a deter cibercriminosos.'

@@ -1,6 +1,6 @@
 ---
 title: Templates e jQuery – parte 1
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2010-11-08
 excerpt: Separar a programação do HTML é uma prática constante no desenvolvimento web. Durante muito tempo, no entanto, o JavaScript ficou de fora dessa. Chegou a hora de reverter este quadro.

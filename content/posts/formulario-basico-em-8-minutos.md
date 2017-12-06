@@ -1,6 +1,6 @@
 ---
 title: Formulário HTML Básico em 8 minutos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-06-02
 url: /formulario-basico-em-8-minutos/

@@ -1,6 +1,6 @@
 ---
 title: Logaster – Fazendo seu logo de forma fácil
-author: tableless
+authors: tableless
 image: uploads/2017/04/pexels-photo.jpg
 type: post
 date: 2017-04-05

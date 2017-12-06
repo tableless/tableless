@@ -1,6 +1,6 @@
 ---
 title: Web.br 2012 – Abertura
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-10-18
 excerpt: Anotações do primeiro dia do Webbr 2012.

@@ -1,6 +1,6 @@
 ---
 title: IE10 dobra seu MarketShare
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-05-01
 excerpt: IE10 aumenta seu MarketShare, talvez por causa das vendas do Windows 8.

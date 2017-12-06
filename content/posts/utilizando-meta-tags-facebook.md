@@ -1,6 +1,6 @@
 ---
 title: Utilizando as metatags de OpenGraph
-author: Victor "reidark" Matias
+authors: Victor "reidark" Matias
 type: post
 date: 2014-01-23
 excerpt: O tutorial para compartilhar o conteúdo do seu site no Facebook de forma eficaz.

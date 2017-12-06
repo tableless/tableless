@@ -1,6 +1,6 @@
 ---
 title: Boas práticas de Acessibilidade
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-23
 excerpt: Apresentação sobre acessibilidade e desenvolvimento para web.

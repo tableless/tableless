@@ -1,6 +1,6 @@
 ---
 title: 10 Dicas Simples Para Acelerar Seu Site Até 278 Vezes
-author: Roberto Beraldo
+authors: Roberto Beraldo
 type: post
 date: 2015-11-07
 excerpt: É fundamental que seu site seja rápido. Isso atrai e fideliza clientes. Veja aqui 10 dicas simples que podem acelerar seu site até 278 vezes

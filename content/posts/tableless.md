@@ -1,6 +1,6 @@
 ---
 title: WinXP em Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-09
 url: /winxp_tableless/

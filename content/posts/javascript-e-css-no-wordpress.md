@@ -1,6 +1,6 @@
 ---
 title: JavaScript e CSS no WordPress
-author: Breno Alves
+authors: Breno Alves
 type: post
 date: 2015-12-02
 url: /javascript-e-css-no-wordpress/

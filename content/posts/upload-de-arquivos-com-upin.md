@@ -1,6 +1,6 @@
 ---
 title: Upload de Arquivos com a Upin
-author: Gabriel Carvalho
+authors: Gabriel Carvalho
 type: post
 date: 2016-11-12
 excerpt: Criar sistemas de uploads pode ser uma tarefa não só complicado como também irritante. Temos que fazer diversas validações, entre elas, de tamanho, extensão do arquivo, etc. Pensando nisso foi criada uma biblioteca em PHP que inclui a função de uploads. Chama-se Upin.

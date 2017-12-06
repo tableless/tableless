@@ -1,6 +1,6 @@
 ---
 title: Padrões de UX do mal
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2014-03-17
 excerpt: Conheça as armadilhas mais comuns, por que você deve evitar estes padrões e como escapar do lado sombrio da força.

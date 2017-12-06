@@ -1,6 +1,6 @@
 ---
 title: Sobre nomes e sobrenomes
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-07-16
 url: /sobre-nomes-e-sobrenomes/

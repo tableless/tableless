@@ -1,6 +1,6 @@
 ---
 title: Login com a API do GooglePlus no Android.
-author: Alessandro Barreto
+authors: Alessandro Barreto
 type: post
 date: 2016-03-31
 url: /login-com-api-do-googleplus-no-android/

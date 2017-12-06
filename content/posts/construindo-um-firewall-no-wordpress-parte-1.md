@@ -1,6 +1,6 @@
 ---
 title: Construindo um firewall no WordPress – Parte 1
-author: Morais Júnior
+authors: Morais Júnior
 type: post
 date: 2016-09-01
 url: /construindo-um-firewall-no-wordpress-parte-1/

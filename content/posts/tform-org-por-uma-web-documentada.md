@@ -1,6 +1,6 @@
 ---
 title: WebPlatform.org – Por uma Web documentada!
-author: Gabriel Nascimento
+authors: Gabriel Nascimento
 type: post
 date: 2012-10-09
 excerpt: Nós somos uma comunidade aberta de desenvolvedores de recursos para uma web melhor.

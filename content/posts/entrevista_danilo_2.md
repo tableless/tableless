@@ -1,6 +1,6 @@
 ---
 title: 'Podcast #4'
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-11-30
 excerpt: 'Entrevista com Danilo Medeiros - parte 2'

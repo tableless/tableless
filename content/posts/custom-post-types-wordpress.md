@@ -1,6 +1,6 @@
 ---
 title: Custom Post Types no WordPress
-author: Paulo Rodrigues
+authors: Paulo Rodrigues
 type: post
 date: 2011-03-29
 excerpt: Crie tipos de conteúdo diferentes, agregue taxonomias e adicione campos personalizados. Deixe o seu site cada vez mais personalizado, trabalhando a fundo com o WordPress como CMS.

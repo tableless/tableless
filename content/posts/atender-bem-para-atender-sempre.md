@@ -1,6 +1,6 @@
 ---
 title: Atender bem para atender sempre
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-04-29
 excerpt: Alguns pontos importantes para começar a atender bem na web.

@@ -1,6 +1,6 @@
 ---
 title: Vote no Especialista em Usabilidade para Presidente
-author: Alysson Franklin
+authors: Alysson Franklin
 type: post
 date: 2010-10-21
 excerpt: A usabilidade é algo muito abrangente e você, profissional front-end, tem muito a ver com isso.

@@ -1,6 +1,6 @@
 ---
 title: Você conhece o Google Hacking?
-author: Julio Carneiro
+authors: Julio Carneiro
 type: post
 date: 2017-08-20
 excerpt: O Google Hacking nada mais é que uma prática para encontrar aquivos e/ou falhas a partir do GoogleEntão vamos entender e conhece-lo na prática!

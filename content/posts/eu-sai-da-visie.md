@@ -1,6 +1,6 @@
 ---
 title: Eu saí da Visie
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-10-31
 excerpt: Singrar novos horizontes.

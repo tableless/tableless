@@ -1,6 +1,6 @@
 ---
 title: Git com Interface Gráfica
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-11-26
 excerpt: Aplicações visuais para o Git.

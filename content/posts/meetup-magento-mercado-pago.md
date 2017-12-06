@@ -1,6 +1,6 @@
 ---
 title: MeetUp Magento e Mercado Pago
-author: Tableless
+authors: Tableless
 type: post
 date: 2017-07-14
 excerpt: Um encontro na sede do Mercado Livre pra falar sobre Magento e plataformas de tecnologias de pagamento

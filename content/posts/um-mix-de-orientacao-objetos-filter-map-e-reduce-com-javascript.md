@@ -1,6 +1,6 @@
 ---
 title: Um mix de orientação a objetos + filter, map e reduce com Javascript.
-author: itanor
+authors: itanor
 type: post
 date: 2015-03-24
 url: /um-mix-de-orientacao-objetos-filter-map-e-reduce-com-javascript/

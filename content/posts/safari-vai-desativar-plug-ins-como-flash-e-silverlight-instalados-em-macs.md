@@ -1,6 +1,6 @@
 ---
 title: Safari vai desativar por padrão plug-ins como Flash nos Macs
-author: tableless
+authors: tableless
 type: post
 date: 2016-06-20
 url: /safari-vai-desativar-plug-ins-como-flash-e-silverlight-instalados-em-macs/

@@ -1,6 +1,6 @@
 ---
 title: Dicas para transformar leads em vendas
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-12-07
 url: /dicas-para-transformar-leads-em-vendas/

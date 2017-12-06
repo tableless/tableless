@@ -1,6 +1,6 @@
 ---
 title: DeployBot faz o build e deploy do seu projeto para produção
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-10-05
 url: /deploybot-faz-o-build-e-deploy-do-seu-projeto-para-producao/

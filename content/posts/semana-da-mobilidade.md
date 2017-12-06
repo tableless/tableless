@@ -1,6 +1,6 @@
 ---
 title: Semana da Mobilidade
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-03-29
 url: /semana-da-mobilidade/

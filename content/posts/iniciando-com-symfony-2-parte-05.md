@@ -1,6 +1,6 @@
 ---
 title: Iniciando com Symfony 2 – Parte 05
-author: Candido Souza
+authors: Candido Souza
 type: post
 date: 2015-03-19
 excerpt: 'Nesse tutorial vamos configurar nosso projeto, e criar a página index, para que nossos posts,  sejam visualizados pelos usuários.'

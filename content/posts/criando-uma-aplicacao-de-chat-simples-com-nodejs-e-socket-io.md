@@ -1,6 +1,6 @@
 ---
 title: Criando uma aplicação de Chat simples com NodeJS e Socket.io
-author: Daniel Campos
+authors: Daniel Campos
 type: post
 date: 2017-01-05
 excerpt: Neste tutorial iremos abordar alguns conceitos do Socket.io criando um simples sistema de chat para browser.

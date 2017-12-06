@@ -1,6 +1,6 @@
 ---
 title: HTML5 Diff
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-07-13
 excerpt: Um resumo do que mudou no HTML5 em comparação com o HTML4.

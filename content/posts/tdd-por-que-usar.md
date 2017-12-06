@@ -1,6 +1,6 @@
 ---
 title: TDD, por que usar?
-author: Andre Cardoso
+authors: Andre Cardoso
 type: post
 date: 2013-12-17
 excerpt: TDD é o desenvolvimento de software orientado a testes. Entenda mais detalhes e como usá-lo!

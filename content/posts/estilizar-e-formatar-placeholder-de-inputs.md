@@ -1,6 +1,6 @@
 ---
 title: Estilizar e formatar placeholder de inputs
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-02-26
 excerpt: Como formatar o texto do atributo placeholder.

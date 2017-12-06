@@ -1,6 +1,6 @@
 ---
 title: 'Cache busting: entrega inteligente de assets'
-author: James Clébio
+authors: James Clébio
 type: post
 date: 2015-06-18
 excerpt: Sabe quando você faz o deploy com aquele ajuste no JS ou CSS e o usuário não consegue visualizar essas alterações por conta do cache do browser? Então, cache busting pode lhe poupar desse contratempo.

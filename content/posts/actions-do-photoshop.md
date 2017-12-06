@@ -1,6 +1,6 @@
 ---
 title: Actions do Photoshop
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-02-06
 excerpt: Um site com promoções diárias para desenvolvedores e designers.

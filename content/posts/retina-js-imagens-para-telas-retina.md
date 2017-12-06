@@ -1,6 +1,6 @@
 ---
 title: Retina.js – Imagens para telas retina
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-07-16
 excerpt: Mostre imagens de alta qualidade em dispositivos retina sem muito trabalho.

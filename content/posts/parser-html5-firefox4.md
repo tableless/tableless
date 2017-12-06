@@ -1,6 +1,6 @@
 ---
 title: Novo parser HTML5 – FF4
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-03-28
 excerpt: O Firefox 4 trouxe uma série de atualizações, uma das mais importantes é o novo parser de HTML5 que promete ser mais rápido e eficiente.

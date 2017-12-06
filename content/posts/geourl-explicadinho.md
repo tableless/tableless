@@ -1,6 +1,6 @@
 ---
 title: GeoURL explicadinho
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-05-26
 url: /geourl-explicadinho/

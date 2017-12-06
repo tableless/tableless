@@ -1,6 +1,6 @@
 ---
 title: Monitorando o ElasticSearch em Produção
-author: Allan Sene
+authors: Allan Sene
 type: post
 date: 2017-10-29
 excerpt: Como criar de maneira fácil e rápida um monitoramento abrangente em seu cluster de ElasticSearch de Produção com o open-source Cérebro e com o New Relic.

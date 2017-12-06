@@ -1,6 +1,6 @@
 ---
 title: Web.br 2014 – Throttle e Debounce
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-09-25
 excerpt: Anotações da palestra sobre Throttle e Debounce feito pelo Almir Filho no Web.br 2014.

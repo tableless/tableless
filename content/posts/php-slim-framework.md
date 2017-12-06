@@ -1,6 +1,6 @@
 ---
 title: PHP Slim Framework
-author: George Moura
+authors: George Moura
 type: post
 date: 2014-06-04
 excerpt: Iniciando com o SLIM Framework.

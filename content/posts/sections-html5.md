@@ -1,6 +1,6 @@
 ---
 title: 'Sections: seções do HTML5 – Parte 1'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-09-23
 excerpt: O site é dividido em seções. Cada seção tem seu significado e carrega informações de diversos assuntos. Os elementos do seção do HTML5 separam cada um desses elementos.

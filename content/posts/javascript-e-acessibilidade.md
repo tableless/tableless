@@ -1,6 +1,6 @@
 ---
 title: Javascript e acessibilidade
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2010-11-04
 excerpt: Dando continuidade a nossa série sobre acessibilidade, confira algumas dicas para desenvolver sites dinâmicos tendo um mínimo de cuidado com screen readers e navegadores com JavaScript desabilitado.

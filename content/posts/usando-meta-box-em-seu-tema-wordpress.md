@@ -1,6 +1,6 @@
 ---
 title: Usando Meta Box em seu tema WordPress
-author: Giovanni Keppelen
+authors: Giovanni Keppelen
 type: post
 date: 2012-03-20
 excerpt: Entenda como funcionam o Meta Box do Wordpress.

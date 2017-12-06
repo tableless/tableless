@@ -1,6 +1,6 @@
 ---
 title: Nada de Hacks
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-03
 url: /nada_de_hacks/

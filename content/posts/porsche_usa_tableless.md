@@ -1,6 +1,6 @@
 ---
 title: Porsche USA é tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-10-24
 url: /porsche_usa_tableless/

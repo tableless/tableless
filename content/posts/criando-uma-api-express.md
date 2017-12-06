@@ -1,6 +1,6 @@
 ---
 title: Criando uma API Express
-author: Tailo Mateus Gonsalves
+authors: Tailo Mateus Gonsalves
 type: post
 date: 2017-11-17
 excerpt: Ou apenas me aventurando no Back-end.

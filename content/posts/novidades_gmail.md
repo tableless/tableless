@@ -1,6 +1,6 @@
 ---
 title: Novidades no Gmail
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-12-09
 url: /novidades_gmail/

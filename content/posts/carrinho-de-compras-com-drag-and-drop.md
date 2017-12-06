@@ -1,6 +1,6 @@
 ---
 title: Carrinho de compras com drag and drop
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2011-01-13
 excerpt: O mercado de e-commerce não para de crescer e este crescimento vem acompanhando de diversas novidades e melhorias nas interfaces das lojas virtuais. Uma delas é opção de arrastar e soltar produtos no carrinho de compras e é isso que você aprende neste artigo.

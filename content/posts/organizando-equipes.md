@@ -1,6 +1,6 @@
 ---
 title: Organizando equipes
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-10-20
 excerpt: Sobre organizar equipes multifuncionais em uma empresa gigante.

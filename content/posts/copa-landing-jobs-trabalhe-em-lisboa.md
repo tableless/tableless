@@ -1,6 +1,6 @@
 ---
 title: 'Copa.Landing.jobs: trabalhe em Lisboa'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-09-08
 excerpt: 'Copa.Landing.jobs: sua chance de testar conhecimentos e conhecer a cena de TI em Lisboa'

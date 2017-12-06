@@ -1,6 +1,6 @@
 ---
 title: Para os designers…
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-11-19
 url: /para_os_designers/

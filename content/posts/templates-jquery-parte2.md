@@ -1,6 +1,6 @@
 ---
 title: Templates e jQuery – parte 2
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2010-12-13
 excerpt: Agora que você já sabe como implementar templates em suas aplicações javascript, chegou a hora de conhecer técnicas avançadas de como combinar modelos HTML e scripts jQuery.

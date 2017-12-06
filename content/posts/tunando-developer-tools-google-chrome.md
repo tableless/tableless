@@ -1,6 +1,6 @@
 ---
 title: Tunando o Developer Tools do Google Chrome
-author: Zeno Rocha
+authors: Zeno Rocha
 type: post
 date: 2012-10-16
 excerpt: Já imaginou poder trocar o CSS da sua ferramenta de Inspecionar Elementos? Pois é, você pode!

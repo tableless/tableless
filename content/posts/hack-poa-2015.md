@@ -1,6 +1,6 @@
 ---
 title: Hack in POA 2015
-author: Eduardo Ferras
+authors: Eduardo Ferras
 type: post
 date: 2015-04-29
 excerpt: Meu primeiro hackathon não poderia ter sido melhor, foi algo incrível e cheio de momentos inspiradores para uma nova visão de aprendizado.

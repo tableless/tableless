@@ -1,6 +1,6 @@
 ---
 title: FireFTP
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-18
 url: /extension-fireftp/

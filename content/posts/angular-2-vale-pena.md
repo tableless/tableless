@@ -1,6 +1,6 @@
 ---
 title: Angular 2, vale a pena?
-author: Daniel Campos
+authors: Daniel Campos
 type: post
 date: 2016-12-02
 excerpt: O Angular é hoje uma das ferramentas mais largamente utilizada para desenvolvimento front end. Vale a pena migrar para a nova versão?

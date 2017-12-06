@@ -1,6 +1,6 @@
 ---
 title: Livro Introdução à Web Semântica
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2017-09-23
 excerpt: A inteligência da Informação.

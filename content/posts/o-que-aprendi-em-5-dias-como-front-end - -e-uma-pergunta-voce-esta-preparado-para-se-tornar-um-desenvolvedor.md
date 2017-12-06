@@ -1,6 +1,6 @@
 ---
 title: 'O que aprendi em 5 dias como Front-end, e uma pergunta: você esta preparado para se tornar um desenvolvedor?'
-author: DaniloAgostinho
+authors: DaniloAgostinho
 type: post
 date: 2017-01-13
 url: /o-que-aprendi-em-5-dias-como-front-end - -e-uma-pergunta-voce-esta-preparado-para-se-tornar-um-desenvolvedor/

@@ -1,6 +1,6 @@
 ---
 title: Vídeos, WordPress, Internet Móvel e mais
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-08-31
 url: /videos-wordpress-internetmovel-mais/

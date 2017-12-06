@@ -1,6 +1,6 @@
 ---
 title: Descontos no DreamHost – para serviços anuais e mensais
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-04
 url: /desconto-no-dreamhost/

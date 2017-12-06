@@ -1,6 +1,6 @@
 ---
 title: Conversão de tipos em JavaScript
-author: Gabriel Prates
+authors: Gabriel Prates
 type: post
 date: 2016-09-05
 url: /conversao-de-tipos-em-javascript/

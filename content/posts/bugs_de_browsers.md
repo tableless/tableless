@@ -1,6 +1,6 @@
 ---
 title: Bugs de Browsers
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-01-30
 url: /bugs_de_browsers/

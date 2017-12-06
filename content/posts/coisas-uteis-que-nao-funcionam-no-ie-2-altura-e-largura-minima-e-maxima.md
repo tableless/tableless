@@ -1,6 +1,6 @@
 ---
 title: 'Coisas úteis que não funcionam no IE #2 – Altura e Largura mínima e máxima'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-09-28
 url: /coisas-uteis-que-nao-funcionam-no-ie-2-altura-e-largura-minima-e-maxima/

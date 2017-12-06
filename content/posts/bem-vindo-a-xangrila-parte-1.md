@@ -1,6 +1,6 @@
 ---
 title: Bem vindo a Xangri-lá – Parte 1
-author: Alysson Franklin
+authors: Alysson Franklin
 type: post
 date: 2010-11-25
 excerpt: Progressive Enhancement, Graceful Degradation e um horizonte perdido que precisa ser encontrado no desenvolvimento web

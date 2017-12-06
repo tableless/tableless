@@ -1,6 +1,6 @@
 ---
 title: GitHub Game Off
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2017-10-30
 excerpt: O 5º prémio anual do jogo GitHub começa em poucos dias - envolva-se e confira nossos recursos Phaser.

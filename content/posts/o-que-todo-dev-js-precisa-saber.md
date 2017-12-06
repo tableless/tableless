@@ -1,6 +1,6 @@
 ---
 title: O que TODO desenvolvedor JavaScript precisa saber
-author: Matheus Lima
+authors: Matheus Lima
 type: post
 date: 2017-08-06
 excerpt: Nos últimos anos o JS passou por uma grande revolução, apesar disso, existe uma parte fundamental da linguagem que todos deveríamos saber.

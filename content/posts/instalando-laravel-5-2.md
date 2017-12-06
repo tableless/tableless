@@ -1,6 +1,6 @@
 ---
 title: Instalando Laravel 5.2
-author: Eduardo Abreu
+authors: Eduardo Abreu
 type: post
 date: 2016-01-13
 excerpt: Como instalar e começar a utilizar o framework PHP Laravel 5.2

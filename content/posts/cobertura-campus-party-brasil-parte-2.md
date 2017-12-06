@@ -1,6 +1,6 @@
 ---
 title: Cobertura Campus Party Brasil 2014 – Parte 2
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2014-02-04
 excerpt: Continuando com a cobertura da Campus Party Brasil 2014 (CPBr7), trago os destaques do segundo dia de palestras (29/01)

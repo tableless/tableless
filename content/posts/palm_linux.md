@@ -1,6 +1,6 @@
 ---
 title: Palm com Linux
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-01-18
 url: /palm_linux/

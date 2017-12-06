@@ -1,6 +1,6 @@
 ---
 title: Iniciando com Symfony 2 – Parte 07
-author: Candido Souza
+authors: Candido Souza
 type: post
 date: 2015-04-10
 excerpt: 'Nesse tutorial, vamos usar um componente do Symfony, o http-foundation,  para usar  UploadedFile, onde criaremos um upload de imagens para que possamos incluir em nossos posts.'

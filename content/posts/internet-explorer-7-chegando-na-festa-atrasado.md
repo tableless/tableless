@@ -1,6 +1,6 @@
 ---
 title: Internet Explorer 7 chegando na festa… atrasado.
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-10-23
 url: /internet-explorer-7-chegando-na-festa-atrasado/

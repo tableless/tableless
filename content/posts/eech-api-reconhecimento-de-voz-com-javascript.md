@@ -1,6 +1,6 @@
 ---
 title: Web Speech API – Reconhecimento de voz com JavaScript
-author: Clovis Neto
+authors: Clovis Neto
 type: post
 date: 2014-10-06
 excerpt: Imagine websites onde os usuários podem navegar pelas páginas ou preencher campos de formulário usando a sua voz e até mesmo interagir com a página enquanto dirige, sem tirar os olhos da estrada.

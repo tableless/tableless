@@ -1,6 +1,6 @@
 ---
 title: Designers de CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-12-19
 url: /designers-de-css/

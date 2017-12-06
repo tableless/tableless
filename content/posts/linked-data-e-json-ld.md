@@ -1,6 +1,6 @@
 ---
 title: Linked Data e JSON-LD
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-07-20
 url: /linked-data-e-json-ld/

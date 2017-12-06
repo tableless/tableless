@@ -1,6 +1,6 @@
 ---
 title: Acelere o carregamento de suas páginas
-author: Jean Carlo Emer
+authors: Jean Carlo Emer
 type: post
 date: 2014-03-25
 excerpt: Também conhecido como o Santo Graal das páginas de internet, encontrar o carregamento perfeito não é tarefa fácil.

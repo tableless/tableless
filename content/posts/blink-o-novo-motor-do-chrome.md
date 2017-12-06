@@ -1,6 +1,6 @@
 ---
 title: 'Blink: o novo motor do Chrome'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-04-04
 excerpt: Google cria seu próprio motor de renderização baseado no WebKit.

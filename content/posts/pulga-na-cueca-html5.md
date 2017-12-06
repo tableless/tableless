@@ -1,6 +1,6 @@
 ---
 title: Pulga na cueca e experimentando o HTML5
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-04-07
 excerpt: Tenho pulga na cueca. Não no sentido literal. Claro. Eu não agüentei e mudei novamente o Tableless, por fora e por dentro. Por fora ele ficou mais bonito. Por dentro, ele está implementado com as novas tags de estrutura do HTML5.

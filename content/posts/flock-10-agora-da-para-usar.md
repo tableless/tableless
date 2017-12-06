@@ -1,6 +1,6 @@
 ---
 title: Flock 1.0 – agora dá para usar
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-12-02
 url: /flock-10-agora-da-para-usar/

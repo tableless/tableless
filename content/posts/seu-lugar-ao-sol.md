@@ -1,6 +1,6 @@
 ---
 title: Seu lugar ao sol
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-03-12
 excerpt: Como você se encaixará em um futuro onde o termo browser não existe mais?

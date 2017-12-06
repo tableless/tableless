@@ -1,6 +1,6 @@
 ---
 title: Funções do JavaScript na versão ES 6 – Parte 1
-author: caioincau
+authors: caioincau
 type: post
 date: 2015-03-25
 excerpt: Entendendo algumas novidades em funções do JavaScript na versão ES6.

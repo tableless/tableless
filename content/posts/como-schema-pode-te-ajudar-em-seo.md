@@ -1,6 +1,6 @@
 ---
 title: Como schema pode te ajudar em SEO
-author: Daniel Marcos
+authors: Daniel Marcos
 type: post
 date: 2013-02-01
 excerpt: Schema são tags padrões que foram adicionadas ao HTML afim de facilitar o entendimento de determinada informação pelos buscadores.

@@ -1,6 +1,6 @@
 ---
 title: Experimente o Opera Mini
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-01-29
 url: /experimente-o-opera-mini/

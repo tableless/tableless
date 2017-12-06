@@ -1,6 +1,6 @@
 ---
 title: 2010
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-12-23
 excerpt: 2010 será um ano realmente novo para o desenvolvimento web. Mas e para você?

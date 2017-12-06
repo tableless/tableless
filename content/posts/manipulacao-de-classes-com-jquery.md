@@ -1,6 +1,6 @@
 ---
 title: Manipulação de classes com JQuery
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-03-01
 excerpt: Entenda como funciona as funções do JQuery para manipulação de classes nos elementos do HTML.

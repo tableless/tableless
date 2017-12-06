@@ -1,6 +1,6 @@
 ---
 title: Você tem que dar uma passada!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-10-23
 url: /sliding_doors/

@@ -1,6 +1,6 @@
 ---
 title: Convertidos do Tableless
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-03-21
 excerpt: Os convertidos do Tableless voltaram. Não preciso dizer mais nada. =^)

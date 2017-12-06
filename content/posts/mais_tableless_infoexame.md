@@ -1,6 +1,6 @@
 ---
 title: Mais Tableless na InfoExame
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-04-10
 url: /mais_tableless_infoexame/

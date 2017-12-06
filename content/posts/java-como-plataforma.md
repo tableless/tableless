@@ -1,6 +1,6 @@
 ---
 title: JAVA – Como plataforma
-author: Fellipe Filgueiras
+authors: Fellipe Filgueiras
 type: post
 date: 2015-04-30
 excerpt: Entenda como o Java pode ser executado em qualquer plataforma.

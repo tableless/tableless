@@ -1,6 +1,6 @@
 ---
 title: O outro lado da moeda
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-05-13
 url: /outro_lado_da_moeda/

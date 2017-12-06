@@ -1,6 +1,6 @@
 ---
 title: IE8 Countdown – Enforcando o demônio
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-10-14
 excerpt: O IE8 já ficou velho e está na hora de mandarmos ele pra casa.

@@ -1,6 +1,6 @@
 ---
 title: HTML 5, novos elementos e atributos.
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2011-02-28
 excerpt: Em meio à tutoriais e artigos a respeito, em alguns minutos consegue-se perceber algumas das novas possibilidades que o HTML 5 proporcionará, mas na prática da construção de códigos para interfaces, o que será possível além de secções, barras de menu, barras laterais, etc?

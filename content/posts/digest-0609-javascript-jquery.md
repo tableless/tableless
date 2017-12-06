@@ -1,6 +1,6 @@
 ---
 title: 'Digest 06/09: Javascript, JQuery'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-06-25
 excerpt: Navegações e manipulações em jQuery e Javascript

@@ -1,6 +1,6 @@
 ---
 title: E ainda mais sites Tableless
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-07-16
 url: /ainda_mais_sites_tableless/

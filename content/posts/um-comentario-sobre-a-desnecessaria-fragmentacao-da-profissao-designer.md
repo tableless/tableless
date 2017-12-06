@@ -1,6 +1,6 @@
 ---
 type: post
-author: Diego Eis
+authors: Diego Eis
 date: 2017-04-23T16:17:47-03:00
 title: Um comentário sobre a desnecessária fragmentação da profissão designer
 categories:

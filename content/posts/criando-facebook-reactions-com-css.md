@@ -1,6 +1,6 @@
 ---
 title: Criando facebook reactions com css
-author: Deivid Marques
+authors: Deivid Marques
 type: post
 date: 2016-03-07
 excerpt: Criando novos botões de comportamento do Facebook usando apenas CSS e HTML.

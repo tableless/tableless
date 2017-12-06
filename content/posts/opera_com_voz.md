@@ -1,6 +1,6 @@
 ---
 title: Opera with Voice
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-12-29
 url: /opera_com_voz/

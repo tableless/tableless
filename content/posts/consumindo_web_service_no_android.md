@@ -1,6 +1,6 @@
 ---
 title: Consumindo Web Service no Android
-author: Matheus Castiglioni
+authors: Matheus Castiglioni
 type: post
 image: http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2017/11/consumindo-web-service-no-android.jpg
 date: 2017-11-23

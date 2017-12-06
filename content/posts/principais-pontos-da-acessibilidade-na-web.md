@@ -1,6 +1,6 @@
 ---
 title: Principais pontos da Acessibilidade na Web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-01
 url: /principais-pontos-da-acessibilidade-na-web/

@@ -1,6 +1,6 @@
 ---
 title: 'Projeto Felix: O novo software de 3D da Adobe'
-author: Isaque Melo
+authors: Isaque Melo
 type: post
 date: 2016-12-18
 url: /projeto-felix-o-novo-software-de-3d-da-adobe/

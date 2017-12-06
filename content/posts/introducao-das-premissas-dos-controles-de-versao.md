@@ -1,6 +1,6 @@
 ---
 title: Introdução das premissas dos controles de versão
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-16
 excerpt: Introdução sobre algumas premissas sobre controles de versão. Muito útil para designers e iniciantes na área.

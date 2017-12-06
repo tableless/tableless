@@ -1,6 +1,6 @@
 ---
 title: 'Pós Tableless Conferece #1'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-08-27
 excerpt: 'Tableless Conferece #1 - Saiba como foi o evento do Tableless e o que rolou sobre front-end, UX e afins.'

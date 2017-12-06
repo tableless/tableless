@@ -1,6 +1,6 @@
 ---
 title: SEO substitui o Marketing Patrocinado?
-author: Marcos
+authors: Marcos
 type: post
 date: 2016-04-17
 url: /seo-substitui-o-marketing-patrocinado/

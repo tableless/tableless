@@ -1,6 +1,6 @@
 ---
 title: Explorando o Tableless.com.br
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-03-01
 url: /explorando-o-tablelesscombr/

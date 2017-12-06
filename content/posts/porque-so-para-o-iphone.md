@@ -1,6 +1,6 @@
 ---
 title: Porque só para o iPhone?
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-11-17
 excerpt: 'O desenvolvimento web para iPhone é o início deu m novo modelo de desenvolvimento web para dispositivos móveis. Os browsers para aparelhos como o iPhone ou aparelhos como os S60 da Nokia, são um novo caminho de navegar. '

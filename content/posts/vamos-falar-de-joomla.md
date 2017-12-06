@@ -1,6 +1,6 @@
 ---
 title: Vamos falar de Joomla!?
-author: Girlan Volotão
+authors: Girlan Volotão
 type: post
 date: 2014-03-14
 excerpt: O Joomla evoluiu muito e está presente em grandes projetos. Vale a pena esquecer as mágoas do passado para conhecê-lo melhor.

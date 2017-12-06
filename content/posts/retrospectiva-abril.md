@@ -1,6 +1,6 @@
 ---
 title: Retrospectiva 2005 – Abril
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-01-04
 url: /retrospectiva-2005-abril/

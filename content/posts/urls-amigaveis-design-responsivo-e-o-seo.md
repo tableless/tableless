@@ -1,6 +1,6 @@
 ---
 title: URLs Amigáveis, Design Responsivo e o SEO
-author: Douglas Faria
+authors: Douglas Faria
 type: post
 date: 2013-08-28
 excerpt: Conheça algumas práticas legais para você não fazer feio nas buscas feitas por mobile.

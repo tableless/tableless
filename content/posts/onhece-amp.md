@@ -1,6 +1,6 @@
 ---
 title: Você conhece AMP?
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2016-07-13
 excerpt: 'O projeto AMP - Accelerated Mobile Pages, é uma iniciativa Google em conjunto com alguns publishers como Chartbeat, Vox, Wordpress.com, Twitter, The Washington Post, UOL, etc; de trabalhar uma estrutura de rápido carregamento de conteúdos em Smartphones.'

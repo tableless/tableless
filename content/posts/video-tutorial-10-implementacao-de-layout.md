@@ -1,6 +1,6 @@
 ---
 title: 'Video Tutorial #10 – Implementação  de layout'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-06-06
 url: /video-tutorial-10-implementacao-de-layout/

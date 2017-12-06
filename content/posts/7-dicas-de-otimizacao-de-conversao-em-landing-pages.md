@@ -1,6 +1,6 @@
 ---
 title: 7 dicas de otimização de conversão em landing pages
-author: Rodrigo Simoni
+authors: Rodrigo Simoni
 type: post
 date: 2013-05-20
 excerpt: Entenda melhor como otimizar conversões em landing-pages.

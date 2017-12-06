@@ -1,6 +1,6 @@
 ---
 title: Utilizando APPs em vez de browsers
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-06
 excerpt: Existem mais pessoas utilizando Apps para acessar conteúdo do que Browsers.

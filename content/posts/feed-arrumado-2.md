@@ -1,6 +1,6 @@
 ---
 title: Feed arrumado (ou quase)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-20
 url: /feed-arrumado-2/

@@ -1,6 +1,6 @@
 ---
 title: 'Podcast#7'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-12-17
 excerpt: 'Entrevista com Jonas Galvez - Parte 1'

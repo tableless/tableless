@@ -1,6 +1,6 @@
 ---
 title: A Microsoft Esqueceu
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-11-07
 url: /microsoft_esqueceu/

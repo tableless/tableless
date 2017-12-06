@@ -1,6 +1,6 @@
 ---
 title: BDD na prática – Parte 1
-author: Jefersson Nathan
+authors: Jefersson Nathan
 type: post
 date: 2014-04-09
 excerpt: Sinta o gostinho do BDD em um simples hello world

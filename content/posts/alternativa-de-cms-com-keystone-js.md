@@ -1,6 +1,6 @@
 ---
 title: Alternativa de CMS com Keystone.js
-author: victorkurauchi
+authors: victorkurauchi
 type: post
 date: 2016-04-14
 excerpt: O Keystone.js é um framework desenvolvido em Node.js para servir de CMS e também de Web Application.

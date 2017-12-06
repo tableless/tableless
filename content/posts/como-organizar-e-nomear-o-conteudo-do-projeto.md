@@ -1,6 +1,6 @@
 ---
 title: Como organizar e nomear o conteúdo do projeto?
-author: thonyconde
+authors: thonyconde
 type: post
 date: 2016-12-06
 url: /como-organizar-e-nomear-o-conteudo-do-projeto/

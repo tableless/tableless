@@ -1,6 +1,6 @@
 ---
 title: Podcast Especial 2
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-05
 url: /podcast_especial2/

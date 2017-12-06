@@ -1,6 +1,6 @@
 ---
 title: JavaScript, muito além dos navegadores e dos servidores
-author: Anrahh
+authors: Anrahh
 type: post
 date: 2016-09-04
 url: /javascript-muito-alem-dos-navegadores-e-dos-servidores/

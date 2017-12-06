@@ -1,6 +1,6 @@
 ---
 title: Fazendo uma faxina no seu CSS
-author: Jhonathan Souza Soares
+authors: Jhonathan Souza Soares
 type: post
 date: 2014-05-15
 excerpt: |

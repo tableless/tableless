@@ -1,6 +1,6 @@
 ---
 title: 'Bulma: framework CSS baseado em flexbox'
-author: Gabriel Prates
+authors: Gabriel Prates
 type: post
 date: 2016-06-28
 url: /bulma-framework-css-baseado-em-flexbox/

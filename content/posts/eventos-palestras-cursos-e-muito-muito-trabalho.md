@@ -1,6 +1,6 @@
 ---
 title: Eventos, palestras, cursos e muito, muito trabalho
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-11-29
 url: /eventos-palestras-cursos-e-muito-muito-trabalho/

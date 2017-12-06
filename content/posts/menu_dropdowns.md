@@ -1,6 +1,6 @@
 ---
 title: Menu Dropdowns
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-06
 url: /menu_dropdowns/

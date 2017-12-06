@@ -1,6 +1,6 @@
 ---
 title: Contribuindo em projetos open source com o github
-author: William Martins
+authors: William Martins
 type: post
 date: 2013-06-21
 excerpt: Conheça os primeiros passos para contribuir para projetos pelo GitHub. Ideal para iniciantes!

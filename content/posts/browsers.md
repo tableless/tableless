@@ -1,6 +1,6 @@
 ---
 title: Browsers
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-07-01
 url: /browsers/

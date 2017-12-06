@@ -1,6 +1,6 @@
 ---
 title: 'jQuery: conheça os métodos on() e off()'
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2012-03-13
 excerpt: A versão 1.7 do framework jQuery implementa dois novos métodos que pretendem acabar de vez com a confusão gerada em torno da associação de eventos.

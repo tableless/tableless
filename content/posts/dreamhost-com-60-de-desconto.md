@@ -1,6 +1,6 @@
 ---
 title: Dreamhost com 60% de desconto!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-06-02
 url: /dreamhost-com-60-de-desconto/

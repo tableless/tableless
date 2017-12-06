@@ -1,6 +1,6 @@
 ---
 title: 'Podcast Tableless #22 – Primeira impressão sobre Padrões Web'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-09-01
 url: /podcast-tableless-22-primeira-impressao-sobre-padroes-web/

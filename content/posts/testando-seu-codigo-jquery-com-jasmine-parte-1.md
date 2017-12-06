@@ -1,6 +1,6 @@
 ---
 title: Testando seu código jQuery com Jasmine – Parte 1
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2011-09-12
 excerpt: 'Com a evolução do desenvolvimento em JavaScript, testes automatizados começam a ganhar cada vez mais força. Neste artigo você conhece um pouco mais sobre a biblioteca Jasmine, focada em BDD &mdash;  Behavior Driven Development.'

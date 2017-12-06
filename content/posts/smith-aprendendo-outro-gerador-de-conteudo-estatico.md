@@ -1,6 +1,6 @@
 ---
 title: 'Wintersmith: Outro gerador de conteúdo estático'
-author: João Felix
+authors: João Felix
 type: post
 date: 2014-01-15
 excerpt: Conheça o Wintersmith, mais um gerador de conteúdo estático.

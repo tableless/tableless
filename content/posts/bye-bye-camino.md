@@ -1,6 +1,6 @@
 ---
 title: Bye bye Camino
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-06-02
 url: /bye-bye-camino/

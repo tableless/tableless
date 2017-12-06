@@ -1,6 +1,6 @@
 ---
 title: WebP, hora de brincar?
-author: Franklin Nilson
+authors: Franklin Nilson
 type: post
 date: 2014-02-28
 excerpt: Imagens menores que podem ajudar a tornar a web mais rápida.

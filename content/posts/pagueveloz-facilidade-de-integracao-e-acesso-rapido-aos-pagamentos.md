@@ -1,6 +1,6 @@
 ---
 title: 'PagueVeloz: facilidade de integração e acesso rápido aos pagamentos'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-09-09
 url: /pagueveloz-facilidade-de-integracao-e-acesso-rapido-aos-pagamentos/

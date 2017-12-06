@@ -1,6 +1,6 @@
 ---
 title: Resumo do 15 Encontro Locaweb
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-07-05
 excerpt: Minhas palestras feitas no 15ELW.

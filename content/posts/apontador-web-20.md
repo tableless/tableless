@@ -1,6 +1,6 @@
 ---
 title: Apontador Web 2.0
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-11-16
 url: /apontador-web-20/

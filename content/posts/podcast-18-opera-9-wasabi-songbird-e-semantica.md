@@ -1,6 +1,6 @@
 ---
 title: 'Podcast #18 – Opera 9, Wasabi, Songbird e Semântica'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-13
 url: /podcast-18-opera-9-wasabi-songbird-e-semantica/

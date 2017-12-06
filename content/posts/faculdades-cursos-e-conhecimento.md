@@ -1,6 +1,6 @@
 ---
 title: Faculdades, cursos e conhecimento
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-07-06
 url: /faculdades-cursos-e-conhecimento/

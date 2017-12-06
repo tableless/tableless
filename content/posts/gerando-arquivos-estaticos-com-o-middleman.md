@@ -1,6 +1,6 @@
 ---
 title: Gerando arquivos estáticos com o Middleman
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-08-04
 excerpt: Criar projetos usando geradores de arquivos estáticos podem ser uma saída estratégica para evitar ambientes complexos, o Middleman pode te ajudar a desenvolver projetos simples e rápidos.

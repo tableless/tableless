@@ -1,6 +1,6 @@
 ---
 title: Opera Neon – Até que enfim um browser decente
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2017-01-15
 url: /opera-neon-ate-que-enfim-um-browser-decente/

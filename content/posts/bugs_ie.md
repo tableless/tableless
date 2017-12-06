@@ -1,6 +1,6 @@
 ---
 title: Bugs do IE
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-12-04
 url: /bugs_ie/

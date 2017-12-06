@@ -1,6 +1,6 @@
 ---
 title: Resolvendo problemas de compatibilidades dos IEs
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-06-06
 url: /resolvendo-problemas-de-compatibilidades-dos-ies/

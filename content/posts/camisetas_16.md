@@ -1,6 +1,6 @@
 ---
 title: Camiseta – R$ 16,00
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-07-14
 url: /camisetas_16/

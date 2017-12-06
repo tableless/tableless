@@ -1,6 +1,6 @@
 ---
 title: Slack Time – Sua preguiça também pode gerar resultados
-author: Henrique Schreiner
+authors: Henrique Schreiner
 type: post
 date: 2015-10-14
 excerpt: Aprenda mais sobre esta técnica utilizada em metodologias ágeis e saiba usar seu tempo de folga para melhorar seus processos.

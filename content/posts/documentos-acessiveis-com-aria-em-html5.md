@@ -1,6 +1,6 @@
 ---
 title: Documentos acessíveis com WAI-ARIA em HTML5
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2011-04-14
 excerpt: 'A preocupação com acessibilidade tem aumentado gradativamente a cada nova versão do HTML e CSS, em vista de atender cada vez mais os usuários que possuem alguma deficiência. '

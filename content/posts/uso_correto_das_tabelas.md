@@ -1,6 +1,6 @@
 ---
 title: Uso correto das tabelas
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-05
 url: /uso_correto_das_tabelas/

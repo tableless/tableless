@@ -1,6 +1,6 @@
 ---
 title: Introdução a propriedades e métodos no JS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-08-08
 excerpt: Entendendo um pouco sobre o uso de propriedades de valores e métodos no JavaScript.

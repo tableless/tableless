@@ -1,6 +1,6 @@
 ---
 title: Começando um blog – O público alvo
-author: Rodrigo Godoy
+authors: Rodrigo Godoy
 type: post
 date: 2017-02-07
 url: /comecando-um-blog-o-publico-alvo/

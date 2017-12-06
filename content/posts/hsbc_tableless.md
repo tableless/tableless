@@ -1,6 +1,6 @@
 ---
 title: HSBC Tableless!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-20
 url: /hsbc_tableless/

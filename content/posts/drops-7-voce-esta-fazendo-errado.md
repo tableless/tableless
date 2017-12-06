@@ -1,6 +1,6 @@
 ---
 title: Drops 7 – Você está fazendo errado
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-04-05
 excerpt: 'Cuidado, você pode estar fazendo alguma coisa muito errada. Na verdade foi mais um desabafo. '

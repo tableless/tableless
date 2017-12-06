@@ -1,6 +1,6 @@
 ---
 title: 'Web Semântica na Prática Parte 1: A Web do futuro (ou quase isso)'
-author: James Miranda
+authors: James Miranda
 type: post
 date: 2016-10-18
 excerpt: Aprenda um pouco sobre como criar aplicações Web que podem ser utilizadas por humanos e computadores

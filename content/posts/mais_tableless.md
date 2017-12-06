@@ -1,6 +1,6 @@
 ---
 title: Mais Tableless Nacional
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-09-13
 url: /mais_tableless/

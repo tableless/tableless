@@ -1,6 +1,6 @@
 ---
 title: Bem vinda Ava Marie Zeldman
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-29
 url: /ava_marie_zeldman/

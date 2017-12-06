@@ -1,6 +1,6 @@
 ---
 title: 'Slides para Devs #2'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-03-14
 excerpt: Slides que valem a pena você ver, parte 2.

@@ -1,6 +1,6 @@
 ---
 title: Shopify – Uma ótima opção de e-commerce
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-07-09
 excerpt: Talvez, em vez de criar um e-commerce completo, seja mais interessante indicar um sistema pronto e-commerce, como o Shopify.

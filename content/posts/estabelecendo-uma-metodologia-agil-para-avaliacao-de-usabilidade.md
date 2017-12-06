@@ -1,6 +1,6 @@
 ---
 title: Estabelecendo uma metodologia ágil para avaliação de usabilidade
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2011-01-05
 excerpt: Como forma de estabelecer um processo ágil para testes de usabilidade, uma das abordagens mais viáveis é a avaliação heurística, um método onde os próprios especialistas da empresa avaliam a interface de acordo com as heurísticas de usabilidade.

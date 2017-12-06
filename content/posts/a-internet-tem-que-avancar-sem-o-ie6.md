@@ -1,6 +1,6 @@
 ---
 title: A internet tem que avançar sem o IE6
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-01-19
 excerpt: 'O IE6 é um browser com tecnologia de 2001. Já se passaram 8 anos, e você sabe como a web mudou em todo esse tempo. '

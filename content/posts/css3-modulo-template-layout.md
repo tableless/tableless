@@ -1,6 +1,6 @@
 ---
 title: CSS3 – Módulo Template Layout
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-05-30
 excerpt: Entenda como você não fará mais estruturas com a propriedade float.

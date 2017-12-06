@@ -1,6 +1,6 @@
 ---
 title: Samsung e H.Stern convertidos!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-11-19
 url: /samsung_hstern_convertidos/

@@ -1,6 +1,6 @@
 ---
 title: Opera Mini 3.0
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-11-29
 url: /opera-mini-30/

@@ -1,6 +1,6 @@
 ---
 title: CSS 3 Columns
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-07-14
 excerpt: O CSS3 facilitará muitas coisas, uma das possibilidades é a criação automatica de colunas em blocos de textos. Para tanto, utilizamos as propriedades de columns do CSS3.

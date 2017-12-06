@@ -1,6 +1,6 @@
 ---
 title: JAVA – Principais características
-author: Fellipe Filgueiras
+authors: Fellipe Filgueiras
 type: post
 date: 2015-05-05
 url: /java-principais-caracteristicas/

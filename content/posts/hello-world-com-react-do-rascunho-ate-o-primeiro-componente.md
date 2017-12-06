@@ -1,6 +1,6 @@
 ---
 title: Hello World com React, do rascunho até o primeiro componente
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-10-31
 url: /hello-world-com-react-do-rascunho-ate-o-primeiro-componente/

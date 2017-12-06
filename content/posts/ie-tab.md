@@ -1,6 +1,6 @@
 ---
 title: IE Tab
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-16
 url: /ie-tab/

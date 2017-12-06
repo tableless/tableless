@@ -1,6 +1,6 @@
 ---
 title: 2012
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-01
 excerpt: O ano termina e começa outra vez. ♫

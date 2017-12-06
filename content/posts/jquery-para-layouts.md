@@ -1,6 +1,6 @@
 ---
 title: JQuery para produção de Layouts
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-12-15
 excerpt: 'Quando falta a compatibilidade de algumas propriedades do CSS nos browsers ou porque quando não é possível  manipular o HTML manualmente para suprir suas necessidades, o JQuery poderá ajudar.'

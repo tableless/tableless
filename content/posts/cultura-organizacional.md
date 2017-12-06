@@ -1,6 +1,6 @@
 ---
 title: Como criar e manter uma cultura de desenvolvimento no seu time
-author: Danilo Vitoriano
+authors: Danilo Vitoriano
 type: post
 date: 2015-07-15
 excerpt: 'Inspirado no FEMUG SP #23, atitudes para manter o desenvolvimento pessoal dentro da cultura de um time.'

@@ -1,6 +1,6 @@
 ---
 title: Múltiplos backgrounds com CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-03-28
 excerpt: Testando múltiplos backgrounds no CSS3. Isso realmente funciona! ;-)

@@ -1,6 +1,6 @@
 ---
 title: Criando uma aplicação simples com AngularJS
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2012-07-26
 excerpt: Com a missão de enriquecer o vocabulário HTML o framework AngularJS chega com a marca Google de simplicidade e promete um workflow diferente para os desenvolvedores.

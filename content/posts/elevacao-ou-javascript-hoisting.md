@@ -1,6 +1,6 @@
 ---
 title: Elevação ou JavaScript hoisting
-author: Jonatan Santos
+authors: Jonatan Santos
 type: post
 date: 2014-06-04
 excerpt: |

@@ -1,6 +1,6 @@
 ---
 title: 'Frame Player: Indo além da tag video em dispositivos móveis'
-author: Vagner Santana
+authors: Vagner Santana
 type: post
 date: 2013-11-27
 excerpt: |

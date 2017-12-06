@@ -1,6 +1,6 @@
 ---
 title: 'Palestra: Implementação de Layout com CSS'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-07-21
 url: /palestra-implementacao-de-layout-com-css/

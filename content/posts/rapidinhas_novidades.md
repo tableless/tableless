@@ -1,6 +1,6 @@
 ---
 title: 'Rapidinhas: Novidades'
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-06-23
 url: /rapidinhas_novidades/

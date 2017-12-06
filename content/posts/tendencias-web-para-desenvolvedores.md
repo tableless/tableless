@@ -1,6 +1,6 @@
 ---
 title: Tendências Web 2015 para desenvolvedores
-author: Paula Berrocal
+authors: Paula Berrocal
 type: post
 date: 2015-04-09
 excerpt: Algumas tendências fortes que ainda veremos em 2015 e que podem perdurar ainda mais.

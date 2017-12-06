@@ -1,6 +1,6 @@
 ---
 title: 'Livro: Guia de Front-end – O caminho das pedras'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-05-11
 excerpt: Novo livro do Diego Eis sobre quais prioridades você deve prestar atenção para se tornar um bom dev front-end.

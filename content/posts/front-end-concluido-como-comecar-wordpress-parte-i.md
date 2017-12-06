@@ -1,6 +1,6 @@
 ---
 title: Front-end concluído, como começar no WordPress? Parte I
-author: Paulo Rodrigues
+authors: Paulo Rodrigues
 type: post
 date: 2012-01-05
 excerpt: A primeira parte do artigo abordará o inicio com desenvolvimento com Wordpress, desde da conclusão do front-end, até de criação da página inicial e sua personalização através de sidebar, menu, loop dos posts, ect.

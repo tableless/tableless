@@ -1,6 +1,6 @@
 ---
 title: Atribuição múltipla com Destruturing Assignment
-author: Gabriel Prates
+authors: Gabriel Prates
 type: post
 image: uploads/2017/03/pexels-photo-296983-2.jpg
 date: 2017-04-02

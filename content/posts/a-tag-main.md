@@ -1,6 +1,6 @@
 ---
 title: A tag MAIN
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-01-14
 excerpt: Conheça a nova tag MAIN do HTML.

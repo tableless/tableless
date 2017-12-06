@@ -1,6 +1,6 @@
 ---
 title: Annamaron.com.br
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-12-03
 url: /annamarrom/

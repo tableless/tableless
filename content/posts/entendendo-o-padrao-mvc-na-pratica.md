@@ -1,6 +1,6 @@
 ---
 title: Entendendo o padrão MVC na prática
-author: Erik Figueiredo
+authors: Erik Figueiredo
 type: post
 date: 2015-06-25
 excerpt: Exemplo prático utilizando PHP e Composer para separar o código entre as diversas camadas do MVC

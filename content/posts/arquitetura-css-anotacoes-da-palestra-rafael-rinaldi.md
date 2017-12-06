@@ -1,6 +1,6 @@
 ---
 title: Arquitetura CSS – Anotações da palestra Rafael Rinaldi
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-12-08
 excerpt: Anotações que fiz sobre a palestra do Rafael Rinaldi no Seminário Locaweb que houve em SP.

@@ -1,6 +1,6 @@
 ---
 title: IE6 no Mac… (eu sei, é pecado)
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-05-24
 url: /ie6-no-mac-eu-sei-e-pecado/

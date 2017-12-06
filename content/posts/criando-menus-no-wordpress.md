@@ -1,6 +1,6 @@
 ---
 title: Criando Menus no WordPress
-author: Paulo Rodrigues
+authors: Paulo Rodrigues
 type: post
 date: 2011-03-02
 excerpt: Aprenda a adicionar menus e edite no seu próprio painel de administração com as páginas ou links que você quer

@@ -1,6 +1,6 @@
 ---
 title: 'ELPI POA: ainda dá tempo!'
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2008-05-16
 url: /elpi-poa-ainda-da-tempo/

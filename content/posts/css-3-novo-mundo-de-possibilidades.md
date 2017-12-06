@@ -1,6 +1,6 @@
 ---
 title: CSS3 – Novo mundo de possibilidades
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-07-20
 url: /css-3-novo-mundo-de-possibilidades/

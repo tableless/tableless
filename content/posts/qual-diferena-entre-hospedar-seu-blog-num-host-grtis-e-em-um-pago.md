@@ -1,6 +1,6 @@
 ---
 title: Qual a diferença entre hospedar seu blog num host grátis e em um pago?
-author: tableless
+authors: tableless
 type: post
 date: 2016-12-21
 url: /qual-diferena-entre-hospedar-seu-blog-num-host-grtis-e-em-um-pago/

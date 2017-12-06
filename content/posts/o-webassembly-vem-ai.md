@@ -1,6 +1,6 @@
 ---
 title: WebAssembly – a web compilada
-author: Marco Antônio
+authors: Marco Antônio
 type: post
 date: 2015-06-24
 excerpt: Um novo formato binário para compilar aplicações para web.

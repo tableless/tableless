@@ -1,6 +1,6 @@
 ---
 title: Dominando o uso de prototype em JavaScript
-author: Clovis Neto
+authors: Clovis Neto
 type: post
 date: 2014-06-14
 excerpt: |

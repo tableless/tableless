@@ -1,6 +1,6 @@
 ---
 title: Site da Siemens Convertido
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-03-17
 url: /siemens_convertido/

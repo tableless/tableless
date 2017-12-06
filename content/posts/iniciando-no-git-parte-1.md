@@ -1,6 +1,6 @@
 ---
 title: Iniciando no GIT – Parte 1
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-11-19
 excerpt: Entenda o que é o Git e como iniciar um projeto.

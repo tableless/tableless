@@ -1,6 +1,6 @@
 ---
 title: Exercícios Simples de JavaScript para Entrevista
-author: Wendell Adriel
+authors: Wendell Adriel
 type: post
 date: 2016-01-26
 excerpt: Nesse artigo iremos ver alguns exercícios simples e rápidos de JavaScript que podem ser usados para ajudar a você a selecionar candidatos ou para você se dar bem em uma entrevista.

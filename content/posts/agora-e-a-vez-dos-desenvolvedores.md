@@ -1,6 +1,6 @@
 ---
 title: Agora é a vez dos desenvolvedores
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-02-05
 excerpt: A revolução pode começar sem você.

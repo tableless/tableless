@@ -1,6 +1,6 @@
 ---
 title: Wiki ArqHP
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-12-05
 url: /wiki_arqhp/

@@ -1,6 +1,6 @@
 ---
 title: The Css Box Model Hierachy
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-05-20
 url: /css_box_model/

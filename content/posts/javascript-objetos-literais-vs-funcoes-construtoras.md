@@ -1,6 +1,6 @@
 ---
 title: 'JavaScript: Objetos Literais vs. Funções Construtoras'
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2013-06-04
 excerpt: Neste artigo apresento um pouco mais sobre as duas formas disponíveis para criação de objetos em JavaScript, Objetos Literais e Construtores, suas vantagens e desvantagens.

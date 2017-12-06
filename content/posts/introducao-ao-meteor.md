@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Meteor
-author: Leo Cavalcante
+authors: Leo Cavalcante
 type: post
 date: 2015-08-13
 excerpt: Uma introdução ao Meteor.

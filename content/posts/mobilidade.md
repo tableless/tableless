@@ -1,6 +1,6 @@
 ---
 title: Mobilidade
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-04-13
 url: /mobilidade/

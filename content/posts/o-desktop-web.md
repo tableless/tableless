@@ -1,6 +1,6 @@
 ---
 title: O Desktop Web
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-02-23
 url: /o-desktop-web/

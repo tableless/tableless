@@ -1,6 +1,6 @@
 ---
 title: Otimize seu CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-07
 url: /otimize_seu_css/

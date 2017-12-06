@@ -1,6 +1,6 @@
 ---
 title: Votação – Vista esta Camisa
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-18
 url: /votacao_vista_esta_camisa/

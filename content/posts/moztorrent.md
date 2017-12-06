@@ -1,6 +1,6 @@
 ---
 title: MozTorrent
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-12-06
 url: /moztorrent/

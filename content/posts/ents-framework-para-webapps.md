@@ -1,6 +1,6 @@
 ---
 title: WebIntents – Framework para WebApps
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-01-06
 excerpt: 'WebIntents: sistemas web falando a mesma língua.'

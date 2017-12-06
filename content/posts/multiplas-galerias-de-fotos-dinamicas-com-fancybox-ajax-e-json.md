@@ -1,6 +1,6 @@
 ---
 title: Múltiplas galerias de fotos dinâmicas com Fancybox, Ajax e JSON
-author: pdechery
+authors: pdechery
 type: post
 date: 2015-02-27
 excerpt: Transferindo dados entre o PHP e Javascript do jeito certo.

@@ -1,6 +1,6 @@
 ---
 title: Entendendo os Reflows
-author: Alysson Franklin
+authors: Alysson Franklin
 type: post
 date: 2011-07-18
 excerpt: O que são e como os Reflows podem ser otimizados para aplicações ficarem ainda mais rápidas.

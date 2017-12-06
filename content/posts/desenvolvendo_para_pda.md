@@ -1,6 +1,6 @@
 ---
 title: Desenvolvendo Web Sites para PDA´s
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-10-21
 url: /desenvolvendo_para_pda/

@@ -1,6 +1,6 @@
 ---
 title: Estatísticas do Tableless FEED Outubro/2006
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-10-24
 url: /estatisticas-do-tableless-feed-outubro2006/

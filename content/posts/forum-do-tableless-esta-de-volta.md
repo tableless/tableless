@@ -1,6 +1,6 @@
 ---
 title: Fórum do Tableless está de volta
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-10-13
 excerpt: Mais uma maneira para você tirar dúvidas e receber ajuda dos universitários.

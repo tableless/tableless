@@ -1,6 +1,6 @@
 ---
 title: Retrospectiva 2006 – Janeiro
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-01-08
 url: /retrospectiva-2006-janeiro/

@@ -1,6 +1,6 @@
 ---
 title: Layout Fixo / Fluido de 3 colunas em 8 Minutos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-06-10
 url: /layout-fixo-fluido-de-3-colunas-em-8-minutos/

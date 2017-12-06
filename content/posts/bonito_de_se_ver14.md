@@ -1,6 +1,6 @@
 ---
 title: 'Bonito de se ver #14'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-08
 url: /bonito_de_se_ver14/

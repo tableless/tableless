@@ -1,6 +1,6 @@
 ---
 title: Elementos de interface utilizando apenas CSS3
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2013-05-09
 excerpt: Você sabia que já é possível criar interfaces ricas sem escrever código JavaScript? Nesse artigo você confere algumas implementações de elementos de interfaces ricas que utilizam apenas CSS3.

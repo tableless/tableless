@@ -1,6 +1,6 @@
 ---
 title: Doce passado
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-12-14
 url: /doce-passado/

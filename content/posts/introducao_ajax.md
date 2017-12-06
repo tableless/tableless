@@ -1,6 +1,6 @@
 ---
 title: Ajax para quem só ouviu falar
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-08-30
 url: /introducao_ajax/

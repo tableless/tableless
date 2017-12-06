@@ -1,6 +1,6 @@
 ---
 title: Não troque todas as suas imagens por background!
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-03-16
 url: /nao-troque-todas-as-suas-imagens-por-background/

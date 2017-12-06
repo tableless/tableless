@@ -5,7 +5,7 @@ categories:
 excerpt: Algumas informações sobre o novo formato de arquivo do Sketch 43
 image: http://i.imgur.com/oU9aar0.jpg
 type: post
-author: Diego Eis
+authors: Diego Eis
 date: 2017-04-16T09:23:34-03:00
 title: O novo formato de arquivo do Sketch 43
 ---

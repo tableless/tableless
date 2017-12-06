@@ -1,6 +1,6 @@
 ---
 title: Webkit to the people
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-03-18
 excerpt: Entenda por que a monocultura do Webkit pode ser ruim. Ou não.

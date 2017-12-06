@@ -1,6 +1,6 @@
 ---
 title: Apostila sobre HTML5
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-07-13
 excerpt: Guia de referência de HTML5 pela Visie.

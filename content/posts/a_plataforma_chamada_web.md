@@ -1,6 +1,6 @@
 ---
 title: A plataforma chamada Web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-11-01
 url: /a_plataforma_chamada_web/

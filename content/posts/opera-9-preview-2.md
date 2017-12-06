@@ -1,6 +1,6 @@
 ---
 title: Opera 9 preview 2
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-02-08
 url: /opera-9-preview-2/

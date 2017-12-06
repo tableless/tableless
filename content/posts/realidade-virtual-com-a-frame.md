@@ -1,6 +1,6 @@
 ---
 title: Construindo protótipos navegáveis em realidade virtual com A-Frame
-author: Bruno Castro
+authors: Bruno Castro
 type: post
 date: 2017-07-16
 excerpt: A-Frame é um framework NODE.JS pra construção de aplicações em 360 no browser.

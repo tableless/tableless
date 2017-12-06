@@ -1,6 +1,6 @@
 ---
 title: Há vagas na 32Bits™
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-03-28
 url: /ha-vagas-na-32bits™/

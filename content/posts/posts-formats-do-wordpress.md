@@ -1,6 +1,6 @@
 ---
 title: Posts Formats do WordPress
-author: Paulo Rodrigues
+authors: Paulo Rodrigues
 type: post
 date: 2011-05-18
 excerpt: O WordPress teve sua última atualização para a versão 3.1, dentre as novidades, está a inclusão de post formats em tipos de conteúdo. Com essa função, você pode deixar o WordPress com um toque de Tumblr.

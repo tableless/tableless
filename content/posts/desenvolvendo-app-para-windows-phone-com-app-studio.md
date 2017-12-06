@@ -1,6 +1,6 @@
 ---
 title: Desenvolvendo App para Windows Phone com App Studio
-author: Ivan Alves
+authors: Ivan Alves
 type: post
 date: 2015-08-27
 url: /desenvolvendo-app-para-windows-phone-com-app-studio/

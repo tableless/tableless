@@ -1,6 +1,6 @@
 ---
 title: Porque você não deveria se focar demais no trabalho
-author: Eduardo Fernandes
+authors: Eduardo Fernandes
 type: post
 date: 2014-07-05
 excerpt: Quando você começa a trabalhar na área de criação, tende a sofrer muito por ser ansioso, inseguro e cheio de opiniões inflexíveis. Porém, ao longo dos anos, a vida naturalmente nos obriga a diversificar o foco e a deixar de levar a carreira tão a sério. Isso traz um alívio enorme. E, com alguma sorte, até mais fluência e criatividade profissional.

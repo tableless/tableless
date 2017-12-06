@@ -1,6 +1,6 @@
 ---
 title: É a maldita da cultura.
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-04-17
 url: /e-a-maldita-da-cultura/

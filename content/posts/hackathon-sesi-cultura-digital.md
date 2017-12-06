@@ -1,6 +1,6 @@
 ---
 title: Hackathon – SESI Cultura Digital
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-10-07
 url: /hackathon-sesi-cultura-digital/

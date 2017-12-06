@@ -1,6 +1,6 @@
 ---
 title: 'Qualidade em Uso: expandindo a Usabilidade'
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2011-08-29
 excerpt: A Qualidade em Uso visa cobrir não apenas a facilidade de uso, mas também as funcionalidades e o suporte apropriado às atividades de uso em cenário real. É considerado não somente a visão do usuário, mas do contexto de uso em ambiente de trabalho.

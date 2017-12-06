@@ -1,6 +1,6 @@
 ---
 title: Lavando a roupa suja
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-08-29
 url: /lavando-a-roupa-suja/

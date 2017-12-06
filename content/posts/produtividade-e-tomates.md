@@ -1,6 +1,6 @@
 ---
 title: Produtividade e Tomates
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2014-05-26
 excerpt: Conheça a Técnica Pomodoro, aprenda a gerenciar melhor seu tempo e entenda como fazer mais pausas pode te deixar mais produtivo.

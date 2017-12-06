@@ -1,6 +1,6 @@
 ---
 title: Por que Python?
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2015-09-29
 url: /por-que-python/

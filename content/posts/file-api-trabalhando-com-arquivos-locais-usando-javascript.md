@@ -1,6 +1,6 @@
 ---
 title: File API – Trabalhando com Arquivos Locais Usando Javascript
-author: Bruno Ruiz
+authors: Bruno Ruiz
 type: post
 date: 2014-04-08
 excerpt: Trabalhar com arquivos no lado do cliente antes do HTML5 era dificultoso e e tinha pouco suporte. Com o File API, agora é possível capturar informações e ler o conteúdo de arquivos usando apenas o navegador por meio do javascript.

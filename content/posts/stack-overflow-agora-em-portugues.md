@@ -1,6 +1,6 @@
 ---
 title: Stack Overflow agora em português
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-01-29
 excerpt: O Stack Overflow tem versão em português.

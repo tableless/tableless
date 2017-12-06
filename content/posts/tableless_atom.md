@@ -1,6 +1,6 @@
 ---
 title: Tableless ATOM!
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-09-21
 url: /tableless_atom/

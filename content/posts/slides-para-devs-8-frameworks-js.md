@@ -1,6 +1,6 @@
 ---
 title: 'Slides para Devs #8 – Frameworks JS'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-05-07
 excerpt: Apresentações sobre frameworks Javascript.

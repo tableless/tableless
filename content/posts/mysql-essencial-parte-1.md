@@ -1,6 +1,6 @@
 ---
 title: MySQL Essencial (parte 1)
-author: Claudio Melo
+authors: Claudio Melo
 type: post
 date: 2016-04-28
 url: /mysql-essencial-parte-1/

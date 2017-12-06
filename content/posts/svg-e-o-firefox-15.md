@@ -1,6 +1,6 @@
 ---
 title: SVG e o Firefox 1.5
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-12-15
 url: /svg-e-o-firefox-15/

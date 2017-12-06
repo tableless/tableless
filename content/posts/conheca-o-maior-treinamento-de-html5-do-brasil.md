@@ -1,6 +1,6 @@
 ---
 title: Conheça o maior treinamento de HTML5 do Brasil
-author: tableless
+authors: tableless
 type: post
 date: 2012-09-28
 url: /conheca-o-maior-treinamento-de-html5-do-brasil/

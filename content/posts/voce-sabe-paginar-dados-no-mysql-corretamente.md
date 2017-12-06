@@ -1,6 +1,6 @@
 ---
 title: Você sabe paginar dados no MySQL corretamente?
-author: Adriano dos Santos Júnior
+authors: Adriano dos Santos Júnior
 type: post
 date: 2016-07-15
 excerpt: O uso de uma simples instrução pode otimizar a performance de suas consultas ao banco.

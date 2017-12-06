@@ -1,6 +1,6 @@
 ---
 title: Chatsum
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-06-05
 categories:

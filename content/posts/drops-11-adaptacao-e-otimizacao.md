@@ -1,6 +1,6 @@
 ---
 title: Drops 11 – Adaptação e Otimização
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-07-04
 excerpt: Drops 11 falando sobre adaptação ou otimização de sites para mobile.

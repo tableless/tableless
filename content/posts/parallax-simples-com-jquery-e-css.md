@@ -1,6 +1,6 @@
 ---
 title: Parallax simples com JQuery e CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-01-14
 excerpt: Faça o efeito parallax com 3 passos simples.

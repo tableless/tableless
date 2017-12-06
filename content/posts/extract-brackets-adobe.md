@@ -1,6 +1,6 @@
 ---
 title: Extract for Brackets by Adobe
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-12-24
 excerpt: Conheça o Extract, da Adobe. Esse serviço mostra, direto de um PSD, o código CSS dos elementos selecionados.

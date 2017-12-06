@@ -1,6 +1,6 @@
 ---
 title: O que é Sass? Entenda esse outro método de escrever CSS
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2013-06-11
 excerpt: Quando pensamos em produtividade, logo nos perguntamos e pesquisamos como aumentá-la sem grandes impactos. Então, os pré-processadores e frameworks para CSS vem suprir essa necessidade. Com vocês, um pouco de Sass.

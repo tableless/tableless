@@ -1,6 +1,6 @@
 ---
 title: 'Vídeo Tutorial #1 – Layout basico de 3 Colunas'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-12-15
 url: /video_tutorial_layout_3_colunas/

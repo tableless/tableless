@@ -1,6 +1,6 @@
 ---
 title: Capturando erros JS LIKE-A-BOSS
-author: Almir Filho
+authors: Almir Filho
 type: post
 date: 2012-12-12
 excerpt: Hoje iremos aprender para que serve o evento window.onerror e como tirar proveito desta ótima utilidade.

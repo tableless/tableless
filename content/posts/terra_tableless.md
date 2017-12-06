@@ -1,6 +1,6 @@
 ---
 title: Terra.com.br tableless
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-09-27
 url: /terra_tableless/

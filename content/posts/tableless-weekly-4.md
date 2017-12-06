@@ -1,6 +1,6 @@
 ---
 title: 'Tableless Weekly #4'
-author: Lenilson Nascimento
+authors: Lenilson Nascimento
 type: post
 date: 2014-09-10
 excerpt: Seleção semanal do tableless que reúne links úteis, novidades no mercado front end e alguns sites bem legais.

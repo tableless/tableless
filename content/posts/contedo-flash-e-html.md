@@ -1,6 +1,6 @@
 ---
 title: Conteúdo, Flash e HTML
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-04-29
 excerpt: O HTML não vai tomar o lugar do Flash, entretanto, o Flash não será a única opção.

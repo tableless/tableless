@@ -1,6 +1,6 @@
 ---
 title: Listas de Discussão
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-01-27
 url: /listas_discussao/

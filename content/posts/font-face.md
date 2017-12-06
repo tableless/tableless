@@ -1,6 +1,6 @@
 ---
 title: font-face
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-08-14
 url: /font-face/

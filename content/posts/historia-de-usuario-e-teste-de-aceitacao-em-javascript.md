@@ -1,6 +1,6 @@
 ---
 title: História de usuário e teste de aceitação em JavaScript
-author: Igor Ribeiro Lima
+authors: Igor Ribeiro Lima
 type: post
 date: 2014-01-22
 excerpt: 'História de usuário é uma descrição resumida de alguma funcionalidade do sistema sob o ponto de vista do usuário. '

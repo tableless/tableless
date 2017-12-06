@@ -1,6 +1,6 @@
 ---
 title: Tudo sobre Favicon e como instalar ele em seu site 
-author: Tableless
+authors: Tableless
 type: post
 date: 2017-10-14
 excerpt: Você tem um favicon personalizado para o seu site? Se ainda não, realmente deveria ter um. Ele dá o toque final ao branding e ao design do seu site.

@@ -1,6 +1,6 @@
 ---
 title: Eu na Semana da Web Anhembi Morumbi
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2004-05-17
 url: /eu_na_anhembi_morumbi/

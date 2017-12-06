@@ -1,6 +1,6 @@
 ---
 title: 10 anos de Firefox
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-09-24
 excerpt: Parabéns aos 10 anos de Firefox. Veja dois vídeos interessantes sobre a guerra dos browsers.

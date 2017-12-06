@@ -1,6 +1,6 @@
 ---
 title: O LOOP do WordPress
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-04-28
 url: /o-loop-do-wordpress/

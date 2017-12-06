@@ -1,6 +1,6 @@
 ---
 title: Thunderbird
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-07-16
 url: /thunderbird/

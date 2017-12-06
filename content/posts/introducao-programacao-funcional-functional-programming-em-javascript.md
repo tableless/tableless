@@ -1,6 +1,6 @@
 ---
 title: Introdução à Programação Funcional (Functional Programming) em Javascript
-author: maufarinelli
+authors: maufarinelli
 type: post
 date: 2016-06-28
 url: /introducao-programacao-funcional-functional-programming-em-javascript/

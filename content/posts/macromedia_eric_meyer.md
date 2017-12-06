@@ -1,6 +1,6 @@
 ---
 title: Macromedia e o Eric Meyer
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-08-26
 url: /macromedia_eric_meyer/

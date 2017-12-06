@@ -1,6 +1,6 @@
 ---
 title: Quem tem medo?
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2003-11-20
 url: /quem_tem_medo/

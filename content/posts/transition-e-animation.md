@@ -1,6 +1,6 @@
 ---
 title: CSS Transition e CSS Animation
-author: Raphael Fabeni
+authors: Raphael Fabeni
 type: post
 date: 2013-04-19
 excerpt: Um guia rápido pra você entender e começar a usar essas duas propriedades do CSS3.

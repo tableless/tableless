@@ -1,6 +1,6 @@
 ---
 title: 'UX: Como aumentar a tolerância do usuário para atrasos'
-author: Mari Coelho
+authors: Mari Coelho
 type: post
 date: 2017-03-01
 aliases: 

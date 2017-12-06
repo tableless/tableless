@@ -1,6 +1,6 @@
 ---
 title: Drops 12 – Dicas de sobrevivência
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-09-06
 excerpt: |

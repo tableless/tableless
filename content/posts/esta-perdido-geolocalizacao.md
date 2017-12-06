@@ -1,6 +1,6 @@
 ---
 title: Está perdido? Geolocalização!
-author: Daniel Pereira Camargo
+authors: Daniel Pereira Camargo
 type: post
 date: 2013-04-22
 excerpt: Entendendo como utilizar a API de Geolocalização (geolocation) do HTML5 com Javascript.

@@ -1,6 +1,6 @@
 ---
 title: 'Sections: elemento aside – Parte 3'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-10-13
 excerpt: O elemento ASIDE agrupa informações relacionadas ao conteúdo principal. São informações desde publicidades, menus laterais, blogos de navegação e etc.

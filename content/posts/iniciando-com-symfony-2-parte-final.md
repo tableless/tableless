@@ -1,6 +1,6 @@
 ---
 title: Iniciando com Symfony 2 – Parte Final
-author: Candido Souza
+authors: Candido Souza
 type: post
 date: 2015-06-16
 excerpt: Nesse tutorial, vamos instalar o bundle FOSUserBundle, para fazermos a autenticação para a área administrativa do nosso blog.

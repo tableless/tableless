@@ -1,6 +1,6 @@
 ---
 title: Web Semântica – Introdução
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-09-08
 url: /websemantica1_introducao/

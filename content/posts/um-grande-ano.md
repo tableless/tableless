@@ -1,6 +1,6 @@
 ---
 title: '2011: um grande ano'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-12-30
 excerpt: Nenhum ano vai ganhar do ano que o IE6 morreu, mas os próximos anos serão grandes anos.

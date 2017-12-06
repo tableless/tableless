@@ -1,6 +1,6 @@
 ---
 title: 'Adobe: The Expressive Web'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-05-11
 excerpt: The Expressive Web, as experiências da Adobe com as novas features do HTML5 e CSS3.

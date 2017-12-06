@@ -1,6 +1,6 @@
 ---
 title: Links Importantes
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-10-23
 url: /links_importantes/

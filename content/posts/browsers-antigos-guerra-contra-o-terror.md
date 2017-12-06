@@ -1,6 +1,6 @@
 ---
 title: 'PDF – Browsers antigos: guerra contra o terror'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-03-09
 excerpt: 'Não quero que você gaste tempo e dinheiro à toa se você pode ter resultados melhores se mudar um pouco o foco do desenvolvimento. Quero que você entenda que os visitantes que utilizam browsers antigos são sempre a minoria. '

@@ -1,6 +1,6 @@
 ---
 title: 'Slides para Devs #9 – Acessibilidade na web'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-05-14
 excerpt: Slides para Devs sobre Acessibilidade na Web

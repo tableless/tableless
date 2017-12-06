@@ -1,6 +1,6 @@
 ---
 title: Vista esta Camisa – Mudanças
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-05-11
 url: /vista_esta_camisa-2/

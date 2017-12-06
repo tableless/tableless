@@ -1,6 +1,6 @@
 ---
 title: Angular JS – Service x Factory
-author: Guilherme Assemany
+authors: Guilherme Assemany
 type: post
 date: 2016-04-10
 excerpt: |

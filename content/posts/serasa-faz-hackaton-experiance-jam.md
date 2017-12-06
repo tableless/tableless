@@ -1,6 +1,6 @@
 ---
 title: 'Serasa faz Hackaton: Experiance Jam'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-10-25
 excerpt: Oitenta participantes selecionados irão se reunir na sede da empresa, em São Paulo, nos dias 5 e 6 de novembro, para resolver desafios com foco em produtos e serviços ao consumidor

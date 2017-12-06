@@ -1,6 +1,6 @@
 ---
 title: Iniciando com Symfony 2 – Parte 08
-author: Candido Souza
+authors: Candido Souza
 type: post
 date: 2015-04-28
 excerpt: Nesse tutorial, vamos instalar e configurar o bundle Knp Paginator, para fazermos a paginação de nossos posts.

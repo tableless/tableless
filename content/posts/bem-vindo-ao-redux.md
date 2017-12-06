@@ -1,6 +1,6 @@
 ---
 title: Introdução ao Redux
-author: Henrique Sosa
+authors: Henrique Sosa
 type: post
 date: 2016-04-04
 excerpt: 'Uma breve explicação sobre a arquitetura Redux e suas principais características '

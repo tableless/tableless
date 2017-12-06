@@ -1,6 +1,6 @@
 ---
 title: Introdução de como executar testes unitários em diferentes tipos de navegadores
-author: Igor Ribeiro Lima
+authors: Igor Ribeiro Lima
 type: post
 date: 2013-12-04
 excerpt: Entenda um pouco mais sobre testes unitários e como executá-los em diversas plataformas.

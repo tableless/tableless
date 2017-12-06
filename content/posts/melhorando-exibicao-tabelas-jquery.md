@@ -1,6 +1,6 @@
 ---
 title: Melhorando a exibição de tabelas com jQuery
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2011-03-14
 excerpt: Pode até ser meio irônico (já que estamos no Tableless!), mas neste artigo você aprende a dar um upgrade nas tabelas do seu site ou da sua aplicação web utilizando algumas técnicas jQuery.

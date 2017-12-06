@@ -1,6 +1,6 @@
 ---
 title: Palestra AlternativaWeb em Fortaleza
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-09-28
 url: /palestra-alternativaweb-em-fortaleza/

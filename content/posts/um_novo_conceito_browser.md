@@ -1,6 +1,6 @@
 ---
 title: Um novo conceito de browser
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-10-25
 url: /um_novo_conceito_browser/

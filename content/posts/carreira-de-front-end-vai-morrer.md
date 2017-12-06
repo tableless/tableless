@@ -1,6 +1,6 @@
 ---
 title: O fim da profissão front-end
-author: Diego Eis
+authors: Diego Eis
 type: post
 image: uploads/2017/03/pexels-photo-296983-2.jpg
 date: 2017-03-20

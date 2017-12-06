@@ -1,6 +1,6 @@
 ---
 title: Tenha o DOM
-author: Alysson Franklin
+authors: Alysson Franklin
 type: post
 date: 2011-07-25
 excerpt: Entenda o que é o Document Object Model e tenha o DOM.

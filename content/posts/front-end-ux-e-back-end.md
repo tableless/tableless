@@ -1,6 +1,6 @@
 ---
 title: Front-end, UX e Back-end
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-01-16
 excerpt: Na verdade não é cada um na sua. Ou você levanta para ver o que acontece no mundo ao seu redor ou você atrofia suas skills.

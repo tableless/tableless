@@ -1,6 +1,6 @@
 ---
 title: Child Themes – O que é, como fazer e quando usar
-author: Breno Alves
+authors: Breno Alves
 type: post
 date: 2013-07-04
 excerpt: Muitas vezes o volume de trabalho é maior do que você ou sua empresa pode suportar, mas há um jeito de tornar o desenvolvimento dos seus projetos em Wordpress ainda mais rápidos.

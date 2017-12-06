@@ -1,6 +1,6 @@
 ---
 title: Mudanças no IE7
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-09-29
 url: /mudancas-no-ie7/

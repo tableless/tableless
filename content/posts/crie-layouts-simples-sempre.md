@@ -1,6 +1,6 @@
 ---
 title: Crie layouts simples. SEMPRE!
-author: cristianoweb
+authors: cristianoweb
 type: post
 date: 2015-03-23
 excerpt: Você pode querer fazer um layout simples, mas seu cliente pode não entender de comunicação. E aí, o que você faz?

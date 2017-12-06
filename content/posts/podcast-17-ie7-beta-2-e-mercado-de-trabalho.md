@@ -1,6 +1,6 @@
 ---
 title: 'Podcast #17 – IE7 Beta 2 e Mercado de trabalho'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-02-07
 url: /podcast-17-ie7-beta-2-e-mercado-de-trabalho/

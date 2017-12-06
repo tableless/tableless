@@ -1,6 +1,6 @@
 ---
 title: Web Fundamentals – Dicas do Google
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-11-12
 excerpt: Conheça as dicas que o Google tem para quem constrói websites

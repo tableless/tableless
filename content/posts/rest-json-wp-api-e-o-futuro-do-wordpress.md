@@ -1,6 +1,6 @@
 ---
 title: WP Rest API – O futuro do WordPress
-author: Cezar Augusto
+authors: Cezar Augusto
 type: post
 date: 2015-12-07
 excerpt: 'Conheça o futuro do WordPress: uma API RESTFul, a ser integrada no Core, que dispõe em formato JSON todas as informações necessárias para o desenvolvimento agnóstico em WordPress. Esteja pronto para criar aplicações Web/Mobile utilizando o WordPress ou utilize seus conhecimentos na sua linguagem de programação favorita e diga <em>adeus</em> ao PHP.'

@@ -1,6 +1,6 @@
 ---
 title: Formulário sem Model no CakePHP 3.x
-author: Eduardo Abreu
+authors: Eduardo Abreu
 type: post
 date: 2015-06-16
 url: /formulario-sem-model-no-cakephp-3-x/

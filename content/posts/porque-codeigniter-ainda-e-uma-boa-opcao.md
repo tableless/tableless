@@ -1,6 +1,6 @@
 ---
 title: Porque o Codeigniter ainda é uma boa opção
-author: Fernando Vargas
+authors: Fernando Vargas
 type: post
 date: 2015-06-26
 excerpt: Neste primeiro post no Tableless enumero vantagens em considerar o Codeigniter uma boa opção como framework PHP.

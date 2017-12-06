@@ -1,6 +1,6 @@
 ---
 title: Safari 4 Beta
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2009-02-25
 excerpt: O Safari é bastante conhecido por ser ainda um browser bastante cru. Mas sua versão 4 veio para mudar esse cenário. Mudar para a melhor.

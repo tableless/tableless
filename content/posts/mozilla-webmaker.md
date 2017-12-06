@@ -1,6 +1,6 @@
 ---
 title: Mozilla Webmaker
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-12-20
 excerpt: Faça algo maravilhoso com a web.

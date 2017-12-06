@@ -1,6 +1,6 @@
 ---
 title: Utilizando a API do bit.ly para gerar links encurtados para seus posts WordPress
-author: Léo Juoli
+authors: Léo Juoli
 type: post
 date: 2015-07-29
 url: /utilizando-api-bit-ly-para-gerar-links-encurtados-para-seus-posts-wordpress/

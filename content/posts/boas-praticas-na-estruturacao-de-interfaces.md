@@ -1,6 +1,6 @@
 ---
 title: Boas práticas na estruturação de interfaces.
-author: Thaiana Poplade
+authors: Thaiana Poplade
 type: post
 date: 2011-01-24
 excerpt: O planejamento estrutural de seu código html é também de grande importância para organização de tags e propriedades css, para o trabalho em equipe e para uma manutenção facilitada.

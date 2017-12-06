@@ -1,6 +1,6 @@
 ---
 title: Node.js - o back-end do front-end
-author: Tableless
+authors: Tableless
 type: post
 date: 2017-07-17
 excerpt: Um pouco sobre hospedagem e a história do Node.JS

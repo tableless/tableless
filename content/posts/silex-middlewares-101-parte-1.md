@@ -1,6 +1,6 @@
 ---
 title: Silex Middlewares 101 – Parte 1
-author: Nando Kstro Net
+authors: Nando Kstro Net
 type: post
 date: 2016-06-26
 excerpt: 'Os middlewares no Silex são utilizados para mudar o comportamento padrão do mesmo, os middlewares se mostram muito úteis quando pensamos na validação de tokens de acesso, save de logs e muitas outras tarefas. Basicamente temos dois tipos de middlewares, os de aplicação e os de rota. '

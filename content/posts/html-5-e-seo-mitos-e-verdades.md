@@ -1,6 +1,6 @@
 ---
 title: 'HTML 5 e SEO: mitos e verdades'
-author: Rodrigo Simoni
+authors: Rodrigo Simoni
 type: post
 date: 2013-08-30
 url: /html-5-e-seo-mitos-e-verdades/

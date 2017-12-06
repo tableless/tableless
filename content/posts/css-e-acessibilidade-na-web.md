@@ -1,6 +1,6 @@
 ---
 title: CSS e acessibilidade na web
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2013-03-12
 excerpt: Entenda como o uso do CSS influencia a acessibilidade dos seus projetos web.

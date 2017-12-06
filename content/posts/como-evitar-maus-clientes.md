@@ -1,6 +1,6 @@
 ---
 title: Como evitar maus clientes
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-08-20
 excerpt: Por que cliente ruim, ninguém quer.

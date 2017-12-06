@@ -1,6 +1,6 @@
 ---
 title: Firefox 1.5
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2005-11-30
 url: /firefox_15/

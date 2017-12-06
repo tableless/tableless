@@ -1,6 +1,6 @@
 ---
 title: API Google Maps V3
-author: Thulio Philipe
+authors: Thulio Philipe
 type: post
 date: 2014-01-10
 excerpt: Agregue mais valor aos seus projetos a partir de agora, saiba como incorporar um mapa ao site sem iframe e deixá-lo com a sua cara.

@@ -1,6 +1,6 @@
 ---
 title: Bradesco Convertido
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-30
 url: /bradesco_convertido/

@@ -1,6 +1,6 @@
 ---
 title: Deploy usando git pull e hooks
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2016-07-18
 aliases: 

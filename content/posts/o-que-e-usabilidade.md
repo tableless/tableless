@@ -1,6 +1,6 @@
 ---
 title: O que é Usabilidade?
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2011-08-22
 excerpt: A usabilidade é apenas um dos conceitos que abrangem a experiência de uso de pessoas com produtos, tendo também algumas limitações.

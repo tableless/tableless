@@ -1,6 +1,6 @@
 ---
 title: Versionamento inteligente para mobiles
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-01-20
 excerpt: Filtrar mobiles pelo tipo de aparelho é muito comum. A moda é versionar o site para iPhone. Mas há outros aparelhos com a mesma capacidade de renderização que podem se beneficiar.

@@ -1,6 +1,6 @@
 ---
 title: 'Slides para Devs #7 – JS em larga escala'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2013-04-30
 excerpt: Apresentações sobre Javascript em larga escala.

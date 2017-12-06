@@ -1,6 +1,6 @@
 ---
 title: 'Para ficar de olho: Microformats'
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2007-01-08
 url: /para-ficar-de-olho-microformats/

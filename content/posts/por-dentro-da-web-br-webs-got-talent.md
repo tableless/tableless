@@ -1,6 +1,6 @@
 ---
 title: 'Por dentro da Web.br 2013: Web’s Got Talent'
-author: Talita Pagani
+authors: Talita Pagani
 type: post
 date: 2013-10-28
 excerpt: "A quinta edição da Web.br, conferência do W3C Brasil, ocorre nos dias 18 e 19 de novembro de 2013, em São Paulo, trazendo uma grande novidade nesta edição: o concurso Web's Got Talent."

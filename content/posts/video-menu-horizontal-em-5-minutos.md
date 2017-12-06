@@ -1,6 +1,6 @@
 ---
 title: 'Vídeo: Menu horizontal com CSS em 5 minutos'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2008-07-07
 url: /video-menu-horizontal-em-5-minutos/

@@ -1,6 +1,6 @@
 ---
 title: 12 plugins jQuery para começar bem o ano
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2011-02-17
 excerpt: Confira uma lista de plugins jQuery, em sua maioria novidades, para acrescentar opções à sua caixa de ferramentas na hora de desenvolver uma interface web.

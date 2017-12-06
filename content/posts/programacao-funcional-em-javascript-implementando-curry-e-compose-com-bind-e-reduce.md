@@ -1,6 +1,6 @@
 ---
 title: Programação funcional em Javascript. Implementando Curry e Compose, com bind e reduce.
-author: Bruno Gonçalves
+authors: Bruno Gonçalves
 type: post
 date: 2016-06-29
 url: /programacao-funcional-em-javascript-implementando-curry-e-compose-com-bind-e-reduce/

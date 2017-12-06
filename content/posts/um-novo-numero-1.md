@@ -1,6 +1,6 @@
 ---
 title: Um novo número 1
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-07-15
 excerpt: Imagina o IE sendo o segundo browser do mundo... Imaginou?

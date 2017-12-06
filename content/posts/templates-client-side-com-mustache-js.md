@@ -1,6 +1,6 @@
 ---
 title: Templates client-side com Mustache.js
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2013-04-15
 excerpt: 'Mustache é uma especificação de templates que não utiliza lógica, ou seja, não possui declarações com <em>if</em>, <em>for</em>, <em>while</em> etc, toda sua construção é baseada em tags. Aprenda a implementar este tipo de template em seus projetos.'

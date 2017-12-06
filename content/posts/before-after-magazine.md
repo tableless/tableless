@@ -1,6 +1,6 @@
 ---
 title: 'Before & After magazine'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-04-26
 url: /before-after-magazine/

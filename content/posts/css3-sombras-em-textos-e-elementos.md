@@ -1,6 +1,6 @@
 ---
 title: CSS3 – Sombras em textos e elementos
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-06-16
 excerpt: Sombras em elementos e textos. O CSS3 nos trouxe essa possibilidade. Saiba como funciona as propriedades text-shadow e box-shadow.

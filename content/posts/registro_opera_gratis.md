@@ -1,6 +1,6 @@
 ---
 title: Registro do Opera GRÁTIS – Só hoje
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-08-30
 url: /registro_opera_gratis/

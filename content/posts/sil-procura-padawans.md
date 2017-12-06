@@ -1,6 +1,6 @@
 ---
 title: W3C Brasil procura padawans
-author: Reinaldo Ferraz
+authors: Reinaldo Ferraz
 type: post
 date: 2013-03-19
 url: /w3cbrasil-procura-padawans/

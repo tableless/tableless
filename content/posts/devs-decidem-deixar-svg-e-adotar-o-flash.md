@@ -1,6 +1,6 @@
 ---
 title: Devs decidem deixar o SVG e adotar o Flash
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-04-01
 excerpt: Devs deixam o SVG em pról do Flash.

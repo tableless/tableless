@@ -1,6 +1,6 @@
 ---
 title: Design de Aplicativos para Android – Parte 2
-author: Dani Guerrato
+authors: Dani Guerrato
 type: post
 date: 2014-02-05
 excerpt: Conheça os pixels independentes e as pilhas de resoluções, aprenda a criar e organizar entregáveis de design e descubra ferramentas úteis para criar seus próprios aplicativos Android.

@@ -1,6 +1,6 @@
 ---
 title: 'Centralizando conteúdo na vertical e horizontal  com CSS Flexbox'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-10-07
 excerpt: Centralize conteúdo e elementos na vertical e horizontal usando Flexbox do CSS.

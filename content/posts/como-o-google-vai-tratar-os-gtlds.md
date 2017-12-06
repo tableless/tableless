@@ -1,6 +1,6 @@
 ---
 title: Como o Google vai tratar os gTLDs?
-author: Rodrigo Fávaro
+authors: Rodrigo Fávaro
 type: post
 date: 2015-08-11
 excerpt: Esclarecimentos sobre as novas opções de domínios e suas relações com a busca.

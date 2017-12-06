@@ -1,6 +1,6 @@
 ---
 title: IE6 deve morrer
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-04-04
 url: /ie6-deve-morrer/

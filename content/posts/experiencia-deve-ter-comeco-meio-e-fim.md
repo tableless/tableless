@@ -1,6 +1,6 @@
 ---
 title: Experiência deve ter começo, meio e fim
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2011-11-28
 excerpt: A experiência do usuário precisa ser a melhor possível independente do meio de acesso utilizado.

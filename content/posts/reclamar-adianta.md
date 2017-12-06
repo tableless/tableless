@@ -1,6 +1,6 @@
 ---
 title: Reclamar adianta
-author: Elcio Ferreira
+authors: Elcio Ferreira
 type: post
 date: 2006-04-19
 url: /reclamar-adianta/

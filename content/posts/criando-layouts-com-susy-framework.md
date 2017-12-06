@@ -1,6 +1,6 @@
 ---
 title: Criando Layouts com Susy Framework
-author: Felipe César
+authors: Felipe César
 type: post
 date: 2015-08-03
 excerpt: Conheça o Susy Framework e desenvolva layouts facilmente com ele.

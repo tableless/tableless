@@ -1,6 +1,6 @@
 ---
 title: Nokia 770
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2005-06-09
 url: /nokia_770/

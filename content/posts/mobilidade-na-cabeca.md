@@ -1,6 +1,6 @@
 ---
 title: Mobilidade na cabeça
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-01-10
 url: /mobilidade-na-cabeca/

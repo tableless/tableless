@@ -1,6 +1,6 @@
 ---
 title: Formulários e o Metawebdesign – Parte 1
-author: Alysson Franklin
+authors: Alysson Franklin
 type: post
 date: 2011-10-24
 excerpt: Como montar formulários quando você é o responsável pelo código e design.

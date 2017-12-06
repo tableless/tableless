@@ -1,6 +1,6 @@
 ---
 title: Um 2013 cheio de propósito
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-12-31
 excerpt: Por que em 2013 você precisa de propósito...

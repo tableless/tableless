@@ -1,6 +1,6 @@
 ---
 title: Processo front-end na Locaweb
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2015-08-10
 excerpt: Nosso processo e stack de front-end na Locaweb.

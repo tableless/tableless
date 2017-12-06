@@ -1,6 +1,6 @@
 ---
 title: Padrões Web para o futuro
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2014-10-28
 excerpt: Um vídeo que mostra a evolução da web e dos padrões.

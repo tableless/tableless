@@ -1,6 +1,6 @@
 ---
 title: Entendendo CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2003-07-18
 url: /entendendo_css/

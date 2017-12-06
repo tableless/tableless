@@ -1,6 +1,6 @@
 ---
 title: Medindo a complexidade do seu código JavaScript
-author: Davi Ferreira
+authors: Davi Ferreira
 type: post
 date: 2013-06-18
 excerpt: Você sabe o que é complexidade ciclomática? E você sabia que já é possível medir a complexidade do seu código JavaScript?

@@ -1,6 +1,6 @@
 ---
 title: Estruturando o código CSS
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-02-22
 url: /estruturando-o-codigo-css/

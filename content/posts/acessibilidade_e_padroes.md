@@ -1,6 +1,6 @@
 ---
 title: Acessibilidade e os Padrões Web
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2004-08-15
 url: /acessibilidade_e_padroes/

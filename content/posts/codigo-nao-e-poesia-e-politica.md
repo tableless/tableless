@@ -1,6 +1,6 @@
 ---
 title: Código não é poesia. É política
-author: Eduardo Fernandes
+authors: Eduardo Fernandes
 type: post
 date: 2014-06-02
 excerpt: Quando o Search Engine Optimization controla a distribuição da informação, quem controla o SEO?

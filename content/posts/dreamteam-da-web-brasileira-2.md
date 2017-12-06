@@ -1,6 +1,6 @@
 ---
 title: DreamTeam da Web Brasileira
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2006-01-11
 url: /dreamteam-da-web-brasileira-2/

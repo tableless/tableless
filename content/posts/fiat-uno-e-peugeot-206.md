@@ -1,6 +1,6 @@
 ---
 title: Fiat Uno e Peugeot 206
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-09-07
 url: /fiat-uno-e-peugeot-206/

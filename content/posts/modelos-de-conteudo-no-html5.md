@@ -1,6 +1,6 @@
 ---
 title: Modelos de conteúdo no HTML5
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-07-20
 excerpt: Sobre modelos de conteúdo no HTML5.

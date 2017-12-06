@@ -1,6 +1,6 @@
 ---
 title: 'OOCSS, SMACSS, BEM, DRY CSS: afinal, como escrever CSS?'
-author: Jean Carlo Emer
+authors: Jean Carlo Emer
 type: post
 date: 2014-06-23
 excerpt: Conheça os principais estilos de escrita de CSS e aprenda o que você pode extrair deste mar de siglas para escrever código melhor.

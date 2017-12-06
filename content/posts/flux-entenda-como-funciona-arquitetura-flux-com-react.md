@@ -1,6 +1,6 @@
 ---
 title: 'Flux: Entenda como funciona a arquitetura Flux com React'
-author: Macgyver
+authors: Macgyver
 type: post
 date: 2015-05-24
 excerpt: Arquitetura de aplicações para construir interfaces de usuário feita pelo Facebook.

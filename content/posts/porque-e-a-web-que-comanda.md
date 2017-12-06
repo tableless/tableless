@@ -1,6 +1,6 @@
 ---
 title: Porque é a web que comanda
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2010-01-27
 excerpt: Porque fazer um sistema que deve ser instalado no iPhone se você pode fazer um sistema web que pode ser acessível em todos os smartphones?

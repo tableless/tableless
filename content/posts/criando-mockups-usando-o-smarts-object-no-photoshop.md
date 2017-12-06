@@ -1,6 +1,6 @@
 ---
 title: Criando mockups usando o Smarts Object no Photoshop
-author: Flavio Santana
+authors: Flavio Santana
 type: post
 date: 2013-07-29
 excerpt: Criando mockups simples no Photoshop.

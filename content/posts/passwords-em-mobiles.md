@@ -1,6 +1,6 @@
 ---
 title: Passwords em Mobiles
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2012-11-11
 excerpt: Melhorando a experiência do usuário não mascarando o password em mobiles.

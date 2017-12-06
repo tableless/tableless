@@ -1,6 +1,6 @@
 ---
 title: 'Coisas úteis que não funcionam no IE #4 – Position Fixed'
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2007-01-22
 url: /coisas-uteis-que-nao-funcionam-no-ie-4-position-fixed/

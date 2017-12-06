@@ -1,6 +1,6 @@
 ---
 title: O que há de novo no Rails 5
-author: João Almeida
+authors: João Almeida
 type: post
 date: 2015-08-24
 excerpt: |
