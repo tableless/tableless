@@ -2,7 +2,7 @@
 title: 'Ember.js: Deploy no Heroku'
 excerpt: Como configurar deploy automático no Heroku integrado com GitHub.
 image: https://cdn-images-1.medium.com/max/800/1*BdMP7mksQuW62opnS2AYUA.png
-author: Aurélio Saraiva
+authors: Aurélio Saraivas
 type: post
 date: 2017-11-30
 categories:

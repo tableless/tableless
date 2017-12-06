@@ -1,6 +1,6 @@
 ---
 title: Entendendo as técnicas de prebrowsing
-author: Diego Eis
+authors: Diego Eis
 type: post
 date: 2017-11-25
 excerpt: Saiba como dar dicas para o browser carregar e pré renderizar arquivos e páginas.
