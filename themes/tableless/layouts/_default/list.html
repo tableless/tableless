@@ -1,0 +1,33 @@
+{{ partial "header.html" . }}
+
+<section class="tb-list">
+
+  {{ if eq .Kind "taxonomy" }}
+    {{if eq .Data.Singular "category"}}
+      <h1><small>posts da categoria </small> {{ .Title }}</h1>
+
+      <!-- <div class="tb-categ-banner">
+        <script class='__lxGc__' type='text/javascript'>
+        ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_609049']={'i':__lxGc__.b++};
+        </script>
+      </div> -->
+
+    {{else}}
+      <h1><small>posts do autor </small> {{ .Title }}</h1>
+    {{ end }}
+  {{ end }}
+
+
+  {{ range .Data.Pages }}
+  <div class="tb-list-item">
+    <a href="{{ .RelPermalink }}">
+      <h2>{{ .Title }}</h2>
+      <p>
+        {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
+      </p>
+    </a>
+    {{ partial "byauthor.html" . }}
+  </div>
+  {{ end }}
+
+</section>

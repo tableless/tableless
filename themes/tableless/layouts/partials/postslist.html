@@ -1,0 +1,15 @@
+<section class="tb-list">
+
+  {{ range .Data.Pages }}
+  <div class="tb-list-item">
+    <a href="{{ .RelPermalink }}">
+      <h2>{{ .Title }}</h2>
+      <p>
+        {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
+      </p>
+    </a>
+    {{ partial "byauthor.html" . }}
+  </div>
+  {{ end }}
+
+</section>

@@ -20,4 +20,4 @@ disableLiveReload = true
 [taxonomies]
     tag = "tags"
     category = "categories"
-    author = "author"
+    author = "authors"
