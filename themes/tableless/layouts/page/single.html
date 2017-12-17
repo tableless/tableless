@@ -1,5 +1,6 @@
 {{ $.Scratch.Add "page" true }}
-{{ partial "header.html" . }}
+
+{{ partialCached "header.html" . }}
 
 <article class="tb-page">
   <header class="tb-post-header">
@@ -13,5 +14,5 @@
   </div>
 </article>
 
-{{ partial "footer.html" . }}
+{{ partialCached "footer.html" . }}
 

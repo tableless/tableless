@@ -1,6 +1,6 @@
 {{ $.Scratch.Add "single" true }}
 
-{{ partial "header.html" . }}
+{{ partialCached "header.html" . }}
 
 <header class="tb-post-header">
   {{ partial "posthero.html" . }}
@@ -15,18 +15,15 @@
 
     <div class="tb-related-posts">
 
-      <h3>Leia mais aqui no Tableless:</h3>
 
+      {{ $related := .Site.RegularPages.Related . | first 5 }} {{ with $related }}
+      <h3>Leia mais aqui no Tableless:</h3>
       <ul>
-        {{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink) }}
-        <li>
-          <a href="{{ .RelPermalink }}?utm_source=tablelessRelatedLink" class="tb-related-post">{{ .Title | markdownify }}</a>
-        </li>
-        {{ end }}
-        {{ range first 2 .Site.Pages }}
-        <li><a href="{{ .RelPermalink }}/?utm_source=tablelessRelatedLink" class="tb-related-post">{{ .Title }}</a></li>
+        {{ range . }}
+        <li><a href="{{ .RelPermalink }}?utm_source=tablelessRelatedLink" class="tb-related-post">{{ .Title }}</a></li>
         {{ end }}
       </ul>
+      {{ end }}
 
     </div>
 
@@ -36,13 +33,13 @@
       </script>
     </div>
 
-    {{ partial "disqus.html" . }}
+    {{ partialCached "disqus.html" . }}
   </section>
 
- {{partial "sidebar.html" .}}
+ {{partialCached "sidebar.html" .}}
 
 </div>
 
-{{ partial "footer.html" . }}
+{{ partialCached "footer.html" . }}
 
 

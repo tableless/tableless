@@ -3,9 +3,9 @@
   </h1>
   <p class="tb-hero-p">
     {{if .Param "excerpt"}}
-    {{ .Param "excerpt" }}
+      {{ .Param "excerpt" }}
     {{else}}
-    {{ .Summary }}
+      {{ .Summary }}
     {{end}}
   </p>
   {{ partial "byauthor.html" . }}
