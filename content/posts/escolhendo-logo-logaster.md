@@ -22,6 +22,8 @@ Geralmente um logo com um ícone ou uma ilustração facilitam o trabalho de lem
 ## User um serviço de criação de logos online como a Logaster
 Você não precisa pagar caro por um designer para criar seu logo. O processo pode ser interessante e talvez em um futuro você sinta necessidade de encontrar um designer profissional para desenhar seu logo, mas toda empresa precisa começar de algum lugar e isso significa que você não precisa gastar muito dinheiro agora. Pensando nisso, existem alguns serviços na Web que podem nos ajudar a criar um logo praticamente profissional, em pouco tempo e com baixo custo. Esse é o objetivo da [Logaster](https://www.logaster.com.br/).
 
+Você tem 30% de desconto na [Logaster](https://www.logaster.com.br/) usando o código *KLAHN30TAB*.
+
 ![](https://i.imgur.com/2awtPD9.png)
 
 
