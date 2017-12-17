@@ -60,11 +60,11 @@ Para customizar seu vim, baixe algum dos _.vimrc_ citados acima e coloque na sua
 
 Depois abra o Terminal, digite **vim** e aperte **ENTER**. O vim feião do seu Mac/Linux vai abrir. Do jeito que ele abrir, digite **:PluginInstall**. Deve aparecer uma tela mais ou menos assim:
 
-<img src="uploads/2017/01/vundle.png" alt="" width="1139" height="767" class="aligncenter size-full wp-image-56793" />
+<img src="https://diegoeis.github.io/tableless-static-images/2017/01/vundle.png" alt="" width="1139" height="767" class="aligncenter size-full wp-image-56793" />
 
 Agora feche e abra o Terminal e abra o vim novamente. Ele deve estar mais ou menos igual a imagem abaixo:
 
-<img src="uploads/2017/01/vim.png" alt="" width="1139" height="767" class="aligncenter size-full wp-image-56792" />
+<img src="https://diegoeis.github.io/tableless-static-images/2017/01/vim.png" alt="" width="1139" height="767" class="aligncenter size-full wp-image-56792" />
 
 ## Instale o MacVim
 

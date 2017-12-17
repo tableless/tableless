@@ -29,13 +29,13 @@ Vontade não me faltava, o que precisava mesmo era de coragem para encarar os fa
 
 De tanto que eu li, criei coragem e como recomendado, abri uma issue no Github e deixei minha BIO disponível para os mentores do CT.
 
-<img class="alignnone size-full wp-image-56933" src="uploads/2017/01/1-vpeNioZRCJN482Gy1rChhw.png" alt="" width="790" height="517" />
+<img class="alignnone size-full wp-image-56933" src="https://diegoeis.github.io/tableless-static-images/2017/01/1-vpeNioZRCJN482Gy1rChhw.png" alt="" width="790" height="517" />
 
 <strong class="markup--strong markup--p-strong">A resposta</strong>
 
 Depois de pouco tempo um cara muito gente boa o <a class="markup--user markup--p-user" href="https://medium.com/u/9ccc2febef24" target="_blank">William Oliveira</a> — me responde o seguinte:
 
-<img class="alignnone size-full wp-image-56935" src="uploads/2017/01/1-5uF9OA2mlkg_0hyuLd1prQ.png" alt="" width="775" height="144" />
+<img class="alignnone size-full wp-image-56935" src="https://diegoeis.github.io/tableless-static-images/2017/01/1-5uF9OA2mlkg_0hyuLd1prQ.png" alt="" width="775" height="144" />
 
 Passaram-se 2 dias, e eu já imaginava que ninguém iria me adotar como pupilo. Hahaha!! Foi ai que apareceu um cara que eu já admirava nos bastidores há algum tempo.
 
@@ -43,11 +43,11 @@ Passaram-se 2 dias, e eu já imaginava que ninguém iria me adotar como pupilo. 
 
 E eis que ele veio, demorou… Mas veio! haha o nome dele? Nada mais nada menos do que o querido <a class="markup--user markup--p-user" href="https://medium.com/u/7af9a79d81d6" target="_blank">Wendell Adriel</a>. Calorosamente ele disse:
 
-<img class="alignnone size-full wp-image-56937" src="uploads/2017/01/1-k7GFUhcUoRq7X77SaBPa7w.png" alt="" width="771" height="319" />
+<img class="alignnone size-full wp-image-56937" src="https://diegoeis.github.io/tableless-static-images/2017/01/1-k7GFUhcUoRq7X77SaBPa7w.png" alt="" width="771" height="319" />
 
 Vocês já devem imaginar como eu fiquei feliz de saber que fui adotado… Hahaha!!  No mesmo dia o Wendell  já foi se socializando via issue mesmo 🙂 veja:
 
-<img class="alignnone size-full wp-image-56939" src="uploads/2017/01/1-fWHtAnVYI2p6SOQQvSii4A.png" alt="" width="790" height="151" />
+<img class="alignnone size-full wp-image-56939" src="https://diegoeis.github.io/tableless-static-images/2017/01/1-fWHtAnVYI2p6SOQQvSii4A.png" alt="" width="790" height="151" />
 
 Dai ele me chamou no Slack e começamos a definir nossa rotina.
 
@@ -57,7 +57,7 @@ O primeiro contato foi bem tranquilo, ele pediu para me apresentar, falar sobre 
 
 <strong class="markup--strong markup--p-strong">Nosso projeto lindo (Pokémon — busque informações de seu pokémon favorito)</strong>
 
-<img class="alignnone size-full wp-image-56940" src="uploads/2017/01/1-zZ3F1dGnARKZpaGpZc-UIA.png" alt="" width="1126" height="585" />
+<img class="alignnone size-full wp-image-56940" src="https://diegoeis.github.io/tableless-static-images/2017/01/1-zZ3F1dGnARKZpaGpZc-UIA.png" alt="" width="1126" height="585" />
 
 O projeto foi arquitetado em cima dos meus objetivos , ele usa as tecnologias:
 

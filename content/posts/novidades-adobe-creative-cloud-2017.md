@@ -5,17 +5,12 @@ type: post
 date: 2016-12-19
 url: /novidades-adobe-creative-cloud-2017/
 enclosure:
-  - |
-    |
-        http://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/dff07833-7104-474a-a2ff-ab7c541aa8b6/5a25eade-06f4-4ae7-980b-286f35a97369_20161021120402.960x540at1200_h264.mp4
-        11725090
-        video/mp4
-        
+  - http://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/dff07833-7104-474a-a2ff-ab7c541aa8b6/5a25eade-06f4-4ae7-980b-286f35a97369_20161021120402.960x540at1200_h264.mp4
 categories:
   - Publieditorial
   - Tecnologia e Tendências
-
 ---
+
 A Adobe anunciou esses dias algumas novidades para o [Creative Cloud 2017][1]. Muitas das atualizações focaram em usabilidade e também algumas novas integrações nos serviços de cloud, como o TipeKit e o Creative Cloud Libraries.
 
 Aqui vão algumas novidades do Photoshop e do Illustrator, que são os programas que mais uso. Mas toda a suite do Creative Cloud teve alterações.
@@ -44,13 +39,13 @@ Para começar o Illustrator teve sua interface quase que totalmente remodelada, 
 
 Outra novidade é o que eles chamam de Live Font Previewing, que já tem no Photoshop e agora também no Illustrator, que é a possibilidade de ver o preview da font direto na letra enquanto você escolhe. Isso adianta um trabalho gigante e não sei por que não havia antes.
 
-<img src="uploads/2016/12/live-font-preview.gif" alt="live-font-preview" width="800" height="480" class="aligncenter size-full wp-image-56691" />
+<img src="https://diegoeis.github.io/tableless-static-images/2016/12/live-font-preview.gif" alt="live-font-preview" width="800" height="480" class="aligncenter size-full wp-image-56691" />
 
 Uma feature MUITO bacana é a possibilidade de importar um texto direto de um arquivo para dentro de um shape específico. Tipo, se você tiver um triângulo, por exemplo, você preenchê-lo com um texto vindo de um arquivo **.txt**, por exemplo. Logo, alguém, que não tenha o programa, consegue atualizar e modificar o texto, com as especificações do designer, claro.
 
 Uma coisa que sempre me deixava furioso no Illustrator era o zoom. Geralmente o Zoom aproximava a arte levando em consideração o centro da tela. Agora, apertando o atalho **cmd/ctrl + + (sinal de mais)**, o Illustrator faz o zoom levando em consideração a sua seleção.
 
-<img src="uploads/2016/12/zoom-to-selection_3.gif" alt="zoom-to-selection_3" width="964" height="822" class="aligncenter size-full wp-image-56693" />
+<img src="https://diegoeis.github.io/tableless-static-images/2016/12/zoom-to-selection_3.gif" alt="zoom-to-selection_3" width="964" height="822" class="aligncenter size-full wp-image-56693" />
 
 Existem várias [outras novidades do Illustrator nesse link][7].
 
@@ -68,7 +63,7 @@ Ele foi quase que totalmente reestruturado pra facilitar a gestão dos assets, a
 
 A feature que mais me chamou atenção foi o que eles chamam de **Quick Edit**. Quando você encontra uma classe no seu HTML, e essa classe está atrelada a algum CSS, você consegue alterar o CSS desse elemento rapidamente ali mesmo, contratualmente, no HTML.
 
-<img src="uploads/2016/12/quick-edit.gif" alt="quick-edit" width="768" height="432" class="aligncenter size-full wp-image-56692" />
+<img src="https://diegoeis.github.io/tableless-static-images/2016/12/quick-edit.gif" alt="quick-edit" width="768" height="432" class="aligncenter size-full wp-image-56692" />
 
 Veja [todas as features do Dreamweaver 2017 aqui][11]. Vale a pena dar uma nova chance, já que ele tem ficado mais esperto a cada versão.
 

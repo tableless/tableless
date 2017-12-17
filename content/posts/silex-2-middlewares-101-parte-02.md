@@ -3,9 +3,7 @@ title: 'Silex 2 & Middlewares 101 – Parte 02'
 authors: Nando Kstro Net
 type: post
 date: 2017-02-19
-excerpt: |
-  Olá devs! Tudo bem? Espero que sim! Estamos de volta com mais um post da série sobre o micro-framework Silex! Desta vez, vamos fazer uma parada para atualizar a versão do nosso micro-framework, para versão 2.*!
-  A partir deste post vamos escrever baseada nesta versão e falaremos ao longo de cada post, sobre as principais diferenças em relação as versões passadas! Vamos lá!
+excerpt: Olá devs! Tudo bem? Espero que sim! Estamos de volta com mais um post da série sobre o micro-framework Silex! Desta vez, vamos fazer uma parada para atualizar a versão do nosso micro-framework, para versão 2.*!
 url: /silex-2-middlewares-101-parte-02/
 categories:
   - Back-end
@@ -37,7 +35,7 @@ Para atualizarmos o Silex para sua versão mais recente, precisamos alterar nos
 
 Agora, basta executarmos um composer update em nosso terminal para obtermos o Silex atualizado!
 
-<img class="size-full wp-image-57045 aligncenter" src="uploads/2017/01/Screen-Shot-2017-01-23-at-13.36.09.png" alt="" width="582" height="631" />
+<img class="size-full wp-image-57045 aligncenter" src="https://diegoeis.github.io/tableless-static-images/2017/01/Screen-Shot-2017-01-23-at-13.36.09.png" alt="" width="582" height="631" />
 
 ## Middlewares (Continuação)
 

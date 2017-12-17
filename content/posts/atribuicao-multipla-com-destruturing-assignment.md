@@ -2,7 +2,7 @@
 title: Atribuição múltipla com Destruturing Assignment
 authors: Gabriel Prates
 type: post
-image: uploads/2017/03/pexels-photo-296983-2.jpg
+image: https://diegoeis.github.io/tableless-static-images/2017/03/pexels-photo-296983-2.jpg
 date: 2017-04-02
 stick: yes
 excerpt: Entenda como funciona atribuições múltiplas no JS

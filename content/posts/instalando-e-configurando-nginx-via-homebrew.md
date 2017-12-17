@@ -16,7 +16,7 @@ Faz um tempo que deixei de usar Apache como Web Server padrão, tanto no servido
 <pre class="lang-bash">brew install nginx
 </pre>
 
-<img src="uploads/2017/01/first-command.png" alt="first-command" width="1172" height="670" class="aligncenter size-full wp-image-56786" />
+<img src="https://diegoeis.github.io/tableless-static-images/2017/01/first-command.png" alt="first-command" width="1172" height="670" class="aligncenter size-full wp-image-56786" />
 
 Feito isso, o NGINX já deve estar rodando. Para testar, rode o comando abaixo:
 
@@ -25,7 +25,7 @@ Feito isso, o NGINX já deve estar rodando. Para testar, rode o comando abaixo:
 
 Agora entre em **localhost:8080** pelo seu navegador. Deve aparecer uma tela mais ou menos igual a essa:
 
-<img src="uploads/2017/01/nginx-works.png" alt="nginx-works" width="976" height="668" class="aligncenter size-full wp-image-56787" />
+<img src="https://diegoeis.github.io/tableless-static-images/2017/01/nginx-works.png" alt="nginx-works" width="976" height="668" class="aligncenter size-full wp-image-56787" />
 
 Feito isso, vamos agora configurar nosso NGINX. Primeiro, vamos querer mudar a porta onde o NGINX está respondendo que é **8080** para **80**. Para tanto, pare o servidor do NGINX:
 

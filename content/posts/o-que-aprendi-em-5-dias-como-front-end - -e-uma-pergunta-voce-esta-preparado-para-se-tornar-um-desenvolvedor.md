@@ -1,6 +1,6 @@
 ---
 title: 'O que aprendi em 5 dias como Front-end, e uma pergunta: você esta preparado para se tornar um desenvolvedor?'
-authors: DaniloAgostinho
+authors: Danilo Agostinho
 type: post
 date: 2017-01-13
 url: /o-que-aprendi-em-5-dias-como-front-end - -e-uma-pergunta-voce-esta-preparado-para-se-tornar-um-desenvolvedor/
@@ -46,7 +46,7 @@ Somos pagos pra pensar e assim criar. Não dá pra ser distraído!
 
 #### **Você vai errar isso é fato — aprenda com os erros**
 
-<img src="uploads/2016/12/1-k2jCuITW_bheQVa-tMDYtQ.jpeg" alt="Foco e desafio" width="700" height="815" />
+<img src="https://diegoeis.github.io/tableless-static-images/2016/12/1-k2jCuITW_bheQVa-tMDYtQ.jpeg" alt="Foco e desafio" width="700" height="815" />
 
 Outras pessoas já erraram antes de nós, e para aprender é preciso tentar várias vezes. E não há nada de errado em recomeçar de novo.
 

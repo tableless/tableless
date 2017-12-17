@@ -22,7 +22,7 @@ Nesse post vou explicar uma das opções de como fazer um contraste de cores, ex
 
 Criar um contraste de cores em três níveis (Branco, Preto e Azul) usando HTML5, CSS3, Javascript (Puro), Node e o Cookie do navegado para guarda o contraste escolhido.
 
-<img class="alignnone size-full wp-image-56600" src="uploads/2016/12/html5-css-javascript-logos.png" alt="html5-css-javascript-logos" width="1267" height="287" />
+<img class="alignnone size-full wp-image-56600" src="https://diegoeis.github.io/tableless-static-images/2016/12/html5-css-javascript-logos.png" alt="html5-css-javascript-logos" width="1267" height="287" />
 
 ## Como será feito
 
@@ -33,11 +33,11 @@ Criar um contraste de cores em três níveis (Branco, Preto e Azul) usando HTML5
 
 Veja como vai ficar;
 
-<img class="alignnone wp-image-56620" src="uploads/2016/12/contraste-de-cores.gif" alt="contraste-de-cores" width="484" height="264" />
+<img class="alignnone wp-image-56620" src="https://diegoeis.github.io/tableless-static-images/2016/12/contraste-de-cores.gif" alt="contraste-de-cores" width="484" height="264" />
 
   * Então&#8230;
 
-<img class="alignnone wp-image-56615" src="uploads/2016/12/ThomasCook_tagline.jpg" alt="ThomasCook_tagline_hori_cmyk" width="479" height="137" />
+<img class="alignnone wp-image-56615" src="https://diegoeis.github.io/tableless-static-images/2016/12/ThomasCook_tagline.jpg" alt="ThomasCook_tagline_hori_cmyk" width="479" height="137" />
 
 * * *
 
@@ -230,7 +230,7 @@ No site [NPMJS][5]temos um servidor em que iremos utilizar, abra seu Node e mand
 
 Pronto, o resultado será esse;
 
-<img class="alignnone size-full wp-image-56612" src="uploads/2016/12/Capture.png" alt="capture" width="636" height="48" />
+<img class="alignnone size-full wp-image-56612" src="https://diegoeis.github.io/tableless-static-images/2016/12/Capture.png" alt="capture" width="636" height="48" />
 
 Agora navegando com o Node até a pasta do seu projeto;
 
@@ -238,13 +238,13 @@ Agora navegando com o Node até a pasta do seu projeto;
 
 Ok, você já tem um servidor no ar, utilize um dos endereços http listados e abra no seu navegador de preferência (<del><em>Chrome</em></del>);
 
-<pre><img class="alignnone wp-image-56613" src="uploads/2016/12/Capture-1.png" alt="capture" width="640" height="134" /></pre>
+<pre><img class="alignnone wp-image-56613" src="https://diegoeis.github.io/tableless-static-images/2016/12/Capture-1.png" alt="capture" width="640" height="134" /></pre>
 
 Já está tudo pronto, com o servidor no ar já podemos gravar no cookie a escolha do contraste selecionada pelo usuário, isso vai evitar que o usuário atualize a página e carregue a página sem o contraste escolhido.
 
 já podemos verificar o cookie guardado depois do click no link
 
-<img class="alignnone size-full wp-image-56617" src="uploads/2016/12/Capture-2.png" alt="capture" width="931" height="509" />
+<img class="alignnone size-full wp-image-56617" src="https://diegoeis.github.io/tableless-static-images/2016/12/Capture-2.png" alt="capture" width="931" height="509" />
 
 Com esse valor guardado no cookie o passo 3 vai funcionar perfeitamente, setando o contraste escolhido anteriormente ao recarregar a página.
 

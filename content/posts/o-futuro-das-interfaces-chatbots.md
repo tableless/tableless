@@ -44,7 +44,7 @@ Você acessa seu messenger clica no usuário do cinema e envia a seguinte mensag
 
 Você pode não ter percebido, mas assim como fazemos com interfaces gráficas, você interagiu com uma interface para manipular um sistema, e atingir seu objetivo! Você interagiu com uma interface de chatbot!
 
-<img src="uploads/2017/02/cb2.jpg" alt="" width="626" height="782" />
+<img src="https://diegoeis.github.io/tableless-static-images/2017/02/cb2.jpg" alt="" width="626" height="782" />
 
 ## **Porque esse tipo de interface é promissora?**
 
