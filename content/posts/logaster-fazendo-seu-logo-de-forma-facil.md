@@ -1,12 +1,16 @@
 ---
 title: Logaster – Fazendo seu logo de forma fácil
 authors: tableless
-image: uploads/2017/04/pexels-photo.jpg
+image: https://diegoeis.github.io/tableless-static-images/2017/04/pexels-photo.jpg
 type: post
 date: 2017-04-05
 excerpt: Criando logos facilmente com Logaster
 categories:
   - Publieditorial
+  - Logaster
+tags:
+  - Publieditorial
+  - Logaster
 ---
 
 Eu, eu sei, você não é designer, eu também não. Na verdade você pode ter um cliente que não manja bulhufas de web ou de design. Mesmo assim vira e mexe nós precisamos de algum trabalho importante que apenas alguém bastante criativo consegue fazer. A criação de um logo, por exemplo, não é um trabalho simples de se fazer, seja para sua página e marca pessoal ou para o seu negócio, a criação de um logo envolve criatividade e bastante talento e nem sempre temos alguém com esse perfil para nos ajudar. Além disso tem o preço desse trabalho, que muitas vezes é alto. Pensando nisso, existem alguns serviços na Web que podem nos ajudar a criar um logo praticamente profissional, em pouco tempo e com baixo custo. Esse é o objetivo da <a href="https://www.logaster.com.br/">Logaster</a>.
