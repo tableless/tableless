@@ -1,9 +1,15 @@
-{{ $.Scratch.Add "single" true }}
-
-{{ partialCached "header.html" . }}
+{{ partial "header.html" . }}
 
 <header class="tb-post-header">
-  {{ partial "posthero.html" . }}
+  <h1 class="tb-hero-title">
+      {{ .Title }}
+  </h1>
+  <p class="tb-hero-p">
+      {{ .Param "excerpt" }}
+  </p>
+  {{ partial "byauthor.html" . }}
+  {{ partial "postdate.html" . }}
+  <a href="{{ .Permalink }}#disqus_thread" class="tb-lnk-comments">Comentários</a>
 </header>
 
 <div class="tb-post">
@@ -16,7 +22,7 @@
     <div class="tb-related-posts">
 
 
-      {{ $related := .Site.RegularPages.Related . | first 5 }} {{ with $related }}
+      {{ $related := .Site.RegularPages.Related . | first 3 }} {{ with $related }}
       <h3>Leia mais aqui no Tableless:</h3>
       <ul>
         {{ range . }}

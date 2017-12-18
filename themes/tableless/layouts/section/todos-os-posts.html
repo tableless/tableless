@@ -1,5 +1,5 @@
 {{ $.Scratch.Add "page" true }}
-{{ partial "header.html" . }}
+{{ partialCached "header.html" . }}
 
 <header class="tb-post-header">
   <h1 class="tb-hero-title">{{ .Title }}</h1>
@@ -12,17 +12,19 @@
 {{range .Site.RegularPages }}
 <div class="tb-list-item">
     <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2>
-   <p>
-    {{if .Param "excerpt"}}
-    {{ .Param "excerpt" }}
-    {{else}}
-    {{ .Summary }}
-    {{end}}
-    </p>
+      <p>
+      {{if .Param "excerpt"}}
+        {{ .Param "excerpt" }}
+      {{else}}
+        {{ .Summary }}
+      {{end}}
+      </p>
     </a>
-    {{ partial "byauthor.html" . }}
+    {{with .Params.authors}}
+      <span class="tb-author">por <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
+    {{end}}
   </div>
 {{end}}
 </section> 
-{{ partial "footer.html" . }}
+{{ partialCached "footer.html" . }}
 

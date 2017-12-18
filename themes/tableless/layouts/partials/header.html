@@ -1,23 +1,15 @@
 <!DOCTYPE html>
-<html lang="pt-br" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<html lang="{{ .Site.LanguageCode | default "pt-br" }}" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 <head>
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css?{{ now.Unix }}">
 
   <title>
-    {{if or ($.Scratch.Get "single") ($.Scratch.Get "page")}}
-      {{.Title}} - {{ .Site.Title }}
-    {{end}} 
-    {{ if eq .Kind "taxonomy" }}
-      Posts sobre {{.Title}} - {{ .Site.Title }}
-    {{end}} 
-      {{if $.Scratch.Get "author"}}Posts do autor {{.Title}} - {{ .Site.Title}}
-    {{end}} {{if .IsHome}}{{.Site.Title}} - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web{{end}}
+    {{.Title}} - {{.Site.Title}} - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web
   </title>
-
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  
-  <meta name="description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}">
+
+  <meta name="description" content="{{ .Param "excerpt " }}">
 
   <link rel="preconnect" href="https://code.jquery.com/">
   <link rel="preconnect" href="https://duckduckgo.com/">
@@ -33,52 +25,44 @@
   <link rel="prefetch" href="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" as="javascript">
   <link rel="prefetch" href="https://s.clickiocdn.com/t/pb210746.js" as="javascript">
   <link rel="prefetch" href="https://s.clickiocdn.com/t/common_258.js" as="javascript">
-
-{{ range first 1 (where .Site.Pages "Type" "post")}}
-  <link rel="prerender" href="{{ .RelPermalink }}">
-{{end}}
-  
   <link rel="icon" href="images/favicon.png">
-  <base href="{{ .Site.BaseURL }}">
 
-  {{ if .RSSLink }}
-  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
   <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
-  {{ end }}
 
   <meta property="og:url" content="{{ .RelPermalink }}">
-  {{ if $.Scratch.Get "single"}}<meta property="og:type" content="article">{{end}}
+  {{ if $.Scratch.Get "single"}}
+  <meta property="og:type" content="article">
+  {{end}}
   <meta property="og:title" content="{{ .Title}}">
-  <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}" name="description">
+  <meta property="og:description" content="{{ .Param "excerpt " }}" name="description">
   <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
   <meta property="fb:app_id" content="187329465112652">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@tableless">
   <meta name="twitter:title" content="{{.Title}}">
-  <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}">
+  <meta name="twitter:description" content="{{ .Param "excerpt " }}">
   <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
 
-  {{if .IsHome}}
-  <script type='application/ld+json'>
+ {{if .IsHome}}
+<script type='application/ld+json'>
     {
       "@context": "http://www.schema.org",
       "@type": "WebSite",
       "name": "{{.Site.Params.siteName}}",
       "alternateName": "{{ .Site.Title }}",
       "url": "{{ .Site.BaseURL}}",
-      "description": "Artigos e notíficas sobre desenvolvimento web e design.",
+      "description": "Artigos e notícias sobre desenvolvimento web e design.",
       "publisher": "Tableless",
       "potentialAction": {
         "@type": "SearchAction",
         "target": "https://duckduckgo.com/?sites=tableless.com.br&q={search_term}&kl=br-pt&kz=1&ky=e&k8=g&k1=-1&kj=w&x=0&y=0&ia=web",
         "query-input": "required name=search_term" }
       }
-  </script>
-  {{end}}
+  </script> {{end}}
+
 
   {{ if $.Scratch.Get "single"}}
-  
   <script type="application/ld+json">
     { "@context": "http://schema.org",
       "@type": "Article",
@@ -105,10 +89,11 @@
 
   <script async type="text/javascript" src="https://s.clickiocdn.com/t/pb210746.js"></script>
   <script async type="text/javascript" src="https://s.clickiocdn.com/t/common_258.js"></script>
+
 </head>
 <body>
   <header id="tb-header">
-    <a href="{{ .Site.BaseURL }}" class="tb-logo"><img src="images/logom.svg"></a>
+    <a href="{{ .Site.BaseURL }}" class="tb-logo"><img src="{{ .Site.BaseURL }}images/logom.svg"></a>
     <ul class="tb-channels">
       <li><a href="http://forum.tableless.com.br/" class="tb-lnk-forum">Acesse nosso <b>Fórum</b></a></li>
       <li><a href="https://tableless.com.br/anuncie-no-tableless" class="tb-lnk-anuncie">Anuncie conosco</a></li>
@@ -187,7 +172,7 @@
         <input type="hidden" value="-1" name="k1"></input>
         <input type="hidden" value="w" name="kj"></input>
         <input type="text" placeholder="Faça sua busca" name="q"></input>
-        <input type="image" src="images/search.svg">
+        <input type="image" src="{{ .Site.BaseURL }}images/search.svg">
     </form>
 
   </header>

@@ -1,4 +1,4 @@
-{{ partialCached "header.html" . }}
+{{ partial "header.html" . }}
 
 <section class="tb-list">
 
@@ -23,10 +23,10 @@
     <a href="{{ .RelPermalink }}">
       <h2>{{ .Title }}</h2>
       <p>
-        {{if .Param "excerpt"}} {{ .Param "excerpt" }} {{else}} {{ .Summary }} {{end}}
+        {{ .Param "excerpt" }}
       </p>
     </a>
-    {{ partialCached "byauthor.html" . }}
+    {{ partial "byauthor.html" . }}
   </div>
   {{ end }}
 

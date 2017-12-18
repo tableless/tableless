@@ -33,7 +33,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1506041417420-0');
 
   <h2>Categorias</h2>
   <ul>
-    {{ range first 12 .Site.Taxonomies.categories.ByCount }}
+    {{ range first 7 .Site.Taxonomies.categories.ByCount }}
       <li><a href="/categories/{{ .Name | urlize }}" class="tb-categ-link">{{ .Name }}</a> ({{ .Count }})</li>
     {{ end }}
   </ul>
