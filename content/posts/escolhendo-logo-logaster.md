@@ -12,7 +12,7 @@ tags:
   - Logaster
 ---
 
-Se você tem uma empresa, você precisa de um logo. Mas a escolha de um logo pode não ser uma tarefa muito fácil. Para isso, existem algumas dicas para facilitar essa tarefa. Essas dicas todas servirão para você construir um logo incrível pela [Logaster](https://www.logaster.com.br/).
+Se você tem uma empresa, você precisa de um logo. Mas a escolha de um logo pode não ser uma tarefa muito fácil. Para isso, existem algumas dicas para facilitar essa tarefa. Essas dicas todas servirão para você construir um logo incrível pela [Logaster](https://www.logaster.com.br/logo-creation/).
 
 ## Determine o tipo de logo que você quer
 Basicamente existem três tipos de logo: um logo tipografico, ilustrativo ou abstrato. Um logo tipográfico significa que seu logo será composto apenas por texto. Um logo com uma ilustração, pode facilitar o entendimento dos clientes sobre o que sua empresa vende ou faz. Um logo com um gráfico abstrato significa que seu logo terá uma imagem ou símbolo que representa sua empresa de alguma forma.
