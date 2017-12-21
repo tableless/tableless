@@ -6,9 +6,10 @@ image: https://i.imgur.com/X5edSIv.jpg
 date: 2017-12-19
 excerpt: Dicas de front-end para designers visando agilizar o desenvolvimento do site e manter maior fidelidade ao layout.
 categories:
-  - Front-end
   - Design
   - Semântica
+  - Na prática
+  - CSS
 ---
 
 
@@ -41,7 +42,7 @@ https://i.imgur.com/sJWUUkR.jpg
 Informe-se sobre o que será administrável
 -----------------------------------------
 
-Algumas áreas do site podem ser administráveis pelo usuário via painel. Sabendo o que será administrável, pode-se tomar vários cuidados na criação do layout. Nas áreas em que o texto for administrável pelo usuário, utilize fontes que tenham as variações necessárias (como negrito e itálico).
+Algumas áreas do site podem ser administráveis pelo usuário via painel. Com isso, pode-se tomar vários cuidados na criação do layout. Nas áreas em que o texto for administrável pelo usuário, utilize fontes que tenham as variações necessárias (como negrito e itálico).
 
 ### Por quê?
 
