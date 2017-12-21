@@ -7,9 +7,16 @@ excerpt: A Atlassian liberou para uso público seu guideline visual.
 image: https://i.imgur.com/Xp1oFuZ.png
 categories:
   - Design
+  - front-end
   - UX
+  - framework
+  - biblioteca
 tags:
-  - design
+  - Design
+  - front-end
+  - UX
+  - framework
+  - biblioteca
 ---
 
 ![](https://i.imgur.com/OnzTBdE.png)

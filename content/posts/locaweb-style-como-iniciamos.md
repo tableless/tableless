@@ -14,13 +14,19 @@ categories:
   - JavaScript
   - JQuery
   - Técnicas e Práticas
+  - UX
+  - framework
+  - biblioteca
 tags:
-  - 2013
+  - Design
+  - framework
+  - biblioteca
+  - UX
   - CSS
   - framework
+  - 2013
   - JavaScript
   - locaweb
-
 ---
 Se você ainda não conhece o [Locaweb Style][1], vá lá conhecer e continue lendo esse texto. Vai ser interessante se você está querendo usar um framework pronto se quer criar um novo para seus projetos.
 
