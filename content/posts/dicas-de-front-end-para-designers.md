@@ -3,7 +3,7 @@ title: Dicas de front-end para designers
 author: Markus Domenegheti
 type: post
 image: https://i.imgur.com/X5edSIv.jpg
-date: 2017-12-19
+date: 2017-12-24
 excerpt: Dicas de front-end para designers visando agilizar o desenvolvimento do site e manter maior fidelidade ao layout.
 categories:
   - Design
