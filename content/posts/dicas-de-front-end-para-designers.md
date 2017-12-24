@@ -8,7 +8,7 @@ excerpt: Dicas de front-end para designers visando agilizar o desenvolvimento do
 categories:
   - Design
   - Semântica
-  - Na prática
+  - Na prática
   - CSS
 ---
 
@@ -26,7 +26,7 @@ Evite tons de cores muito parecidos. Aconselho definir uma paleta de cores com s
 
 É comum a utilização de pré-processadores no desenvolvimento dos sites, e neles são definidos apelidos para as cores comuns no layout, facilitando muitos processos no desenvolvimento.
 
-https://i.imgur.com/wW4HzjK.jpg
+![](https://i.imgur.com/wW4HzjK.jpg)
 
 Reutilize os ícones
 -------------------
@@ -37,7 +37,7 @@ Normalmente sites têm ícones padrões como setas e botões de fechar, que pode
 
 Pode influenciar no tempo de carregamento da página e impedir o reaproveitamento de código.
 
-https://i.imgur.com/sJWUUkR.jpg
+![](https://i.imgur.com/sJWUUkR.jpg)
 
 Informe-se sobre o que será administrável
 -----------------------------------------
@@ -48,7 +48,7 @@ Algumas áreas do site podem ser administráveis pelo usuário via painel. Com i
 
 Geralmente o painel de controle do site oferece essas opções de customização, por isso devem ser previstas.
 
-https://i.imgur.com/pd4sC4h.jpg
+![](https://i.imgur.com/pd4sC4h.jpg)
 
 Utilize transparência apenas se houver necessidade
 --------------------------------------------------
@@ -59,7 +59,7 @@ Transparências devem ser utilizadas apenas quando houver necessidade. Não util
 
 Ao alterar a opacidade, o hexadecimal da cor não muda, podendo confundir na hora do desenvolvimento.
 
-https://i.imgur.com/4pOsXGT.jpg
+![](https://i.imgur.com/4pOsXGT.jpg)
 
 Procure referências dentro do layout
 ------------------------------------
@@ -70,7 +70,7 @@ Caso for dar continuidade na criação de outro designer ou precisar alterar o l
 
 Influencia no reaproveitamento de código e melhora a usabilidade do site.
 
-https://i.imgur.com/HYSKs3e.jpg
+![](https://i.imgur.com/HYSKs3e.jpg)
 
 Por hoje é só isso, com certeza vou fazer uma parte dois para esse assunto, espero que tenham gostado.
 Eu iria adorar se um designer criasse um artigo reverso com sugestões para os front-ends, alguém se candidata?
