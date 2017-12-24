@@ -1,6 +1,6 @@
 ---
 title: Dicas de front-end para designers
-author: Markus Domenegheti
+authors: Markus Domenegheti
 type: post
 image: https://i.imgur.com/X5edSIv.jpg
 date: 2017-12-24
