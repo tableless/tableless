@@ -1,0 +1,36 @@
+---
+title: Automatizando sua vida com Crontab
+author: drelldeveloper
+type: post
+date: 2017-12-20
+excerpt: Veja como agendar tarefas Cron no GNU/Linux.
+  - Browsers
+---
+
+# Automatizando sua vida com Crontab
+Pra quem é programador e usa GNU/Linux - ou Linux, para que não tem frescura - e quer automatizar algumas tarefas como, realizar cópia de segurança, verificação de diretórios etc. Leia este pequeno artigo.
+
+# O que é Cron e Crontab
+O Cron é o programa que executa as tarefas. O Crontab é o programa que altera o arquivo lido pelo o Cron. Simples, né?
+
+# Legal, mas como agenda a tarefa?
+Primeiro, abra seu terminal e digite: ```crontab -e```. Em alguns casos ira aparecer para você escolher o editor para usar, eu prefiro o Nano.
+![Imgur](https://i.imgur.com/rWKLxDw.png)
+
+Agora, você abriu o arquivo de configuração de seu usuário, vá até o final.
+![Imgur](https://i.imgur.com/lYQtugc.png)
+A sintaxe para seguir é simples, você deve seguir: ```mm hh dd MM ss script```
+
+Parametros | Função
+-----------|----------
+mm         | Minutos (0-59)
+hh         | Hora (0-23)
+dd         | Dia (1-31)
+MM         | Mes (1-12)
+ss         | Dia da Semana (0-7)
+script     | O arquivo ou comando para ser executado
+
+Um exemplo:
+![Imgur](https://i.imgur.com/30vQlWx.png)
+
+Na imagem, eu solicito que em qualquer hora, minuto, mes, dia da semana é para executar o arquivo script.sh.
