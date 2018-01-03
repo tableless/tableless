@@ -77,4 +77,67 @@ Vamos primeiramente inicar a aplicação da maneira "tradicional", para ver que 
 $ node index.js
 ```
 
+PRINT DA APLICACAO
 
+### Iniciando a aplicação pelo PM2
+
+Agora que tudo está funcionando, vamos iniciar a nossa aplicação através do PM2:
+
+```
+$ pm2 start monitor index.js
+```
+
+PRINT DO PM2
+
+O comando **start** é responsável por iniciar a nossa aplicação. No exemplo acima passei que o nome da minha aplicação será "monitor".
+
+Além disso o start também é responsável por fazer o *auto-restart*, ou seja, caso aconteça algum erro inesperado e a nossa aplicação "morra" o PM2 irá reiniciar ela automaticamente, sem que tenhamos que nos preocupar com isso.
+
+### Explorando o PM2
+
+Existe diversos comandos para monitorar, escalar, acompanhar as nossas aplicações, porém como o objetivo desse post é fazer uma introdução dessa ferramente, vou listar apenas os mais básicos e que irão ajudar bastante.
+
+1. list: mostra todos os processos gerenciados pelo PM2
+
+```
+$ pm2 list
+```
+
+PRINT DO LIST
+
+2. monit: é um monitor que mostra toda a CPU e memória consumida por cada processo iniciado através do PM2, por esse comando também é possível acompanhar o log da nossa aplicação.
+
+```
+$ pm2 monit
+```
+
+PRINT DO MONIT
+
+3. logs \[nome-app\]: mostra os logs específicos de um aplicativo.
+
+```
+$ pm2 logs monitor
+```
+
+
+4. stop \[nome-app\]: *stopa* o processo específico.
+
+```
+$ pm2 stop monitor
+```
+
+PRINT DO STOP
+
+5. delete \[nome-app\]: exclui o processo específico do PM2.
+
+```
+$ pm2 delete monitor
+```
+
+PRINT DO DELETE
+
+## Conclusão
+
+Esse post foi para mostrar apenas o básico de uma das ferramentas existentes para realizarmos o deploy das nossas aplicações Node.js em produção. Grandes empresas como PayPal, Best Buy e IBM utilizam o PM2 exatamente pelo seu grande poder no gerenciamento e manutanção das nossas aplicações no ambiente de produção.
+
+Aconselho para quem se interessou consultar o [site oficial](http://pm2.keymetrics.io/) e o repositório no [GitHub](https://github.com/Unitech/pm2), pois tem muita coisa legal que é possível fazer com o PM2.
