@@ -1,9 +1,9 @@
 ---
-title: Gerenciando suas aplicações Node com PM2
+title: Gerenciando aplicações Node.js com PM2
 authors: Breno Panzolini
 type: post
 date: 2017-12-28
-excerpt: Como gerenciar suas aplicações em NodeJS em produção com o PM2.
+excerpt: Como gerenciar aplicações Node.js em produção com PM2.
 categories:
   - NodeJS
   - JavaScript
@@ -13,7 +13,7 @@ tag
 image:  https://raw.githubusercontent.com/unitech/pm2/master/pres/pm2.20d3ef.png
 ---
 
-Nesse post vou explicar o básico para se fazer o deploy de uma aplicação Node.js utilizando o [**PM2**](http://pm2.keymetrics.io/), que é um serviço avançado e altamente utilizado para gerenciar os seus processos Node.
+Nesse post vou explicar o básico para se fazer o deploy de uma aplicação desenvolvida em Node.js utilizando o [**PM2**](http://pm2.keymetrics.io/), que é uma ferramenta avançada e altamente utilizada para gerenciar aplicações em produção.
 
 ## Por que utilizar o PM2?
 
