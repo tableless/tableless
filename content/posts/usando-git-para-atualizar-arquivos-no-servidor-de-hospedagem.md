@@ -6,12 +6,14 @@ date: 2015-10-08
 url: /usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem/
 categories:
   - Artigos
+  - KingHost
   - O Básico
 tags:
   - git
-
+  - kinghost
 ---
-## Solução usando Bitbucket + Kinghost
+
+# Solução usando Bitbucket + Kinghost
 
 A mesma configuração pode ser usada em qualquer servidor GIT e qualquer serviço de hospedagem que tenha acesso via ssh e git instalado
 
