@@ -32,7 +32,7 @@ Citei apenas alguns recursos, porém o PM2 tem muita coisa legal disponível que
 
 A instalação do PM2 é muito simples, basta digitar o comando abaixo:
 
-```
+```sh
 $ npm install pm2 -g
 ```
 
@@ -40,8 +40,41 @@ Existe também a opção de baixar uma imagem oficial do docker com o PM2 já in
 
 ## Subindo suas aplicações no PM2
 
-Pois bem, chegou a hora de colocar em prática o básico das funcionalidades do PM2, para isso vamos fazer uma aplicação extremamente simples em Node.js, ela nada mais fará do que monitorar uma pasta e de tempos em tempos logar no console todos os arquivos que estão na pasta. Sim, é uma aplicação sem nenhuma utilidade "real", porém podemos focar no objetivo do post que é o **PM2**.
+Pois bem, chegou a hora de colocar em prática o básico das funcionalidades do PM2, para isso vamos fazer uma aplicação extremamente simples em Node.js.
+
+Nossa aplicação irá monitorar uma pasta e de tempos em tempos logar no console todos os arquivos que estão na pasta. É uma aplicação extremamente simples e praticamente sem nenhuma utilidade "real", porém podemos focar no objetivo do post que é o **PM2**.
+
+Primeiro vamos criar uma estrutura básica de pastas:
+
+```sh
+$ mkdir projeto-pm2
+$ cd projeto-pm2
+$ mkdir arquivos
+$ npm init -y
+$ touch index.js
+```
+
+Agora, abra o arquivo index.js e cole o seguinte código:
 
 ```js
-TODO
+const fs = require('fs')
+
+function monitorar () {
+  const arquivos = fs.readdirSync('./arquivos')
+  console.log(`${arquivos.length} arquivos encontrados!`)
+  
+  for (let arquivo of arquivos) {
+    console.log(arquivo)
+  }
+}
+
+setInterval(monitorar, 5000)
 ```
+
+Vamos primeiramente inicar a aplicação da maneira "tradicional", para ver que está funcionando corretamente:
+
+```
+$ node index.js
+```
+
+
