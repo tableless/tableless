@@ -2,7 +2,7 @@
 title: Gerenciando aplicações Node.js com PM2
 authors: Breno Panzolini
 type: post
-date: 2017-12-28
+date: 2018-01-04
 excerpt: Como gerenciar aplicações Node.js em produção com PM2.
 categories:
   - NodeJS
