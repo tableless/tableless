@@ -7,7 +7,7 @@ excerpt: Como gerenciar aplicações Node.js em produção com PM2.
 categories:
   - NodeJS
   - JavaScript
-tag
+tags:
   - NodeJS
   - JavaScript
 image:  https://raw.githubusercontent.com/unitech/pm2/master/pres/pm2.20d3ef.png
@@ -24,7 +24,7 @@ O PM2 é uma ferramenta open source completa para o gerenciamento e deploy de ap
 - *Hot reload* das aplicações
 - Fácil integração com serviços de deploy contínuo
 - Logs das aplicações
-- Facilidade em escalar as aplicações
+- Facilidade em escalar as aplicações (modo cluster ou fork)
 
 Citei apenas alguns recursos, porém o PM2 tem muita coisa legal disponível que pode ser encontrada na [documentação oficial](http://pm2.keymetrics.io/docs/usage/cluster-mode/).
 
@@ -62,7 +62,7 @@ const fs = require('fs')
 function monitorar () {
   const arquivos = fs.readdirSync('./arquivos')
   console.log(`${arquivos.length} arquivos encontrados!`)
-  
+
   for (let arquivo of arquivos) {
     console.log(arquivo)
   }
@@ -77,25 +77,25 @@ Vamos primeiramente inicar a aplicação da maneira "tradicional", para ver que 
 $ node index.js
 ```
 
-PRINT DA APLICACAO
+![app node](https://i.imgur.com/96V7vNe.png)
 
 ### Iniciando a aplicação pelo PM2
 
 Agora que tudo está funcionando, vamos iniciar a nossa aplicação através do PM2:
 
 ```
-$ pm2 start monitor index.js
+$ pm2 start index.js --name monitor
 ```
 
-PRINT DO PM2
+![pm2 start](https://i.imgur.com/QhCkJyZ.png)
 
-O comando **start** é responsável por iniciar a nossa aplicação. No exemplo acima passei que o nome da minha aplicação será "monitor".
+O comando **start** é responsável por iniciar a nossa aplicação. No exemplo acima passei "monitor" como nome da minha aplicação.
 
 Além disso o start também é responsável por fazer o *auto-restart*, ou seja, caso aconteça algum erro inesperado e a nossa aplicação "morra" o PM2 irá reiniciar ela automaticamente, sem que tenhamos que nos preocupar com isso.
 
 ### Explorando o PM2
 
-Existe diversos comandos para monitorar, escalar, acompanhar as nossas aplicações, porém como o objetivo desse post é fazer uma introdução dessa ferramente, vou listar apenas os mais básicos e que irão ajudar bastante.
+Existem diversos comandos para monitorar, escalar, acompanhar as nossas aplicações, porém como o objetivo desse post é fazer uma introdução dessa ferramente, vou listar apenas os mais básicos e que irão ajudar bastante.
 
 1. list: mostra todos os processos gerenciados pelo PM2
 
@@ -103,7 +103,7 @@ Existe diversos comandos para monitorar, escalar, acompanhar as nossas aplicaç�
 $ pm2 list
 ```
 
-PRINT DO LIST
+![pm2 list](https://i.imgur.com/X0ceSBr.png)
 
 2. monit: é um monitor que mostra toda a CPU e memória consumida por cada processo iniciado através do PM2, por esse comando também é possível acompanhar o log da nossa aplicação.
 
@@ -111,14 +111,15 @@ PRINT DO LIST
 $ pm2 monit
 ```
 
-PRINT DO MONIT
+![pm2 monit](https://i.imgur.com/A8WEmAb.png)
 
-3. logs \[nome-app\]: mostra os logs específicos de um aplicativo.
+3. log \[nome-app\]: mostra os logs específicos de uma aplicação.
 
 ```
-$ pm2 logs monitor
+$ pm2 log monitor
 ```
 
+![pm2 log](https://i.imgur.com/VQVq4zF.png)
 
 4. stop \[nome-app\]: *stopa* o processo específico.
 
@@ -126,7 +127,7 @@ $ pm2 logs monitor
 $ pm2 stop monitor
 ```
 
-PRINT DO STOP
+![pm2 stop](https://i.imgur.com/Ivo3sKJ.png)
 
 5. delete \[nome-app\]: exclui o processo específico do PM2.
 
@@ -134,7 +135,7 @@ PRINT DO STOP
 $ pm2 delete monitor
 ```
 
-PRINT DO DELETE
+![pm2 delete](https://i.imgur.com/MDid7As.png)
 
 ## Conclusão
 
