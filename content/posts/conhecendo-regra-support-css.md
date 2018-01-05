@@ -2,10 +2,10 @@
 title: Conhecendo o @supports do CSS
 authors: Diego Eis
 type: post
-date: 2017-01-24
+publishdate: 2018-01-08
+date: 2018-01-08
 excerpt: Entendendo como funciona a regra de condição @supports
 image: https://i.imgur.com/5Xk9hFS.jpg
-draft: true
 categories:
   - CSS
   - support
