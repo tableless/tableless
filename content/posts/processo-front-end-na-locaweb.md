@@ -12,13 +12,11 @@ categories:
   - JavaScript
   - Tecnologia e Tendências
 tags:
-  - CSS
+  - css
   - html
   - locaweb
   - mercado
-  - SASS
-  - wraith
-
+  - sass
 ---
 É muito interessante entender como funcionam os processos em grandes empresas e comparar com processo que você executa na sua própria empresa. Depois que li [o post que o Jaydson fez falando um pouco sobre o processo de desenvolvimento no Terra][1], fiquei de escrever um artigo parecido mostrando mais ou menos como nós aqui da Locaweb fazemos nosso front-end. Sugiro que leia o post do Jaydson e mate a sua curiosidade sobre o processo que eles tem lá.
 

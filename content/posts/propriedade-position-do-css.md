@@ -5,16 +5,6 @@ type: post
 date: 2009-05-12
 excerpt: 'A propriedade position não serve para criar estruturas de layouts. Você o usará para coisas mais simples. Existem 3 tipos: relative, absolute e fixed. Entenda como eles funcionam e quais as suas relações.'
 url: /propriedade-position-do-css/
-aktt_notify_twitter:
-  - yes
-aktt_tweeted:
-  - 1
-tweetbackscheck:
-  - 1356455180
-shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/propriedade-position-do-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3o5hlof";s:4:"isgd";s:19:"http://is.gd/RITXkO";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 503012963
 categories:
   - CSS
@@ -30,7 +20,6 @@ tags:
   - tableless
 
 ---
-## Entendendo a propriedade Position
 
 O Position é uma propriedade perigosa para iniciantes. Normalmente o desenvolvedor que acaba de conhecer essa propriedade, acha que ela é a resposta para todos os problemas de posicionamento e diagramação de layout. Pelo contrário. O Position não serve para diagramar a estrutura de layouts. Para isso, você utiliza a [propriedade float do css][1]. O Position vai servir para fazer coisas mais simples. 
 

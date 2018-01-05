@@ -9,9 +9,7 @@ categories:
   - Eventos e Workshops
 tags:
   - eventos
-  - gdg
   - google
-
 ---
 O Grupo de Desenvolvedores Google (GDG) das cidades de Salvador, Recife, Fortaleza, Belo Horizonte e Curitiba realizam no dia 28 de março o GDG DevFest Extended 2015. O objetivo é ser um evento focado nas tecnologias do Google, tendo como público alvo gestores, empreendedores, desenvolvedores e estudantes acontecendo nos estados com participações locais e remotas.
 

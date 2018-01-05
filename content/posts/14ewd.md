@@ -5,24 +5,12 @@ type: post
 date: 2009-03-27
 excerpt: Evento Encontro de Web Design em São Paulo. Porque trocar experiências é coisa básica.
 url: /14ewd/
-aktt_notify_twitter:
-  - yes
-aktt_tweeted:
-  - 1
-tweetbackscheck:
-  - 1356440346
-shorturls:
-  - 'a:3:{s:9:"permalink";s:29:"http://tableless.com.br/14ewd";s:7:"tinyurl";s:26:"http://tinyurl.com/42u89bd";s:4:"isgd";s:19:"http://is.gd/IRg1Qd";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 503038950
 categories:
   - Tecnologia e Tendências
 tags:
   - evento
-  - ewd
   - web design
-
 ---
 Desde 2001 atraindo designers, programadores, estudantes e profissionais ligados ao segmento de web de todo o Brasil, o Encontro de Webdesign, evento pioneiro na área de internet, realiza a sua 14ª em nove capitais brasileiras em 2009: Rio de Janeiro, São Paulo, Florianópolis, Curitiba, Porto Alegre, Brasília, Belo Horizonte, Salvador e Recife.
   

@@ -11,8 +11,6 @@ categories:
 tags:
   - curso
   - workshop
-  - workshop online
-
 ---
 Fizemos um Micro Workshop Online onde eu codifiquei um layout em PSD para HTML e CSS.
 

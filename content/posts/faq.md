@@ -5,12 +5,6 @@ type: post
 date: 2005-08-08
 excerpt: Entenda o que são Web Standards, o que é Tableless, quais as vantagens, relação com acessibilidade e tudo mais.
 url: /faq/
-tweetbackscheck:
-  - 1356469089
-shorturls:
-  - 'a:3:{s:9:"permalink";s:27:"http://tableless.com.br/faq";s:7:"tinyurl";s:26:"http://tinyurl.com/42z6lm4";s:4:"isgd";s:19:"http://is.gd/XRrowp";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 503033277
 categories:
   - Artigos
@@ -19,16 +13,11 @@ categories:
   - Tecnologia e Tendências
 tags:
   - Browsers
-  - desenvolvimento web
   - faq
   - firefox
-  - internet explorer
   - linux
-  - oqueetableless
-  - perguntasfrequentes
   - tableless
   - tags
-
 ---
 ### O que são os Web Standards?
 

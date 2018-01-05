@@ -12,10 +12,8 @@ categories:
   - Wordpress
 tags:
   - cms
-  - gantry
   - joomla
   - Wordpress
-
 ---
 &nbsp;
 

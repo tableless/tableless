@@ -9,17 +9,8 @@ categories:
   - Design
   - O Básico
 tags:
-  - Adobe Color CC
-  - Color Palette Generator
-  - COLOURlovers
-  - Coolors
-  - cores
   - designer web
-  - Material Palette
-  - paleta de cores
-  - Paletton
   - web designer
-
 ---
 Um dia em você acha que já sabe &#8220;mexer&#8221; bastante no Photoshop (ou Fireworks) e decide que se lançar no mercado como designer web. Fez alguns pequenos trabalhos, e não vê a hora de criar um site bacana e colocar seus serviços à venda na prateleira de um domínio com seu nome.
 

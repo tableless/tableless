@@ -1,31 +1,17 @@
 ---
-title: Adicionando Post Thumbnail
+title: Ativando o suporte ao Post Thumbnails em seu tema
 authors: Paulo Rodrigues
 type: post
 date: 2011-01-17
 excerpt: O WordPress depois de sua versão 2.9 disponibilizou uma funcionalidade de Post Thumbnails. Essa funcionalidade é uma característica do tema que é uma miniatura da imagem de determinado post, pode ser usado em Páginas, Posts ou até Custom Post Types.
 url: /adicionando-post-thumbnail/
-tweetbackscheck:
-  - 1356447903
-shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/adicionando-post-thumbnail";s:7:"tinyurl";s:26:"http://tinyurl.com/3tbd7fv";s:4:"isgd";s:19:"http://is.gd/Fxkxey";}'
-twittercomments:
-  - 'a:3:{i:35055199420809216;s:7:"retweet";i:35050134052151296;s:7:"retweet";i:35049122742411265;s:7:"retweet";}'
-tweetcount:
-  - 6
 dsq_thread_id: 503039918
 categories:
   - Wordpress
 tags:
   - 2011
-  - custom post types
-  - post thumbnail
-  - posts
-  - thumb
   - Wordpress
-
 ---
-### Ativando o suporte ao Post Thumbnails em seu tema
 
 Antes de qualquer coisa, volto a lembrar que essa característica é do tema. Pode ser que alguns autores não ativem esse suporte. Para iniciar, adicione este seguinte código no arquivo functions.php:
 

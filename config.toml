@@ -18,6 +18,26 @@ disableLiveReload = true
     pages = "/:filename"
 
 [taxonomies]
-    tag = "tags"
+//    tag = "tags"
     category = "categories"
     author = "authors"
+
+
+[related]
+    threshold = 90
+    includeNewer = false
+    toLower = false
+
+    [[related.indices]]
+    name  = "categories"
+    weight = 70
+    [[related.indices]]
+    name  = "author"
+    toLower = true
+    weight = 50
+    [[related.indices]]
+    name  = "title"
+    weight = 30
+    [[related.indices]]
+    name  = "tags"
+    weight = 20

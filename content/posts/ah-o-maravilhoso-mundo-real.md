@@ -5,18 +5,6 @@ type: post
 date: 2009-09-10
 excerpt: O que é mais importante, RDF ou bordas arredondadas? O novo formato de especificações modulares do W3C vai ajudar os desenvolvedores, agilizando os releases de navegador, ou vai tornar nossa vida uma bagunça?
 url: /ah-o-maravilhoso-mundo-real/
-aktt_notify_twitter:
-  - yes
-aktt_tweeted:
-  - 1
-tweetbackscheck:
-  - 1356448033
-shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/ah-o-maravilhoso-mundo-real";s:7:"tinyurl";s:26:"http://tinyurl.com/3aoveed";s:4:"isgd";s:19:"http://is.gd/MiKPrU";}'
-twittercomments:
-  - 'a:4:{i:57528246580948992;s:7:"retweet";i:57528113998991360;s:7:"retweet";i:57517009356865536;s:7:"retweet";i:57516309340102656;s:7:"retweet";}'
-tweetcount:
-  - 10
 dsq_thread_id: 503039229
 categories:
   - Artigos
@@ -35,12 +23,9 @@ tags:
   - html5
   - padroes web
   - Semântica
-  - tableless
-  - tableless.com.br
   - web standards
   - xhtml
   - xml
-
 ---
 O Diego publicou, há mais de uma semana, um [artigo sobre o impacto da mudança de estratégia do W3C][1] em relação ao ciclo de vida de seus padrões. O artigo gerou algumas opiniões contrárias nos comentários, em relação ao fato de ele ter dito que bordas arredondadas são mais importantes que a web semântica e em relação à estratégia de especificações modulares do W3C. Vou compartilhar minha opinião sobre os dois pontos.
 

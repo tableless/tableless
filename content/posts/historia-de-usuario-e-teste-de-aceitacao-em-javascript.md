@@ -8,16 +8,14 @@ url: /historia-de-usuario-e-teste-de-aceitacao-em-javascript/
 dsq_thread_id: 2104572243
 categories:
   - JavaScript
+  - NodeJS
 tags:
-  - CucumbeJS
-  - história de usuário
+  - cucumberjs
   - JavaScript
   - NodeJS
-  - PhantomJS
-  - Selenium 2
-  - teste de aceitação
+  - phantomjs
+  - selenium
   - webdriver
-
 ---
 Cada história deve ter valor de negócio na visão do cliente e é uma pequena parte da funcionalidade, não necessariamente uma especificação completa, o que minimiza a necessidade de uma extensa documentação.
 

@@ -9,13 +9,10 @@ dsq_thread_id: 2409691512
 categories:
   - Artigos
   - CMS
-  - Geral
   - JavaScript
 tags:
-  - Ghost
   - Ghost.org
   - node.js
-
 ---
 Descobrir novas plataformas é um barato pra mim. Estar envolvido no que aparece de novo na internet é algo simplesmente prazeroso. Ideias de outras pessoas me impressionam, até quando parece ser algo tão simples, mas, por ser tão simples, é que é especial.
 

@@ -10,10 +10,8 @@ categories:
   - Artigos
   - Design
 tags:
-  - narrativas
   - storytelling
-  - user experience
-
+  - ux
 ---
 Um dos desafios de viver em um mundo onde o conhecimento está sempre facilmente disponível é lidar com a sobrecarga de informação. Na realidade existe tanto para se descobrir na internet que é difícil capturar a atenção do usuário por mais do que alguns minutos. Simplesmente mostrar uma informação não é mais relevante o suficiente. Estamos cada vez mais desconectados do significado e as vezes as palavras se tornam apenas ruídos de fundo. E isto vale na hora de apresentar uma marca, um produto, um serviço ou uma idéia. É necessário criar uma conexão emocional e contar uma história que transforme aquele objeto em algo significativo.
 

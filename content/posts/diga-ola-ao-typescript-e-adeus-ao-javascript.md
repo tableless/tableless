@@ -11,11 +11,10 @@ tags:
   - aprenda
   - desenvolvimento web
   - JavaScript
-  - orientação a objetos
+  - orientação-a-objetos
   - prototype
   - Técnicas e Práticas
   - typescript
-
 ---
 Acredito que este artigo tenha chamado a sua atenção pelo título. Como assim??? adeus ao JavaScript??? A linguagem que está bombando em 2015 (e claro, 2016!). Posso estar sendo um pouco ousado aqui, mas eu tenho em mente que, neste momento, o JavaScript para mim é agora &#8220;linguagem de máquina&#8221; ou o famoso bytecode. Porquê? Bom, você conhece um código javascript minificado+comprimido+&#8221;esculachado&#8221;&#8230; Não estou retirando aqui toda a beleza do JavaScript, e consequente importância, mas na evolução que vem acontecendo a cada dia no mundo web, felizmente chegamos ao ponto que podemos tratar o javascript como uma linguagem tipada e semelhante ao c/java/php e derivados.
 

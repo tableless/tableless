@@ -6,14 +6,6 @@ date: 2006-02-13
 url: /podcast-18-opera-9-wasabi-songbird-e-semantica/
 enclosure:
   - http://tableless.com.br/podcast/podcast18.mp3
-tweetbackscheck:
-  - 1356458053
-shorturls:
-  - 'a:3:{s:9:"permalink";s:70:"http://tableless.com.br/podcast-18-opera-9-wasabi-songbird-e-semantica";s:7:"tinyurl";s:26:"http://tinyurl.com/3v8xhg2";s:4:"isgd";s:19:"http://is.gd/JL5o5e";}'
-twittercomments:
-  - 'a:1:{i:53202184111796225;s:6:"137474";}'
-tweetcount:
-  - 1
 dsq_thread_id: 503034767
 categories:
   - Browsers
@@ -22,13 +14,9 @@ categories:
 tags:
   - Browsers
   - firefox
-  - internet explorer
   - navegadores
   - opera
   - podcast
-  - songbird
-  - wasabi
-
 ---
 Nesse podcast falamos um pouco sobre o lançamento Opera 9 Preview&#8230; vocês perceberam que ele veio uma semana depois de sair o Beta 2 do IE7? 🙂
   

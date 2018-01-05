@@ -9,12 +9,9 @@ categories:
   - Artigos
   - Técnicas e Práticas
 tags:
-  - gestão
   - produtividade
 ---
 
-
-# Tudo o que você sabe sobre produtividade pode estar errado.
 
 Dias atrás fiz a leitura do livro do [Dionatan
 Moura](https://twitter.com/dionatanmoura) chamado [Mantra da

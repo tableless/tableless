@@ -4,34 +4,14 @@ authors: Diego Eis
 type: post
 date: 2006-03-24
 url: /video-tutorial-9-criando-a-home-da-visie-css/
-aktt_tweeted:
-  - 1
-tweetbackscheck:
-  - 1356434963
-shorturls:
-  - 'a:3:{s:9:"permalink";s:68:"http://tableless.com.br/video-tutorial-9-criando-a-home-da-visie-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3p72e7j";s:4:"isgd";s:19:"http://is.gd/nZWdvY";}'
-twittercomments:
-  - 'a:1:{i:9964447342792704;s:7:"retweet";}'
-tweetcount:
-  - 1
 dsq_thread_id: 503035046
 categories:
   - Artigos
-  - Geral
   - Vídeos Tutoriais
 tags:
-  - acessibilidade
-  - apostila
   - CSS
   - html
-  - implementacao
-  - tableless
-  - tableless.com.br
   - tutorial
-  - Vídeos Tutoriais
-  - videostutoriais
-  - xhtml
-
 ---
 **Update**: Você pode assistir mais video aulas como essa no [Campus Online][1]. [Vídeos grátis de Tableless e Javascript.][2]
 

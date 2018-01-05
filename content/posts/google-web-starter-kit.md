@@ -9,9 +9,8 @@ categories:
   - Artigos
 tags:
   - boilerplate
-  - guia de estilos
+  - guia de estilo
   - web starter kit
-
 ---
 Organizar pastas, incluir suas bibliotecas favoritas de JavaScript, ressetar o CSS, escrever as primeiras linhas de HTML&#8230; Estas tarefas se repetem a cada projeto de desenvolvimento front-end. Ter uma base sólida e organizada como ponto de partida pode poupar muito tempo precioso de trabalho&#8230;
 

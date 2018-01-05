@@ -10,9 +10,7 @@ categories:
   - SEO
 tags:
   - google
-  - gtld
   - SEO
-
 ---
 O Google lançou no Webmaster Central Blog uma sessão de perguntas e respostas sobre como será feita a manipulação dos <a href="https://en.wikipedia.org/wiki/Generic_top-level_domain" target="_blank">gTLDs</a> (_generic top level domains_), em português, domínios de alto nível. Se ainda não entendeu o que são domínios de alto nível, são aquelas novas extensões que vão facilitar a vida de quem tem um segmento mas nunca encontrou um domínio legal em .com ou .com.br, como por exemplo, .CASA, .CAFE, .BAR, .GURU e assim por diante. Neste <a href="https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains#ICANN-era_generic_top-level_domains" target="_blank">link</a> você encontra a lista completa dos gTLDs.
 

@@ -5,14 +5,6 @@ type: post
 date: 2012-09-03
 excerpt: Entenda mais sobre as duas unidades prediletas pelos desenvolvedores.
 url: /unidade-pixels-em-rem/
-tweetbackscheck:
-  - 1356407674
-shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/unidade-pixels-em-rem/";s:7:"tinyurl";s:26:"http://tinyurl.com/8avfmy2";s:4:"isgd";s:19:"http://is.gd/wRR0fw";}'
-twittercomments:
-  - 'a:23:{i:242997199330484224;s:7:"retweet";i:242993549665251329;s:7:"retweet";i:242992576305709056;s:7:"retweet";i:242947055188844544;s:7:"retweet";i:242697395291422720;s:7:"retweet";i:242670468509859841;s:7:"retweet";i:242617665645076482;s:7:"retweet";i:242608049058111488;s:7:"retweet";i:242598525987332098;s:7:"retweet";i:242593610242088960;s:7:"retweet";i:242593520597209089;s:7:"retweet";i:246256474366562304;s:7:"retweet";i:254233108935761920;s:7:"retweet";i:254231218747490304;s:7:"retweet";i:261120526372708353;s:7:"retweet";i:261104544061222912;s:7:"retweet";i:261097112446578688;s:7:"retweet";i:261096998118240256;s:7:"retweet";i:264720202397278208;s:7:"retweet";i:264705361062273024;s:7:"retweet";i:264703111594139648;s:7:"retweet";i:267988526686150656;s:7:"retweet";i:267986395740647425;s:7:"retweet";}'
-tweetcount:
-  - 58
 dsq_thread_id: 829044237
 categories:
   - Acessibilidade
@@ -22,11 +14,7 @@ categories:
 tags:
   - 2012
   - CSS
-  - em
   - pixels
-  - px
-  - unidades
-
 ---
 Aqui no Brasil é muito comum usarmos pixels para definição de tamanho de textos. Lá fora a galera gosta muito de usar EM. Mas qual a diferença? Por que usar um ou outro? 
 

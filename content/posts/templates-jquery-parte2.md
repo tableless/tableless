@@ -5,27 +5,16 @@ type: post
 date: 2010-12-13
 excerpt: Agora que você já sabe como implementar templates em suas aplicações javascript, chegou a hora de conhecer técnicas avançadas de como combinar modelos HTML e scripts jQuery.
 url: /templates-jquery-parte2/
-tweetbackscheck:
-  - 1356440859
-shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/templates-jquery-parte2";s:7:"tinyurl";s:26:"http://tinyurl.com/3c8owty";s:4:"isgd";s:19:"http://is.gd/3cZxnf";}'
-twittercomments:
-  - 'a:1:{i:147334311757103105;s:7:"retweet";}'
-tweetcount:
-  - 1
 dsq_thread_id: 503018698
 categories:
   - AJAX
-  - Código
   - JavaScript
   - JQuery
+  - Código
 tags:
   - 2010
   - JavaScript
   - JQuery
-  - template
-  - tmpl
-
 ---
 [Na primeira parte][1] deste artigo você conferiu uma introdução ao novo plugin .tmpl() que possibilita a utilização de templates para retornos e saídas de suas aplicações jQuery. O plugin certamente é um avanço considerável na organização de código &#8211; é o JavaScript ficando cada vez mais profissional e robusto, abandonando a fama de ser uma simples linguagem de script, sem padrões.
 

@@ -5,16 +5,6 @@ type: post
 date: 2008-02-10
 excerpt: 'Entenda o básico do Wordpress. '
 url: /wordpress-uma-pequena-introducao/
-aktt_notify_twitter:
-  - no
-tweetbackscheck:
-  - 1356388504
-shorturls:
-  - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/wordpress-uma-pequena-introducao";s:7:"tinyurl";s:26:"http://tinyurl.com/3f2k6fg";s:4:"isgd";s:19:"http://is.gd/ge53uV";}'
-twittercomments:
-  - 'a:1:{i:37304100383105025;s:6:"137043";}'
-tweetcount:
-  - 1
 dsq_thread_id: 503037903
 categories:
   - O Básico
@@ -26,14 +16,12 @@ tags:
   - CSS
   - desenvolvimento web
   - php
-  - tableless.com.br
   - tags
   - Template Tags
   - Wordpress
   - xhtml
   - xml
   - xslt
-
 ---
 O WordPress não foi feito para ser um CMS. Ele foi criado primeiramente para suprir necessidades de criação de blogs. Por acaso, talvez como se fosse um acidente, começamos a utilizá-lo para criar websites, desde os mais simples até os mais complicados. O pessoal do WordPress curtiu a ideia e agora está melhorando cada vez mais o sistema para que ele se torne um CMS de verdade, mesmo assim mantendo toda a simplicidade do WordPress original. E o melhor, é tudo de graça.
 

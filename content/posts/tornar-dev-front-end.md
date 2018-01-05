@@ -15,8 +15,6 @@ tags:
   - basico
   - codigo
   - front-end
-  - guia
-
 ---
 Esse artigo inspirou um livro, mais completo, com mais assuntos e detalhes. Olha só: [Guia Front-end][1].
 

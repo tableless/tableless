@@ -7,21 +7,20 @@ excerpt: Desenvolvedor web também pode construir aplicações desktop. Com o El
 url: /introducao-ao-electron/
 categories:
   - Código
+  - NodeJS
   - JavaScript
   - Técnicas e Práticas
+  - github
 tags:
   - app
   - atom shell
   - CSS
-  - electron
   - github
   - gulp
   - html
   - JavaScript
   - NodeJS
   - slack
-  - visual studio code
-
 ---
 ## O que é o Electron
 

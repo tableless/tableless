@@ -15,26 +15,17 @@ categories:
   - Código
   - JavaScript
 tags:
-  - aprenda
-  - como funciona
-  - cotidiano
-  - declaração
-  - declarações
-  - Elevação
-  - Elevação em Javascript
   - escopo
   - funcoes
   - hoisting
   - inicialização
   - JavaScript
-  - Javascript hoisting
   - Jonatan Santos
-  - joridos
   - tableless
   - variaveis
   - web standards
-
 ---
+
 ## Um pouco de Teoria antes da diversão.
 
 Muitas vezes, um simples princípio não compreendido, pode confundir novatos ou especialistas em JavaScript. Neste artigo, vamos tentar entender melhor um problema comum, que é mais simples do que parece.

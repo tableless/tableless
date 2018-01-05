@@ -3,17 +3,14 @@ title: Web.br 2014 – Internet das Coisas
 authors: Diego Eis
 type: post
 date: 2014-09-25
-excerpt: |
-  |
-    Anotações sobre Internet das Coisas.
+excerpt: Anotações sobre Internet das Coisas.
 url: /webbr-2014-internet-das-coisas/
 categories:
   - Eventos e Workshops
 tags:
   - anotacoes
   - internet das coisas
-  - webb2014
-
+  - webbr
 ---
 Minhas anotações do debate que houve no [Web.br 2014][1] sobre Internet das Coisas.
 

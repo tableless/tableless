@@ -4,29 +4,15 @@ authors: Diego Eis
 type: post
 date: 2008-10-20
 url: /exercicio-basico/
-aktt_tweeted:
-  - 1
-aktt_notify_twitter:
-  - no
-tweetbackscheck:
-  - 1356456210
-shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/exercicio-basico";s:7:"tinyurl";s:26:"http://tinyurl.com/3npsjud";s:4:"isgd";s:19:"http://is.gd/widZgH";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 503038574
 categories:
   - CSS
   - HTML
   - Técnicas e Práticas
 tags:
-  - campus online
   - CSS
-  - exercicio
   - tableless
-  - visie
   - xhtml
-
 ---
 Costumo dar esse exercício para alguns dos alunos aqui da [Visie][1]. Ele é um exercício básico e utiliza as propriedades mais importantes para se construir um site. A idéia é mostrar para o desenvolvedor que está abrindo os olhos agora, como é fácil, em algumas horas de treinamento (tipo 3 horas), o desenvolvimento com CSS e XHTML é produtivo.<!--more-->
 

@@ -1,51 +1,53 @@
 <aside class="tb-aside">
-
-<!-- /7969368/RetanguloMedio-TopoSidebar -->
-<div class="tb-banner-sidebar" id='div-gpt-ad-1514953930189-0'>
-  <script>
-  googletag.cmd.push(function() { googletag.display('div-gpt-ad-1514953930189-0'); });
-  </script>
-</div>
+  
+  <!-- /7969368/RetanguloMedio-TopoSidebar -->
+  <div id='div-gpt-ad-1514953930189-0'>
+    <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1514953930189-0'); });
+    </script>
+  </div>
   
   <!-- <div class="tb-banner-sidebar">
     <script class='__lxGc__' type='text/javascript'>
-    ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_607085']={'i':__lxGc__.b++};
+      ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_607085']={'i':__lxGc__.b++};
     </script>
   </div> -->
   
-  <div class="tb-newsletter">
- <form action="https://tinyletter.com/tableless" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/tableless', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-    <label for="tlemail">Entre na nossa TinyLetter:</label>
-    <input type="text" placeholder="Qual o seu e-mail?" name="email" id="tlemail" />
-    <input type="hidden" value="1" name="embed"/><input type="submit" value="Inscrever-se" />
-  </form>
-</div>
+  <!-- <div class="tb-newsletter">
+    <form action="https://tinyletter.com/tableless" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/tableless', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+      <label for="tlemail">Entre na nossa TinyLetter:</label>
+      <input type="text" placeholder="Qual o seu e-mail?" name="email" id="tlemail" />
+      <input type="hidden" value="1" name="embed"/><input type="submit" value="Inscrever-se" />
+    </form>
+  </div> -->
+
   <h2>Últimos posts</h2>
   <ul>
-    {{ range first 5 .Site.Pages }}
+    {{ range first 7 .Site.Pages }}
     <li><a href="{{ .RelPermalink }}/?utm_source=tablelessSidebarLatestLinks" class="tb-latestpost-link">{{ .Title }}</a></li>
     {{ end }}
   </ul>
-
+  
   <h2>Categorias</h2>
   <ul>
-    {{ range first 7 .Site.Taxonomies.categories.ByCount }}
-      <li><a href="/categories/{{ .Name | urlize }}" class="tb-categ-link">{{ .Name }}</a> ({{ .Count }})</li>
+    {{ range first 10 .Site.Taxonomies.categories.ByCount }}
+    <li><a href="/categories/{{ .Name | urlize }}" class="tb-categ-link">{{ .Name }}</a> ({{ .Count }})</li>
     {{ end }}
   </ul>
-
+  
   <div class="tb-banner-sidebar">
-     <script class='__lxGc__' type='text/javascript'>
-    ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_606621']={'i':__lxGc__.b++};
+    <script class='__lxGc__' type='text/javascript'>
+      ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_606621']={'i':__lxGc__.b++};
     </script> 
     <!-- /7969368/Sidebar_300x600 -->
     <!--
-    <div id='div-gpt-ad-1514953930189-1'>
-      <script>
-    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1514953930189-1'); });
-    </script>
-    </div> -->
-  </div>
-
-</aside>
-
+      <div id='div-gpt-ad-1514953930189-1'>
+        <script>
+          googletag.cmd.push(function() { googletag.display('div-gpt-ad-1514953930189-1'); });
+        </script>
+      </div> -->
+    </div>
+    
+  </aside>
+  
+  

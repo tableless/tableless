@@ -12,12 +12,8 @@ categories:
   - SEO
 tags:
   - facebook
-  - Facebook meta tags
-  - Manipulando o Open Graph
   - Open Graph
   - tableless
-  - Utilizando as meta tags do Facebook
-
 ---
 Creio que você, usuário frenético de facebook já tenha visto algo mais ou menos assim na sua linha do tempo:
 

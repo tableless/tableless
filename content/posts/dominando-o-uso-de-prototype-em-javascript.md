@@ -12,17 +12,10 @@ categories:
   - JavaScript
   - Técnicas e Práticas
 tags:
-  - aprendendo a ultilizar prototipos javascript
-  - Clóvis Neto JavaScript
-  - como criar classes com prototype
-  - como usar o prototype em javascript
-  - criando classes javascript com protótipos
   - javascript prototype
   - javascript prototype método
-  - Orientação a objetos com protótipos
-  - Orientação a objetos com prototype
+  - orientação a objetos
   - prototipos de javascript
-
 ---
 Vários desenvolvedores web falam que protótipos representam uma forma de definirmos tipos de objetos, mas se você observar com cuidado, isto é uma característica de funções.
 

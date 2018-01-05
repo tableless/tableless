@@ -16,10 +16,7 @@ tags:
   - front-end
   - html
   - iniciante
-  - material
   - material design
-  - material design lite
-
 ---
 Há muito tempo quero falar um pouco sobre desenvolvimento de sites utilizando layouts baseados no Material Design do Google, mas entre **fazer** e **falar** há um abismo enorme. Minha verdadeira intenção é compartilhar um pouco a maneira mais fácil de desenvolver um layout utilizando todos aqueles conceitos que a Google tem implementado atualmente.
 

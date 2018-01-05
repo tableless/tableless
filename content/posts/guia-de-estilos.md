@@ -14,10 +14,9 @@ categories:
 tags:
   - 2013
   - design
-  - estilo
-  - wireframe
-
+  - wireframes
 ---
+
 Um dos elementos mais importantes do processo de criação de identidade visual é a elaboração de um documento com informações concretas sobre cores, tipografia, forma, exemplos de uso, tamanho mínimo e área de reserva do logotipo, etc. Este documento, conhecido como Guia de Identidade Visual ou simplesmente Manual da Marca, não se restringe apenas ao aspecto gráfico e pode muitas vezes incluir explicações sobre a visão, história e filosofia da empresa, uma perspectiva mais aprofundada dos símbolos e signos utilizados para compor o design ou até instruções gerais sobre a linguagem a ser utilizada na comunicação escrita, por exemplo. Seja um documento em PDF de apenas uma página com diretrizes simples do tipo “faça e não faça” ou um livro complexo com dezenas de exemplos de aplicação, o Guia de Identidade Visual é o que garante a consistência e uniformidade da percepção de uma marca. É o que vai fazer ela ser imediatamente reconhecida como uma entidade.
 
 Mas estes guias não se restringem ao universo do design. E eles podem ser mais ou menos formais. Uma revista ou jornal possui um manual de estilo com padronizações de elementos como tamanho da lauda, ortografia, e estilo geral da redação. 

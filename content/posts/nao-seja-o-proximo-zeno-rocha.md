@@ -8,12 +8,10 @@ url: /nao-seja-o-proximo-zeno-rocha/
 categories:
   - Mercado e Comportamento
   - Opinião
+  - Carreira
 tags:
-  - diegoeis
-  - popularidade
-  - tableless
-  - zeno
-
+  - mercado
+  - carreira
 ---
 _Artigo originalmente [publicado no meu blog no Medium][1]._
 

@@ -7,14 +7,12 @@ excerpt: 'Testes A/B: design orientado à conversão de leads qualificados'
 url: /como-uma-simples-mudanca-de-cores-pode-revolucionar-seu-site/
 categories:
   - Design
+  - UX
 tags:
-  - design de interação
-  - design de interface
-  - design para conversão
-  - leads qualificados
-  - testes a/b
+  - design
   - ux
-
+  - interação
+  - interface
 ---
 Acredito que muitos de nós estamos na batalha diária desenvolvendo projetos para se realizar profissionalmente, sustentar nossas famílias, entre outras razões particulares. Entretanto existem também os objetivos relacionados às nossas funções que motivam, ou deveriam motivar, nossas ações para que os resultados de nossos projetos nos realizem e tragam reconhecimento.
 

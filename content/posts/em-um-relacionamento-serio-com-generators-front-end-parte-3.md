@@ -3,6 +3,7 @@ title: Em um relacionamento sério com generators front-end – Parte 3
 authors: Beto Muniz
 type: post
 date: 2015-02-06
+image: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/pngbase643ef91c517603490c.png
 excerpt: Nesta terceira parte da série, iremos abordar o Slush Generator, que é um Scaffolding Generator baseado em NodeJS e que tem uma forma diferenciada para criação de seus scaffolds.
 url: /em-um-relacionamento-serio-com-generators-front-end-parte-3/
 categories:
@@ -15,15 +16,9 @@ categories:
   - Técnicas e Práticas
   - Tecnologia e Tendências
 tags:
-  - generators
   - gulp
   - Node
-  - slush
-
 ---
-<h2 style="text-align: center">
-  <img class="aligncenter size-full wp-image-46781" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/pngbase643ef91c517603490c.png" alt="png;base643ef91c517603490c" width="281" height="408" srcset="uploads/2015/02/pngbase643ef91c517603490c.png 281w, uploads/2015/02/pngbase643ef91c517603490c-96x139.png 96w" sizes="(max-width: 281px) 100vw, 281px" />
-</h2>
 
 ## TL;DR
 

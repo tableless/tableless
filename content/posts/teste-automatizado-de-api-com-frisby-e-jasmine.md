@@ -8,12 +8,9 @@ categories:
   - Back-end
   - JavaScript
 tags:
-  - frisby
   - gulp
   - jasmine
   - NodeJS
-  - teste
-
 ---
 O [Frisby][1] é um framework para teste de API REST que roda em cima do nodejs. Seu principal apelo é a facilidade em se fazer testes automatizados de API com o apoio do framework de teste BDD jasmine.
 

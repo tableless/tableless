@@ -11,8 +11,6 @@ tags:
   - angular-material
   - angularjs
   - JavaScript
-  - material design
-
 ---
 Decidi começar essa série de posts sobre **Angular** pois ultimamente é o que mais estou estudando, e pirando também rs, estou **viciado** no angular confesso, e não podia deixar de escrever sobre o **angular material** pois ele realmente me surpreendeu com sua facilidade que junto a sua beleza o torna bem **interessante**.
 

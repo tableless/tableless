@@ -16,11 +16,8 @@ tags:
   - Design Web
   - framework
   - material design
-  - material design lite
-  - mdl
   - responsivo
   - ux
-
 ---
 Em 2014 o Google apresentou o Material Design: um guia para redefinir o visual de aplicativos. Vários aplicativos aderiram ao Material Design, como por exemplo, o WhatsApp, que mudou por completo o visual.
 

@@ -6,14 +6,13 @@ date: 2015-10-11
 url: /afinal-como-usar-heranca-no-css/
 categories:
   - CSS
+  - SASS
 tags:
   - CSS
-  - extend
-  - herança css
-  - oocss
   - SASS
-
+  - herança css
 ---
+
 Herança surgiu para ajudar desenvolvedores a escreverem mesmo e produzirem mais. Vamos ver aqui como esse conceito básico das folhas de estilo pode nos ajudar no dia-a-dia.
 
 Geralmente quando alguém começa a desenvolver interfaces web, o processo é aos trancos e barrancos. Nessa situação, iniciantes buscam aprender como se faz aquela borda arredondada ou como aplicar transparência. Por fim, acabam deixando de lado conceitos básicos de CSS. Levando isso em conta, precisamos primeiramente aprender sobre **especificidade** e **efeito cascata**. Esses dois pontos são essenciais para aprendermos como escrever folhas de estilo usando herança.

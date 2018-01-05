@@ -3,19 +3,16 @@ title: Conferência W3C Web.br 2013 – Dia 1
 authors: Dani Guerrato
 type: post
 date: 2013-11-20
-excerpt: |
-  |
-    Todos os caminhos levam a web! Saiba tudo sobre a conferência, confira o conteúdo das palestras e espie minhas anotações.
+excerpt: Todos os caminhos levam a web! Saiba tudo sobre a conferência, confira o conteúdo das palestras e espie minhas anotações.
 url: /conferencia-w3c-webbr-2013-primeiro-dia/
 dsq_thread_id: 1983878259
 categories:
-  - Geral
+  - Workshops e Eventos
+  - w3c
 tags:
-  - Conferência w3c
   - palestras
   - w3c
-  - webbr2013
-
+  - webbr
 ---
 Na segunda-feira 19 de novembro tive o prazer de acompanhar de perto a [Conferência Web W3C Brasil][1]. O evento, realizado no centro de convenções Rebouças em São Paulo contou com a presença de grandes especialistas web do Brasil e do mundo. Foram dois dias repletos de palestras, debates, cafézinhos, networking, premiações, bons conselhos e muito conhecimento. Se você esteva lá também, parabéns! Aposto que aprendeu alguma coisa nova. Se não foi, não tem problema! Confira (quase) tudo o que rolou no primeiro dia de evento neste artigo.
 

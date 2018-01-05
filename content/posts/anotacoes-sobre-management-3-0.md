@@ -10,12 +10,8 @@ categories:
   - Artigos
   - Mercado e Comportamento
 tags:
-  - equipes
-  - gestao
   - management
   - mercado
-  - teams
-
 ---
 Fiz um curso estes dias sobre uma nova metodologia de gestão para ambientes ágeis e complexos. Chama-se Management 3.0. Foi um curso de dois dias inteiros na [AdaptWorks][1]. Se você nunca fez, faça. Se você já fez o curso, faça outra vez. 
 

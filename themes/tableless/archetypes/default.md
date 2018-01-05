@@ -5,4 +5,6 @@ image:
 excerpt: 
 categories:
   - Artigos
+tags:
+  - artigos
 ---

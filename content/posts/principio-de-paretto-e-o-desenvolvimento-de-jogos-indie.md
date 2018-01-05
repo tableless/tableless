@@ -6,13 +6,9 @@ date: 2016-07-01
 url: /principio-de-paretto-e-o-desenvolvimento-de-jogos-indie/
 categories:
   - Artigos
+  - Na prática
 tags:
-  - conceito
   - desenvolvimento jogos
-  - indie
-  - paretto
-  - princípio
-
 ---
 O _Princípio de Paretto_, também conhecido como _proporção 80/20_, foi criado pelo economista italiano Vilfredo Pareto em 1906. Paretto enunciou este princípio através do conhecimento empírico, após analisar a sociedade italiana, mas especificamente ele observou que 80% das terras pertenciam a 20% da população, restando para os outros 80% da população os 20% de terras restantes. Em suma, significava que 80% das riquezas daquela sociedade estavam concentradas nas &#8220;mãos&#8221; de 20% da população.
 

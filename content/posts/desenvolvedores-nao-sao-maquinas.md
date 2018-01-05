@@ -9,10 +9,6 @@ categories:
   - Opinião
 tags:
   - comportamento
-  - cultura organizacional
-  - Gestão de Projetos
-  - Indicadores
-
 ---
 O setor de desenvolvimento de uma empresa muitas vezes é visto como o setor operacional, onde pessoas passam seu tempo construindo sites, sistemas, apps etc. Os prazos e as especificações são previamente debatidos por um grupo X de pessoas, e quando isso é decidido, essas informações são entregues aos programadores, que por fim apenas digitam sem parar regras de negócio em uma linguagem X ou Y, como máquinas programadas apenas para vomitar códigos.
 

@@ -7,13 +7,9 @@ excerpt: 'Divulgados os nomes dos primeiros palestrantes nacionais e o primeiro 
 url: /conheca-os-primeiros-palestrantes-da-webbr2015/
 categories:
   - Eventos e Workshops
-  - Geral
 tags:
-  - Conferência w3c
   - w3c
-  - web
-  - webbr2015
-
+  - webbr
 ---
 [![Logo da Conferência Web W3C Brasil 2015][1]][2]
 

@@ -11,8 +11,6 @@ categories:
 tags:
   - 2013
   - browser
-  - maxthon
-
 ---
 Você conhece um browser chamado [Maxthon][1]? Suponho que não.
 

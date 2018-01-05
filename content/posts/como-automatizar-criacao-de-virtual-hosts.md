@@ -6,11 +6,10 @@ date: 2015-12-06
 url: /como-automatizar-criacao-de-virtual-hosts/
 categories:
   - Código
+  - apache
 tags:
-  - configuração no apache
-  - virtual host automático
-  - virtual host no apache
-
+  - apache
+  - hosts
 ---
 Qualquer desenvolvedor que se preze tenta automatizar tarefas recorrentes, mesmo que não sejam tarefas diárias. É dessa forma que você consegue tempo para melhorar seu software, ganhando tempo para quebrar a cabeça com o que realmente importa.
 

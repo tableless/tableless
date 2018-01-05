@@ -9,9 +9,7 @@ dsq_thread_id: 2004368857
 categories:
   - Wordpress
 tags:
-  - wcsp
-  - wordcamp
-
+  - Wordpress
 ---
 Sábado, dia 23 de Novembro, tive o prazer de participar do WordCamp São Paulo 2013. De acordo com informações divulgadas no site do evento, foram mais de 200 inscritos a procura de compartilhar e trocar idéias sobre o uso do WordPress em seus projetos. Essa edição do WordCamp contou com palestras nas áreas de design e desenvolvimento, produção de conteúdo e negócios.
 

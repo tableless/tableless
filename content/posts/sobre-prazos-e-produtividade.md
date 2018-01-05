@@ -12,9 +12,6 @@ categories:
 tags:
   - 2013
   - editores
-  - prazos
-  - produtividade
-
 ---
 Você já percebeu que cumprir prazos em projetos de web é praticamente impossível? Nunca vi ninguém entregando tudo o que combinou no prazo final. Sempre falta alguma coisa, um teste, uma feature, algo que ninguém conseguiu prever. O problema é que isso pode estar se tornando um problema crônico dentro das empresas, principalmente em empresas onde as equipes não tem um processo bem formado, onde a comunicação é difícil.
 

@@ -17,12 +17,10 @@ categories:
 tags:
   - convite
   - desenvolvimento
-  - evento
-  - gratis
+  - eventos
   - JQuery
   - locaweb
-  - palestra
-
+  - palestras
 ---
 Está chegando o [10º Encontro Locaweb de Profissionais de Internet][1], e eu vou participar novamente esse ano. Vou falar sobre produtividade no desenvolvimento, mas com uma abordagem bem diferente da que usei ano passado no Intercon. Dessa vez, vou escrever código.
 
