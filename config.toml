@@ -32,11 +32,12 @@ disableLiveReload = true
     name  = "categories"
     weight = 70
     [[related.indices]]
-    name  = "author"
+    name  = "title"
     toLower = true
     weight = 50
     [[related.indices]]
-    name  = "title"
+    name  = "author"
+    toLower = true
     weight = 30
     [[related.indices]]
     name  = "tags"
