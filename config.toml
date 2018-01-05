@@ -18,10 +18,8 @@ disableLiveReload = true
     pages = "/:filename"
 
 [taxonomies]
-//    tag = "tags"
     category = "categories"
     author = "authors"
-
 
 [related]
     threshold = 90
@@ -33,7 +31,6 @@ disableLiveReload = true
     weight = 70
     [[related.indices]]
     name  = "title"
-    toLower = true
     weight = 50
     [[related.indices]]
     name  = "author"
