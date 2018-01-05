@@ -10,6 +10,7 @@
   {{ partial "byauthor.html" . }}
   {{ partial "postdate.html" . }}
   <a href="{{ .Permalink }}#disqus_thread" class="tb-lnk-comments">Comentários</a>
+  <span class="tb-post-time-read">~ {{.ReadingTime}} min. - {{.WordCount}} palavras</span>
 </header>
 
 <div class="tb-post">
