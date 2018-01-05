@@ -1,6 +1,12 @@
 .tb-post
   @extend .tb-container
 
+  img
+    max-width: 800px
+    width: 100%
+    margin: 0 auto
+    display: block
+
 .tb-post-header
   @extend .tb-container
   margin-bottom: 70px
@@ -99,20 +105,33 @@ table
   th
     font-size: 1.1rem
 
+.tb-post-time-read
+  font-weight: 300
+  display: block
+
+// .tb-hidegarbage
+//   height: 1040px
+//   z-index: 10
+//   background: #fff
+//   margin-top: -1050px
+//   margin-bottom: -500px
+//   background: rgba(255,255,255,1)
+//   position: relative
+//   z-index: 10
+
 ////
 // Big Screen version
 ////
 @media #{$break-desk}
   
+  .tb-post-time-read
+    float: right
+
   .tb-comments
     margin-top: 100px
 
   .tb-post
     display: flex
-
-    img
-      max-width: 100%
-      width: auto
 
   .tb-post-header
     margin-bottom: 150px
