@@ -2,8 +2,9 @@
 title: 'Crud com Node.js e MongoDB (Express + Mongoose) na KingHost'
 authors: Tableless
 type: post
-draft: true
-date: 2017-01-03
+publishdate: 2018-01-05
+date: 2018-01-05
+image: https://i.imgur.com/gxYF2fP.jpg
 excerpt: 'Criando uma app utilizando Express e MongoDB'
 categories:
   - Publieditorial
