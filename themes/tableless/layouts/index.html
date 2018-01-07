@@ -3,7 +3,7 @@
 {{ range first 1 (where .Site.Pages "Type" "post")}}
 <section class="tb-feature-post">
   <h1 class="tb-hero-title">
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </h1>
   <p class="tb-hero-p">
     {{if .Param "excerpt"}}
