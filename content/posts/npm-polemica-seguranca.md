@@ -16,13 +16,15 @@ tags:
   - javascript
 ---
 
-Quando estamos desenvolvendo um projeto, nós podemos ganhar um tempo não tendo que reinventar a roda, principalmente quando o assunto é implementar algo que alguém no mundo já deve ter feito. Logo, o time começa a procurar algum código pronto de alguém que já resolveu o mesmo problema que você. 
+Quando estamos desenvolvendo um projeto, nós podemos ganhar um tempo não tendo que reinventar a roda, principalmente quando o assunto é implementar algo que alguém no mundo já deve ter feito. Logo, o time começa a procurar algum código pronto de alguém que já resolveu o mesmo problema que você.
 
-Isso acontece muito em sites em Wordpress: sempre há um plugin que resolve o seu problema. Geralmente os desenvolvedores de sites em Wordpress não pensam duas vezes em usar os plugins disponibilizados pela comunidade. Aí é que entra o problema: o uso indiscriminado de plugins prejudica muito a segurança do sistema, abrindo brechas de segurança.
+Isso acontece muito em sites em Wordpress: sempre há um plugin que resolve o seu problema. Geralmente os desenvolvedores de sites em Wordpress não pensam duas vezes em usar os plugins disponibilizados pela comunidade. Aí é que entra o problema: geralmente, na impetuosidade de resolver o problema, o time usa indiscriminadamente plugins e outras dependencias sem o mínimo de pesquisa, fragilizando muito a segurança do sistema e abrindo várias brechas por conta do código alheio.
 
-Um camarada quis fazer um teste para ver até onde ele conseguiria chegar. Então, ele criou um código que captura da página os dados de todos os forms da página, joga num cookie e envia o payload para um servidor dele. O problema é: como ele vai colocar isso no maior números e sites? Invadir servidores está fora de coditação, logo, ele decidiu que faria isso colocando seu código no código dos outros. Então ele começou a contribuir enviando Pull Requests para alguns projetos open source que estavam disponíveis no NPM. 
+Pensando nisso, um camarada resolveu fazer um teste para ver até onde ele conseguiria chegar. Então, ele criou um código que captura os dados de todos campos de uma página deem match com `input[type="password"]`, `name="cardnumber"`, `name="cvc"` e páginas que contenham palavras "**credit card**", "**checkout**", "**login**", "**password**" etc. Feito isso, ele começou a ouvir o evento disparado quando o usuário desse focus nesses campos, aí pegava os dados, jogava num cookie e enviava o payload para um servidor dele.
 
-Em pouco tempo alguns projetos aceitaram seus PRs, adicionando o código como dependência. Assim, projetos que adicionavam determinados pacotes do NPM, que tinham esse projeto rodando como dependência, estavam rodando código malicioso que roubava dados dos usuários, inclusive dados de senha e cartões de crédito.
+Com o código feito e funcionando, ele teria que "infectar" o máximo de sites que ele conseguisse. Mas isso é um problema. Como você pega um código malicioso e implementa nos sites alheios? Invadir servidores estava fora de cogitação… logo, ele teve uma ideia: ele começou a submeter Pull Requests, contribuindo para alguns projetos open source front-end que estavam disponíveis no NPM. Se esses caras aceitassem seu PR, o código seria inserido como dependência no pacote NPM e seria automaticamente instalado assim que os devs começassem a usar o pacote nos seus projetos.
+
+Em pouco tempo alguns projetos aceitaram seus PRs. Assim, projetos que adicionavam determinados pacotes do NPM, que tinham esse projeto rodando como dependência, estavam rodando código malicioso que roubava dados sensíveis dos usuários.
 
 > I’m now getting about 120,000 downloads a month, and I’m proud to announce, my nasty code is executing daily on thousands of sites, including a handful of Alexa-top-1000 sites, sending me torrents of usernames, passwords and credit card details.
 
