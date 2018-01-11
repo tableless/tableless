@@ -4,6 +4,7 @@ authors: Eduardo Shiota
 excerpt: Desde que comecei a carreira de front-end developer, meu sonho sempre foi trabalhar fora do Brasil.
 type: post
 date: 2018-01-10
+image: https://i.imgur.com/dN55f40.jpg
 categories:
   - Carreira
   - Opinião
