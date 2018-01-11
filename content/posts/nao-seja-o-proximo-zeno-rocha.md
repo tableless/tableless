@@ -6,9 +6,7 @@ date: 2014-10-27
 excerpt: Seguir o caminho de alguém, não quer dizer que você precisa ser essa pessoa.
 url: /nao-seja-o-proximo-zeno-rocha/
 categories:
-  - Mercado e Comportamento
   - Opinião
-  - Carreira
 tags:
   - mercado
   - carreira

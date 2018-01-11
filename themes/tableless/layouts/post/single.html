@@ -22,15 +22,14 @@
 
     <div class="tb-related-posts">
 
-
-      {{ $related := .Site.RegularPages.Related . | first 5 }} {{ with $related }}
+    {{ $related := .Site.RegularPages.Related . | first 5 }} {{ with $related }}
       <h3>Leia mais aqui no Tableless:</h3>
       <ul>
         {{ range . }}
         <li><a href="{{ .RelPermalink }}?utm_source=tablelessRelatedLink" class="tb-related-post">{{ .Title }}</a></li>
         {{ end }}
       </ul>
-      {{ end }}
+    {{ end }}
 
     </div>
 

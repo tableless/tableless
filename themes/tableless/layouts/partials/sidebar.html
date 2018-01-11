@@ -21,6 +21,15 @@
     </form>
   </div> -->
 
+  {{ $related := .Site.RegularPages.Related . | first 5 }} {{ with $related }}
+  <h2>Você vai gostar de ler:</h2>
+  <ul>
+    {{ range . }}
+    <li><a href="{{ .RelPermalink }}?utm_source=tablelessSidebarRelatedLink" class="tb-sidebarrelated-post">{{ .Title }}</a></li>
+    {{ end }}
+  </ul>
+  {{ end }}
+
   <h2>Últimos posts</h2>
   <ul>
     {{ range first 7 .Site.Pages }}
