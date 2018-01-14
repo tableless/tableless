@@ -21,7 +21,7 @@
     </form>
   </div> -->
 
-  {{ $related := .Site.RegularPages.Related . | first 7 }} {{ with $related }}
+  {{ $related := .Site.RegularPages.Related . | first 5 }} {{ with $related }}
   <h2>Você vai gostar de ler:</h2>
   <ul>
     {{ range . }}
@@ -32,14 +32,14 @@
 
   <h2>Últimos posts</h2>
   <ul>
-    {{ range first  .Site.Pages }}
+    {{ range first 5 .Site.Pages }}
     <li><a href="{{ .RelPermalink }}/?utm_source=tablelessSidebarLatestLinks" class="tb-latestpost-link">{{ .Title }}</a></li>
     {{ end }}
   </ul>
   
   <h2>Categorias</h2>
   <ul>
-    {{ range first 5 .Site.Taxonomies.categories.ByCount }}
+    {{ range first 7 .Site.Taxonomies.categories.ByCount }}
     <li><a href="/categories/{{ .Name | urlize }}" class="tb-categ-link">{{ .Name }}</a> ({{ .Count }})</li>
     {{ end }}
   </ul>
