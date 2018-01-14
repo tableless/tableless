@@ -2,7 +2,7 @@
 title: Primeiros passos rumo ao Full-Stack com JavaScript
 authors: Cristofer Sousa
 type: post
-publishdate: 2018-01-18
+publishdate: 2018-01-22
 date: 2018-01-18
 excerpt: O que você acha de se tornar um Full-Stack Developer JS?
 image: https://cdn-images-1.medium.com/max/2000/1*nSNrYZUwaC43rbF5JD1Zag.jpeg

@@ -2,8 +2,8 @@
 title: Design em código com Machine Learning no AirBnb
 authors: Benjamin Wilkins
 type: post
-publishdate: 2018-01-15
-date: 2018-01-15
+publishdate: 2018-01-17
+date: 2018-01-17
 image: https://i.imgur.com/SgsZU4J.png
 excerpt: Como o Airbnb gera código a partir das suas interfaces de baixa fidelidade
 categories:
