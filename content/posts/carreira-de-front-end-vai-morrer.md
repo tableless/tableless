@@ -7,6 +7,7 @@ date: 2017-03-20
 excerpt: O front-end como você conhece vai morrer.
 categories:
   - Artigos
+  - Design
   - Opinião
   - Código
   - JavaScript

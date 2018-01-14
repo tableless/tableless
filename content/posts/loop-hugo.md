@@ -4,6 +4,7 @@ authors: Diego Eis
 type: post
 publishdate: 2018-01-29
 date: 2018-01-29
+image: https://i.imgur.com/9z3fw2C.jpg
 excerpt: Entenda como interar nas arrays do Hugo
 categories:
   - Hugo
