@@ -32,7 +32,7 @@
 
   <h2>Últimos posts</h2>
   <ul>
-    {{ range first 5 .Site.Pages }}
+    {{ range first  .Site.Pages }}
     <li><a href="{{ .RelPermalink }}/?utm_source=tablelessSidebarLatestLinks" class="tb-latestpost-link">{{ .Title }}</a></li>
     {{ end }}
   </ul>

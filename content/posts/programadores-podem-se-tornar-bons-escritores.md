@@ -1,19 +1,17 @@
 ---
 title: Programadores podem se tornar bons escritores?
 authors: Tiago Dória
-type: post
+typepaid: true
+: post
 date: 2014-09-05
 excerpt: Escrever código todos os dias pode ser comparado a escrever um livro?
 url: /programadores-podem-se-tornar-bons-escritores/
-titulo_personalizado:
-  - 'Programadores podem se tornar <strong>bons escritores?</strong>'
 categories:
   - Destaques
   - Mercado e Comportamento
   - Tecnologia e Tendências
 tags:
   - Tecnologia e Tendências
-
 ---
 Num mundo em que quase tudo é intermediado por tecnologia, escrever códigos é uma das habilidades mais interessantes e necessárias. É uma atividade que se tornou criativa e lúdica (vide as crianças que se divertem nas [aulas de programação][1]).
 

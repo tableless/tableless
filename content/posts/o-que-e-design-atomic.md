@@ -1,6 +1,7 @@
 ---
 title: O que é Design Atômico?
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-06-24
 excerpt: Conheça a nova metodologia para criação e desenvolvimento de layouts através de sistemas de interface modulares.

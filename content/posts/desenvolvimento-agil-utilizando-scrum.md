@@ -1,6 +1,7 @@
 ---
 title: Desenvolvimento ágil utilizando Scrum
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-06-06
 excerpt: Conheça a metodologia Scrum e aprenda a colocar as estratégias na prática para gerenciar qualquer tipo de projeto.

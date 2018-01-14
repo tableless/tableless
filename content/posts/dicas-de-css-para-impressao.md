@@ -1,6 +1,7 @@
 ---
 title: Dicas de CSS para impressão
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2014-02-24
 excerpt: Seja na hora de levar uma receita para a cozinha, ter uma cópia física de um documento ou guardar um artigo bacana para ler depois, imprimir é uma função que usamos e abusamos em nosso dia-a-dia. Mas será que estamos fazendo tudo o que poderíamos para diagramar sites no papel?
@@ -191,7 +192,8 @@ page-break-before: always;
 Talvez seja interessante incluir um cabeçalho ou rodapé especialmente criado para a impressão, com uma versão em preto e branco do logotipo ou qualquer outro elemento que você desejar incluir. É só criar uma classe especial para a impressão. Basta usar a nossa classe especial &#8220;print&#8221;. Vale até deixar uma mensagem com a URL do site.
 
 <pre class="lang-html">&lt;header class="header print"&gt;
-&lt;h1&gt;Artigo "Dicas de CSS para a impressão" escrito pela autora Dani Guerrato retirado do site www.tableless.com.br.&lt;/h1&gt;
+&lt;h1&gt;Artigo "Dicas de CSS para a impressão" escrito pela autora Dani authors: Dani Guerrato
+paid: true retirado do site www.tableless.com.br.&lt;/h1&gt;
 &lt;/header&gt;</pre>
 
 ## Demo
@@ -210,8 +212,10 @@ Se você quiser testar o resultado final baixe a [folha de estilos utilizada nes
   
 [6 things I learned about print stylesheets from HTML5 Boilerplate][7]
 
- [1]: https://github.com/daniguerrato/css-print "Css-print"
- [2]: https://github.com/daniguerrato/css-print "CSS-print"
+ [1]: https://github.com/daniauthors: Dani Guerrato
+paid: true/css-print "Css-print"
+ [2]: https://github.com/daniauthors: Dani Guerrato
+paid: true/css-print "CSS-print"
  [3]: http://coding.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet/ "How to set up a print style sheet"
  [4]: http://davidwalsh.name/optimizing-structure-print-css "Optimizing structure print css"
  [5]: http://davidwalsh.name/optimizing-content-print-css "Optimizing content print CSS"

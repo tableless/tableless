@@ -1,6 +1,7 @@
 ---
 title: jQuery 2.0
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-05-23
 excerpt: Conheça as vantagens (e desvantagens) da nova versão da biblioteca de JavaScript mais utilizada no mundo.

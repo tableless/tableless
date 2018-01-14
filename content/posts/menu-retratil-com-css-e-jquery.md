@@ -1,6 +1,7 @@
 ---
 title: Menu Retrátil com CSS e jQuery
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-08-12
 excerpt: Navegação para design responsivo sem complicações em quatro sabores diferentes.
@@ -514,8 +515,12 @@ A navegação é sempre uma parte fundamental de qualquer layout. Cuidar para qu
 
  [1]: http://snippets.me/ "Snippets.me"
  [2]: http://snippi.com/ "Snippi"
- [3]: http://codepen.io/daniguerrato/pen/fbgLl "Navegação Responsiva 1"
- [4]: http://codepen.io/daniguerrato/pen/iAeyx "Navegação Responsiva 2"
- [5]: http://codepen.io/daniguerrato/pen/EKylp "Navegação Responsiva 3"
- [6]: http://codepen.io/daniguerrato/pen/wcCEK "Navegação Responsiva 4"
+ [3]: http://codepen.io/daniauthors: Dani Guerrato
+paid: true/pen/fbgLl "Navegação Responsiva 1"
+ [4]: http://codepen.io/daniauthors: Dani Guerrato
+paid: true/pen/iAeyx "Navegação Responsiva 2"
+ [5]: http://codepen.io/daniauthors: Dani Guerrato
+paid: true/pen/EKylp "Navegação Responsiva 3"
+ [6]: http://codepen.io/daniauthors: Dani Guerrato
+paid: true/pen/wcCEK "Navegação Responsiva 4"
  [7]: http://cl.ly/0E0C3O0j2r2T "Navegação Responsiva - Demo"

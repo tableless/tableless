@@ -15,9 +15,11 @@ tags:
   - mesclagem de camadas
 
 ---
-OBS:. o método abordado sobre Blending (mesclagem de cores e camadas) não é igual, mas não diferente do método abordado pela nossa colega [Dani Guerrato][1] no post [Modos de Mesclagem em CSS – Blend Mode CSS][2]
+OBS:. o método abordado sobre Blending (mesclagem de cores e camadas) não é igual, mas não diferente do método abordado pela nossa colega [Dani authors: Dani Guerrato
+paid: true][1] no post [Modos de Mesclagem em CSS – Blend Mode CSS][2]
 
-Diga-se de passagem nós abordaremos visões abrangentes e características técnicas do método de aplicação de Blending no CSS, mas se você quer dar uma previa nos conceitos de background css antes de ler esse post seria legal: [OBS:. o método abordado sobre Blending (mesclagem de cores e camadas) não é igual, mas não diferente do método abordado pela nossa colega [Dani Guerrato][1] no post [Modos de Mesclagem em CSS – Blend Mode CSS][2]
+Diga-se de passagem nós abordaremos visões abrangentes e características técnicas do método de aplicação de Blending no CSS, mas se você quer dar uma previa nos conceitos de background css antes de ler esse post seria legal: [OBS:. o método abordado sobre Blending (mesclagem de cores e camadas) não é igual, mas não diferente do método abordado pela nossa colega [Dani authors: Dani Guerrato
+paid: true][1] no post [Modos de Mesclagem em CSS – Blend Mode CSS][2]
 
 Diga-se de passagem nós abordaremos visões abrangentes e características técnicas do método de aplicação de Blending no CSS, mas se você quer dar uma previa nos conceitos de background css antes de ler esse post seria legal:][3] (tem imagens bem legais)
 

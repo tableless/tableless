@@ -1,6 +1,7 @@
 ---
 title: Conferência W3C Web.br 2013 – Dia 1
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-11-20
 excerpt: Todos os caminhos levam a web! Saiba tudo sobre a conferência, confira o conteúdo das palestras e espie minhas anotações.

@@ -1,6 +1,7 @@
 ---
 title: Sobre Cor e Webdesign II
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-09-23
 excerpt: |

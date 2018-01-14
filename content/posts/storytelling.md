@@ -1,6 +1,7 @@
 ---
 title: Storytelling
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-06-17
 excerpt: Neste artigo descubra como técnicas de storytelling podem ser aplicadas em web design para transformar a experiência do usuário.

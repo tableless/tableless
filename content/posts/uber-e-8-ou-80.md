@@ -1,17 +1,16 @@
 ---
 title: Uber é 8 ou 80
 authors: Tiago Dória
+paid: true
 type: post
 date: 2015-07-14
-excerpt: |
-  |
-    A história é quase sempre a mesma. Grupos profissionais estabelecidos não aceitam a concorrência do Uber.
+excerpt: A história é quase sempre a mesma. Grupos profissionais estabelecidos não aceitam a concorrência do Uber.
 url: /uber-e-8-ou-80/
 categories:
   - Mercado e Comportamento
   - Tecnologia e Tendências
-
 ---
+
 Ou você ama ou detesta o Uber.
 
 Com a mesma rapidez que contrata executivos e desenvolvedores de Google e Facebook, o aplicativo, que conecta motoristas e passageiros, sofre processos.

@@ -1,6 +1,7 @@
 ---
 title: Personalizando o painel de administração do WordPress
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-07-03
 excerpt: Aprenda a modificar o layout da dashboard de maneira simples para facilitar a navegação, personalizar a experiência do usuário e reforçar o branding.

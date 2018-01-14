@@ -1,6 +1,7 @@
 ---
 title: Semântica, padrões e o que você tem a ver com isto
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-12-11
 excerpt: Entenda de uma vez por todas o que é web semântica e compare as principais diferenças entre alguns elementos de HTML.

@@ -1,6 +1,7 @@
 ---
 title: Sobre Cor e Webdesign
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-06-10
 excerpt: Entenda o funcionamento dos sistemas de cores mais utilizados da web e conheça ferramentas úteis para criar e organizar suas próprias paletas.

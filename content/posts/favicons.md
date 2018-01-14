@@ -1,6 +1,7 @@
 ---
 title: Favicons
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-02-06
 excerpt: Os favicons são pequenos mas indispensáveis. Entenda como eles funcionam e quais as melhores práticas.

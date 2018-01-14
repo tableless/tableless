@@ -12,7 +12,8 @@ tags:
   - scrum
 
 ---
-Nesse artigo vamos abordar um pouco os pontos críticos do Scrum, a intenção aqui não é explicar o framework (o Scrum é considerado um framework para gestão de projetos) em si, mas dar um panorama dos casos mais comuns de falhas críticas ao se tentar adotar o Scrum ou modificá-lo. Caso esteja procurando um artigo para entender melhor o que é o Scrum, recomendo esse [aqui][1], escrito pela Dani Guerrato. Ou ainda, caso queira mergulhar de cabeça recomendo a leitura do [Scrum Guide][2] (em português).
+Nesse artigo vamos abordar um pouco os pontos críticos do Scrum, a intenção aqui não é explicar o framework (o Scrum é considerado um framework para gestão de projetos) em si, mas dar um panorama dos casos mais comuns de falhas críticas ao se tentar adotar o Scrum ou modificá-lo. Caso esteja procurando um artigo para entender melhor o que é o Scrum, recomendo esse [aqui][1], escrito pela Dani authors: Dani Guerrato
+paid: true. Ou ainda, caso queira mergulhar de cabeça recomendo a leitura do [Scrum Guide][2] (em português).
 
 Introdução feita, vamos ao que realmente interessa aqui: O Scrum não é uma bala de prata (a essa altura você já deve saber que nenhuma metodologia ágil é). Se você, assim como eu, já foi (ou é) responsável por trazê-lo para sua empresa, esteja atento ao seu ambiente e aprenda com a implementação do Scrum. Citarei aqui e explicarei sobre cada um dos pontos críticos do Scrum:
 

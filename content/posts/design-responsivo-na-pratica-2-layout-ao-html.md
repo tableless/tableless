@@ -1,6 +1,7 @@
 ---
 title: 'Design Responsivo na prática 2: do layout ao HTML'
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2014-04-28
 excerpt: Acompanhe o desenvolvimento de um HTML/CSS responsivo passo-a-passo a partir de um layout fixo, com direito a muitas dicas, comentários e demo.
@@ -471,8 +472,10 @@ O Diego Eis fez um [Micro Workshop Online][18] mostrando como implementar um lay
  [2]: http://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/ "Design Responsivo III – Media Queries e Compatibilidade"
  [3]: http://css-tricks.com/logic-in-media-queries/ "Logic in media queries"
  [4]: http://blog.popupdesign.com.br/desenvolvimento-responsivo-e-viewport/ "Desenvolvimento Responsivo & Viewport"
- [5]: https://github.com/daniguerrato/design-responsivo-demo "Demo"
- [6]: https://github.com/daniguerrato/design-responsivo-demo "Demo - Design Responsivo na Prática"
+ [5]: https://github.com/daniauthors: Dani Guerrato
+paid: true/design-responsivo-demo "Demo"
+ [6]: https://github.com/daniauthors: Dani Guerrato
+paid: true/design-responsivo-demo "Demo - Design Responsivo na Prática"
  [7]: http://blog.popupdesign.com.br/design-responsivo-i-o-que-e-e-por-que-usar/ "http://blog.popupdesign.com.br/design-responsivo-i-o-que-e-e-por-que-usar/"
  [8]: http://blog.popupdesign.com.br/design-responsivo-grids-e-texto/ "http://blog.popupdesign.com.br/design-responsivo-grids-e-texto/"
  [9]: http://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/ "http://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/"

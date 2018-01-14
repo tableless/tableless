@@ -1,6 +1,7 @@
 ---
 title: Lojas virtuais com WooCommerce
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-10-08
 excerpt: Conheça a ferramenta que permite o desenvolvimento de lojas virtuais através do Wordpress, veja um passo-a-passo de instalação, confira as principais funcionalidades e leve de bônus uma lista de plugins úteis.

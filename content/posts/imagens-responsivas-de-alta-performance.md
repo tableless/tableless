@@ -1,6 +1,7 @@
 ---
 title: Imagens Responsivas de Alta Performance
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2014-03-31
 excerpt: 'Saiba como escolher a melhor solução para lidar com imagens responsivas em larga escala sem sacrificar a performance. '

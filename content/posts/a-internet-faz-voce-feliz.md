@@ -1,14 +1,15 @@
 ---
 title: A internet faz você feliz?
 authors: Tiago Dória
+paid: true
 type: post
 date: 2015-10-08
 url: /a-internet-faz-voce-feliz/
 categories:
   - Mercado e Comportamento
   - Tecnologia e Tendências
-
 ---
+
 O mundo está mudando, e para melhor. Segundo [Rafael Calvo][1], pesquisador do Departamento de Ciências da Computação da [Universidade de Sydney][2], estamos entrando rapidamente numa nova fase no desenvolvimento e design de softwares. Nesta nova etapa da computação, produtividade e eficiência não serão mais os únicos critérios para mensurar o sucesso de um sistema.
 
 Para Calvo, essa nova fase é parte de uma saga em [inovação na área de UX][3]. Num primeiro estágio, nos preocupamos em criar sistemas que tivessem usabilidade, e, num momento posterior, que sustentassem hábitos. E agora o foco está em criar sistemas que nos façam não somente mais inteligentes, produtivos e sociais, mas também mais felizes e bem-vindos.

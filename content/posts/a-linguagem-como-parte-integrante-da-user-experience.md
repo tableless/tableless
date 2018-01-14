@@ -1,6 +1,7 @@
 ---
 title: A linguagem como parte integrante da user experience
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-02-26
 excerpt: A linguagem é a ferramenta que utilizamos para entender e definir o mundo. E isto vale também para a criação de interfaces.

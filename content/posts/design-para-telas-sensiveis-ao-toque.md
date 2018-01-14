@@ -1,6 +1,7 @@
 ---
 title: Design para telas sensíveis ao toque
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-08-05
 excerpt: Conheça quais são as técnicas, padrões e principais desafios para o desenvolvimento de aplicativos nativos e interfaces web touch screen.

@@ -1,6 +1,7 @@
 ---
 title: 'Design Responsivo na prática: do rascunho ao digital'
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-04-17
 excerpt: 'Quer criar um projeto de design responsivo e não sabe por onde começar? Acompanhe passo-a-passo a criação de um layout  do wireframe até a apresentação do design com indicações de artigos, dicas e ferramentas para facilitar o seu processo criativo.'

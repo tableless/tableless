@@ -21,7 +21,8 @@ tags:
   - srcset
 
 ---
-O título é muito tentador, não é? Então, eu apenas estou completando o que a [Dani Guerrato][1] disse nesse artigo sobre [Imagens Responsivas (Elemento Picture)][2]. O &#8220;futuro&#8221;, agora, é nosso querido presente.
+O título é muito tentador, não é? Então, eu apenas estou completando o que a [Dani authors: Dani Guerrato
+paid: true][1] disse nesse artigo sobre [Imagens Responsivas (Elemento Picture)][2]. O &#8220;futuro&#8221;, agora, é nosso querido presente.
 
 No dia 04/06/2014 o site [A List Apart postou um artigo][3] falando sobre o elemento _picture_ que era estudado há um bom tempo e foi **finalmente** implementado para testes no Google Chrome Canary (Browser para testes das mais novas coisas que inventam). E, como ressalva, outros browsers, como o [Firefox][4], já estão atrás de adicionar no seu ambiente de testes.
 
@@ -104,7 +105,8 @@ ResponsiveImages.org: [About picture][11]
 
 É isso ai galera, abraços!
 
- [1]: http://tableless.com.br/author/daniguerrato/
+ [1]: http://tableless.com.br/author/daniauthors: Dani Guerrato
+paid: true/
  [2]: http://tableless.com.br/imagens-responsivas-de-alta-performance/
  [3]: http://alistapart.com/blog/post/testing-responsive-images/
  [4]: https://bugzilla.mozilla.org/show_bug.cgi?id=870022

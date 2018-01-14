@@ -1,6 +1,7 @@
 ---
 title: Produtividade e Tomates
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2014-05-26
 excerpt: Conheça a Técnica Pomodoro, aprenda a gerenciar melhor seu tempo e entenda como fazer mais pausas pode te deixar mais produtivo.
@@ -36,7 +37,8 @@ Pode parecer contraditório que pausas frequentes ajudem a melhorar a produtivid
 
 ## E isto funciona?
 
-Olá, meu nome é Dani Guerrato e sou uma procrastinadora crônica.
+Olá, meu nome é Dani authors: Dani Guerrato
+paid: true e sou uma procrastinadora crônica.
 
 Não sei quanto a vocês, mas eu sou muito ansiosa e notificações em geral &#8211; e-mail, mensagens, redes sociais, sms &#8211; me deixam instantaneamente curiosa. Com o tempo todos estes itens roubavam minha atenção do trabalho e no final do dia eu havia respondido diversos e-mails e mensagens e não produzido nada. Se você, como eu, trabalha de um Home Office a situação é pior ainda. Livros, jogos, televisão e uma cama quentinha estão constantemente a disposição. A tentação para entrar em um loop infinito de procrastinação é grande. Sem contar as constantes interrupções de familiares e tarefas domésticas. A louça não vai se lavar sozinha, não importa o quão urgente é sua deadline. A técnica Pomodoro me ajudou de verdade a evitar estas armadilhas e minha produtividade triplicou. É muito mais fácil encarar longas jornadas de trabalho sem se cansar tanto a ponto de sonhar a noite com longos arquivos de código. Os períodos de pausa funcionam como pequenas recompensas ao longo do dia, então comecei a me sentir ainda mais motivada. Claro que não foi só o Pomodoro. Algumas ações simples como criar listas de tarefas (organizada por tempo, urgência e prazo) também contribuiram para organizar melhor o meu tempo. Hoje posso me orgulhar de dizer que não procastino há dois anos.
 

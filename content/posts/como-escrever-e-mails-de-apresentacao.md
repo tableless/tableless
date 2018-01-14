@@ -1,6 +1,7 @@
 ---
 title: Como escrever e-mails de apresentação
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-09-02
 excerpt: Saiba como evitar os principais erros na hora de redigir um e-mail, conheça dicas simples para ganhar a simpatia de quem está do outro lado do monitor e nunca mais esqueça seu portfólio.

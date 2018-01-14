@@ -2,13 +2,15 @@
 title: Porque você não deveria se focar demais no trabalho
 authors: Eduardo Fernandes
 type: post
+paid: true
 date: 2014-07-05
 excerpt: Quando você começa a trabalhar na área de criação, tende a sofrer muito por ser ansioso, inseguro e cheio de opiniões inflexíveis. Porém, ao longo dos anos, a vida naturalmente nos obriga a diversificar o foco e a deixar de levar a carreira tão a sério. Isso traz um alívio enorme. E, com alguma sorte, até mais fluência e criatividade profissional.
 url: /porque-voce-nao-deveria-se-focar-demais-trabalho/
 dsq_thread_id: 2820053369
 categories:
   - Mercado e Comportamento
-
+  - Carreira
+  - Opinião
 ---
 Recentemente, fiz um projeto para uma empresa _indie_ de produção de conteúdo. Seus coordenadores queriam que eu planejasse a estratégia de conteúdo de um website e depois o redesenhasse. No começo, fiquei literalmente _espantado_ com o quanto eles conheciam do meu trabalho. As referências de layout que me enviaram pareciam perfeitamente entrosadas com meus gostos pessoais.
 

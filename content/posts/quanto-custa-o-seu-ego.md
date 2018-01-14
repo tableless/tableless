@@ -2,13 +2,15 @@
 title: Quanto custa o seu ego?
 authors: Eduardo Fernandes
 type: post
+paid: true
 date: 2014-06-20
 excerpt: E se pudéssemos cobrar uma taxa (ou pedir desconto) ao trabalharmos com certo tipo de personalidades?
 url: /quanto-custa-o-seu-ego/
 dsq_thread_id: 2782218718
 categories:
   - Mercado e Comportamento
-
+  - Carreira
+  - Opinião
 ---
 Há cerca de 8 anos, fui chefe de um sujeito bem peculiar. Costumávamos chamá-lo de &#8220;Solto&#8221;. Tinha uns 28 anos e era webdeveloper.
 

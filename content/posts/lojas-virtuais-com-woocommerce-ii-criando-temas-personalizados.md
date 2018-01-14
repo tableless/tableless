@@ -1,6 +1,7 @@
 ---
 title: Lojas virtuais com WooCommerce II – Criando temas personalizados
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-11-04
 excerpt: Conheça o front-end do WooCommerce, aprenda a utilizar ganchos de ação e filtros, organize seu CSS e crie seu próprio layout de loja virtual.

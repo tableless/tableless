@@ -1,6 +1,7 @@
 ---
 title: Design para Google Glass
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-08-26
 excerpt: Saiba tudo sobre o novo gadget da Google e como desenvolver conteúdo projetado especialmente para esta nova mídia.

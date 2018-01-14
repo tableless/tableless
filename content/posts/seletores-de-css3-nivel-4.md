@@ -1,6 +1,7 @@
 ---
 title: Seletores de CSS3 nível 4
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-01-29
 excerpt: Entenda como funcionarão os seletores de nível 4 do CSS. Mudanças drásticas para salver nossas vidas.

@@ -1,6 +1,7 @@
 ---
 title: Desenvolvimento de temas para Tumblr
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2014-07-21
 excerpt: Entenda como blogs e redes sociais podem andar de mãos dadas, veja como criar uma diagramação diferente para cada tipo de conteúdo e desenvolva temas para Tumblr utilizando variáveis dinâmicas e HTML.
@@ -57,7 +58,8 @@ Através das variáveis e blocos é possível configurar itens como aparência g
 
 ## Hands-on!
 
-Como todo mundo adora uma demo eu criei um layout para um blog fictício para a gente brincar um pouquinho e aprender a desenvolver um tema na prática. É algo bem simples, só para conhecermos as funções finais. Então vamos supor que você tem uma cliente chamada Dani Guerrato (que nome criativo!) e ela enviou o seguinte layout.
+Como todo mundo adora uma demo eu criei um layout para um blog fictício para a gente brincar um pouquinho e aprender a desenvolver um tema na prática. É algo bem simples, só para conhecermos as funções finais. Então vamos supor que você tem uma cliente chamada Dani authors: Dani Guerrato
+paid: true (que nome criativo!) e ela enviou o seguinte layout.
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/07/tumblr-layout.jpg" alt="tumblr-layout" width="750" height="1728" class="alignnone size-full wp-image-43395" srcset="uploads/2014/07/tumblr-layout.jpg 750w, uploads/2014/07/tumblr-layout-60x139.jpg 60w, uploads/2014/07/tumblr-layout-400x921.jpg 400w" sizes="(max-width: 750px) 100vw, 750px" />
 
@@ -449,5 +451,7 @@ O nosso tema, embora esteja funcional, pode receber muitas melhorias. Podemos ac
 
  [1]: https://www.tumblr.com/docs/en/custom_themes?language=pt_BR "Tumblr Docs"
  [2]: https://www.tumblr.com/themes/upload_static_file "Tumblr - Upload Static Files"
- [3]: https://github.com/daniguerrato/Tumblr-demo "Tumblr-demo"
- [4]: http://daniguerrato.tumblr.com/ "Demo do artigo Desenvolvimento de temas para Tumblr"
+ [3]: https://github.com/daniauthors: Dani Guerrato
+paid: true/Tumblr-demo "Tumblr-demo"
+ [4]: http://daniauthors: Dani Guerrato
+paid: true.tumblr.com/ "Demo do artigo Desenvolvimento de temas para Tumblr"

@@ -2,19 +2,23 @@
 title: Porque você deve sua vida a Dave Winer
 authors: Eduardo Fernandes
 type: post
+paid: true
 date: 2014-05-21
 excerpt: O developer norte-americano de 59 anos criou o RSS, o primeiro sistema de blogs, entre outras tecnologias. E está de olho no futuro da publicação digital
 url: /porque-voce-deve-sua-vida-dave-winer/
 dsq_thread_id: 2703031663
 categories:
   - Artigos
+  - Carreira
+  - Opinião
   - CMS
   - Mercado e Comportamento
   - Microdata
   - Tecnologia e Tendências
 tags:
   - rss
-
+  - Carreira
+  - Microdata
 ---
 Talvez você não saiba, mas sua vida é muito influenciada por [Dave Winer][1]. Você deve usar as invenções desse developer norte-americano com mais frequência do que bebe água ou do que vai ao banheiro (se bem que, vai saber).
 

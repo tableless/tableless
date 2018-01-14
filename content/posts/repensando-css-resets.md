@@ -1,6 +1,7 @@
 ---
 title: Repensando CSS Resets
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-02-04
 excerpt: Como melhorar seu CSS Reset.

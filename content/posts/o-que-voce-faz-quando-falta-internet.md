@@ -2,6 +2,7 @@
 title: O que você faz quando falta a internet?
 authors: Eduardo Fernandes
 type: post
+paid: true
 date: 2014-06-12
 excerpt: Não importa o quão avançados são os aparelhos nos nossos bolsos. Em algum momento, serão praticamente inúteis.
 url: /o-que-voce-faz-quando-falta-internet/
@@ -13,8 +14,8 @@ tags:
   - internet
   - mercado
   - Tecnologia e Tendências
-
 ---
+
 Nos últimos anos, você já deve ter encontrado alguém preocupado em saber de onde vem a comida que come. É o movimento [Know Your Food][1], ou algo assim. Parece coisa de hippies e fãs de new-age, mas não é<sup id="fnref:1"><a href="1" rel="footnote">1</a></sup>. E eu adoraria ver surgir algo assim para a internet: [Know Your Web][2]. Saiba de onde vem a informação que você consome.
 
 Um bom ponto de partida seria o livro [Tubes][3], de Andrew Blum. Trata-se de uma investigação a respeito de como funcionam as entranhas da web: pátios cheios de servidores, cabos submarinos, sistemas de refrigeração, backbones etc. Uma estrutura tão industrial, tão _old school_, que faria os velhos socialistas Marx e Engels sentirem-se em casa.

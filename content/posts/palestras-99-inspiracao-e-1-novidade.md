@@ -1,14 +1,15 @@
 ---
 title: Palestras = 99% inspiração e 1% novidade
 authors: Tiago Dória
+paid: true
 type: post
 date: 2015-10-28
 url: /palestras-99-inspiracao-e-1-novidade/
 categories:
   - Mercado e Comportamento
   - Opinião
-
 ---
+
 &#8220;Não vá assistir a uma palestra esperando aprender alguma coisa nova. Vá esperando se sentir inspirado&#8221;. Esse foi um dos melhores conselhos que recebi de um professor do MIT.
 
 O real motivo para você parar o que está fazendo e ir assistir a uma palestra não deve ser impressionar os seus colegas ou tentar dar uma &#8220;escapada do escritório&#8221;. Deve ser para manter a sua inspiração ativa para trabalhar e estudar. Do contrário, você estará somente perdendo tempo.

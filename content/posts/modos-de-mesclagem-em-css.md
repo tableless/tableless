@@ -1,6 +1,7 @@
 ---
 title: Modos de Mesclagem em CSS – Blend Mode CSS
 authors: Dani Guerrato
+paid: true
 type: post
 date: 2013-07-16
 excerpt: Neste artigo entenda como funcionam os modos de mesclagem e saiba como utilizar cada um deles através de simples parâmetros de CSS.
@@ -254,7 +255,8 @@ Já é possível fazer experiências dentro do [Fork do Chromium disponibilizado
  [1]: https://github.com/adobe/webkit/downloads
  [2]: http://dev.w3.org/fxtf/compositing-1/
  [3]: http://dev.w3.org/fxtf/compositing-1/#blending
- [4]: http://codepen.io/daniguerrato/pen/jGqrB
+ [4]: http://codepen.io/daniauthors: Dani Guerrato
+paid: true/pen/jGqrB
  [5]: http://www.google.ca/intl/en/chrome/browser/canary.html
  [6]: http://nightly.webkit.org/builds/trunk/mac/1
  [7]: http://www.w3.org/TR/compositing/
