@@ -43,7 +43,7 @@ Isso prevê até a degradação de tráfego, tipo o traffic shaping.
 
 Esse conjunto de normas é o que chamamos de Neutralidade da Rede, e é o que garante que o uso da rede de forma livre e sem restrições para todo mundo do País. Isso quer dizer que não importa se você tem muito ou pouco dinheiro, se você acessa muito site pra ver pr0n ou Netflix, a ideia é que ninguém seja privilegiado.
 
-## Ter uma Lei é bacana, mas só se for seguida
+## Criar a Lei é fácil, difícil é obedecer
 
 Obviamente que você não acreditou que só por que algo está escrito em algum lugar com o nome de Lei Federal e Decreto é que a coisa toda ia passar a funcionar, né? Senta aqui do lado, deixa eu te contar uma história...
 
