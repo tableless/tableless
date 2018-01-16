@@ -8,9 +8,8 @@ date: 2018-01-15
 image: https://i.imgur.com/9z3fw2C.jpg
 excerpt: O botão é um dos elementos de UI mais comuns e está presente em praticamente qualquer interface.
 categories:
-  - design
-  - ux
-  - paid-article
+  - Design
+  - UX
 tags:
   - design
   - ux
@@ -37,7 +36,7 @@ vindo ao clube.
 Mas além desses três grandes atributos — *cor, forma e tipografia* — podemos
 destrinchá-lo ainda mais.
 
-![](https://cdn-images-1.medium.com/max/1600/1*juOWVyQKqtKIldRFBvf7OA.png)
+![](https://i.imgur.com/ciMiQe4.png)
 <span class="figcaption_hack">Anatomia de um Botão — UI Lab</span>
 
 Analisando a imagem acima, podemos contabilizar mais 4 características:
@@ -65,14 +64,14 @@ uma forma diferenciada dos demais botões. Pode ter um tamanho maior ou uma cor
 que tenha um contraste acentuado em relação aos outros elementos. É muito comum
 ver esses botões em *landing pages* que estão vendendo algum produto ou serviço.
 
-![](https://cdn-images-1.medium.com/max/1600/1*fgYGW-UjqbDcDbN-2Yjiiw.png)
+![](https://i.imgur.com/JX9VdCw.png)
 <span class="figcaption_hack">[Product Page — Hotjar](https://dribbble.com/shots/4074050-Product-page-Hotjar)</span>
 
-![](https://cdn-images-1.medium.com/max/1600/1*m4m53TOP2LPCy4EFbE2HdQ.png)
+![](https://i.imgur.com/FUxkUDo.png)
 <span class="figcaption_hack">[Financial Application
 Website](https://dribbble.com/shots/4068584-Finance-Application-Website)</span>
 
-![](https://cdn-images-1.medium.com/max/1600/1*_TQ3DOrf2HMnb9i2KhJUOg.png)
+![](https://i.imgur.com/GLoBzMH.png)
 <span class="figcaption_hack">[Pencakdoor](https://dribbble.com/shots/4063006-Pencakdoor)</span>
 
 ### Primário
@@ -87,13 +86,13 @@ uma cor que se diferencie da interface. Nos exemplos a seguir podemos perceber
 como o designer definiu uma cor de destaque para os botões primários em ambas as
 interfaces.
 
-![](https://cdn-images-1.medium.com/max/1200/1*VTV8nFnSoMYc-iwzsPwvYw.png)
+![](https://i.imgur.com/YEg3p4k.png)
 
-![](https://cdn-images-1.medium.com/max/1200/1*aNQ7hJXv51fOQIJZDM-SWQ.png)
+![](https://i.imgur.com/8Afj7XS.png)
 
-![](https://cdn-images-1.medium.com/max/1200/1*QiugpChVf_dkuztiUkrwEw.png)
+![](https://i.imgur.com/U5XX51M.png)
 
-![](https://cdn-images-1.medium.com/max/1200/1*dB-LN2oksHT24XFA2VSerw.png)
+![](https://i.imgur.com/QgfTxme.png)
 
 ### Secundário
 
@@ -104,13 +103,13 @@ branco) e *Empty Trash* (em azul). Como nossa ação principal é, de fato,
 esvaziar a lixeira, o botão primário ganha mais destaque do que a ação
 secundária.
 
-![](https://cdn-images-1.medium.com/max/1600/1*rCcNBoXZXQ6_e8YRCtgUqw.png)
+![](https://i.imgur.com/JNjaC21.png)
 
 É sempre bom lembrar que os botões secundários, em hipótese alguma, devem se
 parecer com botões desabilitados. Isso quer dizer que você deve evitar o uso do
 cinza em botões secundários porque pode acontecer algo assim:
 
-![](https://cdn-images-1.medium.com/max/1600/1*86NwDF1JGiD0Xrax3v3H4A.png)
+![](https://i.imgur.com/p3e8lXN.png)
 <span class="figcaption_hack">Qual deles está desabilitado e qual deles é o secundário?</span>
 
 ### Ghost Button
@@ -125,7 +124,7 @@ sistema de design Metro, outros atribuem o seu aparecimento depois que Apple
 lançou o iOS 7. Independente de quem começou com isso, é certo que de lá pra cá
 eles ganharam bastante popularidade.
 
-![](https://cdn-images-1.medium.com/max/1600/1*TnO-_iID5p1L3qD8P6MzyQ.jpeg)
+![](https://i.imgur.com/BpHJ0sD.jpg)
 <span class="figcaption_hack">Vários exemplos de Ghost Buttons</span>
 
 Agora vamos aos prós e contras desse estilo.
@@ -161,7 +160,7 @@ lembrar que um *Ghost Button* tem mais valor como botão secundário do que como
 primário. Muitos designers utilizam essa abordagem para destacar o botão
 principal ao mesmo tempo que mantém a interface limpa.
 
-![](https://cdn-images-1.medium.com/max/1600/1*yC4fe0b4M1NlSMSZoswwmQ.jpeg)
+![](https://i.imgur.com/M7VMhLj.jpg)
 <span class="figcaption_hack">Ghost Buttons sendo utilizados como auxiliar ao botão primário.</span>
 
 Na dúvida, sempre teste o que é melhor para atingir os objetivos do projeto!
@@ -178,10 +177,10 @@ Os ícones do lado esquerdo são mais representativos, já os do lado direito
 geralmente são setas. Pode parecer confuso mas os exemplos a seguir vão clarear
 melhor o que eu quero dizer.
 
-![](https://cdn-images-1.medium.com/max/1600/1*VYgmifBMmReTyxe8UzAHbQ.jpeg)
+![](https://i.imgur.com/Q8EMPB5.jpg)
 <span class="figcaption_hack">Botões com ícones no lado esquerdo.</span>
 
-![](https://cdn-images-1.medium.com/max/1600/1*6ymArFz8i1ekEGGc4B0blQ.jpeg)
+![](https://i.imgur.com/f3QVSGh.jpg)
 <span class="figcaption_hack">Botões com ícones no lado direito.</span>
 
 Ainda sobre o assunto, um colega que trabalha com UX na Booking argumentou que
@@ -200,7 +199,7 @@ padrão que estava sendo estabelecido desde o começo.
 deixar uma imagem com dicas práticas de como alinhar seus ícones dentro dos
 botões.
 
-![](https://cdn-images-1.medium.com/max/1600/1*_4zDU8BNSA5qCqZkfB8rKQ.png)
+![](https://i.imgur.com/sAiXKg6.png)
 <span class="figcaption_hack">Por Vadim Zaycev — [Veja o post
 original](https://medium.com/@vadimzaycev/rules-of-creating-buttons-with-icon-120d2980bef8)</span>
 
@@ -209,7 +208,7 @@ original](https://medium.com/@vadimzaycev/rules-of-creating-buttons-with-icon-12
 Esse tipo de botão foi introduzido pela primeira vez no [Material
 Design](https://material.io/), o sistema de design da Google.
 
-![](https://cdn-images-1.medium.com/max/1200/1*UHZFQCL1g7uZL3e3cDyjIw@2x.jpeg)
+![](https://i.imgur.com/aCrhjjw.jpg)
 <span class="figcaption_hack">Floating Action Button</span>
 
 Nas [especificações do Material
@@ -222,9 +221,9 @@ Devido a sua flexibilidade e capacidade de adaptação em diferentes cenários, 
 FAB acabou sendo uma solução interessante para diversos casos. Mas é necessário
 bom senso para não torná-lo uma muleta para soluções pobres de Design.
 
-![](https://cdn-images-1.medium.com/max/1200/1*rxE1bYiaHsj4UTY205pyPw@2x.gif)
+![](https://i.imgur.com/kkP9Irh.gif)
 
-![](https://cdn-images-1.medium.com/max/1200/1*cI3_0wKIjhNQY6CA7P7k2g@2x.gif)
+![](https://i.imgur.com/W4Qapmu.gif)
 <span class="figcaption_hack">Exemplos de Floating Action Button</span>
 
 ## Tamanhos
@@ -240,7 +239,7 @@ sua altura de 10 em 10px. Além disso, o *font-size* sofre alteração em 3
 ocasiões: no botão *extra small* (14px), no botão *extra large* (18px) e os
 demais com 16px
 
-![](https://cdn-images-1.medium.com/max/2000/1*HfFegyp1reMFXATVU71H-A@2x.jpeg)
+![](https://i.imgur.com/T4pC6tw.jpg)
 <span class="figcaption_hack">Botões da Marvel App</span>
 
 Outro tipo de tamanho que você precisa se preocupar é quando estamos projetando
@@ -277,7 +276,7 @@ acontecer ele precisa de contraste. É necessário que a cor do botão contraste
 com o fundo onde ele está inserido. E também é necessário que a cor do texto
 dentro do botão tenha contraste com a cor do próprio botão.
 
-![](https://cdn-images-1.medium.com/max/2000/1*HSmkm3SddqQBxyIDho1NNA@2x.jpeg)
+![](https://i.imgur.com/TtJZlMB.jpg)
 
 **Contexto: **tente pensar no contexto como o ambiente na qual aquela cor estará
 inserida. Se você já estudou um pouco sobre **psicologia das cores** e os
@@ -288,7 +287,7 @@ provavelmente não usará cores quentes (vermelho, laranja e amarelo), porque el
 aceleram nossos batimentos cardíacos ou despertam sensações de agitação e
 inquietude.
 
-**Acessibilidade: **de acordo com o site
+**Acessibilidade:** de acordo com o site
 [http://www.color-blindness.com](http://www.color-blindness.com/), 1 em cada 12
 homens (8%) e 1 em cada 200 mulheres (0.5%) sofre de algum tipo de
 **daltonismo**, ou seja, possuem dificuldade de enxergar e diferenciar certas
@@ -296,7 +295,7 @@ cores. Sabendo disso, podemos fazer a escolha das cores de uma maneira que
 abrange essa parcela de pessoas e garanta uma experiência agradável para elas
 também.
 
-![](https://cdn-images-1.medium.com/max/1600/1*qrc27tcdNSD4P3Hu-6RW4Q.jpeg)
+![](https://i.imgur.com/b9iXhx3.jpg)
 <span class="figcaption_hack">Uma pessoa com o tipo de daltonismo Deuteranopia não consegue diferenciar o
 vermelho do verde em alguns casos.</span>
 
@@ -309,7 +308,7 @@ diferentes cenários de daltonismo.
 Os estados dos botões servem para dar feedback ao usuário sobre as ações que
 estão acontecendo quando há uma interação com o botão.
 
-![](https://cdn-images-1.medium.com/max/1600/1*F7LOs6RUgks9YjQH-y05kQ.jpeg)
+![](https://i.imgur.com/3YSSbqC.jpg)
 
 A definição dos estados são:
 
@@ -335,7 +334,7 @@ em relação a cada um deles.
 Lembro que a primeira vez que vi o estilo *flat* foi na proposta da Microsoft
 com o Metro. Depois disso vários sites e sistemas passaram a adotar esse estilo.
 
-![](https://cdn-images-1.medium.com/max/1600/1*RFmXbqRVi9dy5tcByxmuZg@2x.jpeg)
+![](https://i.imgur.com/EOeIzSe.jpg)
 <span class="figcaption_hack">Botões Flat</span>
 
 Como o próprio nome já diz, o estilo *flat* — plano — é essencialmente uma única
@@ -350,7 +349,7 @@ Como solução a problemática dos botões flat surgiu a vertente dos botões *a
 flat* (quase plano). A única diferença do seu antecessor é que os botões agora
 possuem uma leve sombra para indicar que ele é um elemento clicável.
 
-![](https://cdn-images-1.medium.com/max/1600/1*WSOn4dh3YKcrtHirpKNh7A@2x.jpeg)
+![](https://i.imgur.com/vklhYsp.jpg)
 <span class="figcaption_hack">Botões Almost Flat</span>
 
 Se não estou enganado, a Google foi a responsável pela introdução desse estilo
@@ -362,7 +361,7 @@ baseando em estudos de objetos reais.
 O estilo Skeumórfico teve seu fim em 2012 quando a Apple, sua maior entusiasta,
 mudou a interface do iOS 7 para o estilo flat.
 
-![](https://cdn-images-1.medium.com/max/1600/1*HxmDtaTohwEYhlYanDZERg@2x.jpeg)
+![](https://i.imgur.com/YeXKvw2.jpg)
 <span class="figcaption_hack">Botões Skeumórficos</span>
 
 Em poucas palavras, os elementos skeumórficos tendem a se parecer com objetos da
@@ -377,7 +376,7 @@ E sendo sincero, não sinto saudades dessa época.
 Uma outra alternativa ao estilo *flat* foi aplicar gradientes nos botões. Eles
 podem variar de gradientes horizontais a gradientes verticais.
 
-![](https://cdn-images-1.medium.com/max/1600/1*3d_Vslbdec40pCpOt0ASXA@2x.jpeg)
+![](https://i.imgur.com/aPLRMrN.jpg)
 <span class="figcaption_hack">Botões com Gradiente</span>
 
 Particularmente gosto bastante desse estilo. Mas é necessário cuidado e prática
@@ -390,7 +389,7 @@ Uma evolução do estilo anterior que ganhou tração em 2017 e parece que segui
 firme e forte em 2018 são os botões com gradientes iluminados. Você
 provavelmente já deve ter visto algo desse tipo no Dribbble ou Behance.
 
-![](https://cdn-images-1.medium.com/max/1600/1*oLxxGnOHOpM0joza6cFC5A@2x.jpeg)
+![](https://i.imgur.com/nr9nmRE.jpg)
 <span class="figcaption_hack">Botões com Gradiente Iluminado</span>
 
 Adicionar uma luz no botão só vai dobrar os cuidados que você vai precisar ter
@@ -398,7 +397,7 @@ na hora de aplicá-lo em alguma interface.
 
 ## Tom de voz do botão
 
-![](https://cdn-images-1.medium.com/max/1200/1*9PlL-eWpkWQbJPBXnXApxQ@2x.png)
+![](https://i.imgur.com/ragnU7X.png)
 <span class="figcaption_hack">Botões do site enjoei.com.br</span>
 
 Não adianta ter um botão bonito se ele não comunica direito, certo? O tom de voz
