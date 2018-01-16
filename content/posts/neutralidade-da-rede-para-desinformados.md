@@ -6,7 +6,7 @@ paid: true
 draft: true
 publishdate: 2018-01-17
 date: 2018-01-17
-image: https://i.imgur.com/9z3fw2C.jpg
+image: https://i.imgur.com/xlmBMTE.jpg
 excerpt: O botão é um dos elementos de UI mais comuns e está presente em praticamente qualquer interface.
 categories:
   - Notícias
