@@ -2,7 +2,6 @@
 title: Neutralidade da Rede - pra você que está desinformado
 authors: Tableless
 type: post
-paid: true
 publishdate: 2018-01-17
 date: 2018-01-17
 image: https://i.imgur.com/xlmBMTE.jpg
