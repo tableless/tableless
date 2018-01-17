@@ -3,12 +3,12 @@ title: Neutralidade da Rede - pra você que está desinformado
 authors: Tableless
 type: post
 paid: true
-draft: true
 publishdate: 2018-01-17
 date: 2018-01-17
 image: https://i.imgur.com/xlmBMTE.jpg
 excerpt: O botão é um dos elementos de UI mais comuns e está presente em praticamente qualquer interface.
 categories:
+  - Publieditorial
   - Notícias
   - Tecnologia e Tendências
   - W3C
