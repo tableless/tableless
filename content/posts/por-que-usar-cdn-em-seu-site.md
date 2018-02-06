@@ -44,7 +44,7 @@ Além disso, uma CDN provavelmente tem condições de entregar conteúdo a parti
 
 ### Aumento da velocidade de carregamento das páginas
 
-**Uma CDN é muito boa em cachear conteúdo estático.** Imagens, javascript (js), e folhas de estilo (css) são fortes candidatos a serem armazenados em cache para agilizar a entrega. O próprio HTML pode ser cacheado, dependendo das configurações do serviço. Nestes dois cenários o tempo de entrega dos assets da página é menor do que seria quando apenas o servidor de hospedagem é o responsável por isso.
+**Uma CDN é muito boa em cachear conteúdo estático.** Imagens, JavaScript e CSS são fortes candidatos a serem armazenados em cache para agilizar a entrega. O próprio HTML pode ser cacheado, dependendo das configurações do serviço. Nestes dois cenários o tempo de entrega dos assets da página é menor do que seria quando apenas o servidor de hospedagem é o responsável por isso.
 
 **O resultado dessa configuração é a redução do tempo total de carregamento das páginas**, já que há [redução no tempo de resposta do servidor](https://developers.google.com/speed/docs/insights/Server?hl=pt-br). Nem sempre é possível cachear todo o conteúdo de um site ou aplicação, mas sempre existem elementos estáticos que podem ser servidos com vantagem a partir de uma CDN.
 
