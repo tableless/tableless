@@ -4,7 +4,7 @@ authors: Bill Bordallo
 type: post
 image: https://i.imgur.com/atYhsVW.jpg
 date: 2018-02-05
-excerpt: Ter um site veloz pode envolver muitos aspectos. Pois existe uma tecnologia que pode dar um ganho de velocidade considerável e que custa muito pouco, sendo até mesmo gratuita. Conheça a CDN e suas vantagens neste artigo.
+excerpt: Ter um site veloz pode envolver muitos aspectos. Conheça a CDN e suas vantagens neste artigo.
 url: /por-que-usar-cdn-em-seu-site/
 categories:
   - Tecnologia e tendências
