@@ -1,8 +1,8 @@
 ---
 title: Entendendo o DOM (Document Object Model)
-author: Leonardo Maldonado
+authors: Leonardo Maldonado
 type: post
-image: https://imgur.com/y05YIAB
+image: https://i.imgur.com/y05YIAB.jpg
 date: 2018-02-05
 excerpt: O DOM explicado de uma maneira fácil.
 categories:
@@ -11,23 +11,23 @@ categories:
 ---
 
 
-#### Entendendo o DOM (Document Object Model)
+## Entendendo o DOM (Document Object Model)
 
 Você estudou bastante HTML, criou suas primeiras tags, aprendeu CSS, fez formulários bonitos, botões incríveis, páginas responsivas e começou mostrar para todo mundo como aquilo é incrível, mas chega uma hora que você deseja dar um passo a mais no seu aprendizado e se pergunta: ”Mas como eu posso dar movimento a minha página? Queria tanto que aquele botão por exemplo mudasse algo nela!”. É aí que entra o DOM, algo que constantemente você ouve falar por aí, mas não sabe explicar ao certo o que é.
 
 Sabe aquelas animações legais que você vê por aí e você fala “Uau, queria tanto fazer algo assim, mas como?”, elas são feitas manipulando o DOM (Document Object Model), e esse artigo vai te explicar do zero o que ele é e como manipulá-lo.
 
-##### Então, o que é o DOM?
+### Então, o que é o DOM?
 
 O DOM (Document Object Model) é uma interface que representa como os documentos HTML e XML são lidos pelo seu browser. Após o browser ler seu documento HTML, ele cria um objeto que faz uma representação estruturada do seu documento e define meios de como essa estrutura pode ser acessada. Nós podemos acessar e manipular o DOM com JavaScript, é a forma mais fácil e usada.
 
-##### Quais as vantagens do DOM?
+### Quais as vantagens do DOM?
 
 Com ele você tem infinitas possibilidades, você pode criar aplicações que atualizam os dados da página sem que seja necessário uma atualização. Pode também criar aplicações que são customizáveis pelo usuário, mudar o layout da página sem que seja necessário atualização. Arrastar, mover, excluir elementos. Ou seja, você tem infinitas possibilidades, milhares de coisas que você pode fazer manipulando o DOM, basta você usar sua criatividade.
 
-##### Como ele é representado pelo browser:
+### Como ele é representado pelo browser:
 
-https://imgur.com/lu4PMfw
+https://i.imgur.com/lu4PMfw.jpg
 
 A estrutura que o DOM constrói a partir da leitura do seu documento HTML.
 
@@ -38,37 +38,39 @@ Nessa imagem vemos a estrutura do DOM, suas marcações e como ele é montado pe
 3. **Texts**: É o texto que vai entre os elementos. Todo o conteúdo das tags.
 4. **Attributes**: É a junção de todos atributos para um nó específico. No caso, o attribute _class=”hero”_ está apontando para o elemento _&lt;p&gt;_.
 
-##### Manipulando o DOM
+### Manipulando o DOM
 
 Agora vamos a parte mais legal de todas: manipular o DOM. Primeiramente, vamos criar um HTML como exemplo para mostrar como os métodos e os eventos funcionam.
 
 O HTML:
 
-&lt;!DOCTYPE html&gt;  
-&lt;html lang="pt-br"&gt;  
-&lt;head&gt;  
-    &lt;meta charset="UTF-8"&gt;  
-    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;  
-    &lt;meta http-equiv="X-UA-Compatible" content="ie=edge"&gt;  
-    &lt;title&gt;Entendo o DOM (Document Object Model)&lt;/title&gt;  
-&lt;/head&gt;  
-&lt;body&gt;  
-    &lt;div class="container"&gt;  
-        &lt;h1&gt;&lt;time&gt;00:00:00&lt;/time&gt;&lt;/h1&gt;  
-        &lt;button id="start"&gt;Start&lt;/button&gt;  
-        &lt;button id="stop"&gt;Stop&lt;/button&gt;  
-        &lt;button id="reset"&gt;Reset&lt;/button&gt;  
-    &lt;/div&gt;  
-&lt;/body&gt;  
-&lt;/html&gt;
+``
+  <!DOCTYPE html>
+  <html lang="pt-br">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>Entendo o DOM (Document Object Model)</title>
+  </head>
+  <body>
+      <div class="container">
+          <h1><time>00:00:00</time></h1>
+          <button id="start">Start</button>
+          <button id="stop">Stop</button>
+          <button id="reset">Reset</button>
+      </div>
+  </body>
+  </html>
+``
 
 Bem simples, agora vamos aprender um pouco sobre os métodos do DOM, é com eles que vamos pegar nossos elementos e criar interatividade.
 
-#### Métodos
+### Métodos
 
 O DOM possui muitos métodos, são eles que fazem a ligação entre os nodes (elementos) e os eventos, algo que vou falar mais abaixo. Vou mostrar os métodos mais usados e pra quê eles servem também. Lembrando que existem vários, para todos os tipos e você pode ver todos [aqui](https://developer.mozilla.org/en-US/docs/Web/API/Document).
 
-##### getElementById()
+### getElementById()
 
 Esse método retorna o elemento que estiver contendo o nome do ID passado. Como os IDs devem ser únicos, é um método muito útil para pegar apenas o elemento desejado.
 
@@ -118,7 +120,7 @@ var myButtons = document.querySelector('#buttons');
 
 **#buttons**: seletor passado, como nesse caso não há nenhum seletor com esse nome, ele retorna _null_.
 
-Esses são apenas 3 métodos do DOM, existem muitos mais alguns que são bastante usados, por exemplo o _createElement()_ que cria um novo elemento HTML usando o nome da da tag a ser criada, o setAttribute() que você pode setar novos atributos para elementos HTML e muitos outros.
+Esses são apenas 3 métodos do DOM, existem vários e alguns são bastante usados, por exemplo o _createElement()_ que cria um novo elemento HTML usando o nome da da tag a ser criada, o setAttribute() que você pode setar novos atributos para elementos HTML e muitos outros.
 
 Você pode encontrar todos [AQUI](https://developer.mozilla.org/en-US/docs/Web/API/Element) indo no canto esquerdo em _Methods_ . Recomendo fortemente que você veja alguns, porque há muitos métodos interessantes sem que nós nem saibamos da existência e que talvez um dia você precise usar.
 
@@ -142,7 +144,7 @@ Os parâmetros do **addEventListener()** são:
 
 1. O tipo de evento que você deseja (nesse exemplo eu usei o _‘click’_).
 2. A função de callback
-3. O _useCapture_ faz o evento se atrelar do pai até chegar ao filho. Ele por padrão é _false_, mas caso você coloque-o como _true_, ele vai fazer o caminho contrário atrelando o elemento. Você quase sempre vai usá-lo como _false_.
+3. O _useCapture_ faz o evento se atrelar ao pai até chegar ao filho. Ele por padrão é _false_, mas caso você coloque-o como _true_, ele vai fazer o caminho contrário atrelando o elemento. Você quase sempre vai usá-lo como _false_.
 
 ##### select
 
@@ -162,7 +164,7 @@ Você consegue percorrer elementos pelo DOM, usando algumas propriedades que vam
 
 ##### .childNodes
 
-Essa propriedade retorna uma _nodeList_ de filhos do elemento passado. Ela irá retornar textos, comentários e quebras de linhas também. Portanto muito cuidado ao usá-la
+Essa propriedade retorna uma _nodeList_ de filhos do elemento passado. Ela vai retornar textos, comentários e quebras de linhas também. Portanto muito cuidado ao usá-la
 
 var container = document.querySelector('.container');
 
@@ -236,7 +238,7 @@ var container = document.querySelector('.container')
 
 var getValue = container.lastElementChild;
 
-Essas são apenas alguma das propriedades do DOM, existem várias outras se eu fosse explicar todas daria um livro. É muito importante você entender ao menos o básico de como o DOM funciona, seus métodos e propriedades pois nos dias de hoje cada aplicação pede algo diferente e, nunca se sabe quando você vai usar aquele método ou propriedade.
+Essas são apenas alguma das propriedades do DOM, existem várias outras. É muito importante você entender ao menos o básico de como o DOM funciona, seus métodos e propriedades pois cada aplicação pede algo diferente e, nunca se sabe quando você vai usar aquele método ou propriedade.
 
 #### Conclusão
 
