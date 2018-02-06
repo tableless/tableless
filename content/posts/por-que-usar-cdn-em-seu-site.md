@@ -28,7 +28,7 @@ A sigla CDN significa _Content Delivery Network_. Em tradução literal seria al
 
 Você pode estar se perguntando: _– ok, mas qual é o propósito disso?_ O objetivo principal de uma CDN é **entregar conteúdo a partir do servidor mais próximo do usuário final**. Assim, **o tempo de resposta da requisição pode ser bem menor** do que seria em condições normais, quando a resposta vem unicamente do servidor de hospedagem, independente da localização do usuário.
 
-Este princípio, quando combinado com outras tecnologias ([cache](https://tudosobrehospedagemdesites.com.br/o-que-e-cache/), por exemplo), **pode fazer um site ganhar muito em desempenho**. Principalmente sites que demandam processamento do servidor, como CMSs e lojas virtuais. Ao se valer do cache e da distribuição de uma CDN, sites WordPress, por exemplo, podem ter um desempenho tão bom quanto o obtido em sites estáticos ([como é o caso do Tableless](https://tableless.com.br/site-tableless-estatico/)). Está certo que um site estático performa muito bem (muito bem mesmo!) quando comparado com um CMS. Mas, dependendo do projeto, o uso de um CMS pode ser indispensável.
+Este princípio, quando combinado com outras tecnologias ([cache](https://tudosobrehospedagemdesites.com.br/o-que-e-cache/), por exemplo), **pode fazer um site ganhar muito em desempenho**. Principalmente sites que demandam processamento do servidor, como CMSs e lojas virtuais. Ao utilizar cache e a distribuição de uma CDN, sites WordPress, por exemplo, podem ter um desempenho tão bom quanto o obtido em sites estáticos ([como é o caso do Tableless](https://tableless.com.br/site-tableless-estatico/)). Está certo que um site estático performa muito bem (muito bem mesmo!) quando comparado com um CMS. Mas, dependendo do projeto, o uso de um CMS pode ser indispensável.
 
 ## Vantagens de usar uma CDN
 
@@ -40,17 +40,17 @@ Ao acessar uma URL, o browser envia uma requisição para o servidor. Essa requi
 
 **Quando há o uso de uma CDN para cachear o conteúdo, o tempo de processamento da requisição pode ser reduzido consideravelmente**, já que o que será entregue é uma cópia estática do conteúdo solicitado.
 
-Além disso, uma CDN provavelmente terá condições de entregar conteúdo a partir de um servidor mais próximo fisicamente do usuário, o que contribui ainda mais para reduzir o [TTFB](https://blog.apiki.com/2017/07/11/ttfb-time-to-first-byte/) (_time to first byte_, que é o tempo que o cliente leva para receber o primeiro byte) e o envio do conteúdo integral da página.
+Além disso, uma CDN provavelmente tem condições de entregar conteúdo a partir de um servidor mais próximo fisicamente do usuário, o que contribui ainda mais para reduzir o [TTFB](https://blog.apiki.com/2017/07/11/ttfb-time-to-first-byte/) (_time to first byte_, que é o tempo que o cliente leva para receber o primeiro byte) e o envio do conteúdo integral da página.
 
 ### Aumento da velocidade de carregamento das páginas
 
-**Uma CDN é muito boa em cachear conteúdo estático.** Imagens, javascript (js), e folhas de estilo (css) são fortes candidatos a serem armazenados em cache para agilizar a entrega. O próprio HTML pode ser cacheado, dependendo das configurações do serviço. Nestes dois cenários o tempo de entrega dos assets da página será menor do que seria se apenas o servidor de hospedagem ficasse responsável por isso.
+**Uma CDN é muito boa em cachear conteúdo estático.** Imagens, javascript (js), e folhas de estilo (css) são fortes candidatos a serem armazenados em cache para agilizar a entrega. O próprio HTML pode ser cacheado, dependendo das configurações do serviço. Nestes dois cenários o tempo de entrega dos assets da página é menor do que seria quando apenas o servidor de hospedagem é o responsável por isso.
 
 **O resultado dessa configuração é a redução do tempo total de carregamento das páginas**, já que há [redução no tempo de resposta do servidor](https://developers.google.com/speed/docs/insights/Server?hl=pt-br). Nem sempre é possível cachear todo o conteúdo de um site ou aplicação, mas sempre existem elementos estáticos que podem ser servidos com vantagem a partir de uma CDN.
 
 ### Aumento da capacidade de aguentar tráfego
 
-Site e blogs que passam por picos de acesso, como quando uma postagem viraliza, frequentemente se deparam com quedas ou instabilidades no serviço de hospedagem. É uma situação contraditória, pois você fica na mão justamente no momento em que mais precisa do seu site no ar.
+Sites e blogs que passam por picos de acesso, como quando uma postagem viraliza, frequentemente se deparam com quedas ou instabilidades no serviço de hospedagem. É uma situação contraditória, pois você fica na mão justamente no momento em que mais precisa do seu site no ar.
 
 É claro que não existe uma "bala de prata" em cenários como esse: é necessário avaliar a demanda e adequar o serviço de hospedagem. Mas ainda assim **uma CDN pode ajudar, já que grande parte das requisições nem chega ao servidor de origem**.
 
