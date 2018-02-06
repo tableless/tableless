@@ -36,7 +36,7 @@ Nessa imagem vemos a estrutura do DOM, suas marcações e como ele é montado pe
 1. **Document: **que como o nome diz, cuida de documentos HTML.
 2. **Elements: **são todas as tags que estão em arquivos HTML ou XML se transformam em elementos da árvore DOM.
 3. **Texts**: É o texto que vai entre os elementos. Todo o conteúdo das tags.
-4. **Attributes**: É a junção de todos atributos para um nó específico. No caso, o attribute _class=”hero”_ está apontando para o elemento _&lt;p&gt;_.
+4. **Attributes**: É a junção de todos atributos para um nó específico. No caso, o attribute _class=”hero”_ está apontando para o elemento ``<p>``.
 
 ### Manipulando o DOM
 
@@ -74,47 +74,57 @@ O DOM possui muitos métodos, são eles que fazem a ligação entre os nodes (el
 
 Esse método retorna o elemento que estiver contendo o nome do ID passado. Como os IDs devem ser únicos, é um método muito útil para pegar apenas o elemento desejado.
 
-var myStart = document.getElementsById('start');
+``
+  var myStart = document.getElementsById('start');
+ ``
 
 **myStart**: elemento específico que se equipara com o seletor passado.
 
 **start**: seletor passado, caso não houvesse nenhum ele retornaria _null_.
 
-##### getElementsByClassName()
+### getElementsByClassName()
 
 Esse método retorna um _HTMLCollection_ de todos elementos que estiverem contendo o nome da classe passada.
 
-var myContainer = document.getElementsByClassName('container');
+``
+  var myContainer = document.getElementsByClassName('container');
+ ``
 
 **myContainer**: elemento específico que se equipara com o seletor passado.
 
 **.container**: seletor passado, caso não houvesse nenhum ele retornaria _null_.
 
-##### getElementsByTagName()
+### getElementsByTagName()
 
 Na mesma maneira do método acima, ele também retorna uma _HTMLCollection_ mas com uma diferença: esse método retorna todos elementos contendo a tag name passada.
 
-var buttons = document.getElementsByTagName('button');
+``
+  var buttons = document.getElementsByTagName('button');
+``
 
 **buttons**: elemento específico que se equipara com o seletor passado.
 
 **button**: tag name passada.
 
-##### querySelector()
+### querySelector()
 
 Retorna o primeiro elemento que se equipara ao seletor CSS passado. Lembrando que o seletor deve seguir a sintaxe CSS. Caso não tenha nenhum seletor, ele retornará _null. _
 
-var resetButton = document.querySelector('#reset');
+``
+  var resetButton = document.querySelector('#reset');
+``
 
 **resetButton**: primeiro elemento que se equipara com o seletor passado. 
 
 **#reset**: seletor passado, caso não houvesse nenhum ele retornaria _null_.
 
-##### querySelectorAll()
+### querySelectorAll()
 
 Muito igual ao querySelector(), mas ele tem apenas uma diferença: retorna todos elementos que se equiparam ao seletor CSS passado. O seletor também deve seguir a sintaxe CSS, caso não haja nenhum ele retornará _null_.
 
-var myButtons = document.querySelector('#buttons');
+``
+  var myButtons = document.querySelector('#buttons');
+``
 
 **myButtons**: elementos que se equiparam com o seletor passado.
 
@@ -126,19 +136,21 @@ Você pode encontrar todos [AQUI](https://developer.mozilla.org/en-US/docs/Web/A
 
 Agora vamos falar um pouco sobre eventos, afinal sem eles não conseguimos criar interatividade nas nossas páginas.
 
-#### Events
+### Events
 
 Os elementos DOM além de possuirem métodos também possuem eventos. São eles que fazem a interatividades dos elementos no documento, mas não se engane: eventos também são métodos.
 
-##### click
+### click
 
 Um dos mais usados é o click, quando o usuário clicar no elemento, ele realizará alguma ação.
 
-myStart.addEventListener('click', function(event) {
+``
+  myStart.addEventListener('click', function(event) {
 
-  // Faça algo aqui.
+    // Faça algo aqui.
 
-}, false);
+  }, false);
+``
 
 Os parâmetros do **addEventListener()** são:
 
@@ -146,105 +158,123 @@ Os parâmetros do **addEventListener()** são:
 2. A função de callback
 3. O _useCapture_ faz o evento se atrelar ao pai até chegar ao filho. Ele por padrão é _false_, mas caso você coloque-o como _true_, ele vai fazer o caminho contrário atrelando o elemento. Você quase sempre vai usá-lo como _false_.
 
-##### select
+### select
 
 Esse evento serve para quando você quiser disparar algo quando o elemento for selecionado. Nesse caso apenas disparamos um simples _alert_.
 
-myStart.addEventListener('select', function(event) {
+``
+  myStart.addEventListener('select', function(event) {
 
-   alert('Elemento selecionado!');
+     alert('Elemento selecionado!');
 
-}, false);
+  }, false);
+``
 
 Esses são uns dos mais usados, temos outros vários eventos que você pode usar, por exemplo, eventos de _drag & drop_, quando o usuário começar a arrastar um elemento você pode realizar uma ação, e quando ele soltá-lo você pode realizar outra.
 
-#### Percorrer elementos
+### Percorrer elementos
 
 Você consegue percorrer elementos pelo DOM, usando algumas propriedades que vamos ver agora. É possível retornar com elas: elementos, comentários, textos.
 
-##### .childNodes
+### .childNodes
 
 Essa propriedade retorna uma _nodeList_ de filhos do elemento passado. Ela vai retornar textos, comentários e quebras de linhas também. Portanto muito cuidado ao usá-la
 
-var container = document.querySelector('.container');
+``
+  var container = document.querySelector('.container');
 
-var getContainerChilds = container.childNodes;
+  var getContainerChilds = container.childNodes;
+``
 
-##### .firstChild
+### .firstChild
 
 Essa propriedade retorna o primeiro filho do elemento passado.
 
-var container = document.querySelector('.container');
+``
+  var container = document.querySelector('.container');
 
-var getFirstChild = container.firstChild;
+  var getFirstChild = container.firstChild;
+``
 
-##### .nodeName
+### .nodeName
 
 Essa propriedade retorna o name do elemento passado. Como no caso passamos uma div, ele irá nos retornar “_div_”.
 
-var container = document.querySelector('.container');
+``
+  var container = document.querySelector('.container');
 
-var getName = container.nodeName;
+  var getName = container.nodeName;
+``
 
-##### .nodeValue
+### .nodeValue
 
 Específico para textos e comentários, ele retorna o conteúdo do nó de texto ou comentário. Como passamos ele para uma _div_, ele irá nos retornar _null_.
 
-var container = document.querySelector('.container')
+``
+  var container = document.querySelector('.container')
 
-var getValue = container.nodeValue;
+  var getValue = container.nodeValue;
+``
 
-##### .nodeType
+### .nodeType
 
 Essa propriedade nos retorna o tipo do elemento passado. Nesse caso ele retornaria ‘_1_'.
 
-var container = document.querySelector('.container')
+``
+  var container = document.querySelector('.container')
 
-var getValue = container.nodeType;
+  var getValue = container.nodeType;
+``
 
 Mas o que significa esse ‘_1_’? Ele simplesmente é o _nodeType_ do elemento, no caso ele é um _ELEMENT_NODE _e retorna null, caso fosse um atributo por exemplo ele era um nodeType ‘2’ e retornaria o valor do atributo.
 
-https://imgur.com/HH2XHS5
+https://i.imgur.com/HH2XHS5.png
 
 Tabela que mostra os nodeTypes, os names que eles retornam e seus valores.
 
 Você pode ler mais sobre nodeTypes [aqui](https://www.w3schools.com/jsref/prop_node_nodetype.asp). 
 
-#### Elements
+### Elements
 
 Essas propriedades, ao contrários das outras acima retornam somente elementos. São mais recomendadas pois podem causar menos confusão e são mais simples de serem entendidas.
 
-##### .parentNode
+### .parentNode
 
 Essa propriedade retorna o parente do nó passado.
 
-var container = document.querySelector('.container')
+``
+  var container = document.querySelector('.container')
 
-var getParent = container.parentNode;
+  var getParent = container.parentNode;
+``
 
-##### .firstElementChild
+### .firstElementChild
 
 Essa propriedade retorna o primeiro elemento-filho do elemento especificado.
 
-var container = document.querySelector('.container')
+``
+  var container = document.querySelector('.container')
 
-var getValue = container.firstElementChild;
+  var getValue = container.firstElementChild;
+``
 
-##### .lastElementChild
+### .lastElementChild
 
 Semelhante a propriedade anterior, mas essa retorna o último elemento-filho do elemento especificado.
 
-var container = document.querySelector('.container')
+``
+  var container = document.querySelector('.container')
 
-var getValue = container.lastElementChild;
+  var getValue = container.lastElementChild;
+``
 
 Essas são apenas alguma das propriedades do DOM, existem várias outras. É muito importante você entender ao menos o básico de como o DOM funciona, seus métodos e propriedades pois cada aplicação pede algo diferente e, nunca se sabe quando você vai usar aquele método ou propriedade.
 
-#### Conclusão
+### Conclusão
 
 O DOM nos proporciona várias API’s importantes para a criação de aplicações fantásticas e cada vez mais inovadoras, entendendo o básico dele você já consegue fazer coisas incríveis. Caso você queira ler mais sobre eventos e saber quais existem, você pode clicar [aqui](https://developer.mozilla.org/en-US/docs/Web/Events) e ler toda referência da MDN.
 
-##### Você se interessou por DOM e quer ler mais?
+### Você se interessou por DOM e quer ler mais?
 
 [Understanding DOM: A Fool’s Guide](https://www.guru99.com/understanding-dom-fool-guide.html) (Artigo)
 
