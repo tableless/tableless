@@ -14,7 +14,6 @@ tags:
   - performance
 
 ---
-![Cena urbana noturna com veículos passando em alta velocidade](https://i.imgur.com/atYhsVW.jpg)
 
 Se anos atrás ter um site era uma vantagem competitiva, agora **é preciso muito mais do que isso para se destacar na internet**. Um site precisa garantir uma boa experiência para os usuários, o que inclui, entre outras coisas, uma boa velocidade de carregamento das páginas, mesmo em conexões lentas.
 
@@ -28,7 +27,7 @@ A sigla CDN significa _Content Delivery Network_. Em tradução literal seria al
 
 Você pode estar se perguntando: _– ok, mas qual é o propósito disso?_ O objetivo principal de uma CDN é **entregar conteúdo a partir do servidor mais próximo do usuário final**. Assim, **o tempo de resposta da requisição pode ser bem menor** do que seria em condições normais, quando a resposta vem unicamente do servidor de hospedagem, independente da localização do usuário.
 
-Este princípio, quando combinado com outras tecnologias ([cache](https://tudosobrehospedagemdesites.com.br/o-que-e-cache/), por exemplo), **pode fazer um site ganhar muito em desempenho**. Principalmente sites que demandam processamento do servidor, como CMSs e lojas virtuais. Ao utilizar cache e a distribuição de uma CDN, sites WordPress, por exemplo, podem ter um desempenho tão bom quanto o obtido em sites estáticos ([como é o caso do Tableless](https://tableless.com.br/site-tableless-estatico/)). Está certo que um site estático performa muito bem (muito bem mesmo!) quando comparado com um CMS. Mas, dependendo do projeto, o uso de um CMS pode ser indispensável.
+Este princípio, quando combinado com outras tecnologias (cache, por exemplo), **pode fazer um site ganhar muito em desempenho**. Principalmente sites que demandam processamento do servidor, como CMSs e lojas virtuais. Ao utilizar cache e a distribuição de uma CDN, sites WordPress, por exemplo, podem ter um desempenho tão bom quanto o obtido em sites estáticos ([como é o caso do Tableless](https://tableless.com.br/site-tableless-estatico/)). Está certo que um site estático performa muito bem (muito bem mesmo!) quando comparado com um CMS. Mas, dependendo do projeto, o uso de um CMS pode ser indispensável.
 
 ## Vantagens de usar uma CDN
 
@@ -62,7 +61,7 @@ Ataques DDoS e tentativas de invasão são uma realidade. Muitas vezes esse tipo
 
 ### Prolongamento da vida útil da sua hospedagem
 
-Por aliviar a carga de processamento do servidor e ajudar com a demanda de tráfego, uma CDN pode permitir que um site em crescimento permaneça mais tempo na mesma [hospedagem](https://tudosobrehospedagemdesites.com.br/hospedagem-de-sites/) para sites em crescimento. A lógica é a seguinte: se determinado site ou blog possui uma audiência crescente, em algum momento de sua vida ele precisará migrar para uma hospedagem mais robusta, que atenda à crescente demanda sem interrupções. **Ao aliviar a carga do servidor, a CDN pode adiar o momento de um upgrade de hospedagem**.
+Por aliviar a carga de processamento do servidor e ajudar com a demanda de tráfego, uma CDN pode permitir que um site em crescimento permaneça mais tempo na mesma hospedagem para sites em crescimento. A lógica é a seguinte: se determinado site ou blog possui uma audiência crescente, em algum momento de sua vida ele precisará migrar para uma hospedagem mais robusta, que atenda à crescente demanda sem interrupções. **Ao aliviar a carga do servidor, a CDN pode adiar o momento de um upgrade de hospedagem**.
 
 ### SSL gratuito
 
