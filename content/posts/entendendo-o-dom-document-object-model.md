@@ -3,7 +3,7 @@ title: Entendendo o DOM (Document Object Model)
 authors: Leonardo Maldonado
 type: post
 image: https://i.imgur.com/y05YIAB.jpg
-date: 2018-02-05
+date: 2018-02-08
 excerpt: O DOM explicado de uma maneira fácil.
 categories:
   - JavaScript
@@ -27,7 +27,7 @@ Com ele você tem infinitas possibilidades, você pode criar aplicações que at
 
 ### Como ele é representado pelo browser:
 
-https://i.imgur.com/lu4PMfw.jpg
+![](https://i.imgur.com/lu4PMfw.jpg)
 
 A estrutura que o DOM constrói a partir da leitura do seu documento HTML.
 
@@ -228,7 +228,7 @@ Essa propriedade nos retorna o tipo do elemento passado. Nesse caso ele retornar
 
 Mas o que significa esse ‘_1_’? Ele simplesmente é o _nodeType_ do elemento, no caso ele é um _ELEMENT_NODE _e retorna null, caso fosse um atributo por exemplo ele era um nodeType ‘2’ e retornaria o valor do atributo.
 
-https://i.imgur.com/HH2XHS5.png
+![](https://i.imgur.com/HH2XHS5.png)
 
 Tabela que mostra os nodeTypes, os names que eles retornam e seus valores.
 
