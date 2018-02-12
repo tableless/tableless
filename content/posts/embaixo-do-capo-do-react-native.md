@@ -2,7 +2,7 @@
 title: Embaixo do Capo do React Native
 author: Jose Urbano Duarte Junior
 type: post
-image: http://imgur.com/endereco-da-imagem-de-destaque.jpg
+image: https://imgur.com/oVmOUA4
 date: 2018-02-08
 excerpt: Saia da mediocridade, entenda como funciona o realmente React Native. Mais cedo ou mais tarde isso poderá lhe ajudar muito.
 categories:
