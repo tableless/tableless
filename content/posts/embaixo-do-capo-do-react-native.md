@@ -16,7 +16,7 @@ tags:
 
 ---
 
-O React Native é um framework de desenvolvimento híbrido, isto é você produz um único código javascript que interpretado e transformado em código nativo.
+O React Native é um framework de desenvolvimento híbrido, isto é você produz um único código Javascript que interpretado e transformado em código nativo.
 Componentes Estruturantes do React Native (Transformando código Javascript em Nativo)
 
 Aqui faremos um resumo breve sobre alguns componentes básicos: o **transpilador**, o **empacotador**, o **motor**, a **brigde** e o **renderizador**.
@@ -29,13 +29,13 @@ O **transpilador** chamado de `Babel` é o componente responsável por transpila
 
 Diferentemente de um processo de compilação em que um código é transformado em linguagem de máquina, na transpilação um código legível é transformado em outro código legível.
 
-Como é sabido, o javascript vem evoluindo ao longo dos anos e todo ano novas definições são feitas.
+Como é sabido, o Javascript vem evoluindo ao longo dos anos e todo ano novas definições são feitas.
 
 Assim, o `Babel` é o cara responsável por pegar um código escrito no último padrão e transformá-lo em um código que pode ser interpretado por um motor escrito há anos atrás quando essas novas definições não existiam.
 
-O **empacotador** chamado de `Packager` é o cara responsável por combinar seus diversos arquivos javascript em um arquivo único.
+O **empacotador** chamado de `Packager` é o cara responsável por combinar seus diversos arquivos Javascript em um arquivo único.
 
-Depois que babel deixou o código em um formato compatível com qualquer motor javascript, o `Packager` mimifica os seus arquivos em um só.
+Depois que babel deixou o código em um formato compatível com qualquer motor Javascript, o `Packager` mimifica os seus arquivos em um só.
 
 Nesse momento é como se você tivesse escrito todo seu projeto em um único arquivo.
 
