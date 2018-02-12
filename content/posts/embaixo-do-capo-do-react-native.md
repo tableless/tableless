@@ -86,7 +86,7 @@ Um questionamento natural ao entender a arquitetura do React Native é quanto a 
 ## Virtual DOM
 Já foi explicado que a `Bridge` é um dos gargalos do React Native, por isso seus arquitetos tentaram mitigar esse problema utilizando a Virtual DOM. O Virtual DOM é um árvore virtual que representa o estado de cada componente na tela. Assim, ao invés de passar toda e qualquer modificação que aconteça em um componente para o `renderizador`, o Virtual DOM compara novo componente com o estado antigo do DOM Virtual e envia para `Bridge` somente as informações que foram modificadas.
 
-Exemplo: Imagine que você tenha 20 componentes na tela e um funcionalidade que altere o valor de um texto ao se clicar em 1 botão. Ao invés de enviar para o `renderizador` todas a tela com o texto novo, o Virtual DOM filtra e envia apenas um componente com o texto novo.
+Exemplo: Imagine que você tenha 20 componentes na tela e uma funcionalidade que altere o valor de um texto ao se clicar em 1 botão. Ao invés de enviar para o renderizador toda a tela com o novo texto, o Virtual DOM filtra e envia apenas o modificado componente.
 
 
 ---
