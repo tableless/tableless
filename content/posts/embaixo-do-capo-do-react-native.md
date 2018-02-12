@@ -15,7 +15,6 @@ tags:
 ---
 
 ---
-# Embaixo do Capo do React Native
 
 O React Native é um framework de desenvolvimento híbrido, isto é você produz um único código javascript que interpretado e transformado em código nativo.
 Componentes Estruturantes do React Native (Transformando código Javascript em Nativo)
