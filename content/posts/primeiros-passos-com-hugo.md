@@ -16,7 +16,7 @@ categories:
 ## Porque HUGO?
 
 * Migração de Wordpress em um piscar de olhos;
-* Geração de paginas e posts extremamente rápidas;
+* Geração de páginas e posts extremamente rápidos;
 * Boa gestão de permalinks;
 * Suporta vários tipos de frontmatters: json, toml e yaml;
 * Templating usando Sections, Archetypes e Types;
