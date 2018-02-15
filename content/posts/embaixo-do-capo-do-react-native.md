@@ -1,8 +1,8 @@
 ---
 title: Embaixo do Capo do React Native
-author: Jose Urbano Duarte Junior
+authors: Jose Urbano Duarte Junior
 type: post
-image: https://imgur.com/oVmOUA4.png
+image: https://i.imgur.com/oVmOUA4.jpg
 date: 2018-02-08
 excerpt: Saia da mediocridade, entenda como funciona o realmente React Native. Mais cedo ou mais tarde isso poderá lhe ajudar muito.
 categories:
@@ -114,6 +114,7 @@ Exemplo 2: Não é possível gerar um bundle utilizando a biblioteca `react-nati
 Exemplo 3: É possível gerar um bundle utilizando a biblioteca `react-native-mobx@1.0.0` e depois atualizar seu app remotamente com um bundle que utilize a `react-native-mobx@1.1.0`. Isso porque a biblioteca `react-native-mobx` é puramente javascript. Ela não executa o comando react-native link. Todo seu código será interpretado pelo motor javascript.
 
 **Referências para sobre o assunto** 
+
 https://www.youtube.com/watch?v=NkbO-Vhqbl0&t=589s
 
 https://www.youtube.com/watch?v=hDviGU-57lU&t=1315s
