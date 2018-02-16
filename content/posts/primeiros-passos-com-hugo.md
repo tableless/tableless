@@ -3,7 +3,7 @@ title: Primeiros passos com HUGO
 authors: Rafael Acioly
 type: post
 image: https://cdn-images-1.medium.com/max/800/1*24rMpWwzXmNtbdwLzkDhWQ.png
-date: 2018-02-14
+date: 2018-02-16
 excerpt: Saiba como instalar o HUGO e utilizar temas prontos feitos pela comunidade.
 categories:
   - Front-end
