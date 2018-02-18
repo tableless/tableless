@@ -2,8 +2,10 @@
 title: Componentes além do reuso
 authors: Conta Azul
 type: post
+publishdate: 2018-02-19
 date: 2018-02-18
 excerpt: Como trabalhar com componentes está tornando obsoleto o conceito de Model/View/Controller?
+image: https://i.imgur.com/2vabSUQ.jpg
 categories:
   - ReactJS
   - Na prática
