@@ -66,7 +66,7 @@ Além da url, existem outros parâmetros,caso queira se aprofundar mais no assun
 
 O maior problema para mim é não possuir suporte no IE 11.
 
-![Support Fetch API](http://tailomateus.github.io/images/support_fetch.png)
+![Support Fetch API](https://tailomateus.github.io/images/support_fetch.png)
 
 
 ## Axios - Como usar
@@ -117,7 +117,7 @@ axios.post('/save', { firstName: 'Teste', lastName: 'Testes' })
 
 É suportado pelos browsers mais usados.
 
-![Support Fetch API](http://tailomateus.github.io/images/support_axios.png)
+![Support Fetch API](https://tailomateus.github.io/images/support_axios.png)
 
 Para saber mais sobre Axios API:
 
