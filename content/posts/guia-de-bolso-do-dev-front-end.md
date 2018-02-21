@@ -4,6 +4,7 @@ authors: Fabiano de Lima Abreu
 type: post
 date: 2018-02-21
 excerpt: 'Lista de referências que todo front-end deve conhecer. '
+image: https://imgur.com/a/gFBjp
 categories:
   - Notícias
   - Mercado
