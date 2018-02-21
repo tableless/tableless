@@ -1,34 +1,30 @@
 ---
-title: 'Guia de bolso do Desenvolvedor Front-End'
+title: Guia de bolso do Desenvolvedor Front-End
 authors: Fabiano de Lima Abreu
 type: post
-date: 2018-02-20
-excerpt: 'Lista de referencia de sites para consulta e estudos que todo front-end deve conhecer. '
+date: 2018-02-21
+excerpt: 'Lista de referências que todo front-end deve conhecer. '
 categories:
-  - Geral
-  - Mercado e Comportamento
+  - Notícias
+  - Mercado
 ---
 
-Este artigo é destinado para você iniciante que está a procura de uma boa lista de referências, mas tenho certeza que esta lista de referências será util pra você seja qual o seu nivel de conhecimento.
-
-Este artigo é destinado para você iniciante que está a procura de uma boa lista de referências, mas tenho certeza que esta lista de referências será util pra você seja qual o seu nivel de conhecimento.
-Procurei coletar a melhor lista possivel de links que sejam úteis para o dia a dia do DEV, e que se faz importante ter um fácil acesso.
-Este artigo é destinado para você que está a procura de uma boa lista de referências independente de qual seu nivel de conhecimento.
+Este artigo com certeza será útil para você independente do seu nivel de conhecimento. Procurei coletar a melhor lista possível de links que sejam úteis para o dia a dia do DEV, e que se faz importante ter um fácil acesso.
 
 Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos comentários.	
 
-- ### Documentações, padrões WEB e úteis.
+- ### Documentações, padrões WEB e outros.
 
 | Nome | Link |
 | ------ | ------ |
-| Jquery | https://jquery.com/|
+| JQuery | https://jquery.com/|
 | Angular | https://angularjs.org/|
 | New Angular | https://angular.io/|
-| Html5 Doctor | http://html5doctor.com/element-index/|
+| HTML5 Doctor | http://html5doctor.com/element-index/|
 | Jade | http://jade-lang.com/|
 | Less | http://lesscss.org/|
-| **O Melhor de todos -Extensa documentação para consulta** | http://devdocs.io/|
-| verificar o suporte dos navegadores | https://caniuse.com/|
+| **O Melhor de todos - Extensa documentação para consulta** | http://devdocs.io/|
+| Verificar o suporte dos navegadores | https://caniuse.com/|
 | Bootstrap | https://getbootstrap.com/|
 | Verificar se página ou servidor está fora | https://downforeveryoneorjustme.com/
 
@@ -77,20 +73,20 @@ Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos 
 
 | Nome | Link |
 | ------ | ------ |
-| It ebooks | http://it-ebooks.info/|
+| IT Ebooks | http://it-ebooks.info/|
 
-- ### Icon archive and UI Inspiration
+- ### Galeria de Ícones e inspirações em UX.
 
 | Nome | Link |
 | ------ | ------ |
-| Ui Parade | http://www.uiparade.com/|
+| UI Parade | http://www.uiparade.com/|
 | Icon archive | http://www.iconarchive.com/|
 
-- ### Controle de versão e compartilharmento de código
+- ### Controle de versão e compartilhamento de código
 
 | Nome | Link |
 | ------ | ------ |
-| Github | https://github.com/|
+| GitHub | https://github.com/|
 | Bitbucket | https://bitbucket.org/|
 
 - ### Trampos
