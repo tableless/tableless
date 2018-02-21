@@ -18,7 +18,7 @@ Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos 
 | Nome | Link |
 | ------ | ------ |
 | JQuery | https://jquery.com/|
-| Angular | https://angularjs.org/|
+| AngularJS | https://angularjs.org/|
 | New Angular | https://angular.io/|
 | HTML5 Doctor | http://html5doctor.com/element-index/|
 | Jade | http://jade-lang.com/|
@@ -34,7 +34,7 @@ Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos 
 | ------ | ------ |
 | Codecademy | https://www.codecademy.com/|
 | TryRuby | http://tryruby.org/|
-| Cursos pagos e gratuitos | https://www.codeschool.com/courses|
+| Code School (apenas alguns cursos são gratuitos) | https://www.codeschool.com/courses|
 
 - ### Referências
 
@@ -42,8 +42,8 @@ Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos 
 | ------ | ------ |
 | CodePen | http://codepen.io/|
 | Descobrir quais linguagens foram utilizadas no desenvolvimento de um site | http://builtwith.com/|
-| Exemplos de aplicações e sites criados com angularJs | https://www.madewithangular.com/|
-| Exemplos de aplicações e sites criados com angularJs | http://angularexpo.com/|
+| Exemplos de aplicações e sites criados com AngularJS | https://www.madewithangular.com/|
+| Exemplos de aplicações e sites criados com AngularJS | http://angularexpo.com/|
 
 - ### Tutoriais, Foruns e artigos
 
@@ -61,13 +61,13 @@ Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos 
 
 | Nome | Link |
 | ------ | ------ |
-| Teste e validação de Js | http://closure-compiler.appspot.com/home|
-| Minificar Js | http://jscompress.com/|
-| Desminificar Js | http://jsbeautifier.org/|
+| Teste e validação de JS | http://closure-compiler.appspot.com/home|
+| Minificar JS | http://jscompress.com/|
+| Desminificar JS | http://jsbeautifier.org/|
 | Compara diferença entre o código de 2 arquivos | https://www.diffnow.com/|
 | Minificador de css | http://cssminifier.com/|
 | Testa desempenho de páginas | http://www.webpagetest.org/ |
-| Json validate | https://jsonlint.com/ |
+| JSON validate | https://jsonlint.com/ |
 
 - ### Download de livros de TI gratuitos
 
