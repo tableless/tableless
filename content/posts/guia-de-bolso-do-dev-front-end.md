@@ -3,14 +3,14 @@ title: Guia de bolso do Desenvolvedor Front-End
 authors: Fabiano de Lima Abreu
 type: post
 date: 2018-02-21
-excerpt: 'Lista de referências que todo front-end deve conhecer. '
-image: https://imgur.com/a/gFBjp
+excerpt: Lista de referências que todo front-end deve conhecer.
+image: https://i.imgur.com/H5PUFGn.jpg
 categories:
   - Notícias
   - Mercado
 ---
 
-Este artigo com certeza será útil para você independente do seu nivel de conhecimento. Procurei coletar a melhor lista possível de links que sejam úteis para o dia a dia do DEV, e que se faz importante ter um fácil acesso.
+Este artigo com certeza será útil para você independente do seu nível de conhecimento. Procurei coletar a melhor lista possível de links que sejam úteis para o dia a dia do DEV, e que se faz importante ter um fácil acesso.
 
 Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos comentários.	
 
@@ -18,7 +18,7 @@ Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos 
 
 | Nome | Link |
 | ------ | ------ |
-| JQuery | https://jquery.com/|
+| jQuery | https://jquery.com/|
 | AngularJS | https://angularjs.org/|
 | New Angular | https://angular.io/|
 | HTML5 Doctor | http://html5doctor.com/element-index/|
@@ -66,7 +66,7 @@ Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos 
 | Minificar JS | http://jscompress.com/|
 | Desminificar JS | http://jsbeautifier.org/|
 | Compara diferença entre o código de 2 arquivos | https://www.diffnow.com/|
-| Minificador de css | http://cssminifier.com/|
+| Minificador de CSS | http://cssminifier.com/|
 | Testa desempenho de páginas | http://www.webpagetest.org/ |
 | JSON validate | https://jsonlint.com/ |
 
