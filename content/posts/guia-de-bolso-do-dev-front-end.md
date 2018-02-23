@@ -2,7 +2,7 @@
 title: Guia de bolso do Desenvolvedor Front-End
 authors: Fabiano de Lima Abreu
 type: post
-date: 2018-02-21
+date: 2018-02-23
 excerpt: Lista de referências que todo front-end deve conhecer.
 image: https://i.imgur.com/H5PUFGn.jpg
 categories:
@@ -14,7 +14,7 @@ Este artigo com certeza será útil para você independente do seu nível de con
 
 Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos comentários.	
 
-- ### Documentações, padrões WEB e outros.
+### Documentações, padrões WEB e outros.
 
 | Nome | Link |
 | ------ | ------ |
@@ -29,7 +29,7 @@ Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos 
 | Bootstrap | https://getbootstrap.com/|
 | Verificar se página ou servidor está fora | https://downforeveryoneorjustme.com/
 
-- ### Cursos online gratuitos
+### Cursos online gratuitos
 
 | Nome | Link |
 | ------ | ------ |
@@ -37,7 +37,7 @@ Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos 
 | TryRuby | http://tryruby.org/|
 | Code School (apenas alguns cursos são gratuitos) | https://www.codeschool.com/courses|
 
-- ### Referências
+### Referências
 
 | Nome | Link |
 | ------ | ------ |
@@ -46,7 +46,7 @@ Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos 
 | Exemplos de aplicações e sites criados com AngularJS | https://www.madewithangular.com/|
 | Exemplos de aplicações e sites criados com AngularJS | http://angularexpo.com/|
 
-- ### Tutoriais, Foruns e artigos
+### Tutoriais, Foruns e artigos
 
 | Nome | Link |
 | ------ | ------ |
@@ -58,7 +58,7 @@ Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos 
 | Web design weekly | https://web-design-weekly.com/|
 
 
-- ### Build
+### Build
 
 | Nome | Link |
 | ------ | ------ |
@@ -70,34 +70,34 @@ Se tiverem mais sugestões de referências, por favor, compartilhem conosco nos 
 | Testa desempenho de páginas | http://www.webpagetest.org/ |
 | JSON validate | https://jsonlint.com/ |
 
-- ### Download de livros de TI gratuitos
+### Download de livros de TI gratuitos
 
 | Nome | Link |
 | ------ | ------ |
 | IT Ebooks | http://it-ebooks.info/|
 
-- ### Galeria de Ícones e inspirações em UX.
+### Galeria de Ícones e inspirações em UX.
 
 | Nome | Link |
 | ------ | ------ |
 | UI Parade | http://www.uiparade.com/|
 | Icon archive | http://www.iconarchive.com/|
 
-- ### Controle de versão e compartilhamento de código
+### Controle de versão e compartilhamento de código
 
 | Nome | Link |
 | ------ | ------ |
 | GitHub | https://github.com/|
 | Bitbucket | https://bitbucket.org/|
 
-- ### Trampos
+### Trampos
 
 | Nome | Link |
 | ------ | ------ |
 | Trampos.co | https://trampos.co/|
 | Apinfo | http://www.apinfo.com/apinfo/|
 
-- ### Conversor Excel para JSON
+### Conversor Excel para JSON
 
 | Nome | Link |
 | ------ | ------ |
