@@ -66,3 +66,30 @@ Para criar um objeto moment a partir de um *unix timestamp* utilizamos a funçã
 ```
 const day = moment().unix(1318781889)
 ```
+
+## Manipular
+
+Depois de já termos criado um objeto moment, podemos utilizar diversas funções para manipular o seu valor.
+
+#### Adicionando e Subtraindo
+
+Podemos chamar a função `add(Number, String)` para adicionar valores da mesma forma que a  `subtract(Number, String)` para subtrair valores:
+
+```
+moment("2018-02-24").add(2, "days") // 2018-02-26
+moment("2018-02-24").add(1, "year").subtract("1", "days") // 2019-02-23
+```
+
+*Obs: todos os tipos disponíveis podem ser encontrados na [doc oficial.](http://momentjs.com/docs/#/manipulating/add/)*
+
+#### Início e Fim
+
+Podemos usar a função `startOf(String)` e `endOf(String)` para transformar o objeto moment para o início do período informado:
+
+```
+moment().startOf("year") // 2018-01-01 00:00:00.000
+moment().endOf("year") // 2018-12-31 23:59:59.999
+```
+
+## Formatação
+
