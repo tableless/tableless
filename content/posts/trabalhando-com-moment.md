@@ -31,4 +31,38 @@ Para instalar o moment utilizando o npm, basta utilizar o comando:
 $ npm install moment
 ```
 
-*Obs: as demais formas de instalação e instruções podem ser lidas na [doc oficial](http://momentjs.com/docs/#/use-it/)*
+*Obs: as demais formas de instalação podem ser lidas na [doc oficial.](http://momentjs.com/docs/#/use-it/)*
+
+## Parse
+
+Existem diversas funções no Moment.js responsáveis por fazer o parse de datas, vou mostrar algumas que são mais utilizadas:
+
+#### Data Atual
+
+Para obter a data e hora atual basta chamar a função moment().
+
+```
+const now = moment()
+```
+
+#### Convertendo String
+
+Quando estamos criando um objeto moment a partir de uma string, a biblioteca primeiro checa se a string está no formato [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601):
+
+```
+const dia = moment("2018-25-02")
+```
+
+Caso a biblioteca não consiga converter a string informada em data o método `isValid()` irá retornar false:
+
+```
+moment("abcxyz").isValid() // false
+```
+
+#### Convertendo Unix Timestamp
+
+Para criar um objeto moment a partir de um *unix timestamp* utilizamos a função `unix()`:
+
+```
+const day = moment().unix(1318781889)
+```
