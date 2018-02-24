@@ -1,19 +1,19 @@
 ---
-title: Moment.js para trabalhar com datas no JavaScript
+title: Trabalhando com datas no JavaScript com o Moment.js
 authors: Breno Panzolini
 type: post
-date: 2018-02-25
+date: 2018-02-24
 excerpt: Como utilizar o pacote Moment.js para trabalhar de maneira mais eficiente com datas no JavaScript.
 categories:
-  - NodeJS
   - JavaScript
+  - NodeJS
 tags:
-  - NodeJS
   - JavaScript
+  - NodeJS
 image:  https://imasters.com.br/wp-content/uploads/2014/02/moment-js.jpg
 ---
 
-Trabalhar com datas no JavaScript utilizando a biblioteca padrão pode ser muito complicado e "chato" em diversos cenários e situações do dia a dia, por isso nesse post vou mostrar como utilizar algumas das principais funções do [**Moment.js**](http://momentjs.com/) para facilitar nosso desenvolvimento.
+Trabalhar com datas no JavaScript utilizando a biblioteca padrão pode ser muito complicado e "chato" em diversos cenários e situações do dia a dia. Nesse post vou mostrar como utilizar algumas das principais funções do [**Moment.js**](http://momentjs.com/) para facilitar nosso desenvolvimento e a manipulação de datas.
 
 ## Sobre o Moment.js
 
