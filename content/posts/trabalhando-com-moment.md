@@ -121,3 +121,11 @@ Podemos usar a função `isBetween()` para comparar se uma data está entre outr
 ```
 moment('2010-10-20').isBetween('2010-10-19', '2010-10-25'); // true
 ```
+
+## Conclusão
+
+Esse post foi para introduzir e mostrar algumas funções básicas do pacote **Moment.js**, tenho certeza de que se você estiver trabalhando com datas no JavaScript ele é um excelente pacote para introduzir diversas funções para facilitar o seu desenvolvimento.
+
+O Moment ganhou tanto sucesso para a manipulação de datas no JavaScript que o seu criador estava até trabalhando com a equipe *core* de desenvolvimento do Node.js para introduzir algumas das funcionalidades dentro do pacote padrão de datas do Node.
+
+Aconselho que para os que querem conhecer as demais funções e facilidades do pacote que consulte a [documentação oficial](https://momentjs.com/docs/).
