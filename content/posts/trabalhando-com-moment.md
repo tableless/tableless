@@ -84,7 +84,7 @@ moment("2018-02-24").add(1, "year").subtract("1", "days") // 2019-02-23
 
 #### Início e Fim
 
-Podemos usar a função `startOf(String)` e `endOf(String)` para transformar o objeto moment para o início do período informado:
+Podemos usar as função `startOf(String)` e `endOf(String)` para transformar o objeto moment para o início do período informado:
 
 ```
 moment().startOf("year") // 2018-01-01 00:00:00.000
@@ -93,3 +93,31 @@ moment().endOf("year") // 2018-12-31 23:59:59.999
 
 ## Formatação
 
+A biblioteca do Moment.js nos oferece várias funções para realizar a formatação de data, vou mostrar como exemplo a utilização da função `format(String)`, todas as demais podem ser consultadas na documentação oficial.
+
+```
+moment().format("dd/MM/yyyy HH-mm") // 25/02/2018 13-35
+moment("abcxyz").format('YYYY MM DD') // "Invalid date"
+```
+
+## Comparações
+
+As funções que mais gosto em toda a bibliotaca do Moment.js são as responsáveis pela comparação entre datas, pois elas facilitam muito esse tipo de trabalho no JavaScript, entre as mais comuns podemos citar:
+
+#### Antes e Depois
+
+Podemos usar as função `isBefore()` e `isAfter()` para comparar as datas:
+
+```
+moment('2017-10-20').isBefore('2017-10-21'); // true
+moment('2017-10-20').isBefore('2010-12-31', 'year'); // false
+moment('2017-10-20').isBefore('2018-01-01', 'year'); // true
+```
+
+#### Entre
+
+Podemos usar a função `isBetween()` para comparar se uma data está entre outras duas datas:
+
+```
+moment('2010-10-20').isBetween('2010-10-19', '2010-10-25'); // true
+```
