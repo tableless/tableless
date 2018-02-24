@@ -80,7 +80,7 @@ moment("2018-02-24").add(2, "days") // 2018-02-26
 moment("2018-02-24").add(1, "year").subtract("1", "days") // 2019-02-23
 ```
 
-*Obs: todos os tipos disponíveis podem ser encontrados na [doc oficial.](http://momentjs.com/docs/#/manipulating/add/)*
+*Obs: todos os tipos disponíveis podem ser encontrados na [documentação.](http://momentjs.com/docs/#/manipulating/add/)*
 
 #### Início e Fim
 
@@ -93,7 +93,7 @@ moment().endOf("year") // 2018-12-31 23:59:59.999
 
 ## Formatação
 
-A biblioteca do Moment.js nos oferece várias funções para realizar a formatação de data, vou mostrar como exemplo a utilização da função `format(String)`, todas as demais podem ser consultadas na documentação oficial.
+A biblioteca do Moment.js nos oferece várias funções para realizar a formatação de data, vou mostrar como exemplo a utilização da função `format(String)`.
 
 ```
 moment().format("dd/MM/yyyy HH-mm") // 25/02/2018 13-35
@@ -102,7 +102,7 @@ moment("abcxyz").format('YYYY MM DD') // "Invalid date"
 
 ## Comparações
 
-As funções que mais gosto em toda a bibliotaca do Moment.js são as responsáveis pela comparação entre datas, pois elas facilitam muito esse tipo de trabalho no JavaScript, entre as mais comuns podemos citar:
+As funções que mais gosto em toda a bibliotaca do Moment.js são as responsáveis pelas comparações entre datas, pois elas facilitam muito esse tipo de trabalho no JavaScript. Entre as mais comuns podemos citar:
 
 #### Antes e Depois
 
