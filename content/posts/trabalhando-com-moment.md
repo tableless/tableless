@@ -31,7 +31,7 @@ Para instalar o moment utilizando o npm, basta utilizar o comando:
 $ npm install moment
 ```
 
-*Obs: as demais formas de instalação podem ser lidas na [doc oficial.](http://momentjs.com/docs/#/use-it/)*
+*Obs: as demais formas de instalação podem ser lidas na [documentação.](http://momentjs.com/docs/#/use-it/)*
 
 ## Parse
 
@@ -39,15 +39,15 @@ Existem diversas funções no Moment.js responsáveis por fazer o parse de datas
 
 #### Data Atual
 
-Para obter a data e hora atual basta chamar a função moment().
+Para obter a data e hora atual basta chamar a função `moment()`.
 
 ```
 const now = moment()
 ```
 
-#### Convertendo String
+#### Convertendo uma String
 
-Quando estamos criando um objeto moment a partir de uma string, a biblioteca primeiro checa se a string está no formato [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601):
+Quando estamos criando um objeto moment a partir de uma string, a biblioteca primeiro checa se a string está no formato [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) para realizar a conversão:
 
 ```
 const dia = moment("2018-25-02")
@@ -59,7 +59,7 @@ Caso a biblioteca não consiga converter a string informada em data o método `i
 moment("abcxyz").isValid() // false
 ```
 
-#### Convertendo Unix Timestamp
+#### Convertendo um Unix Timestamp
 
 Para criar um objeto moment a partir de um *unix timestamp* utilizamos a função `unix()`:
 
@@ -69,11 +69,11 @@ const day = moment().unix(1318781889)
 
 ## Manipular
 
-Depois de já termos criado um objeto moment, podemos utilizar diversas funções para manipular o seu valor.
+Depois de já ter criado um objeto moment, podemos utilizar diversas funções para manipular o seu valor.
 
 #### Adicionando e Subtraindo
 
-Podemos chamar a função `add(Number, String)` para adicionar valores da mesma forma que a  `subtract(Number, String)` para subtrair valores:
+Podemos usar a função `add(Number, String)` para adicionar valores da mesma forma que a `subtract(Number, String)` para subtrair valores:
 
 ```
 moment("2018-02-24").add(2, "days") // 2018-02-26
