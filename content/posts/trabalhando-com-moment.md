@@ -1,5 +1,5 @@
 ---
-title: Trabalhando com datas no JavaScript com o Moment.js
+title: Datas no JavaScript com Moment.js
 authors: Breno Panzolini
 type: post
 date: 2018-02-24
@@ -128,4 +128,4 @@ Esse post foi para introduzir e mostrar algumas funções básicas do pacote **M
 
 O Moment ganhou tanto sucesso para a manipulação de datas no JavaScript que o seu criador estava até trabalhando com a equipe *core* de desenvolvimento do Node.js para introduzir algumas das funcionalidades dentro do pacote padrão de datas do Node.
 
-Aconselho que para os que querem conhecer as demais funções e facilidades do pacote que consulte a [documentação oficial](https://momentjs.com/docs/).
+Aconselho para os que querem conhecer as demais funções e facilidades do pacote que consulte a [documentação oficial](https://momentjs.com/docs/).
