@@ -4,13 +4,9 @@ authors: Matheus Castiglioni
 type: post
 image: http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/02/manipulando-views-no-android.jpg
 date: 2018-02-02
-excerpt: Sabemos que ficar procurando views (elementos ou componentes) no Android é um tanto quanto chato, necessitamos muitas linhas de código para realizar muito pouco. Para exemplo do post vou estar utilizando a seguinte app: Como pode ver, é uma simples ap...
+excerpt: Sabemos que ficar procurando views (elementos ou componentes) no Android é um tanto quanto chato, necessitamos muitas linhas de código para realizar muito pouco.
 categories:
   - Android
-tags:
-  - Views
-  - Manipulação
-  - Referência
 ---
 Sabemos que ficar procurando *views* (elementos ou componentes) no Android é um tanto quanto chato, necessitamos muitas linhas de código para realizar muito pouco. Para exemplo do *post* vou estar utilizando a seguinte *app*:
 
