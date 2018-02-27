@@ -3,7 +3,7 @@ title: Manipulando Views com Android
 authors: Matheus Castiglioni
 type: post
 image: http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/02/manipulando-views-no-android.jpg
-date: 2018-02-02
+date: 2018-03-02
 excerpt: Sabemos que ficar procurando views (elementos ou componentes) no Android é um tanto quanto chato, necessitamos muitas linhas de código para realizar muito pouco.
 categories:
   - Android
@@ -245,3 +245,5 @@ public class MainActivity extends AppCompatActivity {
 Caso deseje, o projeto pode ser encontrado em meu github: [injetando-views](https://github.com/mahenrique94/injetando-views)
 
 No próximo *post* irei mostrar como deixar esse trabalho de injeção e referências de *views* mais simples (curioso com o *spoiler*? Não deixe de conferir).
+
+Publicado originalmente em [blog.matheuscastiglioni.com.br](http://blog.matheuscastiglioni.com.br/manipulando-views-no-android) em 27 de Fevereiro de 2018
