@@ -16,7 +16,7 @@ Como pode ver, é uma simples aplicação onde dado um **Nome** é informado um 
 
 ## Criando nosso layout
 
-Como o tema do *post* é focar na injeção de *views* irei dar o *layout* da aplicação pronto, assim podemos economisar tempo e focar apenas no desenvolvimento da *app*:
+Como o tema do *post* é focar na injeção de *views* vou dar o *layout* da aplicação pronto, assim podemos economizar tempo e focar apenas no desenvolvimento da *app*:
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -54,7 +54,7 @@ Como o tema do *post* é focar na injeção de *views* irei dar o *layout* da ap
 </LinearLayout>
 ```
 
-Com esse *layout* teremos nossa *app* com a seguinte aparência:
+Com esse *layout* temos nossa *app* com a seguinte aparência:
 
 ![Aparencia Injetando Views](http://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/aparencia-injetando-views.png)
 
@@ -86,7 +86,7 @@ btnOla.setOnClickListener(new View.OnClickListener() {
 });
 ```
 
-Pronto, estamos passando uma [classe anônima](https://www.devmedia.com.br/classes-anonimas-e-aninhadas-em-java/31167), mas se você fez o código exatamente da forma que esta ácima, sua classe ainda não deve estar compilando, afinal, o que está acontecendo? Aqui a classe não compila porque não escrevemos o método que nossa *interface* exige, para isso, precisamos sobrescrever o método `onClick`:
+Pronto, estamos passando uma [classe anônima](https://www.devmedia.com.br/classes-anonimas-e-aninhadas-em-java/31167), mas se você fez o código exatamente da forma que esta acima, sua classe ainda não deve estar compilando, afinal, o que está acontecendo? Aqui a classe não compila porque não escrevemos o método que nossa *interface* exige, para isso, precisamos sobrescrever o método `onClick`:
 
 ```java
 btnOla.setOnClickListener(new View.OnClickListener() {
@@ -244,6 +244,6 @@ public class MainActivity extends AppCompatActivity {
 
 Caso deseje, o projeto pode ser encontrado em meu github: [injetando-views](https://github.com/mahenrique94/injetando-views)
 
-No próximo *post* irei mostrar como deixar esse trabalho de injeção e referências de *views* mais simples (curioso com o *spoiler*? Não deixe de conferir).
+No próximo *post* vou mostrar como deixar esse trabalho de injeção e referências de *views* mais simples (curioso com o *spoiler*? Não deixe de conferir).
 
 Publicado originalmente em [blog.matheuscastiglioni.com.br](http://blog.matheuscastiglioni.com.br/manipulando-views-no-android) em 27 de Fevereiro de 2018
