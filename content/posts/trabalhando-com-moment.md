@@ -2,7 +2,7 @@
 title: Datas no JavaScript com Moment.js
 authors: Breno Panzolini
 type: post
-date: 2018-02-24
+date: 2018-02-28
 excerpt: Como utilizar o pacote Moment.js para trabalhar de maneira mais eficiente com datas no JavaScript.
 categories:
   - JavaScript
