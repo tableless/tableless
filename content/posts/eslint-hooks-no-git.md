@@ -3,7 +3,7 @@ title: Usando ESlint e hooks no git
 authors: Tailo Mateus Gonsalves
 type: post
 image: https://cdn-images-1.medium.com/max/1600/1*5ytPO1t6Dhz-RuN0NtBiJw.jpeg
-date: 2017-03-05
+date: 2018-03-05
 excerpt: Como mandar bem nos commits
 categories:
   - Front-end
