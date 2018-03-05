@@ -8,17 +8,17 @@ excerpt: Como mandar bem nos commits
 categories:
   - Front-end
   - JavaScript
-  - Código
+  - CÃ³digo
   - Git
 ---
 
-Quantas vezes você mandou aquele push com erros ou totalmente fora do padrão? Aquele commit faltando 5 minutos para acabar o horário de expediente.  Isso pode acontecer com qualquer pessoa, indiferente se você é um iniciante ou um “senior” que só faz coisas fantásticas. Cabe a nós melhorar as nossas limitações ou falta de atenção. O objetivo deste artigo é te ajudar nesse quesito.
+Quantas vezes vocÃª mandou aquele push com erros ou totalmente fora do padrÃ£o? Aquele commit faltando 5 minutos para acabar o horÃ¡rio de expediente.  Isso pode acontecer com qualquer pessoa, indiferente se vocÃª Ã© um iniciante ou um â€œseniorâ€ que sÃ³ faz coisas fantÃ¡sticas. Cabe a nÃ³s melhorar as nossas limitaÃ§Ãµes ou falta de atenÃ§Ã£o. O objetivo deste artigo Ã© te ajudar nesse quesito.
 
 ## Criando o package.json
 
 Com isso, vai criar o arquivo e aceitar todos os valores default:
 ```
-npm init –y
+npm init â€“y
 ```
 Para saber mais:
 
@@ -28,39 +28,39 @@ Para saber mais:
 
 ## Instalando ESlint
 
-É um analisador de código JavaScript, criado em 2013 por Nicholas C. Zakas. Basicamente, ESlint permite que os desenvolvedores encontrem problemas e criem suas próprias regras e padrões de desenvolvimento. Escrito em Node.js podemos instalá-lo via npm.
+Ã‰ um analisador de cÃ³digo JavaScript, criado em 2013 por Nicholas C. Zakas. Basicamente, ESlint permite que os desenvolvedores encontrem problemas e criem suas prÃ³prias regras e padrÃµes de desenvolvimento. Escrito em Node.js podemos instalÃ¡-lo via npm.
 
 ```
 npm install eslint --save-dev
 ```
-Configurando o arquivo de configuração:
+Configurando o arquivo de configuraÃ§Ã£o:
 ```
 ./node_modules/.bin/eslint --init
 ```
-Selecione a opção: “Use a popular style guide” e após selecione o style guide da empresa que preferir.
+Selecione a opÃ§Ã£o: â€œUse a popular style guideâ€ e apÃ³s selecione o style guide da empresa que preferir.
 
-Selecione o formato do arquivo em “JavaScript”. Após esses passos e se tudo ocorreu bem, vai ser criado o arquivo .eslintrc.js. 
+Selecione o formato do arquivo em â€œJavaScriptâ€. ApÃ³s esses passos e se tudo ocorreu bem, vai ser criado o arquivo .eslintrc.js. 
 
 ## Testando ESlint
 
-Crie um arquivo chamado main.js, dentro dele coloca o código:
+Crie um arquivo chamado main.js, dentro dele coloca o cÃ³digo:
 ```
 a = 10
 const b = 5;
 b = 10
 ```
 
-Ao ler o código, podemos perceber que vai acontecer alguns erros. Mas vamos testar como o ESlint se comporta, para executar:
+Ao ler o cÃ³digo, podemos perceber que vai acontecer alguns erros. Mas vamos testar como o ESlint se comporta, para executar:
 
 ```
 ./node_modules/.bin/eslint *.js
 ```
 
-Agora é só corrigir os erros :D
+Agora Ã© sÃ³ corrigir os erros :D
 
 Para saber mais: 
 
-[Documentação ESlint] (https://eslint.org)
+[DocumentaÃ§Ã£o ESlint] (https://eslint.org)
 
 [Demo ESlint] (https://eslint.org/demo/)
 
@@ -70,8 +70,8 @@ Para saber mais:
 
 No arquivo package.json, substitua esse trecho:
 ```
-“scripts”: {
-	“lint”: “./node_modules/.bin/eslint *.js”
+â€œscriptsâ€: {
+	â€œlintâ€: â€œ./node_modules/.bin/eslint *.jsâ€
 }
 ```
 Para rodar no terminal:
@@ -84,7 +84,7 @@ Para saber mais:
 
 ## Hooks no git
 
-São scripts que fazem algo antes ou depois de alguma tarefa, por exemplo, antes de um commit faça algo.
+SÃ£o scripts que fazem algo antes ou depois de alguma tarefa, por exemplo, antes de um commit faÃ§a algo.
 
 Instalando o Husky:
 ```
@@ -92,17 +92,17 @@ npm install husky@next --save-dev
 ```
 Para utilizar vamos adicionar o comando prepush no npm scripts:
 ```
-“scripts”: {
-	“lint”: “./node_modules/.bin/eslint *.js”,
-	“prepush”: “lint”
+â€œscriptsâ€: {
+	â€œlintâ€: â€œ./node_modules/.bin/eslint *.jsâ€,
+	â€œprepushâ€: â€œlintâ€
 }
 ```
 Antes de enviarmos o push, vai executar o lint.
 
 Para saber mais:
 
-[Repositório GitHub] (https://github.com/typicode/husky)
+[RepositÃ³rio GitHub] (https://github.com/typicode/husky)
 
-## Conclusão
+## ConclusÃ£o
 
-Espero ter ajudado. Qualquer dúvida, em todas as partes deste artigo tem referências. Tem alguma dica? Deixa nos comentários :D
+Espero ter ajudado. Qualquer dÃºvida, em todas as partes deste artigo tem referÃªncias. Tem alguma dica? Deixa nos comentÃ¡rios :D
