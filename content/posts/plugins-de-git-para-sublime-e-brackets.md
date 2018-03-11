@@ -6,6 +6,7 @@ date: 2015-01-20
 excerpt: Conheça alguns plugins para integrar o Git no Sublime e Brackets
 url: /plugins-de-git-para-sublime-e-brackets/
 categories:
+  - git
   - Código
   - Editores
 tags:

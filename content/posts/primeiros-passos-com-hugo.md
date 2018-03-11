@@ -9,6 +9,11 @@ categories:
   - Front-end
   - Código
   - Tecnologia e Tendências
+  - hugo
+  - jamstack
+tags:
+  - hugo
+  - jamstack
 ---
 
 [**HUGO**](http://gohugo.io/) é um gerador de sites estáticos escrito com Golang que vem ganhando muita visibilidade devido a sua rapidez para gerar/compilar conteúdos. Ao lado de Jekyll (escrito em Ruby) ambos os geradores disponibilizam uma gama enorme de recursos para que você possa criar um site ou um blog em minutos.

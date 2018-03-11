@@ -8,14 +8,13 @@ url: /criando-paginas-web-para-seus-repositorios-com-o-github-pages/
 dsq_thread_id: 1544020576
 categories:
   - O Básico
+  - git
+  - jamstack
   - Técnicas e Práticas
 tags:
   - github
-  - github pages
-  - iniciantes
-  - iniciantes git
-  - iniciantes github
-  - páginas no github
+  - git
+  - jamstack
 
 ---
 O github é um dos principais meios de compartilhamento de projetos disponíveis na internet, lá, encontram-se desde projetos simples até projetos extremamente complexos, como o kernel do linux (<https://github.com/torvalds/linux>).

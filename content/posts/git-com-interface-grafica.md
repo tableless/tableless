@@ -5,14 +5,10 @@ type: post
 date: 2012-11-26
 excerpt: Aplicações visuais para o Git.
 url: /git-com-interface-grafica/
-tweetbackscheck:
-  - 1356410495
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7301";s:7:"tinyurl";s:26:"http://tinyurl.com/coj7kbg";s:4:"isgd";s:19:"http://is.gd/uZqDRf";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 944349926
 categories:
+  - git
+  - jamstack
   - O Básico
   - Técnicas e Práticas
 tags:
@@ -20,7 +16,6 @@ tags:
   - git
   - github
   - versionamento
-
 ---
 Você deve não gostar de usar Git no terminal do windows, mac ou linux. As vezes você faz muitas alterações e é chato você parar a todo momento para commitar alterações separadas. Prejudica o fluxo do seu trabalho e você acabada perdendo o foco. Por isso as vezes é interessante você usar uma interface mais humana para facilitar as coisas. No site do Git tem [indicações interessantes][1] para você poder baixar e utilizar o Git de um jeito mais confortável.
 

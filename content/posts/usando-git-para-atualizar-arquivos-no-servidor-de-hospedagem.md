@@ -7,9 +7,11 @@ url: /usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem/
 categories:
   - Artigos
   - KingHost
+  - jamstack
   - O Básico
 tags:
   - git
+  - jamstack
   - kinghost
 ---
 

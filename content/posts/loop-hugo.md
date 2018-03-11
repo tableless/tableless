@@ -8,10 +8,12 @@ image: https://i.imgur.com/9z3fw2C.jpg
 excerpt: Entenda como interar nas arrays do Hugo
 categories:
   - Hugo
+  - jamstack
   - Wordpress
   - CMS
 tags:
   - Hugo
+  - jamstack
   - Wordpress
   - CMS
 ---

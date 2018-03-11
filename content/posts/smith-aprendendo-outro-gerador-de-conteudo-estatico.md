@@ -8,8 +8,10 @@ url: /wintersmith-aprendendo-outro-gerador-de-conteudo-estatico/
 dsq_thread_id: 2125264349
 categories:
   - Código
+  - jamstack
   - Técnicas e Práticas
 tags:
+  - jamstack
   - front-end
   - wintersmith
 

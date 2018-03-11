@@ -7,11 +7,13 @@ excerpt: Entenda como o Jekyll funciona e como ele pode te ajudar a fazer websit
 url: /jekyll-servindo-sites-estaticos/
 dsq_thread_id: 1954136445
 categories:
+  - jamstack
   - Código
   - HTML
   - Técnicas e Práticas
 tags:
   - html
+  - jamstack
   - jekyll
   - markdown
   - ruby

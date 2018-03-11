@@ -5,19 +5,16 @@ type: post
 date: 2012-11-19
 excerpt: Entenda o que é o Git e como iniciar um projeto.
 url: /iniciando-no-git-parte-1/
-tweetbackscheck:
-  - 1356388952
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7263";s:7:"tinyurl";s:26:"http://tinyurl.com/c4pazzm";s:4:"isgd";s:19:"http://is.gd/5zK81e";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 934536242
 categories:
   - O Básico
+  - git
+  - jamstack
   - Técnicas e Práticas
 tags:
   - 2012
   - codigo
+  - jamstack
   - controle versao
   - git
 

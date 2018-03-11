@@ -9,10 +9,12 @@ dsq_thread_id: 2899659611
 categories:
   - Código
   - middleman
+  - jamstack
   - CSS
   - HTML
   - Técnicas e Práticas
 tags:
+  - jamstack
   - html
   - jekyll
   - middleman
