@@ -48,19 +48,19 @@ Essas claims podem ser de 3 tipos:
 
 **Reserved claims:** atributos não obrigatórios (mas recomendados) que são usados na validação do token pelos protocolos de segurança das APIs.
 
-    sub (subject) = Entidade à quem o token pertence, normalmente o ID do usuário;
-    iss (issuer) = Emissor do token;
-    exp (expiration) = Timestamp de quando o token irá expirar;
-    iat (issued at) = Timestamp de quando o token foi criado;
-    aud (audience) = Destinatário do token, representa a aplicação que irá usá-lo.
+- sub (subject) = Entidade à quem o token pertence, normalmente o ID do usuário;
+- iss (issuer) = Emissor do token;
+- exp (expiration) = Timestamp de quando o token irá expirar;
+- iat (issued at) = Timestamp de quando o token foi criado;
+- aud (audience) = Destinatário do token, representa a aplicação que irá usá-lo.
 
 Geralmente os atributos mais utilizados são: **sub**, **iss **e **exp**.
 
 **Public claims:** atributos que usamos em nossas aplicações. Normalmente armazenamos as informações do usuário autenticado na aplicação.
 
-    name
-    roles
-    permissions
+- name
+- roles
+- permissions
 
 **Private claims:** atributos definidos especialmente para compartilhar informações entre aplicações.
 
