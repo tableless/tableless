@@ -5,7 +5,7 @@ type: post
 publishdate: 2018-01-16
 date: 2018-01-16
 image: https://i.imgur.com/xlmBMTE.jpg
-excerpt: O botão é um dos elementos de UI mais comuns e está presente em praticamente qualquer interface.
+excerpt: Para os desligados, entenda por que a neutralidade da rede está em perigo.
 categories:
   - Publieditorial
   - Notícias
