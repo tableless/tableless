@@ -5,6 +5,7 @@ type: post
 date: 2017-09-20
 excerpt: GraphQL é uma linguagem de consulta de dados desenvolvida e usada pelo Facebook, saiba como utilizá-la com Node.js
 categories:
+  - graphql
   - nodejs
   - javascript
 image: https://cdn-images-1.medium.com/max/800/1*rxD2eVeer-CENwpg_OvqEA.png
