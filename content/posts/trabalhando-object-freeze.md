@@ -12,3 +12,76 @@ tags:
   - NodeJS
 image:  http://sub1.kevinchisholm.com/blog/images/javascript-logo.png
 ---
+
+Nesse post vou apresentar a funcionalidade do método **Object.freeze()** e como podemos utilizá-lo para congelar nossos objetos e assim deixar nosso código JavaScript um pouco mais elegante.
+
+## O problema
+
+Quem conhece ou trabalha com programação orientada à objetos já está acostumado a naturalmente agrupar funções e comportamentos semelhantes dentro de `classes`, como por exemplo:
+
+```
+// Quadrado.js
+
+export default class Quadrado {
+  constructor (lado) {
+    this.lado = lado
+  }
+
+  function area () {
+    return this.lado * this.lado
+  }
+}
+
+// Index.js
+
+const quadrado = new Quadrado(5)
+const resultado = quadrado.area()
+```
+
+Apesar de não haver nenhum erro na implementação acima, as classes e objetos no JavaScript apresentam um comportamento que podem ocasionar certa "dor de cabeça" se não tomarmos o devido cuidado e atenção.
+
+Por exemplo, os objetos instanciados através da palavra `new` são **mutáveis**, ou seja, conseguimos mudar o comportamento padrão de objeto. Voltando para o exemplo da classe `Quadrado` apresentada acima, poderíamos fazer:
+
+```
+const quadrado = new Quadrado(2)
+quadrado.area = () => console.log('outro comportamento')
+
+const resultado = quadrado.area()
+// Mudamos o comportamento da função area() e teremos um resultado completamente diferente do esperado
+```
+
+## A solução
+
+Para nos "proteger" do cenário apresentado acima, podemos utilizar o método **Object.freeze()** para congelar nossas classes e objetos:
+
+```
+// Quadrado.js
+
+export default function newQuadrado (lado) {
+  return Object.freeze({
+    area
+  })
+
+  function area () {
+    return lado * lado
+  }
+}
+
+// Index.js
+
+const quadrado = newQuadrado(5)
+const resultado = quadrado.area()
+```
+
+Com a nossa implementação acima não precisamos mais:
+* Da palavra reservada `new`
+* Da palavra reservada `this`
+* E o principal é que agora o nosso objeto está **imutável**
+
+Quando utilizamos o método **Object.freeze()** nós literalmente congelamos o objeto, impedindo que novas propriedades sejam adicionadas, removidas, além disso os _prototypes_ não podem ser alterados.
+
+## Vá com calma
+
+Apesar de ser uma técnica muito boa para evitar a mutabilidade dos nossos objetos, criar as classes com o **Object.freeze()** é mais lento e consome mais memória do que a forma tradicional.
+
+Não existe nada perfeito e tudo é uma questão de escolha, ou seja, vai depender especificamente de cada cenário e situação. Em determinados momentos podemos utilizar a forma apresentada acima e em outros a forma tradicional de criação de classes do JavaScript.
