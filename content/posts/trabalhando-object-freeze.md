@@ -78,7 +78,7 @@ Com a nossa implementação acima não precisamos mais:
 * Da palavra reservada `this`
 * E o principal é que agora o nosso objeto está **imutável**
 
-Quando utilizamos o método **Object.freeze()** nós literalmente congelamos o objeto, impedindo que novas propriedades sejam adicionadas, removidas, além disso os _prototypes_ não podem ser alterados.
+Quando utilizamos o método **Object.freeze()** nós literalmente congelamos o objeto, impedindo que novas propriedades sejam adicionadas e removidas. Além disso os _prototypes_ também não podem ser alterados.
 
 ## Vá com calma
 
@@ -92,4 +92,4 @@ Esse post foi para apresentar a funcionalidade do método **Object.freeze()** e 
 
 O post foi baseado no artigo [Elegant Patterns in Modern JavaScript - Ice Factory](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee) onde o autor apresenta mais a fundo o padrão *Ice Factory* e os benefícios dessa técnica.
 
-Quem quiser conhecer mais sobre o **Object.freeze()** pode também consultar a [documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze).
+Quem quiser conhecer mais sobre o **Object.freeze()** pode também consultar a [documentação oficial](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze).
