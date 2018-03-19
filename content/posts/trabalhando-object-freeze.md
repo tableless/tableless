@@ -2,6 +2,7 @@
 title: Congelando seus objetos no JavaScript
 authors: Breno Panzolini
 type: post
+publishdate: 2018-03-22
 date: 2018-03-19
 excerpt: Como utilizar o método Object.freeze() para congelar seus objetos no JavaScript.
 categories:
@@ -10,7 +11,7 @@ categories:
 tags:
   - JavaScript
   - NodeJS
-image:  http://sub1.kevinchisholm.com/blog/images/javascript-logo.png
+image: https://i.imgur.com/mVJXrK1.jpg
 ---
 
 Nesse post vou apresentar a funcionalidade do método **Object.freeze()** e como podemos utilizá-lo para congelar nossos objetos e assim deixar nosso código JavaScript um pouco mais elegante.

@@ -3,7 +3,7 @@ title: O que é link canônico
 authors: Diego Eis
 type: post
 excerpt: O Link Canônico melhora os sinais de ranking de conteúdos diferentes, que podem ter suas referências relacionadas à uma página específica.
-publishdate: 2018-03-23
+publishdate: 2018-03-26
 date: 2018-03-18
 image: https://i.imgur.com/ZJuYmvx.png
 categories:
