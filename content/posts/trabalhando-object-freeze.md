@@ -85,3 +85,11 @@ Quando utilizamos o método **Object.freeze()** nós literalmente congelamos o o
 Apesar de ser uma técnica muito boa para evitar a mutabilidade dos nossos objetos, criar as classes com o **Object.freeze()** é mais lento e consome mais memória do que a forma tradicional.
 
 Não existe nada perfeito e tudo é uma questão de escolha, ou seja, vai depender especificamente de cada cenário e situação. Em determinados momentos podemos utilizar a forma apresentada acima e em outros a forma tradicional de criação de classes do JavaScript.
+
+## Conclusão
+
+Esse post foi para apresentar a funcionalidade do método **Object.freeze()** e mostrar uma das formas de como criar classes e objetos imutáveis no JavaScript.
+
+O post foi baseado no artigo [Elegant Patterns in Modern JavaScript - Ice Factory](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee) onde o autor apresenta mais a fundo o padrão *Ice Factory* e os benefícios dessa técnica.
+
+Quem quiser conhecer mais sobre o **Object.freeze()** pode também consultar a [documentação](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object/freeze).
