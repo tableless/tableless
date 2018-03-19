@@ -2,6 +2,7 @@
 title: O que é link canônico
 authors: Diego Eis
 type: post
+publishdate: 2018-03-23
 date: 2018-03-18
 image: https://i.imgur.com/ZJuYmvx.png
 categories:
