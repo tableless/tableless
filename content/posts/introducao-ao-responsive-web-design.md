@@ -5,12 +5,6 @@ type: post
 date: 2011-08-15
 excerpt: Responsive Web Design é um nome bonito para um conceito antigo. Hoje seus usuários utilizam diversos dispositivos e meios de acesso para encontrar informação. Saiba como podemos entregar informação de forma eficaz e inteligente.
 url: /introducao-ao-responsive-web-design/
-tweetbackscheck:
-  - 1356388379
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4029";s:7:"tinyurl";s:26:"http://tinyurl.com/3wwggtd";s:4:"isgd";s:19:"http://is.gd/ZvzlSg";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 503016180
 categories:
   - Acessibilidade
@@ -182,6 +176,12 @@ Algumas referências que você pode querer dar uma olhada:
   * [Guidelines for Responsive Web Design][12]
   * [Designing for a Responsive Web with Heuristic Methods][13]
   * [The Big Web Show sobre Responsive Web Design][14]
+
+
+---
+
+Fabulosa ferramenta gratuita para [transformar seus videos](http://www.freemake.com/br/free_video_converter/) em formatos HTML5 e incorporá-los em sua página. 
+
 
  [1]: http://bit.ly/pcrwxY
  [2]: http://bit.ly/mSCRSD
