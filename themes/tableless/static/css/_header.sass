@@ -199,9 +199,15 @@
 
       &:nth-child(6),
       &:nth-child(7),
-      &:nth-child(8)
+      &:nth-child(8),
+      &:nth-child(9),
         border: none
-  
+        margin-left: 7px
+        padding-left: 7px
+
+      &:nth-child(6)
+        margin-left: 25px
+
     .tb-lnk-forum
       flex: 1 0 100%
       display: block
@@ -217,8 +223,10 @@
 
     .tb-lnk-social 
       border: none
+      display: inline-block
+      vertical-align: middle
 
-      img
+      img, svg
         max-height: 24px
         vertical-align: middle
         width: auto
