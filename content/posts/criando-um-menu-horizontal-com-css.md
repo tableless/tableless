@@ -6,6 +6,7 @@ date: 2007-12-06
 excerpt: Aprenda como criar um menu horizontal padrão com CSS.
 url: /criando-um-menu-horizontal-com-css/
 dsq_thread_id: 503014507
+sponsor: alura
 categories:
   - Artigos
   - CSS
@@ -106,3 +107,4 @@ Essa é a forma resumida e simples sobre como fazemos todos os menus horizontais
 
  [1]: http://tableless.com.br/video-menu-horizontal-em-5-minutos
  [2]: http://campus.tableless.com.br/
+

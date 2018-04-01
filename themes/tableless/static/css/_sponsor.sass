@@ -1,0 +1,58 @@
+.tb-sponsor-paragraph
+  padding: 20px
+  margin: 30px 0 90px
+  border-top: 2px solid rgba(0, 0, 0, .2)
+  border-bottom: 2px solid rgba(0, 0, 0, .2)
+  display: flex
+  justify-content: center
+  justify-items: center
+  align-items: center
+
+  a
+    flex: 1 0 150px
+    display: block
+    max-width: 150px
+    margin: 0 30px 0 0
+
+  img
+    margin: 0 20px 0 0
+
+  p
+    strong
+      text-transform: uppercase
+      color: $red
+
+    a
+      display: inline-block
+      text-decoration: none
+      padding: 0
+      margin: 0
+
+.tb-sponsors-header
+  display: none
+
+@media #{$break-desk}
+
+  .tb-sponsors-header
+    display: block
+    position: absolute
+    top: 20px
+    left: 20px
+    font-size: 12px
+    color: rgba(0, 0, 0, .5)
+
+    ul
+      list-style: none
+      display: inline-block
+      vertical-align: middle
+      padding-left: 15px
+
+      li
+        text-align: center
+        display: inline-block
+        vertical-align: middle
+        padding: 0 10px 0 0
+
+        img
+          max-width: 50px
+          max-height: 15px

@@ -9,10 +9,6 @@ googleAnalytics = "UA-335027-1"
 enableRobotsTXT = true
 disableLiveReload = true
 
-[params]
-    siteName = "Tableless"
-    description = "Website com artigos e textos sobre Padrões Web, Design, Back-end e Front-end tudo em um só lugar. "
-
 [permalinks]
     posts = "/:filename"
     pages = "/:filename"
@@ -39,3 +35,14 @@ disableLiveReload = true
     [[related.indices]]
     name  = "tags"
     weight = 20
+
+
+[params]
+    siteName = "Tableless"
+    description = "Website com artigos e textos sobre Padrões Web, Design, Back-end e Front-end tudo em um só lugar. "
+
+    [params.sponsor]
+        [params.sponsor.alura]
+            active = true
+            site = "https://www.alura.com.br/?utm_source=tableless"
+            name = "alura"

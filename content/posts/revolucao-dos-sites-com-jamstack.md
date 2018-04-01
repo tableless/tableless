@@ -5,6 +5,7 @@ type: post
 image: https://cdn-images-1.medium.com/max/433/1*z-eMJOy5m2YVOsd--LDPEQ.png
 date: 2018-03-27
 excerpt: Uma nova maneira de criar sites e aplicativos
+sponsor: alura
 categories:
   - Tecnologias e tendências
   - JAMStack

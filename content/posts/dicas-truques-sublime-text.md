@@ -1,16 +1,11 @@
 ---
 title: Dicas e truques de Sublime Text
 authors: Diego Eis
+sponsor: alura
 type: post
 date: 2012-09-04
 excerpt: Conheça algumas dicas e truques do Sublime Text.
 url: /dicas-truques-sublime-text/
-tweetbackscheck:
-  - 1356386541
-shorturls:
-  - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/dicas-e-truques-de-sublime-text/";s:7:"tinyurl";s:26:"http://tinyurl.com/8s5l6sp";s:4:"isgd";s:19:"http://is.gd/RBWXfm";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 830376124
 categories:
   - Editores

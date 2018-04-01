@@ -20,6 +20,9 @@
       {{.Content}}
     </article>
 
+  
+    {{ partial "sponsors/sponsor-paragraph.html" . }}
+    
     <div class="tb-related-posts">
 
     {{ $related := .Site.RegularPages.Related . | first 5 }} {{ with $related }}
