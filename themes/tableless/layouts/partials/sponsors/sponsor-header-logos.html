@@ -1,9 +1,9 @@
     <div class="tb-sponsors-header">
       patrocínio: 
       <ul>
-        {{range $spon := $.Site.Params.sponsor }}
-          {{if $spon.active}}
-          <li><a href="{{$spon.site}}" class="tb-sponsor-logo tb-link-sponsor" data-sponsor-trigger="header" data-sponsor="{{$spon.name}}"><img alt="{{$spon.name}} - patrocinador oficial do Tableless" src="{{ .Site.BaseURL }}/images/sponsor/logo-{{$spon.name}}.svg"></a></li>
+        {{range $sponsor := $.Site.Params.sponsor }}
+          {{if $sponsor.active}}
+          <li><a href="{{$sponsor.site}}" class="tb-sponsor-logo" data-sponsor-trigger="header" data-sponsor="{{$sponsor.name}}"><img alt="{{$sponsor.name}} - patrocinador oficial do Tableless" src="{{ .Site.BaseURL }}/images/sponsor/logo-{{$sponsor.name}}.svg"></a></li>
           {{end}}
         {{end}}
       </ul>
