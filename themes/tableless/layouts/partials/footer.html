@@ -1,4 +1,14 @@
 
+<div class="tb-sponsors-footer">
+  <p>Este site apoiado por:</p>
+  <ul>
+    {{range $sponsor := $.Site.Params.sponsor }} {{if $sponsor.active}}
+    <li><a href="{{$sponsor.site}}" class="tb-sponsor-logo" data-sponsor-trigger="footer" data-sponsor="{{$sponsor.name}}"><img alt="{{$sponsor.name}} - patrocinador oficial do Tableless" src="{{ .Site.BaseURL }}/images/sponsor/logo-{{$sponsor.name}}.svg"></a></li>
+    {{end}} {{end}}
+  </ul>
+</div>
+
+
 <footer id="tb-footer">
   <div class="tb-container">
     <ul class="tb-social-links">
