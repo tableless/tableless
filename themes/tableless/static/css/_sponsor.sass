@@ -31,6 +31,36 @@
 .tb-sponsors-header
   display: none
 
+
+.tb-sponsors-footer
+  text-align: center
+  max-width: 1000px
+  margin: 100px auto 0px
+
+  p
+    font-style: italic
+    margin-bottom: 20px
+
+
+  li
+    max-width: 100px
+    width: 100%
+    list-style: none
+    display: inline-block
+    vertical-align: middle
+    a
+      opacity: .7
+      transition: opacity linear .15s
+
+      &:hover
+        opacity: 1
+
+  img
+    width: 100%
+    max-width: 100px
+    max-height: 70px
+
+
 @media #{$break-desk}
 
   .tb-sponsors-header
@@ -48,11 +78,15 @@
       padding-left: 15px
 
       li
+        width: 50px
+        max-width: 50px
         text-align: center
         display: inline-block
         vertical-align: middle
         padding: 0 10px 0 0
 
         img
+          width: 100%
           max-width: 50px
           max-height: 15px
+          width: 50px
