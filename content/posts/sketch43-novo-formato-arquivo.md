@@ -71,3 +71,9 @@ Além disso, designers estão aprendendo algumas coisas com os desenvolvedores, 
 - [Sketch 43: A brief tour of fact vs folklore](https://blog.prototypr.io/sketch-43-a-brief-tour-of-fact-and-folklore-7772ca7f6e61)
 - [New file format in Sketch 43](http://sketchplugins.com/d/87-new-file-format-in-sketch-43)
 - [Trocando nome de uma layer com Node](http://sketchplugins.com/d/87-new-file-format-in-sketch-43/2)
+
+---
+
+Apoio [Net Combo](https://netcombomulti.net/).
+
+---
