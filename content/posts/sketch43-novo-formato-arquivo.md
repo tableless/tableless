@@ -74,6 +74,6 @@ Além disso, designers estão aprendendo algumas coisas com os desenvolvedores, 
 
 ---
 
-Apoio [Net Combo](https://netcombomulti.net/).
+Apoio [Site NET Combo](https://netcombomulti.net/).
 
 ---
