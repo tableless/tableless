@@ -38,11 +38,16 @@
 </section>
 -->
 <a href="{{ .Site.BaseURL }}todos-os-posts/" class="tb-btn tb-btn-seeall">Artigos</a>
-<div class="tb-home-banner">
+
+<!-- <div class="tb-home-banner">
     <script class='__lxGc__' type='text/javascript'>
     ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_609049']={'i':__lxGc__.b++};
     </script>
-</div>
+</div> -->
+
+{{if .IsHome}}
+  {{partial "sponsors/sponsor-logos.html" . }}
+{{end}}
 
 <section class="tb-posts-categs">
 
