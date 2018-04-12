@@ -8,7 +8,7 @@ excerpt: Uma nova maneira de criar sites e aplicativos
 sponsor: alura
 categories:
   - Tecnologias e tendências
-  - JAMStack
+  - jamstack
 ---
 
 

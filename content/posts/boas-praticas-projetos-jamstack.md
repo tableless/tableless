@@ -9,8 +9,9 @@ categories:
   - jamstack
   - código estático
   - netlify
-  - html
-  - css
+  - hugo
+  - git
+  - Tecnologias e tendências
 ---
 
 A revolução dos sites usando uma arquitetura baseada em JavaScript, APIs e código pré gerado chama-se [JAMStack](https://tableless.com.br/revolucao-dos-sites-com-jamstack/). Essa forma de fazer websites tem como objetivo aliviar a arquitetura para manter websites ou sistemas. Pegue como exemplo o Tableless, onde nós tínhamos toda uma arquitetura sendo mantida com Wordpress e banco de dados de MySQL e [atualmente é todo estático](https://tableless.com.br/site-tableless-estatico/), usando Hugo, hospedado no Netlify e código guardado no Git. 
