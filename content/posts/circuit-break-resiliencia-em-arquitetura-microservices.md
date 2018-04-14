@@ -1,5 +1,5 @@
 ---
-title: Circuit break: Resiliência em arquitetura microservices
+title: Circuit break - Resiliência em arquitetura microservices
 authors: Evandro Passos
 type: post
 image: https://i.imgur.com/ildGxn7.jpg
