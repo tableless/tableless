@@ -3,7 +3,7 @@ title: Circuit break - Resiliência em arquitetura microservices
 authors: Evandro Passos
 type: post
 image: https://i.imgur.com/ildGxn7.jpg
-date: 2018-04-09
+date: 2018-04-15
 excerpt: Adotar uma arquitetura Microservices traz muitos benefícios, mas você precisa estar preparado para lidar com falhas nos serviços. No artigo explico como tratar problemas de Timeout utilizando Circuit Break Pattern.
 categories:
   - Artigos
