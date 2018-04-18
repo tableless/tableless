@@ -3,7 +3,7 @@ title: O que é cache e como ele pode nos ajudar
 authors: Marcello Serpa
 type: post
 publishdate: 2018-04-18
-date: 2018-04-17
+date: 2018-04-18
 excerpt: Entenda como o cache nos ajuda no dia a dia
 image: https://i.imgur.com/6s9S1wz.jpg
 categories:
