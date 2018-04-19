@@ -28,7 +28,9 @@ Esse tipo de teste é uma importante forma de mensurar, medir e identificar o qu
 
 Existem diversas formas de realizarmos testes de stress nas nossas aplicações, muitas delas necessitam que ambientes inteiros sejam montados para isolar nossa aplicação de quaisqueres fatores externos.
 
-Eu concordo que a maneira mais correta e eficaz de realizar esse tipo de teste é realmente executá-lo em um ambiente totalmente separado e exclusivo para que fatores externos não impactem o teste. Porém, muitas vezes como desenvolvedores precisamos de uma maneira rápida, simples e eficaz de executarmos esse tipo de teste. Além disso, muitas vezes estamos na fase inicial da arquitetura de uma nova API e precisamos coletar dados iniciais para decidir com qual linguagem específica ou caminho seguir.
+Eu concordo que a maneira mais correta e eficaz de realizar esse tipo de teste é realmente executá-lo em um ambiente totalmente separado e exclusivo para que fatores externos não impactem o teste. Porém, muitas vezes como desenvolvedores precisamos de uma maneira rápida, simples e eficaz de executarmos esse tipo de teste.
+
+Além disso, muitas vezes estamos na fase inicial da arquitetura de uma nova API e precisamos coletar dados iniciais para decidirmos com qual linguagem específica ou caminho seguir.
 
 ## Instalando o wrk
 
@@ -51,7 +53,9 @@ $ where wrk
 
 Como o objetivo desse artigo não é entrar no desenvolvimento em si das aplicações, vou apenas explicar bem brevemente o que vou fazer.
 
-Vou realizar o teste de stress em duas APIs muito simples, uma delas será desenvolvida em **Node com express** e a outra em **Go**. O objetivo aqui não é comparar qual das duas linguagens é melhor, mas sim mostrar como executar os testes de stress. Ambas as APIs irão realizar uma tarefa bem simples, que será executar a sequência de Fibonacci.
+Vou realizar o teste de stress em duas APIs muito simples, uma delas será desenvolvida em **Node com express** e a outra em **Go**.
+
+O objetivo aqui não é comparar qual das duas linguagens é melhor, mas sim mostrar como executar os testes de stress.
 
 ## Aplicação Node
 
@@ -111,7 +115,7 @@ func fibonacci(num int) int {
 
 # Executando os testes de stress
 
-Ambas as aplicações vão rodar na porta 5050 e vamos executar o seguinte teste de stress: fazer a requisiço no nossa aplicação durante 10 segundos simulando 100 conexões, ou seja, vamos ter que executar o seguinte comando **wrk**
+Ambas as aplicações vão rodar na porta 5050 e vamos executar o seguinte teste: fazer a requisição no nossa aplicação durante 10 segundos simulando 100 conexões, ou seja, vamos ter que executar o seguinte comando **wrk**
 
 ```
 $ wrk -c 100 -d 10s http://localhost:5050
