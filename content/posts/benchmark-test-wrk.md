@@ -51,16 +51,101 @@ $ where wrk
 
 Como o objetivo desse artigo não é entrar no desenvolvimento em si das aplicações, vou apenas explicar bem brevemente o que vou fazer.
 
-Vou realizar o teste de stress em duas APIs muito simples, uma delas será desenvolvida em **Node.js** e a outra em **Go**, o objetivo aqui não é comparar qual das duas linguagens é melhor, mas sim mostrar como executar os testes de stress. Ambas as APIs irão realizar uma tarefa bem simples, que será executar a sequência de Fibonacci.
+Vou realizar o teste de stress em duas APIs muito simples, uma delas será desenvolvida em **Node com express** e a outra em **Go**. O objetivo aqui não é comparar qual das duas linguagens é melhor, mas sim mostrar como executar os testes de stress. Ambas as APIs irão realizar uma tarefa bem simples, que será executar a sequência de Fibonacci.
 
 ## Aplicação Node
 
 ```javascript
+const express = require('express')
+const app = express()
 
+function fibonacci (num) {
+  if (num === 0 || num === 1) {
+    return num
+  }
+  return fibonacci(num - 1) + fibonacci(num - 2)
+}
+
+app.get('/', (req, res) => {
+  const result = fibonacci(10)
+  return res.send(`Result = ${result}`)
+})
+
+app.listen(5050, () => console.log('Listening on port 5050'))
 ```
 
 ## Aplicação Go
 
 ```go
+package main
 
+import (
+	"fmt"
+	"log"
+	"net/http"
+)
+
+func handler(w http.ResponseWriter, r *http.Request) {
+	result := fibonacci(10)
+	fmt.Fprintf(w, "Result = %v", result)
+}
+
+func main() {
+	http.HandleFunc("/", handler)
+	err := http.ListenAndServe(":5050", nil)
+	if err != nil {
+		log.Fatal(err)
+	}
+}
+
+func fibonacci(num int) int {
+	if num == 0 {
+		return num
+	}
+	if num == 1 {
+		return num
+	}
+	return fibonacci(num-1) + fibonacci(num-2)
+}
 ````
+
+# Executando os testes de stress
+
+Ambas as aplicações vão rodar na porta 5050 e vamos executar o seguinte teste de stress: fazer a requisiço no nossa aplicação durante 10 segundos simulando 100 conexões, ou seja, vamos ter que executar o seguinte comando **wrk**
+
+```
+$ wrk -c 100 -d 10s http://localhost:5050
+```
+
+## Testando a aplicação Node
+
+```
+# Primeiro inicio a API
+$ node index.js
+Listening on port 5050
+```
+
+Agora em um outro terminal vou executar o teste:
+
+![Teste stress Node](https://i.imgur.com/rm3gw1f.png)
+
+## Testando a aplicação Go
+
+```
+# Primeiro inicio a API
+$ go run main.go
+```
+
+Agora em um outro terminal vou executar o teste:
+
+![Teste stress Go](https://i.imgur.com/qkQCmGU.png)
+
+## Resultados do teste
+
+Após realizar os dois testes acima, podemos tirar métricas importantes como latência, e a quantidade de requests por segundo. No exemplo podemos notar que a aplicação em **Node** rodando no meu computador local **(o que não se compara com as configurações de um servidor real de produção)** consegue atender 5.936 requests/seg, enquanto que a aplicação em **Go** atende 38.400 requests/seg.
+
+# Conclusão
+
+Esse artigo foi para mostrar uma maneira simples de realizarmos testes de stress na nossa máquina localmente, óbvio que para cenários mais concretos e complexos precisamos executar o teste em ambientes específicos para esse tipo de teste de performance, porém o **wrk** se mostra uma eficiente ferramenta para testes iniciais.
+
+Quem quiser conhecer todos os parâmetros e opções disponíveis do **wrk** basta consultar o [repositório oficial](https://github.com/wg/wrk).
