@@ -1,4 +1,3 @@
-
 ---
 title: Realizando testes de stress em sua API de maneira simples
 authors: Breno Panzolini
