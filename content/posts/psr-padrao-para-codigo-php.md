@@ -2,7 +2,7 @@
 title: PSR - Seguindo Padrões em PHP
 authors: Morais Junior
 type: post
-image: http://imgur.com/endereco-da-imagem-de-destaque.jpg
+image: https://dunglas.fr/wp-content/uploads/2015/05/PSR-7.png
 date: 2017-01-19
 excerpt: Poucos conhecem o PSR, ele é um padrão para escrita de códigos em PHP que deve ser seguido :)
 categories:
@@ -13,7 +13,7 @@ O PSR nasceu com o objetivo de criar um padrão universal de desenvolvimento, cr
 Este documento engloba muitas regras e tem varias verções, pode ser complicado de se colocar em prática com perfeição, mas para isso existe ferramentas e validadores que irão ajudar nessa tarefa, dentres eles o PHP_CodeSniffer, entrarei em detalhes sobre ele no proximo artigo, por hoje iremos focar no padrão.
 
 Descreverei aqui apenas um resumo, porem você pode se aprofundar no link abaixo:
-[PHP Framework Interoperability Group]: https://www.php-fig.org/
+[PHP Framework Interoperability Group](https://www.php-fig.org/ "PHP Framework Interoperability Group")
 
 ## Geral
 - O código DEVE usar 4 espaços para indentação ao invés de tabs..
@@ -28,7 +28,7 @@ Descreverei aqui apenas um resumo, porem você pode se aprofundar no link abaixo
 - Palavras-chave do PHP DEVEM ser em letra minúscula (lower case).
 - As constantes do PHP true, false e null DEVEM ser em letra minúscula (lower case).
 
-##Classes e Namespaces
+## Classes e Namespaces
 - Os arquivos devem conter apenas código PHP.
 - Os arquivos DEVEM usar apenas as tags `<?php` and `<?=` tags.
 - Arquivos devem usar apenas UTF-8.
@@ -40,7 +40,7 @@ Descreverei aqui apenas um resumo, porem você pode se aprofundar no link abaixo
 - As constantes de classe DEVEM ser declaradas em maiúsculas com os separadores de sublinhado.
 - A palavra-chave VAR não deve ser usada para declarar uma propriedade.
 
-  ~~~php
+```php
 <?php  
 namespace Vendor\Package;
 
@@ -68,14 +68,15 @@ class Foo extends Bar implements FooInterface
         // method body
     }
 }
-  ~~~
+```
 
-##Blocos de controle e funçoes
+## Blocos de controle e funçoes
 - Palavras-chave de controle (if, while, for, foreach, switch) dever ter um espaço entre a o fechamento do parentese e abertura do bloco.
 - Na lista de argumentos, NÃO DEVE haver um espaço antes de cada vírgula e DEVE haver um espaço após cada vírgula.
 - Blocos de controle como if devem ter a abertura de bloco na mesma linha e fechamento em uma linha isolada
 
-~~~php
+
+```php
 <?php
 function foo()
 {
@@ -85,7 +86,6 @@ function foo()
 if($argumento1,espaço $argumento2,espaço $argumento3  = [])espaço{
     4espaçoes codigo
 }
-~~~
+```
 
-
-Atualmente está em vigor a [PSR-4]:https://www.php-fig.org/psr/psr-4/ porem é muito importante se manter atualizado e sempre consultar a documentação oficial no PHP-FIG :)
+Atualmente existe a [PSR-4](https://www.php-fig.org/psr/psr-4/ "PSR-4") porem é muito importante se manter atualizado e sempre consultar a documentação oficial no [PHP-FIG](https://www.php-fig.org/ "PHP-FIG") :)
