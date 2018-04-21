@@ -3,7 +3,7 @@ title: Como usar auth no Firebase
 authors: Morais Junior
 type: post
 image: https://firebase.google.com/images/social.png
-date: 2018-04-13
+date: 2018-04-21
 excerpt: Autenticação de usuário com o Firebase Auth
 categories:
   - Artigos
