@@ -3,7 +3,7 @@ title: PSR - Seguindo Padrões em PHP
 authors: Morais Junior
 type: post
 image: https://dunglas.fr/wp-content/uploads/2015/05/PSR-7.png
-date: 2017-04-21
+date: 2018-04-21
 excerpt: Poucos conhecem o PSR, ele é um padrão para escrita de códigos em PHP que deve ser seguido :)
 categories:
   - PHP
