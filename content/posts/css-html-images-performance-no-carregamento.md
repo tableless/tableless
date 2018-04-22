@@ -1,5 +1,5 @@
 +---
-+title: Otimizando arquivos CSS, HTML e IMAGES para melhorar a performance
++title: CSS, HTML e IMAGES  - Performance no carregamento
 +authors: Morais Junior
 +type: post
 +image: https://www.globaldots.com/wordpress/wp-content/uploads/2016/11/speed-analysis.jpg
