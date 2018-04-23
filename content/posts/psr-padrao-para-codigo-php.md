@@ -9,10 +9,10 @@ categories:
   - PHP
 ---
 # Padrão Básico de Codificação
-O PSR nasceu com o objetivo de criar um padrão universal de desenvolvimento, criado pelo PHP Framework Interoperability Group é o principal padrão utilizado hoje em dia, portando se você trabalha com algum framework ou utiliza alguma biblioteca de terceiro, já teve contato com esse padrão e nem sabia :)
-Este documento engloba muitas regras e tem varias verções, pode ser complicado de se colocar em prática com perfeição, mas para isso existe ferramentas e validadores que irão ajudar nessa tarefa, dentres eles o PHP_CodeSniffer, entrarei em detalhes sobre ele no proximo artigo, por hoje iremos focar no padrão.
+O PSR nasceu com o objetivo de criar um padrão universal de desenvolvimento, criado pelo PHP Framework Interoperability Group é o principal padrão utilizado hoje em dia, portanto se você trabalha com algum framework ou utiliza alguma biblioteca de terceiro, já teve contato com esse padrão e nem sabia :)
+Este documento engloba muitas regras e tem várias versões, pode ser complicado de se colocar em prática com perfeição, mas para isso existem ferramentas e validadores que irão ajudar nessa tarefa, dentres eles o PHP_CodeSniffer, entrarei em detalhes sobre ele no próximo artigo, por hoje iremos focar no padrão.
 
-Descreverei aqui apenas um resumo, porem você pode se aprofundar no link abaixo:
+Descreverei aqui apenas um resumo, mas você pode se aprofundar no link abaixo:
 [PHP Framework Interoperability Group](https://www.php-fig.org/ "PHP Framework Interoperability Group")
 
 ## Geral
@@ -33,10 +33,10 @@ Descreverei aqui apenas um resumo, porem você pode se aprofundar no link abaixo
 - Os arquivos DEVEM usar apenas as tags `<?php` and `<?=` tags.
 - Arquivos devem usar apenas UTF-8.
 - O nome das classes deve ser declarado em: StudlyCaps.
-- Os metodos em: camelCase
-- Voce precisa colocar uma linha embanco apos declarações de namespace e use.
+- Os métodos em: camelCase
+- Você precisa colocar uma linha em branco apos declarações de namespace e use.
 - Aberturas e fechamento de classes e dos metodos nas classes devem estar em uma linha isolada.
-- A visibilidade deve ser declara em todos os metodos das classes (Public, Protected ou Private).
+- A visibilidade deve ser declara em todos os métodos das classes (Public, Protected ou Private).
 - As constantes de classe DEVEM ser declaradas em maiúsculas com os separadores de sublinhado.
 - A palavra-chave VAR não deve ser usada para declarar uma propriedade.
 
@@ -70,8 +70,8 @@ class Foo extends Bar implements FooInterface
 }
 ```
 
-## Blocos de controle e funçoes
-- Palavras-chave de controle (if, while, for, foreach, switch) dever ter um espaço entre a o fechamento do parentese e abertura do bloco.
+## Blocos de controle e funções
+- Palavras-chave de controle (if, while, for, foreach, switch) devem ter um espaço entre a o fechamento do parêntese e abertura do bloco.
 - Na lista de argumentos, NÃO DEVE haver um espaço antes de cada vírgula e DEVE haver um espaço após cada vírgula.
 - Blocos de controle como if devem ter a abertura de bloco na mesma linha e fechamento em uma linha isolada
 
@@ -88,4 +88,4 @@ if($argumento1,espaço $argumento2,espaço $argumento3  = [])espaço{
 }
 ```
 
-Atualmente existe a [PSR-4](https://www.php-fig.org/psr/psr-4/ "PSR-4") porem é muito importante se manter atualizado e sempre consultar a documentação oficial no [PHP-FIG](https://www.php-fig.org/ "PHP-FIG") :)
+Atualmente existe a [PSR-4](https://www.php-fig.org/psr/psr-4/ "PSR-4") porém é muito importante se manter atualizado e sempre consultar a documentação oficial no [PHP-FIG](https://www.php-fig.org/ "PHP-FIG") :)
