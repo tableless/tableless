@@ -4,7 +4,7 @@ authors: Rafael Câmara
 type: post
 publishdate: 2018-04-23
 date: 2018-04-23
-excerpt: Entenda como o cache nos ajuda no dia a dia
+excerpt: Como o React Native realmente funciona por baixo dos panos
 image: https://i.imgur.com/r8YDSgE.jpg
 categories:
   - ReactJS
