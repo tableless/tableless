@@ -1,8 +1,8 @@
 ---
-title: Realizando testes de stress em sua API de maneira simples
+title: Realizando testes de stress em sua API
 authors: Breno Panzolini
 type: post
-date: 2018-04-19
+date: 2018-04-23
 excerpt: Como realizar testes de stress em suas aplicações na sua máquina local com o wrk.
 categories:
   - Tooling
