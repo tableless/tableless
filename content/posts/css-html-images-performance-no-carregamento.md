@@ -1,34 +1,34 @@
-+---
-+title: CSS, HTML e IMAGES  - Performance no carregamento
-+authors: Morais Junior
-+type: post
-+image: https://www.globaldots.com/wordpress/wp-content/uploads/2016/11/speed-analysis.jpg
-+date: 2018-04-21
-+excerpt: Muito já foi dito sobre o assunto porem nesse artigo farei um apanhado geral de várias tecnicas amplamente utilizadas :)
-+categories:
-+  - Browsers
-+  - CSS
-+  - HTML
-+tags:
-+  - Performace
-+  - CSS
-+  - HTML
-+---
-Sabemos que performace é principal ponto quanto trabalhamos com WEB, porem esse assunto passa por vários topicos, temos performace no carregamento, na renderização, no processamento e etc. Muito já foi dito sobre o assunto porem nesse artigo farei um apanhado geral de varias tecnicas amplamente utilizadas :)
+---
+title: CSS, HTML e IMAGENS  - Performance no carregamento
+authors: Morais Junior
+type: post
+image: https://www.globaldots.com/wordpress/wp-content/uploads/2016/11/speed-analysis.jpg
+date: 2018-04-28
+excerpt: Muito já foi dito sobre o assunto porém neste artigo terei um apanhado geral de várias técnicas amplamente utilizadas :)
+categories:
+  - Browsers
+  - CSS
+  - HTML
+tags:
+  - Performance
+  - CSS
+  - HTML
+---
+Sabemos que performance é principal ponto quanto trabalhamos com WEB, porém esse assunto passa por vários tópicos, temos performance no carregamento, na renderização, no processamento e etc. Muito já foi dito sobre o assunto porém neste artigo terei um apanhado geral de várias técnicas amplamente utilizadas :)
 
 # CSS
 
-Quando falamos em arquivos css, temos um dos principais gargalos no carregamento de uma pagina, por dois pontos, um é a posição e o outro é o tamanho.
+Quando falamos em arquivos CSS, temos um dos principais gargalos no carregamento de uma página, por dois pontos, um é a posição e o outro é o tamanho.
 
-Na posição deve se ter muito cuidado com os arquivos que estão sendo declarados dentro da tag head, essas chamadas bloqueiam a renderização dos elementos, fazendo com que o html só seja mostrado pelo navegador a pos o carregamento do mesmo, por tanto deixe no head só mente os css nescessarios, e nesses arquivos **SOMENTE** os seletores correspondentes para a primeira tela de vizualização do usuario (normalmente os primeiros 1000px), todos os outos arquivos devem ir para o final do documento.
+Na posição deve se ter muito cuidado com os arquivos que estão sendo declarados dentro da tag head, essas chamadas bloqueiam a renderização dos elementos, fazendo com que o html só seja mostrado pelo navegador após o carregamento do mesmo, por tanto deixe no head somente os css necessários, e nesses arquivos **SOMENTE** os seletores correspondentes para a primeira tela de visualização do usuário (normalmente os primeiros 1000px), todos os outros arquivos devem ir para o final do documento.
 
 Para separar os seletores do correspondentes ao carregamento acima e abaixo da primeira tela é simples você pode utilizar as ferramentas  [Dust-Me Selectors](https://addons.mozilla.org/en-US/firefox/addon/dust-me-selectors/ "Dust-Me Selectors") e [CSS Stress Test](https://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling "CSS Stress Test")
 
-O tamanho do arquivo é um ponto preocupante, para cada requisição temos uma janela http e o arquivo deve caber em uma unica "viajem" nessa janela, por tanto, evite muitos arquivos pequenos assim como deve ser evitado arquivos grandes, agrupe os arquivos menores para que todos tenhão a mesma media de tamanho (preferencialmente algo em torno de 14kb)
+O tamanho do arquivo é um ponto preocupante, para cada requisição temos uma janela http e o arquivo deve caber em uma única "viagem" nessa janela, por tanto, evite muitos arquivos pequenos assim como deve ser evitado arquivos grandes, agrupe os arquivos menores para que todos tenham a mesma média de tamanho (preferencialmente algo em torno de 14kb)
 
-Limpe o arquivo CSS, para isso existem varias ferramentas, uma delas é o [CSS Compressor](https://csscompressor.com/ "CSS Compressor")
+Limpe o arquivo CSS, para isso existem várias ferramentas, uma delas é o [CSS Compressor](https://csscompressor.com/ "CSS Compressor")
 
-Habilite o Cache, Gzip e Deflate para a requisição nesses arquivos, para cada infraestrutura existe uma tecnica diferente, uma boa alternativa é o [Gulp](https://gulpjs.com/ "Gulp"), mais a baixo colocarei um código em php que cuida desse processo, não entrarei em detalhes pois isso merece um artigo só para ele.
+Habilite o Cache, Gzip e Deflate para a requisição nesses arquivos, para cada infraestrutura existe uma técnica diferente, uma boa alternativa é o [Gulp](https://gulpjs.com/ "Gulp"), mais a baixo colocarei um código em php que cuida desse processo, não entrarei em detalhes pois isso merece um artigo só para ele.
 
 
 ```php
@@ -85,7 +85,7 @@ Sempre que possivel utilize [CDN's](https://pt.wikipedia.org/wiki/Rede_de_fornec
 #HTML
 Assim como o css, mantenha o HTML limpo :)
 
-Evite, css in-line, se o arquivo for muito grande divida o em partes, e retire os espaços desnecessarios, abaixo vou passar um código em php que faz esta remoção porem tambem pode ser feita com o gulp.
+Evite, css in-line, se o arquivo for muito grande divida o em partes, e retire os espaços desnecessários, abaixo vou passar um código em php que faz esta remoção porém também pode ser feita com o gulp.
 
 ```php
 <?php
@@ -101,12 +101,11 @@ Evite, css in-line, se o arquivo for muito grande divida o em partes, e retire o
 ?>
 ```
 #Imagens
-Para as imagens devemos ter outos cuidados alem dos já descritos:
+Para as imagens devemos ter outros cuidados além dos já descritos:
 
-Utilize formatos que tenhão o menor tamanho possivel como [webp](https://pt.wikipedia.org/wiki/WebP "webp")
+Utilize formatos que tenham o menor tamanho possível como [webp](https://pt.wikipedia.org/wiki/WebP "webp")
 
-Comprima as imagens para retirar o tamanho desnecessario, para isso existe varias ferramentas porem a principal é o [TinyPNG](https://tinypng.com/ "TinyPNG"), atravez do Gulp você pode automatizar esse processo, em outra artigo falaremos sómente sobre o Gulp, caso queira você pode fazer atravez do php, enviando a imagem para a API do TinyPNG e guardando o retorno já comprimido, segue um exemplo:
-
+Comprima as imagens para retirar o tamanho desnecessário, para isso existem várias ferramentas porém a principal é o [TinyPNG](https://tinypng.com/ "TinyPNG"), atravez do Gulp você pode automatizar esse processo, em outra artigo falaremos somente sobre o Gulp, caso queira você pode fazer através do php, enviando a imagem para a API do TinyPNG e guardando o retorno já comprimido, segue um exemplo:
 
 ```php
 <?php
