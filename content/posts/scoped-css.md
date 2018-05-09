@@ -5,12 +5,6 @@ type: post
 date: 2012-09-13
 excerpt: Scoped CSS é um novo recurso do HTML5 nos permite definir estilos que serão aplicados apenas em um determinado escopo de marcação.
 url: /scoped-css/
-tweetbackscheck:
-  - 1356431766
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6700";s:7:"tinyurl";s:26:"http://tinyurl.com/8fctq69";s:4:"isgd";s:19:"http://is.gd/SUUSZI";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 832493549
 categories:
   - CSS
@@ -23,23 +17,22 @@ tags:
   - desenvolvimento web
   - html5
   - Na Prática
-
 ---
-Scoped CSS é uma pequena novidade no HTML5 que nos permite inserir estilos CSS que sejam apenas aplicado em um determinado lugar de uma página, de modo que os estilos restantes da mesma página não sejam afetados. Para isso, foi definido um novo atributo **scoped** que deve ser utilizado na _tag_ **<style>**.
+
+Scoped CSS é uma pequena novidade no HTML5 que nos permite inserir estilos CSS que sejam apenas aplicado em um determinado lugar de uma página, de modo que os estilos restantes da mesma página não sejam afetados. Para isso, foi definido um novo atributo **scoped** que deve ser utilizado na _tag_ **&lt;style&gt;**.
 
 Pela definição da especificação:
 
-> O atributo **scoped** é um atributo _booleano_. Se for setado, indica que os estilos <span style="color: #808080">(</span><span style="color: #808080">da <em>tag</em> <strong><style></strong>)</span> serão aplicados apenas na sub-árvore do elemento pai deste mesmo elemento <span style="color: #808080">(<strong><style></strong>)</span>, ao contrário de todo o documento.
-  
+> O atributo **scoped** é um atributo _booleano_. Se for setado, indica que os estilos (da tag) serão aplicados apenas na sub-árvore do elemento pai deste mesmo elemento, ao contrário de todo o documento.
 > — WHATWG
 
 ## Antes de tudo
 
-Se você quiser testar os exemplos mostrados neste post no browser, terá que usar o Google Chrome versão 20 ou superior, pois é o único que já dá suporte a **scoped CSS**. Com seu Chrome aberto, digite na barra de endereços: **chrome://flags**. Vai abrir a tela de configurações das _flags_ do Chrome, procure por **Enable <style scoped>**, e ative a opção (se já não estiver ativada). Agora o reinicie e é só mandar ver.
+Se você quiser testar os exemplos mostrados neste post no browser, terá que usar o Google Chrome versão 20 ou superior, pois é o único que já dá suporte a **scoped CSS**. Com seu Chrome aberto, digite na barra de endereços: **chrome://flags**. Vai abrir a tela de configurações das _flags_ do Chrome, procure por **Enable <style scoped&gt;**, e ative a opção (se já não estiver ativada). Agora o reinicie e é só mandar ver.
 
 ## Show me the <del>money</del> code
 
-Para entendermos melhor, vamos a parte boa, nerds! No trecho de HTML abaixo, temos um cenário bem simples: 2 parágrafos soltos e 2 parágrafos agrupados em uma **<div>**. Dentro da **<div>** há também um elemento **<style>** que define a cor vermelha para os parágrafos (**<p>**):
+Para entendermos melhor, vamos a parte boa, nerds! No trecho de HTML abaixo, temos um cenário bem simples: 2 parágrafos soltos e 2 parágrafos agrupados em uma **&lt;div&gt;**. Dentro da **&lt;div&gt;** há também um elemento **&lt;style&gt;** que define a cor vermelha para os parágrafos (**&lt;p&gt;**):
 
 <pre class="lang-html">&lt;p&gt;I was crowned with a spike right thru my head.&lt;/p&gt;
 &lt;p&gt;But it's all right now, in fact, it's a gas!&lt;/p&gt;
@@ -52,7 +45,7 @@ Para entendermos melhor, vamos a parte boa, nerds! No trecho de HTML abaixo, tem
 &lt;/div&gt;
 </pre>
 
-OK, do jeito como está no código acima, o navegador aplicará os estilos de **<style>** em **toda a página**, ou seja, todos os parágrafos (**<p>**) serão da cor vermelha:
+OK, do jeito como está no código acima, o navegador aplicará os estilos de **&lt;style&gt;** em **toda a página**, ou seja, todos os parágrafos (**&lt;p&gt;**) serão da cor vermelha:
 
 <div class="exemplo-almir" style="border: 1px solid #ddd;background: #eee;padding: 10px;margin-bottom: 10px;color: red">
   I was crowned with a spike right thru my head.<br /> But it&#8217;s all right now, in fact, it&#8217;s a gas!</p> 
@@ -62,7 +55,7 @@ OK, do jeito como está no código acima, o navegador aplicará os estilos de **
   </div>
 </div>
 
-Aplicando o atributo **scoped** em **<style>**, os estilos apenas serão aplicados ao mesmo escopo, ou seja, nos dois últimos parágrafos:
+Aplicando o atributo **scoped** em **&lt;style&gt;**, os estilos apenas serão aplicados ao mesmo escopo, ou seja, nos dois últimos parágrafos:
 
 <pre class="lang-html">&lt;p&gt;I was crowned with a spike right thru my head.&lt;/p&gt;
 &lt;p&gt;But it's all right now, in fact, it's a gas!&lt;/p&gt;
@@ -88,11 +81,11 @@ E o resultado será:
 
 ## Grande coisa&#8230;
 
-É isso que você deve estar pensando agora. &#8220;Grande coisa, não precisamos disso, apenas podemos definir uma **classe** ou **id** e estilizá-los _like the old times_&#8220;. Eu concordo que devemos utilizar determinadas soluções apenas quando for realmente necessário, eu mesmo não sairia por ai inserindo estilos **<style scoped>** em tudo quanto é lugar. Iria ser uma zona.
+É isso que você deve estar pensando agora. &#8220;Grande coisa, não precisamos disso, apenas podemos definir uma **classe** ou **id** e estilizá-los _like the old times_&#8220;. Eu concordo que devemos utilizar determinadas soluções apenas quando for realmente necessário, eu mesmo não sairia por ai inserindo estilos **&lt;style scoped&gt;** em tudo quanto é lugar. Iria ser uma zona.
 
 ## O pulo do gato
 
-Algumas aplicações podem acrescentar elementos **<style>** programaticamente a uma página. Nestes casos, há o perigo de que as novas regras afetem o conteúdo da página de forma não intencional. Ao utilizar o atributo **scoped**, as aplicações podem impedir que este infeliz efeito colateral aconteça.
+Algumas aplicações podem acrescentar elementos **&lt;style&gt;** programaticamente a uma página. Nestes casos, há o perigo de que as novas regras afetem o conteúdo da página de forma não intencional. Ao utilizar o atributo **scoped**, as aplicações podem impedir que este infeliz efeito colateral aconteça.
 
 Sendo assim, utilizar **scoped** em estilos pode ser uma solução elegante para a **componentização** de aplicações _web_ de terceiros. Hoje em dia (quase) todo mundo faz uso de _plugins_ de _widgets_ e de diversos tipos em suas aplicações, e muita gente faz <a title="Mashup (Wikipedia)" href="http://pt.wikipedia.org/wiki/Mashup_(aplica%C3%A7%C3%A3o_web)" target="_blank"><em>mashups</em></a> com várias dessas aplicações, misturando tudo em uma única solução. Isto não é nenhuma novidade – há muito tempo.
 
@@ -106,7 +99,7 @@ Em meus testes, encontrei alguns empecilhos. Tentei utilizar **scoped** primeira
 
 #### Aplicando _scoped_ a elementos já estilizados
 
-Quando a página já possuía estilos – por exemplo, no **<head>** – as propriedades que já tinham sido definidas não eram modificadas pelos estilos **scoped**, apenas aquelas que ainda não tinham sido alteradas por nenhum CSS. Por exemplo:
+Quando a página já possuía estilos – por exemplo, no **&lt;head&gt;** – as propriedades que já tinham sido definidas não eram modificadas pelos estilos **scoped**, apenas aquelas que ainda não tinham sido alteradas por nenhum CSS. Por exemplo:
 
 <pre class="lang-html">&lt;head&gt;
     &lt;style&gt;
@@ -166,7 +159,7 @@ Agora sim, tudo como esperado:
 
 #### Aninhando estilos _scoped_
 
-Tentei também aninhar estilos **scoped**, mas parece que isso não funciona legal, e acredito que seja proposital. Mas essa parte eu deixo com vocês 😉 Testem colocar um **<style scoped>** dentro de outro. Aqui mesmo eu não consegui muito resultado, ocorre o mesmo problema com as propriedades CSS que já foram definidas – são ignoradas e não funcionam nem mesmo adicionando a pseudo-classe **:scoped**. Se alguém obtiver algum resultado diferente do meu, comenta ai!
+Tentei também aninhar estilos **scoped**, mas parece que isso não funciona legal, e acredito que seja proposital. Mas essa parte eu deixo com vocês 😉 Testem colocar um **&lt;style scoped&gt;** dentro de outro. Aqui mesmo eu não consegui muito resultado, ocorre o mesmo problema com as propriedades CSS que já foram definidas – são ignoradas e não funcionam nem mesmo adicionando a pseudo-classe **:scoped**. Se alguém obtiver algum resultado diferente do meu, comenta ai!
 
 ## Suporte
 
