@@ -1,6 +1,6 @@
 ---
 title: Começando com WAI ARIA em uma janela modal
-authors: Alura
+authors: Natan Souza
 type: post
 sponsor: alura
 publishdate: 2018-04-25
@@ -18,9 +18,14 @@ Depois de fazer esse [post com dicas de acessibilidade](http://blog.caelum.com.b
 
 * * *
 
-Um elemento visual que hora ou outra precisamos fazer em nossos projetos é aquela janelinha _modal_ ou _dialog_. Sabe? Aquela que aparece sempre para te <del>irritar</del> informar sobre algo importante ou confirmar alguma ação? Como essa da imagem abaixo: ![Exemplo de janela modal pedindo email](http://blog.caelum.com.br/wp-content/uploads/2042/04/exemplo-janela-modal-dialog.jpg) Como normalmente você faria essa janela? O novo elemento `<dialog>` pode ser uma boa, mas o [suporte atualmente ainda não é muito bom.](https://caniuse.com/#search=dialog). Poderíamos ir com uma singela `<div>`, como essa:
+Um elemento visual que hora ou outra precisamos fazer em nossos projetos é aquela janelinha _modal_ ou _dialog_. Sabe? Aquela que aparece sempre para te <del>irritar</del> informar sobre algo importante ou confirmar alguma ação? Como essa da imagem abaixo: 
+![Exemplo de janela modal pedindo email](http://blog.caelum.com.br/wp-content/uploads/2042/04/exemplo-janela-modal-dialog.jpg) 
 
-See the Pen [Modal 1.0](https://codepen.io/designernatan/pen/vRzLBr/) by Natan Souza ([@designernatan](https://codepen.io/designernatan)) on [CodePen](https://codepen.io).
+Como normalmente você faria essa janela? O novo elemento `<dialog>` pode ser uma boa, mas o [suporte atualmente ainda não é muito bom.](https://caniuse.com/#search=dialog). Poderíamos ir com uma singela `<div>`, como essa:
+
+<p class="codepen" data-height="299" data-theme-id="0" data-slug-hash="vRzLBr" data-default-tab="html,result" data-user="designernatan" data-embed-version="2" data-pen-title="Modal 1.0">See the Pen <a href="https://codepen.io/designernatan/pen/vRzLBr/">Modal 1.0</a> by Natan Souza (<a href="https://codepen.io/designernatan">@designernatan</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+
+<script async="" src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 Agora, como será que o usuário de leitor de tela ouviria isso? Para demonstrar isso sem que você tenha que baixar um desses softwares (o que recomendo, sua percepção como profissional e pessoa vai mudar bastante), dá uma olhada no GIF abaixo que mostra o exibidor de fala de um deles, o NVDA: ![Modal que nao avisa no NVDA que foi aberta](http://blog.caelum.com.br/wp-content/uploads/2018/04/modal-que-nao-parece-modal.gif) Sem aviso nenhum, o usuário se perderá quando essa janela surgir. Idealmente, o leitor de tela deveria informar que uma janela foi aberta. Como fazer isso? Podemos fazer uso de um recurso super bacana chamado WAI ARIA.
 
@@ -28,9 +33,15 @@ Agora, como será que o usuário de leitor de tela ouviria isso? Para demonstrar
 
 Pense na [WAI ARIA](https://www.w3.org/TR/aria-in-html/) como vários pacotes de expansão do <del>The Sims</del> HTML. Com ela podemos simplesmente colocar um atributo em um elemento e assim mudar totalmente seu valor semântico. Um botão poderia virar um link, um link poderia virar um título, e por aí vai. Inclusive em um futuro post mostrarei como deixar uma `<div>` com “cara” de checkbox. Para falarmos que a `<div>` que representa nossa modal é na verdade uma janela modal, devemos mudar a função que ela tem em nosso HTML, alterar seu papel, com o atributo `role`. Mas qual valor colocar? Dialog, modal, popup? Para isso que temos a [documentação da WAI ARIA](https://www.w3.org/TR/wai-aria-1.1/#usage_intro) e nela podemos ver que tem justamente o que precisamos: o valor “dialog”. Colocando o atributo `role=”dialog”` e chegamos nesse resultado:
 
-See the Pen [Modal 1.2](https://codepen.io/designernatan/pen/MVqpzm/) by Natan Souza ([@designernatan](https://codepen.io/designernatan)) on [CodePen](https://codepen.io).
 
-Agora veja como o NVDA interpreta isso: ![NVDA falando sobre uma janela de diálogo por conta do role=dialog](http://blog.caelum.com.br/wp-content/uploads/2018/04/nvda-modal-com-role.jpg)
+<p class="codepen" data-height="462" data-theme-id="0" data-slug-hash="MVqpzm" data-default-tab="css,result" data-user="designernatan" data-embed-version="2" data-pen-title="Modal 1.2">See the Pen <a href="https://codepen.io/designernatan/pen/MVqpzm/">Modal 1.2</a> by Natan Souza (<a href="https://codepen.io/designernatan">@designernatan</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+
+<script async="" src="https://static.codepen.io/assets/embed/ei.js"></script> 
+  
+Agora veja como o NVDA interpreta isso: 
+
+![](http://blog.caelum.com.br/wp-content/uploads/2018/04/nvda-modal-com-role.jpg)
+
 
 ## Só isso para uma modal acessível?
 
@@ -47,9 +58,11 @@ Não, mas é um começo! Alguns pontos interessantes para tomarmos cuidado quand
 
 Também tinha essa dúvida! Fiz uma rápida enquete no meu Twitter, e apesar do correto ser o termo "dialog", galera aqui no BR fala "modal" mesmo:
 
-> Como você chama aquela janelinha que surge no meio da tela em uns sites? RT para ajudar pls :)
-> 
-> — Natan Souza (@designernatan) [30 de janeiro de 2018](https://twitter.com/designernatan/status/958324690891821056?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet" data-lang="pt">
+  <p dir="ltr" lang="pt">Como você chama aquela janelinha que surge no meio da tela em uns sites? RT para ajudar pls :)</p>
+  — Natan Souza (@designernatan) <a href="https://twitter.com/designernatan/status/958324690891821056?ref_src=twsrc%5Etfw">30 de janeiro de 2018</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Resumo
 
