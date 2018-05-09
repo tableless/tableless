@@ -14,4 +14,4 @@ categories:
 
 O pessoal da Udacity criou um infográfico bem legal sobre 7 diferenças entre o desenvolvimento iOS e Android. 
 
-![](https://i.imgur.com/KQkPtnB.png)
+[![](https://i.imgur.com/KQkPtnB.png)](https://br.udacity.com/course/android-basics-nanodegree-by-google--nd803)
