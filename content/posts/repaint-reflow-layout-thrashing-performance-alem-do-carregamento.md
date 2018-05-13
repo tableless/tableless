@@ -3,7 +3,7 @@ title: Repaint, Reflow e Layout Thrashing - Performance além do carregamento
 authors: Morais Junior
 type: post
 image: https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/important-steps-to-increasing-web-api-performance/Images/pp.png
-date: 2017-04-19
+date: 2017-05-13
 excerpt: Neste artigo falaremos sobre renderização e boas práticas na manipulação do DOM :)
 categories:
   - JAVASCRIPT
