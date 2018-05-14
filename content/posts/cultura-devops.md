@@ -1,14 +1,14 @@
-+---
-+title: Como implementamos uma cultura DevOps unindo os times de infra e produto
-+authors: Jonas Salengue
-+type: post
-+date: 2018-05-11
-+excerpt: Como unimos os times de infraestrutura e desenvolvimento para criar uma cultura DevOps na empresa. 				
-+categories:
-+  - Agile e Gestão
-+  - Mercado
-+  - Opinião
-+  ---
+---
+title: Como implementamos uma cultura DevOps unindo os times de infra e produto
+authors: Jonas Salengue
+type: post
+date: 2018-05-11
+excerpt: Como unimos os times de infraestrutura e desenvolvimento para criar uma cultura DevOps na empresa. 				
+categories:
+- Agile e Gestão
+- Mercado
+- Opinião
+---
 
 Olá, sou o Jonas, um dos líderes responsáveis pelo time de produto da RedeHost, juntamente com o Murilo. Há cerca de um ano, aceitei o desafio de assumir a área de infraestrutura da empresa e, como primeiro grande desafio, estruturar e formar um novo time. Iniciamos o time de infra com três pessoas, cada com foco em uma das três grandes áreas de produto: hospedagem de sites, e-mail e Cloud Server. Concluímos, na época, que seria interessante mantermos redundância entre as pessoas, visando maior agilidade, gestão do conhecimento e bem-estar de todos, afinal ninguém deve estar sobrecarregado e sem tempo para atender aos compromissos pessoais. Foram realocados e contratados novos colegas para compor esta estrutura atual. O time de desenvolvimento, liderado pelo Murilo, conta atualmente com quatro desenvolvedores que são responsáveis por manter nosso painel e serviços funcionando, além de projetos de melhoria e desenvolvimento de novas features. Ambos times são os principais responsáveis pela garantia do serviço e melhor experiência de usabilidade para nossos clientes, da manutenção do nosso datacenter até a interface que o cliente acessa é o resultado do trabalho dedicado e maduro destes profissionais.
 
