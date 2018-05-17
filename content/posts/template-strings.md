@@ -2,8 +2,8 @@
 title: Template Strings
 authors: Bruno Ruiz
 type: post
-publishdate: 2018-05-17
-date: 2018-05-17
+publishdate: 2018-05-24
+date: 2018-05-24
 excerpt: Criar strings é algo muito fácil em JavaScript. Mas manipular strings não é algo trivial.
 image: https://i.imgur.com/Ojf6mzf.png
 categories:
