@@ -2,8 +2,8 @@
 title: Como implementamos uma cultura DevOps unindo os times de infra e produto
 authors: Jonas Salengue
 type: post
-image: https://imgur.com/a/VPTcvWO
-date: 2018-05-11
+image: https://i.imgur.com/cryp5ye.jpg
+date: 2018-05-17
 excerpt: Como unimos os times de infraestrutura e desenvolvimento para criar uma cultura DevOps na empresa. 				
 categories:
 - Agile e Gestão
