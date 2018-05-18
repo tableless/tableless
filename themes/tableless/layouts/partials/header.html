@@ -48,7 +48,7 @@
 
   <link rel="icon" href="https://tableless.com.br/images/favicon.png">
 
-  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
+  <link href="http://www.specificfeeds.com/tableless?subParam=followPub" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
 
   <meta property="og:url" content="{{ .Permalink }}">
   {{ if $.Scratch.Get "single"}}
@@ -148,7 +148,7 @@
       <!-- <li><a href="http://medium.com/tableless/" class="tb-lnk-medium">Acesse nosso <b>Medium</b></a></li> -->
       <li><a href="http://twitter.com/tableless" class="tb-lnk-social tb-lnk-social-twitter"><img src="{{ .Site.BaseURL }}images/twitter.png" alt="Link para Twitter"></a></li>
       <li><a href="http://facebook.com/tablelessbr" class="tb-lnk-social tb-lnk-social-facebook"><img src="{{ .Site.BaseURL }}images/facebook.png" alt="Link para Facebook"></a></li>
-      <li><a href="{{ .RSSLink }}" class="tb-lnk-social tb-lnk-social-rss"><img src="{{ .Site.BaseURL }}images/rss.png" alt="Link para RSS"></a></li>
+      <li><a href="http://www.specificfeeds.com/tableless?subParam=followPub" class="tb-lnk-social tb-lnk-social-rss"><img src="{{ .Site.BaseURL }}images/rss.png" alt="Link para RSS"></a></li>
       <li><a href="https://slack-tableless.herokuapp.com/" class="tb-lnk-social tb-lnk-social-slack"><img src="{{ .Site.BaseURL}}images/logo-slack.png" alt="Link para entrar no Slack do Tableless"></a></li>
     </ul>
     <nav id="tb-menu">
