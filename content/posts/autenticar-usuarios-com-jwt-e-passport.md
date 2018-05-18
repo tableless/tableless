@@ -4,19 +4,13 @@ authors: Jscrambler
 type: post
 date: 2016-10-19
 url: /autenticar-usuarios-com-jwt-e-passport/
-titulo_personalizado:
-  - 'API para autenticar usuários com <strong>JWT e Passport</strong>'
 categories:
-  - Destaques
+  - jwt
   - JavaScript
 tags:
-  - api
-  - Authentication
+  - jwt
   - JavaScript
-  - JWT
-  - Passport
-  - Web Development
-
+  - api
 ---
 Neste artigo nós vamos explorar os principais conceitos e implementações da autenticação de usuário utilizando o mecanismo chamado JWT (_[JSON Web Token][1]_) por meio de um módulo Passport. Afinal, este é um importante passo para se certificar de que os usuários façam uma autenticação segura dentro de uma API baseada em REST.
 
