@@ -80,6 +80,8 @@ describe('Test findUser', () => {
   })
   
   it('should return undefined if no users', async () => {
+     // Na linha abaixo estou fazendo o stub da função getUsers, para simular o retorno 
+    // de um array vazio e assim testar o comportamento desejado
     sandbox.stub(users, 'getUsers').returns([])
     
     const user = await users.findUser('Pedro')
@@ -89,6 +91,8 @@ describe('Test findUser', () => {
   })
   
   it('shuld return user by username', async () => {
+    // Na linha abaixo estou fazendo o stub da função getUsers, para simular o retorno 
+    // de um array contendo usuários e assim testar o comportamento desejado
     sandbox.stub(users, 'getUsers').returns([{ username: 'Maria' }, { username: 'Pedro' }])
     
     const user = await users.findUser('Pedro')
@@ -104,3 +108,9 @@ Reparem que em ambos os testes precisávamos mudar o retorno da função **getUs
 Observações importantes:
 * Após cada teste estamos chamando a função **restore()** no **afterEach**, isso é necessário para restaurar o comportamento padrão das funções.
 * Nesse exemplo estou utilizando o **sandbox** que o pacote Sinon fornece. Eu particularmente prefiro sempre utilizar o sandboxes ao invés do stub direto, pois dessa forma facilitamos o *cleanup* depois dos testes.
+
+## Conclusão
+
+Esse post foi para mostrar o básico de como podemos realizar o stub de funções através do pacote **Sinon**, e assim facilitar a nossa vida na hora dos testes.
+
+Esse pacote fornece diversas outras funções bem utéis e por isso recomendo fortemente que para quem achou interessante que acesse todos os exemplos práticos que estão disponíveis na [documentação oficial](http://sinonjs.org/releases/v5.0.7/).
