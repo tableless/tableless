@@ -44,7 +44,7 @@ const got = require('got')
 
 function getUsers () {
   return got.get('https://api.com.br/v1/users')
-    .then({body} => body)
+    .then(({body}) => body)
 }
 
 async function findUser (username) {
@@ -80,7 +80,7 @@ describe('Test findUser', () => {
   })
   
   it('should return undefined if no users', async () => {
-     // Na linha abaixo estou fazendo o stub da função getUsers, para simular o retorno 
+    // Na linha abaixo estou fazendo o stub da função getUsers, para simular o retorno 
     // de um array vazio e assim testar o comportamento desejado
     sandbox.stub(users, 'getUsers').returns([])
     
