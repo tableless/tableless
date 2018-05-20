@@ -10,7 +10,7 @@ categories:
 tags:
   - NodeJS
   - JavaScript
-image: https://cdn-images-1.medium.com/max/1600/0*HERF9Ii9f_M3OzQQ.
+image: https://i1.wp.com/www.zsoltnagy.eu/wp-content/uploads/2015/05/sinon1.png
 ---
 
 Muitas vezes queremos testar funções que tem dependências externas, como por exemplo uma função que faz o request para uma API.
