@@ -60,9 +60,9 @@ module.exports = {
 }
 ```
 
-Agora vamos pensar nos testes apenas da função **findUser**, de cara podemos querer testar 2 cenários:
+Agora vamos pensar nos testes apenas da função **findUser**, de cara podemos querer testar dois cenários:
 
-* A função **getUsers** que faz a requisição para a API não retornar nada
+* A função **getUsers** que faz a requisição para a API retornar um array vazio
 * A função **getUsers** retornar um array de usuários
 
 Perceba que para fazer esses testes acima na função **findUser**, precisamos obrigatoriamente mudar o comportamento da função **getUsers** e é aí que podemos utilizar todo o poder que os stubs nos fornecem:
@@ -98,3 +98,9 @@ describe('Test findUser', () => {
   })
 })
 ```
+
+Reparem que em ambos os testes precisávamos mudar o retorno da função **getUsers** para que fosse possível testar a função **findUser** e foi nesse momento que utilizamos o **stub** do Sinon para mudar o retorno esperado.
+
+Observações importantes:
+* Após cada teste estamos chamando a função **restore()** no **afterEach**, isso é necessário para restaurar o comportamento padrão das funções.
+* Nesse exemplo estou utilizando o **sandbox** que o pacote Sinon fornece. Eu particularmente prefiro sempre utilizar o sandboxes ao invés do stub direto, pois dessa forma facilitamos o *cleanup* depois dos testes.
