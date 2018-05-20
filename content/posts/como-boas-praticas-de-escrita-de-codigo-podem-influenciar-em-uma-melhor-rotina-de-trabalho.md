@@ -1,6 +1,6 @@
 ---
 title: Como boas práticas de escrita de código podem influenciar em uma melhor rotina de trabalho
-authors: helderburato
+authors: Helder Burato Berto
 type: post
 date: 2016-09-17
 url: /como-boas-praticas-de-escrita-de-codigo-podem-influenciar-em-uma-melhor-rotina-de-trabalho/
