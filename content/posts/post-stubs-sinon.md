@@ -7,7 +7,7 @@ excerpt: Como realizar o stub de suas dependências com o Sinon para simplificar
 categories:
   - NodeJS
   - JavaScript
-tag:
+tags:
   - NodeJS
   - JavaScript
 image: https://cdn-images-1.medium.com/max/1600/0*HERF9Ii9f_M3OzQQ.
