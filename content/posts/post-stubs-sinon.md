@@ -12,3 +12,7 @@ tag
   - JavaScript
 image: https://cdn-images-1.medium.com/max/1600/0*HERF9Ii9f_M3OzQQ.
 ---
+
+Muitas vezes queremos testar funções que tem dependências externas, como por exemplo uma função que faz o request para uma API.
+
+Nesse post vou mostrar como podemos criar stubs dessas dependências para facilitar os nossos testes e até mesmo conseguir testar todos os tipos de comportamentos dessas dependências.
