@@ -33,3 +33,68 @@ O Sinon por sí só não é um framework de testes, ele deve ser utilizado em co
 
 A documentação do Sinon é bem completa com diversos exemplos práticos e pode ser encontrada no [site oficial](http://sinonjs.org/), lá também podemos encontrar o passo a passo para realizar a instalação do pacote no nosso projeto.
 
+## Exemplo Prático
+
+Para esse exemplo, vamos tomar como base as seguintes funções:
+
+```js
+// Apenas como exemplo, o arquivo contendo essas funções estaria no path: ./src/users.js
+
+const got = require('got')
+
+function getUsers () {
+  return got.get('https://api.com.br/v1/users')
+    .then({body} => body)
+}
+
+async function findUser (username) {
+  const users = await getUsers()
+  if (users.length === 0) return undefined
+
+  return users.find(u => u.username === username)
+}
+
+module.exports = {
+  getUsers,
+  findUser
+}
+```
+
+Agora vamos pensar nos testes apenas da função **findUser**, de cara podemos querer testar 2 cenários:
+
+* A função **getUsers** que faz a requisição para a API não retornar nada
+* A função **getUsers** retornar um array de usuários
+
+Perceba que para fazer esses testes acima na função **findUser**, precisamos obrigatoriamente mudar o comportamento da função **getUsers** e é aí que podemos utilizar todo o poder que os stubs nos fornecem:
+
+```js
+// Apenas como exemplo, o arquivo contendo esses testes estaria no path: ./test/users.test.js
+// Vamos assumir também que estamos utilizando Mocha + Chai para realizar os testes
+
+const sandbox = require('sinon').createSandbox()
+const users = require('../src/users')
+
+describe('Test findUser', () => {
+  afterEach(() => {
+    sandbox.restore()
+  })
+  
+  it('should return undefined if no users', async () => {
+    sandbox.stub(users, 'getUsers').returns([])
+    
+    const user = await users.findUser('Pedro')
+ 
+    sandbox.assert.calledOnce(users.getUsers)
+    assert(user).to.be.undefined
+  })
+  
+  it('shuld return user by username', async () => {
+    sandbox.stub(users, 'getUsers').returns([{ username: 'Maria' }, { username: 'Pedro' }])
+    
+    const user = await users.findUser('Pedro')
+    
+    sandbox.assert.calledOnce(users.getUsers)
+    assert(user).to.deep.equal({username: 'Pedro'});
+  })
+})
+```
