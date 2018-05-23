@@ -48,7 +48,7 @@ Um favicon geralmente deve ter dimensões de 16 × 16 pixels ou 32 × 32 pixels.
 
 Então, como criar um favicon? Se você não possui habilidades de design ou não sabe como criar um favicon, tente criar ele usando um software online, como por exemplo, o Criador de Favicon do Logaster:
 
-1\. Acesse o [Logaster](https://www.google.com/url?q=https://www.logaster.com.br/favicon&sa=D&ust=1508325699028000&usg=AFQjCNH6UiWWQ6K4RFzAmH-RIUQe3JvtUw) e clique em "Criar um favicon”.
+1\. Acesse o [Logaster](https://www.logaster.com.br/favicon/) e clique em "Criar um favicon”.
 
 ![](https://i.imgur.com/d9mPfQn.png)
 
