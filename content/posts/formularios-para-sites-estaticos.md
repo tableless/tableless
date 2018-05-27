@@ -3,7 +3,7 @@ title: Formsquash, formulários para sites estáticos
 authors: Jean Lucas de Carvalho
 type: post
 image: https://formsquash.io/static/images/cover.jpg
-date: 2018-05-24
+date: 2018-05-27
 excerpt: Autenticação de usuário com o Firebase Auth
 categories:
   - Artigos
@@ -16,7 +16,6 @@ tags:
   - websites
 ---
 
-# Formsquash, formulários para sites estáticos
 Nos últimos anos os geradores de sites estáticos ganharam muita popularidade, graças aos ganhos de performance , segurança e disponibilidade que os sites resultantes possuem quando comparados aos sites dinâmicos. E muitos sites e blogs pelo mundo utilizam de ferramentas como Hugo, Jekyll, Middleman, Wintersmith e Docpad para gerar suas páginas estáticas.
 
 O próprio Tableless era um site dinâmico, gerenciado pelo Wordpress, e hoje é um site estático gerado pelo Hugo e você pode entender um pouco mais das motivações e vantagens e desvantagens dessa mudança nos posts do Diego Eis:
