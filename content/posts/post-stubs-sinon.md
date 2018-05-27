@@ -2,7 +2,7 @@
 title: Fazendo o stub de dependências com Sinon
 authors: Breno Panzolini
 type: post
-date: 2018-05-20
+date: 2018-05-27
 excerpt: Como realizar o stub de suas dependências com o Sinon para simplificar seus testes.
 categories:
   - NodeJS
