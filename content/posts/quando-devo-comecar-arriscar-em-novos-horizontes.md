@@ -1,6 +1,6 @@
 ---
 title: Quando devo começar a arriscar em novos horizontes?
-authors: helderburato
+authors: Helder Burato Berto
 type: post
 date: 2016-10-29
 url: /quando-devo-comecar-arriscar-em-novos-horizontes/
