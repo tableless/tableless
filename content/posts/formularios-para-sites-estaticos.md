@@ -23,7 +23,7 @@ O próprio Tableless era um site dinâmico, gerenciado pelo Wordpress, e hoje é
 - [Agora o Tableless é estático - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web](https://tableless.com.br/site-tableless-estatico/)
 - [Performance do Tableless estático - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web](https://tableless.com.br/velocidade-tableless-estatico/)
 
-Porém, para resolver alguns problemas de natureza dinâmica, os geradores de sites estáticos precisam de ajuda de outras ferramentas. Quer gerenciar comentários no seu site? Existe o Discuss. Precisa de uma solução para busca? Use o DuckDuckGo Search Box. Hospedagem? Firebase Hosting.
+Porém, para resolver alguns problemas de natureza dinâmica, os geradores de sites estáticos precisam de ajuda de outras ferramentas. Quer gerenciar comentários no seu site? Existe o Disqus. Precisa de uma solução para busca? Use o DuckDuckGo Search Box. Hospedagem? Firebase Hosting.
 
 Mas um problema que até pouco tempo continuava sem solução era o gerenciamento de formulários online. Seja um formulário de contato ou submissão de currículos, de inscrição de e-mails para newsletters ou de captura de leads para um funil de vendas. A gente sempre precisava de algum código backend (normalmente um script php) para pegar os dados submetidos no formulário e encaminhar para um e-mail predefinido.
 
