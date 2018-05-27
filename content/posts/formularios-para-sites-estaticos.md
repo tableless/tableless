@@ -27,7 +27,7 @@ Porém, para resolver alguns problemas de natureza dinâmica, os geradores de si
 
 Mas um problema que até pouco tempo continuava sem solução era o gerenciamento de formulários online. Seja um formulário de contato ou submissão de currículos, de inscrição de e-mails para newsletters ou de captura de leads para um funil de vendas. A gente sempre precisava de algum código backend (normalmente um script php) para pegar os dados submetidos no formulário e encaminhar para um e-mail predefinido.
 
-No entanto, sites estáticos não possuem nenhum tipo de backend. Mas sites estáticos, por definição, não possuem nenhum tipo de backend. Para resolver isso, é comum delegarmos esse trabalho para plataformas WYSIWYG , como o Google Forms ou o Typeform. Mas essas plataformas deixam a desejar quando precisamos manter a identidade visual dos formulários compatível com a do restante de nosso site.
+No entanto, sites estáticos não possuem nenhum tipo de backend. Para resolver isso, é comum delegarmos esse trabalho para plataformas WYSIWYG , como o Google Forms ou o Typeform. Mas essas plataformas deixam a desejar quando precisamos manter a identidade visual dos formulários compatível com a do restante de nosso site.
 
 Pensando nisso, o [Formsquash](https://formsquash.io/) surgiu. Com ele, tudo o que você precisa fazer é apontar seu formulário para a URL fornecida pelo serviço. Para conseguir a URL, basta fazer o cadastro e criar um formulário. A partir daí você receberá um tutorial de como integrá-lo com seu site.
 
