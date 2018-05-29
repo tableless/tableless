@@ -4,7 +4,7 @@ authors: Jean Lucas de Carvalho
 type: post
 image: https://formsquash.io/static/images/cover.jpg
 date: 2018-05-27
-excerpt: Autenticação de usuário com o Firebase Auth
+excerpt: Criando formulários para sites estáticos com o Formsquash
 categories:
   - Artigos
   - Ferramentas
