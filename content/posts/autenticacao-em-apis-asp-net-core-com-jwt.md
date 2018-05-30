@@ -23,7 +23,7 @@ APIs vem sendo bastante discutida nas comunidades técnicas em todo o mundo.
 Existem diversas maneiras de resolver a autenticação em APIs, e uma delas é
 fazendo uso de tokens de acesso, sendo o JWT (Json Web Token) um dos padrões de
 tokens de acesso mais famosos e seguros da atualidade. Eu falei sobre ele em um
-[artigo anterior](https://tableless.com.br/tableless/entendendo-tokens-jwt/).
+[artigo anterior](https://tableless.com.br/entendendo-tokens-jwt/).
 
 Hoje irei explicar os principais pontos da criação de uma API de autenticação
 com JWT em ASP.Net Core. O código completo de exemplo encontra-se em meu
