@@ -27,13 +27,9 @@ As definições são as seguintes:
 - Supervisory Authority: Os controladores e os processadores respondem à autoridade supervisora, uma autoridade pública que deve ser estabelecida em cada Estado membro. A autoridade de supervisão é responsável pelo controle da aplicação do regulamento, a fim de proteger os direitos fundamentais e a liberdade dos utilizadores em relação ao processamento.
 - European board: O Comite Europeu para a Proteção de Dados é composto pelo chefe da autoridade de supervisão de cada Estado-Membro e pela Autoridade Europeia para a Proteção de Dados (ou seus respetivos representantes).
 
-Basicamente são personagens de um sistema que vai fiscalizar e punir qualquer desrespeito às regras de privacidade. Agora todas as empresas e organizações, independente do porte, devem seguir as mesmas regras para coletar, compartilhar ou usar os dados de qualquer forma.
+Foi previsto que em alguns cenários as empresas deverão trabalhar com alguém lá dentro para fiscalizar esses processo. Ali na pirâmide, esse cara é o DPO (Data Protection Officer). Ele será o responsável por fiscalizar a empresa e se encontrar alguma coisa que fira os direitos e as regras do GDPR, ele deve avisar as autoridades, que vão pedir esclarecimentos para a empresa.
 
-Na prática, mesmo, isso não muda muita coisa. As empresas, principalmente os serviços online, vão ter que pedir sua permissão para usar determinados dados, se você for um cidadão europeu, você vai clicar no botãozinho de OK, EU VENDO MINHA ALMA, e pronto. A única coisa que muda é que se você pedir para apagar seus dados, as empresas terão que apagá-los, de verdade, pois se não, a fiscalização pode pegar e já era.
-
-Em alguns cenários, foi previsto que as empresas deverão trabalhar com alguém lá dentro para fiscalizar esses processo. Ali na pirâmide, esse cara é o DPO (Data Protection Officer). Esse cara é o responsável por fiscalizar e se encontrar alguma coisa que fira os direitos e as regras do GDPR, ele deve avisar as autoridades, que vão pedir esclarecimentos para a empresa.
-
-Agora é o seguinte: diretamente isso afeta apenas os cidadãos que moram no bloco da união europeia. Mas veja: se qualquer empresa, de qualquer parte do mundo tem algum contato com os cidadãos do bloco, eles devem se adequar à GDPR. É por isso que você está recebendo esse monte de emails: fica bem mais fácil adequar o sistema inteiro do que ficar fazendo filtro de verificação para descobrir se aquele cliente é da união ou não. 
+Agora é o seguinte: diretamente isso afeta apenas os cidadãos que moram no bloco da união europeia. Mas veja: se qualquer empresa, de qualquer parte do mundo tem algum contato com os cidadãos do bloco, eles devem se adequar à GDPR. É por isso que você está recebendo esse monte de emails: fica bem mais fácil adequar o sistema inteiro do que ficar fazendo filtro de verificação para descobrir se determinado cliente é da união ou não. 
 
 Se a empresa infringir as regras, elas podem ser punidas com multa de 4% da receita global anual ou €20 milhões de Euros.
 
