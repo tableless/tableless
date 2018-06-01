@@ -4,7 +4,7 @@ authors: Diego Eis
 type: post
 date: 2018-05-31
 excerpt: 'Pra quem também não estava entendendo nada.'
-image: https://i.imgur.com/B6q09ZZ.jpg
+image: https://i.imgur.com/pVLIIOd.png
 categories:
   - Mercado e Comportamento
   - Notícias
@@ -15,9 +15,11 @@ tags:
   - Geral
 ---
 
-Eu sei que nos últimos dias você deve ter recebido um milhão de e-mails sobre privacidade e coisas desse tipo. Isso aconteceu pois no dia 25 de Maio, entrou em vigor um regulamento sobre privacidade válido para a União Europeia. O Regulamento Geral sobre a Proteção de Dados (ou GDPR, da sigla em inglês) é um conjunto 99 artigos legais que tem como objetivo fortalecer a proteção de dados e identidade dos cidadãos da União Europeia.
+Eu sei que nos últimos dias você deve ter recebido um milhão de e-mails sobre privacidade e coisas desse tipo. Isso aconteceu pois no dia 25 de Maio, entrou em vigor um regulamento sobre privacidade válido para a União Europeia. Embora a aplicação da regra tenha começado a valer no dia 25, a lei foi publicada há 2 anos atrás. O Regulamento Geral sobre a Proteção de Dados (ou GDPR, da sigla em inglês) é um conjunto 99 artigos legais que tem como objetivo fortalecer a proteção de dados e identidade dos cidadãos da União Europeia. 
 
 O que a União Europeia diz é que agora os usuários e cidadãos são os verdadeiros donos dos seus próprios dados. Informações sobre raça, etnia, gênero, orientação sexual, opiniões políticas ou religiosas e outras coisas, não poderiam ser manipuladas ou usadas de qualquer forma sem o consentimento do seu dono. Para tanto, a GDPR faz com que seus dados pessoais sejam armazenados apenas por um período de tempo.
+
+
 
 ![](https://i.imgur.com/6fIKVYJ.png)
 
@@ -47,6 +49,8 @@ O que mais me deixa chateado são os banners que gravam os cookies de retargetin
 Há serviços como o [YourAdChoices](http://www.aboutads.info/choices/), que tentam facilitar o OptOut de cookies das empresas de ads. Ele escaneia seu browser procurando cookies de ads ligados à rede AdChoices, te dando a possibilidade de fazer o optout. Eu até tentei fazer o optout de pelo menos 130 empresas. O optout de 117 não foi possível por que eles estão com "problemas técnicos". Aham, sei...
 
 Se você quiser tentar também, [segue esse endereço](http://www.aboutads.info/choices/) e tente ser feliz.
+
+
 
 ## Para ler mais:
 
