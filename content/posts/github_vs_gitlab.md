@@ -1,28 +1,16 @@
---
+---
 title: GitHub vs GitLab
-
 authors: Lucas Gonçalves Cunha
-
 type: post
-
 image: https://cdn-images-1.medium.com/max/1600/1*OLsrVuctE2DO924KoSkNLA.png
-
-date: 28/05/2016
-
+date: 2018-06-05
 excerpt: Comparativo entre as duas plataformas.
-
 categories:
-
 - Artigos
-
 - Ferramentas
-
 tags:
-
 - Opinião
-
 - GIT
-
 ---
 
 # GitLab vs GitHub: um comparitivo entre as plataformas
@@ -41,13 +29,13 @@ O GIT serve como controle de versão e atividades afins, mas para isso deve-se t
 
 ## GitHub
 
-O [GitHub](https://github.com/) é uma plataforma de hospedagem de repositórios com 27 milhões de usuários, 80 milhões de repositórios e 1,8 milhão de organizações, dados em maio de 2018. O projeto foi lançado em 2008 pelos desenvolvedores da Logical Awesome. O GitHub foi escrito em Ruby on Rails. Durante a evolução da ferramenta foi visto que funcionalidades que permitissem a interação entre usuários foram implementadas, deixando com a cara de rede social. Alguns dizem que o GitHub é a rede social dos desenvolvedores. Lista de discussões, wikis e ferramentas para gerenciar contribuições foram adicionadas a plataforma. Talvez o maior exemplo do poder da plataforma é seu uso pela comunidade de desenvolvimento do Linux. Apesar disso, uma grande ironia é a plataforma ser suporte para vários projetos open-source mas ela mesma não é.
+O [GitHub](https://github.com/) é uma plataforma de hospedagem de repositórios com 27 milhões de usuários, 80 milhões de repositórios e 1,8 milhão de organizações, dados em maio de 2018. O projeto foi lançado em 2008 pelos desenvolvedores da Logical Awesome e adquirida pela Microsfot recentemente. O GitHub foi escrito em Ruby on Rails. Durante a evolução da ferramenta foi visto que funcionalidades que permitissem a interação entre usuários foram implementadas, deixando com a cara de rede social. Alguns dizem que o GitHub é a rede social dos desenvolvedores. Lista de discussões, wikis e ferramentas para gerenciar contribuições foram adicionadas a plataforma. Talvez o maior exemplo do poder da plataforma é seu uso pela comunidade de desenvolvimento do Linux. Apesar disso, uma grande ironia é a plataforma ser suporte para vários projetos open-source, mas ela mesma não é.
 
 ## GitLab
 
 Já o [GitLab](https://gitlab.com/) surgiu meados de 2011, fundado por Dmitriy Zaporozhets e Valery Sizov. Os dois criaram a plataforma devido a uma necessidade própria. O projeto é open source, o que atraiu a ajuda de colaboradores. O projeto conta com mais de 1980 colaboradores ao redor do mundo (Maio 2018), inclusive brasileiros. São mais de 100 mil organizações e milhões de usuários fazendo uso da plataforma, segundo o site da própria plataforma. Podemos citar como organizações que usam o GitLab: NASA, SandDisk, redhat, Sony, EA entre outras. Em setembro de 2015 o GitLab recebeu um financiamento de aproximadamente U$ 4 Milhões da empresa Khosla Ventures.
 
-## Característacas em Comum
+## Características em comum
 
 Existe um universo gigante de funcionalidade entre as plataformas. Foge do escopo do artigo a comparação entre todas as funcionalidades. Mas podemos citar os recursos básicos bem similares e estão disponíveis nas duas plataformas:
 
@@ -61,7 +49,7 @@ Existe um universo gigante de funcionalidade entre as plataformas. Foge do escop
 
 * **Autenticação de dois fatores**
 
-* **Gerenciamento Avançado de Permissão**
+* **Gerenciamento avançado de permissão**
 
 * **API rica em recursos**
 
@@ -97,7 +85,7 @@ O plano gratuito de codificação permite que 10 membros colaborem em um número
 
 Se você está procurando uma solução gratuita baseada em nuvem para projetos privados, a oferta do GitLab é provavelmente a mais atraente.
 
-As duas plataformas têm serviços pagos também. A hospedagem pode ser particular em servidor próprio ou nos servidores das plataformas. No caso do GitLab, os preço vão da versão gratuita até o valor de 99 dolares por mês por usuário, com um gama serviços divididos em quatro planos. Já o GitHub são trê planos que vão de 7 dolares a 21 dolares por mês. Para maiores detalhes, basta consultar as páginas das duas plataformas onde os serviços estão detalhados.
+As duas plataformas têm serviços pagos também. A hospedagem pode ser particular em servidor próprio ou nos servidores das plataformas. No caso do GitLab, os preço vão da versão gratuita até o valor de 99 dolares por mês por usuário, com uma gama serviços divididos em quatro planos. Já o GitHub são três planos que vão de 7 dolares a 21 dolares por mês. Para maiores detalhes, basta consultar as páginas das duas plataformas onde os serviços estão detalhados.
 
 ## Integrações
 
@@ -111,7 +99,7 @@ O recurso de issues do GitLab é muito parecido com o do GitHub, mas a visualiza
 
 # Conclusão
 
-As duas plataformas dão um suporte excelente para quem quer aglo além de um controle de versão. Tecnicamente são bem semlhantes, mas com uma proposta pouco diferente: O gitHub preza pela alta disponibilidade e desempenho de recursos básicos, usando a integração com ferramentas de terceiros para atividades alternativas, enquanto o GitLab incorpora todos recursos em uma única plataforma bem integrada e com ótimo apelo visual. Dependerá da sua necessidade adoção de uma outra. Se quer uma solução open-source, GitLab é a melhor opção. Se o seu projeto é de código aberto, o GitHub definitivamente é a escolha.
+As duas plataformas dão um suporte excelente para quem quer aglo além de um controle de versão. Tecnicamente são bem semelhantes, mas com uma proposta pouco diferente: O GitHub preza pela alta disponibilidade e desempenho de recursos básicos, usando a integração com ferramentas de terceiros para atividades alternativas, enquanto o GitLab incorpora todos recursos em uma única plataforma bem integrada e com ótimo apelo visual. Apesar da aquisição do GitHub pela Microsoft gerar dúvidas sobre o futuro da plataforma, dependerá da sua necessidade adoção de uma ou outra. Se quer uma solução open-source, GitLab é a melhor opção. Se o seu projeto é de código aberto, o GitHub definitivamente é a escolha.
 
 ## Para ler mais
 
