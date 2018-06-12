@@ -3,7 +3,7 @@ title: Lidando com arrays em JavaScript
 authors: Helder Burato Berto
 type: post
 image: https://i.imgur.com/Dka6iNE.jpg
-date: 2018-06-06
+date: 2018-06-12
 excerpt: Métodos que vão simplificar seu trabalho com arrays em JavaScript.
 categories:
   - Javascript
