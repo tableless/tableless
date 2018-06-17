@@ -1,5 +1,5 @@
 ---
-title: 'Dev, você dev saber inglês'
+title: 'Dev, você precisa saber inglês'
 authors: Diego Eis
 type: post
 date: 2018-06-17
