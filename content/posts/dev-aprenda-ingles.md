@@ -1,6 +1,6 @@
 ---
 title: 'Dev, você dev saber inglês'
-authors: Wellington Nascimento
+authors: Diego Eis
 type: post
 date: 2018-06-17
 excerpt: 'Não caia na ladainha de que você não precisa disso'
