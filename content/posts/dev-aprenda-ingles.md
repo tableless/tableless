@@ -2,7 +2,7 @@
 title: 'Dev, você precisa saber inglês'
 authors: Diego Eis
 type: post
-date: 2018-06-17
+date: 2018-06-09
 excerpt: 'Não caia na ladainha de que você não precisa disso'
 image: https://i.imgur.com/KMGoRNo.jpg
 categories:
