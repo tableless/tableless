@@ -3,6 +3,7 @@ title: "Framer X: React, meet design"
 authors: Diego Eis
 type: post
 date: 2018-06-19
+image: https://i.imgur.com/UrgN6zz.jpg
 excerpt: "Um produto que promete juntar design e código mobile."
 categories:
   - Tecnologia e Tendência
