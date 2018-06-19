@@ -2,7 +2,11 @@
 title: 'Dev, você precisa saber inglês'
 authors: Diego Eis
 type: post
+<<<<<<< HEAD
 date: 2018-06-09
+=======
+date: 2018-06-18
+>>>>>>> update no texto sobre ingles
 excerpt: 'Não caia na ladainha de que você não precisa disso'
 image: https://i.imgur.com/KMGoRNo.jpg
 categories:
@@ -18,11 +22,21 @@ tags:
 O texto vai ser um pouco grande.
 Tem ocorrido um papo tóxico nas redes sociais há alguns dias sobre a não produção de conteúdo em inglês. Onde o discurso é que se você vai produzir conteúdo, produza conteúdo em português, para que seu conteúdo possa ser inclusivo e então ser mais acessível por aqueles que não sabem inglês. 
 
-Acho que essa é uma preocupação totalmente legítima, mas eu tenho um outro ponto de vista: em vez de motivar a galera escrever só conteúdo em português, por que não ajudar as pessoas a aprenderem inglês, de forma que eles aumentem suas skills e se tornem profissionais melhores? Eu acho que seria uma atitude mais inclusiva.
-
 ---
 
-Calma! Não estou falando que você tenha que fazer palestras inteiras em inglês, eu estou dizendo que você, desenvolvedor que programa todos os dias da sua vida, precisa pelo menos ler e interpretar um artigo escrito em inglês. 
+## Sobre produzir conteúdo em inglês
+
+Eu sempre produzi conteúdo em português, desde o começo da minha carreira. Fiz isso exatamente por um motivo: eu queria que pessoas perto de mim, que exerciam ou estavam começando a exercer a mesma profissão que eu, tivessem conteúdo em português para ler e estudar. O único objetivo era amadurecer a comunidade e consequentemente nosso mercado. Quando você produz conteúdo nacional sobre um determinado assunto, você acaba fortalecendo o mercado local, colocando nossos profissionais em lugar de destaque lá fora, não apenas como consumidores de conteúdo, mas também como criadores de conteúdo, formadores de opinião e etc... 
+
+Quando você passa a fazer conteúdo em inglês, você se foca mais ainda nesse objetivo, exatamente por que um artigo escrito em inglês tem maior alcance no mundo. Você destaca um profissional brasileiro, no mercado mundial, favorecendo mais ainda o objetivo de amadurecer e mudar a forma com que profissionais de outros países enxergam o mercado brasileiro.
+
+Acho que a preocupação de criar conteúdo primariamente em português para depois produzir em outro idioma é totalmente legítima, mas eu tenho um outro ponto de vista: em vez de motivar a galera escrever só conteúdo em português, por que não ajudar as pessoas a aprenderem inglês, de forma que eles aumentem suas skills e se tornem profissionais melhores? Eu acho que seria uma atitude mais inclusiva.
+
+Não encontrar conteúdo em português no começo da minha carreira foi essencial para que eu melhorasse minhas skills. Eu sei que o aprendizado é diferente em cada um, acredite, eu sei muito bem disso. Para quem não é inteligente, meu esforço me fez ser quem sou hoje. 
+
+E eu sei também que a exigência de saber inglês nas empresas é totalmente dispensável. Eu conto nos dedos de uma mão quantas vezes tive que falar em inglês no trabalho no meu tempo de desenvolvedor. Não acho que esse cenário mudou atualmente, de forma que os desenvolvedores precisam falar em inglês todos os dias no trabalho. Pelo contrário, eu vejo é desenvolvedores querendo fazer daily e outras cerimonias em inglês, só para melhorarem suas skills. Então, sou totalmente contra exigir que os desenvolvedores falem inglês se não for realmente necessário.
+
+---
 
 ## A maioria do conteúdo está em inglês
 
