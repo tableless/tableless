@@ -15,7 +15,7 @@ image: https://pre00.deviantart.net/52b2/th/pre/f/2017/092/7/4/nodejs_dark_by_wf
 
 Agora no final de junho (mais precisamente no dia 20/06/2018), foi feito o *release* da versão 10.5.0 do Node.js e uma das *features* principais foi a inclusão inicial (e ainda experimental, diga-se de passagem), do **suporte às threads**.
 
-Nesse post vou tentar simplificar ao máximo a documentação do *[pull request]*(https://github.com/nodejs/node/pull/20876) e alguns detalhes técnicos, porém acredito ser suficiente para entendermos o básico da funcionalidade.
+Nesse post vou tentar simplificar ao máximo a documentação do [pull request](https://github.com/nodejs/node/pull/20876) e alguns detalhes técnicos, porém acredito ser suficiente para entendermos o básico da funcionalidade.
 
 ## Por que Threads?
 
@@ -25,4 +25,12 @@ O motivo disso é que o Node nunca foi a melhor opção para computação "pesad
 
 Não estou dizendo que com essa implementação de **threads** vamos poder jogar todos os nossos projetos fora e já sair implementando todas essas coisas, porém como um entusiasta de Node.js fico feliz em ver que a comunidade está progredindo tentando resolver esse tipo de problema.
 
-## Por onde começar?
+## Como começar?
+
+Primeiramente é necessário ter a versão mais recente do Node instalado, aconselho fortemente a utilizarem o [NVM](https://github.com/creationix/nvm) para gerenciarem as versões instaladas na sua máquina.
+
+Outro detalhe importante é que como o módulo de **threads** (que na verdade é chamado de **worker_threads**) ainda está na versão experimental, quando formos executar o nosso script será necessário passar a flag `--experimental-worker`, caso contrário o módulo não será encontrado.
+
+## Exemplos
+
+Antes de mostrar alguns exemplos, é importante ressaltar que o módulo de **threads** é para ser utilizadas em tarefas que realmente exijam mais da CPU, utilizar esse tipo de recurso para um simples *async I/O* é um disperdício de recurso computacional.
