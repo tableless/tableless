@@ -31,6 +31,78 @@ Primeiramente é necessário ter a versão mais recente do Node instalado, acons
 
 Outro detalhe importante é que como o módulo de **threads** (que na verdade é chamado de **worker_threads**) ainda está na versão experimental, quando formos executar o nosso script será necessário passar a flag `--experimental-worker`, caso contrário o módulo não será encontrado.
 
-## Exemplos
+## Exemplo
 
-Antes de mostrar alguns exemplos, é importante ressaltar que o módulo de **threads** é para ser utilizadas em tarefas que realmente exijam mais da CPU, utilizar esse tipo de recurso para um simples *async I/O* é um disperdício de recurso computacional.
+Antes de mostrar um exemplo, é importante ressaltar que o módulo de **threads** é para ser utilizadas em tarefas que realmente exijam mais da CPU, utilizar esse tipo de recurso para *async I/O* é um disperdício de recurso computacional (já que o Node já lida muito bem com esse tipo de operação).
+
+### Código:
+
+Antes de iniciar vamos criar a estrutura de pastas e arquivos:
+
+```
+$ mkdir exemplo-worker
+$ cd exemplo-worker
+$ npm init -y
+$ npm install request
+$ touch index.js
+$ touch worker-code.js
+```
+
+- Código do **worker-code.js**:
+
+```js
+const { parentPort } = require('worker_threads')
+
+const start = Date.now()
+
+// Simulando computação "pesada"
+for (let i = 0; i < 1000000; i++) {
+  for (let j = 0; j < 10000; j++) {
+  }
+}
+
+parentPort.postMessage({ start, end: Date.now() })
+```
+
+- Código do **index.js**:
+
+```js
+const { Worker, isMainThread, parentPort, workerData } = require('worker_threads')
+const request = require('request')
+
+function startWorker(path, cb) {
+	const worker = new Worker(path, { workerData: null })
+	worker.on('message', (msg) => {
+		cb(null, msg)
+	})
+	worker.on('error', cb)
+	worker.on('exit', (code) => {
+		if(code != 0)
+	      	console.error(new Error(`Worker finalizado com exit code = ${code}`))
+   })
+	return worker
+}
+
+console.log("Thread principal")
+
+// Inicía o worker em outra thread
+startWorker(__dirname + '/worker-code.js', (err, result) => {
+	if(err) return console.error(err)
+  console.log("** COMPUTAÇÃO PESADA FINALIZADA **")
+	console.log(`Duração = ${(result.end - result.start) / 1000} segundos`)
+})
+
+// Continua com o a execução na thread principal
+request.get('http://www.google.com', (err, resp) => {
+	if(err) return console.error(err)
+	console.log(`Total bytes recebidos = ${resp.body.length}`)
+})
+```
+
+### Explicando o código:
+
+- A thread principal e o código do worker estão separados cada um em seus respectivos arquivos.
+- A função `startWorker` (do arquivo index.js) retorna a instância de um worker (permitindo com que mensagens sejam enviadas caso necessário).
+
+
+
