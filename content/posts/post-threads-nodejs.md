@@ -67,7 +67,7 @@ parentPort.postMessage({ start, end: Date.now() })
 - Código do **index.js**:
 
 ```js
-const { Worker, isMainThread, parentPort, workerData } = require('worker_threads')
+const { Worker, workerData } = require('worker_threads')
 const request = require('request')
 
 function startWorker(path, cb) {
@@ -78,7 +78,7 @@ function startWorker(path, cb) {
 	worker.on('error', cb)
 	worker.on('exit', (code) => {
 		if(code != 0)
-	      	console.error(new Error(`Worker finalizado com exit code = ${code}`))
+	    console.error(new Error(`Worker finalizado com exit code = ${code}`))
    })
 	return worker
 }
@@ -99,10 +99,21 @@ request.get('http://www.google.com', (err, resp) => {
 })
 ```
 
+### Executando o código:
+
+Para executar o código será necessário utilizar a flag `--experimental-worker`:
+
+```
+$ node --experimental-worker index.js
+```
+
+![exemplo execução](https://i.imgur.com/Ba5rVYu.png)
+
 ### Explicando o código:
 
 - A thread principal e o código do worker estão separados cada um em seus respectivos arquivos.
-- A função `startWorker` (do arquivo index.js) retorna a instância de um worker (permitindo com que mensagens sejam enviadas caso necessário).
+- A função `startWorker` (do arquivo **index.js**) retorna a instância de um worker (permitindo com que mensagens sejam enviadas, caso necessário).
+- O código do arquivo **worker-code.js** simplesmente tem dois `for` encadeados para simular uma tarefa computacionalmente "pesada".
+- No arquivo **worker-code.js** é utilizada a função `postMessage` que envia um objeto JSON para a thread principal.
 
-
-
+## Conclusão
