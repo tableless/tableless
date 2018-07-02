@@ -2,7 +2,7 @@
 title: Threads no Node.js 10
 authors: Breno Panzolini
 type: post
-date: 2018-01-07
+date: 2018-02-07
 excerpt: Uma introdução prática às threads no Node.js.
 categories:
   - NodeJS
