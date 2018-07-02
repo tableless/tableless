@@ -115,5 +115,12 @@ $ node --experimental-worker index.js
 - A função `startWorker` (do arquivo **index.js**) retorna a instância de um worker (permitindo com que mensagens sejam enviadas, caso necessário).
 - O código do arquivo **worker-code.js** simplesmente tem dois `for` encadeados para simular uma tarefa computacionalmente "pesada".
 - No arquivo **worker-code.js** é utilizada a função `postMessage` que envia um objeto JSON para a thread principal.
+- Na thread principal (arquivo **index.js**), basicamente o que fazemos é chamar a função `startWorker` para iniciar a tarefa em outra thread e após isso fazemos um request no Google.
 
 ## Conclusão
+
+Esse artigo foi para mostrar os passos iniciais para quem quer conhecer um pouco mais sobre as novidades que estão saindo no Node.js e também para conhecer os conceitos básicos do módulo de threads.
+
+Algumas ressalvas importantes:
+- O módulo de threads é algo novo e totalmente experimental, ou seja, muita coisa do que foi apresentado pode vir a mudar no futuro.
+- Se você se interessou por esse assunto recomendo fortemente dar uma olhada na [documentação oficial](https://nodejs.org/api/worker_threads.html) e também na [PR do GitHub](https://github.com/nodejs/node/pull/20876).
