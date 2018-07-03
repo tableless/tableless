@@ -44,5 +44,9 @@ disableLiveReload = true
     [params.sponsor]
         [params.sponsor.alura]
             active = true
-            site = "https://www.alura.com.br/?utm_source=tableless"
+            site = "https://www.alura.com.br/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
             name = "alura"
+        [params.sponsor.kinghost]
+            active = true
+            site = "https://king.host/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
+            name = "kinghost"

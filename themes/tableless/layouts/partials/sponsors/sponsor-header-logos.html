@@ -3,7 +3,7 @@
   <ul>
     {{range $sponsor := $.Site.Params.sponsor }}
       {{if $sponsor.active}}
-      <li><a href="{{$sponsor.site}}" class="tb-sponsor-logo" data-sponsor-trigger="header" data-sponsor="{{$sponsor.name}}"><img alt="{{$sponsor.name}} - patrocinador oficial do Tableless" src="{{ .Site.BaseURL }}/images/sponsor/logo-{{$sponsor.name}}.svg"></a></li>
+      <li><a href="{{$sponsor.site}}" class="tb-sponsor-logo" data-sponsor-trigger="header" data-sponsor="{{$sponsor.name}}"><img alt="{{$sponsor.name}} - patrocinador oficial do Tableless" src="{{ .Site.BaseURL }}/images/sponsor/logo-{{$sponsor.name}}.png"></a></li>
       {{end}}
     {{end}}
   </ul>
