@@ -5,6 +5,7 @@ type: post
 date: 2015-05-01
 excerpt: Entendendo um pouco mais sobre encode e como funciona o UTF-8.
 url: /html-encode-utf-8/
+sponsor: kinghost
 categories:
   - HTML
   - HTML5

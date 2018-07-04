@@ -6,6 +6,7 @@ publishdate: 2018-07-04
 date: 2018-07-04
 excerpt: 'Afinal, todo o time de desenvolvimento está diretamente ligado com pontos chave na experiência do usuário.'
 image: https://i.imgur.com/Uv1OpwA.jpg
+sponsor: kinghost
 categories:
   - Carreira
   - Mercado e Comportamento

@@ -3,6 +3,7 @@ title: JAVA – Estruturas de Repetição
 authors: Fellipe Filgueiras
 type: post
 date: 2015-06-10
+sponsor: alura
 url: /java-estruturas-de-repeticao/
 categories:
   - Back-end

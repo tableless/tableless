@@ -3,6 +3,7 @@ title: Tudo que você queria saber sobre Git e GitHub, mas tinha vergonha de per
 authors: Daniel Schmitz
 type: post
 date: 2015-10-07
+sponsor: kinghost
 excerpt: 'Crie, compartilhe, acompanhe e versione projetos com o poder do git,  tudo na nuvem pelo github.'
 url: /tudo-que-voce-queria-saber-sobre-git-e-github-mas-tinha-vergonha-de-perguntar/
 categories:

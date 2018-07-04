@@ -5,6 +5,7 @@ type: post
 date: 2014-07-28
 excerpt: Da instalação ao seu primeiro web server com JavaScript.
 url: /o-que-nodejs-primeiros-passos-com-node-js/
+sponsor: kinghost
 dsq_thread_id: 2877932820
 categories:
   - nodejs

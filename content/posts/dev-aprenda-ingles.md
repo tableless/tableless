@@ -5,6 +5,7 @@ type: post
 date: 2018-06-18
 excerpt: 'Não caia na ladainha de que você não precisa disso'
 image: https://i.imgur.com/KMGoRNo.jpg
+sponsor: kinghost
 categories:
   - Carreira
   - Mercado e Comportamento

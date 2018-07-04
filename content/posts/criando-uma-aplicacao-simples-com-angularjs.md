@@ -4,14 +4,7 @@ authors: Davi Ferreira
 type: post
 date: 2012-07-26
 excerpt: Com a missão de enriquecer o vocabulário HTML o framework AngularJS chega com a marca Google de simplicidade e promete um workflow diferente para os desenvolvedores.
-url: /criando-uma-aplicacao-simples-com-angularjs/
-tweetbackscheck:
-  - 1356422885
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6496";s:7:"tinyurl";s:26:"http://tinyurl.com/bu5nx7l";s:4:"isgd";s:19:"http://is.gd/VvUXaS";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 780697075
+sponsor: alura
 categories:
   - JavaScript
 tags:

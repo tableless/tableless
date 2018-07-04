@@ -5,15 +5,7 @@ type: post
 date: 2011-01-21
 excerpt: Entenda o HTML básico, saiba o que significa tags do HTML e entenda como fazer.
 url: /o-que-html-basico/
-tweetbackscheck:
-  - 1356450861
-dsq_thread_id: 511187823
-shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/o-que-html-basico/";s:7:"tinyurl";s:26:"http://tinyurl.com/cgp5r8b";s:4:"isgd";s:19:"http://is.gd/rCoZs5";}'
-twittercomments:
-  - 'a:8:{i:149599866639753217;s:7:"retweet";i:149590604609896450;s:7:"retweet";i:149575994813071360;s:7:"retweet";i:149567349270392832;s:7:"retweet";i:149566183694270464;s:7:"retweet";i:149565391172157440;s:7:"retweet";i:149565294963208192;s:7:"retweet";i:149565261299720192;s:7:"retweet";}'
-tweetcount:
-  - 5
+sponsor: alura
 categories:
   - O Básico
 tags:

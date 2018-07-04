@@ -6,7 +6,6 @@ type: post
 date: 2012-09-04
 excerpt: Conheça algumas dicas e truques do Sublime Text.
 url: /dicas-truques-sublime-text/
-dsq_thread_id: 830376124
 categories:
   - Editores
   - O Básico

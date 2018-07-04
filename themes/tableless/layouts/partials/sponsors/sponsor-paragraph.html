@@ -2,7 +2,7 @@
 
 {{ if (index .Site.Params.sponsor .Params.sponsor).active }}
   <div class="tb-sponsor-paragraph">
-    <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}" class="tb-sponsor-logo" data-sponsor-trigger="paragraph" data-sponsor="{{ (index .Site.Params.sponsor .Params.sponsor).name }}"><img src="{{ .Site.BaseURL }}images/sponsor/logo-{{ .Params.sponsor }}.svg"></a> 
+    <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}" class="tb-sponsor-logo" data-sponsor-trigger="paragraph" data-sponsor="{{ (index .Site.Params.sponsor .Params.sponsor).name }}"><img src="{{ .Site.BaseURL }}images/sponsor/logo-{{ .Params.sponsor }}.png"></a> 
       <p>Agradecemos o patrocínio da empresa <a href="{{ (index .Site.Params.sponsor .Params.sponsor).site }}" class="tb-sponsor-logo"><strong>{{ .Params.sponsor }}</strong></a> por nos ajudar a manter o site, sempre cuidando para que possamos publicar conteúdo de qualidade para a comunidade.</p>
   </div>
 {{end}}
