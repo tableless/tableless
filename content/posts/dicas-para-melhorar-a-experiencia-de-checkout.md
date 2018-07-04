@@ -2,8 +2,8 @@
 title: 'Dicas para melhorar a experiência de checkout'
 authors: Leticia Mayumi
 type: post
-pusblishdate: 2018-07-05
-date: 2018-07-05
+pusblishdate: 2018-07-09
+date: 2018-07-09
 excerpt: 'Afinal, todo o time de desenvolvimento está diretamente ligado com pontos chave na experiência do usuário.'
 image: https://i.imgur.com/jqw5Axk.jpg?2
 sponsor: alura
