@@ -3,7 +3,7 @@ title: Decifrando Proxies em JavaScript
 authors: Helder Burato Berto
 type: post
 image: https://i.imgur.com/3St5FYf.jpg
-date: 2018-06-23
+date: 2018-07-05
 excerpt: Intercepte seus objetos utilizando Proxies.
 categories:
   - Javascript
@@ -34,7 +34,7 @@ const target = {};
 const proxy = new Proxy(target, handler);
 proxy.age = 20;
 
-console.log(proxy.age, proxy.active); // 20 1
+console.log(proxy.age, proxy.active); // => 20 1
 > 20 1
 ```
 
@@ -66,15 +66,52 @@ const target = {};
 const proxyOne = new Proxy(target, handler);
 proxyOne.age = 20;
 
-console.log(proxyOne.age, proxyOne.active); // 20 1
+console.log(proxyOne.age, proxyOne.active); // => 20 1
 > 20 1
 
 const proxyTwo = new Proxy(target, handler);
 proxyTwo.age = 'Hello World';
 
-console.log(proxyTwo.age); // TypeError: The property age isn't a number.
-> TypeError: The property age isnt a number.
+console.log(proxyTwo.age); // => "TypeError: The property age isn't a number."
+> "TypeError: The property age isnt a number."
 ```
+
+## Cancelando armadilhas (_traps_)
+
+Vamos utilizar o método **Proxy.revocable()** para cancelar as armadilhas de um _proxy_. Confira a seguir:
+
+```js
+const handler = {
+  get: function(obj, prop) {
+    return prop in obj ? obj[prop] : 1;
+  },
+  set: function(target, prop, value, receiver) {
+    // For default the value will be add to the property in the object
+    target[prop] = value;
+
+    // Indicate the success
+    return true;
+  }
+};
+
+const target = {
+  firstName: "Helder",
+  lastName: "Burato Berto"
+};
+
+const { proxy, revoke } = Proxy.revocable(target, handler);
+
+console.log(`${proxy.firstName} ${proxy.lastName}`); // => "Helder Burato Berto"
+> "Helder Burato Berto"
+
+revoke(); // Revoke access to the proxy
+
+console.log(`${proxy.firstName} ${proxy.lastName}`); // => "TypeError: Cannot perform 'get' on a proxy that has been revoked"
+> "TypeError: Cannot perform 'get' on a proxy that has been revoked"
+```
+
+Depois que você fizer a chamada `revoke()` todas as operações relacionadas ao objeto **Proxy** vão causar um `TypeError`, desta forma você consegue prevenir que 
+ocorram ações em objetos indevidos.
 
 ## Conclusão
 
