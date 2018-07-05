@@ -2,7 +2,7 @@
 title: Threads no Node.js 10
 authors: Breno Panzolini
 type: post
-date: 2018-02-07
+date: 2018-05-07
 excerpt: Uma introdução prática às threads no Node.js.
 categories:
   - NodeJS
@@ -23,7 +23,7 @@ Muita gente deve estar se perguntando do porque se utilizar threads em uma lingu
 
 O motivo disso é que o Node nunca foi a melhor opção para computação "pesada" de CPU, e por isso mesmo raramente é utilizado em projetos de *machine learning*, inteligência artificial e *data science*.
 
-Não estou dizendo que com essa implementação de **threads** vamos poder jogar todos os nossos projetos fora e já sair implementando todas essas coisas, porém como um entusiasta de Node.js fico feliz em ver que a comunidade está progredindo tentando resolver esse tipo de problema.
+Não estou dizendo que com essa implementação de **threads** vamos poder jogar todos os nossos projetos fora e já sair implementando todas essas coisas, porém como um entusiasta de Node fico feliz em ver que a comunidade está progredindo tentando resolver esse tipo de problema.
 
 ## Como começar?
 
@@ -33,7 +33,7 @@ Outro detalhe importante é que como o módulo de **threads** (que na verdade é
 
 ## Exemplo
 
-Antes de mostrar um exemplo, é importante ressaltar que o módulo de **threads** é para ser utilizadas em tarefas que realmente exijam mais da CPU, utilizar esse tipo de recurso para *async I/O* é um disperdício de recurso computacional (já que o Node já lida muito bem com esse tipo de operação).
+Antes de mostrar um exemplo, é importante ressaltar que o módulo de **threads** é para ser utilizadas em tarefas que realmente exijam mais da CPU, utilizar esse tipo de recurso para *async I/O* é um disperdício de recurso computacional (já que o Node lida muito bem com esse tipo de operação).
 
 ### Código:
 
@@ -85,7 +85,7 @@ function startWorker(path, cb) {
 
 console.log("Thread principal")
 
-// Inicía o worker em outra thread
+// Inicia o worker em outra thread
 startWorker(__dirname + '/worker-code.js', (err, result) => {
 	if(err) return console.error(err)
   console.log("** COMPUTAÇÃO PESADA FINALIZADA **")
