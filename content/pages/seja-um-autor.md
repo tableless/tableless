@@ -25,7 +25,7 @@ Você pode escrever qualquer assunto relacionado aos tópicos abaixo. Se você a
 *   **HTML:** HTML5, linguagens de marcação, semântica, novidades;
 *   **JavaScript:** JQuery, linguagem, métodos, truques, soluções, tutoriais etc;
 *   **CSS:** técnicas, truques, teorias, práticas, soluções, tutoriais;
-*   **Wordpress:** criação de temas, plugins, técnicas, massetes, truques, tutoriais;
+*   **WordPress:** criação de temas, plugins, técnicas, massetes, truques, tutoriais;
 *   **UX e Design**: processo, prática, dicas, truques, soluções, tutoriais;
 *   **Tipografia:** seleção de fonts, ferramentas, tutoriais, design;
 *   **Back-end** ruby, php, python, truques, dicas, tutoriais;
@@ -125,7 +125,7 @@ Ali em *categorias*, coloque as categorias já existentes no site, ou se não so
 * Ajax
 * NodeJS
 * jQuery
-* Wordpress
+* WordPress
 * Mercado e Comportamento
 * Tecnologia e Tendências
 * Código
