@@ -226,7 +226,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
           </td>
           
           <td>
-            Arquivos XML que podem ser lidos em tempo de execução chamando <code>&lt;a href="http://developer.android.com/reference/android/content/res/Resources.html#getXml(int)">Resources.getXML()&lt;/a></code>. Vários arquivos XML de configuração podem ser salvos aqui, por exemplo.<br /> <!-- or preferences configuration. -->
+            Arquivos XML que podem ser lidos em tempo de execução chamando <a href="http://developer.android.com/reference/android/content/res/Resources.html#getXml(int)"><code>Resources.getXML()</code></a>. Vários arquivos XML de configuração podem ser salvos aqui, por exemplo.
           </td>
         </tr></tbody> </table> 
         
@@ -322,20 +322,19 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
           <strong>No código: </strong>usando o inteiro estático provido pela classe <strong>R</strong>, assim: <code>R.layout.activity_about</code>. Por exemplo:
         </p>
         
-        <pre><code>
+<code>
 @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about);
     }
 </code>
-</pre>
         
         <p>
           <strong>Em um arquivo XML: </strong>usando uma sintaxe especial (@tipo/nome) usando o ID provido pela classe <strong>R</strong>, assim: <code>@string/list_item_textview_title_default</code>. Por exemplo:
         </p>
         
-        <pre><code>
+<code>
     &lt;TextView
         android:id="@+id/list_item_textview_title"
         android:layout_width="wrap_content"
@@ -343,7 +342,6 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
         android:text="@string/app_credits"
         style="@style/h1"/&gt;
 </code>
-</pre>
         
         <h1>
           Conclusão
