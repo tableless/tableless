@@ -1,9 +1,9 @@
----
+﻿---
 title: Decifrando Proxies em JavaScript
 authors: Helder Burato Berto
 type: post
 image: https://i.imgur.com/3St5FYf.jpg
-date: 2018-07-09
+date: 2018-07-06
 excerpt: Intercepte seus objetos utilizando Proxies.
 categories:
   - Javascript
