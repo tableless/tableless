@@ -1,6 +1,7 @@
-@import "https://fonts.googleapis.com/css?family=Roboto:400,700,900"
+@import "https://fonts.googleapis.com/css?family=Roboto:300,400,700,900"
 @import "helpers"
 @import "banners"
+@import "home-featured-posts"
 @import "header"
 @import "footer"
 @import "single"
@@ -36,12 +37,9 @@ body
   flex-direction: space-around
 
 .tb-post-box
-  flex: 1 0 300px
-  margin: 0 10px 50px
-
-  img
-    max-width: 100%
-    border-radius: 3px
+  flex: 1 0 500px
+  max-width: 350px
+  margin: 0 auto 50px
 
   h2
     margin: -10px 0 5px
@@ -153,6 +151,22 @@ body
       margin-bottom: 20px
       padding: 0 10px 20px
 
+.tb-post-img
+  animation: bg-img .5s ease alternate-reverse infinite
+  height: 250px
+  overflow: hidden
+  font-size: 0
+  border-radius: 3px
+  display: flex
+  align-items: center
+  justify-content: center
+  img
+    height: 110%
+    border-radius: 3px
+    width: auto
+
+  &:hover
+    opacity: .85
 ////
 // Big Screen version
 ////
@@ -179,6 +193,7 @@ body
 
   .tb-post-box
     margin-bottom: 30px
+    max-width: 400px
 
     &:hover img
       opacity: .9
@@ -198,17 +213,6 @@ body
     .tb-categ-flag
       font-size: .9rem
       padding: 5px 10px
-
-    .tb-post-img
-      height: 250px
-      overflow: hidden
-      display: block
-      border-radius: 3px
-
-      img
-        max-width: initial
-        width: 130%
-        transform: translateX(-10%)
 
   .tb-comuna
 
