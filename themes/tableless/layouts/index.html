@@ -3,9 +3,9 @@
 <section class="tb-feature-posts">
 {{ range first 4 (where .Site.Pages "Type" "post")}}
   <div>
-    <a href="{{ .RelPermalink }}" class="tb-post-img">
+    <a href="{{ .RelPermalink }}" class="tb-post-img" style="background-image: url({{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }})">
       <!-- <img alt="Imagem de destaque do post {{ .Title}}" src="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}"> -->
-      <img src="images/UrgN6zz.jpg" alt="">
+      <!-- <img src="images/UrgN6zz.jpg" alt=""> -->
     </a>
     <h1>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
