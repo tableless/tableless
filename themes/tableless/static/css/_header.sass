@@ -1,13 +1,15 @@
+@import "header-home"
+
 #tb-header
   padding: 30px $space-default
 
-.tb-logo
-  max-width: 200px
-  display: inline-block
-  vertical-align: middle
+  .tb-logo
+    max-width: 200px
+    display: inline-block
+    vertical-align: middle
 
-  img
-    max-width: 100%
+    img
+      max-width: 100%
 
 #tb-menu
   padding: 40px 0 30px
@@ -86,9 +88,9 @@
     align-items: center
     padding: 50px $space-default 150px
 
-  .tb-logo
-    order: 1
-    flex: 1 0 200px
+    .tb-logo
+      order: 1
+      flex: 1 0 200px
 
   .tb-submenu-parent > a:after
     border-top: 3px solid $gray !important
@@ -133,7 +135,7 @@
 
       li ul
         display: block
-        width: 250px
+        width: 260px
         padding: 0
         position: absolute
         top: 22px
@@ -152,13 +154,17 @@
         a
           display: block !important
           font-family: $fontFamily
+          font-size: 1rem !important
           text-align: left
           padding: 7px 10px
           margin: 0
           color: $gray
+          border-left: 5px solid transparent
+          background: rgba(255, 255, 255, .97)
 
           &:hover
             color: $red
+            border-left-color: $red
             text-decoration: none
 
       li:hover
@@ -166,9 +172,7 @@
           height: auto
           overflow: auto
           padding: 15px 20px 0
-          background: rgba(255, 255, 255, .97)
           z-index: 10
-          transition: background .25s linear
 
           li
             opacity: 1
@@ -191,25 +195,6 @@
       list-style: none
       line-height: 0
 
-      // &:first-child
-      //   border-left: none
-
-      // &:nth-child(6),
-      // &:nth-child(7),
-      // &:nth-child(8),
-      // &:nth-child(9),
-      //   border: none
-      //   margin-left: 7px
-      //   padding-left: 7px
-
-      // &:nth-child(6)
-      //   margin-left: 25px
-
-    .tb-lnk-forum
-      flex: 1 0 100%
-      display: block
-      text-align: right
-
     a
       padding-left: 15px
       margin-left: 15px
@@ -220,6 +205,11 @@
 
       &:hover
         color: $red
+
+    .tb-lnk-forum
+      flex: 1 0 100%
+      display: block
+      text-align: right
 
     [class*="tb-lnk-social"]
       border: none
