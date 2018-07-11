@@ -3,9 +3,7 @@
 <section class="tb-feature-posts">
 {{ range first 4 (where .Site.Pages "Type" "post")}}
   <div>
-    <a href="{{ .RelPermalink }}" class="tb-post-img" style="background-image: url({{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }})">
-      <!-- <img alt="Imagem de destaque do post {{ .Title}}" src="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}"> -->
-      <!-- <img src="images/UrgN6zz.jpg" alt=""> -->
+    <a href="{{ .RelPermalink }}" class="tb-post-img" title="Link para o post {{ .Title}}" style="background-image: url({{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }})">
     </a>
     <h1>
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -16,9 +14,11 @@
 </section>
 
 <section class="tb-post-list">
-  {{ range first 3 (after 4 .Pages)}}
-  {{ partial "postbox.html" . }}
-  {{end}}
+  <div class="tb-container">
+    {{ range first 3 (after 4 .Pages)}}
+    {{ partial "postbox.html" . }}
+    {{end}}
+  </div>
 </section>
 
 <!-- <section class="tb-banner-home">

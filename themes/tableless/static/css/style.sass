@@ -30,38 +30,49 @@ body
   text-align: center
 
 .tb-post-list
-  @extend .tb-container
-  padding: 0 20px
-  display: flex
-  flex-wrap: wrap
-  flex-direction: space-around
+  padding: 100px 20px
+  background: #F5F5F5
 
-.tb-post-box
-  flex: 1 0 500px
-  max-width: 350px
-  margin: 0 auto 50px
+  .tb-container
+    display: flex
+    flex-wrap: wrap
+    flex-direction: space-around
 
-  h2
-    margin: -10px 0 5px
-    text-transform: uppercase
-    font: 700 1.1rem $fontFamily
+  .tb-post-box
+    padding-bottom: 30px
+    margin-bottom: 30px
+    background: #fff
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .13)
 
-    a
-      color: $gray
-      text-decoration: none
+    .tb-post-img
+      border-radius: 0
 
-      &:hover
-        color: $red
-  p
-    color: $text-gray
-    font: 400 1rem/1.4 $fontFamily
+    h2
+      font: 700 1.5rem $fontFamily
+      max-width: 340px
+      margin: 0 auto
+      text-align: center
 
-  h2, p
-    padding-left: 10px
-    padding-right: 10px
+      a
+        color: $gray
+        text-decoration: none
 
-  .tb-author
-    padding-left: 10px
+        &:hover
+          color: $red
+    p
+      color: $text-gray
+      font: 400 1rem/1.4 $fontFamily
+
+    h2, p
+      padding-left: 10px
+      padding-right: 10px
+
+    .tb-author
+      display: block
+      padding-top: 25px
+      font-weight: 300
+      font-size: .75rem
+      text-align: center
 
 .tb-categ-flag
   display: inline-block
@@ -71,7 +82,7 @@ body
   text-decoration: none
   text-transform: lowercase
   padding: 5px 10px 2px
-  margin: 0 10px
+  margin: 0 0 0 20px
   transform: translateY(-20px)
   font: 900 .8rem $fontFamily
   position: relative
@@ -163,11 +174,9 @@ body
   font-size: 0
   border-radius: 3px
   display: inline-block
-  // align-items: center
-  // justify-content: center
+
   img
     height: 110%
-    border-radius: 3px
     width: auto
 
   &:hover
@@ -195,10 +204,13 @@ body
       margin-top: 55px
       margin-left: auto
       margin-right: auto
-
+  
   .tb-post-box
-    margin-bottom: 30px
-    max-width: 400px
+    flex: 1 0 400px
+    margin: 0 10px
+  
+    .tb-post-list &
+      margin-bottom: 0
 
     &:hover img
       opacity: .9
