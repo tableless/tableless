@@ -49,7 +49,6 @@ body
 
     h2
       font: 700 1.5rem $fontFamily
-      max-width: 340px
       margin: 0 auto
       text-align: center
 
@@ -69,7 +68,6 @@ body
 
     .tb-author
       display: block
-      padding-top: 25px
       font-weight: 300
       font-size: .75rem
       text-align: center
@@ -83,16 +81,22 @@ body
   text-transform: lowercase
   padding: 5px 10px 2px
   margin: 0 0 0 20px
-  transform: translateY(-20px)
   font: 900 .8rem $fontFamily
   position: relative
   z-index: 1
+  
+  &:hover
+    opacity: .8
 
-.tb-categs .tb-categ-flag
-  display: none
+.tb-categs
+  transform: translateY(-20px)
+  display: block
 
-.tb-categs .tb-categ-flag:first-child
-  display: inline-block
+  .tb-categ-flag
+    display: none
+
+  .tb-categ-flag:first-child
+    display: inline-block
 
 .tb-banner-home
   margin: 70px auto 0
@@ -111,7 +115,6 @@ body
   padding: 0 20px 0 0
 
   h2
-    width: 90%
     font-size: 1.2rem
     line-height: 1.4
     padding: 15px 0 0
@@ -216,11 +219,14 @@ body
       opacity: .9
 
     h2
-      width: 90%
       font-size: 1.2rem
       line-height: 1.4
-      padding: 15px 10px 0
       margin-bottom: 15px
+      a
+        padding: 35px 50px 25px
+        position: relative
+        top: -20px
+        display: block
 
     p
       width: 90%
