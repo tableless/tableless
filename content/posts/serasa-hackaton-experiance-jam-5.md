@@ -2,6 +2,7 @@
 title: 'Hackathon da Serasa Experian - EJ5'
 authors: Tableless
 type: post
+publishdate: 2018-07-20
 date: 2018-07-18
 excerpt: Nova edição do evento de inovação Experiance Jam acontece em agosto, em São Carlos (SP)
 image: https://i.imgur.com/OaWLkaP.jpg
