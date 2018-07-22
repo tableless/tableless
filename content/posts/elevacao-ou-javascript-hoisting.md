@@ -13,13 +13,13 @@ url: /elevacao-ou-javascript-hoisting/
 dsq_thread_id: 2715165926
 categories:
   - Código
-  - JavaScript
+  - Javascript
 tags:
   - escopo
   - funcoes
   - hoisting
   - inicialização
-  - JavaScript
+  - Javascript
   - Jonatan Santos
   - tableless
   - variaveis

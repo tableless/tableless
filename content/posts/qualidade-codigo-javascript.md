@@ -13,13 +13,13 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 757524617
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
   - Técnicas e Práticas
 tags:
   - 2012
   - codigo
-  - JavaScript
+  - Javascript
   - js
   - jslint
 

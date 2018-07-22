@@ -10,7 +10,7 @@ titulo_personalizado:
 categories:
   - Código
   - Destaques
-  - JavaScript
+  - Javascript
   - Tecnologia e Tendências
 tags:
   - npm

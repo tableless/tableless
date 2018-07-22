@@ -8,7 +8,7 @@ url: /web-movel-e-suas-aplicacoes/
 dsq_thread_id: 1010142253
 categories:
   - HTML
-  - JavaScript
+  - Javascript
   - Mobile
 
 ---

@@ -8,7 +8,7 @@ url: /closure-tools/
 categories:
   - Artigos
   - Geral
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 
 ---

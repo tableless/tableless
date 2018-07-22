@@ -11,10 +11,10 @@ categories:
   - Artigos
   - back-end
   - Destaques
-  - JavaScript
+  - Javascript
 tags:
   - back-end
-  - JavaScript
+  - Javascript
   - node.js
 
 ---

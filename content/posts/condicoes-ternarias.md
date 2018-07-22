@@ -6,7 +6,7 @@ date: 2015-03-04
 excerpt: 'Algumas condições simples precisam de muito código para definir uma atribuição.  Podemos usar condições ternárias para tornar nosso código mais conciso.'
 url: /condicoes-ternarias/
 categories:
-  - JavaScript
+  - Javascript
 
 ---
 Algumas condições simples precisam de muito código para definir uma atribuição. 

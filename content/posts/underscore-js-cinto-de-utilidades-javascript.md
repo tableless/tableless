@@ -13,9 +13,9 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 849528670
 categories:
-  - JavaScript
+  - Javascript
 tags:
-  - JavaScript
+  - Javascript
   - underscorejs
 
 ---

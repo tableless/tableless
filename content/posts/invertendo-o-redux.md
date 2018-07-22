@@ -9,11 +9,11 @@ titulo_personalizado:
 categories:
   - Código
   - Destaques
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - front-end
-  - JavaScript
+  - Javascript
   - redux
 
 ---

@@ -5,7 +5,7 @@ type: post
 date: 2017-08-09
 excerpt: Entenda e crie seu Progressive Web App
 categories:
-  - JavaScript
+  - Javascript
   - Na Prática
 tags:
   - Progressive web app

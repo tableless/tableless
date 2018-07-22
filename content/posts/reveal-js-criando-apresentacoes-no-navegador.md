@@ -7,11 +7,11 @@ excerpt: Conheça a biblioteca reveal.js, uma ferramenta poderosa para a criaç�
 url: /reveal-js-criando-apresentacoes-no-navegador/
 dsq_thread_id: 1084909678
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - CSS3
   - html5
-  - JavaScript
+  - Javascript
   - revealjs
 
 ---

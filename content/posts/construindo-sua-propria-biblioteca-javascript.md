@@ -7,12 +7,12 @@ excerpt: E se um dia você criasse sua própria biblioteca JavaScript, no estilo
 url: /construindo-sua-propria-biblioteca-javascript/
 dsq_thread_id: 2825600760
 categories:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - bibliotecas javascript
   - criando sua própia biblioteca javascript
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

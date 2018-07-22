@@ -14,7 +14,7 @@ categories:
   - HTML5
 tags:
   - html5
-  - JavaScript
+  - Javascript
   - NodeJS
   - socket.io
   - sockets

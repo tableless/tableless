@@ -6,7 +6,7 @@ date: 2016-06-29
 excerpt: Como fazer um script de paginação usando JavaScript e jQuery
 url: /paginacao-com-javascript-e-jquery/
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - JQuery
 ---

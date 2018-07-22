@@ -13,11 +13,11 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 609422080
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - eventos
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

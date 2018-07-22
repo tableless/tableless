@@ -11,12 +11,12 @@ dsq_thread_id: 2002987745
 categories:
   - Código
   - HTML5
-  - JavaScript
+  - Javascript
   - Mobile
 tags:
   - frame player
   - html5
-  - JavaScript
+  - Javascript
   - mobile
   - video
 

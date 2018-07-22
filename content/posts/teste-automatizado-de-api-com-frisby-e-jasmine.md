@@ -6,7 +6,7 @@ date: 2015-08-27
 url: /teste-automatizado-de-api-com-frisby-e-jasmine/
 categories:
   - back-end
-  - JavaScript
+  - Javascript
 tags:
   - gulp
   - jasmine

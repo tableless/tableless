@@ -7,7 +7,7 @@ date: 2018-03-05
 excerpt: Como mandar bem nos commits
 categories:
   - Front-end
-  - JavaScript
+  - Javascript
   - Código
   - Git
 ---

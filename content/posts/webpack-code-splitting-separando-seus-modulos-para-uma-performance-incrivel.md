@@ -8,7 +8,7 @@ de aplicações e melhorando a experiência dos usuários'
 image: https://images.unsplash.com/photo-1505739679850-7adc7776516b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=406ab6486b411f24df33813b08c4b4cd&auto=format&fit=crop&w=1350&q=80
 categories:
     - Browsers
-    - JavaScript
+    - Javascript
     - Na prática
     - Ferramentas
 tags:

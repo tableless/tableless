@@ -5,7 +5,7 @@ type: post
 date: 2015-03-24
 url: /um-mix-de-orientacao-objetos-filter-map-e-reduce-com-javascript/
 categories:
-  - JavaScript
+  - Javascript
 
 ---
 Criei alguns objetos simples mas com propriedades usadas no nosso dia-a-dia. Estes objetos estão armazenados num vetor de projetos. Cada objeto representa um projeto e tem as propriedades id, objeto, valorTotal e investido.

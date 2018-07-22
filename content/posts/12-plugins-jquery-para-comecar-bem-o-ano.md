@@ -17,7 +17,7 @@ dsq_thread_id: 503040009
 categories:
   - Artigos
   - Código
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

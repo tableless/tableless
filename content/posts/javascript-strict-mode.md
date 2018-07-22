@@ -7,9 +7,9 @@ excerpt: "Como funciona o 'use strict' no JavaScript e saiba como ele pode ajud�
 url: /javascript-strict-mode/
 dsq_thread_id: 2850931825
 categories:
-  - JavaScript
+  - Javascript
 tags:
-  - JavaScript
+  - Javascript
   - strict mode
 
 ---
@@ -29,7 +29,7 @@ Se habilitarmos o strict mode, será lançada uma excepção para notificar que 
 <pre class="lang-javascript">function minhaFuncao() {
     "use strict";
  
-    // 0x800a13b2 - JavaScript runtime error: Variable undefined in strict mode
+    // 0x800a13b2 - Javascript runtime error: Variable undefined in strict mode
     nome = "Caio Proiete";
     // ...
 }

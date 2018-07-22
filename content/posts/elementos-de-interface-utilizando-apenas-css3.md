@@ -16,7 +16,7 @@ tags:
   - elementos de interface
   - html
   - interface
-  - JavaScript
+  - Javascript
 
 ---
 Se por um lado está na hora de você [parar de usar jQuery para tudo e investir mais em códigos JavaScript][1], por outro já é possível criar elementos animados e interativos utilizando apenas CSS3.

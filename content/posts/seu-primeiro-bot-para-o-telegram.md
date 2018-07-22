@@ -7,7 +7,7 @@ date: 2017-05-12
 excerpt: Nesse artigo vamos mostrar o desenvolvimento de um BOT muito simples utilizando a API do Telegram.
 url: /seu-primeiro-bot-para-o-telegram/
 categories:
-  - JavaScript
+  - Javascript
   - NodeJS
   - Tecnologia e Tendências
   - Código

@@ -6,10 +6,10 @@ date: 2017-02-22
 titulo_personalizado:
   - 'Como criar aplicações em tempo real usando <strong>Node.js e RethinkDB</strong>'
 categories:
-  - JavaScript
+  - Javascript
   - NodeJS
 tags:
-  - JavaScript
+  - Javascript
   - node.js
   - rethinkDB
   - Web Development

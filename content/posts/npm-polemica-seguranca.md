@@ -7,7 +7,7 @@ image: https://i.imgur.com/pIfQLqG.jpg
 excerpt: 'A polêmica sobre a falta de segurança em códigos de terceiros'
 categories:
   - Notícias
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
   - Tecnologia e Tendências
   - Mercado

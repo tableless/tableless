@@ -23,7 +23,7 @@ tags:
   - AJAX
   - CSS
   - flash
-  - JavaScript
+  - Javascript
   - podcast
   - tableless
   - web2

@@ -6,11 +6,11 @@ date: 2014-01-20
 excerpt: Automatize suas tarefas repetitivas de forma simples e rápida.
 dsq_thread_id: 2130313189
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - gulp
   - task-runner
-  - JavaScript
+  - Javascript
   - plugin
 ---
 Se você não esteve morando em baixo de uma rocha pelos últimos meses, provavelmente conhece o automatizador de tarefas [Grunt][1], que já dominava a área há algum tempo. Mas agora, chegou um novo automatizador chamado [Gulp][2] que promete realizar suas tarefas de forma mais rápida e simples do que seu concorrente.

@@ -19,10 +19,10 @@ dsq_thread_id: 503039602
 categories:
   - Artigos
   - Código
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

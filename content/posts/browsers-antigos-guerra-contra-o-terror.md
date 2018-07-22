@@ -19,7 +19,7 @@ categories:
   - Browsers
   - CSS
   - HTML
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
   - Tecnologia e Tendências
 tags:

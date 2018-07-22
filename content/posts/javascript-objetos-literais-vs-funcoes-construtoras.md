@@ -7,11 +7,11 @@ excerpt: Neste artigo apresento um pouco mais sobre as duas formas disponíveis 
 url: /javascript-objetos-literais-vs-funcoes-construtoras/
 dsq_thread_id: 1357506101
 categories:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - funcoes
-  - JavaScript
+  - Javascript
   - objetos
 
 ---

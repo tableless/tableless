@@ -7,9 +7,9 @@ excerpt: Dicas rápidas de JavaScript, uma linguagem beeem legal mas cheia de pe
 url: /dicas-de-bolso-de-javascript-parte-1/
 categories:
   - Código
-  - JavaScript
+  - Javascript
 tags:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 
 ---

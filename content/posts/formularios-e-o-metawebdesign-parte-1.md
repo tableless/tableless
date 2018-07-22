@@ -18,7 +18,7 @@ categories:
   - Código
   - CSS
   - HTML
-  - JavaScript
+  - Javascript
   - JQuery
   - Mercado
   - Tecnologia e Tendências

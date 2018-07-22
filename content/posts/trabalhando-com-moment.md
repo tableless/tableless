@@ -5,10 +5,10 @@ type: post
 date: 2018-02-28
 excerpt: Como utilizar o pacote Moment.js para trabalhar de maneira mais eficiente com datas no JavaScript.
 categories:
-  - JavaScript
+  - Javascript
   - NodeJS
 tags:
-  - JavaScript
+  - Javascript
   - NodeJS
 image:  https://imasters.com.br/wp-content/uploads/2014/02/moment-js.jpg
 ---

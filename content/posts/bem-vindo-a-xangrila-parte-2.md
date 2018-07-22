@@ -21,7 +21,7 @@ categories:
   - Artigos
   - CSS
   - HTML
-  - JavaScript
+  - Javascript
   - Mobile
   - SEO
 tags:

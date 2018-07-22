@@ -12,7 +12,7 @@ categories:
   - Técnicas e Práticas
 tags:
   - Heroku
-  - JavaScript
+  - Javascript
   - NodeJS
   - Procfile
   - Sinatra

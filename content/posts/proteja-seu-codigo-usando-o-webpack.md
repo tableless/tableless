@@ -9,12 +9,12 @@ titulo_personalizado:
 categories:
   - Código
   - Destaques
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - desenvolvimento
   - integração
-  - JavaScript
+  - Javascript
   - segurança
   - Segurança Web
   - webpack

@@ -8,12 +8,12 @@ url: /templates-jquery-parte2/
 dsq_thread_id: 503018698
 categories:
   - AJAX
-  - JavaScript
+  - Javascript
   - JQuery
   - Código
 tags:
   - 2010
-  - JavaScript
+  - Javascript
   - JQuery
 ---
 [Na primeira parte][1] deste artigo você conferiu uma introdução ao novo plugin .tmpl() que possibilita a utilização de templates para retornos e saídas de suas aplicações jQuery. O plugin certamente é um avanço considerável na organização de código &#8211; é o JavaScript ficando cada vez mais profissional e robusto, abandonando a fama de ser uma simples linguagem de script, sem padrões.

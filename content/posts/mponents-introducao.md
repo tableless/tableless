@@ -9,7 +9,7 @@ dsq_thread_id: 2680881717
 categories:
   - Artigos
   - HTML
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - CSS

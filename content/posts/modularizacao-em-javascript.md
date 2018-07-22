@@ -7,10 +7,10 @@ excerpt: Componentes e módulos nunca foram tão mencionados como ultimamente. A
 url: /modularizacao-em-javascript/
 dsq_thread_id: 2037909754
 categories:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
-  - JavaScript
+  - Javascript
   - modularizacao javascript
 
 ---

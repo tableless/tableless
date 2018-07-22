@@ -17,7 +17,7 @@ categories:
 tags:
   - 2011
   - AJAX
-  - JavaScript
+  - Javascript
   - Na Prática
 
 ---

@@ -6,10 +6,10 @@ date: 2015-12-09
 excerpt: 'Sabe quando a variável acaba ganhando um valor que você não esperava ? Pois bem, o JavaScript tem algumas formas de tratar variáveis e é sobre isso que vamos tratar aqui neste artigo. Escrevi este texto para o curso beMEAN - Instagram criado pelo Jean Suissa, fundador da Webschool. Gostaria de compartilhar com a comunidade, especialmente com os iniciantes. Vamos la! ;)'
 url: /uma-visao-detalhada-sobre-instanciacao-de-variaveis-no-javascript/
 categories:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
-  - JavaScript
+  - Javascript
   - js
 
 ---

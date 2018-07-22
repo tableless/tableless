@@ -6,7 +6,7 @@ image: https://i.imgur.com/y05YIAB.jpg
 date: 2018-02-08
 excerpt: O DOM explicado de uma maneira fácil.
 categories:
-  - JavaScript
+  - Javascript
   - HTML
 ---
 

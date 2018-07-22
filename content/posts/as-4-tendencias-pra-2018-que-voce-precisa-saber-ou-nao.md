@@ -7,14 +7,10 @@ publishdate: 2018-01-08
 date: 2018-01-08
 excerpt: Essas são apenas as minhas falhas opiniões de um jovem mortal.
 categories:
-  - Opinião
-  - Mercado e comportamento
-  - Tecnologia e Tendências
-  - ReactJS
-tags:
-  - opinião
-  - reactjs
   - javascript
+  - Opinião
+tags:
+  - reactjs
 ---
 
 Sim, eu já sei o que você vai dizer.

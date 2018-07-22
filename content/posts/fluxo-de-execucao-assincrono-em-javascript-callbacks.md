@@ -7,7 +7,7 @@ excerpt: Este é o primeiro artigo de uma pequena série a respeito de execuçã
 url: /fluxo-de-execucao-assincrono-em-javascript-callbacks/
 categories:
   - Código
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 
 ---

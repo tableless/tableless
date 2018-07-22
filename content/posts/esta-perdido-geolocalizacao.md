@@ -8,14 +8,14 @@ url: /esta-perdido-geolocalizacao/
 dsq_thread_id: 1227185682
 categories:
   - HTML5
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - 2013
   - geolocalização
   - geolocation
   - html5
-  - JavaScript
+  - Javascript
 
 ---
 No passado a localização dos usuários era baseada em IP. A precisão não era lá grande coisa, pois a posição do usuário era baseada em um &#8220;chute&#8221; de acordo com o seu IP. Graças ao HTML5 e sua API de Geolocalização ou Geolocation (já falamos sobre isso aqui no artigo [Creme de papaia e Geolocalização][1]) podemos saber a posição do usuário de forma muito mais precisa e com isso é possível escrever aplicações mais úteis.

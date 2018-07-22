@@ -7,11 +7,11 @@ excerpt: Inicialmente lançado para aplicações mobile, o framework Zepto.js co
 url: /zepto-js-biblioteca-javascript-peso-leve/
 dsq_thread_id: 1149184803
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - 2013
-  - JavaScript
+  - Javascript
   - JQuery
   - zepto
 

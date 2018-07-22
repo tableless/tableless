@@ -9,10 +9,10 @@ dsq_thread_id: 2594877912
 categories:
   - HTML
   - HTML5
-  - JavaScript
+  - Javascript
 tags:
   - boas praticas
-  - JavaScript
+  - Javascript
   - loca files
 
 ---

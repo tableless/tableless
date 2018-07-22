@@ -7,10 +7,10 @@ url: /programacao-funcional-em-javascript-implementando-curry-e-compose-com-bind
 categories:
   - Código
   - Geral
-  - JavaScript
+  - Javascript
   - Tecnologia e Tendências
 tags:
-  - JavaScript
+  - Javascript
   - programação funcional
 
 ---

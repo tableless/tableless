@@ -10,14 +10,14 @@ categories:
   - Browsers
   - Código
   - HTML
-  - JavaScript
+  - Javascript
   - O Básico
 tags:
   - 2013
   - browsrs
   - CSS
   - html
-  - JavaScript
+  - Javascript
   - performance
 
 ---

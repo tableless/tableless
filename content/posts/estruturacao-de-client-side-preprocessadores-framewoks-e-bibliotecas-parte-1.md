@@ -21,7 +21,7 @@ categories:
   - CSS3
   - HTML
   - HTML5
-  - JavaScript
+  - Javascript
   - JQuery
   - O Básico
   - Técnicas e Práticas

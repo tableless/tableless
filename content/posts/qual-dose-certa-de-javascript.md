@@ -8,12 +8,12 @@ url: /qual-dose-certa-de-javascript/
 dsq_thread_id: 2214033807
 categories:
   - Artigos
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - client-side
   - front-end
-  - JavaScript
+  - Javascript
   - js
 
 ---

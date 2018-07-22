@@ -7,7 +7,7 @@ date: 2017-05-24
 excerpt: Um estudo pessoal sobre as possibilidade do React Native. 
 url: /indo-alem-no-react-native/
 categories:
-  - JavaScript
+  - Javascript
   - Mobile
   - ReactJS
   - Código

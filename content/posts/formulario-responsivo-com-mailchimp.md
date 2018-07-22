@@ -11,7 +11,7 @@ categories:
   - Código
   - CSS
   - HTML
-  - JavaScript
+  - Javascript
   - JQuery
   - Responsive Web Design (RWD)
 tags:

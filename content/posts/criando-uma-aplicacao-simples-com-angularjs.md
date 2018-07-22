@@ -6,10 +6,10 @@ date: 2012-07-26
 excerpt: Com a missão de enriquecer o vocabulário HTML o framework AngularJS chega com a marca Google de simplicidade e promete um workflow diferente para os desenvolvedores.
 sponsor: alura
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - angularjs
-  - JavaScript
+  - Javascript
   - mvc
 
 ---

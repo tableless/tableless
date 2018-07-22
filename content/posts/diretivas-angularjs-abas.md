@@ -7,10 +7,10 @@ excerpt: As diretivas do AngularJS estendem o código HTML, atribuindo funcional
 url: /diretivas-angularjs-abas/
 categories:
   - AngularJS
-  - JavaScript
+  - Javascript
 tags:
   - angularjs
-  - JavaScript
+  - Javascript
   - js
 
 ---

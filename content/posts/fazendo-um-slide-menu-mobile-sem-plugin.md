@@ -15,7 +15,7 @@ tags:
   - CSS
   - css transform
   - CSS3
-  - JavaScript
+  - Javascript
   - translate
 
 ---

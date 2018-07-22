@@ -7,11 +7,11 @@ excerpt: Entenda mais sobre Selenium e entenda como ele pode ajudar em aplicaç�
 url: /introducao-ao-selenium-2/
 dsq_thread_id: 2039029598
 categories:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - bdd
-  - JavaScript
+  - Javascript
   - Selenium
   - tdd
   - webdriver

@@ -7,7 +7,7 @@ date: 2018-05-24
 excerpt: Criar strings é algo muito fácil em JavaScript. Mas manipular strings não é algo trivial.
 image: https://i.imgur.com/Ojf6mzf.png
 categories:
-  - JavaScript
+  - Javascript
   - Na Prática
 tags:
   - javascript

@@ -9,11 +9,11 @@ titulo_personalizado:
   - 'Fluxo de execução assíncrono em <strong>JavaScript</strong>'
 categories:
   - Destaques
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - async
-  - JavaScript
+  - Javascript
 
 ---
 Os últimos artigos tratam de [Callbacks][1] e [Promises][2], corre conferir ou relembrar antes de prosseguirmos. Promises são abstrações muito importantes na evolução de escrita de código assíncrono. Tanto isto é verdade, que as técnicas e conceitos que veremos neste artigo são todos apoiados em _promises_.

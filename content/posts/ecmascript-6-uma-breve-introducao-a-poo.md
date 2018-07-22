@@ -7,10 +7,10 @@ excerpt: 'Veja como ficou a programação orientada à objetos na nova especific
 url: /ecmascript-6-uma-breve-introducao-a-poo/
 categories:
   - Geral
-  - JavaScript
+  - Javascript
 tags:
   - ecmascript
-  - JavaScript
+  - Javascript
   - poo
 
 ---

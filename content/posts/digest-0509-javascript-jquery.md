@@ -16,13 +16,13 @@ twittercomments:
 dsq_thread_id: 503039072
 categories:
   - Digest
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - CSS
   - CSS3
   - Digest
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

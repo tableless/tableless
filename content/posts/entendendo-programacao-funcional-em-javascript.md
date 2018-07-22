@@ -5,12 +5,12 @@ type: post
 date: 2017-09-14
 excerpt: Você já percebeu que cada vez mais o termo Programação Funcional vem sendo usado pela comunidade?
 categories:
-  - JavaScript
+  - Javascript
   - Na Prática
   - es6
   - es5
 tags:
-  - JavaScript
+  - Javascript
   - ReactJS
   - AngularJS
   - es6

@@ -6,10 +6,10 @@ date: 2015-03-30
 excerpt: Provavelmente você já deve ter ouvido de Jasmine certo? Por acaso, você conhece todos os matchers que ele nos oferece pra testar?
 url: /jasmine-entendendo-os-matchers/
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - jasmine
-  - JavaScript
+  - Javascript
   - test
 
 ---

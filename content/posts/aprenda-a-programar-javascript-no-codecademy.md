@@ -16,7 +16,7 @@ tweetcount:
 dsq_thread_id: 550822662
 categories:
   - Código
-  - JavaScript
+  - Javascript
   - Notícias
 
 ---

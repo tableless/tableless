@@ -6,10 +6,10 @@ date: 2014-09-19
 excerpt: Entenda um pouco mais sobre o pattern JavaScript Observer.
 url: /design-patterns-em-javascript-observer/
 categories:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
-  - JavaScript
+  - Javascript
   - pattern
 
 ---

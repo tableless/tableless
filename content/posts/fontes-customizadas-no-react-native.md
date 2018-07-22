@@ -7,7 +7,7 @@ date: 2018-01-14
 excerpt: como você pode fazer para usar fontes customizadas no seu projeto React-Native.
 image: https://cdn-images-1.medium.com/max/2000/1*i6wjMxUd9IBwah_12Y5UBw.jpeg
 categories:
-  - JavaScript
+  - Javascript
   - ReactJS
   - Na prática
 tags:

@@ -17,12 +17,12 @@ dsq_thread_id: 503039006
 categories:
   - AJAX
   - Digest
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - AJAX
   - Digest
-  - JavaScript
+  - Javascript
 
 ---
   * [Useful Javascript, jQuery, and AJAX Tutorials and Resources &#8211; Massive Link Collection Part #1][1]

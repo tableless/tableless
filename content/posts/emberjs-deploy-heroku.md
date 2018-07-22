@@ -6,8 +6,8 @@ authors: Aurélio Saraivas
 type: post
 date: 2017-11-30
 categories:
+  - Javascript
   - EmberJS
-  - JavaScript
   - Técnicas e Práticas
   - Tooling
 tags:
@@ -16,7 +16,7 @@ tags:
   - reactjs
   - tutorial
   - angularjs
-  - JavaScript
+  - Javascript
 ---
 
 Esse é um post bem rápido, vou mostrar como configurar deploy automático no

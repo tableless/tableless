@@ -7,9 +7,9 @@ excerpt: Conheça a biblioteca React desenvolvida por Facebook e Instagram, que 
 url: /react-javascript-reativo/
 dsq_thread_id: 1769686962
 categories:
-  - JavaScript
+  - Javascript
 tags:
-  - JavaScript
+  - Javascript
   - react
 
 ---

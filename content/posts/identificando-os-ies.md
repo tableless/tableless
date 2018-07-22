@@ -15,14 +15,14 @@ dsq_thread_id: 759056657
 categories:
   - Browsers
   - Código
-  - JavaScript
+  - Javascript
   - JQuery
   - Técnicas e Práticas
 tags:
   - 2012
   - Browsers
   - internet explorer
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

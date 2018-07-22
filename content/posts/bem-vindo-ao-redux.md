@@ -10,14 +10,14 @@ titulo_personalizado:
 categories:
   - Código
   - Destaques
-  - JavaScript
+  - Javascript
   - ReactJS
   - Técnicas e Práticas
 tags:
   - arquitetura
   - elm
   - flux
-  - JavaScript
+  - Javascript
   - react
   - redux
 

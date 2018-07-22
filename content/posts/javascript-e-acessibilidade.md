@@ -21,11 +21,11 @@ categories:
   - AJAX
   - Artigos
   - Código
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - acessibilidade
-  - JavaScript
+  - Javascript
 
 ---
 É muito comum o desenvolvedor ficar empolgado ao descobrir recursos, plugins, animações e efeitos JavaScript e acabar exagerando no produto final. Também é muito comum, [como disse a Thaiana][1], que acessiblidade esteja ligado exclusivamente a sites governamentais. Aos poucos este cenário está mudando.

@@ -6,10 +6,10 @@ date: 2017-10-22
 excerpt: Como fazer a compilação de uma aplicação escrita Elm para JavaScript e assim poder utilizar no browser.
 categories:
   - Elm
-  - JavaScript
+  - Javascript
 tags:
   - Elm
-  - JavaScript
+  - Javascript
 image:  https://cdn-images-1.medium.com/max/720/1*I-3kbXzEIAPAPEGiMcAs0A.png
 ---
 

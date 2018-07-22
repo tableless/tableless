@@ -25,7 +25,7 @@ tags:
   - html5
   - ie6
   - internet explorer
-  - JavaScript
+  - Javascript
   - microsoft
 
 ---

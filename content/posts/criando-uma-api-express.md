@@ -7,7 +7,7 @@ excerpt: Ou apenas me aventurando no Back-end.
 image: https://i.imgur.com/nfwlTfm.png
 categories:
   - NodeJS
-  - JavaScript
+  - Javascript
   - Tecnologia e Tendência
 tags:
   - API Express

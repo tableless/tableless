@@ -9,7 +9,7 @@ excerpt: |
 url: /dominando-o-uso-de-prototype-em-javascript/
 dsq_thread_id: 2543564374
 categories:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - javascript prototype

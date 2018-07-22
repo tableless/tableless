@@ -10,14 +10,14 @@ titulo_personalizado:
 categories:
   - Artigos
   - Destaques
-  - JavaScript
+  - Javascript
   - Traduções
 tags:
   - Adriel
   - async
   - babel
   - ES6
-  - JavaScript
+  - Javascript
   - traducoes
   - Wendell
   - Wendell Adriel

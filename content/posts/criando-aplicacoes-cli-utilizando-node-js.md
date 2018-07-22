@@ -8,7 +8,7 @@ categories:
   - nodejs
   - back-end
   - Código
-  - JavaScript
+  - Javascript
 
 ---
 ## Introdução

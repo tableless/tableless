@@ -19,12 +19,12 @@ dsq_thread_id: 503039705
 categories:
   - Artigos
   - Código
-  - JavaScript
+  - Javascript
   - JQuery
   - Técnicas e Práticas
 tags:
   - 2010
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

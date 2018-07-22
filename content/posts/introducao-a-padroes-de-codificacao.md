@@ -18,13 +18,13 @@ categories:
   - Código
   - CSS
   - HTML
-  - JavaScript
+  - Javascript
 tags:
   - 2012
   - cotidiano
   - desenvolvimento
   - desenvolvimento web
-  - JavaScript
+  - Javascript
   - Na Prática
   - web standards
 

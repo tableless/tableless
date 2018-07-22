@@ -7,12 +7,12 @@ excerpt: Apresentações sobre Javascript.
 url: /slide-para-devs-6-js/
 dsq_thread_id: 1227162092
 categories:
-  - JavaScript
+  - Javascript
   - Slides e Apresentações
 tags:
   - 2013
   - apresentacoes
-  - JavaScript
+  - Javascript
   - slides
   - slidesparadevs
 

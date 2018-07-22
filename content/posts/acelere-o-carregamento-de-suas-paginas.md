@@ -7,7 +7,7 @@ excerpt: Também conhecido como o Santo Graal das páginas de internet, encontra
 url: /acelere-o-carregamento-de-suas-paginas/
 dsq_thread_id: 2503344883
 categories:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 
 ---

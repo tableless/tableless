@@ -13,7 +13,7 @@ tags:
   - boas praticas
   - CSS
   - html
-  - JavaScript
+  - Javascript
   - performance
 
 ---

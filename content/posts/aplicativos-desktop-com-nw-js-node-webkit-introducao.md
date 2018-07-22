@@ -9,12 +9,12 @@ categories:
   - Código
   - CSS
   - HTML
-  - JavaScript
+  - Javascript
 tags:
   - app
   - CSS
   - html5
-  - JavaScript
+  - Javascript
   - NodeJS
   - nwjs
   - webgl

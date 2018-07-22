@@ -8,12 +8,12 @@ url: /crie-seu-jogo-em-html5-com-enchant-js/
 categories:
   - Código
   - HTML5
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - enchant.js
   - html5
-  - JavaScript
+  - Javascript
   - jogos
 
 ---

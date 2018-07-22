@@ -7,10 +7,10 @@ excerpt: Notações diferentes para acessar as propriedades de um mesmo objeto e
 url: /property-accessors-e-porque-voce-deveria-saber-usa-los/
 categories:
   - Código
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
-  - JavaScript
+  - Javascript
 
 ---
 Este é um artigo que se propõe a explicar uma forma mais eficaz de utilizar Objetos em JavaScript.

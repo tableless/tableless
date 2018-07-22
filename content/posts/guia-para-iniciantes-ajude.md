@@ -11,7 +11,7 @@ categories:
   - CSS
   - Geral
   - HTML
-  - JavaScript
+  - Javascript
   - Notícias
 
 ---

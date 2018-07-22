@@ -17,7 +17,7 @@ dsq_thread_id: 503040353
 categories:
   - Artigos
   - HTML
-  - JavaScript
+  - Javascript
   - O Básico
 tags:
   - Browsers

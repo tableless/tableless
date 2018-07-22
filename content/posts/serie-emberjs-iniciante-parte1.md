@@ -6,11 +6,11 @@ date: 2014-10-29
 excerpt: Iniciando com Ember.JS
 url: /serie-emberjs-iniciante-parte1/
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - emberjs
   - Frameworks Javascript
-  - JavaScript
+  - Javascript
 ---
 É com muito prazer que começo a escrever aqui no Tableless para ajudá-lo a utilizar um dos melhores frameworks (IMHO) JavaScript atualmente: o EmberJS.
 

@@ -9,11 +9,11 @@ titulo_personalizado:
 categories:
   - Código
   - Destaques
-  - JavaScript
+  - Javascript
 tags:
   - desenvolvimento
   - desenvolvimento web
-  - JavaScript
+  - Javascript
   - padroes web
   - redux
 

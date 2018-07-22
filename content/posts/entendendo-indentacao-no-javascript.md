@@ -5,11 +5,11 @@ type: post
 date: 2016-07-06
 url: /entendendo-indentacao-no-javascript/
 categories:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - indentação
-  - JavaScript
+  - Javascript
 
 ---
 Código sem indentação não é legal de se ler, mas tem uma coisa um pouco pior que isso, ou tão ruim quanto, que é a falta de um padrão na indentação do projeto. Por exemplo, eu uso tab pois consigo ajustar meu editor para que ele exiba a quantidade que eu julgue necessária de espaços, mas pode ser que alguém da minha equipe use os próprios espaços, eai já imagina a beleza que vai ficar o código né? É **MUITO** importante **padronizar** o uso da indentação para não ter problemas futuros.

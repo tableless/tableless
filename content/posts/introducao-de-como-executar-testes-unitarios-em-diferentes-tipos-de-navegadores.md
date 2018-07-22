@@ -8,10 +8,10 @@ url: /introducao-de-como-executar-testes-unitarios-em-diferentes-tipos-de-navega
 dsq_thread_id: 2023558245
 categories:
   - Browsers
-  - JavaScript
+  - Javascript
 tags:
   - bdd
-  - JavaScript
+  - Javascript
   - SauceLabs
   - tdd
   - Testem

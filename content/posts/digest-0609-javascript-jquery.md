@@ -16,11 +16,11 @@ twittercomments:
 dsq_thread_id: 506925436
 categories:
   - Digest
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - Digest
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

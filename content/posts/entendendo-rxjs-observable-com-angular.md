@@ -6,7 +6,7 @@ image: https://i.imgur.com/da746Te.png
 date: 2017-09-03
 excerpt: Uma forma simples de utilizar RxJS para aplicar conceitos de programação reativa com Angular
 categories:
-  - JavaScript
+  - Javascript
   - Tecnologia e Tendências
   - AngularJS
 ---

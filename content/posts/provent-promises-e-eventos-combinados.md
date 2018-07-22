@@ -5,10 +5,10 @@ type: post
 date: 2015-10-07
 url: /provent-promises-e-eventos-combinados/
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - eventos
-  - JavaScript
+  - Javascript
   - promises
 
 ---

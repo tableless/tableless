@@ -10,7 +10,7 @@ titulo_personalizado:
 categories:
   - Código
   - Destaques
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - expressões regulares

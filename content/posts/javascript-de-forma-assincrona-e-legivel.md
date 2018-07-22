@@ -7,11 +7,11 @@ url: /javascript-de-forma-assincrona-e-legivel/
 dsq_thread_id: 2082284439
 categories:
   - nodejs
-  - JavaScript
+  - Javascript
 tags:
   - nodejs
   - callback hell
-  - JavaScript
+  - Javascript
 ---
 
 A programação assíncrona possui a vantagem de gerar códigos perfomáticos. Em certos casos, a implementação de diversas funções assíncronas encadeadas através de funções _callback_ pode prejudicar a leitura e a manutenção do código. Para demonstrar esse encadeamento, vamos utilizar um trecho de código que utiliza a [API do Selenium 2][1]. Baseado em um [exemplo do site do SauceLabs][2].
@@ -149,4 +149,4 @@ Esse trecho de código exemplifica como vários _callbacks_ encadeados podem s
  [10]: https://github.com/caolan/async#waterfall "âncora para as especificações da função waterfall da biblioteca Async"
  [11]: http://underscorejs.org/ "Site oficial da biblioteca Underscore"
  [12]: http://i1368.photobucket.com/albums/ag182/igorribeirolima/um-exemplo-SEM-varios-callbacks-encadeados_zps1a8a9ad0.png
- [13]: https://gist.github.com/igorlima/7930016 "Gist - JavaScript de forma assíncrona e elegível"
+ [13]: https://gist.github.com/igorlima/7930016 "Gist - Javascript de forma assíncrona e elegível"

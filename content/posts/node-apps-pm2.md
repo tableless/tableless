@@ -6,10 +6,10 @@ date: 2018-01-04
 excerpt: Como gerenciar aplicações Node.js em produção com PM2.
 categories:
   - NodeJS
-  - JavaScript
+  - Javascript
 tags:
   - NodeJS
-  - JavaScript
+  - Javascript
 image:  https://raw.githubusercontent.com/unitech/pm2/master/pres/pm2.20d3ef.png
 ---
 

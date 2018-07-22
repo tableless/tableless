@@ -6,7 +6,7 @@ date: 2015-02-02
 excerpt: 'Um pouco sobre event delegation com a função <code>on()</code> do jQuery.'
 url: /entendendo-o-event-delegation-jquery/
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
   - Técnicas e Práticas
 tags:

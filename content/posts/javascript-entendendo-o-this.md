@@ -7,11 +7,11 @@ excerpt: 'Conheça mais sobre a palavra reservada this e entenda  como funciona 
 url: /javascript-entendendo-o-this/
 dsq_thread_id: 1527272460
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - 2013
   - ecmascript
-  - JavaScript
+  - Javascript
 
 ---
 O operador **this** é um dos maiores responsáveis por erros e pegadinhas em um código JavaScript. Entender o seu mecanismo de funcionamento e criação é um grande passo para tirar maior proveito da linguagem. 

@@ -6,11 +6,11 @@ date: 2015-06-19
 excerpt: Sites para aprender JavaScript de maneira fácil e interativa.
 url: /aprendendo-javascript-online/
 categories:
-  - JavaScript
+  - Javascript
   - O Básico
 tags:
   - aprender javascript
-  - JavaScript
+  - Javascript
   - js
   - learn
 

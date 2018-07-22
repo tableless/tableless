@@ -19,7 +19,7 @@ categories:
   - CSS3
   - HTML
   - HTML5
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - 2011
@@ -27,7 +27,7 @@ tags:
   - aprenda
   - CSS3
   - html5
-  - JavaScript
+  - Javascript
   - modernizr
   - tecnicascss
 

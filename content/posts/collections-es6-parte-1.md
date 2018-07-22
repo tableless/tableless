@@ -6,12 +6,12 @@ date: 2015-05-12
 excerpt: Novas estruturas de dados do Javascript
 url: /collections-es6-parte-1/
 categories:
-  - JavaScript
+  - Javascript
   - Tecnologia e Tendências
 tags:
   - collections
   - ES6
-  - JavaScript
+  - Javascript
   - Novidades
   - Set
   - WeakSet

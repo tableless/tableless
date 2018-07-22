@@ -5,10 +5,10 @@ type: post
 date: 2017-08-06
 excerpt: Nos últimos anos o JS passou por uma grande revolução, apesar disso, existe uma parte fundamental da linguagem que todos deveríamos saber.
 categories:
-  - JavaScript
+  - Javascript
   - Na Prática
 tags:
-  - JavaScript
+  - Javascript
   - ReactJS
   - AngularJS
 image: http://i.imgur.com/duv3zng.jpg

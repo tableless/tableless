@@ -6,10 +6,10 @@ date: 2017-09-07
 excerpt: Guia de como instalar o Elm e fazer seu primeiro Hello World.
 categories:
   - Elm
-  - JavaScript
+  - Javascript
 tags:
   - Elm
-  - JavaScript
+  - Javascript
 image:  https://cdn-images-1.medium.com/max/720/1*I-3kbXzEIAPAPEGiMcAs0A.png
 ---
 

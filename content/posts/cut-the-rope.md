@@ -21,7 +21,7 @@ tags:
   - 2012
   - canvas
   - html5
-  - JavaScript
+  - Javascript
   - Na Prática
 
 ---

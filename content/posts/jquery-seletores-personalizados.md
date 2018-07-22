@@ -19,7 +19,7 @@ categories:
   - Técnicas e Práticas
 tags:
   - 2011
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

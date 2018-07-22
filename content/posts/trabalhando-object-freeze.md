@@ -6,10 +6,10 @@ publishdate: 2018-03-22
 date: 2018-03-19
 excerpt: Como utilizar o método Object.freeze() para congelar seus objetos no JavaScript.
 categories:
-  - JavaScript
+  - Javascript
   - NodeJS
 tags:
-  - JavaScript
+  - Javascript
   - NodeJS
 image: https://i.imgur.com/mVJXrK1.jpg
 ---

@@ -8,9 +8,9 @@ url: /templates-client-side-com-mustache-js/
 dsq_thread_id: 1210128019
 categories:
   - Código
-  - JavaScript
+  - Javascript
 tags:
-  - JavaScript
+  - Javascript
   - mustache
   - template
 

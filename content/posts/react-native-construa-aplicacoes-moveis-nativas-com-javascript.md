@@ -14,7 +14,7 @@ categories:
   - CSS
   - Design
   - Destaques
-  - JavaScript
+  - Javascript
   - Mobile
 tags:
   - android

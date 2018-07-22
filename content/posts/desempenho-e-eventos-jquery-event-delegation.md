@@ -6,7 +6,7 @@ date: 2015-06-10
 excerpt: Como a utilização de event delegation com o jQuery pode ser otimizada.
 url: /desempenho-e-eventos-jquery-event-delegation/
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

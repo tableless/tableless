@@ -8,7 +8,7 @@ url: /criando-uma-aplicacao-movel-com-ionic-2-e-angular-2-em-dez-passos/
 categories:
   - AngularJS
   - Código
-  - JavaScript
+  - Javascript
   - Mobile
 tags:
   - android
@@ -17,7 +17,7 @@ tags:
   - ionic
   - ionic2
   - ios
-  - JavaScript
+  - Javascript
   - mobile
   - tutorial
 

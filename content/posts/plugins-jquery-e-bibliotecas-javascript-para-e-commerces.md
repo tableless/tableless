@@ -7,12 +7,12 @@ excerpt: Usabilidade não é o forte da maioria dos e-commerces nacionais. Conhe
 url: /plugins-jquery-e-bibliotecas-javascript-para-e-commerces/
 dsq_thread_id: 1104038002
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - bibliotecas
   - frameworks
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

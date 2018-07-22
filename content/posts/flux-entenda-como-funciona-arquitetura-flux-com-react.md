@@ -7,7 +7,7 @@ excerpt: Arquitetura de aplicações para construir interfaces de usuário feita
 url: /flux-entenda-como-funciona-arquitetura-flux-com-react/
 categories:
   - Geral
-  - JavaScript
+  - Javascript
   - Tecnologia e Tendências
 
 ---

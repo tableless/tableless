@@ -15,10 +15,10 @@ twittercomments:
 dsq_thread_id: 956106242
 categories:
   - Artigos
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
-  - JavaScript
+  - Javascript
   - paralaxe
   - parallax
   - stellar.js
