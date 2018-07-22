@@ -5,10 +5,9 @@ type: post
 date: 2017-09-18
 excerpt: Você também quer mudar o mundo?
 categories:
-  - Mercado e comportamento
+  - Mercado
 tags:
-  - Ajudar pessoas
-  - Seja um autor
+  - Comportamento
 image: https://cdn-images-1.medium.com/max/1280/1*MypTvoEb62Ltg2nW68zD3Q.jpeg
 ---
 

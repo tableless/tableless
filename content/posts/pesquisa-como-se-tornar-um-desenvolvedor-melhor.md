@@ -6,11 +6,10 @@ date: 2017-10-31
 image: https://i.imgur.com/JvE8HAp.jpg
 excerpt: Pesquisa com alguns dos profissionais mais influentes no mercado.
 categories:
-  - Mercado e comportamento
+	- Mercado
 tags:
+	- carreira
   - Influentes no mercado
-  - Desenvolvimento web
-  - Pesquisa desenvolvedores
 ---
 
 <style type="text/css">

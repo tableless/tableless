@@ -7,10 +7,9 @@ date: 2017-06-09
 excerpt: Quanto tempo você acha que vai demorar até que as máquinas façam o seu trabalho melhor do que você?
 url: /o-que-esta-acontecendo-com-a-automacao/
 categories:
-  - Automação
-  - Mercado e comportamento
+  - Mercado
 tags:
-  - Automação
+  - Comportamento
 ---
 
 

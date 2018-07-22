@@ -5,10 +5,9 @@ type: post
 date: 2017-08-31
 excerpt: O que é um hábito?
 categories:
-  - Mercado e comportamento
+  - Opinião
 tags:
-  - hábitos
-  - loop do hábito
+  - carreira
 image: https://cdn-images-1.medium.com/max/1600/0*ZCwoIZn7IoacviC2.jpg
 ---
 

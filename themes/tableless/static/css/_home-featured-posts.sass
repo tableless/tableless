@@ -12,7 +12,7 @@
       display: block
       text-align: center
     
-    .tb-categs
+    .tb-taxono
       display: none
 
     h1
@@ -40,6 +40,12 @@
       position: relative
       padding-bottom: 14px
 
+      .tb-taxono
+        position: absolute
+        bottom: 3px
+        left: 10px
+        transform: translateY(0)
+
       h1
         padding-right: 10%
         padding-top: 10px
@@ -62,11 +68,6 @@
 
       .tb-author
         padding-top: 20px
-      
-      .tb-categs
-        display: block
-        position: absolute
-        bottom: -16px
 
       &:first-child
         width: 620px
@@ -75,7 +76,7 @@
         margin-right: 30px
         text-align: left
 
-        .tb-categs
+        .tb-taxono
           position: static
           transform: translateY(-13px)
 
@@ -96,7 +97,6 @@
           height: 335px
           overflow: hidden
           display: block
-          // background-color: rgba(28,131,248,0.9)
           
 
           img

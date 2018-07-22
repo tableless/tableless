@@ -6,8 +6,9 @@ date: 2018-06-19
 image: https://i.imgur.com/UrgN6zz.jpg
 excerpt: "Um produto que promete juntar design e código mobile."
 categories:
-  - Tecnologia e Tendência
   - Notícias
+tags:
+  - ferramentas
   - Robôs e Código
 ---
 

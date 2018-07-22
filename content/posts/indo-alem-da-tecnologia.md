@@ -6,8 +6,9 @@ image: https://cdn-images-1.medium.com/max/1500/1*Qb-YdvRwWRQd2POtm5WSTw.png
 date: 2018-07-11
 excerpt: Como está a sua vida?
 categories:
-  - Mercado e Comportamento
   - Carreira
+tags:
+  - comportamento
 ---
 
 Indiferente da sua função, sei bem que na maioria das vezes procura dar o seu

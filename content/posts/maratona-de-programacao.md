@@ -6,8 +6,9 @@ image: https://tailomateus.github.io/images/uri_online_judge.png
 date: 2018-02-04
 excerpt: Por que você também deve participar?
 categories:
-  - Na prática
-  - Mercado e comportamento
+  - Notícias
+tags:
+  - Eventos e Workshops
 ---
 
 A maratona de programação é uma competição anual de programação entre universidades do mundo todo. Além desse conceito, 

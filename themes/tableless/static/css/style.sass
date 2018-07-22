@@ -72,31 +72,53 @@ body
       font-size: .75rem
       text-align: center
 
-.tb-categ-flag
-  display: inline-block
-  color: #fff
-  background: $red
-  border-radius: 3px
-  text-decoration: none
-  text-transform: lowercase
-  padding: 3px 10px 5px
-  margin: 0 0 0 20px
-  font: 900 .8rem $fontFamily
-  position: relative
-  z-index: 1
-  
-  &:hover
-    opacity: .8
-
-.tb-categs
-  transform: translateY(-20px)
-  display: block
-
-  .tb-categ-flag
-    display: none
-
-  .tb-categ-flag:first-child
+.tb-taxono
+  display: none
+  font-size: 0
+  margin-left: 10px
+  transform: translateY(-15px)
+  .tb-categ-list,
+  .tb-tag-list
     display: inline-block
+    vertical-align: middle
+
+  .tb-categ-flag,
+  .tb-tag-flag
+    display: none
+    vertical-align: middle
+    color: #fff
+    background: $red
+    border-radius: 3px
+    text-decoration: none
+    text-transform: lowercase
+    padding: 3px 10px 5px
+    margin: 0px
+    font: 900 .8rem $fontFamily
+    position: relative
+    z-index: 1
+    
+    &:first-of-type
+      display: inline-block
+    
+  .tb-tag-flag:before
+    content: ""
+    display: inline-block
+    vertical-align: middle
+    width: 0 
+    height: 0
+    position: relative
+    left: -10px
+    z-index: 1
+
+    border-top: 5px solid transparent
+    border-bottom: 5px solid transparent
+    border-left: 5px solid $red
+
+  .tb-tag-flag
+    background-color: #000
+    margin-left: -3px
+    &:hover
+      background-color: #393939
 
 .tb-banner-home
   margin: 70px auto 0
@@ -191,6 +213,9 @@ body
   body
     overflow-x: auto
 
+  .tb-taxono
+    display: block !important
+
   .tb-feature-post
     text-align: center
     padding: 0 30px 120px
@@ -232,10 +257,6 @@ body
       width: 90%
       font-size: 1rem
       line-height: 1.5
-
-    .tb-categ-flag
-      font-size: .9rem
-      padding: 5px 10px
 
   .tb-comuna
 

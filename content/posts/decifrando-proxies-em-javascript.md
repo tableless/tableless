@@ -7,6 +7,8 @@ date: 2018-07-06
 excerpt: Intercepte seus objetos utilizando Proxies.
 categories:
   - Javascript
+tags:
+  - ECMAScript 6
 ---
 
 Neste post vamos abordar o objeto **_Proxy_** incluído na versão ECMAScript 6, criando a possibilidade de interceptação de operações e viabilizando a criação de métodos customizados.

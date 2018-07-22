@@ -8,11 +8,9 @@ excerpt: 'Afinal, todo o time de desenvolvimento está diretamente ligado com po
 image: https://i.imgur.com/jqw5Axk.jpg?2
 sponsor: alura
 categories:
-  - front-end
   - design
 tags:
-  - front-end
-  - design
+  - ux
 ---
 
 No aplicativo de uma loja de ecommerce tínhamos um processo de checkout - todo o processo desde a compra até o pagamento -, que seguia essa ideia:
