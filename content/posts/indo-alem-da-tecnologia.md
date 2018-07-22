@@ -2,7 +2,7 @@
 title: Indo além da tecnologia
 authors: Tailo Mateus Gonsalves
 type: post
-image: https://cdn-images-1.medium.com/max/1500/1*Qb-YdvRwWRQd2POtm5WSTw.png
+image: https://i.imgur.com/j5jwvPX.jpg
 date: 2018-07-11
 excerpt: Como está a sua vida?
 categories:

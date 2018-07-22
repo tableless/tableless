@@ -5,7 +5,7 @@ type: post
 pusblishdate: 2018-07-09
 date: 2018-07-09
 excerpt: 'Afinal, todo o time de desenvolvimento está diretamente ligado com pontos chave na experiência do usuário.'
-image: https://i.imgur.com/jqw5Axk.jpg?2
+image: https://i.imgur.com/8K5mZQf.jpg
 sponsor: alura
 categories:
   - design
