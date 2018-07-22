@@ -9,16 +9,11 @@ url: /codigo-nao-e-poesia-e-politica/
 dsq_thread_id: 2730512082
 image: https://i.imgur.com/eUApiUj.jpg
 categories:
-  - Mercado e Comportamento
-  - Semântica
-  - SEO
-  - Tecnologia e Tendências
-  - Web Semântica
+  - Opinião
+  - Mercado
 tags:
-  - Mercado e Comportamento
-  - Semântica
-  - SEO
   - Tecnologia e Tendências
+  - Semântica
   - Web Semântica
 ---
 

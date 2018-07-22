@@ -5,15 +5,10 @@ type: post
 date: 2014-01-30
 excerpt: O Tableless está na Campus Party Brasil 2014! Confira os destaques do primeiro dia do evento (28/01).
 url: /campus-party-brasil-2014-primeiro-dia/
-dsq_thread_id: 2192908064
 categories:
-  - Eventos e Workshops
   - Notícias
 tags:
-  - campus party
-  - Firefox OS
-  - gameficação
-  - open web
+  - Eventos e Workshops
 
 ---
 Para quem não conhece a [Campus Party][1], este é um dos maiores eventos de tecnologia do mundo, ocorrendo em diversos países anualmente. No Brasil, já está em sua sétima edição e somos os únicos a terem duas edições anuais da CPBr (sigla oficial do evento): uma em São Paulo, no início do ano e outra em Recife – PE, no meio do ano, denominada CPRecife.

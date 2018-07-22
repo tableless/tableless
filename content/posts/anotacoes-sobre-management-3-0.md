@@ -7,11 +7,10 @@ excerpt: Minhas anotações sobre Management 3.0. Curso que fiz na AdaptWorks so
 url: /anotacoes-sobre-management-3-0/
 dsq_thread_id: 1830257665
 categories:
-  - Artigos
-  - Mercado e Comportamento
+  - Agile
 tags:
-  - management
-  - mercado
+  - management 3.0
+  - Soft Skill
 ---
 Fiz um curso estes dias sobre uma nova metodologia de gestão para ambientes ágeis e complexos. Chama-se Management 3.0. Foi um curso de dois dias inteiros na [AdaptWorks][1]. Se você nunca fez, faça. Se você já fez o curso, faça outra vez. 
 

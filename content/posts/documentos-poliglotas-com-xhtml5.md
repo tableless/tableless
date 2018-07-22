@@ -5,25 +5,13 @@ type: post
 date: 2012-05-16
 excerpt: O XHTML5 permite utilizar a sintaxe do XML/XHTML em documentos HTML5
 url: /documentos-poliglotas-com-xhtml5/
-tweetbackscheck:
-  - 1356460265
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6057";s:7:"tinyurl";s:26:"http://tinyurl.com/7n8yd6c";s:4:"isgd";s:19:"http://is.gd/3YuL59";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 691953873
 categories:
   - HTML
-  - HTML5
-  - Mercado e Comportamento
-  - Tecnologia e Tendências
 tags:
-  - html5
-  - marcação poliglota
+  - na prática
   - padroes web
   - xhtml5
   - xml
-
 ---
 Quando se começou a falar massivamente a respeito do HTML5, em 2009, muitos desenvolvedores (inclusive eu) torceram o nariz para o fato de poder voltar a utilizar a sintaxe tolerante do HTML, ou seja, tags em uppercase ou sem fechamento, valores de atributos sem aspas, fechar tags em ordem incorreta, entre outros. Inclusive, [comentei especificamente sobre isso em um outro artigo][1].
 

@@ -7,11 +7,12 @@ excerpt: Entenda os 10 desejos intrínsecos dos membros da sua equipe.
 url: /champfrogs-10-desejos-intrinsecos/
 dsq_thread_id: 1855855034
 categories:
-  - Geral
+  - Gestão
   - Mercado e Comportamento
 tags:
+  - gestão de pessoas
+  - liderança
   - agile
-  - champfrogs
   - management30
 
 ---

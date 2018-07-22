@@ -5,27 +5,13 @@ type: post
 date: 2010-10-13
 excerpt: A usabilidade possui diversos critérios a serem trabalhados durante todo o processo de desenvolvimento de uma interface, mas no dia-a-dia podemos melhorar a experiência do usuário através de pequenos detalhes.
 url: /usabilidade-para-desenvolvedores-front-end/
-aktt_notify_twitter:
-  - yes
-tweetbackscheck:
-  - 1356448998
-shorturls:
-  - 'a:3:{s:9:"permalink";s:66:"http://tableless.com.br/usabilidade-para-desenvolvedores-front-end";s:7:"tinyurl";s:26:"http://tinyurl.com/43gcmkw";s:4:"isgd";s:19:"http://is.gd/b2cSi2";}'
-twittercomments:
-  - 'a:52:{i:17071444512997377;s:7:"retweet";i:19789065083682818;s:6:"136511";i:19743952437518337;s:7:"retweet";i:22258700492218368;s:6:"136569";i:37598206179151872;s:7:"retweet";i:42265201931853825;s:6:"137107";i:42266147596402688;s:6:"137108";i:42296883959439360;s:6:"137113";i:42296123104309248;s:6:"137114";i:42303711535562752;s:7:"retweet";i:42300035144228864;s:7:"retweet";i:42299633099210752;s:7:"retweet";i:42249192369963008;s:7:"retweet";i:42249171100639232;s:7:"retweet";i:42248958248108032;s:7:"retweet";i:42248524770967553;s:7:"retweet";i:51300383242465280;s:6:"137371";i:51304794647834624;s:6:"137372";i:51308419847688193;s:6:"137373";i:51310294676414464;s:6:"137375";i:51316675190079488;s:6:"137377";i:51321768891260929;s:6:"137379";i:52698687058624512;s:6:"137419";i:52698121905512449;s:6:"137420";i:52697302883774464;s:6:"137421";i:52697268838608896;s:6:"137422";i:110795222484647936;s:7:"retweet";i:110694587114340352;s:7:"retweet";i:110138295639486464;s:7:"retweet";i:109637381732306945;s:7:"retweet";i:109636845251469312;s:7:"retweet";i:109635701745786881;s:7:"retweet";i:109633752208113664;s:7:"retweet";i:109631493772550144;s:7:"retweet";i:109628333590978560;s:7:"retweet";i:109626218969706496;s:7:"retweet";i:109624801693417472;s:7:"retweet";i:109624135830863873;s:7:"retweet";i:109624114603499520;s:7:"retweet";i:109623896780701696;s:7:"retweet";i:109623527325446144;s:7:"retweet";i:109622614938497024;s:7:"retweet";i:109622432096198656;s:7:"retweet";i:109621150732124160;s:7:"retweet";i:109621126812016640;s:7:"retweet";i:109620991654760448;s:7:"retweet";i:109620815405912064;s:7:"retweet";i:109620799442395137;s:7:"retweet";i:109620528867840000;s:7:"retweet";i:109620506055020544;s:7:"retweet";i:109620387486244866;s:7:"retweet";i:117262506954719232;s:7:"retweet";}'
-tweetcount:
-  - 212
-dsq_thread_id: 503039634
 categories:
-  - Artigos
+  - Design
   - CSS
   - HTML
 tags:
-  - clientside
-  - CSS
-  - padroes web
   - usabilidade
-
+  - front-end
 ---
 A usabilidade é uma qualidade das interfaces que caracteriza a facilidade de uso. Várias diretrizes sobre usabilidade de interfaces web foram desenvolvidas ao longo dos últimos 15 anos e o interesse em proporcionar interfaces de fácil utilização tem crescido entre designers e desenvolvedores.
   

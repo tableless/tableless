@@ -4,23 +4,15 @@ authors: Talita Pagani
 type: post
 date: 2011-08-29
 excerpt: A Qualidade em Uso visa cobrir não apenas a facilidade de uso, mas também as funcionalidades e o suporte apropriado às atividades de uso em cenário real. É considerado não somente a visão do usuário, mas do contexto de uso em ambiente de trabalho.
-url: /qualidade-em-uso-expandindo-a-usabilidade/
-tweetbackscheck:
-  - 1356439322
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4016";s:7:"tinyurl";s:26:"http://tinyurl.com/3f6k7ax";s:4:"isgd";s:19:"http://is.gd/4vM0rs";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503040358
 categories:
-  - UX
+  - design
 tags:
+  - usabilidade
+  - ux
   - experiência do usuário
   - melhores práticas
   - qualidade
   - qualidade em uso
-  - usabilidade
-
 ---
 A usabilidade, ainda é vista como um “diferencial” ou “vantagem estratégica” dentro das organizações durante o processo de desenvolvimento de websites. Sabemos que, na realidade, é um critério de qualidade que deve ser atendido pela aplicação, ainda que muitos percebam isto de forma implícita. Mas este conceito ainda não está maduro dentro das organizações. Diversas abordagens como a engenharia de usabilidade e o design de interação vêm sendo adotadas dentro dos processos de desenvolvimento para assegurar uma boa experiência de uso das aplicações. Porém, é necessário ampliar esta visão da experiência do usuário, considerando outros fatores além daqueles relacionados ao design.
 

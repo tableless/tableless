@@ -7,14 +7,10 @@ excerpt: Você tem uma série de disciplinas que fazem você ser um dev melhor t
 url: /6-dicas-freelas-remoto/
 dsq_thread_id: 2498387957
 categories:
-  - Artigos
-  - Mercado e Comportamento
+  - Carreira
 tags:
-  - comportamento
-  - dev
-  - mercado
-  - responsabilidade
-
+  - trabalho remoto
+  - comportamneto
 ---
 Ao contrário do que muitos acham, trabalho remoto (ou até um projeto freelancer) não é algo fácil. Eu sei que é o sonho de todo mundo ficar em casa, organizar o seu próprio horário para ir ao parque (cinema, praia, sítio, bar, prostíbulo etc etc etc) enquanto todo mundo se mata em um escritório.
 

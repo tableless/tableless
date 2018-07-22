@@ -4,27 +4,13 @@ authors: Diego Eis
 type: post
 date: 2012-04-09
 excerpt: Confira algumas propriedades importantes do CSS que você não podia usar no IE6, mas pode usar hoje no IE7 ou superior.
-url: /dicas-de-sobrevivencia-ie6/
-tweetbackscheck:
-  - 1356425875
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5864";s:7:"tinyurl";s:26:"http://tinyurl.com/89d4ltm";s:4:"isgd";s:19:"http://is.gd/sD7pF1";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 642091069
 categories:
-  - Browsers
   - Código
+tags:
+  - Browsers
   - CSS
   - HTML
   - Técnicas e Práticas
-tags:
-  - 2012
-  - Browsers
-  - CSS
-  - desenvolvimento
-  - desenvolvimento web
-  - ie
   - internet explorer
 
 ---

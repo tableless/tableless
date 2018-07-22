@@ -4,25 +4,13 @@ authors: Talita Pagani
 type: post
 date: 2011-03-15
 url: /videos-mais-acessiveis-com-html5-parte-ii/
-tweetbackscheck:
-  - 1356465237
-shorturls:
-  - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/videos-mais-acessiveis-com-html5-parte-ii";s:7:"tinyurl";s:26:"http://tinyurl.com/3nrw2mx";s:4:"isgd";s:19:"http://is.gd/unBQ7d";}'
-twittercomments:
-  - 'a:5:{i:151942243140374530;s:7:"retweet";i:150542449691987968;s:7:"retweet";i:160346219917492224;s:7:"retweet";i:163643100189818880;s:7:"retweet";i:163638706673172480;s:7:"retweet";}'
-tweetcount:
-  - 7
-dsq_thread_id: 503040017
 categories:
-  - Acessibilidade
-  - Artigos
-  - HTML5
-  - Tecnologia e Tendências
+	- html
 tags:
-  - acessibilidade
-  - dfxp
   - html5
-  - video
+  - Acessibilidade
+  - Tecnologia e Tendências
+  - acessibilidade
 
 ---
 Na [primeira parte do artigo][1], vimos as principais características do DFXP, uma especificação do W3C para trabalhar com legendas em vídeos do HTML5. Agora iremos conhecer a estrutura de um arquivo DFXP e detalhar o conceito de regions.

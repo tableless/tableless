@@ -5,22 +5,11 @@ type: post
 date: 2010-11-17
 excerpt: Minimizar a quantidade de informações e o esforço de interação com os elementos de interface. Estes são os princípios-chave que para que websites possam ser utilizados da melhor forma em dispositivos móveis.
 url: /navegabilidade-em-dispositivos-moveis/
-aktt_notify_twitter:
-  - yes
-tweetbackscheck:
-  - 1356439422
-shorturls:
-  - 'a:3:{s:9:"permalink";s:61:"http://tableless.com.br/navegabilidade-em-dispositivos-moveis";s:7:"tinyurl";s:26:"http://tinyurl.com/44zm5k4";s:4:"isgd";s:19:"http://is.gd/udAiyH";}'
-twittercomments:
-  - 'a:12:{i:10039589313974272;s:7:"retweet";i:10038945760935938;s:7:"retweet";i:10036494471274496;s:7:"retweet";i:131118261176770561;s:7:"retweet";i:131117213972312064;s:7:"retweet";i:131089157580800002;s:7:"retweet";i:131086710468644864;s:7:"retweet";i:131082793206812672;s:7:"retweet";i:131055918484946944;s:7:"retweet";i:131055784187543553;s:7:"retweet";i:131055425318694912;s:7:"retweet";i:131054363467714561;s:7:"retweet";}'
-tweetcount:
-  - 29
-dsq_thread_id: 503039719
 categories:
+  - design
   - Acessibilidade
-  - Artigos
-  - Mobile
 tags:
+  - Mobile
   - acessibilidade
   - CSS
   - html

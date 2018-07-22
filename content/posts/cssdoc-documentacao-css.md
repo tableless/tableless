@@ -5,27 +5,15 @@ type: post
 date: 2011-01-02
 excerpt: Como padronizar seu código CSS com eficiência com CSSDoc.
 url: /cssdoc-documentacao-css/
-tweetbackscheck:
-  - 1356388603
-shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/cssdoc-documentacao-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3dujomu";s:4:"isgd";s:19:"http://is.gd/TaGH5b";}'
-twittercomments:
-  - 'a:4:{i:150188837774176257;s:7:"retweet";i:150156523019055104;s:7:"retweet";i:150099740380495872;s:7:"retweet";i:169578213792681985;s:7:"retweet";}'
-tweetcount:
-  - 7
-dsq_thread_id: 503039857
 categories:
-  - Artigos
   - CSS
-  - Geral
 tags:
-  - cotidiano
-  - CSS
+  - na prática
   - cssdoc
   - documentação
   - tecnicascss
-
 ---
+
 Cada designer ou desenvolvedor front-end tem o hábito de documentar o código CSS de uma forma diferente através dos comentários. Alguns colocam os nomes das seções, outros inserem uma descrição mais detalhada, alguns utilizam letras maiúsculas e uma sequência de caracteres para formar uma linha.
 
 <pre lang="css" line="1" escaped="true">/* -----------------------------------*/

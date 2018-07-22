@@ -5,28 +5,11 @@ type: post
 date: 2010-09-20
 excerpt: Algumas estratégias simples podem ser utilizadas para deixar o seu CSS mais organizado, consistente e de fácil manutenção.
 url: /6-estrategias-para-melhorar-a-organizacao-do-seu-css-2/
-aktt_notify_twitter:
-  - yes
-tweetbackscheck:
-  - 1356438611
-shorturls:
-  - 'a:3:{s:9:"permalink";s:78:"http://tableless.com.br/6-estrategias-para-melhorar-a-organizacao-do-seu-css-2";s:7:"tinyurl";s:26:"http://tinyurl.com/3k229ub";s:4:"isgd";s:19:"http://is.gd/6ALDEG";}'
-twittercomments:
-  - 'a:44:{i:12112820992741376;s:6:"136269";i:23173992558895104;s:7:"retweet";i:21914615130628096;s:7:"retweet";i:30796924726550528;s:6:"136924";i:44471708433915904;s:7:"retweet";i:43712740145106947;s:7:"retweet";i:52702539837227009;s:6:"137423";i:111777267012734976;s:7:"retweet";i:111614637052661760;s:7:"retweet";i:111609269954166785;s:7:"retweet";i:111438490956337152;s:7:"retweet";i:111299190050656256;s:7:"retweet";i:111298832851152896;s:7:"retweet";i:111261163957923842;s:7:"retweet";i:111261027206840320;s:7:"retweet";i:111258252972531712;s:7:"retweet";i:111257323447660544;s:7:"retweet";i:111254636324851713;s:7:"retweet";i:111254160715956225;s:7:"retweet";i:111253223683264512;s:7:"retweet";i:111252145466126337;s:7:"retweet";i:111252086351593472;s:7:"retweet";i:111031610282999808;s:7:"retweet";i:110885681634623488;s:7:"retweet";i:110797914170859520;s:7:"retweet";i:110781324041793536;s:7:"retweet";i:110779855011987456;s:7:"retweet";i:110777027820400640;s:7:"retweet";i:110774668943818753;s:7:"retweet";i:110773437466808321;s:7:"retweet";i:110772065296056321;s:7:"retweet";i:110771599808004096;s:7:"retweet";i:110770804257591298;s:7:"retweet";i:110770732589514752;s:7:"retweet";i:110770568420270080;s:7:"retweet";i:110770414522875904;s:7:"retweet";i:110769704594980864;s:7:"retweet";i:110769432078454785;s:7:"retweet";i:110769161554243584;s:7:"retweet";i:110768561630351362;s:7:"retweet";i:110768442776363008;s:7:"retweet";i:110768304238505986;s:7:"retweet";i:110768027213107201;s:7:"retweet";i:271568548596428800;s:7:"retweet";}'
-tweetcount:
-  - 337
-dsq_thread_id: 503039521
 categories:
-  - Artigos
   - CSS
-  - HTML
 tags:
-  - cotidiano
-  - CSS
-  - design
+  - na prática
   - padroes web
-  - tecnicascss
-
 ---
 Durante a codificação do CSS para um site, é interessante que o designer/programador utilize algumas convenções para que o código fique organizado e bem documentado.
 

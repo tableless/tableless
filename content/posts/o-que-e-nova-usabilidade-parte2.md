@@ -5,26 +5,14 @@ type: post
 date: 2011-12-12
 excerpt: A nova usabilidade procura trazer abordagens para lidar com os novos desafios para o desenvolvimento de aplicações baseadas em tecnologias emergentes, como dispositivos móveis.
 url: /o-que-e-nova-usabilidade-parte2/
-tweetbackscheck:
-  - 1356439877
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4592";s:7:"tinyurl";s:26:"http://tinyurl.com/7prrob7";s:4:"isgd";s:19:"http://is.gd/5qyLF2";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503012279
 categories:
+  - Design
   - Acessibilidade
-  - Artigos
+tags:
   - Mercado e Comportamento
   - Mobile
   - Tecnologia e Tendências
   - UX
-tags:
-  - design de interação
-  - dispositivos moveis
-  - dispositivos ubíquos
-  - nova usabilidade
-  - qualidade em uso
   - usabilidade
 
 ---

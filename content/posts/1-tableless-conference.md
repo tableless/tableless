@@ -5,12 +5,9 @@ type: post
 date: 2012-06-11
 excerpt: 'Evento sobre front-end em SP. '
 categories:
-  - Geral
-  - Mercado e Comportamento
   - Notícias
-  - Técnicas e Práticas
-  - Tecnologia e Tendências
-
+tags:
+  - eventos
 ---
 Durante muito tempo tenho tentado planejar um evento exclusivamente sobre front-end. Eu não queria um evento normal, falando sobre HTML5, e fazendo coisas girarem com CSS3. Queria realmente levar algum conhecimento de valor para os profissionais front-end. O mercado está aquecido, mas, ao meu ver, o problema é que falta qualidade em grande parte dos profissionais de front no Brasil.
 

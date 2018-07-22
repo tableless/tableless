@@ -5,24 +5,10 @@ type: post
 date: 2012-10-22
 excerpt: Confira os eventos de front-end que ocorrem nos próximos meses.
 url: /eventos-front-end-que-voce-nao-pode-perder-em-2012-parte-2/
-tweetbackscheck:
-  - 1356463281
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7152";s:7:"tinyurl";s:26:"http://tinyurl.com/96yaklz";s:4:"isgd";s:19:"http://is.gd/7y4Jhz";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 894930145
 categories:
-  - Mercado e Comportamento
   - Notícias
-  - Tecnologia e Tendências
 tags:
   - eventos
-  - front-end
-  - frontinmaceio
-  - frontinsampa
-  - frontinterior
-
 ---
 O ano de 2012 foi um dos mais &#8220;recheados&#8221; de eventos para desenvolvedores front-end e o destaque fica por conta das franquias regionais que vêm surgindo fora dos eixos das capitais como forma de atender a demandas locais. Quem mora nas cidades do interior, independente do estado, percebe que, muitas vezes, para comparecer a grandes eventos, é preciso se deslocar a cidades maiores, o que nem sempre é possível por questões de tempo e custo. Estamos vendo uma mudança neste cenário. A intenção é fazer com que o conhecimento se dissipe dos pólos metropolitanos e chegue com a mesma força em várias regiões. Além disso, traz possibilidade de maior integração entre a comunidade de desenvolvedores.
 

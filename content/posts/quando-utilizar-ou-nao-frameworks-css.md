@@ -5,27 +5,14 @@ type: post
 date: 2011-09-01
 excerpt: A utilização de frameworks HTML e/ou CSS ainda é um assunto que divide a opinião dos desenvolvedores.
 url: /quando-utilizar-ou-nao-frameworks-css/
-tweetbackscheck:
-  - 1356390913
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4048";s:7:"tinyurl";s:26:"http://tinyurl.com/44fc9b6";s:4:"isgd";s:19:"http://is.gd/KfsGvd";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503040382
 categories:
-  - Artigos
-  - Código
-  - CSS
+  - css
+tags:
   - CSS3
   - HTML
   - HTML5
   - Wordpress
-tags:
-  - CSS
-  - css layout
   - frameworks
-  - modularizacao css
-  - tecnicas css
 
 ---
 Framework é um conjunto de componentes que provêm uma estrutura básica de elementos reutilizáveis, tendo uma arquitetura consistente de funcionalidade genérica sob a qual a aplicação será construída.

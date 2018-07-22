@@ -7,9 +7,9 @@ excerpt: "A quinta edição da Web.br, conferência do W3C Brasil, ocorre nos di
 url: /por-dentro-da-web-br-2013-webs-got-talent/
 dsq_thread_id: 1909986750
 categories:
-  - Mercado e Comportamento
   - Notícias
 tags:
+  - Mercado e Comportamento
   - concurso
   - conference
   - open web platform

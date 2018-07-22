@@ -6,15 +6,10 @@ date: 2015-08-06
 excerpt: Virou rotina reclamar da constante queda no alcance orgânico do Facebook. O alcance orgânico precisa morrer o quanto antes
 url: /alcance-organico-morreu-e-voce-precisa-parar-de-chorar/
 categories:
-  - Artigos
-  - Mercado e Comportamento
   - Opinião
 tags:
-  - facebook
-  - facebookads
-  - medias
   - social media
-
+  - SEO
 ---
 Virou rotina reclamar da constante queda no alcance orgânico do Facebook. É um tal de “mídias sociais estão mortas” para todo lado, um tom de revolta e velório toma conta do _social media_ que não consegue entregar relatórios brilhantes recheado de números fantásticos, ao menos para ele, que não agregam em nada ao órgão mais vital do negócio: o caixa! Se você faz parte deste time, é bom parar de ler por aqui.
 
