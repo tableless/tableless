@@ -7,12 +7,9 @@ excerpt: 'Neste artigo vou utilizar uma aplicação single page para demonstra
 url: /como-publicar-aplicacao-nodejs-heroku/
 dsq_thread_id: 2739418004
 categories:
-  - nodejs
   - javascript
   - Técnicas e Práticas
 tags:
-  - Heroku
-  - Javascript
   - NodeJS
   - Procfile
   - Sinatra

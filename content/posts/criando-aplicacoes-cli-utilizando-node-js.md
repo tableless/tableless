@@ -5,11 +5,10 @@ type: post
 date: 2016-05-03
 url: /criando-aplicacoes-cli-utilizando-node-js/
 categories:
+  - Javascript
+tags:
   - nodejs
   - back-end
-  - Código
-  - Javascript
-
 ---
 ## Introdução
 

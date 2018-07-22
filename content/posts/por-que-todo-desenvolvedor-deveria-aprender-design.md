@@ -8,8 +8,8 @@ excerpt: 'Afinal, todo o time de desenvolvimento está diretamente ligado com po
 image: https://i.imgur.com/Uv1OpwA.jpg
 sponsor: kinghost
 categories:
-  - Carreira
-  - Mercado
+  - Opinião
+  - Design
 tags:
   - Carreira
   - Mercado

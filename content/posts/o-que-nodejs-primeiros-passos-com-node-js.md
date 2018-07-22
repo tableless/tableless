@@ -8,11 +8,11 @@ url: /o-que-nodejs-primeiros-passos-com-node-js/
 sponsor: kinghost
 dsq_thread_id: 2877932820
 categories:
-  - nodejs
+  - Javascript
   - back-end
   - Código
-  - Javascript
 tags:
+  - nodejs
   - js
   - Node
   - tutorial

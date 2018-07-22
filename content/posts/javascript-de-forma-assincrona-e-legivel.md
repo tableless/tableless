@@ -6,7 +6,6 @@ date: 2013-12-30
 url: /javascript-de-forma-assincrona-e-legivel/
 dsq_thread_id: 2082284439
 categories:
-  - nodejs
   - Javascript
 tags:
   - nodejs

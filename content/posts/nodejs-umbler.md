@@ -6,11 +6,10 @@ date: 2017-07-17
 excerpt: Um pouco sobre hospedagem e a história do Node.JS
 categories:
   - Javascript
-  - nodejs
   - publieditorial
 tags:
-  - Javascript
   - nodejs
+  - Javascript
 image: http://i.imgur.com/l65nOub.png
 ---
 
