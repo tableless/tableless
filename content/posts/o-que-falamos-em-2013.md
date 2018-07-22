@@ -13,7 +13,7 @@ categories:
   - CSS
   - Geral
   - HTML
-  - Mercado e Comportamento
+  - Mercado
 
 ---
 <p dir="ltr">

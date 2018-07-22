@@ -15,7 +15,7 @@ dsq_thread_id: 847708252
 categories:
   - Artigos
   - Geral
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - internet

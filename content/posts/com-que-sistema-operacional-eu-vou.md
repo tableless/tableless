@@ -14,7 +14,7 @@ twittercomments:
 dsq_thread_id: 842704223
 categories:
   - Geral
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - smartphone

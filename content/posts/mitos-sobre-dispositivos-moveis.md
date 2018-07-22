@@ -8,7 +8,7 @@ excerpt: 'Tentar generalizar como as pessoas utilizam seus aparelhos móveis com
 url: /mitos-sobre-dispositivos-moveis/
 dsq_thread_id: 1165978518
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Mobile
   - Tecnologia e Tendências
 tags:

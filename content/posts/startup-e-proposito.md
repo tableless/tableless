@@ -16,7 +16,7 @@ tweetcount:
 dsq_thread_id: 967678740
 categories:
   - Artigos
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - 2012

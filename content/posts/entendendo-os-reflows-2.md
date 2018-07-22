@@ -22,7 +22,7 @@ categories:
   - HTML5
   - JavaScript
   - JQuery
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - Browsers

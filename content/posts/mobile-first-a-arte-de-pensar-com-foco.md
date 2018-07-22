@@ -17,7 +17,7 @@ categories:
   - Artigos
   - Browsers
   - HTML
-  - Mercado e Comportamento
+  - Mercado
   - Mobile
   - Tecnologia e Tendências
   - UX

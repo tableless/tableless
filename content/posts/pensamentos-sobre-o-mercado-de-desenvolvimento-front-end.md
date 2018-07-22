@@ -8,7 +8,7 @@ url: /pensamentos-sobre-o-mercado-de-desenvolvimento-front-end/
 dsq_thread_id: 2911239344
 categories:
   - Artigos
-  - Mercado e Comportamento
+  - Mercado
   - Opinião
 tags:
   - dev

@@ -8,7 +8,7 @@ url: /live-coding-ao-vivo-com-diego-eis/
 dsq_thread_id: 2002339421
 categories:
   - Geral
-  - Mercado e Comportamento
+  - Mercado
   - Técnicas e Práticas
 tags:
   - workshop

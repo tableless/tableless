@@ -7,7 +7,7 @@ excerpt: Saiba como você pode jogar dinheiro fora em 5 dicas básicas.
 url: /jogando-dinheiro-lixo-mail-marketing-5-dicas-simples/
 dsq_thread_id: 1793961823
 categories:
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - Dicas
   - E-mail Marketing

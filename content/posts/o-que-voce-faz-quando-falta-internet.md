@@ -9,7 +9,7 @@ url: /o-que-voce-faz-quando-falta-internet/
 dsq_thread_id: 2759500590
 categories:
   - Artigos
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - internet
   - mercado

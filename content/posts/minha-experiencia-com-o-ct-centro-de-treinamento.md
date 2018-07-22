@@ -10,7 +10,7 @@ categories:
   - CSS
   - Geral
   - HTML
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - Experiências
   - Mentoria

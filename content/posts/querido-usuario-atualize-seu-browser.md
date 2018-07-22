@@ -15,7 +15,7 @@ dsq_thread_id: 766583375
 categories:
   - Artigos
   - Browsers
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - 2012

@@ -6,10 +6,11 @@ date: 2015-03-19
 excerpt: Saiba as vantagens e desvantagens de fazer Home Office.
 url: /vida-de-home-office/
 categories:
-  - Mercado e Comportamento
+  - Carreira
+  - Mercado
 tags:
+  - trabalho remoto
   - home office
-  - mercado
 
 ---
 ## O que é Home Office?

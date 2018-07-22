@@ -9,7 +9,7 @@ dsq_thread_id: 1145397753
 categories:
   - Browsers
   - Código
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - 2013

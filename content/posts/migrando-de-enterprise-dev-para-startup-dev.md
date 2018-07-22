@@ -8,7 +8,7 @@ titulo_personalizado:
   - 'Migrando de enterprise dev para <strong>startup dev</strong>'
 categories:
   - Destaques
-  - Mercado e Comportamento
+  - Mercado
   - Opinião
   - Tecnologia e Tendências
 tags:

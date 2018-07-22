@@ -10,7 +10,7 @@ categories:
   - JavaScript
   - Técnicas e Práticas
   - Tecnologia e Tendências
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - noticias
   - javascript

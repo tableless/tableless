@@ -15,7 +15,7 @@ dsq_thread_id: 528840038
 categories:
   - Acessibilidade
   - Browsers
-  - Mercado e Comportamento
+  - Mercado
   - Mobile
   - Notícias
   - Tecnologia e Tendências

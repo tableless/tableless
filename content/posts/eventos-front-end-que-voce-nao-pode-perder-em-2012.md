@@ -11,7 +11,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 708199209
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 
 ---

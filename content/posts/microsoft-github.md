@@ -7,7 +7,7 @@ excerpt: 'E não, não é pegadinha e isso pode ser bom pra todos.'
 image: https://i.imgur.com/tA4zSGv.png
 categories:
   - Notícias
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
   - Técnicas e Práticas
 ---

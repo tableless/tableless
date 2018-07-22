@@ -5,7 +5,7 @@ type: post
 date: 2016-05-07
 url: /quando-o-scrum-ira-falhar/
 categories:
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - agile
   - desenvolvimento agil

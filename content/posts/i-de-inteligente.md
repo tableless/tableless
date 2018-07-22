@@ -6,7 +6,7 @@ date: 2016-04-03
 excerpt: Por que a tecnologia empresarial não caminha na mesma velocidade da pessoal? O mercado está passando por um momento especial e saber entender como ofertar nessa época poderá ser um diferencial. Quebrar antigos paradigmas é uma missão e tanto para nós da tecnologia.
 url: /i-de-inteligente/
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Opinião
 
 ---

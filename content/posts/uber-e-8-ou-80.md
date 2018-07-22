@@ -7,7 +7,7 @@ date: 2015-07-14
 excerpt: A história é quase sempre a mesma. Grupos profissionais estabelecidos não aceitam a concorrência do Uber.
 url: /uber-e-8-ou-80/
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 ---
 

@@ -8,7 +8,7 @@ excerpt: Escrever código todos os dias pode ser comparado a escrever um livro?
 url: /programadores-podem-se-tornar-bons-escritores/
 categories:
   - Destaques
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - Tecnologia e Tendências

@@ -6,7 +6,7 @@ date: 2015-09-07
 url: /sobre-comunidade-e-respeito/
 categories:
   - Artigos
-  - Mercado e Comportamento
+  - Mercado
   - Opinião
 
 ---

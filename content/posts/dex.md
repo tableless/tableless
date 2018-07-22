@@ -16,7 +16,7 @@ tweetcount:
 dsq_thread_id: 831878683
 categories:
   - Acessibilidade
-  - Mercado e Comportamento
+  - Mercado
   - Notícias
   - Tecnologia e Tendências
 tags:

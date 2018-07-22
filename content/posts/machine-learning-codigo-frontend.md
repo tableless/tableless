@@ -8,12 +8,12 @@ excerpt: 'Como um programador treinou uma máquina para fazer HTML e CSS a parti
 categories:
   - Técnicas e Práticas
   - Tecnologia e Tendências
-  - Mercado e Comportamento
+  - Mercado
   - Notícias
 Tags:
   - Técnicas e Práticas
   - Tecnologia e Tendências
-  - Mercado e Comportamento
+  - Mercado
   - Notícias
 ---
 

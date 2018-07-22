@@ -7,7 +7,7 @@ excerpt: Assista todas as palestras que ocorreram no Tableless Conference 2014.
 url: /gravacao-tableless-conference-2014/
 categories:
   - Eventos e Workshops
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - conference

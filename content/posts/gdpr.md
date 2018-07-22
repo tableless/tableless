@@ -6,12 +6,12 @@ date: 2018-05-31
 excerpt: 'Pra quem também não estava entendendo nada.'
 image: https://i.imgur.com/pVLIIOd.png
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Notícias
   - Geral
 tags:
   - Notícias
-  - Mercado e Comportamento
+  - Mercado
   - Geral
 ---
 

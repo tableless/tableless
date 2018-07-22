@@ -18,7 +18,7 @@ categories:
   - Acessibilidade
   - Código
   - HTML5
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - 2012

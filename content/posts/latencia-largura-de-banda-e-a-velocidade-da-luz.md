@@ -8,7 +8,7 @@ url: /latencia-largura-de-banda-e-a-velocidade-da-luz/
 dsq_thread_id: 1251713287
 categories:
   - Browsers
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - latência

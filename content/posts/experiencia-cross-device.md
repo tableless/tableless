@@ -15,7 +15,7 @@ dsq_thread_id: 512438734
 categories:
   - Acessibilidade
   - Artigos
-  - Mercado e Comportamento
+  - Mercado
   - Mobile
   - Tecnologia e Tendências
 tags:

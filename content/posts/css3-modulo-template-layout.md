@@ -20,7 +20,7 @@ categories:
   - CSS3
   - HTML
   - HTML5
-  - Mercado e Comportamento
+  - Mercado
   - Técnicas e Práticas
   - Tecnologia e Tendências
 tags:

@@ -7,7 +7,7 @@ url: /o-futuro-das-interfaces-chatbots/
 categories:
   - Design
   - JavaScript
-  - Mercado e Comportamento
+  - Mercado
   - Mobile
   - Tecnologia e Tendências
   - UX

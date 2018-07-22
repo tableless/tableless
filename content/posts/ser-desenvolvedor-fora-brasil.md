@@ -7,12 +7,10 @@ date: 2018-01-10
 image: https://i.imgur.com/dN55f40.jpg
 categories:
   - Carreira
-  - Opinião
-  - Mercado e Comportamento
 tags:
-  - carreira
+  - Mercado
   - opinião
-  - mercado e comportamento
+  - carreira
 ---
 
 Muitas pessoas me pediram dicas sobre como se preparar para um processo de

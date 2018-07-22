@@ -5,13 +5,13 @@ type: post
 date: 2014-03-24
 excerpt: Você tem uma série de disciplinas que fazem você ser um dev melhor trabalhando remoto e apurando seu senso de responsabilidade
 url: /6-dicas-freelas-remoto/
-dsq_thread_id: 2498387957
 categories:
   - Carreira
 tags:
   - trabalho remoto
   - comportamneto
 ---
+
 Ao contrário do que muitos acham, trabalho remoto (ou até um projeto freelancer) não é algo fácil. Eu sei que é o sonho de todo mundo ficar em casa, organizar o seu próprio horário para ir ao parque (cinema, praia, sítio, bar, prostíbulo etc etc etc) enquanto todo mundo se mata em um escritório.
 
 Para ter esse privilégio, você não precisa ser só bom no que faz, você precisa ser responsável e ter disciplinas extras que vão além das suas responsabilidades técnicas.

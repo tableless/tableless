@@ -151,19 +151,17 @@
 
     <ul class="tb-channels">
       <li>
-
-<form class="tb-search" name="x" action="//duckduckgo.com/">
-  <input type="hidden" value="tableless.com.br" name="sites"></input>
-  <input type="hidden" value="br-pt" name="kl"></input>
-  <input type="hidden" value="1" name="kz"></input>
-  <input type="hidden" value="e" name="ky"></input>
-  <input type="hidden" value="g" name="k8"></input>
-  <input type="hidden" value="-1" name="k1"></input>
-  <input type="hidden" value="w" name="kj"></input>
-  <input type="text" placeholder="Faça sua busca" name="q"></input>
-  <input type="image" src="{{ .Site.BaseURL }}images/search.svg">
-</form>
-
+        <form class="tb-search" name="x" action="//duckduckgo.com/">
+          <input type="hidden" value="tableless.com.br" name="sites"></input>
+          <input type="hidden" value="br-pt" name="kl"></input>
+          <input type="hidden" value="1" name="kz"></input>
+          <input type="hidden" value="e" name="ky"></input>
+          <input type="hidden" value="g" name="k8"></input>
+          <input type="hidden" value="-1" name="k1"></input>
+          <input type="hidden" value="w" name="kj"></input>
+          <input type="text" placeholder="Faça sua busca" name="q"></input>
+          <input type="image" src="{{ .Site.BaseURL }}images/search.svg">
+        </form>
       </li>
       <li><a href="http://twitter.com/tableless" class="tb-lnk-social-twitter"><img src="{{ .Site.BaseURL }}images/logo-twitter.png" alt="Link para Twitter"></a></li>
       <li><a href="http://facebook.com/tablelessbr" class="tb-lnk-social-facebook"><img src="{{ .Site.BaseURL }}images/logo-facebook.png" alt="Link para Facebook"></a></li>
@@ -174,7 +172,7 @@
 <nav id="tb-menu">
   <ul>
     <li class="tb-submenu-parent">
-      <a href="{{ .Site.BaseURL}}categories/front-end" class="tb-menu-link">Código</a>
+      <a href="{{ .Site.BaseURL}}categories/front-end" class="tb-menu-link">Front-end</a>
       <ul class="tb-submenu">
         <li><a href="{{ .Site.BaseURL}}categories/html" class="tb-menu-link">HTML</a></li>
         <li><a href="{{ .Site.BaseURL}}categories/css" class="tb-menu-link">CSS</a></li>
@@ -183,25 +181,34 @@
       </ul>
     </li>
     <li class="tb-submenu-parent">
+      <a href="{{ .Site.BaseURL}}categories/front-end" class="tb-menu-link">Back-end</a>
       <ul class="tb-submenu">
-        <li><a href="{{ .Site.BaseURL}}tag/php" class="tb-menu-link">PHP</a></li>
-        <li><a href="{{ .Site.BaseURL}}tag/asp.net" class="tb-menu-link">ASP .NET</a></li>
-        <li><a href="{{ .Site.BaseURL}}tag/java" class="tb-menu-link">Java</a></li>
-        <li><a href="{{ .Site.BaseURL}}categories/back-end" class="tb-menu-link">Todas de Back-end</a></li>
+        <li><a href="{{ .Site.BaseURL}}categories/php" class="tb-menu-link">PHP</a></li>
+        <li><a href="{{ .Site.BaseURL}}categories/java" class="tb-menu-link">JAVA</a></li>
+        <li><a href="{{ .Site.BaseURL}}tags/mysql" class="tb-menu-link">MySql</a></li>
+        <li><a href="{{ .Site.BaseURL}}tags/asp.net" class="tb-menu-link">ASP.NET</a></li>
       </ul>
     </li>
     <li class="tb-submenu-parent">
       <a href="{{ .Site.BaseURL}}categories/css" class="tb-menu-link">Soft Skill</a>
       <ul class="tb-submenu">
-        <li><a href="{{ .Site.BaseURL}}/categories/tecnologia-e-tend%C3%AAncias" class="tb-menu-link">Tecnologia e Tendências</a></li>
-        <li><a href="{{ .Site.BaseURL}}/categories/not%C3%ADcias" class="tb-menu-link">Notícias</a></li>
-        <li><a href="{{ .Site.BaseURL}}categories/agile-e-gestão/" class="tb-menu-link">Agile e Gestão</a></li>
-        <li><a href="{{ .Site.BaseURL}}/categories/tooling" class="tb-menu-link">Ferramentas</a></li>
+        <li><a href="{{ .Site.BaseURL}}/categories/carreira" class="tb-menu-link">Carreira</a></li>
+        <li><a href="{{ .Site.BaseURL}}/categories/notícias" class="tb-menu-link">Notícias</a></li>
+        <li><a href="{{ .Site.BaseURL}}categories/mercado/" class="tb-menu-link">Mercado</a></li>
         <li><a href="{{ .Site.BaseURL}}/categories/eventos-e-workshops" class="tb-menu-link">Eventos e Workshops</a></li>
       </ul>
     </li>
+    <!-- <li class="tb-submenu-parent">
+      <a href="{{ .Site.BaseURL}}categories/design" class="tb-menu-link">Design</a>
+      <ul class="tb-submenu">
+        <li><a href="{{ .Site.BaseURL}}/categories/ux" class="tb-menu-link">UX</a></li>
+        <li><a href="{{ .Site.BaseURL}}/categories/notícias" class="tb-menu-link"></a></li>
+        <li><a href="{{ .Site.BaseURL}}categories/mercado/" class="tb-menu-link">Mercado</a></li>
+        <li><a href="{{ .Site.BaseURL}}/categories/eventos-e-workshops" class="tb-menu-link">Eventos e Workshops</a></li>
+      </ul>
+    </li> -->
     <li class="tb-submenu-parent">
-      <a href="#">Mais assuntos</a>
+      <a href="#">Outros tópicos</a>
       <ul class="tb-submenu">
         <li><a href="{{ .Site.BaseURL}}categories/css3" class="tb-menu-link">CSS 3</a></li>
         <li><a href="{{ .Site.BaseURL}}categories/sass" class="tb-menu-link">Sass</a></li>

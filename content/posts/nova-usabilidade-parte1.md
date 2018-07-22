@@ -9,7 +9,7 @@ categories:
   - Design
   - Acessibilidade
 tags:
-  - Mercado e Comportamento
+  - Mercado
   - Mobile
   - Tecnologia e Tendências
   - UX

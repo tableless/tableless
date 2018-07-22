@@ -14,7 +14,7 @@ twittercomments:
 dsq_thread_id: 541224813
 categories:
   - Código
-  - Mercado e Comportamento
+  - Mercado
   - O Básico
   - Tecnologia e Tendências
 tags:

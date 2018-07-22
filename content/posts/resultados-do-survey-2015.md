@@ -9,7 +9,7 @@ titulo_personalizado:
   - 'Resultados do nosso <strong>Survey 2015</strong>'
 categories:
   - Destaques
-  - Mercado e Comportamento
+  - Mercado
 
 ---
 Eu sei, eu sei&#8230; Demorou bastante, mas chegou! Esses são os resultados do Survey feito em 2015. Foi respondido por 1899 pessoas. Fizemos perguntas que envolvem comportamento, status atual do cargo, salário e pretensões para o futuro. 

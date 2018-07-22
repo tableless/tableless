@@ -8,8 +8,8 @@ url: /nao-seja-o-proximo-zeno-rocha/
 categories:
   - Opinião
 tags:
-  - mercado
   - carreira
+  - mercado
 ---
 _Artigo originalmente [publicado no meu blog no Medium][1]._
 

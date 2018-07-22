@@ -8,7 +8,7 @@ url: /cultura-organizacional/
 categories:
   - Artigos
   - Eventos e Workshops
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - cultura organizacional
   - femug

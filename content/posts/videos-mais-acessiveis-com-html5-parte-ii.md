@@ -5,14 +5,13 @@ type: post
 date: 2011-03-15
 url: /videos-mais-acessiveis-com-html5-parte-ii/
 categories:
-	- html
-tags:
   - html5
+tags:
   - Acessibilidade
   - Tecnologia e Tendências
   - acessibilidade
-
 ---
+
 Na [primeira parte do artigo][1], vimos as principais características do DFXP, uma especificação do W3C para trabalhar com legendas em vídeos do HTML5. Agora iremos conhecer a estrutura de um arquivo DFXP e detalhar o conceito de regions.
 
 ### Estrutura básica de um arquivo DFXP

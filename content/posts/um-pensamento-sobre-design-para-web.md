@@ -14,7 +14,7 @@ twittercomments:
 dsq_thread_id: 545047342
 categories:
   - Artigos
-  - Mercado e Comportamento
+  - Mercado
   - Mobile
   - Tecnologia e Tendências
 tags:

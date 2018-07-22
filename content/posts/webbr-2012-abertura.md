@@ -13,7 +13,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 890694416
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - 2012

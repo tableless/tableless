@@ -12,7 +12,7 @@ categories:
   - Carreira
   - Opinião
   - CMS
-  - Mercado e Comportamento
+  - Mercado
   - Microdata
   - Tecnologia e Tendências
 tags:

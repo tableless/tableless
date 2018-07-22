@@ -11,7 +11,7 @@ categories:
   - Adaptive Web Design (AWD)
   - Artigos
   - Design
-  - Mercado e Comportamento
+  - Mercado
   - Responsive Web Design (RWD)
   - Tecnologia e Tendências
 tags:

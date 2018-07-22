@@ -7,11 +7,10 @@ date: 2018-01-18
 excerpt: O que você acha de se tornar um Full-Stack Developer JS?
 image: https://cdn-images-1.medium.com/max/2000/1*nSNrYZUwaC43rbF5JD1Zag.jpeg
 categories:
-  - javascript
-  - carreira
+  - Carreira
+  - Mercado
 tags:
   - javascript
-  - carreira
 ---
 
 Tem receio do JavaScript? Não entende muito bem como funcionam as coisas na linguagem?<br>

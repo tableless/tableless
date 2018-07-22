@@ -10,7 +10,7 @@ categories:
   - Artigos
   - Código
   - Geral
-  - Mercado e Comportamento
+  - Mercado
   - Notícias
 tags:
   - mercado

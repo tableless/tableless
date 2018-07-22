@@ -7,7 +7,7 @@ excerpt: Como construir equipes e estruturas em diversos cenários.
 url: /meddlers-aprendendo-estruturar-equipes/
 dsq_thread_id: 1880920431
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Técnicas e Práticas
 tags:
   - management30

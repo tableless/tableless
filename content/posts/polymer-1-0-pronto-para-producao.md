@@ -7,7 +7,7 @@ excerpt: Tudo sobre a mais nova versão do Polymer e porque ele está pronto par
 url: /polymer-1-0-pronto-para-producao/
 categories:
   - JavaScript
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - JavaScript

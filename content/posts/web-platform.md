@@ -18,7 +18,7 @@ categories:
   - Browsers
   - Código
   - HTML
-  - Mercado e Comportamento
+  - Mercado
   - Notícias
   - Tecnologia e Tendências
 tags:

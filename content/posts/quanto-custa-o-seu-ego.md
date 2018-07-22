@@ -8,7 +8,7 @@ excerpt: E se pudéssemos cobrar uma taxa (ou pedir desconto) ao trabalharmos co
 url: /quanto-custa-o-seu-ego/
 dsq_thread_id: 2782218718
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Carreira
   - Opinião
 ---

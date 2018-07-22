@@ -5,12 +5,12 @@ type: post
 date: 2017-09-11
 excerpt: Tem uma faixa de serviços e soluções no mercado de web que viraram comodites.
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Opinião
   - Artigos
   - HTML
 tags:
-  - Mercado e Comportamento
+  - Mercado
   - Artigos
   - Opinião
   - HTML

@@ -7,7 +7,7 @@ excerpt: 'Documentário sobre um dos lendários da comunidade web mundial: Jeffr
 url: /documentario-sobre-o-jeffrey-zeldman/
 categories:
   - Artigos
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - zeldman
 
