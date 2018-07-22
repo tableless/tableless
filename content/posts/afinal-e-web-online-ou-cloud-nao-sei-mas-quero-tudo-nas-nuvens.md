@@ -7,8 +7,10 @@ excerpt: Desde 2004 venho acompanhando bem de perto o mundo web. Muitas empresas
 url: /afinal-e-web-online-ou-cloud-nao-sei-mas-quero-tudo-nas-nuvens/
 dsq_thread_id: 2719827266
 categories:
+  - Opinião
+tags:
+  - ferramentas
   - Mercado e Comportamento
-
 ---
 Felizmente vem pouco a pouco entrando nas pautas de desenvolvimento um conceito que já é adotado mundialmente principalmente encabeçado pelas desenvolvedoras de software livre: _O conceito de intercomunicação entre aplicações e intercomunicação entre ecossistemas diferentes_, como softwares online com desktop, desktop para desktop e online para online. E isso certamente é um grande progresso a nível de Brasil.
 

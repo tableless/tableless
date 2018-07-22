@@ -5,20 +5,10 @@ type: post
 date: 2012-01-11
 excerpt: Fechar ou não as tags? Colocar os valores de atributo entre aspas? Estas escolhas nem sempre podem ser uma questão de gosto.
 url: /o-dilema-da-sintaxe-no-html5/
-tweetbackscheck:
-  - 1356396946
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5130";s:7:"tinyurl";s:26:"http://tinyurl.com/7pfyan7";s:4:"isgd";s:19:"http://is.gd/QeyzS7";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 534832523
 categories:
   - HTML
-  - HTML5
 tags:
-  - elementos html
   - html5
-  - melhores práticas
   - sintaxe
 
 ---

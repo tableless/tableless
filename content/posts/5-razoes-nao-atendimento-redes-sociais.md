@@ -7,15 +7,12 @@ excerpt: Entenda por que atender seu cliente pelas redes sociais não é tão bo
 url: /5-razoes-nao-atendimento-redes-sociais/
 dsq_thread_id: 1746710998
 categories:
-  - Artigos
-  - Geral
-  - Mercado e Comportamento
-  - Tecnologia e Tendências
+  - Mercado
+  - Comportamento
 tags:
-  - atendimento
-  - clientes
   - redes sociais
-
+  - clientes
+  - atendimento
 ---
 Toda vez que vejo alguém elogiando muito um atendimento rápido de alguma empresa para questões enviadas pelo Twitter, por exemplo, normalmente vem acompanhado por algum comentário não elogioso sobre o atendimento por telefone. Isso me chateia tremendamente, porque as pessoas não conseguem enxergar o quão isso é prejudicial &#8211; e não o contrário &#8211; à imagem da empresa.
 

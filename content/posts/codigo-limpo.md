@@ -5,22 +5,14 @@ type: post
 date: 2015-02-11
 url: /codigo-limpo/
 categories:
-  - Artigos
   - Código
-  - Geral
-  - Mercado e Comportamento
-  - Técnicas e Práticas
-  - Tecnologia e Tendências
+  - Opinião
+  - HTML
+  - Javascript
+  - Back-end
 tags:
-  - aprender javascript
-  - bonitodesever
-  - cotidiano
-  - desenvolvimento web
-  - JavaScript
   - Na Prática
-  - padroes web
   - Técnicas e Práticas
-
 ---
 Um dos assuntos que costumo discutir bastante com a galera é sobre qualidade de código. Nesses papos sempre vem questões como: quais práticas podemos adotar para ter um código de alta qualidade? E como sabemos se o nosso código está bom? Como temos certeza de que estamos no caminho certo?
 

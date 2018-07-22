@@ -5,24 +5,14 @@ type: post
 date: 2012-05-11
 excerpt: The Expressive Web, as experiências da Adobe com as novas features do HTML5 e CSS3.
 url: /adobe-the-expressive-web/
-tweetbackscheck:
-  - 1356144424
-shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/adobe-the-expressive-web/";s:7:"tinyurl";s:26:"http://tinyurl.com/75r8l7r";s:4:"isgd";s:19:"http://is.gd/RkLrAs";}'
-twittercomments:
-  - 'a:4:{i:202070037849321472;s:7:"retweet";i:201008425042329600;s:7:"retweet";i:201003761940963328;s:7:"retweet";i:200998002398208002;s:7:"retweet";}'
-tweetcount:
-  - 10
-dsq_thread_id: 685653414
 categories:
   - Código
-  - Mercado e Comportamento
   - Notícias
-  - Tecnologia e Tendências
 tags:
-  - 2012
-  - adobe
+  - Tecnologia e Tendências
+  - Mercado e Comportamento
   - CSS3
+  - adobe
   - html5
   - news
   - web

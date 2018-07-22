@@ -5,26 +5,15 @@ type: post
 date: 2010-12-20
 excerpt: De forma similar aos microformats, microdata do HTML5 permite representar determinadas informações de forma mais semântica.
 url: /introducao-a-microdata-no-html5/
-tweetbackscheck:
-  - 1356416618
-shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/introducao-a-microdata-no-html5";s:7:"tinyurl";s:26:"http://tinyurl.com/3oegwwk";s:4:"isgd";s:19:"http://is.gd/RTZGdR";}'
-twittercomments:
-  - 'a:12:{i:34102754993504256;s:7:"retweet";i:33652459901550593;s:7:"retweet";i:33530466631946240;s:7:"retweet";i:58966758530367488;s:7:"retweet";i:111908287330516992;s:7:"retweet";i:111852511605960706;s:7:"retweet";i:111618827846041601;s:7:"retweet";i:111515107439292416;s:7:"retweet";i:111510892042137600;s:7:"retweet";i:111509910071676928;s:7:"retweet";i:111509384017887232;s:7:"retweet";i:111508908945833984;s:7:"retweet";}'
-tweetcount:
-  - 37
-dsq_thread_id: 503039852
 categories:
-  - Artigos
-  - HTML5
-  - Tecnologia e Tendências
+  - html
 tags:
   - html5
+  - Tecnologia e Tendências
   - microdados
   - microdata
   - microformats
   - Semântica
-
 ---
 Provavelmente você já ouviu falar de [microformats][1], um padrão que permite representar informações de modo mais semântico no XHTML, como, por exemplo, informações de contato (_hCard_) ou dados de um evento (_hCalendar_).
 

@@ -7,10 +7,11 @@ excerpt: Conheça algumas vantagens ao utilizar o AddThis em seu site.
 url: /addthis-analisando-as-midias-sociais-do-seu-site/
 dsq_thread_id: 1219276267
 categories:
-  - Mercado e Comportamento
+  - Mercado
+tags:
+  - marketing
   - Técnicas e Práticas
   - Tecnologia e Tendências
-
 ---
 Todo mundo que tem sites, principalmente blogs, querem colocar aqueles penduricalhos das redes sociais para que os usuários compartilhem ou guardem o conteúdo do seu site. Isso é muito legal, mas só quando você mede o retorno. Você precisa ter números para saber se os benditos dos botões estão te ajudando a trazer mais audiência, se não, do que vale colocá-los?
 

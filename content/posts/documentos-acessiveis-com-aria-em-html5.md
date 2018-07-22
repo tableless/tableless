@@ -5,24 +5,14 @@ type: post
 date: 2011-04-14
 excerpt: 'A preocupação com acessibilidade tem aumentado gradativamente a cada nova versão do HTML e CSS, em vista de atender cada vez mais os usuários que possuem alguma deficiência. '
 url: /documentos-acessiveis-com-aria-em-html5/
-tweetbackscheck:
-  - 1356393835
-shorturls:
-  - 'a:3:{s:9:"permalink";s:63:"http://tableless.com.br/documentos-acessiveis-com-aria-em-html5";s:7:"tinyurl";s:26:"http://tinyurl.com/42gy56b";s:4:"isgd";s:19:"http://is.gd/87CvGn";}'
-twittercomments:
-  - 'a:3:{i:144892320020570112;s:7:"retweet";i:145509722383056896;s:7:"retweet";i:144902451965870080;s:7:"retweet";}'
-tweetcount:
-  - 3
-dsq_thread_id: 503040088
 categories:
+  - HTML
   - Acessibilidade
-  - Artigos
-  - HTML5
 tags:
   - acessibilidade
+  - HTML5
   - aria
   - html5
-
 ---
 A reestruturação do HTML para sua versão 5 propõem elementos mais semânticos. Porém, as novas tags do HTML5 não são suficientes para permitir que os documentos sejam corretamente acessíveis a softwares leitores de tela. 
 

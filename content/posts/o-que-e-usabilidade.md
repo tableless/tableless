@@ -5,25 +5,14 @@ type: post
 date: 2011-08-22
 excerpt: A usabilidade é apenas um dos conceitos que abrangem a experiência de uso de pessoas com produtos, tendo também algumas limitações.
 url: /o-que-e-usabilidade/
-tweetbackscheck:
-  - 1356413968
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=3823";s:7:"tinyurl";s:26:"http://tinyurl.com/3cuf2he";s:4:"isgd";s:19:"http://is.gd/HB9OEC";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503019883
 categories:
-  - Acessibilidade
+  - design
+tags:
+  - usabilidade
   - Mercado e Comportamento
   - Tecnologia e Tendências
   - UX
-tags:
-  - cotidiano
-  - desenvolvimento web
   - experiência do usuário
-  - metodologia de desenvolvimento
-  - padroes web
-  - usabilidade
 
 ---
 Já vimos em um [artigo anterior][1] como a usabilidade beneficia o desenvolvimento web. Mas, o que de fato compreende a usabilidade? Nem tudo que se refere à experiência de uso está dentro do escopo dela. Sim, a usabilidade tem limitações e lacunas que são complementadas por outros paradigmas, como o design de interação. Porém, podemos considera-la a _base da pirâmide_ que sustenta o projeto de uma aplicação com boa experiência de uso.  Neste artigo, veremos brevemente o que faz parte do conceito de usabilidade e qual o papel que ela tem no processo de desenvolvimento de aplicações.

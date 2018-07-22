@@ -5,29 +5,16 @@ type: post
 date: 2012-09-30
 excerpt: Saiba como você pode testar seu código em diversos dispositivos com o Adobe Edge Inspect
 url: /adobe-edge-inspect/
-tweetbackscheck:
-  - 1356387410
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6981";s:7:"tinyurl";s:26:"http://tinyurl.com/d57x5v8";s:4:"isgd";s:19:"http://is.gd/VSM3Ns";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 865454971
 categories:
   - HTML
+tags:
+  - ferramentas
   - Mercado e Comportamento
   - Tecnologia e Tendências
-tags:
-  - 2012
   - adobe
-  - adobe edge
-  - compatibilidade
   - desenvolvimento
   - inspect
   - mobile
-  - multi
-  - smartphone
-  - tablet
-
 ---
 Dentre as possibilidades de adaptação, temos técnicas de redimensionamento de tela, reconhecimento de dispositivos para redirecionamento a sites feitos especificamente pra este, a ainda envolta em mistério: a técnica de _responsive design,_ entre outras soluções. Em fim, cabe a escolha da melhor técnica de acordo com as definições do projeto adotado.
 

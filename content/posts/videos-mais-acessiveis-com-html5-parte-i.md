@@ -5,25 +5,12 @@ type: post
 date: 2011-02-15
 excerpt: DFXP é a mais recente especificação do W3C baseada em XML para trabalhar com legendas em vídeos do HTML5.
 url: /videos-mais-acessiveis-com-html5-parte-i/
-tweetbackscheck:
-  - 1356439911
-shorturls:
-  - 'a:3:{s:9:"permalink";s:64:"http://tableless.com.br/videos-mais-acessiveis-com-html5-parte-i";s:7:"tinyurl";s:26:"http://tinyurl.com/3qjxavk";s:4:"isgd";s:19:"http://is.gd/eqXnZc";}'
-twittercomments:
-  - 'a:1:{i:152060798972342272;s:7:"retweet";}'
-tweetcount:
-  - 1
-dsq_thread_id: 503040005
 categories:
-  - Acessibilidade
-  - HTML5
-  - Tecnologia e Tendências
+  - html
 tags:
-  - acessibilidade
-  - dfxp
   - html5
-  - video
-
+  - Tecnologia e Tendências
+  - acessibilidade
 ---
 Até o HTML 4 e XHTML 1.1, a acessibilidade de conteúdo era restrita a elementos basicamente textuais e imagens, mas os documentos de hipertexto são compostos de vários elementos de hipermídia, como áudio e vídeo que, na maioria dos casos, não possuíam seu conteúdo acessível a softwares leitores de tela.
 

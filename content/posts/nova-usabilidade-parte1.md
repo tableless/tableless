@@ -5,28 +5,17 @@ type: post
 date: 2011-12-05
 excerpt: A usabilidade não pode se focar apenas para desktops e notebooks, mas para dispositivos emergentes, que são utilizados hoje e os que ainda irão surgir.
 url: /nova-usabilidade-parte1/
-tweetbackscheck:
-  - 1356439845
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4589";s:7:"tinyurl";s:26:"http://tinyurl.com/cnpt7r5";s:4:"isgd";s:19:"http://is.gd/ekpAzy";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503018844
 categories:
+  - Design
   - Acessibilidade
+tags:
   - Mercado e Comportamento
   - Mobile
   - Tecnologia e Tendências
   - UX
-tags:
-  - dispositivos moveis
-  - dispositivos ubíquos
-  - nova usabilidade
-  - qualidade em uso
-  - sensibilidade ao contexto
   - usabilidade
-
 ---
+
 Vimos na [parte I][1] e [parte II][2] dos artigos [sobre usabilidade em dispositivos móveis][3] que as heurísticas permanecem praticamente as mesmas tanto para as aplicações móveis quanto convencionais, a diferença é o quão crítica ou severa elas se tornam para as aplicações móveis. Por este motivo, Thomas e Macredie propuseram em 2002 (sim, há 9 anos!) o paradigma da Nova Usabilidade.
 
 > &#8220;A usabilidade convencional e mais amplamente disseminada tem suas bases no paradigma do computador pessoal. Tecnologias e aplicativos emergentes, como telefones celulares, TV interativa e computação ubíqua, trazem novos desafios para a usabilidade e demandam uma análise crítica de seus pressupostos. A “nova usabilidade” busca metodologias, teorias e ferramentas que sejam adequadas às tecnologias e aplicativos emergentes.&#8221; [[Workshop sobre “Usabilidade de Aplicações e Tecnologias Emergentes: a Necessidade de uma “Nova Usabilidade”?” no IHC 2006][4]].

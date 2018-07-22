@@ -4,23 +4,13 @@ authors: Talita Pagani
 type: post
 date: 2011-01-05
 excerpt: Como forma de estabelecer um processo ágil para testes de usabilidade, uma das abordagens mais viáveis é a avaliação heurística, um método onde os próprios especialistas da empresa avaliam a interface de acordo com as heurísticas de usabilidade.
-url: /estabelecendo-uma-metodologia-agil-para-avaliacao-de-usabilidade/
-tweetbackscheck:
-  - 1356387438
-shorturls:
-  - 'a:3:{s:9:"permalink";s:88:"http://tableless.com.br/estabelecendo-uma-metodologia-agil-para-avaliacao-de-usabilidade";s:7:"tinyurl";s:26:"http://tinyurl.com/3kpcssp";s:4:"isgd";s:19:"http://is.gd/IBjCUa";}'
-twittercomments:
-  - 'a:11:{i:129659214552498176;s:7:"retweet";i:129588389711314944;s:7:"retweet";i:129588311747608577;s:7:"retweet";i:145288595719192576;s:7:"retweet";i:145121819203080192;s:7:"retweet";i:145089184846192641;s:7:"retweet";i:145085876530200576;s:7:"retweet";i:145085876349833216;s:7:"retweet";i:177064148977467394;s:7:"retweet";i:177046209507237892;s:7:"retweet";i:177043955714752513;s:7:"retweet";}'
-tweetcount:
-  - 18
-dsq_thread_id: 503029170
 categories:
-  - Artigos
-  - Geral
+  - Agile
 tags:
-  - avaliação heurística
-  - design de interface
+  - scrum
+  - kanban
   - usabilidade
+  - design de interface
 
 ---
 O conjunto de técnicas de usabilidade aplicado ao desenvolvimento da interfaces visa proporcionar: a facilidade de realização de tarefas; analise e otimização do processo de aprendizado do sistema; eficiência de uso; facilidade de memorização, evitando que o usuário necessite reaprender os processos de interação; e, por fim, a baixa ocorrência de erros, evitando transtornos na realização de tarefas e obtendo satisfação do usuário ao interagir com a aplicação.

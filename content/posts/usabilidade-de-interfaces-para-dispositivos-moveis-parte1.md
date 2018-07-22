@@ -5,24 +5,17 @@ type: post
 date: 2011-11-21
 excerpt: O que muda nas questões de usabilidade quando estamos falando em dispositivos móveis?
 url: /usabilidade-de-interfaces-para-dispositivos-moveis-parte1/
-tweetbackscheck:
-  - 1356390591
-shorturls:
-  - 'a:3:{s:9:"permalink";s:82:"http://tableless.com.br/usabilidade-de-interfaces-para-dispositivos-moveis-parte1/";s:7:"tinyurl";s:26:"http://tinyurl.com/cmvg7x8";s:4:"isgd";s:19:"http://is.gd/EdGNj5";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503040448
 categories:
+  - design
+tags:
+  - usabilidade
+  - UX
   - Acessibilidade
   - Mobile
-  - UX
-tags:
   - desenvolvimento web
   - dispositivos moveis
-  - qualidade em uso
-  - usabilidade
-
 ---
+
 Já escrevemos aqui no Tableless sobre melhores práticas de front-end / usabilidade para dispositivos móveis. Um questionamento comum a estas diretrizes é o quanto elas são específicas ao contexto mobile, pois muitas delas não se distinguem das diretrizes que vêm sendo difundidas há 20 anos.
 
 É fato que grande parte das diretrizes são semelhantes, mas o que muda é a criticidade quando tratamos de mobile. Algumas recomendações tornam-se mais graves e imperdoáveis quando não são seguidas no projeto de interfaces para dispositivos móveis.

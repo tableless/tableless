@@ -4,23 +4,12 @@ authors: Talita Pagani
 type: post
 date: 2012-03-05
 excerpt: A usabilidade é um compromisso de todos em um projeto. Ö que precisa acontecer é um diálogo maior entre o especialista de usabilidade e o restante da equipe.
-url: /a-usabilidade-deve-ser-pensada-por-todos/
-tweetbackscheck:
-  - 1356388095
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5605";s:7:"tinyurl";s:26:"http://tinyurl.com/7j8sjju";s:4:"isgd";s:19:"http://is.gd/v4x8PE";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 599275774
 categories:
-  - Acessibilidade
-  - UX
+  - Design
 tags:
-  - equipe
-  - processos
-  - trabalho em conjunto
   - usabilidade
-
+  - UX
+  - Acessibilidade
 ---
 No final de 2010, fui contatada pela <a title="Revista WIDE" href="http://revistawide.com.br/" target="_blank">Revista WIDE</a> para participar da seção “Opinião” respondendo à seguinte questão: Todos devem pensar em usabilidade? A proposta era opinar se a usabilidade era algo a ser pensado apenas pelo designer (ou especialista de usabilidade) ou se programadores, editores, entre outros membros da equipe, deveriam têm responsabilidade na facilidade de uso do projeto. Isto é um tema delicado, às vezes polêmico, mas importante para ser debatido.
 

@@ -5,28 +5,12 @@ type: post
 date: 2012-02-05
 excerpt: A revolução pode começar sem você.
 url: /agora-e-a-vez-dos-desenvolvedores/
-tweetbackscheck:
-  - 1356458112
-shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/agora-e-a-vez-dos-desenvolvedores/";s:7:"tinyurl";s:26:"http://tinyurl.com/7hn23xo";s:4:"isgd";s:19:"http://is.gd/duWZXV";}'
-twittercomments:
-  - 'a:22:{i:166568302179647488;s:7:"retweet";i:166567998411374593;s:7:"retweet";i:166523530974990339;s:7:"retweet";i:166514045904617473;s:7:"retweet";i:166510071365378048;s:7:"retweet";i:166507106655145984;s:7:"retweet";i:166504663888302081;s:7:"retweet";i:166502162225053697;s:7:"retweet";i:166501625748393984;s:7:"retweet";i:166499762097504256;s:7:"retweet";i:166499423411650561;s:7:"retweet";i:166498938336198657;s:7:"retweet";i:166498569455542272;s:7:"retweet";i:166498396532772865;s:7:"retweet";i:166169571710083072;s:7:"retweet";i:169381861934641152;s:7:"retweet";i:169376179852283905;s:7:"retweet";i:169375817036599296;s:7:"retweet";i:167338104225665025;s:7:"retweet";i:176466404407656448;s:7:"retweet";i:176460479428952064;s:7:"retweet";i:174481701244903424;s:7:"retweet";}'
-tweetcount:
-  - 86
-dsq_thread_id: 565154867
 categories:
-  - Artigos
-  - Código
-  - Mercado e Comportamento
-  - Tecnologia e Tendências
+  - Opinião
 tags:
-  - 2012
-  - Browsers
-  - cotidiano
-  - desenvolvimento web
-  - Na Prática
-  - web standards
-
+  - Tecnologia e Tendências
+  - Carreira
+  - w3c
 ---
 O desenvolvimento web depende de três personagens principais: **W3C**, que regulamenta, cria e sanciona padrões para a web. Os **browsers**, que importam essas regras e padrões de forma que a web seja mais homogênea e também podem criar padrões. E por fim os **desenvolvedores**, que aplicam os padrões em projetos, produzindo e criando na web.
 

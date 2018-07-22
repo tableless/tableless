@@ -7,14 +7,11 @@ excerpt: 9 dicas valiosas para quem está pensando em empreender.
 url: /9-dicas-para-novos-empreendedores/
 dsq_thread_id: 2847267858
 categories:
-  - Mercado e Comportamento
-  - Tecnologia e Tendências
+  - Carreira
+  - Mercado
 tags:
   - empreendedorismo
-  - empresa
   - mercado
-  - negocios
-
 ---
 Quem trabalha com tecnologia com certeza já pensou em entrar para esse vasto mercado com seu próprio produto ou serviço, na tentativa de gerar valor para uma nova ideia ou uma empresa.
 

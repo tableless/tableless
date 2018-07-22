@@ -6,7 +6,9 @@ type: post
 date: 2015-10-08
 url: /a-internet-faz-voce-feliz/
 categories:
-  - Mercado e Comportamento
+  - Opinião
+tags:
+  - Comportamento
   - Tecnologia e Tendências
 ---
 
