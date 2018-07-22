@@ -8,16 +8,22 @@ fields:
   type: textarea
   hidden: false
   default: ''
+  config:
+    required: true
 - name: authors
   label: Authors
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: type
   label: Type
   type: text
-  hidden: false
-  default: ''
+  hidden: true
+  default: post
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
@@ -42,5 +48,11 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
+- type: text
+  name: image
+  label: image
+  description: Imagem de destaque do artigo
+  config:
+    required: true
 pages:
 - content/posts/os-dois-tipos-de-front-end-design-e-o-engineer-parte-1-uma-breve-historia.md
