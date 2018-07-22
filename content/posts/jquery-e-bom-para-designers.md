@@ -21,7 +21,7 @@ categories:
   - JQuery
 tags:
   - criação
-  - JavaScript
+  - Javascript
   - JQuery
   - menu
   - padroes

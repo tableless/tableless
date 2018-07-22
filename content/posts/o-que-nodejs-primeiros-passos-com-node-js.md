@@ -11,7 +11,7 @@ categories:
   - nodejs
   - back-end
   - Código
-  - JavaScript
+  - Javascript
 tags:
   - js
   - Node

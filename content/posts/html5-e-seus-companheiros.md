@@ -22,7 +22,7 @@ categories:
 tags:
   - CSS3
   - html5
-  - JavaScript
+  - Javascript
   - padroesweb
   - tab
 

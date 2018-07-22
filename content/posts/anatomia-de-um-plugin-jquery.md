@@ -17,11 +17,11 @@ dsq_thread_id: 503039503
 categories:
   - Artigos
   - Código
-  - JavaScript
+  - Javascript
   - JQuery
   - Técnicas e Práticas
 tags:
-  - JavaScript
+  - Javascript
   - JQuery
   - plugin
 

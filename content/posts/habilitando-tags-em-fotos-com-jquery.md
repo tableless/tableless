@@ -7,7 +7,7 @@ excerpt: Aprenda a desenvolver uma interface para permitir que usuários aplique
 url: /habilitando-tags-em-fotos-com-jquery/
 categories:
   - front-end
-  - JavaScript
+  - Javascript
 tags:
   - JQuery
   - jquery-ui

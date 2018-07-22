@@ -6,7 +6,7 @@ image: https://i.imgur.com/oVmOUA4.jpg
 date: 2018-02-14
 excerpt: Saia da mediocridade, entenda como funciona o realmente React Native. Mais cedo ou mais tarde isso poderá lhe ajudar muito.
 categories:
-  - JavaScript
+  - Javascript
   - ReactJS
 tags:
   - ReactNative

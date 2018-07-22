@@ -6,10 +6,10 @@ date: 2018-05-27
 excerpt: Como realizar o stub de suas dependências com o Sinon para simplificar seus testes.
 categories:
   - NodeJS
-  - JavaScript
+  - Javascript
 tags:
   - NodeJS
-  - JavaScript
+  - Javascript
 image: https://i1.wp.com/www.zsoltnagy.eu/wp-content/uploads/2015/05/sinon1.png
 ---
 

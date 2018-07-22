@@ -14,10 +14,10 @@ twittercomments:
 dsq_thread_id: 707047908
 categories:
   - Código
-  - JavaScript
+  - Javascript
 tags:
   - coffeescript
-  - JavaScript
+  - Javascript
 
 ---
 No [artigo anterior][1] vimos as funcionalidades básicas da linguagem CoffeeScript. Falamos sobre variáveis, funções, objetos, condicionais, loops e integração com jQuery. Neste artigo, veremos algumas implementações mais avançadas, com destaque para o conceito de classes.

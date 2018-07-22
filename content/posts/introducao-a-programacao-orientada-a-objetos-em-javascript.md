@@ -6,7 +6,7 @@ date: 2014-09-16
 excerpt: Neste post, vamos criar uma pequena classe em javascript que aborda este método, para que possamos entendê-lo de forma simples e aplicar em nossos projetos.
 url: /introducao-a-programacao-orientada-a-objetos-em-javascript/
 categories:
-  - JavaScript
+  - Javascript
 
 ---
 Para quem já programa em alguma linguagem de programação (Java, PHP, C#), com certeza já ouviu falar no conceito de orientação à objetos. Apesar do conceito abordar o mesmo assunto (encapsulamento de variáveis, atributos e métodos de uma classe), o mesmo pode ser abordado de forma diferente, dependendo da linguagem utilizada.

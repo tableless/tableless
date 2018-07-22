@@ -8,9 +8,9 @@ titulo_personalizado:
   - 'ReactJS: Iniciando com o <strong>básico</strong>'
 categories:
   - ReactJS
-  - JavaScript
+  - Javascript
 tags:
-  - JavaScript
+  - Javascript
   - js
   - reactjs
 

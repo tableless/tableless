@@ -7,7 +7,7 @@ excerpt: Um exemplo de utilização dessa poderosa plataforma de armazenamento e
 url: /criando-um-aplicativo-simples-de-chat-com-firebase/
 dsq_thread_id: 2847349797
 categories:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - Chat

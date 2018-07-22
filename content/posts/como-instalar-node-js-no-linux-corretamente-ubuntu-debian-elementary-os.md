@@ -5,7 +5,7 @@ type: post
 date: 2017-01-09
 url: /como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os/
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - NodeJS
   - angular2

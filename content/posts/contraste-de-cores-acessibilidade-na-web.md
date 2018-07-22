@@ -13,7 +13,7 @@ tags:
   - acessibilidade
   - contraste de cores
   - html5
-  - JavaScript
+  - Javascript
 
 ---
 Nesse post vou explicar uma das opções de como fazer um contraste de cores, existe diretrizes de acessibilidade da <a href="https://www.w3.org/Translations/WCAG20-pt-PT/" target="_blank">WCAG 2.0</a> que explica o nível aceitável de contraste de cores esperadas em um site, veja nesse <a href="https://www.w3.org/TR/WCAG20/#visual-audio-contrast" target="_blank">link</a>.

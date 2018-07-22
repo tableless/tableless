@@ -8,14 +8,14 @@ url: /grunt-voce-deveria-estar-usando/
 dsq_thread_id: 1209272560
 categories:
   - Artigos
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
   - Tooling
 tags:
   - grunt
   - task-runner
   - gulp
-  - JavaScript
+  - Javascript
   - tarefas
   - tutorial
 ---

@@ -14,11 +14,11 @@ twittercomments:
 dsq_thread_id: 503040374
 categories:
   - Código
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - dojo
-  - JavaScript
+  - Javascript
   - JQuery
   - mootools
 

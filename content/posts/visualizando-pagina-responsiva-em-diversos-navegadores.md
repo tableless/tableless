@@ -11,7 +11,7 @@ categories:
   - Tecnologia e Tendências
 tags:
   - BrowserStack
-  - JavaScript
+  - Javascript
   - NodeJS
   - página responsiva
   - responsive design

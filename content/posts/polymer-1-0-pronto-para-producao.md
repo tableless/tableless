@@ -6,11 +6,11 @@ date: 2015-06-08
 excerpt: Tudo sobre a mais nova versão do Polymer e porque ele está pronto para produção
 url: /polymer-1-0-pronto-para-producao/
 categories:
-  - JavaScript
+  - Javascript
   - Mercado
   - Tecnologia e Tendências
 tags:
-  - JavaScript
+  - Javascript
   - polymer
   - web components
 

@@ -7,9 +7,9 @@ excerpt: Conheça práticas simples que podem ajudar na organização do seu web
 url: /melhores-praticas-web-components/
 categories:
   - HTML5
-  - JavaScript
+  - Javascript
 tags:
-  - JavaScript
+  - Javascript
   - web component
 
 ---

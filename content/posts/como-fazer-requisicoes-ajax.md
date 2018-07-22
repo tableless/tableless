@@ -7,10 +7,10 @@ date: 2018-02-18
 excerpt: Requisições ajax com Fetch API e Axios
 categories:
   - Front-end
-  - JavaScript
+  - Javascript
   - Ajax
 tags:
-  - JavaScript
+  - Javascript
   - Requisições ajax
   - Fetch api
   - Axios

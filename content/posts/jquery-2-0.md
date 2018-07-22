@@ -10,7 +10,7 @@ categories:
   - Artigos
   - JQuery
 tags:
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

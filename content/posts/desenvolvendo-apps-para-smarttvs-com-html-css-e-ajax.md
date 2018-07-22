@@ -10,7 +10,7 @@ titulo_personalizado:
 categories:
   - Código
   - HTML
-  - JavaScript
+  - Javascript
 tags:
   - smarttv
 

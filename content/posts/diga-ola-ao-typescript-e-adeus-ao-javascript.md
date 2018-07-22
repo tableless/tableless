@@ -6,11 +6,11 @@ date: 2015-12-14
 url: /diga-ola-ao-typescript-e-adeus-ao-javascript/
 categories:
   - Geral
-  - JavaScript
+  - Javascript
 tags:
   - aprenda
   - desenvolvimento web
-  - JavaScript
+  - Javascript
   - orientação-a-objetos
   - prototype
   - Técnicas e Práticas

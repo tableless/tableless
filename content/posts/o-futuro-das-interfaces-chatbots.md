@@ -6,7 +6,7 @@ date: 2017-02-13
 url: /o-futuro-das-interfaces-chatbots/
 categories:
   - Design
-  - JavaScript
+  - Javascript
   - Mercado
   - Mobile
   - Tecnologia e Tendências
@@ -15,7 +15,7 @@ tags:
   - bot
   - chatbot
   - interface
-  - JavaScript
+  - Javascript
   - ui
   - ux
 

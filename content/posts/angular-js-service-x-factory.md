@@ -10,12 +10,12 @@ url: /angular-js-service-x-factory/
 categories:
   - AngularJS
   - Código
-  - JavaScript
+  - Javascript
 tags:
   - angularjs
   - factories
   - factory
-  - JavaScript
+  - Javascript
   - service
   - services
 

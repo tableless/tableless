@@ -8,14 +8,14 @@ url: /criando-efeito-de-fadein-e-fadeout-com-javascript-puro/
 dsq_thread_id: 2170230371
 categories:
   - Código
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - efeitos javascript
   - fadein
   - fadeout
   - html5
-  - JavaScript
+  - Javascript
   - javascript ninja
   - javascript puro
 

@@ -15,10 +15,10 @@ tweetcount:
   - 57
 dsq_thread_id: 503021281
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

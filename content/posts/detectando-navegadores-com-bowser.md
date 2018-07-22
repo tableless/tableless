@@ -7,7 +7,7 @@ excerpt: Projeto hospedado no GitHub ajuda a detectar versões e detalhes do nav
 url: /detectando-navegadores-com-bowser/
 categories:
   - Browsers
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - bowser

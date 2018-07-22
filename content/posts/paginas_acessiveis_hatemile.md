@@ -8,7 +8,7 @@ excerpt: O HaTeMiLe é uma biblioteca que utiliza os Padrões Web para resolver 
 categories:
   - Acessibilidade
   - HTML
-  - JavaScript
+  - Javascript
 ---
 
 A acessibilidade finalmente esta se tornando uma das metas no desenvolvimento web, mesmo assim ela enfrenta um conjunto de problemas:

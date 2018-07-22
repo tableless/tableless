@@ -16,7 +16,7 @@ categories:
 tags:
   - Artigos
   - CSS
-  - JavaScript
+  - Javascript
   - padroes web
   - tableless
   - w3c

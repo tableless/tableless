@@ -7,10 +7,10 @@ excerpt: Anotações das palestras que rolaram no BrazilJS de 2014.
 url: /braziljs-2014/
 categories:
   - Eventos e Workshops
-  - JavaScript
+  - Javascript
 tags:
   - braziljs
-  - JavaScript
+  - Javascript
   - palestras
 
 ---

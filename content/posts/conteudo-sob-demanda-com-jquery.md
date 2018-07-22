@@ -15,11 +15,11 @@ tweetcount:
   - 38
 dsq_thread_id: 503014231
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
   - Técnicas e Práticas
 tags:
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

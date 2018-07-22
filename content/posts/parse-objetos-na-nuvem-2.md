@@ -8,10 +8,10 @@ url: /parse-objetos-na-nuvem-2/
 categories:
   - Artigos
   - back-end
-  - JavaScript
+  - Javascript
 tags:
   - banco de dados
-  - JavaScript
+  - Javascript
   - parse
 
 ---

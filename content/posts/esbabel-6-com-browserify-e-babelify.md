@@ -6,14 +6,14 @@ date: 2015-11-23
 excerpt: O Babel 6 trouxe muitas mudanças na maneira que convertemos arquivos ES2015 para ES5.
 url: /es2015-babel-6-com-browserify-e-babelify/
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - babel
   - babelify
   - browserify
   - es2015
   - grunt
-  - JavaScript
+  - Javascript
   - tutorial
 
 ---

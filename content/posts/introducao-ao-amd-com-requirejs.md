@@ -7,10 +7,10 @@ excerpt: Aprenda agora em 4 passos simples a modularizar seu código JavaScript 
 url: /introducao-ao-amd-com-requirejs/
 categories:
   - nodejs
-  - JavaScript
+  - Javascript
 tags:
   - amd
-  - JavaScript
+  - Javascript
   - require.js
 
 ---

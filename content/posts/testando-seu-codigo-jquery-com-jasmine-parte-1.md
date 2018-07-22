@@ -13,12 +13,12 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503040397
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - bdd
   - jasmine
-  - JavaScript
+  - Javascript
   - JQuery
   - tdd
 

@@ -19,7 +19,7 @@ categories:
   - CSS
   - HTML
   - HTML5
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - desenvolvimento web

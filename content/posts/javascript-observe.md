@@ -8,7 +8,7 @@ url: /javascript-observe/
 dsq_thread_id: 2277082767
 categories:
   - Código
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 
 ---

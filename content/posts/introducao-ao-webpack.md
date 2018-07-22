@@ -6,7 +6,7 @@ date: 2015-02-23
 excerpt: 'Conheça o webpack: um bundler que permite dividir seu código em múltiplos módulos para serem lidos sob demanda.'
 url: /introducao-ao-webpack/
 categories:
-  - JavaScript
+  - Javascript
   - ReactJS
   - Técnicas e Práticas
 tags:

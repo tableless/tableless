@@ -12,7 +12,7 @@ categories:
   - Geral
   - HTML
   - HTML5
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
   - Tecnologia e Tendências
 tags:

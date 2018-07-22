@@ -8,7 +8,7 @@ excerpt: |
     Vamos entender como funciona o navigator.language, com um pouco de teoria e prática.
 url: /utilizando-navigator-language/
 categories:
-  - JavaScript
+  - Javascript
 
 ---
 Quando desenvolvemos um aplicativo web, normalmente desenvolvemos incluindo o trabalho de internacionalização. Mas não basta apenas criar arquivos para cada país, pois o aplicativo pode ser acessado por diversos países que você não contemplou. Pensando nesses problemas o Yahoo Presentation Technologies (YPT) e com a ajuda de [Andy Earnshaw][1] e [Norbert Lindenberg][2] criaram a biblioteca [Formatjs][3]. Vamos mostrar um pouco sobre essa biblioteca logo abaixo, com um exemplo bem simples:

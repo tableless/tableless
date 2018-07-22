@@ -10,7 +10,7 @@ categories:
   - Artigos
   - Código
   - HTML
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 
 ---

@@ -13,10 +13,10 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 642090982
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - coffeescript
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

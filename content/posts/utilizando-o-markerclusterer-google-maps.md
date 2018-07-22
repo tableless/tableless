@@ -7,13 +7,13 @@ excerpt: 'Você utiliza bastante o Google Maps em seus projetos? Já aconteceu d
 url: /utilizando-o-markerclusterer-google-maps/
 dsq_thread_id: 2666248767
 categories:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - api
   - google
   - googlemaps
-  - JavaScript
+  - Javascript
   - maps
 
 ---

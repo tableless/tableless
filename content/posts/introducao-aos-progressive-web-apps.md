@@ -7,7 +7,7 @@ excerpt: Olhe pro seu smartphone agora mesmo. Você fez o download do aplicativo
 image: https://i.imgur.com/Gv11YUs.jpg
 categories:
   - Adaptive Web Design (AWD)
-  - JavaScript
+  - Javascript
   - Mobile
   - Responsive Web Design (RWD)
 tags:

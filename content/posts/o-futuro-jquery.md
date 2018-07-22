@@ -10,7 +10,7 @@ categories:
   - JQuery
   - Traduções
 tags:
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

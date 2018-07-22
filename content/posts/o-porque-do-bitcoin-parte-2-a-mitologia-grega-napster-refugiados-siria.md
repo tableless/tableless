@@ -8,7 +8,7 @@ excerpt: Porque Bitcoin não é algo trivial.
 image: https://i.imgur.com/L71bKGO.jpg
 categories:
   - Bitcoin
-  - JavaScript
+  - Javascript
   - Na Prática
 tags:
   - javascript

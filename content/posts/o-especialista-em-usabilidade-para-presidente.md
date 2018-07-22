@@ -21,7 +21,7 @@ categories:
   - Código
   - CSS
   - HTML
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - acessibilidade
@@ -29,7 +29,7 @@ tags:
   - CSS
   - desenvolvimento web
   - design
-  - JavaScript
+  - Javascript
   - JQuery
   - Na Prática
   - UCD

@@ -9,7 +9,7 @@ titulo_personalizado:
 categories:
   - Código
   - Destaques
-  - JavaScript
+  - Javascript
 
 ---
 Um dia desses eu recebi um quebra-gelo no Telegram, com o seguinte:

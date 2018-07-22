@@ -7,12 +7,12 @@ excerpt: Agregue mais valor aos seus projetos a partir de agora, saiba como inco
 url: /api-google-maps-v3/
 categories:
   - Código
-  - JavaScript
+  - Javascript
 tags:
   - api
   - google
   - googlemaps
-  - JavaScript
+  - Javascript
 
 ---
 Neste post irei falar um pouco sobre a <a title="API Google Maps V3" href="https://developers.google.com/maps/documentation/javascript/?hl=pt-BR" target="_blank">API Google Maps V3</a>, que sofreu atualizações e veio com algumas melhorias e recursos adicionais para dispositivos móveis e desktops.

@@ -13,12 +13,12 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 1024953901
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
   - O Básico
   - Técnicas e Práticas
 tags:
-  - JavaScript
+  - Javascript
   - JQuery
   - parallax
 

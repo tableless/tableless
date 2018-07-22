@@ -9,7 +9,7 @@ categories:
   - Artigos
   - Código
   - HTML
-  - JavaScript
+  - Javascript
   - Tecnologia e Tendências
 tags:
   - css

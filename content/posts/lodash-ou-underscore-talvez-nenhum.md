@@ -9,11 +9,11 @@ titulo_personalizado:
 categories:
   - Artigos
   - Código
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
   - Traduções
 tags:
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 
 ---

@@ -7,14 +7,14 @@ excerpt: Sabemos que o HTML5 não se trata apenas de marcação, mas também de 
 url: /entendendo-quais-apis-realmente-fazem-parte-do-html5/
 categories:
   - HTML
-  - JavaScript
+  - Javascript
 tags:
   - html5
   - api
   - desenvolvimento web
   - diferenças
   - html5
-  - JavaScript
+  - Javascript
   - padroes web
   - w3c
 

@@ -7,7 +7,7 @@ url: /carrocel-descomplicado-com-html-css/
 categories:
   - CSS
   - HTML
-  - JavaScript
+  - Javascript
 
 ---
 Não é difícil perceber que muitos desenvolvedores tanto iniciantes como os veteranos de guerra ainda sofrem quando o assunto é carrossel, mesmo utilizando frameworks como BootStrap. Mas seus problemas acabaram! (música de chegada milagrosa), com o conhecimento de poucas técnicas podemos resolver esse &#8220;gigante&#8221; problema facilmente.

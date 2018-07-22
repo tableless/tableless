@@ -7,11 +7,11 @@ excerpt: 'História de usuário é uma descrição resumida de alguma funcionali
 url: /historia-de-usuario-e-teste-de-aceitacao-em-javascript/
 dsq_thread_id: 2104572243
 categories:
-  - JavaScript
+  - Javascript
   - NodeJS
 tags:
   - cucumberjs
-  - JavaScript
+  - Javascript
   - NodeJS
   - phantomjs
   - selenium

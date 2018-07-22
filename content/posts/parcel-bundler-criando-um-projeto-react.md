@@ -7,7 +7,7 @@ date: 2017-12-07
 excerpt: Rápido, sem configurações e prático! É amigos da rede web, temos um bom jogador em campo!
 image: https://cdn-images-1.medium.com/max/1000/1*QrdmWMnKnVLsL2_1BiZGFw.png
 categories:
-  - JavaScript
+  - Javascript
   - ReactJS
   - Na prática
 tags:

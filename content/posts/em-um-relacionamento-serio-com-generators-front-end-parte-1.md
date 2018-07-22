@@ -11,7 +11,7 @@ categories:
   - CSS3
   - HTML
   - HTML5
-  - JavaScript
+  - Javascript
   - SASS
 
 ---

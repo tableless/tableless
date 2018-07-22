@@ -6,10 +6,10 @@ date: 2015-03-20
 excerpt: Uma nova forma de interagir com collections no Javascript
 url: /iterators-es6/
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - ES6
-  - JavaScript
+  - Javascript
   - Novidades
 
 ---

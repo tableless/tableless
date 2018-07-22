@@ -9,7 +9,7 @@ dsq_thread_id: 2409691512
 categories:
   - Artigos
   - CMS
-  - JavaScript
+  - Javascript
 tags:
   - Ghost.org
   - node.js

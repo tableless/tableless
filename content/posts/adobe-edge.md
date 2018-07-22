@@ -17,7 +17,7 @@ categories:
   - CSS3
   - HTML
   - HTML5
-  - JavaScript
+  - Javascript
   - JQuery
   - Notícias
 tags:
@@ -25,7 +25,7 @@ tags:
   - adobe
   - CSS
   - desenvolvimento web
-  - JavaScript
+  - Javascript
   - padroes web
 
 ---

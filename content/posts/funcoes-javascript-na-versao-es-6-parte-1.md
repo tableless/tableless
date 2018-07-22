@@ -7,10 +7,10 @@ excerpt: Entendendo algumas novidades em funções do JavaScript na versão ES6.
 url: /funcoes-javascript-na-versao-es-6-parte-1/
 categories:
   - Código
-  - JavaScript
+  - Javascript
 tags:
   - ES6
-  - JavaScript
+  - Javascript
   - js
 
 ---

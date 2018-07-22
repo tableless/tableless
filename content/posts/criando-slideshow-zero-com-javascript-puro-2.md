@@ -7,7 +7,7 @@ excerpt: Veremos neste artigo como criar um slideshow do zero apenas com javascr
 url: /criando-slideshow-zero-com-javascript-puro-2/
 dsq_thread_id: 2310599889
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - criando slideshow do zero com javascript puro
   - criando slideshow do zero sem jquery

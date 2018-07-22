@@ -12,7 +12,7 @@ categories:
   - CSS3
   - HTML
   - HTML5
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - CSS

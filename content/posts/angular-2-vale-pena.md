@@ -7,10 +7,10 @@ excerpt: O Angular é hoje uma das ferramentas mais largamente utilizada para de
 url: /angular-2-vale-pena/
 categories:
   - AngularJS
-  - JavaScript
+  - Javascript
 tags:
   - angular2
-  - JavaScript
+  - Javascript
   - typescript
 
 ---

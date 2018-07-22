@@ -7,12 +7,12 @@ excerpt: Apresentações sobre frameworks Javascript.
 url: /slides-para-devs-8-frameworks-js/
 dsq_thread_id: 1227163946
 categories:
-  - JavaScript
+  - Javascript
   - Slides e Apresentações
 tags:
   - 2013
   - apresentacoes
   - ember.js
-  - JavaScript
+  - Javascript
 
 ---

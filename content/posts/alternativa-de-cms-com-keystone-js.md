@@ -7,10 +7,10 @@ excerpt: O Keystone.js é um framework desenvolvido em Node.js para servir de CM
 url: /alternativa-de-cms-com-keystone-js/
 categories:
   - CMS
-  - JavaScript
+  - Javascript
   - nodejs
 tags:
-  - JavaScript
+  - Javascript
   - keystone.js
   - nodejs
 

@@ -6,7 +6,7 @@ date: 2015-09-30
 url: /html5-input-date-e-internacionalizacao/
 categories:
   - HTML5
-  - JavaScript
+  - Javascript
 
 ---
 Alguns navegadores como Chrome, Edge e Safari já começaram a suportar o elemento <input type=&#8221;date&#8221;> com sua nova propriedade valueAsDate. Ao invés de utilizar bibliotecas para exibição de calendário e até mesmo para tratamento de datas com internacionalização, sugiro adotar estes novos recursos HTML5 com pequenos fallbacks para navegadores que não suportam.

@@ -13,9 +13,9 @@ twittercomments:
   - 'a:0:{}'
 categories:
   - Código
-  - JavaScript
+  - Javascript
 tags:
-  - JavaScript
+  - Javascript
   - plugin
 
 ---

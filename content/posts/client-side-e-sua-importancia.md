@@ -26,7 +26,7 @@ tags:
   - Código
   - CSS
   - html
-  - JavaScript
+  - Javascript
   - server-side
 
 ---

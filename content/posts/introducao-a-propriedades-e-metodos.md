@@ -7,9 +7,9 @@ excerpt: Entendendo um pouco sobre o uso de propriedades de valores e métodos n
 url: /introducao-a-propriedades-e-metodos/
 categories:
   - Código
-  - JavaScript
+  - Javascript
 tags:
-  - JavaScript
+  - Javascript
   - metodos
   - propriedades
 

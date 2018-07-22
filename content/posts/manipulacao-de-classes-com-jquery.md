@@ -13,11 +13,11 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 594823697
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - 2012
-  - JavaScript
+  - Javascript
   - JQuery
   - Na Prática
 

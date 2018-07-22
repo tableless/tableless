@@ -13,7 +13,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503040401
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
   - bdd

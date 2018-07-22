@@ -6,7 +6,6 @@ date: 2017-10-29
 excerpt: “Mas Ember parou no tempo”... Será?!
 image: https://cdn-images-1.medium.com/max/800/1*zHcG2ZywrWKau3AAlYdS6g.jpeg
 categories:
-  - emberjs
   - javascript
 tags:
   - emberjs

@@ -8,11 +8,11 @@ url: /web-storage-html5/
 dsq_thread_id: 2168585309
 categories:
   - HTML5
-  - JavaScript
+  - Javascript
 tags:
   - api
   - html5
-  - JavaScript
+  - Javascript
   - webstorage
 
 ---

@@ -6,10 +6,10 @@ date: 2017-10-09
 excerpt: Como escrever aplicações dinâmicas, fazer requisições HTTP e interpretar JSON.
 categories:
   - Elm
-  - JavaScript
+  - Javascript
 tags:
   - Elm
-  - JavaScript
+  - Javascript
 image: https://i.imgur.com/c1hEXtl.png
 ---
 

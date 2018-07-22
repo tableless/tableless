@@ -6,10 +6,10 @@ date: 2016-08-05
 excerpt: Configurar aplicações que utilizam React pode ser uma tarefa árdua e complexa... Babel, Webpack, ESLint, Autoprefixer... Mas agora não mais! Com o Create React App, é possível configurar o projeto em menos de 2 minutos!
 url: /criando-sua-aplicacao-react-em-2-minutos/
 categories:
-  - JavaScript
+  - Javascript
   - ReactJS
 tags:
-  - JavaScript
+  - Javascript
   - ReactJS
 
 ---

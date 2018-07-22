@@ -16,10 +16,10 @@ tweetcount:
 dsq_thread_id: 767503739
 categories:
   - HTML
-  - JavaScript
+  - Javascript
 tags:
   - 2012
-  - JavaScript
+  - Javascript
 
 ---
 Nós já falamos sobre como as [imagens de seu website podem aparecer em dispositivos que utilizam tela retina ou com telas HD][1]. Até hoje não havia nenhuma alternativa de verdade para você poder fazer um chaveamento automático, até a chegada do [Retina.js][2].

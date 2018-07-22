@@ -28,7 +28,7 @@ tags:
   - internet
   - internetmovel
   - iphone
-  - JavaScript
+  - Javascript
   - navegadores
   - padroes web
   - web

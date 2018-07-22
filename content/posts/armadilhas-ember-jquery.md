@@ -6,12 +6,12 @@ date: 2017-11-07
 excerpt: O uso do JQuery em conjunto com o Ember pode trazer diversas armadilhas que vão resultar em lentidão, vazamento de memória e outros problemas.
 image: https://i.imgur.com/WUn7weZ.jpg
 categories:
-  - JavaScript
+  - Javascript
   - front-end
 tags:
+  - reactjs
   - jquery
   - emberjs
-  - reactjs
   - Frameworks Javascript
 ---
 

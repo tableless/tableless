@@ -6,9 +6,9 @@ date: 2016-04-18
 excerpt: Manipule facilmente suas classes com o uso da classList API, uma API pequena e simples, porem de grande utilidade.
 url: /manipulando-o-uso-de-classes-com-classlist-api/
 categories:
-  - JavaScript
+  - Javascript
 tags:
-  - JavaScript
+  - Javascript
 
 ---
 Uma tarefa muito simples de se fazer com o JQuery, é a troca e manipulação de classes nos elementos HTML. Talvez você não saiba, mas é tão fácil quanto fazer essas manipulações usando JavaScript puro. Para tanto, vamos usar a API classList do JavaScript. Assim como as conhecidas funções `addClass()`, `removeClass()`, `hasClass()` e o `toggleClass()` do nosso conhecido Jquery, possuímos métodos nativos que executam a mesma função.

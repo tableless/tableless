@@ -11,14 +11,14 @@ categories:
   - NodeJS
   - MongoDB
   - Express
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - NodeJS
   - KingHost
   - MongoDB
   - Express
-  - JavaScript
+  - Javascript
 ---
 
 A [KingHost](https://www.kinghost.com.br/?utm_source=parceiros&utm_medium=anuncio&utm_term=&utm_content=tableless-node-home&utm_campaign=oferta-produto&sa=D&ust=1514955708138000&usg=AFQjCNFJeCLPKRfqKIQ63iNQtzTYZDEUaA) está sempre buscando entregar, além de um produto de qualidade, inovação em tudo o que faz. E sempre pensando no que o desenvolvedor, como eu, precisa para focar apenas no desenvolvimento. Por isso a importância de uma infraestrutura planejada para o [Node.js](https://www.kinghost.com.br/node-js?utm_source=parceiros&utm_medium=anuncio&utm_term=&utm_content=tableless-node-hospnode&utm_campaign=oferta-produto&sa=D&ust=1514955708139000&usg=AFQjCNGft3GYAi9uVnpUKwF6-oqfindYQQ).

@@ -9,7 +9,7 @@ dsq_thread_id: 1066395256
 categories:
   - Código
   - HTML
-  - JavaScript
+  - Javascript
 
 ---
 Já foi o tempo que nossas aplicações web e sites eram compostos apenas por arquivos HTML e um ou outro CSS e JS. Hoje temos pré-processadores CSS, minificadores, [ferramentas de validação de JavaScript][1], grids, boilerplates, bootstraps e até mesmo JavaScript no servidor. 

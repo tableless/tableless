@@ -20,7 +20,7 @@ categories:
   - CSS3
   - HTML
   - HTML5
-  - JavaScript
+  - Javascript
   - JQuery
   - Mercado
   - Tecnologia e Tendências
@@ -28,7 +28,7 @@ tags:
   - Browsers
   - desenvolvimento
   - DOM
-  - JavaScript
+  - Javascript
   - JQuery
   - navegadores
   - performance

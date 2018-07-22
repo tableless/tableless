@@ -8,7 +8,7 @@ url: /introducao-ao-electron/
 categories:
   - Código
   - NodeJS
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
   - github
 tags:
@@ -18,7 +18,7 @@ tags:
   - github
   - gulp
   - html
-  - JavaScript
+  - Javascript
   - NodeJS
   - slack
 ---

@@ -8,11 +8,11 @@ url: /tamanho-da-tela-e-tamanho-da-janela-com-js/
 image: https://i.imgur.com/9Bm1wOZ.jpg
 categories:
   - Adaptive Web Design (AWD)
-  - JavaScript
+  - Javascript
   - Mobile
   - Responsive Web Design (RWD)
 tags:
-  - JavaScript
+  - Javascript
   - js
   - Mobile
 ---

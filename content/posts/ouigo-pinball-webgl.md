@@ -6,11 +6,11 @@ date: 2017-07-31
 excerpt: Um pinball rodando direto do seu browser.
 categories:
   - webgl
-  - JavaScript
+  - Javascript
   - Browser
 tags:
   - webgl
-  - JavaScript
+  - Javascript
   - Browser
 image: http://i.imgur.com/WIGQpbR.png
 ---

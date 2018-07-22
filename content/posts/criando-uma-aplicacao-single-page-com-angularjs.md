@@ -8,7 +8,7 @@ url: /criando-uma-aplicacao-single-page-com-angularjs/
 dsq_thread_id: 2724224676
 categories:
   - Artigos
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 tags:
   - angularjs

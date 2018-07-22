@@ -5,9 +5,9 @@ type: post
 date: 2016-01-12
 url: /gerenciando-modulos-no-typescript/
 categories:
-  - JavaScript
+  - Javascript
 tags:
-  - JavaScript
+  - Javascript
   - módulos
   - requirejs
   - typescript

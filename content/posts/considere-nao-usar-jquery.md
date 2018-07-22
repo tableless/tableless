@@ -9,10 +9,10 @@ dsq_thread_id: 2279023221
 titulo_personalizado:
   - 'E se você tentasse utilizar <strong>menos jQuery?</strong>'
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
 tags:
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

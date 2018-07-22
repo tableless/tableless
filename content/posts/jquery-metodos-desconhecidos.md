@@ -13,12 +13,12 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 559084614
 categories:
-  - JavaScript
+  - Javascript
   - JQuery
   - Técnicas e Práticas
 tags:
   - 2012
-  - JavaScript
+  - Javascript
   - JQuery
 
 ---

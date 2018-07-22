@@ -7,7 +7,7 @@ date: 2018-04-21
 excerpt: Autenticação de usuário com o Firebase Auth
 categories:
   - Artigos
-  - JavaScript
+  - Javascript
   - Tecnologia e Tendências
 tags:
   - FireBase

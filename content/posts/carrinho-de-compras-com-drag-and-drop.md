@@ -7,7 +7,7 @@ excerpt: O mercado de e-commerce não para de crescer e este crescimento vem aco
 url: /carrinho-de-compras-com-drag-and-drop/
 categories:
   - front-end
-  - JavaScript
+  - Javascript
 tags:
   - JQuery
   - jquery-ui

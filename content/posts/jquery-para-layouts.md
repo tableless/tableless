@@ -17,7 +17,7 @@ dsq_thread_id: 503039835
 categories:
   - CSS
   - HTML
-  - JavaScript
+  - Javascript
   - JQuery
   - Técnicas e Práticas
 tags:

@@ -7,10 +7,10 @@ excerpt: Um exemplo prático de como criar seu primeiro código com o Create Rea
 aliases:
   - /criando-sua-primeira-aplicacao-web-com-react/
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - ES6
-  - JavaScript
+  - Javascript
   - react
 
 ---

@@ -6,14 +6,14 @@ date: 2017-12-07
 excerpt: Aprenda passo-a-passo a fazer uma versão simplificada do Blockchain em JavaScript
 image: https://cdn-images-1.medium.com/max/2000/1*ardJWR21kRS5DoLJRAunug.jpeg
 categories:
-  - JavaScript
+  - Javascript
   - Bitcoin
   - Na prática
 tags:
   - tutorial
   - Bitcoin
   - blockchain
-  - JavaScript
+  - Javascript
   - Blockchain
   - Bitcoin
 ---

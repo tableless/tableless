@@ -10,7 +10,7 @@ categories:
   - CSS
   - CSS3
   - Editores
-  - JavaScript
+  - Javascript
   - O Básico
 tags:
   - 2013

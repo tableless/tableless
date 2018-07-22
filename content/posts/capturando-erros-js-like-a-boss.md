@@ -14,11 +14,11 @@ twittercomments:
 dsq_thread_id: 970809508
 categories:
   - Código
-  - JavaScript
+  - Javascript
 tags:
   - aprenda
   - desenvolvimento web
-  - JavaScript
+  - Javascript
 
 ---
 O evento **onerror** é disparado quando há erros no script. Estes erros geralmente pertencem a duas categorias:

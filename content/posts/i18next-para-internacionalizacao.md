@@ -5,11 +5,11 @@ type: post
 date: 2014-10-20
 url: /i18next-para-internacionalizacao/
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - i18next
   - internacionalizacao
-  - JavaScript
+  - Javascript
 
 ---
 Eu nunca me importei até que em um belo dia, um cliente teve essa necessidade e foi aí que precisei pensar, pesquisar e aprender sobre internacionalização. Participei de um projeto para a copa do mundo e o conteúdo deveria ser suportado por no mínimo 3 linguas diferentes: o inglês, espanhol e o português. Mas eu nunca tinha feito nada multilinguagem e nesse momento quase bateu o desespero. Acho que a pior dificuldade foi de me expressar, porque até então eu não tinha noção de que o termo **internacionalização** seria a palavra chave pra isso tudo.

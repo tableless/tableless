@@ -9,7 +9,7 @@ categories:
   - Browsers
   - Editores
   - HTML
-  - JavaScript
+  - Javascript
   - O Básico
 tags:
   - chrome

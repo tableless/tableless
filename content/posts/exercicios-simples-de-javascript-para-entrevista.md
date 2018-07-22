@@ -7,12 +7,12 @@ excerpt: Nesse artigo iremos ver alguns exercícios simples e rápidos de JavaSc
 url: /exercicios-simples-de-javascript-para-entrevista/
 categories:
   - Artigos
-  - JavaScript
+  - Javascript
   - Traduções
 tags:
   - Adriel
   - entrevista
-  - JavaScript
+  - Javascript
   - traducoes
   - Wendell
   - Wendell Adriel

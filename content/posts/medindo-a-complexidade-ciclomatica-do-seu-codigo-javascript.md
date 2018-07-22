@@ -7,12 +7,12 @@ excerpt: Você sabe o que é complexidade ciclomática? E você sabia que já é
 url: /medindo-a-complexidade-ciclomatica-do-seu-codigo-javascript/
 dsq_thread_id: 1407418323
 categories:
-  - JavaScript
+  - Javascript
 tags:
   - 2013
   - codigo
   - complexidade javascript
-  - JavaScript
+  - Javascript
 
 ---
 Já mostramos aqui no Tableless [ferramentas para testes][1] e [ferramentas para garantir o padrão do seu código JavaScript][2], mas, enquanto esses utilitários asseguram uma consistência maior, eles nem sempre acabam com complexidades desnecessárias.

@@ -6,7 +6,7 @@ date: 2017-11-14
 excerpt: O rápido avanço da tecnologia transforma funções e exige novos profissionais a cada dia.
 image: https://i.imgur.com/d3Q3qST.jpg
 categories:
-  - JavaScript
+  - Javascript
   - BackboneJS
   - ReactJS
   - Bootstrap

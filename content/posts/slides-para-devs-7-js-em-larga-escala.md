@@ -11,6 +11,6 @@ categories:
 tags:
   - 2013
   - apresentacoes
-  - JavaScript
+  - Javascript
 
 ---

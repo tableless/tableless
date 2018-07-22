@@ -7,7 +7,7 @@ excerpt: NodeSchool, um workshop de código aberto, presencial ou online.
 url: /nodeschool-um-jeito-facil-para-aprender-node-e-javascript/
 categories:
   - Código
-  - JavaScript
+  - Javascript
   - Técnicas e Práticas
 
 ---

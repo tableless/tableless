@@ -6,14 +6,14 @@ date: 2016-11-08
 url: /trabalhando-com-servicos-no-javascript/
 categories:
   - Código
-  - JavaScript
+  - Javascript
   - O Básico
   - Técnicas e Práticas
 tags:
   - design patterns
   - ecmascript
   - ES6
-  - JavaScript
+  - Javascript
   - Node
 
 ---

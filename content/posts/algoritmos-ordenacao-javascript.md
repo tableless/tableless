@@ -5,7 +5,7 @@ type: post
 date: 2017-09-04
 excerpt: Insert sort, selection sort, quick sort, etc. Legal, mas onde esses algoritmos são aplicados de fato no seu JavaScript?
 categories:
-  - JavaScript
+  - Javascript
   - Na Prática
 image: https://i.imgur.com/sZptluM.jpg
 ---
