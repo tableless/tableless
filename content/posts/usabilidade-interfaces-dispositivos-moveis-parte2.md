@@ -10,7 +10,7 @@ categories:
 tags:
   - usabilidade
   - Acessibilidade
-  - Mercado e Comportamento
+  - Mercado
   - Mobile
   - Tecnologia e Tendências
   - UX

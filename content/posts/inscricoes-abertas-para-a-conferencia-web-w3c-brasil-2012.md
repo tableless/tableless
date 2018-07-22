@@ -13,7 +13,7 @@ twittercomments:
 dsq_thread_id: 858838633
 categories:
   - Geral
-  - Mercado e Comportamento
+  - Mercado
   - Notícias
   - Tecnologia e Tendências
 

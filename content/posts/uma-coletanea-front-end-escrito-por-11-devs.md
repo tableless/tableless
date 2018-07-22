@@ -8,7 +8,7 @@ url: /uma-coletanea-front-end-escrito-por-11-devs/
 dsq_thread_id: 2576401067
 categories:
   - Geral
-  - Mercado e Comportamento
+  - Mercado
   - Técnicas e Práticas
 tags:
   - 2014

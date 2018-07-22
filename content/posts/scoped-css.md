@@ -10,7 +10,7 @@ categories:
   - CSS
   - HTML
   - HTML5
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - CSS

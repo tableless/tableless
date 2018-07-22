@@ -5,11 +5,11 @@ type: post
 date: 2017-02-19
 categories:
   - Opinião
-  - Mercado e Comportamento
+  - Mercado
   - Carreira
 tags:
   - Opinião
-  - Mercado e Comportamento
+  - Mercado
   - Carreira
 ---
 Aqui estão conselhos de um simples programador ou apenas algumas situações que vivenciei na minha vida.

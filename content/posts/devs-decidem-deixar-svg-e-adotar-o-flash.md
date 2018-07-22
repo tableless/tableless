@@ -16,7 +16,7 @@ tweetcount:
   - 68
 dsq_thread_id: 631919121
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - abril

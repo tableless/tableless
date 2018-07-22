@@ -7,7 +7,7 @@ excerpt: A plataforma foi lançada em 2007, e em 2009 já havia conquistado a li
 url: /introducao-ao-magento/
 categories:
   - CMS
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - cms
   - e-commerce

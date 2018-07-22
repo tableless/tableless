@@ -8,11 +8,11 @@ image: https://i.imgur.com/KMGoRNo.jpg
 sponsor: kinghost
 categories:
   - Carreira
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - Carreira
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 ---
 

@@ -6,11 +6,9 @@ date: 2015-02-26
 excerpt: Dicas para você que está iniciando na carreira de desenvolvedor ou na área de T.I.
 url: /dicas-valiosas-para-sua-carreira/
 categories:
-  - Mercado e Comportamento
+  - Carreira
 tags:
-  - carreira
-  - mercado
-
+  - Mercado
 ---
 Então você é aquele cara aficcionado por tecnologia e está cursando ou já cursou sistemas da informação, análise de sistemas, engenharia da computação ou qualquer outro dos 1300 nomes de cursos que essa área deve ter. Você se depara com um mundo de oportunidades: desenvolvimento, segurança, banco de dados, suporte, etc.
 

@@ -8,7 +8,7 @@ excerpt: Começa de vez a Era dos Wearables. Mas nos deixando nus
 url: /google-da-cabeca-aos-pes/
 dsq_thread_id: 2797471737
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 
 ---

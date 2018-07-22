@@ -14,7 +14,7 @@ categories:
   - CSS
   - CSS3
   - HTML
-  - Mercado e Comportamento
+  - Mercado
   - Mobile
   - O Básico
   - Responsive Web Design (RWD)

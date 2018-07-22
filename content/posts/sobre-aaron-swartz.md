@@ -7,12 +7,9 @@ image: https://i.imgur.com/to4C8Jt.jpg
 excerpt: Só um pensamento rápido sobre Aaron Swartz.
 url: /sobre-aaron-swartz/
 categories:
-  - Mercado e Comportamento
   - Opinião
-  - Destaques
 tags:
-  - mercado e comportamento
-  - opiniao
+  - mercado
   - carreira
 ---
 

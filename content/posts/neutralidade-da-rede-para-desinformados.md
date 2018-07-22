@@ -11,14 +11,14 @@ categories:
   - Notícias
   - Tecnologia e Tendências
   - W3C
-  - Mercado e Comportamento
+  - Mercado
   - Artigos
 tags:
   - neutralidade-rede
   - w3c
   - noticias
   - Tecnologia e Tendências
-  - Mercado e Comportamento
+  - Mercado
 ---
 
 A Web só consegue ser do jeito que você conhece, pois a internet foi construída tendo como base a privacidade e o livre tráfego de informação. Isso quer dizer que você pode visitar qualquer site, ler qualquer texto, expressar sua opinião, assistir, gravar, criar conteúdo e fazer qualquer (ui!) coisa que desejar, sem precisar realmente se expor.

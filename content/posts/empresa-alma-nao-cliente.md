@@ -7,7 +7,7 @@ excerpt: Alguns clientes confundem a postura pessoal com a profissional, o probl
 url: /empresa-alma-nao-cliente/
 dsq_thread_id: 1790242449
 categories:
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - centrado
   - dcu

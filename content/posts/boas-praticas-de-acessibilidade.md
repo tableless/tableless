@@ -9,7 +9,7 @@ categories:
   - HTML
 tags:
   - acessibilidade
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 ---
 Preparei uma pequena (nem tão pequena assim) apresentação que mostra algumas boas práticas e técnicas sobre acessibilidade para sistemas e websites. São pequenos ajustes que podemos incorporar mesmo depois de todo o desenvolvimento pronto e que dão resultados importantes para adequação dos seus sites ou sistemas.

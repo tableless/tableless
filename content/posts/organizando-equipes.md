@@ -7,7 +7,7 @@ excerpt: Sobre organizar equipes multifuncionais em uma empresa gigante.
 url: /organizando-equipes/
 categories:
   - Artigos
-  - Mercado e Comportamento
+  - Mercado
 
 ---
 Não existem muitas maneiras de organizar um time de desenvolvimento, eu posso citar basicamente duas: ou você agrupa os integrantes de acordo com suas funções, formando os famosos times “funcionais” (ou silos), ou você organiza os times agrupando os integrantes que tenham funções diferentes, formando times multifuncionais.

@@ -7,14 +7,14 @@ date: 2018-01-23
 image: https://i.imgur.com/txUvq04.jpg
 excerpt: Toda escolha é um tradeoff
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Agile
   - Tecnologia e Tendências
   - Artigos
 tags:
   - agile
   - Tecnologia e Tendências
-  - Mercado e Comportamento
+  - Mercado
 ---
 
 

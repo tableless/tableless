@@ -9,7 +9,7 @@ url: /este-post-vai-explodir-seus-ouvidos-veja-3-motivos/
 dsq_thread_id: 2714039291
 categories:
   - Artigos
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 
 ---

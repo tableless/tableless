@@ -6,7 +6,7 @@ date: 2015-07-23
 excerpt: 'Depois de algum tempo de experiência, posso deixar uma dica para quem quer crescer profissionalmente: Trabalhe ao lado de gente boa.'
 url: /trabalhe-ao-lado-de-gente-boa-e-seja-a-gente-boa/
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Opinião
 tags:
   - comportamento

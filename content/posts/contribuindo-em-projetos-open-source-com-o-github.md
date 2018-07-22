@@ -7,7 +7,7 @@ excerpt: Conheça os primeiros passos para contribuir para projetos pelo GitHub.
 url: /contribuindo-em-projetos-open-source-com-o-github/
 dsq_thread_id: 1409976107
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - O Básico
   - Técnicas e Práticas
   - Tecnologia e Tendências

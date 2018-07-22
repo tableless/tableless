@@ -7,7 +7,7 @@ excerpt: A sigla UX não é exclusividade de um profissional específico. Só pa
 url: /o-nome-ux-esta-errado/
 categories:
   - Design
-  - Mercado e Comportamento
+  - Mercado
   - Opinião
   - UX
 tags:

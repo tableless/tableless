@@ -6,7 +6,7 @@ date: 2015-03-17
 excerpt: Uma campanha para ajudar o Leonardo Konarzewski a vencer um câncer raro.
 url: /front-end-united-leo-kzw/
 categories:
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - frontendunited
   - leokzw

@@ -11,7 +11,7 @@ categories:
   - Artigos
   - epub
   - Código
-  - Mercado e Comportamento
+  - Mercado
   - Técnicas e Práticas
   - Tecnologia e Tendências
 tags:

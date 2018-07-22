@@ -7,7 +7,7 @@ excerpt: O mercado web no Brasil vai bem,  mas não para todos. O profissionais
 url: /o-que-acontece-abaixo-da-linha-horizonte-dos-freelas/
 dsq_thread_id: 2646256022
 categories:
-  - Mercado e Comportamento
+  - Mercado
 
 ---
 Atender a uma empresa organizada, chamada de TOP é o sonho de 10 entre cada 10  profissionais de TI. Quando digo uma empresa organizada não quero dizer tamanho da empresa, pois já ví micro e pequenas empresas com organização exemplar e o resultado da organização é saber o que quer. O oposto seria uma empresa desorganizada, do tipo de cliente mais difícil (e as vezes impossível) de atender: Aquele que não sabe o que quer.

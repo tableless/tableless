@@ -7,7 +7,7 @@ url: /qual-o-seu-valor-como-designer/
 dsq_thread_id: 1864749289
 categories:
   - Design
-  - Mercado e Comportamento
+  - Mercado
 
 ---
 Os designers hoje tem como pauta principal pra discutir a profissão o “sobrinho do corel” ou “o illustrator é melhor que corel”. E ao mesmo tempo reclamam da falta de respeito que a profissão sofre. O que me surpreende não é o fato dos dois primeiros assunto serem completamente banais para o reconhecimento, mas que se pretende chegar ao objetivo de ser respeitado sem, muitas vezes, lutar por ele. E o pior, sem ao menos respeitar a si próprio como profissional.

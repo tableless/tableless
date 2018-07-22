@@ -13,7 +13,7 @@ categories:
   - Opinião
   - Traduções
   - Na Prática
-  - Mercado e Comportamento
+  - Mercado
   - Artigos
   - Código
 tags:

@@ -17,7 +17,7 @@ dsq_thread_id: 636657426
 categories:
   - Acessibilidade
   - Artigos
-  - Mercado e Comportamento
+  - Mercado
   - Notícias
   - Tecnologia e Tendências
 tags:

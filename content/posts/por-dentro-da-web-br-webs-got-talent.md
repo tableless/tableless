@@ -9,7 +9,7 @@ dsq_thread_id: 1909986750
 categories:
   - Notícias
 tags:
-  - Mercado e Comportamento
+  - Mercado
   - concurso
   - conference
   - open web platform

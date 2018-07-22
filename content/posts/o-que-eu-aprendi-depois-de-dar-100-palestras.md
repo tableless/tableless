@@ -7,7 +7,7 @@ excerpt: Olá! Meu nome é Zeno Rocha. Ao longo dos últimos anos, aprendi muito
 image: https://i.imgur.com/Lg9LTcI.jpg
 categories:
   - Geral
-  - Mercado e Comportamento
+  - Mercado
   - Técnicas e Práticas
   - Tecnologia e Tendências
 ---

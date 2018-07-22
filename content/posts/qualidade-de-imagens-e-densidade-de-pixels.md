@@ -7,7 +7,7 @@ excerpt: Entenda melhor sobre densidade de pixels em aparelhos como o iPhone 4 e
 url: /qualidade-de-imagens-e-densidade-de-pixels/
 categories:
   - Acessibilidade
-  - Mercado e Comportamento
+  - Mercado
   - Mobile
   - Técnicas e Práticas
   - Tecnologia e Tendências

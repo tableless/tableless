@@ -8,7 +8,7 @@ url: /livro-guia-de-front-end-o-caminho-das-pedras/
 categories:
   - Código
   - Geral
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - livro
 

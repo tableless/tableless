@@ -8,7 +8,7 @@ excerpt: Quando você começa a trabalhar na área de criação, tende a sofrer 
 url: /porque-voce-nao-deveria-se-focar-demais-trabalho/
 dsq_thread_id: 2820053369
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Carreira
   - Opinião
 ---

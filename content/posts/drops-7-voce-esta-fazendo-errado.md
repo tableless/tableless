@@ -16,7 +16,7 @@ tweetcount:
 dsq_thread_id: 637139220
 categories:
   - Drops
-  - Mercado e Comportamento
+  - Mercado
   - Podcasts
   - Tecnologia e Tendências
 tags:

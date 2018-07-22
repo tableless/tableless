@@ -9,7 +9,7 @@ categories:
   - design
 tags:
   - usabilidade
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
   - UX
   - experiência do usuário

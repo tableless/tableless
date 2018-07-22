@@ -7,17 +7,13 @@ excerpt: Anotações da palestra do Zeno Rocha no evento 16 Encontro Locaweb
 url: /anotacoes-palestra-16elw-zeno-rocha/
 dsq_thread_id: 2615162282
 categories:
-  - Artigos
-  - Eventos e Workshops
+  - Carreira
   - Notícias
+  - Eventos e Workshops
 tags:
-  - anotacoes
-  - carreira
-  - CSS
-  - html
-  - mercado
   - palestras
-
+  - empreendedorismo
+  - mercado
 ---
 Essas foram as minhas anotações que extrai da palestra que o [Zeno Rocha][1] fez no 16 Encontro Locaweb de Curitiba em 2014. 
 

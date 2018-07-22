@@ -17,7 +17,7 @@ dsq_thread_id: 503040338
 categories:
   - Browsers
   - HTML
-  - Mercado e Comportamento
+  - Mercado
   - Mobile
   - Tecnologia e Tendências
 tags:

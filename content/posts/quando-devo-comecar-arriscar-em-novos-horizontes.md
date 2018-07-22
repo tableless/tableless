@@ -5,12 +5,12 @@ type: post
 date: 2016-10-29
 url: /quando-devo-comecar-arriscar-em-novos-horizontes/
 categories:
-  - Mercado e Comportamento
+  - Carreira
+  - Opinião
 tags:
+  - mercado
   - arriscar
   - carreira
-  - zona de conforto
-
 ---
 Creio que todos já se pegaram fazendo a pergunta do título.
 

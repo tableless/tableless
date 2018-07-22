@@ -10,7 +10,7 @@ categories:
   - Opinião
 tags:
   - ferramentas
-  - Mercado e Comportamento
+  - Mercado
 ---
 Felizmente vem pouco a pouco entrando nas pautas de desenvolvimento um conceito que já é adotado mundialmente principalmente encabeçado pelas desenvolvedoras de software livre: _O conceito de intercomunicação entre aplicações e intercomunicação entre ecossistemas diferentes_, como softwares online com desktop, desktop para desktop e online para online. E isso certamente é um grande progresso a nível de Brasil.
 

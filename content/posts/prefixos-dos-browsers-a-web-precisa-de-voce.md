@@ -15,7 +15,7 @@ tweetcount:
   - 128
 dsq_thread_id: 574353149
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Notícias
   - Tecnologia e Tendências
 tags:

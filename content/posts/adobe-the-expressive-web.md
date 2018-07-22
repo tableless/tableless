@@ -10,7 +10,7 @@ categories:
   - Notícias
 tags:
   - Tecnologia e Tendências
-  - Mercado e Comportamento
+  - Mercado
   - CSS3
   - adobe
   - html5

@@ -9,10 +9,10 @@ image: https://i.imgur.com/Uv1OpwA.jpg
 sponsor: kinghost
 categories:
   - Carreira
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - Carreira
-  - Mercado e Comportamento
+  - Mercado
 ---
 
 Equipe toda reunida para validação e deploy das novas features desenhadas para o

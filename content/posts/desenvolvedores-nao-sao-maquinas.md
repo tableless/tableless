@@ -5,7 +5,7 @@ type: post
 date: 2015-07-30
 url: /desenvolvedores-nao-sao-maquinas/
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Opinião
 tags:
   - comportamento

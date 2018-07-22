@@ -6,7 +6,7 @@ date: 2016-11-29
 url: /por-que-desenvolvedoresprogramadores-usam-twitter/
 categories:
   - Opinião
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - programadores
   - twitter

@@ -12,7 +12,7 @@ categories:
   - Artigos
   - CSS3
   - Geral
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - CSS

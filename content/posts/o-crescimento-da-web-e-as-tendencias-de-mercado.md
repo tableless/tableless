@@ -8,7 +8,7 @@ url: /o-crescimento-da-web-e-as-tendencias-de-mercado/
 dsq_thread_id: 2740261411
 categories:
   - Artigos
-  - Mercado e Comportamento
+  - Mercado
 
 ---
 Nos últimos anos, temos acompanhado um crescimento espantoso da Web no Brasil. Hoje em dia, falar-se sobre sistemas funcionando através da internet, é mais comum do que imaginamos, às vezes chega à ser espantoso. Por exemplo, quando estamos na faculdade e vamos discutir ideias de projetos para conclusão do curso, ou simplesmente para projetos que possam nos dar dinheiro (digamos assim), sempre ouviremos alguém dizendo: &#8220;E se fizéssemos isso funcionando pela Web&#8221;.

@@ -8,7 +8,7 @@ url: /champfrogs-10-desejos-intrinsecos/
 dsq_thread_id: 1855855034
 categories:
   - Gestão
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - gestão de pessoas
   - liderança

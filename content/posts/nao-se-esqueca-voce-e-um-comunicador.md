@@ -8,7 +8,7 @@ excerpt: Comunicação é o objetivo final do nosso trabalho. E o meio pelo qual
 url: /nao-se-esqueca-voce-e-um-comunicador/
 dsq_thread_id: 2842469122
 categories:
-  - Mercado e Comportamento
+  - Mercado
 
 ---
 Se você já está há alguns anos na profissão de fazer websites, provavelmente percebeu que o cerne do seu trabalho é a comunicação, não necessariamente a tecnologia.

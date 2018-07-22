@@ -6,7 +6,7 @@ type: post
 date: 2015-10-28
 url: /palestras-99-inspiracao-e-1-novidade/
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - Opinião
 ---
 

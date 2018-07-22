@@ -15,7 +15,7 @@ dsq_thread_id: 824445143
 categories:
   - Acessibilidade
   - Artigos
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
   - UX
 tags:

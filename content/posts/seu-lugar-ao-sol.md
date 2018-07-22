@@ -16,7 +16,7 @@ categories:
   - Acessibilidade
   - Código
   - HTML
-  - Mercado e Comportamento
+  - Mercado
   - Mobile
   - Tecnologia e Tendências
 tags:

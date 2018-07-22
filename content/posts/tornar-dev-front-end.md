@@ -9,7 +9,7 @@ dsq_thread_id: 1834589356
 categories:
   - Artigos
   - Código
-  - Mercado e Comportamento
+  - Mercado
   - O Básico
 tags:
   - basico

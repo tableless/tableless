@@ -6,7 +6,7 @@ date: 2016-01-27
 excerpt: Entenda o que é SEO e o que torna essa profissão promissora.
 url: /trabalho-na-area-de-seo/
 categories:
-  - Mercado e Comportamento
+  - Mercado
   - SEO
 tags:
   - SEO

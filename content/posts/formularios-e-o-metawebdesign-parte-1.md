@@ -20,7 +20,7 @@ categories:
   - HTML
   - JavaScript
   - JQuery
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - design de interação

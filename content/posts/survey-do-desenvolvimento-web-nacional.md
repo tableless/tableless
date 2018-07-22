@@ -8,7 +8,7 @@ url: /survey-do-desenvolvimento-web-nacional/
 dsq_thread_id: 1410990793
 categories:
   - Geral
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
 tags:
   - 2013

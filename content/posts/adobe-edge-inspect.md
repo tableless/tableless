@@ -9,7 +9,7 @@ categories:
   - HTML
 tags:
   - ferramentas
-  - Mercado e Comportamento
+  - Mercado
   - Tecnologia e Tendências
   - adobe
   - desenvolvimento

@@ -9,7 +9,7 @@ image: https://i.imgur.com/2vabSUQ.jpg
 categories:
   - ReactJS
   - Na prática
-  - Mercado e Comportamento
+  - Mercado
 tags:
   - javascript
   - reactijs
