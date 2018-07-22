@@ -1,10 +1,10 @@
 +++
 authors = "Diego Eis"
-categories = ["mercado", "opinião"]
+categories = ["carreira", "opinião"]
 date = "2018-07-22T19:10:47+00:00"
 excerpt = "O perfil do desenvolvedor front-end mudou e se transformou em dois (talvez mais)\nperfis diferentes. Entenda como tudo começou e saiba em qual perfil você se\nencaixa mais."
 image = "https://i.imgur.com/k12zslh.jpg"
-tags = ["carreira"]
+tags = ["mercado"]
 title = "Os dois tipos de front-end: design e o engineer — Parte 1 : Uma breve história"
 type = "post"
 
