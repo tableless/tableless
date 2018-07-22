@@ -15,26 +15,27 @@ disableLiveReload = true
 
 [taxonomies]
     category = "categories"
+    tag = "tags"
     author = "authors"
 
 [related]
     threshold = 90
-    includeNewer = false
+    includeNewer = true
     toLower = false
 
     [[related.indices]]
     name  = "categories"
-    weight = 70
+    weight = 40
+    [[related.indices]]
+    name  = "tags"
+    weight = 30
     [[related.indices]]
     name  = "title"
-    weight = 50
+    weight = 15
     [[related.indices]]
     name  = "author"
     toLower = true
-    weight = 30
-    [[related.indices]]
-    name  = "tags"
-    weight = 20
+    weight = 15
 
 
 [params]
