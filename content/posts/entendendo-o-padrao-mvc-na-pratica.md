@@ -7,11 +7,10 @@ excerpt: Exemplo prático utilizando PHP e Composer para separar o código entre
 url: /entendendo-o-padrao-mvc-na-pratica/
 categories:
   - back-end
-  - PHP
 tags:
+  - php
   - composer
   - mvc
-  - php
   - php-fig
 
 ---

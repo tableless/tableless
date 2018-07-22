@@ -6,9 +6,11 @@ date: 2015-03-16
 url: /alergia-sql/
 categories:
   - back-end
+tags:
   - Código
   - Técnicas e Práticas
-
+  - banco de dados
+  - sql
 ---
 ## Introdução
 

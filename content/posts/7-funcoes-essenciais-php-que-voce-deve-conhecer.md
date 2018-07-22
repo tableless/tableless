@@ -7,12 +7,11 @@ excerpt: Arranjos, datas, laços e outras práticas para facilitar a programaç�
 url: /7-funcoes-essenciais-php-que-voce-deve-conhecer/
 categories:
   - back-end
-  - Código
-  - O Básico
-  - PHP
+  - php
 tags:
   - php
-
+  - Código
+  - O Básico
 ---
 ## range()
 

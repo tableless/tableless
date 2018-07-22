@@ -5,8 +5,9 @@ type: post
 date: 2015-11-26
 url: /o-perfil-t-shaped-e-o-dev-full-stack/
 categories:
-  - Geral
-
+  - Carreira
+tags:
+  - fullstack
 ---
 A Valve é uma das maiores empresas de games do mercado. Na verdade, como eles mesmos dizem, eles não são apenas uma empresa de games: 
 

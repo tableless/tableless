@@ -6,15 +6,11 @@ date: 2016-01-14
 excerpt: Uma breve introdução da biblioteca Turn.js para fazer efeitos de páginas de livros no seu front-end.
 url: /criando-efeitos-de-paginas-de-livro-no-seu-front-end/
 categories:
-  - Código
-  - HTML5
-  - JavaScript
+  - javascript
   - JQuery
-  - UX
 tags:
-  - html5
-  - JavaScript
   - JQuery
+  - html5
 
 ---
 O <a href="http://www.turnjs.com/" target="_blank">Turn.js</a> é uma biblioteca JavaScript que faz o conteúdo parecer um livro ou revista de verdade, usando as vantagens do HTML5.

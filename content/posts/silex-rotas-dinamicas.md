@@ -3,19 +3,14 @@ title: Rotas dinâmicas no Silex
 authors: Nando Kstro Net
 type: post
 date: 2015-07-13
-excerpt: |
-  |
-    Como trabalhar com rotas dinâmicas e métodos auxiliares no Silex PHP.
+excerpt: Como trabalhar com rotas dinâmicas e métodos auxiliares no Silex PHP.
 url: /silex-rotas-dinamicas/
 categories:
   - back-end
-  - Código
-  - O Básico
-  - PHP
 tags:
-  - framework
   - php
   - Silex
+  - framework
 
 ---
 Continuando nossa jornada sobre o **Silex Framework**, neste post falarei sobre rotas dinâmicas. Se você não está familiarizado com o Silex, confira nosso primeiro post _<a href="http://tableless.com.br/conhecendo-e-instalando-o-silex/" target="_blank">Conhecendo e instalando o Silex</a>_.

@@ -7,14 +7,12 @@ excerpt: O uso do JQuery em conjunto com o Ember pode trazer diversas armadilhas
 image: https://i.imgur.com/WUn7weZ.jpg
 categories:
   - JavaScript
-  - jquery
-  - emberjs
+  - front-end
 tags:
-  - emberjs
-  - Frameworks Javascript
   - jquery
+  - emberjs
   - reactjs
-  - events listeners
+  - Frameworks Javascript
 ---
 
 Sim! O uso do JQuery em conjunto com o Ember pode trazer diversas armadilhas que

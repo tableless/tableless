@@ -9,7 +9,6 @@ titulo_personalizado:
   - 'Vulnerabilidades em <strong>sistemas web</strong>'
 categories:
   - back-end
-  - Destaques
 
 ---
 ## O que são vulnerabilidades em sistemas web?

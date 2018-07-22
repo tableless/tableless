@@ -6,13 +6,11 @@ date: 2015-06-16
 url: /formulario-sem-model-no-cakephp-3-x/
 categories:
   - back-end
-  - Código
-  - PHP
+  - php
 tags:
+  - php
   - cakephp
   - cakephp3
-  - frameworks
-  - php
 
 ---
 Requisitos do artigos:

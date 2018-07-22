@@ -4,26 +4,16 @@ authors: Diego Eis
 type: post
 date: 2008-07-06
 url: /wordpress-include-tags/
-tweetbackscheck:
-  - 1356393097
-shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/wordpress-include-tags";s:7:"tinyurl";s:26:"http://tinyurl.com/3blm938";s:4:"isgd";s:19:"http://is.gd/KilJqu";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503038324
 categories:
-  - Técnicas e Práticas
-  - Wordpress
-tags:
-  - CSS
-  - desenvolvimento
-  - Na Prática
+  - cms
   - php
+tags:
+  - Wordpress
+  - php
+  - CSS
   - template
   - themes
-  - Wordpress
   - xhtml
-
 ---
 O [WordPress][1] tem 3 TemplatesTags para incluir elementos básicos de Cabeçalho, Coluna lateral (sidebar) e Rodapé, são eles: get\_header(), get\_sidebar() e get_footer(). Essas TemplateTags não aceitam qualquer tipo de parâmetro, portanto são simples de se aplicar. Em todos os themes do WordPress, essas 3 TemplateTags estão sempre presentes, mesmo assim, você pode modificar isso incluindo outro arquivo que não seja o padrão que o WP estabeleceu.
   

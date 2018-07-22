@@ -5,15 +5,8 @@ type: post
 date: 2015-07-29
 url: /utilizando-api-bit-ly-para-gerar-links-encurtados-para-seus-posts-wordpress/
 categories:
-  - CMS
-  - Geral
-  - PHP
-  - Wordpress
+  - cms
 tags:
-  - bit.ly
-  - permalinks
-  - php
-  - temas em wordpress
   - Wordpress
 
 ---

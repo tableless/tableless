@@ -7,21 +7,10 @@ excerpt: 'Entenda o básico do Wordpress. '
 url: /wordpress-uma-pequena-introducao/
 dsq_thread_id: 503037903
 categories:
-  - O Básico
-  - Wordpress
-tags:
-  - 2008
-  - Browsers
   - cms
-  - CSS
-  - desenvolvimento web
-  - php
-  - tags
-  - Template Tags
+tags:
   - Wordpress
-  - xhtml
-  - xml
-  - xslt
+  - php
 ---
 O WordPress não foi feito para ser um CMS. Ele foi criado primeiramente para suprir necessidades de criação de blogs. Por acaso, talvez como se fosse um acidente, começamos a utilizá-lo para criar websites, desde os mais simples até os mais complicados. O pessoal do WordPress curtiu a ideia e agora está melhorando cada vez mais o sistema para que ele se torne um CMS de verdade, mesmo assim mantendo toda a simplicidade do WordPress original. E o melhor, é tudo de graça.
 

@@ -10,8 +10,7 @@ categories:
   - PHP
   - Técnicas e Práticas
 tags:
-  - desenvolvimento
-  - framework
+  - symfony
   - php
   - phpOO
   - Symfony

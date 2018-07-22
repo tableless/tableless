@@ -4,27 +4,15 @@ authors: Diego Eis
 type: post
 date: 2008-08-21
 url: /bloginfo-template-tag/
-aktt_tweeted:
-  - 1
-aktt_notify_twitter:
-  - no
-tweetbackscheck:
-  - 1356393982
-shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/bloginfo-template-tag";s:7:"tinyurl";s:26:"http://tinyurl.com/3tfdmyq";s:4:"isgd";s:19:"http://is.gd/lUTYev";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503038409
 categories:
-  - Técnicas e Práticas
-  - Wordpress
-tags:
-  - desenvolvimento web
+  - CMS
   - php
-  - Wordpress
+tags:
+  - wordpress
+  - php
   - xhtml
-
 ---
+
 A [Template Tag Bloginfo][1] mostra informações sobre o blog. A maioria dessas informações são modificadas diretamente no painel de controle da sua instalação do WordPress. Isso pode ser utilizado em qualquer lugar do seu site. A Template Tag é a **get_bloginfo()**.
 
 Por exempo, se você precisa do nome do site para colocar em algum lugar do site, como o Logo, a sintaxe seria:

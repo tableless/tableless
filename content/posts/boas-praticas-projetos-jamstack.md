@@ -6,6 +6,8 @@ date: 2018-04-11
 excerpt: Saiba algumas boas práticas (várias já conhecidas) para projetos JAMStack
 image: https://i.imgur.com/CSyNzIJ.jpg
 categories:
+  - front-end
+tags:
   - jamstack
   - código estático
   - netlify

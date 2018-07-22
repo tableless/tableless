@@ -8,12 +8,10 @@ url: /upload-de-arquivos-com-php/
 dsq_thread_id: 2803009875
 categories:
   - back-end
-  - PHP
-tags:
-  - AJAX
   - php
-  - upload
-
+tags:
+  - php
+  - ajax
 ---
 Neste artigo vamos aprender como fazer upload de arquivos com PHP. Porém, com alguns recursos adicionais em cada exemplo.
 

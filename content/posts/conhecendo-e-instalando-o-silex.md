@@ -7,14 +7,13 @@ excerpt: O Silex é um micro framework baseado nos componentes do Symfony, criad
 url: /conhecendo-e-instalando-o-silex/
 categories:
   - back-end
-  - Código
-  - PHP
+  - php
 tags:
+  - php
+  - Symfony
+  - Silex
   - composer
   - framework
-  - php
-  - Silex
-  - Symfony
 
 ---
 O <a href="http://silex.sensiolabs.org/" target="_blank">Silex</a> é um micro framework baseado nos componentes do <a href="http://symfony.com/" target="_blank">Symfony</a>. Foi desenvolvido por <a href="http://fabien.potencier.org/" target="_blank">Fabien Potencier</a>, o mesmo criador do Symfony.

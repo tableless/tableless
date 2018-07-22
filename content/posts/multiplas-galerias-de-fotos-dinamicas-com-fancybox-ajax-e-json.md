@@ -6,14 +6,10 @@ date: 2015-02-27
 excerpt: Transferindo dados entre o PHP e Javascript do jeito certo.
 url: /multiplas-galerias-de-fotos-dinamicas-com-fancybox-ajax-e-json/
 categories:
-  - AJAX
   - JavaScript
-  - PHP
 tags:
   - AJAX
-  - fancybox
   - JavaScript
-  - js
   - php
 
 ---

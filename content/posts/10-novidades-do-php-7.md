@@ -6,12 +6,11 @@ date: 2015-09-29
 excerpt: O PHP 7 deve ser lançado até o final desde ano de 2015. Há muitas novidades. Mostro aqui 10 delas, inclusive a melhoria no desempenho
 url: /10-novidades-do-php-7/
 categories:
-  - PHP
-tags:
-  - Novidades
+  - back-end
   - php
-  - php7
-
+tags:
+  - php
+  - MySQL 
 ---
 O PHP 7 está prestes a ser lançada oficialmente, até o final deste ano de 2015.
 

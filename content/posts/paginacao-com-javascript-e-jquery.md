@@ -7,11 +7,8 @@ excerpt: Como fazer um script de paginação usando JavaScript e jQuery
 url: /paginacao-com-javascript-e-jquery/
 categories:
   - JavaScript
-  - JQuery
 tags:
-  - JavaScript
   - JQuery
-
 ---
 Algumas vezes, vamos deparar com uma situação onde é preciso fazer uma paginação sem a ajuda de uma linguagem de backend. É exatamente isso que vou ensinar aqui: fazer um sistema de paginação utilizando JavaScript , jQuery e Bootstrap.
 

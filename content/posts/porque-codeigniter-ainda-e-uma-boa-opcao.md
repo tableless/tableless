@@ -10,9 +10,8 @@ categories:
   - O Básico
   - PHP
 tags:
-  - codeigniter
-  - mvc
   - php
+  - codeigniter
 
 ---
 ## O que é Codeigniter?

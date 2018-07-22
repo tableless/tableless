@@ -7,17 +7,12 @@ excerpt: Nesse tutorial, vamos instalar e configurar o bundle Knp Paginator, par
 url: /iniciando-com-symfony-2-parte-08/
 categories:
   - back-end
-  - O Básico
-  - PHP
+  - php
   - Técnicas e Práticas
 tags:
-  - desenvolvimento
-  - framework
+  - symfony
   - php
   - phpOO
-  - Symfony
-  - Symfony2
-  - tutorial
 
 ---
 No <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-07/" title="Parte 07" target="_blank">tutorial anterior</a>, criamos um upload de imagens para servirem de capa para nossos posts, agora vamos instalar e configurar um Bundle, disponibilizado pela comunidade, para fazer a paginação de nossa página index. Para isso temos que instalar o Knp Paginator em nossa aplicação.

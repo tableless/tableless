@@ -6,7 +6,8 @@ date: 2015-03-19
 excerpt: Entenda como funcionam as convenções de nomenclatura do CakePHP.
 url: /cakephp-convencoes-de-nomenclatura-e-o-poderoso-inflector/
 categories:
-  - PHP
+  - back-end
+  - php
 tags:
   - cakephp
   - php

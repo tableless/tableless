@@ -7,18 +7,13 @@ excerpt: Entenda como o Jekyll funciona e como ele pode te ajudar a fazer websit
 url: /jekyll-servindo-sites-estaticos/
 dsq_thread_id: 1954136445
 categories:
-  - jamstack
-  - Código
-  - HTML
-  - Técnicas e Práticas
+  - front-end
 tags:
-  - html
   - jamstack
+  - Técnicas e Práticas
   - jekyll
+  - html
   - markdown
-  - ruby
-  - websites
-
 ---
 O [Tableless produz código front-end][1] HTML/CSS/JAVASCRIPT para vários tipos de clientes, grandes ou pequenos. Os clientes querem ao final do projeto arquivos estáticos, em uma estrutura de arquivos decente e código bem organizado e isso não é algo tão trivial assim.
 

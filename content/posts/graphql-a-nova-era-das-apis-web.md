@@ -6,13 +6,10 @@ publishdate: 2018-03-19
 date: 2018-03-15
 excerpt: "Uma nova categoria de ferramentas tem ganhado mercado quando falamos sobre a construção de APIs Web: estamos falando do GraphQL."
 categories:
-  - graphql
-  - nodejs
   - javascript
 tags:
   - graphql
   - nodejs
-  - javascript
 image: https://i.imgur.com/2JQG3Df.png
 ---
 

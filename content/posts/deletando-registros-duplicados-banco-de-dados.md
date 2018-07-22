@@ -8,10 +8,9 @@ url: /deletando-registros-duplicados-banco-de-dados/
 dsq_thread_id: 2092800532
 categories:
   - back-end
-  - Código
 tags:
-  - banco de dados
   - mysql
+  - banco de dados
   - sql
 
 ---

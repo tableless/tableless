@@ -7,17 +7,12 @@ excerpt: Nesse tutorial vamos estruturar e estilizar nossas páginas com Bootstr
 url: /iniciando-com-symfony-2-parte-06/
 categories:
   - back-end
-  - O Básico
-  - PHP
+  - php
   - Técnicas e Práticas
 tags:
-  - desenvolvimento
-  - framework
+  - symfony
   - php
   - phpOO
-  - Symfony
-  - Symfony2
-  - tutorial
 
 ---
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/capa.png" alt="Symfony e Twig" width="750" height="403" class="alignnone size-full wp-image-47950" />][1]
