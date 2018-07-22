@@ -7,9 +7,9 @@ date: 2018-04-23
 excerpt: Como o React Native realmente funciona por baixo dos panos
 image: https://i.imgur.com/r8YDSgE.jpg
 categories:
-  - ReactJS
   - javascript
-  - Mobile
+tagS:
+  - reactjs
   - Tecnologias e tendências
 ---
 

@@ -5,12 +5,10 @@ type: post
 date: 2017-07-18
 excerpt: Você ouve falar frequentemente sobre o React mas sabe pouco sobre ele?
 categories:
-  - reactjs
   - javascript
 tags:
-  - javascript
-  - nodejs
   - reactjs
+  - nodejs
 image: http://i.imgur.com/FBXy8M5.png
 ---
 

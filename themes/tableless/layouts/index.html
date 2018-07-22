@@ -52,7 +52,7 @@
   <nav>
     <h2>JavaScript</h2>
     <ul>
-    {{ range first 7 .Site.Taxonomies.categories.javascript }}
+    {{ range first 5 .Site.Taxonomies.categories.javascript }}
         <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-js">{{ .Page.Title }}</a></li>
     {{ end }}
     </ul>
@@ -61,7 +61,7 @@
   <nav>
     <h2>CSS</h2>
     <ul>
-    {{ range first 7 .Site.Taxonomies.categories.css }}
+    {{ range first 5 .Site.Taxonomies.categories.css }}
         <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-css">{{ .Page.Title }}</a></li>
     {{ end }}
     </ul>
@@ -70,7 +70,7 @@
   <nav>
     <h2>ReactJS</h2>
     <ul>
-    {{ range first 7 .Site.Taxonomies.categories.reactjs }}
+    {{ range first 5 .Site.Taxonomies.tags.reactjs }}
         <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-react">{{ .Page.Title }}</a></li>
     {{ end }}
     </ul>
@@ -79,7 +79,7 @@
   <nav>
     <h2>Design</h2>
     <ul>
-    {{ range first 7 .Site.Taxonomies.categories.design }}
+    {{ range first 5 .Site.Taxonomies.categories.design }}
         <li><a href="{{ .Page.Permalink }}?utm_source=moreLinksHome" class="tb-post-categ-design">{{ .Page.Title }}</a></li>
     {{ end }}
     </ul>

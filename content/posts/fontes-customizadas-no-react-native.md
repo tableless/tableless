@@ -8,11 +8,9 @@ excerpt: como você pode fazer para usar fontes customizadas no seu projeto Reac
 image: https://cdn-images-1.medium.com/max/2000/1*i6wjMxUd9IBwah_12Y5UBw.jpeg
 categories:
   - Javascript
-  - ReactJS
-  - Na prática
 tags:
-  - javascript
   - reactjs
+  - javascript
   - front-end
 ---
 

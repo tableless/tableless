@@ -4,15 +4,15 @@ authors: DiegoPinho
 type: post
 date: 2016-08-05
 excerpt: Configurar aplicações que utilizam React pode ser uma tarefa árdua e complexa... Babel, Webpack, ESLint, Autoprefixer... Mas agora não mais! Com o Create React App, é possível configurar o projeto em menos de 2 minutos!
-url: /criando-sua-aplicacao-react-em-2-minutos/
 categories:
-  - Javascript
-  - ReactJS
+  - javascript
 tags:
-  - Javascript
-  - ReactJS
-
+  - emberjs
+  - Frameworks Javascript
+  - javascript
+  - reactjs
 ---
+
 Para facilitar a criação de aplicações utilizando React, o Facebook lançou uma ferramenta que promete reduzir toda complexidade envolvida em configurar um novo projeto que utilize a tecnologia.
 
 O projeto chamado de “ Create React App”, divulgado por Dan Abramov no <a href="https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html" rel="nofollow">blog oficial do React</a>, permite que os desenvolvedores criem suas aplicações React com apenas um comando. Não é criado somente a estrutura básica de pastas, mas também toda a configuração de build e dependências necessárias, ou seja, comandos complexos do <a href="https://babeljs.io/" rel="nofollow">Babel </a>e <a href="https://webpack.github.io/" rel="nofollow">Webpack</a>, usado na maior parte dos projetos, são abstraídos, permitindo ao desenvolvedor se concentrar no que realmente interessa: a sua aplicação.

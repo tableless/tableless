@@ -6,16 +6,11 @@ date: 2016-05-07
 excerpt: Uma introdução a biblioteca para criação de interfaces do Facebook
 url: /reactjs-101/
 categories:
-  - Código
   - Javascript
-  - ReactJS
-  - Tecnologia e Tendências
 tags:
+  - reactjs
   - bibliotecas javascript
   - Javascript
-  - js
-  - react.js
-  - reactjs
 
 ---
 #### TL;DR
