@@ -6,9 +6,9 @@ date: 2017-10-31
 image: https://i.imgur.com/JvE8HAp.jpg
 excerpt: Pesquisa com alguns dos profissionais mais influentes no mercado.
 categories:
-	- Mercado
+	- Carreira
 tags:
-	- carreira
+	- mercado
   - Influentes no mercado
 ---
 
