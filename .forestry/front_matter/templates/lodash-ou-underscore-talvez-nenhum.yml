@@ -1,0 +1,45 @@
+---
+label: Lodash ou Underscore? Talvez, nenhum!
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: authors
+  label: Authors
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: url
+  label: Url
+  type: textarea
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: titulo_personalizado
+  label: Titulo personalizado
+  type: list
+  hidden: false
+  default: ''
