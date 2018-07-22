@@ -8,7 +8,7 @@ titulo_personalizado:
   - 'Features que sua API REST precisa ter <strong>desde o início</strong>'
 categories:
   - Artigos
-  - Back-end
+  - back-end
   - Destaques
   - Tecnologia e Tendências
 tags:

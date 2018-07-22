@@ -8,7 +8,7 @@ url: /vulnerabilidades-em-sistemas-web/
 titulo_personalizado:
   - 'Vulnerabilidades em <strong>sistemas web</strong>'
 categories:
-  - Back-end
+  - back-end
   - Destaques
 
 ---

@@ -5,12 +5,11 @@ type: post
 date: 2016-04-28
 url: /mysql-essencial-parte-1/
 categories:
-  - Back-end
+  - back-end
 tags:
   - banco de dados
   - dev
   - mysql
-
 ---
 ## O inicio e quem usa o MySQL
 

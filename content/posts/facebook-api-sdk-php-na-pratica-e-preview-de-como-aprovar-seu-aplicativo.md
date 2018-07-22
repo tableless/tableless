@@ -5,7 +5,7 @@ type: post
 date: 2015-05-13
 url: /facebook-api-sdk-php-na-pratica-e-preview-de-como-aprovar-seu-aplicativo/
 categories:
-  - Back-end
+  - back-end
   - Código
   - PHP
 

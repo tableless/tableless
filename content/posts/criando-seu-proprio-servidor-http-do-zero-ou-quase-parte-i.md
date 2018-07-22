@@ -7,7 +7,7 @@ excerpt: Aprenda a criar e entenda como funciona um servidor HTTP
 date: 2015-09-01
 url: /criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/
 categories:
-  - Back-end
+  - back-end
   - Browsers
   - Código
   - HTML

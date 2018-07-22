@@ -6,7 +6,7 @@ date: 2016-02-19
 excerpt: Existente em diversas outras linguagens, o operador Null Coalesce agora também faz parte da sintaxe do PHP 7.
 url: /novidade-php-7-operador-null-coalesce/
 categories:
-  - Back-end
+  - back-end
   - Código
   - PHP
 tags:

@@ -6,9 +6,8 @@ date: 2015-04-16
 excerpt: Entenda o que é necessário para aprender e se tornar um desenvolvedor Java.
 url: /java-o-caminho-aprendizado/
 categories:
-  - Java
+  - back-end
 tags:
-  - backend
   - java
   - server
 

@@ -5,15 +5,13 @@ type: post
 publishdate: 2018-05-28
 date: 2018-05-28
 excerpt: Resolvendo autenticaçnao em APIs usando tokens de acesso JWT
-categories:
-  - ASP.Net
-  - JWT
-  - API
-tags:
-  - ASP.Net
-  - JWT
-  - API
 image: https://i.imgur.com/CtZkygb.jpg
+categories:
+  - back-end
+tags:
+  - asp.net
+  - JWT
+  - API
 ---
 
 A segurança de aplicações sempre foi, ou deveria ser, uma das principais

@@ -8,7 +8,7 @@ titulo_personalizado:
   - "Adicionando SSL no NGINX com o <strong>Let's Encrypt</strong>"
 categories:
   - Artigos
-  - Back-end
+  - back-end
   - Destaques
 tags:
   - ssl

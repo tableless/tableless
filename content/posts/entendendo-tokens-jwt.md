@@ -7,12 +7,11 @@ date: 2018-03-11
 excerpt: O JWT é um padrão (RFC-7519) de mercado que define como transmitir e armazenar objetos JSON de forma compacta e segura entre diferentes aplicações.
 image: https://i.imgur.com/U6JBKKI.png
 categories:
-  - JWT
-  - json
-  - Na prática
+  - back-end
 tags:
-  - javascript
+  - jwt
   - json
+  - javascript
   - csharp
 ---
 

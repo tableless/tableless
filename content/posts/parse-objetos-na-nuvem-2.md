@@ -7,7 +7,7 @@ excerpt: Parse, um banco de dados, na nuvem, orientado a objetos.
 url: /parse-objetos-na-nuvem-2/
 categories:
   - Artigos
-  - Back-end
+  - back-end
   - JavaScript
 tags:
   - banco de dados

@@ -6,7 +6,7 @@ date: 2015-03-22
 excerpt: Breve explicação sobre como migrar do MySQL para o MongoDB.
 url: /migrando-mysql-para-mongo/
 categories:
-  - Back-end
+  - back-end
 tags:
   - mongodb
 

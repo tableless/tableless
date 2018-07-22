@@ -6,7 +6,7 @@ date: 2014-12-29
 excerpt: Aprenda a utilizar uma API para consulta de cotações com PHP.
 url: /api-de-cotacoes-de-bolsa-de-valores-dolar-e-euro/
 categories:
-  - Back-end
+  - back-end
   - PHP
 
 ---

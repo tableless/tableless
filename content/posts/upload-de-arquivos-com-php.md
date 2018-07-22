@@ -7,7 +7,7 @@ excerpt: Aprenda a fazer o upload de arquivos com PHP e AJAX, utilizando WideIma
 url: /upload-de-arquivos-com-php/
 dsq_thread_id: 2803009875
 categories:
-  - Back-end
+  - back-end
   - PHP
 tags:
   - AJAX

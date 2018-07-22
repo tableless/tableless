@@ -5,7 +5,7 @@ type: post
 date: 2017-03-06
 url: /teste-de-carga-em-apis-utilizando-artillery/
 categories:
-  - Back-end
+  - back-end
   - NodeJS
   - Técnicas e Práticas
   - Tecnologia e Tendências

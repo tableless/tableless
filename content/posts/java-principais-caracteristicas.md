@@ -5,9 +5,9 @@ type: post
 date: 2015-05-05
 url: /java-principais-caracteristicas/
 categories:
-  - Back-end
-  - Geral
-  - Java
+  - back-end
+tags:
+  - java
 
 ---
 A simplicidade é uma de suas mais importantes características. É isso que possibilita que a sua aprendizagem possa ocorrer sem necessidade de treinamento intensos ou larga experiência anterior. Programadores com conhecimento das linguagens C e C++ encontrarão muitas semelhanças destas com o Java e o assimilarão de forma ainda mais rápida. Além disso, o código escrito com o Java é muito mais limpo do que aquele escrito em C ou C++.

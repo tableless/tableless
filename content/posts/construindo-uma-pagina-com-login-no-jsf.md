@@ -8,17 +8,10 @@ url: /construindo-uma-pagina-com-login-no-jsf/
 titulo_personalizado:
   - 'Criando uma página de login com <strong>JSF</strong>.'
 categories:
-  - Back-end
-  - Código
-  - Destaques
-  - Java
+  - back-end
 tags:
   - java
-  - java web
-  - JSF
-  - login-jsf
-  - sessoes jsf
-
+  - jsf
 ---
 Neste post vou falar sobre um assunto um pouco trivial e que qualquer iniciante no framework **JSF** pode se perder: **As fases do JSF e onde interceptar a navegação para que o usuário realize a autenticação**.
 

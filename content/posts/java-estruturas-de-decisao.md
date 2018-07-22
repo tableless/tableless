@@ -6,10 +6,8 @@ date: 2015-05-22
 excerpt: Entenda o que são as estruturas de decisão no Java.
 url: /java-estruturas-de-decisao/
 categories:
-  - Back-end
-  - Java
-tags:
   - back-end
+tags:
   - java
 
 ---

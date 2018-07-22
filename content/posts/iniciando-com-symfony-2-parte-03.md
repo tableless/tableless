@@ -6,7 +6,7 @@ date: 2015-02-18
 excerpt: Nesse tutorial vamos criar uma entidade e fazer o CRUD para nossa aplicação, e para agilizar nosso processo, continuaremos a usar o componente Console do Symfony 2, porém, em conjundo com Doctrine ORM.
 url: /iniciando-com-symfony-2-parte-03/
 categories:
-  - Back-end
+  - back-end
   - PHP
   - Técnicas e Práticas
 tags:

@@ -9,7 +9,7 @@ sponsor: kinghost
 dsq_thread_id: 2877932820
 categories:
   - nodejs
-  - Back-end
+  - back-end
   - Código
   - JavaScript
 tags:

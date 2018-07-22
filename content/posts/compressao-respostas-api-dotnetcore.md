@@ -6,10 +6,10 @@ publishdate: 2018-03-28
 date: 2018-03-21
 excerpt: Ao desenvolver uma API, é muito importante nos preocuparmos com o tráfego de mensagens gerado, pois largura de banda é um recurso limitado.
 categories:
-  - ASP.Net
+  - back-end
   - API
 tags:
-  - ASP.Net
+  - asp.net
   - API
 image: https://i.imgur.com/CtZkygb.jpg
 ---

@@ -5,16 +5,11 @@ type: post
 date: 2016-06-19
 url: /hibernate-como-funciona-anotacao-version/
 categories:
-  - Back-end
-  - Código
-  - Java
-tags:
   - back-end
-  - hibernate
+tags:
   - java
   - JPA
-  - version
-
+  - hibernate
 ---
 Recentemente um colega de trabalho me perguntou qual era função da anotação **@version** presente nas entidades aqui do projeto. Achei interessante essa pergunta e resolvi fazer da resposta o meu primeiro post no blog.
 

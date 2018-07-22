@@ -5,7 +5,7 @@ type: post
 date: 2015-03-16
 url: /alergia-sql/
 categories:
-  - Back-end
+  - back-end
   - Código
   - Técnicas e Práticas
 

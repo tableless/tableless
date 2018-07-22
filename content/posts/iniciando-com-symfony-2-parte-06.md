@@ -6,7 +6,7 @@ date: 2015-04-01
 excerpt: Nesse tutorial vamos estruturar e estilizar nossas páginas com Bootstrap e com o mecanismo de template para PHP, o Twig.
 url: /iniciando-com-symfony-2-parte-06/
 categories:
-  - Back-end
+  - back-end
   - O Básico
   - PHP
   - Técnicas e Práticas

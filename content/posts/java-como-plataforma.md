@@ -6,8 +6,9 @@ date: 2015-04-30
 excerpt: Entenda como o Java pode ser executado em qualquer plataforma.
 url: /java-como-plataforma/
 categories:
-  - Back-end
-  - Java
+  - back-end
+tags:
+  - java
 
 ---
 Uma plataforma é uma estrutura que possibilita a execução de softwares aplicativos. Basicamente, o que você precisa para rodar um aplicativo são um computador e um sistema operacional instalado nele. Mas os sistemas operacionais são concebidos para determinadas arquiteturas de computadores e são incompatíveis com todas as demais. Por isso, os próprios sistemas operacionais são utilizados para identificar as plataformas.

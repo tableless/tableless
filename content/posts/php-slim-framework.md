@@ -7,7 +7,7 @@ excerpt: Iniciando com o SLIM Framework.
 url: /php-slim-framework/
 dsq_thread_id: 2735945634
 categories:
-  - Back-end
+  - back-end
   - Código
   - PHP
 tags:

@@ -6,7 +6,7 @@ date: 2015-03-09
 excerpt: Há alguns dias atrás enquanto estava contribuindo em um webservice, me deparei novamente com um problema para tratamento de strings no PHP, onde precisava fazer algumas operações extras.
 url: /funcoes-extras-para-tratamento-de-strings-no-php/
 categories:
-  - Back-end
+  - back-end
   - PHP
 tags:
   - caracteres

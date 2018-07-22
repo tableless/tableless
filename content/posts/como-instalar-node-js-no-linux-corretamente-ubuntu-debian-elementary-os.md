@@ -5,14 +5,11 @@ type: post
 date: 2017-01-09
 url: /como-instalar-node-js-no-linux-corretamente-ubuntu-debian-elementary-os/
 categories:
-  - Código
   - JavaScript
-  - NodeJS
 tags:
+  - NodeJS
   - angular2
   - linux
-  - NodeJS
-
 ---
 Recentemente comecei a minha migração do JSF para o Angular então busquei por um bom curso, pela documentação do _Framework_ e um bom livro técnico.
 
