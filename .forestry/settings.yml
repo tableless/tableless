@@ -1,0 +1,33 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- path: content
+  label: Pages
+  create: all
+- path: content/posts
+  label: Posts
+  create: all
+- path: content/convertidos
+  label: Convertidos
+  create: all
+- path: content/todos-os-posts
+  label: Todos os posts
+  create: all
+- path: content/forum
+  label: Forum
+  create: all
+- path: content/servicos
+  label: Servicos
+  create: all
+- path: content/pages
+  label: Pages
+  create: all
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+version: '0.44'
