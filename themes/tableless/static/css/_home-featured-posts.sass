@@ -7,10 +7,13 @@
   div
     display: none
     margin-bottom: 25px
-
+  
     &:first-child
       display: block
       text-align: center
+    
+    .tb-categs
+      display: none
 
     h1
       font: 800 2rem/1.55 $fontFamily
@@ -34,6 +37,8 @@
     div
       overflow: hidden
       display: block
+      position: relative
+      padding-bottom: 14px
 
       h1
         padding-right: 10%
@@ -58,12 +63,21 @@
       .tb-author
         padding-top: 20px
       
+      .tb-categs
+        display: block
+        position: absolute
+        bottom: -16px
+
       &:first-child
         width: 620px
         min-height: 520px
         float: left
         margin-right: 30px
         text-align: left
+
+        .tb-categs
+          position: static
+          transform: translateY(-13px)
 
         .tb-author
           padding-left: 20px

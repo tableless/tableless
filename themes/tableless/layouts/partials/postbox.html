@@ -1,9 +1,11 @@
 <div class="tb-post-box">
   <a href="{{ .RelPermalink }}" class="tb-post-img" title="Link para o post {{ .Title}}" style="background-image: url({{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }})"></a>
 
-  <span class="tb-categs">{{ range .Params.categories }}
-  <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="tb-categ-flag">{{ . }}</a>
-  {{ end }}</span>
+  <span class="tb-categs">
+    {{ range .Params.categories }}
+    <a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" class="tb-categ-flag">{{ . }}</a>
+    {{ end }}
+  </span>
   <h2><a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a></h2>
   {{ partial "byauthor.html" . }}
 
