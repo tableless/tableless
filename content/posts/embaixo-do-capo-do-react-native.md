@@ -7,13 +7,10 @@ date: 2018-02-14
 excerpt: Saia da mediocridade, entenda como funciona o realmente React Native. Mais cedo ou mais tarde isso poderá lhe ajudar muito.
 categories:
   - Javascript
-  - ReactJS
 tags:
-  - ReactNative
+  - reactjs
   - Android
   - IOS
----
-
 ---
 
 O React Native é um framework de desenvolvimento híbrido, isto é você produz um único código Javascript que interpretado e transformado em código nativo.

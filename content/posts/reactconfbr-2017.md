@@ -5,8 +5,10 @@ type: post
 date: 2017-10-01
 excerpt: A conferência Brasileira sobre ReactJS.
 categories:
-  - reactjs
+  - Eventos e Workshops
   - javascript
+tags:
+  - reactjs
   - eventos
 image: https://i.imgur.com/ObUwLjO.png
 ---

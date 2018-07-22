@@ -7,11 +7,10 @@ excerpt: 'Conheça o webpack: um bundler que permite dividir seu código em múl
 url: /introducao-ao-webpack/
 categories:
   - Javascript
-  - ReactJS
   - Técnicas e Práticas
 tags:
+  - reactjs
   - jsx
-  - react
   - webpack
 
 ---

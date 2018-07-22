@@ -8,12 +8,9 @@ excerpt: Rápido, sem configurações e prático! É amigos da rede web, temos u
 image: https://cdn-images-1.medium.com/max/1000/1*QrdmWMnKnVLsL2_1BiZGFw.png
 categories:
   - Javascript
-  - ReactJS
-  - Na prática
-tags:
-  - javascript
-  - reactjs
   - front-end
+tags:
+  - reactjs
 ---
 
 

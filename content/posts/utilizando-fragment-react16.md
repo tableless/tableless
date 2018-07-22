@@ -6,9 +6,7 @@ image: https://cdn-images-1.medium.com/max/800/1*y6C4nSvy2Woe0m7bWEn4BA.png
 date: 2017-12-15
 excerpt: 'Uma das mais notáveis breaking changes do React foi a versão 16, a chamada React Fiber, que inclui o React.Fragment.'
 categories:
-  - reactjs
   - javascript
-  - Na prática
 tags:
   - reactjs
   - javascript

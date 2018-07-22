@@ -7,16 +7,13 @@ type: post
 date: 2017-11-30
 categories:
   - Javascript
-  - EmberJS
-  - Técnicas e Práticas
-  - Tooling
 tags:
   - emberjs
+  - Técnicas e Práticas
+  - Tooling
   - heroku
   - reactjs
-  - tutorial
   - angularjs
-  - Javascript
 ---
 
 Esse é um post bem rápido, vou mostrar como configurar deploy automático no

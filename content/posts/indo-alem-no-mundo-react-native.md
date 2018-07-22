@@ -8,10 +8,11 @@ excerpt: Um estudo pessoal sobre as possibilidade do React Native.
 url: /indo-alem-no-react-native/
 categories:
   - Javascript
+tags:
+  - reactjs
   - Mobile
   - ReactJS
   - Código
-tags:
   - ReactNative
   - Android
 ---

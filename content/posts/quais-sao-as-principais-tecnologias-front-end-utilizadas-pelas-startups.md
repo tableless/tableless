@@ -7,8 +7,9 @@ excerpt: O rápido avanço da tecnologia transforma funções e exige novos prof
 image: https://i.imgur.com/d3Q3qST.jpg
 categories:
   - Javascript
-  - BackboneJS
+tags:
   - ReactJS
+  - BackboneJS
   - Bootstrap
   - Publieditorial
 ---

@@ -8,20 +8,16 @@ url: /bem-vindo-ao-redux/
 titulo_personalizado:
   - 'Redux: um container de estados para <strong>aplicações JavaScript</strong>'
 categories:
-  - Código
-  - Destaques
   - Javascript
-  - ReactJS
   - Técnicas e Práticas
 tags:
+  - reactjs
+  - redux
   - arquitetura
   - elm
   - flux
-  - Javascript
-  - react
-  - redux
-
 ---
+
 ## Introdução
 
 **[Redux][1]** é uma maneira de pensar o desenvolvimento de aplicações criada pelo <a href="https://twitter.com/dan_abramov" target="_blank">@dan_abramov</a> que teve como principio optimizar a ideia do <a href="https://facebook.github.io/flux/" target="_blank">Flux</a>. Ela foi criada para tentar optimizar alguns obstáculos que o Flux começou a enfrentar, e também veio para simplificar a implementação do mesmo. Inspirada em conceitos da linguagem funcional <a href="http://elm-lang.org/" target="_blank">Elm</a>, e de algumas bibliotecas JS como o <a href="https://facebook.github.io/immutable-js/" target="_blank">Immutable.js</a>,  o <a href="https://github.com/Yomguithereal/baobab" target="_blank">Baobab</a>, o  <a href="https://github.com/Reactive-Extensions/RxJS" target="_blank">RxJs</a> e o próprio Flux, o Redux veio com alguns paradigmas interessantes e um pouco diferenciados do Flux.
