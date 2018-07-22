@@ -33,5 +33,14 @@ fields:
   type: tag_list
   hidden: false
   default: ''
+- type: textarea
+  label: Excerpt
+  name: excerpt
+  description: Resumo do seu texto
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
 pages:
 - content/posts/os-dois-tipos-de-front-end-design-e-o-engineer-parte-1-uma-breve-historia.md
