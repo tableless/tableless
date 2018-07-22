@@ -1,5 +1,5 @@
 ---
-label: Lodash ou Underscore? Talvez, nenhum!
+label: Front Matter Template Default
 hide_body: false
 is_partial: false
 fields:
@@ -23,11 +23,6 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- name: url
-  label: Url
-  type: textarea
-  hidden: false
-  default: ''
 - name: categories
   label: Categories
   type: tag_list
@@ -36,10 +31,5 @@ fields:
 - name: tags
   label: Tags
   type: tag_list
-  hidden: false
-  default: ''
-- name: titulo_personalizado
-  label: Titulo personalizado
-  type: list
   hidden: false
   default: ''
