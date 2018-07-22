@@ -2,15 +2,14 @@
 title: Usando seletores aninhados do SASS com cuidado
 authors: Diego Eis
 type: post
-date: 2014-09-22
+date: 2014-09-22 00:00:00 +0000
 excerpt: Cuidado com o pesadelo das nesting selectors dos pré-processadores.
-url: /nesting-selectors-sass/
+url: "/nesting-selectors-sass/"
 categories:
-  - CSS
-  - SASS
+- CSS
 tags:
-  - CSS
-  - SASS
+- SASS
+- preprocessadores
 
 ---
 Não é só por que você está usando um pré-processador que as boas práticas de escrita de CSS devem ser ignoradas. Imagine o código abaixo:
