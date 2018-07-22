@@ -6,8 +6,7 @@ date: 2015-06-10
 sponsor: alura
 url: /java-estruturas-de-repeticao/
 categories:
-  - Back-end
-  - Java
+  - back-end
 tags:
   - java
 

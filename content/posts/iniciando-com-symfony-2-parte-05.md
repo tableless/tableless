@@ -6,7 +6,7 @@ date: 2015-03-19
 excerpt: 'Nesse tutorial vamos configurar nosso projeto, e criar a página index, para que nossos posts,  sejam visualizados pelos usuários.'
 url: /iniciando-com-symfony-2-parte-05/
 categories:
-  - Back-end
+  - back-end
   - O Básico
   - PHP
   - Técnicas e Práticas

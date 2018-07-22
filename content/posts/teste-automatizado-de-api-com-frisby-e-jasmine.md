@@ -5,7 +5,7 @@ type: post
 date: 2015-08-27
 url: /teste-automatizado-de-api-com-frisby-e-jasmine/
 categories:
-  - Back-end
+  - back-end
   - JavaScript
 tags:
   - gulp

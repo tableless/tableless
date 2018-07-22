@@ -7,15 +7,11 @@ url: /jpa-de-z-por-que-conhecer/
 titulo_personalizado:
   - 'Por que usar <strong>JPA?</strong>'
 categories:
-  - Back-end
-  - Código
-  - Destaques
-  - Java
+  - back-end
 tags:
-  - hibernate
   - java
+  - hibernate
   - JPA
-
 ---
 Não dá pra negar que o Java é uma linguagem bastante verbosa e quando falávamos em juntar o Java com um banco de dados ai sim dava pra ver o tamanho do problema.
   

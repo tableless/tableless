@@ -6,7 +6,7 @@ date: 2015-02-09
 excerpt: Neste tutorial veremos como o Symfony facilita nosso processo de desenvolvimento e produtividade com o seu componete console.
 url: /iniciando-com-symfony-2-parte-02/
 categories:
-  - Back-end
+  - back-end
   - PHP
   - Técnicas e Práticas
 tags:

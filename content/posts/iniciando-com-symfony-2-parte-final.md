@@ -6,7 +6,7 @@ date: 2015-06-16
 excerpt: Nesse tutorial, vamos instalar o bundle FOSUserBundle, para fazermos a autenticação para a área administrativa do nosso blog.
 url: /iniciando-com-symfony-2-parte-final/
 categories:
-  - Back-end
+  - back-end
   - O Básico
   - PHP
   - Técnicas e Práticas

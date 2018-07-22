@@ -8,7 +8,7 @@ url: /upload-de-imagens-desmistificado-com-simplegallery-js/
 categories:
   - AJAX
   - Artigos
-  - Back-end
+  - back-end
   - Destaques
   - HTML
   - Técnicas e Práticas

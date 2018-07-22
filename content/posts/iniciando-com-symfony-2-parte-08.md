@@ -6,7 +6,7 @@ date: 2015-04-28
 excerpt: Nesse tutorial, vamos instalar e configurar o bundle Knp Paginator, para fazermos a paginação de nossos posts.
 url: /iniciando-com-symfony-2-parte-08/
 categories:
-  - Back-end
+  - back-end
   - O Básico
   - PHP
   - Técnicas e Práticas

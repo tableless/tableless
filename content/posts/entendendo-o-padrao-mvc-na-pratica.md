@@ -6,7 +6,7 @@ date: 2015-06-25
 excerpt: Exemplo prático utilizando PHP e Composer para separar o código entre as diversas camadas do MVC
 url: /entendendo-o-padrao-mvc-na-pratica/
 categories:
-  - Back-end
+  - back-end
   - PHP
 tags:
   - composer

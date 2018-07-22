@@ -6,7 +6,7 @@ date: 2016-07-15
 excerpt: O uso de uma simples instrução pode otimizar a performance de suas consultas ao banco.
 url: /voce-sabe-paginar-dados-no-mysql-corretamente/
 categories:
-  - Back-end
+  - back-end
   - Código
   - O Básico
 tags:

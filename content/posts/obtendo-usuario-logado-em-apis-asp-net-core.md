@@ -6,11 +6,9 @@ publishdate: 2018-06-04
 date: 2018-06-04
 excerpt: Obtendo o usuário autenticado extraindo dados do token pelo JWT
 categories:
-  - JWT
-  - ASP.Net
-  - API
+  - back-end
 tags:
-  - ASP.Net
+  - asp.net
   - API
 image: https://i.imgur.com/CtZkygb.jpg
 ---

@@ -6,7 +6,7 @@ date: 2015-04-10
 excerpt: 'Nesse tutorial, vamos usar um componente do Symfony, o http-foundation,  para usar  UploadedFile, onde criaremos um upload de imagens para que possamos incluir em nossos posts.'
 url: /iniciando-com-symfony-2-parte-07/
 categories:
-  - Back-end
+  - back-end
   - O Básico
   - PHP
   - Técnicas e Práticas

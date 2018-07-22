@@ -6,7 +6,7 @@ date: 2016-01-13
 excerpt: Como instalar e começar a utilizar o framework PHP Laravel 5.2
 url: /instalando-laravel-5-2/
 categories:
-  - Back-end
+  - back-end
   - Código
   - PHP
 tags:

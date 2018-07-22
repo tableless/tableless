@@ -7,7 +7,7 @@ excerpt: Criando uma galeria de imagens com painel de administração e separada
 url: /criando-uma-galeria-de-imagens-com-administracao-em-cakephp-fancybox-e-wideimage/
 dsq_thread_id: 2633907916
 categories:
-  - Back-end
+  - back-end
   - PHP
 tags:
   - cakephp

@@ -6,7 +6,7 @@ date: 2015-11-19
 url: /usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/
 categories:
   - Artigos
-  - Back-end
+  - back-end
   - Código
   - Git
   - PHP

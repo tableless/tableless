@@ -6,7 +6,7 @@ date: 2016-05-03
 url: /criando-aplicacoes-cli-utilizando-node-js/
 categories:
   - nodejs
-  - Back-end
+  - back-end
   - Código
   - JavaScript
 

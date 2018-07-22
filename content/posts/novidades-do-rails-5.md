@@ -8,7 +8,7 @@ excerpt: |
     Durante sua keynote no RailsConf 2015, DHH - o criador do framework, apresentou as novidades em andamento no projeto Rails e anunciou o lançamento da versão 5 para o último trimestre de 2015.
 url: /novidades-do-rails-5/
 categories:
-  - Back-end
+  - back-end
   - Código
   - Rails
   - Ruby

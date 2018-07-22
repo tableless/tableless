@@ -6,7 +6,7 @@ date: 2016-09-26
 url: /criando-aplicacoes-portaveis-entre-diferentes-sgbds-usando-pdophp-data-objects/
 categories:
   - Artigos
-  - Back-end
+  - back-end
   - PHP
 tags:
   - mysql

@@ -6,14 +6,14 @@ image: https://i.imgur.com/6gIyUPo.jpg
 type: post
 date: 2017-11-29
 categories:
-  - Back-end
+  - back-end
   - Na prática
 tags:
-  - Back-end
+  - asp.net
+  - NetCore
   - task-runner
   - Cake
   - Nuget
-  - NetCore
 ---
 
 É muito chato ter que fazer o build, rodar testes, executar a análise de 

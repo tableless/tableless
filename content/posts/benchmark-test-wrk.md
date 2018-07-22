@@ -6,7 +6,7 @@ date: 2018-04-23
 excerpt: Como realizar testes de stress em suas aplicações na sua máquina local com o wrk.
 categories:
   - Tooling
-  - Back-end
+  - back-end
 tags:
   - Tooling
 image:  https://fredericoporto.com.br/wp-content/uploads/2017/07/post-alta-performance-head-banner.jpg

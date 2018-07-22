@@ -5,7 +5,7 @@ type: post
 date: 2015-09-29
 url: /por-que-python/
 categories:
-  - Back-end
+  - back-end
 tags:
   - back-end
   - backend

@@ -6,7 +6,7 @@ date: 2016-02-18
 excerpt: Com o lançamento do PHP 7, agora é possível criar constantes do tipo array (vetor).
 url: /constant-array-no-php-7/
 categories:
-  - Back-end
+  - back-end
   - Código
   - PHP
 tags:

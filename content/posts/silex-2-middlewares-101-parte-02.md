@@ -6,7 +6,7 @@ date: 2017-02-19
 excerpt: Olá devs! Tudo bem? Espero que sim! Estamos de volta com mais um post da série sobre o micro-framework Silex! Desta vez, vamos fazer uma parada para atualizar a versão do nosso micro-framework, para versão 2.*!
 url: /silex-2-middlewares-101-parte-02/
 categories:
-  - Back-end
+  - back-end
   - PHP
 tags:
   - Middlewares Silex

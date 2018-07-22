@@ -4,7 +4,7 @@ authors: Diego do Nascimento
 date: 2014-08-03
 categories:
   - Artigos
-  - Back-end
+  - back-end
   - PHP
 
 ---

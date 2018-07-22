@@ -6,7 +6,7 @@ date: 2015-05-24
 excerpt: Nesse tutorial, vamos instalar o bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts.
 url: /iniciando-com-symfony-2-parte-09/
 categories:
-  - Back-end
+  - back-end
   - O Básico
   - PHP
   - Técnicas e Práticas

@@ -6,7 +6,7 @@ date: 2016-01-07
 excerpt: Por que escrever código Python é tão bom? Por que os programadores Python são tão apaixonados? Parte da resposta é a própria sintaxe da linguagem.
 url: /por-que-python-parte-2/
 categories:
-  - Back-end
+  - back-end
   - Opinião
   - Técnicas e Práticas
   - Tecnologia e Tendências

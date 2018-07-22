@@ -6,7 +6,7 @@ date: 2015-06-07
 excerpt: Instalando o CakePHP via Composer.
 url: /instalando-o-cakephp-3-0-via-composer/
 categories:
-  - Back-end
+  - back-end
   - Código
   - PHP
 tags:

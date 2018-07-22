@@ -6,7 +6,7 @@ date: 2015-11-07
 excerpt: É fundamental que seu site seja rápido. Isso atrai e fideliza clientes. Veja aqui 10 dicas simples que podem acelerar seu site até 278 vezes
 url: /10-dicas-simples-para-acelerar-seu-site-ate-278-vezes/
 categories:
-  - Back-end
+  - back-end
   - Técnicas e Práticas
 tags:
   - banco de dados

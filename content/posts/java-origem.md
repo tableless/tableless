@@ -6,11 +6,9 @@ date: 2015-04-07
 excerpt: Entendendo um pouco sobre a história do Java.
 url: /java-origem/
 categories:
-  - Geral
+  - back-end
 tags:
   - java
-  - sun
-  - sun microsystems
 
 ---
 Nossa história começa em 1991, quando um grupo de empregados da Sun Microsystems iniciaram um projeto para pequenos dispositivos eletrônicos de consumo, tais como o  PDA (Personal Digital Assistant), o projeto recebeu o nome de Projeto Green, e James Gosling assumiu sua coordenação.

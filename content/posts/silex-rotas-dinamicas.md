@@ -8,7 +8,7 @@ excerpt: |
     Como trabalhar com rotas dinâmicas e métodos auxiliares no Silex PHP.
 url: /silex-rotas-dinamicas/
 categories:
-  - Back-end
+  - back-end
   - Código
   - O Básico
   - PHP

@@ -6,7 +6,7 @@ date: 2015-03-26
 excerpt: Aprenda como fazer integração do Mailchimp com o framework CakePHP
 url: /como-fazer-integracao-cakephp-com-mailchimp/
 categories:
-  - Back-end
+  - back-end
   - PHP
 
 ---

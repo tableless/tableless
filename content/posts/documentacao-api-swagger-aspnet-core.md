@@ -7,13 +7,9 @@ date: 2018-06-11
 excerpt: 'Criando uma documentação de API utilizando Swagger'
 image: https://cdn-images-1.medium.com/max/2000/1*_6Abwv6Dd_I8GBtlRp6XeA.png
 categories:
-  - Back-end
-  - ASP.Net Core
-  - Swagger
-  - API
+  - back-end
 tags:
-  - Back-end
-  - ASP.Net Core
+  - asp.net
   - Swagger
   - API
 ---

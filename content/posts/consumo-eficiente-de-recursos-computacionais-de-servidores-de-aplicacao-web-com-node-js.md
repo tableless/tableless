@@ -9,7 +9,7 @@ titulo_personalizado:
   - 'Análise de consumo de recursos de servidores <strong>com Node.js</strong>'
 categories:
   - Artigos
-  - Back-end
+  - back-end
   - Destaques
   - JavaScript
 tags:

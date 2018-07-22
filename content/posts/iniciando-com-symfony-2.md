@@ -6,7 +6,7 @@ date: 2015-01-21
 excerpt: Neste simples tutorial, vamos fazer a instalação do Symfony 2 e abordar alguns conceitos inicias.
 url: /iniciando-com-symfony-2/
 categories:
-  - Back-end
+  - back-end
   - O Básico
   - PHP
   - Técnicas e Práticas

@@ -6,7 +6,7 @@ date: 2016-06-26
 excerpt: 'Os middlewares no Silex são utilizados para mudar o comportamento padrão do mesmo, os middlewares se mostram muito úteis quando pensamos na validação de tokens de acesso, save de logs e muitas outras tarefas. Basicamente temos dois tipos de middlewares, os de aplicação e os de rota. '
 url: /silex-middlewares-101-parte-1/
 categories:
-  - Back-end
+  - back-end
   - Código
   - PHP
 tags:

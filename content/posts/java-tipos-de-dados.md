@@ -5,8 +5,9 @@ type: post
 date: 2015-05-11
 url: /java-tipos-de-dados/
 categories:
-  - Geral
-
+  - back-end
+tags:
+  - java
 ---
 No Java, existem algumas palavras reservadas para a representação dos tipos de dados básicos que precisam ser manipulados para a construção de programas. Estes tipos de dados são conhecidos como tipos primitivos.
 

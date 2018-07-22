@@ -6,7 +6,7 @@ date: 2015-06-30
 excerpt: O Silex é um micro framework baseado nos componentes do Symfony, criado por Fabien Potencier e concebido para a criação de aplicações pequenas com foco na agilidade, extensibilidade e para ser facilmente testável.
 url: /conhecendo-e-instalando-o-silex/
 categories:
-  - Back-end
+  - back-end
   - Código
   - PHP
 tags:

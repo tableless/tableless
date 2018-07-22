@@ -5,11 +5,10 @@ type: post
 date: 2015-05-18
 url: /java-introducao-a-sua-api/
 categories:
-  - Geral
-  - Java
+  - back-end
 tags:
   - java
-
+  - api
 ---
 A API do Java é composta por dois tipos de recursos distintos: classes e interfaces. Ela é como um bloco dividido em duas grandes partes, são centenas de Interfaces e milhares de classes que acompanham o kit de desenvolvimento do Java e que podem ser empregadas para a realização de diversos tipos de tarefas durante a construção de um programa.
 

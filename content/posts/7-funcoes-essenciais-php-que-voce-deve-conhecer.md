@@ -6,7 +6,7 @@ date: 2015-07-03
 excerpt: Arranjos, datas, laços e outras práticas para facilitar a programação.
 url: /7-funcoes-essenciais-php-que-voce-deve-conhecer/
 categories:
-  - Back-end
+  - back-end
   - Código
   - O Básico
   - PHP

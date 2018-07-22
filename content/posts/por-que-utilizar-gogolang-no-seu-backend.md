@@ -6,7 +6,7 @@ date: 2016-06-28
 excerpt: Com o respaldo dos criadores do Unix, UTF-8 e Google, a Golang promete ser rápida, simples e legível.
 url: /por-que-utilizar-gogolang-no-seu-backend/
 categories:
-  - Back-end
+  - back-end
   - Código
 tags:
   - backend

@@ -6,7 +6,7 @@ date: 2015-10-27
 excerpt: Na última parte deste tutorial, aprenda sobre threads e como transformar seu servidor para receber múltiplas conexões.
 url: /criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-final/
 categories:
-  - Back-end
+  - back-end
   - Browsers
   - Código
   - Geral
