@@ -7,17 +7,12 @@ excerpt: Nesse tutorial, vamos instalar o bundle StofDoctrineExtensionsBundle, p
 url: /iniciando-com-symfony-2-parte-09/
 categories:
   - back-end
-  - O Básico
-  - PHP
+  - php
   - Técnicas e Práticas
 tags:
-  - desenvolvimento
-  - framework
+  - symfony
   - php
   - phpOO
-  - Symfony
-  - Symfony2
-  - tutorial
 
 ---
 No <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-08/" title="tutorial anterior" target="_blank">tutorial anterior</a>, instalamos e configuramos o bundle Knp Paginator, para fazer a paginação de posts em nosso index, agora vamos instalar e configurar o Bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts

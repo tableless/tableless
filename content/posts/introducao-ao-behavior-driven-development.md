@@ -7,15 +7,11 @@ excerpt: Hoje em dia, se quisermos escrever um bom software. Nossos programadore
 url: /introducao-ao-behavior-driven-development/
 dsq_thread_id: 2275298239
 categories:
-  - PHP
-  - Técnicas e Práticas
+  - back-end
 tags:
   - bdd
   - php
   - tdd
-  - testes
-  - testes automatizados
-  - testes unitários
 
 ---
 O **BDD** _(Behavior Driven Development ou Desenvolvimento guiado por comportamento)_, é uma resposta ao **TDD**, criado em 2003, por _Dan North_, e tem se expandido bastante nos últimos anos. Seu foco é obter um código testado a partir de um conjunto de cenários que descrevem como a aplicação ou unidade de código deverá se comportar em determinada situação.

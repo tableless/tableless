@@ -8,16 +8,13 @@ url: /php-slim-framework/
 dsq_thread_id: 2735945634
 categories:
   - back-end
-  - Código
-  - PHP
-tags:
-  - back-end
-  - backend
-  - framework
   - php
+tags:
+  - php
+  - framework
   - slim
-
 ---
+
 O Slim Framework é um microframework PHP que facilita sua vida na hora de fazer pequenas APIs.
 
 Vou falar sobre um problema que tive em um projeto em uma empresa que trabalho. Lá eu codifico com diferentes linguagens de programação em pequenos sistemas. Esses sistemas precisam ser acessados por 3 filiais e os usuários se logam com o mesmo login usado no E.R.P. que eles utilizam.

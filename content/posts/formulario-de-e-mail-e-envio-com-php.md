@@ -6,12 +6,10 @@ date: 2015-08-18
 excerpt: Como abandonar um script pronto em Perl e criar um formulário de envio de e-mail simples com PHP.
 url: /formulario-de-e-mail-e-envio-com-php/
 categories:
-  - Código
-  - O Básico
-  - PHP
+  - back-end
+  - php
 tags:
   - php
-
 ---
 Há anos atrás, quando queríamos colocar um formulário de e-mail em nosso site, simplesmente pegávamos um script em Perl que funcionava, mas não fazíamos ideia de como as coisas aconteciam por trás. Neste post demonstrarei que é muito simples fazer a mesma coisa em PHP. Perceba que o foco é principalmente no PHP, e não necessariamente na validação do formulário ou CSS, embora usaremos algumas boas práticas de validação.
 

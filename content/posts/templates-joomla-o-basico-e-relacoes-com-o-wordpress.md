@@ -6,20 +6,13 @@ date: 2015-05-25
 excerpt: Saiba como criar um template básico para o Joomla! e conheça as relações existentes com os temas do WordPress — os melhores CMS que existem atualmente.
 url: /templates-joomla-o-basico-e-relacoes-com-o-wordpress/
 categories:
-  - CMS
-  - Joomla
-  - PHP
-tags:
-  - aprenda
   - cms
-  - Extensions
+tags:
   - joomla
+  - Wordpress
   - Na Prática
   - php
   - Técnicas e Práticas
-  - temas
-  - Templates
-  - Wordpress
 
 ---
 Ao lado do WordPress, o Joomla! é sem dúvida um dos melhores CMS que existem atualmente. Como o amigo Girlan bem já escreveu <a title="Vamos falar de Joomla!?" href="http://tableless.com.br/vamos-falar-de-joomla/" target="_blank">noutro artigo</a>, o Joomla! tem se superado muito a cada versão&nbsp;e, desta perspectiva, torna-se mais que vantajoso ao desenvolvedor front-end dominar a criação de temas tanto para&nbsp;o WordPress quanto para o Joomla!.

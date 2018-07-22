@@ -7,17 +7,12 @@ excerpt: 'Nesse tutorial, vamos usar um componente do Symfony, o http-foundation
 url: /iniciando-com-symfony-2-parte-07/
 categories:
   - back-end
-  - O Básico
-  - PHP
+  - php
   - Técnicas e Práticas
 tags:
-  - desenvolvimento
-  - framework
+  - symfony
   - php
   - phpOO
-  - Symfony
-  - Symfony2
-  - tutorial
 
 ---
 No <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-06/" title="Iniciando com Symfony" target="_blank">tutorial anterior</a>, estilizamos nossas páginas, index e show, e incluímos um imagem para apresentar nossos posts no index, porém colocamos esta imagem pelo código fonte, agora vamos fazer algumas configurações, para que, na criação dos posts, tenha a opção de fazer o upload de uma imagem, para ser apresentada como capa de nossos posts.

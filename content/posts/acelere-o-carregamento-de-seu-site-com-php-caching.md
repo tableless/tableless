@@ -5,12 +5,13 @@ type: post
 date: 2016-07-07
 url: /acelere-o-carregamento-de-seu-site-com-php-caching/
 categories:
-  - PHP
+  - back-end
+  - php
 tags:
+  - php
   - cache
   - desempenho
   - performance
-  - php
 
 ---
 <span style="font-weight: 400">Criar um site dinâmico, de fácil manutenção e que carregue rápido é o desejo de todo desenvolvedor, mas para isso não existe uma fórmula mágica, é necessário conciliar diferentes ferramentas e técnicas. </span>

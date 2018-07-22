@@ -7,15 +7,12 @@ excerpt: Nesse tutorial vamos criar uma entidade Author e fazer o relacionamento
 url: /iniciando-com-symfony-2-parte-04/
 categories:
   - back-end
-  - O Básico
   - PHP
   - Técnicas e Práticas
 tags:
-  - desenvolvimento
-  - framework
+  - symfony
   - php
   - phpOO
-  - Symfony
   - Symfony2
   - tutorial
 

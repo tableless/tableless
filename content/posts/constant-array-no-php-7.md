@@ -7,8 +7,6 @@ excerpt: Com o lançamento do PHP 7, agora é possível criar constantes do tipo
 url: /constant-array-no-php-7/
 categories:
   - back-end
-  - Código
-  - PHP
 tags:
   - php
   - php7

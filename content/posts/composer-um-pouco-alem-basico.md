@@ -7,8 +7,7 @@ excerpt: Este post visa explicar algumas funcionalidades mais avançadas do comp
 url: /composer-um-pouco-alem-basico/
 dsq_thread_id: 2470206369
 categories:
-  - PHP
-  - Técnicas e Práticas
+  - back-end
 tags:
   - composer
   - php

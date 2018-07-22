@@ -4,14 +4,13 @@ authors: Andre Cardoso
 type: post
 date: 2014-03-18
 url: /composer-para-iniciantes/
-dsq_thread_id: 2457652649
 categories:
-  - PHP
-  - Técnicas e Práticas
+  - back-end
+  - php
 tags:
+  - php
   - composer
   - gerenciamento de dependências
-  - php
 
 ---
 <a title="Ir para a homepage do Composer" href="https://getcomposer.org/" target="_blank">Composer</a> é uma ferramenta para gerenciamento de dependências para o PHP que vem ganhando espaço e se tornando cada vez mais indispensável. Com algumas poucas linhas de configurações você define todas as bibliotecas de terceiros ou mesmo suas que deseja/precisa utilizar em seu projeto, o composer encarrega-se de baixá-las e criar um autoloader deixando-as prontas para uso.

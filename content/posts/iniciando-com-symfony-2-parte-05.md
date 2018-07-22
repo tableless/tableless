@@ -7,17 +7,13 @@ excerpt: 'Nesse tutorial vamos configurar nosso projeto, e criar a página index
 url: /iniciando-com-symfony-2-parte-05/
 categories:
   - back-end
-  - O Básico
   - PHP
-  - Técnicas e Práticas
 tags:
+  - symfony
+  - php
   - desenvolvimento
   - framework
-  - php
   - phpOO
-  - Symfony
-  - Symfony2
-  - tutorial
 
 ---
 No <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-04/" title="Iniciando com symfony2 - parte 4" target="_blank">tutorial anterior</a>, criamos a entidade Author, e fizemos o relacionamento com os posts, neste tutorial vamos fazer as configurações adequadas para que possamos deixar nossa aplicação estruturada corretamente, e vamos criar e configurar a página index, onde os usuários terão acesso para visualizar e ler os posts.

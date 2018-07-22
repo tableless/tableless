@@ -8,6 +8,7 @@ url: /migrando-mysql-para-mongo/
 categories:
   - back-end
 tags:
+  - mysql
   - mongodb
 
 ---

@@ -6,13 +6,11 @@ date: 2015-01-09
 excerpt: Conheça os comandos básicos do Git nesse artigo simples.
 url: /alguns-comandos-git/
 categories:
-  - Código
-  - Editores
-  - Técnicas e Práticas
-  - Tecnologia e Tendências
-tags:
-  - comandos
+  - tooling
   - git
+tags:
+  - git
+  - comandos
   - terminal
 
 ---

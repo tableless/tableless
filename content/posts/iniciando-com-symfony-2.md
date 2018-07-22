@@ -7,17 +7,12 @@ excerpt: Neste simples tutorial, vamos fazer a instalação do Symfony 2 e abord
 url: /iniciando-com-symfony-2/
 categories:
   - back-end
-  - O Básico
-  - PHP
+  - php
   - Técnicas e Práticas
 tags:
-  - desenvolvimento
-  - framework
+  - symfony
   - php
   - phpOO
-  - Symfony
-  - tutorial
-
 ---
 O symfony é um framework fullstack de aplicações web para as necessidades de alto desempenho, é um conjunto de componentes PHP, para grandes e avançados projetos, porém podemos instalar seus componentes separadamente em casos de projetos menores. É muito respeitado pela comunidade, não é apenas um Framework popular, mas também é uma das melhores plataformas para construir projetos Open-Source. Muitos projetos PHP estão incorporando alguns dos componentes ou estão usando o framework full-stack, projetos como <a title="DrupAl" href="http://symfony.com/projects/drupal" target="_blank">Drupal</a>, <a title="Laravel" href="http://symfony.com/projects/laravel" target="_blank">Laravel</a>, entre outros, <a title="Projetos com Symfony" href="http://symfony.com/projects" target="_blank">veja a lista</a>.
 

@@ -7,8 +7,10 @@ excerpt: Para iniciantes, entenda como o Prepared Statements funciona no MySQL.
 url: /prepared-statements-no-mysql/
 dsq_thread_id: 1219210821
 categories:
-  - Técnicas e Práticas
-
+  - back-end
+tags:
+  - mysql
+  - banco de dados
 ---
 Para quem adora padronização e organização, no MySQL existe o recurso chamado **Prepared Statements**.
 

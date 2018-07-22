@@ -6,16 +6,12 @@ date: 2015-02-10
 excerpt: O Mailchimp é um serviço bem bacana para gerenciar newsletters — e tem uma versão gratuita que atende muito bem quem tem até 2 mil assinantes. Vou dar uma ideia, através de um exemplo básico, do que é possível fazer com a API do serviço, usando PHP.
 url: /assinatura-de-newsletter-com-php-integrada-a-api-do-mailchimp/
 categories:
-  - PHP
-tags:
-  - api
-  - desenvolvimento
-  - desenvolvimento web
-  - E-mail Marketing
-  - mailchimp
-  - Na Prática
+  - back-end
   - php
-
+tags:
+  - php
+  - api
+  - Na Prática
 ---
 O Mailchimp tem uma <a href="https://apidocs.mailchimp.com/" target="_blank">API bem completa</a>. Arrisco dizer que é possível fazer uma interface com muitas das funcionalidades de gerenciamento de listas, envios, etc usando a API — fica a dica para quem quiser desenvolver uma aplicação explorando alguma lacuna que o painel do Mailchimp deixa a desejar.
 

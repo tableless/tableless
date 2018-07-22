@@ -5,22 +5,12 @@ type: post
 date: 2015-11-19
 url: /usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem-ii-final/
 categories:
-  - Artigos
   - back-end
-  - Código
   - Git
-  - PHP
-  - Técnicas e Práticas
 tags:
-  - bitbucket
-  - deploy
-  - desenvolvimento
-  - desenvolvimento web
   - git
-  - Na Prática
   - php
   - Técnicas e Práticas
-
 ---
 Esta é a segunda e última parte do artigo que explica como fazer um esquema simples para deploy automático usando GIT + Bitbucket
 

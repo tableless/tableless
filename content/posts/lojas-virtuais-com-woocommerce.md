@@ -10,10 +10,8 @@ dsq_thread_id: 1824939556
 categories:
   - Wordpress
 tags:
-  - eCommerce
-  - loja virtual
   - WooCommerce
-
+  - loja virtual
 ---
 ## O que é WooCommerce?
 

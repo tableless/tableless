@@ -7,10 +7,11 @@ url: /mysql-essencial-parte-1/
 categories:
   - back-end
 tags:
+  - mysql
   - banco de dados
   - dev
-  - mysql
 ---
+
 ## O inicio e quem usa o MySQL
 
 O MySQL é um sistema relacional de gerenciamento de banco de dados de código aberto, que utiliza o SQL (Linguagem de consulta estruturada) como interface, é atualmente um dos bancos de dados mais populares na internet, mais de 10 milhões de instalações pelo mundo inteiro. Em Julho de 2013, foi considerado o segundo banco mais utilizado do mundo.

@@ -5,29 +5,12 @@ type: post
 date: 2011-01-13
 excerpt: O mercado de e-commerce não para de crescer e este crescimento vem acompanhando de diversas novidades e melhorias nas interfaces das lojas virtuais. Uma delas é opção de arrastar e soltar produtos no carrinho de compras e é isso que você aprende neste artigo.
 url: /carrinho-de-compras-com-drag-and-drop/
-tweetbackscheck:
-  - 1356445540
-shorturls:
-  - 'a:3:{s:9:"permalink";s:61:"http://tableless.com.br/carrinho-de-compras-com-drag-and-drop";s:7:"tinyurl";s:26:"http://tinyurl.com/3qlwdgu";s:4:"isgd";s:19:"http://is.gd/MvBfd8";}'
-twittercomments:
-  - 'a:8:{i:56077022778245120;s:7:"retweet";i:56041067266576384;s:7:"retweet";i:56038506014842882;s:7:"retweet";i:146373139260125184;s:7:"retweet";i:146550053937491968;s:7:"retweet";i:145800535042297856;s:7:"retweet";i:154025101187235841;s:7:"retweet";i:153890668647956480;s:7:"retweet";}'
-tweetcount:
-  - 13
-dsq_thread_id: 503039908
 categories:
-  - Artigos
-  - Código
+  - front-end
   - JavaScript
-  - JQuery
-  - Técnicas e Práticas
 tags:
-  - 2011
-  - e-commerce
-  - interface
-  - JavaScript
   - JQuery
   - jquery-ui
-
 ---
 Se você comprou alguma coisa recentemente no Submarino deve ter notado uma nova opção na interface do site: agora é possível arrastar os produtos exibidos na página para o seu carrinho, que fica exibido de forma permanente no topo do site.
 

@@ -7,13 +7,9 @@ excerpt: Quer ser diferente no mercado? Conheça o PHP e suas vertentes. Auxilia
 url: /otimizando-e-organizando-seu-front-end-com-php/
 dsq_thread_id: 1234115424
 categories:
-  - Código
-  - HTML
+  - front-end
 tags:
-  - CSS
-  - html com php
   - php
-
 ---
 Não é de hoje que se fala em otimização e organização de scripts. Não há dor de cabeça maior para um desenvolvedor back-end receber uma marcação HTML bagunçada e sem padronização. Isso é mais comum do que imaginamos e nem sempre é por falta de conhecimento ou preguiça. O maior fator é o curto tempo para finalizar os projetos.
 

@@ -7,17 +7,12 @@ excerpt: Nesse tutorial, vamos instalar o bundle FOSUserBundle, para fazermos a 
 url: /iniciando-com-symfony-2-parte-final/
 categories:
   - back-end
-  - O Básico
-  - PHP
+  - php
   - Técnicas e Práticas
 tags:
-  - desenvolvimento
-  - framework
+  - symfony
   - php
   - phpOO
-  - Symfony
-  - Symfony2
-  - tutorial
 
 ---
 Chegamos ao final da nossa série sobre Symfony. Se você não leu os outros, no final do artigo há uma [listagem com todos os artigos][1] já publicados dessa série.

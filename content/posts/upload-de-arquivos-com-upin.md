@@ -6,10 +6,9 @@ date: 2016-11-12
 excerpt: Criar sistemas de uploads pode ser uma tarefa não só complicado como também irritante. Temos que fazer diversas validações, entre elas, de tamanho, extensão do arquivo, etc. Pensando nisso foi criada uma biblioteca em PHP que inclui a função de uploads. Chama-se Upin.
 url: /upload-de-arquivos-com-upin/
 categories:
-  - PHP
+  - back-end
 tags:
   - php
-  - Uploads
 
 ---
 A Upin é uma biblioteca para manipulação de arquivos em PHP Orientado a Objetos, que visa facilitar a vida de programadores iniciantes ou até profissionais. Afinal, tempo é dinheiro não é mesmo?

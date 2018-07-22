@@ -7,8 +7,6 @@ excerpt: O uso de uma simples instrução pode otimizar a performance de suas co
 url: /voce-sabe-paginar-dados-no-mysql-corretamente/
 categories:
   - back-end
-  - Código
-  - O Básico
 tags:
   - mysql
 
