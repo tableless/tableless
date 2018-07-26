@@ -18,7 +18,7 @@ O **menino do HTML**. Essa era a visão padrão que o mercado web tinha do front
 
 O designer e o back-end detinham as grandes responsabilidades de um projeto. Enquanto um definia o layout, fluxo do sistema e como seria o comportamento do usuário no projeto, o outro fazia tudo isso funcionar. Ele era o cara que manjava de servidor, modelagem de banco de dados, linguagens de servidor e tudo quanto era mandinga.
 
-Por sua vez, o front-end não se encaixava em nenhum dos dois extremos. Ele fazia código,\*\* mas o código não funcionava sozinho, sem linguagem de servidor envolvida\*\*. Ele transformava o layout para código HTML/CSS/JS, mas\*\* o layout não era ele que tinha feito\*\*. Junte isso com o fato de que NINGUÉM sabia exatamente o que era desenvolvimento para internet e pronto, um homem foi jogado ao mar.
+Por sua vez, o front-end não se encaixava em nenhum dos dois extremos. Ele fazia código, **mas o código não funcionava sozinho, sem linguagem de servidor envolvida**. Ele transformava o layout para código HTML/CSS/JS, **mas o layout não era ele que tinha feito**. Junte isso com o fato de que NINGUÉM sabia exatamente o que era desenvolvimento para internet e pronto, um homem foi jogado ao mar.
 
 **Era uma época infeliz.**
 
@@ -28,7 +28,7 @@ Mas hoje vivemos nos tempos modernos. Vivemos num momento onde a tecnologia pare
 
 Essa coisa de limites entre back-end e front-end sempre foi uma polêmica.
 
-Em todos os projetos, de todos os tamanhos, era necessário haver uma conversa entre os desenvolvedores e os front-ends —\*\* sim, as pessoas separavam os devs "verdadeiros" dos front-ends… briguei muito com isso nas empresas que eu trabalhei\*\* — para combinar até onde o back-end iria, para que o front-end pudesse implementar o layout.
+Em todos os projetos, de todos os tamanhos, era necessário haver uma conversa entre os desenvolvedores e os front-ends — **sim, as pessoas separavam os devs "verdadeiros" dos front-ends… briguei muito com isso nas empresas que eu trabalhei** — para combinar até onde o back-end iria, para que o front-end pudesse implementar o layout.
 
 Em uma época não muito distante, todo mundo trabalhava ou queria trabalhar em projetos com estrutura MVC. [Você pode saber o que é a estrutura MVC aqui](https://tableless.com.br/entendendo-o-padrao-mvc-na-pratica/).
 
@@ -54,9 +54,9 @@ Foi aqui que centenas de frameworks e bibliotecas JS surgiram (e morreram) da no
 
 **No meio dessa mudança toda, muitos front-ends não estavam acostumados a lidar com lógica e regras de negócio que agora estavam transbordando para o lado do client-side,** exatamente por que a praia deles era escrever CSS e Javascript para interface.
 
-Nessa revolução, houve um breve momento onde o Javascript ganhou MUITA visibilidade. E aí os front-ends que sabiam MUITO Javascript se destacaram. Isso era bom e ruim. Os front-ends que não gostavam ou não sabiam trabalhar com programação pesada de JS, acabaram se decepcionando. Houve uma momento onde era até\*\* vergonhoso dizer que não manjava de JS, e só sabia trabalhar com JS para interface.\*\*
+Nessa revolução, houve um breve momento onde o Javascript ganhou MUITA visibilidade. E aí os front-ends que sabiam MUITO Javascript se destacaram. Isso era bom e ruim. Os front-ends que não gostavam ou não sabiam trabalhar com programação pesada de JS, acabaram se decepcionando. Houve uma momento onde era até **vergonhoso dizer que não manjava de JS, e só sabia trabalhar com JS para interface**.
 
-Aí aconteceu de tudo um pouco:\*\* vários devs não se consideravam mais devs, exatamente porque eles só sabiam CSS e HTML com um pouco de JS\*\* para interface e achavam que não tinham competência para fazer toda essa coisa nova. Outros simplesmente não gostavam de lidar com lógica, mas adoravam a parte visual.
+Aí aconteceu de tudo um pouco: **vários devs não se consideravam mais devs, exatamente porque eles só sabiam CSS e HTML com um pouco de JS** para interface e achavam que não tinham competência para fazer toda essa coisa nova. Outros simplesmente não gostavam de lidar com lógica, mas adoravam a parte visual.
 
 Em paralelo o mercado mudou de vez: teve front-end que virou back-end. Teve back-end que virou front-end. Teve front-end que saiu da área. Teve empresa que demitiu back-end pra contratar front-end, dado que o trabalho de integrar API na Interface se tornou maior que fazer APIs. Uma revolução total na era.
 
@@ -64,7 +64,7 @@ Em paralelo o mercado mudou de vez: teve front-end que virou back-end. Teve back
 
 Dois perfis de profissionais ficaram bem claros no mercado:
 
-* Um dev que manjava MUITO de interface. Que dominava CSS como ninguém e todos os   truques de JS para manipular elementos no DOM com CSS, além de conseguir lidar   com o designer discutindo soluções de layout; 
+* Um dev que manjava MUITO de interface. Que dominava CSS como ninguém e todos os   truques de JS para manipular elementos no DOM com CSS, além de conseguir lidar   com o designer discutindo soluções de layout;
 * E outro profissional que tinha uma grande facilidade para a parte funcional da   coisa. Ele não era um back-end, mas consegue discutir soluções funcionais de   igual para igual.
 
 **No próximo artigo**, escrevi um pouco sobre cada um desses perfis e como eles se encaixam no desenvolvimento de software atual.

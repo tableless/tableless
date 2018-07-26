@@ -55,5 +55,5 @@ fields:
   config:
     required: true
 pages:
-- content/posts/os-dois-tipos-de-front-end-design-e-o-engineer-parte-1-uma-breve-historia.md
 - content/posts/post-threads-nodejs.md
+- content/posts/os-dois-tipos-de-front-end-design-e-o-engineer-parte-1-uma-breve-historia.md
