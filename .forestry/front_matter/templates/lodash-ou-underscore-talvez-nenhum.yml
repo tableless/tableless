@@ -54,6 +54,12 @@ fields:
   description: Imagem de destaque do artigo
   config:
     required: true
+- type: datetime
+  name: publishdate
+  label: Publish Date
+  description: Data para publicação
+  config:
+    date_format: YYYY/MM/DD
 pages:
 - content/posts/post-threads-nodejs.md
 - content/posts/autenticacao-em-apis-aspnet-core-com-jwt-refresh-token.md
