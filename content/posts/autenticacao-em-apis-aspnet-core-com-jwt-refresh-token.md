@@ -5,6 +5,7 @@ date = "2018-08-02T23:46:09+00:00"
 draft = true
 excerpt = "Saiba o que é Refresh Token e como usá-lo com JWT e ASP.Net Core"
 image = "https://cdn-images-1.medium.com/max/800/1*L7LnUlxd1M4nV_D1Mr42Fg.jpeg"
+publishdate = "2018-08-02T03:00:00+00:00"
 tags = ["aspnet", "jwt"]
 title = "Autenticação em APIs ASP.Net Core com JWT — Refresh Token"
 type = "post"
