@@ -1,18 +1,19 @@
 ---
-title: 'Hackathon da Serasa Experian - EJ5'
+title: Hackathon da Serasa Experian - EJ5
 authors: Tableless
 type: post
-publishdate: 2018-07-20
-date: 2018-07-18
-excerpt: Nova edição do evento de inovação Experiance Jam acontece em agosto, em São Carlos (SP)
+publishdate: 2018-07-20 00:00:00 +0000
+date: 2018-07-18 00:00:00 +0000
+excerpt: Nova edição do evento de inovação Experiance Jam acontece em agosto, em São
+  Carlos (SP)
 image: https://i.imgur.com/OaWLkaP.jpg
 categories:
-  - Eventos
-  - Publieditorial
+- Mercado
+- Publieditorial
 tags:
-  - eventos
----
+- eventos
 
+---
 A Serasa Experian inicia as inscrições para seu primeiro hackaton aberto a participantes externos, que acontecerá nos dias 18 e 19 de Agosto em São Carlos - SP. As premiações totalizam R$ 40 mil reais, sendo R$ 10 mil
 reais para cada um dos quatro desafios. Os participantes podem se inscrever para a maratona tecnológica individualmente ou em equipes pelo [site do evento](http://www.ej5.com.br), basta preencher o formulário online, ler e aceitar o regulamento.
 
@@ -36,4 +37,3 @@ Se você estiver interessado, fique esperto nas datas:
 - Inscrições até dia 27/07 nesse link [http://experiancejam.com.br/hackathon-da-serasa-experian#typeform](http://experiancejam.com.br/hackathon-da-serasa-experian#typeform)
 - Data do evento: 18 e 19 de agosto de 2018
 - Local: Serasa Experian São Carlos - Av. Juscelino Kubitscheck, 100 – São Carlos SP
-
