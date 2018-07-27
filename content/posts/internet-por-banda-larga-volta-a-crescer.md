@@ -1,5 +1,5 @@
 +++
-authors = "Tableless"
+authors = "Diego Eis"
 categories = ["notícias"]
 date = "2018-07-27T00:35:49+00:00"
 excerpt = "Pesquisa TIC Domicílios 2017, do Cetic.br, também aponta que a metade dos indivíduos conectados acessa a Internet exclusivamente pelo celular."
