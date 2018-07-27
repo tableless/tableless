@@ -29,6 +29,8 @@ fields:
   type: datetime
   hidden: false
   default: ''
+  config:
+    date_format: YYYY/MM/DD
 - type: datetime
   name: publishdate
   label: Publish Date
