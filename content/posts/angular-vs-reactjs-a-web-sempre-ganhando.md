@@ -3,7 +3,7 @@ title: Angular vs ReactJS - A web sempre ganhando.
 authors: Manacés Pereira
 type: post
 image: https://cdn-images-1.medium.com/max/800/1*bWFv50r2E3L1I1OQdP01sg.png
-date: 2018-07-25
+date: 2018-07-27
 excerpt: Uma breve comparação entre Angular e ReactJS.
 categories:
   - Angular
@@ -18,19 +18,19 @@ Neste artigo, a intenção não é dizer para você qual é a melhor tecnologia,
 
 ### Framework vs Library
 
-Para entendermos a real diferença entre o **Angular** e o **ReactJS**, temos que entender antes o que é um Framework e um que é uma Biblioteca ou Library.
+Para entendermos a real diferença entre o **Angular** e o **ReactJS**, temos que entender antes o que é um Framework e um que é uma Library.
 
 Segundo [um artigo de 2010 do site Wired](https://www.wired.com/2010/02/get_started_with_web_frameworks/#What_is_a_Web_Framework.3F), framework ou software framework é um conjunto de ferramentas que torna o desenvolvimento mais fácil, sem termos que re-inventar a roda. Ele tem o objetivo de ditar como sua aplicação será desenvolvida.
 
-Já uma biblioteca, ou library, é um conjunto de classes e definições que resolvem um determinado problema. Tem um foco específico e um conjunto delas compões um framework, com base no que escrevi acima.
+Já uma library, é um conjunto de classes e definições que resolvem um determinado problema. Tem um foco específico e um conjunto delas compõem um framework, com base no que escrevi acima.
 
-Tendo essas duas definições em mente, podemos separar o **Angular** e o **ReactJS** como um framework e uma biblioteca javascript respectivamente.
+Tendo essas duas definições em mente, podemos separar o **Angular** e o **ReactJS** como um framework e uma library javascript respectivamente.
 
 ## Uma breve compração
 
 ### ReactJS
 
-**O que é:** Como diz no próprio site — A JavaScript library for building user interfaces — é uma biblioteca javascript, criada para desenvolvermos interfaces de usuário.
+**O que é:** Como diz no próprio site — A JavaScript library for building user interfaces — é uma library do javascript, criada para desenvolvermos interfaces de usuário.
 
 **Vantagem:** A principal diferença e vantagem do **RectJS** em relação ao **Angular** é chamada de *Virtual DOM* ou *VDOM,* que é um conceito de programação onde existe uma representação da UI *cacheada* em memória, sincronizada com o *DOM* real do browser, com a utilização do *ReactDOM*. Desse modo, as alterações de DOM são muito mais rápidas, já que temos todo o *cache* e o **ReactJS** se vira para sincronizar e atualizar o nosso DOM real, mudando apenas o que é necessário.
 
@@ -80,14 +80,13 @@ Também tem que ser levado em consideração a curva de aprendizado da equipe qu
 
 ## Referências
 
-<iframe src="https://medium.com/media/b20f558f972517c51d35de363dd4e6fe" frameborder=0></iframe>
-
-[https://reactjs.org/docs/faq-internals.html](https://reactjs.org/docs/faq-internals.html)
-[https://angular.io/features](https://angular.io/features)
+https://twitter.com/john_papa/status/922140900914089984  
+[https://reactjs.org/docs/faq-internals.html](https://reactjs.org/docs/faq-internals.html)  
+[https://angular.io/features](https://angular.io/features)  
 
 ## Social
 
-[https://www.linkedin.com/in/manacesneto/](https://www.linkedin.com/in/manacesneto/)
-[https://github.com/manacespereira](https://github.com/manacespereira)
-[https://twitter.com/manacespereira](https://twitter.com/manacespereira)
-contato@manacespereira.com.br
+[https://www.linkedin.com/in/manacesneto/](https://www.linkedin.com/in/manacesneto/)  
+[https://github.com/manacespereira](https://github.com/manacespereira)  
+[https://twitter.com/manacespereira](https://twitter.com/manacespereira)  
+contato@manacespereira.com.br  
