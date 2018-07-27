@@ -6,7 +6,7 @@ excerpt = "Pesquisa TIC Domicílios 2017, do Cetic.br, também aponta que a meta
 image = "https://i.imgur.com/5qJ5vJ1.jpg"
 publishdate = "2018-07-27T00:35:00+00:00"
 tags = ["mercado"]
-title = "Internet por banda larga volta a crescer"
+title = "Internet por banda larga volta a crescer no Brasil"
 type = "post"
 
 +++
