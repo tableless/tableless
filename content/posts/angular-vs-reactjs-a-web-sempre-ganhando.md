@@ -1,17 +1,19 @@
 ---
-title: Angular vs ReactJS - A web sempre ganhando.
+title: Angular vs ReactJS - A web sempre ganhando
 authors: Manacés Pereira
 type: post
 image: https://cdn-images-1.medium.com/max/800/1*bWFv50r2E3L1I1OQdP01sg.png
-date: 2018-07-27
+date: 2018-07-30 03:00:00 +0000
 excerpt: Uma breve comparação entre Angular e ReactJS.
 categories:
-  - Angular
-  - ReactJS
-  - JavaScript
-  - Opinião
----
+- JavaScript
+- Opinião
+publishdate: 2018-07-30 03:00:00 +0000
+tags:
+- reactjs
+- angularjs
 
+---
 Eu vejo muita gente que discute sobre qual tecnologia é melhor em detrimento de outra. Não é diferente quando falamos sobre Angular e ReactJS.
 
 Neste artigo, a intenção não é dizer para você qual é a melhor tecnologia, mas fazer você tirar suas próprias conclusões. Nada que está neste artigo, é na base da minha opinião ou na base do achismo. Vou colocar todas as fontes necessárias para uma credibilidade maior.
@@ -89,4 +91,4 @@ https://twitter.com/john_papa/status/922140900914089984
 [https://www.linkedin.com/in/manacesneto/](https://www.linkedin.com/in/manacesneto/)  
 [https://github.com/manacespereira](https://github.com/manacespereira)  
 [https://twitter.com/manacespereira](https://twitter.com/manacespereira)  
-contato@manacespereira.com.br  
+contato@manacespereira.com.br
