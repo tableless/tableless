@@ -3,12 +3,12 @@ title: Angular vs ReactJS - A web sempre ganhando
 authors: Manacés Pereira
 type: post
 image: https://cdn-images-1.medium.com/max/800/1*bWFv50r2E3L1I1OQdP01sg.png
-date: 2018-07-30 03:00:00 +0000
+date: 2018-07-28 03:00:00 +0000
 excerpt: Uma breve comparação entre Angular e ReactJS.
 categories:
 - JavaScript
 - Opinião
-publishdate: 2018-07-30 03:00:00 +0000
+publishdate: 2018-07-28 03:00:00 +0000
 tags:
 - reactjs
 - angularjs
