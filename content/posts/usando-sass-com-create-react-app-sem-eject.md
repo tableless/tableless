@@ -1,11 +1,11 @@
 +++
 authors = "Julio Carneiro"
 categories = ["css", "javascript"]
-date = "2018-08-06T03:00:00+00:00"
+date = "2018-07-30T08:00:00+00:00"
 draft = true
 excerpt = "Como usar o Sass junto ao create-react-app, sem eject e apenas instalando a gem e fazendo rodar no nosso package.json."
 image = "https://i.imgur.com/3mUSxrp.jpg"
-publishdate = "2018-08-06T03:00:00+00:00"
+publishdate = "2018-07-30T08:00:00+00:00"
 tags = ["sass", "reactjs", "css"]
 title = "Usando Sass com create-react-app (sem eject)"
 type = "post"
