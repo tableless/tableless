@@ -1,10 +1,10 @@
 +++
 authors = "Wellington Nascimento"
 categories = ["back-end"]
-date = "2018-08-02T23:46:09+00:00"
+date = "2018-08-02T08:46:00+00:00"
 excerpt = "Saiba o que é Refresh Token e como usá-lo com JWT e ASP.Net Core"
 image = "https://i.imgur.com/l4rXdhd.jpg"
-publishdate = "2018-08-02T03:00:00+00:00"
+publishdate = "2018-08-02T08:00:00+00:00"
 tags = ["aspnet", "jwt"]
 title = "Autenticação em APIs ASP.Net Core com JWT — Refresh Token"
 type = "post"
