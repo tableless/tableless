@@ -15,13 +15,13 @@ _Escrevi ouvindo essa música. Recomendo para a leitura:_
 
 ***
 
-Nos outros dois artigos da série ([Parte 1](https://medium.com/@diegoeis/frontend-design-engineer-parte1-d3156d8dddd4) e [Parte 2](https://medium.com/@diegoeis/frontend-design-engineer-parte2-498bada72d84)), eu tentei desbravar os perfis de front-end que surgiram e até citei uma transformação que tem acontecido nos bastidores, onde é possível que designers se aproximem mais do código, juntamente com a ajuda do perfil **front-end designer.** E que essa aproximação tem acontecido com os back-ends, que estão cada vez mais interessados com em tecnologias como NodeJS.
+Nos outros dois artigos da série ([Parte 1](https://medium.com/@diegoeis/frontend-design-engineer-parte1-d3156d8dddd4) e [Parte 2](https://medium.com/@diegoeis/frontend-design-engineer-parte2-498bada72d84)), eu tentei desbravar os perfis de front-end que surgiram e até citei uma transformação que tem acontecido nos bastidores, onde é possível que designers se aproximem mais do código, juntamente com a ajuda do perfil **front-end designer.** E que essa aproximação tem acontecido com os back-ends, que estão cada vez mais interessados em tecnologias como NodeJS.
 
-**Eu quero tentar questionar essas pseudo-responsabilidades de um front-end**, tentando dar um outro ponto de vista, jogando essas responsabilidades para dois extremos: designers e programadores. E lembre-se dos dois primeiro artigos, aplicando as responsabilidades do front-end designer e do front-end engineer em cada um dos cenários.
+**Nesse artigo, eu quero tentar questionar as responsabilidades de um front-end**, tentando dar um outro ponto de vista. 
 
-***
+Eu acho que no final você pode sair com mais perguntas do que respostas sobre quais as responsabilidades de um dev front-end, a ideia é essa mesmo: cavar, procurar e encontrar bifurcações dos caminhos desse profissional. 
 
-### O front-end levanta e atende os requisitos de interface?
+# O front-end levanta e atende os requisitos de interface?
 
 Historicamente, o dono do layout é o Designer. É ele que levanta os requisitos de como uma interface deve ser criada, levando em consideração todos os estudos, pesquisa e entrevistas que ele fez com o usuário.   
 O front-end, nesse ponto, pode ser um participante influenciador. Mas ele não levanta os requisitos.
@@ -40,7 +40,7 @@ Exatamente por isso que **Designers estão cada vez mais se aproximando do códi
 
 Quem trabalha nessa área sabe como é difícil encontrar front-ends realmente capazes implementar interfaces perfeitas. Há muito tempo atrás tinha aquele orgulho de fazer um layout pixel perfect, hoje não mais.
 
-### O front-end garante funcionalidade da interface em qualquer dispositivo?
+# O front-end garante funcionalidade da interface em qualquer dispositivo?
 
 Esse ponto é muito relacionada com a responsabilidade anterior e tem muito a ver com o perfil que já nos anteriormente o front-end designer.
 
@@ -50,7 +50,7 @@ Não é de hoje que existem plugins e outros softwares de design que dão esse p
 
 Mesmo assim — por conta da falta de designers que codificam — **a responsabilidade de ter um projeto que funcione bem em tablets e mobile é sim do front-end. O**front-end designer, nesse caso dos perfis de front-end, é o responsável por essa tarefa. Contudo cabe ao designer dar todas as especificações. O que quase nunca acontece. :-)
 
-### O front-end garante a escabalabilidade e manutenibilidade do código?
+# O front-end garante a escabalabilidade e manutenibilidade do código?
 
 A escalabilidade aqui se refere a de código e não de infra. Logo, nesse caso, temos que falar sobre código legível/bonito.
 
@@ -68,13 +68,13 @@ Aliás, artifícios como **minificar código, image sprites e outras, são gambi
 
 Existe sim uma complexidade na organização de estrutura de arquivos, nomenclatura e componentização no front-end que afeta e muito a escalabilidade e manutenção **do projeto**. Todos sabem que CSS é fácil, mas se ele não for bem organizado desde o início, vira um inferno.
 
-### O front-end  pensa e calcula os custos de desenvolvimento, afim de defender o alto impacto por baixo custo?
+# O front-end  pensa e calcula os custos de desenvolvimento, afim de defender o alto impacto por baixo custo?
 
 Eu não acho que isso seja responsabilidade de um dev front-end. Diretor de Tecnologia, Gerente de tecnologia, Operações, infraestrutura, DevOps são só alguns dos profissionais que, na minha opinião, devem pensar nesses assuntos muito antes de front-end.
 
 Quando um dev resolve ir pra parte de gestão, ele fica sabendo que **desenvolvimento é tratado como custo nos projetos**. Decisões como contratar uma empresa terceira ou um funcionário CLT fazem parte do cotidiano e causam mais impacto no custo do que a stack de front.
 
-### O front-end é responsável por garantir entregas rápidas, estáveis e testáveis, monitorar o software para correção ou prevenção de falhas
+# O front-end é responsável por garantir entregas rápidas, estáveis e testáveis, monitorar o software para correção ou prevenção de falhas
 
 Garantir entregas, estabilidade e monitoração não é responsabilidade exclusiva de front, mas do time inteiro. Mas coisas como monitoração é com o pessoal de Operações, por exemplo.
 
@@ -84,7 +84,7 @@ Por exemplo testes: praticamente todos os times, no momento do Pull Request, faz
 
 Pull Request/Merge Request/Code Review são uma oportunidade para o dev testar a funcionalidade do código, além da lógica.
 
-### O front-end é o responsável por fazer a ponte entre back-end e design?
+# O front-end é o responsável por fazer a ponte entre back-end e design?
 
 Eu já pensei isso no começo e no meio da minha carreira de front-end. Contudo, conforme o penso foi passando, eu comecei a entender que isso era uma esquizofrenia do sistema. O mercado estava tão quebrado, ou seja: o designer SÓ queria fazer telinha e o back-end só queria escrever código de servidor. NENHUM DOS DOIS era capaz de fazer o trabalho manjado de HTML/CSS/JS.
 
@@ -110,7 +110,7 @@ Um dev web experiente, já percebeu que não existe mais profissionais X ou Y. V
 
 E entenda: não sou a favor ou contra full-stack ou especialistas. Eu sou a favor do [profissional com perfil em T](https://tableless.com.br/o-perfil-t-shaped-e-o-dev-full-stack/). 
 
-### Colaboração
+# Colaboração
 
 Esse não é o futuro do front-end, mas do mercado de desenvolvimento como um todo. Pense num ambiente onde você automatiza boa parte do processo e passa seu tempo realmente pensando na estrutura e arquitetura do sistema. Pense num ambiente onde designers e front-ends usam uma mesma plataforma para editar a mesma tela. 
 
