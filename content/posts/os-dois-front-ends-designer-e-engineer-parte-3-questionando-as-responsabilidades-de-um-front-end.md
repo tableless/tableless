@@ -10,8 +10,8 @@ title = "Os dois front-ends: designer e engineer — Parte 3: Questionando a
 type = "post"
 
 +++
-_Escrevi ouvindo essa música. Recomendo para a leitura:  
-_[**_There is A Light That Never Goes Out — The Smiths_**](https://medium.com/r/?url=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0WQiDwKJclirSYG9v5tayI%3Fsi%3DAd3Pjt8aQROb3LdpGHQlBw)
+_Escrevi ouvindo essa música. Recomendo para a leitura:_  
+[**There is A Light That Never Goes Out — The Smiths**](https://medium.com/r/?url=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F0WQiDwKJclirSYG9v5tayI%3Fsi%3DAd3Pjt8aQROb3LdpGHQlBw)
 
 ***
 
