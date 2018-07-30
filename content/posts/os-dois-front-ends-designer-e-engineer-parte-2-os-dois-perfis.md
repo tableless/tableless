@@ -13,8 +13,7 @@ type = "post"
 +++
 ## Pessoas diferentes para momentos diferentes no processo de desenvolvimento.
 
-_Escrevi esse artigo ouvindo essa música. Ouça enquanto lê:  
-_[**_The Showman (Little More Better)-U2_**](https://medium.com/r/?url=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F20H1SrXMaUP5lPKtHCmVPs%3Fsi%3D7qW5-qo_R06u_bmaaK4xzg)
+_Escrevi esse artigo ouvindo essa música. Ouça enquanto lê:_ [**_The Showman (Little More Better)-U2_**](https://medium.com/r/?url=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F20H1SrXMaUP5lPKtHCmVPs%3Fsi%3D7qW5-qo_R06u_bmaaK4xzg)
 
 ***
 
