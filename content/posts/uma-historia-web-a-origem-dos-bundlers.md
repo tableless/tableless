@@ -16,7 +16,7 @@ Nesse artigo vamos entender qual foi a necessidade dos módulos e o porque do su
 
 Já pegou sua caneca de café? então vamos lá! **Vai ser uma longa história**.
 
-### Preâmbulo: Script em linha ou Inline Script
+## Preâmbulo: Script em linha ou Inline Script
 
 Nada melhor que começar com esse termo! Inline Script me traz boas lembranças de como eu escrevia as minhas primeiras páginas web. É quando se adiciona scripts diretamente em sua página, dentro de uma tag HTML chamada **script**. Foi assim que eu comecei e acredito que a maioria dos desenvolvedores começara por ai também.
 
@@ -28,7 +28,7 @@ Nada melhor que começar com esse termo! Inline Script me traz boas lembranças 
 
 Essa parte, essa não pude deixar de lado, não entra com detalhes na história a seguir. Vamos já deixar nivelado aqui as razões pelas quais o uso do Inline Script traz certos problemas, e isso vale também para [Inline Style](https://www.w3schools.com/html/html_css.asp).
 
-### Capítulo I: A Origem
+## Capítulo I: A Origem
 
 Um jovem programador detentor de um único script de 500 linhas de código e seu script escrito com muita dedicação para uma página web cuja estava trabalhando em dado momento. Tal script fora escrito em uma linguagem épica de capacidades inimagináveis (e cuja as bruxarias são incríveis) chamada JavaScript. Diêiés é o seu nome e a sua vida é uma vida muito boa, o seu script é, até então, manuseável e de tamanho razoável. Mas o tempo é dito ser cruel com alguns e não foi diferente com ele, com o passar dos dias, o projeto em que Diêiés trabalhava no seu dia-a-dia, cresceu, e nesse fluxo de crescimento ele começou a adicionar mais funcionalidades em sua página. E não só isso, ele se tornou um membro de equipe, pois sua empresa contratou novos desenvolvedores para trabalhar em conjunto nessa página web.
 
@@ -37,7 +37,7 @@ Se Diêiés continuar com sua configuração atual (um único arquivo de script 
 * O seu arquivo de script vai crescer. Vai crescer igual [Chuchu](https://pt.wikipedia.org/wiki/Sechium_edule) na cerca (quem é interior conhece essa expressão), ou seja, vai crescer muito rápido a cada nova funcionalidade. Isso é ruim porque arquivos grandes são difíceis de manter e sabemos que é complicado encontrar seções específicas. Tirando o fato que é difícil ter vários desenvolvedores trabalhando no mesmo arquivo, ao mesmo tempo.
 * Ele talvez queira utilizar algumas bibliotecas externas. Isso não é um problema propriamente, mas logo ele irá vai entender porque isso complica ainda mais toda a situação.
 
-### Capitulo II: Quebrando o Código
+## Capitulo II: Quebrando o Código
 
 Com esse problema na cabeça, Diêiés e sua perspicácia incrível, obviamente decidiu quebrar esse arquivo script enorme em vários arquivos menores. Isso não só porque o arquivo é grande, como também é uma boa prática separar as coisas em partes independentes para manter seu código organizado e limpo. Isso é até justificável, pois podemos querer separar as funções que lidam com manipulação da DOM de outras funções que lidam com requisições http ou processamento de dados, etc.
 
@@ -58,7 +58,7 @@ Também, agora que ele entendeu sobre a importância da separação das responsa
 
 Rapidamente ele alcançou 50 ,80… 100 arquivos JavaScript. Ele pode ver que o seu código está muito melhor agora, igualmente nós, expectadores, podemos ver novos problemas surgindo da superfície.
 
-### Capítulo III: Surgem Novos Problemas
+## Capítulo III: Surgem Novos Problemas
 
 Mais problemas aparecem… Diêiés está preocupado com problema da quantidade de tags **script** e com a ordem que ele tem que manter… e agora algo novo apareceu. Esses arquivos definem vários nomes. Como nomes de funções, nomes de variáveis, nome de várias coisas. E toda vez que bate a vontade de alterar algum arquivo ele não tem ideia de quais nomes os outros arquivos já declararam. Colisões podem acontecer! O desenvolvimento se torna uma tarefa tediosa, ele tem que se lembrar de vários nomes que já foram utilizados antes ou ficar procurando alguma convenção, ou… bom, deu para ter uma ideia. Agora ele vai tentar resolver isso.
 
@@ -74,7 +74,7 @@ O que ele vai fazer é criar essa estrutura em cada um desses 80, 100… arquivo
 
 Isso é um ganho e tanto, agora ele pode quebrar os arquivos em arquivos menores sem se preocupar com colisões de nomes. Por outro lado ele tem 180 tags **script** ou até mais que isso em sua página. E aquela coisa sobre a ordem dos arquivos ainda está valendo para ele, e ele ainda não solucionou esse problema.
 
-### Capítulo IV: O seu Primeiro Script
+## Capítulo IV: O seu Primeiro Script
 
 **Vamos recapitular!**
 
