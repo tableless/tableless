@@ -2,12 +2,11 @@
 authors = "Diego Eis"
 categories = ["carreira", "opinião"]
 date = "2018-08-13T05:14:00-03:00"
-draft = true
 excerpt = "Existem responsabilidades que talvez você ache que sejam exclusivas do front-end, mas não são. Tais responsabilidades são compartilhadas pelo time."
 image = "https://cdn-images-1.medium.com/max/1000/1*Iam3a4m2IeS6G2C_4t5VzQ.jpeg"
 publishdate = "2018-08-13T05:14:00-03:00"
 tags = ["mercado"]
-title = "Os dois front-ends: designer e engineer — Parte 3: Questionando as responsabilidades"
+title = "Os dois front-ends: designer e engineer — Parte 3: Questionando as responsabilidades de um front-end"
 type = "post"
 
 +++
