@@ -2,7 +2,6 @@
 authors = "Lucas Lo Ami Alvino Silva"
 categories = ["Data Science"]
 date = "2018-08-09T05:40:00-03:00"
-draft = true
 excerpt = "Resolvendo um desafio de classificação das questões do Stack Exchange proposto no HackerRank."
 image = "https://cdn-images-1.medium.com/max/1000/1*Llq4dw2tSfEU7FKBJG-fJg.jpeg"
 publishdate = "2018-08-09T05:40:00-03:00"
