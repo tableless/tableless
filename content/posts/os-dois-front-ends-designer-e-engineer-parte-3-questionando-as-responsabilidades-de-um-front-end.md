@@ -7,7 +7,7 @@ excerpt = "Existem responsabilidades que talvez você ache que sejam exclusivas 
 image = "https://cdn-images-1.medium.com/max/1000/1*Iam3a4m2IeS6G2C_4t5VzQ.jpeg"
 publishdate = "2018-08-13T05:14:00-03:00"
 tags = ["mercado"]
-title = "Os dois front-ends: designer e engineer — Parte 3: Questionando as responsabilidades de um front-end"
+title = "Os dois front-ends: designer e engineer — Parte 3: Questionando as responsabilidades"
 type = "post"
 
 +++
