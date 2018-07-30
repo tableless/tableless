@@ -15,7 +15,7 @@ _Escrevi esse artigo ouvindo essa música. Ouça enquanto lê:_
 
 ***
 
-A [primeira parte desse artigo](https://medium.com/@diegoeis/frontend-design-engineer-parte1-d3156d8dddd4) foi destinado a falar um pouco sobre **como a interação do back-end e front-end mudou com o passar do tempo** e foi se adaptando de acordo com o avanço das tecnologias e ferramentas usadas no dia a dia no desenvolvimento de software para internet.
+A [primeira parte desse artigo]() foi destinado a falar um pouco sobre **como a interação do back-end e front-end mudou com o passar do tempo** e foi se adaptando de acordo com o avanço das tecnologias e ferramentas usadas no dia a dia no desenvolvimento de software para internet.
 
 Além disso, vimos que por conta dessas mudanças, embora a relação dos back-ends e front-ends tenha melhorado, **surgiram no client-side outras complexidades que antes era resolvidas apenas no lado do servidor**. Isso fez com que surgissem dois perfis de front-end no mercado: um perfil que tem mais facilidade e é mais responsável pela parte de interface de usuário. E outro perfil mais responsável pela parte funcional e estrutura técnica do sistema.
 
