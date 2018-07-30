@@ -2,7 +2,6 @@
 authors = "Diego Eis"
 categories = ["carreira", "opinião"]
 date = "2018-08-06T08:08:00+00:00"
-draft = true
 excerpt = "Pessoas diferentes para momentos diferentes no processo de desenvolvimento."
 image = "https://i.imgur.com/hntFZME.jpg"
 publishdate = "2018-08-06T08:08:00+00:00"
