@@ -10,16 +10,14 @@ title = "Os dois front-ends: designer e engineer — Parte 3: Questionando a
 type = "post"
 
 +++
-_Escrevi ouvindo essa música. Recomendo para a leitura:_  
-[**There is A Light That Never Goes Out — The Smiths**](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI?si=Ad3Pjt8aQROb3LdpGHQlBw)
-
-***
-
 Nos outros dois artigos da série ([Parte 1](https://medium.com/@diegoeis/frontend-design-engineer-parte1-d3156d8dddd4) e [Parte 2](https://medium.com/@diegoeis/frontend-design-engineer-parte2-498bada72d84)), eu tentei desbravar os perfis de front-end que surgiram e até citei uma transformação que tem acontecido nos bastidores, onde é possível que designers se aproximem mais do código, juntamente com a ajuda do perfil **front-end designer.** E que essa aproximação tem acontecido com os back-ends, que estão cada vez mais interessados em tecnologias como NodeJS.
 
 **Nesse artigo, eu quero tentar questionar as responsabilidades de um front-end**, tentando dar um outro ponto de vista. 
 
 Eu acho que no final você pode sair com mais perguntas do que respostas sobre quais as responsabilidades de um dev front-end, a ideia é essa mesmo: cavar, procurar e encontrar bifurcações dos caminhos desse profissional. 
+
+_Escrevi ouvindo essa música. Recomendo para a leitura:_  
+[**There is A Light That Never Goes Out — The Smiths**](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI?si=Ad3Pjt8aQROb3LdpGHQlBw)
 
 # O front-end levanta e atende os requisitos de interface?
 
