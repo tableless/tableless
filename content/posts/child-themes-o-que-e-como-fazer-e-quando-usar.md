@@ -5,18 +5,10 @@ type: post
 date: 2013-07-04
 excerpt: Muitas vezes o volume de trabalho é maior do que você ou sua empresa pode suportar, mas há um jeito de tornar o desenvolvimento dos seus projetos em Wordpress ainda mais rápidos.
 url: /child-themes-o-que-e-como-fazer-e-quando-usar/
-dsq_thread_id: 1458678157
 categories:
-  - Artigos
-  - Wordpress
+  - CMS
 tags:
-  - child
-  - childthemes
-  - filho
-  - temas
-  - themes
   - Wordpress
-
 ---
 Acredito que o **Child Theme**, ou “tema filho”, ****é um dos melhores recursos do WordPress. Com ele você pode adicionar ou alterar estilos, funções, templates de páginas e etc. sem a necessidade de mexer nos arquivos core do seu tema.
 

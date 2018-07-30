@@ -4,16 +4,9 @@ authors: Diego Eis
 type: post
 date: 2008-07-14
 categories:
-  - Artigos
-  - SEO
   - Técnicas e Práticas
 tags:
-  - buscadores
-  - css layout
-  - google
-  - otimizacao website
   - SEO
-  - tableless
 ---
 
 Existem várias técnicas para colocar seu site em primeiro nos buscadores. As técnicas de SEO se encaixam em três grandes árvores: White Hat (chapéu branco) que são as legais e recomendadas pelos buscadores. Gray Hat, que se utilizadas de forma abusiva são consideradas anti-éticas, embora os buscadores não tenham controle sobre sua prática. Há outras técnicas totalmente ilegais, utilizadas para ter alguma vantagem rápida ou burlar os resultados das buscas. Essas técnicas ilegais são chamadas de Black Hat.

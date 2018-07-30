@@ -12,14 +12,9 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038068
 categories:
-  - Artigos
-  - Tecnologia e Tendências
+  - mercado
 tags:
-  - comprar
-  - internet
-  - negocios
-  - produtividade
-
+  - eventos
 ---
 Você se conhece de verdade? Quando você compra alguma coisa, compra porque? Todo mundo diz que a ação de comprar é algo emocional. E por ser uma coisa emocional, fica mais difícil encontrarmos o real motivo pelo qual a pessoa compra ou deixa de comprar algo.
 

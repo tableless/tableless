@@ -7,15 +7,11 @@ excerpt: Portal de Desenvolvedores da Locaweb.
 url: /developer-network/
 dsq_thread_id: 1059551321
 categories:
-  - Artigos
   - Notícias
 tags:
+  - Frameworks
   - 2013
-  - developer network
-  - locastyle
   - locaweb
-  - locaweb style
-
 ---
 Já faz um tempo que iniciamos um trabalho muito bacana aqui na Locaweb de padronizar e reestruturar a área de front-end. Nesse processo percebemos que alguns desenvolvedores que conhecem a Locaweb e utilizam nossos serviços, não tinham um acesso facilitado para encontrar informações técnicas, como por exemplo a integração e utilização das APIs dos produtos. Diversos desenvolvedores precisam dessas informações para que integrarem seus produtos aos serviços da Locaweb, tanto para projetos pessoais ou projetos para seus clientes.
 

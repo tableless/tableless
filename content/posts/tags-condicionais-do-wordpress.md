@@ -5,19 +5,10 @@ type: post
 date: 2011-04-12
 excerpt: As Tags Condicionais são usadas para manipular o conteúdo exibido ou especificar informações na página
 url: /tags-condicionais-do-wordpress/
-tweetbackscheck:
-  - 1356422307
-shorturls:
-  - 'a:3:{s:9:"permalink";s:54:"http://tableless.com.br/tags-condicionais-do-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/3j45e8o";s:4:"isgd";s:19:"http://is.gd/SXt4YF";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503040200
 categories:
-  - Wordpress
+  - cms
 tags:
   - 2011
-  - condições
-  - tags condicionais
   - Wordpress
 
 ---

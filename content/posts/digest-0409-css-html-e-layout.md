@@ -5,29 +5,14 @@ type: post
 date: 2009-04-25
 excerpt: Um bando de links interessantes sobre HTML, CSS e um pouco de layout.
 url: /digest-0409-css-html-e-layout/
-aktt_notify_twitter:
-  - no
-tweetbackscheck:
-  - 1356452857
-shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/digest-0409-css-html-e-layout";s:7:"tinyurl";s:26:"http://tinyurl.com/3h93xwd";s:4:"isgd";s:19:"http://is.gd/WBuEih";}'
-twittercomments:
-  - 'a:2:{i:35165051476377600;s:7:"retweet";i:35138075948486656;s:7:"retweet";}'
-tweetcount:
-  - 2
-dsq_thread_id: 503039030
 categories:
   - CSS
-  - Digest
   - HTML
   - Técnicas e Práticas
 tags:
-  - CSS
-  - css layout
   - Digest
   - html
   - layout
-
 ---
   * [Powerful CSS-Techniques For Effective Coding][1]
   * [53 CSS-Techniques You Couldn’t Live Without][2]

@@ -10,8 +10,6 @@ categories:
   - git
 tags:
   - git
-  - comandos
-  - terminal
 
 ---
 O Git é um [sistema de controle de versão][1]. Com o Git você não perderá seu trabalho, vai poder voltar para a versões anteriores, recuperando a versão do seu código de antes de ter cometido o erro e poderá criar e trabalhar diversas versões em paralelo.

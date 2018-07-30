@@ -6,14 +6,9 @@ date: 2015-04-29
 excerpt: Meu primeiro hackathon não poderia ter sido melhor, foi algo incrível e cheio de momentos inspiradores para uma nova visão de aprendizado.
 url: /hack-poa-2015/
 categories:
-  - Eventos e Workshops
+  - Mercado
 tags:
-  - 2015
-  - evento
-  - globo
-  - hack
-  - hackathon
-
+  - Eventos
 ---
 ## **Hack In POA 2015**
 
