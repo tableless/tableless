@@ -4,30 +4,44 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- path: content
+- type: directory
+  path: content
   label: Pages
   create: all
-- path: content/posts
+  match: "*"
+- type: directory
+  path: content/posts
   label: Posts
   create: all
-- path: content/convertidos
+  match: "**/*"
+- type: directory
+  path: content/convertidos
   label: Convertidos
   create: all
-- path: content/todos-os-posts
+  match: "**/*"
+- type: directory
+  path: content/todos-os-posts
   label: Todos os posts
   create: all
-- path: content/forum
+  match: "**/*"
+- type: directory
+  path: content/forum
   label: Forum
   create: all
-- path: content/servicos
+  match: "**/*"
+- type: directory
+  path: content/servicos
   label: Servicos
   create: all
-- path: content/pages
+  match: "**/*"
+- type: directory
+  path: content/pages
   label: Pages
   create: all
+  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
-version: '0.44'
+version: '0.45'
