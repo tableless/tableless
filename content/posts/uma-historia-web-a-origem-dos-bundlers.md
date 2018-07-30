@@ -2,7 +2,6 @@
 authors = "Igor Octaviano"
 categories = ["javascript"]
 date = "2018-08-23T04:02:00-03:00"
-draft = true
 excerpt = "Entenda como surgiram os bundlers no Javascript"
 image = "https://i.imgur.com/GIzEFch.jpg"
 publishdate = "2018-08-23T04:02:00-03:00"
@@ -70,8 +69,6 @@ Procurando a sabedoria para resolver esse problema, buscando desesperadamente po
 Basicamente, esse padrão lhe permite, através de [clausuras](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Closures), o encapsulamento de código. A coisa retornada e atribuída a algumaCoisaInteressante acima tem métodos e propriedades visíveis e esses métodos tem acesso as coisas locais definidas dentro da expressão da função, na qual ninguém fora da mesma tem acesso. Então, de certa forma, é essa estrutura que vai permitir Diêiés escrever blocos encapsulados com visibilidade privada. Mas porque isso é relevante para ele?
 
 Isso evita o problema dele com as colisões de nomes.
-
-_\*Ah! se você não entrou no link sobre clausuras acima, recomendo muito se caso ainda não souber o que é isso. Voltando a história…_
 
 O que ele vai fazer é criar essa estrutura em cada um desses 80, 100… arquivos que ele tem, engolindo todo o conteúdo de cada arquivo. E no final de contas, essa estrutura vai retornar apenas as coisas que ele realmente quer que sejam visíveis.
 
