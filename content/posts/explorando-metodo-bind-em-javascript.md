@@ -3,12 +3,15 @@ title: Explorando o método bind em JavaScript
 authors: Helder Burato Berto
 type: post
 image: https://i.imgur.com/86DGMav.png
-date: 2018-07-30
+date: 2018-07-30 00:00:00 -0300
 excerpt: Conhecendo o método bind e seus benefícios.
 categories:
-  - Javascript
----
+- Javascript
+publishdate: 2018-07-30 00:00:00 -0300
+tags:
+- bind
 
+---
 Neste artigo iremos abordar o método *bind*. Este método *é* muito importante na linguagem Javascript e de grande utilidade para o uso dos frameworks mais atuais.
 
 ## Introdução
