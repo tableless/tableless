@@ -83,4 +83,11 @@ $ now
 
 ![deploy](https://i.imgur.com/w6fnp2N.png)
 
-Nesse caso, foi gerada a seguinte URL https://exemplo-now-hyikuehach.now.sh/ para a minha aplicação.
+Nesse caso, foi gerada a URL https://exemplo-now-hyikuehach.now.sh/ para a minha aplicação.
+
+
+## Conclusão
+
+Esse post foi para mostrar uma solução e alternativa para o deploy de forma gratuita das nossas aplicações na nuvem. Assim como outras *PaaS* o **Now** tem diversas vantagens e desvantagens.
+
+Existe uma [lista de *awesome*](https://github.com/zeit/awesome-zeit) no GitHub com vários links e features bem legais para quem está utilizando o **Now**.
