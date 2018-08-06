@@ -85,6 +85,13 @@ $ now
 
 Nesse caso, foi gerada a URL https://exemplo-now-hyikuehach.now.sh/ para a minha aplicação.
 
+## Pontos Positivos
+
+Vale ressaltar alguns pontos positivos que o **Now** nos oferece:
+
+- Facilidade: não é necessário configurarmos nenhuma chave/token de acesso e nem sequer ter o *git* instalado (como por exemplo no Heroku)
+- Ilimitado: toda vez que executamos o comando *now*, uma nova URL com a nossa aplicação é gerada não havendo necessidade de removermos as versões antigas
+- Tráfego Seguro: toda a comunicação com as aplicações são feitas através de HTTPS e além disso o tráfego é realizado através de *HTTP/2*
 
 ## Conclusão
 
