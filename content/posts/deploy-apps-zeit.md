@@ -2,7 +2,8 @@
 title: Deploy grátis de aplicações na cloud com o Now
 authors: Breno Panzolini
 type: post
-date: 2018-08-06
+date: 2018-08-08T08:08:00+00:00
+publishdate: 2018-08-08T08:08:00+00:00
 excerpt: Como fazer o deploy gratuito de aplicações na cloud utilizando o Now.
 categories:
   - Tecnologia e Tendências
