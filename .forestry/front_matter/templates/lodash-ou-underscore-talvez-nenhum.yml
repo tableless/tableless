@@ -64,6 +64,7 @@ fields:
     required: true
 pages:
 - content/posts/as-12-melhores-bibliotecas-de-graficos-para-desenvolvedores-web.md
+- content/posts/conheca-4-programadoras-que-fizeram-historia.md
 - content/posts/post-threads-nodejs.md
 - content/posts/autenticacao-em-apis-aspnet-core-com-jwt-refresh-token.md
 - content/posts/internet-por-banda-larga-volta-a-crescer.md
