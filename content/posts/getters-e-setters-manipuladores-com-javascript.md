@@ -2,15 +2,15 @@
 title: 'Getters e Setters - Manipuladores com Javascript'
 authors: Morais Junior
 type: post
-date: 2018-07-01
+date: 2018-08-17
 excerpt: ' Descobrindo formas elegantes de manipular valores de objetos'
+image: https://pbs.twimg.com/profile_images/776813473657450497/7KHzfkD-_400x400.jpg
 categories:
   - JAVASCRIPT
   - Browsers  
   - ECMAScript 5
 ---
-### Conceito: 
-Getters e setters são comuns em várias linguagens, no javascript não seria diferente, eles nos ajudam a encapsular/proteger/isolar propriedades de objetos e facilitar o trabalho com objetos, o uso normalmente se dá quando precisamos fazer validações ou tratamentos antes de salvar um dado e o mesmo quando formos recuperá los. sem os getters e setters teríamos que fazer algo do tipo:
+Getters e setters são comuns em várias linguagens, no javascript não seria diferente, eles nos ajudam a encapsular/proteger/isolar propriedades e facilitar o trabalho com objetos. Normalmente utilizamos quando precisamos fazer validações ou tratamentos antes de salvar um dados. O mesmo acontece para recuperá-los. Sem os getters e setters poderíamos fazer desta forma:
 
 ```javascript
 //definimos um valor
@@ -45,7 +45,9 @@ variavel.int = 456;
 console.log(variavel.int);
 ```
 Existem várias formas de fazer neston, com getters e setters não seria diferente além da forma literal mostrada anteriormente temos defineProperty e defineGetter/defineSetter:
-###defineProperty
+
+### defineProperty
+
 ```javascript
 var variavel = {
     valor: 0
@@ -63,7 +65,9 @@ Object.defineProperty(variavel, 'moeda', {
 variavel.moeda = 10;
 console.log(variavel.moeda)
 ```
-###__defineGetter__
+
+### defineGetter
+
 ```javascript
 Array.prototype.__defineGetter__("sum", function sum(){
 	var r = 0, a = this, i = a.length - 1;
@@ -76,7 +80,9 @@ Array.prototype.__defineGetter__("sum", function sum(){
 	var asdf = [1, 2, 3, 4];
 asdf.sum; //returns 10
 ```
-###__defineSetter__
+
+### defineSetter
+
 ```javascript
 var o = {};
 o.__defineSetter__('value', function(val) { this.anotherValue = val; });
@@ -84,7 +90,9 @@ o.value = 5;
 console.log(o.value); // undefined
 console.log(o.anotherValue); // 5
 ```
-###Fazendo Mágica
+
+### Fazendo mágica
+
 Podemos definir controladores mais flexíveis
 ```javascript
 var evento_string = 'dinamico'; //string com o nome do método
@@ -95,10 +103,13 @@ var obj = {
 
 console.log(obj.dinamico); // "bar"
 ```
-###Compatibilidade
+
+### Compatibilidade
+
 Temos compatibilidades e padrões diferentes para definirmos get e set:
 
-####ECMAScript 5
+#### ECMAScript 5
+
 No ES5, você normalmente usaria Obect.defineProperty para implementar:
 
 ```javascript
@@ -116,7 +127,9 @@ var eu = new pessoa('Alex');
 
 console.log(eu.ola);
 ```
-####ECMAScript 2015
+
+#### ECMAScript 2015
+
 No ES2015, você também pode usar classes para obter o comportamento desejado:
 ```javascript
 class pessoa{
@@ -131,7 +144,8 @@ class pessoa{
 var eu = new pessoa('Bob');
 console.log(eu.ola);  // Outputs 'Bob'
 ```
-##### Herança
+
+##### Herança dos manipuladores
 
 ```javascript
 class pessoa {
