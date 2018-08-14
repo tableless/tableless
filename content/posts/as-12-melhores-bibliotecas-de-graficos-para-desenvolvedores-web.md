@@ -159,3 +159,5 @@ Se você está procurando por mais informações sobre as ferramentas de represe
 Embora essa lista seja voltada para [desenvolvedores web](https://br.udacity.com/course/front-end-web-developer-nanodegree--nd001/), algumas das ferramentas aqui são tão fáceis de usar que você nem precisa ser um desenvolvedor para começar a trabalhar com elas.
 
 Com a gama de exemplos interativos disponíveis online personalizar códigos, ficou fácil até para quem está apenas começando no desenvolvimento web.
+
+_Artigo originalmente publicado no_ [_blog americano_](https://blog.udacity.com/2016/03/12-best-charting-libraries-for-web-developers.html) _da Udacity_
