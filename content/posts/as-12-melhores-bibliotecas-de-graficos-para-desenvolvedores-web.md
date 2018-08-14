@@ -1,11 +1,10 @@
 +++
 authors = "Christopher Watkins"
 categories = ["front-end"]
-date = "2018-08-15T09:00:00-03:00"
-draft = true
+date = "2018-08-16T09:00:00-03:00"
 excerpt = "Desenvolvedores web não se dão bem com planilhas, mas também não precisam mais: existem outras maneiras de representar dados"
 image = "https://i.imgur.com/jSr7mmP.png"
-publishdate = "2018-08-15T09:00:00-03:00"
+publishdate = "2018-08-16T09:00:00-03:00"
 tags = ["ferramentas"]
 title = "As 12 melhores bibliotecas de gráficos para desenvolvedores web"
 type = "post"
@@ -16,8 +15,6 @@ Muitos de vocês estão profundamente envolvidos em projetos de desenvolvimento 
 É um ponto de atenção. A diferença entre os dados e nossa interpretação deles pode ser gigantesca, sobretudo quando expostos em formatos ininteligíveis dentro de planilhas - talvez o pior modelo de todos.
 
 Desenvolvedores web não se dão bem com planilhas, mas também não precisam mais: existem outras maneiras de representar dados, e Boggarapu oferece dicas, atalhos e conselhos para escolher a melhor para você.
-
-**Leia:** [**5 jogos de programação para você treinar suas habilidades**](https://br.udacity.com/blog/post/jogos-de-programacao)
 
 ## 12 bibliotecas de gráficos para desenvolvedores web
 
