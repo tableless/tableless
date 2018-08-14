@@ -12,7 +12,7 @@ type = "post"
 +++
 Para comemorar o Dia Internacional da Mulher, o [Fórum Econômico Mundial](https://www.weforum.org/agenda/2016/07/5-female-coders-who-changed-the-world/) destacou mulheres que fizeram história, na tecnologia e no mundo.
 
-Algumas delas já são ícones culturais, como Grace Hopper, enquanto outras ganharam popularidade recententemente, com adaptações cinematográficas como "O Jogo da Imitação" ou livros como "Os Inovadores", de Walter Isaacson, que traça a história da [atual revolução tecnológica](https://br.udacity.com/blog/post/entenda-a-revolucao-tecnologica).
+Algumas delas já são ícones culturais, como Grace Hopper, enquanto outras ganharam popularidade recentetemente, com adaptações cinematográficas como "O Jogo da Imitação" ou livros como "Os Inovadores", de Walter Isaacson, que traça a história da [atual revolução tecnológica](https://br.udacity.com/blog/post/entenda-a-revolucao-tecnologica).
 
 ## Ada Lovelace
 
