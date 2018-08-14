@@ -2,7 +2,6 @@
 authors = "Udacity Brasil"
 categories = ["mercado"]
 date = "2018-08-21T09:00:00-03:00"
-draft = true
 excerpt = "Para comemorar o Dia Internacional da Mulher, o Fórum Econômico Mundial destacou mulheres que fizeram história, na tecnologia e no mundo."
 image = "https://i.imgur.com/2tQbKQq.png"
 publishdate = "2018-08-21T09:00:00-03:00"
