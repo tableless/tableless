@@ -62,22 +62,28 @@ fields:
   description: Imagem de destaque do artigo
   config:
     required: true
+- type: text
+  name: canonical
+  label: canonical
+  description: URL canonica. Caso seja uma tradução ou post duplicado. Insira a URL
+    original aqui.
+  hidden: false
 pages:
-- content/posts/react-o-que-e-e-como-funciona-essa-ferramenta.md
 - content/posts/as-12-melhores-bibliotecas-de-graficos-para-desenvolvedores-web.md
-- content/posts/conheca-4-programadoras-que-fizeram-historia.md
-- content/posts/veja-os-salarios-de-desenvolvedores-e-de-outras-profissoes-de-ti-em-alta.md
-- content/posts/post-threads-nodejs.md
-- content/posts/autenticacao-em-apis-aspnet-core-com-jwt-refresh-token.md
-- content/posts/internet-por-banda-larga-volta-a-crescer.md
-- content/posts/os-dois-tipos-de-front-end-design-e-o-engineer-parte-1-uma-breve-historia.md
-- content/posts/hacking.rio-2018.md
 - content/posts/sera-o-dropshipping-o-futuro-do-empreendedorismo.md
-- content/posts/angular-vs-reactjs-a-web-sempre-ganhando.md
-- content/posts/usando-sass-com-create-react-app-sem-eject.md
-- content/posts/classificando-o-conteudo-do-stack-exchange-parte-1.md
-- content/posts/os-dois-front-ends-designer-e-engineer-parte-2-os-dois-perfis.md
-- content/posts/os-dois-front-ends-designer-e-engineer-parte-3-questionando-as-responsabilidades-de-um-front-end.md
-- content/posts/classificando-o-conteudo-do-stack-exchange-parte-2.md
-- content/posts/uma-historia-web-a-origem-dos-bundlers.md
+- content/posts/react-o-que-e-e-como-funciona-essa-ferramenta.md
+- content/posts/veja-os-salarios-de-desenvolvedores-e-de-outras-profissoes-de-ti-em-alta.md
+- content/posts/conheca-4-programadoras-que-fizeram-historia.md
 - content/posts/explorando-metodo-bind-em-javascript.md
+- content/posts/uma-historia-web-a-origem-dos-bundlers.md
+- content/posts/classificando-o-conteudo-do-stack-exchange-parte-2.md
+- content/posts/classificando-o-conteudo-do-stack-exchange-parte-1.md
+- content/posts/os-dois-front-ends-designer-e-engineer-parte-3-questionando-as-responsabilidades-de-um-front-end.md
+- content/posts/os-dois-front-ends-designer-e-engineer-parte-2-os-dois-perfis.md
+- content/posts/usando-sass-com-create-react-app-sem-eject.md
+- content/posts/angular-vs-reactjs-a-web-sempre-ganhando.md
+- content/posts/hacking.rio-2018.md
+- content/posts/internet-por-banda-larga-volta-a-crescer.md
+- content/posts/autenticacao-em-apis-aspnet-core-com-jwt-refresh-token.md
+- content/posts/os-dois-tipos-de-front-end-design-e-o-engineer-parte-1-uma-breve-historia.md
+- content/posts/post-threads-nodejs.md
