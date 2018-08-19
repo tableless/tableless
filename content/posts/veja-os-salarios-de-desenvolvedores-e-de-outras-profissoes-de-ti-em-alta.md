@@ -1,5 +1,6 @@
 +++
 authors = "Udacity Brasil"
+canonical = "https://br.udacity.com/blog/post/salarios-de-desenvolvedores-ti"
 categories = ["mercado"]
 date = "2018-09-05T10:08:00-03:00"
 excerpt = "Entenda qual a faixa salarial do mercado"
