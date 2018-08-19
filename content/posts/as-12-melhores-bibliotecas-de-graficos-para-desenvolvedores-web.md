@@ -8,7 +8,7 @@ publishdate = "2018-08-16T09:00:00-03:00"
 tags = ["ferramentas"]
 title = "As 12 melhores bibliotecas de gráficos para desenvolvedores web"
 type = "post"
-
+canonical = "https://br.udacity.com/blog/post/bibliotecas-de-grafico-para-desenvolvedores-web"
 +++
 Muitos de vocês estão profundamente envolvidos em projetos de desenvolvimento web. Pensando nisso, Rohit Boggarapu, engenheiro de software na Adobe, escreve abaixo para compartilhar suas ferramentas gráficas de visualização de dados voltadas aos desenvolvedores web favoritas.
 

@@ -17,7 +17,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-  <meta name="description" content="{{ .Param "excerpt " }}">
+  <meta name="description" content="{{ .Params.excerpt }}">
 
   <link rel="preconnect" href="https://code.jquery.com/">
   <link rel="preconnect" href="https://duckduckgo.com/">
@@ -51,13 +51,16 @@
   <link rel="prefetch" href="https://ssl.google-analytics.com/ga.js" as="javascript">
   <link rel="prefetch" href="https://www.google-analytics.com/analytics.js" as="javascript">
   
-  <link rel="canonical" href="{{ .Permalink }}">
+  
+  <link rel="canonical" href='{{ if $.Param "canonical" }}{{ $.Param "canonical" }}{{else}}{{.Permalink}}{{end}}'>
+  
 
   <link rel="icon" href="https://tableless.com.br/images/favicon.png">
 
   <link href="http://www.specificfeeds.com/tableless?subParam=followPub" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
 
   <meta property="og:url" content="{{ .Permalink }}">
+
   {{ if $.Scratch.Get "single"}}
   <meta property="og:type" content="article">
   {{end}}
@@ -65,14 +68,14 @@
   <meta property="og:type" content="website" />
   {{end}}
   <meta property="og:title" content="{{ .Title}}">
-  <meta property="og:description" content="{{ .Param "excerpt " }}" name="description">
+  <meta property="og:description" content="{{ .Params.excerpt }}" name="description">
   <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
   <meta property="fb:app_id" content="187329465112652">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@tableless">
   <meta name="twitter:title" content="{{.Title}}">
-  <meta name="twitter:description" content="{{ .Param "excerpt " }}">
+  <meta name="twitter:description" content="{{ .Params.excerpt }}">
   <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
 
  {{if .IsHome}}
