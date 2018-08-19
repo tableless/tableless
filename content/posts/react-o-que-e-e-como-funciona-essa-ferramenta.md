@@ -1,5 +1,6 @@
 +++
 authors = "Udacity Brasil"
+canonical = "http://br.udacity.com/blog/post/react-o-que-e-como-funciona"
 categories = ["javascript"]
 date = "2018-09-13T10:00:00-03:00"
 excerpt = "Como definido por seus criadores, React é “uma biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário (UI)”."
