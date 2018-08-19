@@ -1,5 +1,6 @@
 +++
 authors = "Udacity Brasil"
+canonical = "http://br.udacity.com/blog/post/4-programadoras-que-fizeram-historia"
 categories = ["mercado"]
 date = "2018-08-21T09:00:00-03:00"
 excerpt = "Para comemorar o Dia Internacional da Mulher, o Fórum Econômico Mundial destacou mulheres que fizeram história, na tecnologia e no mundo."
