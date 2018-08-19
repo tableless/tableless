@@ -1,16 +1,18 @@
-+++
-authors = "Breno Panzolini"
-canonical = ""
-categories = ["javascript", "nodejs"]
-date = "2018-07-05T00:00:00-03:00"
-excerpt = "Uma introdução prática às threads no Node.js."
-image = "https://pre00.deviantart.net/52b2/th/pre/f/2017/092/7/4/nodejs_dark_by_wfuller-db4e1ip.png"
-publishdate = "2018-07-05T00:00:00-03:00"
-tags = ["nodejs"]
-title = "Threads no Node.js 10"
-type = ""
+---
+title: Uma introdução prática às threads no Node.js
+authors: Breno Panzolini
+type: post
+date: 2018-08-19
+publishdate: 2018-08-19
+excerpt: Uma introdução prática às threads no Node.js
+categories:
+  - Javascript
+  - NodeJS
+tags:
+  - nodejs
+image: https://i.imgur.com/R4xZrtd.jpg
+---
 
-+++
 Agora no final de junho (mais precisamente no dia 20/06/2018), foi feito o _release_ da versão 10.5.0 do Node.js e uma das _features_ principais foi a inclusão inicial (e ainda experimental, diga-se de passagem), do **suporte às threads**.
 
 Nesse post vou tentar simplificar ao máximo a documentação do [pull request](https://github.com/nodejs/node/pull/20876) e alguns detalhes técnicos, porém acredito ser suficiente para entendermos o básico da funcionalidade.
