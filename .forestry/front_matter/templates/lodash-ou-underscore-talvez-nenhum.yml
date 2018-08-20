@@ -69,9 +69,9 @@ fields:
     original aqui.
   hidden: false
 pages:
+- content/posts/sera-o-dropshipping-o-futuro-do-empreendedorismo.md
 - content/posts/veja-os-salarios-de-desenvolvedores-e-de-outras-profissoes-de-ti-em-alta.md
 - content/posts/as-12-melhores-bibliotecas-de-graficos-para-desenvolvedores-web.md
-- content/posts/sera-o-dropshipping-o-futuro-do-empreendedorismo.md
 - content/posts/react-o-que-e-e-como-funciona-essa-ferramenta.md
 - content/posts/conheca-4-programadoras-que-fizeram-historia.md
 - content/posts/explorando-metodo-bind-em-javascript.md

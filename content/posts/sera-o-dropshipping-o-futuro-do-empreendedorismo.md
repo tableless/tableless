@@ -58,7 +58,7 @@ Posto isto, alguns dos pontos onde terá realmente que fazer um investimento sã
 
 Além disso, frisamos que é muito importante perder algum tempo a avaliar plataformas que forneçam produtos para venda nesta modalidade.
 
-Se não conhece nenhuma plataforma, saiba que pode encontrar fornecedores tanto no Amazon como no Aliexpress (pode ver aqui o [aliexpress dropshipping guia completo](https://br.oberlo.com/blog/guia-para-fazer-dropshipping-com-o-aliexpress) para saber como começar o seu negócio).
+Se não conhece nenhuma plataforma, saiba que pode encontrar fornecedores tanto no Amazon como no Aliexpress (pode ver aqui o [aliexpress dropshipping guia](https://br.oberlo.com/blog/guia-para-fazer-dropshipping-com-o-aliexpress) completo para saber como começar o seu negócio).
 
 ## Como funciona o dropshipping na prática?
 
