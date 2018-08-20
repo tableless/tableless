@@ -69,7 +69,6 @@ fields:
     original aqui.
   hidden: false
 pages:
-- content/posts/post-threads-nodejs.md
 - content/posts/veja-os-salarios-de-desenvolvedores-e-de-outras-profissoes-de-ti-em-alta.md
 - content/posts/as-12-melhores-bibliotecas-de-graficos-para-desenvolvedores-web.md
 - content/posts/sera-o-dropshipping-o-futuro-do-empreendedorismo.md
