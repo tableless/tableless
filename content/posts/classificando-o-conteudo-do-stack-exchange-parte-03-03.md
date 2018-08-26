@@ -3,7 +3,6 @@ authors = "Lucas Lo Ami Alvino Silva"
 canonical = ""
 categories = ["backend", "datascience"]
 date = "2018-09-03T09:40:07-03:00"
-draft = true
 excerpt = "A série de textos que mostram como resolver o desafio de classificação textual do HackerRank finaliza por aqui."
 image = "https://i.imgur.com/SGrw9RR.jpg"
 publishdate = "2018-09-03T09:40:00-03:00"
