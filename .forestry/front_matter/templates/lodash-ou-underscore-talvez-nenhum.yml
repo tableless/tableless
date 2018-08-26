@@ -69,6 +69,7 @@ fields:
     original aqui.
   hidden: false
 pages:
+- content/posts/como-evitar-que-seu-app-react-com-redux-vire-um-ninho-de-rato.md
 - content/posts/sera-o-dropshipping-o-futuro-do-empreendedorismo.md
 - content/posts/veja-os-salarios-de-desenvolvedores-e-de-outras-profissoes-de-ti-em-alta.md
 - content/posts/as-12-melhores-bibliotecas-de-graficos-para-desenvolvedores-web.md
