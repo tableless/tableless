@@ -48,7 +48,7 @@ Conhecer o tipo de dispositivo que o usuário está carregando não diz nada sob
 
 Usuários têm acessado nosso conteúdo através de telas com tamanhos e resoluções bem diversificados. Dados relatados pela SecureCube mostram que, em janeiro de 2000, a maioria dos usuários acessavam a partir de um navegador com resolução de 800 x 600, mas uma minoria significativa (29%) acessavam o site em 1024 x 768 ou superior, com uma pequena porcentagem (11%) em sites em 640 x 480 (<a href="http://bkaprt.com/csm/16" target="_blank">http://bkaprt.com/csm/16</a>; fig 1.1). Naquela época, as decisões sobre a melhor forma de apresentar o conteúdo eram vistas como desafios de design, e os desenvolvedores procuravam oferecer uma boa experiência na leitura para os usuários em todas as resoluções, discutindo formas apropriadas de ajustar a largura de colunas layout, conforme o redimensionamento da tela.
 
-<img class="alignleft" src="http://www.alistapart.com/d/your-content-now-mobile/mcgrane-1-1.png" alt="" width="540" height="272" />
+<img class="alignleft" src="https://www.alistapart.com/d/your-content-now-mobile/mcgrane-1-1.png" alt="" width="540" height="272" />
 
 _Fig 1.1: Temos muita experiência em entregar um conteúdo a uma variedade de telas e resoluções. Então por que presumimos que as telas mobile necessariamente indicam um contexto diferente?_
 
@@ -64,7 +64,7 @@ Recentemente passei em Austin, Texas, em viagem com três amigos. Como chegamos 
 
 Uma simples busca no Google deveria resolver este problema. E rapidamente encontrei um link que parecia ser promissor (fig 1.2).
 
-<img class="alignleft" src="http://www.alistapart.com/d/your-content-now-mobile/mcgrane-1-2.png" alt="" width="540" height="342" />
+<img class="alignleft" src="https://www.alistapart.com/d/your-content-now-mobile/mcgrane-1-2.png" alt="" width="540" height="342" />
 
 _Fig 1.2: Uma busca por “United Club Membership” mostra que o conteúdo existe no site oficial. Mas como a URL é redirecionada a um website mobile, os usuários acabam caindo na  home  da versão mobile._
 
@@ -84,7 +84,7 @@ _“A experiência mobile…  tem um foco direcionado à necessidade dos client
 
 Os especialistas e designers de apps mobile não decidem o que é realmente importante. O importante é o que importa “ao usuário”, e a probabilidade entre ele desejar realizar uma tarefa ou encontrar uma informação é a mesma.
 
-<img class="alignleft" src="http://www.alistapart.com/d/your-content-now-mobile/mcgrane-1-3.png" alt="" width="270" height="389" />
+<img class="alignleft" src="https://www.alistapart.com/d/your-content-now-mobile/mcgrane-1-3.png" alt="" width="270" height="389" />
 
 _Fig 1.3: O app para iphone da Southwest Airlines só tem espaço para o que realmente é importante… desde que o que seja importante não envolva a busca por informações._
 
@@ -104,7 +104,7 @@ Você já clicou em um link do Facebook ou Twitter em seu celular? E num link de
 
 Se seu conteúdo não está disponível na versão mobile – ou oferece uma experiência de leitura ruim – você está perdendo uma das formas mais atrativas de fazer com que as pessoas o leiam. Seu site é cheio de ícones tentando fazer com que os usuários compartilhem seu conteúdo? Se seus leitores receberem uma mensagem de erro ao tentar compartilhá-lo, todos os esforços para animá-lo a fazer isto serão desperdiçados (fig 1.4).
 
-<img class="alignleft" src="http://www.alistapart.com/d/your-content-now-mobile/mcgrane-1-4.png" alt="" width="270" height="388" />
+<img class="alignleft" src="https://www.alistapart.com/d/your-content-now-mobile/mcgrane-1-4.png" alt="" width="270" height="388" />
 
 _Fig 1.4: “Nenhum conteúdo mobile foi encontrado. Você gostaria de visitar a versão desktop do site?” Pergunta o The Guardian. Você consegue adivinhar a resposta? _
 
@@ -124,7 +124,7 @@ O Microsoft Office tentou essa estratégia no fim dos anos 90. O Office 97 ofere
 
 Em resposta, a Microsoft desenvolveu “Menus personalizados” e “Barras de ferramentas entroncadas” que mostravam os itens mais populares primeiro (fig 1.5). Embora a Microsoft tivesse bons dados e um poderoso algoritmo para ajudar a determinar quais itens devessem ser priorizados, descobriu-se que os usuários não gostavam de ser previstos. As pessoas achavam muito frustrante passar por um processo de dois estágios, procurando por múltiplos menus até encontrar o que buscavam. Menus personalizados violam um dos princípios fundamentais do design em uso: o de colocar o usuário no controle.
 
-<img class="alignleft" src="http://www.alistapart.com/d/your-content-now-mobile/mcgrane-1-5.png" alt="" width="570" height="524" />
+<img class="alignleft" src="https://www.alistapart.com/d/your-content-now-mobile/mcgrane-1-5.png" alt="" width="570" height="524" />
 
 _Fig 1.5: Os menus personalizados no Office 97 tentaram priorizar as opções que a Microsoft achava que os usuários queriam. Foram um fracasso._
 

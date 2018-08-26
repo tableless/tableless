@@ -15,7 +15,7 @@ tags:
   - mobile first
 
 ---
-<img class="alignleft" alt="" src="http://bradfrostweb.com/uploads/2012/03/luke1-650x487.jpg" />
+<img class="alignleft" alt="" src="https://bradfrostweb.com/uploads/2012/03/luke1-650x487.jpg" />
 
 Vemos a frase &#8220;mobile-first&#8221; em todos os lugares. <a href="http://lukew.com/" target="_blank">Luke Wroblewski</a> definitivamente atingiu uma veia quando cunhou este termo há alguns anos, e criou um importante grito de guerra a medida que entramos neste futuro multi-screen.
 
@@ -35,7 +35,7 @@ A população mobile-first acessa o mundo digital principalmente (ou apenas) atr
 
 O termo &#8220;mobile only&#8221; também está surgindo como algo cultural, e descreve quando o dispositivo mobile é a única janela para o mundo conectado.
 
-<img class="alignleft" alt="" src="http://bradfrostweb.com/uploads/2012/03/babies-with-mobile-650x650.jpg" />
+<img class="alignleft" alt="" src="https://bradfrostweb.com/uploads/2012/03/babies-with-mobile-650x650.jpg" />
 
 _Uma geração mobile-first_
 
@@ -61,7 +61,7 @@ Essa mentalidade na estratégia do design inicial por small screens, envolve dos
 
 O desenvolvimento mobile-first é de grande abrangência, e na web o termo é frequentemente discutido no contexto <a href="http://bradfrostweb.com/blog/web/mobile-first-responsive-web-design/" target="_blank">mobile first no web design responsivo</a>. A ideia básica é que em vez de codificar a experiência inicialmente para telas maiores, e depois incluir o código adicional para ser trabalhado em small screens, faz mais sentido desenvolver primeiro uma leve fundação semântica de código, para só então ir melhorando progressivamente essa experiência.
 
-<img class="alignleft" alt="" src="http://bradfrostweb.com/uploads/2012/03/43-650x487.png" />
+<img class="alignleft" alt="" src="https://bradfrostweb.com/uploads/2012/03/43-650x487.png" />
 
 ### Estrutura
 

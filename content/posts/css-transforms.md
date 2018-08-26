@@ -37,9 +37,9 @@ Há dois tipos de CSS Transforms: no formato 2D e 3D. Veremos aqui apenas o form
 Temos abaixo um exemplo com 3 imagens. O código HTML é o seguinte:
 
 <pre class="lang-html">&lt;ul&gt;
-	&lt;li&gt;&lt;img src="http://tableless.github.com/exemplos/csstransforms/images/img1.png" alt="" /&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;img src="http://tableless.github.com/exemplos/csstransforms/images/img2.png" alt="" /&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;img src="http://tableless.github.com/exemplos/csstransforms/images/img3.png" alt="" /&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;img src="https://tableless.github.com/exemplos/csstransforms/images/img1.png" alt="" /&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;img src="https://tableless.github.com/exemplos/csstransforms/images/img2.png" alt="" /&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;img src="https://tableless.github.com/exemplos/csstransforms/images/img3.png" alt="" /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </pre>
 

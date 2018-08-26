@@ -17,7 +17,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
 <table>
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/Renan-Final-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/Renan-Final-60x80.png" />
     </td>
     
     <td>
@@ -27,7 +27,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/Vin%C3%ADcius-Souza-60x80.jpg" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/Vin%C3%ADcius-Souza-60x80.jpg" />
     </td>
     
     <td>
@@ -37,7 +37,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/05/Andre-Noel-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/05/Andre-Noel-60x80.png" />
     </td>
     
     <td>
@@ -47,7 +47,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/Roberta-final-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/Roberta-final-60x80.png" />
     </td>
     
     <td>
@@ -57,7 +57,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/éverton-Final-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/éverton-Final-60x80.png" />
     </td>
     
     <td>
@@ -67,7 +67,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/jean-carlo-emer-60x80.jpg" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/jean-carlo-emer-60x80.jpg" />
     </td>
     
     <td>
@@ -77,7 +77,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/05/Akita-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/05/Akita-60x80.png" />
     </td>
     
     <td>

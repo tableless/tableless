@@ -29,11 +29,11 @@ O resultado final pode ser conferido <a href="http://www.prixphotoaliancafrances
 
 O conteúdo do site era totalmente dinâmico, ou seja, vinha de consultas ao banco de dados feitas no carregamento da página. Veja abaixo como ficou a página da galeria, com os _thumbnails_ clicáveis:
 
-[<img class=" wp-image-43 size-large aligncenter" src="http://www.decheryweb.com.br/blog/uploads/galeria-prix-1-1024x550.png" alt="galeria-prix-1" width="660" height="354" />][1]
+[<img class=" wp-image-43 size-large aligncenter" src="https://www.decheryweb.com.br/blog/uploads/galeria-prix-1-1024x550.png" alt="galeria-prix-1" width="660" height="354" />][1]
 
 Ao dar o clique em um dos _thumbs_ se abria uma galeria de fotos em _lightbox_, usando o _plugin_ jQuery <a href="http://fancyapps.com/fancybox/" target="_blank"><em>fancybox</em> </a>(um velho favorito meu):
 
-[<img class=" size-large wp-image-42 aligncenter" src="http://www.decheryweb.com.br/blog/uploads/galeria-prix-2-1024x550.png" alt="galeria-prix-2" width="660" height="354" />][2]
+[<img class=" size-large wp-image-42 aligncenter" src="https://www.decheryweb.com.br/blog/uploads/galeria-prix-2-1024x550.png" alt="galeria-prix-2" width="660" height="354" />][2]
 
 #### O problema
 
@@ -41,7 +41,7 @@ Eu já tinha toda a lógica para exibir os _thumbnails_ na página e também as 
 
 Para demonstrar o funcionamento do sistema existente de carregamento das galerias, segue um diagrama:
 
-[<img class=" size-full wp-image-68 aligncenter" src="http://www.decheryweb.com.br/blog/uploads/diagrama-prix.png" alt="diagrama-prix" width="361" height="536" />][3]
+[<img class=" size-full wp-image-68 aligncenter" src="https://www.decheryweb.com.br/blog/uploads/diagrama-prix.png" alt="diagrama-prix" width="361" height="536" />][3]
 
 Trata-se de um exemplo básico de uso de Ajax, aonde temos:
 

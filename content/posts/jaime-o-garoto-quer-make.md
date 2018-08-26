@@ -43,7 +43,7 @@ No processo básico de instalação que falei acima o que acontecia era o seguin
   2. `Makefile` é o arquivo que dizia ao **make** quais eram as tarefas a serem realizadas para compilar o programa, essas tarefas eram feitas numa ordem topologica respeitando as dependências dos arquivos.
   3. `$ make install` esse comando chamava uma tarefa que estava definida no makefile e que tinha como objetivo fazer a instalação do programa compilado anteriormente.
 
-<img class="aligncenter" src="http://cristianounix.github.io/img/posts/graph.png" alt="" width="420" height="273" />
+<img class="aligncenter" src="https://cristianounix.github.io/img/posts/graph.png" alt="" width="420" height="273" />
   
 Veja mais sobre ordenação topologica <a href="https://en.wikipedia.org/wiki/Topological_sorting" target="_blank">aqui</a>
 
@@ -135,7 +135,7 @@ clean:
 
 A saída desse cara que nós acabamos de fazer vai ser algo assim:
 
-<img class="aligncenter" src="http://cristianounix.github.io/img/posts/gif-make-makefile-front.gif" alt="" width="550" height="321" />
+<img class="aligncenter" src="https://cristianounix.github.io/img/posts/gif-make-makefile-front.gif" alt="" width="550" height="321" />
 
 #### Vamos tentar deixar um pouco mais legal. {#vamos-tentar-deixar-um-pouco-mais-legal}
 

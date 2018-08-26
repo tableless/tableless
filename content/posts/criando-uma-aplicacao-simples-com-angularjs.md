@@ -24,7 +24,7 @@ Assim como qualquer aplicação web, nosso ponta-pé inicial acontece com a cria
 <pre class="lang-html">&lt;html ng-app&gt;
     &lt;head&gt;
         &lt;title&gt;Lista de compras&lt;/title&gt;
-        &lt;script src="http://code.angularjs.org/1.0.1/angular-1.0.1.min.js"&gt;&lt;/script&gt;
+        &lt;script src="https://code.angularjs.org/1.0.1/angular-1.0.1.min.js"&gt;&lt;/script&gt;
     &lt;/head&gt;
     &lt;body&gt;
     &lt;/body&gt;
@@ -41,7 +41,7 @@ Para provar que o foco do Angular está no HTML e não no JavaScript, vamos impl
 <pre class="lang-html">&lt;html ng-app&gt;
     &lt;head&gt;
         &lt;title&gt;AngularJS - Tableless&lt;/title&gt;
-        &lt;script src="http://code.angularjs.org/1.0.1/angular-1.0.1.min.js"&gt;&lt;/script&gt;
+        &lt;script src="https://code.angularjs.org/1.0.1/angular-1.0.1.min.js"&gt;&lt;/script&gt;
     &lt;/head&gt;
     &lt;body&gt;
         &lt;input type="text" ng-model="nome"&gt;

@@ -25,7 +25,7 @@ tags:
 
 ---
 <p style="text-align: left">
-  <img class="aligncenter" style="border: 10px solid black" src="http://cdn.thetechjournal.com/uploads/2012/10/webplatform.org_.jpg" alt="webpatform.org" width="610" height="342" /><br /> É bem comum aos desenvolvedores Web, frequentemente recorrer a fontes de informações e referencias em sua rotina de trabalho. Além de o conteúdo ser extenso demais para ser decorado com precisão, ainda está em constante atualização. Muitas vezes as fontes de referencia são descentralizadas fazendo que recorramos a sites diferentes para consultar essas informações.
+  <img class="aligncenter" style="border: 10px solid black" src="https://cdn.thetechjournal.com/uploads/2012/10/webplatform.org_.jpg" alt="webpatform.org" width="610" height="342" /><br /> É bem comum aos desenvolvedores Web, frequentemente recorrer a fontes de informações e referencias em sua rotina de trabalho. Além de o conteúdo ser extenso demais para ser decorado com precisão, ainda está em constante atualização. Muitas vezes as fontes de referencia são descentralizadas fazendo que recorramos a sites diferentes para consultar essas informações.
 </p>
 
 ### webplatform.org

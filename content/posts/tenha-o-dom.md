@@ -99,7 +99,7 @@ Netscape e Microsoft guerreavam com Netscape 2 e IE3.0 lá em 1996 e enquanto a 
         </li></ol> 
         
         <p>
-          <img class="alignnone" src="http://www.w3.org/TR/CSS21/images/boxdim.png" alt="Uma representação visual do CSS box model" width="455" height="340" />
+          <img class="alignnone" src="https://www.w3.org/TR/CSS21/images/boxdim.png" alt="Uma representação visual do CSS box model" width="455" height="340" />
         </p>
         
         <h2>

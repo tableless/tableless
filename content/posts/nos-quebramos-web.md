@@ -46,7 +46,7 @@ Contraste perfeito. Links legíveis. Botões que parecem botões. Um leitor de t
 Mas se a web na sua forma mais crua é acessível, por que desenvolvedores fazem isso?
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://sighjavascript.tumblr.com/" target="_blank"><img class="" src="http://41.media.tumblr.com/49748cc0168a329867f45fcc807ae650/tumblr_mslkvjXcmX1sgju96o1_1280.png" alt="Instagram sem JavaScript não funciona." width="500" height="400" /></a>
+  <a href="http://sighjavascript.tumblr.com/" target="_blank"><img class="" src="https://41.media.tumblr.com/49748cc0168a329867f45fcc807ae650/tumblr_mslkvjXcmX1sgju96o1_1280.png" alt="Instagram sem JavaScript não funciona." width="500" height="400" /></a>
   
   <p class="wp-caption-text">
     Exemplo do tumblr &#8220;Sign, JavaScript&#8221; (http://sighjavascript.tumblr.com/)

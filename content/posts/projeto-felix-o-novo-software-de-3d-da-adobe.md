@@ -41,7 +41,7 @@ Prometendo tirar algumas barreiras do desenvolvimento 3D, ele utiliza um sistem
 A ideia é abrir, arrastar e soltar, selecionar a iluminação, fundo e pronto. Sendo assim, o programa faz toda a configuração da iluminação e criação das grades.
 
 <div style="width: 640px;" class="wp-video">
-  <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-56670-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="http://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/24b26164-19d0-4a08-9ea1-f23901b86056/f8830b26-07bc-4d58-aa4f-79f1f697681b_20161021124416.960x540at1200_h264.mp4?_=1" />
+  <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-56670-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/24b26164-19d0-4a08-9ea1-f23901b86056/f8830b26-07bc-4d58-aa4f-79f1f697681b_20161021124416.960x540at1200_h264.mp4?_=1" />
   
   <a href="http://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/24b26164-19d0-4a08-9ea1-f23901b86056/f8830b26-07bc-4d58-aa4f-79f1f697681b_20161021124416.960x540at1200_h264.mp4">http://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/24b26164-19d0-4a08-9ea1-f23901b86056/f8830b26-07bc-4d58-aa4f-79f1f697681b_20161021124416.960x540at1200_h264.mp4</a></video>
 </div>

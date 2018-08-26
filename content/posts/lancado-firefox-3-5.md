@@ -36,7 +36,7 @@ A adoção de algumas características do HTML5 está se tornando cada vez mais 
 
 No Firefox 3.5, é nativo o suporte aos elementos de áudio e vídeo do HTML 5. Isso inclui suporte para encodes de vídeo Ogg Theora e Vorbis para áudio. O código para incluir um vídeo é basicamente este:
 
-<pre lang="html" line="1">&lt;video src="http://v2v.cc/~j/theora_testsuite/320x240.ogg" autoplay>  
+<pre lang="html" line="1">&lt;video src="https://v2v.cc/~j/theora_testsuite/320x240.ogg" autoplay>  
 Atenção: Seu browser não suporta esse formato.
 &lt;/video>  
 </pre>

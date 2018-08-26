@@ -50,7 +50,7 @@ A maioria das aplicações que requerem conexão com algum serviço se conectam 
 
 O que acontece é seu navegador irá se conectar ao site, ele sabe que o servidor está respondendo na porta 80 no endereço tal, para isso é necessário que o navegador abre uma porta local aleatória, para que assim o servidor possa saber para quem responder:
 
-[<img src="http://www.raywenderlich.com/uploads/2011/06/sockets.jpg" alt="" width="600" height="200" />][2]
+[<img src="https://www.raywenderlich.com/uploads/2011/06/sockets.jpg" alt="" width="600" height="200" />][2]
 
 Pronto agora que entendemos o conceito (ou pelo menos espero que tenham entendido =D) vamos colocar as mãos na massa.
 

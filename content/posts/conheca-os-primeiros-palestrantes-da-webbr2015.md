@@ -15,7 +15,7 @@ tags:
 
 [Lote de inscrições para a Webbr 2015 por R$ 80,00 termina segunda-feira, dia 3 de agosto!][2]
 
-<img src="http://conferenciaweb.w3c.br/uploads/2015/07/Andrei-Sambra-220x300.jpeg" alt="Foto de Andrei Sambra" style="float:left;margin: 10px" />
+<img src="https://conferenciaweb.w3c.br/uploads/2015/07/Andrei-Sambra-220x300.jpeg" alt="Foto de Andrei Sambra" style="float:left;margin: 10px" />
 
 A abertura do evento será sobre re-descentralizar da Web! que contará com [**Andrei Sambra**][3], Research Associate do W3C, para discutir o tema como keynote speaker da conferência. O pesquisador comentará os atuais esforços de padronização feitos pelo World Wide Web Consortium (W3C), além dos processos de tradução tecnológica do Massachusetts Institute of Technology (MIT) para construir aplicações e serviços descentralizados.
 

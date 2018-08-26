@@ -51,7 +51,7 @@ Existe um histórico de injeção de personalidade nas coisas que fizemos, numa 
 
 Então, quando Gutenberg projetou e moldou os tipos originais, usados para imprimir centenas de bíblias, a forma da fonte imitava o estilo caligráfico dos escribas. E embora tenha criado máquinas para produzir a mensagem divina, ele esforçou-se para tentar fazer uma representação mais humana (figura 3.1)
 
-<img class="aligncenter" src="http://www.alistapart.com/d/personality-in-design/figure3_1.jpg" alt="" width="540" height="334" />
+<img class="aligncenter" src="https://www.alistapart.com/d/personality-in-design/figure3_1.jpg" alt="" width="540" height="334" />
 
 _Figura 3.1: Os tipos móveis de Gutenberg imitavam a caligrafia dos escribas, na tentativa de fazer com que suas bíblias, produzidas mecanicamente, fossem mais humanizadas._
 
@@ -59,7 +59,7 @@ Podemos ver a tendência do design humano manifestando-se no século XX, quando 
 
 O Volkswagen Beetle (Fusca no Brasil), lançado em 1938 e produzido até 2003, foi o projeto mais vendido na história automobilística, e seu design distintamente humano contribuiu para o seu sucesso (figura 3.2). Concebido como o “Carro do povo”, o design antropomorfizado o tornou mais que um carro para o povo: Tornou-o uma pessoa. Os faróis arredondados que denotavam olhos, enquanto o seu capô em forma de concha sorria para nós, personificando uma ideia de um rosto de bebê. Embora originalmente projetado com uma aerodinâmica sem personalidade, a “face” do Fusca transmite uma atitude esperançosa e divertida, que fez com que gerações se relacionassem facilmente a ela, mesmo com mudanças culturais ao longo de sete décadas.
 
-<img class="aligncenter" src="http://www.alistapart.com/d/personality-in-design/figure3_2.jpg" alt="" width="540" height="383" />
+<img class="aligncenter" src="https://www.alistapart.com/d/personality-in-design/figure3_2.jpg" alt="" width="540" height="383" />
 
 _Figura 3.2: Personalidade à frente e no centro do design do Volkswagen Fusca, que ajudou a torná-lo um sucesso esmagador por gerações._
 
@@ -73,7 +73,7 @@ No web design atual pesquisamos, planejamos e criamos coforme as motivações e 
 
 O exemplo de persona mostrado na Figura 3.3, criado por Todd Zaki Warfel (designer na messagefirst), conta a estória de Julia. Através deste documento, aprendemos sobre a sua demografia, seus interesses, seus conhecimentos em diversos assuntos, e o que influência as suas decisões sobre assuntos pertinentes ao projeto – nós começamos a entender quem é a Júlia. Temos agora um vislumbre de sua personalidade, o que nos ajuda a entender as suas motivações e formar as decisões seguintes no design.
 
-<img class="aligncenter" src="http://www.alistapart.com/d/personality-in-design/figure3_3.jpg" alt="" width="540" height="825" />
+<img class="aligncenter" src="https://www.alistapart.com/d/personality-in-design/figure3_3.jpg" alt="" width="540" height="825" />
 
 _Figura 3.3: Personas ajudam a guiar o processo do design, mantendo o foco nas necessidades do usuário._
 
@@ -119,7 +119,7 @@ Freddie está sempre com um sorriso gentil que acolhe os usuários e faz com que
 
 A Mailchimp sempre surpreende os usuários com uma mensagem surpresa, ou um link para degustar um vídeo no YouTube. A diversão está em todos os cantos, mas nunca atrapalhando a funcionalidade do site.
 
-<img class="aligncenter" src="http://www.alistapart.com/d/personality-in-design/figure3_4.jpg" alt="" width="320" height="264" />
+<img class="aligncenter" src="https://www.alistapart.com/d/personality-in-design/figure3_4.jpg" alt="" width="320" height="264" />
 
 _Figura 3.4: Freddie Von Chimpenheimer IV, mascote da Mailchimp_
 
@@ -129,7 +129,7 @@ _**Características da marca: **_Divertida, mas não infantil. Engraçada, mas 
 
 _**Personality map**:_ Fig 3.5
 
-<img class="aligncenter" src="http://www.alistapart.com/d/personality-in-design/figure3_5.jpg" alt="" width="320" height="313" />
+<img class="aligncenter" src="https://www.alistapart.com/d/personality-in-design/figure3_5.jpg" alt="" width="320" height="313" />
 
 _Fig 3.5: Mapa da personalidade do Mailchimp _
 
@@ -153,7 +153,7 @@ Muitos sites já estão usando a personalidade para dar forma a experiência do 
 
 A Tapbots é fabricante de aplicativos para iPhones e criou uma personalidade distinta em sua interface, tornando diversas tarefas chatas bem mais agradáveis (Figura 3.6).
 
-<img class="aligncenter" src="http://www.alistapart.com/d/personality-in-design/figure3_6.jpg" alt="" width="540" height="405" />
+<img class="aligncenter" src="https://www.alistapart.com/d/personality-in-design/figure3_6.jpg" alt="" width="540" height="405" />
 
 _Figura 3.6: Os apps da Tapbots são como robozinhos prontos para fazer o seu fone fazer todo o trabalho sujo._
 
@@ -181,7 +181,7 @@ A personalidade pode estabelecer relações com um público, desde que seja úni
 
 A <a href="http://carbonmade.com/" target="_blank">Carbonmade</a> é um pequeno e inteligente aplicativo que ajuda as pessoas a desenvolver portfólios elegantes, e expressa a sua personalidade em todo o seu site, combinando a seriedade de <a href="http://pt.wikipedia.org/wiki/James_Stewart" target="_blank">Jimmy Stewart</a> com o charme cômico de [Eddie Izzard][1]. Polvos e unicórnios brincam em sua paisagem fantástica (ver figura 3.7), o que é atípico  para um site com foco em conversão.
 
-<img class="aligncenter" src="http://www.alistapart.com/d/personality-in-design/figure3_7.jpg" alt="" width="540" height="567" />
+<img class="aligncenter" src="https://www.alistapart.com/d/personality-in-design/figure3_7.jpg" alt="" width="540" height="567" />
 
 _Figura 3.7: A Carbonmade usa uma personalidade exagerada para atrair novos usuários_
 
@@ -203,7 +203,7 @@ Assim como no mundo real, nem sempre podemos pontuar a personalidade nos sites c
 
 Quando o estúdio <a href="http://happycog.com/" target="_blank">Happy Cog</a> fez o redesign do site em 2008 (fig 3.8), a personalidade da organização e das pessoas a quem ela auxilia foi a musa inspiradora do processo de design.
 
-<img class="aligncenter" src="http://www.alistapart.com/d/personality-in-design/figure3_8.jpg" alt="" width="540" height="362" />
+<img class="aligncenter" src="https://www.alistapart.com/d/personality-in-design/figure3_8.jpg" alt="" width="540" height="362" />
 
 _Figura 3.8: A Housing Works constrói um vínculo emocional com o seu público, compartilhando as histórias das pessoas que ela auxilia. _
 

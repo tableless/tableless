@@ -31,7 +31,7 @@ O conteúdo aponta, por exemplo, quais os **aplicativos mais vendidos** na Apple
 
 Já com relação ao **número de downloads** de cada app store, também é possível encontrar números muito interessantes, capazes até de prever tendências para os próximos anos. Por mês, o Android registra cerca de 640 milhões de downloads em todo mundo. A Apple registra um número maior que o dobro levando em conta o mesmo período de tempo (30 dias): 1,45 bilhão de downloads. Para os próximos anos, é previsto um enorme crescimento do Android, que deve empatar no número de vendas com a Apple em maio de 2013 e liderar o mercado de downloads já em 2014.
 
-[<img style="float: center;margin: 2px" src="http://conteudo.pontofrio.com.br/html/infograficos/tablets/tablets-batalha-app-stores-500.jpg" alt="Infográfico: A batalha das App Stores | PontoFrio.com" />][1]
+[<img style="float: center;margin: 2px" src="https://conteudo.pontofrio.com.br/html/infograficos/tablets/tablets-batalha-app-stores-500.jpg" alt="Infográfico: A batalha das App Stores | PontoFrio.com" />][1]
 
 Infográfico: [A batalha das App Stores][1] | [PontoFrio.com][2].
 

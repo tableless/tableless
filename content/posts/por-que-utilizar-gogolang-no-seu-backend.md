@@ -19,7 +19,7 @@ O tempo passa e quando você é viciado no que faz, no meu caso, codar, a busca 
 
 &nbsp;
 
-<img class="aligncenter" src="http://synflood.at/tmp/golang-slides/images/gophercolor.png" alt="Imagem do gopher" />
+<img class="aligncenter" src="https://synflood.at/tmp/golang-slides/images/gophercolor.png" alt="Imagem do gopher" />
 
 ### O que é Go/Golang? {#o-que--gogolang}
 

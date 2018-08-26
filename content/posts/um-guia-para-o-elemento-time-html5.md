@@ -486,7 +486,7 @@ Texto traduzido e adaptado do][5] escrito pelo [Aurelio De Rosa][6] em 16 de set
 
 Tradução autorizada pelo [SitePoint][7].
 
-Qualquer erro ou sugestão de melhoria na tradução, é bem vinda! <img class="wp-smiley" src="http://tableless.com.br/wp-includes/images/smilies/icon_smile.gif" alt=":)" />
+Qualquer erro ou sugestão de melhoria na tradução, é bem vinda! <img class="wp-smiley" src="https://tableless.com.br/wp-includes/images/smilies/icon_smile.gif" alt=":)" />
 
  [1]: http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-time-element
  [2]: https://html.spec.whatwg.org/multipage/semantics.html#the-time-element

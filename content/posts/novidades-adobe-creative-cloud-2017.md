@@ -55,7 +55,7 @@ Existem várias [outras novidades do Illustrator nesse link][7].
 
 Eu sempre brinquei sobre usar seriamente o Dreamweaver como um editor para desenvolvedores profissionais. Mas o Dreamweaver melhorou demais nos últimos tempos, incluindo uma série de features bem legais.
 
-<video allowairplay="allow" controls style="width: 100%; height: auto;" src="http://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/dff07833-7104-474a-a2ff-ab7c541aa8b6/5a25eade-06f4-4ae7-980b-286f35a97369\_20161021120402.960x540at1200\_h264.mp4"></video>
+<video allowairplay="allow" controls style="width: 100%; height: auto;" src="https://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/dff07833-7104-474a-a2ff-ab7c541aa8b6/5a25eade-06f4-4ae7-980b-286f35a97369\_20161021120402.960x540at1200\_h264.mp4"></video>
 
 Ele foi quase que totalmente reestruturado pra facilitar a gestão dos assets, além de ajudar muito a combinação HTML+CSS. A Adobe tem dado uma atenção bem legal para quem está começando na área e tem o DreamWeaver como ponto inicial de contato, com várias ajudas contextuais para tirar dúvidas sobre HTML, CSS e JS. Além de ter suporte nativo aos pré-processadores comuns do mercado.
 

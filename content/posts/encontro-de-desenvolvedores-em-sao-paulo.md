@@ -19,7 +19,7 @@ Para as comunidades que estiveram próximas da gente nos últimos tempos, estamo
 <table>
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/Diego-eis-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/Diego-eis-60x80.png" />
     </td>
     
     <td>
@@ -29,7 +29,7 @@ Para as comunidades que estiveram próximas da gente nos últimos tempos, estamo
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/Renan-Final-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/Renan-Final-60x80.png" />
     </td>
     
     <td>
@@ -39,7 +39,7 @@ Para as comunidades que estiveram próximas da gente nos últimos tempos, estamo
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/Roberta-final-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/Roberta-final-60x80.png" />
     </td>
     
     <td>
@@ -49,7 +49,7 @@ Para as comunidades que estiveram próximas da gente nos últimos tempos, estamo
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/06/Vinicius-Hana-2-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/06/Vinicius-Hana-2-60x80.png" />
     </td>
     
     <td>
@@ -59,7 +59,7 @@ Para as comunidades que estiveram próximas da gente nos últimos tempos, estamo
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/GeorgeGuimaraes1-60x80.jpg" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/GeorgeGuimaraes1-60x80.jpg" />
     </td>
     
     <td>
@@ -69,7 +69,7 @@ Para as comunidades que estiveram próximas da gente nos últimos tempos, estamo
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/hugo-barauna-2-1-60x80.jpg" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/hugo-barauna-2-1-60x80.jpg" />
     </td>
     
     <td>
@@ -79,7 +79,7 @@ Para as comunidades que estiveram próximas da gente nos últimos tempos, estamo
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/05/Akita-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/05/Akita-60x80.png" />
     </td>
     
     <td>

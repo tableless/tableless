@@ -736,8 +736,8 @@ No exemplo do W3C, também é utilizada uma API em JavaScript para permitir que 
    
    
   	&lt;video controls="true" width="320px" height='240px' style='margin-right: 5%;'> 
-            &lt;source src="http://media.w3.org/2009/02/ThisisCo1961_tiny.ogv" type="video/ogg; codecs=&quot;theora, vorbis&quot;" /> 
-            &lt;source src="http://media.w3.org/2009/02/ThisisCo1961_tiny.mp4" type="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;" />
+            &lt;source src="https://media.w3.org/2009/02/ThisisCo1961_tiny.ogv" type="video/ogg; codecs=&quot;theora, vorbis&quot;" /> 
+            &lt;source src="https://media.w3.org/2009/02/ThisisCo1961_tiny.mp4" type="video/mp4; codecs=&quot;avc1.42E01E, mp4a.40.2&quot;" />
             &lt;text lang='en' type="application/ttaf+xml" src="ThisIsCoffee61_captions.xml">&lt;/text> 
 	&lt;/video> 
 	 

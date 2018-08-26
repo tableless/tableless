@@ -24,7 +24,7 @@ A ideia é que sejam apenas 150 pessoas. Nada de muita gente, nada de empurra em
 <table>
   <tr style="border-bottom: 1px solid #f1f1f1;">
     <td style="border-bottom: 0; display: inline-block; width: 150px;">
-      <img src="http://tableless.com.br/tablelessconf/images/sergio.jpg" alt="Sérgio Lopes" style="max-width: 100%; border-radius: 5px" />
+      <img src="https://tableless.com.br/tablelessconf/images/sergio.jpg" alt="Sérgio Lopes" style="max-width: 100%; border-radius: 5px" />
     </td>
     
     <td style="border-bottom: 0; display: inline-block; width: 500px;">
@@ -36,7 +36,7 @@ A ideia é que sejam apenas 150 pessoas. Nada de muita gente, nada de empurra em
   
   <tr style="border-bottom: 1px solid #f1f1f1;">
     <td style="border-bottom: 0; display: inline-block; width: 150px;">
-      <img src="http://tableless.com.br/tablelessconf/images/fnando.jpg" alt="Fernando Vieira" style="max-width: 100%; border-radius: 5px" />
+      <img src="https://tableless.com.br/tablelessconf/images/fnando.jpg" alt="Fernando Vieira" style="max-width: 100%; border-radius: 5px" />
     </td>
     
     <td style="border-bottom: 0; display: inline-block; width: 500px;">
@@ -48,7 +48,7 @@ A ideia é que sejam apenas 150 pessoas. Nada de muita gente, nada de empurra em
   
   <tr style="border-bottom: 1px solid #f1f1f1;">
     <td style="border-bottom: 0; display: inline-block; width: 150px;">
-      <img src="http://tableless.com.br/tablelessconf/images/jean.jpg" alt="Jean Emer" style="max-width: 100%; border-radius: 5px" />
+      <img src="https://tableless.com.br/tablelessconf/images/jean.jpg" alt="Jean Emer" style="max-width: 100%; border-radius: 5px" />
     </td>
     
     <td style="border-bottom: 0; display: inline-block; width: 500px;">
@@ -60,7 +60,7 @@ A ideia é que sejam apenas 150 pessoas. Nada de muita gente, nada de empurra em
   
   <tr style="border-bottom: 1px solid #f1f1f1;">
     <td style="border-bottom: 0; display: inline-block; width: 150px;">
-      <img src="http://tableless.com.br/tablelessconf/images/clecio.jpg" alt="Clécio Bachini" style="max-width: 100%; border-radius: 5px" />
+      <img src="https://tableless.com.br/tablelessconf/images/clecio.jpg" alt="Clécio Bachini" style="max-width: 100%; border-radius: 5px" />
     </td>
     
     <td style="border-bottom: 0; display: inline-block; width: 500px;">
@@ -70,7 +70,7 @@ A ideia é que sejam apenas 150 pessoas. Nada de muita gente, nada de empurra em
       
       <tr style="border-bottom: 1px solid #f1f1f1;">
         <td style="border-bottom: 0; display: inline-block; width: 150px;">
-          <img src="http://tableless.com.br/tablelessconf/images/victor.png" alt="Victor Cavalcante" style="max-width: 100%; border-radius: 5px" />
+          <img src="https://tableless.com.br/tablelessconf/images/victor.png" alt="Victor Cavalcante" style="max-width: 100%; border-radius: 5px" />
         </td>
         
         <td style="border-bottom: 0; display: inline-block; width: 500px;">
@@ -82,7 +82,7 @@ A ideia é que sejam apenas 150 pessoas. Nada de muita gente, nada de empurra em
       
       <tr style="border-bottom: 1px solid #f1f1f1;">
         <td style="border-bottom: 0; display: inline-block; width: 150px;">
-          <img src="http://tableless.com.br/tablelessconf/images/lucas-mazza.jpg" alt="Lucas Mazza" style="max-width: 100%; border-radius: 5px" />
+          <img src="https://tableless.com.br/tablelessconf/images/lucas-mazza.jpg" alt="Lucas Mazza" style="max-width: 100%; border-radius: 5px" />
         </td>
         
         <td style="border-bottom: 0; display: inline-block; width: 500px;">
@@ -94,7 +94,7 @@ A ideia é que sejam apenas 150 pessoas. Nada de muita gente, nada de empurra em
       
       <tr style="border-bottom: 1px solid #f1f1f1;">
         <td style="border-bottom: 0; display: inline-block; width: 150px;">
-          <img src="http://tableless.com.br/tablelessconf/images/diego.jpg" alt="Diego Eis" style="max-width: 100%; border-radius: 5px" />
+          <img src="https://tableless.com.br/tablelessconf/images/diego.jpg" alt="Diego Eis" style="max-width: 100%; border-radius: 5px" />
         </td>
         
         <td style="border-bottom: 0; display: inline-block; width: 500px;">

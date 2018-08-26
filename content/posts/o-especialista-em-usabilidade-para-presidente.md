@@ -65,7 +65,7 @@ Um bom Plano de Usabilidade tem que passar por todas as competências envolvidas
 Como falamos, uma aplicação web é exibida na maioria das vezes em um browser. E os Especialistas em navegadores somos nós. Se os navegadores fossem balanças, teríamos em um prato a **aplicação,** e no ****outro teríamos a **necessidade do usuário.** Os dois são muito pesados e seus valores aumentam e diminuem ao longo do projeto. Para atingir o **equilíbrio** em uma balança desse tipo precisamos de **lastros** para balanceá-la, e nosso lastro é a **Usabilidade.**
 
 <div style="width: 386px" class="wp-caption alignleft">
-  <img src="http://upload.wikimedia.org/wikipedia/commons/9/96/Basmati_Johns_%28peas_and_basmati_rice%29.jpg" alt="Um mexidão preparado em um prato altamente decorado." width="376" height="249" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Basmati_Johns_%28peas_and_basmati_rice%29.jpg" alt="Um mexidão preparado em um prato altamente decorado." width="376" height="249" />
   
   <p class="wp-caption-text">
     Em uma boa embalagem, até um mexidão fica mais apetitoso

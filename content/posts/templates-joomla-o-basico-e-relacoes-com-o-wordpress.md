@@ -17,7 +17,7 @@ tags:
 ---
 Ao lado do WordPress, o Joomla! é sem dúvida um dos melhores CMS que existem atualmente. Como o amigo Girlan bem já escreveu <a title="Vamos falar de Joomla!?" href="http://tableless.com.br/vamos-falar-de-joomla/" target="_blank">noutro artigo</a>, o Joomla! tem se superado muito a cada versão&nbsp;e, desta perspectiva, torna-se mais que vantajoso ao desenvolvedor front-end dominar a criação de temas tanto para&nbsp;o WordPress quanto para o Joomla!.
 
-A boa notícia é que se você já sabe&nbsp;criar temas para o WordPress, você praticamente já&nbsp;sabe criar&nbsp;templates para o Joomla! também. O objetivo deste artigo, portanto, não é embarcar naquela velha discussão <del>formada sobre tudo</del> de qual CMS é o melhor. Estamos mais interessados em criar um template básico (ou sandbox) para o Joomla! observando as relações existentes com&nbsp;o desenvolvimento de temas para o WordPress, despertando, quem sabe, novos joomlers pela comunidade Tableless!&nbsp;<img class="emoji" src="http://s.w.org/images/core/emoji/72x72/1f609.png" alt="😉" />
+A boa notícia é que se você já sabe&nbsp;criar temas para o WordPress, você praticamente já&nbsp;sabe criar&nbsp;templates para o Joomla! também. O objetivo deste artigo, portanto, não é embarcar naquela velha discussão <del>formada sobre tudo</del> de qual CMS é o melhor. Estamos mais interessados em criar um template básico (ou sandbox) para o Joomla! observando as relações existentes com&nbsp;o desenvolvimento de temas para o WordPress, despertando, quem sabe, novos joomlers pela comunidade Tableless!&nbsp;<img class="emoji" src="https://s.w.org/images/core/emoji/72x72/1f609.png" alt="😉" />
 
 ## Entendendo o Joomla!
 

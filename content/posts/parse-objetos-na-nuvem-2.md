@@ -69,7 +69,7 @@ Feito isso, começaremos a utilizar as infomações que o Parse nos dá. Eu sep
 
 Como é um trecho de código que &#8220;inicializa&#8221; minha aplicação com o Parse, decidi por colocá-lo dentro do HTML mesmo. Precisaremos do script do Parse que é disponibilizado naquela página &#8220;em branco&#8221;. Você pode baixá-lo ou puxar pelo trecho que eles disponibilizam mesmo:
 
-<pre class="lang-html">&lt;script src="http://www.parsecdn.com/js/parse-1.4.2.min.js"&gt;&lt;/script&gt;
+<pre class="lang-html">&lt;script src="https://www.parsecdn.com/js/parse-1.4.2.min.js"&gt;&lt;/script&gt;
 </pre>
 
 Beleza! Já temos a aplicação com o ID e com o scripts funcionando corretamente, agora vamos às funções.

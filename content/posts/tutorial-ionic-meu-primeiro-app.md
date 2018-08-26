@@ -45,7 +45,7 @@ Podemos ver então a estrutura de pastas inicial do projeto. Inicialmente vamos 
 
 Para fazer a captura dos dados meteorológicos vamos utilizar uma API gratuita chamada <a href="https://developer.forecast.io/" target="_blank">Forecast for Developers</a>. Para fazer a captura dos dados temos que utilizar um plugin do Cordova de Geolocalização. É importante dizer que não é recomendável utilizar o _navigator.geolocation_ nativo pois ele irá pedir permissão para o usuário com frequência e irá mostrar uma mensagem não amigável para isso como a imagem abaixo ilustra.
 
-<img alt="Diálogo de permissão de localização via html5" src="http://www.raymondcamden.com/images/bad.png" width="320" height="480" class="aligncenter" />
+<img alt="Diálogo de permissão de localização via html5" src="https://www.raymondcamden.com/images/bad.png" width="320" height="480" class="aligncenter" />
 
 Para instalar o plugin de geolocalização do Cordova, basta rodarmos o comando abaixo na pasta do projeto.
 

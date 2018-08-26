@@ -39,7 +39,7 @@ Neste vídeo, mostramos um pouco como funciona a propriedade float e sua parceir
   
 Se quiser, você pode ver [uma versão em textual aqui][1].
 
-<embed src="http://visie.com.br/campus/static/mediaplayer.swf" width="570" height="434" allowscriptaccess="always" allowfullscreen="true" flashvars="height=434&#038;width=570&#038;file=http://visie.com.br/campus/flv/36.flv&#038;image=http://visie.com.br/campus/static/visie.jpg" />
+<embed src="https://visie.com.br/campus/static/mediaplayer.swf" width="570" height="434" allowscriptaccess="always" allowfullscreen="true" flashvars="height=434&#038;width=570&#038;file=http://visie.com.br/campus/flv/36.flv&#038;image=http://visie.com.br/campus/static/visie.jpg" />
 
 
 Este vídeo e muitos outros podem ser encontrados no [Campus Online][2]. Visite e [cadastre-se grátis][3] para ter acesso a vários vídeos e conteúdos sobre Padrões Web, Javascript, Ajax, Python e outras coisas.

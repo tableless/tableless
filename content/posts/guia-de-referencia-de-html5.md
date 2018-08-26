@@ -30,19 +30,19 @@ Cada Cada um diferencia as características novas, existentes ou não suportadas
 
 ### HTML5 Tags Cheat Sheet
 
-<a href="http://www.inmotionhosting.com/infographics/html5-cheat-sheet/" target="_blank"><img src="http://www.inmotionhosting.com/infographics/_img/html5_cheat_sheet_tags-670x460.png" width="670" height="460" border="0" alt="HTML5 Cheat Sheet - Tags" /></a>
+<a href="http://www.inmotionhosting.com/infographics/html5-cheat-sheet/" target="_blank"><img src="https://www.inmotionhosting.com/infographics/_img/html5_cheat_sheet_tags-670x460.png" width="670" height="460" border="0" alt="HTML5 Cheat Sheet - Tags" /></a>
 
 HTML5 Cheat Sheet By InMotion Hosting &#8211; A [Virtual Private Servers][2] Provider
 
 ### HTML5 Event Handler Content Attribute Cheat Sheet
 
-<a href="http://www.inmotionhosting.com/infographics/html5-cheat-sheet/#eventhandler" target="_blank"><img src="http://www.inmotionhosting.com/infographics/_img/html5_cheat_sheet_event_attributes-670x460.png" width="670" height="460" border="0" alt="HTML5 Cheat Sheet - Event Handler Attributes" /></a>
+<a href="http://www.inmotionhosting.com/infographics/html5-cheat-sheet/#eventhandler" target="_blank"><img src="https://www.inmotionhosting.com/infographics/_img/html5_cheat_sheet_event_attributes-670x460.png" width="670" height="460" border="0" alt="HTML5 Cheat Sheet - Event Handler Attributes" /></a>
 
 HTML5 Cheat Sheet By InMotion Hosting &#8211; A [Web Hosting][3] Provider
 
 ### HTML5 Browser Support Cheat Sheet
 
-<a href="http://www.inmotionhosting.com/infographics/html5-cheat-sheet/#browsersupport" target="_blank"><img src="http://www.inmotionhosting.com/infographics/_img/html5_cheat_sheet_browser_support-670x460.png" width="670" height="460" border="0" alt="HTML5 Cheat Sheet - Browser Support" /></a>
+<a href="http://www.inmotionhosting.com/infographics/html5-cheat-sheet/#browsersupport" target="_blank"><img src="https://www.inmotionhosting.com/infographics/_img/html5_cheat_sheet_browser_support-670x460.png" width="670" height="460" border="0" alt="HTML5 Cheat Sheet - Browser Support" /></a>
 
 HTML5 Cheat Sheet By InMotion Hosting &#8211; A [Dedicated Server][4] Provider
 

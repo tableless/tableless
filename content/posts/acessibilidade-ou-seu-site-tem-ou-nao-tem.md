@@ -29,7 +29,7 @@ Abaixo, veja o vídeo na íntegra e de sua opinião.
   
 
 
-<embed src="http://videolog.uol.com.br/swfs/player_externo.swf" allowfullscreen="true" type="application/x-shockwave-flash" flashvars="prefix=videos&v=ad/3e/230205&id_video=230205&" quality="high" align="middle" height="342" width="425">
+<embed src="https://videolog.uol.com.br/swfs/player_externo.swf" allowfullscreen="true" type="application/x-shockwave-flash" flashvars="prefix=videos&v=ad/3e/230205&id_video=230205&" quality="high" align="middle" height="342" width="425">
 </embed>
 
  [1]: http://tableless.com.br/acessibilidade_urgente

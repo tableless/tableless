@@ -51,7 +51,7 @@ Primeiro vamos construir a estrutura do nosso documento html, nele usaremos a bi
 <pre class="lang-html">&lt;!--Início - Documento .html-- gt;
 &lt;html&gt;    
   &lt;head&gt;
-    &lt;script src="http://code.jquery.com/jquery-1.10.2.min.js"&gt;&lt;/script&gt;
+    &lt;script src="https://code.jquery.com/jquery-1.10.2.min.js"&gt;&lt;/script&gt;
   &lt;/head&gt;
   &lt;body&gt;
 

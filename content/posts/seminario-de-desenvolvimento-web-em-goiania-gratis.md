@@ -19,7 +19,7 @@ Cada seminário vai contar com palestrantes locais. A ideia é fortificar a comu
 <table>
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2014/08/jean_lucas_dev_goi%C3%A2nia_op%C3%A7%C3%A3o2-60x80.jpg" alt="Jean Lucas de Carvalho" />
+      <img src="https://eventos.locaweb.com.br/files/2014/08/jean_lucas_dev_goi%C3%A2nia_op%C3%A7%C3%A3o2-60x80.jpg" alt="Jean Lucas de Carvalho" />
     </td>
     
     <td>
@@ -29,7 +29,7 @@ Cada seminário vai contar com palestrantes locais. A ideia é fortificar a comu
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2014/08/ma%CC%81rcio_sena_dev_goi%C3%A2nia-60x80.jpg" alt="" />
+      <img src="https://eventos.locaweb.com.br/files/2014/08/ma%CC%81rcio_sena_dev_goi%C3%A2nia-60x80.jpg" alt="" />
     </td>
     
     <td>
@@ -39,7 +39,7 @@ Cada seminário vai contar com palestrantes locais. A ideia é fortificar a comu
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2014/08/frederico_galv%C3%A3o_dev_goi%C3%A2nia-60x80.jpg" alt="" />
+      <img src="https://eventos.locaweb.com.br/files/2014/08/frederico_galv%C3%A3o_dev_goi%C3%A2nia-60x80.jpg" alt="" />
     </td>
     
     <td>
@@ -49,7 +49,7 @@ Cada seminário vai contar com palestrantes locais. A ideia é fortificar a comu
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2014/08/james_pinto_dev_goi%C3%A2nia-60x80.jpg" alt="" />
+      <img src="https://eventos.locaweb.com.br/files/2014/08/james_pinto_dev_goi%C3%A2nia-60x80.jpg" alt="" />
     </td>
     
     <td>

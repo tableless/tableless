@@ -56,7 +56,7 @@ Uma outra grande limitação é o controle de volume, ao tentar recuperar o valo
 
 Dispositivos móveis ao encontrarem um arquivo de vídeo em páginas web, renderizam esse quadro definindo uma imagem de placeholder por cima da imagem carregada pelo atributo `cover` (quando definida), esta ação torna inviável o uso de vídeos como background por exemplo.
 
-<img src="http://f.cl.ly/items/1L3Y1p1r1Y3B1E0l0W11/ios-video-placeholder.png" width="338" height="600" alt="iOS video placeholder image" />
+<img src="https://f.cl.ly/items/1L3Y1p1r1Y3B1E0l0W11/ios-video-placeholder.png" width="338" height="600" alt="iOS video placeholder image" />
       
 _iOS video placeholder image (a big play icon on center)._ 
 

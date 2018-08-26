@@ -373,7 +373,7 @@ Na timeline abaixo, [retirada da documentação da API][8], é possível ver o f
 &nbsp;
 
 <div style="width: 576px" class="wp-caption aligncenter">
-  <a href="http://www.w3.org/TR/navigation-timing/timing-overview.png"><img class="   " alt="Modelo de Processo da Navigation Timing API" src="http://www.w3.org/TR/navigation-timing/timing-overview.png" width="566" height="338" /></a>
+  <a href="http://www.w3.org/TR/navigation-timing/timing-overview.png"><img class="   " alt="Modelo de Processo da Navigation Timing API" src="https://www.w3.org/TR/navigation-timing/timing-overview.png" width="566" height="338" /></a>
   
   <p class="wp-caption-text">
     Modelo de Processo da Navigation Timing API

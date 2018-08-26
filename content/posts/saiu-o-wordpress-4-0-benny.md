@@ -24,7 +24,7 @@ Vale a pena dizer também sobre a tela de plugins. Eu quase nunca instalo um plu
 
 Confira no vídeo abaixo um resumo de tudo ou visite o post do blog deles para ver outros vídeos das novidades.
 
-<embed type="application/x-shockwave-flash" src="http://s0.videopress.com/player.swf?v=1.03" width="400" height="224" wmode="direct" seamlesstabbing="true" allowfullscreen="true" allowscriptaccess="always" overstretch="true" flashvars="guid=bUdzKMro&isDynamicSeeking=true">
+<embed type="application/x-shockwave-flash" src="https://s0.videopress.com/player.swf?v=1.03" width="400" height="224" wmode="direct" seamlesstabbing="true" allowfullscreen="true" allowscriptaccess="always" overstretch="true" flashvars="guid=bUdzKMro&isDynamicSeeking=true">
 </embed>
 
  [1]: http://wordpress.org/news/2014/09/benny/

@@ -24,7 +24,7 @@ Estava implementando partes do site novo da Visie e resolvi fazer um videozinho 
 
 O vídeo está hospedado no [CodeShow Videos][1]. Quem não viu ainda, vale a pena dar uma olhada. Imagine uma espécie de YouTube só que destinado a desenvolvedores e com vídeos sobre desenvolvimento web. Isso é o [CodeShow Videos][1].
 
-<embed src="http://video.visie.com.br/kickapps/flash/premium_drop_v3.swf?b=1&widgetHost=video.visie.com.br&mediaType=VIDEO&mediaId=85534&as=7300" quality="best" allowfullscreen="true" allowscriptaccess="always" height="365" width="420">
+<embed src="https://video.visie.com.br/kickapps/flash/premium_drop_v3.swf?b=1&widgetHost=video.visie.com.br&mediaType=VIDEO&mediaId=85534&as=7300" quality="best" allowfullscreen="true" allowscriptaccess="always" height="365" width="420">
 </embed>
 
  [1]: http://video.visie.com.br/

@@ -109,7 +109,7 @@ Então, se você quisesse fazer com que os spans tivessem uma cor de fundo difer
 
 O Ie, relevaria o primeiro código. Ele não reconhece o segundo seletor, logo ele ignora.
 
-Interessante notar que ele reconhece um código que não existe e não reconhece outro que existe. <img width="18" height="18" title=":-D" class="wp-smiley" alt=":-D" src="http://tableless.com.br/smilies/yahoo_bigsmile.gif" />
+Interessante notar que ele reconhece um código que não existe e não reconhece outro que existe. <img width="18" height="18" title=":-D" class="wp-smiley" alt=":-D" src="https://tableless.com.br/smilies/yahoo_bigsmile.gif" />
 
 Todos os outros navegadores que tem uma melhor abordagem ao css, reconhece este seletor e não ignorará.
   

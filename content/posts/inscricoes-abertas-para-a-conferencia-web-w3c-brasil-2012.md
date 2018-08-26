@@ -18,11 +18,11 @@ categories:
   - Tecnologia e Tendências
 
 ---
-[<img alt="Conferência Web W3C Brasil 2012" src="http://conferenciaweb.w3c.br/uploads/2012/08/logo.png" width="178" height="78" />][1]
+[<img alt="Conferência Web W3C Brasil 2012" src="https://conferenciaweb.w3c.br/uploads/2012/08/logo.png" width="178" height="78" />][1]
 
 [As inscrições para a Conferência Web W3C Brasil 2012 estão abertas.][1] Serão três dias de debates (18, 19 e 20 de outubro de 2012) e apresentações sobre os mais diversos temas relacionados a Open Web Plataform: HTML5 e Marketing Digital, Semântica, SEO e HTML5, Web TV, Acessibilidade, Mobile Web, Web além dos dispositivos e muito mais.
 
-[A programação da 4ª Conferência Web W3C Brasil está no ar][2].  Na quinta-feira, dia 18 de outubro, o evento é iniciado com uma mesa redonda que abordará o seguinte tema: Estamos usando HTML5. E agora?  Quais os impactos reais do uso de ferramentas da Open Web Platform no dia-a-dia dos profissionais que lidam com Interface, que contará com a participação de  [Edney Souza (interney)][3], [[<img alt="Conferência Web W3C Brasil 2012" src="http://conferenciaweb.w3c.br/uploads/2012/08/logo.png" width="178" height="78" />][1]
+[A programação da 4ª Conferência Web W3C Brasil está no ar][2].  Na quinta-feira, dia 18 de outubro, o evento é iniciado com uma mesa redonda que abordará o seguinte tema: Estamos usando HTML5. E agora?  Quais os impactos reais do uso de ferramentas da Open Web Platform no dia-a-dia dos profissionais que lidam com Interface, que contará com a participação de  [Edney Souza (interney)][3], [[<img alt="Conferência Web W3C Brasil 2012" src="https://conferenciaweb.w3c.br/uploads/2012/08/logo.png" width="178" height="78" />][1]
 
 [As inscrições para a Conferência Web W3C Brasil 2012 estão abertas.][1] Serão três dias de debates (18, 19 e 20 de outubro de 2012) e apresentações sobre os mais diversos temas relacionados a Open Web Plataform: HTML5 e Marketing Digital, Semântica, SEO e HTML5, Web TV, Acessibilidade, Mobile Web, Web além dos dispositivos e muito mais.
 

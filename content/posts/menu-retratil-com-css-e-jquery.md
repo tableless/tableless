@@ -51,7 +51,7 @@ No final, o HTML ficou assim:
 
 Para ter um elemento servindo de exemplo visual e ser sobreposto ou empurrado pelo meu menu, coloquei apenas uma imagem. Mas, pense nela como todo o conteúdo do site, okay?
 
-<pre class="lang-html">&lt;img alt="" src="http://placehold.it/1920x800/&text=Conteúdo" /&gt;</pre>
+<pre class="lang-html">&lt;img alt="" src="https://placehold.it/1920x800/&text=Conteúdo" /&gt;</pre>
 
 Hoje vamos criar quatro menus utilizando este mesmo html como um coringa.
 

@@ -28,7 +28,7 @@ Depois de encontrar os objetos do HTML, é preciso alterá-los. Aprenda como ler
   
 Aconselhamos que você assista esse vídeo em Fullscreen. 
 
-<embed src="http://visie.com.br/campus/static/mediaplayer.swf" width="457" height="353" allowscriptaccess="always" allowfullscreen="true" flashvars="height=353&#038;width=457&#038;file=http://visie.com.br/campus/flv/65.flv&#038;image=http://visie.com.br/campus/static/visie.jpg" />
+<embed src="https://visie.com.br/campus/static/mediaplayer.swf" width="457" height="353" allowscriptaccess="always" allowfullscreen="true" flashvars="height=353&#038;width=457&#038;file=http://visie.com.br/campus/flv/65.flv&#038;image=http://visie.com.br/campus/static/visie.jpg" />
 
 
 Esse e outros vídeos estão disponíveis no [Campus Online da Visie][1]. Lá você encontra [videos tutoriais de Tableless, Ajax, Javascript][2] e um monte de outras coisas.

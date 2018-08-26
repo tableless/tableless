@@ -31,7 +31,7 @@ tags:
 ---
 Utilizamos esse layout como exercício nos [cursos da Visie][1]. Dependendo do nível do pessoal, utilizamos outros layouts. Mas esse é um que o pessoal normalmente costuma escolher. É um bom exercício porque utiliza as principais propriedades do CSS.<!--more-->
 
-<embed src="http://visie.com.br/campus/static/mediaplayer.swf" width="457" height="353" allowscriptaccess="always" allowfullscreen="true" flashvars="height=353&#038;width=457&#038;file=http://visie.com.br/campus/flv/60.flv&#038;image=http://visie.com.br/campus/static/visie.jpg" />
+<embed src="https://visie.com.br/campus/static/mediaplayer.swf" width="457" height="353" allowscriptaccess="always" allowfullscreen="true" flashvars="height=353&#038;width=457&#038;file=http://visie.com.br/campus/flv/60.flv&#038;image=http://visie.com.br/campus/static/visie.jpg" />
 
 
 Esse e outros vídeos estão disponíveis no [Campus Online da Visie][2]. Lá você encontra [videos tutoriais de Tableless, Ajax, Javascript][2] e um monte de outras coisas.

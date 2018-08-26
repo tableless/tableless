@@ -64,7 +64,7 @@ def fib(n):
 Agora vamos importar esse arquivo no console do Python, e veja o que dá para fazer:
 
 <div style="width: 490px" class="wp-caption alignnone">
-  <img class="" src="http://elcio.com.br/uploads/2015/09/fib.gif" alt="" width="480" height="267" />
+  <img class="" src="https://elcio.com.br/uploads/2015/09/fib.gif" alt="" width="480" height="267" />
   
   <p class="wp-caption-text">
     Executando fib.py e ajuda.

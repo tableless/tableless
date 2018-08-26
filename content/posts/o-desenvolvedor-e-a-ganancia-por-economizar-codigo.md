@@ -25,7 +25,7 @@ Está certo que o desenvolvedor é um bicho estranho, cheio de manias intratáve
 <tr><td width="91" valign="top"><table width="91" border="0" cellpadding="0" cellspacing="0" class="spacertable"><br />
 <tr><td colspan="3"><img src="/mot/image/spacer.gif" alt="" width="1" height="10" /></td><br />
 </tr><tr><br />
-<td width="10"><img src="http://www.siteruim.com/mot/image/spacer.gif" alt="" width="10" height="1" /></td> ...`
+<td width="10"><img src="https://www.siteruim.com/mot/image/spacer.gif" alt="" width="10" height="1" /></td> ...`
 
 Lembra?
   

@@ -68,7 +68,7 @@ Veja a tabela de atributos CSS suportados por diversos clientes de e-mail.
 ### Imagens
 
   1. Todas as imagens devem ter display:block, assim evita que o Gmail e o Hotmail acrescentem um espaçamento entre elas.
-  2. Utilize url absoluta da imagem em seu html, além da sua altura e largura. `<img src="http://www.exemplo.com.br/imagem.jpg" alt="A imagem" width="500" height="50" />`
+  2. Utilize url absoluta da imagem em seu html, além da sua altura e largura. `<img src="https://www.exemplo.com.br/imagem.jpg" alt="A imagem" width="500" height="50" />`
   3. Não use imagens com extensão PNG que possuem áreas transparentes, pois não são aceitas em versões do outlook anteriores a 2007, pois seu render engine é o mesmo que o do IE6, que não suporta PNG transparente. As áreas que deveriam ser transparentes são exibidas em cinza.
   4. O atributo ALT oferece um texto alternativo quando alguma imagem não carrega ou não pode ser visualizada. Esse atributo é muito usado para melhorar a acessibilidade de uma página na web e principalmente de um email marketing, já que muitos clientes de email bloqueiam as imagens enviadas por remetentes desconhecidos do destinatário. Nesta situação, a função do atributo é facilitar a “pré-leitura” para o usuário. O atributo alt pode ser formatado para a leitura ficar mais organizada.
   5. Não que seja proibido, mas evite user gifs animados.
@@ -108,7 +108,7 @@ Confira mais dicas e boas práticas para o desenvolvimento do seu e-mail marketi
 
 Veja os clientes de e-mail mais utilizados:
   
- <a title="Saiba mais" href="http://www.ecommercebrasil.com.br/artigos/os-clientes-de-e-mail-mais-utilizados-pelos-usuarios/" target="_blank"><img src="http://anyzamaro.com.br/uploads/2011/10/emailmarketing1.jpg" alt="Clientes de e-mail mais utilizados" /></a>
+ <a title="Saiba mais" href="http://www.ecommercebrasil.com.br/artigos/os-clientes-de-e-mail-mais-utilizados-pelos-usuarios/" target="_blank"><img src="https://anyzamaro.com.br/uploads/2011/10/emailmarketing1.jpg" alt="Clientes de e-mail mais utilizados" /></a>
 
 Para aprofundar-se melhor sobre o assunto, segue links de referências:
 

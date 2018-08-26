@@ -33,7 +33,7 @@ A idéia do servidor é bem simples e estende a do cliente, como assim? Fácil, 
 </p>
 
 <div style="width: 369px" class="wp-caption aligncenter">
-  <a href="http://3.bp.blogspot.com/_Gt5b2CU22sM/S4iS4lbeU5I/AAAAAAAAAUU/DBmariOce1o/s400/rzab6503.gif"><img src="http://3.bp.blogspot.com/_Gt5b2CU22sM/S4iS4lbeU5I/AAAAAAAAAUU/DBmariOce1o/s400/rzab6503.gif" alt="" width="359" height="324" /></a>
+  <a href="http://3.bp.blogspot.com/_Gt5b2CU22sM/S4iS4lbeU5I/AAAAAAAAAUU/DBmariOce1o/s400/rzab6503.gif"><img src="https://3.bp.blogspot.com/_Gt5b2CU22sM/S4iS4lbeU5I/AAAAAAAAAUU/DBmariOce1o/s400/rzab6503.gif" alt="" width="359" height="324" /></a>
   
   <p class="wp-caption-text">
     Diagrama Cliente/Servidor

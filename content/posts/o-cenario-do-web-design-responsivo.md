@@ -55,7 +55,7 @@ O código na especificação proposta fica da seguinte forma:
 
 Se oferecer fontes diferentes para imagens é possível, poderíamos também imaginar o fornecimento de imagens com **recortes diferentes** e focar naquilo que realmente importa aos dispositivos menores. O tópico <a href="http://usecases.responsiveimages.org/#art-direction" target="_blank">&#8220;Art Direction&#8221;</a> da W3C mostra um belo exemplo do que poderia ser feito.
 
-<a href="http://www.bbburp.com.br/sites/default/files/images/20130307110231.jpg" target="_blank"><img alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307110231.jpg?itok=65RrJGnF" width="433" height="475" longdesc="" /></a>
+<a href="http://www.bbburp.com.br/sites/default/files/images/20130307110231.jpg" target="_blank"><img alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307110231.jpg?itok=65RrJGnF" width="433" height="475" longdesc="" /></a>
 
 (Imagem: <a href="http://www.flickr.com/photos/egorick/3754608666/" target="_blank">Egor Pasko</a>)
 
@@ -100,7 +100,7 @@ Outra ideia que está ganhando popularidade são as **imagens JPEG progressivas*
 
 Uma outra solução aos problemas de performance e tamanho de imagem está em **alterar a taxa de compressão das imagens**. Durante muito tempo, pensamos que o alargamento da taxa de compressão de uma imagem prejudicaria a sua qualidade. Entretanto, Daan Jobsis fez uma extensa pesquisa sobre o assunto e escreveu um artigo a respeito chamado [&#8220;Retina Revolution&#8221;][1]. Em seus experimentos, ele testou diferentes tamanhos de imagens e taxas de compressão, o que gerou uma solução muito interessante. Se você dobrar o tamanho de uma imagem, mas também usar uma taxa de compressão mais alta, a imagem terá um arquivo com um tamanho menor que o original, mas ainda serão nítidas em telas normais e de alta densidade. Com esta técnica, Jobsis reduziu em 75% o peso da imagem.
 
-<a href="http://www.bbburp.com.br/sites/default/files/images/20130307110629.jpg" target="_blank"><img title="Demonstração de compressão de imagens por Daan Jobsis." alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307110629.jpg?itok=DCu9elrj" width="473" height="242" longdesc="" /></a>
+<a href="http://www.bbburp.com.br/sites/default/files/images/20130307110629.jpg" target="_blank"><img title="Demonstração de compressão de imagens por Daan Jobsis." alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307110629.jpg?itok=DCu9elrj" width="473" height="242" longdesc="" /></a>
 
 Dadas as dores de cabeça das imagens responsivas, a ideia de ganhar a independência do pixel a partir de imagens, sempre que possível, está seduzindo cada vez mais designers e desenvolvedores. O formato SVG, por exemplo, pode ser usado para criar todos os elementos da interface de um website <a style="line-height: 1.538em" href="http://coding.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/" target="_blank">independente da resolução</a>. Os elementos serão dimensionados para dispositivos menores e não ficarão pixelados nos dispositivos de alta densidade de pixels. <a style="line-height: 1.538em" href="http://css-tricks.com/using-fonts-for-icons/" target="_blank">Font icons</a> são outra tendência crescente. Eles envolvem o uso de uma fonte, onde os caracteres alfanuméricos são substituídos por ícones glifos, dando a flexibilidade que uma fonte oferece. Infelizmente, esta solução ainda não funciona com imagens, o que faz com que seja ansiosamente esperado uma marcação ou formato de imagem viável.
 
@@ -124,7 +124,7 @@ A solução mais óbvia possível é o <a href="http://www.w3.org/TR/css3-flexbo
 }
 </pre>
 
-<a href="http://www.bbburp.com.br/sites/default/files/images/20130307110724.jpg" target="_blank"><img alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307110724.jpg?itok=jmzs81k7" width="479" height="297" /></a>
+<a href="http://www.bbburp.com.br/sites/default/files/images/20130307110724.jpg" target="_blank"><img alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307110724.jpg?itok=jmzs81k7" width="479" height="297" /></a>
 
 O artigo <a href="http://coding.smashingmagazine.com/2011/09/19/css3-flexible-box-layout-explained/" target="_blank">&#8220;CSS3 Flexible Box Layout Explained&#8221;</a> dará a você uma compreensão mais profunda de como o flexbox funciona. (nota do tradutor: o bbburp traduziu um <a href="http://www.bbburp.com.br/artigos/layout-com-flexbox-e-como-tirar-doce-de-crianca" target="_blank">excelente artigo sobre flexbox</a>)
 
@@ -134,7 +134,7 @@ Um segundo tipo de layout, que hoje em dia é bastante utilizado no design respo
 
 É possível apenas ajustar o tamanho das colunas e deixar com que o browser calcule o seu número de acordo com o espaço disponível. Também é possível ajustar o número de colunas, com gaps e regras entre elas, e deixar que o browser calcule a sua largura.
 
-<a href="http://www.bbburp.com.br/sites/default/files/images/20130307110803.jpg" target="_blank"><img alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307110803.jpg?itok=1MS5s-6X" width="477" height="297" /></a>
+<a href="http://www.bbburp.com.br/sites/default/files/images/20130307110803.jpg" target="_blank"><img alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307110803.jpg?itok=1MS5s-6X" width="477" height="297" /></a>
 
 A sintaxe se parece com isto:
 
@@ -207,7 +207,7 @@ A sintaxe fica assim:
 
 E é renderizado assim:
 
-<a href="http://www.bbburp.com.br/sites/default/files/images/20130307110848.jpg" target="_blank"><img alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307110848.jpg?itok=y7SmFn5a" width="477" height="297" /></a>
+<a href="http://www.bbburp.com.br/sites/default/files/images/20130307110848.jpg" target="_blank"><img alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307110848.jpg?itok=y7SmFn5a" width="477" height="297" /></a>
 
 Infelizmente, o suporte a navegadores para este módulo é praticamente nulo. Talvez algum dia, se designers e desenvolvedores mostrarem interesse suficiente nesta especificação, algum fabricante de browser possa implementá-lo. Por enquanto, você pode testá-lo usando <a href="https://code.google.com/p/css-template-layout/" target="_blank">um polyfill</a>.
 
@@ -266,11 +266,11 @@ Um smartphone é um bem pessoal, por isso podemos assumir que dados como nome e 
 
 Datas em elementos de formulário são um bom exemplo do que se pode melhorar com o HTML5. Já estamos acostumados a contar com JavaScript ao criar calendários. Eles podem ser muito úteis se utilizados em grandes telas desktop, mas difíceis de usar em dispositivos touch screen, pois selecionar a data certa com o dedo é difícil quando a área sensível ao toque é muito pequena.
 
-<a href="http://www.bbburp.com.br/sites/default/files/images/20130307110938.jpg" target="_blank"><img title="Como posso selecionar uma data se meu dedo está tocando três ao mesmo tempo?" alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307110938.jpg?itok=sakIwk63" width="478" height="248" longdesc="" /></a>
+<a href="http://www.bbburp.com.br/sites/default/files/images/20130307110938.jpg" target="_blank"><img title="Como posso selecionar uma data se meu dedo está tocando três ao mesmo tempo?" alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307110938.jpg?itok=sakIwk63" width="478" height="248" longdesc="" /></a>
 
 Uma solução promissora está no novo _input type=&#8221;date&#8221;_ do HTML5 , que define uma string no formato de data. Já o _input type=&#8221;datetime&#8221;_ define uma string no formato de data e hora. A grande vantagem deste método é que deixamos o browser decidir qual UI utilizar. Desta forma, a UI é automaticamente otimizada em dispositivos mobile. Abaixo um exemplo da aparência de um _input type=&#8221;date&#8221;_ no desktop, em smartphone e tablet com Android (com o browser Chrome), Iphone e Ipad.
 
-<a href="http://www.bbburp.com.br/sites/default/files/images/20130307111218.jpg" target="_blank"><img title="Renderização do input input type=&quot;date&quot; em diferentes dispositivos." alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111218.jpg?itok=dEKeEFpj" width="402" height="478" longdesc="" /></a>
+<a href="http://www.bbburp.com.br/sites/default/files/images/20130307111218.jpg" target="_blank"><img title="Renderização do input input type=&quot;date&quot; em diferentes dispositivos." alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111218.jpg?itok=dEKeEFpj" width="402" height="478" longdesc="" /></a>
 
 Note que as screenshots foram feitas em meu browser e no Android phone, então a linguagem foi automaticamente adaptada ao sistema de linguagem (Francês). Ao utilizar componentes nativos, você não precisa mais adaptar a lingua para diferentes versões do site.
 
@@ -286,7 +286,7 @@ Ainda não encontraram uma forma perfeita de mostrar tabelas, mas algumas sugest
 
 Uma forma de abordagem é **esconder colunas consideradas &#8220;menos importantes&#8221;**, e oferecer checkboxes para que o usuário escolha quais ele deseja ver. No desktop, todas as colunas seriam mostradas, enquanto no mobile o número de colunas dependeria do tamanho da tela. O Filament Group <a href="http://filamentgroup.com/lab/responsive_design_approach_for_complex_multicolumn_data_tables/" target="_blank">explica este método</a> e <a href="http://filamentgroup.com/examples/rwd-table-patterns/" target="_blank">demonstra</a> em um de seus artigos. A solução também é usada no <a href="http://view.jquerymobile.com/tables/docs/tables/table-column-toggle.html" target="_blank">table column toggle do jQuery Mobile</a>.
 
-<a href="http://www.bbburp.com.br/sites/default/files/images/20130307111308.jpg" target="_blank"><img title="Alguns exemplos de tabelas responsivas." alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111308.jpg?itok=buAWCW1w" width="479" height="429" longdesc="" /></a>
+<a href="http://www.bbburp.com.br/sites/default/files/images/20130307111308.jpg" target="_blank"><img title="Alguns exemplos de tabelas responsivas." alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111308.jpg?itok=buAWCW1w" width="479" height="429" longdesc="" /></a>
 
 A segunda abordagem brinca com a ideia de **scroll em tabelas**. Você poderia &#8220;fixar&#8221; uma única coluna com tamanho fixo a esquerda, e então deixar uma scroll bar numa pequena parte da tabela a direita. <a href="http://dbushell.com/2012/01/05/responsive-tables-2/" target="_blank">David Bushell implementa esta ideia</a> em um artigo usando CSS para exibir todo o conteúdo da _
   
@@ -296,13 +296,13 @@ _
 
 __ do lado esquerdo da tabela, deixando o usuário mover-se pelo conteúdo a direita através da scroll bar. **Zurb** utiliza a mesma ideia, mas de um jeito diferente, <a href="http://zurb.com/playground/responsive-tables" target="_blank">neste plug in</a>. Neste caso, as headers ficam no topo da tabela, e a tabela é duplicada com JavaScript de modo que apenas a primeira coluna seja mostrada a esquerda, e as demais colunas sejam mostradas do lado direito através da scroll bar.
 
-<a href="http://www.bbburp.com.br/sites/default/files/images/20130307111348.jpg" target="_blank"><img title="Dois exemplos de tabelas responsivas com scroll" alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111348.jpg?itok=2bOK8ygE" width="477" height="455" longdesc="" /></a>
+<a href="http://www.bbburp.com.br/sites/default/files/images/20130307111348.jpg" target="_blank"><img title="Dois exemplos de tabelas responsivas com scroll" alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111348.jpg?itok=2bOK8ygE" width="477" height="455" longdesc="" /></a>
 
 A grande questão em utilizar scroll bars e propriedades CSS tais como _overflow: auto_ é que muitos dispositivos mobile e tablets simplesmente não exibem uma scroll bar visível. A área da direita da tabela permite a rolagem, mas o usuário não terá qualquer indício visual desta possibilidade. Precisamos encontrar uma maneira de indicar que há mais conteúdo a ser exibido à direita.
 
 Uma terceira abordagem é em **reestruturar a tabela e dividir as colunas** em listas de itens com cabeçalhos.Esta técnica é utilizada no <a href="http://view.jquerymobile.com/tables/docs/tables/table-reflow.html" target="_blank">&#8220;reflow mode&#8221;</a> no jQuery Mobile e foi explicada por Chris Coyier em seu artigo [“Responsive Data Tables”][4].
 
-<a href="http://www.bbburp.com.br/sites/default/files/images/20130307111441.jpg" target="_blank"><img title="Reestruturando uma tabela para dispositivos móveis" alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111441.jpg?itok=nOmy8Tpm" width="478" height="438" longdesc="" /></a>
+<a href="http://www.bbburp.com.br/sites/default/files/images/20130307111441.jpg" target="_blank"><img title="Reestruturando uma tabela para dispositivos móveis" alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111441.jpg?itok=nOmy8Tpm" width="478" height="438" longdesc="" /></a>
 
 Existem <a href="http://css-tricks.com/responsive-data-table-roundup/" target="_blank">diversas outras técnicas</a>, e qual usar depende muito do seu projeto. Não há dois projetos iguais, por isso só posso mostrar como outras pessoas estão lidando com isto. Se você chegar a uma boa solução, por favor compartilhe nos comentários, no Twitter ou em qualquer outro lugar. Estamos no mesmo barco, e exibir tabelas no mobile está uma droga (é sério). Então vamos melhorá-las juntos!
 
@@ -373,7 +373,7 @@ A navegação alternada (toggle navigation) envolve ocultar o menu nos dispositi
 
 Uma variante deste tipo de menu, inspirado em alguns padrões de aplicativos nativos, é a navegação <a href="http://coding.smashingmagazine.com/2013/01/15/off-canvas-navigation-for-responsive-website/" target="_blank">off-canvas</a>. Essa navegação fica escondida debaixo de um link no menu ou ícone. Quano o usuário clica, a navegação desliza em forma de painel pela esquerda ou direita, empurrando o conteúdo principal.
 
-<a href="http://www.bbburp.com.br/sites/default/files/images/20130307111531.jpg" target="_blank"><img title="Alguns exemplos do toggle navigation" alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111531.jpg?itok=LzZHvbzg" width="478" height="225" longdesc="" /></a>
+<a href="http://www.bbburp.com.br/sites/default/files/images/20130307111531.jpg" target="_blank"><img title="Alguns exemplos do toggle navigation" alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111531.jpg?itok=LzZHvbzg" width="478" height="225" longdesc="" /></a>
 
 <div>
   <p>
@@ -381,7 +381,7 @@ Uma variante deste tipo de menu, inspirado em alguns padrões de aplicativos nat
   </p>
   
   <p>
-    <a href="http://www.bbburp.com.br/sites/default/files/images/20130307111609.jpg" target="_blank"><img title="Áreas facilmente acessíveis na tela de celulares e tablets, de acordo com Luke Wroblewski." alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111609.jpg?itok=1xGtEHVW" width="478" height="356" longdesc="" /></a>
+    <a href="http://www.bbburp.com.br/sites/default/files/images/20130307111609.jpg" target="_blank"><img title="Áreas facilmente acessíveis na tela de celulares e tablets, de acordo com Luke Wroblewski." alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111609.jpg?itok=1xGtEHVW" width="478" height="356" longdesc="" /></a>
   </p>
 </div>
 
@@ -397,7 +397,7 @@ Com base nisto, Jason Weaver criou <a href="http://jasonweaver.name/lab/touchnav
   </p>
   
   <p>
-    <a href="http://www.bbburp.com.br/sites/default/files/images/20130307111659.jpg" target="_blank"><img alt="" src="http://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111659.jpg?itok=Sa8jlYOv" width="477" height="138" /></a>
+    <a href="http://www.bbburp.com.br/sites/default/files/images/20130307111659.jpg" target="_blank"><img alt="" src="https://www.bbburp.com.br/sites/default/files/styles/large/public/images/20130307111659.jpg?itok=Sa8jlYOv" width="477" height="138" /></a>
   </p>
   
   <p>

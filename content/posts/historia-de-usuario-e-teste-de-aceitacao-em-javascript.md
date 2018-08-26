@@ -60,7 +60,7 @@ Com o PhantomJS rodando em segundo plano, basta rodar o CucumberJS passando como
 
 <pre class="lang-ssh">cucumber.js apenas-um-exemplo.feature --require step-definitions.js --format pretty</pre>
 
-<img alt="Ilustração do resultado de exemplo de como escrever história de usuário e teste de aceitação com JavaScript" src="http://i1368.photobucket.com/albums/ag182/igorribeirolima/resultado-obtido_zps867ddb6d.png" width="1020" height="468" />
+<img alt="Ilustração do resultado de exemplo de como escrever história de usuário e teste de aceitação com JavaScript" src="https://i1368.photobucket.com/albums/ag182/igorribeirolima/resultado-obtido_zps867ddb6d.png" width="1020" height="468" />
 
 Esse exemplo contempla de forma bem simples a implementação de teste de aceitação utilizando JavaScript. Essa abordagem também pode utilizar [diferentes tipos de navegadores][11], mas isso ficará para uma próxima discussão. Para quem tiver interesse, todo código está disponível em um [gist][12].
 

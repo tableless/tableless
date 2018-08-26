@@ -33,7 +33,7 @@ Sou apaixonado por tecnologias livres e como sou extremamente curioso, gosto de 
 Vamos ao que interessa! A grosso modo, um servidor HTTP é uma aplicação (software) que fornece páginas web (geralmente escritas em HTML), ou seja, ao digitar o endereço da página (URL) e dar um ENTER no seu navegador, ele envia uma requisição no servidor destino, o servidor processa essa informação e retorna o documento HTML correspondente, por fim o navegador renderiza o documento e exibe aquela página bonita (nem sempre!).
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://www.tankonyvtar.hu/en/tartalom/tamop425/0027_ADW1/images/ADW100.png"><img src="http://www.tankonyvtar.hu/en/tartalom/tamop425/0027_ADW1/images/ADW100.png" alt="Requisição HTTP" width="500" height="200" /></a>
+  <a href="http://www.tankonyvtar.hu/en/tartalom/tamop425/0027_ADW1/images/ADW100.png"><img src="https://www.tankonyvtar.hu/en/tartalom/tamop425/0027_ADW1/images/ADW100.png" alt="Requisição HTTP" width="500" height="200" /></a>
   
   <p class="wp-caption-text">
     Requisição HTTP
@@ -51,7 +51,7 @@ O protocolo HTTP, ou Hyper Text Transfer Protocol, ou melhor ainda, protocolo de
 So para nos situar o HTTP está na camada mais alta do protocolo de comunicação de rede conhecido como TCP/IP (não vamos entrar em detalhes pois não é o foco), chamada camada de aplicação (Nada mais justo já que o servidor e o navegados são aplicações).
 
 <div style="width: 430px" class="wp-caption aligncenter">
-  <a href="http://static.thegeekstuff.com/uploads/2011/10/tcp-ip.png"><img src="http://static.thegeekstuff.com/uploads/2011/10/tcp-ip.png" alt="Camadas de Rede (TCP/IP)" width="420" height="470" /></a>
+  <a href="http://static.thegeekstuff.com/uploads/2011/10/tcp-ip.png"><img src="https://static.thegeekstuff.com/uploads/2011/10/tcp-ip.png" alt="Camadas de Rede (TCP/IP)" width="420" height="470" /></a>
   
   <p class="wp-caption-text">
     Camadas de Rede (TCP/IP)
@@ -108,7 +108,7 @@ Nesta resposta o servidor retorna a data da resposta (Date), qual o nome/tipo/em
 Quer testar? Então abra o navegador de sua preferência, melhor que seja o firefox =D, em seguida abra o modo de desenvolvedor (geralmente é so apertar F12), e por fim clique na aba Rede, pronto agora é so digitar um site na barra de endereço, e acompanhar as requisições pelo console, se quiser mais detalhes clique em uma requisição e peça para exibir detalhes, se estiver usando o firefox, ele aparece esses detalhes logo na lateral da lista de requisições. analise as propriedades enviadas na requisição e veja qual foi a resposta. você irá percebem que existem mais propriedades do que comentamos aqui, mas para nós neste tutorial não será necessário, se quiser pode pesquisar mais sobre eles ou ler o documento RFC que ja falamos sobre ele.
 
 <div id="attachment_17" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://euamoaweb.com.br.md-54.webhostbox.net/arquivolivre.com.br/uploads/2014/06/Screen-Shot-2014-06-17-at-12.00.06-AM.png"><img class="wp-image-17 size-medium" src="http://blog-tsg0.rhcloud.com/uploads/2014/06/Screen-Shot-2014-06-17-at-12.00.06-AM-300x165.png" alt="Requisicao" width="300" height="165" /></a>
+  <a href="http://euamoaweb.com.br.md-54.webhostbox.net/arquivolivre.com.br/uploads/2014/06/Screen-Shot-2014-06-17-at-12.00.06-AM.png"><img class="wp-image-17 size-medium" src="https://blog-tsg0.rhcloud.com/uploads/2014/06/Screen-Shot-2014-06-17-at-12.00.06-AM-300x165.png" alt="Requisicao" width="300" height="165" /></a>
   
   <p class="wp-caption-text">
     Requisicao
@@ -116,7 +116,7 @@ Quer testar? Então abra o navegador de sua preferência, melhor que seja o fire
 </div>
 
 <div id="attachment_18" style="width: 310px" class="wp-caption aligncenter">
-  <a href="http://euamoaweb.com.br.md-54.webhostbox.net/arquivolivre.com.br/uploads/2014/06/Screen-Shot-2014-06-17-at-12.00.34-AM.png"><img class="wp-image-18 size-medium" src="http://blog-tsg0.rhcloud.com/uploads/2014/06/Screen-Shot-2014-06-17-at-12.00.34-AM-300x166.png" alt="Resposta" width="300" height="166" /></a>
+  <a href="http://euamoaweb.com.br.md-54.webhostbox.net/arquivolivre.com.br/uploads/2014/06/Screen-Shot-2014-06-17-at-12.00.34-AM.png"><img class="wp-image-18 size-medium" src="https://blog-tsg0.rhcloud.com/uploads/2014/06/Screen-Shot-2014-06-17-at-12.00.34-AM-300x166.png" alt="Resposta" width="300" height="166" /></a>
   
   <p class="wp-caption-text">
     Resposta

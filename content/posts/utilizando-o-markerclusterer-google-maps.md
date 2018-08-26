@@ -56,9 +56,9 @@ Dando uma olhada no código do exemplo com a utilização do recurso temos o seg
 <pre class="lang-html">&lt;div id="map-container"&gt;&lt;div id="map"&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;!-- Scripts --&gt;
-&lt;script src="http://maps.google.com/maps/api/js?sensor=false"&gt;&lt;/script&gt;
-&lt;script src="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/src/data.json"&gt;&lt;/script&gt;
-&lt;script src="http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/src/markerclusterer.js"&gt;</pre>
+&lt;script src="https://maps.google.com/maps/api/js?sensor=false"&gt;&lt;/script&gt;
+&lt;script src="https://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/src/data.json"&gt;&lt;/script&gt;
+&lt;script src="https://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/src/markerclusterer.js"&gt;</pre>
 
 **CSS**
 

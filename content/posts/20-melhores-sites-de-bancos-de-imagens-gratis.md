@@ -23,15 +23,15 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 
 # 3. Death to Stock
 
-[<img style="max-width: 600px;" src="http://deathtothestockphoto.com/uploads/Death_to_stock_photography_Vibrant-10-of-10.jpg" />][4]
+[<img style="max-width: 600px;" src="https://deathtothestockphoto.com/uploads/Death_to_stock_photography_Vibrant-10-of-10.jpg" />][4]
 
 # 4. FancyCrave
 
-[<img style="max-width: 600px;" src="http://40.media.tumblr.com/7ae5ec1789f201c84a870c24172df382/tumblr_norx4t4Jfx1ted1sho1_1280.jpg" />][5] 
+[<img style="max-width: 600px;" src="https://40.media.tumblr.com/7ae5ec1789f201c84a870c24172df382/tumblr_norx4t4Jfx1ted1sho1_1280.jpg" />][5] 
 
 # 5. KaboomPics
 
-[<img style="max-width: 600px;" src="http://kaboompics.com/files/upload/o_19k235hjc1oam1ebq14momunq687_new.jpg" />][6]
+[<img style="max-width: 600px;" src="https://kaboompics.com/files/upload/o_19k235hjc1oam1ebq14momunq687_new.jpg" />][6]
 
 # 6. PicJumbo
 
@@ -39,11 +39,11 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 
 # 7. Lock & Sotck
 
-[<img style="max-width: 600px;" src="http://i0.wp.com/lockandstockphotos.com/uploads/2015/09/IMG_1834.jpg?resize=656%2C438" />][8]
+[<img style="max-width: 600px;" src="https://i0.wp.com/lockandstockphotos.com/uploads/2015/09/IMG_1834.jpg?resize=656%2C438" />][8]
 
 # 8. Startup Stock Photos
 
-[<img style="max-width: 600px;" src="http://41.media.tumblr.com/abdb209f1ba6f7729636d5ac4e3a6d47/tumblr_nqx8yumAGD1tubinno1_1280.jpg" />][9]
+[<img style="max-width: 600px;" src="https://41.media.tumblr.com/abdb209f1ba6f7729636d5ac4e3a6d47/tumblr_nqx8yumAGD1tubinno1_1280.jpg" />][9]
 
 # 9. SplitShire
 
@@ -51,15 +51,15 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 
 # 10. Life of Pix
 
-[<img style="max-width: 600px;" src="http://cdn2.hubspot.net/hub/53/file-2455902655-jpg/Life-of-Pix.jpg?t=1445306066838&#038;width=669" />][11]
+[<img style="max-width: 600px;" src="https://cdn2.hubspot.net/hub/53/file-2455902655-jpg/Life-of-Pix.jpg?t=1445306066838&#038;width=669" />][11]
 
 # 11. Gratisography
 
-[<img style="max-width: 600px;" src="http://www.gratisography.com/pictures/243_1.jpg" />][12]
+[<img style="max-width: 600px;" src="https://www.gratisography.com/pictures/243_1.jpg" />][12]
 
 # 12. Jay Mantri
 
-[<img style="max-width: 600px;" src="http://41.media.tumblr.com/76e0830e214ebdef7cead2769697035e/tumblr_nsoc5ikBbb1qfirfao1_1280.jpg" />][13]
+[<img style="max-width: 600px;" src="https://41.media.tumblr.com/76e0830e214ebdef7cead2769697035e/tumblr_nsoc5ikBbb1qfirfao1_1280.jpg" />][13]
 
 # 13. Pexels
 
@@ -67,19 +67,19 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 
 # 14. Little Visuals
 
-[<img style="max-width: 600px;" src="http://41.media.tumblr.com/015a96c40e2f80a56dacfbcbd3b197f0/tumblr_n1gayrieM81sdyj9lo1_1280.jpg" />][15]
+[<img style="max-width: 600px;" src="https://41.media.tumblr.com/015a96c40e2f80a56dacfbcbd3b197f0/tumblr_n1gayrieM81sdyj9lo1_1280.jpg" />][15]
 
 # 15. Super Famous
 
-[<img style="max-width: 600px;" src="http://payload337.cargocollective.com/1/17/574234/9042465/DSC_1007_1250.JPG" />][16]
+[<img style="max-width: 600px;" src="https://payload337.cargocollective.com/1/17/574234/9042465/DSC_1007_1250.JPG" />][16]
 
 # 16. New Old Shock
 
-[<img style="max-width: 600px;" src="http://36.media.tumblr.com/7997b02f0dd35b2fcef1faecaa9cc997/tumblr_nvup8lfZA21sfie3io1_1280.jpg" />][17]
+[<img style="max-width: 600px;" src="https://36.media.tumblr.com/7997b02f0dd35b2fcef1faecaa9cc997/tumblr_nvup8lfZA21sfie3io1_1280.jpg" />][17]
 
 # 17. Getrefe
 
-[<img style="max-width: 600px;" src="http://40.media.tumblr.com/faec718628501e1a3712f107e13a8d21/tumblr_nvxsohGoIB1slhhf0o1_1280.jpg" />][18]
+[<img style="max-width: 600px;" src="https://40.media.tumblr.com/faec718628501e1a3712f107e13a8d21/tumblr_nvxsohGoIB1slhhf0o1_1280.jpg" />][18]
 
 # 18. Foodiesfeed
 
@@ -87,7 +87,7 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 
 # 19. Jeshoots
 
-[<img style="max-width: 600px;" src="http://jeshoots.com/uploads/2015/10/IMG_2603b-773x515.jpg" />][20]
+[<img style="max-width: 600px;" src="https://jeshoots.com/uploads/2015/10/IMG_2603b-773x515.jpg" />][20]
 
 # 20. UHDWallpapers
 
@@ -98,24 +98,24 @@ Você deve conhecer o [Unplash][1]: um website que a cada 10 dias libera 10 nova
 [<img style="max-width: 600px;" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/pixabay.jpg" />][22]
 
  [1]: https://unsplash.com
- [2]: http://unsplash.com/
- [3]: http://negativespace.co
- [4]: http://deathtothestockphoto.com
- [5]: http://fancycrave.com
- [6]: http://kaboompics.com/
+ [2]: https://unsplash.com/
+ [3]: https://negativespace.co
+ [4]: https://deathtothestockphoto.com
+ [5]: https://fancycrave.com
+ [6]: https://kaboompics.com/
  [7]: https://picjumbo.com
- [8]: http://lockandstockphotos.com
- [9]: http://startupstockphotos.com
- [10]: http://www.splitshire.com
- [11]: http://www.lifeofpix.com/
- [12]: http://www.gratisography.com
- [13]: http://jaymantri.com
+ [8]: https://lockandstockphotos.com
+ [9]: https://startupstockphotos.com
+ [10]: https://www.splitshire.com
+ [11]: https://www.lifeofpix.com/
+ [12]: https://www.gratisography.com
+ [13]: https://jaymantri.com
  [14]: https://www.pexels.com
- [15]: http://littlevisuals.co
- [16]: http://images.superfamous.com
- [17]: http://nos.twnsnd.co
- [18]: http://getrefe.tumblr.com
- [19]: http://foodiesfeed.com/
- [20]: http://jeshoots.com/
- [21]: http://www.uhdwallpapers.org/p/creative-commons-images.html
+ [15]: https://littlevisuals.co
+ [16]: https://images.superfamous.com
+ [17]: https://nos.twnsnd.co
+ [18]: https://getrefe.tumblr.com
+ [19]: https://foodiesfeed.com/
+ [20]: https://jeshoots.com/
+ [21]: https://www.uhdwallpapers.org/p/creative-commons-images.html
  [22]: https://pixabay.com/

@@ -86,7 +86,7 @@ Por último, quero falar um pouco sobre as navbars. Veja esse código:
       &lt;a class="link is-info"&gt;Menu&lt;/a&gt;
     &lt;/p&gt;
     &lt;p class="level-item has-text-centered"&gt;
-      &lt;img src="http://bulma.io/images/bulma.png" alt="" style="height: 33px;"&gt;
+      &lt;img src="https://bulma.io/images/bulma.png" alt="" style="height: 33px;"&gt;
     &lt;/p&gt;
     &lt;p class="level-item has-text-centered"&gt;
       &lt;a class="link is-info"&gt;Reservations&lt;/a&gt;

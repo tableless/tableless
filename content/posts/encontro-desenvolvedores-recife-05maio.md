@@ -23,7 +23,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
 <table>
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/Renan-Final-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/Renan-Final-60x80.png" />
     </td>
     
     <td>
@@ -33,7 +33,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/jean-carlo-emer-60x80.jpg" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/jean-carlo-emer-60x80.jpg" />
     </td>
     
     <td>
@@ -43,7 +43,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/Willian-Final-60x80.jpg" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/Willian-Final-60x80.jpg" />
     </td>
     
     <td>
@@ -53,7 +53,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/Roberta-final-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/Roberta-final-60x80.png" />
     </td>
     
     <td>
@@ -63,7 +63,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/03/GeorgeGuimaraes1-60x80.jpg" />
+      <img src="https://eventos.locaweb.com.br/files/2016/03/GeorgeGuimaraes1-60x80.jpg" />
     </td>
     
     <td>
@@ -73,7 +73,7 @@ No final do Post, você confere a data de todos os eventos. Quer desconto? 50% u
   
   <tr>
     <td>
-      <img src="http://eventos.locaweb.com.br/files/2016/04/Sergio-Lopes-60x80.png" />
+      <img src="https://eventos.locaweb.com.br/files/2016/04/Sergio-Lopes-60x80.png" />
     </td>
     
     <td>
