@@ -3,7 +3,6 @@ authors = "Macgyver"
 canonical = ""
 categories = ["javascript", "reactjs"]
 date = "2018-08-27T09:29:58-03:00"
-draft = true
 excerpt = "Dicas para dar manutenção pro seu app React + Redux"
 image = "https://i.imgur.com/PT3Icdw.jpg"
 publishdate = "2018-08-27T09:29:00-03:00"
