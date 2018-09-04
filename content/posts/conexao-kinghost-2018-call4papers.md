@@ -3,7 +3,6 @@ authors = "Tableless"
 canonical = ""
 categories = ["eventos", "publieditorial"]
 date = "2018-09-05T17:46:15-03:00"
-draft = true
 excerpt = "Palestre para mais de 5 mil pessoas"
 image = "https://i.imgur.com/TrsB42U.png"
 publishdate = "2018-09-05T17:46:00-03:00"
