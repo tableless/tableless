@@ -69,6 +69,7 @@ fields:
     original aqui.
   hidden: false
 pages:
+- content/posts/conexao-kinghost-2018-call4papers.md
 - content/posts/classificando-o-conteudo-do-stack-exchange-parte-03-03.md
 - content/posts/como-evitar-que-seu-app-react-com-redux-vire-um-ninho-de-rato.md
 - content/posts/sera-o-dropshipping-o-futuro-do-empreendedorismo.md
