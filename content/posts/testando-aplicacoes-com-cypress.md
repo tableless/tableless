@@ -2,7 +2,7 @@
 title: Testando aplicações com Cypress
 authors: Tailo Mateus Gonsalves
 type: post
-image: https://cdn-images-1.medium.com/max/800/1*3FiXnBZvOWyPhABykTMabQ.jpeg
+image: https://i.imgur.com/3N55xi3.jpg
 date: 2018-09-10
 excerpt: As suas dores de cabeça acabaram
 categories:
