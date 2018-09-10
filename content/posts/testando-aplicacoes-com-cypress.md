@@ -1,4 +1,4 @@
-﻿---
+---
 title: Testando aplicações com Cypress
 authors: Tailo Mateus Gonsalves
 type: post
@@ -8,7 +8,7 @@ excerpt: As suas dores de cabeça acabaram
 categories:
   - Front-end
   - Tecnologias e Tendências
-tag:
+tags:
   - testes
   - end-to-end
   - cypress
