@@ -30,3 +30,5 @@ Parece que até os Apple Watchs podem se dar mal nessa:
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Also looks like watchOS 5 is susceptible. <a href="https://t.co/Mam8uTyuye">pic.twitter.com/Mam8uTyuye</a></p>&mdash; Robert Petersen (@Sonikku_a2) <a href="https://twitter.com/Sonikku_a2/status/1041111748290338816?ref_src=twsrc%5Etfw">September 15, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Fonte: [TechCrunch](https://techcrunch.com/2018/09/15/a-new-css-based-web-attack-will-crash-and-restart-your-iphone/)
