@@ -46,10 +46,10 @@
   <link rel="prefetch" href="https://pagead2.googlesyndication.com/pagead/osd.js" as="javascript">
   <link rel="prefetch" href="https://ssl.google-analytics.com/ga.js" as="javascript">
   <link rel="prefetch" href="https://www.google-analytics.com/analytics.js" as="javascript">
-  
-  
+
+
   <link rel="canonical" href='{{ if $.Param "canonical" }}{{ $.Param "canonical" }}{{else}}{{.Permalink}}{{end}}'>
-  
+
 
   <link rel="icon" href="https://tableless.com.br/images/favicon.png">
 
@@ -93,7 +93,7 @@
 
 
   {{ if $.Scratch.Get "single"}}
-  
+
   <script type="application/ld+json">
     { "@context": "http://schema.org",
       "@type": "Article",
@@ -125,7 +125,7 @@
     var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
   </script>
-  
+
   <script>
     googletag.cmd.push(function() {
       googletag.defineSlot('/7969368/RetanguloMedio-TopoSidebar', [[300, 250], [336, 280], [300, 300], [360, 360], [300, 600]], 'div-gpt-ad-1514953930189-0').addService(googletag.pubads());
@@ -140,7 +140,7 @@
 
 </head>
 <body>
-  
+
 {{if .IsHome}}
 
 <header id="tb-header-home">
@@ -254,7 +254,7 @@
 {{else}}
 
   <header id="tb-header">
-    
+
     {{partial "sponsors/sponsor-header-logos.html" . }}
 
     <a href="{{ .Site.BaseURL }}" class="tb-logo"><img src="{{ .Site.BaseURL }}images/logom.svg" alt="Togo tableless"></a>
@@ -262,9 +262,9 @@
       <li><a href="http://forum.tableless.com.br/" class="tb-lnk-forum">Acesse nosso <b>Fórum</b></a></li>
       <li><a href="https://tableless.com.br/anuncie-no-tableless" class="tb-lnk-anuncie">Anuncie conosco</a></li>
       <li><a href="https://tableless.com.br/seja-um-autor" class="tb-lnk-sejaauthor">Escreva conosco</a></li>
-      <li><a href="https://tableless.com.br/servicos/" class="tb-lnk-psdhtml">PSD para HTML</a></li>
+      <!-- <li><a href="https://tableless.com.br/servicos/" class="tb-lnk-psdhtml">PSD para HTML</a></li> -->
       <li><a href="mailto:contato@tableless.com.br" class="tb-lnk-contato">Fale conosco</a></li>
-      <!-- <li><a href="http://medium.com/tableless/" class="tb-lnk-medium">Acesse nosso <b>Medium</b></a></li> -->
+      <li><a href="http://medium.com/tableless/" class="tb-lnk-medium">Acesse nosso <b>Medium</b></a></li>
       <li><a href="http://twitter.com/tableless" class="tb-lnk-social-twitter"><img src="{{ .Site.BaseURL }}images/logo-twitter.png" alt="Link para Twitter"></a></li>
       <li><a href="http://facebook.com/tablelessbr" class="tb-lnk-social-facebook"><img src="{{ .Site.BaseURL }}images/logo-facebook.png" alt="Link para Facebook"></a></li>
       <li><a href="http://www.specificfeeds.com/tableless?subParam=followPub" class="tb-lnk-social-rss"><img src="{{ .Site.BaseURL }}images/logo-rss.png" alt="Link para RSS"></a></li>
