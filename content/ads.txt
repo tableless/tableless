@@ -1,0 +1,159 @@
+#Please change ONLY the first line ACCOUNT ID to your account ID#, the rest of IDs shall be copied as is. ACCOUNT ID can be found in your profile under Inventory page. More information available here: https://www.pixfuture.com/tickets/knowledgebase.php?article=54
+#Add your ads.txt Adsense ID if you use Adsense/ADX/DoubleClick
+
+#START
+pixfuture.com, 540311231, DIRECT
+openx.com, 540311231, RESELLER, 6a698e2ec38604c6
+adtech.com, 9834, RESELLER
+aolcloud.net, 9834, RESELLER
+advertising.com, 24140, RESELLER
+aolcloud.net, 24140, RESELLER
+google.com, pub-1575911585432548, RESELLER, f08c47fec0942fa0
+contextweb.com, 548938, DIRECT
+cedato.com, 501446106, RESELLER
+cedato.com, 1932395686, RESELLER
+freewheel.tv, 222017, RESELLER
+freewheel.tv, 222025, RESELLER
+contextweb.com, 561345, RESELLER
+beachfront.com, beachfront_4469, DIRECT
+beachfront.com, beachfront_4469, RESELLER
+tremorhub.com, m7go6-tfyi8, RESELLER, 1a4e959a1b50034a
+advertising.com, 18632, RESELLER
+fyber.com, af3fd4670c740d671b26e75cb2a1520b, DIRECT
+fyber.com, af3fd4670c740d671b26e75cb2a1520b, RESELLER
+lkqd.net, 309, RESELLER, 59c49fa9598a0117
+lkqd.com, 309, RESELLER, 59c49fa9598a0117
+tremorhub.com, wxh7w-4cxtx, RESELLER, 1a4e959a1b50034a
+indexexchange.com, 183965, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 156458, RESELLER, 5d62403b186f2ace
+pubmatic.com,	156325, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156084, RESELLER, 5d62403b186f2ace
+coxmt.com, 2000067995202, RESELLER
+pubmatic.com, 156020, RESELLER
+coxmt.com, 2000067907202, RESELLER
+pubmatic.com, 156078, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156377, RESELLER	, 5d62403b186f2ace
+openx.com, 537143344, RESELLER
+indexexchange.com, 175407, RESELLER, 50b1c356f2c5c8fc
+openx.com, 537125356, RESELLER, a698e2ec38604c6
+#2017-12-06
+fyber.com, f10a6288277e84da881e447a8992a90a, RESELLER
+tremorhub.com, 0scjc, RESELLER, 1a4e959a1b50034a
+beachfront.com, publisher_1776, RESELLER
+lkqd.net, 158, RESELLER, 59c49fa9598a0117
+lkqd.com, 158, RESELLER, 59c49fa9598a0117
+Advertising.com, 21995, RESELLER
+smartadserver.com, 1493, RESELLER
+spotxchange.com, <153561>, RESELLER, 7842df1d2fe2db34
+spotx.tv, <153561>, RESELLER, 7842df1d2fe2db34
+contextweb.com, 560664, RESELLER, 89ff185a4c4e857c
+freewheel.tv, 36513, RESELLER
+freewheel.tv, 36521, RESELLER
+rhythmone.com, 2433655180, RESELLER, a670c89d4a324e47
+#2017-12-19
+cedato.com, 501446106, RESELLER
+spotxchange.com, 211738, RESELLER, 7842df1d2fe2db34
+spotx.tv, 211738, RESELLER, 7842df1d2fe2db34
+xapads.com, 873, DIRECT
+tremorhub.com, fx12v-lb3n4, RESELLER, 1a4e959a1b50034a
+#2018-01-25
+cedato.com, 501446106, RESELLER
+cedato.com, 67407424, RESELLER
+lkqd.net,106, RESELLER, 59c49fa9598a0117
+lkqd.com,106, RESELLER, 59c49fa9598a0117
+optimatic.com, 64467162406, RESELLER
+fyber.com, b1d6e234b7b43f4045de2fb9a62aa1b5, RESELLER
+fyber.com, aa74dd0f1004b70309ce536d1a567992, RESELLER
+fyber.com, 312fd299f8f0bc33e3f9394b2c778873, RESELLER
+fyber.com, ebb225d1524b498ec62a01f7a0a54a6d, RESELLER
+fyber.com, 6e1db314253f92ea29e37c1a2187a475, RESELLER
+fyber.com, 322881e1eaabd932021147e1f17e93a4, RESELLER
+fyber.com, 00291deff2e72b5276643f5d1a7e1196, RESELLER
+advertising.com, 10334, RESELLER
+contextweb.com,560829,RESELLER,89ff185a4c4e857c
+beachfront.com, 2514, RESELLER
+freewheel.tv, 221993, RESELLER
+freewheel.tv, 231185, RESELLER
+freewheel.tv, 339585, RESELLER
+freewheel.tv, 345105, RESELLER
+freewheel.tv, 489745, RESELLER
+freewheel.tv, 606193, RESELLER
+freewheel.tv, 606529, RESELLER
+freewheel.tv, 606545, RESELLER
+freewheel.tv, 606561, RESELLER
+freewheel.tv, 606577, RESELLER
+freewheel.tv, 606593, RESELLER
+freewheel.tv, 612209, RESELLER
+freewheel.tv, 612225, RESELLER
+freewheel.tv, 612241, RESELLER
+freewheel.tv, 621233, RESELLER
+freewheel.tv, 621249, RESELLER
+freewheel.tv, 224321, RESELLER
+freewheel.tv, 224385, RESELLER
+freewheel.tv, 231193, RESELLER
+freewheel.tv, 517793, RESELLER
+freewheel.tv, 351617, RESELLER
+freewheel.tv, 517809, RESELLER
+freewheel.tv, 345185, RESELLER
+freewheel.tv, 517825, RESELLER
+freewheel.tv, 490209, RESELLER
+freewheel.tv, 517841, RESELLER
+freewheel.tv, 606209, RESELLER
+freewheel.tv, 606225, RESELLER
+freewheel.tv, 606609, RESELLER
+freewheel.tv, 606625, RESELLER
+freewheel.tv, 606641, RESELLER
+freewheel.tv, 606657, RESELLER
+freewheel.tv, 606673, RESELLER
+freewheel.tv, 606689, RESELLER
+freewheel.tv, 606705, RESELLER
+freewheel.tv, 606721, RESELLER
+freewheel.tv, 606737, RESELLER
+freewheel.tv, 606753, RESELLER
+freewheel.tv, 612257, RESELLER
+freewheel.tv, 612273, RESELLER
+freewheel.tv, 612289, RESELLER
+freewheel.tv, 612305, RESELLER
+freewheel.tv, 612321, RESELLER
+freewheel.tv, 612337, RESELLER
+freewheel.tv, 621265, RESELLER
+freewheel.tv, 621281, RESELLER
+freewheel.tv, 621297, RESELLER
+freewheel.tv, 621313, RESELLER
+tremorhub.com, 0kq41, RESELLER, 1a4e959a1b50034a
+spotxchange.com, 74844, RESELLER, 7842df1d2fe2db34
+spotx.tv, 74844, RESELLER, 7842df1d2fe2db34
+appnexus.com, 2720, RESELLER
+google.com, pub-4983172728561290, RESELLER, f08c47fec0942fa0
+openx.com, 537139983, RESELLER, 6a698e2ec38604c6
+lkqd.com, 74, RESELLER, 59c49fa9598a0117
+anyclip-media.com, 5666a6fd2a61260002000001, RESELLER
+tremorhub.com, kec6z, RESELLER, 1a4e959a1b50034a
+optimatic.com, 74763721980, RESELLER
+spotxchange.com, 86064, RESELLER, 7842df1d2fe2db34
+spotx.tv, 86064, RESELLER, 7842df1d2fe2db34
+#2018-03-23
+vertamedia.com, 37197, RESELLER, 7de89dc7742b5b11
+#2018-04-02
+vidstart.com, 20351336, DIRECT
+lkqd.net, 74, RESELLER, 59c49fa9598a0117
+Advertising.com, 3500, RESELLER
+pubmatic.com, 156610, RESELLER, 5d62403b186f2ace
+springserve.com, 316, RESELLER, a24eb641fc82e93d
+anyclip-media.com, 5666a6fd2a61260002000001, DIRECT
+freewheel.tv, 106841, RESELLER
+freewheel.tv, 106849, RESELLER
+pubmatic.com, 156305, RESELLER, 5d62403b186f2ace
+#2018-04-16-Zippor
+lkqd.net, 198, RESELLER, 59c49fa9598a0117
+lkqd.com, 198, RESELLER, 59c49fa9598a0117
+fyber.com, f2a848067b5fe77e73205e8024940cbf, RESELLER
+advertising.com, 26210, RESELLER
+freewheel.tv, 484721, RESELLER
+advertising.com, 12624, RESELLER
+beachfront.com, 10533, RESELLER, e2541279e8e2ca4d
+#2018-05-02
+pubmatic.com, 156534 , RESELLER, 5d62403b186f2ace
+beachfront.com, 4969, RESELLER, e2541279e8e2ca4d
+beachfront.com, 10820, RESELLER, e2541279e8e2ca4d
+contextweb.com, 559971, RESELLER, 89ff185a4c4e857c
