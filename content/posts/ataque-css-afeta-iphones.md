@@ -10,9 +10,6 @@ title = "Um simples código de HTML e CSS crasheia aparelhos da Apple"
 type = "post"
 +++
 
-
-https://techcrunch.com/2018/09/15/a-new-css-based-web-attack-will-crash-and-restart-your-iphone/
-
 Com algumas linhas de código você pode fazer crash e restartar um iPhone.
 Um cara chamado Sabri Haddouche twittou uma página para provar um conceito que com apenas 15 linhas de código, que se visitado com o Safari, poderá crashear e restartar iPhones ou iPads.
 
