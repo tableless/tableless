@@ -8,7 +8,7 @@ url: /manipulacao-de-classes-com-jquery/
 tweetbackscheck:
   - 1356415573
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5640";s:7:"tinyurl";s:26:"http://tinyurl.com/7b43okt";s:4:"isgd";s:19:"http://is.gd/nYdeqJ";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5640";s:7:"tinyurl";s:26:"https://tinyurl.com/7b43okt";s:4:"isgd";s:19:"https://is.gd/nYdeqJ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 594823697
@@ -164,10 +164,10 @@ $(&#8220;div#result2&#8221;).append($(&#8220;p:last&#8221;).hasClass(&#8220;sele
 
 Para ler a documentação dessas funções, [clique aqui][7].
 
- [1]: http://jquery.com
- [2]: http://jsfiddle.net/tableless/35DJy/
- [3]: http://jsfiddle.net/tableless/JakZ8/
- [4]: http://api.jquery.com/addClass/
- [5]: http://jsfiddle.net/tableless/s76Xc/2/
- [6]: http://jsfiddle.net/tableless/FcTm7/10/
- [7]: http://api.jquery.com/category/manipulation/class-attribute/
+ [1]: https://jquery.com
+ [2]: https://jsfiddle.net/tableless/35DJy/
+ [3]: https://jsfiddle.net/tableless/JakZ8/
+ [4]: https://api.jquery.com/addClass/
+ [5]: https://jsfiddle.net/tableless/s76Xc/2/
+ [6]: https://jsfiddle.net/tableless/FcTm7/10/
+ [7]: https://api.jquery.com/category/manipulation/class-attribute/

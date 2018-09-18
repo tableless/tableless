@@ -171,8 +171,8 @@ Minhas considerações sobre tudo isso são simples. Temos &#8211; felizmente &#
 
 Esta publicação foi inspirada no documentário que você pode assistir a qualquer momento abaixo:
 
-[youtube http://www.youtube.com/watch?v=CK_j5Qbuq5k?rel=0]
+[youtube https://www.youtube.com/watch?v=CK_j5Qbuq5k?rel=0]
 
-Inspirado: <a href="https://www.thinkwithgoogle.com/intl/pt-br/collections/mobile-day.html" target="_blank">Think With Google</a> &#8211; <a href="http://www.kaushik.net/avinash/see-think-do-care-win-content-marketing-measurement/" target="_blank">Avinash</a>
+Inspirado: <a href="https://www.thinkwithgoogle.com/intl/pt-br/collections/mobile-day.html" target="_blank">Think With Google</a> &#8211; <a href="https://www.kaushik.net/avinash/see-think-do-care-win-content-marketing-measurement/" target="_blank">Avinash</a>
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/see-think-do-care-audience-intent-clusters.png

@@ -125,10 +125,10 @@ No próximo artigo a gente mostra os comandos **commit**, **push** e **pull**.
 
 Veja um vídeo que mostra os comandos básicos do GIT:
 
- [1]: http://tableless.com.br/iniciando-no-git-parte-2/
- [2]: http://tableless.com.br/introducao-das-premissas-dos-controles-de-versao/ "Introdução das premissas dos controles de versão"
- [3]: http://pt.wikipedia.org/wiki/Git
- [4]: http://git-scm.com/
- [5]: http://code.google.com/p/msysgit
- [6]: http://code.google.com/p/git-osx-installer
+ [1]: https://tableless.com.br/iniciando-no-git-parte-2/
+ [2]: https://tableless.com.br/introducao-das-premissas-dos-controles-de-versao/ "Introdução das premissas dos controles de versão"
+ [3]: https://pt.wikipedia.org/wiki/Git
+ [4]: https://git-scm.com/
+ [5]: https://code.google.com/p/msysgit
+ [6]: https://code.google.com/p/git-osx-installer
  [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/Screen-Shot-2012-11-19-at-11.21.33-AM.png

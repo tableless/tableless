@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356396382
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/criar-paginas-no-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/3ruo3ca";s:4:"isgd";s:19:"http://is.gd/m4cqKS";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/criar-paginas-no-wordpress";s:7:"tinyurl";s:26:"https://tinyurl.com/3ruo3ca";s:4:"isgd";s:19:"https://is.gd/m4cqKS";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038418
@@ -23,7 +23,7 @@ tags:
 ---
 O WordPress permite total controle sobre a criação de conteúdo, inclusive a criação de novas páginas.
 
-Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="http://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
+Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="https://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
 
 <!--more-->
 
@@ -31,7 +31,7 @@ Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages 
   
  `O WordPress permite total controle sobre a criação de conteúdo, inclusive a criação de novas páginas.
 
-Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="http://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
+Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="https://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
 
 <!--more-->
 
@@ -48,14 +48,14 @@ Você não quer que a página Arquivos apareça em seu menu, para que isso acont
   1. Vá até o administrativo de seu WordPress, entre em **Gerenciar > Páginas**.
   2. Você verá uma lista de todas as páginas criadas.
   3. Aqui precisamos pegar o ID de cada página para podermos ocultá-las posteriormente.
-  4. Coloque o mouse sobre o nome da página e você observará na URL, semelhante a essa: **http://seusite.com.br/wp-admin/page.php?action=edit&post=4**, que o número que vem após o &post= é o ID da página, nessa URL seria o ID 4.
-  5. Agora devemos modificar o método <a title="wp_list_pages ()" rel="external" href="http://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a> no arquivo header.php do seu tema WordPress. Para evitar problemas futuros, efetue um backup do arquivo para segurança.
+  4. Coloque o mouse sobre o nome da página e você observará na URL, semelhante a essa: **https://seusite.com.br/wp-admin/page.php?action=edit&post=4**, que o número que vem após o &post= é o ID da página, nessa URL seria o ID 4.
+  5. Agora devemos modificar o método <a title="wp_list_pages ()" rel="external" href="https://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a> no arquivo header.php do seu tema WordPress. Para evitar problemas futuros, efetue um backup do arquivo para segurança.
   6. Abra o arquivo, procure por wp\_list\_pages().
   7. Adicione o arqumento: “exclude=4″.
 
 ``O WordPress permite total controle sobre a criação de conteúdo, inclusive a criação de novas páginas.
 
-Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="http://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
+Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="https://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
 
 <!--more-->
 
@@ -63,7 +63,7 @@ Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages 
   
  `O WordPress permite total controle sobre a criação de conteúdo, inclusive a criação de novas páginas.
 
-Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="http://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
+Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="https://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
 
 <!--more-->
 
@@ -80,8 +80,8 @@ Você não quer que a página Arquivos apareça em seu menu, para que isso acont
   1. Vá até o administrativo de seu WordPress, entre em **Gerenciar > Páginas**.
   2. Você verá uma lista de todas as páginas criadas.
   3. Aqui precisamos pegar o ID de cada página para podermos ocultá-las posteriormente.
-  4. Coloque o mouse sobre o nome da página e você observará na URL, semelhante a essa: **http://seusite.com.br/wp-admin/page.php?action=edit&post=4**, que o número que vem após o &post= é o ID da página, nessa URL seria o ID 4.
-  5. Agora devemos modificar o método <a title="wp_list_pages ()" rel="external" href="http://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a> no arquivo header.php do seu tema WordPress. Para evitar problemas futuros, efetue um backup do arquivo para segurança.
+  4. Coloque o mouse sobre o nome da página e você observará na URL, semelhante a essa: **https://seusite.com.br/wp-admin/page.php?action=edit&post=4**, que o número que vem após o &post= é o ID da página, nessa URL seria o ID 4.
+  5. Agora devemos modificar o método <a title="wp_list_pages ()" rel="external" href="https://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a> no arquivo header.php do seu tema WordPress. Para evitar problemas futuros, efetue um backup do arquivo para segurança.
   6. Abra o arquivo, procure por wp\_list\_pages().
   7. Adicione o arqumento: “exclude=4″.
 
@@ -100,7 +100,7 @@ No geral elas são ordenadas alfabeticamente, mas você pode indicar um número 
 
 ```O WordPress permite total controle sobre a criação de conteúdo, inclusive a criação de novas páginas.
 
-Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="http://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
+Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="https://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
 
 <!--more-->
 
@@ -108,7 +108,7 @@ Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages 
   
  `O WordPress permite total controle sobre a criação de conteúdo, inclusive a criação de novas páginas.
 
-Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="http://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
+Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="https://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
 
 <!--more-->
 
@@ -125,14 +125,14 @@ Você não quer que a página Arquivos apareça em seu menu, para que isso acont
   1. Vá até o administrativo de seu WordPress, entre em **Gerenciar > Páginas**.
   2. Você verá uma lista de todas as páginas criadas.
   3. Aqui precisamos pegar o ID de cada página para podermos ocultá-las posteriormente.
-  4. Coloque o mouse sobre o nome da página e você observará na URL, semelhante a essa: **http://seusite.com.br/wp-admin/page.php?action=edit&post=4**, que o número que vem após o &post= é o ID da página, nessa URL seria o ID 4.
-  5. Agora devemos modificar o método <a title="wp_list_pages ()" rel="external" href="http://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a> no arquivo header.php do seu tema WordPress. Para evitar problemas futuros, efetue um backup do arquivo para segurança.
+  4. Coloque o mouse sobre o nome da página e você observará na URL, semelhante a essa: **https://seusite.com.br/wp-admin/page.php?action=edit&post=4**, que o número que vem após o &post= é o ID da página, nessa URL seria o ID 4.
+  5. Agora devemos modificar o método <a title="wp_list_pages ()" rel="external" href="https://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a> no arquivo header.php do seu tema WordPress. Para evitar problemas futuros, efetue um backup do arquivo para segurança.
   6. Abra o arquivo, procure por wp\_list\_pages().
   7. Adicione o arqumento: “exclude=4″.
 
 ``O WordPress permite total controle sobre a criação de conteúdo, inclusive a criação de novas páginas.
 
-Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="http://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
+Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="https://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
 
 <!--more-->
 
@@ -140,7 +140,7 @@ Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages 
   
  `O WordPress permite total controle sobre a criação de conteúdo, inclusive a criação de novas páginas.
 
-Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="http://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
+Para termos acesso a esse recurso, utilizamos o método <a title="wp_list_pages ()" rel="external" href="https://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a>, método pelo qual, após a criação das páginas, elas são mostradas automaticamente no seu site, pois a grande maioria dos templates para WordPress já vem com essa função, que fica localizada no arquivo header.php do tema do WordPress, gerando uma lista de páginas semelhante a essa:
 
 <!--more-->
 
@@ -157,8 +157,8 @@ Você não quer que a página Arquivos apareça em seu menu, para que isso acont
   1. Vá até o administrativo de seu WordPress, entre em **Gerenciar > Páginas**.
   2. Você verá uma lista de todas as páginas criadas.
   3. Aqui precisamos pegar o ID de cada página para podermos ocultá-las posteriormente.
-  4. Coloque o mouse sobre o nome da página e você observará na URL, semelhante a essa: **http://seusite.com.br/wp-admin/page.php?action=edit&post=4**, que o número que vem após o &post= é o ID da página, nessa URL seria o ID 4.
-  5. Agora devemos modificar o método <a title="wp_list_pages ()" rel="external" href="http://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a> no arquivo header.php do seu tema WordPress. Para evitar problemas futuros, efetue um backup do arquivo para segurança.
+  4. Coloque o mouse sobre o nome da página e você observará na URL, semelhante a essa: **https://seusite.com.br/wp-admin/page.php?action=edit&post=4**, que o número que vem após o &post= é o ID da página, nessa URL seria o ID 4.
+  5. Agora devemos modificar o método <a title="wp_list_pages ()" rel="external" href="https://codex.wordpress.org/Template_Tags/wp_list_pages">wp_list_pages ()</a> no arquivo header.php do seu tema WordPress. Para evitar problemas futuros, efetue um backup do arquivo para segurança.
   6. Abra o arquivo, procure por wp\_list\_pages().
   7. Adicione o arqumento: “exclude=4″.
 
@@ -181,4 +181,4 @@ Sua página a partir de agora será listada por essa ordem. Para alterar a ordem
 
 Se você quer saber mais sobre WordPress, [visite a seção exclusiva do Tableless][1].
 
- [1]: http://tableless.com.br/wordpress/
+ [1]: https://tableless.com.br/wordpress/

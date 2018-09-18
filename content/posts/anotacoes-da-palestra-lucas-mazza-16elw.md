@@ -47,7 +47,7 @@ O Lucas fez uma palestra sensacional sobre refatoração e manutenção de códi
   * **NÃO EDITE CÓDIGOS DE TERCEIROS**, TIPO BOOTSTRAP E ETC.
   * Escolha dependências do tamanho que você precisa. Pode ser que uma dependência seja muito grande atrapalhe mais do ajude.
   * Use dependências com moderação e de acordo com as suas necessidades.
-  * Sisteminha de criação de sprites que o Lucas usou para substituir o do Compass. <http://github.com/lucasmazza/spriteful>
+  * Sisteminha de criação de sprites que o Lucas usou para substituir o do Compass. <https://github.com/lucasmazza/spriteful>
   * Não modifique código de terceiros, estenda.
   * Documentação decente é amor. Você precisa ter carinho pela documentação do código.
   * Documentação de código é uma forma de comunicação entre os desenvolvedores do projeto e para pessoas fora da equipe.
@@ -59,6 +59,6 @@ O Lucas fez uma palestra sensacional sobre refatoração e manutenção de códi
   * Mostre para outros times e desenvolvedores o seu código.
   * Maintainability comes from shared understanding. &#8211; **Kyle Neath**
 
- [1]: http://guidelines.plataformatec.com.br/css
- [2]: http://markdotto.com/2013/10/09/css-and-noparents/
- [3]: http://warpspire.com/posts/kss/
+ [1]: https://guidelines.plataformatec.com.br/css
+ [2]: https://markdotto.com/2013/10/09/css-and-noparents/
+ [3]: https://warpspire.com/posts/kss/

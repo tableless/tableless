@@ -7,7 +7,7 @@ url: /layout_quadrado/
 tweetbackscheck:
   - 1355789905
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/layout_quadrado";s:7:"tinyurl";s:26:"http://tinyurl.com/4yqonxv";s:4:"isgd";s:19:"http://is.gd/vS5MXg";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/layout_quadrado";s:7:"tinyurl";s:26:"https://tinyurl.com/4yqonxv";s:4:"isgd";s:19:"https://is.gd/vS5MXg";}'
 twittercomments:
   - 'a:1:{i:8934441351127041;s:7:"retweet";}'
 tweetcount:
@@ -36,21 +36,21 @@ E não querendo criar polêmica: sites mais cleans, minimalistas, com sombrinhas
 
 **Links interessantes:** 
 
-  * <http://cssvault.com/>
-  * <http://www.cssbeauty.com/>
-  * <http://www.marcapaginas.net/postearte/galeria.php>
-  * <http://www.webstandardsawards.com/>
-  * <http://www.unmatchedstyle.com/>
-  * <http://www.meryl.net/css/about.php>
-  * <http://www.weeklystandards.com/archives/>
-  * <http://www.w3csites.com/>
-  * <http://www.nv30.com/mt/blogomania/index.php>
-  * <http://www.stylegala.com/>
-  * <http://www.cssdesign.se/>
+  * <https://cssvault.com/>
+  * <https://www.cssbeauty.com/>
+  * <https://www.marcapaginas.net/postearte/galeria.php>
+  * <https://www.webstandardsawards.com/>
+  * <https://www.unmatchedstyle.com/>
+  * <https://www.meryl.net/css/about.php>
+  * <https://www.weeklystandards.com/archives/>
+  * <https://www.w3csites.com/>
+  * <https://www.nv30.com/mt/blogomania/index.php>
+  * <https://www.stylegala.com/>
+  * <https://www.cssdesign.se/>
 
 Esses links acima são &#8220;bancos de sites&#8221; de sites feitos seguindos os Web Standards e que são bonitos. Um ótimo lugar para se inspirar.
 
- [1]: http://www.cssvault.com/
- [2]: http://www.cssbeauty.com/
- [3]: http://www.espn.com/
- [4]: http://www.fishmarketing.net/
+ [1]: https://www.cssvault.com/
+ [2]: https://www.cssbeauty.com/
+ [3]: https://www.espn.com/
+ [4]: https://www.fishmarketing.net/

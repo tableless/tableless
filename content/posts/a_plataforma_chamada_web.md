@@ -7,7 +7,7 @@ url: /a_plataforma_chamada_web/
 tweetbackscheck:
   - 1356139812
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/a_plataforma_chamada_web";s:7:"tinyurl";s:26:"http://tinyurl.com/3wv67vv";s:4:"isgd";s:19:"http://is.gd/54bpM3";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/a_plataforma_chamada_web";s:7:"tinyurl";s:26:"https://tinyurl.com/3wv67vv";s:4:"isgd";s:19:"https://is.gd/54bpM3";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033804
@@ -58,20 +58,20 @@ Mais sobre o assunto:
   * [Web 0.1&#945;][14]
   * [What Is Web 2.0][17]
 
- [1]: http://www.flickr.com/
- [2]: http://www.backpackit.com/
- [3]: http://www.writeboard.com/
- [4]: http://www.wikipedia.org/
- [5]: http://gmail.com/
- [6]: http://del.icio.us/
- [7]: http://www.widgetgallery.com/index.php?search=Weather&show=25
- [8]: http://www.bloglines.com/public/diegoeis
- [9]: http://www.bloglines.com/
- [10]: http://www.bondfaro.com.br/
- [11]: http://www.buscape.com.br/
- [12]: http://www.flickr.com
- [13]: http://www.flickr.com/services/api/
- [14]: http://brunotorres.net/2005/10/14/web-01
- [15]: http://brunotorres.net/2005/10/19/web-20-para-o-povo
- [16]: http://www.carreirasolo.org/archives/voce_sabe_o_que_e_we.html
- [17]: http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html
+ [1]: https://www.flickr.com/
+ [2]: https://www.backpackit.com/
+ [3]: https://www.writeboard.com/
+ [4]: https://www.wikipedia.org/
+ [5]: https://gmail.com/
+ [6]: https://del.icio.us/
+ [7]: https://www.widgetgallery.com/index.php?search=Weather&show=25
+ [8]: https://www.bloglines.com/public/diegoeis
+ [9]: https://www.bloglines.com/
+ [10]: https://www.bondfaro.com.br/
+ [11]: https://www.buscape.com.br/
+ [12]: https://www.flickr.com
+ [13]: https://www.flickr.com/services/api/
+ [14]: https://brunotorres.net/2005/10/14/web-01
+ [15]: https://brunotorres.net/2005/10/19/web-20-para-o-povo
+ [16]: https://www.carreirasolo.org/archives/voce_sabe_o_que_e_we.html
+ [17]: https://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html

@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356396428
 shorturls:
-  - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/videos-wordpress-internetmovel-mais";s:7:"tinyurl";s:26:"http://tinyurl.com/3mzdq8j";s:4:"isgd";s:19:"http://is.gd/MV4dZl";}'
+  - 'a:3:{s:9:"permalink";s:59:"https://tableless.com.br/videos-wordpress-internetmovel-mais";s:7:"tinyurl";s:26:"https://tinyurl.com/3mzdq8j";s:4:"isgd";s:19:"https://is.gd/MV4dZl";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038441
@@ -47,27 +47,27 @@ Uma outra novidade é que além de mim e do Elcio, estão escrevendo também par
 
 Conforme vou atualizando o conteúdo do site, vou reorganizando a segunda parte mais visitada do site depois da home, a página de [Aprenda][22]. E aos poucos vamos organizando os 5 anos de conteúdo que o site produziu! É coisa para caramba! Há por exemplo, algumas coisas úteis que estão perdidas por aí, como por exemplo a [Tabela de Compatibilidade de CSS][23] e o  [guia de referência rápida de CSS em português][24]. Informação útil para a comunidade que anda esquecida nos porões do site.
 
- [1]: http://tableless.com.br/ "Informações sobre tableless e boas práticas de desenvolvimento"
- [2]: http://tableless.com.br/wordpress/ "Tutoriais e Informações sobre WordPress"
- [3]: http://wordpress.org/
- [4]: http://tableless.com.br/wordpress "Tutoriais e artigos sobre WordPress"
- [5]: http://tableless.com.br/internet-movel "Tudo sobre Internet Móvel"
- [6]: http://tableless.com.br/extensoes-do-firefox "Comentários e sugestões de Extensions de desenvolvimento web para Firefox"
- [7]: http://tableless.com.br/ "Fonte de informação sobre Desenvolvimento Web"
- [8]: http://campus.visie.com.br/ "Vídeos tutoriais sobre Tableless"
- [9]: http://visie.com.br/treinamentos/ "Curso de Ajax, Tableless e desenvolvimento web"
- [10]: http://campus.visie.com.br/ "Vídeos sobre Tableless e desenvolvimento web"
- [11]: http://campus.visie.com.br/
- [12]: http://campus.visie.com.br/campus/cadastrese "Cadastre-se grátis!"
- [13]: http://tableless.com.br/assine/ "Feed do Tableless"
- [14]: http://tableless.com.br/assine/
- [15]: http://twitter.com/
- [16]: http://twitter.com/tableless/ "Twitter sobre Tableless"
- [17]: http://twitter.com/diegoeis/
- [18]: http://dgmike.wordpress.com/ "Michael Granados - DGMike"
- [19]: http://tableless.com.br/jquery "Informações e tutoriais sobre JQuery"
- [20]: http://www.pinceladasdaweb.com.br/blog/ "Pedro Rogério - Pinceladas da Web"
- [21]: http://tableless.com.br/wordpress/
- [22]: http://tableless.com.br/aprenda
- [23]: http://tableless.com.br/compatibilidadecss/ "Tabela de compatibilidade de CSS e Browsers"
+ [1]: https://tableless.com.br/ "Informações sobre tableless e boas práticas de desenvolvimento"
+ [2]: https://tableless.com.br/wordpress/ "Tutoriais e Informações sobre WordPress"
+ [3]: https://wordpress.org/
+ [4]: https://tableless.com.br/wordpress "Tutoriais e artigos sobre WordPress"
+ [5]: https://tableless.com.br/internet-movel "Tudo sobre Internet Móvel"
+ [6]: https://tableless.com.br/extensoes-do-firefox "Comentários e sugestões de Extensions de desenvolvimento web para Firefox"
+ [7]: https://tableless.com.br/ "Fonte de informação sobre Desenvolvimento Web"
+ [8]: https://campus.visie.com.br/ "Vídeos tutoriais sobre Tableless"
+ [9]: https://visie.com.br/treinamentos/ "Curso de Ajax, Tableless e desenvolvimento web"
+ [10]: https://campus.visie.com.br/ "Vídeos sobre Tableless e desenvolvimento web"
+ [11]: https://campus.visie.com.br/
+ [12]: https://campus.visie.com.br/campus/cadastrese "Cadastre-se grátis!"
+ [13]: https://tableless.com.br/assine/ "Feed do Tableless"
+ [14]: https://tableless.com.br/assine/
+ [15]: https://twitter.com/
+ [16]: https://twitter.com/tableless/ "Twitter sobre Tableless"
+ [17]: https://twitter.com/diegoeis/
+ [18]: https://dgmike.wordpress.com/ "Michael Granados - DGMike"
+ [19]: https://tableless.com.br/jquery "Informações e tutoriais sobre JQuery"
+ [20]: https://www.pinceladasdaweb.com.br/blog/ "Pedro Rogério - Pinceladas da Web"
+ [21]: https://tableless.com.br/wordpress/
+ [22]: https://tableless.com.br/aprenda
+ [23]: https://tableless.com.br/compatibilidadecss/ "Tabela de compatibilidade de CSS e Browsers"
  [24]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/05/referenciacss.pdf "Guia de referência rápida de CSS"

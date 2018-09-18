@@ -52,10 +52,10 @@ Até a próxima. 😉
 
 Materiais de referência:
 
-<a href="http://www.w3.org/People/Bos/DesignGuide/toc.html" target="_blank">http://www.w3.org/People/Bos/DesignGuide/toc.html</a>
+<a href="https://www.w3.org/People/Bos/DesignGuide/toc.html" target="_blank">https://www.w3.org/People/Bos/DesignGuide/toc.html</a>
 
-<a href="http://novatec.com.br/guias/css3/" target="_blank">http://novatec.com.br/guias/css3/</a>
+<a href="https://novatec.com.br/guias/css3/" target="_blank">https://novatec.com.br/guias/css3/</a>
 
-<a href="http://www.w3schools.com/css/" target="_blank">http://www.w3schools.com/css/</a>
+<a href="https://www.w3schools.com/css/" target="_blank">https://www.w3schools.com/css/</a>
 
-<a href="http://www.w3.org/Style/CSS/Overview.en.html" target="_blank">http://www.w3.org/Style/CSS/Overview.en.html</a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">https://www.w3.org/Style/CSS/Overview.en.html</a>

@@ -8,7 +8,7 @@ url: /variaveis-no-css-breve/
 tweetbackscheck:
   - 1356397249
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/variaveis-no-css-breve/";s:7:"tinyurl";s:26:"http://tinyurl.com/7pmtt7n";s:4:"isgd";s:19:"http://is.gd/XFV5ds";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/variaveis-no-css-breve/";s:7:"tinyurl";s:26:"https://tinyurl.com/7pmtt7n";s:4:"isgd";s:19:"https://is.gd/XFV5ds";}'
 twittercomments:
   - 'a:20:{i:214690961366855680;s:7:"retweet";i:217596171898720256;s:7:"retweet";i:217595628048486400;s:7:"retweet";i:217593919465205761;s:7:"retweet";i:214801979539599360;s:7:"retweet";i:214750053301104640;s:7:"retweet";i:214709153980104704;s:7:"retweet";i:214703607709306882;s:7:"retweet";i:214701474750529536;s:7:"retweet";i:214700639077400576;s:7:"retweet";i:214694115584122882;s:7:"retweet";i:214692824459911169;s:7:"retweet";i:214690830915604480;s:7:"retweet";i:214690383437889536;s:7:"retweet";i:214690121201631233;s:7:"retweet";i:214689960467505152;s:7:"retweet";i:214689755596734464;s:7:"retweet";i:228108059120119808;s:7:"retweet";i:228099654582157313;s:7:"retweet";i:228098743646437376;s:7:"retweet";}'
 tweetcount:
@@ -62,6 +62,6 @@ article { font-size: var(FontSizeArticle); }
 
 O Webkit tem dado [alguns exemplos de código aqui][3]. [A documentação][2] ainda está bem no começo. Mesmo assim, do jeito que as coisas estão andando rápidas, variáveis no CSS estarão presentes na casa de toda família em breve.
 
- [1]: http://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/ "Estruturação de Client-side – Parte 1: Préprocessadores, Framewoks e Bibliotecas"
- [2]: http://www.w3.org/TR/css-variables/
- [3]: http://trac.webkit.org/browser/trunk/LayoutTests/fast/css/variables
+ [1]: https://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/ "Estruturação de Client-side – Parte 1: Préprocessadores, Framewoks e Bibliotecas"
+ [2]: https://www.w3.org/TR/css-variables/
+ [3]: https://trac.webkit.org/browser/trunk/LayoutTests/fast/css/variables

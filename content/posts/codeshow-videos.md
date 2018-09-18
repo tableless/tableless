@@ -7,7 +7,7 @@ url: /codeshow-videos/
 tweetbackscheck:
   - 1356455399
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/codeshow-videos";s:7:"tinyurl";s:26:"http://tinyurl.com/3clpom2";s:4:"isgd";s:19:"http://is.gd/1C3hB7";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/codeshow-videos";s:7:"tinyurl";s:26:"https://tinyurl.com/3clpom2";s:4:"isgd";s:19:"https://is.gd/1C3hB7";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037415
@@ -34,7 +34,7 @@ Mostre o código.
 
 **[update 2]** Usamos como base o sistema da [KickApps][4]. Para quem não sabe o que eles fazem: imagine que você precise fazer um &#8220;youtube&#8221; da vida&#8230; Eles tem o sistema pronto e todo customizado com CSS. Eles vão lançar updates em breve. Depois dou mais detalhes!
 
- [1]: http://visie.com.br/codeshow/
- [2]: http://video.visie.com.br/
- [3]: http://youtube.com
- [4]: http://kickapps.com/
+ [1]: https://visie.com.br/codeshow/
+ [2]: https://video.visie.com.br/
+ [3]: https://youtube.com
+ [4]: https://kickapps.com/

@@ -29,15 +29,15 @@ Não é muito útil usar o link canônico em apenas uma página. Mas imagine que
 
 Ou, podemos ter links de formas variadas para o website:
 
-- http://um-site-legal.com/
-- http://um-site-legal.com
 - https://um-site-legal.com/
-- http://um-site-legal.com/index.html
+- https://um-site-legal.com
+- https://um-site-legal.com/
 - https://um-site-legal.com/index.html
-- http://www.um-site-legal.com/
-- http://www.um-site-legal.com
+- https://um-site-legal.com/index.html
 - https://www.um-site-legal.com/
-- http://www.um-site-legal.com/index.html
+- https://www.um-site-legal.com
+- https://www.um-site-legal.com/
+- https://www.um-site-legal.com/index.html
 - https://www.um-site-legal.com/index.html
 
 Assim, temos que avisar os buscadores que TODOS essas variações são apenas uma página, que é a indicada no link canônico.

@@ -12,7 +12,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356384256
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/ano-novo-2010";s:7:"tinyurl";s:26:"http://tinyurl.com/3fkopk2";s:4:"isgd";s:19:"http://is.gd/zfQgLZ";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/ano-novo-2010";s:7:"tinyurl";s:26:"https://tinyurl.com/3fkopk2";s:4:"isgd";s:19:"https://is.gd/zfQgLZ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039265
@@ -26,7 +26,7 @@ Eu gostaria muito de fazer um artigo escrevendo uma retrospectiva do ano que pas
 
 2010 vai ser diferente. É o ano onde você começa um novo ciclo de desenvolvimento. Um ano onde você vai ser obrigado a mudar a sua forma de desenvolver. Melhor mudar sua cabeça se você acha que o HTML 5 é só uma sopa de novas tags. Melhor você rever seus conceitos, se você ainda acha Acessibilidade pode ser deixado para depois e que SEO é algo antigo e que ninguém acessa a internet via celular. E se você acha que a web vai continuar sendo a mesma para sempre. Leia:
 
-<blockquote cite="” http://www.sdtimes.com/link/33883”">
+<blockquote cite="” https://www.sdtimes.com/link/33883”">
   <p>
     “It&#8217;s been said today that, yes, this is a markup language for a Web page. But it&#8217;s a computing platform, too. The really big shift happening here is the shift to being a client-side computing platform,” Tim Berners-Lee
   </p>

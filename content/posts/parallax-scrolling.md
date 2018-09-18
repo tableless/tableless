@@ -9,7 +9,7 @@ url: /parallax-scrolling/
 tweetbackscheck:
   - 1356469546
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7446";s:7:"tinyurl";s:26:"http://tinyurl.com/crq62pr";s:4:"isgd";s:19:"http://is.gd/5T9p0x";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7446";s:7:"tinyurl";s:26:"https://tinyurl.com/crq62pr";s:4:"isgd";s:19:"https://is.gd/5T9p0x";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 956106242
@@ -113,10 +113,10 @@ Para mais informações, não se esqueça de conferir a [documentação][6] do p
 
 Aqui cabe um alerta. O paralax scrolling é mesmo um efeito bacana e é legal conhecer a técnica, mas é importante saber **quando** é o melhor momento para se utilizar. Antes de adicionar, não apenas este efeito especificamente como qualquer outro elemento visual, não se esqueça da pergunta &#8220;Por que eu quero fazer isto?&#8221;&#8230;. Principalmente no caso de efeitos e animações que podem influir negativamente na experiência do usuário trazendo poluição visual, aumento no tempo de carregamento de uma pagina, etc. E se a resposta for apenas &#8220;porque é bonitinho&#8221; é melhor pensar duas vezes antes de utilizar parallax scrolling. Como qualquer aspecto do design, é importante que o parallax seja utilizado não apenas como um efeito visual, mas como parte integrante do storytelling.
 
- [1]: http://pt.wikipedia.org/wiki/Paralaxe "Paralaxe"
- [2]: http://coding.smashingmagazine.com/2011/07/12/behind-the-scenes-of-nike-better-world/ "Behind the scenes of nike better world"
- [3]: http://benthebodyguard.com "Ben the bodyguard"
- [4]: http://www.soul-reaper.com "Soul Reaper"
- [5]: http://markdalgleish.com/projects/stellar.js/ "Stellar.js"
- [6]: http://markdalgleish.com/projects/stellar.js/docs/ "Documentação Stellar"
+ [1]: https://pt.wikipedia.org/wiki/Paralaxe "Paralaxe"
+ [2]: https://coding.smashingmagazine.com/2011/07/12/behind-the-scenes-of-nike-better-world/ "Behind the scenes of nike better world"
+ [3]: https://benthebodyguard.com "Ben the bodyguard"
+ [4]: https://www.soul-reaper.com "Soul Reaper"
+ [5]: https://markdalgleish.com/projects/stellar.js/ "Stellar.js"
+ [6]: https://markdalgleish.com/projects/stellar.js/docs/ "Documentação Stellar"
  [7]: https://github.com/markdalgleish/stellar.js "Github"

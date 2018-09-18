@@ -42,14 +42,14 @@ O sonho de autonomia política / social, em voga no começo do século 20, vai p
     E, por outro lado, também seu senso de ridículo e seu revival para nichos.<a href="1" rev="footnote">&#8617;</a>
 
  [1]: https://www.google.com/events/io
- [2]: http://www.engadget.com/2014/06/26/android-wear-watches-compared/
- [3]: http://www.inquisitr.com/1314659/orgasmatron-automatic-sperm-extractors-installed-into-chinese-hospitals-video/
+ [2]: https://www.engadget.com/2014/06/26/android-wear-watches-compared/
+ [3]: https://www.inquisitr.com/1314659/orgasmatron-automatic-sperm-extractors-installed-into-chinese-hospitals-video/
  [4]: https://en.wikipedia.org/wiki/Codpiece
  [5]: https://en.wikipedia.org/wiki/Oderus_Urungus
  [6]: https://en.wikipedia.org/wiki/Tron
- [7]: http://goo.gl/LBQAuy
+ [7]: https://goo.gl/LBQAuy
  [8]: https://en.wikipedia.org/wiki/Altered_States
  [9]: https://www.youtube.com/watch?v=4sb7bOljBAQ
- [10]: http://goo.gl/56VcEY
- [11]: http://toe.prx.org/2014/04/1984-the-year-not-the-book/
+ [10]: https://goo.gl/56VcEY
+ [11]: https://toe.prx.org/2014/04/1984-the-year-not-the-book/
  [12]: https://twitter.com/OCriador

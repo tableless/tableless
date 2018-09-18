@@ -7,7 +7,7 @@ url: /flock-10-agora-da-para-usar/
 tweetbackscheck:
   - 1356166114
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/flock-10-agora-da-para-usar";s:7:"tinyurl";s:26:"http://tinyurl.com/3dcoqcj";s:4:"isgd";s:19:"http://is.gd/UOUy2K";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/flock-10-agora-da-para-usar";s:7:"tinyurl";s:26:"https://tinyurl.com/3dcoqcj";s:4:"isgd";s:19:"https://is.gd/UOUy2K";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037680
@@ -61,18 +61,18 @@ Gostei bastante também da interface de blogging. Integrei o Flock com o WordPre
 Se você quiser testar o [Flock][5], indico, pelo menos por agora. Vou dar mais pitaco sobre ele conforme vou usando pelo [meu Twitter][3].<!-- technorati tags begin -->
 
 <p style="font-size:10px;text-align:right;">
-  Tags: <a rel="tag" href="http://technorati.com/tag/flock">flock</a>, <a rel="tag" href="http://technorati.com/tag/browser">browser</a>, <a rel="tag" href="http://technorati.com/tag/%20web"> web</a>, <a rel="tag" href="http://technorati.com/tag/%20desenvolvimeto%20web"> desenvolvimeto web</a>, <a rel="tag" href="http://technorati.com/tag/%20navegadores"> navegadores</a>, <a rel="tag" href="http://technorati.com/tag/%20internet"> internet</a>
+  Tags: <a rel="tag" href="https://technorati.com/tag/flock">flock</a>, <a rel="tag" href="https://technorati.com/tag/browser">browser</a>, <a rel="tag" href="https://technorati.com/tag/%20web"> web</a>, <a rel="tag" href="https://technorati.com/tag/%20desenvolvimeto%20web"> desenvolvimeto web</a>, <a rel="tag" href="https://technorati.com/tag/%20navegadores"> navegadores</a>, <a rel="tag" href="https://technorati.com/tag/%20internet"> internet</a>
 </p>
 
 <!-- technorati tags end -->
 
- [1]: http://getfirefox.com/
- [2]: http://flickr.com/photos/diegoeis
- [3]: http://twitter.com/diegoeis/
- [4]: http://del.icio.us/tableless
- [5]: http://flock.com/
- [6]: http://flock.com/get-ready-to-flock
- [7]: http://apple.com/safari
+ [1]: https://getfirefox.com/
+ [2]: https://flickr.com/photos/diegoeis
+ [3]: https://twitter.com/diegoeis/
+ [4]: https://del.icio.us/tableless
+ [5]: https://flock.com/
+ [6]: https://flock.com/get-ready-to-flock
+ [7]: https://apple.com/safari
  [8]: https://addons.mozilla.org/en-US/firefox/search
  [9]: https://addons.mozilla.org/en-US/firefox/addon/271
  [10]: https://addons.mozilla.org/en-US/firefox/addon/539

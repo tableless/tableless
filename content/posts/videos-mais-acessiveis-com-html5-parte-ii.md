@@ -18,7 +18,7 @@ Na [primeira parte do artigo][1], vimos as principais características do DFXP, 
 
 Um arquivo DFXP é um arquivo baseado em XML que utiliza a linguagem _Timed Text Markup Language_ (TTML). A TTML estabelece tags e propriedades específicas para atribuir uma informação textual a um intervalo de tempo, posicionar esta informação em uma determinada região do vídeo e formatar a apresentação desta informação. Um documento TTML começa com a tag `tt` e sua estrutura básica é composta por um cabeçalho e corpo de conteúdo. O cabeçalho apresenta informações como metadata, definições de estilo e layout, enquanto o corpo de conteúdo contém as especificações dos textos associados a tempo e referenciando estilos e informações de layout.
 
-<pre lang="xml" class="1"><tt xml:lang="" xmlns="http://www.w3.org/ns/ttml">
+<pre lang="xml" class="1"><tt xml:lang="" xmlns="https://www.w3.org/ns/ttml">
 	
 	
 </tt>
@@ -30,7 +30,7 @@ _Estrutura básica de um document TTML._
 
 A seção de metadata pode conter informações como título do documento, descrição e informações de _copyright_. As tags que representam estes metadados são especificadas através do _namespace_ `ttm` (timed text metadata).
 
-<pre lang="xml" class="1">&lt;metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+<pre lang="xml" class="1">&lt;metadata xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 	&lt;ttm:title>Exemplo de documento TTML&lt;/ttm:title>
 	&lt;ttm:copyright>The Authors (c) 2011&lt;/ttm:copyright>
 &lt;/metadata>
@@ -39,9 +39,9 @@ A seção de metadata pode conter informações como título do documento, descr
 O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespace_ para estilos (`tts`), podem ser definidos logo na tag `tt`, deixando o código um pouco mais limpo e organizado.
 
 <pre lang="xml" class="1">&lt;tt xml:lang="en"
-	xmlns="http://www.w3.org/ns/ttml"
-	xmlns:tts="http://www.w3.org/ns/ttml#styling"
-	xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+	xmlns="https://www.w3.org/ns/ttml"
+	xmlns:tts="https://www.w3.org/ns/ttml#styling"
+	xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 ...
 &lt;/tt>
 </pre>
@@ -50,7 +50,7 @@ O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespac
 
 Infelizmente a TTML não trabalha em conjunto com linguagens para definição de estilos como o XSLT ou o próprio CSS, mas ela possui tags e propriedades para definir e aplicar informações de estilo de modo consistente e similar à forma como fazemos com CSS. As propriedades de estilo pertencem ao namespace `tts` e podem também ser utilizadas nas tags de texto da legenda e na tag `region`. Um estilo (semelhante a uma classe CSS), é criado a partir da tag style e deve conter um id que irá utilizado para associar este estilo a outros elementos.
 
-<pre lang="xml" class="1">&lt;styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+<pre lang="xml" class="1">&lt;styling xmlns:tts="https://www.w3.org/ns/ttml#styling">
 	<!-- o estilo1 especifica o padrão para cor, fonte e alinhamento de texto -->
 	&lt;style xml:id="estilo1"
 		tts:color="white"
@@ -89,7 +89,7 @@ As opções de alinhamento de texto são um pouco diferentes do convencional. Co
 
 Um arquivo DFXP é um arquivo baseado em XML que utiliza a linguagem _Timed Text Markup Language_ (TTML). A TTML estabelece tags e propriedades específicas para atribuir uma informação textual a um intervalo de tempo, posicionar esta informação em uma determinada região do vídeo e formatar a apresentação desta informação. Um documento TTML começa com a tag `tt` e sua estrutura básica é composta por um cabeçalho e corpo de conteúdo. O cabeçalho apresenta informações como metadata, definições de estilo e layout, enquanto o corpo de conteúdo contém as especificações dos textos associados a tempo e referenciando estilos e informações de layout.
 
-<pre lang="xml" class="1"><tt xml:lang="" xmlns="http://www.w3.org/ns/ttml">
+<pre lang="xml" class="1"><tt xml:lang="" xmlns="https://www.w3.org/ns/ttml">
 	
 	
 </tt>
@@ -101,7 +101,7 @@ _Estrutura básica de um document TTML._
 
 A seção de metadata pode conter informações como título do documento, descrição e informações de _copyright_. As tags que representam estes metadados são especificadas através do _namespace_ `ttm` (timed text metadata).
 
-<pre lang="xml" class="1">&lt;metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+<pre lang="xml" class="1">&lt;metadata xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 	&lt;ttm:title>Exemplo de documento TTML&lt;/ttm:title>
 	&lt;ttm:copyright>The Authors (c) 2011&lt;/ttm:copyright>
 &lt;/metadata>
@@ -110,9 +110,9 @@ A seção de metadata pode conter informações como título do documento, descr
 O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespace_ para estilos (`tts`), podem ser definidos logo na tag `tt`, deixando o código um pouco mais limpo e organizado.
 
 <pre lang="xml" class="1">&lt;tt xml:lang="en"
-	xmlns="http://www.w3.org/ns/ttml"
-	xmlns:tts="http://www.w3.org/ns/ttml#styling"
-	xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+	xmlns="https://www.w3.org/ns/ttml"
+	xmlns:tts="https://www.w3.org/ns/ttml#styling"
+	xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 ...
 &lt;/tt>
 </pre>
@@ -121,7 +121,7 @@ O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespac
 
 Infelizmente a TTML não trabalha em conjunto com linguagens para definição de estilos como o XSLT ou o próprio CSS, mas ela possui tags e propriedades para definir e aplicar informações de estilo de modo consistente e similar à forma como fazemos com CSS. As propriedades de estilo pertencem ao namespace `tts` e podem também ser utilizadas nas tags de texto da legenda e na tag `region`. Um estilo (semelhante a uma classe CSS), é criado a partir da tag style e deve conter um id que irá utilizado para associar este estilo a outros elementos.
 
-<pre lang="xml" class="1">&lt;styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+<pre lang="xml" class="1">&lt;styling xmlns:tts="https://www.w3.org/ns/ttml#styling">
 	<!-- o estilo1 especifica o padrão para cor, fonte e alinhamento de texto -->
 	&lt;style xml:id="estilo1"
 		tts:color="white"
@@ -165,7 +165,7 @@ As opções de alinhamento de texto são um pouco diferentes do convencional. Co
 
 Um arquivo DFXP é um arquivo baseado em XML que utiliza a linguagem _Timed Text Markup Language_ (TTML). A TTML estabelece tags e propriedades específicas para atribuir uma informação textual a um intervalo de tempo, posicionar esta informação em uma determinada região do vídeo e formatar a apresentação desta informação. Um documento TTML começa com a tag `tt` e sua estrutura básica é composta por um cabeçalho e corpo de conteúdo. O cabeçalho apresenta informações como metadata, definições de estilo e layout, enquanto o corpo de conteúdo contém as especificações dos textos associados a tempo e referenciando estilos e informações de layout.
 
-<pre lang="xml" class="1"><tt xml:lang="" xmlns="http://www.w3.org/ns/ttml">
+<pre lang="xml" class="1"><tt xml:lang="" xmlns="https://www.w3.org/ns/ttml">
 	
 	
 </tt>
@@ -177,7 +177,7 @@ _Estrutura básica de um document TTML._
 
 A seção de metadata pode conter informações como título do documento, descrição e informações de _copyright_. As tags que representam estes metadados são especificadas através do _namespace_ `ttm` (timed text metadata).
 
-<pre lang="xml" class="1">&lt;metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+<pre lang="xml" class="1">&lt;metadata xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 	&lt;ttm:title>Exemplo de documento TTML&lt;/ttm:title>
 	&lt;ttm:copyright>The Authors (c) 2011&lt;/ttm:copyright>
 &lt;/metadata>
@@ -186,9 +186,9 @@ A seção de metadata pode conter informações como título do documento, descr
 O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespace_ para estilos (`tts`), podem ser definidos logo na tag `tt`, deixando o código um pouco mais limpo e organizado.
 
 <pre lang="xml" class="1">&lt;tt xml:lang="en"
-	xmlns="http://www.w3.org/ns/ttml"
-	xmlns:tts="http://www.w3.org/ns/ttml#styling"
-	xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+	xmlns="https://www.w3.org/ns/ttml"
+	xmlns:tts="https://www.w3.org/ns/ttml#styling"
+	xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 ...
 &lt;/tt>
 </pre>
@@ -197,7 +197,7 @@ O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespac
 
 Infelizmente a TTML não trabalha em conjunto com linguagens para definição de estilos como o XSLT ou o próprio CSS, mas ela possui tags e propriedades para definir e aplicar informações de estilo de modo consistente e similar à forma como fazemos com CSS. As propriedades de estilo pertencem ao namespace `tts` e podem também ser utilizadas nas tags de texto da legenda e na tag `region`. Um estilo (semelhante a uma classe CSS), é criado a partir da tag style e deve conter um id que irá utilizado para associar este estilo a outros elementos.
 
-<pre lang="xml" class="1">&lt;styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+<pre lang="xml" class="1">&lt;styling xmlns:tts="https://www.w3.org/ns/ttml#styling">
 	<!-- o estilo1 especifica o padrão para cor, fonte e alinhamento de texto -->
 	&lt;style xml:id="estilo1"
 		tts:color="white"
@@ -236,7 +236,7 @@ As opções de alinhamento de texto são um pouco diferentes do convencional. Co
 
 Um arquivo DFXP é um arquivo baseado em XML que utiliza a linguagem _Timed Text Markup Language_ (TTML). A TTML estabelece tags e propriedades específicas para atribuir uma informação textual a um intervalo de tempo, posicionar esta informação em uma determinada região do vídeo e formatar a apresentação desta informação. Um documento TTML começa com a tag `tt` e sua estrutura básica é composta por um cabeçalho e corpo de conteúdo. O cabeçalho apresenta informações como metadata, definições de estilo e layout, enquanto o corpo de conteúdo contém as especificações dos textos associados a tempo e referenciando estilos e informações de layout.
 
-<pre lang="xml" class="1"><tt xml:lang="" xmlns="http://www.w3.org/ns/ttml">
+<pre lang="xml" class="1"><tt xml:lang="" xmlns="https://www.w3.org/ns/ttml">
 	
 	
 </tt>
@@ -248,7 +248,7 @@ _Estrutura básica de um document TTML._
 
 A seção de metadata pode conter informações como título do documento, descrição e informações de _copyright_. As tags que representam estes metadados são especificadas através do _namespace_ `ttm` (timed text metadata).
 
-<pre lang="xml" class="1">&lt;metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+<pre lang="xml" class="1">&lt;metadata xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 	&lt;ttm:title>Exemplo de documento TTML&lt;/ttm:title>
 	&lt;ttm:copyright>The Authors (c) 2011&lt;/ttm:copyright>
 &lt;/metadata>
@@ -257,9 +257,9 @@ A seção de metadata pode conter informações como título do documento, descr
 O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespace_ para estilos (`tts`), podem ser definidos logo na tag `tt`, deixando o código um pouco mais limpo e organizado.
 
 <pre lang="xml" class="1">&lt;tt xml:lang="en"
-	xmlns="http://www.w3.org/ns/ttml"
-	xmlns:tts="http://www.w3.org/ns/ttml#styling"
-	xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+	xmlns="https://www.w3.org/ns/ttml"
+	xmlns:tts="https://www.w3.org/ns/ttml#styling"
+	xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 ...
 &lt;/tt>
 </pre>
@@ -268,7 +268,7 @@ O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespac
 
 Infelizmente a TTML não trabalha em conjunto com linguagens para definição de estilos como o XSLT ou o próprio CSS, mas ela possui tags e propriedades para definir e aplicar informações de estilo de modo consistente e similar à forma como fazemos com CSS. As propriedades de estilo pertencem ao namespace `tts` e podem também ser utilizadas nas tags de texto da legenda e na tag `region`. Um estilo (semelhante a uma classe CSS), é criado a partir da tag style e deve conter um id que irá utilizado para associar este estilo a outros elementos.
 
-<pre lang="xml" class="1">&lt;styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+<pre lang="xml" class="1">&lt;styling xmlns:tts="https://www.w3.org/ns/ttml#styling">
 	<!-- o estilo1 especifica o padrão para cor, fonte e alinhamento de texto -->
 	&lt;style xml:id="estilo1"
 		tts:color="white"
@@ -313,7 +313,7 @@ As opções de alinhamento de texto são um pouco diferentes do convencional. Co
 
 Um arquivo DFXP é um arquivo baseado em XML que utiliza a linguagem _Timed Text Markup Language_ (TTML). A TTML estabelece tags e propriedades específicas para atribuir uma informação textual a um intervalo de tempo, posicionar esta informação em uma determinada região do vídeo e formatar a apresentação desta informação. Um documento TTML começa com a tag `tt` e sua estrutura básica é composta por um cabeçalho e corpo de conteúdo. O cabeçalho apresenta informações como metadata, definições de estilo e layout, enquanto o corpo de conteúdo contém as especificações dos textos associados a tempo e referenciando estilos e informações de layout.
 
-<pre lang="xml" class="1"><tt xml:lang="" xmlns="http://www.w3.org/ns/ttml">
+<pre lang="xml" class="1"><tt xml:lang="" xmlns="https://www.w3.org/ns/ttml">
 	
 	
 </tt>
@@ -325,7 +325,7 @@ _Estrutura básica de um document TTML._
 
 A seção de metadata pode conter informações como título do documento, descrição e informações de _copyright_. As tags que representam estes metadados são especificadas através do _namespace_ `ttm` (timed text metadata).
 
-<pre lang="xml" class="1">&lt;metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+<pre lang="xml" class="1">&lt;metadata xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 	&lt;ttm:title>Exemplo de documento TTML&lt;/ttm:title>
 	&lt;ttm:copyright>The Authors (c) 2011&lt;/ttm:copyright>
 &lt;/metadata>
@@ -334,9 +334,9 @@ A seção de metadata pode conter informações como título do documento, descr
 O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespace_ para estilos (`tts`), podem ser definidos logo na tag `tt`, deixando o código um pouco mais limpo e organizado.
 
 <pre lang="xml" class="1">&lt;tt xml:lang="en"
-	xmlns="http://www.w3.org/ns/ttml"
-	xmlns:tts="http://www.w3.org/ns/ttml#styling"
-	xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+	xmlns="https://www.w3.org/ns/ttml"
+	xmlns:tts="https://www.w3.org/ns/ttml#styling"
+	xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 ...
 &lt;/tt>
 </pre>
@@ -345,7 +345,7 @@ O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespac
 
 Infelizmente a TTML não trabalha em conjunto com linguagens para definição de estilos como o XSLT ou o próprio CSS, mas ela possui tags e propriedades para definir e aplicar informações de estilo de modo consistente e similar à forma como fazemos com CSS. As propriedades de estilo pertencem ao namespace `tts` e podem também ser utilizadas nas tags de texto da legenda e na tag `region`. Um estilo (semelhante a uma classe CSS), é criado a partir da tag style e deve conter um id que irá utilizado para associar este estilo a outros elementos.
 
-<pre lang="xml" class="1">&lt;styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+<pre lang="xml" class="1">&lt;styling xmlns:tts="https://www.w3.org/ns/ttml#styling">
 	<!-- o estilo1 especifica o padrão para cor, fonte e alinhamento de texto -->
 	&lt;style xml:id="estilo1"
 		tts:color="white"
@@ -384,7 +384,7 @@ As opções de alinhamento de texto são um pouco diferentes do convencional. Co
 
 Um arquivo DFXP é um arquivo baseado em XML que utiliza a linguagem _Timed Text Markup Language_ (TTML). A TTML estabelece tags e propriedades específicas para atribuir uma informação textual a um intervalo de tempo, posicionar esta informação em uma determinada região do vídeo e formatar a apresentação desta informação. Um documento TTML começa com a tag `tt` e sua estrutura básica é composta por um cabeçalho e corpo de conteúdo. O cabeçalho apresenta informações como metadata, definições de estilo e layout, enquanto o corpo de conteúdo contém as especificações dos textos associados a tempo e referenciando estilos e informações de layout.
 
-<pre lang="xml" class="1"><tt xml:lang="" xmlns="http://www.w3.org/ns/ttml">
+<pre lang="xml" class="1"><tt xml:lang="" xmlns="https://www.w3.org/ns/ttml">
 	
 	
 </tt>
@@ -396,7 +396,7 @@ _Estrutura básica de um document TTML._
 
 A seção de metadata pode conter informações como título do documento, descrição e informações de _copyright_. As tags que representam estes metadados são especificadas através do _namespace_ `ttm` (timed text metadata).
 
-<pre lang="xml" class="1">&lt;metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+<pre lang="xml" class="1">&lt;metadata xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 	&lt;ttm:title>Exemplo de documento TTML&lt;/ttm:title>
 	&lt;ttm:copyright>The Authors (c) 2011&lt;/ttm:copyright>
 &lt;/metadata>
@@ -405,9 +405,9 @@ A seção de metadata pode conter informações como título do documento, descr
 O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespace_ para estilos (`tts`), podem ser definidos logo na tag `tt`, deixando o código um pouco mais limpo e organizado.
 
 <pre lang="xml" class="1">&lt;tt xml:lang="en"
-	xmlns="http://www.w3.org/ns/ttml"
-	xmlns:tts="http://www.w3.org/ns/ttml#styling"
-	xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+	xmlns="https://www.w3.org/ns/ttml"
+	xmlns:tts="https://www.w3.org/ns/ttml#styling"
+	xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 ...
 &lt;/tt>
 </pre>
@@ -416,7 +416,7 @@ O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespac
 
 Infelizmente a TTML não trabalha em conjunto com linguagens para definição de estilos como o XSLT ou o próprio CSS, mas ela possui tags e propriedades para definir e aplicar informações de estilo de modo consistente e similar à forma como fazemos com CSS. As propriedades de estilo pertencem ao namespace `tts` e podem também ser utilizadas nas tags de texto da legenda e na tag `region`. Um estilo (semelhante a uma classe CSS), é criado a partir da tag style e deve conter um id que irá utilizado para associar este estilo a outros elementos.
 
-<pre lang="xml" class="1">&lt;styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+<pre lang="xml" class="1">&lt;styling xmlns:tts="https://www.w3.org/ns/ttml#styling">
 	<!-- o estilo1 especifica o padrão para cor, fonte e alinhamento de texto -->
 	&lt;style xml:id="estilo1"
 		tts:color="white"
@@ -460,7 +460,7 @@ As opções de alinhamento de texto são um pouco diferentes do convencional. Co
 
 Um arquivo DFXP é um arquivo baseado em XML que utiliza a linguagem _Timed Text Markup Language_ (TTML). A TTML estabelece tags e propriedades específicas para atribuir uma informação textual a um intervalo de tempo, posicionar esta informação em uma determinada região do vídeo e formatar a apresentação desta informação. Um documento TTML começa com a tag `tt` e sua estrutura básica é composta por um cabeçalho e corpo de conteúdo. O cabeçalho apresenta informações como metadata, definições de estilo e layout, enquanto o corpo de conteúdo contém as especificações dos textos associados a tempo e referenciando estilos e informações de layout.
 
-<pre lang="xml" class="1"><tt xml:lang="" xmlns="http://www.w3.org/ns/ttml">
+<pre lang="xml" class="1"><tt xml:lang="" xmlns="https://www.w3.org/ns/ttml">
 	
 	
 </tt>
@@ -472,7 +472,7 @@ _Estrutura básica de um document TTML._
 
 A seção de metadata pode conter informações como título do documento, descrição e informações de _copyright_. As tags que representam estes metadados são especificadas através do _namespace_ `ttm` (timed text metadata).
 
-<pre lang="xml" class="1">&lt;metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+<pre lang="xml" class="1">&lt;metadata xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 	&lt;ttm:title>Exemplo de documento TTML&lt;/ttm:title>
 	&lt;ttm:copyright>The Authors (c) 2011&lt;/ttm:copyright>
 &lt;/metadata>
@@ -481,9 +481,9 @@ A seção de metadata pode conter informações como título do documento, descr
 O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespace_ para estilos (`tts`), podem ser definidos logo na tag `tt`, deixando o código um pouco mais limpo e organizado.
 
 <pre lang="xml" class="1">&lt;tt xml:lang="en"
-	xmlns="http://www.w3.org/ns/ttml"
-	xmlns:tts="http://www.w3.org/ns/ttml#styling"
-	xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+	xmlns="https://www.w3.org/ns/ttml"
+	xmlns:tts="https://www.w3.org/ns/ttml#styling"
+	xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 ...
 &lt;/tt>
 </pre>
@@ -492,7 +492,7 @@ O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespac
 
 Infelizmente a TTML não trabalha em conjunto com linguagens para definição de estilos como o XSLT ou o próprio CSS, mas ela possui tags e propriedades para definir e aplicar informações de estilo de modo consistente e similar à forma como fazemos com CSS. As propriedades de estilo pertencem ao namespace `tts` e podem também ser utilizadas nas tags de texto da legenda e na tag `region`. Um estilo (semelhante a uma classe CSS), é criado a partir da tag style e deve conter um id que irá utilizado para associar este estilo a outros elementos.
 
-<pre lang="xml" class="1">&lt;styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+<pre lang="xml" class="1">&lt;styling xmlns:tts="https://www.w3.org/ns/ttml#styling">
 	<!-- o estilo1 especifica o padrão para cor, fonte e alinhamento de texto -->
 	&lt;style xml:id="estilo1"
 		tts:color="white"
@@ -531,7 +531,7 @@ As opções de alinhamento de texto são um pouco diferentes do convencional. Co
 
 Um arquivo DFXP é um arquivo baseado em XML que utiliza a linguagem _Timed Text Markup Language_ (TTML). A TTML estabelece tags e propriedades específicas para atribuir uma informação textual a um intervalo de tempo, posicionar esta informação em uma determinada região do vídeo e formatar a apresentação desta informação. Um documento TTML começa com a tag `tt` e sua estrutura básica é composta por um cabeçalho e corpo de conteúdo. O cabeçalho apresenta informações como metadata, definições de estilo e layout, enquanto o corpo de conteúdo contém as especificações dos textos associados a tempo e referenciando estilos e informações de layout.
 
-<pre lang="xml" class="1"><tt xml:lang="" xmlns="http://www.w3.org/ns/ttml">
+<pre lang="xml" class="1"><tt xml:lang="" xmlns="https://www.w3.org/ns/ttml">
 	
 	
 </tt>
@@ -543,7 +543,7 @@ _Estrutura básica de um document TTML._
 
 A seção de metadata pode conter informações como título do documento, descrição e informações de _copyright_. As tags que representam estes metadados são especificadas através do _namespace_ `ttm` (timed text metadata).
 
-<pre lang="xml" class="1">&lt;metadata xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+<pre lang="xml" class="1">&lt;metadata xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 	&lt;ttm:title>Exemplo de documento TTML&lt;/ttm:title>
 	&lt;ttm:copyright>The Authors (c) 2011&lt;/ttm:copyright>
 &lt;/metadata>
@@ -552,9 +552,9 @@ A seção de metadata pode conter informações como título do documento, descr
 O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespace_ para estilos (`tts`), podem ser definidos logo na tag `tt`, deixando o código um pouco mais limpo e organizado.
 
 <pre lang="xml" class="1">&lt;tt xml:lang="en"
-	xmlns="http://www.w3.org/ns/ttml"
-	xmlns:tts="http://www.w3.org/ns/ttml#styling"
-	xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+	xmlns="https://www.w3.org/ns/ttml"
+	xmlns:tts="https://www.w3.org/ns/ttml#styling"
+	xmlns:ttm="https://www.w3.org/ns/ttml#metadata">
 ...
 &lt;/tt>
 </pre>
@@ -563,7 +563,7 @@ O endereço do _namespace_ `ttm` definido na tag metadata assim como o _namespac
 
 Infelizmente a TTML não trabalha em conjunto com linguagens para definição de estilos como o XSLT ou o próprio CSS, mas ela possui tags e propriedades para definir e aplicar informações de estilo de modo consistente e similar à forma como fazemos com CSS. As propriedades de estilo pertencem ao namespace `tts` e podem também ser utilizadas nas tags de texto da legenda e na tag `region`. Um estilo (semelhante a uma classe CSS), é criado a partir da tag style e deve conter um id que irá utilizado para associar este estilo a outros elementos.
 
-<pre lang="xml" class="1">&lt;styling xmlns:tts="http://www.w3.org/ns/ttml#styling">
+<pre lang="xml" class="1">&lt;styling xmlns:tts="https://www.w3.org/ns/ttml#styling">
 	<!-- o estilo1 especifica o padrão para cor, fonte e alinhamento de texto -->
 	&lt;style xml:id="estilo1"
 		tts:color="white"
@@ -609,7 +609,7 @@ As opções de alinhamento de texto são um pouco diferentes do convencional. Co
 
 Uma `region`, conforme visto anteriormente, é um espaço para a apresentação de legenda. As _regions_ do documento TTML são declararadas na tag `layout`. Uma region pode ter um estilo associado (definido previamente na tag `styling`) como também podem ter propriedades de estilo aplicadas diretamente à tag `region`.
 
-<pre lang="xml" class="1">&lt;layout xmlns:tts="http://www.w3.org/ns/ttml#styling">
+<pre lang="xml" class="1">&lt;layout xmlns:tts="https://www.w3.org/ns/ttml#styling">
 	&lt;region xml:id="legenda"
 	style="estilo1"
 	tts:extent="560px 62px"
@@ -747,7 +747,7 @@ No exemplo do W3C, também é utilizada uma API em JavaScript para permitir que 
 
 ## Para saber mais
 
-O conteúdo deste artigo e os os exemplos foram baseados na <a title="Timed Text Authoring Format - Distributed Format Exchange Profile" href="http://www.w3.org/TR/ttaf1-dfxp/" target="_blank">documentação do W3C para a TTML e o TTAF-DFXP</a>.
+O conteúdo deste artigo e os os exemplos foram baseados na <a title="Timed Text Authoring Format - Distributed Format Exchange Profile" href="https://www.w3.org/TR/ttaf1-dfxp/" target="_blank">documentação do W3C para a TTML e o TTAF-DFXP</a>.
 
- [1]: http://tableless.com.br/videos-mais-acessiveis-com-html5-parte-i
- [2]: http://www.w3.org/2009/02/ThisIsCoffee.html
+ [1]: https://tableless.com.br/videos-mais-acessiveis-com-html5-parte-i
+ [2]: https://www.w3.org/2009/02/ThisIsCoffee.html

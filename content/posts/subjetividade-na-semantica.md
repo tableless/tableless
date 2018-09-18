@@ -7,7 +7,7 @@ url: /subjetividade-na-semantica/
 tweetbackscheck:
   - 1356115389
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/subjetividade-na-semantica";s:7:"tinyurl";s:26:"http://tinyurl.com/3wb8p6o";s:4:"isgd";s:19:"http://is.gd/1hYa7M";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/subjetividade-na-semantica";s:7:"tinyurl";s:26:"https://tinyurl.com/3wb8p6o";s:4:"isgd";s:19:"https://is.gd/1hYa7M";}'
 twittercomments:
   - 'a:1:{i:25153007414943744;s:7:"retweet";}'
 tweetcount:
@@ -34,6 +34,6 @@ Esse assunto, por exemplo é totalmente subjetivo. Os três modos seguem uma id�
   
 Nestas situações é melhor usar o bom senso. Uma boa pesquisa na internet é uma boa idéia para saber quais soluções os desenvolvedores estão usando para tais situações. Claro, filtrando ocasiões como a do div &#8220;paragrafo&#8221; citada acima.
 
- [1]: http://brunotorres.net/2006/04/09/estruturando-formularios-com-listas-nao-ordenadas
- [2]: http://www.design2.com.br/caparica/blog/2006/04/its-possible.html
- [3]: http://brunotorres.net/2006/04/09/estruturando-formularios-com-listas-nao-ordenadas#comment-1515
+ [1]: https://brunotorres.net/2006/04/09/estruturando-formularios-com-listas-nao-ordenadas
+ [2]: https://www.design2.com.br/caparica/blog/2006/04/its-possible.html
+ [3]: https://brunotorres.net/2006/04/09/estruturando-formularios-com-listas-nao-ordenadas#comment-1515

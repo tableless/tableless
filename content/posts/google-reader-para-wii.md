@@ -7,7 +7,7 @@ url: /google-reader-para-wii/
 tweetbackscheck:
   - 1356332513
 shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/google-reader-para-wii";s:7:"tinyurl";s:26:"http://tinyurl.com/3ul3rn2";s:4:"isgd";s:19:"http://is.gd/D2omqq";}'
+  - 'a:3:{s:9:"permalink";s:46:"https://tableless.com.br/google-reader-para-wii";s:7:"tinyurl";s:26:"https://tinyurl.com/3ul3rn2";s:4:"isgd";s:19:"https://is.gd/D2omqq";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037070
@@ -18,7 +18,7 @@ tags:
   - acessibilidade
 
 ---
-E eis que o Google lançou uma versão do Google Reader para Nintendo Wii. Você pode [ler uma análise interessante no ZD Net][1] ou ver por você mesmo em <http://www.google.com/reader/wii>.
+E eis que o Google lançou uma versão do Google Reader para Nintendo Wii. Você pode [ler uma análise interessante no ZD Net][1] ou ver por você mesmo em <https://www.google.com/reader/wii>.
 
 A versão para Wii funcionou muito bem em meu Firefox e, com textos e menus grandes, me parece bastante boa para que eu possa usá-la quando estiver com meu notebook conectado à TV.
 
@@ -26,5 +26,5 @@ Ver esse treco me fez pensar em duas coisas. Primeiro, que aplicações será qu
 
 A segunda pergunta é: quanto tempo leva para fazer uma versão Wii/PS/mobile de um site? Se você trabalha com bom CSS, vai só alterar alguma coisa no javascript para funcionar com os atalhos específicos da plataforma e escrever um novo CSS, certo?
 
- [1]: http://blogs.zdnet.com/Google/?p=557
- [2]: http://visie.com.br
+ [1]: https://blogs.zdnet.com/Google/?p=557
+ [2]: https://visie.com.br

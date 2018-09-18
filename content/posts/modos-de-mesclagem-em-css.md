@@ -253,12 +253,12 @@ Já é possível fazer experiências dentro do [Fork do Chromium disponibilizado
 [Chrome Canary][5]
 
  [1]: https://github.com/adobe/webkit/downloads
- [2]: http://dev.w3.org/fxtf/compositing-1/
- [3]: http://dev.w3.org/fxtf/compositing-1/#blending
- [4]: http://codepen.io/daniauthors: Dani Guerrato
+ [2]: https://dev.w3.org/fxtf/compositing-1/
+ [3]: https://dev.w3.org/fxtf/compositing-1/#blending
+ [4]: https://codepen.io/daniauthors: Dani Guerrato
 paid: true/pen/jGqrB
- [5]: http://www.google.ca/intl/en/chrome/browser/canary.html
- [6]: http://nightly.webkit.org/builds/trunk/mac/1
- [7]: http://www.w3.org/TR/compositing/
- [8]: http://demosthenes.info/blog/707/PhotoShop-In-The-Browser-Understanding-CSS-Blend-Modes?utm_source=CSS-Weekly&utm_campaign=Issue-66&utm_medium=web
- [9]: http://adobe.github.io/web-platform/demos/compositing/blend-photogallery/index.html
+ [5]: https://www.google.ca/intl/en/chrome/browser/canary.html
+ [6]: https://nightly.webkit.org/builds/trunk/mac/1
+ [7]: https://www.w3.org/TR/compositing/
+ [8]: https://demosthenes.info/blog/707/PhotoShop-In-The-Browser-Understanding-CSS-Blend-Modes?utm_source=CSS-Weekly&utm_campaign=Issue-66&utm_medium=web
+ [9]: https://adobe.github.io/web-platform/demos/compositing/blend-photogallery/index.html

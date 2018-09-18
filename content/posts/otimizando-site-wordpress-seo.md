@@ -8,7 +8,7 @@ url: /otimizando-site-wordpress-seo/
 tweetbackscheck:
   - 1356390827
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/otimizando-site-wordpress-seo";s:7:"tinyurl";s:26:"http://tinyurl.com/3duuw5s";s:4:"isgd";s:19:"http://is.gd/thQNGN";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/otimizando-site-wordpress-seo";s:7:"tinyurl";s:26:"https://tinyurl.com/3duuw5s";s:4:"isgd";s:19:"https://is.gd/thQNGN";}'
 twittercomments:
   - 'a:16:{i:126323578588233730;s:7:"retweet";i:126272383425318913;s:7:"retweet";i:126045268079673344;s:7:"retweet";i:126034119594487808;s:7:"retweet";i:125989528107360256;s:7:"retweet";i:125981861548793856;s:7:"retweet";i:125979997730123776;s:7:"retweet";i:125979969598918658;s:7:"retweet";i:125978568277762048;s:7:"retweet";i:125978432654950400;s:7:"retweet";i:125978192111603713;s:7:"retweet";i:145643854236884993;s:7:"retweet";i:145643827909242880;s:7:"retweet";i:145638748644835328;s:7:"retweet";i:163103148200837120;s:7:"retweet";i:163094327231381504;s:7:"retweet";}'
 tweetcount:
@@ -157,7 +157,7 @@ User-agent: duggmirror
   
 Disallow: /
 
-Sitemap: http://www.seusite.com.br/sitemap.xml
+Sitemap: https://www.seusite.com.br/sitemap.xml
   
 [/cce]
 
@@ -201,14 +201,14 @@ Seja sempre objetivo e claro na suas publicações, tenho certeza que terá um b
 
 Caso tenha futuras dúvidas, o WordPress oferece no seu codex um [guia para otimização de SEO][11]
 
- [1]: http://www.oitobitdigital.com.br/servico/otimizacao-de-sites-seo/
- [2]: http://wordpress.org/extend/plugins/all-in-one-seo-pack/ "Plug-in All in One SEO Pack"
- [3]: http://wordpress.org/extend/plugins/akismet/ "Akismet plug-in"
- [4]: http://akismet.com/ "Site Akismet"
- [5]: http://wordpress.org/extend/plugins/wp-super-cache/ "WP Super Cache"
- [6]: http://wordpress.org/extend/plugins/wp-super-cache/ "W3 Total Cache"
- [7]: http://wordpress.org/extend/plugins/batcache/ "Batcache"
- [8]: http://wordpress.org/extend/plugins/hyper-cache/ "Hyper Cache"
- [9]: http://tableless.com.br/seo-sitemaps "Artigo SEO Sitemaps Tableless"
- [10]: http://wordpress.org/extend/plugins/google-sitemap-generator/ "Plug-in Google SiteMap Generator"
- [11]: http://codex.wordpress.org/Search_Engine_Optimization_for_WordPress "Guia para otimização de SEO WordPress"
+ [1]: https://www.oitobitdigital.com.br/servico/otimizacao-de-sites-seo/
+ [2]: https://wordpress.org/extend/plugins/all-in-one-seo-pack/ "Plug-in All in One SEO Pack"
+ [3]: https://wordpress.org/extend/plugins/akismet/ "Akismet plug-in"
+ [4]: https://akismet.com/ "Site Akismet"
+ [5]: https://wordpress.org/extend/plugins/wp-super-cache/ "WP Super Cache"
+ [6]: https://wordpress.org/extend/plugins/wp-super-cache/ "W3 Total Cache"
+ [7]: https://wordpress.org/extend/plugins/batcache/ "Batcache"
+ [8]: https://wordpress.org/extend/plugins/hyper-cache/ "Hyper Cache"
+ [9]: https://tableless.com.br/seo-sitemaps "Artigo SEO Sitemaps Tableless"
+ [10]: https://wordpress.org/extend/plugins/google-sitemap-generator/ "Plug-in Google SiteMap Generator"
+ [11]: https://codex.wordpress.org/Search_Engine_Optimization_for_WordPress "Guia para otimização de SEO WordPress"

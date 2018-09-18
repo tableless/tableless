@@ -109,10 +109,10 @@ O [PutsMail][8] é um sisteminha de testes avulso. Ele é muito fácil de usar e
 Email bom é email em Plain Text. Não escondo isso de ninguém. Quando fazemos emails, voltar a trabalhar como nos tempos antigos e isso não é bom. Você precis alinhar muito bem as expectativas do designer, precisa testar muito bem cada cliente de email importante, precisa escrever código ruim para que funcione em todo lugar. Mas não é impossível. Com a experiência e as ferramentas que surgiram nos últimos anos, conseguimos passar pelo vale da sombra e da morte mais facilmente. Mas ainda assim nos machucamos bastante. (ó, fiz até um final filosófico! ;-D )
 
  [1]: https://putsmail.com/inliner
- [2]: http://templates.mailchimp.com/resources/inline-css/
- [3]: http://inliner.cm/
+ [2]: https://templates.mailchimp.com/resources/inline-css/
+ [3]: https://inliner.cm/
  [4]: https://www.npmjs.com/package/gulp-inline-css
  [5]: https://www.npmjs.com/package/grunt-inline-css
  [6]: https://www.npmjs.com/package/juice
- [7]: http://litmus.com/
+ [7]: https://litmus.com/
  [8]: https://PutsMail.com/

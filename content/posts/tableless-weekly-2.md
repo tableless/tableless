@@ -79,15 +79,15 @@ Espero que estejam gostando e peço a ajuda de todos enviando links [aqui][12].
 
 Os links podem ser artigos, tutoriais, alguns sites legais que vocês acharem interessantes e ferramentas que auxiliam no desenvolvimento front end. Até a próxima semana.
 
- [1]: http://braziljs.com.br
- [2]: http://braziljs.com.br/2014/ "BrazilJS Conf"
- [3]: http://blog.keithclark.co.uk/pure-css-parallax-websites/ "Pure Css parallax scrolling"
- [4]: http://www.raphaelfabeni.com.br/nascimento-meetup-css/ "Meetup CSS SP"
- [5]: http://loopinfinito.com.br/2013/05/28/css-position-sticky/ "CSS Position Sticky"
- [6]: http://fontello.com/ "Fontello"
- [7]: http://phonegap.com/ "PhoneGap"
- [8]: http://mattkersley.com/responsive/ "Responsive Design Testing"
- [9]: http://www.v76.com/ "V76"
- [10]: http://gardenestudio.com.br/ "Garden Estudio"
- [11]: http://lookbook.reebok.com/fw/womens-training/look1 "Rebook Lookbook"
+ [1]: https://braziljs.com.br
+ [2]: https://braziljs.com.br/2014/ "BrazilJS Conf"
+ [3]: https://blog.keithclark.co.uk/pure-css-parallax-websites/ "Pure Css parallax scrolling"
+ [4]: https://www.raphaelfabeni.com.br/nascimento-meetup-css/ "Meetup CSS SP"
+ [5]: https://loopinfinito.com.br/2013/05/28/css-position-sticky/ "CSS Position Sticky"
+ [6]: https://fontello.com/ "Fontello"
+ [7]: https://phonegap.com/ "PhoneGap"
+ [8]: https://mattkersley.com/responsive/ "Responsive Design Testing"
+ [9]: https://www.v76.com/ "V76"
+ [10]: https://gardenestudio.com.br/ "Garden Estudio"
+ [11]: https://lookbook.reebok.com/fw/womens-training/look1 "Rebook Lookbook"
  [12]: https://lenilson.typeform.com/to/ILh66e "Envie seu link"

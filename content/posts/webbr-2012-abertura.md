@@ -8,7 +8,7 @@ url: /webbr2012-abertura/
 tweetbackscheck:
   - 1356455278
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7144";s:7:"tinyurl";s:26:"http://tinyurl.com/8kgrxht";s:4:"isgd";s:19:"http://is.gd/Dd1qNm";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7144";s:7:"tinyurl";s:26:"https://tinyurl.com/8kgrxht";s:4:"isgd";s:19:"https://is.gd/Dd1qNm";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 890694416
@@ -76,4 +76,4 @@ A abertura foi interessante. Anotei algumas coisas da palestra inicial feita pel
   * Somos mais ricos que um rei do século 19 por conta do acesso a novas tecnologias e informações
   * Precisamos de transparência de todos os produtos e serviços que utilizamos na vida. Por exemplo, cartões de crédito.
 
- [1]: http://www.luli.com.br/?utm_source=Tableless&utm_medium=link&utm_campaign=post
+ [1]: https://www.luli.com.br/?utm_source=Tableless&utm_medium=link&utm_campaign=post

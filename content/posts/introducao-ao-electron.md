@@ -72,7 +72,7 @@ O arquivo `package.json` que vai dentro da pasta _app_ é o arquivo que leva tod
 
 #### Gulpfile.js
 
-Optei usar <a href="http://gulpjs.com/" target="_blank">Gulp</a> por escolha própria mesmo, mas fiquem livres para escolher seu _&#8220;task runner&#8221;_ favorito.
+Optei usar <a href="https://gulpjs.com/" target="_blank">Gulp</a> por escolha própria mesmo, mas fiquem livres para escolher seu _&#8220;task runner&#8221;_ favorito.
 
 #### package.json
 
@@ -205,7 +205,7 @@ gulp.task('run', function () {
   </h2>
   
   <p>
-    Depois de terminado todo o processo de desenvolvimento, você pode criar uma distribuição do seu <em>app</em> seguindo as instruções do <a href="http://electron.atom.io/docs/v0.33.0/tutorial/application-distribution" target="_blank">Application Distribution guide</a>.
+    Depois de terminado todo o processo de desenvolvimento, você pode criar uma distribuição do seu <em>app</em> seguindo as instruções do <a href="https://electron.atom.io/docs/v0.33.0/tutorial/application-distribution" target="_blank">Application Distribution guide</a>.
   </p>
   
   <p>

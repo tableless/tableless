@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1355226455
 shorturls:
-  - 'a:3:{s:9:"permalink";s:92:"http://tableless.com.br/blogbits-9-espaco-publicitario-incentivos-mimos-e-compra-de-opinioes";s:7:"tinyurl";s:26:"http://tinyurl.com/3pakhp9";s:4:"isgd";s:19:"http://is.gd/rGsl67";}'
+  - 'a:3:{s:9:"permalink";s:92:"https://tableless.com.br/blogbits-9-espaco-publicitario-incentivos-mimos-e-compra-de-opinioes";s:7:"tinyurl";s:26:"https://tinyurl.com/3pakhp9";s:4:"isgd";s:19:"https://is.gd/rGsl67";}'
 twittercomments:
   - 'a:1:{i:16830661478322176;s:7:"retweet";}'
 tweetcount:
@@ -34,17 +34,17 @@ Nessa edição participaram: [Diego Eis][6], [Rigonatti][8], [Bruno Torres][2] o
 
 [BlogBits #9 &#8211; Espaço publicitário: incentivos, mimos e compra de opiniões][14].
 
- [1]: http://blogbits.com.br
- [2]: http://brunotorres.net
- [3]: http://mobilelife.com.br/
- [4]: http://guileite.com
- [5]: http://digitalminds.com.br/
- [6]: http://tableless.com.br/
- [7]: http://twemes.com/safariurbano
- [8]: http://www.mobilelife.com.br/
- [9]: http://www.marcogomes.com/
- [10]: http://boo-box.com/
- [11]: http://www.twitter.com/garradini
- [12]: http://www.rawsolucoes.com.br/
- [13]: http://en.wikipedia.org/wiki/Maredsous_beer#Maredsous
- [14]: http://blogbits.com.br/arquivo/blogbits-podcast-9-espaco-publicitario-incentivos-mimos-e-compra-de-opinioes
+ [1]: https://blogbits.com.br
+ [2]: https://brunotorres.net
+ [3]: https://mobilelife.com.br/
+ [4]: https://guileite.com
+ [5]: https://digitalminds.com.br/
+ [6]: https://tableless.com.br/
+ [7]: https://twemes.com/safariurbano
+ [8]: https://www.mobilelife.com.br/
+ [9]: https://www.marcogomes.com/
+ [10]: https://boo-box.com/
+ [11]: https://www.twitter.com/garradini
+ [12]: https://www.rawsolucoes.com.br/
+ [13]: https://en.wikipedia.org/wiki/Maredsous_beer#Maredsous
+ [14]: https://blogbits.com.br/arquivo/blogbits-podcast-9-espaco-publicitario-incentivos-mimos-e-compra-de-opinioes

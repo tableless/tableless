@@ -7,7 +7,7 @@ url: /csshacks-ou-comentarios-condicionais-nenhum-dos-dois-claro/
 tweetbackscheck:
   - 1355326261
 shorturls:
-  - 'a:3:{s:9:"permalink";s:82:"http://tableless.com.br/csshacks-ou-comentarios-condicionais-nenhum-dos-dois-claro";s:7:"tinyurl";s:26:"http://tinyurl.com/3l79b4m";s:4:"isgd";s:19:"http://is.gd/jOPkMw";}'
+  - 'a:3:{s:9:"permalink";s:82:"https://tableless.com.br/csshacks-ou-comentarios-condicionais-nenhum-dos-dois-claro";s:7:"tinyurl";s:26:"https://tinyurl.com/3l79b4m";s:4:"isgd";s:19:"https://is.gd/jOPkMw";}'
 twittercomments:
   - 'a:1:{i:42907344375517184;s:7:"retweet";}'
 tweetcount:

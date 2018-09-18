@@ -8,7 +8,7 @@ url: /formularios-e-o-metawebdesign-parte-1/
 tweetbackscheck:
   - 1356448296
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4395";s:7:"tinyurl";s:26:"http://tinyurl.com/3njzcem";s:4:"isgd";s:19:"http://is.gd/DgzPgF";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4395";s:7:"tinyurl";s:26:"https://tinyurl.com/3njzcem";s:4:"isgd";s:19:"https://is.gd/DgzPgF";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503017121
@@ -70,15 +70,15 @@ Meu primeiro e segundo artigos sobre o assunto vão falar sobre **formulários**
 
 Cedo ou tarde, a aplicação que você esta criando vai precisar perguntar (ou pedir) ao usuário algum tipo de informação. E sob o ponto de vista do usuário, nesse momento a credibilidade de seu design de interação e código estarão em jogo, pois complexidade e simplicidade aqui separam o céu e o inferno.
 
-Todos sabem como usar alguns <span class="c0">elementos de controle</span> como input texts, checkboxes, radio e dropdowns &#8211; e isso não somos nós desenvolvedores de aplicações web. Isso é consenso, domínio público: um <span class="c11">status quo </span>que todo usuário de computador aprendeu a identificar e saber operar. Mesmo novos usuários entendem estes elementos com uma rapidez impressionante. O problema é como agrupar todos eles em torno de um bem comum &#8211; o bem sucedido submit. Afinal de contas, fazer um formulário é simples, basta colocar um <span class="c11">bando </span>de informações ordenadas de maneira racional, colocá-las na página com alguma ordenação <span class="c8"><a href="http://en.wikipedia.org/wiki/Top%E2%80%93down_and_bottom%E2%80%93up_design">top-bottom</a></span> e é isso, correto?
+Todos sabem como usar alguns <span class="c0">elementos de controle</span> como input texts, checkboxes, radio e dropdowns &#8211; e isso não somos nós desenvolvedores de aplicações web. Isso é consenso, domínio público: um <span class="c11">status quo </span>que todo usuário de computador aprendeu a identificar e saber operar. Mesmo novos usuários entendem estes elementos com uma rapidez impressionante. O problema é como agrupar todos eles em torno de um bem comum &#8211; o bem sucedido submit. Afinal de contas, fazer um formulário é simples, basta colocar um <span class="c11">bando </span>de informações ordenadas de maneira racional, colocá-las na página com alguma ordenação <span class="c8"><a href="https://en.wikipedia.org/wiki/Top%E2%80%93down_and_bottom%E2%80%93up_design">top-bottom</a></span> e é isso, correto?
 
 Para começarmos a conversa, isso é o que os <span class="c0">usuários </span>esperam.
 
-De acordo com o <span class="c8"><a href="http://www.w3.org/TR/html4/interact/forms.html#h-17.1">w3c</a></span>, um formulário HTML (form) é uma seção do documento HTML que pode conter <span class="c0">informação estática</span>, <span class="c0">elementos de controle</span> (os mesmos mecionados acima e alguns outros que vamos falar aqui) e <span class="c0">labels</span> que referenciam estes controles semanticamente. Tudo isso para permitir que o usuário possa responder (ou preencher) uma série de perguntas que a sua aplicação precisa para prosseguir com o fluxo. E o usuário interage com tudo isso <span class="c0">alterando</span> <span class="c0">elementos de controle</span>.
+De acordo com o <span class="c8"><a href="https://www.w3.org/TR/html4/interact/forms.html#h-17.1">w3c</a></span>, um formulário HTML (form) é uma seção do documento HTML que pode conter <span class="c0">informação estática</span>, <span class="c0">elementos de controle</span> (os mesmos mecionados acima e alguns outros que vamos falar aqui) e <span class="c0">labels</span> que referenciam estes controles semanticamente. Tudo isso para permitir que o usuário possa responder (ou preencher) uma série de perguntas que a sua aplicação precisa para prosseguir com o fluxo. E o usuário interage com tudo isso <span class="c0">alterando</span> <span class="c0">elementos de controle</span>.
 
 ### <a name="h.vz2ra8bmzqo4"></a>Bons e maus exemplos:
 
-Bons exemplos de formulário são fáceis: você mesmo deve conhecer vários; são aqueles que você usa diariamente sem gastar muito tempo ou que não entediam durante seu preenchimento. Maus exemplos são fáceis e estão por todos os cantos da internet, não é difícil encontrar um (na verdade não precisamos nem procurar). Só que não é ético questionar o trabalho de ninguém sem saber as variáveis que levaram aquela implementação. Sendo assim, olha que “bonito” esse <span class="c8"><a href="http://developer.apple.com/internet/webcontent/examples/bad_form.html">formulário que está no site da Apple como exemplo de um mau form</a></span>.
+Bons exemplos de formulário são fáceis: você mesmo deve conhecer vários; são aqueles que você usa diariamente sem gastar muito tempo ou que não entediam durante seu preenchimento. Maus exemplos são fáceis e estão por todos os cantos da internet, não é difícil encontrar um (na verdade não precisamos nem procurar). Só que não é ético questionar o trabalho de ninguém sem saber as variáveis que levaram aquela implementação. Sendo assim, olha que “bonito” esse <span class="c8"><a href="https://developer.apple.com/internet/webcontent/examples/bad_form.html">formulário que está no site da Apple como exemplo de um mau form</a></span>.
 
 <div id="attachment_4401" style="width: 789px" class="wp-caption alignnone">
   <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/10/image04.png"><img class="size-full wp-image-4401" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/10/image04.png" alt="" width="779" height="266" srcset="uploads/2011/10/image04.png 779w, uploads/2011/10/image04-300x102.png 300w" sizes="(max-width: 779px) 100vw, 779px" /></a>
@@ -129,7 +129,7 @@ Antes de entrarmos de cabeça nos elementos e como formulários devem ser criado
   </ul>
   
   <li>
-    <strong>Informações de conhecimento público normalmente são mais acuradas que informações de conhecimento pessoal;</strong> Quando perguntamos algo ao usuário, temos que ter em mente que eles podem mentir (<span class="c8 c11"><a href="http://www.youtube.com/watch?v=nNOExDrsdbg">everybody lies</a></span>) ou mesmo errar. Podemos minimizar isso reduzindo problemas. O sistema de <span class="c11">auto-completion</span> com o CEP mencionado acima é um exemplo claro. Um erro simples de digitação pode causar um problemão na hora da entrega: a rua <span class="c0">Roda dos Ventos</span> pode virar rua <span class="c0">Rosa dos Ventos</span> em um clique. Probabilidade altíssima de problemas futuros que <span class="c0">você </span>pode evitar usando este tipo de abordagem.
+    <strong>Informações de conhecimento público normalmente são mais acuradas que informações de conhecimento pessoal;</strong> Quando perguntamos algo ao usuário, temos que ter em mente que eles podem mentir (<span class="c8 c11"><a href="https://www.youtube.com/watch?v=nNOExDrsdbg">everybody lies</a></span>) ou mesmo errar. Podemos minimizar isso reduzindo problemas. O sistema de <span class="c11">auto-completion</span> com o CEP mencionado acima é um exemplo claro. Um erro simples de digitação pode causar um problemão na hora da entrega: a rua <span class="c0">Roda dos Ventos</span> pode virar rua <span class="c0">Rosa dos Ventos</span> em um clique. Probabilidade altíssima de problemas futuros que <span class="c0">você </span>pode evitar usando este tipo de abordagem.
   </li>
   <li>
     <strong>Tenha cuidado ao transformar os requisitos de design em forms;</strong><br /> A maioria dos forms é criada para manipular transações feitas com o banco de dados ou alterar objetos de uma tela. Explore as dependências entre os elementos, procure por similaridades que possam ser agrupadas graficamente, como <span class="c0">campos de endereço</span> ou i<span class="c0">nformações pessoais</span>. O exemplo do endereço de entrega versus o endereço de cobrança mencionado na regra #2 pode ser repetido aqui. Porque não habilitar em um form de inserir produto um drag-n-drop para definir a ordenação das imagens de descrição deste produto ao invés de subir as imagens em uma ordem pré definida ou ainda primeiro subir as imagens para só depois ordenar?<br /> <strong><br /> </strong>
@@ -195,7 +195,7 @@ Quando estamos montando o design do nosso form temos que nos ater a algumas situ
 
 Para fazer o design de uma tela de formulário, precisamos de elementos de controle. No jargão do HTML, seriam elementos HTML, que nada mais é que o conteúdo que está dentro de uma tag, podendo inclusive ter outros elementos filho caso seja do interesse. Dito isso, fica muito mais fácil entender como o design trabalha com elementos de controle. Após escolher seus elementos na tabela abaixo, tudo que você precisa é codificá-los seguindo os padrões que já conhecemos.
 
-Montar uma tela de formulário não é complicado. Estamos acostumados a fazer isso todos os dias. Porém existem mais coisas entre o céu e a terra do que pode imaginar a nossa vã filosofia. O tópico acima mostra algumas variáveis que as vezes podem passar desapercebido e podem ajudar &#8211; e muito na hora de montar o design da sua tela. Você consegue se imaginar trabalhando orientado ao <span class="c8"><a href="http://tableless.com.br/introducao-ao-responsive-web-design/">Responsive Webdesign</a></span> sem utilizar os conceitos básicos mostrados acima? Pode parecer óbvio, mas é importante manter isso em mente ao utilizar a tabela abaixo:
+Montar uma tela de formulário não é complicado. Estamos acostumados a fazer isso todos os dias. Porém existem mais coisas entre o céu e a terra do que pode imaginar a nossa vã filosofia. O tópico acima mostra algumas variáveis que as vezes podem passar desapercebido e podem ajudar &#8211; e muito na hora de montar o design da sua tela. Você consegue se imaginar trabalhando orientado ao <span class="c8"><a href="https://tableless.com.br/introducao-ao-responsive-web-design/">Responsive Webdesign</a></span> sem utilizar os conceitos básicos mostrados acima? Pode parecer óbvio, mas é importante manter isso em mente ao utilizar a tabela abaixo:
 
 Elementos de controle em um formulário são divididos em:
 
@@ -1298,45 +1298,45 @@ Você pode usar o poster abaixo como referência para criar suas interfaces. Cli
 
 <ol class="c13" start="1">
   <li>
-    Metawebdesign &#8211; Quando o Front-end se encontra com a experiência do usuário: <a href="http://www.slideshare.net/AlyssonFranklin/metawebdesign-frontend">http://www.slideshare.net/AlyssonFranklin/metawebdesign-frontend</a>
+    Metawebdesign &#8211; Quando o Front-end se encontra com a experiência do usuário: <a href="https://www.slideshare.net/AlyssonFranklin/metawebdesign-frontend">https://www.slideshare.net/AlyssonFranklin/metawebdesign-frontend</a>
   </li>
   <li>
-    O Metawebdesign &#8211; <a href="http://metawebdesign.org">http://metawebdesign.org</a>
+    O Metawebdesign &#8211; <a href="https://metawebdesign.org">https://metawebdesign.org</a>
   </li>
   <li>
-    Designing Interfaces &#8211; Second Edition (Jenifer Tidwell- O&#8217;Reilly books) <a href="http://designinginterfaces.com/">http://designinginterfaces.com/</a>
+    Designing Interfaces &#8211; Second Edition (Jenifer Tidwell- O&#8217;Reilly books) <a href="https://designinginterfaces.com/">https://designinginterfaces.com/</a>
   </li>
   <li>
-    Top-down e bottom-up design:  <span class="c8"><a href="http://en.wikipedia.org/wiki/Top%E2%80%93down_and_bottom%E2%80%93up_design">http://en.wikipedia.org/wiki/Top%E2%80%93down_and_bottom%E2%80%93up_design</a></span>
+    Top-down e bottom-up design:  <span class="c8"><a href="https://en.wikipedia.org/wiki/Top%E2%80%93down_and_bottom%E2%80%93up_design">https://en.wikipedia.org/wiki/Top%E2%80%93down_and_bottom%E2%80%93up_design</a></span>
   </li>
   <li>
-    Everybody lies, uma frase do House: <span class="c8"><a href="http://www.youtube.com/watch?v=nNOExDrsdbg">http://www.youtube.com/watch?v=nNOExDrsdbg</a></span>
+    Everybody lies, uma frase do House: <span class="c8"><a href="https://www.youtube.com/watch?v=nNOExDrsdbg">https://www.youtube.com/watch?v=nNOExDrsdbg</a></span>
   </li>
   <li>
-    W3C sobre formulários: <span class="c8"><a href="http://www.w3.org/TR/html4/interact/forms.html#h-17.1">http://www.w3.org/TR/html4/interact/forms.html#h-17.1</a></span>
+    W3C sobre formulários: <span class="c8"><a href="https://www.w3.org/TR/html4/interact/forms.html#h-17.1">https://www.w3.org/TR/html4/interact/forms.html#h-17.1</a></span>
   </li>
   <li>
-    <span class="c8"><a href="http://www.mhavila.com.br/topicos/web/controles.html">http://www.mhavila.com.br/topicos/web/controles.html</a></span>
+    <span class="c8"><a href="https://www.mhavila.com.br/topicos/web/controles.html">https://www.mhavila.com.br/topicos/web/controles.html</a></span>
   </li>
   <li>
-    Spinner: <span class="c8"><a href="http://www.jgeppert.com/jquery-spinner/">http://www.jgeppert.com/jquery-spinner/</a></span>
+    Spinner: <span class="c8"><a href="https://www.jgeppert.com/jquery-spinner/">https://www.jgeppert.com/jquery-spinner/</a></span>
   </li>
   <li>
-    A Form of madness: <span class="c8"><a href="http://diveintohtml5.org/forms.html">http://diveintohtml5.org/forms.html</a></span>
+    A Form of madness: <span class="c8"><a href="https://diveintohtml5.org/forms.html">https://diveintohtml5.org/forms.html</a></span>
   </li>
   <li>
-    Responsive webdesign: <span class="c8"><a href="http://www.alistapart.com/articles/responsive-web-design/">http://www.alistapart.com/articles/responsive-web-design/</a></span>
+    Responsive webdesign: <span class="c8"><a href="https://www.alistapart.com/articles/responsive-web-design/">https://www.alistapart.com/articles/responsive-web-design/</a></span>
   </li>
   <li>
-    Composição de um time multidisciplinar de UX &#8211; <a href="http://itweb.com.br/blogs/a-composicao-de-um-time-multidisciplinar-de-ux/">http://itweb.com.br/blogs/a-composicao-de-um-time-multidisciplinar-de-ux/</a>
+    Composição de um time multidisciplinar de UX &#8211; <a href="https://itweb.com.br/blogs/a-composicao-de-um-time-multidisciplinar-de-ux/">https://itweb.com.br/blogs/a-composicao-de-um-time-multidisciplinar-de-ux/</a>
   </li>
   <li>
-    UX Team of One &#8211; <a href="http://www.slideshare.net/ugleah/how-to-be-a-ux-team-of-one">http://www.slideshare.net/ugleah/how-to-be-a-ux-team-of-one</a>
+    UX Team of One &#8211; <a href="https://www.slideshare.net/ugleah/how-to-be-a-ux-team-of-one">https://www.slideshare.net/ugleah/how-to-be-a-ux-team-of-one</a>
   </li>
 </ol>
 
- [1]: http://frontinbh.com.br/blog/
- [2]: http://metawebdesign.org
+ [1]: https://frontinbh.com.br/blog/
+ [2]: https://metawebdesign.org
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/10/image10.png
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/10/image07.png
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/10/image02.png

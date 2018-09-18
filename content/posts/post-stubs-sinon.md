@@ -31,7 +31,7 @@ O Sinon é um pacote open-source que fornece diversas funcionalidades (como mock
 
 O Sinon por sí só não é um framework de testes, ele deve ser utilizado em conjunto com outra ferramenta para execução de testes, como por exemplo o Mocha ou Ava.
 
-A documentação do Sinon é bem completa com diversos exemplos práticos e pode ser encontrada no [site oficial](http://sinonjs.org/), lá também podemos encontrar o passo a passo para realizar a instalação do pacote no nosso projeto.
+A documentação do Sinon é bem completa com diversos exemplos práticos e pode ser encontrada no [site oficial](https://sinonjs.org/), lá também podemos encontrar o passo a passo para realizar a instalação do pacote no nosso projeto.
 
 ## Exemplo Prático
 
@@ -113,4 +113,4 @@ Observações importantes:
 
 Esse post foi para mostrar o básico de como podemos realizar o stub de funções através do pacote **Sinon**, e assim facilitar a nossa vida na hora dos testes.
 
-Esse pacote fornece diversas outras funções bem utéis e por isso recomendo fortemente que para quem achou interessante que acesse todos os exemplos práticos que estão disponíveis na [documentação oficial](http://sinonjs.org/releases/v5.0.7/).
+Esse pacote fornece diversas outras funções bem utéis e por isso recomendo fortemente que para quem achou interessante que acesse todos os exemplos práticos que estão disponíveis na [documentação oficial](https://sinonjs.org/releases/v5.0.7/).

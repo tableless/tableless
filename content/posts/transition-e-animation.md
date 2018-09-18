@@ -22,7 +22,7 @@ tags:
 ---
 ## Transition. Prazer!
 
-<blockquote cite="http://www.w3schools.com/css3/css3_transitions.asp">
+<blockquote cite="https://www.w3schools.com/css3/css3_transitions.asp">
   <p>
     &#8220;Com CSS3, podemos adicionar um efeito quando o navegador troca de um estilo para outro, sem usar animações em Flash ou JavaScript.&#8221; &#8211; w3schools
   </p>
@@ -44,7 +44,7 @@ div:hover { border: solid 5px black; }</pre>
 
 É aí que entra a **transition** do _CSS3_. Ela analisa a mudança de valor entre a propriedade e faz com que essa transição, ao invés de ocorrer de forma brusca, ocorra suavemente em um tempo determinado.
 
-<blockquote cite="http://www.w3.org/TR/css3-transitions/">
+<blockquote cite="https://www.w3.org/TR/css3-transitions/">
   <p>
     &#8220;CSS transitions permite que as mudanças nos valores das propriedades CSS ocorram suavemente sobre uma duração especificada.&#8221; &#8211; w3c
   </p>
@@ -143,11 +143,11 @@ No caso, definimos o valor _all_ para a _property_, o que significa que **todas*
   * **Safari** 3.1
   * **Opera** 10.5
 
-<small>Fonte: <a href="http://caniuse.com/css-transitions">Can I Use</a></small>
+<small>Fonte: <a href="https://caniuse.com/css-transitions">Can I Use</a></small>
 
 ## Animation
 
-<blockquote cite="http://www.w3schools.com/css3/css3_animations.asp">
+<blockquote cite="https://www.w3schools.com/css3/css3_animations.asp">
   <p>
     &#8220;Com CSS3, conseguimos criar animações que podem substituir imagens animadas, animações em Flash e JavaScript em muitas páginas web&#8221; &#8211; w3schools
   </p>
@@ -277,13 +277,13 @@ Mais dois exemplos ([1][7] e [2][8]) em conjunto com a propriedade _transform_.
   * **Safari** 4
   * **Opera** 12
 
-<small>Fonte: <a href="http://caniuse.com/css-animation">Can I Use</a></small>
+<small>Fonte: <a href="https://caniuse.com/css-animation">Can I Use</a></small>
 
- [1]: http://www.smashingmagazine.com/2010/02/13/the-definitive-guide-to-styling-web-links/
- [2]: http://codepen.io/raphaelfabeni/full/Fkbej
- [3]: http://www.w3.org/TR/css3-transitions/#animatable-properties-
- [4]: http://matthewlein.com/ceaser/
- [5]: http://caniuse.com/css-transitions
- [6]: http://cdpn.io/eCGhx
- [7]: http://cdpn.io/qHkgJ
- [8]: http://cdpn.io/csubG
+ [1]: https://www.smashingmagazine.com/2010/02/13/the-definitive-guide-to-styling-web-links/
+ [2]: https://codepen.io/raphaelfabeni/full/Fkbej
+ [3]: https://www.w3.org/TR/css3-transitions/#animatable-properties-
+ [4]: https://matthewlein.com/ceaser/
+ [5]: https://caniuse.com/css-transitions
+ [6]: https://cdpn.io/eCGhx
+ [7]: https://cdpn.io/qHkgJ
+ [8]: https://cdpn.io/csubG

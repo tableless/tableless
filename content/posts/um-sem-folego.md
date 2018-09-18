@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356392272
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/um-2009-sem-folego";s:7:"tinyurl";s:26:"http://tinyurl.com/4xmotp5";s:4:"isgd";s:19:"http://is.gd/l32fER";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/um-2009-sem-folego";s:7:"tinyurl";s:26:"https://tinyurl.com/4xmotp5";s:4:"isgd";s:19:"https://is.gd/l32fER";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038724
@@ -49,15 +49,15 @@ Há muitas mudanças que precisamos fazer ainda, mas essas vou deixar pra fazer 
 
 Que em 2009 você fique sem fôlego.
 
-<small>Os usuários de IE6 que me desculpem, mas eu não irei mais dar suporte a este navegador aqui no Tableless. Se quiser ver o site da melhor maneira possível, tente utilizar um browser decente como <a href="http://getfirefox.com" title="O melhor browser da história">Firefox</a>, <a href="http://opera.com">Opera </a>ou <a href="http://apple.com/safari/">Safari</a>.</small>
+<small>Os usuários de IE6 que me desculpem, mas eu não irei mais dar suporte a este navegador aqui no Tableless. Se quiser ver o site da melhor maneira possível, tente utilizar um browser decente como <a href="https://getfirefox.com" title="O melhor browser da história">Firefox</a>, <a href="https://opera.com">Opera </a>ou <a href="https://apple.com/safari/">Safari</a>.</small>
 
- [1]: http://tableless.com.br/ "CSS e XHTML na ponta da língua"
- [2]: http://tableless.com.br/ "Padrões Web e boas práticas de desenvolvimento"
- [3]: http://tableless.com.br/aprenda
- [4]: http://visie.com.br/campus/ "Vídeos tutoriais sobre Tableless e outros assuntos"
- [5]: http://tableless.com.br/ "Desenvolvimento web com CSS e XHTML"
- [6]: http://visie.com.br/ "Treinamentos e Desenvolvimento de sistemas e E-Commerce"
- [7]: http://blog.elcio.com.br/
- [8]: http://visie.com.br/campus/ "videos tutoriais de tableless e ajax"
- [9]: http://wordpress.org/
- [10]: http://codex.wordpress.org/Template_Tags
+ [1]: https://tableless.com.br/ "CSS e XHTML na ponta da língua"
+ [2]: https://tableless.com.br/ "Padrões Web e boas práticas de desenvolvimento"
+ [3]: https://tableless.com.br/aprenda
+ [4]: https://visie.com.br/campus/ "Vídeos tutoriais sobre Tableless e outros assuntos"
+ [5]: https://tableless.com.br/ "Desenvolvimento web com CSS e XHTML"
+ [6]: https://visie.com.br/ "Treinamentos e Desenvolvimento de sistemas e E-Commerce"
+ [7]: https://blog.elcio.com.br/
+ [8]: https://visie.com.br/campus/ "videos tutoriais de tableless e ajax"
+ [9]: https://wordpress.org/
+ [10]: https://codex.wordpress.org/Template_Tags

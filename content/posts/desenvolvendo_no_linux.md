@@ -7,7 +7,7 @@ url: /desenvolvendo_no_linux/
 tweetbackscheck:
   - 1356463234
 shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/desenvolvendo_no_linux";s:7:"tinyurl";s:26:"http://tinyurl.com/3gerlws";s:4:"isgd";s:19:"http://is.gd/TPbpEf";}'
+  - 'a:3:{s:9:"permalink";s:46:"https://tableless.com.br/desenvolvendo_no_linux";s:7:"tinyurl";s:26:"https://tinyurl.com/3gerlws";s:4:"isgd";s:19:"https://is.gd/TPbpEf";}'
 twittercomments:
   - 'a:2:{i:10007611382431744;s:7:"retweet";i:41337929439645696;s:7:"retweet";}'
 tweetcount:
@@ -65,9 +65,9 @@ Sim, preciso de licensa para usar o VMWare&#8230; Mas ele deixam você usar 30 d
           
 Sim, estou aprendendo GIMP e Inkscape que me simpatizei mais. Só questão de tempo.
 
- [1]: http://www.gimp.org/
- [2]: http://www.vmware.com/
- [3]: http://tableless.com.br/eyesmiles/imagens/linux/tela3.png
- [4]: http://tableless.com.br/eyesmiles/imagens/linux/tela1.png
- [5]: http://tableless.com.br/eyesmiles/imagens/linux/tela2.png
- [6]: http://kate.kde.org/
+ [1]: https://www.gimp.org/
+ [2]: https://www.vmware.com/
+ [3]: https://tableless.com.br/eyesmiles/imagens/linux/tela3.png
+ [4]: https://tableless.com.br/eyesmiles/imagens/linux/tela1.png
+ [5]: https://tableless.com.br/eyesmiles/imagens/linux/tela2.png
+ [6]: https://kate.kde.org/

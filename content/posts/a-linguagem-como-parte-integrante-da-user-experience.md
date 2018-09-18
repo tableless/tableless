@@ -99,9 +99,9 @@ O cuidado com a linguagem é essencial para garantir que seus visitantes saibam 
   
 [Yours vs Mine][6]
 
- [1]: http://tableless.com.br/repensando-css-resets/ "Repensando CSS Resets"
- [2]: http://fivesecondtest.com/
- [3]: http://alistapart.com/article/ultimate
- [4]: http://uxmovement.com/content/why-your-links-should-never-say-click-here/
- [5]: http://uxmovement.com/forms/why-your-form-buttons-should-never-say-submit/
- [6]: http://dcurt.is/yours-vs-mine
+ [1]: https://tableless.com.br/repensando-css-resets/ "Repensando CSS Resets"
+ [2]: https://fivesecondtest.com/
+ [3]: https://alistapart.com/article/ultimate
+ [4]: https://uxmovement.com/content/why-your-links-should-never-say-click-here/
+ [5]: https://uxmovement.com/forms/why-your-form-buttons-should-never-say-submit/
+ [6]: https://dcurt.is/yours-vs-mine

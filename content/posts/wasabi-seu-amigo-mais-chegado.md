@@ -7,7 +7,7 @@ url: /wasabi-seu-amigo-mais-chegado/
 tweetbackscheck:
   - 1356471823
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/wasabi-seu-amigo-mais-chegado";s:7:"tinyurl";s:26:"http://tinyurl.com/3nosc2h";s:4:"isgd";s:19:"http://is.gd/WVbwZ4";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/wasabi-seu-amigo-mais-chegado";s:7:"tinyurl";s:26:"https://tinyurl.com/3nosc2h";s:4:"isgd";s:19:"https://is.gd/WVbwZ4";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034688
@@ -29,7 +29,7 @@ Funciona mais ou menos assim:
 > 
 > Outra diferença é que o Wasabi também tem um agregador de sites, uma espéciede bloglines: pra facilitar a nossa vida, a gente também incluiu um agregador &#8220;tradicional&#8221; que pode ser acessado na tab &#8220;Meus Sites&#8221;. Nele você pode adicionar feeds de sites diversos e acompanhá-los num só lugar.
   
-> <cite><a href="http://www.digitalminds.com.br/posts/2511">Danilo Medeiros</a></cite> 
+> <cite><a href="https://www.digitalminds.com.br/posts/2511">Danilo Medeiros</a></cite> 
 
 Hoje em dia você só entra no [Wasabi][1] por meio de convite&#8230; Ao ser convidado, você informa os feeds dos serviços que você utiliza, disponibilizando para quem quiser suas novidades.
   
@@ -45,7 +45,7 @@ Para os curiosos, a história do nome é muito interessante.
 
 Quer saber o que seus amigos fazem na internet? Entre no [Wasabi][1], e wasaiba tudo&#8230;
 
- [1]: http://www.wasabi.com.br/
- [2]: http://www.flickr.com/
- [3]: http://del.icio.us/
- [4]: http://digitalminds.com.br/
+ [1]: https://www.wasabi.com.br/
+ [2]: https://www.flickr.com/
+ [3]: https://del.icio.us/
+ [4]: https://digitalminds.com.br/

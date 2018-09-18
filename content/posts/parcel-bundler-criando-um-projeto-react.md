@@ -116,7 +116,7 @@ Por exemplo:
 ```
 
 Para cada tipo de *transforms* ou *plugins* (Babel,
-[PostCSS](http://postcss.org/),
+[PostCSS](https://postcss.org/),
 [PostHTML](https://github.com/posthtml/posthtml), etc) um tipo de *asset* será
 transformado. Sem a necessidade de criar nada além de um caminho relativo ao
 HTML. É bem incrível!
@@ -205,7 +205,7 @@ npm start
 Ah, cheguei a falar que Parcel já vem com um servidor de desenvolvimento por
 padrão? 😉 Não precisa das loucuras do **webpack-dev-server** e etc.
 
-Só abrir o endereço [http://localhost:1234](http://localhost:1234/)** **no seu
+Só abrir o endereço [https://localhost:1234](https://localhost:1234/)** **no seu
 navegador!
 
 ### Finalizando 

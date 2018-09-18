@@ -15,7 +15,7 @@ Participar de Hackathons é uma das principais maneiras de aprender a trabalhar 
 
 Já participei de um ou outro Hackathon e a experiência é interessante por vários motivos: você praticamente vive em poucos dias o que você viveria em meses numa empresa. É como se você usasse uma máquina do tempo e adiantasse tudo o que poderia acontecer de bom e de ruim num time de produtos. Além disso, você “treina” uma série de skills que não estão ligadas apenas a código. É um intensivão no fast forward.
 
-A Serasa Experian já promoveu 3 edições de Hackathons nos últimos anos, sempre procurando incentivar a inovação entre os desenvolvedores, programadores, designers e demais profissões da área, desafiando a todos a criar soluções interessantes para diversos temas. Esse ano, nos dias 21 e 22 de Outubro, acontecerá a quarta edição do evento, o [Experiance Jam 4](http://bit.ly/ej4-tableless). 
+A Serasa Experian já promoveu 3 edições de Hackathons nos últimos anos, sempre procurando incentivar a inovação entre os desenvolvedores, programadores, designers e demais profissões da área, desafiando a todos a criar soluções interessantes para diversos temas. Esse ano, nos dias 21 e 22 de Outubro, acontecerá a quarta edição do evento, o [Experiance Jam 4](https://bit.ly/ej4-tableless). 
 
 As premiações totalizam R$ 40 mil reais, sendo R$ 10 mil reais para cada um dos quatro desafios apresentados: 
 
@@ -23,7 +23,7 @@ As premiações totalizam R$ 40 mil reais, sendo R$ 10 mil reais para cada um do
 2. **Deu Match!**: Como melhorar o processo seletivo e encontrar os melhores talentos do mercado, que tenham maior compatibilidade com as vagas? 
 3. Dois **desafios surpresas**! 
 
-Esse Hackathon tem número limite de 200 inscritos. Se você quiser participar, você precisa [fazer a inscrição](http://bit.ly/ej4-tableless) e ser selecionado! As inscrições poderão ser feitas de forma individual ou em equipes. Fique esperto que essa seleção só acontece até dia 9 de Outubro!
+Esse Hackathon tem número limite de 200 inscritos. Se você quiser participar, você precisa [fazer a inscrição](https://bit.ly/ej4-tableless) e ser selecionado! As inscrições poderão ser feitas de forma individual ou em equipes. Fique esperto que essa seleção só acontece até dia 9 de Outubro!
 
 A novidade é que esse ano o evento terá mais duas vertentes além do hackathon, o EJShare e o EJDemo. O EJShare vai ser voltado ao conhecimento, contando com uma agenda cheia de palestrantes e workshops, o Experiance JAM quer compartilhar conteúdo e conhecimentos com todos que desejarem participar. E no EJDemo, todas as empresas e startups que se identificarem com os temas propostos poderão se inscrever e concorrer a chance de apresentar um pitch aos executivos da Serasa Experian, com chances reais de contratação. 
 

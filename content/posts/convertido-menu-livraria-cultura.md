@@ -12,7 +12,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356380431
 shorturls:
-  - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/convertido-menu-livraria-cultura";s:7:"tinyurl";s:26:"http://tinyurl.com/3kaoclj";s:4:"isgd";s:19:"http://is.gd/yGTags";}'
+  - 'a:3:{s:9:"permalink";s:56:"https://tableless.com.br/convertido-menu-livraria-cultura";s:7:"tinyurl";s:26:"https://tinyurl.com/3kaoclj";s:4:"isgd";s:19:"https://is.gd/yGTags";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503016648
@@ -243,8 +243,8 @@ Sempre que escrever um CSS, pense sempre no futuro. Um CSS para resolver um prob
 
 Pegue aqui os dois códigos para estudar: [Reconstrução Menu Livraria Cultura][5]
 
- [1]: http://www.livrariacultura.com.br/
- [2]: http://tableless.com.br/convertidos/livraria-cultura/menu/original/
- [3]: http://tableless.com.br/image-replacement-x-imagens
- [4]: http://tableless.com.br/convertidos/livraria-cultura/menu/correto/
+ [1]: https://www.livrariacultura.com.br/
+ [2]: https://tableless.com.br/convertidos/livraria-cultura/menu/original/
+ [3]: https://tableless.com.br/image-replacement-x-imagens
+ [4]: https://tableless.com.br/convertidos/livraria-cultura/menu/correto/
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/01/livraria-cultura.zip

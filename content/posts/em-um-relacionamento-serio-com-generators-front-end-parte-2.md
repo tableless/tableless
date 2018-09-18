@@ -146,7 +146,7 @@ Chegamos ao final desse capítulo tentando expor as qualidades que o Yeoman pode
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/convence.jpg
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/dica.jpg
- [3]: http://nodejs.org/download/
+ [3]: https://nodejs.org/download/
  [4]: https://www.ruby-lang.org/pt/downloads/
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/vendo-tv.jpg
  [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/01.jpg
@@ -156,8 +156,8 @@ Chegamos ao final desse capítulo tentando expor as qualidades que o Yeoman pode
  [10]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/03.jpg
  [11]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/04.jpg
  [12]: Ao%20dar o build ele gera o diretório “dist” contendo nele os arquivos de produção. Já que estamos automatizando tudo, jamais em toda sua vida use FTP e sim faça deploy =) Abaixo segue algumas referências de um módulo do grunt que você pode acrescentar em sua aplicação e deixá-la mais interessante. Assim você miniminiza retrabalhos. Estou falando de rsync
- [13]: http://yeoman.io/
+ [13]: https://yeoman.io/
  [14]: https://github.com/yeoman/yeoman
- [15]: http://blog.caelum.com.br/experimente-o-yeoman-em-seu-workflow-de-projetos-front-end/
- [16]: http://pt.slideshare.net/pedropolisenso/em-um-relacionamento-srio-com-generators-front-end
+ [15]: https://blog.caelum.com.br/experimente-o-yeoman-em-seu-workflow-de-projetos-front-end/
+ [16]: https://pt.slideshare.net/pedropolisenso/em-um-relacionamento-srio-com-generators-front-end
  [17]: https://twitter.com/obetomuniz

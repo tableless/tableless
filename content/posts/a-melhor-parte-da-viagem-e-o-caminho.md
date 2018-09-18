@@ -8,7 +8,7 @@ url: /a-melhor-parte-da-viagem-e-o-caminho/
 tweetbackscheck:
   - 1356401541
 shorturls:
-  - 'a:3:{s:9:"permalink";s:61:"http://tableless.com.br/a-melhor-parte-da-viagem-e-o-caminho/";s:7:"tinyurl";s:26:"http://tinyurl.com/7k4488p";s:4:"isgd";s:19:"http://is.gd/gYQjUr";}'
+  - 'a:3:{s:9:"permalink";s:61:"https://tableless.com.br/a-melhor-parte-da-viagem-e-o-caminho/";s:7:"tinyurl";s:26:"https://tinyurl.com/7k4488p";s:4:"isgd";s:19:"https://is.gd/gYQjUr";}'
 twittercomments:
   - 'a:12:{i:164385966302298112;s:7:"retweet";i:164372860352200704;s:7:"retweet";i:164346325176025090;s:7:"retweet";i:164334489005326337;s:7:"retweet";i:164038428168699904;s:7:"retweet";i:164019911746789377;s:7:"retweet";i:164019319464923138;s:7:"retweet";i:163971209015468032;s:7:"retweet";i:163946337350594561;s:7:"retweet";i:163944362223480834;s:7:"retweet";i:172363419167637504;s:7:"retweet";i:170469850790105089;s:7:"retweet";}'
 tweetcount:
@@ -55,4 +55,4 @@ Talvez eu nem saiba o que eu esteja dizendo agora. Mas eu já estive dos dois la
   
 Ter uma empresa ou ser empregado é uma decisão sua e para ambas decisões é necessário ter coragem. Existem vantagens e desvantagens dos dois lados. Como eu disse anteriormente, ganhar dinheiro é possível em qualquer um dos dois cenários, então esse não é o problema. Os passos em cada um dos caminhos são diferentes em diversos pontos, mas se você reparar bem, são mais parecidos do que aparentam.
 
- [1]: http://projetodsd.com.br/empreendedorismo/qual-a-diferenca-entre-empresario-e-empreendedor/?utm_source=linkTableless&utm_medium=link&utm_campaign=postLink
+ [1]: https://projetodsd.com.br/empreendedorismo/qual-a-diferenca-entre-empresario-e-empreendedor/?utm_source=linkTableless&utm_medium=link&utm_campaign=postLink

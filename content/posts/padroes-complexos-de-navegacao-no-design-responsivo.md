@@ -19,13 +19,13 @@ tags:
   - traducoes
 
 ---
-A pergunta que mais recebo desde que postei meu artigo sobre <a href="http://bradfrostweb.com/blog/web/responsive-nav-patterns/" target="_blank">Modelos responsivos de navegação</a> é: **Como lidar com uma navegação complexa no design responsivo?**
+A pergunta que mais recebo desde que postei meu artigo sobre <a href="https://bradfrostweb.com/blog/web/responsive-nav-patterns/" target="_blank">Modelos responsivos de navegação</a> é: **Como lidar com uma navegação complexa no design responsivo?**
 
-Ótima pergunta, mas antes de entrar nos pormenores, eu vos peço: **Use o celular como uma desculpa para revisitar sua navegação**. Observe suas análises. Quais os pontos chave da sua experiência? Onde as pessoas passam a maior parte do tempo? Você realmente precisa da sua &#8220;política de privacidade&#8221; na navegação principal? <a href="http://futurefriend.ly/thinking.html#laser-focus" target="_blank">Tenha foco</a>. Aproveite a falta de espaço da tela para retirar todo o besteirol político do site etc, e elimine todo o conteúdo inútil. Seus usuários agradecerão.
+Ótima pergunta, mas antes de entrar nos pormenores, eu vos peço: **Use o celular como uma desculpa para revisitar sua navegação**. Observe suas análises. Quais os pontos chave da sua experiência? Onde as pessoas passam a maior parte do tempo? Você realmente precisa da sua &#8220;política de privacidade&#8221; na navegação principal? <a href="https://futurefriend.ly/thinking.html#laser-focus" target="_blank">Tenha foco</a>. Aproveite a falta de espaço da tela para retirar todo o besteirol político do site etc, e elimine todo o conteúdo inútil. Seus usuários agradecerão.
 
 Mais uma coisa: Se você tem zilhões de seções e páginas, **priorize a busca**. Um formulário de busca é uma maneira eficaz de levar os usuários onde eles desejam ir, sem ter que percorrer vários níveis na navegação.
 
-Ok, agora que definimos algumas coisas, é <a href="http://www.youtube.com/watch?v=cdaAWFoWr2c" target="_blank">hora da verdade</a>. Às vezes não é muito prático reduzir suas milhares de páginas em três pequenos e ordenados links que se ajustem a tela de um dispositivo mobile. Muitas vezes você é um grande varejista, ou uma universidade com um enorme conteúdo para um grande público alvo. Às vezes o cliente que anuncia no seu site vai, **literalmente, te engolir** por remover o seu link da navegação.
+Ok, agora que definimos algumas coisas, é <a href="https://www.youtube.com/watch?v=cdaAWFoWr2c" target="_blank">hora da verdade</a>. Às vezes não é muito prático reduzir suas milhares de páginas em três pequenos e ordenados links que se ajustem a tela de um dispositivo mobile. Muitas vezes você é um grande varejista, ou uma universidade com um enorme conteúdo para um grande público alvo. Às vezes o cliente que anuncia no seu site vai, **literalmente, te engolir** por remover o seu link da navegação.
 
 **Enfim, às vezes você só precisa de uma navegação mais complexa**. O que você vai fazer? Bem, aí vão alguns padrões para lidarmos com navegações complexas, longas e multi-level.
 
@@ -40,7 +40,7 @@ Ok, agora que definimos algumas coisas, é <a href="http://www.youtube.com/watch
 
 <img style="width: 550px;height: 375px" title="Fig: Navegação multi-toggle no redesign do site de Barack Obama" alt="Navegação multi-toggle do site do Barack Obama" src="https://bradfrostweb.com/uploads/2012/08/Screen-Shot-2012-08-27-at-11.43.41-PM-650x443.png" />
 
-O menu multi-toggle é basicamente um acordeão encaixado. Basta dar um _tap_ na categoria para revelar sub-categorias ocultas. Uma vez que a tela tenha largura suficiente, é convertida num menu suspenso <a href="http://devsnippets.com/article/reviews/10-brilliant-multi-level-navigation-menu-techniques.html" target="_blank">dropdown multi-level</a>, como já estamos acostumados a ver.
+O menu multi-toggle é basicamente um acordeão encaixado. Basta dar um _tap_ na categoria para revelar sub-categorias ocultas. Uma vez que a tela tenha largura suficiente, é convertida num menu suspenso <a href="https://devsnippets.com/article/reviews/10-brilliant-multi-level-navigation-menu-techniques.html" target="_blank">dropdown multi-level</a>, como já estamos acostumados a ver.
 
 Dica rápida: Use os ícones + ou ▼ para deixar o usuário saber que há mais conteúdo.
 
@@ -52,17 +52,17 @@ Dica rápida: Use os ícones + ou ▼ para deixar o usuário saber que há mais 
 ### Contras
 
   * **Não é tão atraente** &#8211; Dar _taps_ ao longo dos vários níveis não é a coisa mais elegante do mundo, mas acho que você poderia acabar dizendo a mesma coisa diante de qualquer solução de navegação multi-level.
-  * **Um possível JS é requerido** &#8211; Digo &#8220;possível&#8221; pois a maioria desses estilos de interação usam JavaScript para fazer a coisa acontecer. No entanto, o brilhante <a href="https://twitter.com/aarongustafson" target="_blank">Aaron Gustafson</a> demonstrou que você pode <a href="http://www.netmagazine.com/tutorials/build-smart-mobile-navigation-without-hacks" target="_blank">realizar este efeito</a> usando a pseudo-classe :target na regra CSS. Muito legal! Além disso, a necessidade de JavaScript não é necessariamente um contra. Apenas certifique-se que a navegação não será acessada por usuários sem suporte a esta linguagem.
+  * **Um possível JS é requerido** &#8211; Digo &#8220;possível&#8221; pois a maioria desses estilos de interação usam JavaScript para fazer a coisa acontecer. No entanto, o brilhante <a href="https://twitter.com/aarongustafson" target="_blank">Aaron Gustafson</a> demonstrou que você pode <a href="https://www.netmagazine.com/tutorials/build-smart-mobile-navigation-without-hacks" target="_blank">realizar este efeito</a> usando a pseudo-classe :target na regra CSS. Muito legal! Além disso, a necessidade de JavaScript não é necessariamente um contra. Apenas certifique-se que a navegação não será acessada por usuários sem suporte a esta linguagem.
 
 ### Recursos
 
-  * <a href="http://www.netmagazine.com/tutorials/build-smart-mobile-navigation-without-hacks" target="_blank">Construa um smart mobile navigation sem hacks</a>
-  * <a href="http://jsfiddle.net/leaverou/zwvNY/" target="_blank">Anime usando min-height</a> por <a href="https://twitter.com/leaverou" target="_blank">Lea Verou</a> – Esta técnica é insanamente incrível. Eu a utilizo em todas as minhas necessidades de height-animating, Inclusive em accordions.
-  * <a href="http://jqueryui.com/accordion/" target="_blank">jQuery Accordion</a>
+  * <a href="https://www.netmagazine.com/tutorials/build-smart-mobile-navigation-without-hacks" target="_blank">Construa um smart mobile navigation sem hacks</a>
+  * <a href="https://jsfiddle.net/leaverou/zwvNY/" target="_blank">Anime usando min-height</a> por <a href="https://twitter.com/leaverou" target="_blank">Lea Verou</a> – Esta técnica é insanamente incrível. Eu a utilizo em todas as minhas necessidades de height-animating, Inclusive em accordions.
+  * <a href="https://jqueryui.com/accordion/" target="_blank">jQuery Accordion</a>
 
 ### Na web
 
-O redesign do site do <a href="http://www.barackobama.com/" target="_blank">Barack Obama</a> em conjunto com o padrão <a href="http://bradfrostweb.com/blog/web/responsive-nav-patterns/#footer-anchor" target="_blank">footer anchor</a>.
+O redesign do site do <a href="https://www.barackobama.com/" target="_blank">Barack Obama</a> em conjunto com o padrão <a href="https://bradfrostweb.com/blog/web/responsive-nav-patterns/#footer-anchor" target="_blank">footer anchor</a>.
 
 ## O BOM E VELHO RIGHT-TO-LEFT
 
@@ -83,12 +83,12 @@ Em vez de itens de sub-navegação aparecendo por baixo da categoria, como no mu
 
 ### Na web
 
-  * <a href="http://www.sony.com/index.php" target="_blank">Sony</a>
-  * <a href="http://www.currys.co.uk/gbuk/index.html" target="_blank">Currys</a>
+  * <a href="https://www.sony.com/index.php" target="_blank">Sony</a>
+  * <a href="https://www.currys.co.uk/gbuk/index.html" target="_blank">Currys</a>
 
 ## PULAR A SUB-NAVEGAÇÃO
 
-<a href="http://bradfrostweb.com/uploads/2012/08/wwf.png" target="_blank"><img style="width: 550px;height: 128px" title="A navegação responsiva da WWF ignora a sub-navegação em telas menores, fazendo com que os usuários sejam levados direto à página de destino da categoria." alt="World Wildlife Fund Navigation" src="https://bradfrostweb.com/uploads/2012/08/wwf-650x151.png" /></a>
+<a href="https://bradfrostweb.com/uploads/2012/08/wwf.png" target="_blank"><img style="width: 550px;height: 128px" title="A navegação responsiva da WWF ignora a sub-navegação em telas menores, fazendo com que os usuários sejam levados direto à página de destino da categoria." alt="World Wildlife Fund Navigation" src="https://bradfrostweb.com/uploads/2012/08/wwf-650x151.png" /></a>
 
 A sub-navegação normalmente inclui itens que também são inclusos na página principal da categoria. Pelo fato do conteúdo ser acessível desta página, é perfeitamente viável simplesmente levar os usuários de small screens direto à página principal e deixá-lo tomar sua próxima decisão de lá.
 
@@ -100,27 +100,27 @@ A sub-navegação normalmente inclui itens que também são inclusos na página 
 ### Contras
 
   * **Requer a atualização de uma página inteira para acessar os itens de sub-navegação** &#8211; Este é um grande contra. Ter que ir a uma outra página não é tão eficiente para uma navegação rápida.
-  * **Usuários de _small screens_ ainda fazem download do conteúdo da sub-navegação** &#8211; Também é um grande contra. É um caso clássico de usuários mobile fazer download de elementos que nunca irão usar. No entanto, não precisa ser assim. Sub-navegações, especialmente mega menus monstruosos, daqueles cheios de tranqueiras que ninguém nunca irá usar e&#8230; onde eu estava? Ah sim&#8230; eles podem (e devem) ser <a href="http://24ways.org/2011/conditional-loading-for-responsive-designs/" target="_blank">condicionalmente carregados</a> para que usuários de small screens não tenham que baixar um conteúdo inútil.
+  * **Usuários de _small screens_ ainda fazem download do conteúdo da sub-navegação** &#8211; Também é um grande contra. É um caso clássico de usuários mobile fazer download de elementos que nunca irão usar. No entanto, não precisa ser assim. Sub-navegações, especialmente mega menus monstruosos, daqueles cheios de tranqueiras que ninguém nunca irá usar e&#8230; onde eu estava? Ah sim&#8230; eles podem (e devem) ser <a href="https://24ways.org/2011/conditional-loading-for-responsive-designs/" target="_blank">condicionalmente carregados</a> para que usuários de small screens não tenham que baixar um conteúdo inútil.
 
 ### Recursos
 
-  * <a href="http://24ways.org/2011/conditional-loading-for-responsive-designs/" target="_blank">Carregamento condicional para design responsivo</a>
-  * <a href="http://filamentgroup.com/lab/ajax_includes_modular_content/" target="_blank">Padrão Ajax-Include para conteúdo modular</a>
+  * <a href="https://24ways.org/2011/conditional-loading-for-responsive-designs/" target="_blank">Carregamento condicional para design responsivo</a>
+  * <a href="https://filamentgroup.com/lab/ajax_includes_modular_content/" target="_blank">Padrão Ajax-Include para conteúdo modular</a>
 
 ### Na web
 
-  * <a href="http://worldwildlife.org/" target="_blank">World Wildlife Fund (WWF)</a>
-  * <a href="http://www.wvu.edu/" target="_blank">West Virginia University</a>
-  * <a href="http://www.bostonglobe.com/" target="_blank">Boston Globe</a> AJAXifies é uma sub-navegação feita do jeito certo.
-  * <a href="http://www.chapman.edu/arts/index.aspx" target="_blank">Chapman University</a>
-  * <a href="http://uca.edu/" target="_blank">University of Central Arkansas</a>
-  * <a href="http://www.southwales.ac.uk/" target="_blank">University of Glamorgan</a>
+  * <a href="https://worldwildlife.org/" target="_blank">World Wildlife Fund (WWF)</a>
+  * <a href="https://www.wvu.edu/" target="_blank">West Virginia University</a>
+  * <a href="https://www.bostonglobe.com/" target="_blank">Boston Globe</a> AJAXifies é uma sub-navegação feita do jeito certo.
+  * <a href="https://www.chapman.edu/arts/index.aspx" target="_blank">Chapman University</a>
+  * <a href="https://uca.edu/" target="_blank">University of Central Arkansas</a>
+  * <a href="https://www.southwales.ac.uk/" target="_blank">University of Glamorgan</a>
 
 ## PRIORITY+
 
-<a href="http://bradfrostweb.com/uploads/2012/08/priority2.gif" target="_blank"><img style="width: 550px;height: 467px" title="Padrão Priority+ " alt="Padrão Priority+" src="https://bradfrostweb.com/uploads/2012/08/priority2.gif" /></a>
+<a href="https://bradfrostweb.com/uploads/2012/08/priority2.gif" target="_blank"><img style="width: 550px;height: 467px" title="Padrão Priority+ " alt="Padrão Priority+" src="https://bradfrostweb.com/uploads/2012/08/priority2.gif" /></a>
 
-O <a href="http://justmarkup.com/log/2012/06/19/responsive-multi-level-navigation/" target="_blank">padrão Priority+</a> foi cunhado por <a href="http://justmarkup.com/" target="_blank">Michael Scharnagl</a> (<a href="http://twitter.com/justmarkup" target="_blank">@justmarkup</a>) para descrever uma navegação que exibe os elementos considerados &#8220;mais importantes&#8221; na navegação, ocultando os itens menos relevantes por trás de um link &#8220;more&#8221;. Esses itens somente são revelados quando o usuário clicar neste link.
+O <a href="https://justmarkup.com/log/2012/06/19/responsive-multi-level-navigation/" target="_blank">padrão Priority+</a> foi cunhado por <a href="https://justmarkup.com/" target="_blank">Michael Scharnagl</a> (<a href="https://twitter.com/justmarkup" target="_blank">@justmarkup</a>) para descrever uma navegação que exibe os elementos considerados &#8220;mais importantes&#8221; na navegação, ocultando os itens menos relevantes por trás de um link &#8220;more&#8221;. Esses itens somente são revelados quando o usuário clicar neste link.
 
 ### Prós
 
@@ -134,28 +134,28 @@ O <a href="http://justmarkup.com/log/2012/06/19/responsive-multi-level-navigatio
 
 ### Recursos
 
-<a href="http://justmarkup.com/log/2012/06/19/responsive-multi-level-navigation/" target="_blank">Navegação Responsiva Multi Level – Vamos tentar!</a>
+<a href="https://justmarkup.com/log/2012/06/19/responsive-multi-level-navigation/" target="_blank">Navegação Responsiva Multi Level – Vamos tentar!</a>
 
-<a href="http://justmarkup.com/lab/juma/nav/example2/" target="_blank">Priority+ Demo</a>
+<a href="https://justmarkup.com/lab/juma/nav/example2/" target="_blank">Priority+ Demo</a>
 
 ### Na web
 
-<a href="http://www.wm.edu/" target="_blank">William and Mary</a>
+<a href="https://www.wm.edu/" target="_blank">William and Mary</a>
 
-As <a href="http://m.usatoday.com/sports" target="_blank">section pages do site mobile do USA Today</a> não seguem exatamente esta proposta, mas exibem as categorias mais importantes por padrão, e uma seta revela os itens de navegação restantes. Bastante atrativo.
+As <a href="https://m.usatoday.com/sports" target="_blank">section pages do site mobile do USA Today</a> não seguem exatamente esta proposta, mas exibem as categorias mais importantes por padrão, e uma seta revela os itens de navegação restantes. Bastante atrativo.
 
 ## OFF-CANVAS FLYOUT
 
-<a href="http://bradfrostweb.com/uploads/2012/08/nav-obama.png" target="_blank"><img title="Navegação Left Flyout do site do Barack Obama" alt="nav-obama" src="https://bradfrostweb.com/uploads/2012/08/nav-obama-650x295.png" width="573" height="260" /></a>
+<a href="https://bradfrostweb.com/uploads/2012/08/nav-obama.png" target="_blank"><img title="Navegação Left Flyout do site do Barack Obama" alt="nav-obama" src="https://bradfrostweb.com/uploads/2012/08/nav-obama-650x295.png" width="573" height="260" /></a>
 
-O menu off-canvas flyout revela uma coluna de navegação. Os itens do sub-menu podem ser tantos quanto o comprimento da própria página, por isso há espaço de sobra para uma longa e/ou complexa navegação. Como já escrevi sobre o <a href="http://bradfrostweb.com/blog/web/responsive-nav-patterns/#left" target="_blank">modelo flyout left</a> antes, vou poupá-los da análise de prós e contras. Em vez disso, estou disponibilizando uma lista de referências para modelos off-canvas.
+O menu off-canvas flyout revela uma coluna de navegação. Os itens do sub-menu podem ser tantos quanto o comprimento da própria página, por isso há espaço de sobra para uma longa e/ou complexa navegação. Como já escrevi sobre o <a href="https://bradfrostweb.com/blog/web/responsive-nav-patterns/#left" target="_blank">modelo flyout left</a> antes, vou poupá-los da análise de prós e contras. Em vez disso, estou disponibilizando uma lista de referências para modelos off-canvas.
 
 ### Recursos para off-canvas
 
-  * <a href="http://www.lukew.com/ff/entry.asp?1517" target="_blank">Off Canvas Multi-Device Layout</a>
-  * <a href="http://www.lukew.com/ff/entry.asp?1569" target="_blank">Off Canvas Multi-Device Layouts</a>
-  * <a href="http://jasonweaver.name/lab/offcanvas/" target="_blank">Off-Canvas demo por Jason Weaver</a>
-  * <a href="http://zurb.com/playground/off-canvas-layouts" target="_blank">Off Canvas Layouts na Zurb Foundation</a>
+  * <a href="https://www.lukew.com/ff/entry.asp?1517" target="_blank">Off Canvas Multi-Device Layout</a>
+  * <a href="https://www.lukew.com/ff/entry.asp?1569" target="_blank">Off Canvas Multi-Device Layouts</a>
+  * <a href="https://jasonweaver.name/lab/offcanvas/" target="_blank">Off-Canvas demo por Jason Weaver</a>
+  * <a href="https://zurb.com/playground/off-canvas-layouts" target="_blank">Off Canvas Layouts na Zurb Foundation</a>
 
 ### Na web
 
@@ -181,7 +181,7 @@ Este é o menu da moda. O padrão Carousel+ é um carrossel contendo uma categor
 
 ### Na web
 
-  * <a href="http://m.intel.com/us/en/home.html" target="_blank">Site mobile da Intel</a> &#8211; Sim, sei que não é responsivo, mas não significa que este padrão não possa ser usado em um ambiente responsivo<a id="anchornota1" href="#nota1" name="achornota1"><sup>1</sup></a>.
+  * <a href="https://m.intel.com/us/en/home.html" target="_blank">Site mobile da Intel</a> &#8211; Sim, sei que não é responsivo, mas não significa que este padrão não possa ser usado em um ambiente responsivo<a id="anchornota1" href="#nota1" name="achornota1"><sup>1</sup></a>.
 
 ## ADIANTE!
 
@@ -191,11 +191,11 @@ Não importa o que você faça, ajustar uma navegação complexa e multi-level p
 
 &#8212;
 
-_Artigo traduzido com autorização de <a href="http://bradfrostweb.com/" target="_blank">Brad Frost</a>._
+_Artigo traduzido com autorização de <a href="https://bradfrostweb.com/" target="_blank">Brad Frost</a>._
 
-_Artigo original escrito por <a href="http://bradfrostweb.com/" target="_blank">Brad Frost</a>._
+_Artigo original escrito por <a href="https://bradfrostweb.com/" target="_blank">Brad Frost</a>._
 
-_Acesse o artigo original em <a href="http://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/" target="_blank">Brad Frost Web &#8211; &#8220;Complex Navigation Pattern for Responsive Design&#8221; &#8211; 27 de agosto de 2012</a>._
+_Acesse o artigo original em <a href="https://bradfrostweb.com/blog/web/complex-navigation-patterns-for-responsive-design/" target="_blank">Brad Frost Web &#8211; &#8220;Complex Navigation Pattern for Responsive Design&#8221; &#8211; 27 de agosto de 2012</a>._
 
 &#8212;
 

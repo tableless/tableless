@@ -8,7 +8,7 @@ url: /estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte
 tweetbackscheck:
   - 1356453533
 shorturls:
-  - 'a:3:{s:9:"permalink";s:101:"http://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/";s:7:"tinyurl";s:26:"http://tinyurl.com/cmn7q57";s:4:"isgd";s:19:"http://is.gd/8dkHWG";}'
+  - 'a:3:{s:9:"permalink";s:101:"https://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/";s:7:"tinyurl";s:26:"https://tinyurl.com/cmn7q57";s:4:"isgd";s:19:"https://is.gd/8dkHWG";}'
 dsq_thread_id: 682660889
 twittercomments:
   - 'a:14:{i:200399109390221312;s:7:"retweet";i:201014996631695360;s:7:"retweet";i:200514177591279616;s:7:"retweet";i:200412300379815936;s:7:"retweet";i:200406317574262784;s:7:"retweet";i:200379204490104834;s:7:"retweet";i:200289707714813953;s:7:"retweet";i:200271390815952896;s:7:"retweet";i:200271021058699264;s:7:"retweet";i:204618316403322880;s:7:"retweet";i:203535947080540161;s:7:"retweet";i:218776759678681088;s:7:"retweet";i:218752599552299009;s:7:"retweet";i:237612213156855808;s:7:"retweet";}'
@@ -84,11 +84,11 @@ No próximo artigo vou contar como estamos fazendo aqui na Locaweb. Estamos cria
 
 Veja a segunda parte deste artigo: [Designers e Programadores][8]
 
- [1]: http://lesscss.org/
- [2]: http://sass-lang.com/
- [3]: http://turbine.peterkroener.de/index.php
- [4]: http://sourceforge.net/projects/switchcss/
- [5]: http://twitter.github.com/bootstrap
- [6]: http://blueprintcss.org
- [7]: http://necolas.github.com/normalize.css/
- [8]: http://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/ "Estruturação de Client-side – Parte 2: Designers e Programadores"
+ [1]: https://lesscss.org/
+ [2]: https://sass-lang.com/
+ [3]: https://turbine.peterkroener.de/index.php
+ [4]: https://sourceforge.net/projects/switchcss/
+ [5]: https://twitter.github.com/bootstrap
+ [6]: https://blueprintcss.org
+ [7]: https://necolas.github.com/normalize.css/
+ [8]: https://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/ "Estruturação de Client-side – Parte 2: Designers e Programadores"

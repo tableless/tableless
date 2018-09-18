@@ -5,11 +5,11 @@ type: post
 date: 2004-11-11
 url: /podcast/
 enclosure:
-  - http://tableless.com.br/podcast/POD0-firefox-extensions.mp3
+  - https://tableless.com.br/podcast/POD0-firefox-extensions.mp3
 tweetbackscheck:
   - 1356464341
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/podcast";s:4:"isgd";s:19:"http://is.gd/bBt3T4";s:7:"tinyurl";s:26:"http://tinyurl.com/3g264gu";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/podcast";s:4:"isgd";s:19:"https://is.gd/bBt3T4";s:7:"tinyurl";s:26:"https://tinyurl.com/3g264gu";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032050
@@ -25,8 +25,8 @@ Tentei compactar o arquivo para tornar o download o mais leve possível. Coment�
               
 E a pergunta final: sobre o que vocês gostariam que nós falássemos aqui? O que você gostaria de ouvir?
 
- [1]: http://en.wikipedia.org/wiki/Podcasting "Podcasting - Wikipedia"
- [2]: http://tableless.com.br/rss.asp "Tableless Podcasting"
- [3]: http://tableless.com.br/podcast/POD0-firefox-extensions.mp3 "POD0-firefox-extensions.mp3 (899KB)"
- [4]: http://www.dicas-l.unicamp.br/dicas-l/20041108.php "Dicas-L: Podcasting"
- [5]: http://www.digitalminds.com.br/ "DigitalMinds.com.br"
+ [1]: https://en.wikipedia.org/wiki/Podcasting "Podcasting - Wikipedia"
+ [2]: https://tableless.com.br/rss.asp "Tableless Podcasting"
+ [3]: https://tableless.com.br/podcast/POD0-firefox-extensions.mp3 "POD0-firefox-extensions.mp3 (899KB)"
+ [4]: https://www.dicas-l.unicamp.br/dicas-l/20041108.php "Dicas-L: Podcasting"
+ [5]: https://www.digitalminds.com.br/ "DigitalMinds.com.br"

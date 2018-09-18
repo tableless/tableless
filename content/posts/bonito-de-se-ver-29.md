@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1355291312
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bonito-de-se-ver-29";s:7:"tinyurl";s:26:"http://tinyurl.com/434kpe7";s:4:"isgd";s:19:"http://is.gd/GDKlLL";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/bonito-de-se-ver-29";s:7:"tinyurl";s:26:"https://tinyurl.com/434kpe7";s:4:"isgd";s:19:"https://is.gd/GDKlLL";}'
 twittercomments:
   - 'a:2:{i:10093488976699392;s:7:"retweet";i:10093482798489600;s:7:"retweet";}'
 tweetcount:
@@ -23,8 +23,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.yourssincerely.co.uk/>
-  2. <http://www.todopintxos.com/home/home.php>
-  3. <http://www.revolutionnewmedia.com/>
-  4. <http://www.healthvibes.co.uk/>
-  5. <http://www.portretkobiety.pl/>
+  1. <https://www.yourssincerely.co.uk/>
+  2. <https://www.todopintxos.com/home/home.php>
+  3. <https://www.revolutionnewmedia.com/>
+  4. <https://www.healthvibes.co.uk/>
+  5. <https://www.portretkobiety.pl/>

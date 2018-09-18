@@ -29,12 +29,12 @@ tags:
   * [30 Exceptional CSS Navigation Techniques][8]
   * [The Road to HTML 5: Link Relations][9]
 
- [1]: http://www.smashingmagazine.com/2008/02/21/powerful-css-techniques-for-effective-coding/
- [2]: http://www.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without/
- [3]: http://www.noupe.com/design/101-css-techniques-of-all-time-part-1.html
- [4]: http://tutorialblog.org/25-code-snippets-for-web-designers-part2/
- [5]: http://stylizedweb.com/2008/03/12/most-used-css-tricks/
- [6]: http://abduzeedo.com/web-design-footers
- [7]: http://www.jankoatwarpspeed.com/post/2009/04/19/Create-CSS-pin-balloons-with-ease.aspx
- [8]: http://sixrevisions.com/css/30-exceptional-css-navigation-techniques/
- [9]: http://blog.whatwg.org/the-road-to-html-5-link-relations
+ [1]: https://www.smashingmagazine.com/2008/02/21/powerful-css-techniques-for-effective-coding/
+ [2]: https://www.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without/
+ [3]: https://www.noupe.com/design/101-css-techniques-of-all-time-part-1.html
+ [4]: https://tutorialblog.org/25-code-snippets-for-web-designers-part2/
+ [5]: https://stylizedweb.com/2008/03/12/most-used-css-tricks/
+ [6]: https://abduzeedo.com/web-design-footers
+ [7]: https://www.jankoatwarpspeed.com/post/2009/04/19/Create-CSS-pin-balloons-with-ease.aspx
+ [8]: https://sixrevisions.com/css/30-exceptional-css-navigation-techniques/
+ [9]: https://blog.whatwg.org/the-road-to-html-5-link-relations

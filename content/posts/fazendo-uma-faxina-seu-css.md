@@ -19,9 +19,9 @@ Sempre podemos discutir sobre como escrevemos CSS e também quais são as melhor
 
 ### A Origem de tudo
 
-Já foi falado aqui no Tableless várias vezes sobre performance e velocidade de páginas. Um deles você encontra aqui no artigo que fala sobre a <a title="Performance CSS" href="http://tableless.com.br/melhorando-performance-css/" target="_blank">performance do seu CSS</a>
+Já foi falado aqui no Tableless várias vezes sobre performance e velocidade de páginas. Um deles você encontra aqui no artigo que fala sobre a <a title="Performance CSS" href="https://tableless.com.br/melhorando-performance-css/" target="_blank">performance do seu CSS</a>
 
-Um ponto que sempre ganha destaque, é a velocidade e a <a title="http://tableless.com.br/acelere-o-carregamento-de-suas-paginas/" href="http://tableless.com.br/acelere-o-carregamento-de-suas-paginas/" target="_blank">performance no carregamento dos sites</a>. Um dos principais pontos chaves para conseguir tal feito é diminuir ao máximo o tamanhos dos arquivos que são carregados no browser.
+Um ponto que sempre ganha destaque, é a velocidade e a <a title="https://tableless.com.br/acelere-o-carregamento-de-suas-paginas/" href="https://tableless.com.br/acelere-o-carregamento-de-suas-paginas/" target="_blank">performance no carregamento dos sites</a>. Um dos principais pontos chaves para conseguir tal feito é diminuir ao máximo o tamanhos dos arquivos que são carregados no browser.
 
 Acredito que a  performance de CSS não é a principal causa de gerar lentidão e demora de um carregamento em um site, mas sempre devemos buscar por melhorias, alternativas que nos auxiliam a otimizar o desenvolvimento e enriquecer a performance do usuário.
 

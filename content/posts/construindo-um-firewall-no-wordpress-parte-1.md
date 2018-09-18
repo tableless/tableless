@@ -21,7 +21,7 @@ Plugin Name: WP Firewall
 Description: Controle de segurança do WordPress
 Version: 1.0
 Author: Tableless
-Author URI: http://tableless.com.br
+Author URI: https://tableless.com.br
 */
 if (!class_exists('WP_Firewall')) { //caso a classe já não exista
  class WP_Firewall{ // declara o plugin WP_Firewall

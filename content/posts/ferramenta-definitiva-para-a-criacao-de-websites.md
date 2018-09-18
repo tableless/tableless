@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356296336
 shorturls:
-  - 'a:3:{s:9:"permalink";s:72:"http://tableless.com.br/ferramenta-definitiva-para-a-criacao-de-websites";s:7:"tinyurl";s:26:"http://tinyurl.com/4y75jer";s:4:"isgd";s:19:"http://is.gd/N6SO2E";}'
+  - 'a:3:{s:9:"permalink";s:72:"https://tableless.com.br/ferramenta-definitiva-para-a-criacao-de-websites";s:7:"tinyurl";s:26:"https://tinyurl.com/4y75jer";s:4:"isgd";s:19:"https://is.gd/N6SO2E";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037486
@@ -33,5 +33,5 @@ O Dreamweaver se torna um vilão a partir da hora que o desenvolvedor perde o co
 
 Falarei [sobre código][2] na palestra do AlternativaWeb 2007, lá em Fortaleza.  Compareça!
 
- [1]: http://tableless.com.br/desenvolvedor-analfabetico-sim-e-sobre-wysiwyg
- [2]: http://www.alternativaweb2007.com.br/2007/09/17/web-20-e-o-codigo/
+ [1]: https://tableless.com.br/desenvolvedor-analfabetico-sim-e-sobre-wysiwyg
+ [2]: https://www.alternativaweb2007.com.br/2007/09/17/web-20-e-o-codigo/

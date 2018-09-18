@@ -136,7 +136,7 @@ A base de plugins ainda é infinitamente menor do que a base de plugins jQuery. 
   * _Site oficial:_ [zeptojs.com][3]
   * _Código-fonte:_ [github.com/madrobby/zepto][4]
 
- [1]: http://jcemer.com/zepto-carousel/
- [2]: http://jcemer.com/zepto-range/
- [3]: http://zeptojs.com/
+ [1]: https://jcemer.com/zepto-carousel/
+ [2]: https://jcemer.com/zepto-range/
+ [3]: https://zeptojs.com/
  [4]: https://github.com/madrobby/zepto

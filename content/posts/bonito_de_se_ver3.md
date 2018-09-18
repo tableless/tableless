@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356360970
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/bonito_de_se_ver3";s:7:"tinyurl";s:26:"http://tinyurl.com/3hq3xn5";s:4:"isgd";s:19:"http://is.gd/Z3tIxI";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/bonito_de_se_ver3";s:7:"tinyurl";s:26:"https://tinyurl.com/3hq3xn5";s:4:"isgd";s:19:"https://is.gd/Z3tIxI";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032662
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  * <http://johandahlstrom.se/>
-  * <http://emericawildinthestreets.com/>
-  * <http://www.blogio.de/>
-  * <http://www.challies.com/>
-  * <http://www.thedarns.com/>
+  * <https://johandahlstrom.se/>
+  * <https://emericawildinthestreets.com/>
+  * <https://www.blogio.de/>
+  * <https://www.challies.com/>
+  * <https://www.thedarns.com/>

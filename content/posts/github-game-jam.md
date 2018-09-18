@@ -16,7 +16,7 @@ No dia 01 de novembro o GitHub vai anunciar o tema do evento. Logo, você terá 
 
 Alguns detalhes serão divulgados ainda, mas você pode se inscrever e ficar atento por esse endereço: [https://itch.io/jam/game-off-2017](https://itch.io/jam/game-off-2017).
 
-Você pode usar qualquer coisa que você gosta de construir seu jogo, mas framework que está sendo recomendado pela galera é o [Phaser](http://phaser.io/)!
+Você pode usar qualquer coisa que você gosta de construir seu jogo, mas framework que está sendo recomendado pela galera é o [Phaser](https://phaser.io/)!
 
 ## Vídeos
 
@@ -30,12 +30,12 @@ Há muitos vídeos sobre a Phaser no YouTube. Alguns dão uma introdução únic
 
 ## Tutoriais
 
-[Fazendo seu primeiro jogo Phaser](http://phaser.io/tutorials/making-your-first-phaser-game) é um tutorial (em inglês) e fácil de seguir que o leva gentilmente ao processo de fazer seu primeiro jogo, passo a passo. O código e os recursos também estão disponíveis para download.
+[Fazendo seu primeiro jogo Phaser](https://phaser.io/tutorials/making-your-first-phaser-game) é um tutorial (em inglês) e fácil de seguir que o leva gentilmente ao processo de fazer seu primeiro jogo, passo a passo. O código e os recursos também estão disponíveis para download.
 
-[Tutoriais da comunidade](http://phaser.io/learn/community-tutorials): Há literalmente milhares de tutoriais da Phaser que foram escritos. O que é uma benção e um pouco de desafio para os recém-chegados. 
+[Tutoriais da comunidade](https://phaser.io/learn/community-tutorials): Há literalmente milhares de tutoriais da Phaser que foram escritos. O que é uma benção e um pouco de desafio para os recém-chegados. 
 
 Se você nunca fez um jogo, essa pode ser sua motivação! O PotHix fez uma apresentação bem bacanuda sobre o tema. Como é conteúdo português, pode te ajudar a começar nesse assunto:
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/hBcgT6lZIEomdL" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 
-Fonte: [http://phaser.io/news/2017/10/game-off](http://phaser.io/news/2017/10/game-off)
+Fonte: [https://phaser.io/news/2017/10/game-off](https://phaser.io/news/2017/10/game-off)

@@ -47,5 +47,5 @@ Mas há um ponto para tomar cuidado em entregas incrementais: a feature precisa 
 
 Moral da história: prefira tomar decisões baseadas em dados ao invés de tentar prever as ações do usuário. Dados são fatos. Usuários, infelizmente, mentem&#8230; e há um monte de profissionais que caem nessas mentiras.
 
- [1]: http://www.uxdesign.blog.br/pesquisa-com-usuarios/perguntas-a-serem-evitadas-em-pesquisa-com-usuarios/
- [2]: http://gifimgs.com/res/1216/585c791fb62d8123354586.gif
+ [1]: https://www.uxdesign.blog.br/pesquisa-com-usuarios/perguntas-a-serem-evitadas-em-pesquisa-com-usuarios/
+ [2]: https://gifimgs.com/res/1216/585c791fb62d8123354586.gif

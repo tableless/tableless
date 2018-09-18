@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356411568
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bonito-de-se-ver-27";s:7:"tinyurl";s:26:"http://tinyurl.com/3bmrfs3";s:4:"isgd";s:19:"http://is.gd/4tOpF4";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/bonito-de-se-ver-27";s:7:"tinyurl";s:26:"https://tinyurl.com/3bmrfs3";s:4:"isgd";s:19:"https://is.gd/4tOpF4";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034295
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.refresh.cz/>
-  2. <http://www.lealea.net/>
-  3. <http://www.hellobalimagazine.com/pages/edition/october-2005.php?home>
-  4. <http://www.backtimer.cz/>
-  5. <http://www.aroodonline.net/>
+  1. <https://www.refresh.cz/>
+  2. <https://www.lealea.net/>
+  3. <https://www.hellobalimagazine.com/pages/edition/october-2005.php?home>
+  4. <https://www.backtimer.cz/>
+  5. <https://www.aroodonline.net/>

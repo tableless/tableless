@@ -24,7 +24,7 @@ Aumentar Autoridade de um site ou blog é algo que pode fazer com que seus resul
 
 Existem diversas empresas no mercado especializadas em SEO, que oferecem ferramentas e métricas que visam mensurar a autoridade de sites e páginas.
 
-A mais conhecida de todas é o <a href="http://moz.com" target="_Blank">Moz</a>, que possui as métricas DA (Domain Autorithy) e PA (Page Autorithy).
+A mais conhecida de todas é o <a href="https://moz.com" target="_Blank">Moz</a>, que possui as métricas DA (Domain Autorithy) e PA (Page Autorithy).
 
 Essa autoridade é um calculo matemático baseado em estudos realizados sobre o algoritmo do Google.
 
@@ -62,7 +62,7 @@ Com isso, o Google transfere toda a autoridade da página antiga para a nova pá
 
 ## Mas qual a relação com o Wordpress?
 
-O WordPress é a plataforma CMS mais utilizada para Criar Sites e <a href="http://afiliados-na-web.com/como-criar-um-blog" target="_blank">Criar Blogs</a>.
+O WordPress é a plataforma CMS mais utilizada para Criar Sites e <a href="https://afiliados-na-web.com/como-criar-um-blog" target="_blank">Criar Blogs</a>.
 
 E ela possibilita a instalação de plugins que adicionam funcionalidades a blogs e sites.
 

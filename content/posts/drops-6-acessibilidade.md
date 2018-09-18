@@ -8,7 +8,7 @@ url: /drops-6-acessibilidade/
 tweetbackscheck:
   - 1356439775
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5741";s:7:"tinyurl";s:26:"http://tinyurl.com/6vhu8xe";s:4:"isgd";s:19:"http://is.gd/4w6mR9";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5741";s:7:"tinyurl";s:26:"https://tinyurl.com/6vhu8xe";s:4:"isgd";s:19:"https://is.gd/4w6mR9";}'
 dsq_thread_id: 619369901
 twittercomments:
   - 'a:0:{}'

@@ -14,7 +14,7 @@ tags:
   - SEO
 
 ---
-Autoridade do domínio ou Domain Authority (DA), é uma [métrica criada pela empresa americana MOZ][1], que simula o algoritmo do Google. Seu número vai de 0 a 100 e você pode checá-lo através do <a title="Open Site Explorer" href="http://www.google.com/url?q=http%3A%2F%2Fmoz.com%2Fresearchtools%2Fose%2F&sa=D&sntz=1&usg=AFQjCNGQTQlm22lsnOhnxt285DvadrPeQg" target="_blank">Open Site Explorer</a>.
+Autoridade do domínio ou Domain Authority (DA), é uma [métrica criada pela empresa americana MOZ][1], que simula o algoritmo do Google. Seu número vai de 0 a 100 e você pode checá-lo através do <a title="Open Site Explorer" href="https://www.google.com/url?q=http%3A%2F%2Fmoz.com%2Fresearchtools%2Fose%2F&sa=D&sntz=1&usg=AFQjCNGQTQlm22lsnOhnxt285DvadrPeQg" target="_blank">Open Site Explorer</a>.
 
 ## Porque devo me preocupar com o Domain Authority?
 
@@ -54,4 +54,4 @@ Identifique links ruins que apontam para o seu site e remova-os. Caso você não
 
 Última dica: tenha paciência! Como tudo em SEO e Marketing Digital, as mudanças não ocorrem do dia para a noite. Leva um tempo para construir autoridade.
 
- [1]: http://moz.com/learn/seo/domain-authority
+ [1]: https://moz.com/learn/seo/domain-authority

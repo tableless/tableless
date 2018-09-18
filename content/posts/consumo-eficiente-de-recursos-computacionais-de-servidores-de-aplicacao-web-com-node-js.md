@@ -102,19 +102,19 @@ Foi possível comprovar que a performance de Node.js é bem superior a dos servi
 
 ## REFERÊNCIAS
 
-Basso, Fernando Luis. (2014) “Um estudo experimentativo e comparativo da plataforma Node.js”, http://painel.passofundo.ifsul.edu.br/uploads/arq/201505221046071866349516.pdf.
+Basso, Fernando Luis. (2014) “Um estudo experimentativo e comparativo da plataforma Node.js”, https://painel.passofundo.ifsul.edu.br/uploads/arq/201505221046071866349516.pdf.
 
-Bonfim, F. L., Liang, M. (2014) “Aplicações escaláveis com mean stack”, http://www.inf.ufpr.br/ml09/TG/monografia.pdf.
+Bonfim, F. L., Liang, M. (2014) “Aplicações escaláveis com mean stack”, https://www.inf.ufpr.br/ml09/TG/monografia.pdf.
 
 Gros-Dubois, J. (2014) “Process-based vs Thread-based concurrency (Node.js)”, https://ncombo.wordpress.com/2014/07/11/process-based-vs-thread-basedconcurrency-node-js.
 
 ITU, International Telecommunication Union. (2014) “Measuring the Information Society Report 2014”, Geneva Switzerland.
 
-Junior, F. A. R. (2012) “Programação Orientada a Eventos no lado do servidor utilizando Node.js”, http://www.infobrasil.inf.br/userfiles/16-S3-3-97136-Programa%C3%A7%C3%A3o%20Orientada\___.pdf.
+Junior, F. A. R. (2012) “Programação Orientada a Eventos no lado do servidor utilizando Node.js”, https://www.infobrasil.inf.br/userfiles/16-S3-3-97136-Programa%C3%A7%C3%A3o%20Orientada\___.pdf.
 
 Molyneaux, I. (2014) “The Art of Application Performance Testing: From Strategy to Tools”, Gravenstein Highway North: O’Reilly, 2ª Edição.
 
-Moreira, R. H. (2013) “O que é Node.js?”, http://nodebr.com/o-que-e-node-js.
+Moreira, R. H. (2013) “O que é Node.js?”, https://nodebr.com/o-que-e-node-js.
 
 Node.js. (2015) “About Node.js”, https://nodejs.org.
 
@@ -124,4 +124,4 @@ Opher, E., Niblett, P. (2011) “Event Processing in Action”. Stamford: Mannin
 
 Pereira, C. R. (2011) “Aplicações web real-time com Node.Js”, Stamford: Casa do Código.
 
-Ribeiro, C. (2013) “Destilando JMeter I: Introdução e Conceitos”, http://www.bugbang.com.br/destilando-jmeter-i-introducao-e-conceitos.
+Ribeiro, C. (2013) “Destilando JMeter I: Introdução e Conceitos”, https://www.bugbang.com.br/destilando-jmeter-i-introducao-e-conceitos.

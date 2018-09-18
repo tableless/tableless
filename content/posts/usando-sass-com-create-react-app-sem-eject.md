@@ -20,7 +20,7 @@ O primeiro passo é instalar o Ruby na sua máquina. O Sass é uma dependência 
 
 ### Não quero instalar o Ruby
 
-Não é necessário instalar o Ruby para executar o Sass. Basta instalar o Sass globalmente com o npm(`npm i -g`) e vai funcionar tudo certinho conforme estamos ensinando. O método que estou te ensinando abaixo é o sugerido nos [docs](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) do [Sass](http://sass-lang.com/documentation/file.SASS_REFERENCE.html) .
+Não é necessário instalar o Ruby para executar o Sass. Basta instalar o Sass globalmente com o npm(`npm i -g`) e vai funcionar tudo certinho conforme estamos ensinando. O método que estou te ensinando abaixo é o sugerido nos [docs](https://sass-lang.com/documentation/file.SASS_REFERENCE.html) do [Sass](https://sass-lang.com/documentation/file.SASS_REFERENCE.html) .
 
 Após feito isso teremos o Sass instalado em nossa máquina, podemos então começar configurar nosso projeto react, creiar diretórios necessários e editar o package.json:
 

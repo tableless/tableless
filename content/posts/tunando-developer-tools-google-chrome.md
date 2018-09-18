@@ -8,7 +8,7 @@ url: /tunando-developer-tools-google-chrome/
 tweetbackscheck:
   - 1356420068
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7107";s:7:"tinyurl";s:26:"http://tinyurl.com/cdo3gd4";s:4:"isgd";s:19:"http://is.gd/DcwTze";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7107";s:7:"tinyurl";s:26:"https://tinyurl.com/cdo3gd4";s:4:"isgd";s:19:"https://is.gd/DcwTze";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 887942514
@@ -29,7 +29,7 @@ Só que outra coisa que também passamos muito tempo do nosso dia é o Developer
 
 Hoje vou ensinar como fazer isso muito rapidamente no Developer Tools do Google Chrome!
 
-[youtube http://www.youtube.com/watch?v=Mu6nnPN7W_s&w=560&h=420]
+[youtube https://www.youtube.com/watch?v=Mu6nnPN7W_s&w=560&h=420]
 
 ## 1 &#8211; Escolha o tema que mais lhe agrada:
 

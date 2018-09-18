@@ -27,4 +27,4 @@ Horário: 08:30
   
 Local: Senai Cimatec, Avenida Orlando gomes, 1845, em Salvador, Bahia
   
-Site: <http://techtalk.gdgsalvador.info/>
+Site: <https://techtalk.gdgsalvador.info/>

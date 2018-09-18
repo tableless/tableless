@@ -7,7 +7,7 @@ url: /internet_explorer7/
 tweetbackscheck:
   - 1356392175
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/internet_explorer7";s:7:"tinyurl";s:26:"http://tinyurl.com/3exle4l";s:4:"isgd";s:19:"http://is.gd/2ByEeT";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/internet_explorer7";s:7:"tinyurl";s:26:"https://tinyurl.com/3exle4l";s:4:"isgd";s:19:"https://is.gd/2ByEeT";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033137
@@ -30,6 +30,6 @@ Quer?
   
 [Toma.][3]
 
- [1]: http://www.brunotorres.net/web/primeiro-beta-internet-explorer-7
- [2]: http://www.mezzoblue.com/archives/2005/07/28/ie7_css_upda/index.php
- [3]: http://www.mininova.org/tor/80599
+ [1]: https://www.brunotorres.net/web/primeiro-beta-internet-explorer-7
+ [2]: https://www.mezzoblue.com/archives/2005/07/28/ie7_css_upda/index.php
+ [3]: https://www.mininova.org/tor/80599

@@ -10,7 +10,7 @@ categories:
 ---
 Todo desenvolvedor ao longo de sua carreira, em algum momento, faz o uso de frameworks para complementar seus projetos, reduzir tempo de produção e prover na maioria dos casos, um código limpo, profissional e de fácil manutenção.
 
-Hoje lhes apresento o <a href="http://www.yiiframework.com/" target="_blank">Yii Framework</a>, um framework Open-Source PHP com alto poder de desempenho e escalabilidade.
+Hoje lhes apresento o <a href="https://www.yiiframework.com/" target="_blank">Yii Framework</a>, um framework Open-Source PHP com alto poder de desempenho e escalabilidade.
   
 Chegou a sua versão histórica Yii 1.0 em 2008 e, desde então, sua popularidade entre os desenvolvedores tem crescido cada vez mais.
 
@@ -22,13 +22,13 @@ Eis suas principais características:
 
 ### Rápido
 
-A arquitetura do Yii permite que o mesmo carregue somente o necessário para aplicação no presente momento e, em conjunto com o suporte a cache (<a href="http://www.php.net/manual/pt_BR/book.apc.php" target="_blank">APC</a>), consegue um RPS (Requisição por Segundo) bastante interessante.
+A arquitetura do Yii permite que o mesmo carregue somente o necessário para aplicação no presente momento e, em conjunto com o suporte a cache (<a href="https://www.php.net/manual/pt_BR/book.apc.php" target="_blank">APC</a>), consegue um RPS (Requisição por Segundo) bastante interessante.
 
 &nbsp;
 
 <img class="aligncenter wp-image-43331 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/07/performance-20090131.png" alt="PHP Framework Performance Comparison" width="769" height="484" srcset="uploads/2014/07/performance-20090131.png 769w, uploads/2014/07/performance-20090131-220x139.png 220w, uploads/2014/07/performance-20090131-400x251.png 400w" sizes="(max-width: 769px) 100vw, 769px" />
 
-No site oficial do <a href="http://www.yiiframework.com/performance/" target="_blank">Yii</a> possui uma descrição mais detalhada sobre seu desempenho. Vale a pena dar uma olhada!
+No site oficial do <a href="https://www.yiiframework.com/performance/" target="_blank">Yii</a> possui uma descrição mais detalhada sobre seu desempenho. Vale a pena dar uma olhada!
 
 ### Seguro
 
@@ -42,13 +42,13 @@ Yii segue o padrão MVC em sua estrutura, garantindo a separação entre camadas
 
 Outro fator importante é que ele aceita muito bem integrações com códigos de terceiros, como por exemplo, PEAR, Codeigniter, Zend Framework&#8230;
 
-Enfim, o Yii é uma excelente opção para quem esta buscando um framework intuitivo, flexível e profissional. Segundo o site oficial, <a href="http://www.yiiframework.com/about/" target="_blank"><i>&#8220;Yii helps Web developers build complex applications and deliver them on-time.&#8221;</i></a> traduzindo seria _&#8220;Yii ajuda os desenvolvedores a construir aplicações complexas e entregá-las no prazo.&#8221;_.
+Enfim, o Yii é uma excelente opção para quem esta buscando um framework intuitivo, flexível e profissional. Segundo o site oficial, <a href="https://www.yiiframework.com/about/" target="_blank"><i>&#8220;Yii helps Web developers build complex applications and deliver them on-time.&#8221;</i></a> traduzindo seria _&#8220;Yii ajuda os desenvolvedores a construir aplicações complexas e entregá-las no prazo.&#8221;_.
 
 &nbsp;
 
 ## INSTALAÇÃO
 
-Para instalar o Yii, faça o download do framework em sua versão estável no <a href="http://www.yiiframework.com/download/" target="_blank">site oficial</a>, descompacte os arquivos em um diretório acessível à Web ou em seu servidor local. O servidor deverá ter no mínimo a versão 5.1 do PHP instalada ou posterior.
+Para instalar o Yii, faça o download do framework em sua versão estável no <a href="https://www.yiiframework.com/download/" target="_blank">site oficial</a>, descompacte os arquivos em um diretório acessível à Web ou em seu servidor local. O servidor deverá ter no mínimo a versão 5.1 do PHP instalada ou posterior.
 
 Você poderá realizar o download da última versão do framework usando o repositório do GitHub através da URL:
 
@@ -64,7 +64,7 @@ Você poderá acessar este verificador da seguinte forma:
 
 Partindo o princípio que o Yii foi instalado em um servidor local, em seu navegador web, acesse a seguinte URL:
 
-<pre class="lang-html">http://127.0.0.1/yii/requirements/</pre>
+<pre class="lang-html">https://127.0.0.1/yii/requirements/</pre>
 
 Ao acessar essa URL, o verificador de requisitos entrará em ação verificando se o servidor possui as configurações necessárias para que o Yii funcione adequadamente.
 
@@ -122,7 +122,7 @@ Após estar dentro do diretório **&#8220;framework&#8221;**, digite a seguinte 
 
 Após a execução desta linha de comando, o Yii irá criar uma aplicação web completa na pasta **&#8220;/hello_world&#8221;** que poderá ser acessada em seu navegador web, por exemplo:
 
-<pre class="lang-html">http://127.0.0.1/hello_world/</pre>
+<pre class="lang-html">https://127.0.0.1/hello_world/</pre>
 
 Veja como ficou a aplicação:
 
@@ -187,6 +187,6 @@ Deem uma olhada no Controller **&#8220;SiteController.php&#8221;** localizado em
 
 Para finalizar, deixo duas recomendações de livros que valem a pena a leitura:
 
-<a href="http://www.amazon.com/dp/1849518726?tag=gii20f-20" target="_blank">Web Application Development with Yii and PHP</a>
+<a href="https://www.amazon.com/dp/1849518726?tag=gii20f-20" target="_blank">Web Application Development with Yii and PHP</a>
 
-<a href="http://www.amazon.com/dp/B00BKZHDGS?tag=gii20f-20" target="_blank">Yii Application Development Cookbook</a>
+<a href="https://www.amazon.com/dp/B00BKZHDGS?tag=gii20f-20" target="_blank">Yii Application Development Cookbook</a>

@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356387085
 shorturls:
-  - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/css-reset";s:7:"tinyurl";s:26:"http://tinyurl.com/3uolg4b";s:4:"isgd";s:19:"http://is.gd/x7KX3h";}'
+  - 'a:3:{s:9:"permalink";s:33:"https://tableless.com.br/css-reset";s:7:"tinyurl";s:26:"https://tinyurl.com/3uolg4b";s:4:"isgd";s:19:"https://is.gd/x7KX3h";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503027891
@@ -53,5 +53,5 @@ Se você tiver a necessidade de zerar mais propriedades, fique à vontade. O [Er
   
 Não acho necessário tanta coisa. Mas isso vai da maneira de trabalho de cada um. O código que mostrei aqui é simples resolve meus problemas e é isso que importa. Você vai adaptá-lo com sua maneira de desenvolvimento.
 
- [1]: http://meyerweb.com/eric/
- [2]: http://meyerweb.com/eric/thoughts/2007/05/01/reset-reloaded/
+ [1]: https://meyerweb.com/eric/
+ [2]: https://meyerweb.com/eric/thoughts/2007/05/01/reset-reloaded/

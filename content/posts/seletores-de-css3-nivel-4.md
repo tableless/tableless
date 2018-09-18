@@ -148,7 +148,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#negation">Negation pseudo-class</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#negation">Negation pseudo-class</a>
     </td>
     
     <td>
@@ -166,7 +166,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#matches">Matches-any pseudo-class</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#matches">Matches-any pseudo-class</a>
     </td>
     
     <td>
@@ -184,7 +184,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#attribute-case">Attribute selectors: Case-sensitivity</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#attribute-case">Attribute selectors: Case-sensitivity</a>
     </td>
     
     <td>
@@ -202,7 +202,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#dir-pseudo">The :dir() pseudo-class</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#dir-pseudo">The :dir() pseudo-class</a>
     </td>
     
     <td>
@@ -220,7 +220,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#lang-pseudo">The :lang() pseudo-class</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#lang-pseudo">The :lang() pseudo-class</a>
     </td>
     
     <td>
@@ -238,7 +238,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#any-link-pseudo">The hyperlink pseudo-class</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#any-link-pseudo">The hyperlink pseudo-class</a>
     </td>
     
     <td>
@@ -256,7 +256,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#local-pseudo">The local link pseudo-class</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#local-pseudo">The local link pseudo-class</a>
     </td>
     
     <td>
@@ -274,7 +274,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#local-pseudo">The local link pseudo-class</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#local-pseudo">The local link pseudo-class</a>
     </td>
     
     <td>
@@ -292,7 +292,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#scope-pseudo">The scope pseudo-class</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#scope-pseudo">The scope pseudo-class</a>
     </td>
     
     <td>
@@ -310,7 +310,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#time-pseudos">Time-dimensional Pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#time-pseudos">Time-dimensional Pseudo-classes</a>
     </td>
     
     <td>
@@ -328,7 +328,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#time-pseudos">Time-dimensional Pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#time-pseudos">Time-dimensional Pseudo-classes</a>
     </td>
     
     <td>
@@ -346,7 +346,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#time-pseudos">Time-dimensional Pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#time-pseudos">Time-dimensional Pseudo-classes</a>
     </td>
     
     <td>
@@ -364,7 +364,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#time-pseudos">Time-dimensional Pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#time-pseudos">Time-dimensional Pseudo-classes</a>
     </td>
     
     <td>
@@ -382,7 +382,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#indeterminate">The indeterminate-value pseudo-class</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#indeterminate">The indeterminate-value pseudo-class</a>
     </td>
     
     <td>
@@ -400,7 +400,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#default-pseudo">The default option pseudo-class :default</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#default-pseudo">The default option pseudo-class :default</a>
     </td>
     
     <td>
@@ -418,7 +418,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#range-pseudos">The validity pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#range-pseudos">The validity pseudo-classes</a>
     </td>
     
     <td>
@@ -436,7 +436,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#range-pseudos">The validity pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#range-pseudos">The validity pseudo-classes</a>
     </td>
     
     <td>
@@ -454,7 +454,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#opt-pseudos">The optionality pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#opt-pseudos">The optionality pseudo-classes</a>
     </td>
     
     <td>
@@ -472,7 +472,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#opt-pseudos">The optionality pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#opt-pseudos">The optionality pseudo-classes</a>
     </td>
     
     <td>
@@ -490,7 +490,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#rw-pseudos">The mutability pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#rw-pseudos">The mutability pseudo-classes</a>
     </td>
     
     <td>
@@ -508,7 +508,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#rw-pseudos">The mutability pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#rw-pseudos">The mutability pseudo-classes</a>
     </td>
     
     <td>
@@ -518,7 +518,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
   
   <tr>
     <td>
-      E:nth-match(n of <a href="http://dev.w3.org/csswg/selectors4/#selector">selector</a>)
+      E:nth-match(n of <a href="https://dev.w3.org/csswg/selectors4/#selector">selector</a>)
     </td>
     
     <td>
@@ -526,7 +526,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#structural-pseudos">Structural pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#structural-pseudos">Structural pseudo-classes</a>
     </td>
     
     <td>
@@ -536,7 +536,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
   
   <tr>
     <td>
-      E:nth-last-match(nof <a href="http://dev.w3.org/csswg/selectors4/#selector">selector</a>)
+      E:nth-last-match(nof <a href="https://dev.w3.org/csswg/selectors4/#selector">selector</a>)
     </td>
     
     <td>
@@ -544,7 +544,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#structural-pseudos">Structural pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#structural-pseudos">Structural pseudo-classes</a>
     </td>
     
     <td>
@@ -554,7 +554,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
   
   <tr>
     <td>
-      E:column(<a href="http://dev.w3.org/csswg/selectors4/#selector">selector</a>)
+      E:column(<a href="https://dev.w3.org/csswg/selectors4/#selector">selector</a>)
     </td>
     
     <td>
@@ -562,7 +562,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#table-pseudos">Grid-Structural pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#table-pseudos">Grid-Structural pseudo-classes</a>
     </td>
     
     <td>
@@ -580,7 +580,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#table-pseudos">Grid-Structural pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#table-pseudos">Grid-Structural pseudo-classes</a>
     </td>
     
     <td>
@@ -598,7 +598,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#table-pseudos">Grid-Structural pseudo-classes</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#table-pseudos">Grid-Structural pseudo-classes</a>
     </td>
     
     <td>
@@ -616,7 +616,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#idref-combinators">Reference combinator</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#idref-combinators">Reference combinator</a>
     </td>
     
     <td>
@@ -634,7 +634,7 @@ Abaixo segue uma tabela completa com todos os seletores novos. A versão base de
     </td>
     
     <td>
-      <a href="http://dev.w3.org/csswg/selectors4/#subject">Determining the subject of a selector</a> +<a href="http://dev.w3.org/csswg/selectors4/#child-combinators">Child combinator</a>
+      <a href="https://dev.w3.org/csswg/selectors4/#subject">Determining the subject of a selector</a> +<a href="https://dev.w3.org/csswg/selectors4/#child-combinators">Child combinator</a>
     </td>
     
     <td>
@@ -655,6 +655,6 @@ Saiba mais:
   
 [CSS4 Selectors][3]
 
- [1]: http://css4-selectors.com/browser-selector-test/
- [2]: http://dev.w3.org/csswg/selectors4/
- [3]: http://css4-selectors.com/
+ [1]: https://css4-selectors.com/browser-selector-test/
+ [2]: https://dev.w3.org/csswg/selectors4/
+ [3]: https://css4-selectors.com/

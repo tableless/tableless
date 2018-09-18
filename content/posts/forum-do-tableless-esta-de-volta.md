@@ -19,6 +19,6 @@ Não queremos mais abordar apenas front-end nesse fórum. Por isso, se você tiv
 
 ps.: Estamos precisando de moderadores. O que acha de nos ajudar? [Manda email para gente se estiver afim][3]!
 
- [1]: http://forum.tableless.com.br/
- [2]: http://discourse.org
+ [1]: https://forum.tableless.com.br/
+ [2]: https://discourse.org
  [3]: mailto:contato@tableless.com.br

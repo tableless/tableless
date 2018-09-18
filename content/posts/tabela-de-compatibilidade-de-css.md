@@ -7,7 +7,7 @@ url: /tabela-de-compatibilidade-de-css/
 tweetbackscheck:
   - 1356466237
 shorturls:
-  - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/tabela-de-compatibilidade-de-css";s:7:"tinyurl";s:26:"http://tinyurl.com/45yqgh8";s:4:"isgd";s:19:"http://is.gd/KqmMld";}'
+  - 'a:3:{s:9:"permalink";s:56:"https://tableless.com.br/tabela-de-compatibilidade-de-css";s:7:"tinyurl";s:26:"https://tinyurl.com/45yqgh8";s:4:"isgd";s:19:"https://is.gd/KqmMld";}'
 twittercomments:
   - 'a:1:{i:13820554238758912;s:7:"retweet";}'
 tweetcount:
@@ -29,4 +29,4 @@ Sei que a navegação vai ficar um pouco pesada. Preciso colocar links de âncor
 
 **[update]** Seguindo a dica do Rubens, fiz uma versão para impressão da tabela. Agora ficou fácil imprimir sem gastar tanta tinta. 😉
 
- [1]: http://tableless.com.br/compatibilidadecss/
+ [1]: https://tableless.com.br/compatibilidadecss/

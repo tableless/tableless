@@ -191,5 +191,5 @@ Até a próxima
 ## Referências
 <ul>
   <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment</a></li>
-  <li><a href="http://www.ecma-international.org/ecma-262/6.0/#sec-destructuring-assignment">http://www.ecma-international.org/ecma-262/6.0/#sec-destructuring-assignment</a></li>
+  <li><a href="https://www.ecma-international.org/ecma-262/6.0/#sec-destructuring-assignment">https://www.ecma-international.org/ecma-262/6.0/#sec-destructuring-assignment</a></li>
 </ul>

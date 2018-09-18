@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356238573
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/extension-colorzilla";s:7:"tinyurl";s:26:"http://tinyurl.com/3cfwd7r";s:4:"isgd";s:19:"http://is.gd/x8XMqM";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/extension-colorzilla";s:7:"tinyurl";s:26:"https://tinyurl.com/3cfwd7r";s:4:"isgd";s:19:"https://is.gd/x8XMqM";}'
 twittercomments:
   - 'a:1:{i:57545796098326528;s:7:"retweet";}'
 tweetcount:

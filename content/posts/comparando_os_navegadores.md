@@ -7,7 +7,7 @@ url: /comparando_os_navegadores/
 tweetbackscheck:
   - 1355020714
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/comparando_os_navegadores";s:7:"tinyurl";s:26:"http://tinyurl.com/3qqw5d4";s:4:"isgd";s:19:"http://is.gd/ZgEE6i";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/comparando_os_navegadores";s:7:"tinyurl";s:26:"https://tinyurl.com/3qqw5d4";s:4:"isgd";s:19:"https://is.gd/ZgEE6i";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032923
@@ -31,5 +31,5 @@ Mas, se um site não funciona em um certo navegador, e se esse navegador for um 
 
   * [Uma comparação entre Internet Explorer, Firefox e Opera][2]
 
- [1]: http://sinistras.aranha.com.br/
- [2]: http://tecnologia.uol.com.br/especiais/ultnot/2005/06/22/ult2888u46.jhtm
+ [1]: https://sinistras.aranha.com.br/
+ [2]: https://tecnologia.uol.com.br/especiais/ultnot/2005/06/22/ult2888u46.jhtm

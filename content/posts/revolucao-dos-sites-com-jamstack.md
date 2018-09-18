@@ -84,7 +84,7 @@ Para as lojas virtuais que utilizam WordPress ou WooCommerce, um site estático 
 uma opção totalmente viável. [Snipcart](https://snipcart.com/) é um carrinho de
 compras escrito em JavaScript e permite que desenvolvedores adicionem novas
 funcionalidades em qualquer site. Ainda existem outras soluções como
-[Foxycart](http://www.foxycart.com/) e [botão de comprar do
+[Foxycart](https://www.foxycart.com/) e [botão de comprar do
 Shopify](https://www.shopify.co.uk/buy-button).
 
 Logo…

@@ -55,7 +55,7 @@ Server: Apache/1.3.28 (Unix) PHP/4.2.3
 Content-Location: CSS2-REC.en.html
 Vary: negotiate,accept-language,accept-charset
 TCN: choice
-P3P: policyref=http://www.w3.org/2001/05/P3P/p3p.xml
+P3P: policyref=https://www.w3.org/2001/05/P3P/p3p.xml
 Cache-Control: max-age=21600
 Expires: Wed, 05 Nov 2003 16:46:04 GMT
 Last-Modified: Tue, 12 May 1998 22:18:49 GMT
@@ -110,6 +110,6 @@ Artigo que [explica os Charsets, encodes e tabelas de caractéres no HTML][1].
 
 Veja aqui a [documentação oficial do W3C][3] que fala sobre este assunto.
 
- [1]: http://tableless.com.br/charsets-e-encodes-tabelas-de-caracteres/ "Charsets e Encodes – Tabelas de caracteres"
- [2]: http://br.mozdev.org/firefox/ortografia
- [3]: http://www.w3.org/TR/i18n-html-tech-lang/
+ [1]: https://tableless.com.br/charsets-e-encodes-tabelas-de-caracteres/ "Charsets e Encodes – Tabelas de caracteres"
+ [2]: https://br.mozdev.org/firefox/ortografia
+ [3]: https://www.w3.org/TR/i18n-html-tech-lang/

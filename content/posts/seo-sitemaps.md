@@ -10,7 +10,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356437651
 shorturls:
-  - 'a:3:{s:9:"permalink";s:36:"http://tableless.com.br/seo-sitemaps";s:7:"tinyurl";s:26:"http://tinyurl.com/3bebl89";s:4:"isgd";s:19:"http://is.gd/CpQbnY";}'
+  - 'a:3:{s:9:"permalink";s:36:"https://tableless.com.br/seo-sitemaps";s:7:"tinyurl";s:26:"https://tinyurl.com/3bebl89";s:4:"isgd";s:19:"https://is.gd/CpQbnY";}'
 twittercomments:
   - 'a:2:{i:164408104405053440;s:7:"retweet";i:164396722502635520;s:7:"retweet";}'
 tweetcount:
@@ -43,11 +43,11 @@ O código básico do Sitemap:
 
 
   
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   
 <url>
       
-<loc>http://www.example.com/</loc>
+<loc>https://www.example.com/</loc>
   
     _<lastmod>2005-01-01</lastmod>_
   
@@ -134,10 +134,10 @@ Se você quiser, você pode colocar vários endereços de Sitemaps, bastando ins
 
 Ter um sitemap.xml não garante que você uma URL seja ou não mais indexada que as outras. Mesmo assim, é um adendo para que os buscadores fiquem mais informados com os endereços do seu site. Se você não utiliza nenhum plugin para que o sitemap.xml seja gerado automaticamente, fique atento às atualizações das URLs. Você pode estar informando aos buscadores URLs antigas e isso pode afetar nos resultados organicos com o do Google. Se você quiser testar alguns plugins ou programas para gerar seu sitemap.xml automaticamente, [visite este link][2].
 
- [1]: http://www.sitemaps.org/pt_BR/index.php
- [2]: http://code.google.com/sm_thirdparty.html
- [3]: http://www.w3.org/TR/NOTE-datetime
- [4]: http://www.sitemaps.org/pt_BR/protocol.php
- [5]: http://visie.com.br/treinamento/sitemap.xml
- [6]: http://visie.com.br/treinamento/
+ [1]: https://www.sitemaps.org/pt_BR/index.php
+ [2]: https://code.google.com/sm_thirdparty.html
+ [3]: https://www.w3.org/TR/NOTE-datetime
+ [4]: https://www.sitemaps.org/pt_BR/protocol.php
+ [5]: https://visie.com.br/treinamento/sitemap.xml
+ [6]: https://visie.com.br/treinamento/
  [7]: https://www.google.com/webmasters/tools/

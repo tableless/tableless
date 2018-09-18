@@ -70,13 +70,13 @@ Eu mesmo já me peguei várias vezes desejando que todos os browsers tivessem o 
 
 Essa história ainda vai dar o que falar quando o Opera anunciar sua primeira versão com Webkit. Qual é a sua opinião?
 
- [1]: http://www.opera.com/press/releases/2013/02/13/
- [2]: http://techcrunch.com/2009/04/02/opera-browser-chosen-for-mobile-office-computer-in-ford-pickup-trucks/
- [3]: http://business.opera.com/press/releases/2009/04/02_2/
- [4]: http://pt.wikipedia.org/wiki/Neutralidade_da_rede
- [5]: http://tecnologia.terra.com.br/internet/google-e-casa-branca-somam-46-mi-de-assinaturas-contra-sopa,a6a8fe32cdbda310VgnCLD200000bbcceb0aRCRD.html
- [6]: http://www.sitepoint.com/opera-switches-to-webkit-rendering-engine/
- [7]: http://revistagalileu.globo.com/Revista/Common/0,,EMI203321-17770,00-AL+GORE+E+TIM+BERNERS+LEE+FALAM+SOBRE+LIBERDADE+DE+INFORMACAO+NA+CAMPUS+PAR.html
- [8]: http://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance
- [9]: http://braintrace.ru/posts/2013-02-14-opera-and-webkit-good-or-bad.html
- [10]: http://tableless.com.br/prefixos-dos-browsers-a-web-precisa-de-voce/
+ [1]: https://www.opera.com/press/releases/2013/02/13/
+ [2]: https://techcrunch.com/2009/04/02/opera-browser-chosen-for-mobile-office-computer-in-ford-pickup-trucks/
+ [3]: https://business.opera.com/press/releases/2009/04/02_2/
+ [4]: https://pt.wikipedia.org/wiki/Neutralidade_da_rede
+ [5]: https://tecnologia.terra.com.br/internet/google-e-casa-branca-somam-46-mi-de-assinaturas-contra-sopa,a6a8fe32cdbda310VgnCLD200000bbcceb0aRCRD.html
+ [6]: https://www.sitepoint.com/opera-switches-to-webkit-rendering-engine/
+ [7]: https://revistagalileu.globo.com/Revista/Common/0,,EMI203321-17770,00-AL+GORE+E+TIM+BERNERS+LEE+FALAM+SOBRE+LIBERDADE+DE+INFORMACAO+NA+CAMPUS+PAR.html
+ [8]: https://www.w3.org/2005/Incubator/prov/wiki/What_Is_Provenance
+ [9]: https://braintrace.ru/posts/2013-02-14-opera-and-webkit-good-or-bad.html
+ [10]: https://tableless.com.br/prefixos-dos-browsers-a-web-precisa-de-voce/

@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356460497
 shorturls:
-  - 'a:3:{s:9:"permalink";s:68:"http://tableless.com.br/html-5-semantica-e-o-que-e-importante-na-web";s:7:"tinyurl";s:26:"http://tinyurl.com/3tqpyj6";s:4:"isgd";s:19:"http://is.gd/vKQ3wd";}'
+  - 'a:3:{s:9:"permalink";s:68:"https://tableless.com.br/html-5-semantica-e-o-que-e-importante-na-web";s:7:"tinyurl";s:26:"https://tinyurl.com/3tqpyj6";s:4:"isgd";s:19:"https://is.gd/vKQ3wd";}'
 twittercomments:
   - 'a:1:{i:19730620334743552;s:7:"retweet";}'
 tweetcount:
@@ -103,23 +103,23 @@ Como o [John Allsopp][19] disse em seu [artigo no A List a Part][20]. Nós preci
 
 Infelizmente a adoção do HTML 5 não é tão simples assim. Temos que lembrar da regra Don´t Break the Web. Esse suporte deve ser leve, caso contrários, browsers como o Internet Explorer 6 ou 7 podem sofrer com a falta de compatibilidade com as novas características.
 
- [1]: http://www.w3.org/TR/html4/struct/links.html#edef-A
- [2]: http://www.w3.org/TR/html4/struct/text.html#edef-ABBR
- [3]: http://www.w3.org/TR/html4/struct/text.html#edef-ACRONYM
- [4]: http://www.w3.org/TR/html4/struct/global.html#edef-ADDRESS
- [5]: http://www.w3.org/TR/html4/struct/text.html#edef-BLOCKQUOTE
- [6]: http://www.w3.org/TR/html4/struct/text.html#edef-CITE
- [7]: http://www.w3.org/TR/html4/struct/text.html#edef-CODE
- [8]: http://www.w3.org/TR/html4/struct/text.html#edef-DFN
- [9]: http://www.w3.org/TR/html4/struct/global.html#edef-SPAN
- [10]: http://www.w3.org/TR/html4/struct/lists.html#edef-DL
- [11]: http://www.w3.org/TR/html4/struct/text.html#edef-ins
- [12]: http://www.w3.org/TR/html4/struct/text.html#edef-EM
- [13]: http://www.w3.org/TR/html4/struct/global.html#edef-H1
- [14]: http://www.w3.org/TR/html4/struct/lists.html#edef-LI
- [15]: http://www.w3.org/TR/html4/struct/text.html#edef-P
- [16]: http://www.w3.org/TR/html4/struct/text.html#edef-Q
- [17]: http://www.w3.org/TR/html4/struct/text.html#edef-STRONG
- [18]: http://www.w3.org/TR/html4/struct/text.html#edef-VAR
- [19]: http://www.alistapart.com/authors/a/johnallsopp "John Allsopp"
- [20]: http://www.alistapart.com/articles/semanticsinhtml5 "Sematics in HTML 5"
+ [1]: https://www.w3.org/TR/html4/struct/links.html#edef-A
+ [2]: https://www.w3.org/TR/html4/struct/text.html#edef-ABBR
+ [3]: https://www.w3.org/TR/html4/struct/text.html#edef-ACRONYM
+ [4]: https://www.w3.org/TR/html4/struct/global.html#edef-ADDRESS
+ [5]: https://www.w3.org/TR/html4/struct/text.html#edef-BLOCKQUOTE
+ [6]: https://www.w3.org/TR/html4/struct/text.html#edef-CITE
+ [7]: https://www.w3.org/TR/html4/struct/text.html#edef-CODE
+ [8]: https://www.w3.org/TR/html4/struct/text.html#edef-DFN
+ [9]: https://www.w3.org/TR/html4/struct/global.html#edef-SPAN
+ [10]: https://www.w3.org/TR/html4/struct/lists.html#edef-DL
+ [11]: https://www.w3.org/TR/html4/struct/text.html#edef-ins
+ [12]: https://www.w3.org/TR/html4/struct/text.html#edef-EM
+ [13]: https://www.w3.org/TR/html4/struct/global.html#edef-H1
+ [14]: https://www.w3.org/TR/html4/struct/lists.html#edef-LI
+ [15]: https://www.w3.org/TR/html4/struct/text.html#edef-P
+ [16]: https://www.w3.org/TR/html4/struct/text.html#edef-Q
+ [17]: https://www.w3.org/TR/html4/struct/text.html#edef-STRONG
+ [18]: https://www.w3.org/TR/html4/struct/text.html#edef-VAR
+ [19]: https://www.alistapart.com/authors/a/johnallsopp "John Allsopp"
+ [20]: https://www.alistapart.com/articles/semanticsinhtml5 "Sematics in HTML 5"

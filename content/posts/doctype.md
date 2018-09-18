@@ -7,7 +7,7 @@ url: /doctype/
 tweetbackscheck:
   - 1356466139
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/doctype";s:7:"tinyurl";s:26:"http://tinyurl.com/3dqsc4n";s:4:"isgd";s:19:"http://is.gd/KgSdAz";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/doctype";s:7:"tinyurl";s:26:"https://tinyurl.com/3dqsc4n";s:4:"isgd";s:19:"https://is.gd/KgSdAz";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032423
@@ -160,11 +160,11 @@ Eu, particularmente, recomendo colocar o Prolog XML, para fazer o Ie6 se comport
 
 Mais sobre esse assunto: 
 
-  * <http://www.quirksmode.org/>
-  * <http://www.mozilla.org/docs/web-developer/quirks/>
-  * <http://www.webmasterworld.com/forum21/7975.htm>
-  * [http://www.w3.org/QA/2002/04/valid-dtd-list.htm][1]
+  * <https://www.quirksmode.org/>
+  * <https://www.mozilla.org/docs/web-developer/quirks/>
+  * <https://www.webmasterworld.com/forum21/7975.htm>
+  * [https://www.w3.org/QA/2002/04/valid-dtd-list.htm][1]
   * [Differences between the modes][2]
 
- [1]: http://www.w3.org/QA/2002/04/valid-dtd-list.html
- [2]: http://www.mozilla.org/docs/web-developer/quirks/quirklist.html
+ [1]: https://www.w3.org/QA/2002/04/valid-dtd-list.html
+ [2]: https://www.mozilla.org/docs/web-developer/quirks/quirklist.html

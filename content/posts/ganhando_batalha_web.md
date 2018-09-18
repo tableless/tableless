@@ -7,7 +7,7 @@ url: /ganhando_batalha_web/
 tweetbackscheck:
   - 1356358281
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/ganhando_batalha_web";s:7:"tinyurl";s:26:"http://tinyurl.com/3nxrkxk";s:4:"isgd";s:19:"http://is.gd/uqIcaD";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/ganhando_batalha_web";s:7:"tinyurl";s:26:"https://tinyurl.com/3nxrkxk";s:4:"isgd";s:19:"https://is.gd/uqIcaD";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031763
@@ -21,5 +21,5 @@ Os padrões web deixam Acessibilidade, Compatibilidade e Design, muito mais fác
               
 Com padrões os sites são mais acessíveis à qualquer tipo de pessoa, a compatibilidade entre diferentes browsers de diferentes plataformas é extremamente satisfatória, e parece ser uma tendência, mas o design dos sites que usam padrões web, muitas vezes são mais elegantes (há controvérsias).
 
- [1]: http://blogdeusabilidade.blogspot.com/2004/08/no-basta-acessar-tem-que-comprar.html
- [2]: http://blogdeusabilidade.blogspot.com/
+ [1]: https://blogdeusabilidade.blogspot.com/2004/08/no-basta-acessar-tem-que-comprar.html
+ [2]: https://blogdeusabilidade.blogspot.com/

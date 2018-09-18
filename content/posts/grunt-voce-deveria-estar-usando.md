@@ -32,7 +32,7 @@ Foi pensando nessas e várias outras atividades que o Ben Alman, conhecido como 
   
 O Grunt é uma aplicação de linha de comando que tem como objetivo automatizar tarefas, principalmente tarefas em aplicações JavaScript. Essas tarefas são como as descritas acima. E como isso é feito? Escrevendo as tarefas em JavaScript e rodando no Node.JS.
 
-Link oficial: <a href="http://gruntjs.com" target="_blank">http://gruntjs.com</a>
+Link oficial: <a href="https://gruntjs.com" target="_blank">https://gruntjs.com</a>
 
 ## Ok, quero usar!
 
@@ -99,10 +99,10 @@ Exemplo:
   "name": "meu-projeto",
   "version": "0.0.1",
   "description": "Meu íncrivel projeto",
-  "homepage": "http://vagnersantana.com/meuprojeto",
+  "homepage": "https://vagnersantana.com/meuprojeto",
   "repository": {
     "type": "git",
-    "url": "http://github.com/vagnervjs/meu-projeto"
+    "url": "https://github.com/vagnervjs/meu-projeto"
   },
   "engines": {
     "node": "0.8.x",
@@ -161,7 +161,7 @@ Feito isso, basta registrar as tarefas a serem executadas, usando _registerTask(
 
 Talvez a melhor parte do Grunt seja essa: os plugins que estão disponíveis.
   
-O Grunt vem com algumas tarefas já definidas como _min_ e _concat_, e você as chama definindo suas configurações e adicionando o parâmetro _&#8216;default&#8217;_ em _registerTask()_. Porém, a comunidade já criou e vem criando novas tarefas para o Grunt. Provavelmente tudo o que você precisa já deve existir. Confira essas tarefas em <a href="http://gruntjs.com/plugins" target="_blank">http://gruntjs.com/plugins</a>, lá tem o link para o npm, onde você tem as instruções de como instalar e qual configuração utilizar.
+O Grunt vem com algumas tarefas já definidas como _min_ e _concat_, e você as chama definindo suas configurações e adicionando o parâmetro _&#8216;default&#8217;_ em _registerTask()_. Porém, a comunidade já criou e vem criando novas tarefas para o Grunt. Provavelmente tudo o que você precisa já deve existir. Confira essas tarefas em <a href="https://gruntjs.com/plugins" target="_blank">https://gruntjs.com/plugins</a>, lá tem o link para o npm, onde você tem as instruções de como instalar e qual configuração utilizar.
 
 ## E o deploy?
 
@@ -214,6 +214,6 @@ Ferramentas como Grunt, Yeoman, Bower estão ai disponíveis e abertas para todo
 
 ## Referências
 
-  *  <a title="Grunt" href="http://gruntjs.com/getting-started" target="_blank">Grunt &#8211; Getting Started</a>
-  *  <a title="Meeting Grunt" href="http://net.tutsplus.com/tutorials/javascript-ajax/meeting-grunt-the-build-tool-for-javascript/" target="_blank">Meet Grunt: The Build Tool for JavaScript</a>
-  *  <a title="Introducing Grunt" href="http://weblog.bocoup.com/introducing-grunt/" target="_blank">Bocoup &#8211; Introducing Grunt</a>
+  *  <a title="Grunt" href="https://gruntjs.com/getting-started" target="_blank">Grunt &#8211; Getting Started</a>
+  *  <a title="Meeting Grunt" href="https://net.tutsplus.com/tutorials/javascript-ajax/meeting-grunt-the-build-tool-for-javascript/" target="_blank">Meet Grunt: The Build Tool for JavaScript</a>
+  *  <a title="Introducing Grunt" href="https://weblog.bocoup.com/introducing-grunt/" target="_blank">Bocoup &#8211; Introducing Grunt</a>

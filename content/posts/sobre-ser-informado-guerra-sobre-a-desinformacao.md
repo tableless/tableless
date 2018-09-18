@@ -7,7 +7,7 @@ url: /sobre-ser-informado-guerra-sobre-a-desinformacao/
 tweetbackscheck:
   - 1356445173
 shorturls:
-  - 'a:3:{s:9:"permalink";s:72:"http://tableless.com.br/sobre-ser-informado-guerra-sobre-a-desinformacao";s:7:"tinyurl";s:26:"http://tinyurl.com/43euozg";s:4:"isgd";s:19:"http://is.gd/JkKNch";}'
+  - 'a:3:{s:9:"permalink";s:72:"https://tableless.com.br/sobre-ser-informado-guerra-sobre-a-desinformacao";s:7:"tinyurl";s:26:"https://tinyurl.com/43euozg";s:4:"isgd";s:19:"https://is.gd/JkKNch";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037110
@@ -44,11 +44,11 @@ Quer boa leitura?
   * [Bloglines do Elcio Ferreira][7] (programador)
   * [Bloglines do Bruno Torres][8] (programador)
 
- [1]: http://tableless.com.br/
- [2]: http://tableless.com.br/2003
- [3]: http://www.geocities.com/strani_felicita/teoria.htm
- [4]: http://usabilidoido.com.br/psicodinamica_das_cores_em_comunicacao.html
- [5]: http://www.gestaltsp.com.br/gestalt.htm
- [6]: http://www.bloglines.com/public/diegoeis
- [7]: http://www.bloglines.com/public/elcio
- [8]: http://www.bloglines.com/public/brunotorres
+ [1]: https://tableless.com.br/
+ [2]: https://tableless.com.br/2003
+ [3]: https://www.geocities.com/strani_felicita/teoria.htm
+ [4]: https://usabilidoido.com.br/psicodinamica_das_cores_em_comunicacao.html
+ [5]: https://www.gestaltsp.com.br/gestalt.htm
+ [6]: https://www.bloglines.com/public/diegoeis
+ [7]: https://www.bloglines.com/public/elcio
+ [8]: https://www.bloglines.com/public/brunotorres

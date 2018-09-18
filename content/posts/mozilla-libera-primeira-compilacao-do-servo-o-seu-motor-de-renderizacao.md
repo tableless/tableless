@@ -44,11 +44,11 @@ Moffitt disse que esta interface é &#8220;inteiramente escrita em HTML, CSS e J
 </p>
 
 <p>
-  Eu tenho dúvidas, mas torço muito pela Mozilla. Meu browser principal é o Firefox e quero muito continuar contando com a privacidade e as facilidades que a Mozilla oferece. Mesmo assim, fico em dúvida sobre a performance do browser por conta da construção em JS e CSS. O <a href="http://tableless.com.br/atom-o-novo-editor-github/">Atom</a>, editor de texto do GitHub, é feito usando JS, e é lerdo pra caramba. Mesma coisa para o <a href="http://tableless.com.br/o-editor-de-textos-open-source-da-adobe-o-brackets/">Brackets da Adobe</a> que é uma carroça. Vamos ver como ele vai se sair.
+  Eu tenho dúvidas, mas torço muito pela Mozilla. Meu browser principal é o Firefox e quero muito continuar contando com a privacidade e as facilidades que a Mozilla oferece. Mesmo assim, fico em dúvida sobre a performance do browser por conta da construção em JS e CSS. O <a href="https://tableless.com.br/atom-o-novo-editor-github/">Atom</a>, editor de texto do GitHub, é feito usando JS, e é lerdo pra caramba. Mesma coisa para o <a href="https://tableless.com.br/o-editor-de-textos-open-source-da-adobe-o-brackets/">Brackets da Adobe</a> que é uma carroça. Vamos ver como ele vai se sair.
 </p>
 
 <p>
-  <small><a href="http://venturebeat.com/2016/07/01/mozilla-releases-first-nightly-build-of-servo-its-next-generation-browser-engine/">fonte: VentureBeat</a></strong></p>
+  <small><a href="https://venturebeat.com/2016/07/01/mozilla-releases-first-nightly-build-of-servo-its-next-generation-browser-engine/">fonte: VentureBeat</a></strong></p>
 
  [1]: https://blog.servo.org/2016/06/30/servo-nightlies/
  [2]: https://servo.org/

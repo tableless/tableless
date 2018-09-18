@@ -13,9 +13,9 @@ tags:
 ---
 Qualquer desenvolvedor que se preze tenta automatizar tarefas recorrentes, mesmo que não sejam tarefas diárias. É dessa forma que você consegue tempo para melhorar seu software, ganhando tempo para quebrar a cabeça com o que realmente importa.
 
-Para quem não sabe os Virtual Hosts são apelidos dados ao caminho onde está rodando seu site ou aplicação web. Geralmente isso é feito em servidores de desenvolvimento para facilitar o acesso ao projeto. Por exemplo: em vez de colocar &#8220;**http://localhost/sites2015/joomla3/sitesdeloja/loja10**&#8221; você pode configurar o Virtual Host do servidor para simplesmente acessar com &#8220;**http://l****oja10**&#8220;.
+Para quem não sabe os Virtual Hosts são apelidos dados ao caminho onde está rodando seu site ou aplicação web. Geralmente isso é feito em servidores de desenvolvimento para facilitar o acesso ao projeto. Por exemplo: em vez de colocar &#8220;**https://localhost/sites2015/joomla3/sitesdeloja/loja10**&#8221; você pode configurar o Virtual Host do servidor para simplesmente acessar com &#8220;**https://l****oja10**&#8220;.
 
-<a href="http://do.co/1jlJLe0" target="_blank">Nesse link tem um tutorial bem completo de como configurar um virtual host no Ubuntu >></a>
+<a href="https://do.co/1jlJLe0" target="_blank">Nesse link tem um tutorial bem completo de como configurar um virtual host no Ubuntu >></a>
 
 Mas nesse artigo vou mostrar dois scripts que fiz para automatizar esse processo.
 

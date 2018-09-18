@@ -8,7 +8,7 @@ url: /retina-js-imagens-para-telas-retina/
 tweetbackscheck:
   - 1355473793
 shorturls:
-  - 'a:3:{s:9:"permalink";s:60:"http://tableless.com.br/retina-js-imagens-para-telas-retina/";s:7:"tinyurl";s:26:"http://tinyurl.com/85yg99h";s:4:"isgd";s:19:"http://is.gd/sYPi0O";}'
+  - 'a:3:{s:9:"permalink";s:60:"https://tableless.com.br/retina-js-imagens-para-telas-retina/";s:7:"tinyurl";s:26:"https://tinyurl.com/85yg99h";s:4:"isgd";s:19:"https://is.gd/sYPi0O";}'
 twittercomments:
   - 'a:17:{i:224920258115411968;s:7:"retweet";i:224914519267348482;s:7:"retweet";i:224913457210859520;s:7:"retweet";i:224912992326778881;s:7:"retweet";i:224846900199821313;s:7:"retweet";i:226363114134843392;s:7:"retweet";i:226314926602477569;s:7:"retweet";i:226293444132347905;s:7:"retweet";i:230121405465886721;s:7:"retweet";i:230085185675333633;s:7:"retweet";i:228572990877609985;s:7:"retweet";i:228570606738735104;s:7:"retweet";i:228570345509113857;s:7:"retweet";i:250310127905812480;s:7:"retweet";i:250310099703328768;s:7:"retweet";i:261614456340107264;s:7:"retweet";i:271367185325228032;s:7:"retweet";}'
 tweetcount:
@@ -51,5 +51,5 @@ Com certeza podia ser incluído na Modernizr. 🙂
 
 Leia mais e faça o [download do script aqui][2].
 
- [1]: http://tableless.com.br/qualidade-de-imagens-e-densidade-de-pixels/
- [2]: http://retinajs.com/
+ [1]: https://tableless.com.br/qualidade-de-imagens-e-densidade-de-pixels/
+ [2]: https://retinajs.com/

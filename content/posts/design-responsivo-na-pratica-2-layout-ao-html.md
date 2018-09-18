@@ -469,23 +469,23 @@ Espero que tenha sido proveitoso para vocês. Bons estudos, um abraço e até a 
   
 O Diego Eis fez um [Micro Workshop Online][18] mostrando como implementar um layout responsivo, mostrando o básico sobre Grids fluídos, Imagens (vídeos etc) fluídos, Media Queries, Fonts com REM e algumas outras coisas. Vale a pena ver.
 
- [1]: http://tableless.com.br/design-responsivo-na-pratica-do-rascunho-ao-digita/ "Design Responsivo na prática: do rascunho ao digital"
- [2]: http://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/ "Design Responsivo III – Media Queries e Compatibilidade"
- [3]: http://css-tricks.com/logic-in-media-queries/ "Logic in media queries"
- [4]: http://blog.popupdesign.com.br/desenvolvimento-responsivo-e-viewport/ "Desenvolvimento Responsivo & Viewport"
+ [1]: https://tableless.com.br/design-responsivo-na-pratica-do-rascunho-ao-digita/ "Design Responsivo na prática: do rascunho ao digital"
+ [2]: https://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/ "Design Responsivo III – Media Queries e Compatibilidade"
+ [3]: https://css-tricks.com/logic-in-media-queries/ "Logic in media queries"
+ [4]: https://blog.popupdesign.com.br/desenvolvimento-responsivo-e-viewport/ "Desenvolvimento Responsivo & Viewport"
  [5]: https://github.com/daniauthors: Dani Guerrato
 paid: true/design-responsivo-demo "Demo"
  [6]: https://github.com/daniauthors: Dani Guerrato
 paid: true/design-responsivo-demo "Demo - Design Responsivo na Prática"
- [7]: http://blog.popupdesign.com.br/design-responsivo-i-o-que-e-e-por-que-usar/ "http://blog.popupdesign.com.br/design-responsivo-i-o-que-e-e-por-que-usar/"
- [8]: http://blog.popupdesign.com.br/design-responsivo-grids-e-texto/ "http://blog.popupdesign.com.br/design-responsivo-grids-e-texto/"
- [9]: http://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/ "http://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/"
- [10]: http://blog.popupdesign.com.br/desenvolvimento-responsivo-e-viewport/ "Desenvolvimento Responsivo e Viewport"
- [11]: http://blog.popupdesign.com.br/design-responsivo-e-retina-display-desenvolvimento-web-em-tempos-de-alta-resolucao/ "http://blog.popupdesign.com.br/design-responsivo-e-retina-display-desenvolvimento-web-em-tempos-de-alta-resolucao/"
- [12]: http://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/ "Imagens em alta resolução utilizando SVG"
- [13]: http://tableless.com.br/grids-semanticos-com-less/ "Grids semânticos com LESS"
- [14]: http://tableless.com.br/menu-retratil-com-css-e-jquery/ "Menu Retrátil com CSS e jQuery"
- [15]: http://tableless.com.br/como-testar-design-responsivo/ "Como testar design responsivo"
- [16]: http://tableless.com.br/imagens-responsivas-de-alta-performance/ "Imagens Responsivas de Alta Performance"
- [17]: http://alistapart.com/article/responsive-web-design/ "Responsive Web Design"
+ [7]: https://blog.popupdesign.com.br/design-responsivo-i-o-que-e-e-por-que-usar/ "https://blog.popupdesign.com.br/design-responsivo-i-o-que-e-e-por-que-usar/"
+ [8]: https://blog.popupdesign.com.br/design-responsivo-grids-e-texto/ "https://blog.popupdesign.com.br/design-responsivo-grids-e-texto/"
+ [9]: https://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/ "https://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/"
+ [10]: https://blog.popupdesign.com.br/desenvolvimento-responsivo-e-viewport/ "Desenvolvimento Responsivo e Viewport"
+ [11]: https://blog.popupdesign.com.br/design-responsivo-e-retina-display-desenvolvimento-web-em-tempos-de-alta-resolucao/ "https://blog.popupdesign.com.br/design-responsivo-e-retina-display-desenvolvimento-web-em-tempos-de-alta-resolucao/"
+ [12]: https://tableless.com.br/imagens-em-alta-resolucao-utilizando-svg/ "Imagens em alta resolução utilizando SVG"
+ [13]: https://tableless.com.br/grids-semanticos-com-less/ "Grids semânticos com LESS"
+ [14]: https://tableless.com.br/menu-retratil-com-css-e-jquery/ "Menu Retrátil com CSS e jQuery"
+ [15]: https://tableless.com.br/como-testar-design-responsivo/ "Como testar design responsivo"
+ [16]: https://tableless.com.br/imagens-responsivas-de-alta-performance/ "Imagens Responsivas de Alta Performance"
+ [17]: https://alistapart.com/article/responsive-web-design/ "Responsive Web Design"
  [18]: https://www.eventials.com/tableless/live-coding-implementando-um-site-responsivo/

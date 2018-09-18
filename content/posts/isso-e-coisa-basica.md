@@ -7,7 +7,7 @@ url: /isso-e-coisa-basica/
 tweetbackscheck:
   - 1356469774
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/isso-e-coisa-basica";s:7:"tinyurl";s:26:"http://tinyurl.com/3m6ks7n";s:4:"isgd";s:19:"http://is.gd/QYJC97";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/isso-e-coisa-basica";s:7:"tinyurl";s:26:"https://tinyurl.com/3m6ks7n";s:4:"isgd";s:19:"https://is.gd/QYJC97";}'
 twittercomments:
   - 'a:2:{i:51626296396087296;s:7:"retweet";i:51581869497655297;s:7:"retweet";}'
 tweetcount:

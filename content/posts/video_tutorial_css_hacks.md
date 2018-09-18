@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356318486
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/video_tutorial_css_hacks";s:7:"tinyurl";s:26:"http://tinyurl.com/42o4tjr";s:4:"isgd";s:19:"http://is.gd/DQzDvU";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/video_tutorial_css_hacks";s:7:"tinyurl";s:26:"https://tinyurl.com/42o4tjr";s:4:"isgd";s:19:"https://is.gd/DQzDvU";}'
 twittercomments:
   - 'a:1:{i:27905403849277440;s:7:"retweet";}'
 tweetcount:
@@ -36,7 +36,7 @@ Agora você pode ver e baixar os estudos na seção de [ESTUDOS][3] do site.
 
 Cadastre-se grátis no [Campus Online e veja vídeos sobre Tableless grátis][4]!
 
- [1]: http://tableless.com.br/videotutorial/videotutorial2/
- [2]: http://tableless.com.br/videotutorial/videotutorial2/videotutorial2.zip
- [3]: http://tableless.com.br/estudo.asp
- [4]: http://campus.visie.com.br
+ [1]: https://tableless.com.br/videotutorial/videotutorial2/
+ [2]: https://tableless.com.br/videotutorial/videotutorial2/videotutorial2.zip
+ [3]: https://tableless.com.br/estudo.asp
+ [4]: https://campus.visie.com.br

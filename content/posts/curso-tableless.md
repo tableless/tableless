@@ -7,7 +7,7 @@ url: /curso-tableless/
 tweetbackscheck:
   - 1356446948
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/curso-tableless-visie";s:7:"tinyurl";s:26:"http://tinyurl.com/3kyqy5l";s:4:"isgd";s:19:"http://is.gd/T1ojJG";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/curso-tableless-visie";s:7:"tinyurl";s:26:"https://tinyurl.com/3kyqy5l";s:4:"isgd";s:19:"https://is.gd/T1ojJG";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033681
@@ -31,4 +31,4 @@ Isso vem de muito antes. Estamos acostumados a desenvolver da maneira complicada
 
 Por isso, ministramos um [aula particular de tableless][1] para que você, desenvolvedor que quer se aprimorar no uso dos padrões web, consiga se adaptar e ter novas idéias e implantar novas soluções na implementação do XHTML e CSS em seus projetos.
 
- [1]: http://tableless.com.br/aula-particular/
+ [1]: https://tableless.com.br/aula-particular/

@@ -19,7 +19,7 @@ São eles: Curtir, Amei, Haha, Uau, Triste, Grr.
 
 Essa novidade é uma ótima maneira de saber como seus contatos reagem ao que você compartilha na rede social.
   
-Em 2014 o Facebook registrou a patente que previa esses botões com sentimentos, <a href="http://thenextweb.com/facebook/2015/09/18/facebook-patent-reveals-what-its-empathy-button-might-look-like/" target="_blank">leia mais detalhes</a>.
+Em 2014 o Facebook registrou a patente que previa esses botões com sentimentos, <a href="https://thenextweb.com/facebook/2015/09/18/facebook-patent-reveals-what-its-empathy-button-might-look-like/" target="_blank">leia mais detalhes</a>.
 
 Como sou apaixonado por CSS, resolvi criar essas micro interações ao passar o mouse sobre o elemento, e também caso use o teclado.
 
@@ -124,7 +124,7 @@ Inicialmemte eles estão escondidos e pequenos e ao passar o mouse ou receber o 
 
 A propriedade  will-change  otimiza animações, permitindo que o navegador sabe quais propriedades e elementos estão prestes a ser manipulados, aumentando potencialmente o desempenho dessa operação específica.
 
-O will-change é uma recomentação do W3C, desde dezembro de 2015, e seu suporte aos navegadores atuais são bons, segundo o <a href="http://caniuse.com/#search=will-change" target="_blank">caninuse</a> somente os IEs e o Edge não dão suporte atualmente.
+O will-change é uma recomentação do W3C, desde dezembro de 2015, e seu suporte aos navegadores atuais são bons, segundo o <a href="https://caniuse.com/#search=will-change" target="_blank">caninuse</a> somente os IEs e o Edge não dão suporte atualmente.
 
 Para saber mais sobre will change <a href="https://www.w3.org/TR/css-will-change-1/" target="_blank">veja a documentação do W3C</a>
 
@@ -157,10 +157,10 @@ O intuito de criar esse pequeno exemplo foi me divertir e também em mostrar os 
 
 <div style="overflow: hidden">
   <p>
-    <a style="float: left;margin: 0 15px 15px 0" href="http://deividmarques.github.io/facebook-reactions-css/"><img class="alignleft size-full wp-image-53344" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/02/print-cel.png" alt="facebook reactions com css by Deivid Marques" width="300" height="533" /></a>
+    <a style="float: left;margin: 0 15px 15px 0" href="https://deividmarques.github.io/facebook-reactions-css/"><img class="alignleft size-full wp-image-53344" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/02/print-cel.png" alt="facebook reactions com css by Deivid Marques" width="300" height="533" /></a>
   </p>
   
   <p>
-    O resultado por ser <a href="http://deividmarques.github.io/facebook-reactions-css/" target="_blank">conferido aqui</a><br /> Gostou? Dê um click nas estrelinhas do projeto lá no <a href="https://github.com/deividmarques/facebook-reactions-css" target="_blank">github</a>
+    O resultado por ser <a href="https://deividmarques.github.io/facebook-reactions-css/" target="_blank">conferido aqui</a><br /> Gostou? Dê um click nas estrelinhas do projeto lá no <a href="https://github.com/deividmarques/facebook-reactions-css" target="_blank">github</a>
   </p>
 </div>

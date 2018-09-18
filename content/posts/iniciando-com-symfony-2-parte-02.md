@@ -19,7 +19,7 @@ tags:
 ---
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/symfony-logo-tableless.png" alt="Symfony logo" width="720" height="450" class="alignnone size-full wp-image-46879" srcset="uploads/2015/02/symfony-logo-tableless.png 720w, uploads/2015/02/symfony-logo-tableless-222x139.png 222w, uploads/2015/02/symfony-logo-tableless-400x250.png 400w" sizes="(max-width: 720px) 100vw, 720px" />][1]
 
-Depois de já instalado o Symfony 2, como postado no <a title="Iniciando com Symfony2" href="http://tableless.com.br/iniciando-com-symfony-2/" target="_blank">artigo anterior que escrevi</a>, vamos avançar nosso processo criando um simples blog.
+Depois de já instalado o Symfony 2, como postado no <a title="Iniciando com Symfony2" href="https://tableless.com.br/iniciando-com-symfony-2/" target="_blank">artigo anterior que escrevi</a>, vamos avançar nosso processo criando um simples blog.
   
 É claro que o Symfony é para projetos maiores, mas para efeito de didática, achei um bom começo, espero que gostem.
 
@@ -114,7 +114,7 @@ Após darmos o enter aparecerá a seguinte tela, que é um assistente do Symfony
   
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/02.png" alt="Criando bundle pelo symfony console" width="750" height="403" class="alignnone size-full wp-image-46838" srcset="uploads/2015/02/02.png 750w, uploads/2015/02/02-259x139.png 259w, uploads/2015/02/02-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][3]
 
-O symfony nos pede para digitarmos nossa namespace, que é o caminho completo do nosso bundle, primeiramente, temos que dar um nome para nosso vendor, caso não entenda, sugiro a <a href="http://www.php-fig.org/psr/psr-4/" title="PSR-04" target="_blank">leitura da PSR-4</a>, em meus projetos particulares, coloco a sigla do meu nome como vendor &#8220;CJSN&#8221;, porém você pode colocar o nome do seu projeto, do seu cliente, etc&#8230; Aqui vamos colocar Tableless, em seguida o nome de nosso bundle.
+O symfony nos pede para digitarmos nossa namespace, que é o caminho completo do nosso bundle, primeiramente, temos que dar um nome para nosso vendor, caso não entenda, sugiro a <a href="https://www.php-fig.org/psr/psr-4/" title="PSR-04" target="_blank">leitura da PSR-4</a>, em meus projetos particulares, coloco a sigla do meu nome como vendor &#8220;CJSN&#8221;, porém você pode colocar o nome do seu projeto, do seu cliente, etc&#8230; Aqui vamos colocar Tableless, em seguida o nome de nosso bundle.
 
 Então digitamos
 
@@ -170,7 +170,7 @@ E pronto, nosso bundle está criado, veja as imagems abaixo para comparação.
 
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/03-1.png" alt="Imagem finalizada CoreBundle" width="750" height="403" class="alignnone size-full wp-image-46875" srcset="uploads/2015/02/03-1.png 750w, uploads/2015/02/03-1-259x139.png 259w, uploads/2015/02/03-1-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][5]
 
-Para vermos se está tudo certo, podemos entrar em nosso navegador e digitar a rota exemplo criada pelo Symfony: @Route(&#8220;/hello/{name}&#8221;), então digitamos a url no navegador: http://127.0.0.1:8000/hello/Tableless
+Para vermos se está tudo certo, podemos entrar em nosso navegador e digitar a rota exemplo criada pelo Symfony: @Route(&#8220;/hello/{name}&#8221;), então digitamos a url no navegador: https://127.0.0.1:8000/hello/Tableless
   
 Lembrando que o servidor deve estar iniciado, você pode ver isso no tutorial anterior. Aparecerá a mensagem &#8220;Hello Tableless!&#8221;, se você notar, verá que a debug toolbar, a barra de ferramentas do Symfony, não está aparecendo, mas não vamos nos preocupar com isso, pois não usaremos essa rota, ela é gerada apenas para exemplo.
 
@@ -221,7 +221,7 @@ src/Tableless/ModelBundle/Resources/views
 
 Pronto, nosso simples projeto, está configurado e pronto para darmos inicio aos demais processos, neste momento em que se encontra o mesmo, vou comitar, e subir o projeto para o <a href="https://github.com/candidosouza/tableless" title="GitHub do projeto" target="_blank">GitHub</a>. No próximo tutorial veremos como criar entidades com o Doctrine ORM em conjunto com o Symfony, para inserirmos nossos posts no banco de dados.
   
-Para finalizarmos, recomendo novamente a <a href="http://symfony.com/doc/current/index.html" title="Documentação do Symfony" target="_blank">documentação do Symfony</a>, caso queiram fazer testes, estudar, se aprofundar mais no assunto!
+Para finalizarmos, recomendo novamente a <a href="https://symfony.com/doc/current/index.html" title="Documentação do Symfony" target="_blank">documentação do Symfony</a>, caso queiram fazer testes, estudar, se aprofundar mais no assunto!
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/symfony-logo-tableless.png
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/01.png

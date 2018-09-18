@@ -55,4 +55,4 @@ Muitas vezes, antes de você ter a facilidade de executar realinhamento, você v
 
 Escolher entre redesign e realinhamento não é sobre um estar certo ou errado, mas sobre necessidade. As vezes é difícil executar esse tipo de mudança na sua empresa. Muitas bocas vão ser contra um redesign completo, por exemplo. Principalmente quando se mexe com vendas.
 
- [1]: http://tableless.com.br/o-que-e-design-atomic/ "O que é Design Atômico?"
+ [1]: https://tableless.com.br/o-que-e-design-atomic/ "O que é Design Atômico?"

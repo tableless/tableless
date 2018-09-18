@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356471808
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/tabelas-semanticas";s:7:"tinyurl";s:26:"http://tinyurl.com/3mswgau";s:4:"isgd";s:19:"http://is.gd/ZXl31A";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/tabelas-semanticas";s:7:"tinyurl";s:26:"https://tinyurl.com/3mswgau";s:4:"isgd";s:19:"https://is.gd/ZXl31A";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038586
@@ -669,4 +669,4 @@ O atributo **summary** é colocado na tag TABLE. Ela serve para indicar do que s
     Já com essas tags diferenciadas, o trabalho que teríamos para formatar o cabeçalho, título e conteúdo da tabela ficou mais leve. Em vez de colocar class em tudo quanto é TR para diferenciar as partes da tabela, conseguimos formatar cada um desses grupos sem encostar no código HTML. Claro, que se você quiser fazer algo mais rebuscado, a modificação do código HTML será inevitável. Mas, com esse pouco código que escrevemos, já procrastinamos essa necessidade.
   </p>
 
- [1]: http://tableless.com.br/formulario-basico-em-8-minutos
+ [1]: https://tableless.com.br/formulario-basico-em-8-minutos

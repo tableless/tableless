@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356379838
 shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/video_tutorial_layout_3_colunas";s:7:"tinyurl";s:26:"http://tinyurl.com/3pwedbb";s:4:"isgd";s:19:"http://is.gd/Lvxnx9";}'
+  - 'a:3:{s:9:"permalink";s:55:"https://tableless.com.br/video_tutorial_layout_3_colunas";s:7:"tinyurl";s:26:"https://tinyurl.com/3pwedbb";s:4:"isgd";s:19:"https://is.gd/Lvxnx9";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032174
@@ -42,6 +42,6 @@ E o programa que usei foi o Camtasia Studio.
 
 Para ver mais [vídeos sobre técnicas de CSS e Tableless][3], visite o Campus Online. Cadastre-se grátis e veja vídeos em boa resolução!
 
- [1]: http://tableless.com.br/videotutorial/videotutorial1/
- [2]: http://tableless.com.br/videotutorial/videotutorial1/videotutorial.zip
- [3]: http://campus.visie.com.br/ "video aulas de Tableless"
+ [1]: https://tableless.com.br/videotutorial/videotutorial1/
+ [2]: https://tableless.com.br/videotutorial/videotutorial1/videotutorial.zip
+ [3]: https://campus.visie.com.br/ "video aulas de Tableless"

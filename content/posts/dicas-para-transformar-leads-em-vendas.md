@@ -46,4 +46,4 @@ Todos os textos do blog e das mídias sociais precisam ser pensados para esclare
 
 Dessa forma, o telemarketing insistente e nada bem-vindo para o consumidor passa a ser coisa do passado. Mais do que transformar leads em vendas, sua empresa começa um relacionamento bom e duradouro com os internautas.
 
- [1]: http://www.ibmmarketingcloud.com/pt-br/gestao-de-leads.html
+ [1]: https://www.ibmmarketingcloud.com/pt-br/gestao-de-leads.html

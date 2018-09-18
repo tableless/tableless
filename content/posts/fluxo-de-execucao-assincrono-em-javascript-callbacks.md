@@ -119,8 +119,8 @@ Espero que tenha aproveitado a leitura. <span style="text-decoration: line-throu
  [4]: https://speakerdeck.com/jcemer/protocolos-de-comunicacao-que-fazem-parte-da-web
  [5]: https://github.com/YuzuJS/setImmediate
  [6]: https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
- [7]: http://www.2ality.com/2015/03/no-promises.html
- [8]: http://jakearchibald.com/2014/es7-async-functions/
+ [7]: https://www.2ality.com/2015/03/no-promises.html
+ [8]: https://jakearchibald.com/2014/es7-async-functions/
  [9]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
- [10]: http://callbackhell.com
- [11]: http://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-promises/
+ [10]: https://callbackhell.com
+ [11]: https://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-promises/

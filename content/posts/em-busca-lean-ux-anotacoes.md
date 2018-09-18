@@ -59,5 +59,5 @@ Agoras as cidades são [Rio de Janeiro][1] e [São Paulo][2]!
   * comunique visualmente sua ideia. Desenhe, não tenha medo.
   * enxuto (LEAN) não é igual a barato (barato)
 
- [1]: http://bit.ly/16elw-rj
- [2]: http://bit.ly/16elw-sp
+ [1]: https://bit.ly/16elw-rj
+ [2]: https://bit.ly/16elw-sp

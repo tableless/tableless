@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356440012
 shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/para-ficar-de-olho-microformats";s:7:"tinyurl";s:26:"http://tinyurl.com/3baocqn";s:4:"isgd";s:19:"http://is.gd/HCMhgZ";}'
+  - 'a:3:{s:9:"permalink";s:55:"https://tableless.com.br/para-ficar-de-olho-microformats";s:7:"tinyurl";s:26:"https://tinyurl.com/3baocqn";s:4:"isgd";s:19:"https://is.gd/HCMhgZ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036522
@@ -51,20 +51,20 @@ Segue então minha listinha de coisas que você pode fazer para tornar mais úte
 
 **Update:** [para aqueles que pediram um exemplo][17].
 
- [1]: http://www.readwriteweb.com/archives/mozilla_does_microformats_firefox3.php
- [2]: http://microformats.org/wiki/hcard
- [3]: http://www.last.fm/
- [4]: http://flickr.com/
- [5]: http://local.yahoo.com/
+ [1]: https://www.readwriteweb.com/archives/mozilla_does_microformats_firefox3.php
+ [2]: https://microformats.org/wiki/hcard
+ [3]: https://www.last.fm/
+ [4]: https://flickr.com/
+ [5]: https://local.yahoo.com/
  [6]: https://addons.mozilla.org/firefox/4106/
- [7]: http://charles.pilger.com.br/
- [8]: http://www.rssficado.com.br/
- [9]: http://elcio.com.br/rss/
- [10]: http://microformats.org/wiki/hcalendar
- [11]: http://microformats.org/wiki/geo
- [12]: http://microformats.org/wiki/hreview
- [13]: http://www.joelonsoftware.com/articles/fog0000000356.html
- [14]: http://www.revolucao.etc.br/archives/compartilhe-seu-hcard-com-icones-microformats/
- [15]: http://suda.co.uk/projects/X2V/
- [16]: http://www.microformats.org
- [17]: http://blog.elcio.com.br/microformats-aplicados/
+ [7]: https://charles.pilger.com.br/
+ [8]: https://www.rssficado.com.br/
+ [9]: https://elcio.com.br/rss/
+ [10]: https://microformats.org/wiki/hcalendar
+ [11]: https://microformats.org/wiki/geo
+ [12]: https://microformats.org/wiki/hreview
+ [13]: https://www.joelonsoftware.com/articles/fog0000000356.html
+ [14]: https://www.revolucao.etc.br/archives/compartilhe-seu-hcard-com-icones-microformats/
+ [15]: https://suda.co.uk/projects/X2V/
+ [16]: https://www.microformats.org
+ [17]: https://blog.elcio.com.br/microformats-aplicados/

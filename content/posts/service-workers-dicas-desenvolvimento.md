@@ -20,7 +20,7 @@ tags:
 
 Recentemente precisamos implementar uma feature em uma das aplicações front-end
 que temos na Creditas. Parecia simples, colocar notificações utilizando
-[Pusher](http://pucher.com/) para informar o usuário que algo aconteceu.
+[Pusher](https://pucher.com/) para informar o usuário que algo aconteceu.
 
 [Pusher](https://pusher.com/) é um PaaS que oferece serviço de notificações de
 eventos em Real-Time para sua aplicação.

@@ -7,7 +7,7 @@ url: /explorando-o-tablelesscombr/
 tweetbackscheck:
   - 1356236380
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/explorando-o-tablelesscombr";s:7:"tinyurl";s:26:"http://tinyurl.com/3j7k43l";s:4:"isgd";s:19:"http://is.gd/rJWi28";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/explorando-o-tablelesscombr";s:7:"tinyurl";s:26:"https://tinyurl.com/3j7k43l";s:4:"isgd";s:19:"https://is.gd/rJWi28";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036760
@@ -71,22 +71,22 @@ Três artigos: [Breve introdução para sites de dispositivos móveis][11], [SSR
 
 Há muitos outros artigos espalhados por aí, são assuntos diversos que já falamos por aqui e podem ser bem úteis nestes tempos de correria. Não deixe de olhar os tópicos relacionados no site: [AJAX][15], [Browsers][16], [Videos Tutoriais][17], [XHTML e XML][18], [CSS][19] e etc&#8230;
 
- [1]: http://tableless.com.br/video-tutorial-8-criando-a-home-da-visie-estrutura-xhtml
- [2]: http://tableless.com.br/video-tutorial-9-criando-a-home-da-visie-css
- [3]: http://tableless.com.br/video-tutorial-6-transformando-layout-fixo-em-fluido
- [4]: http://tableless.com.br/css-alternativo
- [5]: http://tableless.com.br/css-modular-breve-explicacao
- [6]: http://tableless.com.br/microformatos-internet-movel-e-quem-ainda-nao-entendeu-nada
- [7]: http://tableless.com.br/breve-introducao-xhtml-mobile-profile
- [8]: http://tableless.com.br/video_tutorial_css_hacks
- [9]: http://tableless.com.br/video_tutorial_layout_3_colunas
- [10]: http://tableless.com.br/principais-pontos-da-acessibilidade-na-web
- [11]: http://tableless.com.br/sites-para-dispositivos-moveis-breve-introducao
- [12]: http://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
- [13]: http://tableless.com.br/aprenda/sites-para-dispositivos-moveis-mediatype/
- [14]: http://tableless.com.br/browsers_em_dispositivos_moveis
- [15]: http://tableless.com.br/categorias/ajax/
- [16]: http://tableless.com.br/categorias/browsers/
- [17]: http://tableless.com.br/categorias/pratica/video-tutorial/
- [18]: http://tableless.com.br/categorias/web-standards/xhtml-xml/
- [19]: http://tableless.com.br/categorias/web-standards/css/
+ [1]: https://tableless.com.br/video-tutorial-8-criando-a-home-da-visie-estrutura-xhtml
+ [2]: https://tableless.com.br/video-tutorial-9-criando-a-home-da-visie-css
+ [3]: https://tableless.com.br/video-tutorial-6-transformando-layout-fixo-em-fluido
+ [4]: https://tableless.com.br/css-alternativo
+ [5]: https://tableless.com.br/css-modular-breve-explicacao
+ [6]: https://tableless.com.br/microformatos-internet-movel-e-quem-ainda-nao-entendeu-nada
+ [7]: https://tableless.com.br/breve-introducao-xhtml-mobile-profile
+ [8]: https://tableless.com.br/video_tutorial_css_hacks
+ [9]: https://tableless.com.br/video_tutorial_layout_3_colunas
+ [10]: https://tableless.com.br/principais-pontos-da-acessibilidade-na-web
+ [11]: https://tableless.com.br/sites-para-dispositivos-moveis-breve-introducao
+ [12]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
+ [13]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-mediatype/
+ [14]: https://tableless.com.br/browsers_em_dispositivos_moveis
+ [15]: https://tableless.com.br/categorias/ajax/
+ [16]: https://tableless.com.br/categorias/browsers/
+ [17]: https://tableless.com.br/categorias/pratica/video-tutorial/
+ [18]: https://tableless.com.br/categorias/web-standards/xhtml-xml/
+ [19]: https://tableless.com.br/categorias/web-standards/css/

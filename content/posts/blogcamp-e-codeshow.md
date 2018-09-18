@@ -7,7 +7,7 @@ url: /blogcamp-e-codeshow/
 tweetbackscheck:
   - 1355288253
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/blogcamp-e-codeshow";s:7:"tinyurl";s:26:"http://tinyurl.com/3w9e36a";s:4:"isgd";s:19:"http://is.gd/nzd0Yt";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/blogcamp-e-codeshow";s:7:"tinyurl";s:26:"https://tinyurl.com/3w9e36a";s:4:"isgd";s:19:"https://is.gd/nzd0Yt";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037387
@@ -29,7 +29,7 @@ Já sabemos o que vamos desenvolver. E o pessoal não me deixa falar antes do di
 
 Eu e o Elcio vamos no BlogCamp no Domingo (26/08)! Se você quiser dar um alô para gente, só aparecer por lá&#8230; estaremos zanzando pelo lugar! O evento vai rolar nos dias 25 e 26 de agosto!
 
- [1]: http://visie.com.br/codeshow/
- [2]: http://brunotorres.net
- [3]: http://s1mone.net/
- [4]: http://blogcamp.com.br/sobre
+ [1]: https://visie.com.br/codeshow/
+ [2]: https://brunotorres.net
+ [3]: https://s1mone.net/
+ [4]: https://blogcamp.com.br/sobre

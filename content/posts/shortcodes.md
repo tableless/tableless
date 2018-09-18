@@ -8,7 +8,7 @@ url: /shortcodes/
 tweetbackscheck:
   - 1356394912
 shorturls:
-  - 'a:3:{s:9:"permalink";s:34:"http://tableless.com.br/shortcodes";s:7:"tinyurl";s:26:"http://tinyurl.com/3j9t5ok";s:4:"isgd";s:19:"http://is.gd/afFxDc";}'
+  - 'a:3:{s:9:"permalink";s:34:"https://tableless.com.br/shortcodes";s:7:"tinyurl";s:26:"https://tinyurl.com/3j9t5ok";s:4:"isgd";s:19:"https://is.gd/afFxDc";}'
 twittercomments:
   - 'a:4:{i:154148694344728576;s:7:"retweet";i:153211795207757824;s:7:"retweet";i:153200260695605248;s:7:"retweet";i:153199207430373376;s:7:"retweet";}'
 tweetcount:
@@ -33,7 +33,7 @@ Um exemplo de shortcode:
 
 Um exemplo de shortcode com parâmetros: 
 
-`[botao cor=”vermelho” url=”http://tableless.com.br”]Site do Tableless[/botao]`
+`[botao cor=”vermelho” url=”https://tableless.com.br”]Site do Tableless[/botao]`
 
 Essa é a melhor solução para quem desenvolve sites para terceiros e deseja criar elementos com rapidez.
 
@@ -99,7 +99,7 @@ Por último a variável $content, que serve para retornar o que está dentro da 
 
 Por fim, vamos retornar o shortcode: 
 
-\[cce lang=&#8221;html&#8221;\]\[botao cor=”azul” url=”http://tableless.com.br”\]Site Tableless\[/botao\]\[/cce\]
+\[cce lang=&#8221;html&#8221;\]\[botao cor=”azul” url=”https://tableless.com.br”\]Site Tableless\[/botao\]\[/cce\]
 
 Para adicionar esse código você precisa está no editor Visual, caso contrário ele não irá funcionar.
 
@@ -107,7 +107,7 @@ Caso você queria usar o shortcode em algum outro lugar diferente do post, é ne
 
 [cce lang=&#8221;php&#8221;]
   
-<?php echo do_shortcode(‘[botao cor=”azul” url=”http://tableless.com.br”]Site Tableless [/botao]’); ?>
+<?php echo do_shortcode(‘[botao cor=”azul” url=”https://tableless.com.br”]Site Tableless [/botao]’); ?>
   
 [/cce]
 

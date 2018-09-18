@@ -51,7 +51,7 @@ Vamos criar o formulário da seguinte maneira:
   &lt;/form&gt;
 &lt;/section&gt;</pre>
 
-<a href="http://palloi.github.io/responsive-form-mailchimp/demo-only-elements.html" target="_blank" title="Ver demo sem style.">Ver demo sem style.</a>
+<a href="https://palloi.github.io/responsive-form-mailchimp/demo-only-elements.html" target="_blank" title="Ver demo sem style.">Ver demo sem style.</a>
 
 ## O CSS
 
@@ -135,7 +135,7 @@ Sempre que redimensionar não haverá quebras, portanto, responsivo meu amigo.
   }
 }</pre>
 
-<a href="http://palloi.github.io/responsive-form-mailchimp/demo-style-elements.html" target="_blank" title="Ver demo com style.">Ver demo com style.</a>
+<a href="https://palloi.github.io/responsive-form-mailchimp/demo-style-elements.html" target="_blank" title="Ver demo com style.">Ver demo com style.</a>
 
 ## O jQuery + MailChimp
 
@@ -230,7 +230,7 @@ var setMessage = function($message, $type) {
 };
 </pre>
 
-Via &#8216;submitHandler&#8217; do <a href="http://jQueryvalidation.org/" target="_blank">jQuery Validate</a>, vamos disparar por ajax todos os dados preenchidos e travar o post do form com &#8216;return false&#8217; no final da função. Assim evitamos aquele redirecionamento de post.
+Via &#8216;submitHandler&#8217; do <a href="https://jQueryvalidation.org/" target="_blank">jQuery Validate</a>, vamos disparar por ajax todos os dados preenchidos e travar o post do form com &#8216;return false&#8217; no final da função. Assim evitamos aquele redirecionamento de post.
 
 ### O PHP
 
@@ -242,7 +242,7 @@ Como definimos com &#8216;method&#8217; e &#8216;action&#8217; para o nosso form
     $merge_vars = array(&#039;NAME&#039;=&gt;$_POST["name"], 'PHONE'=&gt;$_POST["phone"], 'COMPANY'=&gt;$_POST["company"], 'MESSAGE'=&gt;$_POST["message"]);
     
     // Submit subscriber data to MailChimp
-    // For parameters doc, refer to: http://apidocs.mailchimp.com/api/1.3/listsubscribe.func.php
+    // For parameters doc, refer to: https://apidocs.mailchimp.com/api/1.3/listsubscribe.func.php
     $retval = $api-&gt;listSubscribe( &#039;12938asd98&#039;, $_POST["email"], $merge_vars, &#039;html&#039;, false, true );
     
     if ($api-&gt;errorCode){
@@ -259,7 +259,7 @@ Dependemos da MCAPI.class que você pode verificar na <a href="https://apidocs.m
 
 Nosso formulário é responsivo e integrado ao mailchimp.
 
-<a href="http://css4html.com.br/demos/responsive-form-mailchimp/" target="_blank" title="Veja como ficou o resultado final">Veja como ficou o resultado final</a>
+<a href="https://css4html.com.br/demos/responsive-form-mailchimp/" target="_blank" title="Veja como ficou o resultado final">Veja como ficou o resultado final</a>
   
 <a href="https://github.com/palloi/responsive-form-mailchimp/" target="_blank" title="Veja o código completo no github">Veja o c&oacute;digo completo no github</a>
 

@@ -8,7 +8,7 @@ url: /experiencia-deve-ter-comeco-meio-e-fim/
 tweetbackscheck:
   - 1356439790
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4549";s:7:"tinyurl";s:26:"http://tinyurl.com/84ugo86";s:4:"isgd";s:19:"http://is.gd/21YRYR";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4549";s:7:"tinyurl";s:26:"https://tinyurl.com/84ugo86";s:4:"isgd";s:19:"https://is.gd/21YRYR";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033810

@@ -7,7 +7,7 @@ url: /firefox_queimando_tudo/
 tweetbackscheck:
   - 1356376832
 shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/firefox_queimando_tudo";s:7:"tinyurl";s:26:"http://tinyurl.com/4x6nz3n";s:4:"isgd";s:19:"http://is.gd/CvR6fc";}'
+  - 'a:3:{s:9:"permalink";s:46:"https://tableless.com.br/firefox_queimando_tudo";s:7:"tinyurl";s:26:"https://tinyurl.com/4x6nz3n";s:4:"isgd";s:19:"https://is.gd/CvR6fc";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031832
@@ -21,6 +21,6 @@ Fontes: [Asa][2]
 
 Galera, vamos dar uma força ao Firefox. No [Spread Firefox][3] mostra como anda a expansão do Firefox e mostra o números de downloads até agora! GO GO GO!
 
- [1]: http://www.microsoft.com/
- [2]: http://weblogs.mozillazine.org/asa/archives/006480.html
- [3]: http://spreadfirefox.com/community/
+ [1]: https://www.microsoft.com/
+ [2]: https://weblogs.mozillazine.org/asa/archives/006480.html
+ [3]: https://spreadfirefox.com/community/

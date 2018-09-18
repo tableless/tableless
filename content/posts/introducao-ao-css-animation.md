@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356403254
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/introducao-ao-css-animation";s:7:"tinyurl";s:26:"http://tinyurl.com/3wwcs4u";s:4:"isgd";s:19:"http://is.gd/Ol3KR4";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/introducao-ao-css-animation";s:7:"tinyurl";s:26:"https://tinyurl.com/3wwcs4u";s:4:"isgd";s:19:"https://is.gd/Ol3KR4";}'
 twittercomments:
   - 'a:14:{i:121307609633538048;s:7:"retweet";i:121066772743979009;s:7:"retweet";i:120968515921518593;s:7:"retweet";i:120958920310259713;s:7:"retweet";i:120951829306671104;s:7:"retweet";i:120951379559849984;s:7:"retweet";i:120863459939323904;s:7:"retweet";i:120862151899480065;s:7:"retweet";i:120861757093838848;s:7:"retweet";i:120861752945676288;s:7:"retweet";i:120861556425752576;s:7:"retweet";i:120861443062104065;s:7:"retweet";i:174587167174176771;s:7:"retweet";i:174568866054275073;s:7:"retweet";}'
 tweetcount:
@@ -202,7 +202,7 @@ O interessante é que os browsers hoje em dia estão andando com as próprias pe
 
 A documentação do rascunho do W3C está disponível aqui:
   
-[http://www.w3.org/TR/css3-animations/][5]
+[https://www.w3.org/TR/css3-animations/][5]
 
 Há bastante coisa para se ler aqui:
 
@@ -210,11 +210,11 @@ Há bastante coisa para se ler aqui:
   * [Webkit Blog: CSS Transforms][7]
   * [CSS: Transition Timing Functions][8]
 
- [1]: http://webkit.org/
+ [1]: https://webkit.org/
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/06/cssanimation.html "Exemplo de CSS Animation"
- [3]: http://www.w3.org/TR/css3-animations/#introduction
- [4]: http://www.nabble.com/Apple%27s-Proposal-for-CSS-Transformations-to13615345.html
- [5]: http://www.w3.org/TR/css3-animations/ "Documentação do W3C para CSS Animation"
- [6]: http://webkit.org/blog/138/css-animation/
- [7]: http://webkit.org/blog/130/css-transforms/
- [8]: http://www.the-art-of-web.com/css/timing-function/
+ [3]: https://www.w3.org/TR/css3-animations/#introduction
+ [4]: https://www.nabble.com/Apple%27s-Proposal-for-CSS-Transformations-to13615345.html
+ [5]: https://www.w3.org/TR/css3-animations/ "Documentação do W3C para CSS Animation"
+ [6]: https://webkit.org/blog/138/css-animation/
+ [7]: https://webkit.org/blog/130/css-transforms/
+ [8]: https://www.the-art-of-web.com/css/timing-function/

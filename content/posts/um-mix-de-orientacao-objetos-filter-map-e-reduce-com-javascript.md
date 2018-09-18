@@ -159,4 +159,4 @@ Apesar de ser um objeto simples, tem muita utilidade em caso de somatórios no d
 
 Valeu!
 
- [1]: http://numeraljs.com
+ [1]: https://numeraljs.com

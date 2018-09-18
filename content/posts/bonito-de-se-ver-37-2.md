@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356375795
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/bonito-de-se-ver-37-2";s:7:"tinyurl";s:26:"http://tinyurl.com/3b2hk5j";s:4:"isgd";s:19:"http://is.gd/yAKUHr";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/bonito-de-se-ver-37-2";s:7:"tinyurl";s:26:"https://tinyurl.com/3b2hk5j";s:4:"isgd";s:19:"https://is.gd/yAKUHr";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036498
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  * <http://www.kit10designs.com/>
-  * <http://www.vongratkowski.de/>
-  * <http://www.skenzo.com/>
-  * <http://www.conradstoltz.com/site/>
-  * <http://treemeat.com/>
+  * <https://www.kit10designs.com/>
+  * <https://www.vongratkowski.de/>
+  * <https://www.skenzo.com/>
+  * <https://www.conradstoltz.com/site/>
+  * <https://treemeat.com/>

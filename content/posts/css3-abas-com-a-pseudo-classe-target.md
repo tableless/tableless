@@ -8,7 +8,7 @@ url: /css3-abas-com-a-pseudo-classe-target/
 tweetbackscheck:
   - 1356419931
 shorturls:
-  - 'a:3:{s:9:"permalink";s:60:"http://tableless.com.br/css3-abas-com-a-pseudo-classe-target";s:7:"tinyurl";s:26:"http://tinyurl.com/42ldkf2";s:4:"isgd";s:19:"http://is.gd/5VcYQo";}'
+  - 'a:3:{s:9:"permalink";s:60:"https://tableless.com.br/css3-abas-com-a-pseudo-classe-target";s:7:"tinyurl";s:26:"https://tinyurl.com/42ldkf2";s:4:"isgd";s:19:"https://is.gd/5VcYQo";}'
 twittercomments:
   - 'a:16:{i:49906350548975616;s:7:"retweet";i:49896396182130688;s:7:"retweet";i:49895218316705792;s:7:"retweet";i:49888254631219201;s:7:"retweet";i:49887539812765697;s:7:"retweet";i:49886879633518592;s:7:"retweet";i:49886386517585920;s:7:"retweet";i:49886032128262144;s:7:"retweet";i:124336025190412288;s:7:"retweet";i:152408786336890882;s:7:"retweet";i:156516289307873283;s:7:"retweet";i:156515825786949632;s:7:"retweet";i:156505976948789250;s:7:"retweet";i:156505366727897089;s:7:"retweet";i:153896114234458112;s:7:"retweet";i:169586416421048321;s:7:"retweet";}'
 tweetcount:
@@ -156,4 +156,4 @@ Essa linha entende o valor do HREF do link, capturando o ID referente ao div que
 [Veja o exemplo completo aqui][2].
 
  [1]: #nome-da-ancora
- [2]: http://tableless.github.com/tableless/aba-target.html "Exemplo de pseudo-classe target"
+ [2]: https://tableless.github.com/tableless/aba-target.html "Exemplo de pseudo-classe target"

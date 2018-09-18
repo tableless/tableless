@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356453934
 shorturls:
-  - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/mostrar-posts-recentes-no-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/3kohael";s:4:"isgd";s:19:"http://is.gd/FfddHO";}'
+  - 'a:3:{s:9:"permalink";s:59:"https://tableless.com.br/mostrar-posts-recentes-no-wordpress";s:7:"tinyurl";s:26:"https://tinyurl.com/3kohael";s:4:"isgd";s:19:"https://is.gd/FfddHO";}'
 twittercomments:
   - 'a:2:{i:126273018505859072;s:7:"retweet";i:126265157579046912;s:7:"retweet";}'
 tweetcount:
@@ -34,4 +34,4 @@ Copie e cole o código abaixo no template do seu WordPress onde você deseja que
 
 Caso você deseje alterar o número de posts mostrados, é só alterar o valor mostrado em **showposts**.
 
- [1]: http://taleless.com.br/wordpress/ "Artigos sobre WordPress"
+ [1]: https://taleless.com.br/wordpress/ "Artigos sobre WordPress"

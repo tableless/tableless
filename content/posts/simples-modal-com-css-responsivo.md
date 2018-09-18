@@ -24,9 +24,9 @@ Continuando com os artigos, vamos utilizar novamente os seletores de css para ex
 
 Se você chegou aqui e não viu os posts anteriores, para conhecer a estrutura inicial acesse os links:
   
-<a href="http://tableless.com.br/header-responsivo-somente-com-css/" target="_blank">Header responsivo somente com css</a>
+<a href="https://tableless.com.br/header-responsivo-somente-com-css/" target="_blank">Header responsivo somente com css</a>
   
-<a href="http://tableless.com.br/destaques-responsivos/" target="_blank">Destaques responsivos</a>
+<a href="https://tableless.com.br/destaques-responsivos/" target="_blank">Destaques responsivos</a>
 
 De uma maneira bem simples veja como preparar seu html e css.
 
@@ -199,7 +199,7 @@ Praticamente nosso css já está responsivo, mas vamos adaptar para resoluções
 
 Temos um modal responsivo e seu conteúdo pode ser adaptado para qualquer tamanho, desde que faça isso acontecer.
 
-<a title="Veja como ficou o resultado final" href="http://palloi.github.io/responsive-header-only-css/responsive-modal.html" target="_blank">Veja como ficou o resultado final</a>.
+<a title="Veja como ficou o resultado final" href="https://palloi.github.io/responsive-header-only-css/responsive-modal.html" target="_blank">Veja como ficou o resultado final</a>.
 
 <a title="código completo no github" href="https://github.com/palloi/responsive-header-only-css" target="_blank">Veja o código completo no github</a>.
 

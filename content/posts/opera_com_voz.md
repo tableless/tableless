@@ -7,7 +7,7 @@ url: /opera_com_voz/
 tweetbackscheck:
   - 1354976048
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/opera_com_voz";s:7:"tinyurl";s:26:"http://tinyurl.com/3p72gbd";s:4:"isgd";s:19:"http://is.gd/S9JAxO";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/opera_com_voz";s:7:"tinyurl";s:26:"https://tinyurl.com/3p72gbd";s:4:"isgd";s:19:"https://is.gd/S9JAxO";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032268
@@ -25,5 +25,5 @@ Não darei mais detalhes, baixem, testem, e digam suas opiniões. 😀
               
 [Baixar Opera 8 Beta][2]
 
- [1]: http://www.opera.com/voice/
- [2]: http://www.opera.com/download/get.pl?id=26297
+ [1]: https://www.opera.com/voice/
+ [2]: https://www.opera.com/download/get.pl?id=26297

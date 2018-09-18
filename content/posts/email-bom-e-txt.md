@@ -7,7 +7,7 @@ url: /email-bom-e-txt/
 tweetbackscheck:
   - 1356379689
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/email-bom-e-txt";s:7:"tinyurl";s:26:"http://tinyurl.com/3zyvngh";s:4:"isgd";s:19:"http://is.gd/dZbrbC";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/email-bom-e-txt";s:7:"tinyurl";s:26:"https://tinyurl.com/3zyvngh";s:4:"isgd";s:19:"https://is.gd/dZbrbC";}'
 twittercomments:
   - 'a:1:{i:19742181963071489;s:6:"136504";}'
 tweetcount:

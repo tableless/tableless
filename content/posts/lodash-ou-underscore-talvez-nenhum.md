@@ -448,7 +448,7 @@ Deixe sua opinião aqui nos comentários ou mande um _ping_ no [twitter][8].
 
 Artigo traduzido e adaptado de [You Might Not Need Underscore][9] escrito por [Ville Immonen][10]
 
- [1]: http://underscorejs.org
+ [1]: https://underscorejs.org
  [2]: https://lodash.com
  [3]: https://twitter.com/sebmarkbage
  [4]: https://babeljs.io/docs/learn-es2015/

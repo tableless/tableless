@@ -8,7 +8,7 @@ url: /css-dinamico-com-less/
 tweetbackscheck:
   - 1356399713
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4191";s:7:"tinyurl";s:26:"http://tinyurl.com/67zce5y";s:4:"isgd";s:19:"http://is.gd/T6zkWy";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4191";s:7:"tinyurl";s:26:"https://tinyurl.com/67zce5y";s:4:"isgd";s:19:"https://is.gd/T6zkWy";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503017843
@@ -208,7 +208,7 @@ Outra solução bacana é o [aplicativo LESS para Mac][3].
 
 E se você procura elementos básicos já prontos, a dica é visitar o site [Less Elements][4]. Nele você encontra soluções para bordas, degradês e sombras.
 
- [1]: http://lesscss.org/#-color-functions ""
- [2]: http://rubygems.org/gems/less ""
- [3]: http://incident57.com/less/ ""
- [4]: http://lesselements.com/ ""
+ [1]: https://lesscss.org/#-color-functions ""
+ [2]: https://rubygems.org/gems/less ""
+ [3]: https://incident57.com/less/ ""
+ [4]: https://lesselements.com/ ""

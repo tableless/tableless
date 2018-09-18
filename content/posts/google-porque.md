@@ -7,7 +7,7 @@ url: /google-porque/
 tweetbackscheck:
   - 1355035161
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/google-porque";s:7:"tinyurl";s:26:"http://tinyurl.com/3veyqnb";s:4:"isgd";s:19:"http://is.gd/GrDivt";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/google-porque";s:7:"tinyurl";s:26:"https://tinyurl.com/3veyqnb";s:4:"isgd";s:19:"https://is.gd/GrDivt";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034126
@@ -32,8 +32,8 @@ Esses dias ele lançou uma versão do [Gmail][4] [para celulares e dispositivos 
 
 Bom&#8230; Eu não sei a resposta para essas perguntas. Talvez seja algo óbvio que o cara aqui não viu. Mas fica registrada minha curiosidade, e talvez a de muitos.
 
- [1]: http://www.google.com/
- [2]: http://picasa.google.com/index.html
- [3]: http://www.google.com/analytics/
- [4]: http://gmail.google.com/ "WebMail do Google"
- [5]: http://www.google.com/glm/gmail
+ [1]: https://www.google.com/
+ [2]: https://picasa.google.com/index.html
+ [3]: https://www.google.com/analytics/
+ [4]: https://gmail.google.com/ "WebMail do Google"
+ [5]: https://www.google.com/glm/gmail

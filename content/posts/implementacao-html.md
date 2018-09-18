@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356463390
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/implementacao-html";s:7:"tinyurl";s:26:"http://tinyurl.com/3zg3nnn";s:4:"isgd";s:19:"http://is.gd/eVYF2y";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/implementacao-html";s:7:"tinyurl";s:26:"https://tinyurl.com/3zg3nnn";s:4:"isgd";s:19:"https://is.gd/eVYF2y";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037509
@@ -27,4 +27,4 @@ O vídeo está hospedado no [CodeShow Videos][1]. Quem não viu ainda, vale a pe
 <embed src="https://video.visie.com.br/kickapps/flash/premium_drop_v3.swf?b=1&widgetHost=video.visie.com.br&mediaType=VIDEO&mediaId=85534&as=7300" quality="best" allowfullscreen="true" allowscriptaccess="always" height="365" width="420">
 </embed>
 
- [1]: http://video.visie.com.br/
+ [1]: https://video.visie.com.br/

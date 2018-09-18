@@ -14,13 +14,13 @@ Hoje em dia é muito comum os sites terem um widget ou uma barra lateral com in
 
 Como o mercado oscila muito, essas informações são atualizadas constantemente, de minuto a minuto. Se você está pensando em mostrar essas informações em seu site, com certeza vai precisar de uma API para consultar estes dados em tempo real.
 
-O pessoal da <a href="http://agenciaideias.com.br" target="_blank">Agência Ideias</a> criou uma <a href="http://developers.agenciaideias.com.br/cotacoes" target="_blank">API</a> bem legal para consulta de cotações em tempo real, sendo o valor do euro e do dólar referentes aos valores de compra dessas moedas. O formato do retorno da consulta pode ser <a href="http://developers.agenciaideias.com.br/cotacoes/json" target="_blank">JSON</a> ou <a href="http://developers.agenciaideias.com.br/cotacoes/xml" target="_blank">XML</a>, dependendo da necessidade de sua aplicação. Para a nossa classe em PHP, vamos utilizar o formato de retorno em JSON.
+O pessoal da <a href="https://agenciaideias.com.br" target="_blank">Agência Ideias</a> criou uma <a href="https://developers.agenciaideias.com.br/cotacoes" target="_blank">API</a> bem legal para consulta de cotações em tempo real, sendo o valor do euro e do dólar referentes aos valores de compra dessas moedas. O formato do retorno da consulta pode ser <a href="https://developers.agenciaideias.com.br/cotacoes/json" target="_blank">JSON</a> ou <a href="https://developers.agenciaideias.com.br/cotacoes/xml" target="_blank">XML</a>, dependendo da necessidade de sua aplicação. Para a nossa classe em PHP, vamos utilizar o formato de retorno em JSON.
 
 Vamos criar um novo arquivo em PHP com o nome **Quotation.php**. Nele vamos criar a classe **Quotation**. Logo no início da classe, vamos declarar duas variáves estáticas que serão usadas por nossa classe. Uma delas é o endereço da API e a outra é o conteúdo que será retornado por ela.
 
 <pre class="lang-php">class Quotation {
 
-  private static $apiUrl = "http://developers.agenciaideias.com.br/cotacoes/json";
+  private static $apiUrl = "https://developers.agenciaideias.com.br/cotacoes/json";
   private static $content;
 
 }

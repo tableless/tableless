@@ -381,28 +381,28 @@ Quem disse que você não pode aprender se divertindo? Alguns webgames como o [C
   
 [The Code Side of the Color][25]
 
- [1]: http://blog.kissmetrics.com/gender-and-color/ "Gender and Color"
- [2]: http://revistagalileu.globo.com/Revista/Common/0,,EMI310040-17770,00-MULHER+COM+SUPERVISAO+ENXERGA+MILHOES+DE+CORES+A+MAIS.html "Mulher com super-visão enxerga 99 milhões de cores a mais"
- [3]: http://www.w3.org/TR/SVG/types.html#ColorKeywords "W3C Color Keywords"
- [4]: http://www.color-blindness.com/color-name-hue "Color name & hue"
- [5]: http://pt.wikipedia.org/wiki/Anexo:Lista_de_cores "Wikipedia - Lista de Cores"
- [6]: http://flatuicolors.com/ "Flat UI Colors"
- [7]: http://www.colorhexa.com/ "Color Hexa"
- [8]: http://colorfilter.wickline.org/ "Color Filter"
- [9]: http://brandcolors.net/ "Brand Colors"
- [10]: http://brandcolors.net/
- [11]: http://webcolourdata.com/ "Webcolourdata"
- [12]: http://webcolourdata.com/
- [13]: http://lokeshdhakar.com/projects/color-thief/ "Color Thief"
- [14]: http://lokeshdhakar.com/projects/color-thief/
- [15]: http://moviesincolor.com/ "Movies In Color"
- [16]: http://moviesincolor.com/
+ [1]: https://blog.kissmetrics.com/gender-and-color/ "Gender and Color"
+ [2]: https://revistagalileu.globo.com/Revista/Common/0,,EMI310040-17770,00-MULHER+COM+SUPERVISAO+ENXERGA+MILHOES+DE+CORES+A+MAIS.html "Mulher com super-visão enxerga 99 milhões de cores a mais"
+ [3]: https://www.w3.org/TR/SVG/types.html#ColorKeywords "W3C Color Keywords"
+ [4]: https://www.color-blindness.com/color-name-hue "Color name & hue"
+ [5]: https://pt.wikipedia.org/wiki/Anexo:Lista_de_cores "Wikipedia - Lista de Cores"
+ [6]: https://flatuicolors.com/ "Flat UI Colors"
+ [7]: https://www.colorhexa.com/ "Color Hexa"
+ [8]: https://colorfilter.wickline.org/ "Color Filter"
+ [9]: https://brandcolors.net/ "Brand Colors"
+ [10]: https://brandcolors.net/
+ [11]: https://webcolourdata.com/ "Webcolourdata"
+ [12]: https://webcolourdata.com/
+ [13]: https://lokeshdhakar.com/projects/color-thief/ "Color Thief"
+ [14]: https://lokeshdhakar.com/projects/color-thief/
+ [15]: https://moviesincolor.com/ "Movies In Color"
+ [16]: https://moviesincolor.com/
  [17]: https://kuler.adobe.com/create/color-wheel/ "Kuler"
- [18]: http://colorschemedesigner.com/ "Color Scheme Designer"
- [19]: http://www.colourlovers.com/ "Colour Lovers"
- [20]: http://kuler.adobe.com
- [21]: http://color.method.ac/ "Color Method"
- [22]: http://color.method.ac/
- [23]: http://tableless.com.br/css3-breve-introducao-a-rgba "Breve introdução a RGBA"
- [24]: http://tableless.com.br/rgb-e-hsl "RGB e HSL"
- [25]: http://coding.smashingmagazine.com/2012/10/04/the-code-side-of-color/ "The Code Side of the Color"
+ [18]: https://colorschemedesigner.com/ "Color Scheme Designer"
+ [19]: https://www.colourlovers.com/ "Colour Lovers"
+ [20]: https://kuler.adobe.com
+ [21]: https://color.method.ac/ "Color Method"
+ [22]: https://color.method.ac/
+ [23]: https://tableless.com.br/css3-breve-introducao-a-rgba "Breve introdução a RGBA"
+ [24]: https://tableless.com.br/rgb-e-hsl "RGB e HSL"
+ [25]: https://coding.smashingmagazine.com/2012/10/04/the-code-side-of-color/ "The Code Side of the Color"

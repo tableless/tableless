@@ -7,7 +7,7 @@ url: /retrospectiva-2005-dezembro/
 tweetbackscheck:
   - 1354966172
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/retrospectiva-2005-dezembro";s:7:"tinyurl";s:26:"http://tinyurl.com/43xoxom";s:4:"isgd";s:19:"http://is.gd/8aIH61";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/retrospectiva-2005-dezembro";s:7:"tinyurl";s:26:"https://tinyurl.com/43xoxom";s:4:"isgd";s:19:"https://is.gd/8aIH61";}'
 twittercomments:
   - 'a:13:{i:37461670603259904;s:7:"retweet";i:37460640276807680;s:7:"retweet";i:37459276050083840;s:7:"retweet";i:37457929930018816;s:7:"retweet";i:37456899347587073;s:7:"retweet";i:37455256023465984;s:7:"retweet";i:37454580514037761;s:7:"retweet";i:37454329438806016;s:7:"retweet";i:37438331709030400;s:7:"retweet";i:37417016084144128;s:7:"retweet";i:37409384640286720;s:7:"retweet";i:37408171584655360;s:7:"retweet";i:37404133166284800;s:7:"retweet";}'
 tweetcount:
@@ -46,22 +46,22 @@ O Bruno começa a explicar HTTP: [1][14] e [2][15]
 
 Nós aqui: Anunciamos nossa saída da Atípico e a criação da [nova empresa][16], [migramos o site][17]. Eu: [SVG e o Firefox 1.5][18] e [Patterns][19]
 
- [1]: http://tableless.com.br/2005/12/
- [2]: http://24ways.org/
- [3]: http://www.revolucao.etc.br/archives/microformats/
- [4]: http://blog.elcio.com.br/ajax-uma-nova-abordagem-para-aplicacoes-web/
- [5]: http://usina.com/bem-te-vi/player.php?url=palestra_web20.flv&p=1
- [6]: http://www.alistapart.com/articles/sensibleforms
- [7]: http://www.google.com/musicsearch
- [8]: http://www.google.com/glm/gmail
- [9]: http://news.google.com.br/nwshp?ned=pt-BR_br
- [10]: http://tableless.com.br/ie-para-mac-deixado-de-lado-ainda-bem
- [11]: http://www.google.com/tools/firefox/webcomments/index.html
- [12]: http://www.mobilelife.com.br/2005/12/21/opera-mini-browser-para-telefones-java
- [13]: http://biz.yahoo.com/prnews/051205/nym208.html?.v=26
- [14]: http://brunotorres.net/2005/12/12/o-basico-da-web-introducao-ao-http
- [15]: http://brunotorres.net/2005/12/12/o-basico-da-web-http-codigos-de-resposta-mais-comuns-e-seus-significados
- [16]: http://tableless.com.br/crescendo_vote
- [17]: http://tableless.com.br/mudancas-repentinas
- [18]: http://tableless.com.br/artigos/svg/
- [19]: http://blog.elcio.com.br/webpatterns/
+ [1]: https://tableless.com.br/2005/12/
+ [2]: https://24ways.org/
+ [3]: https://www.revolucao.etc.br/archives/microformats/
+ [4]: https://blog.elcio.com.br/ajax-uma-nova-abordagem-para-aplicacoes-web/
+ [5]: https://usina.com/bem-te-vi/player.php?url=palestra_web20.flv&p=1
+ [6]: https://www.alistapart.com/articles/sensibleforms
+ [7]: https://www.google.com/musicsearch
+ [8]: https://www.google.com/glm/gmail
+ [9]: https://news.google.com.br/nwshp?ned=pt-BR_br
+ [10]: https://tableless.com.br/ie-para-mac-deixado-de-lado-ainda-bem
+ [11]: https://www.google.com/tools/firefox/webcomments/index.html
+ [12]: https://www.mobilelife.com.br/2005/12/21/opera-mini-browser-para-telefones-java
+ [13]: https://biz.yahoo.com/prnews/051205/nym208.html?.v=26
+ [14]: https://brunotorres.net/2005/12/12/o-basico-da-web-introducao-ao-http
+ [15]: https://brunotorres.net/2005/12/12/o-basico-da-web-http-codigos-de-resposta-mais-comuns-e-seus-significados
+ [16]: https://tableless.com.br/crescendo_vote
+ [17]: https://tableless.com.br/mudancas-repentinas
+ [18]: https://tableless.com.br/artigos/svg/
+ [19]: https://blog.elcio.com.br/webpatterns/

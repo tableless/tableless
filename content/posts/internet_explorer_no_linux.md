@@ -7,7 +7,7 @@ url: /internet_explorer_no_linux/
 tweetbackscheck:
   - 1356405788
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/internet_explorer_no_linux";s:7:"tinyurl";s:26:"http://tinyurl.com/3r2ejdv";s:4:"isgd";s:19:"http://is.gd/uOv39S";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/internet_explorer_no_linux";s:7:"tinyurl";s:26:"https://tinyurl.com/3r2ejdv";s:4:"isgd";s:19:"https://is.gd/uOv39S";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032629
@@ -25,5 +25,5 @@ Claro que não são a mesma coisa, só serve para aqueles que usam linux testar 
 
 Link @ [fechaTAG][2]
 
- [1]: http://www.tatanka.com.br/ies4linux/
- [2]: http://elcio.locaweb.com.br/msg.asp?id=368
+ [1]: https://www.tatanka.com.br/ies4linux/
+ [2]: https://elcio.locaweb.com.br/msg.asp?id=368

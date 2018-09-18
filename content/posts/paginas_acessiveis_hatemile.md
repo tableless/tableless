@@ -2,7 +2,7 @@
 title: Páginas acessíveis com o HaTeMiLe
 authors: Carlson Santana Cruz
 type: post
-image: http://imgh.us/dog-41431_1280.png
+image: https://imgh.us/dog-41431_1280.png
 date: 2017-05-07
 excerpt: O HaTeMiLe é uma biblioteca que utiliza os Padrões Web para resolver problemas de acessibilidade. Entenda melhor como ela funciona.
 categories:

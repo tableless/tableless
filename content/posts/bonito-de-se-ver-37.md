@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356223056
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bonito-de-se-ver-37";s:7:"tinyurl";s:26:"http://tinyurl.com/3vyvvue";s:4:"isgd";s:19:"http://is.gd/188jze";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/bonito-de-se-ver-37";s:7:"tinyurl";s:26:"https://tinyurl.com/3vyvvue";s:4:"isgd";s:19:"https://is.gd/188jze";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036395
@@ -21,6 +21,6 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.oskaarchitects.com/>
-  2. <http://www.ibock.se/>
-  3. <http://www.artnetz.de/>
+  1. <https://www.oskaarchitects.com/>
+  2. <https://www.ibock.se/>
+  3. <https://www.artnetz.de/>

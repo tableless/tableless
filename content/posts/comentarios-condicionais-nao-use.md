@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356244941
 shorturls:
-  - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/comentarios-condicionais-nao-use";s:7:"tinyurl";s:26:"http://tinyurl.com/3ckl47a";s:4:"isgd";s:19:"http://is.gd/MWEVke";}'
+  - 'a:3:{s:9:"permalink";s:56:"https://tableless.com.br/comentarios-condicionais-nao-use";s:7:"tinyurl";s:26:"https://tinyurl.com/3ckl47a";s:4:"isgd";s:19:"https://is.gd/MWEVke";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503016721
@@ -87,4 +87,4 @@ As dicas são: Mantenha o código o mais simples possível. O código deve ser t
   
 Se você for designer, não faça layouts bizarros, com montes e montes de bordas arredondadas, formas que ficam sobrepostas, sombrinhas aqui e ali.
 
- [1]: http://msdn2.microsoft.com/en-us/library/ms537512.aspx
+ [1]: https://msdn2.microsoft.com/en-us/library/ms537512.aspx

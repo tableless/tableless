@@ -188,7 +188,7 @@ te espero no próximo post.
     <a class="markup--anchor markup--li-anchor" href="https://udgwebdev.com/node-js-para-leigos-instalacao-e-configuracao" target="_blank" rel="nofollow">Underground WebDev</a>
   </li>
   <li id="0c62" class="graf graf--li graf-after--li">
-    <a class="markup--anchor markup--li-anchor" href="http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js" target="_blank" rel="nofollow">Tableless</a>
+    <a class="markup--anchor markup--li-anchor" href="https://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js" target="_blank" rel="nofollow">Tableless</a>
   </li>
   <li id="e04c" class="graf graf--li graf-after--li">
     <a class="markup--anchor markup--li-anchor" href="https://www.digitalocean.com/community/tutorials/como-instalar-o-node-js-em-um-servidor-ubuntu-14-04-pt" target="_blank" rel="nofollow">Digitalocean</a>
@@ -201,13 +201,13 @@ te espero no próximo post.
 
 <ul class="postList">
   <li id="caf2" class="graf graf--li graf-after--p">
-    <a class="markup--anchor markup--li-anchor" href="http://tableless.com.br/bower-na-pratica" target="_blank" rel="nofollow">Tableless</a>
+    <a class="markup--anchor markup--li-anchor" href="https://tableless.com.br/bower-na-pratica" target="_blank" rel="nofollow">Tableless</a>
   </li>
   <li id="4a32" class="graf graf--li graf-after--li">
-    <a class="markup--anchor markup--li-anchor" href="http://www.carvalhoweb.com/articles/bower-guia-definitivo" target="_blank" rel="nofollow">Carvalho Web</a>
+    <a class="markup--anchor markup--li-anchor" href="https://www.carvalhoweb.com/articles/bower-guia-definitivo" target="_blank" rel="nofollow">Carvalho Web</a>
   </li>
   <li id="1621" class="graf graf--li graf-after--li graf--last">
-    <a class="markup--anchor markup--li-anchor" href="http://blog.thiagobelem.net/gerenciando-assets-com-o-bower" target="_blank" rel="nofollow">Thiago Belem</a>
+    <a class="markup--anchor markup--li-anchor" href="https://blog.thiagobelem.net/gerenciando-assets-com-o-bower" target="_blank" rel="nofollow">Thiago Belem</a>
   </li>
 </ul>
 
@@ -216,8 +216,8 @@ te espero no próximo post.
  [3]: https://www.heroku.com/
  [4]: https://dribbble.com
  [5]: https://angularjs.org/
- [6]: http://materializecss.com
- [7]: http://gruntjs.com/
+ [6]: https://materializecss.com
+ [7]: https://gruntjs.com/
  [8]: https://gist.github.com/dejaneves/b983dd0cfd54d63d6bd9f4310a812289
  [9]: https://cdn-images-1.medium.com/max/800/1*h3yRLVKf2peVF_UucGQYJg.png
  [10]: https://cdn-images-1.medium.com/max/800/1*VQf-VyPNBK8dSQl3Lqmq_A.png

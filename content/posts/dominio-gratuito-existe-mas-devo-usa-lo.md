@@ -44,7 +44,7 @@ Mas, lembre-se, pessoas má intencionadas podem tanto usar domínios gratuitos q
 
 ## Domínio gratuito NÃO É encurtador de URL.
 
-Não tenha a impressão errada. Entenda que isso: **Seusite.rel7.com** é diferente disso: **http://goo.gl/KNkntr**.
+Não tenha a impressão errada. Entenda que isso: **Seusite.rel7.com** é diferente disso: **https://goo.gl/KNkntr**.
 
 Encurtadores de URL surgiram na internet com o propósito de realmente fazer honra ao seu nome: encurtar urls. Eles fazem basicamente aquele URL imensa ficar pequena, e que assim, você possa colocar em diversos locais. Muitas vezes por causa de geradores, URLs ficam com 100 caracteres, usando um encurtador ela cairia para 10 caracteres.
 
@@ -60,4 +60,4 @@ E lembre-se, SEO é um grande conjunto de normas, e, um bom domínio é uma dela
 
 É isso, abraços.
 
- [1]: http://www.meusitesuperlegal.tk
+ [1]: https://www.meusitesuperlegal.tk

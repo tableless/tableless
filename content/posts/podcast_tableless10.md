@@ -7,12 +7,12 @@ url: /podcast_tableless10/
 enclosure:
   - |
     |
-        http://tableless.com.br/podcast/podcast_tableless10.mp3
+        https://tableless.com.br/podcast/podcast_tableless10.mp3
         
 tweetbackscheck:
   - 1356131734
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/podcast_tableless10";s:7:"tinyurl";s:26:"http://tinyurl.com/3sx97dh";s:4:"isgd";s:19:"http://is.gd/qvybN6";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/podcast_tableless10";s:7:"tinyurl";s:26:"https://tinyurl.com/3sx97dh";s:4:"isgd";s:19:"https://is.gd/qvybN6";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033436
@@ -32,8 +32,8 @@ Tamanho: 10,7Mb
 
 Adicione também nosso [Feed][5] ao seu iTunes ou agregador de podcast preferido&#8230;
 
- [1]: http://brunotorres.net/ "Bruno Torres"
- [2]: http://www.rigonatti.com.br/ "Rigonatti.com.br"
- [3]: http://tableless.com.br/eyesmiles/ "Diego Eis - Tableless"
- [4]: http://tableless.com.br/podcast/podcast_tableless10.mp3 "Podcast Tableless 10"
- [5]: http://tableless.com.br/rss.asp "Podcast e RSS do Tableless"
+ [1]: https://brunotorres.net/ "Bruno Torres"
+ [2]: https://www.rigonatti.com.br/ "Rigonatti.com.br"
+ [3]: https://tableless.com.br/eyesmiles/ "Diego Eis - Tableless"
+ [4]: https://tableless.com.br/podcast/podcast_tableless10.mp3 "Podcast Tableless 10"
+ [5]: https://tableless.com.br/rss.asp "Podcast e RSS do Tableless"

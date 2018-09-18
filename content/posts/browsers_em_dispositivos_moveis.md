@@ -7,7 +7,7 @@ url: /browsers_em_dispositivos_moveis/
 tweetbackscheck:
   - 1356439942
 shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/browsers_em_dispositivos_moveis";s:7:"tinyurl";s:26:"http://tinyurl.com/4yg8wmq";s:4:"isgd";s:19:"http://is.gd/FJ0uj0";}'
+  - 'a:3:{s:9:"permalink";s:55:"https://tableless.com.br/browsers_em_dispositivos_moveis";s:7:"tinyurl";s:26:"https://tinyurl.com/4yg8wmq";s:4:"isgd";s:19:"https://is.gd/FJ0uj0";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032525
@@ -296,16 +296,16 @@ Mais do mesmo
 
 <!--             <b>Pocket Internet Explorer é o browser padrão que vem junto com o dispositivo Pocket Power PC, o famoso PocketPC ou PPC para os mais chegados.
 Tentei procurar alguma coisa na internet sobre as suas especificações. Não consegui achar por exemplo versões de CSS que ele suporta (se você souber, por favor, compartilhe).
-Mas consegui algum material no site <a href="http://msdn.microsoft.com/" title="Site sobre desenvolvimento promovido pela Microsoft.">MSND</a>: <a href="http://msdn.microsoft.com/library/default.asp?url=/library/en-us/apippc/html/ppc__html_reference_for_pocket_internet_explorer.asp">HTML Reference for Pocket Internet Explorer.</a>
+Mas consegui algum material no site <a href="https://msdn.microsoft.com/" title="Site sobre desenvolvimento promovido pela Microsoft.">MSND</a>: <a href="https://msdn.microsoft.com/library/default.asp?url=/library/en-us/apippc/html/ppc__html_reference_for_pocket_internet_explorer.asp">HTML Reference for Pocket Internet Explorer.</a>
 
 O <b>Web Pro</b> esta na sua versão 3.5,
 
 -->
 
- [1]: http://www.palmone.com/us/software/webpro30/
- [2]: http://www.palmone.com/us/software/webpro35/
- [3]: http://www.palmos.com/dev/tech/webbrowser/web_browser_30.html
- [4]: http://www.palmos.com/dev/tech/webbrowser/web_browser_20.html
- [5]: http://msdn.microsoft.com/library/default.asp?url=/library/en-us/apippc/html/ppc__html_reference_for_pocket_internet_explorer.asp
- [6]: http://palmsource.palmgear.com/index.cfm?fuseaction=software.showsoftware&prodid=33508#
- [7]: http://www.mobilelife.com.br/
+ [1]: https://www.palmone.com/us/software/webpro30/
+ [2]: https://www.palmone.com/us/software/webpro35/
+ [3]: https://www.palmos.com/dev/tech/webbrowser/web_browser_30.html
+ [4]: https://www.palmos.com/dev/tech/webbrowser/web_browser_20.html
+ [5]: https://msdn.microsoft.com/library/default.asp?url=/library/en-us/apippc/html/ppc__html_reference_for_pocket_internet_explorer.asp
+ [6]: https://palmsource.palmgear.com/index.cfm?fuseaction=software.showsoftware&prodid=33508#
+ [7]: https://www.mobilelife.com.br/

@@ -12,7 +12,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356454074
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/porque-so-para-o-iphone";s:7:"tinyurl";s:26:"http://tinyurl.com/3nsgg6h";s:4:"isgd";s:19:"http://is.gd/hT8bId";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/porque-so-para-o-iphone";s:7:"tinyurl";s:26:"https://tinyurl.com/3nsgg6h";s:4:"isgd";s:19:"https://is.gd/hT8bId";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038653

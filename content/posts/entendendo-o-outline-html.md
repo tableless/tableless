@@ -140,5 +140,5 @@ Assim preservamos a acessibilidade em leitores de tela atualizados ou não, priv
 
 [Bruce Lawson &#8211; Headings in HTML 5 and accessibility][2]
 
- [1]: http://gsnedders.html5.org/outliner/ "Link do Html 5 Outliner"
- [2]: http://http://www.brucelawson.co.uk/2009/headings-in-html-5-and-accessibility/ "Link para Bruce Lawson - Headings in HTML 5 and accessibility"
+ [1]: https://gsnedders.html5.org/outliner/ "Link do Html 5 Outliner"
+ [2]: https://https://www.brucelawson.co.uk/2009/headings-in-html-5-and-accessibility/ "Link para Bruce Lawson - Headings in HTML 5 and accessibility"

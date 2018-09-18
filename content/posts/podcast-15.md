@@ -5,7 +5,7 @@ type: post
 date: 2005-12-28
 url: /podcast-15/
 enclosure:
-  - http://tableless.com.br/podcast/podcast15.mp3
+  - https://tableless.com.br/podcast/podcast15.mp3
 dsq_thread_id: 503034217
 categories:
   - Mobile
@@ -27,6 +27,6 @@ Tempo: ~15 Min
 
 <small>Você está gostando do podcast? O cara tá falando bem? Precisa de uma consulta com a fonoaudiologa? Comente.</small>
 
- [1]: http://usina.com/rodaeavisa/
- [2]: http://tableless.com.br/podcast/podcast15.mp3
- [3]: http://tableless.com.br/feed/
+ [1]: https://usina.com/rodaeavisa/
+ [2]: https://tableless.com.br/podcast/podcast15.mp3
+ [3]: https://tableless.com.br/feed/

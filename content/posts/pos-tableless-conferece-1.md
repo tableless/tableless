@@ -8,7 +8,7 @@ url: /pos-tableless-conferece-1/
 tweetbackscheck:
   - 1356397249
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/pos-tableless-conferece-1/";s:7:"tinyurl";s:26:"http://tinyurl.com/8etuzrb";s:4:"isgd";s:19:"http://is.gd/9qKGDx";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/pos-tableless-conferece-1/";s:7:"tinyurl";s:26:"https://tinyurl.com/8etuzrb";s:4:"isgd";s:19:"https://is.gd/9qKGDx";}'
 twittercomments:
   - 'a:19:{i:240155279562530819;s:7:"retweet";i:240144387529666561;s:7:"retweet";i:240141022489882624;s:7:"retweet";i:240140062258524161;s:7:"retweet";i:240139399864655872;s:7:"retweet";i:240133345885958144;s:7:"retweet";i:240131463037739009;s:7:"retweet";i:240129898566516736;s:7:"retweet";i:240129334990483457;s:7:"retweet";i:240126232577064961;s:7:"retweet";i:243031216914309120;s:7:"retweet";i:243029118818607104;s:7:"retweet";i:240800738077466624;s:7:"retweet";i:240463463879680000;s:7:"retweet";i:240461052809183232;s:7:"retweet";i:240460709882908674;s:7:"retweet";i:240430510638252033;s:7:"retweet";i:240275259767525376;s:7:"retweet";i:251010040096497664;s:7:"retweet";}'
 tweetcount:
@@ -55,14 +55,14 @@ E o [código-fonte][11].
 
 ### Diego Eis
 
- [1]: http://tableless.com.br/tablelessconf
- [2]: http://twitter.com/#!/search/%23tablelessconf%20OR%20tablelessconf%20OR%20tableless%20conference
- [3]: http://www.flickr.com/photos/diegoeis/sets/72157631273481758/
- [4]: http://www.alexandref.com/blog/
- [5]: http://www.w3c.br/Agenda/PalestraTablelessConference2012AcessibilidadeHtml5Waiaria
- [6]: http://www.dborba.com/download/PresoTableless2012.pdf
- [7]: http://talks.zenorocha.com/2012/tablelessconf/#1
+ [1]: https://tableless.com.br/tablelessconf
+ [2]: https://twitter.com/#!/search/%23tablelessconf%20OR%20tablelessconf%20OR%20tableless%20conference
+ [3]: https://www.flickr.com/photos/diegoeis/sets/72157631273481758/
+ [4]: https://www.alexandref.com/blog/
+ [5]: https://www.w3c.br/Agenda/PalestraTablelessConference2012AcessibilidadeHtml5Waiaria
+ [6]: https://www.dborba.com/download/PresoTableless2012.pdf
+ [7]: https://talks.zenorocha.com/2012/tablelessconf/#1
  [8]: https://github.com/zenorocha/talks
- [9]: http://metawebdesign.org/tablelessConf/
- [10]: http://bit.ly/skillcalc
+ [9]: https://metawebdesign.org/tablelessConf/
+ [10]: https://bit.ly/skillcalc
  [11]: https://github.com/fnando/node-chat/

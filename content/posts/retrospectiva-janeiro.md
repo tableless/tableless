@@ -7,7 +7,7 @@ url: /retrospectiva-2005-janeiro/
 tweetbackscheck:
   - 1355293587
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/retrospectiva-2005-janeiro";s:7:"tinyurl";s:26:"http://tinyurl.com/3kjbguq";s:4:"isgd";s:19:"http://is.gd/vHz8l1";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/retrospectiva-2005-janeiro";s:7:"tinyurl";s:26:"https://tinyurl.com/3kjbguq";s:4:"isgd";s:19:"https://is.gd/vHz8l1";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034256
@@ -45,18 +45,18 @@ O Google [contratava Ben Goodger][13], o criador do Firefox e [anunciava][14] su
 Nós aqui: eu [escrevia][15] sobre aquelas pessoas que presas às estatísticas diziam que seus sites não precisavam ser compatíveis com qualquer outro navegador senão &#8220;aquele&#8221; e o Diego [iniciava o ano vitaminando][16] a saudosa seção de convertidos.
 
  [1]: www.djangoproject.com
- [2]: http://tableless.com.br/2005/01/
+ [2]: https://tableless.com.br/2005/01/
  [3]: https://www.planalto.gov.br/ccivil/_ato2004-2006/2004/decreto/d5296.htm
- [4]: http://simonevb.com/blog/2005/01/modelo_de_acessibilidade_disponivel_para_consulta_publica.htm
- [5]: http://mail.google.com
- [6]: http://idgnow.uol.com.br/AdPortalv5/InternetInterna.aspx?GUID=FF4E650D-E0A5-4FB9-A100-443F53450728&ChannelID=2000012
- [7]: http://www.opera.com/pressreleases/en/2005/01/06/
- [8]: http://www1.folha.uol.com.br/folha/informatica/ult124u17805.shtml
- [9]: http://www1.folha.uol.com.br/folha/informatica/ult124u17882.shtml
- [10]: http://www1.folha.uol.com.br/folha/informatica/ult124u17793.shtml
- [11]: http://www.gazzag.com/
- [12]: http://csszengarden.com/?cssfile=http://www.tastydirt.com/zen/sample.css
- [13]: http://idgnow.uol.com.br/AdPortalv5/InternetInterna.aspx?GUID=18D9E0C7-6F51-42F5-B1F4-C83795425B2B
- [14]: http://www.wired.com/news/business/0,1367,66386,00.html?tw=wn_5bizhead
- [15]: http://webinsider.uol.com.br/vernoticia.php/id/2319
- [16]: http://tableless.com.br/feliz_2005
+ [4]: https://simonevb.com/blog/2005/01/modelo_de_acessibilidade_disponivel_para_consulta_publica.htm
+ [5]: https://mail.google.com
+ [6]: https://idgnow.uol.com.br/AdPortalv5/InternetInterna.aspx?GUID=FF4E650D-E0A5-4FB9-A100-443F53450728&ChannelID=2000012
+ [7]: https://www.opera.com/pressreleases/en/2005/01/06/
+ [8]: https://www1.folha.uol.com.br/folha/informatica/ult124u17805.shtml
+ [9]: https://www1.folha.uol.com.br/folha/informatica/ult124u17882.shtml
+ [10]: https://www1.folha.uol.com.br/folha/informatica/ult124u17793.shtml
+ [11]: https://www.gazzag.com/
+ [12]: https://csszengarden.com/?cssfile=https://www.tastydirt.com/zen/sample.css
+ [13]: https://idgnow.uol.com.br/AdPortalv5/InternetInterna.aspx?GUID=18D9E0C7-6F51-42F5-B1F4-C83795425B2B
+ [14]: https://www.wired.com/news/business/0,1367,66386,00.html?tw=wn_5bizhead
+ [15]: https://webinsider.uol.com.br/vernoticia.php/id/2319
+ [16]: https://tableless.com.br/feliz_2005

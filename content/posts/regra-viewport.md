@@ -6,7 +6,7 @@ date: 2012-06-04
 excerpt: Você poderá manipular o viewport diretamente do seu código CSS.
 url: /regra-viewport/
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/regra-viewport/";s:7:"tinyurl";s:26:"http://tinyurl.com/83gbvva";s:4:"isgd";s:19:"http://is.gd/cZJUGy";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/regra-viewport/";s:7:"tinyurl";s:26:"https://tinyurl.com/83gbvva";s:4:"isgd";s:19:"https://is.gd/cZJUGy";}'
 twittercomments:
   - 'a:53:{i:211216799151308800;s:7:"retweet";i:210931280991358976;s:7:"retweet";i:210831873449009154;s:7:"retweet";i:210827712443584513;s:7:"retweet";i:210794826369732609;s:7:"retweet";i:210475205380943873;s:7:"retweet";i:209966522737766400;s:7:"retweet";i:209966520267325442;s:7:"retweet";i:209832112638009344;s:7:"retweet";i:209821939122970625;s:7:"retweet";i:209650215773409280;s:7:"retweet";i:209640703326826496;s:7:"retweet";i:209640653716594688;s:7:"retweet";i:209640572397420545;s:7:"retweet";i:209639211748442115;s:7:"retweet";i:215303511750082560;s:7:"retweet";i:215173442704642051;s:7:"retweet";i:215171560036765697;s:7:"retweet";i:215142824486768642;s:7:"retweet";i:215142116282728448;s:7:"retweet";i:218776835260026881;s:7:"retweet";i:218773597483831297;s:7:"retweet";i:218766550390411266;s:7:"retweet";i:218766233137446912;s:7:"retweet";i:223182387838844933;s:7:"retweet";i:223124817656815616;s:7:"retweet";i:223118693595496449;s:7:"retweet";i:223115100293300224;s:7:"retweet";i:230106682611597312;s:7:"retweet";i:230073719706488832;s:7:"retweet";i:230002897088290816;s:7:"retweet";i:236167976083132417;s:7:"retweet";i:236165949978464256;s:7:"retweet";i:236164033319931904;s:7:"retweet";i:241296232084017152;s:7:"retweet";i:248487648900026369;s:7:"retweet";i:248482457031172096;s:7:"retweet";i:254445792927043585;s:7:"retweet";i:253975234049351681;s:7:"retweet";i:253929145392832512;s:7:"retweet";i:253927324859371520;s:7:"retweet";i:253920498675752960;s:7:"retweet";i:253918625294069760;s:7:"retweet";i:253918239430684672;s:7:"retweet";i:266743339397832704;s:7:"retweet";i:266742358157168640;s:7:"retweet";i:266712811814662144;s:7:"retweet";i:266608611155902464;s:7:"retweet";i:266601566641987584;s:7:"retweet";i:271226367440465920;s:7:"retweet";i:270666842329194498;s:7:"retweet";i:270649352421257216;s:7:"retweet";i:270596697015607296;s:7:"retweet";}'
 tweetbackscheck:
@@ -96,5 +96,5 @@ O **@viewport** é suportado hoje pelo Internet Explorer 10 e pelo Opera, ainda 
 
 Mais informações? Leia [aqui][1] e [aqui][2].
 
- [1]: http://dev.w3.org/csswg/css-device-adapt/
- [2]: http://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/
+ [1]: https://dev.w3.org/csswg/css-device-adapt/
+ [2]: https://dev.opera.com/articles/view/an-introduction-to-meta-viewport-and-viewport/

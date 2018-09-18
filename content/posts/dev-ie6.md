@@ -8,7 +8,7 @@ url: /dev-ie6/
 tweetbackscheck:
   - 1356397670
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/dev-ie6";s:7:"tinyurl";s:26:"http://tinyurl.com/3e8fddb";s:4:"isgd";s:19:"http://is.gd/b0rIpe";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/dev-ie6";s:7:"tinyurl";s:26:"https://tinyurl.com/3e8fddb";s:4:"isgd";s:19:"https://is.gd/b0rIpe";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039805

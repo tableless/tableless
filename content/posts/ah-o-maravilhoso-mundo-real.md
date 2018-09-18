@@ -61,5 +61,5 @@ Já temos um acordo sobre CSS Transform, bordas arredondadas, múltiplos backgro
 
 Dá uma olhada na [lista de módulos do CSS3][2]. Você não quer esperar isso tudo ficar pronto para ter bordas arredondadas.
 
- [1]: http://tableless.com.br/se-prepare-para-a-revolucao
- [2]: http://www.w3.org/Style/CSS/current-work
+ [1]: https://tableless.com.br/se-prepare-para-a-revolucao
+ [2]: https://www.w3.org/Style/CSS/current-work

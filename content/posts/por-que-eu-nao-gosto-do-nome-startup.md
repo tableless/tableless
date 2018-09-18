@@ -8,7 +8,7 @@ url: /por-que-eu-nao-gosto-do-nome-startup/
 tweetbackscheck:
   - 1356437683
 shorturls:
-  - 'a:3:{s:9:"permalink";s:61:"http://tableless.com.br/por-que-eu-nao-gosto-do-nome-startup/";s:7:"tinyurl";s:26:"http://tinyurl.com/d75hy2c";s:4:"isgd";s:19:"http://is.gd/8xynsl";}'
+  - 'a:3:{s:9:"permalink";s:61:"https://tableless.com.br/por-que-eu-nao-gosto-do-nome-startup/";s:7:"tinyurl";s:26:"https://tinyurl.com/d75hy2c";s:4:"isgd";s:19:"https://is.gd/8xynsl";}'
 twittercomments:
   - 'a:25:{i:245149631770673152;s:7:"retweet";i:245149498945449984;s:7:"retweet";i:245144786904940545;s:7:"retweet";i:245141875894386688;s:7:"retweet";i:245140304519376896;s:7:"retweet";i:245140097555628032;s:7:"retweet";i:246299084175069184;s:7:"retweet";i:250949614457466881;s:7:"retweet";i:250938564345479168;s:7:"retweet";i:249192883922546688;s:7:"retweet";i:249155605997174785;s:7:"retweet";i:248880668619194370;s:7:"retweet";i:248780074113974272;s:7:"retweet";i:248768051691016193;s:7:"retweet";i:248765592130170880;s:7:"retweet";i:248765299007057920;s:7:"retweet";i:255682420232306688;s:7:"retweet";i:260354092419907584;s:7:"retweet";i:260348848139018241;s:7:"retweet";i:269084571218366464;s:7:"retweet";i:269043674703331329;s:7:"retweet";i:272680968651935744;s:7:"retweet";i:281363907384332288;s:7:"retweet";i:280357535351963648;s:7:"retweet";i:279193480704688128;s:7:"retweet";}'
 tweetcount:
@@ -69,7 +69,7 @@ Abrir uma empresa séria e sólida, que sobreviva sozinha, que gere empregos, qu
 
 [UPDATE] Em tempo, [acabei de ler esse artigo sensacional][4] falando sobre quase o mesmo assunto.
 
- [1]: http://exame.abril.com.br/pme/dicas-de-especialista/noticias/o-que-e-uma-startup
- [2]: http://projetodsd.com.br/empreendedorismo/qual-a-diferenca-entre-empresario-e-empreendedor/?utm_source=Tableless&utm_medium=Post&utm_campaign=TablelessComBr&utm_nooverride=1
- [3]: http://exame.abril.com.br/pme/startups
- [4]: http://webholic.com.br/2012/09/10/licoes-do-digg-para-os-empreendedores/
+ [1]: https://exame.abril.com.br/pme/dicas-de-especialista/noticias/o-que-e-uma-startup
+ [2]: https://projetodsd.com.br/empreendedorismo/qual-a-diferenca-entre-empresario-e-empreendedor/?utm_source=Tableless&utm_medium=Post&utm_campaign=TablelessComBr&utm_nooverride=1
+ [3]: https://exame.abril.com.br/pme/startups
+ [4]: https://webholic.com.br/2012/09/10/licoes-do-digg-para-os-empreendedores/

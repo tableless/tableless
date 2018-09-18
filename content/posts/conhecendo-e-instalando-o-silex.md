@@ -16,7 +16,7 @@ tags:
   - framework
 
 ---
-O <a href="http://silex.sensiolabs.org/" target="_blank">Silex</a> é um micro framework baseado nos componentes do <a href="http://symfony.com/" target="_blank">Symfony</a>. Foi desenvolvido por <a href="http://fabien.potencier.org/" target="_blank">Fabien Potencier</a>, o mesmo criador do Symfony.
+O <a href="https://silex.sensiolabs.org/" target="_blank">Silex</a> é um micro framework baseado nos componentes do <a href="https://symfony.com/" target="_blank">Symfony</a>. Foi desenvolvido por <a href="https://fabien.potencier.org/" target="_blank">Fabien Potencier</a>, o mesmo criador do Symfony.
 
 O Silex foi concebido para a criação de aplicações pequenas com foco na agilidade, extensibilidade e para ser facilmente testável. Ele provê um sistema de rotas muito poderoso, e se propõe a resolvê-las através dos Services e Providers, conceitos que veremos mais à frente. Você perceberá que ele é facilmente estendido e suas funcionalidades recebem uma vantagem através dessas integrações.
 
@@ -45,7 +45,7 @@ O comando fará o download e irá compilar o composer.phar e arquivos [`.phar
 
 `php composer.phar install`
 
-É preciso que você tenha o <a href="http://www.php-cli.com/" target="_blank">php-cli</a> disponível em seu terminal. O comando acima verificará o arquivo `composer.json` e logo em seguida fará o download do Silex, conforme requerido no arquivo `.json` da versão 1.2. Após tudo concluído, você verá uma imagem semelhante a essa:
+É preciso que você tenha o <a href="https://www.php-cli.com/" target="_blank">php-cli</a> disponível em seu terminal. O comando acima verificará o arquivo `composer.json` e logo em seguida fará o download do Silex, conforme requerido no arquivo `.json` da versão 1.2. Após tudo concluído, você verá uma imagem semelhante a essa:
 
 [<img class="alignnone wp-image-49784 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/packages-installed.png" alt="Silex - Packages instalados" width="742" height="769" />][3]
 
@@ -82,5 +82,5 @@ Podemos ver o quão simples é utilizar esse micro framework através dos proce
 Por hora, pratique os conhecimentos aqui passados. Nos vemos em breve!
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/curl-composer.png
- [2]: http://php.net/phar
+ [2]: https://php.net/phar
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/packages-installed.png

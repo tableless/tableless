@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356418592
 shorturls:
-  - 'a:3:{s:9:"permalink";s:32:"http://tableless.com.br/editores";s:7:"tinyurl";s:26:"http://tinyurl.com/3rlklvz";s:4:"isgd";s:19:"http://is.gd/YJxdkO";}'
+  - 'a:3:{s:9:"permalink";s:32:"https://tableless.com.br/editores";s:7:"tinyurl";s:26:"https://tinyurl.com/3rlklvz";s:4:"isgd";s:19:"https://is.gd/YJxdkO";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035903
@@ -49,10 +49,10 @@ Se você está achando este artigo superficial. Torne ele melhor contribuindo co
 
 Qual editor você usa?
 
- [1]: http://www.pspad.com/en/
- [2]: http://editplus.com/ "EditPlus"
- [3]: http://www.htmlkit.com/
- [4]: http://www.adobe.com/products/dreamweaver/
- [5]: http://www.google.com.br/url?sa=t&ct=res&cd=10&url=http%3A%2F%2Fwww.bradsoft.com%2Ftopstyle%2Ftslite%2Findex.asp&ei=ucjwRKPWLa2GatGToa0D&sig2=h6Gq5T4gEN0J_JkC3FbI9Q
- [6]: http://www.google.com.br/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fwww.adobe.com%2Fproducts%2Fhomesite%2F&ei=rcjwRIOlBK6oaICPobsC&sig2=sDbgytStTDzmTho6FoC54A
- [7]: http://www.coffeecup.com/html-editor/
+ [1]: https://www.pspad.com/en/
+ [2]: https://editplus.com/ "EditPlus"
+ [3]: https://www.htmlkit.com/
+ [4]: https://www.adobe.com/products/dreamweaver/
+ [5]: https://www.google.com.br/url?sa=t&ct=res&cd=10&url=http%3A%2F%2Fwww.bradsoft.com%2Ftopstyle%2Ftslite%2Findex.asp&ei=ucjwRKPWLa2GatGToa0D&sig2=h6Gq5T4gEN0J_JkC3FbI9Q
+ [6]: https://www.google.com.br/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fwww.adobe.com%2Fproducts%2Fhomesite%2F&ei=rcjwRIOlBK6oaICPobsC&sig2=sDbgytStTDzmTho6FoC54A
+ [7]: https://www.coffeecup.com/html-editor/

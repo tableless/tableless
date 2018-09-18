@@ -14,12 +14,12 @@ categories:
   - publieditorial
 ---
 
-Depois de fazer esse [post com dicas de acessibilidade](http://blog.caelum.com.br/melhorando-a-acessibilidade-em-suas-interfaces/), resolvi fazer mais este para que você conheça um pouco de um recurso muito interessante: a **WAI ARIA**. Vamos?
+Depois de fazer esse [post com dicas de acessibilidade](https://blog.caelum.com.br/melhorando-a-acessibilidade-em-suas-interfaces/), resolvi fazer mais este para que você conheça um pouco de um recurso muito interessante: a **WAI ARIA**. Vamos?
 
 * * *
 
 Um elemento visual que hora ou outra precisamos fazer em nossos projetos é aquela janelinha _modal_ ou _dialog_. Sabe? Aquela que aparece sempre para te <del>irritar</del> informar sobre algo importante ou confirmar alguma ação? Como essa da imagem abaixo: 
-![Exemplo de janela modal pedindo email](http://blog.caelum.com.br/wp-content/uploads/2042/04/exemplo-janela-modal-dialog.jpg) 
+![Exemplo de janela modal pedindo email](https://blog.caelum.com.br/wp-content/uploads/2042/04/exemplo-janela-modal-dialog.jpg) 
 
 Como normalmente você faria essa janela? O novo elemento `<dialog>` pode ser uma boa, mas o [suporte atualmente ainda não é muito bom.](https://caniuse.com/#search=dialog). Poderíamos ir com uma singela `<div>`, como essa:
 
@@ -27,7 +27,7 @@ Como normalmente você faria essa janela? O novo elemento `<dialog>` pode ser um
 
 <script async="" src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-Agora, como será que o usuário de leitor de tela ouviria isso? Para demonstrar isso sem que você tenha que baixar um desses softwares (o que recomendo, sua percepção como profissional e pessoa vai mudar bastante), dá uma olhada no GIF abaixo que mostra o exibidor de fala de um deles, o NVDA: ![Modal que nao avisa no NVDA que foi aberta](http://blog.caelum.com.br/wp-content/uploads/2018/04/modal-que-nao-parece-modal.gif) Sem aviso nenhum, o usuário se perderá quando essa janela surgir. Idealmente, o leitor de tela deveria informar que uma janela foi aberta. Como fazer isso? Podemos fazer uso de um recurso super bacana chamado WAI ARIA.
+Agora, como será que o usuário de leitor de tela ouviria isso? Para demonstrar isso sem que você tenha que baixar um desses softwares (o que recomendo, sua percepção como profissional e pessoa vai mudar bastante), dá uma olhada no GIF abaixo que mostra o exibidor de fala de um deles, o NVDA: ![Modal que nao avisa no NVDA que foi aberta](https://blog.caelum.com.br/wp-content/uploads/2018/04/modal-que-nao-parece-modal.gif) Sem aviso nenhum, o usuário se perderá quando essa janela surgir. Idealmente, o leitor de tela deveria informar que uma janela foi aberta. Como fazer isso? Podemos fazer uso de um recurso super bacana chamado WAI ARIA.
 
 ## WAI ARIA?
 
@@ -40,7 +40,7 @@ Pense na [WAI ARIA](https://www.w3.org/TR/aria-in-html/) como vários pacotes de
   
 Agora veja como o NVDA interpreta isso: 
 
-![](http://blog.caelum.com.br/wp-content/uploads/2018/04/nvda-modal-com-role.jpg)
+![](https://blog.caelum.com.br/wp-content/uploads/2018/04/nvda-modal-com-role.jpg)
 
 
 ## Só isso para uma modal acessível?
@@ -66,4 +66,4 @@ Também tinha essa dúvida! Fiz uma rápida enquete no meu Twitter, e apesar do 
 
 ## Resumo
 
-Tente usar os elementos nativos do HTML5 que não tem muito erro. Se por algum motivo você não puder ou for algo que ainda não foi criado, use a WAI ARIA para te ajudar a deixar seu projeto um pouco mais acessível. Se tiver interesse em se aprofundar em acessibilidade, tanto na parte de design/layouts quanto na parte de front-end, recomendo a dar uma olhada nesse [post com dicas de acessibilidade](http://blog.caelum.com.br/melhorando-a-acessibilidade-em-suas-interfaces/) e nos meus [cursos de acessibilidade](https://www.alura.com.br/busca?query=acessibilidade) na Alura, em que mostro como deixar seu site mais inclusivo para todos.
+Tente usar os elementos nativos do HTML5 que não tem muito erro. Se por algum motivo você não puder ou for algo que ainda não foi criado, use a WAI ARIA para te ajudar a deixar seu projeto um pouco mais acessível. Se tiver interesse em se aprofundar em acessibilidade, tanto na parte de design/layouts quanto na parte de front-end, recomendo a dar uma olhada nesse [post com dicas de acessibilidade](https://blog.caelum.com.br/melhorando-a-acessibilidade-em-suas-interfaces/) e nos meus [cursos de acessibilidade](https://www.alura.com.br/busca?query=acessibilidade) na Alura, em que mostro como deixar seu site mais inclusivo para todos.

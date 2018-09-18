@@ -7,7 +7,7 @@ url: /web-standards-vs-tableless/
 tweetbackscheck:
   - 1356358846
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/web-standards-vs-tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/452t7ux";s:4:"isgd";s:19:"http://is.gd/kzgdBB";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/web-standards-vs-tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/452t7ux";s:4:"isgd";s:19:"https://is.gd/kzgdBB";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035771
@@ -44,10 +44,10 @@ O Henrique falou muito sobre o assunto no [post][1], mas, se você quiser entend
   * [Lições sobre Semântica #1][6]
   * [Lições sobre Semântica #2][7]
 
- [1]: http://www.revolucao.etc.br/archives/tableless-vs-web-standards/
- [2]: http://www.google.com.br/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fsomerandomdude.net%2Fprojects%2Fwebdev%2Fdivless%2F&ei=qkvJRJmfBby4auvdiNIM&sig2=3qylQ-STKkAeV06n6JS2FA
- [3]: http://tableless.com.br/a-semantica-e-que-manda
- [4]: http://tableless.com.br/aplicacoes-comem-conteudo
- [5]: http://tableless.com.br/aprenda/a-web-semantica/
- [6]: http://tableless.com.br/licoes_sobre_semantica_1
- [7]: http://tableless.com.br/licoes_sobre_semantica_2
+ [1]: https://www.revolucao.etc.br/archives/tableless-vs-web-standards/
+ [2]: https://www.google.com.br/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fsomerandomdude.net%2Fprojects%2Fwebdev%2Fdivless%2F&ei=qkvJRJmfBby4auvdiNIM&sig2=3qylQ-STKkAeV06n6JS2FA
+ [3]: https://tableless.com.br/a-semantica-e-que-manda
+ [4]: https://tableless.com.br/aplicacoes-comem-conteudo
+ [5]: https://tableless.com.br/aprenda/a-web-semantica/
+ [6]: https://tableless.com.br/licoes_sobre_semantica_1
+ [7]: https://tableless.com.br/licoes_sobre_semantica_2

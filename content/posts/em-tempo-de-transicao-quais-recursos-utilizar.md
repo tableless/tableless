@@ -8,7 +8,7 @@ url: /em-tempo-de-transicao-quais-recursos-utilizar/
 tweetbackscheck:
   - 1356467834
 shorturls:
-  - 'a:3:{s:9:"permalink";s:69:"http://tableless.com.br/em-tempo-de-transicao-quais-recursos-utilizar";s:7:"tinyurl";s:26:"http://tinyurl.com/43npmp7";s:4:"isgd";s:19:"http://is.gd/VtbBc3";}'
+  - 'a:3:{s:9:"permalink";s:69:"https://tableless.com.br/em-tempo-de-transicao-quais-recursos-utilizar";s:7:"tinyurl";s:26:"https://tinyurl.com/43npmp7";s:4:"isgd";s:19:"https://is.gd/VtbBc3";}'
 twittercomments:
   - 'a:8:{i:131046860470235136;s:7:"retweet";i:131043403872997379;s:7:"retweet";i:131041448836603905;s:7:"retweet";i:155794218755948544;s:7:"retweet";i:155775409882013696;s:7:"retweet";i:160530631737094144;s:7:"retweet";i:162908909038874625;s:7:"retweet";i:160536516819550208;s:7:"retweet";}'
 tweetcount:
@@ -45,7 +45,7 @@ Quando pensamos em retrocesso, no caso do desenvolvimento web, o utilizamos para
   
 Inúmeras são as dicas aqui no Tableles relacionadas à esta frente de desenvolvimento, mas o que podemos levar em consideração quando pensamos em desenvolver um website dentro dessas diretrizes é que: IE 6 e IE7 ainda devem fazer parte dos browsers em testes e que ainda utilizaremos imagens para criação de bordas arredondadas e sombras. Além claro, de nos encontrar em momentos que utilizaremos diversos elementos em nosso código html apenas para assegurar que algum efeito visual seja renderizado na tela [ as vezes dependente do uso de Javascript para tanto ]. Considerando estes pontos e pensando nos fins do projeto, basta iniciar o desenvolvimento.
   
-Algumas dicas que podem ajudar nesta escolha estão em: <a href="http://tableless.com.br/categoria/client-side/html-css/page/2" target="_blank">http://tableless.com.br/categoria/client-side/html-css/page/2</a>
+Algumas dicas que podem ajudar nesta escolha estão em: <a href="https://tableless.com.br/categoria/client-side/html-css/page/2" target="_blank">https://tableless.com.br/categoria/client-side/html-css/page/2</a>
 
 ### Progressivamente evoluir
 
@@ -55,11 +55,11 @@ Pouco ainda consegue-se definir a respeito das novas possibilidades, mas é fato
   
 Com isso, os testes geralmente giram em torno dos novos browsers, mas eventualmente necessitamos também direcionar o desenvolvimento à navegadores mais antigos, encontrando assim, a dificuldade em visualizar a mesma coisa em todos eles. Para ajudar, pensando em HTML 5 e CSS3, abaixo uma lista de algumas ferramentas que podem ajudar na implementação das novas técnicas em browsers e possibilidades atuais:
 
-  * Modernizr: <a href="http://www.modernizr.com/" target="_blank">http://www.modernizr.com/</a> &#8211; uma ferramenta JavaScript que suporta propriedades CSS3 em diferentes navegadores.
-  * CSS3 Pie: <a href="http://css3pie.com/" target="_blank">http://css3pie.com/</a> &#8211; <a href="http://tableless.com.br/css3-bordas-arredondadas-sombras-e-gradiente" target="_blank">já comentada em outro artigo</a>, o CSS3 Pie é uma ferramenta JavaScript que permite renderizar bordas arredondadas, background-gradient e box-shadow nas versões anteriores de IE.
-  * Selectivizr: <a href="http://selectivizr.com/" target="_blank">http://selectivizr.com/</a> &#8211; ferramenta JavaScript que emula seletores CSS3 e pseudo-classes, como por exemplo :focus em diferentes browsers.
+  * Modernizr: <a href="https://www.modernizr.com/" target="_blank">https://www.modernizr.com/</a> &#8211; uma ferramenta JavaScript que suporta propriedades CSS3 em diferentes navegadores.
+  * CSS3 Pie: <a href="https://css3pie.com/" target="_blank">https://css3pie.com/</a> &#8211; <a href="https://tableless.com.br/css3-bordas-arredondadas-sombras-e-gradiente" target="_blank">já comentada em outro artigo</a>, o CSS3 Pie é uma ferramenta JavaScript que permite renderizar bordas arredondadas, background-gradient e box-shadow nas versões anteriores de IE.
+  * Selectivizr: <a href="https://selectivizr.com/" target="_blank">https://selectivizr.com/</a> &#8211; ferramenta JavaScript que emula seletores CSS3 e pseudo-classes, como por exemplo :focus em diferentes browsers.
 
-Além das ferramentas, conheça no link ao lado também, algumas das melhorias trazidas para as folhas de estilo em sua nova versão e para a evolução da linguagem de marcação &#8211; o HTML5: <a href="http://tableless.com.br/categoria/client-side/html-css" target="_blank">http://tableless.com.br/categoria/client-side/html-css</a>
+Além das ferramentas, conheça no link ao lado também, algumas das melhorias trazidas para as folhas de estilo em sua nova versão e para a evolução da linguagem de marcação &#8211; o HTML5: <a href="https://tableless.com.br/categoria/client-side/html-css" target="_blank">https://tableless.com.br/categoria/client-side/html-css</a>
 
 Testar o novo ou trabalhar com o conhecido? Esta pergunta não podemos responder, mas analisadas as características do seu projeto, você mesmo poderá tomar esta decisão consciente de um trabalho profissional e determinado ao sucesso.
 

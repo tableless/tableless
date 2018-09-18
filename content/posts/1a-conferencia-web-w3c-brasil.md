@@ -25,8 +25,8 @@ O Comitê de Programa vai selecionar as submissões mais relevantes para compor 
 
 Entre na [comunidade da conferência no Facebook][5] e fique por dentro.
 
- [1]: http://conferenciaweb.w3c.br/mapa-do-local
- [2]: http://conferenciaweb.w3c.br/hoteis
- [3]: http://conferenciaweb.w3c.br/chamada-de-trabalhos
- [4]: http://conferenciaweb.w3c.br/inscricoes
- [5]: http://www.facebook.com/reqs.php#/group.php?gid=122287968751&ref=mf
+ [1]: https://conferenciaweb.w3c.br/mapa-do-local
+ [2]: https://conferenciaweb.w3c.br/hoteis
+ [3]: https://conferenciaweb.w3c.br/chamada-de-trabalhos
+ [4]: https://conferenciaweb.w3c.br/inscricoes
+ [5]: https://www.facebook.com/reqs.php#/group.php?gid=122287968751&ref=mf

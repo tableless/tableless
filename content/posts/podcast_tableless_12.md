@@ -7,14 +7,14 @@ url: /podcast_tableless_12/
 enclosure:
   - |
     |
-        http://tableless.com.br/podcast/podcast-tableless-12.mp3
+        https://tableless.com.br/podcast/podcast-tableless-12.mp3
         17397760
         audio/mpeg
         
 tweetbackscheck:
   - 1356468321
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/podcast_tableless_12";s:7:"tinyurl";s:26:"http://tinyurl.com/3psa9v3";s:4:"isgd";s:19:"http://is.gd/1NzLVj";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/podcast_tableless_12";s:7:"tinyurl";s:26:"https://tinyurl.com/3psa9v3";s:4:"isgd";s:19:"https://is.gd/1NzLVj";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033750
@@ -34,17 +34,17 @@ Se preferir, [baixe o MP3 aqui mesmo][12], ou cadastre [nosso RSS][13] ou do [Br
 
 <small>E fique esperto, mudanças referentes ao podcast estão por vir! Para melhor.</small>
 
- [1]: http://www.guileite.com/
- [2]: http://brunotorres.net/
- [3]: http://www.digitalminds.com.br/
- [4]: http://www.mobilelife.com.br/
- [5]: http://tableless.com.br/eyesmiles/
- [6]: http://stream.apple.akadns.net/
- [7]: http://roundcube.net/
- [8]: http://blogs.msdn.com/ie/archive/2005/10/12/480242.aspx
- [9]: http://meyerweb.com/eric/thoughts/2005/10/17/ie7-and-ie7/
- [10]: http://meyerweb.com/eric/thoughts/2005/10/18/to-hack-with-it/
- [11]: http://www.theregister.co.uk/2005/10/13/mp3_breast_implant/
- [12]: http://tableless.com.br/podcast/podcast-tableless-12.mp3
- [13]: http://tableless.com.br/rss.asp
- [14]: http://brunotorres.net/index.rss
+ [1]: https://www.guileite.com/
+ [2]: https://brunotorres.net/
+ [3]: https://www.digitalminds.com.br/
+ [4]: https://www.mobilelife.com.br/
+ [5]: https://tableless.com.br/eyesmiles/
+ [6]: https://stream.apple.akadns.net/
+ [7]: https://roundcube.net/
+ [8]: https://blogs.msdn.com/ie/archive/2005/10/12/480242.aspx
+ [9]: https://meyerweb.com/eric/thoughts/2005/10/17/ie7-and-ie7/
+ [10]: https://meyerweb.com/eric/thoughts/2005/10/18/to-hack-with-it/
+ [11]: https://www.theregister.co.uk/2005/10/13/mp3_breast_implant/
+ [12]: https://tableless.com.br/podcast/podcast-tableless-12.mp3
+ [13]: https://tableless.com.br/rss.asp
+ [14]: https://brunotorres.net/index.rss

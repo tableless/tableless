@@ -22,7 +22,7 @@ Farei uso da API com o exemplo prático de um aplicativo que pega as fotos do us
 
 ## Criando o App
 
-Primeira coisa que você deve fazer é ir no <a href="https://developers.facebook.com/apps/" target="_blank">painel de aplicativos</a> do Facebook Developer e criar um novo aplicativo. É um processo bem simples e por isso vou pular essa parte. Quando solicitado a plataforma do seu app, selecione Site (www). E lá em Settings altere o &#8220;Website -> Site URL&#8221; para a URL da sua aplicação, pode ser http://localhost/ .
+Primeira coisa que você deve fazer é ir no <a href="https://developers.facebook.com/apps/" target="_blank">painel de aplicativos</a> do Facebook Developer e criar um novo aplicativo. É um processo bem simples e por isso vou pular essa parte. Quando solicitado a plataforma do seu app, selecione Site (www). E lá em Settings altere o &#8220;Website -> Site URL&#8221; para a URL da sua aplicação, pode ser https://localhost/ .
 
 ## Login
 

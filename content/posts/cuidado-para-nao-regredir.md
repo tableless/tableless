@@ -7,7 +7,7 @@ url: /cuidado-para-nao-regredir/
 tweetbackscheck:
   - 1356448248
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/cuidado-para-nao-regredir";s:7:"tinyurl";s:26:"http://tinyurl.com/3ezqffz";s:4:"isgd";s:19:"http://is.gd/CvTyld";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/cuidado-para-nao-regredir";s:7:"tinyurl";s:26:"https://tinyurl.com/3ezqffz";s:4:"isgd";s:19:"https://is.gd/CvTyld";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036778
@@ -30,4 +30,4 @@ Vamos com calma. Vamos planejar e pensar antes de sentar o bumbum no banco e cod
 
 O bom desenvolvimento é um conjunto de vários pontos. Vão desde planejamento até a relação de designers e programadores. É um caminho tortuoso, mas bem fácil de caminhar.
 
- [1]: http://tableless.com.br/codigo_novo_maneira_velha
+ [1]: https://tableless.com.br/codigo_novo_maneira_velha

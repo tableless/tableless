@@ -18,12 +18,12 @@ Começamos do zero o novo fórum. Isso quer dizer que o conteúdo produzido no f
 
 Além disso, juntamos uma galera marota para moderar os tópicos. Obrigado ao [Nick][4], [Daniel Marcos][5], [Luã Ciceri][6], [Rafael França][7], [Daniel Schmitz][8] e ao [Gabriel Masson][9] por me ajudarem a moderar o fórum com tanta agilidade e atenção! \o/
 
- [1]: http://forum.tableless.com.br
- [2]: http://forum.tableless.com.br/
- [3]: http://discourse.org
- [4]: http://forum.tableless.com.br/users/nick
- [5]: http://forum.tableless.com.br/users/danielmarcos
- [6]: http://forum.tableless.com.br/users/lciceris
- [7]: http://forum.tableless.com.br/users/euconectei
- [8]: http://forum.tableless.com.br/users/daniel
- [9]: http://forum.tableless.com.br/users/gabriel_masson/activity
+ [1]: https://forum.tableless.com.br
+ [2]: https://forum.tableless.com.br/
+ [3]: https://discourse.org
+ [4]: https://forum.tableless.com.br/users/nick
+ [5]: https://forum.tableless.com.br/users/danielmarcos
+ [6]: https://forum.tableless.com.br/users/lciceris
+ [7]: https://forum.tableless.com.br/users/euconectei
+ [8]: https://forum.tableless.com.br/users/daniel
+ [9]: https://forum.tableless.com.br/users/gabriel_masson/activity

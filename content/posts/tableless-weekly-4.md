@@ -65,18 +65,18 @@ Perdeu algum artigo da série? Olha eles aqui:
 
 Um forte abraço e até a próxima semana.
 
- [1]: http://tableless.com.br/o-futuro-chegou-o-elemento-picture/
- [2]: http://people.mozilla.org/~jorendorff/es6-draft.html
+ [1]: https://tableless.com.br/o-futuro-chegou-o-elemento-picture/
+ [2]: https://people.mozilla.org/~jorendorff/es6-draft.html
  [3]: https://github.com/skatejs/skatejs
- [4]: http://tableless.com.br/web-components-introducao/
- [5]: http://www.google.com/photos/about/
- [6]: http://www.realheroines.com/
- [7]: http://www.wikiwand.com/
- [8]: http://mixture.io/
- [9]: http://www.cssanalyser.com/
- [10]: http://mynameismatthieu.com/WOW/index.html
- [11]: http://fontastic.me/
+ [4]: https://tableless.com.br/web-components-introducao/
+ [5]: https://www.google.com/photos/about/
+ [6]: https://www.realheroines.com/
+ [7]: https://www.wikiwand.com/
+ [8]: https://mixture.io/
+ [9]: https://www.cssanalyser.com/
+ [10]: https://mynameismatthieu.com/WOW/index.html
+ [11]: https://fontastic.me/
  [12]: https://lenilson.typeform.com/to/ILh66e
- [13]: http://tableless.com.br/tableless-weekly-3/
- [14]: http://tableless.com.br/tableless-weekly-2/
- [15]: http://tableless.com.br/tableless-weekly-1/
+ [13]: https://tableless.com.br/tableless-weekly-3/
+ [14]: https://tableless.com.br/tableless-weekly-2/
+ [15]: https://tableless.com.br/tableless-weekly-1/

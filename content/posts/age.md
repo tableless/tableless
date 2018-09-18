@@ -7,7 +7,7 @@ url: /zengarage/
 tweetbackscheck:
   - 1355291155
 shorturls:
-  - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/zengarage";s:7:"tinyurl";s:26:"http://tinyurl.com/3nehh4v";s:4:"isgd";s:19:"http://is.gd/jb6wg5";}'
+  - 'a:3:{s:9:"permalink";s:33:"https://tableless.com.br/zengarage";s:7:"tinyurl";s:26:"https://tinyurl.com/3nehh4v";s:4:"isgd";s:19:"https://is.gd/jb6wg5";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034848
@@ -28,6 +28,6 @@ Um jeito facílimo de mostrar a quem quiser os vários CSS e templates. Ajuda mu
   
 Veja um [demo][3] online.
 
- [1]: http://micropublicantes.com/zengarage/
- [2]: http://csszengarden.com/
- [3]: http://micropublicantes.com/zengarage/demo/
+ [1]: https://micropublicantes.com/zengarage/
+ [2]: https://csszengarden.com/
+ [3]: https://micropublicantes.com/zengarage/demo/

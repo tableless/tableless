@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356384255
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/porque-e-a-web-que-comanda";s:7:"tinyurl";s:26:"http://tinyurl.com/43t78k6";s:4:"isgd";s:19:"http://is.gd/s1F3nX";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/porque-e-a-web-que-comanda";s:7:"tinyurl";s:26:"https://tinyurl.com/43t78k6";s:4:"isgd";s:19:"https://is.gd/s1F3nX";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039333
@@ -53,6 +53,6 @@ O cenário de hoje é interessante. Tudo o que o desenvolvedor sempre sonhou em 
   * [Guidelines de User Experience][2] da Apple.
   * [Forum Nokia &#8211; Web Runtime][3]
 
- [1]: http://www.jqtouch.com/
- [2]: http://developer.apple.com/iphone/library/documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html
- [3]: http://www.forum.nokia.com/Technology_Topics/Web_Technologies/Web_Runtime/
+ [1]: https://www.jqtouch.com/
+ [2]: https://developer.apple.com/iphone/library/documentation/UserExperience/Conceptual/MobileHIG/Introduction/Introduction.html
+ [3]: https://www.forum.nokia.com/Technology_Topics/Web_Technologies/Web_Runtime/

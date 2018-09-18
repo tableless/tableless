@@ -19,7 +19,7 @@ Em 2013, a Web.br ocorre nos **dias 18 e 19 de novembro, em São Paulo**, no Cen
 
 <img style="clear: right" alt="Web Got's tallent" src="https://conferenciaweb.w3c.br/uploads/2013/10/websgottalent_740px_final3.png" />
 
-A Conferência Web.br 2013 contará ainda com o concurso [Web&#8217;s Got Talent][7], que reconhecerá as melhores aplicações web que visam fornecer serviços aos usuários. A proposta é promover a adoção de padrões abertos no empreendedorismo. O apresentador do concurso é <a href="http://interney.net/edney-entrevista-interney/" target="_blank">Edney Souza</a>, o Interney, empresário e professor especialista em tecnologias para Marketing Digital. 
+A Conferência Web.br 2013 contará ainda com o concurso [Web&#8217;s Got Talent][7], que reconhecerá as melhores aplicações web que visam fornecer serviços aos usuários. A proposta é promover a adoção de padrões abertos no empreendedorismo. O apresentador do concurso é <a href="https://interney.net/edney-entrevista-interney/" target="_blank">Edney Souza</a>, o Interney, empresário e professor especialista em tecnologias para Marketing Digital. 
 
 Como jurados teremos profissionais de peso do mercado digital e da web como Manoel Lemos (Chief Digital Officer da Abril Mídia), Bob Wollheim (co-fundador do youPIX), Mauro Segura (Diretor de Marketing e Comunicação da IBM Brasil), Martha Gabriel (Escritora e PhD), Amyris Fernandez (Diretora de Pesquisa em Marketing no Buscapé) e Ana Brambilla (Jornalista, professora e editora de mídias sociais da Editora Globo). Eles avaliarão ao vivo os cinco projetos selecionados que concorrerão na etapa final. **Os dois primeiros vencedores ganharão uma passagem para a cidade de Cambridge, nos Estados Unidos, para conhecer a sede do W3C Internacional no MIT.**
 
@@ -54,41 +54,41 @@ O evento ainda terá um espaço fora dos auditórios o espaço **SVG**, onde aco
   * [dia 18][35]
   * [dia 19][36]
 
-Para maiores informações sobre a conferência, acesse <http://conferenciaweb.w3c.br/>
+Para maiores informações sobre a conferência, acesse <https://conferenciaweb.w3c.br/>
 
- [1]: http://conferenciaweb.w3c.br/
- [2]: http://conferenciaweb.w3c.br/#trilhas
- [3]: http://conferenciaweb.w3c.br/inscricoes/
- [4]: http://conferenciaweb.w3c.br/#eventos-parceiros
- [5]: http://conferenciaweb.w3c.br/#fernanda
- [6]: http://conferenciaweb.w3c.br/#kris
- [7]: http://conferenciaweb.w3c.br/inscricoes-abertas-para-o-webs-got-talent/
- [8]: http://conferenciaweb.w3c.br/#antonio
- [9]: http://conferenciaweb.w3c.br/#leo
- [10]: http://conferenciaweb.w3c.br/#thiago
- [11]: http://conferenciaweb.w3c.br/#alex
- [12]: http://conferenciaweb.w3c.br/#soraya
- [13]: http://conferenciaweb.w3c.br/#guilhes
- [14]: http://conferenciaweb.w3c.br/#gustavo
- [15]: http://conferenciaweb.w3c.br/#rafael
- [16]: http://www.w3c.br/
- [17]: http://conferenciaweb.w3c.br/#jaydson
- [18]: http://conferenciaweb.w3c.br/#daniel
- [19]: http://conferenciaweb.w3c.br/#caio
- [20]: http://conferenciaweb.w3c.br/#almir
- [21]: http://conferenciaweb.w3c.br/#diego
- [22]: http://conferenciaweb.w3c.br/#deivid
- [23]: http://conferenciaweb.w3c.br/#talita
- [24]: http://conferenciaweb.w3c.br/#jean
- [25]: http://conferenciaweb.w3c.br/#bernard
- [26]: http://conferenciaweb.w3c.br/#andre
- [27]: http://conferenciaweb.w3c.br/#fabio
- [28]: http://conferenciaweb.w3c.br/#luis
- [29]: http://conferenciaweb.w3c.br/#pedro
- [30]: http://conferenciaweb.w3c.br/#marco
- [31]: http://conferenciaweb.w3c.br/#sergio
- [32]: http://conferenciaweb.w3c.br/#nathalia
- [33]: http://conferenciaweb.w3c.br/#felipe
- [34]: http://conferenciaweb.w3c.br/#thadeu
- [35]: http://conferenciaweb.w3c.br/#trilha-primeiro-dia
- [36]: http://conferenciaweb.w3c.br/#trilha-segundo-dia
+ [1]: https://conferenciaweb.w3c.br/
+ [2]: https://conferenciaweb.w3c.br/#trilhas
+ [3]: https://conferenciaweb.w3c.br/inscricoes/
+ [4]: https://conferenciaweb.w3c.br/#eventos-parceiros
+ [5]: https://conferenciaweb.w3c.br/#fernanda
+ [6]: https://conferenciaweb.w3c.br/#kris
+ [7]: https://conferenciaweb.w3c.br/inscricoes-abertas-para-o-webs-got-talent/
+ [8]: https://conferenciaweb.w3c.br/#antonio
+ [9]: https://conferenciaweb.w3c.br/#leo
+ [10]: https://conferenciaweb.w3c.br/#thiago
+ [11]: https://conferenciaweb.w3c.br/#alex
+ [12]: https://conferenciaweb.w3c.br/#soraya
+ [13]: https://conferenciaweb.w3c.br/#guilhes
+ [14]: https://conferenciaweb.w3c.br/#gustavo
+ [15]: https://conferenciaweb.w3c.br/#rafael
+ [16]: https://www.w3c.br/
+ [17]: https://conferenciaweb.w3c.br/#jaydson
+ [18]: https://conferenciaweb.w3c.br/#daniel
+ [19]: https://conferenciaweb.w3c.br/#caio
+ [20]: https://conferenciaweb.w3c.br/#almir
+ [21]: https://conferenciaweb.w3c.br/#diego
+ [22]: https://conferenciaweb.w3c.br/#deivid
+ [23]: https://conferenciaweb.w3c.br/#talita
+ [24]: https://conferenciaweb.w3c.br/#jean
+ [25]: https://conferenciaweb.w3c.br/#bernard
+ [26]: https://conferenciaweb.w3c.br/#andre
+ [27]: https://conferenciaweb.w3c.br/#fabio
+ [28]: https://conferenciaweb.w3c.br/#luis
+ [29]: https://conferenciaweb.w3c.br/#pedro
+ [30]: https://conferenciaweb.w3c.br/#marco
+ [31]: https://conferenciaweb.w3c.br/#sergio
+ [32]: https://conferenciaweb.w3c.br/#nathalia
+ [33]: https://conferenciaweb.w3c.br/#felipe
+ [34]: https://conferenciaweb.w3c.br/#thadeu
+ [35]: https://conferenciaweb.w3c.br/#trilha-primeiro-dia
+ [36]: https://conferenciaweb.w3c.br/#trilha-segundo-dia

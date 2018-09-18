@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356452856
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/digest-0509-tecnicas-de-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3cqojfa";s:4:"isgd";s:19:"http://is.gd/ktup05";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/digest-0509-tecnicas-de-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3cqojfa";s:4:"isgd";s:19:"https://is.gd/ktup05";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039074
@@ -26,7 +26,7 @@ tags:
   * [Collapsible Tables][3]
   * [Checkbox Customization][4]
 
- [1]: http://www.nundroo.com/navigation/
- [2]: http://superfluousbanter.org/archives/2004/05/navigation-matrix-reloaded/
- [3]: http://icant.co.uk/sandbox/footercollapsetables/
- [4]: http://www.flog.co.nz/lab/ARC/ARC.htm
+ [1]: https://www.nundroo.com/navigation/
+ [2]: https://superfluousbanter.org/archives/2004/05/navigation-matrix-reloaded/
+ [3]: https://icant.co.uk/sandbox/footercollapsetables/
+ [4]: https://www.flog.co.nz/lab/ARC/ARC.htm

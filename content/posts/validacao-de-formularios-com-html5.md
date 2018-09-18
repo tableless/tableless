@@ -140,21 +140,21 @@ Dei um _fork_ em todos os exemplos do CodePen colocando o texto em português, 
 
 Qualquer erro ou sugestão de melhoria na tradução, é bem vinda! 🙂
 
- [1]: http://www.sitepoint.com/
- [2]: http://www.sitepoint.com/client-side-form-validation-html5/
+ [1]: https://www.sitepoint.com/
+ [2]: https://www.sitepoint.com/client-side-form-validation-html5/
  [3]: https://twitter.com/tech4sky
- [4]: http://jqueryvalidation.org/
- [5]: http://codepen.io/raphaelfabeni/pen/hLcxn
- [6]: http://codepen.io/SitePoint/pen/BFwhz
- [7]: http://codepen.io/raphaelfabeni/pen/vDIor
- [8]: http://codepen.io/SitePoint/pen/Eambf
- [9]: http://codepen.io/raphaelfabeni/pen/Lgsdk
- [10]: http://codepen.io/SitePoint/pen/nptlf
- [11]: http://codepen.io/raphaelfabeni/pen/GBFkJ
- [12]: http://codepen.io/SitePoint/pen/nKGro
- [13]: http://codepen.io/raphaelfabeni/pen/ifvFI
- [14]: http://codepen.io/SitePoint/pen/ejqig
- [15]: http://codepen.io/raphaelfabeni/pen/ifsje
- [16]: http://codepen.io/SitePoint/pen/hbuxg
- [17]: http://docs.webplatform.org/wiki/concepts/programming/javascript/regex
+ [4]: https://jqueryvalidation.org/
+ [5]: https://codepen.io/raphaelfabeni/pen/hLcxn
+ [6]: https://codepen.io/SitePoint/pen/BFwhz
+ [7]: https://codepen.io/raphaelfabeni/pen/vDIor
+ [8]: https://codepen.io/SitePoint/pen/Eambf
+ [9]: https://codepen.io/raphaelfabeni/pen/Lgsdk
+ [10]: https://codepen.io/SitePoint/pen/nptlf
+ [11]: https://codepen.io/raphaelfabeni/pen/GBFkJ
+ [12]: https://codepen.io/SitePoint/pen/nKGro
+ [13]: https://codepen.io/raphaelfabeni/pen/ifvFI
+ [14]: https://codepen.io/SitePoint/pen/ejqig
+ [15]: https://codepen.io/raphaelfabeni/pen/ifsje
+ [16]: https://codepen.io/SitePoint/pen/hbuxg
+ [17]: https://docs.webplatform.org/wiki/concepts/programming/javascript/regex
  [18]: https://www.google.com.br/?gfe_rd=cr&ei=lkiWU4S-Momk8weRlIBw#q=regular+expression+tool

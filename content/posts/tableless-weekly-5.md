@@ -137,7 +137,7 @@ Não quis ser muito extenso com os links neste artigo devido ao texto inicial se
 
 Espero que tenham gostado e estarei de volta na próxima semana com mais um Tableless Weekly. Até a próxima.
 
- [1]: http://www.thebuildingofmemories.com/
- [2]: http://demicreative.com/
- [3]: http://www.burnkit.com/
- [4]: http://www.raphaelfabeni.com.br/flags-css3/
+ [1]: https://www.thebuildingofmemories.com/
+ [2]: https://demicreative.com/
+ [3]: https://www.burnkit.com/
+ [4]: https://www.raphaelfabeni.com.br/flags-css3/

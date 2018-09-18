@@ -7,7 +7,7 @@ url: /internet-explorer-7-chegando-na-festa-atrasado/
 tweetbackscheck:
   - 1356108364
 shorturls:
-  - 'a:3:{s:9:"permalink";s:70:"http://tableless.com.br/internet-explorer-7-chegando-na-festa-atrasado";s:7:"tinyurl";s:26:"http://tinyurl.com/3h3unmr";s:4:"isgd";s:19:"http://is.gd/gAW9De";}'
+  - 'a:3:{s:9:"permalink";s:70:"https://tableless.com.br/internet-explorer-7-chegando-na-festa-atrasado";s:7:"tinyurl";s:26:"https://tinyurl.com/3h3unmr";s:4:"isgd";s:19:"https://is.gd/gAW9De";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036181
@@ -42,7 +42,7 @@ Mais do mesmo:
   * [A Microsoft lança o IE7&#8230; E quem fica feliz é o pessoal do Firefox][2]
   * [O Internet Explorer 7 e como manter a versão 6 instalada no Windows XP][3]
 
- [1]: http://brunotorres.net/2006/10/20/um-dia-e-meio-com-o-internet-explorer-7
- [2]: http://brunotorres.net/2006/10/19/microsoft-lanca-ie7
- [3]: http://www.revolucao.etc.br/archives/o-internet-explorer-7-e-como-manter-a-versao-6-instalada-no-windows-xp/
- [4]: http://tableless.com.br/mudancas-no-ie7
+ [1]: https://brunotorres.net/2006/10/20/um-dia-e-meio-com-o-internet-explorer-7
+ [2]: https://brunotorres.net/2006/10/19/microsoft-lanca-ie7
+ [3]: https://www.revolucao.etc.br/archives/o-internet-explorer-7-e-como-manter-a-versao-6-instalada-no-windows-xp/
+ [4]: https://tableless.com.br/mudancas-no-ie7

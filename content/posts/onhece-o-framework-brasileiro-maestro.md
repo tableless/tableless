@@ -24,8 +24,8 @@ O Maestro é um framework MVC em PHP (5.4 ou superior). Suporta os bancos de dad
 
 É claro que quando apresentamos uma tecnologia nova, é melhor dar uma &#8220;espiada&#8221; no seu funcionamento antes de partir para qualquer informação mais profunda. Vou deixar dois links a seguir para que você possa acessar e ver:
 
-  * <http://www.danielschmitz.com.br/maestro/index.php/guia/main> Este é um guia que criamos com diversas informações sobre o framework. Você pode consultá-lo sempre que quiser. Se for seu desejo continuar a estudar o framework, este guia contém informações importantes.
-  * <http://www.danielschmitz.com.br/maestro/index.php/exemplos/main> Aqui temos diversos exemplos tanto de componentes quanto de fluxo e utilidades em geral. Alguns exemplos contém erros e estamos empenhados em saná-los.
+  * <https://www.danielschmitz.com.br/maestro/index.php/guia/main> Este é um guia que criamos com diversas informações sobre o framework. Você pode consultá-lo sempre que quiser. Se for seu desejo continuar a estudar o framework, este guia contém informações importantes.
+  * <https://www.danielschmitz.com.br/maestro/index.php/exemplos/main> Aqui temos diversos exemplos tanto de componentes quanto de fluxo e utilidades em geral. Alguns exemplos contém erros e estamos empenhados em saná-los.
 
 ## Github & Instalação
 
@@ -41,11 +41,11 @@ Neste artigo estamos usando o WAMP SERVER para facilitar, então basta baixar o 
 
 Com o maestro no lugar certo, basta acessar:
 
-http://localhost/maestro/
+https://localhost/maestro/
 
 Para ver o mesmo guia online que disponibilizei no início do artigo. Se quiser ver os exemplos diretamente da sua instalação, basta acessar:
 
-http://localhost/maestro/index.php/exemplos/main
+https://localhost/maestro/index.php/exemplos/main
 
 Se tudo funcionou, estamos prontos para começar a entender melhor o framework, no qual veremos mais informações no próximo artigo! Qualquer dificuldade ou dúvida, comente!
 

@@ -12,7 +12,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356392850
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/se-prepare-para-a-revolucao";s:7:"tinyurl";s:26:"http://tinyurl.com/3lwbs77";s:4:"isgd";s:19:"http://is.gd/S9pIzt";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/se-prepare-para-a-revolucao";s:7:"tinyurl";s:26:"https://tinyurl.com/3lwbs77";s:4:"isgd";s:19:"https://is.gd/S9pIzt";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039204
@@ -46,4 +46,4 @@ A web vai ficar mais dinâmica agora. O CSS 3 e o HTML 5 vieram para separar o j
   
 A mesma coisa para o HTML 5. A mudança das tags estruturais do HTML é apenas a ponta das novas possibilidades. Para o pessoal que achava que o HTML é coisa de criança, se prepare, porque o buraco, agora, é mais embaixo.
 
- [1]: http://www.w3.org/TR/css3-roadmap/#whymods
+ [1]: https://www.w3.org/TR/css3-roadmap/#whymods

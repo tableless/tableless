@@ -82,5 +82,5 @@ Aqui está [um excelente artigo (em inglês)][1], escrito por Daniel Stenberg, 
 
 A tradução deste artigo para o Português foi devidamente autorizada pelo autor, [Matt Wilcox][2].
 
- [1]: http://daniel.haxx.se/http2/
+ [1]: https://daniel.haxx.se/http2/
  [2]: https://mattwilcox.net/web-development/http2-for-front-end-web-developers

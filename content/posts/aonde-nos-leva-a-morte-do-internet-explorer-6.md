@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356448033
 shorturls:
-  - 'a:3:{s:9:"permalink";s:69:"http://tableless.com.br/aonde-nos-leva-a-morte-do-internet-explorer-6";s:7:"tinyurl";s:26:"http://tinyurl.com/3jsusv2";s:4:"isgd";s:19:"http://is.gd/uhmiB2";}'
+  - 'a:3:{s:9:"permalink";s:69:"https://tableless.com.br/aonde-nos-leva-a-morte-do-internet-explorer-6";s:7:"tinyurl";s:26:"https://tinyurl.com/3jsusv2";s:4:"isgd";s:19:"https://is.gd/uhmiB2";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039155
@@ -42,8 +42,8 @@ A Microsoft passou oito anos sem atualizar seu navegador para nos dar exatamente
 
 A morte do Internet Explorer 6 nos leva apenas ao lugar onde deveríamos ter chegado há oito anos: sites sem hacks. A Microsoft ainda está algumas gerações atrasadas e, se queremos usar CSS 3 e HTML 5 um dia, é bom parar de comemorar e voltar ao trabalho. Há um mundo para mudar.
 
- [1]: http://www.alistapart.com/articles/tohell/
- [2]: http://tableless.com.br/introducao-ao-css-animation
- [3]: http://tableless.com.br/introducao-sobre-media-queries
- [4]: http://tableless.com.br/css3-columns
- [5]: http://tableless.com.br/nth-child
+ [1]: https://www.alistapart.com/articles/tohell/
+ [2]: https://tableless.com.br/introducao-ao-css-animation
+ [3]: https://tableless.com.br/introducao-sobre-media-queries
+ [4]: https://tableless.com.br/css3-columns
+ [5]: https://tableless.com.br/nth-child

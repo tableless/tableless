@@ -7,7 +7,7 @@ url: /muito-off/
 tweetbackscheck:
   - 1355711535
 shorturls:
-  - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/muito-off";s:7:"tinyurl";s:26:"http://tinyurl.com/3b7b6qd";s:4:"isgd";s:19:"http://is.gd/AvHKBe";}'
+  - 'a:3:{s:9:"permalink";s:33:"https://tableless.com.br/muito-off";s:7:"tinyurl";s:26:"https://tinyurl.com/3b7b6qd";s:4:"isgd";s:19:"https://is.gd/AvHKBe";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036675

@@ -7,7 +7,7 @@ url: /lendo-um-arquivo-de-texto-com-ajax/
 tweetbackscheck:
   - 1356446444
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4131";s:7:"tinyurl";s:26:"http://tinyurl.com/3p8mgj6";s:4:"isgd";s:19:"http://is.gd/2cNhT3";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4131";s:7:"tinyurl";s:26:"https://tinyurl.com/3p8mgj6";s:4:"isgd";s:19:"https://is.gd/2cNhT3";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503012620

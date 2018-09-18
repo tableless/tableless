@@ -7,7 +7,7 @@ url: /sobre-internet-explorer-para-mobile-breve-impressao/
 tweetbackscheck:
   - 1356355266
 shorturls:
-  - 'a:3:{s:9:"permalink";s:75:"http://tableless.com.br/sobre-internet-explorer-para-mobile-breve-impressao";s:7:"tinyurl";s:26:"http://tinyurl.com/3epjbjz";s:4:"isgd";s:19:"http://is.gd/PYjAGE";}'
+  - 'a:3:{s:9:"permalink";s:75:"https://tableless.com.br/sobre-internet-explorer-para-mobile-breve-impressao";s:7:"tinyurl";s:26:"https://tinyurl.com/3epjbjz";s:4:"isgd";s:19:"https://is.gd/PYjAGE";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037604
@@ -61,13 +61,13 @@ Uma coisa ruim que achei o [IE para Mobiles][3] é a falta de abas. Isso seria m
   * [2.7 Bilhões de Celulares][9]
   * [Curso de Internet Móvel][10]
 
- [1]: http://tableless.com.br/motoq
- [2]: http://tableless.com.br/navegacao-em-mobiles
- [3]: http://www.microsoft.com/windowsmobile/software/iemobile.mspx
- [4]: http://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
- [5]: http://tableless.com.br/sites-para-dispositivos-moveis-breve-introducao
- [6]: http://tableless.com.br/aprenda/sites-para-dispositivos-moveis-mediatype/
- [7]: http://tableless.com.br/breve-introducao-xhtml-mobile-profile
- [8]: http://tableless.com.br/browsers_em_dispositivos_moveis
- [9]: http://tableless.com.br/27-bilhoes-de-celulares
- [10]: http://visie.com.br/cursos/intermediarios/internetmovel2.php
+ [1]: https://tableless.com.br/motoq
+ [2]: https://tableless.com.br/navegacao-em-mobiles
+ [3]: https://www.microsoft.com/windowsmobile/software/iemobile.mspx
+ [4]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
+ [5]: https://tableless.com.br/sites-para-dispositivos-moveis-breve-introducao
+ [6]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-mediatype/
+ [7]: https://tableless.com.br/breve-introducao-xhtml-mobile-profile
+ [8]: https://tableless.com.br/browsers_em_dispositivos_moveis
+ [9]: https://tableless.com.br/27-bilhoes-de-celulares
+ [10]: https://visie.com.br/cursos/intermediarios/internetmovel2.php

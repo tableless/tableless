@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356404155
 shorturls:
-  - 'a:3:{s:9:"permalink";s:64:"http://tableless.com.br/charsets-e-encodes-tabelas-de-caracteres";s:7:"tinyurl";s:26:"http://tinyurl.com/3hyyf8w";s:4:"isgd";s:19:"http://is.gd/mUlA6o";}'
+  - 'a:3:{s:9:"permalink";s:64:"https://tableless.com.br/charsets-e-encodes-tabelas-de-caracteres";s:7:"tinyurl";s:26:"https://tinyurl.com/3hyyf8w";s:4:"isgd";s:19:"https://is.gd/mUlA6o";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037999

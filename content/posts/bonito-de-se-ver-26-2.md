@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356438885
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/bonito-de-se-ver-26-2";s:7:"tinyurl";s:26:"http://tinyurl.com/3cjrsg4";s:4:"isgd";s:19:"http://is.gd/6jcoik";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/bonito-de-se-ver-26-2";s:7:"tinyurl";s:26:"https://tinyurl.com/3cjrsg4";s:4:"isgd";s:19:"https://is.gd/6jcoik";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034677
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.izilla.com.au/>
-  2. <http://www.internetzillionaire.com/>
-  3. <http://www.designdeconstruct.com/>
-  4. <http://www.denk-licht.de/>
-  5. <http://www.biggu.com/>
+  1. <https://www.izilla.com.au/>
+  2. <https://www.internetzillionaire.com/>
+  3. <https://www.designdeconstruct.com/>
+  4. <https://www.denk-licht.de/>
+  5. <https://www.biggu.com/>

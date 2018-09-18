@@ -26,7 +26,7 @@ Entre as várias formas existentes para explorar vulnerabilidades web, a Nº 01 
 Existe um teste bem simples para saber se  existem vulnerabilidades em sua URL: forçando um erro. Tomemos como exemplo um ambiente web, com um banco de dado MySQL, a aplicação em PHP e a URL no padrão:
 
 <p style="text-align: center">
-  http://www.meudominio.com.br/produtos.php?id=15
+  https://www.meudominio.com.br/produtos.php?id=15
 </p>
 
 A extensão da URL não importa muito nesse momento, o problema está nos parâmetros, e estou supondo um banco de dados MySQL apenas para exemplificar o erro.

@@ -92,13 +92,13 @@ Outra coisa que ajuda é a multidisciplinaridade entre os integrantes. Temos car
 
 Lendo assim, até parece simples! 😉
 
- [1]: http://jaydson.org/processo-front-end-no-terra/
+ [1]: https://jaydson.org/processo-front-end-no-terra/
  [2]: https://github.com/BBC-News/wraith
- [3]: http://bbc-news.github.io/wraith/
- [4]: http://hardy.io
- [5]: http://csste.st
- [6]: http://guidelines.plataformatec.com.br/pull-requests.html
- [7]: http://opensource.locaweb.com.br/locawebstyle/
- [8]: http://github.com/locaweb/locawebstyle/
- [9]: http://github.com/locaweb/
- [10]: http://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript
+ [3]: https://bbc-news.github.io/wraith/
+ [4]: https://hardy.io
+ [5]: https://csste.st
+ [6]: https://guidelines.plataformatec.com.br/pull-requests.html
+ [7]: https://opensource.locaweb.com.br/locawebstyle/
+ [8]: https://github.com/locaweb/locawebstyle/
+ [9]: https://github.com/locaweb/
+ [10]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript

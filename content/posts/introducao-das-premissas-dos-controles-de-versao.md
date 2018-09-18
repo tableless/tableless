@@ -8,7 +8,7 @@ url: /introducao-das-premissas-dos-controles-de-versao/
 tweetbackscheck:
   - 1356399301
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5211";s:7:"tinyurl";s:26:"http://tinyurl.com/87mzax3";s:4:"isgd";s:19:"http://is.gd/7h4ZTg";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5211";s:7:"tinyurl";s:26:"https://tinyurl.com/87mzax3";s:4:"isgd";s:19:"https://is.gd/7h4ZTg";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 541224813

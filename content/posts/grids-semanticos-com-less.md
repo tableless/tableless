@@ -90,7 +90,7 @@ Não se esqueça de fazer o download da [última versão do LESS][11] e refere
 Hora de setar o nosso grid. Inclua o seguinte código na sua folha de estilos LESS:
 
 <pre class="lang-css">/* ==|=======================================================================
-   Grid //  http://semantic.gs/ 
+   Grid //  https://semantic.gs/ 
 ========================================================================== */
 
 /*Altere estes valores de acordo com a largura das colunas, largura das margens e o número de colunas do seu grid.*/
@@ -228,15 +228,15 @@ E vocês? Utilizam algum sistema de grid? Quais são as vantagens e desvantagens
 
 [Demo][10]
 
- [1]: http://cssgrid.net/ "1140 Grid System"
- [2]: http://960.gs/ "960gs"
- [3]: http://lesscss.org/ "LESS "
- [4]: http://sass-lang.com/ "SASS"
- [5]: http://learnboost.github.com/stylus/ "Stylus"
- [6]: http://semantic.gs/ "Semantic.gs"
- [7]: http://tableless.com.br/css-dinamico-com-less/ "CSS dinâmico com LESS"
- [8]: http://guideguide.me/ "GuideGuide"
- [9]: http://gridcalculator.dk/ "Grid Calculator"
+ [1]: https://cssgrid.net/ "1140 Grid System"
+ [2]: https://960.gs/ "960gs"
+ [3]: https://lesscss.org/ "LESS "
+ [4]: https://sass-lang.com/ "SASS"
+ [5]: https://learnboost.github.com/stylus/ "Stylus"
+ [6]: https://semantic.gs/ "Semantic.gs"
+ [7]: https://tableless.com.br/css-dinamico-com-less/ "CSS dinâmico com LESS"
+ [8]: https://guideguide.me/ "GuideGuide"
+ [9]: https://gridcalculator.dk/ "Grid Calculator"
  [10]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/03/grid.zip
  [11]: https://raw.github.com/cloudhead/less.js/master/dist/less-1.3.3.min.js "LESS"
  [12]: https://github.com/twigkit/semantic.gs/ "Semantic.gs no GitHub"

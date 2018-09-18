@@ -7,7 +7,7 @@ url: /comente/
 tweetbackscheck:
   - 1356373027
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/comente";s:7:"tinyurl";s:26:"http://tinyurl.com/3z5o3ny";s:4:"isgd";s:19:"http://is.gd/P7zOXq";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/comente";s:7:"tinyurl";s:26:"https://tinyurl.com/3z5o3ny";s:4:"isgd";s:19:"https://is.gd/P7zOXq";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031491

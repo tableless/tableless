@@ -29,7 +29,7 @@ A primeira é a mais importante. A folha de estilo pode sobrescrever as configur
 
 Apesar do CSS servido pela página web ser mais específico, é importante lembrar que o usuário tem a opção de forçar o estilo desejado por ele. Porém, isso **não vale para regras** que recebem `!important`.
 
-A <a href="http://www.w3.org/TR/css3-selectors/#specificity" target="_blank">W3C criou uma forma de calcular a especificidade de seletores</a>. Para entender de forma simples, basicamente distribuímos pesos diferentes as regras aplicadas:
+A <a href="https://www.w3.org/TR/css3-selectors/#specificity" target="_blank">W3C criou uma forma de calcular a especificidade de seletores</a>. Para entender de forma simples, basicamente distribuímos pesos diferentes as regras aplicadas:
 
   * CSS inline: 1000 pontos;
   * ID: 100 pontos;
@@ -85,7 +85,7 @@ _Mas e como o navegador lida com conflitos de regras?_ Primeiramente, ele vascul
 
 Você já deve ter percebido que quanto mais fácil esse processo para o navegador, mais performática será sua aplicação.
 
-Caso queira saber mais sobre efeito cascata e herança, <a href="http://tableless.com.br/efeito-cascata-e-especificidade-do-css/" target="_blank">recomendo esse post do Tableless de 2009</a>.
+Caso queira saber mais sobre efeito cascata e herança, <a href="https://tableless.com.br/efeito-cascata-e-especificidade-do-css/" target="_blank">recomendo esse post do Tableless de 2009</a>.
 
 ## A herança
 
@@ -103,7 +103,7 @@ body {
   font-size: 16px;
 }</pre>
 
-É importante lembrar que nem todas as propriedades serão herdadas por elementos filho. Geralmente as propriedades que se referem ao _box-model_ (`height`, `width`, `margin`, `padding`) não aceitam herança. Caso você queira forçar a herança, pode usar o valor `inherit`. Aliás, você sabe a <a href="http://tableless.com.br/entendendo-os-valores-initial-e-inherit-do-css/" target="_blank">diferença entre initial e inherit</a>?
+É importante lembrar que nem todas as propriedades serão herdadas por elementos filho. Geralmente as propriedades que se referem ao _box-model_ (`height`, `width`, `margin`, `padding`) não aceitam herança. Caso você queira forçar a herança, pode usar o valor `inherit`. Aliás, você sabe a <a href="https://tableless.com.br/entendendo-os-valores-initial-e-inherit-do-css/" target="_blank">diferença entre initial e inherit</a>?
 
 Podemos fazer um uso inteligente de herança para economizar várias linhas de código. É muito mais fácil especificar valores para elementos pais e utilizá-los em seus filhos do que especificar um por um. Se você der uma olhada em códigos de _frameworks_ de CSS, irá notar que herança é fortemente usada para melhorar a manutenção do projeto.
 
@@ -148,7 +148,7 @@ Além de criar a regra para a classe `.error`, o pré-processador irá aplicar a
 }
 </pre>
 
-**Isso é péssimo**. Além de tirar o controle do desenvolvedor, isso irá gerar **código desnecessário** e prejudicar outras áreas de uma interface. Lembre-se: tome cuidado com o _bug_ dos <a href="http://blogs.msdn.com/b/ieinternals/archive/2011/05/14/10164546.aspx" target="_blank">4095 seletores</a>.
+**Isso é péssimo**. Além de tirar o controle do desenvolvedor, isso irá gerar **código desnecessário** e prejudicar outras áreas de uma interface. Lembre-se: tome cuidado com o _bug_ dos <a href="https://blogs.msdn.com/b/ieinternals/archive/2011/05/14/10164546.aspx" target="_blank">4095 seletores</a>.
 
 Usando _placeholders_, o Sass irá realmente &#8220;copiar&#8221; os estilos para a classe que possui o `@extend`. Porém, se o _placeholder_ for alterado em um contexto, isso também irá gerar uma regra para as classes que o estenderam.
 
@@ -247,7 +247,7 @@ O Sass irá gerar o vermelho mais escuro quando passarmos o valor `true` para a 
 
 ## Concatenação de classes
 
-Se você é purista e não gosta de pré-processadores ou prefere não usar as &#8220;mágicas&#8221; do Sass, você pode fazer uso da concatenação/composição de classes no HTML. O <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> usa essa abordagem.
+Se você é purista e não gosta de pré-processadores ou prefere não usar as &#8220;mágicas&#8221; do Sass, você pode fazer uso da concatenação/composição de classes no HTML. O <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a> usa essa abordagem.
 
 Basicamente você terá estilo padrão em uma classe e usará outras, se necessário, para alterar o layout.
 
@@ -270,6 +270,6 @@ Na minha opinião essa é a forma mais correta de usarmos herança. Sempre opte 
 
 ## Conclusão
 
-Herança é uma abordagem extremamente necessária para começar a entender o desenvolvimento de CSS escalável. Depois de entender bem o conceito, estude <a href="http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/" target="_blank">padrões de escrita</a>. Olhe o código fonte de _frameworks_ para entender a arquitetura usada.
+Herança é uma abordagem extremamente necessária para começar a entender o desenvolvimento de CSS escalável. Depois de entender bem o conceito, estude <a href="https://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/" target="_blank">padrões de escrita</a>. Olhe o código fonte de _frameworks_ para entender a arquitetura usada.
 
 Nunca saia escrevendo CSS até dar certo. Entenda as regras e planeja seus passos. Pensar antes de começar sem dúvidas será mais produtivo.

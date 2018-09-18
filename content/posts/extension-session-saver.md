@@ -7,7 +7,7 @@ url: /extension-session-saver/
 tweetbackscheck:
   - 1356462471
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/extension-session-saver";s:7:"tinyurl";s:26:"http://tinyurl.com/3k2usm4";s:4:"isgd";s:19:"http://is.gd/8UORGY";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/extension-session-saver";s:7:"tinyurl";s:26:"https://tinyurl.com/3k2usm4";s:4:"isgd";s:19:"https://is.gd/8UORGY";}'
 twittercomments:
   - 'a:1:{i:10067192389308416;s:7:"retweet";}'
 tweetcount:
@@ -31,6 +31,6 @@ Ou seja, ele guarda todos as tabs, com os últimos sites que você estava visita
 
 [SessionSaver][2] de [Rue][3]
 
- [1]: http://adblock.ethereal.net/alchemy.cgi/SessionSaver
+ [1]: https://adblock.ethereal.net/alchemy.cgi/SessionSaver
  [2]: https://addons.mozilla.org/extensions/moreinfo.php?id=436&application=firefox
  [3]: https://addons.mozilla.org/extensions/authorprofiles.php?application=firefox&id=270

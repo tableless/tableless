@@ -7,7 +7,7 @@ url: /site_grande/
 tweetbackscheck:
   - 1356344303
 shorturls:
-  - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/site_grande";s:7:"tinyurl";s:26:"http://tinyurl.com/44rfpx2";s:4:"isgd";s:19:"http://is.gd/LQTuac";}'
+  - 'a:3:{s:9:"permalink";s:35:"https://tableless.com.br/site_grande";s:7:"tinyurl";s:26:"https://tinyurl.com/44rfpx2";s:4:"isgd";s:19:"https://is.gd/LQTuac";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031914
@@ -29,13 +29,13 @@ Oras bolas&#8230; Um dos objetivos do site é fazer barulho&#8230; Mostrar para 
 
 No final da página de convertidos, há uma [pequena lista][10] de sugestões de sites que podem ser convertidos para os web standards.
 
- [1]: http://tableless.com.br/convertidos.asp
- [2]: http://tableless.com.br/
- [3]: http://www.microsoft.com/
- [4]: http://www.hp.com/
- [5]: http://www.ibm.com/
- [6]: http://www.google.com/
- [7]: http://www.submarino.com.br/
- [8]: http://www.amazon.com/
- [9]: http://www.americanas.com.br/
- [10]: http://tableless.com.br/convertidos.asp#contribua
+ [1]: https://tableless.com.br/convertidos.asp
+ [2]: https://tableless.com.br/
+ [3]: https://www.microsoft.com/
+ [4]: https://www.hp.com/
+ [5]: https://www.ibm.com/
+ [6]: https://www.google.com/
+ [7]: https://www.submarino.com.br/
+ [8]: https://www.amazon.com/
+ [9]: https://www.americanas.com.br/
+ [10]: https://tableless.com.br/convertidos.asp#contribua

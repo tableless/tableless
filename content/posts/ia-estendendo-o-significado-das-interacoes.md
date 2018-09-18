@@ -266,7 +266,7 @@ Fiz uma apresentação na [Conferência do W3C][3] este ano falando sobre esse a
 
 
 
- **<a href="https://www.slideshare.net/diegoeis/waiaria-interaes-acessveis-na-web" title="WAI-ARIA - Interações acessíveis na web" target="_blank">WAI-ARIA &#8211; Interações acessíveis na web</a>** de **<a href="http://www.slideshare.net/diegoeis" target="_blank">Diego Eis</a>** 
+ **<a href="https://www.slideshare.net/diegoeis/waiaria-interaes-acessveis-na-web" title="WAI-ARIA - Interações acessíveis na web" target="_blank">WAI-ARIA &#8211; Interações acessíveis na web</a>** de **<a href="https://www.slideshare.net/diegoeis" target="_blank">Diego Eis</a>** 
 
 ## Para ler mais:
 
@@ -278,10 +278,10 @@ Mais de [WAI-ARIA no MDN da Mozilla][6].
 
 Usando [WAI-ARIA Landmarks][7].
 
- [1]: http://tableless.com.br/introducao-a-microdata-no-html5/
- [2]: http://www.w3.org/TR/wai-aria/roles#roles_categorization
- [3]: http://conferenciaweb.w3c.br
- [4]: http://oaa-accessibility.org/examples/
- [5]: http://www.w3.org/TR/wai-aria/
+ [1]: https://tableless.com.br/introducao-a-microdata-no-html5/
+ [2]: https://www.w3.org/TR/wai-aria/roles#roles_categorization
+ [3]: https://conferenciaweb.w3c.br
+ [4]: https://oaa-accessibility.org/examples/
+ [5]: https://www.w3.org/TR/wai-aria/
  [6]: https://developer.mozilla.org/en-US/docs/Accessibility/ARIA
- [7]: http://blog.paciellogroup.com/2013/02/using-wai-aria-landmarks-2013/
+ [7]: https://blog.paciellogroup.com/2013/02/using-wai-aria-landmarks-2013/

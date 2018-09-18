@@ -75,7 +75,7 @@ Após o certificado ser gerado com sucesso, altere novamente o seu arquivo de re
     server_name yourdomain.com.br www.yourdomain.com.br;
 
     location / {
-        proxy_pass http://localhost:8080;
+        proxy_pass https://localhost:8080;
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
         proxy_set_header Host $http_host;
         proxy_set_header X-Forwarded-Proto $scheme;

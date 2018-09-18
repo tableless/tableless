@@ -28,5 +28,5 @@ O gráfico acima é bem interessante. Veja qual a qualidade da conexão da grand
 
 Se você quiser se aprofundar mais nos dados, o que eu aconselho muito, [baixe o PDF aqui][2].
 
- [1]: http://internet.org
+ [1]: https://internet.org
  [2]: https://fbnewsroomus.files.wordpress.com/2015/02/state-of-connectivity1.pdf

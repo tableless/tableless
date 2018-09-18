@@ -12,7 +12,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356441562
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/o-safari-para-iphone";s:7:"tinyurl";s:26:"http://tinyurl.com/3aww5sv";s:4:"isgd";s:19:"http://is.gd/zpkzBS";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/o-safari-para-iphone";s:7:"tinyurl";s:26:"https://tinyurl.com/3aww5sv";s:4:"isgd";s:19:"https://is.gd/zpkzBS";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038571
@@ -86,6 +86,6 @@ Para imagens:
 
 Verifique sempre o tamanho final de sua página. Normalmente o sites com 30Mb para menos funcionam muito bem no iPhone.
 
- [1]: http://visie.com.br/campus/ "Vídeos tutoriais sobre Tableless"
- [2]: http://visie.com.br/campus/cadastrese
- [3]: http://visie.com.br/campus/iphone "Desenvolvimento web para iPhone"
+ [1]: https://visie.com.br/campus/ "Vídeos tutoriais sobre Tableless"
+ [2]: https://visie.com.br/campus/cadastrese
+ [3]: https://visie.com.br/campus/iphone "Desenvolvimento web para iPhone"

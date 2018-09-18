@@ -7,7 +7,7 @@ url: /a-era-da-informacao-nao-chegou/
 tweetbackscheck:
   - 1355503751
 shorturls:
-  - 'a:3:{s:9:"permalink";s:54:"http://tableless.com.br/a-era-da-informacao-nao-chegou";s:7:"tinyurl";s:26:"http://tinyurl.com/44hfbyp";s:4:"isgd";s:19:"http://is.gd/ERtfJl";}'
+  - 'a:3:{s:9:"permalink";s:54:"https://tableless.com.br/a-era-da-informacao-nao-chegou";s:7:"tinyurl";s:26:"https://tinyurl.com/44hfbyp";s:4:"isgd";s:19:"https://is.gd/ERtfJl";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503017659

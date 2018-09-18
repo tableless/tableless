@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356421316
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/processos-adocao-padroes";s:7:"tinyurl";s:26:"http://tinyurl.com/44s2pnn";s:4:"isgd";s:19:"http://is.gd/PVKIMc";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/processos-adocao-padroes";s:7:"tinyurl";s:26:"https://tinyurl.com/44s2pnn";s:4:"isgd";s:19:"https://is.gd/PVKIMc";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039377
@@ -85,6 +85,6 @@ Alguns links para que você conheça mais sobre o processo estão abaixo. Isso t
   * [Níveis de aprovação][2]
   * [Current Work do CSS][3]
 
- [1]: http://www.w3.org/Consortium/ "Sobre o W3C"
- [2]: http://www.w3.org/2005/10/Process-20051014/tr#maturity-levels "Níveis de aprovação"
- [3]: http://www.w3.org/Style/CSS/current-work#test "Projeto actual do CSS"
+ [1]: https://www.w3.org/Consortium/ "Sobre o W3C"
+ [2]: https://www.w3.org/2005/10/Process-20051014/tr#maturity-levels "Níveis de aprovação"
+ [3]: https://www.w3.org/Style/CSS/current-work#test "Projeto actual do CSS"

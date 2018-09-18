@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356387792
 shorturls:
-  - 'a:3:{s:9:"permalink";s:62:"http://tableless.com.br/efeito-cascata-e-especificidade-do-css";s:7:"tinyurl";s:26:"http://tinyurl.com/43gkch5";s:4:"isgd";s:19:"http://is.gd/DTTZWt";}'
+  - 'a:3:{s:9:"permalink";s:62:"https://tableless.com.br/efeito-cascata-e-especificidade-do-css";s:7:"tinyurl";s:26:"https://tinyurl.com/43gkch5";s:4:"isgd";s:19:"https://is.gd/DTTZWt";}'
 twittercomments:
   - 'a:3:{i:165491705905283073;s:7:"retweet";i:165484399696162816;s:7:"retweet";i:165483793149464576;s:7:"retweet";}'
 tweetcount:

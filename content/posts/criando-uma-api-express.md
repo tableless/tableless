@@ -34,7 +34,7 @@ de participar de algum projeto ou aprender, todo o conhecimento adquirido será
 reutilizado em algum outro momento. Enquanto não encontrei a linguagem e o
 framework backend continuei estudando sobre front-end.
 
-Faz algum tempo que comecei a estudar sobre o [Node.js](http://nodebr.com/) e o
+Faz algum tempo que comecei a estudar sobre o [Node.js](https://nodebr.com/) e o
 framework [Express](https://expressjs.com/) e como em poucos passos consigo
 criar uma API. Segundo o próprio site do Express é um framework web rápido,
 flexível e minimalista para Node.js.
@@ -42,9 +42,9 @@ flexível e minimalista para Node.js.
 OBS: Se você não conhece o NPM, comece por os links abaixo:
 
 [Your first Node.js
-package](http://nodesource.com/blog/your-first-nodejs-package/)
+package](https://nodesource.com/blog/your-first-nodejs-package/)
 
-[O que é a NPM do Node.JS](http://nodebr.com/o-que-e-a-npm-do-nodejs/)
+[O que é a NPM do Node.JS](https://nodebr.com/o-que-e-a-npm-do-nodejs/)
 
 **PASSO 1— Instalar o Express**
 
@@ -87,7 +87,7 @@ algumas coisas e ruins para outras. Simples!
 **LEIA MAIS**
 
 [Primeiros passos com Express em
-Node.js](http://nodebr.com/primeiros-passos-com-express-em-node-js/)
+Node.js](https://nodebr.com/primeiros-passos-com-express-em-node-js/)
 
 [Build Node.js RESTful APIs in 10
 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
@@ -95,6 +95,6 @@ Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minu
 [Building a Node.js REST API with
 Express](https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-46b0901f29b6)
 
-[Site em português](http://expressjs.com/pt-br/)
+[Site em português](https://expressjs.com/pt-br/)
 
 <br> 

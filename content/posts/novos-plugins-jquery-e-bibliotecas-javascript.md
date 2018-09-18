@@ -8,7 +8,7 @@ url: /novos-plugins-jquery-e-bibliotecas-javascript/
 tweetbackscheck:
   - 1356404139
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6246";s:7:"tinyurl";s:26:"http://tinyurl.com/cjwa7vv";s:4:"isgd";s:19:"http://is.gd/mB09rM";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6246";s:7:"tinyurl";s:26:"https://tinyurl.com/cjwa7vv";s:4:"isgd";s:19:"https://is.gd/mB09rM";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 722672771
@@ -25,7 +25,7 @@ Confira uma lista de plugins e bibliotecas JavaScript que foram destaque nesta p
 
 ## jQuery Transit
 
-<a href="http://ricostacruz.com/jquery.transit" title="jQuery Transit" target="_blank">http://ricostacruz.com/jquery.transit</a>
+<a href="https://ricostacruz.com/jquery.transit" title="jQuery Transit" target="_blank">https://ricostacruz.com/jquery.transit</a>
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/06/jquery-transit.jpg" alt="" width="676" height="133" class="alignnone size-full wp-image-6261" srcset="uploads/2012/06/jquery-transit.jpg 676w, uploads/2012/06/jquery-transit-300x59.jpg 300w" sizes="(max-width: 676px) 100vw, 676px" />
 
@@ -33,7 +33,7 @@ Este plugin jQuery é uma espécie de wrapper para animações e transições CS
 
 ## Curtain.js
 
-<a href="http://curtain.victorcoulon.fr" title="Curtain.js" target="_blank">http://curtain.victorcoulon.fr</a>
+<a href="https://curtain.victorcoulon.fr" title="Curtain.js" target="_blank">https://curtain.victorcoulon.fr</a>
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/06/Curtain.js.jpg" alt="" width="677" height="119" class="alignnone size-full wp-image-6258" srcset="uploads/2012/06/Curtain.js.jpg 677w, uploads/2012/06/Curtain.js-300x52.jpg 300w" sizes="(max-width: 677px) 100vw, 677px" />
 
@@ -41,7 +41,7 @@ O plugin Curtain.js permite a criação de sites e aplicativos com múltiplas ca
 
 ## Balloons.IO
 
-<a href="http://gravityonmars.github.com/Balloons.IO" title="Balloons.IO" target="_blank">http://gravityonmars.github.com/Balloons.IO</a>
+<a href="https://gravityonmars.github.com/Balloons.IO" title="Balloons.IO" target="_blank">https://gravityonmars.github.com/Balloons.IO</a>
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/06/Balloons.IO_.jpg" alt="" width="678" height="254" class="alignnone size-full wp-image-6256" srcset="uploads/2012/06/Balloons.IO_.jpg 678w, uploads/2012/06/Balloons.IO_-300x112.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" />
 
@@ -57,7 +57,7 @@ Segundo o pessoal da Kicksend, o plugin Mailcheck reduziu em 50% a taxa de retor
 
 ## TimelineJS
 
-<a href="http://timeline.verite.co" title="TimelineJS" target="_blank">http://timeline.verite.co</a>
+<a href="https://timeline.verite.co" title="TimelineJS" target="_blank">https://timeline.verite.co</a>
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/06/timelinejs.jpg" alt="" width="676" height="153" class="alignnone size-full wp-image-6267" srcset="uploads/2012/06/timelinejs.jpg 676w, uploads/2012/06/timelinejs-300x67.jpg 300w" sizes="(max-width: 676px) 100vw, 676px" />
 
@@ -65,7 +65,7 @@ Depois da implementação do Facebook, o conceito de linha do tempo virou uma no
 
 ## buildr
 
-<a href="http://mlanza.github.com/buildr" title="buildr" target="_blank">http://mlanza.github.com/buildr</a>
+<a href="https://mlanza.github.com/buildr" title="buildr" target="_blank">https://mlanza.github.com/buildr</a>
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/06/buildr.jpg" alt="" width="502" height="360" class="alignnone size-full wp-image-6257" srcset="uploads/2012/06/buildr.jpg 502w, uploads/2012/06/buildr-300x215.jpg 300w" sizes="(max-width: 502px) 100vw, 502px" />
 
@@ -73,7 +73,7 @@ O plugin buildr é voltado para aqueles que preferem código a templates na hora
 
 ## turn.js
 
-<a href="http://www.turnjs.com" title="turn.js" target="_blank">http://www.turnjs.com</a>
+<a href="https://www.turnjs.com" title="turn.js" target="_blank">https://www.turnjs.com</a>
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/06/turnjs.jpg" alt="" width="677" height="312" class="alignnone size-full wp-image-6268" srcset="uploads/2012/06/turnjs.jpg 677w, uploads/2012/06/turnjs-300x138.jpg 300w" sizes="(max-width: 677px) 100vw, 677px" />
 
@@ -81,7 +81,7 @@ Muitos devem conhecer aquele efeito de revista desenvolvido em flash. O turn.js 
 
 ## Sequence
 
-<a href="http://www.sequencejs.com" title="Sequence" target="_blank">http://www.sequencejs.com</a>
+<a href="https://www.sequencejs.com" title="Sequence" target="_blank">https://www.sequencejs.com</a>
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/06/sequence.jpg" alt="" width="676" height="261" class="alignnone size-full wp-image-6265" srcset="uploads/2012/06/sequence.jpg 676w, uploads/2012/06/sequence-300x115.jpg 300w" sizes="(max-width: 676px) 100vw, 676px" />
 
@@ -89,7 +89,7 @@ O diferencial do Sequence em relação a outros sliders é o fato deste plugin n
 
 ## gmaps.js
 
-<a href="http://hpneo.github.com/gmaps" title="gmaps.js" target="_blank">http://hpneo.github.com/gmaps</a>
+<a href="https://hpneo.github.com/gmaps" title="gmaps.js" target="_blank">https://hpneo.github.com/gmaps</a>
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/06/gmaps.js.jpg" alt="" width="678" height="226" class="alignnone size-full wp-image-6260" srcset="uploads/2012/06/gmaps.js.jpg 678w, uploads/2012/06/gmaps.js-300x100.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" />
 
@@ -97,7 +97,7 @@ O gmaps.js é um plugin jQuery para interagir com a interface do Google Maps de 
 
 ## Glisse.js
 
-<a href="http://glisse.victorcoulon.fr" title="Glisse.js" target="_blank">http://glisse.victorcoulon.fr</a>
+<a href="https://glisse.victorcoulon.fr" title="Glisse.js" target="_blank">https://glisse.victorcoulon.fr</a>
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/06/glisse.jpg" alt="" width="656" height="233" class="alignnone size-full wp-image-6259" srcset="uploads/2012/06/glisse.jpg 656w, uploads/2012/06/glisse-300x106.jpg 300w" sizes="(max-width: 656px) 100vw, 656px" />
 
@@ -113,7 +113,7 @@ Jurlp, ou jQuery URL Parser, é um plugin para extrair informações, filtrar e 
 
 ## jQuery Scroll Path
 
-<a href="http://joelb.me/scrollpath" title="jQuery Scroll Path" target="_blank">http://joelb.me/scrollpath</a>
+<a href="https://joelb.me/scrollpath" title="jQuery Scroll Path" target="_blank">https://joelb.me/scrollpath</a>
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/06/scrollpath.jpg" alt="" width="678" height="381" class="alignnone size-full wp-image-6264" srcset="uploads/2012/06/scrollpath.jpg 678w, uploads/2012/06/scrollpath-300x168.jpg 300w" sizes="(max-width: 678px) 100vw, 678px" />
 
@@ -121,10 +121,10 @@ O plugin Scroll Path possibilita a criação de caminhos personalizados para o s
 
 ## Socialite.js
 
-[http://www.socialitejs.com][1]
+[https://www.socialitejs.com][1]
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/06/Socialite.js.jpg" alt="" width="395" height="105" class="alignnone size-full wp-image-6266" srcset="uploads/2012/06/Socialite.js.jpg 395w, uploads/2012/06/Socialite.js-300x79.jpg 300w" sizes="(max-width: 395px) 100vw, 395px" />
 
 Para finalizar, uma biblioteca JavaScript para implementar diversos botões de compartilhamento social. O destaque fica para as diferentes possibilidades de carregamento melhorando assim a performance do seu site.
 
- [1]: http://www.socialitejs.com "Socialite.js"
+ [1]: https://www.socialitejs.com "Socialite.js"

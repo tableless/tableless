@@ -8,7 +8,7 @@ url: /jquery-conheca-os-metodos-on-e-off/
 tweetbackscheck:
   - 1356439497
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5521";s:7:"tinyurl";s:26:"http://tinyurl.com/6nq99g3";s:4:"isgd";s:19:"http://is.gd/Rw4F23";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5521";s:7:"tinyurl";s:26:"https://tinyurl.com/6nq99g3";s:4:"isgd";s:19:"https://is.gd/Rw4F23";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 609422080
@@ -133,5 +133,5 @@ Caso o seletor possua mais de um elemento, o evento será associado uma vez a ca
 
 Essas são as novidades com relação a eventos utilizando jQuery. Os métodos .on() e .off() devem &#8220;matar&#8221; seus antecessores (.live() e .delegate()) e padronizar de uma vez por todas a associação de eventos em aplicações.
 
- [1]: http://tableless.com.br/associando-eventos-dinamicamente/ "jQuery: associando eventos dinamicamente"
- [2]: http://tableless.com.br/jquery-metodos-desconhecidos/ "jQuery: métodos desconhecidos"
+ [1]: https://tableless.com.br/associando-eventos-dinamicamente/ "jQuery: associando eventos dinamicamente"
+ [2]: https://tableless.com.br/jquery-metodos-desconhecidos/ "jQuery: métodos desconhecidos"

@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356463631
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/extension-css-viewer";s:7:"tinyurl";s:26:"http://tinyurl.com/3eynan3";s:4:"isgd";s:19:"http://is.gd/TOnk1g";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/extension-css-viewer";s:7:"tinyurl";s:26:"https://tinyurl.com/3eynan3";s:4:"isgd";s:19:"https://is.gd/TOnk1g";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035443

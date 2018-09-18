@@ -205,18 +205,18 @@ Este artigo foi uma introdução para você começar a se interessar e a pesquis
   * [Why Web Components?][14]
   * [Documentação do W3C][15]
 
- [1]: http://www.w3.org/TR/components-intro/#template-section
- [2]: http://www.w3.org/TR/components-intro/#decorator-section
- [3]: http://www.w3.org/TR/custom-elements/
- [4]: http://www.w3.org/TR/shadow-dom/
- [5]: http://www.w3.org/TR/2013/WD-html-imports-20130514/
- [6]: http://www.google.com/intl/pt-BR/chrome/browser/canary.html
- [7]: http://jonrimmer.github.io/are-we-componentized-yet/
- [8]: http://www.polymer-project.org/
- [9]: http://x-tags.org/
- [10]: http://webcomponents.org/
- [11]: http://www.smashingmagazine.com/2014/03/04/introduction-to-custom-elements/
- [12]: http://www.html5rocks.com/en/tutorials/webcomponents/customelements/?redirect_from_locale=pt
- [13]: http://css-tricks.com/modular-future-web-components/
- [14]: http://robdodson.me/blog/2013/03/17/why-web-components/
- [15]: http://www.w3.org/TR/components-intro/#introduction
+ [1]: https://www.w3.org/TR/components-intro/#template-section
+ [2]: https://www.w3.org/TR/components-intro/#decorator-section
+ [3]: https://www.w3.org/TR/custom-elements/
+ [4]: https://www.w3.org/TR/shadow-dom/
+ [5]: https://www.w3.org/TR/2013/WD-html-imports-20130514/
+ [6]: https://www.google.com/intl/pt-BR/chrome/browser/canary.html
+ [7]: https://jonrimmer.github.io/are-we-componentized-yet/
+ [8]: https://www.polymer-project.org/
+ [9]: https://x-tags.org/
+ [10]: https://webcomponents.org/
+ [11]: https://www.smashingmagazine.com/2014/03/04/introduction-to-custom-elements/
+ [12]: https://www.html5rocks.com/en/tutorials/webcomponents/customelements/?redirect_from_locale=pt
+ [13]: https://css-tricks.com/modular-future-web-components/
+ [14]: https://robdodson.me/blog/2013/03/17/why-web-components/
+ [15]: https://www.w3.org/TR/components-intro/#introduction

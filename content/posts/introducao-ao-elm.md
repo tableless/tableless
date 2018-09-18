@@ -38,7 +38,7 @@ O [Richard Feldman][2] [publicou em seu twitter][3] que tem uma aplicação em E
 
 Outra grande vantagem da linguagem é seu **compilador extremamente poderoso**, acho que nunca vi algo parecido em nenhuma outra linguagem.
 
-![Compilador do Elm](http://i.imgur.com/5O0lwHl.png)
+![Compilador do Elm](https://i.imgur.com/5O0lwHl.png)
 
 Repare que no exemplo acima cometemos um erro de digitação e o compilador não apenas sublinhou o erro como fez sugestões de correção.
 
@@ -48,7 +48,7 @@ Apesar da linguagem ser relativamente nova e de ainda não ter ganhado a devida 
 
 Esse primeiro artigo foi apenas uma introdução básica para despertar sua curiosidade sobre o Elm. Mais artigos virão e entrarei em detalhes mais aprofundados da linguagem propriamente dita. 
 
-[1]: http://elm-lang.org/
+[1]: https://elm-lang.org/
 [2]: https://twitter.com/rtfeldman
 [3]: https://twitter.com/rtfeldman/status/773185722643734528
 [4]: https://www.typescriptlang.org/

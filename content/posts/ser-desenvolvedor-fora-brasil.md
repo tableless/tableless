@@ -37,10 +37,10 @@ incríveis e vivenciar momentos inesquecíveis.
 <span class="figcaption_hack">Primeira palestra que dei em 2010, no Dev in Sampa</span>
 
 Em 2013, achei que era hora de colocar o passo 5 em prática. Conversei
-extensivamente com o [Rafael Dohms](http://doh.ms/)—que se mudou para a Holanda
+extensivamente com o [Rafael Dohms](https://doh.ms/)—que se mudou para a Holanda
 em 2011—sobre o processo de mudar de país; e tive uma "longa" discussão com a
 Paula — minha esposa (até então, namorada) e [companheira de
-aventuras](http://paulaabrahao.com.br/blog):
+aventuras](https://paulaabrahao.com.br/blog):
 
 — Então… topa mudar de país? Tipo Holanda ou Estados Unidos?
 
@@ -98,7 +98,7 @@ precisa ser o próximo Tolkien: entender e se comunicar com facilidade é o
 suficiente. Ninguém vai te condenar por conjugar um verbo irregular errado, usar
 uma pronúncia estranha ou falar com sotaque. Se quiser inspiração, leia [como o
 Igor Apa resolveu se aventurar aprendendo
-inglês](http://www.igorapa.com/fui-aprender-ingles.html) nos EUA.
+inglês](https://www.igorapa.com/fui-aprender-ingles.html) nos EUA.
 
 E na dúvida, lembre-se que a maioria dos americanos provavelmente sabe menos
 inglês que você. Se a insegurança bater, lembre-se dessa frase:
@@ -235,7 +235,7 @@ Provavelmente ele vai te fazer perguntas para te ajudar a sair do buraco por
 conta própria.
 * Se quiser dar um passo a mais, [estude problemas básicos de
 computação](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/),
-e procure por [desafios acadêmicos](http://www.careercup.com/page) pra resolver.
+e procure por [desafios acadêmicos](https://www.careercup.com/page) pra resolver.
 Vai variar de processo para processo, mas muitas das empresas grandes e startups
 do Vale do Silício incluem [uma ou mais
 dessas](https://www.reddit.com/r/javascript/comments/3rb88w/ten_questions_ive_been_asked_most_more_than_once/?utm_source=javascriptweekly&utm_medium=email)

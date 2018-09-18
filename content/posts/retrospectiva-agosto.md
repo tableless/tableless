@@ -7,7 +7,7 @@ url: /retrospectiva-2005-agosto/
 tweetbackscheck:
   - 1356331914
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/retrospectiva-2005-agosto";s:7:"tinyurl";s:26:"http://tinyurl.com/3vveou8";s:4:"isgd";s:19:"http://is.gd/0fVP71";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/retrospectiva-2005-agosto";s:7:"tinyurl";s:26:"https://tinyurl.com/3vveou8";s:4:"isgd";s:19:"https://is.gd/0fVP71";}'
 twittercomments:
   - 'a:1:{i:57797189958766592;s:7:"retweet";}'
 tweetcount:
@@ -38,17 +38,17 @@ Vai para o ar o excelente [Revolução][10].
 
 Nós aqui: [Editora Abril][11] é tableless, depois de fazer o curso. O Diego colocava no ar o [FAQ][12] e o [videotutorial mais popular do ano][13] e escreve para a RevistaW. E eu: [Ajax para quem só ouviu falar][14].
 
- [1]: http://tableless.com.br/2005/08/
- [2]: http://alistapart.com/
- [3]: http://www.bol.uol.com.br/
- [4]: http://www.goodyear.com.br/
- [5]: http://charges.uol.com.br/
- [6]: http://tableless.com.br/registro_opera_gratis
- [7]: http://www.google.com/talk/
- [8]: http://www.scipionus.com/katrina.html
- [9]: http://info.abril.com.br/aberto/infonews/082005/24082005-5.shl
- [10]: http://www.revolucao.etc.br/
- [11]: http://www.abril.com.br/
- [12]: http://tableless.com.br/aprenda/faq/
- [13]: http://tableless.com.br/videotutorial/videotutorial4/imagereplacementnospan.swf
- [14]: http://tableless.com.br/ajaxdemo/
+ [1]: https://tableless.com.br/2005/08/
+ [2]: https://alistapart.com/
+ [3]: https://www.bol.uol.com.br/
+ [4]: https://www.goodyear.com.br/
+ [5]: https://charges.uol.com.br/
+ [6]: https://tableless.com.br/registro_opera_gratis
+ [7]: https://www.google.com/talk/
+ [8]: https://www.scipionus.com/katrina.html
+ [9]: https://info.abril.com.br/aberto/infonews/082005/24082005-5.shl
+ [10]: https://www.revolucao.etc.br/
+ [11]: https://www.abril.com.br/
+ [12]: https://tableless.com.br/aprenda/faq/
+ [13]: https://tableless.com.br/videotutorial/videotutorial4/imagereplacementnospan.swf
+ [14]: https://tableless.com.br/ajaxdemo/

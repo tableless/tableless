@@ -7,7 +7,7 @@ url: /web_standards_explicadinhos/
 tweetbackscheck:
   - 1355299274
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/web_standards_explicadinhos";s:7:"tinyurl";s:26:"http://tinyurl.com/3dc8fga";s:4:"isgd";s:19:"http://is.gd/mimyiO";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/web_standards_explicadinhos";s:7:"tinyurl";s:26:"https://tinyurl.com/3dc8fga";s:4:"isgd";s:19:"https://is.gd/mimyiO";}'
 twittercomments:
   - 'a:1:{i:14711303142637568;s:7:"retweet";}'
 tweetcount:
@@ -19,6 +19,6 @@ Boa parte da relutância em adotar os padrões web pode ser atribuída à ignor�
               
 E um link interessante pra quem quer entender direito o que são esses tais standards: [Back to the Future][3].
 
- [1]: http://www.inc.com
- [2]: http://www.assetsurveillance.com.au/
- [3]: http://realworldstyle.com/portland03/ "CSS, Markup and Standards: Back to the Future"
+ [1]: https://www.inc.com
+ [2]: https://www.assetsurveillance.com.au/
+ [3]: https://realworldstyle.com/portland03/ "CSS, Markup and Standards: Back to the Future"

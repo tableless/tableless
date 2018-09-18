@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356471561
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/html5-brevissima-introducao";s:7:"tinyurl";s:26:"http://tinyurl.com/3vt4z2m";s:4:"isgd";s:19:"http://is.gd/6LvH7a";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/html5-brevissima-introducao";s:7:"tinyurl";s:26:"https://tinyurl.com/3vt4z2m";s:4:"isgd";s:19:"https://is.gd/6LvH7a";}'
 twittercomments:
   - 'a:1:{i:15038636416311296;s:6:"136415";}'
 tweetcount:
@@ -38,5 +38,5 @@ Então em resposta, estas organizações e mais um bocado de desenvolvedores cri
 
 Outro ponto interessante é que o desenvolvimento do HTML 5 não é mais feita por uma grande organização com o W3C e sim por voluntários e desenvolvedores da área. Logo os próprios interessados que querem que este projeto dê certo, estão na ponta. Isso trás conforto para os desenvolvedores que não estão no projeto, porque pessoas que conhecem os problemas estão tratando de criar soluções adequadas.
 
- [1]: http://w3.org/
- [2]: http://www.whatwg.org/
+ [1]: https://w3.org/
+ [2]: https://www.whatwg.org/

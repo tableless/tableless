@@ -8,7 +8,7 @@ url: /responsive-web-design-adaptacao-vs-otimizacao/
 tweetbackscheck:
   - 1356389564
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6359";s:7:"tinyurl";s:26:"http://tinyurl.com/6ma7et6";s:4:"isgd";s:19:"http://is.gd/2gSOXg";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6359";s:7:"tinyurl";s:26:"https://tinyurl.com/6ma7et6";s:4:"isgd";s:19:"https://is.gd/2gSOXg";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 741274064

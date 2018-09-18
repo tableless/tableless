@@ -192,26 +192,26 @@ Um sistema de módulos adequado é a saída para manter a sanidade do seu códig
 
 Se me permite um conselho: **prefira sempre um sistema de módulos robusto**, é difícil prever o quão complexa uma aplicação poderá se tornar. Em outras palavras, escolha entre: AMD, _CommonJS modules_ utilizando ferramentas como [Browserify][22] e até mesmo (por sua conta e risco) _ES6 modules_ com [ES6 Module Loader][23].
 
- [1]: http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
- [2]: http://msdn.microsoft.com/pt-br/library/ie/bzt2dkta(v=vs.94).aspx
+ [1]: https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+ [2]: https://msdn.microsoft.com/pt-br/library/ie/bzt2dkta(v=vs.94).aspx
  [3]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions_and_function_scope?redirectlocale=en-US&redirectslug=JavaScript%2FReference%2FFunctions_and_function_scope
- [4]: http://benalman.com/news/2010/11/immediately-invoked-function-expression
- [5]: http://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
- [6]: http://christianheilmann.com/2007/08/22/again-with-the-module-pattern-reveal-something-to-the-world
- [7]: http://jsfiddle.net/J4Rkd/1
- [8]: http://requirejs.org
- [9]: http://requirejs.org/docs/start.html#get
+ [4]: https://benalman.com/news/2010/11/immediately-invoked-function-expression
+ [5]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
+ [6]: https://christianheilmann.com/2007/08/22/again-with-the-module-pattern-reveal-something-to-the-world
+ [7]: https://jsfiddle.net/J4Rkd/1
+ [8]: https://requirejs.org
+ [9]: https://requirejs.org/docs/start.html#get
  [10]: https://speakerdeck.com/jcemer/protocolos-de-comunicacao
  [11]: https://github.com/jrburke/r.js
- [12]: http://tableless.com.br/workflow-para-cuidar-dos-seus-assets
+ [12]: https://tableless.com.br/workflow-para-cuidar-dos-seus-assets
  [13]: https://github.com/jrburke/almond
  [14]: https://github.com/jquery/jquery/blob/master/src/core.js
  [15]: https://github.com/flightjs/flight/blob/master/lib/index.js
  [16]: https://github.com/lodash/lodash-amd/blob/master/compat/main.js
  [17]: https://github.com/mout/mout/blob/master/src/index.js
- [18]: http://wiki.ecmascript.org/doku.php?id=harmony:modules
- [19]: http://nodejs.org/api/modules.html
- [20]: http://requirejs.org/docs/api.html#cjsmodule
- [21]: http://wiki.ecmascript.org/doku.php?id=harmony:module_loaders
- [22]: http://browserify.org
+ [18]: https://wiki.ecmascript.org/doku.php?id=harmony:modules
+ [19]: https://nodejs.org/api/modules.html
+ [20]: https://requirejs.org/docs/api.html#cjsmodule
+ [21]: https://wiki.ecmascript.org/doku.php?id=harmony:module_loaders
+ [22]: https://browserify.org
  [23]: https://github.com/ModuleLoader/es6-module-loader

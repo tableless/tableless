@@ -41,7 +41,7 @@ O conteúdo ainda é rei em SEO e talvez sempre será. É baseado no conteúdo q
 
 <img class="alignnone" alt="Profundidade de conteúdo" src="https://www.conversion.com.br/uploads/2013/07/amazon.jpg?9d7bd4" width="500" height="1086" />
 
-<a href="http://www.amazon.com/Kindle-Fire-Amazon-tablet/dp/B0083Q04IQ" target="_blank">Veja o exemplo completo</a>
+<a href="https://www.amazon.com/Kindle-Fire-Amazon-tablet/dp/B0083Q04IQ" target="_blank">Veja o exemplo completo</a>
 
 ## Informações mais importantes no topo
 

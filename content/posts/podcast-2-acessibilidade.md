@@ -8,14 +8,14 @@ url: /podcast-2-acessibilidade/
 tweetbackscheck:
   - 1356439970
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6224";s:7:"tinyurl";s:26:"http://tinyurl.com/72g4r8e";s:4:"isgd";s:19:"http://is.gd/YlwMgy";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6224";s:7:"tinyurl";s:26:"https://tinyurl.com/72g4r8e";s:4:"isgd";s:19:"https://is.gd/YlwMgy";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 710639583
 enclosure:
   - |
     |
-        http://tableless.com.br/podcast/podcast2.mp3
+        https://tableless.com.br/podcast/podcast2.mp3
         51478528
         audio/mpeg
         
@@ -38,16 +38,16 @@ Participação do [@diegoeis][1], [@alyssonfranklin][2], [@reinaldoferraz][3] e 
 Assine o [FEED direto do podcast][6]. 
 
 <div style="width:425px" id="__ss_11217803">
-  <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/diegoeis/apresentancao-acessibilidade" title="Introdução a acessibilidade para web" target="_blank">Introdução a acessibilidade para web</a></strong> </p> 
+  <strong style="display:block;margin:12px 0 4px"><a href="https://www.slideshare.net/diegoeis/apresentancao-acessibilidade" title="Introdução a acessibilidade para web" target="_blank">Introdução a acessibilidade para web</a></strong> </p> 
   
   <div style="padding:5px 0 12px">
-    View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/diegoeis" target="_blank">Diego Eis</a>
+    View more <a href="https://www.slideshare.net/" target="_blank">presentations</a> from <a href="https://www.slideshare.net/diegoeis" target="_blank">Diego Eis</a>
   </div></p>
 </div>
 
- [1]: http://twitter.com/diegoeis
- [2]: http://twitter.com/alyssonfranklin
- [3]: http://twitter.com/reinaldoferraz
- [4]: http://twitter.com/paulorodriguesw
- [5]: http://tableless.com.br/podcast/podcast2.mp3
- [6]: http://tableless.com.br/categoria/podcasts/feed
+ [1]: https://twitter.com/diegoeis
+ [2]: https://twitter.com/alyssonfranklin
+ [3]: https://twitter.com/reinaldoferraz
+ [4]: https://twitter.com/paulorodriguesw
+ [5]: https://tableless.com.br/podcast/podcast2.mp3
+ [6]: https://tableless.com.br/categoria/podcasts/feed

@@ -13,7 +13,7 @@ tags:
   - go
 
 ---
-No artigo <a href="http://tableless.com.br/iniciando-com-o-docker-dicas-praticas-para-comecar-usar-agora-mesmo/" target="_blank">anterior</a>, eu descrevi alguns comandos básicos e como iniciar com o pé direito no mundo do **Docker**, trazendo de forma direta alguns conceitos que com o passar do tempo se tornaram fundamentais no meu fluxo de desenvolvimento.
+No artigo <a href="https://tableless.com.br/iniciando-com-o-docker-dicas-praticas-para-comecar-usar-agora-mesmo/" target="_blank">anterior</a>, eu descrevi alguns comandos básicos e como iniciar com o pé direito no mundo do **Docker**, trazendo de forma direta alguns conceitos que com o passar do tempo se tornaram fundamentais no meu fluxo de desenvolvimento.
 
 Hoje eu quero partir um pouco mais para o lado prático da coisa, vamos construir uma imagem para encapsular uma pequena aplicação em **GO**.
 
@@ -47,7 +47,7 @@ Exemplo: _docker run -e ACCESS_TOKEN=abcd [nome da imagem]_.
 
 ## Build &#8211; Construíndo a imagem
 
-A essa altura provavelmente você já tem o Docker instalado na sua máquina, caso contrário ensinamos a fazer isso nesse <a href="http://elasticpush.com/blog/iniciando-com-o-docker-dicas-praticas-para-comecar-a-usar-agora-mesmo/" target="_blank">artigo</a>.
+A essa altura provavelmente você já tem o Docker instalado na sua máquina, caso contrário ensinamos a fazer isso nesse <a href="https://elasticpush.com/blog/iniciando-com-o-docker-dicas-praticas-para-comecar-a-usar-agora-mesmo/" target="_blank">artigo</a>.
 
 Para construir a imagem você precisa executar o seguinte comando, na mesma pasta que está o **Dockerfile**:
 

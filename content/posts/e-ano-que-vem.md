@@ -7,7 +7,7 @@ url: /e-ano-que-vem/
 tweetbackscheck:
   - 1356439279
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/e-ano-que-vem";s:7:"tinyurl";s:26:"http://tinyurl.com/3j64g7m";s:4:"isgd";s:19:"http://is.gd/Z2rzJV";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/e-ano-que-vem";s:7:"tinyurl";s:26:"https://tinyurl.com/3j64g7m";s:4:"isgd";s:19:"https://is.gd/Z2rzJV";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036456
@@ -31,4 +31,4 @@ O legal é que todo mundo gosta de celular. Todo mundo gosta de trocar de celula
 
 Eu aposto nisso. Esse mercado tende a crescer muito. Empresas e mais empresas estão acordando o interesse para esse mercado. Vai ser divertido.
 
- [1]: http://www.google.com/url?sa=t&ct=res&cd=5&url=http%3A%2F%2Ftableless.com.br%2Fvideo-tutorial-11&ei=Gz-LRejhCoaQgATfgsGbBA&usg=__Nav0-rnXuvSdrxYSatudg9d2lXQ=&sig2=4wGIAvtETryKHATWF9Pb6A
+ [1]: https://www.google.com/url?sa=t&ct=res&cd=5&url=http%3A%2F%2Ftableless.com.br%2Fvideo-tutorial-11&ei=Gz-LRejhCoaQgATfgsGbBA&usg=__Nav0-rnXuvSdrxYSatudg9d2lXQ=&sig2=4wGIAvtETryKHATWF9Pb6A

@@ -21,4 +21,4 @@ Tem gente que só por que essa onda de Web 2.0 chegou, pensa que algumas soluç�
 
 To errado? Qual sua opinião?
 
-http://web2.0awards.org/
+https://web2.0awards.org/

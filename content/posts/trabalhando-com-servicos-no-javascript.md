@@ -241,8 +241,8 @@ Se quiser saber mais sobre meu trabalho visite meu blog[ https://medium.com/@lu
 
 Este artigo foi originalmente postado no meu [blog no medium][5] em 31 de Julho de 2016
 
- [1]: http://tableless.com.br/modularizacao-em-javascript/
- [2]: http://www.vuejs-brasil.com.br/utilizando-vuex-na-forma-modular-2/#vamosentenderoqueaconteceu
+ [1]: https://tableless.com.br/modularizacao-em-javascript/
+ [2]: https://www.vuejs-brasil.com.br/utilizando-vuex-na-forma-modular-2/#vamosentenderoqueaconteceu
  [3]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/import
  [4]: https://medium.com/@luizvinicius73
  [5]: https://medium.com/by-vinicius-reis/trabalhando-com-servicos-no-javascript-864310cf386c

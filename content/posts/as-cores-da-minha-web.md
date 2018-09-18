@@ -8,7 +8,7 @@ url: /as-cores-da-minha-web/
 tweetbackscheck:
   - 1356388667
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5876";s:7:"tinyurl";s:26:"http://tinyurl.com/d76nrge";s:4:"isgd";s:19:"http://is.gd/2m3SYQ";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5876";s:7:"tinyurl";s:26:"https://tinyurl.com/d76nrge";s:4:"isgd";s:19:"https://is.gd/2m3SYQ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 634177252
@@ -43,10 +43,10 @@ Além de todas as diretrizes citadas nesse documento o uso do bom senso é funda
 
 Talvez eu não enxergue as cores da mesma forma que você, mas mesmo com essas diferenças a minha web é tão bela quanto a sua deve ser.
 
- [1]: http://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-without-color
- [2]: http://www.governoeletronico.gov.br/acoes-e-projetos/e-MAG
- [3]: http://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html
- [4]: http://www.youtube.com/watch?v=CvPOh0p9cf0
- [5]: http://www.w3.org/WAI/GL/WCAG20/WD-WCAG20-TECHS/C22
- [6]: http://www.stacybleeks.com/jaws_speech_manager_tutorial.html
- [7]: http://webaim.org/resources/shortcuts/jaws
+ [1]: https://www.w3.org/WAI/WCAG20/quickref/#qr-visual-audio-contrast-without-color
+ [2]: https://www.governoeletronico.gov.br/acoes-e-projetos/e-MAG
+ [3]: https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html
+ [4]: https://www.youtube.com/watch?v=CvPOh0p9cf0
+ [5]: https://www.w3.org/WAI/GL/WCAG20/WD-WCAG20-TECHS/C22
+ [6]: https://www.stacybleeks.com/jaws_speech_manager_tutorial.html
+ [7]: https://webaim.org/resources/shortcuts/jaws

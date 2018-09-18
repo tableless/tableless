@@ -24,9 +24,9 @@ tags:
 
 O **NW.js** é uma aplicação em tempo de execução baseado em Chromium e Node.js, com ele é possível desenvolver aplicativos nativos para Windows, Linux e Mac, usando tecnologias web e usufruindo dos pacotes do Node.js.
 
-Para ter uma ideia do que é possível fazer, visite este link e veja alguns aplicativos desenvolvidos com NW.js -> <a href="http://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition" target="_blank">http://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition</a>
+Para ter uma ideia do que é possível fazer, visite este link e veja alguns aplicativos desenvolvidos com NW.js -> <a href="https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition" target="_blank">https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition</a>
 
-O **NW.js** é um projeto criado pela Intel. Outro projeto muito bom e conhecido para desenvolver aplicativos desktop usando tecnologias web é o **Electron**, criado pelo GitHub. Segue um link comparativo entre os dois -> <a href="http://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition" target="_blank">http://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition</a>
+O **NW.js** é um projeto criado pela Intel. Outro projeto muito bom e conhecido para desenvolver aplicativos desktop usando tecnologias web é o **Electron**, criado pelo GitHub. Segue um link comparativo entre os dois -> <a href="https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition" target="_blank">https://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition</a>
 
 Nessa série de artigos, vou explicar como criar um aplicativo desktop, com ícone personalizado e empacotado em um único executável. No último artigo, vou explicar como fazer uma integração com base de dados local, em tempo real e sem a necessidade de abrir portas ou fazer configurações de _firewall_.
 
@@ -34,7 +34,7 @@ A versão mais atual do NW.js no momento em que eu escrevo este artigo é a **_
 
 Vamos começar com um &#8220;Olá Mundo&#8221;, porém, vou explicar alguns recursos de &#8220;Window&#8221; e as configurações para iniciar o projeto.
 
-Primeiro faça o download do NW.js no site <http://nwjs.io/> &#8211; Para desenvolvimento, baixe a versão SDK &#8211; descompacte os arquivos em uma pasta que seja fácil para acessar pelo _prompt_ de comando &#8211; eu costumo descompactar na pasta _c:\nwjs\_
+Primeiro faça o download do NW.js no site <https://nwjs.io/> &#8211; Para desenvolvimento, baixe a versão SDK &#8211; descompacte os arquivos em uma pasta que seja fácil para acessar pelo _prompt_ de comando &#8211; eu costumo descompactar na pasta _c:\nwjs\_
 
 Para uma aplicação básica funcionar, precisamos apenas de dois arquivos, o _package.json_, que contém as configurações da nossa aplicação e o _index.html_, que contém o código da nossa aplicação. Depois vamos adicionar arquivos .js e .css. Neste primeiro artigo, vamos brincar um pouco com o package.json.
 
@@ -116,7 +116,7 @@ window:
  kiosk -&gt; Executa em tela cheia e dificulta a saída da aplicação, normalmente é usado para exposições.
  icon -&gt; Caminho para o ícone (deve estar na mesma pasta do projeto)</pre>
 
-Você pode ver mais opções e detalhes na documentação: <a href="http://docs.nwjs.io/en/latest/References/Manifest%20Format/#window-subfields" target="_blank">http://docs.nwjs.io/en/latest/References/Manifest%20Format/#window-subfields</a>
+Você pode ver mais opções e detalhes na documentação: <a href="https://docs.nwjs.io/en/latest/References/Manifest%20Format/#window-subfields" target="_blank">https://docs.nwjs.io/en/latest/References/Manifest%20Format/#window-subfields</a>
 
 Repositório com os fontes do primeiro artigo: <a href="https://bitbucket.org/jzonta/artigos_nwjs" target="_blank">https://bitbucket.org/jzonta/artigos_nwjs</a>
 

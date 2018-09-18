@@ -8,7 +8,7 @@ url: /css-3-o-valor-currentcolor/
 tweetbackscheck:
   - 1356387766
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/css-3-o-valor-currentcolor";s:7:"tinyurl";s:26:"http://tinyurl.com/3oxo8a8";s:4:"isgd";s:19:"http://is.gd/ELc6iB";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/css-3-o-valor-currentcolor";s:7:"tinyurl";s:26:"https://tinyurl.com/3oxo8a8";s:4:"isgd";s:19:"https://is.gd/ELc6iB";}'
 twittercomments:
   - 'a:6:{i:129006088900182016;s:7:"retweet";i:128919657284509697;s:7:"retweet";i:128816152628568064;s:7:"retweet";i:159648388789436418;s:7:"retweet";i:159634576417890304;s:7:"retweet";i:159617514630950915;s:7:"retweet";}'
 tweetcount:

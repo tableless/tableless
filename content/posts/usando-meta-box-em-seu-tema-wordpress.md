@@ -8,7 +8,7 @@ url: /usando-meta-box-em-seu-tema-wordpress/
 tweetbackscheck:
   - 1356424670
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5161";s:7:"tinyurl";s:26:"http://tinyurl.com/6soofob";s:4:"isgd";s:19:"http://is.gd/CLTCQt";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5161";s:7:"tinyurl";s:26:"https://tinyurl.com/6soofob";s:4:"isgd";s:19:"https://is.gd/CLTCQt";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 617871152
@@ -24,7 +24,7 @@ tags:
 
 Os Meta Boxes (Caixas de informações) foi implementado a partir da versão 2.5 do CMS, os Meta Boxes são aquelas caixas arrastáveis que estão presente na Dashboard, edição de um post, páginas, além de outros locais na área administrativa do WordPress.
 
-Os Meta Boxes é uma maneira atraente para a tela do editor de post e evita forçar os usuários a confiar em <a title="Custom Post Type" href="http://tableless.com.br/custom-post-types-wordpress/" target="_blank">campos personalizados</a>. Se você já criou algum tipo de campo personalizado no WordPress, você provavelmente gostaria de adicionar algum campo.
+Os Meta Boxes é uma maneira atraente para a tela do editor de post e evita forçar os usuários a confiar em <a title="Custom Post Type" href="https://tableless.com.br/custom-post-types-wordpress/" target="_blank">campos personalizados</a>. Se você já criou algum tipo de campo personalizado no WordPress, você provavelmente gostaria de adicionar algum campo.
 
 Com os Meta Box e mais fácil. Imagine que você esteja criando um tema para um cliente que precise catalogar sua coleção de vinil. Você começa imediatamente olhar para o WordPress para ver como isso pode ser feito. Cada Post representa um Vinil, que é perfeito para adicionar imagem, titulo e descrição. Podemos usar também as categorias e marcar dentro do WordPress para que os organize. Mas vamos supor que o cara queira acrescentar mais um dado para catalogação? O WordPress não te dar essa opção por padrão a não ser que usemos o grande Meta Box.
 
@@ -40,13 +40,13 @@ Convenientemente o WordPress oferece uma função para adicionar os Meta Boxes a
 
 ### Parâmetros
 
-  * $id &#8211; (<a title="String" href="http://codex.wordpress.org/How_to_Pass_Tag_Parameters#String" target="_blank">String</a>) Identificador único (Obrigatório)
-  * $title &#8211; (<a title="String" href="http://codex.wordpress.org/How_to_Pass_Tag_Parameters#String" target="_blank">String</a>) Titulo a ser exibido (Obrigatório)
-  * $callback &#8211; (<a title="Callback" href="http://codex.wordpress.org/How_to_Pass_Tag_Parameters#Callback" target="_blank">Callback</a>) Função para exibir o conteúdo do Meta Boxes (Obrigatório) <a title="Exemplo Callback" href="http://codex.wordpress.org/Function_Reference/add_meta_box#Example" target="_blank">Exemplo</a>
-  * $page &#8211; (<a title="String" href="http://codex.wordpress.org/How_to_Pass_Tag_Parameters#String" target="_blank">String</a>) Onde será exibido o Meta Boxes. Exemplos (<tt>'post'</tt>, <tt>'page'</tt>, <tt>'link'</tt>, or<tt>'custom_post_type' )</tt>
-  * $context (<a title="String" href="http://codex.wordpress.org/How_to_Pass_Tag_Parameters#String" target="_blank">String</a>) Tela onde o box vai ser inserido.
-  * $priority (<a title="String" href="http://codex.wordpress.org/How_to_Pass_Tag_Parameters#String" target="_blank">String</a>) Prioridade de inserção da caixa em relação as demais.
-  * $callback_args (<a title="Array" href="http://codex.wordpress.org/How_to_Pass_Tag_Parameters#Array" target="_blank">array</a>) Determina a passagem de parâmetros a função callback.
+  * $id &#8211; (<a title="String" href="https://codex.wordpress.org/How_to_Pass_Tag_Parameters#String" target="_blank">String</a>) Identificador único (Obrigatório)
+  * $title &#8211; (<a title="String" href="https://codex.wordpress.org/How_to_Pass_Tag_Parameters#String" target="_blank">String</a>) Titulo a ser exibido (Obrigatório)
+  * $callback &#8211; (<a title="Callback" href="https://codex.wordpress.org/How_to_Pass_Tag_Parameters#Callback" target="_blank">Callback</a>) Função para exibir o conteúdo do Meta Boxes (Obrigatório) <a title="Exemplo Callback" href="https://codex.wordpress.org/Function_Reference/add_meta_box#Example" target="_blank">Exemplo</a>
+  * $page &#8211; (<a title="String" href="https://codex.wordpress.org/How_to_Pass_Tag_Parameters#String" target="_blank">String</a>) Onde será exibido o Meta Boxes. Exemplos (<tt>'post'</tt>, <tt>'page'</tt>, <tt>'link'</tt>, or<tt>'custom_post_type' )</tt>
+  * $context (<a title="String" href="https://codex.wordpress.org/How_to_Pass_Tag_Parameters#String" target="_blank">String</a>) Tela onde o box vai ser inserido.
+  * $priority (<a title="String" href="https://codex.wordpress.org/How_to_Pass_Tag_Parameters#String" target="_blank">String</a>) Prioridade de inserção da caixa em relação as demais.
+  * $callback_args (<a title="Array" href="https://codex.wordpress.org/How_to_Pass_Tag_Parameters#Array" target="_blank">array</a>) Determina a passagem de parâmetros a função callback.
 
 Então, nosso **add\_meta\_box** será parecido com esse.
 
@@ -263,11 +263,11 @@ update_post_meta( $post_id, 'meta_box_check', $chk );
 <pre class="lang-php">&lt;?php
 /*
 Plugin Name: Meta Box
-Plugin URI: http://bygiovanni.com.br
+Plugin URI: https://bygiovanni.com.br
 Description:
 Version: 1.0
 Author: Giovanni - Tableless
-Author URI: http://bygiovanni.com.br
+Author URI: https://bygiovanni.com.br
 */
 
 //ADICIONANDO O META BOX
@@ -333,4 +333,4 @@ update_post_meta( $post_id, 'meta_box_check', $chk );
 
 </pre>
 
-Para saber mais sobre os Meta Box podem ver no Codex que também é uma ótima fonte de estudo para o WP. <a href="http://codex.wordpress.org/Function_Reference/add_meta_box" target="_blank">http://codex.wordpress.org/Function_Reference/add_meta_box</a>
+Para saber mais sobre os Meta Box podem ver no Codex que também é uma ótima fonte de estudo para o WP. <a href="https://codex.wordpress.org/Function_Reference/add_meta_box" target="_blank">https://codex.wordpress.org/Function_Reference/add_meta_box</a>

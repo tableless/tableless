@@ -33,7 +33,7 @@ A idéia do servidor é bem simples e estende a do cliente, como assim? Fácil, 
 </p>
 
 <div style="width: 369px" class="wp-caption aligncenter">
-  <a href="http://3.bp.blogspot.com/_Gt5b2CU22sM/S4iS4lbeU5I/AAAAAAAAAUU/DBmariOce1o/s400/rzab6503.gif"><img src="https://3.bp.blogspot.com/_Gt5b2CU22sM/S4iS4lbeU5I/AAAAAAAAAUU/DBmariOce1o/s400/rzab6503.gif" alt="" width="359" height="324" /></a>
+  <a href="https://3.bp.blogspot.com/_Gt5b2CU22sM/S4iS4lbeU5I/AAAAAAAAAUU/DBmariOce1o/s400/rzab6503.gif"><img src="https://3.bp.blogspot.com/_Gt5b2CU22sM/S4iS4lbeU5I/AAAAAAAAAUU/DBmariOce1o/s400/rzab6503.gif" alt="" width="359" height="324" /></a>
   
   <p class="wp-caption-text">
     Diagrama Cliente/Servidor
@@ -64,7 +64,7 @@ public class Servidor {
 }
 </pre>
 
-Veja que estamos abrindo a porta 8000 e não a 80, isso por que embora essa seja a porta &#8220;destinada/utilizada&#8221; para servidores HTTP, ela é gerenciada pelo sistema operacional então não poderemos abri-la por enquanto (o SO não permitiria até por que em alguns sistemas linux já existe um servidor HTTP utilizando essa porta, em outros a porta está bloqueada pelo firewall, e teremos que abri-la manualmente mas veremos isso em breve), por isso vamos utilizar outra porta para testes, vamos compilar esse código e coloca-lo em execução, veja que ele permanecerá em execução até que ele receba pelo menos uma solicitação de conexão, que é o que vamos fazer, assim basta abrir o navegador e digitar o endereço http://localhost:8000 e ir para a página, veja que ao fazer isso sua linha de comando aparecerá a frase:
+Veja que estamos abrindo a porta 8000 e não a 80, isso por que embora essa seja a porta &#8220;destinada/utilizada&#8221; para servidores HTTP, ela é gerenciada pelo sistema operacional então não poderemos abri-la por enquanto (o SO não permitiria até por que em alguns sistemas linux já existe um servidor HTTP utilizando essa porta, em outros a porta está bloqueada pelo firewall, e teremos que abri-la manualmente mas veremos isso em breve), por isso vamos utilizar outra porta para testes, vamos compilar esse código e coloca-lo em execução, veja que ele permanecerá em execução até que ele receba pelo menos uma solicitação de conexão, que é o que vamos fazer, assim basta abrir o navegador e digitar o endereço https://localhost:8000 e ir para a página, veja que ao fazer isso sua linha de comando aparecerá a frase:
 
 <pre>java Server
 O computador /0:0:0:0:0:0:0:1 se conectou ao servidor.</pre>
@@ -165,7 +165,7 @@ Veja que ainda não respondemos ao navegados com os dados, apenas montamos uma p
             String dataFormatada = formatador.format(data) + " GMT";
             //cabeçalho padrão da resposta HTTP
             String header = status
-                    + "Location: http://localhost:8000/\r\n"
+                    + "Location: https://localhost:8000/\r\n"
                     + "Date: " + dataFormatada + "\r\n"
                     + "Server: MeuServidor/1.0\r\n"
                     + "Content-Type: text/html\r\n"
@@ -200,7 +200,7 @@ Até o próximo post.
 
 Download do código fonte: <a href="https://github.com/thiguetta/ServidorHTTP" target="_blank">https://github.com/thiguetta/ServidorHTTP</a>
 
- [1]: http://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/ "Criando seu próprio servidor HTTP do zero (ou quase) – Parte I"
- [2]: http://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/ "Criando seu próprio servidor HTTP do zero (ou quase) – Parte II"
+ [1]: https://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/ "Criando seu próprio servidor HTTP do zero (ou quase) – Parte I"
+ [2]: https://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/ "Criando seu próprio servidor HTTP do zero (ou quase) – Parte II"
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/sucesso.png
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/erro404.png

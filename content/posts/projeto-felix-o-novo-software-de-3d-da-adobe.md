@@ -5,7 +5,7 @@ type: post
 date: 2016-12-18
 url: /projeto-felix-o-novo-software-de-3d-da-adobe/
 enclosure:
-  - http://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/24b26164-19d0-4a08-9ea1-f23901b86056/f8830b26-07bc-4d58-aa4f-79f1f697681b_20161021124416.960x540at1200_h264.mp4
+  - https://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/24b26164-19d0-4a08-9ea1-f23901b86056/f8830b26-07bc-4d58-aa4f-79f1f697681b_20161021124416.960x540at1200_h264.mp4
 categories:
   - Geral
   - O Básico
@@ -43,7 +43,7 @@ A ideia é abrir, arrastar e soltar, selecionar a iluminação, fundo e pronto. 
 <div style="width: 640px;" class="wp-video">
   <!--[if lt IE 9]><![endif]--><video class="wp-video-shortcode" id="video-56670-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="https://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/24b26164-19d0-4a08-9ea1-f23901b86056/f8830b26-07bc-4d58-aa4f-79f1f697681b_20161021124416.960x540at1200_h264.mp4?_=1" />
   
-  <a href="http://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/24b26164-19d0-4a08-9ea1-f23901b86056/f8830b26-07bc-4d58-aa4f-79f1f697681b_20161021124416.960x540at1200_h264.mp4">http://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/24b26164-19d0-4a08-9ea1-f23901b86056/f8830b26-07bc-4d58-aa4f-79f1f697681b_20161021124416.960x540at1200_h264.mp4</a></video>
+  <a href="https://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/24b26164-19d0-4a08-9ea1-f23901b86056/f8830b26-07bc-4d58-aa4f-79f1f697681b_20161021124416.960x540at1200_h264.mp4">https://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/24b26164-19d0-4a08-9ea1-f23901b86056/f8830b26-07bc-4d58-aa4f-79f1f697681b_20161021124416.960x540at1200_h264.mp4</a></video>
 </div>
 
 Para concorrer e atrair os atuais usuários dos softwares mais utilizados como Maya, 3D Max, Blender, entre outros. O programa não se demonstra efetivo, haja vista que esses usuários tem um poderosíssimo poder comparado com o Felix. Entretanto, visando o foco principal da empresa(atrair usuários sem experiencia) a interface atrai e passa uma proposta de algo simples e fácil, trazendo um monte ideias para esses usuários.
@@ -56,5 +56,5 @@ Para concorrer e atrair os atuais usuários dos softwares mais utilizados como 
 
 Link para mais informações: [Project Felix: Now Available for Download][2].
 
- [1]: http://www.adobe.com/br/products/project-felix.html#x
+ [1]: https://www.adobe.com/br/products/project-felix.html#x
  [2]: https://blogs.adobe.com/creativecloud/project-felix-now-available-for-download/

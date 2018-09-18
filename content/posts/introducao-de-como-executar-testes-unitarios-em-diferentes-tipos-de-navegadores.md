@@ -98,7 +98,7 @@ O Test&#8217;em usa como padrão a porta 7357. O parâmetro &#8216;&#8211;port&#
 
 <pre class="lang-ssh">testem --port=8080</pre>
 
-Após a execução do comando, o resultado dos testes pode ser visto pela url **http://localhost:8080/**. Caso a url seja aberta no Chrome, os testes serão executados no navegador Chrome. Caso aberta no Safari, será executado no Safari. Como ilustra a figura seguinte.
+Após a execução do comando, o resultado dos testes pode ser visto pela url **https://localhost:8080/**. Caso a url seja aberta no Chrome, os testes serão executados no navegador Chrome. Caso aberta no Safari, será executado no Safari. Como ilustra a figura seguinte.
 
 ![testing Jasmine code on Test'em][5]
 
@@ -121,11 +121,11 @@ Ao instanciar o navegador, é possível visualizar o resultado dos testes no ter
 Esse exemplo contempla apenas a execução de testes de forma manual. Essas ferramentas que foram utilizadas também oferecem suporte para a automatização de testes, mas isso ficará para um próximo capítulo. Para quem se interessar, todo código está disponível em um [gist][12]. Muito obrigado.
 
  [1]: https://saucelabs.com/ "SauceLabs"
- [2]: http://nodejs.org/download/ "site oficial NodeJS"
+ [2]: https://nodejs.org/download/ "site oficial NodeJS"
  [3]: https://github.com/airportyh/testem "documentação do Test'em"
  [4]: https://saucelabs.com/docs/javascript-unit-testing-tutorial "tutorial oficial do SauceLabs"
  [5]: https://camo.githubusercontent.com/4c25f04b60b6f6aaff1b50a0069ca0f5487860be/687474703a2f2f7332312e706f7374696d672e6f72672f6e72393273783469762f6a61736d696e655f74657374735f6f6e5f74657374656d2e706e67
- [6]: http://saucelabs.com/downloads/Sauce-Connect-latest.zip "Sauce Connect"
+ [6]: https://saucelabs.com/downloads/Sauce-Connect-latest.zip "Sauce Connect"
  [7]: https://saucelabs.com/docs/platforms "plataformas SauceLabs"
  [8]: https://saucelabs.com/signup "página de cadastro do SauceLabs"
  [9]: https://camo.githubusercontent.com/b29a04372bbe9224392df879736467128316054e/687474703a2f2f7332312e706f7374696d672e6f72672f63673666346a786e722f73617563656c6162735f6163636f756e745f706167652e706e67

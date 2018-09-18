@@ -103,6 +103,6 @@ E você? Utiliza algum reset? Qual? Contruiu o seu do 0? Já parou para revisar 
 
 Vale a pena &#8220;perder&#8221; de 5 a 10 minutos do seu dia para conferir se o seu reset esta de acordo com o seu projeto, mesmo no caso de um código autoral. Os ganhos em velocidade, praticidade e organização são impressionantes. Os usuários agradecem.
 
- [1]: http://meyerweb.com/eric/thoughts/2007/05/01/reset-reloaded/ "Eric Meyer's Reset"
- [2]: http://html5boilerplate.com/ "HTML Boilerplate"
- [3]: http://necolas.github.com/normalize.css/
+ [1]: https://meyerweb.com/eric/thoughts/2007/05/01/reset-reloaded/ "Eric Meyer's Reset"
+ [2]: https://html5boilerplate.com/ "HTML Boilerplate"
+ [3]: https://necolas.github.com/normalize.css/

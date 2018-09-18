@@ -17,7 +17,7 @@ tags:
 ---
 Chegamos ao final da nossa série sobre Symfony. Se você não leu os outros, no final do artigo há uma [listagem com todos os artigos][1] já publicados dessa série.
 
-No <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-09/" target="_blank">tutorial anterior</a>, instalamos e configuramos o bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts, agora vamos instalar e configurar o Bundle FOSUserBundle, para fazer a autenticação da área administrativa do nosso blog.
+No <a href="https://tableless.com.br/iniciando-com-symfony-2-parte-09/" target="_blank">tutorial anterior</a>, instalamos e configuramos o bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts, agora vamos instalar e configurar o Bundle FOSUserBundle, para fazer a autenticação da área administrativa do nosso blog.
 
 ## Instalação do bundle FOSUserBundle.
 
@@ -329,7 +329,7 @@ E veremos todas as rotas criadas em nosso sistema através FOSUserBundle, veja:
 
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/04.png" alt="Router Debug" width="750" height="403" class="alignnone size-full wp-image-49561" />][5]
 
-Podemos entrar em todas as rotas, e perceberemos que está sem estilização, por exemplo: a rota /register/, se acessamos no navegador essa rota: url: http://127.0.0.1:8000/register/ veja:
+Podemos entrar em todas as rotas, e perceberemos que está sem estilização, por exemplo: a rota /register/, se acessamos no navegador essa rota: url: https://127.0.0.1:8000/register/ veja:
 
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/05.png" alt="tela de registro" width="750" height="403" class="alignnone size-full wp-image-49562" />][6]
 
@@ -350,11 +350,11 @@ O FOSUserBundle, trabalha com um layout principal, para que possamos sobrescrev�
 {% endblock %}
 </pre>
 
-Pronto, se acessarmos novamente o url: http://127.0.0.1:8000/register/, teremos o resultado:
+Pronto, se acessarmos novamente o url: https://127.0.0.1:8000/register/, teremos o resultado:
 
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/07.png" alt="Tela de registro pronta" width="750" height="403" class="alignnone size-full wp-image-49564" />][8]
 
-Pronto, ficou melhor que anteriormente, porém podemos melhorar essa estilização, em meu caso vou deixar como está, mas caso queiram, é só criar um arquivo css com as devidas estilizações, e chamá- lo no base.html.twig que configuramos no <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-06/" target="_blank">tutorial 06</a>, ou usar o próprio bootstrap, e fazer as alterações nos arquivos.
+Pronto, ficou melhor que anteriormente, porém podemos melhorar essa estilização, em meu caso vou deixar como está, mas caso queiram, é só criar um arquivo css com as devidas estilizações, e chamá- lo no base.html.twig que configuramos no <a href="https://tableless.com.br/iniciando-com-symfony-2-parte-06/" target="_blank">tutorial 06</a>, ou usar o próprio bootstrap, e fazer as alterações nos arquivos.
   
 Obs: Podemos sobrescrever todos os arquivos do FOSUserBundle, porém temos que criar os arquivos e as estruturas de pastas, como no original. <a href="https://github.com/FriendsOfSymfony/FOSUserBundle/tree/1.3.x/Resources/views" target="_blank" rel="nofollow">Veja o original</a>.
 
@@ -362,7 +362,7 @@ Dessa forma podemos usar as classes do bootstrap para a estilização nos arquiv
 
 ## Criando um Administrador
 
-Podemos criar os usuários pela url: http://127.0.0.1:8000/register/, porém os usuários criados serão usuários normais do sistema, para criar um super administrador entre no terminal, e digite:
+Podemos criar os usuários pela url: https://127.0.0.1:8000/register/, porém os usuários criados serão usuários normais do sistema, para criar um super administrador entre no terminal, e digite:
 
 <pre class="lang-bash">php app/console
 </pre>
@@ -404,7 +404,7 @@ Para que um usuário anônimo não tenha acesso a administração, ( em nosso ca
         - { path: ^/admin/, role: ROLE_ADMIN }
 </pre>
 
-Pronto, dessa forma todos os usuários que acessarem as urls: http://127.0.0.1:8000/post/ e http://127.0.0.1:8000/author/
+Pronto, dessa forma todos os usuários que acessarem as urls: https://127.0.0.1:8000/post/ e https://127.0.0.1:8000/author/
   
 deverão ser cadastrados como usuários, como autores do blog ou administradores.
   
@@ -476,15 +476,15 @@ Nos tutoriais abordei o básico de como trabalhar com o Symfony 2. Recomendo sem
   
 Gostaria de deixar algumas dicas para estudos, que não foram abordados:
 
-<a href="http://symfony.com/doc/current/book/service_container.html" target="_blank">Services</a>
+<a href="https://symfony.com/doc/current/book/service_container.html" target="_blank">Services</a>
   
-<a href="http://symfony.com/doc/current/book/performance.html" target="_blank">Performance</a>
+<a href="https://symfony.com/doc/current/book/performance.html" target="_blank">Performance</a>
   
-<a href="http://symfony.com/doc/current/book/testing.html" target="_blank">Testing</a>
+<a href="https://symfony.com/doc/current/book/testing.html" target="_blank">Testing</a>
   
-<a href="http://symfony.com/doc/current/book/http_cache.html" target="_blank">HTTP Cache:</a>
+<a href="https://symfony.com/doc/current/book/http_cache.html" target="_blank">HTTP Cache:</a>
   
-<a href="http://symfony.com/doc/current/book/translation.html" target="_blank">Translation:</a>
+<a href="https://symfony.com/doc/current/book/translation.html" target="_blank">Translation:</a>
 
 ## Conclusão. {#other-posts-symfony}
 
@@ -494,23 +494,23 @@ Bons estudos!
 
 Links dos tutoriais anteriores:
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2/" target="_blank">Iniciando com Symfony 2 – Instalação</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2/" target="_blank">Iniciando com Symfony 2 – Instalação</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-02/" target="_blank">Iniciando com Symfony 2 – parte 02</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-02/" target="_blank">Iniciando com Symfony 2 – parte 02</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-03/" target="_blank">Iniciando com Symfony 2 – parte 03</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-03/" target="_blank">Iniciando com Symfony 2 – parte 03</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-04/" target="_blank">Iniciando com Symfony 2 – parte 04</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-04/" target="_blank">Iniciando com Symfony 2 – parte 04</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-05/" target="_blank">Iniciando com Symfony 2 – parte 05</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-05/" target="_blank">Iniciando com Symfony 2 – parte 05</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-06/" target="_blank">Iniciando com Symfony 2 – parte 06</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-06/" target="_blank">Iniciando com Symfony 2 – parte 06</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-07/" target="_blank">Iniciando com Symfony 2 – parte 07</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-07/" target="_blank">Iniciando com Symfony 2 – parte 07</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-08/" target="_blank">Iniciando com Symfony 2 – parte 08</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-08/" target="_blank">Iniciando com Symfony 2 – parte 08</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-09/" target="_blank">Iniciando com Symfony 2 – parte 09</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-09/" target="_blank">Iniciando com Symfony 2 – parte 09</a>
   
 O projeto encontra-se no <a href="https://github.com/candidosouza/tableless" target="_blank">GitHub</a>!
 

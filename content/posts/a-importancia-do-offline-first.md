@@ -58,17 +58,17 @@ Mesmo sabendo que a conectividade vem aumentando e melhorando de forma exponenci
 
 Boas referências para estudo:
 
-  * HTML5 Recommendation – Offline Application &#8211; <http://www.w3.org/TR/html5/browsers.html#offline>
-  * Web Storage API &#8211; <http://www.w3.org/TR/webstorage/>
+  * HTML5 Recommendation – Offline Application &#8211; <https://www.w3.org/TR/html5/browsers.html#offline>
+  * Web Storage API &#8211; <https://www.w3.org/TR/webstorage/>
   * Google Chrome Apps – Offline First &#8211; <https://developer.chrome.com/apps/offline_apps>
   * Mozzila App Center – Working Offline &#8211; <https://developer.mozilla.org/en-US/Apps/Build/Offline>
-  * Designing Offline-First Web Apps &#8211; <http://alistapart.com/article/offline-first>
-  * Offline First &#8211; <http://offlinefirst.org/>
+  * Designing Offline-First Web Apps &#8211; <https://alistapart.com/article/offline-first>
+  * Offline First &#8211; <https://offlinefirst.org/>
 
- [1]: http://offlinefirst.org/
- [2]: http://www.w3.org/TR/html5/browsers.html#offline
+ [1]: https://offlinefirst.org/
+ [2]: https://www.w3.org/TR/html5/browsers.html#offline
  [3]: https://whatwg.org/demos/offline/clock/live-demo/clock.html
- [4]: http://www.w3.org/TR/webstorage/
+ [4]: https://www.w3.org/TR/webstorage/
  [5]: https://developer.chrome.com/apps/offline_apps
  [6]: https://developer.mozilla.org/en-US/Apps/Build/Offline
- [7]: http://data.cetic.br/cetic/explore?dados=%7B%22idPesquisa%22:%22TIC_DOM%22,%22idUnidadeAnalise%22:%22Usuarios%22,%22paletaCor%22:%22paleta1%22,%22aba%22:%22filtroIndicador%22,%22tpGrafico%22:%22tipo2%22,%22ano%22:%222014%22,%22idIndicador%22:%2226335%22,%22idsDimensaoN1%22:%22%22,%22idsDimensaoN2%22:%22%22,%22idsAgrupamentoN1%22:%22235088%22,%22idsAgrupamentoN2%22:%221141546%22%7D
+ [7]: https://data.cetic.br/cetic/explore?dados=%7B%22idPesquisa%22:%22TIC_DOM%22,%22idUnidadeAnalise%22:%22Usuarios%22,%22paletaCor%22:%22paleta1%22,%22aba%22:%22filtroIndicador%22,%22tpGrafico%22:%22tipo2%22,%22ano%22:%222014%22,%22idIndicador%22:%2226335%22,%22idsDimensaoN1%22:%22%22,%22idsDimensaoN2%22:%22%22,%22idsAgrupamentoN1%22:%22235088%22,%22idsAgrupamentoN2%22:%221141546%22%7D

@@ -29,9 +29,9 @@ Sistemas operacionais móveis tendem a implementar especificidades, seja por lim
 
 ### Os Problemas com a Tag Video Criados pelos Sistemas Operacionais Móveis
 
-Quando inserimos um vídeo em uma página web utilizando a tag `video` esperamos que o navegador fique responsável por carregar seu player nativo (exibindo seus controles caso seja utilizado o atributo `controls`), até então nenhum problema visto que praticamente <a href="http://caniuse.com/#search=video" target="_blank">todos os navegadores modernos</a> (inclusive de dispositivos móveis) oferecem suporte, claro que cada um serão necessários os vários formatos de vídeo (codec) para poder reproduzir em diferentes navegadores, mas o grande problema não esta ai, e sim no comportamento que este player nativo toma quando carregado em dispositivos móveis.
+Quando inserimos um vídeo em uma página web utilizando a tag `video` esperamos que o navegador fique responsável por carregar seu player nativo (exibindo seus controles caso seja utilizado o atributo `controls`), até então nenhum problema visto que praticamente <a href="https://caniuse.com/#search=video" target="_blank">todos os navegadores modernos</a> (inclusive de dispositivos móveis) oferecem suporte, claro que cada um serão necessários os vários formatos de vídeo (codec) para poder reproduzir em diferentes navegadores, mas o grande problema não esta ai, e sim no comportamento que este player nativo toma quando carregado em dispositivos móveis.
 
-A especificação da tag `video` define diversos <a href="http://www.w3.org/TR/html-markup/video.html#video-attributes" target="_blank">atributos</a>, vamos nos atentar para alguns em específico: `autoplay`, `preload` e `loop`. Iremos analisar cada um deles e seu comportamento nos próximos parágrafos.
+A especificação da tag `video` define diversos <a href="https://www.w3.org/TR/html-markup/video.html#video-attributes" target="_blank">atributos</a>, vamos nos atentar para alguns em específico: `autoplay`, `preload` e `loop`. Iremos analisar cada um deles e seu comportamento nos próximos parágrafos.
 
 O atributo `autoplay` tem a função de iniciar a reprodução um vídeo automaticamente sem a necessidade de interação do usuário, analisando o <a href="https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/Using_HTML5_Audio_Video/Device-SpecificConsiderations/Device-SpecificConsiderations.html" target="_blank">guia da Apple para o Safari</a> na seção de Audio e Vídeo em HTML5 temos um tópico sobre este assunto, no qual relata que os métodos `play()` e `load()` são desabilitados em dispositivos iOS, exceto quando ocorre uma ação do usuário, ou seja, o atributo `autoplay` não funciona, assim como o seguinte código também não irá funcionar:
 
@@ -68,13 +68,13 @@ Por fim chegamos em dois fatores que considero mais limitantes, por serem imposs
 
 Considerando os problemas relatados anteriormente, quando surge a necessidade de desenvolver uma aplicação web baseada em videos para smartphones, isto é, uma aplicação que tem como base arquivos de vídeo com elevado nível de personalização e interação com o usuário, é perfeitamente possível de ser desenvolvida para navegadores desktop, porém inumeros problemas serão apresentados em dispositivos móveis. Um bom case para exemplificar este tipo de aplicação é o <a href="https://vimeo.com/79706014" target="_blank">site que a Apple desenvolveu em 2012 para promover seus novos produtos</a>.
 
-Criar animações de imagens similares a um vídeo é uma tarefa que o GIF já faz, porém este tipo possui <a target="_blank" href="http://stories4all9858180.wordpress.com/2012/12/05/advantages-and-limitations-of-gifs/">diversas limitações</a>, tendo como principal a profundidade de cor máxima: 256 bit, o que torna a qualidade da imagem baixa, inviabilizando seu uso em dispositivos com alta resolução de tela.
+Criar animações de imagens similares a um vídeo é uma tarefa que o GIF já faz, porém este tipo possui <a target="_blank" href="https://stories4all9858180.wordpress.com/2012/12/05/advantages-and-limitations-of-gifs/">diversas limitações</a>, tendo como principal a profundidade de cor máxima: 256 bit, o que torna a qualidade da imagem baixa, inviabilizando seu uso em dispositivos com alta resolução de tela.
 
-Pensando nestes fatos surgiu a necessidade de criar uma alternativa que pudesse solucionar os problemas do vídeo e do GIF em dispositivos móveis, algo que pudesse reproduzir imagens em sequência (com uma certa qualidade) e que pudesse ser personalizado com a necessidade da aplicação, deixando isso a cargo do desenvolvedor. Esta necessidade é tão real que a Apple, em seu site citado acima, <a href="http://www.tuaw.com/2012/10/16/how-apples-iphone-5-website-works/" target="_blank">criou uma alternativa própria</a> para desenvolver estas animações sem utilizar vídeo e garantir suporte em todos os tipos de dispositivos, esta solução é bem próxima do que será discutido a seguir, existe uma <a target="_blank" href="https://docs.google.com/document/pub?id=1GWTMLjqQsQS45FWwqNG9ztQTdGF48hQYpjQHR_d1WsI">análise minuciosa</a> sobre esta técnica utilizada pela Apple.
+Pensando nestes fatos surgiu a necessidade de criar uma alternativa que pudesse solucionar os problemas do vídeo e do GIF em dispositivos móveis, algo que pudesse reproduzir imagens em sequência (com uma certa qualidade) e que pudesse ser personalizado com a necessidade da aplicação, deixando isso a cargo do desenvolvedor. Esta necessidade é tão real que a Apple, em seu site citado acima, <a href="https://www.tuaw.com/2012/10/16/how-apples-iphone-5-website-works/" target="_blank">criou uma alternativa própria</a> para desenvolver estas animações sem utilizar vídeo e garantir suporte em todos os tipos de dispositivos, esta solução é bem próxima do que será discutido a seguir, existe uma <a target="_blank" href="https://docs.google.com/document/pub?id=1GWTMLjqQsQS45FWwqNG9ztQTdGF48hQYpjQHR_d1WsI">análise minuciosa</a> sobre esta técnica utilizada pela Apple.
 
 ### Criando um Player de Frames
 
-A necessidade comentada no parágrafo anterior teve seus requisitos bem definidos: reproduzir animações baseadas em imagens em uma certa taxa de velocidade, que tenha bom desempenho em dispositivos móveis, que seja personalizável e possa ter mais de uma instância executando em uma mesma página. Surgiu ai então o <a href="http://vagnervjs.github.io/frame-player/" target="_blank">Frame Player</a>.
+A necessidade comentada no parágrafo anterior teve seus requisitos bem definidos: reproduzir animações baseadas em imagens em uma certa taxa de velocidade, que tenha bom desempenho em dispositivos móveis, que seja personalizável e possa ter mais de uma instância executando em uma mesma página. Surgiu ai então o <a href="https://vagnervjs.github.io/frame-player/" target="_blank">Frame Player</a>.
 
 #### O que é o Frame Player?
 
@@ -84,7 +84,7 @@ O Frame Player é uma biblioteca JavaScript desenvolvida por <a href="https://tw
 
 Para que um vídeo seja reproduzido no Frame Player, é necessário extrair cada frame deste arquivo genrando uma sequência de imagens.
 
-Para gerar essa sequência de imagens a documentação do Frame Player instrui o uso do software <a href="http://www.ffmpeg.org/" target="_blank">FFmpeg</a> para conversão, utilizando o seguinte comando: 
+Para gerar essa sequência de imagens a documentação do Frame Player instrui o uso do software <a href="https://www.ffmpeg.org/" target="_blank">FFmpeg</a> para conversão, utilizando o seguinte comando: 
 
 <pre class="lang-terminal">$ ffmpeg -i video.mp4 -an -f image2 "%d.jpg"
 </pre>
@@ -174,7 +174,7 @@ Acima podemos observar que a cada intervalo define-se um novo valor para o atrib
 
 #### Base64 vs Image File
 
-Uma grande questão surgiu após o lançamento da biblioteca: o uso de imagens codificadas em Base46 ser lento, pois o browser tem o trabalho de decodificar essa string, e por ser tratar de muitas imagens, este trabalho ficaria pesado em dispositivos móveis. Para saber mais sobre este fato tivemos um <a href="http://www.mobify.com/blog/data-uris-are-slow-on-mobile" target="_blank">bom artigo como referência</a>.
+Uma grande questão surgiu após o lançamento da biblioteca: o uso de imagens codificadas em Base46 ser lento, pois o browser tem o trabalho de decodificar essa string, e por ser tratar de muitas imagens, este trabalho ficaria pesado em dispositivos móveis. Para saber mais sobre este fato tivemos um <a href="https://www.mobify.com/blog/data-uris-are-slow-on-mobile" target="_blank">bom artigo como referência</a>.
   
 Com essa questão levantada, foi desenvolvida uma versão utilizando os arquivos de imagens em vez de Base64 URI, e a melhora do desempenho foi significativa.
   
@@ -188,10 +188,10 @@ A biblioteca Frame Player encontra-se em uma versão estável para uso em dispos
   
 Existem ainda alguns trabalhos futuros para o Frame Player como buffer, compressão de imagens baseando-se em keyframes e até mesmo aúdio. 
 
-Confira o <a href="http://vagnervjs.github.io/frame-player" target="_blank">site</a> do Frame Player e seu <a href="https://github.com/vagnervjs/frame-player" target="_blank">repositório no Github</a>.
+Confira o <a href="https://vagnervjs.github.io/frame-player" target="_blank">site</a> do Frame Player e seu <a href="https://github.com/vagnervjs/frame-player" target="_blank">repositório no Github</a>.
 
 ### Referências:
 
-  * <a target="_blank" href="http://www.w3.org/TR/html-markup/video.html#video-attributes">HTML Video Element specification</a>
+  * <a target="_blank" href="https://www.w3.org/TR/html-markup/video.html#video-attributes">HTML Video Element specification</a>
   * <a target="_blank" href="https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/Using_HTML5_Audio_Video/Device-SpecificConsiderations/Device-SpecificConsiderations.html">Safari HTML5 Audio and Video Guide</a>
-  * <a target="_blank" href="http://blog.millermedeiros.com/unsolved-html5-video-issues-on-ios/">Unsolved HTML5 video issues on iOS</a>
+  * <a target="_blank" href="https://blog.millermedeiros.com/unsolved-html5-video-issues-on-ios/">Unsolved HTML5 video issues on iOS</a>

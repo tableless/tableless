@@ -67,7 +67,7 @@ Estes comandos irão gerar um arquivo chamado `package.json`, que terá o seguin
 
 O `package.json` é um arquivo de configuração do `NPM``(Node Package Manager)` que é utilizado como um descritor do seu projeto, além de manusear suas dependências, e o mais importante para nós neste tutorial, transformar seu arquivo Javascript em um executável no sistema.
 
-Nosso projeto vai consistir de um arquivo javascript que, ao ser executado, nos trará a previsão do tempo da cidade passada como parâmetro. Esta previsão do tempo será resgatada através de uma busca para a API de Geocoding do <a href="https://developers.google.com/maps/documentation/geocoding/intro?hl=pt-br#GeocodingRequests" target="_blank">Google Maps</a>, e em seguida para a API do <a href="http://forecast.io" target="_blank">forecast.io</a>.
+Nosso projeto vai consistir de um arquivo javascript que, ao ser executado, nos trará a previsão do tempo da cidade passada como parâmetro. Esta previsão do tempo será resgatada através de uma busca para a API de Geocoding do <a href="https://developers.google.com/maps/documentation/geocoding/intro?hl=pt-br#GeocodingRequests" target="_blank">Google Maps</a>, e em seguida para a API do <a href="https://forecast.io" target="_blank">forecast.io</a>.
 
 Vamos criar nosso arquivo index.js dentro de uma pasta `bin`.
 
@@ -209,6 +209,6 @@ Fazer aplicações que serão executadas na linha de comando com NodeJS é muito
 
 O código desta aplicação está no meu [github][3], para quem quiser dar uma olhada.
 
- [1]: http://forecast.io
+ [1]: https://forecast.io
  [2]: https://developer.forecast.io/
  [3]: https://github.com/igorsantana/tableless-cli

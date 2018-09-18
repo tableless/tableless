@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356439616
 shorturls:
-  - 'a:3:{s:9:"permalink";s:71:"http://tableless.com.br/sites-para-dispositivos-moveis-breve-introducao";s:7:"tinyurl";s:26:"http://tinyurl.com/4ykk5wr";s:4:"isgd";s:19:"http://is.gd/ioypbT";}'
+  - 'a:3:{s:9:"permalink";s:71:"https://tableless.com.br/sites-para-dispositivos-moveis-breve-introducao";s:7:"tinyurl";s:26:"https://tinyurl.com/4ykk5wr";s:4:"isgd";s:19:"https://is.gd/ioypbT";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034267
@@ -46,11 +46,11 @@ Como introdução a criação de sites para esses dispositivos, criamos dois art
   * [Sites para Dispositivos Móveis &#8211; SSR][7]
   * [Sites para Dispositivos Móveis &#8211; MediaType][8]
 
- [1]: http://www.teleco.com.br/
- [2]: http://www.google.com/
- [3]: http://gmail.google.com/
- [4]: http://www.google.com/xhtml?hl=pt-BR&lr=&rl=1&sc=1
- [5]: http://www.flickr.com/
- [6]: http://www.flickr.com/mob/
- [7]: http://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
- [8]: http://tableless.com.br/sites-para-dispositivos-moveis-mediatype
+ [1]: https://www.teleco.com.br/
+ [2]: https://www.google.com/
+ [3]: https://gmail.google.com/
+ [4]: https://www.google.com/xhtml?hl=pt-BR&lr=&rl=1&sc=1
+ [5]: https://www.flickr.com/
+ [6]: https://www.flickr.com/mob/
+ [7]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
+ [8]: https://tableless.com.br/sites-para-dispositivos-moveis-mediatype

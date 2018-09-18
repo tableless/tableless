@@ -8,7 +8,7 @@ url: /sobrevivendo-na-internet/
 tweetbackscheck:
   - 1356432626
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6895";s:7:"tinyurl";s:26:"http://tinyurl.com/8nrkvqu";s:4:"isgd";s:19:"http://is.gd/Ppdz0r";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6895";s:7:"tinyurl";s:26:"https://tinyurl.com/8nrkvqu";s:4:"isgd";s:19:"https://is.gd/Ppdz0r";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 847708252

@@ -8,7 +8,7 @@ url: /responsive-web-design-voce-esta-fazendo-isso-errado/
 tweetbackscheck:
   - 1356411081
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5718";s:7:"tinyurl";s:26:"http://tinyurl.com/86m5kxl";s:4:"isgd";s:19:"http://is.gd/ithSF5";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5718";s:7:"tinyurl";s:26:"https://tinyurl.com/86m5kxl";s:4:"isgd";s:19:"https://is.gd/ithSF5";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 617869992
@@ -65,12 +65,12 @@ Alguns artigos para você dar uma olhada:
   * [Mobile First – A arte de pensar com foco][5]
   * [A usabilidade deve ser pensada por todos][9]
 
- [1]: http://bit.ly/GAQ3RX
- [2]: http://twitter.com/#!/brad_frost
- [3]: http://tableless.com.br/porque-so-para-o-iphone/
- [4]: http://wp.me/p1vY5N-12Z
- [5]: http://tableless.com.br/mobile-first-a-arte-de-pensar-com-foco/
- [6]: http://kolakube.com/responsive-design-big-deal/
- [7]: http://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+brad-frosts-blog+%28Brad+Frost+Web%29
- [8]: http://www.lukew.com/ff/entry.asp?1509
- [9]: http://tableless.com.br/a-usabilidade-deve-ser-pensada-por-todos/
+ [1]: https://bit.ly/GAQ3RX
+ [2]: https://twitter.com/#!/brad_frost
+ [3]: https://tableless.com.br/porque-so-para-o-iphone/
+ [4]: https://wp.me/p1vY5N-12Z
+ [5]: https://tableless.com.br/mobile-first-a-arte-de-pensar-com-foco/
+ [6]: https://kolakube.com/responsive-design-big-deal/
+ [7]: https://bradfrostweb.com/blog/web/responsive-web-design-missing-the-point/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+brad-frosts-blog+%28Brad+Frost+Web%29
+ [8]: https://www.lukew.com/ff/entry.asp?1509
+ [9]: https://tableless.com.br/a-usabilidade-deve-ser-pensada-por-todos/

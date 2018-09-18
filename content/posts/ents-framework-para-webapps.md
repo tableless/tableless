@@ -8,7 +8,7 @@ url: /webintents-framework-para-webapps/
 tweetbackscheck:
   - 1356434968
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/webintents-framework-para-webapps/";s:7:"tinyurl";s:26:"http://tinyurl.com/7gefncy";s:4:"isgd";s:19:"http://is.gd/iSBhZ6";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/webintents-framework-para-webapps/";s:7:"tinyurl";s:26:"https://tinyurl.com/7gefncy";s:4:"isgd";s:19:"https://is.gd/iSBhZ6";}'
 twittercomments:
   - 'a:10:{i:155326444292157440;s:7:"retweet";i:155325406310965248;s:7:"retweet";i:155325283178778624;s:7:"retweet";i:155325264442826752;s:7:"retweet";i:155301947002466304;s:7:"retweet";i:160692751049043968;s:7:"retweet";i:219790204372910080;s:7:"retweet";i:219781572457533440;s:7:"retweet";i:219778133426049025;s:7:"retweet";i:219778105617809408;s:7:"retweet";}'
 tweetcount:
@@ -45,10 +45,10 @@ Eu gosto muito muito de uma frase do pessoal da WaSP utiliza há tempos: **If no
 
 [Veja aqui o GitHub do Framework.][7]
 
- [1]: http://www.webintents.com/?utm_source=TablelessComBr&utm_medium=postLink&utm_campaign=link
- [2]: http://paul.kinlan.me/
- [3]: http://paul.kinlan.me/web-intents-a-fresh-look
- [4]: http://webstandards.org/?utm_source=TablelessComBr&utm_medium=link&utm_campaign=postLink
- [5]: http://www.whatwg.org/?utm_source=TablelessComBr&utm_medium=link&utm_campaign=postLink
- [6]: http://www.webintents.com/?utm_source=TablelessComBr&utm_medium=link&utm_campaign=postLink
+ [1]: https://www.webintents.com/?utm_source=TablelessComBr&utm_medium=postLink&utm_campaign=link
+ [2]: https://paul.kinlan.me/
+ [3]: https://paul.kinlan.me/web-intents-a-fresh-look
+ [4]: https://webstandards.org/?utm_source=TablelessComBr&utm_medium=link&utm_campaign=postLink
+ [5]: https://www.whatwg.org/?utm_source=TablelessComBr&utm_medium=link&utm_campaign=postLink
+ [6]: https://www.webintents.com/?utm_source=TablelessComBr&utm_medium=link&utm_campaign=postLink
  [7]: https://github.com/PaulKinlan/WebIntents

@@ -12,7 +12,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356452857
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/diversidade-dos-meios-acesso";s:7:"tinyurl";s:26:"http://tinyurl.com/3sjagje";s:4:"isgd";s:19:"http://is.gd/Mqc5VK";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/diversidade-dos-meios-acesso";s:7:"tinyurl";s:26:"https://tinyurl.com/3sjagje";s:4:"isgd";s:19:"https://is.gd/Mqc5VK";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039255
@@ -98,10 +98,10 @@ Entenda a importância dos motores de renderização. Eles tem um papel fundamen
 
 A web está passando por uma transação infinita. A cada dia ela ganha mais foco na mídia, mais atenção das empresas, tanto grandes, quanto pequenas. Sempre que um novo dispositivo é criado, um novo nicho de usuários surge, com novas maneiras e costumes de navegação. É impossível agradar a todos. Por isso é importante estabelecer prioridades. Um bom caminho é ajudar no desenvolvimento e compartilhamento de sistemas que ajudam a web a avançar. “Muda, porque quando a gente muda, o mundo muda com a gente.” Gabriel O Pensador.
 
- [1]: http://visie.com.br/treinamento/treinamento-in-company/
- [2]: http://tableless.com.br/graceful-degradation-e-tudo-sobre-acessibilidade
- [3]: http://facebook.com/
- [4]: http://twitter.com/tableless/
- [5]: http://tableless.com.br/html-5-semantica-e-o-que-e-importante-na-web
- [6]: http://tableless.com.br/efeito-cascata-e-especificidade-do-css
- [7]: http://globo.com
+ [1]: https://visie.com.br/treinamento/treinamento-in-company/
+ [2]: https://tableless.com.br/graceful-degradation-e-tudo-sobre-acessibilidade
+ [3]: https://facebook.com/
+ [4]: https://twitter.com/tableless/
+ [5]: https://tableless.com.br/html-5-semantica-e-o-que-e-importante-na-web
+ [6]: https://tableless.com.br/efeito-cascata-e-especificidade-do-css
+ [7]: https://globo.com

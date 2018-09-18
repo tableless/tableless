@@ -5,11 +5,11 @@ type: post
 date: 2006-03-14
 url: /podcast-19-wysiwyg-wimax-e-a-onda-movel/
 enclosure:
-  - http://tableless.com.br/podcast/podcast19.mp3
+  - https://tableless.com.br/podcast/podcast19.mp3
 tweetbackscheck:
   - 1356453936
 shorturls:
-  - 'a:3:{s:9:"permalink";s:63:"http://tableless.com.br/podcast-19-wysiwyg-wimax-e-a-onda-movel";s:7:"tinyurl";s:26:"http://tinyurl.com/3ktfsc2";s:4:"isgd";s:19:"http://is.gd/8IDErP";}'
+  - 'a:3:{s:9:"permalink";s:63:"https://tableless.com.br/podcast-19-wysiwyg-wimax-e-a-onda-movel";s:7:"tinyurl";s:26:"https://tinyurl.com/3ktfsc2";s:4:"isgd";s:19:"https://is.gd/8IDErP";}'
 twittercomments:
   - 'a:1:{i:8335890166325248;s:7:"retweet";}'
 tweetcount:
@@ -46,6 +46,6 @@ Duração: ~16m32
   
 Formato: Mp3
 
- [1]: http://www.writely.com/
- [2]: http://tableless.com.br/podcast/podcast19.mp3
- [3]: http://tableless.com.br/feed/
+ [1]: https://www.writely.com/
+ [2]: https://tableless.com.br/podcast/podcast19.mp3
+ [3]: https://tableless.com.br/feed/

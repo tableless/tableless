@@ -7,7 +7,7 @@ url: /procrastinar-a-acessibilidade-pode-ser-perigoso/
 tweetbackscheck:
   - 1356439648
 shorturls:
-  - 'a:3:{s:9:"permalink";s:71:"http://tableless.com.br/procrastinar-a-acessibilidade-pode-ser-perigoso";s:7:"tinyurl";s:26:"http://tinyurl.com/3nqg62y";s:4:"isgd";s:19:"http://is.gd/4xea8v";}'
+  - 'a:3:{s:9:"permalink";s:71:"https://tableless.com.br/procrastinar-a-acessibilidade-pode-ser-perigoso";s:7:"tinyurl";s:26:"https://tinyurl.com/3nqg62y";s:4:"isgd";s:19:"https://is.gd/4xea8v";}'
 twittercomments:
   - 'a:9:{i:38780318370496512;s:7:"retweet";i:38776331152003072;s:7:"retweet";i:38775952062423040;s:7:"retweet";i:38775801188974592;s:7:"retweet";i:38773328701431808;s:7:"retweet";i:38772810952359936;s:7:"retweet";i:38770111909208064;s:7:"retweet";i:38769707515379712;s:7:"retweet";i:38769702394281984;s:7:"retweet";}'
 tweetcount:
@@ -39,6 +39,6 @@ Ela dá pelo menos 4 exemplos matadores sobre esse pensamento tacanho.
   
 Se você vai fazer um site que vende monitores, você pode pensar não precisa fazer um site para cegos porque, afinal de contas, um monitor pode não fazer muita diferença para alguém que não enxerga. Mas e se esse alguém tiver um filho designer ou fotógrafo? Ele não pode entrar o seu site para escolher um monitor de presente para o filho?
 
- [1]: http://acessodigital.net/art_acessibilidade-web-7-mitos-e-um-equivoco.html
- [2]: http://acessodigital.net/quem_somos.html#leda
- [3]: http://acessodigital.net/
+ [1]: https://acessodigital.net/art_acessibilidade-web-7-mitos-e-um-equivoco.html
+ [2]: https://acessodigital.net/quem_somos.html#leda
+ [3]: https://acessodigital.net/

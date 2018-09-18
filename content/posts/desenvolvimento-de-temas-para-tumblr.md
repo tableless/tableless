@@ -453,5 +453,5 @@ O nosso tema, embora esteja funcional, pode receber muitas melhorias. Podemos ac
  [2]: https://www.tumblr.com/themes/upload_static_file "Tumblr - Upload Static Files"
  [3]: https://github.com/daniauthors: Dani Guerrato
 paid: true/Tumblr-demo "Tumblr-demo"
- [4]: http://daniauthors: Dani Guerrato
+ [4]: https://daniauthors: Dani Guerrato
 paid: true.tumblr.com/ "Demo do artigo Desenvolvimento de temas para Tumblr"

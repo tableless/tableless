@@ -89,7 +89,7 @@ Agora que seu ambiente está configurado, vamos rodar. Estando dentro da pasta d
 <pre class="lang-terminal">middleman server
 </pre>
 
-Isso vai subir o projeto na porta **http://localhost:4567/**.
+Isso vai subir o projeto na porta **https://localhost:4567/**.
 
 Se você já tiver algum projeto nessa porta, você pode mudar colocando a flag **&#8211;p** no comando escolhendo a porta:
 
@@ -180,6 +180,6 @@ Há uma série de outras dicas sobre o Middleman aqui, como fazer um blog por ex
 
 Estou estudando [Ghost][3] ultimamente. Em um projeto de duas páginas, é muito prático usar um Middleman da vida, mas o cliente ainda quer ter a facilidade de criar páginas ou modificar o conteúdo. Certamente eu não vou instruí-lo para que ele faça isso editando arquivos no Sublime. Logo, uma interface administrativa faz bastante falta. O Ghost trabalha com arquivos estáticos e tem uma interface administrativa básica, para gerenciar o conteúdo. Tendo mais novidades, escrevo por aqui.
 
- [1]: http://tableless.com.br/jekyll-servindo-sites-estaticos/
+ [1]: https://tableless.com.br/jekyll-servindo-sites-estaticos/
  [2]: https://www.staticgen.com
  [3]: https://ghost.org/download/

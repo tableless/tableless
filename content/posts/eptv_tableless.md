@@ -7,7 +7,7 @@ url: /eptv_tableless/
 tweetbackscheck:
   - 1356419199
 shorturls:
-  - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/eptv_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/428ulln";s:4:"isgd";s:19:"http://is.gd/K6ybb1";}'
+  - 'a:3:{s:9:"permalink";s:38:"https://tableless.com.br/eptv_tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/428ulln";s:4:"isgd";s:19:"https://is.gd/K6ybb1";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033077
@@ -35,4 +35,4 @@ Parabéns à equipe da EPTV! Foi realmente um privilégio trabalhar com vocês.
 
 **PS2:** Não quero contar apenas as histórias de sucesso de clientes da Atípico aqui. Se você trabalhou em algum projeto que considera exemplar por algum motivo e gostaria de ver sua história publicada aqui, por favor, mande pra gente. Vamos aprender juntos.
 
- [1]: http://eptv.globo.com/
+ [1]: https://eptv.globo.com/

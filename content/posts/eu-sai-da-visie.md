@@ -8,7 +8,7 @@ url: /eu-sai-da-visie/
 tweetbackscheck:
   - 1355888141
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4496";s:7:"tinyurl";s:26:"http://tinyurl.com/6k92lw5";s:4:"isgd";s:19:"http://is.gd/McMVjn";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4496";s:7:"tinyurl";s:26:"https://tinyurl.com/6k92lw5";s:4:"isgd";s:19:"https://is.gd/McMVjn";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503012381
@@ -37,8 +37,8 @@ Perguntas que fizeram para mim e que respondo agora:
 3. **Quero te contratar, como falo contigo?** Fácil: diego[at]tableless.com.br, [twitter.com/diegoeis][5], [about.me/diegoeis][6].
 
  [1]: mailto: diego@tableless.com.br
- [2]: http://br.linkedin.com/in/diegoeis
- [3]: http://tableless.com.br/treinamento-para-empresas/
- [4]: http://tableless.com.br/aula-particular/
- [5]: http://twitter.com/diegoeis
- [6]: http://about.me/diegoeis
+ [2]: https://br.linkedin.com/in/diegoeis
+ [3]: https://tableless.com.br/treinamento-para-empresas/
+ [4]: https://tableless.com.br/aula-particular/
+ [5]: https://twitter.com/diegoeis
+ [6]: https://about.me/diegoeis

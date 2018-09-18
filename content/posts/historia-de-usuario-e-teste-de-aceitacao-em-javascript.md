@@ -64,15 +64,15 @@ Com o PhantomJS rodando em segundo plano, basta rodar o CucumberJS passando como
 
 Esse exemplo contempla de forma bem simples a implementação de teste de aceitação utilizando JavaScript. Essa abordagem também pode utilizar [diferentes tipos de navegadores][11], mas isso ficará para uma próxima discussão. Para quem tiver interesse, todo código está disponível em um [gist][12].
 
- [1]: http://nodejs.org/download/
+ [1]: https://nodejs.org/download/
  [2]: https://github.com/cucumber/cucumber-js
- [3]: http://phantomjs.org/
+ [3]: https://phantomjs.org/
  [4]: https://github.com/admc/wd
  [5]: https://github.com/cucumber/gherkin
- [6]: http://tableless.com.br/introducao-ao-selenium-2/
+ [6]: https://tableless.com.br/introducao-ao-selenium-2/
  [7]: https://github.com/admc/wd/blob/master/doc/api.md
  [8]: https://gist.github.com/igorlima/8024944#file-apenas-um-exemplo-feature
  [9]: https://gist.github.com/igorlima/8024944#file-configuracao-webdriver-usando-phantom-js
  [10]: https://gist.github.com/igorlima/8024944#file-step-definitions-js
- [11]: http://tableless.com.br/introducao-de-como-executar-testes-unitarios-em-diferentes-tipos-de-navegadores/
+ [11]: https://tableless.com.br/introducao-de-como-executar-testes-unitarios-em-diferentes-tipos-de-navegadores/
  [12]: https://gist.github.com/igorlima/8024944 "Gist - Exemplo de como escrever história de usuário e teste de aceitação com JavaScript"

@@ -7,7 +7,7 @@ url: /feed_validation_service/
 tweetbackscheck:
   - 1356417359
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/feed_validation_service";s:7:"tinyurl";s:26:"http://tinyurl.com/3m9y88q";s:4:"isgd";s:19:"http://is.gd/mHP5L2";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/feed_validation_service";s:7:"tinyurl";s:26:"https://tinyurl.com/3m9y88q";s:4:"isgd";s:19:"https://is.gd/mHP5L2";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033899
@@ -27,7 +27,7 @@ Leia mais:
   
 [[ANN] new W3C Feed Validation Service][4]
 
- [1]: http://www.w3.org/ "World Wide Web Consortium"
- [2]: http://feedvalidator.org/
- [3]: http://validator.w3.org/feed/
- [4]: http://lists.w3.org/Archives/Public/www-validator/2005Nov/0083
+ [1]: https://www.w3.org/ "World Wide Web Consortium"
+ [2]: https://feedvalidator.org/
+ [3]: https://validator.w3.org/feed/
+ [4]: https://lists.w3.org/Archives/Public/www-validator/2005Nov/0083

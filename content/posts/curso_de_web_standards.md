@@ -7,7 +7,7 @@ url: /curso_de_web_standards/
 tweetbackscheck:
   - 1356439463
 shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/curso_de_web_standards";s:7:"tinyurl";s:26:"http://tinyurl.com/42nmozg";s:4:"isgd";s:19:"http://is.gd/5p4lUM";}'
+  - 'a:3:{s:9:"permalink";s:46:"https://tableless.com.br/curso_de_web_standards";s:7:"tinyurl";s:26:"https://tinyurl.com/42nmozg";s:4:"isgd";s:19:"https://is.gd/5p4lUM";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 505650108
@@ -32,6 +32,6 @@ O treinamento completo é voltado para designers e programadores que trabalham c
 
 Você pode ter todos os detalhes que precisar visitando o site da Visie: [visie.com.br][2] e acessando diretamente as informações sobre os cursos com o link: [visie.com.br/cursos/][3].
 
- [1]: http://visie.com.br/sobre/
- [2]: http://visie.com.br/
- [3]: http://visie.com.br/cursos/
+ [1]: https://visie.com.br/sobre/
+ [2]: https://visie.com.br/
+ [3]: https://visie.com.br/cursos/

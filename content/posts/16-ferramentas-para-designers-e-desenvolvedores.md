@@ -130,43 +130,43 @@ Para fazer uma idéia tornar-se realidade é necessário saber explica-la de man
 
 Quais ferramentas recomendariam para outros designers e desenvolvedores? Qual é o aplicativo fundamental para o fuxo de trabalho? Deixem suas sugestões nos comentários. Até a próxima! 🙂
 
- [1]: http://www.microsoftvirtualacademy.com/
- [2]: http://tableless.com.br/aprenda-a-programar-javascript-no-codecademy
- [3]: http://www.codecademy.com/
- [4]: http://www.microsoft.com/brasil/apps/appday.html
+ [1]: https://www.microsoftvirtualacademy.com/
+ [2]: https://tableless.com.br/aprenda-a-programar-javascript-no-codecademy
+ [3]: https://www.codecademy.com/
+ [4]: https://www.microsoft.com/brasil/apps/appday.html
  [5]: https://www.coursera.org/
  [6]: https://www.coursera.org/course/programming1
  [7]: https://www.coursera.org/course/hci
  [8]: https://www.coursera.org/course/digitalmedia
  [9]: https://www.coursera.org/course/historyofrock1
  [10]: https://www.coursera.org/course/sports
- [11]: http://codepen.io/
- [12]: http://dribbble.com/
- [13]: http://web-design-weekly.com/
- [14]: http://sidebar.io/
- [15]: http://methodandcraft.com/
- [16]: http://tableless.com.br/forum/?utm_source=tableless&utm_medium=link&utm_campaign=linkAtalho
- [17]: http://tableless.com.br/forum/
+ [11]: https://codepen.io/
+ [12]: https://dribbble.com/
+ [13]: https://web-design-weekly.com/
+ [14]: https://sidebar.io/
+ [15]: https://methodandcraft.com/
+ [16]: https://tableless.com.br/forum/?utm_source=tableless&utm_medium=link&utm_campaign=linkAtalho
+ [17]: https://tableless.com.br/forum/
  [18]: https://www.wunderlist.com/#/login
  [19]: https://www.wunderlist.com/
- [20]: http://appstore.com/mac/Wunderlist
- [21]: http://windows.wunderlist.com/download/
- [22]: http://www.appstore.com/Wunderlist
+ [20]: https://appstore.com/mac/Wunderlist
+ [21]: https://windows.wunderlist.com/download/
+ [22]: https://www.appstore.com/Wunderlist
  [23]: https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid
  [24]: https://chrome.google.com/webstore/detail/wunderlist/dmnddeddcgdllibmaodanoonljfdmooc
  [25]: https://www.organizze.com.br/
- [26]: http://www.organizze.com.br
- [27]: http://snippi.com/
+ [26]: https://www.organizze.com.br
+ [27]: https://snippi.com/
  [28]: https://kippt.com/inbox
  [29]: https://kippt.com/
- [30]: http://www.pixeldropr.com/
- [31]: http://refillstore.io/
- [32]: http://www.feedly.com/home
- [33]: http://www.feedly.com/k/feedly-iphone
+ [30]: https://www.pixeldropr.com/
+ [31]: https://refillstore.io/
+ [32]: https://www.feedly.com/home
+ [33]: https://www.feedly.com/k/feedly-iphone
  [34]: https://play.google.com/store/apps/details?id=com.devhd.feedly
- [35]: http://www.feedly.com/k/feedly_amazon_homelink
- [36]: http://www.niice.co/
- [37]: http://pltts.me/
- [38]: http://www.colourlovers.com/
- [39]: http://littlebigdetails.com/
- [40]: http://ideeeas.com/
+ [35]: https://www.feedly.com/k/feedly_amazon_homelink
+ [36]: https://www.niice.co/
+ [37]: https://pltts.me/
+ [38]: https://www.colourlovers.com/
+ [39]: https://littlebigdetails.com/
+ [40]: https://ideeeas.com/

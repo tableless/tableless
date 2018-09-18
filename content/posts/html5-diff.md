@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356394075
 shorturls:
-  - 'a:3:{s:9:"permalink";s:34:"http://tableless.com.br/html5-diff";s:7:"tinyurl";s:26:"http://tinyurl.com/42765j2";s:4:"isgd";s:19:"http://is.gd/Oz7CKE";}'
+  - 'a:3:{s:9:"permalink";s:34:"https://tableless.com.br/html5-diff";s:7:"tinyurl";s:26:"https://tinyurl.com/42765j2";s:4:"isgd";s:19:"https://is.gd/Oz7CKE";}'
 twittercomments:
   - 'a:2:{i:35357237505425408;s:7:"retweet";i:35352685414711296;s:7:"retweet";}'
 tweetcount:
@@ -193,9 +193,9 @@ Os elementos abaixo não foram incluídos na especificação porque não tiveram
                       * [HTML5 &#8211; Mudanças na estrutura e Semântica][5]
                       * [Ah! O maravilhoso mundo real][6]
 
- [1]: http://w3c.org/
- [2]: http://www.w3.org/TR/2010/WD-html5-diff-20100624 "mundanças no html5"
- [3]: http://tableless.com.br/contedo-flash-e-html
- [4]: http://tableless.com.br/processos-adocao-padroes
- [5]: http://tableless.com.br/html5-estrutura-semantica
- [6]: http://tableless.com.br/ah-o-maravilhoso-mundo-real
+ [1]: https://w3c.org/
+ [2]: https://www.w3.org/TR/2010/WD-html5-diff-20100624 "mundanças no html5"
+ [3]: https://tableless.com.br/contedo-flash-e-html
+ [4]: https://tableless.com.br/processos-adocao-padroes
+ [5]: https://tableless.com.br/html5-estrutura-semantica
+ [6]: https://tableless.com.br/ah-o-maravilhoso-mundo-real

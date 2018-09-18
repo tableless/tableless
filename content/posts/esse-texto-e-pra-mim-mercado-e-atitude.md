@@ -8,7 +8,7 @@ url: /esse-texto-e-pra-mim-mercado-e-atitude/
 tweetbackscheck:
   - 1356397249
 shorturls:
-  - 'a:3:{s:9:"permalink";s:63:"http://tableless.com.br/esse-texto-e-pra-mim-mercado-e-atitude/";s:7:"tinyurl";s:26:"http://tinyurl.com/8jgbyuw";s:4:"isgd";s:19:"http://is.gd/2dumZ6";}'
+  - 'a:3:{s:9:"permalink";s:63:"https://tableless.com.br/esse-texto-e-pra-mim-mercado-e-atitude/";s:7:"tinyurl";s:26:"https://tinyurl.com/8jgbyuw";s:4:"isgd";s:19:"https://is.gd/2dumZ6";}'
 twittercomments:
   - 'a:8:{i:261912515355762688;s:7:"retweet";i:261253491702525954;s:7:"retweet";i:261253456919138304;s:7:"retweet";i:260661248616718336;s:7:"retweet";i:260661132296081409;s:7:"retweet";i:260445489835675648;s:7:"retweet";i:268377654565163008;s:7:"retweet";i:271277238564048896;s:7:"retweet";}'
 tweetcount:
@@ -25,7 +25,7 @@ tags:
   - mercado
 
 ---
-Você já leu o manifesto do engenheiro de front-end? Se não, corre para esse link: <http://f2em.com>. Eu percebi neste ano que a maioria dos devs se apega tanto a assuntos técnicos que acabam ignorando assuntos importantes e básicos. São coisas simples que geralmente você só pensa quando há alguma pressão externa. Poucos profissionais tentam entender como funcionam o mercado. Como funcionam o sistema (trocadilho grátis aqui). A maioria está na zona de conforto.
+Você já leu o manifesto do engenheiro de front-end? Se não, corre para esse link: <https://f2em.com>. Eu percebi neste ano que a maioria dos devs se apega tanto a assuntos técnicos que acabam ignorando assuntos importantes e básicos. São coisas simples que geralmente você só pensa quando há alguma pressão externa. Poucos profissionais tentam entender como funcionam o mercado. Como funcionam o sistema (trocadilho grátis aqui). A maioria está na zona de conforto.
 
 É difícil encontrar profissionais que saibam precificar seu trabalho de forma que o preço oferecido seja o justo. Ou se cobra muito caro ou se cobra muito barato. O preço deve ser bom para os dois lados. Se você cobra muito caro, não é bom para o cliente. Se você cobra muito barato, não é bom para você. Não é justo, entende?
 
@@ -43,4 +43,4 @@ Estamos tão encurralados com todas as nossas tarefas que nos esquecemos de como
 
 Não sei se consegui me fazer entender. Talvez eu esteja escrevendo pra mim mesmo, chamando minha própria atenção. Eu quero tentar te ajudar a entender que assuntos técnicos são importantes mas não é tudo o que importa. Mas já que você está aqui, tente pensar junto. Tente mudar junto. E me desculpe ser tão sentimental assim, mas é o amor… :^)
 
- [1]: http://twitter.com/sobrinhoweb
+ [1]: https://twitter.com/sobrinhoweb

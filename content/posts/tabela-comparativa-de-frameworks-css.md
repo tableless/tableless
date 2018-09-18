@@ -18,4 +18,4 @@ Nessa lista você encontra o link do projeto, uma tabela de compatibilidade que 
 
 Não perca tempo e conheça: [A Collection of Best Front-end Frameworks for Faster and Easier Web Development][1].
 
- [1]: http://usablica.github.io/front-end-frameworks/compare.html "A COLLECTION OF BEST FRONT END FRAMEWORKS FOR FASTER&EASIER WEB DEVELOPMENT"
+ [1]: https://usablica.github.io/front-end-frameworks/compare.html "A COLLECTION OF BEST FRONT END FRAMEWORKS FOR FASTER&EASIER WEB DEVELOPMENT"

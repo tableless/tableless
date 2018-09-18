@@ -129,14 +129,14 @@ Antes de mais nada, não se esqueça que **acessar um _link_ não pode causar ne
 
 Desculpe pelo texto ter ficado extenso e talvez um tanto pesado. Espero que tenha gostado e que aproveite estas dicas para escrever aplicações melhores.
 
- [1]: http://httpstatus.es
- [2]: http://pt.wikipedia.org/wiki/Idempot%C3%AAncia
- [3]: http://guides.rubyonrails.org/routing.html#crud-verbs-and-actions
- [4]: http://distopico.wordpress.com/traducao-de-how-i-explained-rest-to-my-wife
- [5]: http://www.w3.org/Protocols/HTTP/Methods.html
- [6]: http://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt
- [7]: http://cameronjones.github.io/form-http-extensions/index.html#form-method-attribute
- [8]: http://rack.github.io
- [9]: http://guides.rubyonrails.org/form_helpers.html
- [10]: http://laravel.com/docs/html#opening-a-form
+ [1]: https://httpstatus.es
+ [2]: https://pt.wikipedia.org/wiki/Idempot%C3%AAncia
+ [3]: https://guides.rubyonrails.org/routing.html#crud-verbs-and-actions
+ [4]: https://distopico.wordpress.com/traducao-de-how-i-explained-rest-to-my-wife
+ [5]: https://www.w3.org/Protocols/HTTP/Methods.html
+ [6]: https://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt
+ [7]: https://cameronjones.github.io/form-http-extensions/index.html#form-method-attribute
+ [8]: https://rack.github.io
+ [9]: https://guides.rubyonrails.org/form_helpers.html
+ [10]: https://laravel.com/docs/html#opening-a-form
  [11]: https://github.com/rails/jquery-rails

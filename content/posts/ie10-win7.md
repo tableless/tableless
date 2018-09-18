@@ -9,7 +9,7 @@ dsq_thread_id: 894883843
 tweetbackscheck:
   - 1356344991
 shorturls:
-  - 'a:3:{s:9:"permalink";s:34:"http://tableless.com.br/ie10-win7/";s:7:"tinyurl";s:26:"http://tinyurl.com/9sr9246";s:4:"isgd";s:19:"http://is.gd/MPcDYa";}'
+  - 'a:3:{s:9:"permalink";s:34:"https://tableless.com.br/ie10-win7/";s:7:"tinyurl";s:26:"https://tinyurl.com/9sr9246";s:4:"isgd";s:19:"https://is.gd/MPcDYa";}'
 twittercomments:
   - 'a:0:{}'
 categories:
@@ -31,6 +31,6 @@ O IE10 ainda fica atrás do Chrome, Opera e Firefox na pontuação do [HTML5 Tes
   
 [Veja mais pontuações aqui][3].
 
- [1]: http://blogs.msdn.com/b/ie/archive/2012/10/17/ie10-on-windows-7-available-in-november.aspx
- [2]: http://html5test.com/
- [3]: http://html5test.com/results/desktop.html
+ [1]: https://blogs.msdn.com/b/ie/archive/2012/10/17/ie10-on-windows-7-available-in-november.aspx
+ [2]: https://html5test.com/
+ [3]: https://html5test.com/results/desktop.html

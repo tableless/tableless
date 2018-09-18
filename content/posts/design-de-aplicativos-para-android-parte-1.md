@@ -142,15 +142,15 @@ Bem, agora que você já conhece a estrutura dos aplicativos Android já está p
   
 [How to design for Android devices][12]
 
- [1]: http://developerbus.withgoogle.com/ "Google Developer Bus"
- [2]: http://developer.android.com/design/ "Android Design,"
- [3]: http://www.idc.com/getdoc.jsp?containerId=prUS24442013 "Android Pushes Past 80% Market Share While Windows Phone Shipments Leap 156.0% Year Over Year in the Third Quarter, According to IDC "
- [4]: http://androidniceties.tumblr.com/ "Androide Niceties"
- [5]: http://www.android-app-patterns.com/ "Android App Patterns"
+ [1]: https://developerbus.withgoogle.com/ "Google Developer Bus"
+ [2]: https://developer.android.com/design/ "Android Design,"
+ [3]: https://www.idc.com/getdoc.jsp?containerId=prUS24442013 "Android Pushes Past 80% Market Share While Windows Phone Shipments Leap 156.0% Year Over Year in the Third Quarter, According to IDC "
+ [4]: https://androidniceties.tumblr.com/ "Androide Niceties"
+ [5]: https://www.android-app-patterns.com/ "Android App Patterns"
  [6]: https://play.google.com/store "Google Play Store"
  [7]: https://kippt.com/ "Kippt"
- [8]: http://www.pinterest.com/ "Pinterest"
- [9]: http://developer.android.com/downloads/design/Android_Design_Icons_20131106.zip "Android Design Icons"
- [10]: http://developer.android.com/design/downloads/
- [11]: http://developer.android.com/design/index.html "Android Design"
- [12]: http://blog.mengto.com/how-to-design-for-android-devices/ "Hot to design for Android devices"
+ [8]: https://www.pinterest.com/ "Pinterest"
+ [9]: https://developer.android.com/downloads/design/Android_Design_Icons_20131106.zip "Android Design Icons"
+ [10]: https://developer.android.com/design/downloads/
+ [11]: https://developer.android.com/design/index.html "Android Design"
+ [12]: https://blog.mengto.com/how-to-design-for-android-devices/ "Hot to design for Android devices"

@@ -7,7 +7,7 @@ url: /revolucao_css/
 tweetbackscheck:
   - 1354898096
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/revolucao_css";s:7:"tinyurl";s:26:"http://tinyurl.com/3krzw36";s:4:"isgd";s:19:"http://is.gd/jTOm6R";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/revolucao_css";s:7:"tinyurl";s:26:"https://tinyurl.com/3krzw36";s:4:"isgd";s:19:"https://is.gd/jTOm6R";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033610
@@ -17,6 +17,6 @@ dsq_thread_id: 503033610
 
 Contribua você também; E vamos manter o mesmo nível do site gringo&#8230;
 
- [1]: http://www.revolucao.etc.br/
- [2]: http://www.revolucao.etc.br/css/
- [3]: http://www.csszengarden.com/
+ [1]: https://www.revolucao.etc.br/
+ [2]: https://www.revolucao.etc.br/css/
+ [3]: https://www.csszengarden.com/

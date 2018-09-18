@@ -79,8 +79,8 @@ Fault Tolerance deve ser levado em conta em todos os seus projetos web. Pensar a
   * [What is the difference between Responsive e Adaptive Design][4]
   * [The difference between adaptive design and Responsive Deisgn][5]
 
- [1]: http://super.abril.com.br/ciencia/revolucao-cerebro-446545.shtml
- [2]: http://tableless.com.br/bem-vindo-a-xangrila-parte-1/ "Bem vindo a Xangri-lá – Parte 1"
- [3]: http://www.techrepublic.com/blog/web-designer/understanding-progressive-enhancement-techniques-in-web-design/1809/
- [4]: http://www.techrepublic.com/blog/web-designer/what-is-the-difference-between-responsive-vs-adaptive-web-design/
- [5]: http://www.searchenginepeople.com/blog/the-difference-between-adaptive-design-and-responsive-design.html
+ [1]: https://super.abril.com.br/ciencia/revolucao-cerebro-446545.shtml
+ [2]: https://tableless.com.br/bem-vindo-a-xangrila-parte-1/ "Bem vindo a Xangri-lá – Parte 1"
+ [3]: https://www.techrepublic.com/blog/web-designer/understanding-progressive-enhancement-techniques-in-web-design/1809/
+ [4]: https://www.techrepublic.com/blog/web-designer/what-is-the-difference-between-responsive-vs-adaptive-web-design/
+ [5]: https://www.searchenginepeople.com/blog/the-difference-between-adaptive-design-and-responsive-design.html

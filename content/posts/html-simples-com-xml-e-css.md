@@ -7,7 +7,7 @@ url: /html-simples-com-xml-e-css/
 tweetbackscheck:
   - 1356434007
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/html-simples-com-xml-e-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3td8d38";s:4:"isgd";s:19:"http://is.gd/78FXqj";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/html-simples-com-xml-e-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3td8d38";s:4:"isgd";s:19:"https://is.gd/78FXqj";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037747
@@ -53,9 +53,9 @@ Baseado nessa filosofia da simplicidade, que tem me rendidoresultados surpreende
 
 Quem já trabalha com XML certamente percebeu o poderda flexibilidade e da simplicidade. Éimpossível escrever um XML com erros de sintaxe,porque os interpretadores reclamam imediatamente. Émuito simples escrever documentos XML, sendo fácilextrair dados de qualquer banco de dados etransformá-los em XML (a maioria dos SGBDs incorporaou tem planos de incorporar o suporte nativo a XML.)Através da poderosa linguagem XSL e da farta oferta deparsers gratuitos, XML pode ser transformado em praticamentequalquer formato de arquivo.
 
-XHTML nada mais é do que uma forma de escrever umdocumento HTML de modo que ele também seja umdocumento XML válido. Ou seja, seu documento HTMLganha a coerência e flexibilidade de um documento XML,podendo ser facilmente lido por ferramentasautomáticas e convertido em outros formatos dearquivos. Com XHTML torna-se muito fácil oferecer osdados do seu site através de WAP ou de um RSS(<http://rssficado.pilger.inf.br>)por exemplo. Torna-se fácil também transformaro resultado de uma consulta a banco de dados ou um documentoXML numa página web.
+XHTML nada mais é do que uma forma de escrever umdocumento HTML de modo que ele também seja umdocumento XML válido. Ou seja, seu documento HTMLganha a coerência e flexibilidade de um documento XML,podendo ser facilmente lido por ferramentasautomáticas e convertido em outros formatos dearquivos. Com XHTML torna-se muito fácil oferecer osdados do seu site através de WAP ou de um RSS(<https://rssficado.pilger.inf.br>)por exemplo. Torna-se fácil também transformaro resultado de uma consulta a banco de dados ou um documentoXML numa página web.
 
-A boa notícia é que é muito fácilescrever XHTML. Qualquer um que escreva HTML pode aprender afazê-lo sem muita dificuldade. Existem inclusive umasérie de ferramentas interessantes para tornar esseprocesso mais produtivo, como o excelente HTML Tidy(<http://tidy.sourceforge.net>)que tem uma eficiência impressionante para umaferramenta automática.
+A boa notícia é que é muito fácilescrever XHTML. Qualquer um que escreva HTML pode aprender afazê-lo sem muita dificuldade. Existem inclusive umasérie de ferramentas interessantes para tornar esseprocesso mais produtivo, como o excelente HTML Tidy(<https://tidy.sourceforge.net>)que tem uma eficiência impressionante para umaferramenta automática.
 
 ### CSS e a Abordagem Semântica
 
@@ -99,11 +99,11 @@ ele.
 
 Não vou me alongar nesse tópico, mas gostaria que você tomasse um tempo para ler:
 
-  * <http://www.wired.com/news/culture/0,1284,55675,00.html>
-  * <http://www.digital-web.com/features/feature_2001-6.shtml>
-  * <http://www.digital-web.com/features/feature_2002-09.shtml>
-  * <http://www.useit.com/alertbox/990530.html>
-  * <http://www.useit.com/alertbox/9612.html>
+  * <https://www.wired.com/news/culture/0,1284,55675,00.html>
+  * <https://www.digital-web.com/features/feature_2001-6.shtml>
+  * <https://www.digital-web.com/features/feature_2002-09.shtml>
+  * <https://www.useit.com/alertbox/990530.html>
+  * <https://www.useit.com/alertbox/9612.html>
 
 ### Vamos com calma
 

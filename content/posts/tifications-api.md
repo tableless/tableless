@@ -76,11 +76,11 @@ O Browser tem um processo definido pela especificação do W3C que é basicament
   * [Sending Notifications &#8211; Apple][7]
   * [Artigo sobre o mesmo assunto no LoopInfinito][8]
 
- [1]: http://www.w3.org/TR/notifications/
- [2]: http://www.w3.org/TR/notifications/#replace-steps
- [3]: http://www.w3.org/TR/notifications/#display-steps
- [4]: http://www.w3.org/TR/notifications/#list-of-pending-notifications
+ [1]: https://www.w3.org/TR/notifications/
+ [2]: https://www.w3.org/TR/notifications/#replace-steps
+ [3]: https://www.w3.org/TR/notifications/#display-steps
+ [4]: https://www.w3.org/TR/notifications/#list-of-pending-notifications
  [5]: https://zeropush.com/blog/implementing-safari-push-notifications-in-osx-mavericks
  [6]: https://developer.mozilla.org/en-US/docs/Web/API/Notification/Using_Web_Notifications
  [7]: https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/SafariJSProgTopics/Articles/SendingNotifications.html#//apple_ref/doc/uid/TP40001483-CH23-SW1
- [8]: http://loopinfinito.com.br/2012/08/22/web-notifications-api/
+ [8]: https://loopinfinito.com.br/2012/08/22/web-notifications-api/

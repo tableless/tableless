@@ -31,7 +31,7 @@ O WordPress foi criado para ser usado como uma plataforma de criação e adminis
 
 ## A Hierarquia
 
-Para transformar seu site HTML em um tema, é necessário conhecer a <a href="http://tableless.com.br/hierarquia-de-arquivos-do-wordpress/" target="_blank">hierarquia de arquivos do WordPress</a>.
+Para transformar seu site HTML em um tema, é necessário conhecer a <a href="https://tableless.com.br/hierarquia-de-arquivos-do-wordpress/" target="_blank">hierarquia de arquivos do WordPress</a>.
 
 ## A Simplicidade
 
@@ -60,5 +60,5 @@ O WordPress já vem com a configuração do banco de dados.&nbsp;Basta conhecer 
 Nestes _posts types_ também é possível criar campos personalizados. Para saber mais sobre Posts Types confira este artigo do Paulo Rodrigues [Custom Post Types WordPress][3]
 
  [1]: https://codex.wordpress.org/Function_Reference
- [2]: http://generatewp.com/
- [3]: http://tableless.com.br/custom-post-types-wordpress/
+ [2]: https://generatewp.com/
+ [3]: https://tableless.com.br/custom-post-types-wordpress/

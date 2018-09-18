@@ -133,7 +133,7 @@ Isso é possível porque um objeto jQuery tem as suas propriedades como qualquer
 
 Enfim, estes são apenas exemplos simples da liberdade que temos quando compreendemos de fato como funcionam os _property accessors_. Este simples conceito pode mudar a forma como desenvolvemos e nos fornecer uma liberdade incrível.
 
-E quanto a performance? Nunca tema usar a _Bracket Notation_: ela é mais performática. Veja em <a href="http://jsperf.com/filipe-property-accessors" target="_blank">http://jsperf.com/filipe-property-accessors</a>.
+E quanto a performance? Nunca tema usar a _Bracket Notation_: ela é mais performática. Veja em <a href="https://jsperf.com/filipe-property-accessors" target="_blank">https://jsperf.com/filipe-property-accessors</a>.
 
 [<img class="alignnone wp-image-50898 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/property.jpg" alt="Comparação de performance usando brackets notation" width="683" height="438" />][1]
 

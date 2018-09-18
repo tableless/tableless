@@ -26,5 +26,5 @@ A aula terá duração de mais ou menos 1 hora. Mas acho que pode passar um pouq
 
 [Compre agora!][2]{.btn}
 
- [1]: http://tableless.com.br/assista-live-coding-codificando-um-layout-com-htmlcss/
+ [1]: https://tableless.com.br/assista-live-coding-codificando-um-layout-com-htmlcss/
  [2]: https://www.eventials.com/pt-br/tableless/wordpress-fazendo-um-site-institucional-com-wordpress/

@@ -119,8 +119,8 @@ No exemplo acima rodamos o teste de código usando o nome da task que definimos 
 
 Enfim, neste texto vimos como usar o Gulp para automatizar as tarefas do seu próximo projeto de forma simples e eficiente. O Gulp é um projeto novo e que ainda deve amadurecer muito nas próximas semanas. Caso você queira contribuir de alguma maneira, acesse o projeto no [github][5] e veja como ajudar.
 
- [1]: http://tableless.com.br/grunt-voce-deveria-estar-usando/
- [2]: http://gulpjs.com
- [3]: http://nodejs.org/
- [4]: http://gratimax.github.io/search-gulp-plugins/
+ [1]: https://tableless.com.br/grunt-voce-deveria-estar-usando/
+ [2]: https://gulpjs.com
+ [3]: https://nodejs.org/
+ [4]: https://gratimax.github.io/search-gulp-plugins/
  [5]: https://github.com/gulpjs/gulp

@@ -13,7 +13,7 @@ tags:
 image:  https://raw.githubusercontent.com/unitech/pm2/master/pres/pm2.20d3ef.png
 ---
 
-Nesse post vou explicar o básico para se fazer o deploy de uma aplicação desenvolvida em Node.js utilizando o [**PM2**](http://pm2.keymetrics.io/), que é uma ferramenta avançada e altamente utilizada para gerenciar aplicações em produção.
+Nesse post vou explicar o básico para se fazer o deploy de uma aplicação desenvolvida em Node.js utilizando o [**PM2**](https://pm2.keymetrics.io/), que é uma ferramenta avançada e altamente utilizada para gerenciar aplicações em produção.
 
 ## Por que utilizar o PM2?
 
@@ -26,7 +26,7 @@ O PM2 é uma ferramenta open source completa para o gerenciamento e deploy de ap
 - Logs das aplicações
 - Facilidade em escalar as aplicações (modo cluster ou fork)
 
-Citei apenas alguns recursos, porém o PM2 tem muita coisa legal disponível que pode ser encontrada na [documentação oficial](http://pm2.keymetrics.io/docs/usage/cluster-mode/).
+Citei apenas alguns recursos, porém o PM2 tem muita coisa legal disponível que pode ser encontrada na [documentação oficial](https://pm2.keymetrics.io/docs/usage/cluster-mode/).
 
 ## Instalando o PM2
 
@@ -141,4 +141,4 @@ $ pm2 delete monitor
 
 Esse post foi para mostrar apenas o básico de uma das ferramentas existentes para realizarmos o deploy das nossas aplicações Node.js em produção. Grandes empresas como PayPal, Best Buy e IBM utilizam o PM2 exatamente pelo seu grande poder no gerenciamento e manutanção das nossas aplicações no ambiente de produção.
 
-Aconselho para quem se interessou consultar o [site oficial](http://pm2.keymetrics.io/) e o repositório no [GitHub](https://github.com/Unitech/pm2), pois tem muita coisa legal que é possível fazer com o PM2.
+Aconselho para quem se interessou consultar o [site oficial](https://pm2.keymetrics.io/) e o repositório no [GitHub](https://github.com/Unitech/pm2), pois tem muita coisa legal que é possível fazer com o PM2.

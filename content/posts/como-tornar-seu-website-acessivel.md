@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356448605
 shorturls:
-  - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/como-tornar-seu-website-acessivel";s:7:"tinyurl";s:26:"http://tinyurl.com/3ccl9so";s:4:"isgd";s:19:"http://is.gd/9K4DaG";}'
+  - 'a:3:{s:9:"permalink";s:57:"https://tableless.com.br/como-tornar-seu-website-acessivel";s:7:"tinyurl";s:26:"https://tinyurl.com/3ccl9so";s:4:"isgd";s:19:"https://is.gd/9K4DaG";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039664
@@ -41,7 +41,7 @@ Iniciamos os códigos html nos “comunicando” com o navegador e &#8220;dizend
 
 Na segunda linha do código atribuímos o idioma do website e esta informação é de suma importância para que o leitor utilize o dicionário correto ao sintetizar as palavras. Utilizamos tanto a tag **xml:lang** quanto apenas **lang**, devido as diferentes versões de navegadores:
 
-<pre lang="html" line="1">&lt;html xmlns="http://www.w3.org/1999/xhtml" <strong>xml:lang="pt-br" lang="pt-br”</strong>&gt;</pre>
+<pre lang="html" line="1">&lt;html xmlns="https://www.w3.org/1999/xhtml" <strong>xml:lang="pt-br" lang="pt-br”</strong>&gt;</pre>
 
 Depois da tag de abertura _<head>_, temos a primeira linha de declaração _<meta>_ onde também é importante declarar a códificação utilizada para o conteúdo do website. Normalmente, sites em português, utilizam a codificação **ISO-8859-1**:
 
@@ -59,7 +59,7 @@ Outro atributo bastante importante a ser utilizado é o atributo _rel_ na tag _l
 
 <pre lang="html" line="1"></pre>
 
-Continuando o código, no _<body>_ de seu site, várias precauções devem ser igualmente tomadas. Os atributos _alt_ e _longdesc_ na tag _<img>_ devem ser preenchidos com textos intuitivos tanto para a falta de carregamento da imagem (no caso de um cuidado na usabilidade do website &#8211; <a href="http://tableless.com.br/usabilidade-para-desenvolvedores-front-end" target="_blank">vide Usabilidade para desenvolvedores front-end &#8211; pela Talita Pagani</a>), quanto no caso dos navegadores textuais e leitores de tela. Lembrando que _longdesc_ não tem suporte em todos os navegadores e é mais utilizado para leitores de tela. O ideal é utilizar os dois atributos:
+Continuando o código, no _<body>_ de seu site, várias precauções devem ser igualmente tomadas. Os atributos _alt_ e _longdesc_ na tag _<img>_ devem ser preenchidos com textos intuitivos tanto para a falta de carregamento da imagem (no caso de um cuidado na usabilidade do website &#8211; <a href="https://tableless.com.br/usabilidade-para-desenvolvedores-front-end" target="_blank">vide Usabilidade para desenvolvedores front-end &#8211; pela Talita Pagani</a>), quanto no caso dos navegadores textuais e leitores de tela. Lembrando que _longdesc_ não tem suporte em todos os navegadores e é mais utilizado para leitores de tela. O ideal é utilizar os dois atributos:
 
 <pre lang="html" line="1"><img src="images/1.jpg" alt="Imagem teste" longdesc="Imagem inserida  para  teste de atributos longdesc na tag img do html" /></pre>
 
@@ -79,12 +79,12 @@ Funções para auxílio de animações do portal da ANEEL</pre>
 
 Quer saber mais detalhes sobre Acessibilidade na Web? Abaixo 3 links que podem te ajudar nesta pesquisa.
 
-A avaliação de acessibilidade de seu site pode ser feita pela URL: <a href="http://www.dasilva.org.br/" target="_blank">http://www.dasilva.org.br/</a>.
+A avaliação de acessibilidade de seu site pode ser feita pela URL: <a href="https://www.dasilva.org.br/" target="_blank">https://www.dasilva.org.br/</a>.
   
-A documentação da W3C, para acessibilidade, pode ser adquirida neste link: <a href="http://www.w3.org/WAI/" target="_blank">http://www.w3.org/WAI/</a>
+A documentação da W3C, para acessibilidade, pode ser adquirida neste link: <a href="https://www.w3.org/WAI/" target="_blank">https://www.w3.org/WAI/</a>
   
-Para visualizar seu site em um navegador textual, acesse: <a href="http://www.delorie.com/web/lynxview.html" target="_blank">http://www.delorie.com/web/lynxview.html</a>
+Para visualizar seu site em um navegador textual, acesse: <a href="https://www.delorie.com/web/lynxview.html" target="_blank">https://www.delorie.com/web/lynxview.html</a>
 
 Com o HTML5 algumas dessas técnicas devem ser extintas, porque muitas das tags já estão sendo preparadas para ter um valor especialmente elaborado para cumprir requisitos de usabilidade, acessibilidade e SEO. Porém, enquanto a documentação se mantém em fase de formulação, vamos tornando acessíveis os sites que estão hoje na internet, mas ainda dificultam muito a vida deste público também inserido ao mundo virtual.
 
- [1]: http://tableless.com.br/seo-iniciantes-basico "SEO para iniciantes"
+ [1]: https://tableless.com.br/seo-iniciantes-basico "SEO para iniciantes"

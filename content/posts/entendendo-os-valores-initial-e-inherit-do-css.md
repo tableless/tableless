@@ -27,8 +27,8 @@ Neste artigo, pretendo compartilhar o que aprendi repassando o aprendizado a 
 
 A especificação oficial nos ajuda a entender a diferença entre as _keywords_ `initial` e `inherit`.
 
-  * <a href="http://dev.w3.org/csswg/css-cascade/#initial" target="_blank">Initial <em>keyword</em></a>: Se o valor no CSS da propriedade é &#8216;`initial`&#8216;, o valor inicial da propriedade se torna o oficial.
-  * <a href="http://dev.w3.org/csswg/css-cascade/#initial-value" target="_blank">Initial <em>value</em></a>: Cada propriedade tem um valor inicial, estipulado na tabela de definição da propriedade do navegador. Se o valor da propriedade do objeto não tem um valor herdado e a cascata não resulta em um valor oficial, o valor especificado da propriedade é o `initial`.
+  * <a href="https://dev.w3.org/csswg/css-cascade/#initial" target="_blank">Initial <em>keyword</em></a>: Se o valor no CSS da propriedade é &#8216;`initial`&#8216;, o valor inicial da propriedade se torna o oficial.
+  * <a href="https://dev.w3.org/csswg/css-cascade/#initial-value" target="_blank">Initial <em>value</em></a>: Cada propriedade tem um valor inicial, estipulado na tabela de definição da propriedade do navegador. Se o valor da propriedade do objeto não tem um valor herdado e a cascata não resulta em um valor oficial, o valor especificado da propriedade é o `initial`.
 
 Isto significa que, se o valor `initial `for definido aqui:
 
@@ -41,7 +41,7 @@ O valor provavelmente retornará **preto**, caso a cor padrão do navegador sej
 
 ### Quão diferente `initial` é de `inherit`?
 
-Se você deduz que isto é <a href="http://www.w3.org/TR/CSS2/cascade.html#value-def-inherit" target="_blank">questão de herança</a>, você está certo.
+Se você deduz que isto é <a href="https://www.w3.org/TR/CSS2/cascade.html#value-def-inherit" target="_blank">questão de herança</a>, você está certo.
 
 Mas `initial` e `inherit` são diferentes quando entendemos que o `inherit` checa se existem outras propriedades no pai que poderão ser utilizadas ou afetadas, antes que seja atribuído o valor inicial. Antes que o navegador decida renderizar o valor herdado, ele deve varrer a cascata de valores acima da propriedade definida e avaliar o possível valor inicial do elemento. Vai depender do que é atribuído no pai mais próximo do elemento:
 
@@ -215,5 +215,5 @@ Segundo os dados do <a href="https://developer.mozilla.org/pt-BR/#" target="_bl
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/example1-initial-inherit-joao-guilherme.png
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/example2-initial-inherit-joao-guilherme.png
- [3]: http://codepen.io/guicheffeR/pen/jPxKqQ
- [4]: http://tableless.com.br/querido-usuario-atualize-seu-browser/
+ [3]: https://codepen.io/guicheffeR/pen/jPxKqQ
+ [4]: https://tableless.com.br/querido-usuario-atualize-seu-browser/

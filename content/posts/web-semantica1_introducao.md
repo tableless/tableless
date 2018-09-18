@@ -17,4 +17,4 @@ A Web Semântica é uma web que tem toda sua informação identificada e organiz
 
 <small>Este artigo está em atualização constante. Portanto, não se assuste se quando você o reler, ele estiver um pouco diferente.<br /> <strong>Muito cuidado para não confundir código semântico com Web Semântica. São coisas diferentes. Esse artigo é sobre Web Semântica. Atenção.</strong></small>
 
- [1]: http://tableless.com.br/aprenda/a-web-semantica/
+ [1]: https://tableless.com.br/aprenda/a-web-semantica/

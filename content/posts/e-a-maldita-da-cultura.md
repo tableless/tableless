@@ -7,7 +7,7 @@ url: /e-a-maldita-da-cultura/
 tweetbackscheck:
   - 1356140575
 shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/e-a-maldita-da-cultura";s:7:"tinyurl";s:26:"http://tinyurl.com/4x4abgw";s:4:"isgd";s:19:"http://is.gd/1aMpW6";}'
+  - 'a:3:{s:9:"permalink";s:46:"https://tableless.com.br/e-a-maldita-da-cultura";s:7:"tinyurl";s:26:"https://tinyurl.com/4x4abgw";s:4:"isgd";s:19:"https://is.gd/1aMpW6";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035225
@@ -41,12 +41,12 @@ Para se interar no assunto:
   * [Problemas da blogosfera brasileira][8]
   * [Estado da Blogosfera brasileira][9]
 
- [1]: http://www.revolucao.etc.br/
- [2]: http://www.revolucao.etc.br/archives/o-que-esta-faltando-nos-blogs-brasileiros/
- [3]: http://blogbits.com.br/
- [4]: http://blogbits.com.br/arquivo/blogbits-podcast-6-blogosfera-brasileira
- [5]: http://www.primeiraleitura.com.br/auto/entenda.php?id=6715
- [6]: http://www.meiobit.com/arq/007772.html
- [7]: http://blog.fabioseixas.com.br/archives/2006/04/o_que_falta_e_c.html
- [8]: http://www.blogajuda.com.br/blogosfera/2006/04/17/problemas-da-blogosfera-brasileira/
- [9]: http://www.guileite.com/archives/2006/04/_uma_discussao.html
+ [1]: https://www.revolucao.etc.br/
+ [2]: https://www.revolucao.etc.br/archives/o-que-esta-faltando-nos-blogs-brasileiros/
+ [3]: https://blogbits.com.br/
+ [4]: https://blogbits.com.br/arquivo/blogbits-podcast-6-blogosfera-brasileira
+ [5]: https://www.primeiraleitura.com.br/auto/entenda.php?id=6715
+ [6]: https://www.meiobit.com/arq/007772.html
+ [7]: https://blog.fabioseixas.com.br/archives/2006/04/o_que_falta_e_c.html
+ [8]: https://www.blogajuda.com.br/blogosfera/2006/04/17/problemas-da-blogosfera-brasileira/
+ [9]: https://www.guileite.com/archives/2006/04/_uma_discussao.html

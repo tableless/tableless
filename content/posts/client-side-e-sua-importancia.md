@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356401745
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/client-side-e-sua-importancia";s:7:"tinyurl";s:26:"http://tinyurl.com/3gj93sv";s:4:"isgd";s:19:"http://is.gd/mcjGCh";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/client-side-e-sua-importancia";s:7:"tinyurl";s:26:"https://tinyurl.com/3gj93sv";s:4:"isgd";s:19:"https://is.gd/mcjGCh";}'
 twittercomments:
   - 'a:3:{i:53828769315688448;s:6:"137490";i:53827998893346816;s:6:"137491";i:53829976696430592;s:6:"137494";}'
 tweetcount:

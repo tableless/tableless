@@ -7,7 +7,7 @@ url: /firefox_17/
 tweetbackscheck:
   - 1355963646
 shorturls:
-  - 'a:3:{s:9:"permalink";s:34:"http://tableless.com.br/firefox_17";s:7:"tinyurl";s:26:"http://tinyurl.com/3js5psy";s:4:"isgd";s:19:"http://is.gd/nSJywK";}'
+  - 'a:3:{s:9:"permalink";s:34:"https://tableless.com.br/firefox_17";s:7:"tinyurl";s:26:"https://tinyurl.com/3js5psy";s:4:"isgd";s:19:"https://is.gd/nSJywK";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033695
@@ -26,7 +26,7 @@ Ler mais:
   * [Firefox e Thunderbird 1.0.7 em Português do Brasil][3]
   * [OpenSUSE and SpreadFirefox Cracked][4]
 
- [1]: http://www.mozilla.org/products/firefox/all.html
- [2]: http://www.spreadfirefox.com/
- [3]: http://br-linux.org/linux/?q=node/1906
- [4]: http://www.osnews.com/comment.php?news_id=12086
+ [1]: https://www.mozilla.org/products/firefox/all.html
+ [2]: https://www.spreadfirefox.com/
+ [3]: https://br-linux.org/linux/?q=node/1906
+ [4]: https://www.osnews.com/comment.php?news_id=12086

@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356140514
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/digest-0609-javascript-jquery";s:7:"tinyurl";s:26:"http://tinyurl.com/3gahrjh";s:4:"isgd";s:19:"http://is.gd/vogoYM";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/digest-0609-javascript-jquery";s:7:"tinyurl";s:26:"https://tinyurl.com/3gahrjh";s:4:"isgd";s:19:"https://is.gd/vogoYM";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 506925436
@@ -32,10 +32,10 @@ tags:
   * [Lavalamp for jQuery lovers][6]
   * [How to Make a Smooth Animated Menu With jQuery][7]
 
- [1]: http://www.jankoatwarpspeed.com/post/2009/01/19/Create-Vimeo-like-top-navigation.aspx
- [2]: http://pupunzi.wordpress.com/2009/01/18/mbmenu/
- [3]: http://www.sunsean.com/idTabs/
- [4]: http://nettuts.com/tutorials/html-css-techniques/how-to-create-a-slick-tabbed-content-area/
- [5]: http://nettuts.com/tutorials/javascript-ajax/create-a-cool-animated-navigation-with-css-and-jquery/
- [6]: http://www.gmarwaha.com/blog/category/client-side/jquery/
- [7]: http://buildinternet.com/2009/01/how-to-make-a-smooth-animated-menu-with-jquery/
+ [1]: https://www.jankoatwarpspeed.com/post/2009/01/19/Create-Vimeo-like-top-navigation.aspx
+ [2]: https://pupunzi.wordpress.com/2009/01/18/mbmenu/
+ [3]: https://www.sunsean.com/idTabs/
+ [4]: https://nettuts.com/tutorials/html-css-techniques/how-to-create-a-slick-tabbed-content-area/
+ [5]: https://nettuts.com/tutorials/javascript-ajax/create-a-cool-animated-navigation-with-css-and-jquery/
+ [6]: https://www.gmarwaha.com/blog/category/client-side/jquery/
+ [7]: https://buildinternet.com/2009/01/how-to-make-a-smooth-animated-menu-with-jquery/

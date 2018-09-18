@@ -32,7 +32,7 @@ Esse mês aconteceu uma das conferências mais importantes do ano, a [W3C Conf][
 
 Pessoas do mundo inteiro debateram tópicos relacionados aos padrões abertos dentre eles [Joshua Davis][9], um exemplo de profissional que conseguiu juntar arte com tecnologia usando ActionScript e JavaScript, sempre de forma irreverente.
 
-[youtube http://www.youtube.com/watch?v=LJS4fBjdPM4&w=610&h=470]
+[youtube https://www.youtube.com/watch?v=LJS4fBjdPM4&w=610&h=470]
 
 Além da palestra dele, tiveram outras igualmente incríveis como a da [Lea Verou][10] e muitas outras. Recomendo muito assistir [todas elas][11].
 
@@ -54,16 +54,16 @@ Basicamente você instala essa extensão no navegador e assim que encontrar um a
 
 Quais foram os melhores projetos, palestras, artigos e extensões desse mês?
 
- [1]: http://braziljs.org
- [2]: http://zofe.com.br
- [3]: http://docpad.org
+ [1]: https://braziljs.org
+ [2]: https://zofe.com.br
+ [3]: https://docpad.org
  [4]: https://github.com/mojombo/jekyll
- [5]: http://www.youtube.com/watch?v=EI99oZI3nKY
- [6]: http://github.com/braziljs/conf-boilerplate
- [7]: http://www.youtube.com/watch?v=LJS4fBjdPM4
- [8]: http://w3.org/conf/
+ [5]: https://www.youtube.com/watch?v=EI99oZI3nKY
+ [6]: https://github.com/braziljs/conf-boilerplate
+ [7]: https://www.youtube.com/watch?v=LJS4fBjdPM4
+ [8]: https://w3.org/conf/
  [9]: https://twitter.com/joshuadavis
- [10]: http://www.youtube.com/watch?v=3ikye7Qc7Ak
- [11]: http://www.youtube.com/user/W3Conf?feature=watch
- [12]: http://sergiolopes.org/diretorio-design-responsivo/
- [13]: http://getpocket.com/
+ [10]: https://www.youtube.com/watch?v=3ikye7Qc7Ak
+ [11]: https://www.youtube.com/user/W3Conf?feature=watch
+ [12]: https://sergiolopes.org/diretorio-design-responsivo/
+ [13]: https://getpocket.com/

@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356405477
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/digest-0509-javascript-jquery";s:7:"tinyurl";s:26:"http://tinyurl.com/3p4zlcq";s:4:"isgd";s:19:"http://is.gd/ddIzWF";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/digest-0509-javascript-jquery";s:7:"tinyurl";s:26:"https://tinyurl.com/3p4zlcq";s:4:"isgd";s:19:"https://is.gd/ddIzWF";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039072
@@ -34,10 +34,10 @@ tags:
   * [JQuery File Tree][6]
   * [Kwicks for JQuery][7]
 
- [1]: http://www.designer-daily.com/18-jquery-scripts-and-tutorials-to-improve-your-portfolio-2162/
- [2]: http://www.queness.com/post/222/10-jquery-photo-gallery-and-slider-plugins
- [3]: http://alistapart.com/articles/sprites2
- [4]: http://hv-designs.co.uk/2009/02/17/sliding-jquery-menu/
- [5]: http://www.queness.com/post/106/jquery-tabbed-interfacetabbed-structure-menu-tutorial
- [6]: http://abeautifulsite.net/notebook.php?article=58
- [7]: http://www.jeremymartin.name/projects.php?project=kwicks
+ [1]: https://www.designer-daily.com/18-jquery-scripts-and-tutorials-to-improve-your-portfolio-2162/
+ [2]: https://www.queness.com/post/222/10-jquery-photo-gallery-and-slider-plugins
+ [3]: https://alistapart.com/articles/sprites2
+ [4]: https://hv-designs.co.uk/2009/02/17/sliding-jquery-menu/
+ [5]: https://www.queness.com/post/106/jquery-tabbed-interfacetabbed-structure-menu-tutorial
+ [6]: https://abeautifulsite.net/notebook.php?article=58
+ [7]: https://www.jeremymartin.name/projects.php?project=kwicks

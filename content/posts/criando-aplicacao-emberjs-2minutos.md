@@ -23,7 +23,7 @@ do tipo:
 
 Felizmente eu preciso discordar. Ember tem uma release nova a cada 2 meses,
 estando atualmente na [versão 2.15](https://emberjs.com/builds/). Para você ter
-uma ideia Angular CLI é inspirado no [Ember CLI](http://ember-cli.com/) e
+uma ideia Angular CLI é inspirado no [Ember CLI](https://ember-cli.com/) e
 projetado com a ajuda do Core-Team do Ember. Deixo esse link para você conhecer
 um pouco mais. [Ember.js roubando da
 comunidade](https://codetalks.net/ember-js-roubando-da-comunidade-b71c974fbd43).
@@ -96,7 +96,7 @@ terminal:
 
     Build successful (6161ms) – Serving on 
 
-Agora acesse [http://localhost:4200](http://localhost:4200,/). Vai ser
+Agora acesse [https://localhost:4200](https://localhost:4200,/). Vai ser
 apresentado uma tela similar a esta:
 
 Tudo finalizado! Agora temos uma aplicação Ember funcionando em ambiente de
@@ -124,7 +124,7 @@ Pronto! feito isso seu código está pronto para ser publicado em produção.
 Você pode copiar os arquivos da pasta `my-app/dist` compilado pelo Ember CLI.
 
 Sim! Existe outras forma de publicar uma aplicação Ember em produção, usando
-[Ember CLI Deploy](http://ember-cli-deploy.com/), por exemplo, mas isso é
+[Ember CLI Deploy](https://ember-cli-deploy.com/), por exemplo, mas isso é
 assunto para outro post.
 
 Bom! É isso, para saber mais ou mesmo criar uma aplicação de exemplo mais

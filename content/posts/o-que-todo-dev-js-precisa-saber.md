@@ -11,7 +11,7 @@ tags:
   - Javascript
   - ReactJS
   - AngularJS
-image: http://i.imgur.com/duv3zng.jpg
+image: https://i.imgur.com/duv3zng.jpg
 ---
 
 Nos últimos anos o JavaScript vem passado por uma grande revolução: uma enorme
@@ -50,13 +50,13 @@ A importância desses dois métodos e o porquê deles serem tão usados
 [libs](https://github.com/angular/angular.js/blob/master/src/Angular.js#L1138))
 é bem simples: **apply** e **call** nos permitem pegar métodos emprestados
 reduzindo assim a quantidade total de código gerada e seguindo o
-[DRY](http://c2.com/cgi/wiki?DontRepeatYourself).
+[DRY](https://c2.com/cgi/wiki?DontRepeatYourself).
 
 ## 2) Closures
 
 A combinação de uma função e a referência ao seu estado externo é uma
 **closure**. Uma aplicação comum de **closures** são os
-[IIFEs](http://blog.concretesolutions.com.br/2014/12/funcoes-imediatas-javascript-iife/):
+[IIFEs](https://blog.concretesolutions.com.br/2014/12/funcoes-imediatas-javascript-iife/):
 
 <script src="https://gist.github.com/matheusml/a8b543babdfdff07be83.js"></script>
 
@@ -76,13 +76,13 @@ Porém, ao sairmos de **init**, perdemos a visibilidade da função **hello**.
 A capacidade de esconder informações também conhecida como: *data privacy*. Isso
 é essencial para que possamos esconder informações que deveriam ser privadas e
 [programar para uma interface e não para uma
-implementação](http://www.fatagnus.com/program-to-an-interface-not-an-implementation/).
+implementação](https://www.fatagnus.com/program-to-an-interface-not-an-implementation/).
 
 ## 3) This
 
 A palavra-chave **this** no JavaScript funciona de uma maneira um pouco
 diferente das outras linguagens. Em [linguagens
-OO](http://searchsoa.techtarget.com/definition/object-oriented-programming)
+OO](https://searchsoa.techtarget.com/definition/object-oriented-programming)
 comuns o **this** se refere a instância da classe corrente. Porém, no JavaScript
 o valor de **this** é determinado pelo contexto de invocação da função e onde
 elas foram chamadas.
@@ -224,7 +224,7 @@ dinâmicas. E quando um objeto tenta acessar qualquer propriedade sua e não a
 encontrar, ela procurará no seu **prototype**. E se não estiver lá, no
 **prototype** de seu **prototype** até que a propriedade seja encontrada ou
 então essa corrente, chamada de [Prototype
-Chain](http://stackoverflow.com/questions/11288660/prototype-chain-in-javascript),
+Chain](https://stackoverflow.com/questions/11288660/prototype-chain-in-javascript),
 se acabe:
 
 <script src="https://gist.github.com/matheusml/4dab8510c921a6ca7dc3.js"></script>
@@ -259,7 +259,7 @@ inicialização. Portanto o código acima é equivalente a esse:
 
 Para evitar problemas inesperados, tente sempre declarar todas a variáveis no
 topo do escopo, mesmo que você não as tenha inicializado ainda.<br> Ou então
-atualize para o [ES6](http://es6-features.org/) e passe a usar as *keywords*
+atualize para o [ES6](https://es6-features.org/) e passe a usar as *keywords*
 **let** e **const**. Elas funcionam da maneira esperada:
 
 <script src="https://gist.github.com/matheusml/86568b95044477d25296.js"></script>
@@ -272,14 +272,14 @@ linguagem.
 ## Para aprender mais
 
 É difícil encontrar conteúdo bom e atualizado em português. Com isso em mente
-criamos o [JSCasts](http://jscasts.teachable.com/), onde você vai se manter em
+criamos o [JSCasts](https://jscasts.teachable.com/), onde você vai se manter em
 dia com o JavaScript e todo o seu ecossistema de forma fácil e interativa.
 
 #### Cursos:
 
 * [Começando com
-React.js](http://jscasts.teachable.com/courses/comecando-com-react-js)
-* [React.js com ES6](http://jscasts.teachable.com/courses/react-js-com-es6)
+React.js](https://jscasts.teachable.com/courses/comecando-com-react-js)
+* [React.js com ES6](https://jscasts.teachable.com/courses/react-js-com-es6)
 
 
 ---

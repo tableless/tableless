@@ -7,7 +7,7 @@ url: /sobre_rss_atom_etc/
 tweetbackscheck:
   - 1356346237
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/sobre_rss_atom_etc";s:7:"tinyurl";s:26:"http://tinyurl.com/3pnpoct";s:4:"isgd";s:19:"http://is.gd/E4z2OZ";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/sobre_rss_atom_etc";s:7:"tinyurl";s:26:"https://tinyurl.com/3pnpoct";s:4:"isgd";s:19:"https://is.gd/E4z2OZ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033026
@@ -21,5 +21,5 @@ O legal é que não é só para pessoas técnicas, mas sim para aqueles que não
 
 [Feeds RSS e ATOM][2]
 
- [1]: http://www.brunotorres.net/
- [2]: http://www.brunotorres.net/assinar/
+ [1]: https://www.brunotorres.net/
+ [2]: https://www.brunotorres.net/assinar/

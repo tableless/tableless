@@ -118,12 +118,12 @@ Segue alguns links de referência:
   * [OS X Command Line &#8211; Sublime][4]
   * [Customizing Sublime Text][9]
 
- [1]: http://wbond.net/sublime_packages/package_control
- [2]: http://wbond.net/sublime_packages/community
- [3]: http://wbond.net/sublime_packages/package_control/usage
- [4]: http://www.sublimetext.com/docs/2/osx_command_line.html
- [5]: http://tableless.com.br/sublime-text-2-meu-novo-editor/
+ [1]: https://wbond.net/sublime_packages/package_control
+ [2]: https://wbond.net/sublime_packages/community
+ [3]: https://wbond.net/sublime_packages/package_control/usage
+ [4]: https://www.sublimetext.com/docs/2/osx_command_line.html
+ [5]: https://tableless.com.br/sublime-text-2-meu-novo-editor/
  [6]: https://docs.google.com/spreadsheet/ccc?key=0AnLDKkpwS2wCdHVoRGdlZ2h0MVhjLXlVTVJFbVFCWWc&hl=en_GB#gid=0
- [7]: http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
- [8]: http://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/
- [9]: http://docs.sublimetext.info/en/latest/customization/settings.html
+ [7]: https://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
+ [8]: https://robdodson.me/blog/2012/06/23/sublime-text-2-tips-and-shortcuts/
+ [9]: https://docs.sublimetext.info/en/latest/customization/settings.html

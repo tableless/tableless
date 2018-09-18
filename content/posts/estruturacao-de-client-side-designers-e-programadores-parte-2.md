@@ -8,7 +8,7 @@ url: /estruturacao-de-client-side-designers-e-programadores-parte-2/
 tweetbackscheck:
   - 1356413012
 shorturls:
-  - 'a:3:{s:9:"permalink";s:86:"http://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/";s:7:"tinyurl";s:26:"http://tinyurl.com/c3zy6om";s:4:"isgd";s:19:"http://is.gd/51TKyf";}'
+  - 'a:3:{s:9:"permalink";s:86:"https://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/";s:7:"tinyurl";s:26:"https://tinyurl.com/c3zy6om";s:4:"isgd";s:19:"https://is.gd/51TKyf";}'
 twittercomments:
   - 'a:27:{i:202935045135142913;s:7:"retweet";i:202388453743276033;s:7:"retweet";i:202386698775175169;s:7:"retweet";i:202371810770173953;s:7:"retweet";i:202204810408239104;s:7:"retweet";i:202201758246768641;s:7:"retweet";i:202201478696402944;s:7:"retweet";i:202193045138046977;s:7:"retweet";i:202176837990887425;s:7:"retweet";i:202168539589787648;s:7:"retweet";i:208180192106127360;s:7:"retweet";i:208179202778857472;s:7:"retweet";i:205289390803660801;s:7:"retweet";i:205285620384399360;s:7:"retweet";i:205280147513933824;s:7:"retweet";i:212539214510825472;s:7:"retweet";i:212535390614208514;s:7:"retweet";i:212527455632752640;s:7:"retweet";i:218331347670933505;s:7:"retweet";i:218326760306130945;s:7:"retweet";i:218325913421619200;s:7:"retweet";i:218325753656389632;s:7:"retweet";i:227749172751790081;s:7:"retweet";i:237176533846994945;s:7:"retweet";i:235720289017802752;s:7:"retweet";i:258190348071870465;s:7:"retweet";i:270878768162304000;s:7:"retweet";}'
 tweetcount:
@@ -73,4 +73,4 @@ Assim, começamos a criar uma **cultura** de padronização de código que vai p
 
 Veja a primeira parte deste artigo: [Préprocessadores, Framewoks e Bibliotecas][1]
 
- [1]: http://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/ "Estruturação de Client-side – Parte 1: Préprocessadores, Framewoks e Bibliotecas"
+ [1]: https://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/ "Estruturação de Client-side – Parte 1: Préprocessadores, Framewoks e Bibliotecas"

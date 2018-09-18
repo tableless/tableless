@@ -17,7 +17,7 @@ Já pensou em um mundo perfeito onde você pode digitar uma linha de comando e e
 
 Sim, é verdade, esse mundo existe com o <a href="https://surge.sh/" target="_blank">Surge.sh</a>.
 
-<a href="https://surge.sh/" target="_blank">Surge.sh</a> é muito simples de usar, para você instalar você precisa do gerenciador de pacotes <a href="http://nodejs.org" target="_blank">npm</a>.
+<a href="https://surge.sh/" target="_blank">Surge.sh</a> é muito simples de usar, para você instalar você precisa do gerenciador de pacotes <a href="https://nodejs.org" target="_blank">npm</a>.
 
 ## Instalando
 

@@ -8,7 +8,7 @@ url: /classes-funcionais/
 tweetbackscheck:
   - 1356393278
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7422";s:7:"tinyurl";s:26:"http://tinyurl.com/cvdw2cn";s:4:"isgd";s:19:"http://is.gd/8yG9BG";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7422";s:7:"tinyurl";s:26:"https://tinyurl.com/cvdw2cn";s:4:"isgd";s:19:"https://is.gd/8yG9BG";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 948282002
@@ -63,5 +63,5 @@ Em sites e sistemas onde você **acha** que vai reutilizar o HTML muitas vezes, 
   
 Eu nunca, em 11 anos, tive que reutilizar o mesmo HTML para um redesign ou reformatação da página mudando apenas o CSS. Nós sempre aproveitamos o momento para renovar o código HTML, melhorando a semântica e atualizando o código. Logo, você não vai passar por essa dúvida de usar ou não as classes funcionais em seus projetos.
 
- [1]: http://tableless.com.br/oocss-ou-css-do-jeito-certo/
+ [1]: https://tableless.com.br/oocss-ou-css-do-jeito-certo/
  [2]: https://github.com/tableless/exemplos/blob/gh-pages/classesfuncionais.css

@@ -7,7 +7,7 @@ url: /pong_no_firefox/
 tweetbackscheck:
   - 1356329146
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/pong_no_firefox";s:7:"tinyurl";s:26:"http://tinyurl.com/3fnw98j";s:4:"isgd";s:19:"http://is.gd/HT4Llm";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/pong_no_firefox";s:7:"tinyurl";s:26:"https://tinyurl.com/3fnw98j";s:4:"isgd";s:19:"https://is.gd/HT4Llm";}'
 twittercomments:
   - 'a:1:{i:35328643551080448;s:7:"retweet";}'
 tweetcount:

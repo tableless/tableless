@@ -7,7 +7,7 @@ url: /quer-testar-o-google-analytics/
 tweetbackscheck:
   - 1356464969
 shorturls:
-  - 'a:3:{s:9:"permalink";s:54:"http://tableless.com.br/quer-testar-o-google-analytics";s:7:"tinyurl";s:26:"http://tinyurl.com/4yqysmr";s:4:"isgd";s:19:"http://is.gd/tverY8";}'
+  - 'a:3:{s:9:"permalink";s:54:"https://tableless.com.br/quer-testar-o-google-analytics";s:7:"tinyurl";s:26:"https://tinyurl.com/4yqysmr";s:4:"isgd";s:19:"https://is.gd/tverY8";}'
 twittercomments:
   - 'a:1:{i:7879106498666496;s:7:"retweet";}'
 tweetcount:

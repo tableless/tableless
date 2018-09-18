@@ -8,7 +8,7 @@ url: /criando-sidebar-dinamica-no-wordpress/
 tweetbackscheck:
   - 1356425161
 shorturls:
-  - 'a:3:{s:9:"permalink";s:61:"http://tableless.com.br/criando-sidebar-dinamica-no-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/3nureyb";s:4:"isgd";s:19:"http://is.gd/E4jXWS";}'
+  - 'a:3:{s:9:"permalink";s:61:"https://tableless.com.br/criando-sidebar-dinamica-no-wordpress";s:7:"tinyurl";s:26:"https://tinyurl.com/3nureyb";s:4:"isgd";s:19:"https://is.gd/E4jXWS";}'
 twittercomments:
   - 'a:12:{i:36967906554294273;s:7:"retweet";i:36957508065042432;s:7:"retweet";i:156425917344907265;s:7:"retweet";i:156370509796347904;s:7:"retweet";i:156345151780945920;s:7:"retweet";i:156322783184433152;s:7:"retweet";i:159577988613160961;s:7:"retweet";i:159450100849053699;s:7:"retweet";i:159445987721617408;s:7:"retweet";i:159440797467557888;s:7:"retweet";i:159435779637116928;s:7:"retweet";i:159433088785580034;s:7:"retweet";}'
 tweetcount:
@@ -123,6 +123,6 @@ A função vai agregar o nome da sidebar ou o ID da sidebar de forma muito simpl
   
 [/cc]
 
-Caso tenham dúvidas, verifiquem em [http://codex.wordpress.org/Widgets_API][1]
+Caso tenham dúvidas, verifiquem em [https://codex.wordpress.org/Widgets_API][1]
 
- [1]: http://codex.wordpress.org/Widgets_API "Widgets WordPress"
+ [1]: https://codex.wordpress.org/Widgets_API "Widgets WordPress"

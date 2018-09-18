@@ -126,7 +126,7 @@ Se executarmos o teste com o **behat**, poderemos ver como está o nosso cenári
 
 Escrever testes de comportamento é sempre bom, e podemos consulta-los sempre, seja pra esclarecer uma regra de negócio ou para integrar novas pessoas ao time de desenvolvimento. Vendo os cenários sabemos exatamente o que uma classe/entidade deve fazer. Seu objetivo e contexto ficam claros. Os incentivo fortemente a implantar uma cultura de testes de software em sua empresa e projetos. Você tem muito a ganhar a longo prazo.
 
- [1]: http://tableless.com.br/introducao-ao-behavior-driven-development/
- [2]: http://behat.org/
- [3]: http://tableless.com.br/composer-para-iniciantes/
+ [1]: https://tableless.com.br/introducao-ao-behavior-driven-development/
+ [2]: https://behat.org/
+ [3]: https://tableless.com.br/composer-para-iniciantes/
  [4]: https://www.dropbox.com/s/xb6mmsxy5qdtjja/Captura%20de%20tela%202014-04-06%2014.47.25.png

@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356412343
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/video-menu-horizontal-em-5-minutos";s:7:"tinyurl";s:26:"http://tinyurl.com/3o5rw4e";s:4:"isgd";s:19:"http://is.gd/fpVJqY";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/video-menu-horizontal-em-5-minutos";s:7:"tinyurl";s:26:"https://tinyurl.com/3o5rw4e";s:4:"isgd";s:19:"https://is.gd/fpVJqY";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038284
@@ -38,8 +38,8 @@ Criar um menu horizontal com CSS é muito fácil e tráz algumas vantagens como 
 
 Se você quiser mais vídeos e em alta-resolução, visite o [Campus Online][4]. Lá você vai encontrar [vídeos tutoriais de Tableless, Ajax, Javascript][5] e boas práticas de desenvolvimento web.
 
- [1]: http://www.vimeo.com/1274875?pg=embed&sec=1274875
- [2]: http://www.vimeo.com/user435117?pg=embed&sec=1274875
- [3]: http://vimeo.com?pg=embed&sec=1274875
- [4]: http://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
- [5]: http://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"
+ [1]: https://www.vimeo.com/1274875?pg=embed&sec=1274875
+ [2]: https://www.vimeo.com/user435117?pg=embed&sec=1274875
+ [3]: https://vimeo.com?pg=embed&sec=1274875
+ [4]: https://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
+ [5]: https://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"

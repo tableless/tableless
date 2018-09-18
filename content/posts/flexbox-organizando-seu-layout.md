@@ -8,7 +8,7 @@ url: /flexbox-organizando-seu-layout/
 tweetbackscheck:
   - 1356400672
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7022";s:7:"tinyurl";s:26:"http://tinyurl.com/9nvk4om";s:4:"isgd";s:19:"http://is.gd/liUWge";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7022";s:7:"tinyurl";s:26:"https://tinyurl.com/9nvk4om";s:4:"isgd";s:19:"https://is.gd/liUWge";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 865932208
@@ -162,8 +162,8 @@ Isso é um grande avanço para a Arquitetura de Layouts. Não vamos mais depende
   * [Link para a documentação][4]
   * [Flexbox Playground &#8211; veja um exemplo modificando seus valores][5]
 
- [1]: http://tableless.com.br/css_box_model/
- [2]: http://tableless.github.com/exemplos/flexbox.html
- [3]: http://tableless.com.br/css3-modulo-template-layout/
- [4]: http://www.w3.org/TR/css3-flexbox/
- [5]: http://demo.agektmr.com/flexbox/
+ [1]: https://tableless.com.br/css_box_model/
+ [2]: https://tableless.github.com/exemplos/flexbox.html
+ [3]: https://tableless.com.br/css3-modulo-template-layout/
+ [4]: https://www.w3.org/TR/css3-flexbox/
+ [5]: https://demo.agektmr.com/flexbox/

@@ -123,4 +123,4 @@ Minha dica é criar dentro do arquivo Bootstrap =D ou até mesmo um helper..
 
 Agora, vá! Vá e diga a todos os seus amigos sobre a sua nova descoberta! \o/
 
- [1]: http://book.cakephp.org/2.0/en/core-utility-libraries/inflector.html
+ [1]: https://book.cakephp.org/2.0/en/core-utility-libraries/inflector.html

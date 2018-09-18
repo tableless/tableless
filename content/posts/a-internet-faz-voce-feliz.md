@@ -41,10 +41,10 @@ Positive computing é mais um exemplo de como nós, desenvolvedores, designers e
 Apoio [Net Combo][8].
 
  [1]: https://twitter.com/rafael_a_calvo
- [2]: http://sydney.edu.au/
- [3]: http://www.forbes.com/sites/giovannirodriguez/2015/01/25/positive-computing-the-next-big-thing-in-human-centered-design/
+ [2]: https://sydney.edu.au/
+ [3]: https://www.forbes.com/sites/giovannirodriguez/2015/01/25/positive-computing-the-next-big-thing-in-human-centered-design/
  [4]: https://mitpress.mit.edu/books/positive-computing
  [5]: https://twitter.com/tdoria/status/643880204037943296
- [6]: http://worldhappiness.report/
+ [6]: https://worldhappiness.report/
  [7]: https://pt.wikipedia.org/wiki/Psicologia_positiva
- [8]: http://www.combomultinet.com/net-combo/
+ [8]: https://www.combomultinet.com/net-combo/

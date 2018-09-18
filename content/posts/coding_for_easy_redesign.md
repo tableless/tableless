@@ -7,7 +7,7 @@ url: /coding_for_easy_redesign/
 tweetbackscheck:
   - 1355995408
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/coding_for_easy_redesign";s:7:"tinyurl";s:26:"http://tinyurl.com/4y9lzqu";s:4:"isgd";s:19:"http://is.gd/H6wIlJ";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/coding_for_easy_redesign";s:7:"tinyurl";s:26:"https://tinyurl.com/4y9lzqu";s:4:"isgd";s:19:"https://is.gd/H6wIlJ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 514441988
@@ -17,4 +17,4 @@ dsq_thread_id: 514441988
               
 [Jeffrey Zeldman on Coding for Easier Redesigns][1]
 
- [1]: http://www.macromedia.com/newsletters/edge/october2003/index.html?sectionIndex=1&trackingid=OMN_AAJT
+ [1]: https://www.macromedia.com/newsletters/edge/october2003/index.html?sectionIndex=1&trackingid=OMN_AAJT

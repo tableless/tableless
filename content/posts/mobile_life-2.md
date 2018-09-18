@@ -7,7 +7,7 @@ url: /mobile_life-2/
 tweetbackscheck:
   - 1356453973
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/mobile_life-2";s:7:"tinyurl";s:26:"http://tinyurl.com/43wj8kn";s:4:"isgd";s:19:"http://is.gd/7p8s27";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/mobile_life-2";s:7:"tinyurl";s:26:"https://tinyurl.com/43wj8kn";s:4:"isgd";s:19:"https://is.gd/7p8s27";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033827
@@ -25,5 +25,5 @@ Vale dar uma visitada&#8230; Eu estou lá também, postando e dando uns pitacos 
 
 E para começar, já tem um [review sobre o Nokia 6681][2]. Ele funciona sob o sistema Symbian&#8230; isso quer dizer que usa-se o Opera para acessar sites. Bem interessante.
 
- [1]: http://www.mobilelife.com.br/
- [2]: http://www.mobilelife.com.br/textos/reviews/nokia-6681-review/
+ [1]: https://www.mobilelife.com.br/
+ [2]: https://www.mobilelife.com.br/textos/reviews/nokia-6681-review/

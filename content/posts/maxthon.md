@@ -18,5 +18,5 @@ O Maxthon é o browser que mais suporta os padrões web atuais. Nem o Chrome Can
 
 De acordo com o [HTML5TEST][2] é o browser que mais suporta os padrões web atuais. Fica na frente de todos os outros browsers. Acho que vale a pena testar.
 
- [1]: http://www.maxthon.com/
- [2]: http://html5test.com/compare/browser/maxthon345/chromecanary/opera1210.html
+ [1]: https://www.maxthon.com/
+ [2]: https://html5test.com/compare/browser/maxthon345/chromecanary/opera1210.html

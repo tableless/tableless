@@ -7,7 +7,7 @@ url: /caminhando-pelo-html-parte-2/
 tweetbackscheck:
   - 1356439352
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/caminhando-pelo-html-parte-2";s:7:"tinyurl";s:26:"http://tinyurl.com/3los28n";s:4:"isgd";s:19:"http://is.gd/oCa8bL";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/caminhando-pelo-html-parte-2";s:7:"tinyurl";s:26:"https://tinyurl.com/3los28n";s:4:"isgd";s:19:"https://is.gd/oCa8bL";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034375
@@ -63,7 +63,7 @@ Você pode usar a sintaxe simplificadora:
 
 `<br />`
 
-Duas dicas: se você usa Dreamweaver 8 e não tinha entendido porque ele insiste em colocar uma barra no final do br, eis a resposta, ele usa por padrão a versão XHTML 1.0 em seus documentos. Já se você usa a versão MX e gostaria de experimentar o trabalho com XHTML, há ajuda para você aqui: http://tinyurl.com/zay3u
+Duas dicas: se você usa Dreamweaver 8 e não tinha entendido porque ele insiste em colocar uma barra no final do br, eis a resposta, ele usa por padrão a versão XHTML 1.0 em seus documentos. Já se você usa a versão MX e gostaria de experimentar o trabalho com XHTML, há ajuda para você aqui: https://tinyurl.com/zay3u
 
 A XHTML 1.0 também tem os modos Strict, Transitional e Frameset. Os conceitos são os mesmos, a versão Transitional existe para promover uma migração facilitada para quem vem do HTML 4.01, a Frameset é para quem precisa trabalhar com frames e a Strict é para quem quer seguir todas as novas regras. No caso de XHTML 1.0, as novas regras representam uma boa “faxina” no HTML, tornando mais simples e cheio de significado, e naturalmente obrigando você a trabalhar arduamente com CSS.
 
@@ -73,35 +73,35 @@ Como indicar com que tipo de documento você está trabalhando? Fazemos isso inc
 
 Strict:
   
-`<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">`
+`<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd">`
 
 Transitional:
   
-`<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">`
+`<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">`
 
 Frameset:
   
-`<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">`
+`<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "https://www.w3.org/TR/html4/frameset.dtd">`
 
 E os DOCTYPES para o XHTML 1.0:
 
 Strict:
   
-`<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">`
+`<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">`
 
 Transitional:
   
-`<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">`
+`<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">`
 
 Frameset:
   
-`<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">`
+`<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">`
 
 Até os antigos Internet Explorer 5.5 e Netscape 4.8, não fazia a menor diferença para o navegador que DOCTYPE você colocava, ou mesmo se não colocava nenhum em seus documentos. A partir do Internet Explorer 6.0, em todos os navegadores atuais, o DOCTYPE instrui o navegador a respeito de como renderizar o documento. Por isso é importante que você escolha e use um DOCTYPE em seu documento.
 
 `Validação`
 
-Uma das vantagens de colocar um DOCTYPE em seu documento é o fato de poder contar com validadores automáticos, como o do W3C (http://validator.w3.org). Eles são uma grande ajuda ao escrever um documento, indicando seus erros, o que é muito mais produtivo do que procurá-los você mesmo em um documento longo.
+Uma das vantagens de colocar um DOCTYPE em seu documento é o fato de poder contar com validadores automáticos, como o do W3C (https://validator.w3.org). Eles são uma grande ajuda ao escrever um documento, indicando seus erros, o que é muito mais produtivo do que procurá-los você mesmo em um documento longo.
 
 `E qual DOCTYPE usar?`
 
@@ -113,7 +113,7 @@ Minha sugestão é que você tente trabalhar com XHMTL, mesmo que seja o Transit
 
 O W3C já publicou uma revisão da XHTML 1.0, a XHTML 1.1, feita para ser modular. Isso significa que você poderá inserir em seu HTML trechos de outras linguagens, como MathML, SVG ou RSS. Já publicou também um “rascunho funcional” da nova versão da XHMTL, a 2.0. Tenho visto algumas pessoas usando o DOCTYPE XHTML 1.1 e muita gente fazendo perguntas sobre o 2.0.
   
-Acredite em mim: estas versões não são para você ainda. O principal problema com elas é que foram feitas para um futuro próximo em que tudo na web será baseado em XML. Assim, ao trabalhar com esses “novos sabores” do HTML, você precisa servi-los como XML. Isso significa configurar seu servidor para servir um mime-type diferente ou incluir um header HTTP em suas páginas. Significa também lidar com problemas com o Internet Explorer se recusando a exibir seus documentos. (Mais sobre isso em http://tinyurl.com/zbyxw e http://tinyurl.com/bhwfr)
+Acredite em mim: estas versões não são para você ainda. O principal problema com elas é que foram feitas para um futuro próximo em que tudo na web será baseado em XML. Assim, ao trabalhar com esses “novos sabores” do HTML, você precisa servi-los como XML. Isso significa configurar seu servidor para servir um mime-type diferente ou incluir um header HTTP em suas páginas. Significa também lidar com problemas com o Internet Explorer se recusando a exibir seus documentos. (Mais sobre isso em https://tinyurl.com/zbyxw e https://tinyurl.com/bhwfr)
 
 `E agora?`
 

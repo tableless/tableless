@@ -9,7 +9,7 @@ categories:
   - Notícias
 
 ---
-A 3ª edição do Prêmio Nacional de Acessibilidade na Web – Todos@Web, completa nesta quinta-feira (13) mais uma importante etapa: a divulgação dos projetos finalistas, entre eles, websites, instituições, cidadãos, aplicativos e tecnologias assistivas que promovem o acesso de pessoas com deficiências na Web. Para conhecer os selecionados pela comissão julgadora, acesse: http://premio.w3c.br/finalistas/.
+A 3ª edição do Prêmio Nacional de Acessibilidade na Web – Todos@Web, completa nesta quinta-feira (13) mais uma importante etapa: a divulgação dos projetos finalistas, entre eles, websites, instituições, cidadãos, aplicativos e tecnologias assistivas que promovem o acesso de pessoas com deficiências na Web. Para conhecer os selecionados pela comissão julgadora, acesse: https://premio.w3c.br/finalistas/.
 
 O prêmio, que é promovido pelo escritório brasileiro do World Wide Web Consortium (W3C), instalado na sede do Núcleo de Informação e Coordenação do Ponto BR (NIC.br) e do Comitê Gestor da Internet no Brasil (CGI.br), recebeu mais de 50 inscrições durante pouco mais de dois meses. As categorias do Todos@Web são: Pessoas e instituições, Projetos web, Aplicativos e tecnologias assistivas.
 
@@ -23,8 +23,8 @@ Os finalistas foram selecionados por uma comissão julgadora formada por especia
 
 Premiação
 
-A cerimônia de entrega do prêmio Todos@Web acontecerá em 4 de dezembro – na semana do Dia Internacional da Pessoa com Deficiência –, no auditório da Secretaria dos Direitos da Pessoa com Deficiência, na Barra Funda, em São Paulo. O evento é aberto ao público e terá início às 19h. Para confirmar a sua presença, envie um e-mail para eventos@nic.br. Essa será uma oportunidade para que os finalistas apresentem os trabalhos para os jurados. Os três projetos mais votados em cada uma das categorias vencerão o Todos@Web. Os detalhes sobre a premiação e os critérios de seleção estão disponíveis no regulamento http://premio.w3c.br/regulamento/.
+A cerimônia de entrega do prêmio Todos@Web acontecerá em 4 de dezembro – na semana do Dia Internacional da Pessoa com Deficiência –, no auditório da Secretaria dos Direitos da Pessoa com Deficiência, na Barra Funda, em São Paulo. O evento é aberto ao público e terá início às 19h. Para confirmar a sua presença, envie um e-mail para eventos@nic.br. Essa será uma oportunidade para que os finalistas apresentem os trabalhos para os jurados. Os três projetos mais votados em cada uma das categorias vencerão o Todos@Web. Os detalhes sobre a premiação e os critérios de seleção estão disponíveis no regulamento https://premio.w3c.br/regulamento/.
 
 Convite à reflexão
 
-Em consonância com o prêmio, o W3C Brasil promoverá no dia anterior à cerimônia do Todos@Web, em 3 de dezembro, data em que se comemora o Dia Internacional da Pessoa com Deficiência, uma ação online. O site do escritório brasileiro do W3C (http://www.w3c.br/) adotará um recurso que deixa a página escura, com navegação possível apenas por meio do teclado. Será uma simulação aproximada da realidade de deficientes visuais. A ideia é mostrar como a acessibilidade é importante e eficaz num sítio bem construído.
+Em consonância com o prêmio, o W3C Brasil promoverá no dia anterior à cerimônia do Todos@Web, em 3 de dezembro, data em que se comemora o Dia Internacional da Pessoa com Deficiência, uma ação online. O site do escritório brasileiro do W3C (https://www.w3c.br/) adotará um recurso que deixa a página escura, com navegação possível apenas por meio do teclado. Será uma simulação aproximada da realidade de deficientes visuais. A ideia é mostrar como a acessibilidade é importante e eficaz num sítio bem construído.

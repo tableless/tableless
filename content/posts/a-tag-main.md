@@ -62,5 +62,5 @@ Se acontecer alguma coisa e a galera voltar atrás, é simples de arracar o elem
 Link para a [documentação oficial][3].
 
  [1]: https://plus.google.com/107429617152575897589/posts
- [2]: http://html5doctor.com/interview-with-ian-hickson-html-editor/
- [3]: http://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-main-element
+ [2]: https://html5doctor.com/interview-with-ian-hickson-html-editor/
+ [3]: https://www.w3.org/html/wg/drafts/html/master/grouping-content.html#the-main-element

@@ -137,7 +137,7 @@ O HTTP tem duas funções distintas: servidor e cliente. Em geral, o cliente env
   
 Hypertext Transfer Protocol ou HTTP é a alma da web. É utilizado todas as vezes que você transfere um documento, ou faz uma solicitação AJAX.
 
-Se quiser mais informações, o TutsPlus tem <a href="http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340" target="_blank">um ótimo tutorial</a>, que usei como referência, com uma <a href="http://code.tutsplus.com/pt/tutorials/a-beginners-guide-to-http-and-rest--net-16340?ec_unit=dropdown-language" target="_blank">igualmente ótima tradução</a> feita pelo <a href="http://tutsplus.com/authors/thierry-rene" target="_blank">Thierry Rene</a>. Vale cada palavra.
+Se quiser mais informações, o TutsPlus tem <a href="https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340" target="_blank">um ótimo tutorial</a>, que usei como referência, com uma <a href="https://code.tutsplus.com/pt/tutorials/a-beginners-guide-to-http-and-rest--net-16340?ec_unit=dropdown-language" target="_blank">igualmente ótima tradução</a> feita pelo <a href="https://tutsplus.com/authors/thierry-rene" target="_blank">Thierry Rene</a>. Vale cada palavra.
 
 Concordo com o autor do link de referência sobre o conhecimento de HTTP não ser comum entre desenvolvedores, o que também considero importante e recomendo a leitura.
 
@@ -155,13 +155,13 @@ Uma arquitetura REST é uma uma forma de organizar as interações entre sistema
 
 Supondo que eu, ao acessar o site de minha empresa, gostaria de procurar por um vendedor admitido em 2015:
 
-<pre class="lang-html">http://siteincrivel.com.br/equipe.php?funcao=vendedor&admissao=2015</pre>
+<pre class="lang-html">https://siteincrivel.com.br/equipe.php?funcao=vendedor&admissao=2015</pre>
 
 Repare na instrução ao servidor: busque por vendedores admitidos em 2015. Enquanto a instrução pode ser facilmente interpretada, _equipe_ não é um recurso.
 
 Se a requisição fosse feita em uma arquitetura REST, minha URL seria:
 
-<pre class="lang-html">http://siteincrivel.com.br/equipe/admissao/2015/funcao/vendedor/</pre>
+<pre class="lang-html">https://siteincrivel.com.br/equipe/admissao/2015/funcao/vendedor/</pre>
 
 A URL, sem parâmetros, identifica o recurso que você deseja manipular de forma que eu obtenha informações precisas em todas as camadas. Fazer a requisição em um diretório retorna uma lista de recursos. Por exemplo, retirar &#8220;vendedor&#8221; da URL poderia me fornecer informações sobre todas as funções contratadas no ano de 2015.
 
@@ -195,27 +195,27 @@ Se você usa o Chrome, baixe a extensão do <a href="https://chrome.google.com/w
 
 Para visualizar sua primeira requisição, abra o Postman (você pode digitar o endereço no browser diretamente, se você não se importar com um monte de código chapado na tela) e digite na URL (válido para todos os exemplos abaixo):
 
-<pre class="lang-html">http://siteincrivel.com.br/wp-json/wp/v2/REQUISIÇÃO_AQUI.</pre>
+<pre class="lang-html">https://siteincrivel.com.br/wp-json/wp/v2/REQUISIÇÃO_AQUI.</pre>
 
 Onde _siteincrivel_ é o seu site e _REQUISIÇÃO_AQUI_ será a requisição que vocẽ deseja fazer, dentre as possibilidades:
 
 ### Para obter uma lista de Posts {#posts}
 
-<pre class="lang-html">http://siteincrivel.com.br/wp-json/wp/v2/posts</pre>
+<pre class="lang-html">https://siteincrivel.com.br/wp-json/wp/v2/posts</pre>
 
 ### Para visualizar um post específico {#post}
 
-<pre class="lang-html">http://siteincrivel.com.br/wp-json/wp/v2/{id}</pre>
+<pre class="lang-html">https://siteincrivel.com.br/wp-json/wp/v2/{id}</pre>
 
 Onde {id} é o ID do Post que você precisa.
 
 ### Para obter uma lista de Páginas {#paginas}
 
-<pre class="lang-html">http://siteincrivel.com.br/wp-json/wp/v2/pages</pre>
+<pre class="lang-html">https://siteincrivel.com.br/wp-json/wp/v2/pages</pre>
 
 ### Para visualizar uma página especifica: {#pagina}
 
-<pre class="lang-html">http://siteincrivel.com.br/wp-json/wp/v2/pages/{id}</pre>
+<pre class="lang-html">https://siteincrivel.com.br/wp-json/wp/v2/pages/{id}</pre>
 
 Onde {id} é o ID da página que você precisa.
 
@@ -229,19 +229,19 @@ Sendo assim:
 
 ### Requisitando uma Categoria ou tag de determinado post: {#catags}
 
-<pre class="lang-html">http://demo.wp-api.org/wp-json/wp/v2/posts/{id_do_post}/terms/category/</pre>
+<pre class="lang-html">https://demo.wp-api.org/wp-json/wp/v2/posts/{id_do_post}/terms/category/</pre>
 
-<pre class="lang-html">http://demo.wp-api.org/wp-json/wp/v2/posts/{id_do_post}/terms/tag/</pre>
+<pre class="lang-html">https://demo.wp-api.org/wp-json/wp/v2/posts/{id_do_post}/terms/tag/</pre>
 
 ### Obtendo uma lista de Categorias {#cat}
 
 Nossa categoria modelo (Marketing) deverá aparecer aqui
 
-<pre class="lang-html">http://siteincrivel.com.br/wp-json/wp/v2/terms/category</pre>
+<pre class="lang-html">https://siteincrivel.com.br/wp-json/wp/v2/terms/category</pre>
 
 ### Lista de Tags {#tag}
 
-<pre class="lang-html">http://seusite.com.br/wp-json/wp/v2/terms/tag</pre>
+<pre class="lang-html">https://seusite.com.br/wp-json/wp/v2/terms/tag</pre>
 
 ### Lidando e visualizando conteúdo com Custom Post Types: {#cpt}
 
@@ -251,7 +251,7 @@ Por padrão, o WP-API não autoriza a visualização direta de CPT. Para autoriz
 
 Caso você tenha feito corretamente, o endereço abaixo vai listar os posts relacionados àquele CPT:
 
-<pre class="lang-html">http://siteincrivel.com.br/wp-json/wp/v2/{nome_do_cpt}</pre>
+<pre class="lang-html">https://siteincrivel.com.br/wp-json/wp/v2/{nome_do_cpt}</pre>
 
 ### Usando o ACF? Você ainda está na zona de conforto! {#acf}
 
@@ -267,20 +267,20 @@ E você, tem alguma opinião a respeito? Desenvolveu alguma aplicação com o WP
 
 <cite>Referências:</cite>
 
-  * <a href="http://wp-api.org/" target="_blank">http://wp-api.org/</a>
+  * <a href="https://wp-api.org/" target="_blank">https://wp-api.org/</a>
   * <a href="https://feelingrestful.com/" target="_blank">https://feelingrestful.com/</a>
-  * <a href="http://observer.com/2015/07/wordpress-rest-api/" target="_blank">http://observer.com/2015/07/wordpress-rest-api/</a>
-  * <a href="http://jacklenox.com/2015/03/30/building-themes-with-the-wp-rest-api-wordcamp-london-march-2015/" target="_blank">http://jacklenox.com/2015/03/30/building-themes-with-the-wp-rest-api-wordcamp-london-march-2015/</a>
-  * <a href="http://torquemag.io/client-side-applications-powered-by-the-wordpress-json-rest-api/" target="_blank">http://torquemag.io/client-side-applications-powered-by-the-wordpress-json-rest-api/</a>
+  * <a href="https://observer.com/2015/07/wordpress-rest-api/" target="_blank">https://observer.com/2015/07/wordpress-rest-api/</a>
+  * <a href="https://jacklenox.com/2015/03/30/building-themes-with-the-wp-rest-api-wordcamp-london-march-2015/" target="_blank">https://jacklenox.com/2015/03/30/building-themes-with-the-wp-rest-api-wordcamp-london-march-2015/</a>
+  * <a href="https://torquemag.io/client-side-applications-powered-by-the-wordpress-json-rest-api/" target="_blank">https://torquemag.io/client-side-applications-powered-by-the-wordpress-json-rest-api/</a>
   * <a href="https://premium.wpmudev.org/blog/wordpress-rest-api/" target="_blank">https://premium.wpmudev.org/blog/wordpress-rest-api/</a>
   * <a href="https://wpengine.com/blog/josh-pollock-wordpress-rest-api-finely-tuned-consultant/" target="_blank">https://wpengine.com/blog/josh-pollock-wordpress-rest-api-finely-tuned-consultant/</a>
-  * <a href="http://premium.wpmudev.org/blog/using-wordpress-rest-api/" target="_blank">http://premium.wpmudev.org/blog/using-wordpress-rest-api/</a>
+  * <a href="https://premium.wpmudev.org/blog/using-wordpress-rest-api/" target="_blank">https://premium.wpmudev.org/blog/using-wordpress-rest-api/</a>
   * <a href="https://apppresser.com/wp-api-post-submission/" target="_blank">https://apppresser.com/wp-api-post-submission/</a>
   * <a href="https://blog.nexcess.net/2015/06/04/what-does-the-new-rest-api-mean-for-wordpress/" target="_blank">https://blog.nexcess.net/2015/06/04/what-does-the-new-rest-api-mean-for-wordpress/</a>
-  * <a href="http://www.wpwhitesecurity.com/wordpress-security/wordpress-rest-api-and-the-security-worries/" target="_blank">http://www.wpwhitesecurity.com/wordpress-security/wordpress-rest-api-and-the-security-worries/</a>
-  * <a href="http://www.sitepoint.com/wp-api/" target="_blank">http://www.sitepoint.com/wp-api/</a>
+  * <a href="https://www.wpwhitesecurity.com/wordpress-security/wordpress-rest-api-and-the-security-worries/" target="_blank">https://www.wpwhitesecurity.com/wordpress-security/wordpress-rest-api-and-the-security-worries/</a>
+  * <a href="https://www.sitepoint.com/wp-api/" target="_blank">https://www.sitepoint.com/wp-api/</a>
   * <a href="https://1fix.io/blog/2015/07/20/query-vars-wp-api/" target="_blank">https://1fix.io/blog/2015/07/20/query-vars-wp-api/</a>
-  * <a href="http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340" target="_blank">http://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest&#8211;net-16340</a>
+  * <a href="https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest--net-16340" target="_blank">https://code.tutsplus.com/tutorials/a-beginners-guide-to-http-and-rest&#8211;net-16340</a>
   * <a href="https://make.wordpress.org/core/2015/07/23/rest-api-whos-using-this-thing/" target="_blank">https://make.wordpress.org/core/2015/07/23/rest-api-whos-using-this-thing/</a>
 
  [1]: #conceito

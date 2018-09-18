@@ -28,7 +28,7 @@ Agora, com os arquivos da biblioteca em seu projeto, você deverá criar um form
 
 Algumas coisas na hora da criação do formulário são obrigatórias, são elas:
 
-  * O atributo `enctype` cujo valor é `multipart/form-data` (<a href="http://www.w3schools.com/tags/att_form_enctype.asp" target="_blank">Leia sobre</a>)
+  * O atributo `enctype` cujo valor é `multipart/form-data` (<a href="https://www.w3schools.com/tags/att_form_enctype.asp" target="_blank">Leia sobre</a>)
   * No atributo name do `input file` é necessário dois couchettes ( `[]` ) após o nome.
   * E uma pequena observação: Para permitir múltiplos uploads você deve adicionar o atributo `multiple.`
 
@@ -59,4 +59,4 @@ Tendo as informações acima em mente, e criadas, vamos para o arquivo que você
 
 Imagine você, neste exato momento, criando um sistema de múltiplos uploads do zero. Bem chato, não? Então use e abuse da Upin!
 
- [1]: http://upin.scriptadores.com/download/
+ [1]: https://upin.scriptadores.com/download/

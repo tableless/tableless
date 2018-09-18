@@ -7,7 +7,7 @@ url: /sobre-nomes-e-sobrenomes/
 tweetbackscheck:
   - 1355358732
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/sobre-nomes-e-sobrenomes";s:7:"tinyurl";s:26:"http://tinyurl.com/42ndtcq";s:4:"isgd";s:19:"http://is.gd/JRc8k5";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/sobre-nomes-e-sobrenomes";s:7:"tinyurl";s:26:"https://tinyurl.com/42ndtcq";s:4:"isgd";s:19:"https://is.gd/JRc8k5";}'
 twittercomments:
   - 'a:2:{i:10665222859657216;s:7:"retweet";i:10450313265811456;s:7:"retweet";}'
 tweetcount:
@@ -42,5 +42,5 @@ Esta regra de nomeclatura também pode ser aplicado à arquivos. Já falei aqui 
 
 Lembre-se que nomenclatura dos elementos pode ser questão de semântica. É coisa séria e pode trazer muitos problemas se não for pensado direito. Gaste uns segundos a mais para elaborar nomes melhores. Não dói e previne dor de cabeça.
 
- [1]: http://visie.com.br/cursos/
- [2]: http://tableless.com.br/css-modular-breve-explicacao
+ [1]: https://visie.com.br/cursos/
+ [2]: https://tableless.com.br/css-modular-breve-explicacao

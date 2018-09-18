@@ -31,7 +31,7 @@ Apresentei uma palestra sobre o assunto, contendo um resumo sobre vários itens.
 [slideshare id=54143836&doc=uso-acessivel-151019235146-lva1-app6892]
 
 <div style="margin-bottom: 5px;">
-  <strong> <a title="Uso acessivel - O cumprimento das premissas na web contemporânea" href="http://pt.slideshare.net/GabrielLuizRamos/uso-acessivel-o-cumprimento-das-premissas-na-web-contempornea" target="_blank">Uso acessível &#8211; O cumprimento das premissas na web contemporânea</a><br /> </strong>Por <strong><a href="//www.slideshare.net/GabrielLuizRamos" target="_blank">Gabriel Luiz Ramos</a></strong>
+  <strong> <a title="Uso acessivel - O cumprimento das premissas na web contemporânea" href="https://pt.slideshare.net/GabrielLuizRamos/uso-acessivel-o-cumprimento-das-premissas-na-web-contempornea" target="_blank">Uso acessível &#8211; O cumprimento das premissas na web contemporânea</a><br /> </strong>Por <strong><a href="//www.slideshare.net/GabrielLuizRamos" target="_blank">Gabriel Luiz Ramos</a></strong>
 </div>
 
- [1]: http://tableless.com.br/author/diegoeis/
+ [1]: https://tableless.com.br/author/diegoeis/

@@ -40,7 +40,7 @@ O evento surgiu da necessidade de fortalecer a comunidade Front-end local, por m
 - **Data:** 23 de setembro
 - **Local:** Teatro Ney Soares (rua Diamantina, 463, Lagoinha)
 - **Ingresso:** R$ 120
-- **Site:**  [http://frontinbh.com.br](http://frontinbh.com.br)
+- **Site:**  [https://frontinbh.com.br](https://frontinbh.com.br)
 
 
 ### Algumas fotos

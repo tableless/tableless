@@ -27,7 +27,7 @@ Por isso, a principal característica da programação funcional é a ausência 
 
 **Como programar utilizando o paradigma da Programação Funcional**
 
-Abaixo eu coloquei 3 regras básicas para transformar seu código em Programação Funcional (tirado deste ótimo artigo <a href="http://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/" target="_blank">http://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/</a>)
+Abaixo eu coloquei 3 regras básicas para transformar seu código em Programação Funcional (tirado deste ótimo artigo <a href="https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/" target="_blank">https://www.smashingmagazine.com/2014/07/dont-be-scared-of-functional-programming/</a>)
 
   * A função deve conter pelo menos 1 argumento
   * A função deve retornar algum dado ou outra função (isso será visto mais pra frente)
@@ -35,7 +35,7 @@ Abaixo eu coloquei 3 regras básicas para transformar seu código em Programaç�
 
 Utilizaremos uma pequena aplicação, uma página para uma agência de turismo virtual, e  transformaremos tudo o que for possível em seu código seguindo os conceitos de programação funcional.
 
-<a href="http://farinelliwebdevelopment.com/demo/functional-programming" target="_blank">Demo Page</a>
+<a href="https://farinelliwebdevelopment.com/demo/functional-programming" target="_blank">Demo Page</a>
 
 (se quiser pegar o código para acompanhar e testar você mesmo, <a href="https://github.com/maufarinelli/tutorial-functional-programming/tree/functional-part1" target="_blank">pegue o código no github</a>)
 
@@ -283,4 +283,4 @@ Bom, é isso. Uma introdução à programação funcional. Por fim, se quiser co
 
 Grande abraço.
 
- [1]: http://webschool.io/jsfuncional/
+ [1]: https://webschool.io/jsfuncional/

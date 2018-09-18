@@ -43,5 +43,5 @@ O WordPress vai inserir o arquivo pedido como um include PHP normal.
 
 Quer saber mais sobre WordPress? [Fique antenado aqui][2]!
 
- [1]: http://wordpress.org/
- [2]: http://tableless.com.br/wordpress
+ [1]: https://wordpress.org/
+ [2]: https://tableless.com.br/wordpress

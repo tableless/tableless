@@ -8,7 +8,7 @@ url: /interface-guide-para-apps-mobiles/
 tweetbackscheck:
   - 1356467850
 shorturls:
-  - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/interface-guide-para-apps-mobiles";s:7:"tinyurl";s:26:"http://tinyurl.com/3hl85nx";s:4:"isgd";s:19:"http://is.gd/zA4a3x";}'
+  - 'a:3:{s:9:"permalink";s:57:"https://tableless.com.br/interface-guide-para-apps-mobiles";s:7:"tinyurl";s:26:"https://tinyurl.com/3hl85nx";s:4:"isgd";s:19:"https://is.gd/zA4a3x";}'
 twittercomments:
   - 'a:15:{i:127017567008202752;s:7:"retweet";i:126271829273870336;s:7:"retweet";i:125926736704708608;s:7:"retweet";i:125922583467147264;s:7:"retweet";i:125916308243099648;s:7:"retweet";i:125909106723782657;s:7:"retweet";i:125904189950926848;s:7:"retweet";i:125902293446049792;s:7:"retweet";i:125901294845173761;s:7:"retweet";i:146070962117410816;s:7:"retweet";i:146068093087649792;s:7:"retweet";i:152116397755994112;s:7:"retweet";i:152103504561979392;s:7:"retweet";i:152101571948314624;s:7:"retweet";i:152100824741457920;s:7:"retweet";}'
 tweetcount:
@@ -45,10 +45,10 @@ iOS
     [Download guia de interface iOS][6].   
     [De brinde: guia de interface para MAC OS X][7]. 😉
 
- [1]: http://msdn.microsoft.com/en-us/library/ff402535(v=vs.92).aspx
- [2]: http://tableless.github.com/exemplos/pdf/guidelines-interface-mobiles/UI Design and Interaction Guide for Windows Phone 7 v2.0.pdf
- [3]: http://developer.android.com/guide/practices/ui_guidelines/index.html
- [4]: http://tableless.github.com/exemplos/pdf/guidelines-interface-mobiles/AndroidHIG.pdf
- [5]: http://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/Introduction/Introduction.html
- [6]: http://tableless.github.com/exemplos/pdf/guidelines-interface-mobiles/MobileHIG.pdf
- [7]: http://tableless.github.com/exemplos/pdf/guidelines-interface-mobiles/OSXHIGuidelines.pdf
+ [1]: https://msdn.microsoft.com/en-us/library/ff402535(v=vs.92).aspx
+ [2]: https://tableless.github.com/exemplos/pdf/guidelines-interface-mobiles/UI Design and Interaction Guide for Windows Phone 7 v2.0.pdf
+ [3]: https://developer.android.com/guide/practices/ui_guidelines/index.html
+ [4]: https://tableless.github.com/exemplos/pdf/guidelines-interface-mobiles/AndroidHIG.pdf
+ [5]: https://developer.apple.com/library/ios/#documentation/userexperience/conceptual/mobilehig/Introduction/Introduction.html
+ [6]: https://tableless.github.com/exemplos/pdf/guidelines-interface-mobiles/MobileHIG.pdf
+ [7]: https://tableless.github.com/exemplos/pdf/guidelines-interface-mobiles/OSXHIGuidelines.pdf

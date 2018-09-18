@@ -45,6 +45,6 @@ Se você quer ler mais sobre WordPress, experimente visitar a [parte exclusiva s
 
 [Mais sobre Bloginfo no site do WordPress][3].
 
- [1]: http://tableless.com.br/bloginfo-template-tag/
- [2]: http://tableless.com.br/wordpress/
- [3]: http://codex.wordpress.org/Template_Tags/bloginfo
+ [1]: https://tableless.com.br/bloginfo-template-tag/
+ [2]: https://tableless.com.br/wordpress/
+ [3]: https://codex.wordpress.org/Template_Tags/bloginfo

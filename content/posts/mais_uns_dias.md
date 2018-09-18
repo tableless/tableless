@@ -7,7 +7,7 @@ url: /mais_uns_dias/
 tweetbackscheck:
   - 1356228729
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/mais_uns_dias";s:7:"tinyurl";s:26:"http://tinyurl.com/4xgov4u";s:4:"isgd";s:19:"http://is.gd/qo8GYj";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/mais_uns_dias";s:7:"tinyurl";s:26:"https://tinyurl.com/4xgov4u";s:4:"isgd";s:19:"https://is.gd/qo8GYj";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031625
@@ -25,4 +25,4 @@ informações que devem ser seguidas ao mandar os css&#8230;
   
 informações.][1]
 
- [1]: http://elcio.locaweb.com.br/forum/topic.asp?TOPIC_ID=308
+ [1]: https://elcio.locaweb.com.br/forum/topic.asp?TOPIC_ID=308

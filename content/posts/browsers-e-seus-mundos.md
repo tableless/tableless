@@ -7,7 +7,7 @@ url: /browsers-e-seus-mundos/
 tweetbackscheck:
   - 1356420789
 shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/browsers-e-seus-mundos";s:7:"tinyurl";s:26:"http://tinyurl.com/3oz9gu9";s:4:"isgd";s:19:"http://is.gd/NrfacF";}'
+  - 'a:3:{s:9:"permalink";s:46:"https://tableless.com.br/browsers-e-seus-mundos";s:7:"tinyurl";s:26:"https://tinyurl.com/3oz9gu9";s:4:"isgd";s:19:"https://is.gd/NrfacF";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034040
@@ -61,10 +61,10 @@ Ainda há browsers de outros mundos a serem explorados e estudados, como disposi
   
 Browsers é um assunto interessantíssimo e importante para o desenvolvedor poder localizar-se nessa bagunça da internet.
 
- [1]: http://www.mozilla.org/products/camino/
- [2]: http://www.mozilla.org/products/firefox/
- [3]: http://www.apple.com/safari/
- [4]: http://aweb.sunsite.dk/dev/docs/khtml.html
- [5]: http://www.konqueror.org/
- [6]: http://www.opera.com/
- [7]: http://kmeleon.sourceforge.net/
+ [1]: https://www.mozilla.org/products/camino/
+ [2]: https://www.mozilla.org/products/firefox/
+ [3]: https://www.apple.com/safari/
+ [4]: https://aweb.sunsite.dk/dev/docs/khtml.html
+ [5]: https://www.konqueror.org/
+ [6]: https://www.opera.com/
+ [7]: https://kmeleon.sourceforge.net/

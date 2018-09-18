@@ -17,11 +17,11 @@ tags:
   - jogos
 
 ---
-Mantido na UEI (Ubiquitous Entertainment, Inc), por membros do Centro de Pesquisa de Akihabara, o _framework_ japonês chamado **<a href="http://enchantjs.com/pt-br/" target="_blank">enchant.js</a>**, permite criar com poucas linhas de código um jogo simples em HTML5.
+Mantido na UEI (Ubiquitous Entertainment, Inc), por membros do Centro de Pesquisa de Akihabara, o _framework_ japonês chamado **<a href="https://enchantjs.com/pt-br/" target="_blank">enchant.js</a>**, permite criar com poucas linhas de código um jogo simples em HTML5.
 
 Com **enchant.js**, você pode criar desde simples jogos 2D até avançados jogos em três dimensões, graças ao suporte WebGL usado como plugin.
 
-Os elementos criados em um bloco do enchant.js são renderizado através do DOM e do Canvas, além de rodar nas plataformas mais conhecidas. Os eventos são voltados para _mobile_, como o **Event.TOUCH_MOVE**, disparado quando o usuário toca na tela e a segura. O enchant.js ainda possui uma <a href="http://code.9leap.net/" target="_blank">plataforma</a> com bibliotecas e jogos prontos para serem usados quando quiser.
+Os elementos criados em um bloco do enchant.js são renderizado através do DOM e do Canvas, além de rodar nas plataformas mais conhecidas. Os eventos são voltados para _mobile_, como o **Event.TOUCH_MOVE**, disparado quando o usuário toca na tela e a segura. O enchant.js ainda possui uma <a href="https://code.9leap.net/" target="_blank">plataforma</a> com bibliotecas e jogos prontos para serem usados quando quiser.
 
 ## _Sprites_
 
@@ -57,8 +57,8 @@ Vamos criar um personagem movendo-se em um ambiente usando _sprite_.
    function initialize() {
      enchant();
      var game = new Core(640, 480);
-     var gohan = "http://tinyurl.com/p2z8qlt";
-     var fundo = "http://tinyurl.com/nc39d4y";
+     var gohan = "https://tinyurl.com/p2z8qlt";
+     var fundo = "https://tinyurl.com/nc39d4y";
      game.preload(gohan, fundo);
      game.fps = 16; // seta o fps. Quanto maior, mais lento
  
@@ -90,7 +90,7 @@ Vamos criar um personagem movendo-se em um ambiente usando _sprite_.
 }).apply(this);
 </pre>
 
-**<a href="http://plnkr.co/edit/dCxps2" target="_blank">Veja o exemplo no Plunker</a>**.
+**<a href="https://plnkr.co/edit/dCxps2" target="_blank">Veja o exemplo no Plunker</a>**.
 
 Primeiro chamamos o enchant.js na linha **3**. Na linha **4** criamos uma variável para guardar o objeto principal do jogo. Na linha **7**, dizemos ao enchant.js o que precisamos carregar antes de iniciar o jogo. Na linha **8** setamos os _frames per second_ do jogo (esta propriedade existe em todos os objetos do enchant.js). Na linha **10** definimos o que acontece quando o enchant.js terminar de carregar os _assets_. Na linha **12** criamos um novo sprite com largura e altura passadas como argumento. Na linha **13**, atribuímos a imagem de fundo, que já foi carregada à propriedade _image_ do _sprite background_. Na linha **14**, adicionamos esse fundo à cena principal (game.rootScene). Na linha **19**, criamos uma animação passando as imagens 0 e 1 do sprite. Na linha **22**, há o efeito de escala, como no CSS _(transform: scale(x, y))_, mas com a diferença do terceiro argumento que define o tempo (quanto maior, mais demorado). Na linha **29**, obtêm-se o efeito de mover em uma determinada direção em X e Y, definindo como terceiro argumento um tempo. O _loop()_ serve para repetir infinitamente a ação atual.
 
@@ -103,10 +103,10 @@ Que tal deixar nosso jogo mais emocionante e adicionar um inimigo para combater 
    enchant();
 
    var game = new Core(640, 480)
-   , gohan = "http://tinyurl.com/p2z8qlt"
-   , fundo = "http://tinyurl.com/nc39d4y"
-   , freeza = "http://tinyurl.com/parueup"
-   , powerImage = "http://tinyurl.com/o734vyr";
+   , gohan = "https://tinyurl.com/p2z8qlt"
+   , fundo = "https://tinyurl.com/nc39d4y"
+   , freeza = "https://tinyurl.com/parueup"
+   , powerImage = "https://tinyurl.com/o734vyr";
    game.preload(gohan, fundo, freeza, powerImage);
    game.fps = 16;
  
@@ -191,7 +191,7 @@ Que tal deixar nosso jogo mais emocionante e adicionar um inimigo para combater 
 }).apply(this);
 </pre>
 
-**<a href="http://plnkr.co/edit/7F6ytf" target="_blank">Veja o exemplo com dois personagens no Plunker</a>**.
+**<a href="https://plnkr.co/edit/7F6ytf" target="_blank">Veja o exemplo com dois personagens no Plunker</a>**.
 
 Neste segundo exemplo, temos funções novas:
 
@@ -221,6 +221,6 @@ Isto nos poupa de fazer uma lógica como esta:
 
 <pre>intersect(player, enemy); // true ou false</pre>
 
-Apesar deste ser um exemplo simples de como criar um jogo em HTML5, a <a href="http://enchantjs.com/resource/api-documentation/" target="_blank">documentação</a> do enchant.js é bastante completa, e tem muita coisa que permite ser incorporada para tornar nosso exemplo mais dinâmico e interativo.
+Apesar deste ser um exemplo simples de como criar um jogo em HTML5, a <a href="https://enchantjs.com/resource/api-documentation/" target="_blank">documentação</a> do enchant.js é bastante completa, e tem muita coisa que permite ser incorporada para tornar nosso exemplo mais dinâmico e interativo.
 
-Confira mais <a href="http://enchantjs.com/pt-br/" target="_blank">demos</a> no site, os <a href="http://enchantjs.com/tutorial/lets-start-with-enchant-js/" target="_blank">tutoriais</a> e os <a href="http://enchantjs.com/showcase/games-on-9leap-net/" target="_blank">jogos já desenvolvidos</a> com a plataforma.
+Confira mais <a href="https://enchantjs.com/pt-br/" target="_blank">demos</a> no site, os <a href="https://enchantjs.com/tutorial/lets-start-with-enchant-js/" target="_blank">tutoriais</a> e os <a href="https://enchantjs.com/showcase/games-on-9leap-net/" target="_blank">jogos já desenvolvidos</a> com a plataforma.

@@ -18,7 +18,7 @@ A Usabilidade está completamente ligada à utilidade e ao propósito de cada el
 
 Há poucos dias, andava eu pesquisando sobre o assunto e vi este vídeo de Donald Norman: Obs: O vídeo tem legendas 🙂
 
-[youtube http://www.youtube.com/watch?v=NK1Zb_5VxuM]
+[youtube https://www.youtube.com/watch?v=NK1Zb_5VxuM]
 
 Posso dizer que não me seria necessário acrescentar mais nada neste momento, pois, assistindo ao vídeo, o leitor já está totalmente inteirado do que estou querendo mostrar, mas para não ficar vago o texto, vamos há alguns conceitos.
 
@@ -54,7 +54,7 @@ Então devemos em nosso Design, pensar de maneira que, um botão se pareça com 
 
 Note que, no site do Wikipedia, todos os links estão em Azul, então é simples para o usuário perceber que em qualquer elemento azul no meio do texto em que ele clicar, será submetido à uma outra página falando algo sobre aquele assunto.
 
-Em contrapartida, no site <a title="publico.pt" href="http://www.publico.pt/" target="_blank">publico.pt</a> temos vários links, porém estes não são tão perceptíveis. Eles estão: No título da notícia, no nome do autor e em vários outros elementos.
+Em contrapartida, no site <a title="publico.pt" href="https://www.publico.pt/" target="_blank">publico.pt</a> temos vários links, porém estes não são tão perceptíveis. Eles estão: No título da notícia, no nome do autor e em vários outros elementos.
 
 Chamamos o primeiro conceito de Affordance percebida, onde temos um elemento que você logo percebe sua utilidade e sabe que poderá realizar determinada ação. E o segundo de Affordance escondida, onde podemos realizar determinada ação, mas não percebemos logo de cara.
 
@@ -84,7 +84,7 @@ Pense nesta questão das Affordances, e passe a aplicar este conceito em seus el
 
 E para finalizar, um slide falando um pouco mais sobre o tema:
 
-<a title="Slide Affordances" href="http://pt.slideshare.net/ivogomes/affordance-5740794" target="_blank"> Slide Affordances</a>
+<a title="Slide Affordances" href="https://pt.slideshare.net/ivogomes/affordance-5740794" target="_blank"> Slide Affordances</a>
 
- [1]: http://tableless.com.br/transicoes-inteligentes-na-experiencia-usuario/ "neste post do Raphael Fabeni"
- [2]: http://tableless.com.br/cinco-tipos-de-aplicativos-que-voce-deveria-usar-corretamente/ "Cinco tipos de aplicativos que você deveria usar corretamente"
+ [1]: https://tableless.com.br/transicoes-inteligentes-na-experiencia-usuario/ "neste post do Raphael Fabeni"
+ [2]: https://tableless.com.br/cinco-tipos-de-aplicativos-que-voce-deveria-usar-corretamente/ "Cinco tipos de aplicativos que você deveria usar corretamente"

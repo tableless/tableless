@@ -7,7 +7,7 @@ url: /informacao-e-formatacao-as-duas-camadas-de-desenvolvimento-web/
 tweetbackscheck:
   - 1356185078
 shorturls:
-  - 'a:3:{s:9:"permalink";s:86:"http://tableless.com.br/informacao-e-formatacao-as-duas-camadas-de-desenvolvimento-web";s:7:"tinyurl";s:26:"http://tinyurl.com/4x3orpq";s:4:"isgd";s:19:"http://is.gd/ZghY6o";}'
+  - 'a:3:{s:9:"permalink";s:86:"https://tableless.com.br/informacao-e-formatacao-as-duas-camadas-de-desenvolvimento-web";s:7:"tinyurl";s:26:"https://tinyurl.com/4x3orpq";s:4:"isgd";s:19:"https://is.gd/ZghY6o";}'
 twittercomments:
   - 'a:4:{i:27420609470271488;s:7:"retweet";i:27420591564783616;s:7:"retweet";i:27420234260414465;s:7:"retweet";i:27419999169679360;s:7:"retweet";}'
 tweetcount:
@@ -60,13 +60,13 @@ Fazendo isso, você pode escrever vários arquivos CSS distintos, que modifiquem
 
 Vários sites usam está técnica, deixando o usuário escolher o layout que mais lhe agrada, veja alguns exemplos:
 
-  * <http://www.csszengarden.com/>
-  * <http://www.meyerweb.com/>
-  * <http://www.zeldman.com/>
-  * <http://jeffhowden.com/styleswitcher/>
-  * <http://www.accessanet.com/standard/styleswitcher.html>
-  * <http://roselli.org/adrian/>
-  * <http://www.alltheweb.com/help/alchemist/gallery.html>
+  * <https://www.csszengarden.com/>
+  * <https://www.meyerweb.com/>
+  * <https://www.zeldman.com/>
+  * <https://jeffhowden.com/styleswitcher/>
+  * <https://www.accessanet.com/standard/styleswitcher.html>
+  * <https://roselli.org/adrian/>
+  * <https://www.alltheweb.com/help/alchemist/gallery.html>
 
 Realmente é uma mão na roda, não acha?
   
@@ -76,4 +76,4 @@ No próximo artigo trataremos sobre o ganho de produtividade observado com a apl
 
 Leitura Recomendada:
   
-<http://www.pedromendes.com/words/molly-200211-truelanguage1.html>
+<https://www.pedromendes.com/words/molly-200211-truelanguage1.html>

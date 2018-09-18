@@ -29,7 +29,7 @@ As enciclopédias tem suas informações organizadas de forma não linear, ou se
 
 Se levarmos esse conceito para web, percebemos que apenas uma tag faz esse trabalho de referência e associação de informação: o link. Na web você relaciona informações, sites e etc utilizando diretamente a tag &#8220;A&#8221;. Quando você linka um texto, uma imagem, um gráfico etc, você associa essa informação ao destino do link. Você está referenciando assuntos, como na enciclopédia. Sem os links não há web. Não conseguimos associar informação alguma. Perde-se a referência. Nós usamos o link todos os dias e aposto que a metade dos desenvolvedores não imagina a importância dessa tag. 
 
-Sugiro que você pesquise sobre a [história do hipertexto][1]. Você vai entender a amplitude do que significa organizar informação e da importância que isso teve para os dias de hoje tanto para web quanto para o mundo em si. É um assunto fascinante. Se quiser, comece por aqui: http://bit.ly/History\_of\_hypertext
+Sugiro que você pesquise sobre a [história do hipertexto][1]. Você vai entender a amplitude do que significa organizar informação e da importância que isso teve para os dias de hoje tanto para web quanto para o mundo em si. É um assunto fascinante. Se quiser, comece por aqui: https://bit.ly/History\_of\_hypertext
 
 > Quando você linka um texto, uma imagem, um gráfico etc, você associa essa informação ao destino do link. Você está referenciando assuntos, como na enciclopédia. Sem os links não há web.
 
@@ -38,7 +38,7 @@ Abaixo você pode ver uma palestra que fiz sobre o assunto. Vou tentar escrever 
 
 
 <p style="margin-bottom:5px">
-  <strong> <a href="https://www.slideshare.net/diegoeis/a-verdadeira-semntica-do-html5" title="A verdadeira semântica do html5" target="_blank">A verdadeira semântica do html5</a> </strong> from <strong><a href="http://www.slideshare.net/diegoeis" target="_blank">Diego Eis</a></strong>
+  <strong> <a href="https://www.slideshare.net/diegoeis/a-verdadeira-semntica-do-html5" title="A verdadeira semântica do html5" target="_blank">A verdadeira semântica do html5</a> </strong> from <strong><a href="https://www.slideshare.net/diegoeis" target="_blank">Diego Eis</a></strong>
 </p>
 
- [1]: http://pt.wikipedia.org/wiki/Hipertexto
+ [1]: https://pt.wikipedia.org/wiki/Hipertexto

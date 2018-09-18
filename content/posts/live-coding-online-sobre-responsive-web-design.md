@@ -19,5 +19,5 @@ O Tableless tem feito [uma série de micro workshops][1] sobre diversos assuntos
   
 O valor? Uma mamata para você: só R$45.
 
- [1]: http://https://www.eventials.com/tableless/
+ [1]: https://https://www.eventials.com/tableless/
  [2]: https://www.eventials.com/tableless/live-coding-implementando-um-site-responsivo/

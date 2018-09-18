@@ -7,7 +7,7 @@ url: /outro_lado_da_moeda/
 tweetbackscheck:
   - 1355754879
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/outro_lado_da_moeda";s:7:"tinyurl";s:26:"http://tinyurl.com/3jjfql6";s:4:"isgd";s:19:"http://is.gd/wxvDdv";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/outro_lado_da_moeda";s:7:"tinyurl";s:26:"https://tinyurl.com/3jjfql6";s:4:"isgd";s:19:"https://is.gd/wxvDdv";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031648
@@ -21,6 +21,6 @@ de CSS.
           
 [An Objective Look at Table Based vs. CSS Based Design][2].
 
- [1]: http://www.andybudd.com/
- [2]: http://www.andybudd.com/archives/2004/05/an_objective_look_at_table_based_
+ [1]: https://www.andybudd.com/
+ [2]: https://www.andybudd.com/archives/2004/05/an_objective_look_at_table_based_
 vs_css_based_design/

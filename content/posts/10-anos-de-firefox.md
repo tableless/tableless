@@ -8,7 +8,7 @@ url: /10-anos-de-firefox/
 tweetbackscheck:
   - 1356443821
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/10-anos-de-firefox/";s:7:"tinyurl";s:26:"http://tinyurl.com/c7chn7n";s:4:"isgd";s:19:"http://is.gd/RqEeVk";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/10-anos-de-firefox/";s:7:"tinyurl";s:26:"https://tinyurl.com/c7chn7n";s:4:"isgd";s:19:"https://is.gd/RqEeVk";}'
 twittercomments:
   - 'a:10:{i:251064049817747456;s:7:"retweet";i:251049224836374530;s:7:"retweet";i:251047707987283970;s:7:"retweet";i:251046547943469057;s:7:"retweet";i:250388527316086784;s:7:"retweet";i:250294553058344961;s:7:"retweet";i:250278716150792192;s:7:"retweet";i:250278650094690305;s:7:"retweet";i:250278540539461633;s:7:"retweet";i:250248501710172160;s:7:"retweet";}'
 tweetcount:
@@ -32,7 +32,7 @@ Abaixo segue alguns vídeos para comemorar a data. Se você é um desenvolvedor 
 
 
 
-http://www.youtube.com/watch?v=DeEafmwRk6A
+https://www.youtube.com/watch?v=DeEafmwRk6A
 
- [1]: http://getfirefox.com/
- [2]: http://www.mozilla.org/about/manifesto.pt-br.html
+ [1]: https://getfirefox.com/
+ [2]: https://www.mozilla.org/about/manifesto.pt-br.html

@@ -116,7 +116,7 @@ Nessa IDE, temos várias opções de _Project Type_, mas o que importa para nós
 É claro que isso é só o básico sobre criação de chrome Apps, mas já dá pra brincar um pouquinho. Abraço, e bons estudos. ☺
 
  [1]: https://www.google.com/chrome/webstore/apps-create.html
- [2]: http://pt.wikipedia.org/wiki/Dart_%28linguagem_de_programa%C3%A7%C3%A3o%29
- [3]: http://thomaswilburn.net/caret/
- [4]: http://pt.wikipedia.org/wiki/JavaScript
+ [2]: https://pt.wikipedia.org/wiki/Dart_%28linguagem_de_programa%C3%A7%C3%A3o%29
+ [3]: https://thomaswilburn.net/caret/
+ [4]: https://pt.wikipedia.org/wiki/JavaScript
  [5]: https://www.polymer-project.org/0.5/

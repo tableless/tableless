@@ -240,7 +240,7 @@ Há muito mais coisas envolvidas no framework, mas não daria para falar tudo aq
 
 Valeu galera, um grande abraço.
 
-**Screencast** : <http://jails-org.github.io/Jails/docs/#/video-components>
+**Screencast** : <https://jails-org.github.io/Jails/docs/#/video-components>
 
 **Repositório**: <https://github.com/Jails-org/>
 

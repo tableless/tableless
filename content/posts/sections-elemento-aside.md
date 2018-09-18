@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356394697
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/sections-elemento-aside";s:7:"tinyurl";s:26:"http://tinyurl.com/3oo3wnw";s:4:"isgd";s:19:"http://is.gd/hG1dD8";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/sections-elemento-aside";s:7:"tinyurl";s:26:"https://tinyurl.com/3oo3wnw";s:4:"isgd";s:19:"https://is.gd/hG1dD8";}'
 twittercomments:
   - 'a:1:{i:12674862111789056;s:6:"136330";}'
 tweetcount:

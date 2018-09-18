@@ -168,4 +168,4 @@ Pronto, agora temos um sistema de paginação baseado em div&#8217;s com JavaScr
 
 Nosso sistema de paginação completo, totalmente no HTML, é uma das vantagens dessa paginação. O ganho de performance, claro, depende da quantidade de dados.
 
-Adaptado de <a href="http://web.enavu.com/tutorials/making-a-jquery-pagination-system/" target="_blank">http://web.enavu.com/tutorials/making-a-jquery-pagination-system/</a>
+Adaptado de <a href="https://web.enavu.com/tutorials/making-a-jquery-pagination-system/" target="_blank">https://web.enavu.com/tutorials/making-a-jquery-pagination-system/</a>

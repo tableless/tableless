@@ -79,7 +79,7 @@ Começando pela própria linguagem, que vem com uma excelente [biblioteca padrã
 
 <pre>import urllib
 import gzip
-html=urllib.urlopen('http://tableless.com.br/por-que-python/').read()
+html=urllib.urlopen('https://tableless.com.br/por-que-python/').read()
 gzfile=gzip.open('por-que-python.html.gz','w')
 gzfile.write(html)</pre>
 

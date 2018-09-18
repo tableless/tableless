@@ -105,15 +105,15 @@ ResponsiveImages.org: [About picture][11]
 
 É isso ai galera, abraços!
 
- [1]: http://tableless.com.br/author/daniauthors: Dani Guerrato
+ [1]: https://tableless.com.br/author/daniauthors: Dani Guerrato
 paid: true/
- [2]: http://tableless.com.br/imagens-responsivas-de-alta-performance/
- [3]: http://alistapart.com/blog/post/testing-responsive-images/
+ [2]: https://tableless.com.br/imagens-responsivas-de-alta-performance/
+ [3]: https://alistapart.com/blog/post/testing-responsive-images/
  [4]: https://bugzilla.mozilla.org/show_bug.cgi?id=870022
  [5]: https://github.com/scottjehl/picturefill
  [6]: https://gist.github.com/Wilto/547b88c657b511fb1dc5
- [7]: http://www.w3.org/TR/html-picture-element/
- [8]: http://www.google.com/intl/en/chrome/browser/canary.html
- [9]: http://www.reidark.com.br/picture.html
+ [7]: https://www.w3.org/TR/html-picture-element/
+ [8]: https://www.google.com/intl/en/chrome/browser/canary.html
+ [9]: https://www.reidark.com.br/picture.html
  [10]: https://github.com/yoavweiss/Blink/issues
- [11]: http://responsiveimages.org/
+ [11]: https://responsiveimages.org/

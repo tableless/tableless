@@ -7,7 +7,7 @@ url: /rapidinhas_novidades/
 tweetbackscheck:
   - 1356079500
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/rapidinhas_novidades";s:7:"tinyurl";s:26:"http://tinyurl.com/3j89dpx";s:4:"isgd";s:19:"http://is.gd/3gD07k";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/rapidinhas_novidades";s:7:"tinyurl";s:26:"https://tinyurl.com/3j89dpx";s:4:"isgd";s:19:"https://is.gd/3gD07k";}'
 twittercomments:
   - 'a:1:{i:23006310035365888;s:7:"retweet";}'
 tweetcount:
@@ -21,10 +21,10 @@ dsq_thread_id: 503032917
   * folksonomia: [1][4], [2][5], [3][6].
   * [Uma comparação entre Internet Explorer, Firefox e Opera][7]
 
- [1]: http://charges.uol.com.br/restrito/index.php "Charges.com.br"
- [2]: http://www.backbase.com/ "Backbase"
- [3]: http://elcio.locaweb.com.br/msg.asp?id=370 "Ajax e o Hype - fechaTag"
- [4]: http://simonevb.com/blog/2005/06/tags_are_the_ne.htm "Tags are the new black"
- [5]: http://www.usabilidoido.com.br/classificacao_ao_alcance_de_todos.html
- [6]: http://www.usabilidoido.com.br/classificacoes_na_web.html "Classificações na Web"
- [7]: http://tecnologia.uol.com.br/especiais/ultnot/2005/06/22/ult2888u46.jhtm "Uma comparação entre Internet Explorer, Firefox e Opera"
+ [1]: https://charges.uol.com.br/restrito/index.php "Charges.com.br"
+ [2]: https://www.backbase.com/ "Backbase"
+ [3]: https://elcio.locaweb.com.br/msg.asp?id=370 "Ajax e o Hype - fechaTag"
+ [4]: https://simonevb.com/blog/2005/06/tags_are_the_ne.htm "Tags are the new black"
+ [5]: https://www.usabilidoido.com.br/classificacao_ao_alcance_de_todos.html
+ [6]: https://www.usabilidoido.com.br/classificacoes_na_web.html "Classificações na Web"
+ [7]: https://tecnologia.uol.com.br/especiais/ultnot/2005/06/22/ult2888u46.jhtm "Uma comparação entre Internet Explorer, Firefox e Opera"

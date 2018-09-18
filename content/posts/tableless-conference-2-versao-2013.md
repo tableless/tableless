@@ -26,11 +26,11 @@ Se você não foi ao evento passado, não chore, [veja essas fotos][7]. Não fiq
 
 Os primeiros sortudos que comprarem os ingressos terão cinquenta reais de desconto, pagando R$200! Por isso corra e garanta seu lugar.
 
- [1]: http://tableless.com.br/tablelessconf/
- [2]: http://twitter.com/clauberhalic/
- [3]: http://twitter.com/horaciosoares/
- [4]: http://twitter.com/fellyph/
- [5]: http://twitter.com/eduagni/
- [6]: http://twitter.com/bernarddeluna/
- [7]: http://www.flickr.com//photos/diegoeis/sets/72157631273481758/show/
- [8]: http://tableless.com.br/tablelessconf/ "TablelessConf"
+ [1]: https://tableless.com.br/tablelessconf/
+ [2]: https://twitter.com/clauberhalic/
+ [3]: https://twitter.com/horaciosoares/
+ [4]: https://twitter.com/fellyph/
+ [5]: https://twitter.com/eduagni/
+ [6]: https://twitter.com/bernarddeluna/
+ [7]: https://www.flickr.com//photos/diegoeis/sets/72157631273481758/show/
+ [8]: https://tableless.com.br/tablelessconf/ "TablelessConf"

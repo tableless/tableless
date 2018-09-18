@@ -66,7 +66,7 @@ Por outro lado nada adianta fazer exercícios e não cuidar da alimentação. N�
 precisa ser um expert em nutrição, comece estudando e colocando em prática
 algumas coisas sobre a [composição dos alimentos (carboidratos, proteínas,
 gorduras boas e
-ruins)](http://globoesporte.globo.com/eu-atleta/nutricao/guia/composicao-dos-alimentos-o-que-sao-carboidratos-lipidios-e-proteinas.html).
+ruins)](https://globoesporte.globo.com/eu-atleta/nutricao/guia/composicao-dos-alimentos-o-que-sao-carboidratos-lipidios-e-proteinas.html).
 
 <div style="text-align:center">
 ![](https://cdn-images-1.medium.com/max/800/0*MJkdn8Jv1_jRfPkd.gif)

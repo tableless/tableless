@@ -7,7 +7,7 @@ url: /se-virando-pra-testar-parte-2-desktops-virtuais/
 tweetbackscheck:
   - 1356170717
 shorturls:
-  - 'a:3:{s:9:"permalink";s:71:"http://tableless.com.br/se-virando-pra-testar-parte-2-desktops-virtuais";s:7:"tinyurl";s:26:"http://tinyurl.com/4376pxw";s:4:"isgd";s:19:"http://is.gd/a0fc5B";}'
+  - 'a:3:{s:9:"permalink";s:71:"https://tableless.com.br/se-virando-pra-testar-parte-2-desktops-virtuais";s:7:"tinyurl";s:26:"https://tinyurl.com/4376pxw";s:4:"isgd";s:19:"https://is.gd/a0fc5B";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036311
@@ -28,7 +28,7 @@ Se você tem alguma coisa para acrescentar, por favor, deixe um comentário.
 
 ### Windows &#8211; PearPC
 
-<http://pearpc.sourceforge.net/>
+<https://pearpc.sourceforge.net/>
 
 Ótimo programinha para PC. Um dia muito distante (que fique cada vez mais distante, por favor) eu tive um problema no IE para Mac. Aquela maldição estava encrencando com alguma propriedade do CSS e a única forma de arrumar era tendo um mac. Passava horas nos sites de screenshots atualizando a página, esperando a renderização e só depois que os screenshots ficavam prontos eu corria pra poder fazer alguma alteração no código para depois poder tirar outro screenshot e passar por toda aquela espera.
 
@@ -52,7 +52,7 @@ Se você tem alguma coisa para acrescentar, por favor, deixe um comentário.
 
 ### Windows &#8211; PearPC
 
-<http://pearpc.sourceforge.net/>
+<https://pearpc.sourceforge.net/>
 
 Ótimo programinha para PC. Um dia muito distante (que fique cada vez mais distante, por favor) eu tive um problema no IE para Mac. Aquela maldição estava encrencando com alguma propriedade do CSS e a única forma de arrumar era tendo um mac. Passava horas nos sites de screenshots atualizando a página, esperando a renderização e só depois que os screenshots ficavam prontos eu corria pra poder fazer alguma alteração no código para depois poder tirar outro screenshot e passar por toda aquela espera.
 
@@ -76,7 +76,7 @@ Se você tem alguma coisa para acrescentar, por favor, deixe um comentário.
 
 ### Windows &#8211; PearPC
 
-<http://pearpc.sourceforge.net/>
+<https://pearpc.sourceforge.net/>
 
 Ótimo programinha para PC. Um dia muito distante (que fique cada vez mais distante, por favor) eu tive um problema no IE para Mac. Aquela maldição estava encrencando com alguma propriedade do CSS e a única forma de arrumar era tendo um mac. Passava horas nos sites de screenshots atualizando a página, esperando a renderização e só depois que os screenshots ficavam prontos eu corria pra poder fazer alguma alteração no código para depois poder tirar outro screenshot e passar por toda aquela espera.
 
@@ -100,7 +100,7 @@ Se você tem alguma coisa para acrescentar, por favor, deixe um comentário.
 
 ### Windows &#8211; PearPC
 
-<http://pearpc.sourceforge.net/>
+<https://pearpc.sourceforge.net/>
 
 Ótimo programinha para PC. Um dia muito distante (que fique cada vez mais distante, por favor) eu tive um problema no IE para Mac. Aquela maldição estava encrencando com alguma propriedade do CSS e a única forma de arrumar era tendo um mac. Passava horas nos sites de screenshots atualizando a página, esperando a renderização e só depois que os screenshots ficavam prontos eu corria pra poder fazer alguma alteração no código para depois poder tirar outro screenshot e passar por toda aquela espera.
 
@@ -138,7 +138,7 @@ Se você tem alguma coisa para acrescentar, por favor, deixe um comentário.
 
 ### Windows &#8211; PearPC
 
-<http://pearpc.sourceforge.net/>
+<https://pearpc.sourceforge.net/>
 
 Ótimo programinha para PC. Um dia muito distante (que fique cada vez mais distante, por favor) eu tive um problema no IE para Mac. Aquela maldição estava encrencando com alguma propriedade do CSS e a única forma de arrumar era tendo um mac. Passava horas nos sites de screenshots atualizando a página, esperando a renderização e só depois que os screenshots ficavam prontos eu corria pra poder fazer alguma alteração no código para depois poder tirar outro screenshot e passar por toda aquela espera.
 
@@ -162,7 +162,7 @@ Se você tem alguma coisa para acrescentar, por favor, deixe um comentário.
 
 ### Windows &#8211; PearPC
 
-<http://pearpc.sourceforge.net/>
+<https://pearpc.sourceforge.net/>
 
 Ótimo programinha para PC. Um dia muito distante (que fique cada vez mais distante, por favor) eu tive um problema no IE para Mac. Aquela maldição estava encrencando com alguma propriedade do CSS e a única forma de arrumar era tendo um mac. Passava horas nos sites de screenshots atualizando a página, esperando a renderização e só depois que os screenshots ficavam prontos eu corria pra poder fazer alguma alteração no código para depois poder tirar outro screenshot e passar por toda aquela espera.
 
@@ -186,7 +186,7 @@ Se você tem alguma coisa para acrescentar, por favor, deixe um comentário.
 
 ### Windows &#8211; PearPC
 
-<http://pearpc.sourceforge.net/>
+<https://pearpc.sourceforge.net/>
 
 Ótimo programinha para PC. Um dia muito distante (que fique cada vez mais distante, por favor) eu tive um problema no IE para Mac. Aquela maldição estava encrencando com alguma propriedade do CSS e a única forma de arrumar era tendo um mac. Passava horas nos sites de screenshots atualizando a página, esperando a renderização e só depois que os screenshots ficavam prontos eu corria pra poder fazer alguma alteração no código para depois poder tirar outro screenshot e passar por toda aquela espera.
 
@@ -210,7 +210,7 @@ Se você tem alguma coisa para acrescentar, por favor, deixe um comentário.
 
 ### Windows &#8211; PearPC
 
-<http://pearpc.sourceforge.net/>
+<https://pearpc.sourceforge.net/>
 
 Ótimo programinha para PC. Um dia muito distante (que fique cada vez mais distante, por favor) eu tive um problema no IE para Mac. Aquela maldição estava encrencando com alguma propriedade do CSS e a única forma de arrumar era tendo um mac. Passava horas nos sites de screenshots atualizando a página, esperando a renderização e só depois que os screenshots ficavam prontos eu corria pra poder fazer alguma alteração no código para depois poder tirar outro screenshot e passar por toda aquela espera.
 
@@ -248,10 +248,10 @@ Há aquelas opções de sempre dos virtualizadores: desabilitar/habilitar floppy
 
 Tanto a virtualização quanto os sites que tiram screenshots tem suas vantagens e desvantagens. Nomalmente, se eu não preciso mostrar para alguém os defeitos dos sites ou se eu só quero testar em apenas um browser (sim, no IE), eu uso a virtualização mesmo. Se eu quero mais opções e quero compartilhar as imagens para a equipe, eu passo um certo tempo no sites tirando os screenshots. Questão de gosto e forma de trabalho.
 
-Leia o primeiro artigo desta série: <a rel="bookmark" title="Permanent Link to Se virando pra testar - Parte 1: Screenshots" href="http://tableless.com.br/se-virando-pra-testar-parte-1-screenshots">Se virando pra testar &#8211; Parte 1: Screenshots</a>
+Leia o primeiro artigo desta série: <a rel="bookmark" title="Permanent Link to Se virando pra testar - Parte 1: Screenshots" href="https://tableless.com.br/se-virando-pra-testar-parte-1-screenshots">Se virando pra testar &#8211; Parte 1: Screenshots</a>
 
- [1]: http://tableless.com.br/se-virando-pra-testar-parte-1-screenshots
- [2]: http://vmware.com
- [3]: http://www.tatanka.com.br/ies4linux/
- [4]: http://www.tatanka.com.br/ies4linux/page/Main_Page
- [5]: http://www.parallels.com/en/products/workstation/mac/
+ [1]: https://tableless.com.br/se-virando-pra-testar-parte-1-screenshots
+ [2]: https://vmware.com
+ [3]: https://www.tatanka.com.br/ies4linux/
+ [4]: https://www.tatanka.com.br/ies4linux/page/Main_Page
+ [5]: https://www.parallels.com/en/products/workstation/mac/

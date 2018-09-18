@@ -117,6 +117,6 @@ Agora nós contruímos a função que será executada para selecionar o arquivo 
 
 Quando o evento de onload for disparado ele executará a função acima, nela o arquivo csv lido será usado para contruir tabelas com suas linhas e colunas e o resultado final será inserido na tag CSVsaida.
 
-Com este <a title="CSV File API" href="http://jsfiddle.net/bruiz/273dC/3/embedded/result/" target="_blank">EXEMPLO</a>, não temos dúvidas do poder deste padrão web. De fato poderemos simplificar muito o trabalho de leitura de arquivos. Agora fica por sua curiosidade e necessidade explorar a File API.
+Com este <a title="CSV File API" href="https://jsfiddle.net/bruiz/273dC/3/embedded/result/" target="_blank">EXEMPLO</a>, não temos dúvidas do poder deste padrão web. De fato poderemos simplificar muito o trabalho de leitura de arquivos. Agora fica por sua curiosidade e necessidade explorar a File API.
 
 <span style="line-height: 1.5em">Bons estudos e bom trabalho!</span>

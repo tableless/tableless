@@ -39,8 +39,8 @@ E sabe qual é o nome disso? POLÍTICA. Essas são as novas instituições de po
 
 Quando não há home page, tudo vira home page. Ou melhor: sistema de busca. Google. Por isso, código não é (só) poesia. É política.
 
- [1]: http://www.niemanlab.org/2014/05/the-leaked-new-york-times-innovation-report-is-one-of-the-key-documents-of-this-media-age/
- [2]: http://www.capitalnewyork.com/article/media/2014/05/8545059/emnew-york-timesem-completes-innovation-report-led-sulzberger-scion
+ [1]: https://www.niemanlab.org/2014/05/the-leaked-new-york-times-innovation-report-is-one-of-the-key-documents-of-this-media-age/
+ [2]: https://www.capitalnewyork.com/article/media/2014/05/8545059/emnew-york-timesem-completes-innovation-report-led-sulzberger-scion
  [3]: https://pt.wikipedia.org/wiki/Edgar_Morin
- [4]: http://www.gotinder.com/
+ [4]: https://www.gotinder.com/
  [5]: https://medium.com/technology-musings/on-the-future-of-metafilter-941d15ec96f0?source=tw-1445046f3fe9-1400690732181

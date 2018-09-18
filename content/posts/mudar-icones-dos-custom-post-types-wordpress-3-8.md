@@ -21,7 +21,7 @@ No dia 12 de Dezembro a Equipe do WordPress liberou a sua mais nova versão, o *
 
 [<img class="size-full wp-image-40235 aligncenter" alt="overview" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/overview.jpg" srcset="uploads/2014/01/overview.jpg 623w, uploads/2014/01/overview-329x101.jpg 329w, uploads/2014/01/overview-588x182.jpg 588w" sizes="(max-width: 623px) 100vw, 623px" />][1]
 
-A fonte do Painel agora é a **Open Sans** importada do <a title="Open Sans" href="http://www.google.com/fonts/specimen/Open+Sans" target="_blank">Google Web Fonts</a> e foram criados 8 novos temas super coloridos e vibrantes (em um próximo artigo iremos ver como mudar a cor desses temas) para deixar a sua experiencia de uso mais agradável e única e como de costume foi lançado um novo tema padrão: <a title="Novo tema padrão do WordPress 3.8" href="http://twentyfourteendemo.wordpress.com/" target="_blank"><strong>Twenty Fourteen</strong></a> além de novos ícones no menu.
+A fonte do Painel agora é a **Open Sans** importada do <a title="Open Sans" href="https://www.google.com/fonts/specimen/Open+Sans" target="_blank">Google Web Fonts</a> e foram criados 8 novos temas super coloridos e vibrantes (em um próximo artigo iremos ver como mudar a cor desses temas) para deixar a sua experiencia de uso mais agradável e única e como de costume foi lançado um novo tema padrão: <a title="Novo tema padrão do WordPress 3.8" href="https://twentyfourteendemo.wordpress.com/" target="_blank"><strong>Twenty Fourteen</strong></a> além de novos ícones no menu.
 
 <p class="aligncenter">
   <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/colors1.png"><img class=" wp-image-40238 aligncenter" alt="colors" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/colors1.png" width="559" height="398" srcset="uploads/2014/01/colors1.png 932w, uploads/2014/01/colors1-235x168.png 235w, uploads/2014/01/colors1-435x310.png 435w" sizes="(max-width: 559px) 100vw, 559px" /></a>
@@ -53,7 +53,7 @@ Nesse exemplo é a linha 7, onde está escrito: **menu_icon**
 		'supports' =&gt; array('title','editor','thumbnail')
 	  );</pre>
 
-Se seu Custom Post Types está com algo assim: ** &#8216;menu_icon&#8217; => null** , ou **não tem esse campo**, basta você adicionar dentro do array que está guardado na variável **$args** a linha** &#8216;menu_icon&#8217; => &#8221;** e agora vem a parte fácil. Você vai escolher seu novo ícone nesse site: <http://melchoyce.github.io/dashicons/> e copiar seu nome, por exemplo: **dashicons-wordpress** e coloca-lo entre aspas simples depois de** =>** ficando assim: **&#8216;menu_icon&#8217; => &#8216;dashicons-wordpress&#8217;.**
+Se seu Custom Post Types está com algo assim: ** &#8216;menu_icon&#8217; => null** , ou **não tem esse campo**, basta você adicionar dentro do array que está guardado na variável **$args** a linha** &#8216;menu_icon&#8217; => &#8221;** e agora vem a parte fácil. Você vai escolher seu novo ícone nesse site: <https://melchoyce.github.io/dashicons/> e copiar seu nome, por exemplo: **dashicons-wordpress** e coloca-lo entre aspas simples depois de** =>** ficando assim: **&#8216;menu_icon&#8217; => &#8216;dashicons-wordpress&#8217;.**
 
 [<img class="size-full wp-image-40240 aligncenter" alt="dashicons" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/dash.png" width="159" height="257" />][7]
 
@@ -62,9 +62,9 @@ Nessa imagem troquei o ícone padrão de posts e dos Custom Post Types (Projetos
 Feito isto, basta conferir no seu painel seu novo ícone.
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/overview.jpg
- [2]: http://tableless.com.br/utilizando-icones-formato-font/ "Font icons – Utilizando ícones em formato de font"
- [3]: http://tableless.com.br/
- [4]: http://tableless.com.br/author/diego-eis/
- [5]: http://tableless.com.br/custom-post-types-wordpress
- [6]: http://tableless.com.br/custom-post-types-wordpress/
+ [2]: https://tableless.com.br/utilizando-icones-formato-font/ "Font icons – Utilizando ícones em formato de font"
+ [3]: https://tableless.com.br/
+ [4]: https://tableless.com.br/author/diego-eis/
+ [5]: https://tableless.com.br/custom-post-types-wordpress
+ [6]: https://tableless.com.br/custom-post-types-wordpress/
  [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/01/dash.png

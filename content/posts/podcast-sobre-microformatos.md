@@ -7,7 +7,7 @@ url: /podcast-sobre-microformatos/
 tweetbackscheck:
   - 1355306445
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/podcast-sobre-microformatos";s:7:"tinyurl";s:26:"http://tinyurl.com/3zkn4tc";s:4:"isgd";s:19:"http://is.gd/mbnXZ7";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/podcast-sobre-microformatos";s:7:"tinyurl";s:26:"https://tinyurl.com/3zkn4tc";s:4:"isgd";s:19:"https://is.gd/mbnXZ7";}'
 twittercomments:
   - 'a:1:{i:37254327168933888;s:7:"retweet";}'
 tweetcount:
@@ -26,5 +26,5 @@ Realmente Semântica é um assunto inesgotável por isso não nos alongamos muit
 
 Dá uma visitada no [Blogbits][1] e ouça!
 
- [1]: http://blogbits.com.br/
- [2]: http://blogbits.com.br/arquivo/blogbits-podcast-8-microformatos-semantica-e-futuro
+ [1]: https://blogbits.com.br/
+ [2]: https://blogbits.com.br/arquivo/blogbits-podcast-8-microformatos-semantica-e-futuro

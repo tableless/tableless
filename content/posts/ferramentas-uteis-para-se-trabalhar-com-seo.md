@@ -17,7 +17,7 @@ Por isso, trouxe aqui algumas ferramentas, umas pagas e outras free, mas que vã
 
 Vou começar com um plugin fantástico que não é tão explorado. Trata-se do **SEO Tools for Excel**. Um plugin muito bom para excel onde podemos avaliar fatores On-page, acompanhar Backlinks, Referências de Redes sociais, Linkar no GA, entre muitas outras coisas, diretamente no excel.
 
-<http://nielsbosma.se/projects/seotools/>
+<https://nielsbosma.se/projects/seotools/>
 
 ## GTW – Google Webmasters Tools ou Ferramentas para Webmasters
 
@@ -49,7 +49,7 @@ Só para se ter uma ideia, para o e-commerce é possível colocar valores em nas
 
 Lembrando que o [SEO hoje tem um foco muito grande no usuário][3], entender como o mesmo se comporta no seu site é essencial para criarmos estratégias mais criativas.
 
-<http://www.google.com/analytics/>
+<https://www.google.com/analytics/>
 
 ## PageSpeed
 
@@ -93,7 +93,7 @@ Assinatura mensal, Índice com atualização aprox. 3 em 3 semanas, Não possui 
 
 Um bom plugin para você analisar rapidamente um domínio. Disponível para Firefox e Chrome. Vale a pena instalar, é **FREE**:
 
-<http://moz.com/tools/seo-toolbar>
+<https://moz.com/tools/seo-toolbar>
 
 ## MajesticSEO
 
@@ -119,7 +119,7 @@ Qualquer ideia bacana é bem vinda e pode ser citada nos comentários! Abraços 
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/10/gtw.png
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/10/google-analytics_products_sm_01.jpg
- [3]: http://tableless.com.br/o-seo-moderno-e-o-foco-no-usuario
+ [3]: https://tableless.com.br/o-seo-moderno-e-o-foco-no-usuario
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/10/Capturar.png
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/10/planejador.png
  [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/10/opensiteexplorer.png

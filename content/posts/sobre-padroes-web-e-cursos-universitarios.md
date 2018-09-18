@@ -7,7 +7,7 @@ url: /sobre-padroes-web-e-cursos-universitarios/
 tweetbackscheck:
   - 1356127672
 shorturls:
-  - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/sobre-padroes-web-e-cursos-universitarios";s:7:"tinyurl";s:26:"http://tinyurl.com/42eawuh";s:4:"isgd";s:19:"http://is.gd/8a6wha";}'
+  - 'a:3:{s:9:"permalink";s:65:"https://tableless.com.br/sobre-padroes-web-e-cursos-universitarios";s:7:"tinyurl";s:26:"https://tinyurl.com/42eawuh";s:4:"isgd";s:19:"https://is.gd/8a6wha";}'
 twittercomments:
   - 'a:1:{i:60339303435341824;s:7:"retweet";}'
 tweetcount:
@@ -19,7 +19,7 @@ tags:
   - cotidiano
 
 ---
-O Elcio postou um artigo muito bom cujo título é <a rel="bookmark" title="link permanente para: Padrões Web e os Cursos Universitários" href="http://visie.com.br/blog/padroes-web-e-os-cursos-universitarios">Padrões Web e os Cursos Universitários</a>.
+O Elcio postou um artigo muito bom cujo título é <a rel="bookmark" title="link permanente para: Padrões Web e os Cursos Universitários" href="https://visie.com.br/blog/padroes-web-e-os-cursos-universitarios">Padrões Web e os Cursos Universitários</a>.
 
 Vale a pena dar uma lida e deixar seu comentário. Leia uma parte:
 
@@ -27,4 +27,4 @@ Vale a pena dar uma lida e deixar seu comentário. Leia uma parte:
 
 [Ler artigo completo][1]
 
- [1]: http://visie.com.br/blog/padroes-web-e-os-cursos-universitarios
+ [1]: https://visie.com.br/blog/padroes-web-e-os-cursos-universitarios

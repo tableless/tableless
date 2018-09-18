@@ -7,7 +7,7 @@ url: /designers-de-css-a-missao/
 tweetbackscheck:
   - 1356467361
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/designers-de-css-a-missao";s:7:"tinyurl";s:26:"http://tinyurl.com/4yv4fou";s:4:"isgd";s:19:"http://is.gd/lyNTXB";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/designers-de-css-a-missao";s:7:"tinyurl";s:26:"https://tinyurl.com/4yv4fou";s:4:"isgd";s:19:"https://is.gd/lyNTXB";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036445
@@ -29,6 +29,6 @@ Profissional de web deve ser flexível. Tanto programador quanto designer. E de 
 
 Aí entra o diferencial do profissional, assunto que foi abordado neste outro post: [E o diferencial, onde fica?][3]
 
- [1]: http://tableless.com.br/designers-de-css
- [2]: http://visie.com.br/
- [3]: http://tableless.com.br/e-o-diferencial-onde-fica
+ [1]: https://tableless.com.br/designers-de-css
+ [2]: https://visie.com.br/
+ [3]: https://tableless.com.br/e-o-diferencial-onde-fica

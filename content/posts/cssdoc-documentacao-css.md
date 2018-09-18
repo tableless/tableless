@@ -88,6 +88,6 @@ E mesmo com o uso do CSSDoc você pode continuar a utilizar o comentário conven
 
 Desenvolvi uma Cheat Sheet (guia de referência rápida) não oficial, em inglês, sobre as principais tags do CSSDoc e os comentários de arquivo e de seção. Você pode baixá-la <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/cssdoc_cheat_sheet.pdf" target="_blank">aqui</a>.
 
-Para saber mais sobre o projeto e ver outros exemplos de aplicação das _tags_: <a href="http://www.cssdoc.net" target="_blank">CSSDoc.net</a>
+Para saber mais sobre o projeto e ver outros exemplos de aplicação das _tags_: <a href="https://www.cssdoc.net" target="_blank">CSSDoc.net</a>
 
- [1]: http://tableless.com.br/6-estrategias-para-melhorar-a-organizacao-do-seu-css-2
+ [1]: https://tableless.com.br/6-estrategias-para-melhorar-a-organizacao-do-seu-css-2

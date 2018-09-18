@@ -7,7 +7,7 @@ url: /convertidos-tableless-de-volta/
 tweetbackscheck:
   - 1356460906
 shorturls:
-  - 'a:3:{s:9:"permalink";s:54:"http://tableless.com.br/convertidos-tableless-de-volta";s:7:"tinyurl";s:26:"http://tinyurl.com/3hqcqk5";s:4:"isgd";s:19:"http://is.gd/ygDJWY";}'
+  - 'a:3:{s:9:"permalink";s:54:"https://tableless.com.br/convertidos-tableless-de-volta";s:7:"tinyurl";s:26:"https://tinyurl.com/3hqcqk5";s:4:"isgd";s:19:"https://is.gd/ygDJWY";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503016262
@@ -35,8 +35,8 @@ Mas, hoje tomei mais coragem e coloquei novamente os [Convertidos][4] no ar. Esp
 
  **Os sites aqui reproduzidos não passam de objetos de estudo e não se tratam de clones dos sites originais. São enviados por profissionais voluntários de Internet e são apenas exibidos aqui depois de uma análise e moderação. Eles não apresentam perigo algum aos usuários de internet.**
 
- [1]: http://tableless.com.br/post-1
- [2]: http://tableless.com.br/
- [3]: http://tableless.com.br/convertidos_fora_do_ar
- [4]: http://tableless.com.br/convertidos/
- [5]: http://www.w3c.org/
+ [1]: https://tableless.com.br/post-1
+ [2]: https://tableless.com.br/
+ [3]: https://tableless.com.br/convertidos_fora_do_ar
+ [4]: https://tableless.com.br/convertidos/
+ [5]: https://www.w3c.org/

@@ -46,5 +46,5 @@ As dicas são importantes, assim como a escolha da empresa de marketing digital 
   
 Entre as marcas que usam o serviço da All iN estão a Polishop, o Ricardo Eletro, a Reserva, a UltraFarma e o Pão de Açúcar.
 
- [1]: http://allin.com.br/solucoes/email-marketing/
- [2]: http://allin.com.br/
+ [1]: https://allin.com.br/solucoes/email-marketing/
+ [2]: https://allin.com.br/

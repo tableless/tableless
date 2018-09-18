@@ -22,5 +22,5 @@ Hoje eles lançaram um pequeno documentário sobre um pouco da história do Zeld
 
 Se precisar de legendas em inglês, [veja o vídeo original][2].
 
- [1]: http://zeldman.com/
- [2]: http://www.lynda.com/Web-Documentaries-tutorials/Jeffrey-Zeldman-20-years-Web-Design-Community/167374-2.html
+ [1]: https://zeldman.com/
+ [2]: https://www.lynda.com/Web-Documentaries-tutorials/Jeffrey-Zeldman-20-years-Web-Design-Community/167374-2.html

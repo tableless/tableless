@@ -18,5 +18,5 @@ Eu perco (ganho) horas do meu dia quando visito o [SlideShare][1] ou o [SpeakerD
 
 Quero começar uma série aqui no Tableless onde vou selecionar 5 apresentações sobre diversos assuntos. Espero que vocês gostem e aprendam tanto quanto eu. A maioria das apresentação serão em ingles, mas prometo colocar algo em português também. Mesmo assim, é bom você aprender.
 
- [1]: http://www.slideshare.net/
+ [1]: https://www.slideshare.net/
  [2]: https://speakerdeck.com/

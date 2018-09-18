@@ -5,7 +5,7 @@ type: post
 date: 2006-02-13
 url: /podcast-18-opera-9-wasabi-songbird-e-semantica/
 enclosure:
-  - http://tableless.com.br/podcast/podcast18.mp3
+  - https://tableless.com.br/podcast/podcast18.mp3
 dsq_thread_id: 503034767
 categories:
   - Browsers
@@ -32,7 +32,7 @@ Aconselhamos você a inscrever nosso [Feed][3] no seu agregador preferido, para 
 
 <small>Estou me esforçando para que o arquivo fique o menor possível. Se você souber de algum bom programa que faça o trabalho de comprimir o arquivo mp3, por favor, diga.</small>
 
- [1]: http://www.wasabi.com.br/
- [2]: http://songbirdnest.com/
- [3]: http://feeds.feedburner.com/tableless/
- [4]: http://tableless.com.br/podcast/podcast18.mp3
+ [1]: https://www.wasabi.com.br/
+ [2]: https://songbirdnest.com/
+ [3]: https://feeds.feedburner.com/tableless/
+ [4]: https://tableless.com.br/podcast/podcast18.mp3

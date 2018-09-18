@@ -136,4 +136,4 @@ Você pode encontrar no site do Parse toda a documentação com os códigos que 
 
 Feito isso, você pode gerenciar seus aplicativos, suas classes e seus objetos dentro do seu painel no site do Parse. Acessando a aba &#8220;Core&#8221;, dentro do campo &#8220;Data&#8221; estarão as suas classes, e dentro das suas classes estarão os objetos com as suas informações.
 
-Deixei um <a href="http://glr-tester.ueuo.com/parse/" target="_blank">exemplo pronto disponível</a>, rodando exatamente tudo isso que expliquei e até com alguns comentários dentro das funções JavaScript para dar uma lembrada do que cada uma faz.
+Deixei um <a href="https://glr-tester.ueuo.com/parse/" target="_blank">exemplo pronto disponível</a>, rodando exatamente tudo isso que expliquei e até com alguns comentários dentro das funções JavaScript para dar uma lembrada do que cada uma faz.

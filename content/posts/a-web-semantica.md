@@ -10,7 +10,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356391427
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/a-web-semantica";s:7:"tinyurl";s:26:"http://tinyurl.com/3n5m3j2";s:4:"isgd";s:19:"http://is.gd/CiuB6K";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/a-web-semantica";s:7:"tinyurl";s:26:"https://tinyurl.com/3n5m3j2";s:4:"isgd";s:19:"https://is.gd/CiuB6K";}'
 twittercomments:
   - 'a:2:{i:22703136611241986;s:6:"136598";i:24888935750574080;s:6:"136670";}'
 tweetcount:
@@ -50,9 +50,9 @@ Links de apoio:
   * [Entrevistas com Michael Dertouzos][5]
   * [Qual o sentindo da Web?][6]
 
- [1]: http://www.asia-atlas.com/thailand.htm
- [2]: http://www.google.com/
- [3]: http://www.yahoo.com/
- [4]: http://www.consortiuminfo.org/bulletins/semanticweb.php
- [5]: http://www.dimap.ufrn.br/%7Ejair/piu/artigos/Dertouzos.html
- [6]: http://www.comciencia.br/reportagens/internet/net08.htm
+ [1]: https://www.asia-atlas.com/thailand.htm
+ [2]: https://www.google.com/
+ [3]: https://www.yahoo.com/
+ [4]: https://www.consortiuminfo.org/bulletins/semanticweb.php
+ [5]: https://www.dimap.ufrn.br/%7Ejair/piu/artigos/Dertouzos.html
+ [6]: https://www.comciencia.br/reportagens/internet/net08.htm

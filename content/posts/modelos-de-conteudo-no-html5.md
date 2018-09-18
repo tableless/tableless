@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356449723
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/modelos-de-conteudo-no-html5";s:7:"tinyurl";s:26:"http://tinyurl.com/3sd6vhb";s:4:"isgd";s:19:"http://is.gd/MFP3Ld";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/modelos-de-conteudo-no-html5";s:7:"tinyurl";s:26:"https://tinyurl.com/3sd6vhb";s:4:"isgd";s:19:"https://is.gd/MFP3Ld";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039489
@@ -161,5 +161,5 @@ A maioria dos elementos utilizados no body e aplicações são categorizados com
 
 Por via de regra, elementos que seu modelo de conteúdo permitem inserir qualquer elemento que se encaixa no Flow Content, devem ter pelo menos um descendente de texto ou um elemento descendente que faça parte da categoria **embedded**.
 
- [1]: http://tableless.com.br/html5/?chapter=4
- [2]: http://tableless.com.br/html5/
+ [1]: https://tableless.com.br/html5/?chapter=4
+ [2]: https://tableless.com.br/html5/

@@ -32,7 +32,7 @@ Local: Centro de Convenções Rebouças
   
 Hashtag: #Webbr2016
 
-Inscrições: <http://conferenciaweb.w3c.br/inscricoes/>
+Inscrições: <https://conferenciaweb.w3c.br/inscricoes/>
 
- [1]: http://conferenciaweb.w3c.br/inscricoes/
- [2]: http://conferenciaweb.w3c.br
+ [1]: https://conferenciaweb.w3c.br/inscricoes/
+ [2]: https://conferenciaweb.w3c.br

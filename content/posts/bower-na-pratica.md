@@ -21,11 +21,11 @@ A maioria das linguagens já possuem ferramentas para automatizar e facilitar es
   
 Por exemplo: Java &#8211; (Maven e Ivy), Ruby &#8211; (Rubygems), Python &#8211; (pip), entre outras.
 
-No desenvolvimento front-end, uma ferramenta que vem ganhando bastante espaço nessa área é o <a title="bower.io" href="http://bower.io/" target="_blank">Bower</a>.
+No desenvolvimento front-end, uma ferramenta que vem ganhando bastante espaço nessa área é o <a title="bower.io" href="https://bower.io/" target="_blank">Bower</a>.
 
 Como o bower é para gerenciar componentes de front-end, pode ser adicionado em qualquer projeto, independente do seu back-end ser Java, Ruby, Python, Node, PHP, etc.
 
-Andei pesquisando a respeito dessa ferramenta e senti a falta de artigos em português que ensinem o passo-a-passo de como incorpora-lo em nossas aplicações, por isso resolvi escrever esse tutorial, ajudar com que todos possam dar seus primeiros passos com o <a title="bower.io" href="http://bower.io/" target="_blank">Bower</a> e melhorar o gerenciamento de dependências dos seus respectivos front-ends.
+Andei pesquisando a respeito dessa ferramenta e senti a falta de artigos em português que ensinem o passo-a-passo de como incorpora-lo em nossas aplicações, por isso resolvi escrever esse tutorial, ajudar com que todos possam dar seus primeiros passos com o <a title="bower.io" href="https://bower.io/" target="_blank">Bower</a> e melhorar o gerenciamento de dependências dos seus respectivos front-ends.
 
 ## Instalação
 
@@ -72,7 +72,7 @@ main file: assets/scripts/main.js
 keywords: zombie striker
 
 # autores do projeto
-authors: "Diogo Vecchiati http://divecch.com"
+authors: "Diogo Vecchiati https://divecch.com"
 
 # tipo de licença
 license: MIT
@@ -97,7 +97,7 @@ Ao terminar o wizard, você terá um &#8220;bower.json&#8221; parecido com esse:
 	"name": "zombie-striker",
 	"version": "0.0.1",
 	"authors": [
-		"Diogo Vecchiati &lt;http://divecch.com&gt;"
+		"Diogo Vecchiati &lt;https://divecch.com&gt;"
 	],
 	"description": "app to strike zombies with bower",
 	"main": "assets/scripts/main.js",
@@ -183,13 +183,13 @@ Mantenham todas as dependências configuradas no &#8220;bower.json&#8221; alguma
 
 #### Ferramenta visual para pesquisa de pacotes
 
-Outra forma de visualizar os componentes registrados no bower de maneira mais agradável é através do site: <http://sindresorhus.com/bower-components/>.
+Outra forma de visualizar os componentes registrados no bower de maneira mais agradável é através do site: <https://sindresorhus.com/bower-components/>.
 
-**That&#8217;s all folks**, espero que tenham gostado, que passem a utilizar o bower em seus projetos, pois facilita muito controlar quais dependências existentes no projeto. Se quiserem pesquisar mais sobre as possibilidades que o bower oferece, basta acessar o site oficial: <http://bower.io/>.
+**That&#8217;s all folks**, espero que tenham gostado, que passem a utilizar o bower em seus projetos, pois facilita muito controlar quais dependências existentes no projeto. Se quiserem pesquisar mais sobre as possibilidades que o bower oferece, basta acessar o site oficial: <https://bower.io/>.
 
 Qualquer dúvida, critica ou sugestões comentem aqui em baixo.
   
 []&#8217;s !!!
 
- [1]: http://nodejs.org/
+ [1]: https://nodejs.org/
  [2]: https://npmjs.org/ "npmjs.org"

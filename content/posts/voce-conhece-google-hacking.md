@@ -129,29 +129,29 @@ Fiz uma pequena pesquisa na web pois não uso Wordpress a algum tempo e o plugin
 que eu usava **não existe mais**. **Segundo o HostGator** os 5 melhores plugins
 de segurança para para usarmos no Wordpress são:
 
-1.  [WP Security Scan](http://wordpress.org/plugins/wp-security-scan): escaneia seu
+1.  [WP Security Scan](https://wordpress.org/plugins/wp-security-scan): escaneia seu
 site em busca de vulnerabilidades. Caso encontre alguma, sugere ações
 corretivas. Entre as ações, destaque para segurança das senhas, permissões de
 arquivos, banco de dados e área administrativa, entre outras ações de proteção.
-1.  [Login LockDown](http://wordpress.org/plugins/login-lockdown): analisa e
+1.  [Login LockDown](https://wordpress.org/plugins/login-lockdown): analisa e
 registra os endereços de IP que tentam fazer login no seu site, mas que por
 alguma razão falham. Caso registre um determinado número de falhas no login, o
 plugin bloqueia a caixa de login para o usuário por um tempo determinado.<br> O
 plug-in é uma alternativa para ajudar a proteger seu site contra ataques
 forçados.
-1.  [Captcha on Login](http://wordpress.org/plugins/captcha-on-login): adiciona um
+1.  [Captcha on Login](https://wordpress.org/plugins/captcha-on-login): adiciona um
 captcha na página de login, criando uma camada a mais de segurança no acesso à
 área administrativa do site. O plugin bloqueia IPs determinados após um
 determinado número de tentativas frustradas de login.<br> O sistema também
 permite mudar o nome do usuário padrão do administrador, garantindo mais
 segurança para seu site ou blog.
-1.  [Wordfence Security](http://wordpress.org/plugins/wordfence/): mostra se algum
+1.  [Wordfence Security](https://wordpress.org/plugins/wordfence/): mostra se algum
 arquivo do blog foi alterado, além de enviar um e-mail quando algum plugin está
 com atualização pendente, ou há alguma tentativa de acesso a seu blog por
 pessoas não autorizadas.<br> O plug-in varre o conteúdo do WordPress, além dos
 temas e demais plugins, em busca de alguma adulteração ou bug, ajudando a manter
 o WordPress livre de ameaças.
-1.  [AntiVirus](http://wordpress.org/plugins/antivirus/): o plugin procura por
+1.  [AntiVirus](https://wordpress.org/plugins/antivirus/): o plugin procura por
 injeções maliciosas e possíveis ataques ao seu site ou blog, assim como procura
 por *worms* e *malwares*.
 

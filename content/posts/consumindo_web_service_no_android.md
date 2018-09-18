@@ -2,7 +2,7 @@
 title: Consumindo Web Service no Android
 authors: Matheus Castiglioni
 type: post
-image: http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2017/11/consumindo-web-service-no-android.jpg
+image: https://blog.matheuscastiglioni.com.br/arquivo/download/posts/2017/11/consumindo-web-service-no-android.jpg
 date: 2017-11-23
 excerpt: Uma tarefa muito comum do dia a dia é realizar requisições HTTP e consumir Web Services, mas às vezes pode ser um tanto quanto chata pois precisa de configurações e alguns passos a serem seguidos.
 categories:
@@ -19,7 +19,7 @@ Para exemplo do post, vamos consumir um serviço para buscas de CEP. Os passos q
 
 Após concluir todos esses passos teremos nossa app funcionando da seguinte maneira:
 
-![Exemplo consumir serviço de CEP](http://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2017/11/buscando-cep-requisicao-http.gif)
+![Exemplo consumir serviço de CEP](https://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2017/11/buscando-cep-requisicao-http.gif)
 
 ## Desenhando nossa app
 
@@ -27,9 +27,9 @@ O primeiro passo será criar o *layout* da nossa app. Como o assunto do *post* r
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout xmlns:android="https://schemas.android.com/apk/res/android"
+    xmlns:app="https://schemas.android.com/apk/res-auto"
+    xmlns:tools="https://schemas.android.com/tools"
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="50dp"
@@ -77,7 +77,7 @@ O primeiro passo será criar o *layout* da nossa app. Como o assunto do *post* r
 
 Após adicionar esse *layout* para a *activity*, devemos ter nossa app parecida com:
 
-![App para consumir CEP](http://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2017/11/buscando-cep-requisicao-http.png)
+![App para consumir CEP](https://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2017/11/buscando-cep-requisicao-http.png)
 
 ## Consumindo um serviço
 
@@ -274,14 +274,14 @@ Repare que agora estamos validando se foi passado um CEP e se o mesmo contém oi
 Vamos começar a configurar nossa requisição, o primeiro passo é termos uma `URL` para consumirmos:
 
 ```java
-URL url = new URL("http://ws.matheuscastiglioni.com.br/ws/cep/find/" + this.cep + "/json/");
+URL url = new URL("https://ws.matheuscastiglioni.com.br/ws/cep/find/" + this.cep + "/json/");
 ```
 
 Durante a construção da `URL` pode acontecer de passarmos uma que seja inválida ou que não existe, por isso, devemos realizar um tratamento de exceção com `try catch`:
 
 ```java
 try {
-	URL url = new URL("http://ws.matheuscastiglioni.com.br/ws/cep/find/" + this.cep + "/json/");
+	URL url = new URL("https://ws.matheuscastiglioni.com.br/ws/cep/find/" + this.cep + "/json/");
 	} catch (MalformedURLException e) {
 		e.printStackTrace();
 	} 
@@ -292,7 +292,7 @@ Agora precisamos abrir uma conexão e configurar os cabeçalhos dela (Tipo de re
 
 ```java
 try {
-	URL url = new URL("http://ws.matheuscastiglioni.com.br/ws/cep/find/" + this.cep + "/json/");
+	URL url = new URL("https://ws.matheuscastiglioni.com.br/ws/cep/find/" + this.cep + "/json/");
 	HttpURLConnection connection = (HttpURLConnection) url.openConnection();
 	connection.setRequestMethod("GET");
 	connection.setRequestProperty("Content-type", "application/json");
@@ -392,7 +392,7 @@ public class HttpService extends AsyncTask<Void, Void, CEP> {
 
         if (this.cep != null && this.cep.length() == 8) {
             try {
-                URL url = new URL("http://ws.matheuscastiglioni.com.br/ws/cep/find/" + this.cep + "/json/");
+                URL url = new URL("https://ws.matheuscastiglioni.com.br/ws/cep/find/" + this.cep + "/json/");
 
                 HttpURLConnection connection = (HttpURLConnection) url.openConnection();
                 connection.setRequestMethod("GET");
@@ -455,8 +455,8 @@ btnBuscarCep.setOnClickListener(new View.OnClickListener() {
 
 Com isso iremos ter o seguinte resultado:
 
-![App em funcionamento](http://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2017/11/buscando-cep-requisicao-http.gif)
+![App em funcionamento](https://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2017/11/buscando-cep-requisicao-http.gif)
 
 Caso tenha ficado alguma dúvida, você pode encontrar o projeto completo [aqui](https://github.com/mahenrique94/requisicao-http).
 
-Postado em [blog.matheuscastiglioni.com.br](http://blog.matheuscastiglioni.com.br/consumindo-web-service-no-android)
+Postado em [blog.matheuscastiglioni.com.br](https://blog.matheuscastiglioni.com.br/consumindo-web-service-no-android)

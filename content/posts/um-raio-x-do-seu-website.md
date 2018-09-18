@@ -8,7 +8,7 @@ url: /um-raio-x-do-seu-website/
 tweetbackscheck:
   - 1356453572
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/um-raio-x-do-seu-website";s:7:"tinyurl";s:26:"http://tinyurl.com/4x25fvk";s:4:"isgd";s:19:"http://is.gd/rxsqjn";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/um-raio-x-do-seu-website";s:7:"tinyurl";s:26:"https://tinyurl.com/4x25fvk";s:4:"isgd";s:19:"https://is.gd/rxsqjn";}'
 twittercomments:
   - 'a:9:{i:151327323508064257;s:7:"retweet";i:151236453039489025;s:7:"retweet";i:154255318610755584;s:7:"retweet";i:154254464201670657;s:7:"retweet";i:154253700964167680;s:7:"retweet";i:169584844064571392;s:7:"retweet";i:181826903370514433;s:7:"retweet";i:181824512231346176;s:7:"retweet";i:181822569626861570;s:7:"retweet";}'
 tweetcount:
@@ -103,11 +103,11 @@ Combinar o HTML5 com metodologias como o Progressive Enhancement é um grande di
   * [A Form of Madness][7]
   * [3 levels of HTML usage][8]
 
- [1]: http://tableless.com.br/produtividade-editores-e-snippets
- [2]: http://code.google.com/p/zen-coding/
- [3]: http://br.html5boilerplate.com/
- [4]: http://sixrevisions.com/web_design/the-960-grid-system-made-easy/
- [5]: http://filamentgroup.com/dwpe/
- [6]: http://css-tricks.com/poll-results-html5-features-in-use-on-production-sites/
- [7]: http://diveintohtml5.org/forms.html
- [8]: http://mathiasbynens.be/notes/html5-levels
+ [1]: https://tableless.com.br/produtividade-editores-e-snippets
+ [2]: https://code.google.com/p/zen-coding/
+ [3]: https://br.html5boilerplate.com/
+ [4]: https://sixrevisions.com/web_design/the-960-grid-system-made-easy/
+ [5]: https://filamentgroup.com/dwpe/
+ [6]: https://css-tricks.com/poll-results-html5-features-in-use-on-production-sites/
+ [7]: https://diveintohtml5.org/forms.html
+ [8]: https://mathiasbynens.be/notes/html5-levels

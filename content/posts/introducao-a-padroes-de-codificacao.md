@@ -8,7 +8,7 @@ url: /introducao-a-padroes-de-codificacao/
 tweetbackscheck:
   - 1356379056
 shorturls:
-  - 'a:3:{s:9:"permalink";s:60:"http://tableless.com.br/introducao-a-padroes-de-codificacao/";s:7:"tinyurl";s:26:"http://tinyurl.com/74r5hox";s:4:"isgd";s:19:"http://is.gd/FBcnIN";}'
+  - 'a:3:{s:9:"permalink";s:60:"https://tableless.com.br/introducao-a-padroes-de-codificacao/";s:7:"tinyurl";s:26:"https://tinyurl.com/74r5hox";s:4:"isgd";s:19:"https://is.gd/FBcnIN";}'
 twittercomments:
   - 'a:38:{i:161784593467445248;s:7:"retweet";i:161544030117826561;s:7:"retweet";i:161435142232084480;s:7:"retweet";i:161433995601653760;s:7:"retweet";i:161421336588197888;s:7:"retweet";i:161420979434831873;s:7:"retweet";i:161420185138511872;s:7:"retweet";i:161419111132434432;s:7:"retweet";i:161414965562048512;s:7:"retweet";i:161413111625166848;s:7:"retweet";i:161412378410487809;s:7:"retweet";i:161412212118917120;s:7:"retweet";i:165055849402875904;s:7:"retweet";i:165055332614279168;s:7:"retweet";i:165055157883764738;s:7:"retweet";i:165055153664303104;s:7:"retweet";i:169485557410443264;s:7:"retweet";i:169475711676055552;s:7:"retweet";i:169452380235120642;s:7:"retweet";i:169436687020208128;s:7:"retweet";i:169436303807623168;s:7:"retweet";i:169435824054730752;s:7:"retweet";i:167212330818600962;s:7:"retweet";i:180697788504485888;s:7:"retweet";i:190802402482470913;s:7:"retweet";i:195895713324994560;s:7:"retweet";i:195880521476214784;s:7:"retweet";i:195875159566057472;s:7:"retweet";i:202776573236084736;s:7:"retweet";i:202768235781824512;s:7:"retweet";i:202760951261446144;s:7:"retweet";i:202760477405749248;s:7:"retweet";i:202760465980456961;s:7:"retweet";i:212219386461818880;s:7:"retweet";i:212212987887493120;s:7:"retweet";i:209679843728691200;s:7:"retweet";i:209678208344403969;s:7:"retweet";i:209676394500866049;s:7:"retweet";}'
 tweetcount:
@@ -69,6 +69,6 @@ Quando definimos estas pequenas coisas, diminuímos muitos percalços no meio do
   
 Indico este livro sobre esse e outros assuntos sobre a construção, desenvolvimento e manutenção de websites
 
- [1]: http://en.wikipedia.org/wiki/CamelCase
- [2]: http://en.wikipedia.org/wiki/Indent_style#K.26R_style
- [3]: http://www.amazon.com/gp/product/0596102356/ref=as_li_ss_tl?ie=UTF8&tag=tableless-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596102356
+ [1]: https://en.wikipedia.org/wiki/CamelCase
+ [2]: https://en.wikipedia.org/wiki/Indent_style#K.26R_style
+ [3]: https://www.amazon.com/gp/product/0596102356/ref=as_li_ss_tl?ie=UTF8&tag=tableless-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0596102356

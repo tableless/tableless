@@ -23,6 +23,6 @@ E então, tá esperando o que para fazer sua inscrição na [Copa.Landing.jobs][
 
 [Flávia Motta][2] é brasileira e Project Manager na [Landing.jobs][3].
 
- [1]: http://copa.landing.jobs/
+ [1]: https://copa.landing.jobs/
  [2]: mailto:flavia.motta@landing.jobs
  [3]: https://landing.jobs/brasil

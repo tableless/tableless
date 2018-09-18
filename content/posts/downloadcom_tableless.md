@@ -7,7 +7,7 @@ url: /downloadcom_tableless/
 tweetbackscheck:
   - 1356440663
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/downloadcom_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3u5c9sm";s:4:"isgd";s:19:"http://is.gd/9CW54I";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/downloadcom_tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3u5c9sm";s:4:"isgd";s:19:"https://is.gd/9CW54I";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033114
@@ -28,4 +28,4 @@ Mas mesmo assim, o trabalho ficou muito bom.
   
 Bela novidade.
 
- [1]: http://www.download.com/
+ [1]: https://www.download.com/

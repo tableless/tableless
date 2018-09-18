@@ -40,7 +40,7 @@ Após a instalação das dependências, vamos criar um arquivo com [vários _
 
 browser.init({}, function(erro, id_da_sessao, recursos_webdriver) {
   console.log('navegador aberto');
-  browser.get("http://saucelabs.com/test/guinea-pig", function(erro) {
+  browser.get("https://saucelabs.com/test/guinea-pig", function(erro) {
     console.log('pagina de teste aberta');
     browser.title(function(erro, title) {
       console.log('verificando titulo da pagina...');
@@ -96,7 +96,7 @@ async.waterfall([
   },
   function(id_da_sessao, recursos_webdriver, callback_pagina_aberta) {
     console.log('navegador aberto');
-    browser.get("http://saucelabs.com/test/guinea-pig", callback_pagina_aberta);
+    browser.get("https://saucelabs.com/test/guinea-pig", callback_pagina_aberta);
   },
   function(callback_titulo) {
     console.log('pagina de teste aberta');
@@ -136,16 +136,16 @@ Lembre-se que o PhantomJS ainda deve estar rodando em segundo plano para executa
 
 Esse trecho de código exemplifica como vários _callbacks_ encadeados podem ser evitados com o uso de uma estrutura de controle. Para quem se interessar, todo código está disponível em um [gist][13]. Muito obrigado.
 
- [1]: http://tableless.com.br/introducao-ao-selenium-2/ "Introdução ao Selenium 2"
+ [1]: https://tableless.com.br/introducao-ao-selenium-2/ "Introdução ao Selenium 2"
  [2]: https://saucelabs.com/docs/ondemand/getting-started/env/js/se2/linux "Exemplo oficial do SauceLabs de como utilizar o Selenium 2 com o NodeJS"
- [3]: http://nodejs.org/download/ "Site oficial do NodeJS"
- [4]: http://phantomjs.org/ "Site oficial do PhantomJS"
+ [3]: https://nodejs.org/download/ "Site oficial do NodeJS"
+ [4]: https://phantomjs.org/ "Site oficial do PhantomJS"
  [5]: https://github.com/admc/wd "Repositório GitHub do WD"
  [6]: https://github.com/admc/wd/blob/master/doc/api.md "Documentação da API do WD"
- [7]: http://callbackhell.com/ "Introdução sobre callback hell - vários callbacks encadeados"
+ [7]: https://callbackhell.com/ "Introdução sobre callback hell - vários callbacks encadeados"
  [8]: https://a248.e.akamai.net/camo.github.com/4e876b931ca0cd673f3707ebdc8bd60407ae1b9d/687474703a2f2f69313336382e70686f746f6275636b65742e636f6d2f616c62756d732f61673138322f69676f727269626569726f6c696d612f756d2d6578656d706c6f2d434f4d2d766172696f732d63616c6c6261636b732d656e6361646561646f735f7a707362636262323735642e706e67
  [9]: https://github.com/caolan/async "Repositório GitHub da biblioteca Async"
  [10]: https://github.com/caolan/async#waterfall "âncora para as especificações da função waterfall da biblioteca Async"
- [11]: http://underscorejs.org/ "Site oficial da biblioteca Underscore"
- [12]: http://i1368.photobucket.com/albums/ag182/igorribeirolima/um-exemplo-SEM-varios-callbacks-encadeados_zps1a8a9ad0.png
+ [11]: https://underscorejs.org/ "Site oficial da biblioteca Underscore"
+ [12]: https://i1368.photobucket.com/albums/ag182/igorribeirolima/um-exemplo-SEM-varios-callbacks-encadeados_zps1a8a9ad0.png
  [13]: https://gist.github.com/igorlima/7930016 "Gist - Javascript de forma assíncrona e elegível"

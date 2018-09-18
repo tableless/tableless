@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356430324
 shorturls:
-  - 'a:3:{s:9:"permalink";s:30:"http://tableless.com.br/ie-tab";s:7:"tinyurl";s:26:"http://tinyurl.com/3mnjsth";s:4:"isgd";s:19:"http://is.gd/b7Ii5Y";}'
+  - 'a:3:{s:9:"permalink";s:30:"https://tableless.com.br/ie-tab";s:7:"tinyurl";s:26:"https://tinyurl.com/3mnjsth";s:4:"isgd";s:19:"https://is.gd/b7Ii5Y";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034396
@@ -51,7 +51,7 @@ Nos usuários de Windows, está marcada o endereço do arquivo .exe que faz roda
 
 Deve dar certo, alguém, por gentileza, pode testar e verificar se funciona?
 
- [1]: http://www.spreadfirefox.com/?q=affiliates&id=155760&t=195
- [2]: http://ietab.mozdev.org/
- [3]: http://ietab.mozdev.org/screenshots.html
- [4]: http://www.tatanka.com.br/ies4linux/pt/
+ [1]: https://www.spreadfirefox.com/?q=affiliates&id=155760&t=195
+ [2]: https://ietab.mozdev.org/
+ [3]: https://ietab.mozdev.org/screenshots.html
+ [4]: https://www.tatanka.com.br/ies4linux/pt/

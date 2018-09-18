@@ -6,7 +6,7 @@ date: 2012-01-16
 excerpt: Como fazer de forma moderna e sem chatices
 url: /css-sprites/
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6446";s:4:"isgd";s:19:"http://is.gd/zXFW2Y";s:7:"tinyurl";s:26:"http://tinyurl.com/7fzye82";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6446";s:4:"isgd";s:19:"https://is.gd/zXFW2Y";s:7:"tinyurl";s:26:"https://tinyurl.com/7fzye82";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 767905273
@@ -67,7 +67,7 @@ Agora, se você quer algo que realmente agilize seu trabalho, seja na criação 
 
 Confere aí o vídeo que gravei especialmente pra vocês 🙂
 
- [1]: http://spritecow.com
- [2]: http://wearekiss.com/spritepad
- [3]: http://compass-style.org/help/tutorials/spriting/
- [4]: http://compass-style.org/
+ [1]: https://spritecow.com
+ [2]: https://wearekiss.com/spritepad
+ [3]: https://compass-style.org/help/tutorials/spriting/
+ [4]: https://compass-style.org/

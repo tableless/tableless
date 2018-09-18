@@ -91,13 +91,13 @@ Temos mais opções para **trabalhar com o not provided**, como a criação de f
 
 Material complementar:
 
-<http://moz.com/blog/100-percent-keyword-not-provided-whiteboard-tuesday>
+<https://moz.com/blog/100-percent-keyword-not-provided-whiteboard-tuesday>
 
-<http://moz.com/blog/what-is-seo-now>
+<https://moz.com/blog/what-is-seo-now>
 
 Espero que ajude vocês, até logo!
 
- [1]: http://googleblog.blogspot.com.br/2011/10/making-search-more-secure.html
+ [1]: https://googleblog.blogspot.com.br/2011/10/making-search-more-secure.html
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/linkar-gtw-no-ga.png
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/2.png
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/02/3.png

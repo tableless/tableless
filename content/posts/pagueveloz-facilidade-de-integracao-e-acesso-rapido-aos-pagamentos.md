@@ -25,5 +25,5 @@ O rápido retorno em relação a quitação de boletos bancários agiliza també
 
 Criada em 2013, a [PagueVeloz][1] conta com clientes e atua em todo o país, com destaque para a região Sul. O serviço de pagamento online via cartão de crédito iniciou neste ano. A empresa conta também com máquinas de cartão e o sistema pode ser integrado não só ao e­commerce, mas também com qualquer ERP ou sistema de gestão do mercado. Novos plug­ins de integração serão lançados até o fim de 2015, todos com Interface de Programação de Aplicativos.
 
- [1]: http://pagueveloz.com.br
+ [1]: https://pagueveloz.com.br
  [2]: https://www.pagueveloz.com.br/Servicos

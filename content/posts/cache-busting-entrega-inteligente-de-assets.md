@@ -93,10 +93,10 @@ Cache busting é algo realmente útil no ciclo de desenvolvimento web. Chega de 
 
 Se você tem alguma outra solução para essa questão, utilizando Gulp ou outra ferramenta, conta pra gente aqui nos comentários. A comunidade agradece! ;D
 
- [1]: http://stevesouders.com/
- [2]: http://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/
+ [1]: https://stevesouders.com/
+ [2]: https://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/
  [3]: https://github.com/hollandben/grunt-cache-bust
- [4]: http://tableless.com.br/grunt-voce-deveria-estar-usando/
- [5]: http://gruntjs.com/
+ [4]: https://tableless.com.br/grunt-voce-deveria-estar-usando/
+ [5]: https://gruntjs.com/
  [6]: https://github.com/hollandben/grunt-cache-bust#options
  [7]: https://github.com/hollandben/grunt-cache-bust#getting-started

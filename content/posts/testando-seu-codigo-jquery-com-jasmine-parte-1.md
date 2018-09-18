@@ -8,7 +8,7 @@ url: /testando-seu-codigo-jquery-com-jasmine-parte-1/
 tweetbackscheck:
   - 1356408208
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4187";s:7:"tinyurl";s:26:"http://tinyurl.com/3mlgjzg";s:4:"isgd";s:19:"http://is.gd/1Aob5g";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4187";s:7:"tinyurl";s:26:"https://tinyurl.com/3mlgjzg";s:4:"isgd";s:19:"https://is.gd/1Aob5g";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503040397
@@ -25,7 +25,7 @@ tags:
 ---
 Durante muito tempo testar/debugar JavaScript era uma tarefa árdua (infelizmente, em alguns navegadores, ainda é). Quem aí se lembra do tempo em que não existia Firebug, por exemplo? E o tamanho dos scripts? Um simples menu drop-drown possuía umas 1.500 linhas de código. Não existia jQuery ou qualquer outro tipo de framework. Tempos difíceis.
 
-Hoje a tarefa do desenvolvedor é muito mais fácil. Para debug temos o já citado Firebug e o Developer Tools do Chrome, entre outros. Nos testes, além do <a href="http://pivotal.github.com/jasmine/" target="_blank">Jasmine</a>, outro framework bem legal é o [QUnit][1]. O Jasmine, por focar em BDD, possui uma sintaxe mais fluida. Quem programa em Ruby/Rails vai notar a enorme semelhança com a ferramenta RSpec.
+Hoje a tarefa do desenvolvedor é muito mais fácil. Para debug temos o já citado Firebug e o Developer Tools do Chrome, entre outros. Nos testes, além do <a href="https://pivotal.github.com/jasmine/" target="_blank">Jasmine</a>, outro framework bem legal é o [QUnit][1]. O Jasmine, por focar em BDD, possui uma sintaxe mais fluida. Quem programa em Ruby/Rails vai notar a enorme semelhança com a ferramenta RSpec.
 
 Nos exemplos vou utilizar uma versão modificada do Jasmine, jasmine-jquery. Ela possui alguns métodos próprios para o framework além de funções para carregar fixtures (templates).
 
@@ -265,10 +265,10 @@ Os conceitos básicos dos nossos testes giram em torno de três funções: **des
     
       * [Código fonte dos exemplos deste artigo][2]
       * [SpecRunner do exemplo rodando no github][3]
-      * <a href="http://pivotal.github.com/jasmine/" target="_blank">Jasmine BDD</a>
+      * <a href="https://pivotal.github.com/jasmine/" target="_blank">Jasmine BDD</a>
       * <a href="https://github.com/velesin/jasmine-jquery" target="_blank">jasmine-jquery</a>
-      * <a href="http://pt.wikipedia.org/wiki/Behavior_Driven_Development" target="_blank">BDD segundo a Wikipedia</a>
+      * <a href="https://pt.wikipedia.org/wiki/Behavior_Driven_Development" target="_blank">BDD segundo a Wikipedia</a>
 
- [1]: http://docs.jquery.com/Qunit
+ [1]: https://docs.jquery.com/Qunit
  [2]: https://github.com/tableless/exemplos/tree/gh-pages/jasmine-parte-1
- [3]: http://tableless.github.com/exemplos/jasmine-parte-1/tests/SpecRunner.html
+ [3]: https://tableless.github.com/exemplos/jasmine-parte-1/tests/SpecRunner.html

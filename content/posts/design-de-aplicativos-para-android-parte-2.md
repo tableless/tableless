@@ -642,29 +642,29 @@ Esta ferramenta é bem interessante para criar wireframes e fluxogramas online. 
   
 [How to design for Android Devices][26]
 
- [1]: http://tableless.com.br/design-de-aplicativos-para-android-parte-1/ "Design de Aplicativos para Android – Parte 1"
- [2]: http://developer.android.com/about/dashboards/index.html "Developer Android - Dashboards"
- [3]: http://developer.android.com/design/style/metrics-grids.html
- [4]: http://www.google.com/fonts/specimen/Roboto "Roboto - Google Fonts"
- [5]: http://developer.android.com/design/style/typography.html
- [6]: http://developer.android.com/design/style/iconography.html
- [7]: http://developer.android.com/design/style/iconography.html "Developer Android - Iconography"
- [8]: http://developer.android.com/design/building-blocks/buttons.html "Android Developer - Buttons"
- [9]: http://tableless.com.br/guia-de-estilos/ "Guia de Estilos"
- [10]: http://developer.android.com/design "Android Developer - Design"
- [11]: http://developer.android.com/design/downloads/index.html "Android Developer - Downloads"
- [12]: http://developer.android.com/design/downloads/index.html
- [13]: http://androiduiux.com/2014/01/10/android-ui-design-kit-for-photoshop-4-4-free-download/ "Android UI"
- [14]: http://androiduiux.com/2014/01/10/android-ui-design-kit-for-photoshop-4-4-free-download/
+ [1]: https://tableless.com.br/design-de-aplicativos-para-android-parte-1/ "Design de Aplicativos para Android – Parte 1"
+ [2]: https://developer.android.com/about/dashboards/index.html "Developer Android - Dashboards"
+ [3]: https://developer.android.com/design/style/metrics-grids.html
+ [4]: https://www.google.com/fonts/specimen/Roboto "Roboto - Google Fonts"
+ [5]: https://developer.android.com/design/style/typography.html
+ [6]: https://developer.android.com/design/style/iconography.html
+ [7]: https://developer.android.com/design/style/iconography.html "Developer Android - Iconography"
+ [8]: https://developer.android.com/design/building-blocks/buttons.html "Android Developer - Buttons"
+ [9]: https://tableless.com.br/guia-de-estilos/ "Guia de Estilos"
+ [10]: https://developer.android.com/design "Android Developer - Design"
+ [11]: https://developer.android.com/design/downloads/index.html "Android Developer - Downloads"
+ [12]: https://developer.android.com/design/downloads/index.html
+ [13]: https://androiduiux.com/2014/01/10/android-ui-design-kit-for-photoshop-4-4-free-download/ "Android UI"
+ [14]: https://androiduiux.com/2014/01/10/android-ui-design-kit-for-photoshop-4-4-free-download/
  [15]: https://www.youtube.com/user/androiddevelopers "Android Developers"
  [16]: https://www.youtube.com/user/androiddevelopers
- [17]: http://www.teehanlax.com/blog/density-converter/ "Teehanlax density converter"
- [18]: http://coh.io/adpi/ "Android DPI Calculator"
- [19]: http://www.teehanlax.com/blog/density-converter/
- [20]: http://appicontemplate.com/android "Android App Icon Template"
- [21]: http://appicontemplate.com/android
- [22]: http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html "Android Asset Studio"
- [23]: http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html
+ [17]: https://www.teehanlax.com/blog/density-converter/ "Teehanlax density converter"
+ [18]: https://coh.io/adpi/ "Android DPI Calculator"
+ [19]: https://www.teehanlax.com/blog/density-converter/
+ [20]: https://appicontemplate.com/android "Android App Icon Template"
+ [21]: https://appicontemplate.com/android
+ [22]: https://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html "Android Asset Studio"
+ [23]: https://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html
  [24]: https://www.fluidui.com/ "Fluid UI"
  [25]: https://www.fluidui.com/
- [26]: http://blog.mengto.com/how-to-design-for-android-devices/ "How to design for Android devices"
+ [26]: https://blog.mengto.com/how-to-design-for-android-devices/ "How to design for Android devices"

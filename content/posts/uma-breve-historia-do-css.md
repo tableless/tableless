@@ -7,7 +7,7 @@ url: /uma-breve-historia-do-css/
 tweetbackscheck:
   - 1356390048
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/uma-breve-historia-do-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3c89m7g";s:4:"isgd";s:19:"http://is.gd/Tenuh2";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/uma-breve-historia-do-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3c89m7g";s:4:"isgd";s:19:"https://is.gd/Tenuh2";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034334

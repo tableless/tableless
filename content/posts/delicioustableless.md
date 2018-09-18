@@ -7,7 +7,7 @@ url: /delicioustableless/
 tweetbackscheck:
   - 1355300869
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/delicioustableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3jachnp";s:4:"isgd";s:19:"http://is.gd/odLSPB";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/delicioustableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3jachnp";s:4:"isgd";s:19:"https://is.gd/odLSPB";}'
 twittercomments:
   - 'a:1:{i:42834946129281024;s:7:"retweet";}'
 tweetcount:
@@ -25,12 +25,12 @@ Quem estiver afim de estudar ou simplesmente está cansado de não fazer nada e 
 
 Quem tem o [feed do Tableless][6] cadastrado, anda vendo um bocado de coisa legal, vai desde [bonito de se ver][7] até técnicas de construção de layout. Realmente, para quem é interessado, vale a pena o esforço.
 
-Se alguém quiser apenas dar uma olhadinha nos links, o endereço do nosso del.icio.us é <http://del.icio.us/tableless>. Parece que eu estou parado, mas é só impressão. :-B
+Se alguém quiser apenas dar uma olhadinha nos links, o endereço do nosso del.icio.us é <https://del.icio.us/tableless>. Parece que eu estou parado, mas é só impressão. :-B
 
- [1]: http://www.visie.com.br/ "Empresa de cursos de Padrões Web!"
- [2]: http://del.icio.us
- [3]: http://tableless.com.br/
- [4]: http://del.icio.us/tableless
- [5]: http://del.icio.us/rss/tableless
- [6]: http://tableless.com.br/feed/
- [7]: http://tableless.com.br/categorias/bonito-de-se-ver/
+ [1]: https://www.visie.com.br/ "Empresa de cursos de Padrões Web!"
+ [2]: https://del.icio.us
+ [3]: https://tableless.com.br/
+ [4]: https://del.icio.us/tableless
+ [5]: https://del.icio.us/rss/tableless
+ [6]: https://tableless.com.br/feed/
+ [7]: https://tableless.com.br/categorias/bonito-de-se-ver/

@@ -118,6 +118,6 @@ Você pode instalar o _Provent_ usando _npm _ou _bower_:
 bower install provent
 </pre>
 
-A documentação está no repositório do Github: <http://github.com/mauriciosoares/provent>
+A documentação está no repositório do Github: <https://github.com/mauriciosoares/provent>
 
 Deixem seu feedback e sugestões.

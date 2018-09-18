@@ -72,4 +72,4 @@ Abraço galera até a próxima.
 [W3C Techniques for providing useful text alternatives][2]
 
  [1]: https://jsfiddle.net/leonardo403/z89nty4o/embedded/result/
- [2]: http://www.w3.org/TR/html-alt-techniques/
+ [2]: https://www.w3.org/TR/html-alt-techniques/

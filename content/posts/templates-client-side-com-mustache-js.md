@@ -42,7 +42,7 @@ Os templates Mustache esperam receber dados no formato JSON. Os dados podem ser 
 
 <pre class="lang-javascript">var item = {
       titulo: "Templates client-side com Mustache.js",
-      permalink: "http://tableless.com.br/templates-client-side-com-mustache-js"
+      permalink: "https://tableless.com.br/templates-client-side-com-mustache-js"
       thumb: "mustache.jpg",
     },
     output = Mustache.render("&lt;h1&gt;{{title}}&lt;/h1&gt;&lt;p&gt;{{abstract}}&lt;/p&gt;", item);
@@ -69,7 +69,7 @@ Os dados do template são utilizados buscando o conteúdo HTML da tag.
 
 <pre class="lang-javascript">var item = {
       titulo: "Templates client-side com Mustache.js",
-      permalink: "http://tableless.com.br/templates-client-side-com-mustache-js"
+      permalink: "https://tableless.com.br/templates-client-side-com-mustache-js"
       thumb: "mustache.jpg",
     },
     template = document.getElementById('article-template').innerHTML;
@@ -126,7 +126,7 @@ Quando o valor de uma tag é representado por uma função e o caractere &#8216;
 
 <pre class="lang-javascript">var artigo = {
     'titulo': 'Templates client-side com Mustache.js',
-    'url': 'http://tableless.com.br/templates-client-side-com-mustache-js',
+    'url': 'https://tableless.com.br/templates-client-side-com-mustache-js',
     'permalink': function () {
       return function (text, render) {
         return '&lt;a href="' + this.url + '" class="permalink"&gt;' + render(text) + '&lt;/a&gt;';
@@ -166,5 +166,5 @@ Além das funcionalidades apresentadas neste artigo, a biblioteca Mustache.js ai
 E você? Utiliza alguma solução de templating no client-side? Compartilhe nos comentários!
 
  [1]: https://github.com/janl/mustache.js/
- [2]: http://mustache.github.com/
- [3]: http://tableless.com.br/templates-e-jquery-parte-1/ "http://tableless.com.br/templates-e-jquery-parte-1/"
+ [2]: https://mustache.github.com/
+ [3]: https://tableless.com.br/templates-e-jquery-parte-1/ "https://tableless.com.br/templates-e-jquery-parte-1/"

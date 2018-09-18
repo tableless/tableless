@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356393787
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/apostila-sobre-html5";s:7:"tinyurl";s:26:"http://tinyurl.com/3nrgm6c";s:4:"isgd";s:19:"http://is.gd/TScDyB";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/apostila-sobre-html5";s:7:"tinyurl";s:26:"https://tinyurl.com/3nrgm6c";s:4:"isgd";s:19:"https://is.gd/TScDyB";}'
 twittercomments:
   - 'a:5:{i:37468931262259200;s:7:"retweet";i:37468923297275904;s:7:"retweet";i:37468834797461506;s:7:"retweet";i:49862601722695680;s:6:"137301";i:56082592595845120;s:6:"137554";}'
 tweetcount:
@@ -32,6 +32,6 @@ Essa apostila ficará em processo de constante atualização já que muitos pont
 
 [Guia de Referência sobre HTML5][3]
 
- [1]: http://visie.com.br/
- [2]: http://tableless.com.br/contato/
- [3]: http://tableless.com.br/html5/ "Guia de referência sobre HTML5 da Visie"
+ [1]: https://visie.com.br/
+ [2]: https://tableless.com.br/contato/
+ [3]: https://tableless.com.br/html5/ "Guia de referência sobre HTML5 da Visie"

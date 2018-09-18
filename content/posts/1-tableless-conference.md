@@ -33,5 +33,5 @@ Claro! Estamos tentando falar de assuntos bem interessantes não apenas sobre fr
 
 Dá uma olhada [lá no site][2]! É bem melhor do que ficarmos falando aqui! 😉
 
- [1]: http://tableless.com.br/tablelessconf "evento sobre front-end"
- [2]: http://tableless.com.br/tablelessconf/
+ [1]: https://tableless.com.br/tablelessconf "evento sobre front-end"
+ [2]: https://tableless.com.br/tablelessconf/

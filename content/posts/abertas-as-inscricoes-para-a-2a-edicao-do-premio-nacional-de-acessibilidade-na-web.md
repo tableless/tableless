@@ -57,10 +57,10 @@ O [Prêmio Nacional de Acessibilidade na Web][2] tem como objetivo promover naci
 
 Na categoria &#8220;Projetos Web&#8221;, os primeiros lugares de cada sub-categoria serão julgados para receber o prêmio de melhor projeto.
 
-As inscrições são gratuitas e vão até o dia 30 de setembro no link <http://premio.w3c.br/inscricoes/>. Todo o [regulamento também está disponível no site da premiação][3].
+As inscrições são gratuitas e vão até o dia 30 de setembro no link <https://premio.w3c.br/inscricoes/>. Todo o [regulamento também está disponível no site da premiação][3].
 
 Boa sorte!
 
- [1]: http://premio.w3c.br/images/logo.png
- [2]: http://premio.w3c.br/
- [3]: http://premio.w3c.br/regulamento/
+ [1]: https://premio.w3c.br/images/logo.png
+ [2]: https://premio.w3c.br/
+ [3]: https://premio.w3c.br/regulamento/

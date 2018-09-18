@@ -35,6 +35,6 @@ As tecnologias que usamos hoje para desenvolver nosso produtos e que permitem fa
 
 Você deve parte da sua vida online ao Aaron Swartz.
 
- [1]: http://www.aaronsw.com/weblog/officespace
- [2]: http://tableless.com.br/porque-voce-deve-sua-vida-dave-winer/
- [3]: http://www.aaronsw.com/weblog/000988
+ [1]: https://www.aaronsw.com/weblog/officespace
+ [2]: https://tableless.com.br/porque-voce-deve-sua-vida-dave-winer/
+ [3]: https://www.aaronsw.com/weblog/000988

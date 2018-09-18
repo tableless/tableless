@@ -151,9 +151,9 @@ Trabalhar em projetos que envolve acessibilidade é muito mais complexo, sou pro
 <span style="line-height: 1.5;">Em vários site de e-commerce não tem a possibilidade de efetuar um fluxo de compra com um leitor de tela, pois etapas</span><span style="line-height: 1.5;"> como </span><span style="line-height: 1.5;">validações de campos, plugins,  falta de hierarquia de cabeçalho deixa a desejar, tonando o conteúdo inacessível. Eu acredito em uma web para todos, sei que nas correrias de projetos a acessibilidade é deixada de lado, mais sempre que possível construa tudo pensando em todos. </span>
 
  [1]: https://www.w3.org/Translations/WCAG20-pt-PT/
- [2]: http://www.acessibilidade.gov.pt/
- [3]: http://www.acessibilidade.gov.pt/accessmonitor/nota_tecnica.html
- [4]: http://www.w3schools.com/tags/tag_label.asp
- [5]: http://www.w3schools.com/Tags/tag_fieldset.asp
- [6]: http://www.w3schools.com/tags/tag_legend.asp
- [7]: http://www.w3schools.com/tags/tag_optgroup.asp
+ [2]: https://www.acessibilidade.gov.pt/
+ [3]: https://www.acessibilidade.gov.pt/accessmonitor/nota_tecnica.html
+ [4]: https://www.w3schools.com/tags/tag_label.asp
+ [5]: https://www.w3schools.com/Tags/tag_fieldset.asp
+ [6]: https://www.w3schools.com/tags/tag_legend.asp
+ [7]: https://www.w3schools.com/tags/tag_optgroup.asp

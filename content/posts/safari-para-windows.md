@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356465836
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/safari-para-windows";s:7:"tinyurl";s:26:"http://tinyurl.com/3rym3f6";s:4:"isgd";s:19:"http://is.gd/sYt1Xy";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/safari-para-windows";s:7:"tinyurl";s:26:"https://tinyurl.com/3rym3f6";s:4:"isgd";s:19:"https://is.gd/sYt1Xy";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037252
@@ -36,10 +36,10 @@ Gostei da novidade. E você?
   
 Sobre o que alguns falaram nos comentários, a Apple devolveu uma parte das modificações para a comunidade, ajudando muito o [Konqueror][7], que no tempo era muito, muito cru.
 
- [1]: http://www.apple.com/safari/
- [2]: http://apple.com
- [3]: http://apple.com/safari
- [4]: http://developer.apple.com/internet/safari/
- [5]: http://developer.apple.com/internet/safari/faq.html
- [6]: http://developer.apple.com/internet/safari/safari_css.html
- [7]: http://www.konqueror.org/
+ [1]: https://www.apple.com/safari/
+ [2]: https://apple.com
+ [3]: https://apple.com/safari
+ [4]: https://developer.apple.com/internet/safari/
+ [5]: https://developer.apple.com/internet/safari/faq.html
+ [6]: https://developer.apple.com/internet/safari/safari_css.html
+ [7]: https://www.konqueror.org/

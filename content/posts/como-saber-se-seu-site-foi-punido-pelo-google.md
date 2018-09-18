@@ -32,7 +32,7 @@ Considere isso como uma segurança, afinal de contas você pode não querer exat
 
 ### Robots.txt
 
-O **robots.txt** é um arquivo de texto com instruções simples que são lidas pelos robôs de busca antes de qualquer visita ao seu site. Outras opções também podem ser úteis no robots.txt, como a localização do sitemap do site, para facilitar o rastreio dos robôs. Veja como exemplo o robots.txt do Tableless: <http://tableless.com.br/robots.txt>
+O **robots.txt** é um arquivo de texto com instruções simples que são lidas pelos robôs de busca antes de qualquer visita ao seu site. Outras opções também podem ser úteis no robots.txt, como a localização do sitemap do site, para facilitar o rastreio dos robôs. Veja como exemplo o robots.txt do Tableless: <https://tableless.com.br/robots.txt>
 
 Se você não conhece a estrutura do robots.txt, mas quer saber se o arquivo está bloqueando alguma coisa no seu site, você pode testá-lo de forma fácil na [Google Webmaster Tools][1], que falaremos mais adiante,
 

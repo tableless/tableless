@@ -7,7 +7,7 @@ url: /opera_gratis/
 tweetbackscheck:
   - 1356455887
 shorturls:
-  - 'a:3:{s:9:"permalink";s:36:"http://tableless.com.br/opera_gratis";s:7:"tinyurl";s:26:"http://tinyurl.com/3hbabvq";s:4:"isgd";s:19:"http://is.gd/2gSGCP";}'
+  - 'a:3:{s:9:"permalink";s:36:"https://tableless.com.br/opera_gratis";s:7:"tinyurl";s:26:"https://tinyurl.com/3hbabvq";s:4:"isgd";s:19:"https://is.gd/2gSGCP";}'
 twittercomments:
   - 'a:3:{i:36626569023717376;s:7:"retweet";i:46730984921640960;s:7:"retweet";i:46723368120098816;s:7:"retweet";}'
 tweetcount:
@@ -35,4 +35,4 @@ Estou sem internet em casa, então não estou conseguindo postar como antes, por
   
 Talvez, dependendo da Telefonica, semana que vem já esteja de volta.
 
- [1]: http://www.opera.com/
+ [1]: https://www.opera.com/

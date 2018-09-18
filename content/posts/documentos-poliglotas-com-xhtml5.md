@@ -19,7 +19,7 @@ Grande parte dos desenvolvedores aprenderam  e se habituaram a utilizar a sinta
 
 Com toda essa preocupação, no mesmo ano começou a ideia do XHTML5, uma tentativa de contornar o problema, adicionando as restrições de marcação do XML a documentos escritos em HTML5. Podemos dizer que seria uma tentativa de unir o melhor de cada especificação. O [artigo escrito por Bruce Lawson para o HTML5 Doctor][2] (com [versão traduzida no Pinceladas da Web][3]) foi um dos primeiros a comentar sobre o tema.
 
-Durante cerca de 1 ano isto era uma forma, digamos, marginalizada de tratar essa questão, por não ser algo reconhecido pelo  <a title="Web Hypertext Application Technology Working Group" href="http://www.whatwg.org/" target="_blank">WHATWG</a> / <a title="W3C HTML Working Group" href="http://www.w3.org/html/wg/" target="_blank">HTML WG</a>. Mas em 2010 surgiu o primeiro draft com a proposta de nortear o uso do HTML5 com a sintaxe do XML/XHTML. O W3C denominou essa metodologia de [marcação poliglota][4].
+Durante cerca de 1 ano isto era uma forma, digamos, marginalizada de tratar essa questão, por não ser algo reconhecido pelo  <a title="Web Hypertext Application Technology Working Group" href="https://www.whatwg.org/" target="_blank">WHATWG</a> / <a title="W3C HTML Working Group" href="https://www.w3.org/html/wg/" target="_blank">HTML WG</a>. Mas em 2010 surgiu o primeiro draft com a proposta de nortear o uso do HTML5 com a sintaxe do XML/XHTML. O W3C denominou essa metodologia de [marcação poliglota][4].
 
 ### O que é um documento com marcação poliglota?
 
@@ -78,10 +78,10 @@ Ao escrever documentos poliglotas, é possível utilizar todas as funcionalidade
   
 [HTML 5 + XML = XHTML 5][2]
 
- [1]: http://tableless.com.br/o-dilema-da-sintaxe-no-html5/
- [2]: http://html5doctor.com/html-5-xml-xhtml-5/
- [3]: http://www.pinceladasdaweb.com.br/blog/2009/12/10/html-5-xml-xhtml-5/
- [4]: http://dev.w3.org/html5/html-xhtml-author-guide/
- [5]: http://en.wikipedia.org/wiki/Quirks_mode
- [6]: http://blog.whatwg.org/xhtml5-in-a-nutshell
- [7]: http://www.xmlplease.com/xhtml/xhtml5polyglot/
+ [1]: https://tableless.com.br/o-dilema-da-sintaxe-no-html5/
+ [2]: https://html5doctor.com/html-5-xml-xhtml-5/
+ [3]: https://www.pinceladasdaweb.com.br/blog/2009/12/10/html-5-xml-xhtml-5/
+ [4]: https://dev.w3.org/html5/html-xhtml-author-guide/
+ [5]: https://en.wikipedia.org/wiki/Quirks_mode
+ [6]: https://blog.whatwg.org/xhtml5-in-a-nutshell
+ [7]: https://www.xmlplease.com/xhtml/xhtml5polyglot/

@@ -7,7 +7,7 @@ url: /diferencas-sutis-na-semantica/
 tweetbackscheck:
   - 1356453483
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/diferencas-sutis-na-semantica";s:7:"tinyurl";s:26:"http://tinyurl.com/3t44xgl";s:4:"isgd";s:19:"http://is.gd/oz3uFD";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/diferencas-sutis-na-semantica";s:7:"tinyurl";s:26:"https://tinyurl.com/3t44xgl";s:4:"isgd";s:19:"https://is.gd/oz3uFD";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035281

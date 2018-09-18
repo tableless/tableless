@@ -60,7 +60,7 @@ tags:
 <span style="font-weight: 400">&lt;/html&gt;</span>
 </pre>
 
-<span style="font-weight: 400">Teste a página que acabamos de criar, acessando ela pelo navegador, no meu caso o endereço é: <code>http://localhost/phpcaching/paginas/index.php</code></span>
+<span style="font-weight: 400">Teste a página que acabamos de criar, acessando ela pelo navegador, no meu caso o endereço é: <code>https://localhost/phpcaching/paginas/index.php</code></span>
 
 <span style="font-weight: 400">Você verá uma página simples, que apenas mostra o horário atual toda vez que é acessada.</span>
 
@@ -74,7 +74,7 @@ tags:
 // Configurações
 $validadeEmSegundos = 60;
 $arquivoCache = 'cache/index.html';
-$urlDinamica = 'http://localhost/phpcaching/paginas/index.php';
+$urlDinamica = 'https://localhost/phpcaching/paginas/index.php';
 
 // Verifica se o arquivo cache existe e se ainda é válido
 if (file_exists($arquivoCache) && (filemtime($arquivoCache) &gt; time() - $validadeEmSegundos)) {
@@ -106,7 +106,7 @@ echo $conteudo;
   
 <span style="font-weight: 400"><code>time</code>: retorna o horário atual</span>
 
-<span style="font-weight: 400">Agora acesse o site através do controlador de cache, no meu caso <code>http://localhost/phpcaching/</code></span>
+<span style="font-weight: 400">Agora acesse o site através do controlador de cache, no meu caso <code>https://localhost/phpcaching/</code></span>
 
 <span style="font-weight: 400">Repare que o horário aparece como anteriormente, mas se atualizarmos a página o horário não muda. Isto acontece porque a página exibida é a versão cacheada, que foi armazenada na pasta <code>cache</code> com o nome <code>index.html</code>.</span>
 

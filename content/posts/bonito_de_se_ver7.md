@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356084353
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/bonito_de_se_ver7";s:7:"tinyurl";s:26:"http://tinyurl.com/3qgdttp";s:4:"isgd";s:19:"http://is.gd/l4Pneb";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/bonito_de_se_ver7";s:7:"tinyurl";s:26:"https://tinyurl.com/3qgdttp";s:4:"isgd";s:19:"https://is.gd/l4Pneb";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032942
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.angiebrown.com/>
-  2. <http://www.sendaviva.com/>
-  3. <http://www.plastikfantastik.net/>
-  4. <http://www.recipeforsuccess.uk.com/>
-  5. <http://webreakstuff.com/>
+  1. <https://www.angiebrown.com/>
+  2. <https://www.sendaviva.com/>
+  3. <https://www.plastikfantastik.net/>
+  4. <https://www.recipeforsuccess.uk.com/>
+  5. <https://webreakstuff.com/>

@@ -32,6 +32,6 @@ Há também o PDF [com os dados na íntegra aqui][3].
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/infografico_tableless-2013.jpg" alt="infografico_tableless-2013" width="600" height="4187" class="alignnone size-full wp-image-39600" srcset="uploads/2013/11/infografico_tableless-2013.jpg 600w, uploads/2013/11/infografico_tableless-2013-24x168.jpg 24w" sizes="(max-width: 600px) 100vw, 600px" />
 
- [1]: http://tableless.com.br/survey/
- [2]: http://bit.ly/marasampaio
- [3]: http://bit.ly/pdf-survey-2013
+ [1]: https://tableless.com.br/survey/
+ [2]: https://bit.ly/marasampaio
+ [3]: https://bit.ly/pdf-survey-2013

@@ -7,7 +7,7 @@ url: /how_firefox_works/
 tweetbackscheck:
   - 1356128514
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/how_firefox_works";s:7:"tinyurl";s:26:"http://tinyurl.com/3vwgl42";s:4:"isgd";s:19:"http://is.gd/qzAiEW";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/how_firefox_works";s:7:"tinyurl";s:26:"https://tinyurl.com/3vwgl42";s:4:"isgd";s:19:"https://is.gd/qzAiEW";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032420
@@ -21,4 +21,4 @@ Para quem ainda está com um pé atrás de usar um &#8220;browser alternativo&#8
               
 [How Firefox Works][1]
 
- [1]: http://computer.howstuffworks.com/firefox.htm
+ [1]: https://computer.howstuffworks.com/firefox.htm

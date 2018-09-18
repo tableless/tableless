@@ -21,49 +21,49 @@ O primeiro passo é entender que _resources_ o Android nos permite usar na cri
 
 Como vamos ver daqui a pouco, todos os resources de um projeto ficam na pasta **res/ **dele. E podem ser basicamente:
 
-<a href="http://developer.android.com/guide/topics/resources/animation-resource.html" target="_blank">Animações<br /> </a>
+<a href="https://developer.android.com/guide/topics/resources/animation-resource.html" target="_blank">Animações<br /> </a>
 
 <p style="padding-left: 30px">
   Podem ser dois tipos &#8220;interpoladas&#8221; (tween animation) e de &#8220;frames&#8221; (frames animation). A primeira consiste em criar uma animação modificando uma única imagem e a segunda segue a lógica do <em>.gif</em> ao criar uma animação com uma sequência de imagens.
 </p>
 
-<a href="http://developer.android.com/guide/topics/resources/color-list-resource.html" target="_blank">Cores</a>
+<a href="https://developer.android.com/guide/topics/resources/color-list-resource.html" target="_blank">Cores</a>
 
 <p style="padding-left: 30px">
   Você define cores de acordo com o estado da View.
 </p>
 
-<a href="http://developer.android.com/guide/topics/resources/drawable-resource.html" target="_blank">Drawable</a>
+<a href="https://developer.android.com/guide/topics/resources/drawable-resource.html" target="_blank">Drawable</a>
 
 <p style="padding-left: 30px">
   Recursos gráficos que podem ser bitmaps ou XML.
 </p>
 
-<a href="http://developer.android.com/guide/topics/resources/layout-resource.html" target="_blank">Layout</a>
+<a href="https://developer.android.com/guide/topics/resources/layout-resource.html" target="_blank">Layout</a>
 
 <p style="padding-left: 30px">
   Você pode definir vários layouts para sua UI e alterná-los de acordo com o estado da aplicação.
 </p>
 
-<a href="http://developer.android.com/guide/topics/resources/menu-resource.html" target="_blank">Menu</a>
+<a href="https://developer.android.com/guide/topics/resources/menu-resource.html" target="_blank">Menu</a>
 
 <p style="padding-left: 30px">
-  Assim como os layouts para sua UI, você pode definir &#8220;layouts de menu&#8221; para usá-los na sua aplicação (método <a href="http://developer.android.com/reference/android/app/Fragment.html#onCreateOptionsMenu(android.view.Menu,%20android.view.MenuInflater)" target="_blank">onCreateOptionsMenu()</a> da sua Activity).
+  Assim como os layouts para sua UI, você pode definir &#8220;layouts de menu&#8221; para usá-los na sua aplicação (método <a href="https://developer.android.com/reference/android/app/Fragment.html#onCreateOptionsMenu(android.view.Menu,%20android.view.MenuInflater)" target="_blank">onCreateOptionsMenu()</a> da sua Activity).
 </p>
 
-<a href="http://developer.android.com/guide/topics/resources/string-resource.html" target="_blank">Strings</a>
+<a href="https://developer.android.com/guide/topics/resources/string-resource.html" target="_blank">Strings</a>
 
 <p style="padding-left: 30px">
   Um recurso super interessante. Pois te permite definir strings e utilizá-las por todo o seu projeto concentrando-as em apenas um lugar, caso queira modificá-las depois. Permite também a internacionalização do seu App, sendo utiliza-da na tradução da sua aplicação.
 </p>
 
-<a href="http://developer.android.com/guide/topics/resources/style-resource.html" target="_blank">Estilo</a>
+<a href="https://developer.android.com/guide/topics/resources/style-resource.html" target="_blank">Estilo</a>
 
 <p style="padding-left: 30px">
   Define aparência e formato dos elementos da sua UI. (Uso bem parecido com o do CSS: concentrar estilização em um único arquivo.)
 </p>
 
-<a href="http://developer.android.com/guide/topics/resources/more-resources.html" target="_blank">Outros tipos de Recurso</a>
+<a href="https://developer.android.com/guide/topics/resources/more-resources.html" target="_blank">Outros tipos de Recurso</a>
 
 <p style="padding-left: 30px">
   Assim como as <em>strings</em>, podemos definir valores <em>booleanos</em>, <em>inteiros</em>, <em>dimensões</em>, <em>cores</em> e outras <em>arrays </em>para usarmos por toda a aplicação.
@@ -77,7 +77,7 @@ A pasta **res/ **é a pasta do seu projeto que guarda todos os resources da sua
 
 [<img class="aligncenter size-full wp-image-48069" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/Tree-do-Android-Studio.png" alt="Tree do Android Studio" width="408" height="648" />][1]
 
-Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Abaixo temos uma tabela retirada da <a href="http://developer.android.com/guide/topics/resources/providing-resources.html" target="_blank">documentação</a> do Android, com os nomes das pastas e os respectivos tipos de resource:
+Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Abaixo temos uma tabela retirada da <a href="https://developer.android.com/guide/topics/resources/providing-resources.html" target="_blank">documentação</a> do Android, com os nomes das pastas e os respectivos tipos de resource:
 
 <table>
   <tr>
@@ -96,7 +96,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
     </td>
     
     <td>
-      arquivos XML que definem <a href="http://developer.android.com/guide/topics/graphics/prop-animation.html">animações de propriedades</a>.
+      arquivos XML que definem <a href="https://developer.android.com/guide/topics/graphics/prop-animation.html">animações de propriedades</a>.
     </td>
   </tr>
   
@@ -106,7 +106,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
     </td>
     
     <td>
-      arquivos XML que definem <a href="http://developer.android.com/guide/topics/graphics/view-animation.html#tween-animation">tween animations</a>. (Animações de propriedades podem ser salvas aqui também, mas o diretório<em> animator/</em> é preferível, por questão de organização)
+      arquivos XML que definem <a href="https://developer.android.com/guide/topics/graphics/view-animation.html#tween-animation">tween animations</a>. (Animações de propriedades podem ser salvas aqui também, mas o diretório<em> animator/</em> é preferível, por questão de organização)
     </td>
   </tr>
   
@@ -116,7 +116,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
     </td>
     
     <td>
-      arquivos XML que definem um estado de lista de cores. Veja <a href="http://developer.android.com/guide/topics/resources/color-list-resource.html">Color State List Resource</a>
+      arquivos XML que definem um estado de lista de cores. Veja <a href="https://developer.android.com/guide/topics/resources/color-list-resource.html">Color State List Resource</a>
     </td>
   </tr>
   
@@ -133,7 +133,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
           arquivos Bitmap
         </li>
         <li>
-          <a href="http://developer.android.com/tools/help/draw9patch.html" target="_blank">9-Patch</a> (bitmaps redimensionáveis)
+          <a href="https://developer.android.com/tools/help/draw9patch.html" target="_blank">9-Patch</a> (bitmaps redimensionáveis)
         </li>
         <li>
           listas de estado
@@ -150,7 +150,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
       </ul>
       
       <p>
-        Veja <a href="http://developer.android.com/guide/topics/resources/drawable-resource.html">Drawable Resources</a> para mais informações.</td> </tr> 
+        Veja <a href="https://developer.android.com/guide/topics/resources/drawable-resource.html">Drawable Resources</a> para mais informações.</td> </tr> 
         
         <tr>
           <td>
@@ -178,7 +178,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
           </td>
           
           <td>
-            arquivos XML que definem os menus da sua aplicação, como Menu de Opções, de Contexto e Sub-menus. Mais informações em: <a href="http://developer.android.com/guide/topics/resources/menu-resource.html">Menu Resource</a>.
+            arquivos XML que definem os menus da sua aplicação, como Menu de Opções, de Contexto e Sub-menus. Mais informações em: <a href="https://developer.android.com/guide/topics/resources/menu-resource.html">Menu Resource</a>.
           </td>
         </tr>
         
@@ -226,7 +226,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
           </td>
           
           <td>
-            Arquivos XML que podem ser lidos em tempo de execução chamando <a href="http://developer.android.com/reference/android/content/res/Resources.html#getXml(int)"><code>Resources.getXML()</code></a>. Vários arquivos XML de configuração podem ser salvos aqui, por exemplo.
+            Arquivos XML que podem ser lidos em tempo de execução chamando <a href="https://developer.android.com/reference/android/content/res/Resources.html#getXml(int)"><code>Resources.getXML()</code></a>. Vários arquivos XML de configuração podem ser salvos aqui, por exemplo.
           </td>
         </tr></tbody> </table> 
         
@@ -263,7 +263,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
         </h1>
         
         <p>
-          Se você está usando o Android Studio, o que eu recomendo fortemente (e ensino a instalar <a href="http://mariovalney.com/aula-2-como-instalar-o-android-studio/" target="_blank">aqui</a>), a forma mais fácil de criar uma pasta de resource é clicar com o botão direito do mouse na pasta <strong>res/</strong>, na guia <em>1. Project </em>(imagem anterior) e ir em <strong>New > Android resource directory</strong>.
+          Se você está usando o Android Studio, o que eu recomendo fortemente (e ensino a instalar <a href="https://mariovalney.com/aula-2-como-instalar-o-android-studio/" target="_blank">aqui</a>), a forma mais fácil de criar uma pasta de resource é clicar com o botão direito do mouse na pasta <strong>res/</strong>, na guia <em>1. Project </em>(imagem anterior) e ir em <strong>New > Android resource directory</strong>.
         </p>
         
         <p>
@@ -295,7 +295,7 @@ Cada tipo de recurso que vimos antes deve ficar dentro de uma dessas pastas. Ab
         </p>
         
         <p>
-          Você pode encontrar uma lista completa dos qualificadores, caso queira escolher o nome da pasta manualmente ou não esteja usando o Android Studio, na <a href="http://developer.android.com/guide/topics/resources/providing-resources.html#table2" target="_blank">documentação do Android</a>. Lembrando que a ordem dos qualificadores deve ser a mesma da tabela, ou seja, nomear uma pasta como <strong>drawable-hdpi-port </strong>está errado e <strong>drawable-port-hdpi </strong>está certo, pois o qualificador de orientação da tela (-port) vem antes do qualificador de densidade de píxel (-hdpi).
+          Você pode encontrar uma lista completa dos qualificadores, caso queira escolher o nome da pasta manualmente ou não esteja usando o Android Studio, na <a href="https://developer.android.com/guide/topics/resources/providing-resources.html#table2" target="_blank">documentação do Android</a>. Lembrando que a ordem dos qualificadores deve ser a mesma da tabela, ou seja, nomear uma pasta como <strong>drawable-hdpi-port </strong>está errado e <strong>drawable-port-hdpi </strong>está certo, pois o qualificador de orientação da tela (-port) vem antes do qualificador de densidade de píxel (-hdpi).
         </p>
         
         <h1>

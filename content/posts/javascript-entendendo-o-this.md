@@ -20,7 +20,7 @@ O operador **this** é um dos maiores responsáveis por erros e pegadinhas em um
 
 Toda função JavaScript, ao ser executada, gera uma associação do objeto criado pelo interpretador através da palavra reservada **this**. A especificação da ECMAScript chama isso de **ThisBinding**, um evento que acontece toda vez que um código JavaScript é executado e um novo contexto de execução é estabelecido. O valor do **this** é constante e ele existe enquanto este contexto de execução existir. 
 
-No browser, o **this** &#8220;padrão&#8221; referencia o objeto global **window**. Toda função declarada no escopo global também vai possuir o objeto **window** como valor do **this** (no <a href="http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/" title="http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/" target="_blank">strict mode</a> vai ser **undefined**). 
+No browser, o **this** &#8220;padrão&#8221; referencia o objeto global **window**. Toda função declarada no escopo global também vai possuir o objeto **window** como valor do **this** (no <a href="https://loopinfinito.com.br/2013/07/16/javascript-strict-mode/" title="https://loopinfinito.com.br/2013/07/16/javascript-strict-mode/" target="_blank">strict mode</a> vai ser **undefined**). 
 
 <pre class="lang-javascript">function myFunc () {
      console.log(this);   
@@ -45,7 +45,7 @@ Quando uma função representa um método de um objeto, o valor do **this** pass
 
 myObj.init(); // Object {init: function}</pre>
 
-O mesmo acontece quando um objeto é criado utilizando uma <a href="http://tableless.com.br/javascript-objetos-literais-vs-funcoes-construtoras/" title="http://tableless.com.br/javascript-objetos-literais-vs-funcoes-construtoras/" target="_blank">função construtora</a>, só que nesse caso o **this** representa o objeto instanciado. 
+O mesmo acontece quando um objeto é criado utilizando uma <a href="https://tableless.com.br/javascript-objetos-literais-vs-funcoes-construtoras/" title="https://tableless.com.br/javascript-objetos-literais-vs-funcoes-construtoras/" target="_blank">função construtora</a>, só que nesse caso o **this** representa o objeto instanciado. 
 
 <pre>function MyObj () {
     console.log(this);   
@@ -125,4 +125,4 @@ fun.call(thisArg[, arg1[, arg2[, ...]]])</pre>
   * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this" target="_blank">MDN &#8211; this</a>
   * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply" target="_blank">MDN &#8211; apply</a>
   * <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call" target="_blank">MDN &#8211; call</a>
-  * <a href="http://www.digital-web.com/articles/scope_in_javascript/" target="_blank">Scope in JavaScript</a>
+  * <a href="https://www.digital-web.com/articles/scope_in_javascript/" target="_blank">Scope in JavaScript</a>

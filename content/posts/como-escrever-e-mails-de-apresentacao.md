@@ -92,12 +92,12 @@ Sim, as empresas vão fuçar no seu Facebook e Twitter para saber se você é um
 
 Com um pouquinho de bom senso, simpatia e atenção ao detalhe qualquer um pode causar uma boa impressão. É só ter calma, revisar o texto e mostrar o que você sabe fazer de melhor. Seguindo estas dicas você garante ao menos um clique no seu portfólio. O resto vai do seu esforço em fazer um bom trabalho e manter um bom relacionamento entre clientes e parceiros.
 
- [1]: http://www.behance.net/gallery/Facebook-New-Look-Concept/6504647 "Facebook New Look Concept"
- [2]: http://www.behance.net/gallery/IMDB-Filmpage-Concept/1678386 "IMDB Filmpage Concept"
- [3]: http://www.behance.net/ "Behance"
- [4]: http://dunked.com/ "Dunked"
- [5]: http://carbonmade.com/ "Carbonmade"
+ [1]: https://www.behance.net/gallery/Facebook-New-Look-Concept/6504647 "Facebook New Look Concept"
+ [2]: https://www.behance.net/gallery/IMDB-Filmpage-Concept/1678386 "IMDB Filmpage Concept"
+ [3]: https://www.behance.net/ "Behance"
+ [4]: https://dunked.com/ "Dunked"
+ [5]: https://carbonmade.com/ "Carbonmade"
  [6]: https://github.com/ "Github"
- [7]: http://codepen.io/ "CodePen"
- [8]: http://jsfiddle.net/ "JSFiddle"
- [9]: http://meucvemanexo.tumblr.com "Meu CV Anexo"
+ [7]: https://codepen.io/ "CodePen"
+ [8]: https://jsfiddle.net/ "JSFiddle"
+ [9]: https://meucvemanexo.tumblr.com "Meu CV Anexo"

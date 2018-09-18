@@ -274,7 +274,7 @@ E você não está errado em pensar isso... Na verdade, podemos dizer de certa f
 
 Alguns pontos podem complicar a implementação de uma API REST. Vamos imaginar o seguinte cenário: sua aplicação precisa de um *endpoint* que retorne um dono de cachorro e seus respectivos cachorros por um id, igual vimos anteriormente.... Provavelmente, se sua API implementa o REST, você terá um *endpoint* que responde por GET e retorne aquela mesma lista que vimos anteriormente. Seu *endpoint*, se estivermos falando de uma API local, poderia ser este:
 
-`http://localhost:8080/api/v1/pessoas/1`
+`https://localhost:8080/api/v1/pessoas/1`
 
 Enquanto sua resposta poderia ser a mesma obtida anteriormente:
 
@@ -315,7 +315,7 @@ A primeira hipótese (utilização do mesmo *endpoint*) seria a solução que a 
 
 A segunda hipótese (criação de um *endpoint* que responda somente com as informações necessárias) seria a mais correta tecnicamente. Nós poderíamos ter o seguinte *endpoint*...
 
-`http://localhost:8080/api/v1/pessoas/somenteNomes/1`
+`https://localhost:8080/api/v1/pessoas/somenteNomes/1`
 
 Que forneceria a seguinte resposta:
 
@@ -371,7 +371,7 @@ A questão das *subscriptions* também é fantástica. Em uma API REST, nós pre
 
 Temos mais uma diferença palpável entre APIs REST e APIs GraphQL: no final, em uma API REST, os *endpoints* acabam meio que agindo como identificadores de recursos. Por exemplo: se temos o *endpoint* abaixo:
 
-`http://localhost:8080/api/v1/pessoas`
+`https://localhost:8080/api/v1/pessoas`
 
 Podemos tranquilamente deduzir que ele irá devolver dados de pessoas. Já o GraphQL é orientado aos *schemas* que nós vimos anteriormente. O que é excelente, pois podemos mudar a forma como expomos nossos recursos sem que isso impacte em novos *endpoints* ou em versionamentos de API, mitigando uma possível quebra entre o servidor da API e seus clientes.
 
@@ -393,7 +393,7 @@ Alguns frameworks e bibliotecas podem ajudar bastante a implementar o padrão Gr
 
 -   [GraphQL-JS][https://github.com/graphql/graphql-js]: implementação para servidores GraphQL baseada no Node.js. Essa é, inclusive, a implementação original do GraphQL. Você pode utilizar esta biblioteca em conjunto com o Express, por exemplo, para expor uma API GraphQL;
 -   [GraphQL-Server][https://dev.apollodata.com/tools/graphql-server/]: é a implementação para servidores do principal framework GraphQL atualmente, o Apollo. Trata-se da implementação mais popular atualmente. Abordamos esta implementação para servidores em nosso [curso de GraphQL](https://www.treinaweb.com.br/curso/graphql-criando-apis-modernas-com-graphcool-e-apollo);
--   [Apollo-Client][http://www.apollodata.com/]: é a implementação do Apollo para clientes GraphQL. É também a implementação para clientes abordada em nosso curso;
+-   [Apollo-Client][https://www.apollodata.com/]: é a implementação do Apollo para clientes GraphQL. É também a implementação para clientes abordada em nosso curso;
 -   [Relay][https://facebook.github.io/relay/]: uma implementação do próprio Facebook para clientes React.
 
 ## Concluindo...

@@ -12,7 +12,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356439890
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/modulando-o-css";s:7:"tinyurl";s:26:"http://tinyurl.com/4234zmo";s:4:"isgd";s:19:"http://is.gd/coxXlO";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/modulando-o-css";s:7:"tinyurl";s:26:"https://tinyurl.com/4234zmo";s:4:"isgd";s:19:"https://is.gd/coxXlO";}'
 twittercomments:
   - 'a:5:{i:19755909173481472;s:6:"136508";i:24894803330207744;s:6:"136671";i:104183957406498817;s:7:"retweet";i:104183163777069057;s:7:"retweet";i:104182941319573504;s:7:"retweet";}'
 tweetcount:
@@ -72,7 +72,7 @@ Essa maneira é ótima para caso você quiser dar ao usuário opções de cores.
 Essas seriam as formas mais comuns de organizar seu CSS. Perca um bocado de tempo planejando essa estratégia. Se o site é muito grande, esse tipo de planejamento prévio pode salvar o projeto. Vale a pena a equipe definir padrões desenvolvimento. O CSS é um dos fatores definitivos para manutenção, velocidade e compatibilidade do site. Um CSS fora de controle é um pesadelo que você não quer ter.
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2008/11/umcss.jpg
- [2]: http://tableless.com.br/nao-otimize-seu-codigo
+ [2]: https://tableless.com.br/nao-otimize-seu-codigo
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2008/11/umcss-padrao.jpg
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2008/11/importando-todos.jpg
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2008/11/estrutura-cor.jpg

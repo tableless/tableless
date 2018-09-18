@@ -70,4 +70,4 @@ Cada seminário vai contar com palestrantes locais. A ideia é fortificar a comu
 
 [Inscreva-se agora, é grátis][1]!
 
- [1]: http://bit.ly/lwgoiania2014
+ [1]: https://bit.ly/lwgoiania2014

@@ -38,7 +38,7 @@ Há alguns materiais bacanas no RethinkDB, como:
 
 E então, que tal desenvolver algo útil usando o RethinkDB? Para explorar a busca em tempo real, vamos construir uma timeline global simples utilizando o recurso [changefeed][1] para listar todos os dados na timeline em tempo real, com o uso do Node.js, Express, Socket.IO e o RethinkDB.
 
-Primeiro, você precisa instalar o RethinkDB. Antes de começar escrevendo os códigos abaixo, para instalar esse banco de dados eu recomendo que você leia e siga as instruções deste link <http://rethinkdb.com/docs/install> de acordo com seu sistema operacional.
+Primeiro, você precisa instalar o RethinkDB. Antes de começar escrevendo os códigos abaixo, para instalar esse banco de dados eu recomendo que você leia e siga as instruções deste link <https://rethinkdb.com/docs/install> de acordo com seu sistema operacional.
 
 Depois de instalá-lo, execute os comandos abaixo para iniciar o projeto:
 
@@ -215,7 +215,7 @@ Se tudo der certo, você pode iniciar o servidor ao executar:
     node index.js
     
 
-E você pode brincar enviando mensagens nesta aplicação acessando o endereço <http://localhost:3000>.
+E você pode brincar enviando mensagens nesta aplicação acessando o endereço <https://localhost:3000>.
 
 ## Protegendo o aplicativo
 
@@ -225,7 +225,7 @@ Se quiser saber mais sobre como começar protegendo seu aplicativo, basta acessa
 
 O RethinkDB é o incrível NoSQL! Esse banco de dados pode oferecer suporte total para aplicações de tempo real apenas utilizando o changefeed + socket.io. [Neste link][1], você pode ler mais sobre o que é possível criar usando o changefeeds. Quase todas as funções podem executar usando as Promises, que fazem com que você escreva um código melhor e você pode facilmente usar o recurso **ES7 async/await** para simplificar as funções de promessas também.
 
- [1]: http://rethinkdb.com/docs/changefeeds/javascript
+ [1]: https://rethinkdb.com/docs/changefeeds/javascript
  [2]: https://github.com/caio-ribeiro-pereira/node-api-examples
  [3]: https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise
  [4]: https://blog.jscrambler.com/jscrambler-101-first-use

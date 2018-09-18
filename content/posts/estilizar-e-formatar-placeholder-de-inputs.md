@@ -31,4 +31,4 @@ Para formatar o atributo placeholder dos campos de formulários e textareas, bas
 
 Veja a [documentação oficial][1] direto do WHATWG.
 
- [1]: http://developers.whatwg.org/common-input-element-attributes.html#the-placeholder-attribute
+ [1]: https://developers.whatwg.org/common-input-element-attributes.html#the-placeholder-attribute

@@ -18,7 +18,7 @@ Para ser um dos ganhadores [você precisa retwittar este tweet][7] e se certific
 
 <blockquote class="twitter-tweet" lang="en">
   <p>
-    Ganhe um ingresso para o <a href="https://twitter.com/hashtag/17elw?src=hash">#17elw</a> de POA e assista o <a href="https://twitter.com/AkitaOnRails">@AkitaOnRails</a>, <a href="https://twitter.com/sergio_caelum">@sergio_caelum</a>, <a href="https://twitter.com/jcemer">@jcemer</a> falando! RT agora! <a href="http://t.co/Op94GavZWX">http://t.co/Op94GavZWX</a>
+    Ganhe um ingresso para o <a href="https://twitter.com/hashtag/17elw?src=hash">#17elw</a> de POA e assista o <a href="https://twitter.com/AkitaOnRails">@AkitaOnRails</a>, <a href="https://twitter.com/sergio_caelum">@sergio_caelum</a>, <a href="https://twitter.com/jcemer">@jcemer</a> falando! RT agora! <a href="https://t.co/Op94GavZWX">https://t.co/Op94GavZWX</a>
   </p>
   
   <p>
@@ -30,11 +30,11 @@ Para ser um dos ganhadores [você precisa retwittar este tweet][7] e se certific
 
 Iremos fazer o sorteio de 5 ganhadores na sexta-feira. Se você não é de Porto Alegre e quiser participar, não há problema. Mas você precisará nos dar certeza de que vai viajar para ver o evento.
 
- [1]: http://about.me/akitaonrails
- [2]: http://jcemer.com/
- [3]: http://sergiolopes.org/
- [4]: http://rinaldi.io/
- [5]: http://pothix.com/blog
- [6]: http://diegoeis.com/
+ [1]: https://about.me/akitaonrails
+ [2]: https://jcemer.com/
+ [3]: https://sergiolopes.org/
+ [4]: https://rinaldi.io/
+ [5]: https://pothix.com/blog
+ [6]: https://diegoeis.com/
  [7]: https://twitter.com/tableless/status/590847933957832704
- [8]: http://twitter.com/tableless
+ [8]: https://twitter.com/tableless

@@ -211,12 +211,12 @@ Veja o resultado final com animação:
   height="401"
 >}}
 
-E eu acho que é só. Se quiser ver direto no seu aparelho, visite este endereço: <http://cdpn.io/ADnfr>
+E eu acho que é só. Se quiser ver direto no seu aparelho, visite este endereço: <https://cdpn.io/ADnfr>
 
  [1]: https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent
  [2]: https://www.google.com.br/search?client=safari&rls=en&q=click+mobile+delay&ie=UTF-8&oe=UTF-8&gws_rd=cr&ei=mFhHUsPyIpSI9ATun4HwDg
- [3]: http://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/
- [4]: http://css-tricks.com/tale-of-animation-performance/
- [5]: http://tableless.com.br/css-transforms/
- [6]: http://tableless.com.br/transition-e-animation/
- [7]: http://tableless.com.br/introducao-ao-css-animation/
+ [3]: https://www.paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft/
+ [4]: https://css-tricks.com/tale-of-animation-performance/
+ [5]: https://tableless.com.br/css-transforms/
+ [6]: https://tableless.com.br/transition-e-animation/
+ [7]: https://tableless.com.br/introducao-ao-css-animation/

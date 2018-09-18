@@ -36,7 +36,7 @@ e performance da sua SPA.
 No Ember, sempre que você registrar qualquer evento em
 [didInsertElement](https://guides.emberjs.com/v2.9.0/components/the-component-lifecycle/#toc_integrating-with-third-party-libraries-with-code-didinsertelement-code),
 você deve destruí-lo corretamente sempre que o componente for destruído usando
-[willDestroyElement](http://emberjs.com/api/classes/Ember.Component.html#event_willDestroyElement).
+[willDestroyElement](https://emberjs.com/api/classes/Ember.Component.html#event_willDestroyElement).
 
 <script src="https://gist.github.com/aureliosaraiva/9d51cdcdfbb22b57c40b7878821014f5.js"></script>
 
@@ -143,9 +143,9 @@ atualizado.
 Veja dois exemplos de código (*habilite o console do seu navegador para ver o
 log*)
 
-[http://codepen.io/aureliosaraiva/pen/ObWbeM](http://codepen.io/aureliosaraiva/pen/ObWbeM)
+[https://codepen.io/aureliosaraiva/pen/ObWbeM](https://codepen.io/aureliosaraiva/pen/ObWbeM)
 
-[http://codepen.io/aureliosaraiva/pen/VmPmJJ](http://codepen.io/aureliosaraiva/pen/VmPmJJ)
+[https://codepen.io/aureliosaraiva/pen/VmPmJJ](https://codepen.io/aureliosaraiva/pen/VmPmJJ)
 
 Certo, o que isso tudo significa?
 
@@ -239,7 +239,7 @@ final todos ganham!
 ## Comunidade EmberJS no Brasil
 
 * Esse texto é parte de uma iniciativa da comunidade *[EmberJS Brasil](https://github.com/EmberJSBrasil)*, que busca disseminar conteúdo sobre
-* [Ember](http://emberjs.com/), que seja de qualidade, autoral ou traduzido.
+* [Ember](https://emberjs.com/), que seja de qualidade, autoral ou traduzido.
 Siga nosso *[Twitter](https://twitter.com/emberjsbrasil)*! 
 * Participe da comunidade global de Ember no [Slack](https://ember-community-slackin.herokuapp.com/)! 
 * E acesse o canal: [#lang-portuguese](https://ember-community-slackin.herokuapp.com/)!

@@ -22,7 +22,7 @@ Em grande parte das linguagens existentes, há uma sintaxe a ser respeitada e es
 
 > A sintaxe é a parte da gramática que estuda a disposição das palavras na frase e das frases no discurso, incluindo a sua **relação lógica**, entre as múltiplas combinações possíveis para transmitir um **significado completo e compreensível**. [&#8230;] É o ramo que estuda os processos generativos ou combinatórios das frases das línguas naturais, tendo em vista **especificar a sua estrutura interna e funcionamento**.
 > 
-> Fonte: <http://pt.wikipedia.org/wiki/Sintaxe> (grifo nosso)
+> Fonte: <https://pt.wikipedia.org/wiki/Sintaxe> (grifo nosso)
 
 E no HTML5 nada impede que você use a sintaxe do XHTML, portanto, continuar mantendo as principais características de sintaxe do XHTML no HTML5 (uma prática que muitos chamam de XHTML5), para manter um formato consistente de codificação. É como realizar um _merge_ entre as duas linguagens.
 
@@ -40,5 +40,5 @@ Algumas práticas recomendadas:
 
 [My preferred syntax style for HTML5 markup][2]
 
- [1]: http://www.456bereastreet.com/archive/201011/html5_syntax_guidelines/
- [2]: http://www.impressivewebs.com/html5-syntax-style/
+ [1]: https://www.456bereastreet.com/archive/201011/html5_syntax_guidelines/
+ [2]: https://www.impressivewebs.com/html5-syntax-style/

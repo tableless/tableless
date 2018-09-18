@@ -31,7 +31,7 @@ Basicamente precisará do PHP em sua versão a partir da 5.3.2.
 
 Primeiramente você precisa realizar o download do phar do composer. O <a title="Descubra o que é um arquivo Phar" href="https://php.net/manual/pt_BR/book.phar.php" target="_blank">phar</a> é um empacotamento de uma aplicação e é utilizado para fornecer bibliotecas e ferramentas nas quais o desenvolvedor não tem de se preocupar com sua estrutura. Em outras palavras, é pegar e usar.
 
-Para que você obtenha o composer há duas maneiras distintas. Através da biblioteca <a title="Descubra o que é cURL" href="http://en.wikipedia.org/wiki/CURL" target="_blank">cURL</a> e através do próprio PHP. Basta selecionar uma das opções abaixo e executar em seu terminal.
+Para que você obtenha o composer há duas maneiras distintas. Através da biblioteca <a title="Descubra o que é cURL" href="https://en.wikipedia.org/wiki/CURL" target="_blank">cURL</a> e através do próprio PHP. Basta selecionar uma das opções abaixo e executar em seu terminal.
 
 Instalando via cURL:
   
@@ -49,7 +49,7 @@ Existem outras maneiras de instalar, na verdade são configurações mais avanç
 
 Antes de você sair querendo fazer as coisas acontecerem precisamos passar alguns conceitos básicos.
 
-O composer facilita o gerenciamento de dependências em seus projetos, com isso houve a necessidade de uma padronização para a interoperabilidade entre os mais diversos frameworks PHP do mercado. Mas detalhe que o composer não limita-se à uso somente em frameworks, você pode tranquilamente utilizá-lo em seus projetos com PHP puro desde que siga as recomendações da <a title="Descubra o que é FIG" href="http://www.php-fig.org/" target="_blank">FIG</a> (Framework Interoperability Group).
+O composer facilita o gerenciamento de dependências em seus projetos, com isso houve a necessidade de uma padronização para a interoperabilidade entre os mais diversos frameworks PHP do mercado. Mas detalhe que o composer não limita-se à uso somente em frameworks, você pode tranquilamente utilizá-lo em seus projetos com PHP puro desde que siga as recomendações da <a title="Descubra o que é FIG" href="https://www.php-fig.org/" target="_blank">FIG</a> (Framework Interoperability Group).
 
 &nbsp;
 
@@ -57,7 +57,7 @@ O composer facilita o gerenciamento de dependências em seus projetos, com isso 
 
 Agora que você já tem uma noção do que é o composer está na hora de botar a mão na massa.
 
-Primeiramente crie um arquivo chamado _composer.json_. Este arquivo possuirá as configurações de dependências de sua aplicação em formato <a title="Veja mais sobre a estrutura de um arquivo Json" href="http://json.org/json-pt.html" target="_blank">Json</a>.
+Primeiramente crie um arquivo chamado _composer.json_. Este arquivo possuirá as configurações de dependências de sua aplicação em formato <a title="Veja mais sobre a estrutura de um arquivo Json" href="https://json.org/json-pt.html" target="_blank">Json</a>.
 
 Abaixo segue um esqueleto básico do _composer.json_ – o arquivo em que as dependências serão descritas, em seguida o mesmo será esclarescido.
 

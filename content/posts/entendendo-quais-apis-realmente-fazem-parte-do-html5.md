@@ -75,8 +75,8 @@ O que podemos concluir disso tudo é que o HTML5, sozinho, não faz uma web melh
   
 [HTML5 &#8211; Wikipedia][5]
 
- [1]: http://www.w3.org/TR/webstorage/
- [2]: http://tableless.com.br/tenha-o-dom/
- [3]: http://www.whatwg.org/specs/web-apps/current-work/multipage/introduction.html
- [4]: http://dev.w3.org/html5/html4-differences/#apis
- [5]: http://en.wikipedia.org/wiki/HTML5
+ [1]: https://www.w3.org/TR/webstorage/
+ [2]: https://tableless.com.br/tenha-o-dom/
+ [3]: https://www.whatwg.org/specs/web-apps/current-work/multipage/introduction.html
+ [4]: https://dev.w3.org/html5/html4-differences/#apis
+ [5]: https://en.wikipedia.org/wiki/HTML5

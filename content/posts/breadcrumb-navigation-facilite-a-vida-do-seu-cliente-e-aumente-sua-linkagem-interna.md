@@ -36,7 +36,7 @@ Dados estruturados são informações formatadas por um padrão comum aos mecani
 
 Caso você queira dar uma lida sobre marcação de Dados Estruturados, aqui no Tableless tem um artigo bem bacana do [Thiago Santos][4]:
 
-<http://tableless.com.br/schema-marcacao-de-dados-estruturados/#.Ug0KEZIp-lU>
+<https://tableless.com.br/schema-marcacao-de-dados-estruturados/#.Ug0KEZIp-lU>
 
 ## Linkagem Interna 
 
@@ -84,7 +84,7 @@ TV-Slim-LED-32-Full-HD-Samsung-32F5200
 
 ** 2. Deixe a tag body dessa forma:**
 
-<pre class="lang-html">&lt;body itemscope itemtype="http://schema.org/WebPage"&gt;
+<pre class="lang-html">&lt;body itemscope itemtype="https://schema.org/WebPage"&gt;
 </pre>
 
 ** 3. Pronto! Agora é só usar e aguardar a indexação do Google!**
@@ -128,4 +128,4 @@ Como é simples de se fazer, torna-se um ótimo recurso para as suas estratégia
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/exemplo-de-breadcrumb-navigation.png
  [2]: https://support.google.com/webmasters/answer/99170?hl=pt-BR
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/exemplo-de-breadcrumb-navigation-na-pesquisa-do-google.png
- [4]: http://tableless.com.br/author/thiagosantos/
+ [4]: https://tableless.com.br/author/thiagosantos/

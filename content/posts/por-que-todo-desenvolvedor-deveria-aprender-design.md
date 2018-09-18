@@ -126,7 +126,7 @@ de James Kalbach;
 de Modesto Farina, Clotilde Peres e Dorinho Bastos;
 1.  "[Pensar com tipos](https://www.amazon.com.br/Pensar-com-Tipos-Ellen-Lupton/dp/8540502836)",
 de Ellen Lupton;
-1.  "[UX fundamentals: interaction design](http://go.usabilla.com/ux-fundamentals-interaction-design-ebook)", de
+1.  "[UX fundamentals: interaction design](https://go.usabilla.com/ux-fundamentals-interaction-design-ebook)", de
 Lana Miller;
 
 #### Leia também
@@ -134,8 +134,8 @@ Lana Miller;
 Abaixo alguns artigos que podem servir de guideline para você, além de reforçar
 o que já foi dito por aqui, aproveite!
 
-1. [10 design concepts that every web developer needs to know](http://www.creativebloq.com/web-design/10-design-concepts-web-developers-need-know-11135255)
-1. [The core principles of UI design - InVision Blog](http://blog.invisionapp.com/core-principles-of-ui-design/)
+1. [10 design concepts that every web developer needs to know](https://www.creativebloq.com/web-design/10-design-concepts-web-developers-need-know-11135255)
+1. [The core principles of UI design - InVision Blog](https://blog.invisionapp.com/core-principles-of-ui-design/)
 1. [Os Princípios de UX para Aplicativos em Dispositivos Móveis](https://www.thinkwithgoogle.com/intl/pt-br/articles/mobile-app-ux-principles.html)
 
 *****

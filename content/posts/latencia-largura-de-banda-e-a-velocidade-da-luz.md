@@ -94,13 +94,13 @@ Ok, já sabemos o que é latência, mas outro conceito importante de aprendermos
 
 O grande problema com a latência na realidade é que hoje já estamos transmitindo os dados/sinais/informações de maneira **muito** rápida e estamos amarrados a um limite de velocidade também conhecido como **velocidade da luz.**
 
-A <a title="velocidade da luz" href="http://pt.wikipedia.org/wiki/Velocidade_da_luz" target="_blank">velocidade da luz</a> por definição é igual a 299 792 458 metros por segundo ou mais ou menos 1079 milhões de quilomêtros por hora (bastante não?), só que (sempre tem um but) essa velocidade toda só é atingida no <a title="vácuo" href="http://pt.wikipedia.org/wiki/V%C3%A1cuo" target="_blank">vácuo</a>.
+A <a title="velocidade da luz" href="https://pt.wikipedia.org/wiki/Velocidade_da_luz" target="_blank">velocidade da luz</a> por definição é igual a 299 792 458 metros por segundo ou mais ou menos 1079 milhões de quilomêtros por hora (bastante não?), só que (sempre tem um but) essa velocidade toda só é atingida no <a title="vácuo" href="https://pt.wikipedia.org/wiki/V%C3%A1cuo" target="_blank">vácuo</a>.
 
 Bom como o vácuo perfeito não é possível na natureza e o não perfeito hoje não é utilizado em grande escala (somente alguns centros de pesquisa possuem câmaras de vácuo) teremos que utilizar outro meio para a transmissão da luz certo? Sim perfeito!
 
-Que a <a title="fibra óptica" href="http://pt.wikipedia.org/wiki/Fibra_%C3%B3ptica" target="_blank">fibra óptica</a> é realidade não temos duvida =D e é nela que basicamente transmitimos a luz/sinais/informações entre os continentes hoje em dia (normalmente debaixo dos oceanos).
+Que a <a title="fibra óptica" href="https://pt.wikipedia.org/wiki/Fibra_%C3%B3ptica" target="_blank">fibra óptica</a> é realidade não temos duvida =D e é nela que basicamente transmitimos a luz/sinais/informações entre os continentes hoje em dia (normalmente debaixo dos oceanos).
 
-A fibra é um meio muito competente para a transmissão da luz, mas é um meio de transmissão e não a ausência dele (vácuo). Todo **meio** de transmissão possui um <a title="índice de refração" href="http://pt.wikipedia.org/wiki/%C3%8Dndice_de_refra%C3%A7%C3%A3o" target="_blank">índice de refração</a> associado ao mesmo e no caso da fibra esse valor é de ~1.5.
+A fibra é um meio muito competente para a transmissão da luz, mas é um meio de transmissão e não a ausência dele (vácuo). Todo **meio** de transmissão possui um <a title="índice de refração" href="https://pt.wikipedia.org/wiki/%C3%8Dndice_de_refra%C3%A7%C3%A3o" target="_blank">índice de refração</a> associado ao mesmo e no caso da fibra esse valor é de ~1.5.
 
 Veja abaixo algumas distâncias e tempos de latência entre algumas cidades famosas do nosso querido planeta terra:
 
@@ -228,11 +228,11 @@ Veja abaixo algumas distâncias e tempos de latência entre algumas cidades famo
 
 O desafio hoje é tentar reduzir cada vez mais o índice de refração dos meios de transmissão e chegar cada vez mais perto do “limite” da velocidade da luz (complicadíssimo de novo!).
 
-Perceba que uma resolução de DNS (que acontece em todas as páginas web do mundo) requer um RTT, estabelecer uma conexão TCP (que é por onde uma requisição HTTP é trafegada, leia: <a title="Anatomia de uma requisição HTTP" href="http://www.cleberdantas.com/2011/12/anatomia-de-uma-requisicao-http/" target="_blank">Anatomia de uma requisição HTTP</a>) requer outro RTT, mas sabemos que acontece mais de uma resolução DNS por página e também que são estabelecidas mais de uma conexão TCP para trafegar as diversas requisições HTTP de uma página.
+Perceba que uma resolução de DNS (que acontece em todas as páginas web do mundo) requer um RTT, estabelecer uma conexão TCP (que é por onde uma requisição HTTP é trafegada, leia: <a title="Anatomia de uma requisição HTTP" href="https://www.cleberdantas.com/2011/12/anatomia-de-uma-requisicao-http/" target="_blank">Anatomia de uma requisição HTTP</a>) requer outro RTT, mas sabemos que acontece mais de uma resolução DNS por página e também que são estabelecidas mais de uma conexão TCP para trafegar as diversas requisições HTTP de uma página.
 
 Mesmo sabendo disso ainda queremos ter aplicações rodando abaixo de 300ms (Are you fucking kidding me?).
 
-Ok, sabemos que da para reaproveitar conexões TCP (keep-alive), usar <a title="CND" href="http://www.cleberdantas.com/2011/11/content-delivery-network-cdn-voce-ainda-vai-usar-uma/" target="_blank">CDN</a> e trazer para mais perto dos usuários nossos assets, assim diminuindo o percurso o que diminui a latência.
+Ok, sabemos que da para reaproveitar conexões TCP (keep-alive), usar <a title="CND" href="https://www.cleberdantas.com/2011/11/content-delivery-network-cdn-voce-ainda-vai-usar-uma/" target="_blank">CDN</a> e trazer para mais perto dos usuários nossos assets, assim diminuindo o percurso o que diminui a latência.
 
 Agora você pode estar pensando que foi justamente por isso que você contratou aquela internet super veloz de 10/20Mbps do seu fornecedor de internet, para poder navegar muito mais rápido na Web certo? Errado!
 
@@ -270,7 +270,7 @@ Você esta em uma rede WIFI? 3G? Bom ai o negócio é ainda pior, mas isso é as
 
 **Good news **
 
-HTTP 2.0 esta sendo desenvolvido e ele esta sendo baseado no protocolo <a title="SPDY" href="http://pt.wikipedia.org/wiki/SPDY" target="_blank">SPDY</a> que entre outras coisas faz um uso MUITOO melhor das conexões TCP (teremos melhoria de performance só de migrar \o/), mas ainda estamos numa fase inicial do projeto, vamos aguardar.
+HTTP 2.0 esta sendo desenvolvido e ele esta sendo baseado no protocolo <a title="SPDY" href="https://pt.wikipedia.org/wiki/SPDY" target="_blank">SPDY</a> que entre outras coisas faz um uso MUITOO melhor das conexões TCP (teremos melhoria de performance só de migrar \o/), mas ainda estamos numa fase inicial do projeto, vamos aguardar.
 
 **Conclusão**
 
@@ -286,7 +286,7 @@ Obrigado e vamos falar mais nos comentários?
 
 Abs
 
- [1]: http://tableless.com.br/navigation-timing-api/ "Medindo performance e latência com a Navigation Timing API"
- [2]: http://tableless.com.br/performance-frontend-parte2/ "Performance front-end – Parte 2"
- [3]: http://www.cleberdantas.com/uploads/2013/04/bandwidth-vs-latency.png
- [4]: http://www.cleberdantas.com/wp-includes/images/smilies/icon_wink.gif
+ [1]: https://tableless.com.br/navigation-timing-api/ "Medindo performance e latência com a Navigation Timing API"
+ [2]: https://tableless.com.br/performance-frontend-parte2/ "Performance front-end – Parte 2"
+ [3]: https://www.cleberdantas.com/uploads/2013/04/bandwidth-vs-latency.png
+ [4]: https://www.cleberdantas.com/wp-includes/images/smilies/icon_wink.gif

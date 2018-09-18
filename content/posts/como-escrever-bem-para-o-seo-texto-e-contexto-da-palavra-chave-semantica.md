@@ -8,7 +8,7 @@ url: /como-escrever-bem-para-o-seo-texto-e-contexto-da-palavra-chave-semantica/
 enclosure:
   - |
     |
-        http://www.example.com/video123.flv
+        https://www.example.com/video123.flv
         1270
         video/x-flv
         
@@ -76,7 +76,7 @@ Uma fase legal! Aqui é onde você vai ditar as regras, escolher como distribuir
   * Tente utilizar vídeos com boa qualidade.
   * Faça as marcações de Rich Snippet para conteúdo de vídeo:
 
-<pre class="lang-html">&lt;div itemprop="video" itemscope itemtype="http://schema.org/VideoObject"&gt;
+<pre class="lang-html">&lt;div itemprop="video" itemscope itemtype="https://schema.org/VideoObject"&gt;
 
 &lt;h2&gt;Video: &lt;span itemprop="name"&gt;Title&lt;/span&gt;&lt;/h2&gt;
 
@@ -84,9 +84,9 @@ Uma fase legal! Aqui é onde você vai ditar as regras, escolher como distribuir
 
 &lt;meta itemprop="thumbnailUrl" content="thumbnail.jpg" /&gt;
 
-&lt;meta itemprop="contentURL" content="http://www.example.com/video123.flv" /&gt;
+&lt;meta itemprop="contentURL" content="https://www.example.com/video123.flv" /&gt;
 
-&lt;meta itemprop="embedURL" content="http://www.example.com/videoplayer.swf?video=123" /&gt;
+&lt;meta itemprop="embedURL" content="https://www.example.com/videoplayer.swf?video=123" /&gt;
 
 &lt;meta itemprop="uploadDate" content="2011-07-05" /&gt;
 
@@ -147,4 +147,4 @@ Conheçam bem o HTML, ou passem isso para alguém que sabe e oriente a sua equip
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/produção-de-conteúdo.png
  [2]: https://support.google.com/webmasters/answer/2413309?hl=pt-BR
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/12/palavra-chave-contextualizada.png
- [4]: http://tableless.com.br/semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/
+ [4]: https://tableless.com.br/semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/

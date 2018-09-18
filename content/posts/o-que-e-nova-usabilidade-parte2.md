@@ -92,9 +92,9 @@ Precisamos sair da zona de conforto do que conhecemos e pensar como as metodolog
 
 ## Referências
 
-IHC 2006. Workshop de Usabilidade de Aplicações e Tecnologias Emergentes: a Necessidade de uma “Nova Usabilidade”?. Disponível em: <http://www.dimap.ufrn.br/ihc2006/workshop.php>
+IHC 2006. Workshop de Usabilidade de Aplicações e Tecnologias Emergentes: a Necessidade de uma “Nova Usabilidade”?. Disponível em: <https://www.dimap.ufrn.br/ihc2006/workshop.php>
 
-Peter Thomas and Robert D. Macredie. 2002. Introduction to the new usability. ACM Trans. Comput.-Hum. Interact. 9, 2 (June 2002), 69-73. <http://doi.acm.org/10.1145/513665.513666>
+Peter Thomas and Robert D. Macredie. 2002. Introduction to the new usability. ACM Trans. Comput.-Hum. Interact. 9, 2 (June 2002), 69-73. <https://doi.acm.org/10.1145/513665.513666>
 
 Peter Thomas and Harold Thimbleby. 2002. The new usability: the challenge of designing for pervasive computing. In Proceedings of the 15th international conference on Computer communication (ICCC &#8217;02), S. V. Raghavan and Sudhir P. Mudur (Eds.). International Council for Computer Communication, Washington, DC, USA, 382-388.
 

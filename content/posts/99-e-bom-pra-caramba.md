@@ -7,7 +7,7 @@ url: /99-e-bom-pra-caramba/
 tweetbackscheck:
   - 1356431201
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/99-e-bom-pra-caramba";s:7:"tinyurl";s:26:"http://tinyurl.com/3wtyf7m";s:4:"isgd";s:19:"http://is.gd/LelVDx";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/99-e-bom-pra-caramba";s:7:"tinyurl";s:26:"https://tinyurl.com/3wtyf7m";s:4:"isgd";s:19:"https://is.gd/LelVDx";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036828
@@ -35,4 +35,4 @@ Se você fez um site mas não conseguiu validar uma determinada página. Relaxe&
 
 Lembre-se, até saber tudo e começar a colher os frutos do aprendizado, 99% é bom pra caramba. E dane-se o que os puristas dizem. 🙂
 
- [1]: http://visie.com.br/
+ [1]: https://visie.com.br/

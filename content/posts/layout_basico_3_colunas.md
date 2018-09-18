@@ -7,7 +7,7 @@ url: /layout_basico_3_colunas/
 tweetbackscheck:
   - 1356111727
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/layout_basico_3_colunas";s:7:"tinyurl";s:26:"http://tinyurl.com/3rabfrg";s:4:"isgd";s:19:"http://is.gd/YvsqNb";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/layout_basico_3_colunas";s:7:"tinyurl";s:26:"https://tinyurl.com/3rabfrg";s:4:"isgd";s:19:"https://is.gd/YvsqNb";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031666
@@ -21,4 +21,4 @@ viagem.
           
 [Layout básico de 3 colunas][1].
 
- [1]: http://tableless.com.br/estudo/3colunas/
+ [1]: https://tableless.com.br/estudo/3colunas/

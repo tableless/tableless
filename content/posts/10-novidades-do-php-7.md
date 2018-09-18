@@ -22,19 +22,19 @@ Vou apresentar aqui algumas novidades e recursos novos desta versão do PHP.
 
 O PHP 7 teve seu motor remodelado. Com isso, houve um grande ganho de desempenho.
 
-Em alguns casos, é possível alcançar <a href="http://rberaldo.com.br/php-7-9-vezes-mais-rapido-que-php-5-6/" target="_blank">até 9 vezes mais velocidade</a>. Mas esse número pode variar conforme a plataforma e a aplicação utilizada nos testes.
+Em alguns casos, é possível alcançar <a href="https://rberaldo.com.br/php-7-9-vezes-mais-rapido-que-php-5-6/" target="_blank">até 9 vezes mais velocidade</a>. Mas esse número pode variar conforme a plataforma e a aplicação utilizada nos testes.
 
-Eu utilizei o script para benchmark criado pela própria equipe do PHP, disponibilizado junto com o código-fonte da linguagem. Em comparação com a versão 5.6, consegui aproximadamente 9 vezes mais velocidade usando o PHP 7. Expliquei esse teste com mais detalhes <a href="http://rberaldo.com.br/php-7-9-vezes-mais-rapido-que-php-5-6/" target="_blank">neste meu artigo</a>.
+Eu utilizei o script para benchmark criado pela própria equipe do PHP, disponibilizado junto com o código-fonte da linguagem. Em comparação com a versão 5.6, consegui aproximadamente 9 vezes mais velocidade usando o PHP 7. Expliquei esse teste com mais detalhes <a href="https://rberaldo.com.br/php-7-9-vezes-mais-rapido-que-php-5-6/" target="_blank">neste meu artigo</a>.
 
 2. MySQL Removido
 
-Desde o PHP 5.5, <a href="http://PS: funções mysql_* estão obsoletas desde o PHP 5.5  e já foram removidas no PHP 7. Prefira usar MySQLi ou PDO. Veja mais aqui: http://www.ultimatephp.com.br/php-por-que-nao-utilizar-funcoes-mysql" target="_blank">as funções mysql_* eram consideradas obsoletas</a>. Ou seja, tudo indicava que elas seriam removidas em um futuro bem próximo.
+Desde o PHP 5.5, <a href="https://PS: funções mysql_* estão obsoletas desde o PHP 5.5  e já foram removidas no PHP 7. Prefira usar MySQLi ou PDO. Veja mais aqui: https://www.ultimatephp.com.br/php-por-que-nao-utilizar-funcoes-mysql" target="_blank">as funções mysql_* eram consideradas obsoletas</a>. Ou seja, tudo indicava que elas seriam removidas em um futuro bem próximo.
 
 Pois bem. A hora chegou.
 
 No PHP 7, as funções mysql\_* (como mysql\_connect(), mysql_query() e outras) deixaram de existir. Agora é preciso utilizar MySQLi ou PDO.
 
-<a href="http://www.ultimatephp.com.br/como-usar-pdo-com-banco-de-dados-mysql/" target="_blank">Recomendo utilizar PDO</a>, por ser mais robusta e ser independente de SGBD.
+<a href="https://www.ultimatephp.com.br/como-usar-pdo-com-banco-de-dados-mysql/" target="_blank">Recomendo utilizar PDO</a>, por ser mais robusta e ser independente de SGBD.
 
 3. Funções ereg_* Removidas
 
@@ -42,9 +42,9 @@ Além das funções mysql\_\*, as funções ereg\_\* e eregi\_* (como ereg(), er
 
 Elas também foram removidas no PHP 7.
 
-Agora é preciso usar as funções preg_*, da <a href="http://php.net/manual/pt_BR/book.pcre.php" target="_blank">biblioteca PCRE</a>, como preg\_match e preg\_replace.
+Agora é preciso usar as funções preg_*, da <a href="https://php.net/manual/pt_BR/book.pcre.php" target="_blank">biblioteca PCRE</a>, como preg\_match e preg\_replace.
 
-As funções preg_* exigem delimitadores. Consequentemente, é possível utilizar <a href="http://php.net/manual/pt_BR/reference.pcre.pattern.modifiers.php" target="_blank">modificadores</a>, como &#8220;i&#8221; e &#8220;u&#8221;. O &#8220;i&#8221;, por exemplo, significa case-insensitive. Ou seja, se você usava eregi\_\*, passará a usar preg\_\*, sempre com o modificador &#8220;i&#8221;.
+As funções preg_* exigem delimitadores. Consequentemente, é possível utilizar <a href="https://php.net/manual/pt_BR/reference.pcre.pattern.modifiers.php" target="_blank">modificadores</a>, como &#8220;i&#8221; e &#8220;u&#8221;. O &#8220;i&#8221;, por exemplo, significa case-insensitive. Ou seja, se você usava eregi\_\*, passará a usar preg\_\*, sempre com o modificador &#8220;i&#8221;.
 
 ## 3. Erros Fatais e Exceções
 
@@ -121,7 +121,7 @@ Aos poucos ela vem ganhando alguns recursos que a torna fracamente tipada.
 
 Isso significa que podemos criar códigos mais consistentes e menos suscetíveis a erros e problemas.
 
-O PHP 5 já possui o recurso de <a href="http://php.net/manual/pt_BR/language.oop5.typehinting.php" target="_blank">Indução de Tipos</a>.
+O PHP 5 já possui o recurso de <a href="https://php.net/manual/pt_BR/language.oop5.typehinting.php" target="_blank">Indução de Tipos</a>.
 
 É possível definir alguns tipos para parâmetros de métodos e funções. Mas só é possível definir dois tipos: arrays (o tipo &#8220;array&#8221;) e objetos (com o nome da classe).
 
@@ -194,7 +194,7 @@ Super simples!
 
 ## 10. Classes Anônimas
 
-O PHP, a partir da versão 5.4, permite a criação de <a href="http://php.net/manual/pt_BR/functions.anonymous.php" target="_blank">Funções Anônimas</a>. Elas são úteis especialmente para criação de _callbacks_ ou para usar em parâmetros de funções, como `array_map()`.
+O PHP, a partir da versão 5.4, permite a criação de <a href="https://php.net/manual/pt_BR/functions.anonymous.php" target="_blank">Funções Anônimas</a>. Elas são úteis especialmente para criação de _callbacks_ ou para usar em parâmetros de funções, como `array_map()`.
 
 A partir do PHP 7, podemos criar Classes Anônimas também.
 
@@ -222,8 +222,8 @@ Você pode ver a proposta e alguns casos de uso no <a href="https://wiki.php.net
 
 O PHP 7 traz diversas novidades. E, se você seguia as Boas Práticas e padrões que o PHP recomendava, a partir da versão 5.5, provavelmente terá pouquíssimos problemas (ou nenhum) para migrar para o PHP 7.
 
-Se quiser conhecer melhor essas novidades e algumas outras, criei um <a href="http://cursophp7.ultimatephp.com.br" target="_blank">curso gratuito</a>, onde mostro com mais detalhes cada um desses novos recursos. Também mostro como instalar o PHP 7, sem afetar a sua instalação atual do PHP 5.
+Se quiser conhecer melhor essas novidades e algumas outras, criei um <a href="https://cursophp7.ultimatephp.com.br" target="_blank">curso gratuito</a>, onde mostro com mais detalhes cada um desses novos recursos. Também mostro como instalar o PHP 7, sem afetar a sua instalação atual do PHP 5.
 
-**<a href="http://cursophp7.ultimatephp.com.br" target="_blank">Clique aqui e se inscreva no meu curso gratuito do PHP 7</a>**
+**<a href="https://cursophp7.ultimatephp.com.br" target="_blank">Clique aqui e se inscreva no meu curso gratuito do PHP 7</a>**
 
 Bons estudos e fique de olho no PHP 7!

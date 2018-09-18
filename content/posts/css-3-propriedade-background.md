@@ -7,7 +7,7 @@ url: /css-3-propriedade-background/
 tweetbackscheck:
   - 1356463097
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/css-3-propriedade-background";s:7:"tinyurl";s:26:"http://tinyurl.com/3dvs32t";s:4:"isgd";s:19:"http://is.gd/K0ONeN";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/css-3-propriedade-background";s:7:"tinyurl";s:26:"https://tinyurl.com/3dvs32t";s:4:"isgd";s:19:"https://is.gd/K0ONeN";}'
 twittercomments:
   - 'a:2:{i:10322156047048704;s:7:"retweet";i:10410348850974720;s:7:"retweet";}'
 tweetcount:
@@ -49,4 +49,4 @@ Neste código, definimos que a imagem de background terá 15px de largura por 30
 
 Para fazer a imagem cobrir todo o background do elemento, utilize o valor **cover** no background-size. Dessa forma se a imagem for menor do que o elemento, a imagem vai se redimensionar pelo elemento inteiro.
 
-Para mais informações interessantes sobre a propriedade Background no CSS3, visite o site do W3C, onde há mais detalhes e comentários dos editores: <http://www.w3.org/Style/CSS/current-work#background>.
+Para mais informações interessantes sobre a propriedade Background no CSS3, visite o site do W3C, onde há mais detalhes e comentários dos editores: <https://www.w3.org/Style/CSS/current-work#background>.

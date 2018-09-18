@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356402142
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/css-3-novo-mundo-de-possibilidades";s:7:"tinyurl";s:26:"http://tinyurl.com/3utun6k";s:4:"isgd";s:19:"http://is.gd/eXbYlJ";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/css-3-novo-mundo-de-possibilidades";s:7:"tinyurl";s:26:"https://tinyurl.com/3utun6k";s:4:"isgd";s:19:"https://is.gd/eXbYlJ";}'
 twittercomments:
   - 'a:9:{i:52712977656328192;s:6:"137425";i:52715994333978624;s:6:"137428";i:52713323774480385;s:6:"137429";i:52718151598735360;s:6:"137430";i:52786199223480320;s:6:"137448";i:52753227883614208;s:7:"retweet";i:52747862055976960;s:7:"retweet";i:52743867514105856;s:7:"retweet";i:52743164905271296;s:7:"retweet";}'
 tweetcount:
@@ -61,8 +61,8 @@ As propriedades também sofrerão muitas alterações, melhoramentos que facilit
 
 Há uma [entrevista muito interessante][3] no [Slashdot][4] com o [Håkon Wium Lie][5], onde ele reponde algumas questões sobre CSS e seu futuro.
 
- [1]: http://tableless.com.br/uma-breve-historia-do-css
- [2]: http://www.w3.org/TR/css3-roadmap/#modlist
- [3]: http://interviews.slashdot.org/article.pl?sid=06/06/23/1443203
- [4]: http://interviews.slashdot.org
- [5]: http://people.opera.com/howcome/
+ [1]: https://tableless.com.br/uma-breve-historia-do-css
+ [2]: https://www.w3.org/TR/css3-roadmap/#modlist
+ [3]: https://interviews.slashdot.org/article.pl?sid=06/06/23/1443203
+ [4]: https://interviews.slashdot.org
+ [5]: https://people.opera.com/howcome/

@@ -8,7 +8,7 @@ url: /conteudo-sob-demanda-com-jquery/
 tweetbackscheck:
   - 1356413464
 shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/conteudo-sob-demanda-com-jquery";s:7:"tinyurl";s:26:"http://tinyurl.com/3eqvk69";s:4:"isgd";s:19:"http://is.gd/OWnGrs";}'
+  - 'a:3:{s:9:"permalink";s:55:"https://tableless.com.br/conteudo-sob-demanda-com-jquery";s:7:"tinyurl";s:26:"https://tinyurl.com/3eqvk69";s:4:"isgd";s:19:"https://is.gd/OWnGrs";}'
 twittercomments:
   - 'a:12:{i:131435907017478144;s:7:"retweet";i:131374410035765248;s:7:"retweet";i:131362657344303104;s:7:"retweet";i:131358684302422016;s:7:"retweet";i:131344200401821696;s:7:"retweet";i:131343466121805824;s:7:"retweet";i:131342785608556544;s:7:"retweet";i:131341845082013696;s:7:"retweet";i:131341779235647488;s:7:"retweet";i:144800582710988800;s:7:"retweet";i:167415950839267328;s:7:"retweet";i:279221338042929152;s:7:"retweet";}'
 tweetcount:
@@ -37,7 +37,7 @@ Na nossa chamada ajax passamos ainda o nome da conta no Twitter e o número da p
 
 <pre class="lang-javascript">var usuario = 'tableless';
 var formato = 'json';
-var url = 'http://api.twitter.com/1/statuses/user_timeline.'+formato+"?callback=?";
+var url = 'https://api.twitter.com/1/statuses/user_timeline.'+formato+"?callback=?";
 
 $.getJSON(url, {screen_name:usuario, page:pagina}, function(tweets){
   // nosso código
@@ -92,7 +92,7 @@ Ao clicar no link, nosso site executa a funcão retorna_tweets, recebendo como p
 </li>');
   var screen_name = 'tableless';
   var formato = 'json';
-  var url = 'http://api.twitter.com/1/statuses/user_timeline.'+formato+"?callback=?";
+  var url = 'https://api.twitter.com/1/statuses/user_timeline.'+formato+"?callback=?";
 
   $.getJSON(url, {screen_name:screen_name, page:pagina}, function(tweets){
     $('.carregando').fadeOut(function(){
@@ -181,7 +181,7 @@ Pra finalizar, o método retorna\_tweets sofreu algumas alterações com relaç�
 </li>');
 
   var screen_name = 'tableless';
-  var url = 'http://api.twitter.com/1/statuses/user_timeline.json?callback=?';
+  var url = 'https://api.twitter.com/1/statuses/user_timeline.json?callback=?';
 
   $('body').data('pagina', pagina + 1);
 

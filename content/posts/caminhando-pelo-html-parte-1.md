@@ -7,7 +7,7 @@ url: /caminhando-pelo-html-parte-1/
 tweetbackscheck:
   - 1355138632
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/caminhando-pelo-html-parte-1";s:7:"tinyurl";s:26:"http://tinyurl.com/3lfwu8x";s:4:"isgd";s:19:"http://is.gd/nlRiOm";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/caminhando-pelo-html-parte-1";s:7:"tinyurl";s:26:"https://tinyurl.com/3lfwu8x";s:4:"isgd";s:19:"https://is.gd/nlRiOm";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036279
@@ -73,11 +73,11 @@ Temos aqui um título (h1) e dois parágrafos (p) de texto. Código simples, tan
 
 Nem todos os parágrafos são iguais. O mesmo com os títulos, imagens, links, listas, menus e formulários. Muitas vezes uma tag não é o suficiente para representar o que você quer dizer em determinado trecho de código. Por exemplo, ao inserir um link, é preciso dizer para onde esse link aponta, e muitas vezes você quer indicar também qual será o texto da tooltip que aparecerá quando o cursor estiver sobre o link. Logo, você tem um link assim:
 
-`Isto é um link: <a xhref="http://tableless.com.br"     >Tableless</a>.`
+`Isto é um link: <a xhref="https://tableless.com.br"     >Tableless</a>.`
 
 E com o texto da tooltip:
 
-`Isto é um link: <a xhref="http://tableless.com.br"      title="Tableless: web standards">Tableless</a>.`
+`Isto é um link: <a xhref="https://tableless.com.br"      title="Tableless: web standards">Tableless</a>.`
 
 Os atributos são sempre usados para definir características das tags, como o endereço de uma imagem ou o tipo de um campo de formulário. Um documento HTML é basicamente composto desses três elementos: texto, tags e atributos. Simples, não?
 

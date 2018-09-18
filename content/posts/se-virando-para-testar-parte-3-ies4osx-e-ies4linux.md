@@ -7,7 +7,7 @@ url: /se-virando-para-testar-parte-3-ies4osx-e-ies4linux/
 tweetbackscheck:
   - 1356431452
 shorturls:
-  - 'a:3:{s:9:"permalink";s:74:"http://tableless.com.br/se-virando-para-testar-parte-3-ies4osx-e-ies4linux";s:7:"tinyurl";s:26:"http://tinyurl.com/3cn3al5";s:4:"isgd";s:19:"http://is.gd/1OBs5J";}'
+  - 'a:3:{s:9:"permalink";s:74:"https://tableless.com.br/se-virando-para-testar-parte-3-ies4osx-e-ies4linux";s:7:"tinyurl";s:26:"https://tinyurl.com/3cn3al5";s:4:"isgd";s:19:"https://is.gd/1OBs5J";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037673
@@ -32,14 +32,14 @@ Existem mais dois artigos antes deste que mostram outros meios para testar seus 
   1. [Se virando para testar &#8211; Parte 1: Screenshots][10]
   2. [Se virando para testar &#8211; Parte 2: Descktops Virtuais][11]
 
- [1]: http://www.tatanka.com.br/ies4linux/page/Pt/P%C3%A1gina_Inicial
- [2]: http://www.winehq.org/
- [3]: http://tableless.com.br/ie6-no-mac-eu-sei-e-pecado
- [4]: http://www.tatanka.com.br/ies4linux/page/User:S%C3%A9rgio_Lopes
- [5]: http://mike.kronenberg.org/mike/
- [6]: http://www.kronenberg.org/ies4osx/
- [7]: http://www.kronenberg.org/darwine/
- [8]: http://darwine.sourceforge.net
- [9]: http://www.kronenberg.org/ies4osx/ies4osx-2_5beta6_4.zip
- [10]: http://tableless.com.br/se-virando-pra-testar-parte-1-screenshots
- [11]: http://tableless.com.br/se-virando-pra-testar-parte-2-desktops-virtuais
+ [1]: https://www.tatanka.com.br/ies4linux/page/Pt/P%C3%A1gina_Inicial
+ [2]: https://www.winehq.org/
+ [3]: https://tableless.com.br/ie6-no-mac-eu-sei-e-pecado
+ [4]: https://www.tatanka.com.br/ies4linux/page/User:S%C3%A9rgio_Lopes
+ [5]: https://mike.kronenberg.org/mike/
+ [6]: https://www.kronenberg.org/ies4osx/
+ [7]: https://www.kronenberg.org/darwine/
+ [8]: https://darwine.sourceforge.net
+ [9]: https://www.kronenberg.org/ies4osx/ies4osx-2_5beta6_4.zip
+ [10]: https://tableless.com.br/se-virando-pra-testar-parte-1-screenshots
+ [11]: https://tableless.com.br/se-virando-pra-testar-parte-2-desktops-virtuais

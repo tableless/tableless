@@ -7,14 +7,14 @@ url: /podcast_tableless13/
 enclosure:
   - |
     |
-        http://tableless.com.br/podcast/podcast_tableless13.mp3
+        https://tableless.com.br/podcast/podcast_tableless13.mp3
         615592
         audio/mpeg
         
 tweetbackscheck:
   - 1355297870
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/podcast_tableless13";s:7:"tinyurl";s:26:"http://tinyurl.com/3vtcyxy";s:4:"isgd";s:19:"http://is.gd/N3TaMR";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/podcast_tableless13";s:7:"tinyurl";s:26:"https://tinyurl.com/3vtcyxy";s:4:"isgd";s:19:"https://is.gd/N3TaMR";}'
 twittercomments:
   - 'a:5:{i:37585576886665216;s:7:"retweet";i:56508292041687040;s:7:"retweet";i:56437929412800512;s:7:"retweet";i:56412231017037825;s:7:"retweet";i:56399219354910720;s:7:"retweet";}'
 tweetcount:
@@ -40,5 +40,5 @@ Tamanho: ~600Kb
 
 <small>E não, não vou ensinar nada prático, o podcast será uma coisa mais conceitual, mais light. Estudo prático é texto ou video tutorial.</small>
 
- [1]: http://tableless.com.br/podcast/podcast_tableless13.mp3
- [2]: http://tableless.com.br/feed
+ [1]: https://tableless.com.br/podcast/podcast_tableless13.mp3
+ [2]: https://tableless.com.br/feed

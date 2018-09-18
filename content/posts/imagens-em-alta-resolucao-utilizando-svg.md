@@ -9,7 +9,7 @@ url: /imagens-em-alta-resolucao-utilizando-svg/
 tweetbackscheck:
   - 1356389712
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7276";s:7:"tinyurl";s:26:"http://tinyurl.com/d7rn58q";s:4:"isgd";s:19:"http://is.gd/P6KSuR";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7276";s:7:"tinyurl";s:26:"https://tinyurl.com/d7rn58q";s:4:"isgd";s:19:"https://is.gd/P6KSuR";}'
 twittercomments:
   - 'a:0:{}'
 categories:
@@ -88,7 +88,7 @@ Hora de colocar a mão na massa e conhecer alguns métodos de desenvolvimento. N
 
 #### 2. **<svg>**
 
-<pre class="lang-html">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"&gt;
+<pre class="lang-html">&lt;svg xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"&gt;
 &lt;path fill="#231F20" d="M32,17.969v-4l-4.781-1.992c-0.133-0.375-0.273-0.737-0.445-1.094l1.93-4.805L25.875,3.25l-4.763,1.961
 c-0.362-0.175-0.734-0.323-1.117-0.461L17.969,0h-4l-1.977,4.734c-0.398,0.141-0.781,0.289-1.161,0.469L6.078,3.294L3.25,6.122
 l1.938,4.711C5,11.219,4.847,11.614,4.703,12.021L0,14.031v4l4.706,1.961c0.146,0.406,0.302,0.802,0.489,1.188l-1.903,4.742
@@ -200,15 +200,15 @@ Artigo do blog A List Apart &#8211; Parte 1
 
 Artigo do blog A List Apart &#8211; Parte 2
 
- [1]: http://croczilla.com/bits_and_pieces/svg/samples/svgtetris/svgtetris.svg "Mozila SVG Tetris"
- [2]: http://docs.webplatform.org/wiki/svg/tutorials
- [3]: http://raphaeljs.com/
- [4]: http://svg-edit.googlecode.com/svn/branches/2.5.1/editor/svg-editor.html
- [5]: http://thenounproject.com/
+ [1]: https://croczilla.com/bits_and_pieces/svg/samples/svgtetris/svgtetris.svg "Mozila SVG Tetris"
+ [2]: https://docs.webplatform.org/wiki/svg/tutorials
+ [3]: https://raphaeljs.com/
+ [4]: https://svg-edit.googlecode.com/svn/branches/2.5.1/editor/svg-editor.html
+ [5]: https://thenounproject.com/
  [6]: https://github.com/adamdbradley/foresight.js
- [7]: http://modernizr.com/
- [8]: http://coding.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/
- [9]: http://www.w3.org/Graphics/SVG/
- [10]: http://www.noupe.com/tutorial/svg-clickable-71346.html
- [11]: http://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i/
- [12]: http://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-ii/
+ [7]: https://modernizr.com/
+ [8]: https://coding.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/
+ [9]: https://www.w3.org/Graphics/SVG/
+ [10]: https://www.noupe.com/tutorial/svg-clickable-71346.html
+ [11]: https://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-i/
+ [12]: https://www.alistapart.com/articles/using-svg-for-flexible-scalable-and-fun-backgrounds-part-ii/

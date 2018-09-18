@@ -91,7 +91,7 @@ startWorker(__dirname + '/worker-code.js', (err, result) => {
 })
 
 // Continua com o a execução na thread principal
-request.get('http://www.google.com', (err, resp) => {
+request.get('https://www.google.com', (err, resp) => {
 	if(err) return console.error(err)
 	console.log(`Total bytes recebidos = ${resp.body.length}`)
 })

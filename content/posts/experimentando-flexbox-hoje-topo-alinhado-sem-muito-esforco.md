@@ -19,7 +19,7 @@ Como muitos desenvolvedores web, gosto de experimentar _features_ novas ocasiona
 
 Só que nunca foi tão fácil assim: para deixar eles alinhados verticalmente, precisamos adicionar `margin` ou `padding` à logo ou ao menu. E com a popularização do site responsivo, os tamanhos dessas propriedades não eram os únicos problemas: tanto a logo quanto o espaçamento entre os links poderiam diminuir ou aumentar conforme o tamanho da tela e daria um grande trabalho (criar vários _media queries_ com vários ajustes em cada resolução) para conseguirmos alinhar em todos os dispositivos.
 
-É aí que entra o **_flexbox_**. Se você usa <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>, sua sintaxe do topo deve ser similar à esta:
+É aí que entra o **_flexbox_**. Se você usa <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>, sua sintaxe do topo deve ser similar à esta:
 
 {{< codepen 
   hash="xwmWOV"
@@ -47,7 +47,7 @@ E com só duas linhas de código, temos um topo alinhado horizontalmente sem mui
 
 ### Compatibilidade
 
-A <a href="http://caniuse.com/flexbox" target="_blank">compatibilidade do flexbox</a> hoje já é bem alta, ou seja, você também pode usar nos seus projetos, lembrando que você pode utilizar o <a href="https://modernizr.com/" target="_blank">Modernizr</a> para detectar essa _feature_ e usar um _fallback_ quando necessário.
+A <a href="https://caniuse.com/flexbox" target="_blank">compatibilidade do flexbox</a> hoje já é bem alta, ou seja, você também pode usar nos seus projetos, lembrando que você pode utilizar o <a href="https://modernizr.com/" target="_blank">Modernizr</a> para detectar essa _feature_ e usar um _fallback_ quando necessário.
 
 ### Conclusão
 

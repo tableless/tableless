@@ -28,7 +28,7 @@ Um medo muito grande de qualquer empresa que já foi uma startup é o de adicion
 cada vez mais camadas de burocracia a cada fase de expansão, seja com a entrada
 de novos funcionários, com a receita crescendo absurdamente ou com cada vez mais
 produtos tendo que ser mantidos. E não é diferente aqui no
-[Pagar.me](http://pagar.me/).
+[Pagar.me](https://pagar.me/).
 
 A empresa foi criada por
 [jovens](https://projetodraft.com/pedro-18-e-henrique-19-criaram-sozinhos-uma-empresa-milionaria-a-pagar-me-e-querem-muito-mais/)
@@ -102,7 +102,7 @@ Com a pesquisa feita e os resultados abertos, continuamos a discutir para
 chegarmos a uma decisão final, que foi a de padronizar metodologias e
 ferramentas para todos os squads. Nisso incluem-se definições de roadmap
 trimestral, nas quais os [Product
-Owners](http://www.desenvolvimentoagil.com.br/scrum/product_owner) (ou Business
+Owners](https://www.desenvolvimentoagil.com.br/scrum/product_owner) (ou Business
 Leaders, como chamamos no [Pagar.me](https://pagar.me/)) ajudariam bastante.
 
 **E o que ganhamos com isso?**

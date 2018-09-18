@@ -17,13 +17,13 @@ tags:
 ---
 &nbsp;
 
-Com o surgimento dos Gerenciadores de Conteúdo como o <a href="http://www.joomla.org/" target="_blank">Joomla </a>e <a href="https://wordpress.org/" target="_blank">WordPress</a>, os desenvolvedores de sites começaram a aproveitar mais o tempo e entregar projetos mais rápido. Quando surgem os frameworks de templates, que se integram aos CMSs para gerenciar e facilitar o desenvolvimento dos layouts das páginas, as coisas ficam mais interessantes. E é justamente nesse ponto que vamos chegar. Farei uma breve abordagem sobre o novo Framework de Template Gantry 5.
+Com o surgimento dos Gerenciadores de Conteúdo como o <a href="https://www.joomla.org/" target="_blank">Joomla </a>e <a href="https://wordpress.org/" target="_blank">WordPress</a>, os desenvolvedores de sites começaram a aproveitar mais o tempo e entregar projetos mais rápido. Quando surgem os frameworks de templates, que se integram aos CMSs para gerenciar e facilitar o desenvolvimento dos layouts das páginas, as coisas ficam mais interessantes. E é justamente nesse ponto que vamos chegar. Farei uma breve abordagem sobre o novo Framework de Template Gantry 5.
 
 ## **O Gantry**
 
-O Gantry é um framework de template Open Source and Free, desenvolvido pela <a href="http://www.rockettheme.com/" target="_blank">RocketTheme </a>(um dos melhores clubes de extensões e templates para Joomla e WordPress) que tem a finalidade de gerenciar e customizar os layouts das páginas.
+O Gantry é um framework de template Open Source and Free, desenvolvido pela <a href="https://www.rockettheme.com/" target="_blank">RocketTheme </a>(um dos melhores clubes de extensões e templates para Joomla e WordPress) que tem a finalidade de gerenciar e customizar os layouts das páginas.
 
-Na versão mais estável, a 4, o framework já atendia muito bem aos desenvolvedores de template, mas havia alguns problemas de semântica, layout adaptativo em vez de responsivo, poucas possibilidades de _override_ e o peso excessivo das páginas. Era uma luta para conseguir enxugar o máximo e aumentar o desempenho. Outros frameworks como <a href="http://www.t3-framework.org/" target="_blank">T3</a>, <a href="http://www.joomshaper.com/helix" target="_blank">Helix</a>, e <a href="https://yootheme.com/themes/warp-framework" target="_blank">Warp</a>, tinham uma curva de aprendizagem muito lenta, o que me frustrava. Foi quando surge o <a href="http://gantry.org/" target="_blank">Gantry 5</a>.
+Na versão mais estável, a 4, o framework já atendia muito bem aos desenvolvedores de template, mas havia alguns problemas de semântica, layout adaptativo em vez de responsivo, poucas possibilidades de _override_ e o peso excessivo das páginas. Era uma luta para conseguir enxugar o máximo e aumentar o desempenho. Outros frameworks como <a href="https://www.t3-framework.org/" target="_blank">T3</a>, <a href="https://www.joomshaper.com/helix" target="_blank">Helix</a>, e <a href="https://yootheme.com/themes/warp-framework" target="_blank">Warp</a>, tinham uma curva de aprendizagem muito lenta, o que me frustrava. Foi quando surge o <a href="https://gantry.org/" target="_blank">Gantry 5</a>.
 
 ## **A versão 5**
 
@@ -47,7 +47,7 @@ Ao instalar o Gantry 5 e o tema padrão Hydrogen, pode-se observar 1 outline bas
 
 ### **Faça override do core**
 
-Esta é uma das possibilidades mais legais do Gantry 5, pois você consegue fazer substituições de quase tudo no framework. E o interessante é que ele utiliza tecnologias recentes da Web como o <a href="http://yaml.org/" target="_blank">YAML</a> para trabalhar com campos de formulário e o <a href="http://twig.sensiolabs.org/" target="_blank">Twig Template</a> para facilitar a estruturação dos arquivos de substituição.
+Esta é uma das possibilidades mais legais do Gantry 5, pois você consegue fazer substituições de quase tudo no framework. E o interessante é que ele utiliza tecnologias recentes da Web como o <a href="https://yaml.org/" target="_blank">YAML</a> para trabalhar com campos de formulário e o <a href="https://twig.sensiolabs.org/" target="_blank">Twig Template</a> para facilitar a estruturação dos arquivos de substituição.
 
 ### **Estilização mais fácil e completa**
 
@@ -87,7 +87,7 @@ Existem alguns particles especiais chamados de **Atom**, que possibilitam a entr
 
 Com o P**ainel de Layout** do Gantry 5, você consegue montar inúmeras variações de grid. No canto esquerdo fica disponível vários módulos prontos para arrastar e soltar no painel. Ainda pode escolher através do botão “Load” qual o Preset (Estrutura de posições da página) deseja utilizar.
 
-Toda a estrutura do template criado no painel de layout é renderizado no browser através da propriedade <a href="http://tableless.com.br/flexbox-organizando-seu-layout/" target="_blank">Flexbox do CSS3</a>.
+Toda a estrutura do template criado no painel de layout é renderizado no browser através da propriedade <a href="https://tableless.com.br/flexbox-organizando-seu-layout/" target="_blank">Flexbox do CSS3</a>.
 
 ### **O editor de Menu**
 
@@ -103,17 +103,17 @@ Em minha opinião, a mais fantástica possibilidade do framework é o poder de f
 
 ### **Estilize usando SCSS**
 
-Uma inovação do Gantry 5 também foi a possibilidade de trabalhar com o <a href="http://sass-lang.com/" target="_blank">SCSS</a>, que na minha opinião é extremamente produtivo, e a manutenção do código fica muito mais prático e rápido, mas quem não se familiariza com **SCSS** pode ficar tranquilo, pois ele suporta <a href="http://lesscss.loopinfinito.com.br/" target="_blank">Less </a>e também pode trabalhar diretamente com o CSS.
+Uma inovação do Gantry 5 também foi a possibilidade de trabalhar com o <a href="https://sass-lang.com/" target="_blank">SCSS</a>, que na minha opinião é extremamente produtivo, e a manutenção do código fica muito mais prático e rápido, mas quem não se familiariza com **SCSS** pode ficar tranquilo, pois ele suporta <a href="https://lesscss.loopinfinito.com.br/" target="_blank">Less </a>e também pode trabalhar diretamente com o CSS.
 
-E para facilitar ainda mais, o framework utiliza o <a href="http://bourbon.io/" target="_blank">Bourbon</a>, uma biblioteca de mixin para SASS que ajuda, principalmente quando se trata de compatibilidade entre navegadores. É uma biblioteca fantástica, vale a pena estudá-la para utilizar da forma mais adequada em seus templates.
+E para facilitar ainda mais, o framework utiliza o <a href="https://bourbon.io/" target="_blank">Bourbon</a>, uma biblioteca de mixin para SASS que ajuda, principalmente quando se trata de compatibilidade entre navegadores. É uma biblioteca fantástica, vale a pena estudá-la para utilizar da forma mais adequada em seus templates.
 
 ## **O Suporte**
 
 O Gantry 5 tem uma comunidade bem ativa e colaborativa, e por isso conseguiram chegar em um **framework tão completo**.
 
-A <a href="http://docs.gantry.org/" target="_blank">documentação </a>é sem dúvida uma das mais claras e fáceis de entender. Nela tem tutoriais completos de como instalar, usar, configurar e estender ainda mais o framework.
+A <a href="https://docs.gantry.org/" target="_blank">documentação </a>é sem dúvida uma das mais claras e fáceis de entender. Nela tem tutoriais completos de como instalar, usar, configurar e estender ainda mais o framework.
 
-Vale a pena também seguir o <a href="http://gantry.org/blog" target="_blank">blog</a>, com artigos sobre os releases e alguns tutoriais interessantes que não estão presentes na documentação.
+Vale a pena também seguir o <a href="https://gantry.org/blog" target="_blank">blog</a>, com artigos sobre os releases e alguns tutoriais interessantes que não estão presentes na documentação.
 
 E tem também o <a href="https://gitter.im/gantry/gantry5" target="_blank">Gitter</a>, que funciona como um chat da comunidade. Fiquei maravilhado com o suporte dos caras; algumas vezes resolveram alguns problemas que tive na mesma hora. É um lugar também para reportar bugs do framework.
 

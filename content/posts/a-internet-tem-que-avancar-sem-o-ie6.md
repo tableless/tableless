@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356415784
 shorturls:
-  - 'a:3:{s:9:"permalink";s:60:"http://tableless.com.br/a-internet-tem-que-avancar-sem-o-ie6";s:7:"tinyurl";s:26:"http://tinyurl.com/42ctbd6";s:4:"isgd";s:19:"http://is.gd/I9MiH8";}'
+  - 'a:3:{s:9:"permalink";s:60:"https://tableless.com.br/a-internet-tem-que-avancar-sem-o-ie6";s:7:"tinyurl";s:26:"https://tinyurl.com/42ctbd6";s:4:"isgd";s:19:"https://is.gd/I9MiH8";}'
 twittercomments:
   - 'a:4:{i:34597597129883648;s:7:"retweet";i:34596507462287360;s:7:"retweet";i:49831891767009283;s:7:"retweet";i:49830608138022912;s:7:"retweet";}'
 tweetcount:
@@ -65,20 +65,20 @@ As estatísticas dos últimos 30 dias do Tableless estão assim:
 
 Campanhas que você pode apoiar:
 
-  * [http://dearie6.com/][9]
-  * <http://updateyourbrowser.net/>
-  * <http://www.stopie6.org/>
-  * <http://iedeathmarch.org/>
-  * <http://www.end6.org/>
-  * <http://imasters.uol.com.br/crossbrowser/>
-  * <http://browsehappy.com/>
+  * [https://dearie6.com/][9]
+  * <https://updateyourbrowser.net/>
+  * <https://www.stopie6.org/>
+  * <https://iedeathmarch.org/>
+  * <https://www.end6.org/>
+  * <https://imasters.uol.com.br/crossbrowser/>
+  * <https://browsehappy.com/>
 
- [1]: http://visie.com.br/coisas/a-internet/
- [2]: http://iedeathmarch.org/ "IE Death March"
- [3]: http://www.thecounter.com
- [4]: http://www.thecounter.com/stats/2008/December/browser.php
- [5]: http://getfirefox.com
- [6]: http://opera.com
- [7]: http://apple.com/safari
- [8]: http://www.microsoft.com/brasil/windows/ie/default.mspx
- [9]: http://dearie6.com/ "DearIE6"
+ [1]: https://visie.com.br/coisas/a-internet/
+ [2]: https://iedeathmarch.org/ "IE Death March"
+ [3]: https://www.thecounter.com
+ [4]: https://www.thecounter.com/stats/2008/December/browser.php
+ [5]: https://getfirefox.com
+ [6]: https://opera.com
+ [7]: https://apple.com/safari
+ [8]: https://www.microsoft.com/brasil/windows/ie/default.mspx
+ [9]: https://dearie6.com/ "DearIE6"

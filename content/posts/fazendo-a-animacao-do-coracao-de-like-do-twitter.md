@@ -29,7 +29,7 @@ Quando utilizamos a propriedade `transition`, geralmente usamos os valores `line
  <br><br>
  ![][https://mdn.mozillademos.org/files/3429/cubic-bezier,ease.png]
 
-Dá uma olhada nessa [tabela de referência][http://easings.net] de como as transições funcionam.
+Dá uma olhada nessa [tabela de referência][https://easings.net] de como as transições funcionam.
 
 Há um valor que eu não conhecia até então, chamado `steps()`. A representação da transição do steps é assim:
   

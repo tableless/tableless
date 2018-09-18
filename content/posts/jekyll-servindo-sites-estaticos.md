@@ -66,9 +66,9 @@ As URLs ficam assim:
 |-- _layouts/
 |-- _posts/
 |-- _site/
-|-- detail-view.html    # =&gt; http://projeto.com/detail-view.html
-|-- index.html    # =&gt; http://projeto.com
-└── results.html  # =&gt; http://projeto.com/results.html
+|-- detail-view.html    # =&gt; https://projeto.com/detail-view.html
+|-- index.html    # =&gt; https://projeto.com
+└── results.html  # =&gt; https://projeto.com/results.html
 </pre>
 
 Se você inserir um arquivo **index.html** nas pastas, a url das páginas vão ficar assim:
@@ -80,10 +80,10 @@ Se você inserir um arquivo **index.html** nas pastas, a url das páginas vão f
 |-- _posts/
 |-- _site/
 |-- detail-view/
-|---- index.html    # =&gt; http://projeto.com/detail-view/
-|-- index.html    # =&gt; http://projeto.com
+|---- index.html    # =&gt; https://projeto.com/detail-view/
+|-- index.html    # =&gt; https://projeto.com
 |-- results/
-└──── index.html    # =&gt; http://projeto.com/results/
+└──── index.html    # =&gt; https://projeto.com/results/
 </pre>
 
 ## Estrutura de código
@@ -206,7 +206,7 @@ safe:        false
 host:        0.0.0.0
 port:        4000
 baseurl:     /
-url:         http://localhost:4000
+url:         https://localhost:4000
 lsi:         false
 
 maruku:
@@ -283,7 +283,7 @@ Para iniciar um projeto e começar a fuçar nas coisas é fácil.
 
 O parâmetro **&#8211;w** ou **&#8211;watch** serve para que a cada vez que você fizer uma modificação nos arquivos do projeto, o Jekyll faz um build automático do projeto. Aí é só fazer um refresh no site e ver as modificações.
 
-O Jekyll vai subir seu site na porta :4000, é só seguir para: http://localhost:4000/
+O Jekyll vai subir seu site na porta :4000, é só seguir para: https://localhost:4000/
   
 Lembre-se que você precisa ter Ruby instalado na sua máquina, já que o Jekyll é uma GEM.
 
@@ -299,11 +299,11 @@ Se você tem Windows e estiver muito afim de fazer isso tudo funcionar, leia ess
 
 A comunidade Ruby ajudou muito o mundo front-end com várias ferramentas que ajudam a automatizar processos de desenvolvimento. É por isso que geralmente os front-ends que trabalham em projetos com Ruby conseguem se virar melhor em determinados pontos. Mas essa é uma outra história. 😉
 
- [1]: http://tableless.com.br/servicos/front-end.php
- [2]: http://tableless.com.br/servicos/wordpress.php
- [3]: http://jekyllrb.com
- [4]: http://docs.shopify.com/themes/liquid-basics
- [5]: http://tableless.com.br/templates-client-side-com-mustache-js/
- [6]: http://jekyllrb.com/docs/frontmatter/
- [7]: http://jekyllrb.com/docs/variables/
- [8]: http://simplesideias.com.br/configurando-ruby-rails-mysql-e-git-no-windows
+ [1]: https://tableless.com.br/servicos/front-end.php
+ [2]: https://tableless.com.br/servicos/wordpress.php
+ [3]: https://jekyllrb.com
+ [4]: https://docs.shopify.com/themes/liquid-basics
+ [5]: https://tableless.com.br/templates-client-side-com-mustache-js/
+ [6]: https://jekyllrb.com/docs/frontmatter/
+ [7]: https://jekyllrb.com/docs/variables/
+ [8]: https://simplesideias.com.br/configurando-ruby-rails-mysql-e-git-no-windows

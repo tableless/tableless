@@ -7,7 +7,7 @@ url: /elpi-problema-4/
 tweetbackscheck:
   - 1356432859
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/elpi-problema-4";s:7:"tinyurl";s:26:"http://tinyurl.com/3wnk6z7";s:4:"isgd";s:19:"http://is.gd/13QkMp";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/elpi-problema-4";s:7:"tinyurl";s:26:"https://tinyurl.com/3wnk6z7";s:4:"isgd";s:19:"https://is.gd/13QkMp";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038138
@@ -23,4 +23,4 @@ O próximo problema, você não pode ver. Mas ele está aqui.<!-- Qual o nome da
   
 De novo, o primeiro que enviar a resposta nos comentários ganha um par de ingressos para o [ELPI][1] no Rio de Janeiro.
 
- [1]: http://www.locaweb.com.br/encontro/
+ [1]: https://www.locaweb.com.br/encontro/

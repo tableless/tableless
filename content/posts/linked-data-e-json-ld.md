@@ -42,11 +42,11 @@ Mas nós não conseguimos resolver de verdade como as máquinas consomem esses d
 Quando um sistema acessar seu site, ele vai receber um arquivo JSON, que contém informações sobre o assunto do seu site. O formato é praticamente idêntico ao JSON que você já deve conhecer, mas com alguns valores e chaves diferentes, veja:
 
 <pre class="lang-js">{
-  "@context": "http://json-ld.org/contexts/person.jsonld",
-  "@id": "http://dbpedia.org/page/Bob_Dylan",
+  "@context": "https://json-ld.org/contexts/person.jsonld",
+  "@id": "https://dbpedia.org/page/Bob_Dylan",
   "name": "Bob Dylan",
   "born": "1941-05-24",
-  "spouse": "http://dbpedia.org/resource/Sara_Dylan"
+  "spouse": "https://dbpedia.org/resource/Sara_Dylan"
 }
 </pre>
 
@@ -54,7 +54,7 @@ O problema é quando você começa a receber esses dados de múltiplos websites.
 
 <pre class="lang-js">{
   "name": "Diego",
-  "homepage": "http://diegoeis.com"
+  "homepage": "https://diegoeis.com"
 }
 </pre>
 
@@ -62,16 +62,16 @@ E o outro:
 
 <pre class="lang-js">{
   "name": "diegoeis",
-  "homepage": "http://diegoeis.com"
+  "homepage": "https://diegoeis.com"
 }
 </pre>
 
 Perceba que no primeiro exemplo, estamos falando sobre uma pessoa. Já no segundo exemplo, em vez do nome de alguém, está algo parecido com um nickname. O robô não tem como saber o que é cada coisa. É por isso que no JSON-LD tem um conceito chamado **@context**. O **@context** diz para a aplicação como interpretar o contexto daquelas informações. Perceba que sempre que você conversa com alguém na vida real, a conversa acontece em volta de um contexto. O exemplo legal ficaria assim:
 
 <pre class="lang-js">{
-  "@context": "http://json-ld.org/contexts/person.jsonld",
+  "@context": "https://json-ld.org/contexts/person.jsonld",
   "name": "Diego",
-  "homepage": "http://diegoeis.com"
+  "homepage": "https://diegoeis.com"
 }
 </pre>
 
@@ -81,20 +81,20 @@ Ahh! Sabia que ia rolar essa pergunta. O [Schema.org][5] é uma comunidade colab
 
   * O que é um vocabulário: imagina que você tem uma série de coisas para descrever para as máquinas, por exemplo: suponha um site sobre filmes. Você quer indicar para os sistemas de busca (ou qualquer outro tipo de sistema interessado), qual é o pedaço de texto na página que é a resenha do filme, qual imagem é o poster do filme etc. Você marcaria o HTML assim:
 
-<pre class="htlang-ml">&lt;div itemscope itemtype="http://schema.org/Movie"&gt;
-  &lt;a itemprop="url" href="http://www.warnerbros.com/matrix"&gt;&lt;div itemprop="name"&gt;&lt;strong&gt;Matrix&lt;/strong&gt;&lt;/div&gt;&lt;/a&gt;
+<pre class="htlang-ml">&lt;div itemscope itemtype="https://schema.org/Movie"&gt;
+  &lt;a itemprop="url" href="https://www.warnerbros.com/matrix"&gt;&lt;div itemprop="name"&gt;&lt;strong&gt;Matrix&lt;/strong&gt;&lt;/div&gt;&lt;/a&gt;
   
   &lt;div itemprop="description"&gt;The best movie in the real world.&lt;/div&gt;
   
-  &lt;div itemprop="director" itemscope itemtype="http://schema.org/Person"&gt;
+  &lt;div itemprop="director" itemscope itemtype="https://schema.org/Person"&gt;
     Directed by: &lt;span itemprop="name"&gt;The Wachowskis&lt;/span&gt;
   &lt;/div&gt;
   
   &lt;div&gt;Starring: 
-    &lt;div itemprop="actors" itemscope itemtype="http://schema.org/Person"&gt;
+    &lt;div itemprop="actors" itemscope itemtype="https://schema.org/Person"&gt;
       &lt;span itemprop="name"&gt;Laurence Fishburne&lt;/span&gt;
     &lt;/div&gt;
-    &lt;div itemprop="actors" itemscope itemtype="http://schema.org/Person"&gt;
+    &lt;div itemprop="actors" itemscope itemtype="https://schema.org/Person"&gt;
       &lt;span itemprop="name"&gt;Keanu Reeves&lt;/span&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -107,10 +107,10 @@ Perceba que então, o Google, por exemplo, consegue saber o que é cada pedaço 
 A ideia é o seguinte, o **@context** serve para que você consiga especificar o vocabulário dos tipos e propriedades que você está servindo no seu documento. Ali no exemplo, eu usei o vocabulário que o próprio pessoal do JSON-LD publicou. Mas o Google, assim como outros sistemas de busca, apoiam largamente o uso do Schema.org, que é um padrão de vocabulário. Fica assim:
 
 <pre class="lang-js">{
-  "@context": "http://schema.org",
+  "@context": "https://schema.org",
   "@type": "Person",
   "name": "Diego",
-  "homepage": "http://diegoeis.com"
+  "homepage": "https://diegoeis.com"
 }
 </pre>
 
@@ -119,7 +119,7 @@ Veja ali que a segunda chave é o tipo. O Schema.org fornece uma série de vocab
 Perceba que **@context** e o **@type** definem o “significado” das outras chaves. Se fosse uma empresa:
 
 <pre class="lang-js">{
-  “@context”: “http://schema.org/“,
+  “@context”: “https://schema.org/“,
   “@type”: “Organization”,
   “name”: “National Public Radio”
 }
@@ -138,10 +138,10 @@ Mas não adianta usar uma terminologia curta, que máquinas e humanos entendam, 
 Logo, se alguém quiser falar sobre o **Diego**, basta referenciar esse id específico.
 
 <pre class="lang-js">{
-  “@context”: “http://json-ld.org/contexts/person.jsonld”,
-  “@id”: “http://diegoeis.com/sobre”
+  “@context”: “https://json-ld.org/contexts/person.jsonld”,
+  “@id”: “https://diegoeis.com/sobre”
   “name”: “Diego”,
-  “homepage”: “http://diegoeis.com”
+  “homepage”: “https://diegoeis.com”
 }
 </pre>
 
@@ -157,7 +157,7 @@ Simples: basta chamar na sua página o JSON com as informações que você quer 
 
 <pre class="lang-js">&lt;script type=“application/ld+json”&gt; 
 { 
-  “@context” : “http://schema.org”, 
+  “@context” : “https://schema.org”, 
   “@type” : “Article”, 
   “name” : “Um pouco sobre imagens para Web”, 
   “author” : { “@type” : “Person”, 
@@ -192,15 +192,15 @@ Veja as regras se baseiam em fundações fortes da web hoje. Talvez essas funda�
   * [Repositório do JSON-LD no GitHub][12]
   * [Is RDF/XML Good For Anything?][13]
 
- [1]: http://diegoeis.com/organizando-a-informacao.html
- [2]: http://tableless.com.br/introducao-a-microdata-no-html5/
+ [1]: https://diegoeis.com/organizando-a-informacao.html
+ [2]: https://tableless.com.br/introducao-a-microdata-no-html5/
  [3]: https://www.w3.org/2001/sw/RDFCore/
- [4]: http://www.slideshare.net/diegoeis/a-verdadeira-semntica-do-html5
- [5]: http://schema.org/
+ [4]: https://www.slideshare.net/diegoeis/a-verdadeira-semntica-do-html5
+ [5]: https://schema.org/
  [6]: https://www.google.com/webmasters/markup-helper/u/0/
  [7]: https://www.w3.org/DesignIssues/LinkedData.html
- [8]: http://json-ld.org/
- [9]: http://manu.sporny.org/2014/json-ld-origins-2/
+ [8]: https://json-ld.org/
+ [9]: https://manu.sporny.org/2014/json-ld-origins-2/
  [10]: https://thecustomizewindows.com/2014/08/json-ld-details/
  [11]: https://www.youtube.com/watch?v=4x_xzT5eF5Q
  [12]: https://github.com/json-ld/json-ld.org

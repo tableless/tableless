@@ -7,7 +7,7 @@ url: /consorcio-world-wide-web-w3c-anuncia-escritorio-no-brasil/
 tweetbackscheck:
   - 1356390561
 shorturls:
-  - 'a:3:{s:9:"permalink";s:81:"http://tableless.com.br/consorcio-world-wide-web-w3c-anuncia-escritorio-no-brasil";s:7:"tinyurl";s:26:"http://tinyurl.com/3tqz4aj";s:4:"isgd";s:19:"http://is.gd/ZVd7uu";}'
+  - 'a:3:{s:9:"permalink";s:81:"https://tableless.com.br/consorcio-world-wide-web-w3c-anuncia-escritorio-no-brasil";s:7:"tinyurl";s:26:"https://tinyurl.com/3tqz4aj";s:4:"isgd";s:19:"https://is.gd/ZVd7uu";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037571
@@ -21,4 +21,4 @@ categories:
 
 Gostei da parte do &#8220;aumentar a interação com a comunidade de língua portuguesa&#8221;.
 
- [1]: http://www.w3c.br/2007/release-29-10-2007.htm
+ [1]: https://www.w3c.br/2007/release-29-10-2007.htm

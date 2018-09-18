@@ -16,7 +16,7 @@ tags:
   - frameworks
 
 ---
-Se você é um desenvolvedor front-end que está atualmente no mercado, já ouviu/leu palavrinhas como <a href="http://lesscss.org/" target="_blank">LESS</a>, <a href="http://foundation.zurb.com/" target="_blank">Foundation</a> e <a href="http://sass-lang.com" target="_blank">Sass</a>. Alguns sabem do que estou falando, outros não, mas o fato que é que esses nomes foram dados à pré-processadores e frameworks de folhas de estilo para auxiliar na produtividade de códigos, principalmente no que diz respeito a repetição de uma mesma ação, diversas vezes.
+Se você é um desenvolvedor front-end que está atualmente no mercado, já ouviu/leu palavrinhas como <a href="https://lesscss.org/" target="_blank">LESS</a>, <a href="https://foundation.zurb.com/" target="_blank">Foundation</a> e <a href="https://sass-lang.com" target="_blank">Sass</a>. Alguns sabem do que estou falando, outros não, mas o fato que é que esses nomes foram dados à pré-processadores e frameworks de folhas de estilo para auxiliar na produtividade de códigos, principalmente no que diz respeito a repetição de uma mesma ação, diversas vezes.
 
 Quantas vezes você se pegou copiando e colando aquele monte de classes _identadas_ com mais de 15 linhas repetidamente e pensou: podia existir uma maneira mais rápida de fazer isso.
 
@@ -24,7 +24,7 @@ Agora eu te digo: tem!
 
 Eu conversei com alguns amigos desenvolvedores e fui saber quais dessas novidades têm sido mais usada, e a disputa ficou bastante acirrada entre os pré-processadores preferidos e os frameworks mais utilizados. Ainda assim, na mesma semana acabei lendo um artigo técnico sobre o uso do Sass e por isso resolvi também testá-lo para entender como ele funciona.
 
-Basicamente você começa “instalando” ele em sua máquina. Para os usuários de MAC é bem mais tranquilo que para os usuários de PC, porque para o Sass “rodar“ precisamos que o  <a href="http://pt.wikipedia.org/wiki/Ruby_%28linguagem_de_programa%C3%A7%C3%A3o%29" target="_blank">Ruby</a> também esteja instalado e isso já é nativo no MAC. De qualquer forma, não é nenhuma experiência traumática. <a href="http://sass-lang.com/download.html" target="_blank">No próprio site do Sass você encontra os dois métodos de instalação.</a>
+Basicamente você começa “instalando” ele em sua máquina. Para os usuários de MAC é bem mais tranquilo que para os usuários de PC, porque para o Sass “rodar“ precisamos que o  <a href="https://pt.wikipedia.org/wiki/Ruby_%28linguagem_de_programa%C3%A7%C3%A3o%29" target="_blank">Ruby</a> também esteja instalado e isso já é nativo no MAC. De qualquer forma, não é nenhuma experiência traumática. <a href="https://sass-lang.com/download.html" target="_blank">No próprio site do Sass você encontra os dois métodos de instalação.</a>
 
 Eu uso MAC e escolhi instalar o Sass através do Git.
 
@@ -187,4 +187,4 @@ OBS: Pessoal, conforme o comentário abaixo do Duke, existe uma correção a ser
   </div>
 </div>
 
- [1]: http://tableless.com.br/sass-um-outro-metodo-de-escrever-css/#
+ [1]: https://tableless.com.br/sass-um-outro-metodo-de-escrever-css/#

@@ -56,9 +56,9 @@ Não quero que você me entenda mal aqui. Não importa qual seja sua linha de co
 
 Acho que você entendeu que não é possível ter resultados de verdade se você não tiver algo para testar. Se você não tem uma versão responsiva/adaptativa do seu site, experimente fazer só para depois decidir se vale ou não a pena manter essa versão.
 
-O Luke Wroblewski tem <a href="http://www.lukew.com/ff/entry.asp?1841”>um post interessante</a> que mostra alguns dados da utilização movie de grandes websites.
+O Luke Wroblewski tem <a href="https://www.lukew.com/ff/entry.asp?1841”>um post interessante</a> que mostra alguns dados da utilização movie de grandes websites.
   
-Mais da metade dos consumidores da Amazon compram usando um dispositivo móvel durante a temporada de final de ano (<a href="http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=1886961&highlight=“>fonte</a>).
+Mais da metade dos consumidores da Amazon compram usando um dispositivo móvel durante a temporada de final de ano (<a href="https://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=1886961&highlight=“>fonte</a>).
   
 101 milhões de americanos usam o facebook diariamente via mobile. Isso equivale a 78% da visitação diária americana, que tem o total de 128 milhões ([fonte][3]).
   
@@ -66,7 +66,7 @@ Mais da metade dos consumidores da Amazon compram usando um dispositivo móvel d
 
 Mais do que provado que você deve prestar atenção nessa papagaiada toda, não?
 
- [1]: http://locaweb.github.io/locawebstyle
- [2]: http://www.agenciamestre.com/
- [3]: http://techcrunch.com/2013/08/13/facebook-mobile-user-count/
- [4]: http://espnmediazone.com/us/press-releases/2013/10/espn-digital-media-sets-sports-category-record-in-september/
+ [1]: https://locaweb.github.io/locawebstyle
+ [2]: https://www.agenciamestre.com/
+ [3]: https://techcrunch.com/2013/08/13/facebook-mobile-user-count/
+ [4]: https://espnmediazone.com/us/press-releases/2013/10/espn-digital-media-sets-sports-category-record-in-september/

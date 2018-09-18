@@ -28,5 +28,5 @@ Cada uma das features tem uma pequena descrição, e o mais importante, eles mos
 
 Não vá ver isso em um Internet Explorer ruim ou um browser antigo. Estamos falando de web de verdade, aqui. 😉
 
- [1]: http://bit.ly/IYBclM
- [2]: http://adobe.com/
+ [1]: https://bit.ly/IYBclM
+ [2]: https://adobe.com/

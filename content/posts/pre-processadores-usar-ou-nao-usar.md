@@ -124,7 +124,7 @@ Esses são os motivos pelos quais eu ainda não aderi de vez aos pré processado
 
 Você já usou ou usa em algum projeto? O que acha?
 
- [1]: http://blog.millermedeiros.com/about/
- [2]: http://blog.millermedeiros.com/the-problem-with-css-pre-processors/
- [3]: http://github.com/locaweb/locawebstyle/
+ [1]: https://blog.millermedeiros.com/about/
+ [2]: https://blog.millermedeiros.com/the-problem-with-css-pre-processors/
+ [3]: https://github.com/locaweb/locawebstyle/
  [4]: https://www.google.com.br/search?q=ie+limit+css+selectors&ie=UTF-8&oe=UTF-8&hl=en

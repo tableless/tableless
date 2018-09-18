@@ -35,16 +35,16 @@ x, y = vizinhos(42)</pre>
 Você pode escrever uma função que pode receber parâmetros opcionais assim:
 
 <pre>def addr(domain, path='/', querystring='', hash=''):
-    return 'http://%s%s%s%s' % (domain,path,querystring,hash)</pre>
+    return 'https://%s%s%s%s' % (domain,path,querystring,hash)</pre>
 
 E pode chamar com um, dois, três ou quatro parâmetros:
 
 <pre><strong>&gt;&gt;&gt;</strong> addr('tableless.com.br')
-<em>'http://tableless.com.br/'</em>
+<em>'https://tableless.com.br/'</em>
 <strong>&gt;&gt;&gt;</strong> addr('tableless.com.br','/code/css/')
-<em>'http://tableless.com.br/code/css/'</em>
+<em>'https://tableless.com.br/code/css/'</em>
 <strong>&gt;&gt;&gt;</strong> addr('tableless.com.br',querystring='?s=python')
-<em>'http://tableless.com.br/?s=python'</em></pre>
+<em>'https://tableless.com.br/?s=python'</em></pre>
 
 Você pode até criar uma função que recebe qualquer quantidade de parâmetros:
 
@@ -152,4 +152,4 @@ bc
 
 No próximo artigo vamos falar mais sobre a biblioteca padrão.
 
- [1]: http://tableless.com.br/por-que-python/
+ [1]: https://tableless.com.br/por-que-python/

@@ -14,12 +14,12 @@ tags:
 ---
 Se você comprou alguma coisa recentemente no Submarino deve ter notado uma nova opção na interface do site: agora é possível arrastar os produtos exibidos na página para o seu carrinho, que fica exibido de forma permanente no topo do site.
 
-De uma forma simples, vou tentar mostrar pra vocês como implementar uma solução parecida utilizando jQuery e sua biblioteca para interfaces, a <a href="http://jqueryui.com/" target="_blank">jQuery UI</a> &#8211; é nela que encontramos os plugins draggable() e droppable(), responsáveis, como os nomes sugerem, por toda nossa operação de arrastar e soltar produtos.
+De uma forma simples, vou tentar mostrar pra vocês como implementar uma solução parecida utilizando jQuery e sua biblioteca para interfaces, a <a href="https://jqueryui.com/" target="_blank">jQuery UI</a> &#8211; é nela que encontramos os plugins draggable() e droppable(), responsáveis, como os nomes sugerem, por toda nossa operação de arrastar e soltar produtos.
 
 Também veremos um pouco sobre o vasto universo de animações com jQuery através do método animate(). Diferente do Submarino, onde a barra superior é um novo elemento e não o próprio carrinho original, a nossa irá acompanhar de forma fluida o movimento do usuário na página.
 
   * [Download do código-fonte][1]
-  * <a href="http://tableless.github.com/exemplos/carrinho-compras/" target="_blank">Visualizar o exemplo no navegador</a>
+  * <a href="https://tableless.github.com/exemplos/carrinho-compras/" target="_blank">Visualizar o exemplo no navegador</a>
 
 ## Estrutura básica
 
@@ -149,7 +149,7 @@ Já evento _start_ acontece assim que o elemento começa a ser arrastado. Quando
 
 No método **droppable** utilizaremos também um parâmetro e um evento. O parâmetro é o hoverClass, que especifica uma classe que será aplicada a àrea de drop quando um ítem estiver sendo arrastado (vamos utilizar o padrão da jQuery UI). E o evento drop é acionado toda vez que um elemento for &#8220;solto&#8221; no carrinho. Nossa função primeiro verifica se o produto já existe no carrinho. Caso não exista, cria um novo elemento li na lista com os dados do produto.
 
-Para uma lista completa dos parâmetros e eventos visite <a href="http://jqueryui.com/demos/draggable" target="_blank">jqueryui.com/demos/draggable</a> e <a href="http://jqueryui.com/demos/droppable" target="_blank">jqueryui.com/demos/droppable</a>
+Para uma lista completa dos parâmetros e eventos visite <a href="https://jqueryui.com/demos/draggable" target="_blank">jqueryui.com/demos/draggable</a> e <a href="https://jqueryui.com/demos/droppable" target="_blank">jqueryui.com/demos/droppable</a>
 
 ## Melhorando a exibição do carrinho
 
@@ -185,6 +185,6 @@ Essa é uma versão básica de um carrinho drag and drop que pode sofrer diversa
   * Remover animação da barra, fazendo todo o posicionamento via CSS;
   * Ao adicionar um produto que já exista no carrinho, aumentar a quantidade ao invés de ignorar;
   * Adicionar funcionalidade para excluir produtos do carrinho;
-  * Salvar em cookie o carrinho do usuário, ou via AJAX, ou com o <a href="http://plugins.jquery.com/project/Cookie" target="_blank">plugin de cookies</a> do jQuery.
+  * Salvar em cookie o carrinho do usuário, ou via AJAX, ou com o <a href="https://plugins.jquery.com/project/Cookie" target="_blank">plugin de cookies</a> do jQuery.
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/exemplo.zip

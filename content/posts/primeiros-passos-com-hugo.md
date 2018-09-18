@@ -16,7 +16,7 @@ tags:
   - jamstack
 ---
 
-[**HUGO**](http://gohugo.io/) é um gerador de sites estáticos escrito com Golang que vem ganhando muita visibilidade devido a sua rapidez para gerar/compilar conteúdos. Ao lado de Jekyll (escrito em Ruby) ambos os geradores disponibilizam uma gama enorme de recursos para que você possa criar um site ou um blog em minutos.
+[**HUGO**](https://gohugo.io/) é um gerador de sites estáticos escrito com Golang que vem ganhando muita visibilidade devido a sua rapidez para gerar/compilar conteúdos. Ao lado de Jekyll (escrito em Ruby) ambos os geradores disponibilizam uma gama enorme de recursos para que você possa criar um site ou um blog em minutos.
 
 ## Porque HUGO?
 
@@ -42,7 +42,7 @@ Se você gosta de acompanhar blogs e artigos brasileiros, você talvez dê uma m
 Após toda essa informação, acho que já podemos dar uma chance ao HUGO não é?
 
 ## Instalação
-A primeira coisa que você precisa saber, é que **você não precisa instalar GO para usar o HUGO**. Neste artigo irei mostrar a instalação em distribuições linux baseadas em debian, mas você pode ficar a vontade para instalar em qualquer sistema operacional em segundos: http://gohugo.io/getting-started/quick-start/#step-1-install-hugo
+A primeira coisa que você precisa saber, é que **você não precisa instalar GO para usar o HUGO**. Neste artigo irei mostrar a instalação em distribuições linux baseadas em debian, mas você pode ficar a vontade para instalar em qualquer sistema operacional em segundos: https://gohugo.io/getting-started/quick-start/#step-1-install-hugo
 
 ## Faça o download da aplicação compilada:
 
@@ -83,7 +83,7 @@ Para finalizar nossa instalação, precisamos informar ao HUGO qual será o tema
 ```toml
 # arquivo config.toml
 
-baseURL = "http://example.org/"
+baseURL = "https://example.org/"
 languageCode = "pt"
 title = "My New Hugo Site"
 description = "My site description"
@@ -96,6 +96,6 @@ Agora temos uma instalação do HUGO e um tema para utilizar, para ver o resulta
 $ hugo server -D
 ```
 
-Este comando executara seu projeto na porta 1313 do localhost; http://localhost:1313
+Este comando executara seu projeto na porta 1313 do localhost; https://localhost:1313
 
 Esqueci algo ou não fui claro em algum ponto? deixe um comentário que ficarei feliz em corrigir ou esclarecer algo! ;)

@@ -10,7 +10,7 @@ url: /http-archive-ferramenta-para-performance/
 tweetbackscheck:
   - 1356389270
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6138";s:7:"tinyurl";s:26:"http://tinyurl.com/cybhbw2";s:4:"isgd";s:19:"http://is.gd/bt0iCM";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6138";s:7:"tinyurl";s:26:"https://tinyurl.com/cybhbw2";s:4:"isgd";s:19:"https://is.gd/bt0iCM";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 708384968
@@ -46,6 +46,6 @@ Para usar a ferramenta você precisa entrar no [HTTP Archive][2] e adicionar a U
 
 Estou fazendo alguns testes no site onde trabalho (Peixe Urbano), então vou colocar o [link][3] para que você de uma olhada nos dados que ele retorna. Veja aqui os dados do Peixe Urbano no [HTTP Archive][3].
 
- [1]: http://archive.org/
- [2]: http://httparchive.org/addsite.php
- [3]: http://httparchive.org/viewsite.php?pageid=1201519
+ [1]: https://archive.org/
+ [2]: https://httparchive.org/addsite.php
+ [3]: https://httparchive.org/viewsite.php?pageid=1201519

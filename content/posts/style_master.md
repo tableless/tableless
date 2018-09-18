@@ -7,7 +7,7 @@ url: /style_master/
 tweetbackscheck:
   - 1355480885
 shorturls:
-  - 'a:3:{s:9:"permalink";s:36:"http://tableless.com.br/style_master";s:7:"tinyurl";s:26:"http://tinyurl.com/3vmzv4w";s:4:"isgd";s:19:"http://is.gd/0wbExf";}'
+  - 'a:3:{s:9:"permalink";s:36:"https://tableless.com.br/style_master";s:7:"tinyurl";s:26:"https://tinyurl.com/3vmzv4w";s:4:"isgd";s:19:"https://is.gd/0wbExf";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032585
@@ -26,6 +26,6 @@ Eu sugiro que você faça o [download][2] nem que seja somente para testar.
               
 pescado do [Zeldman][3]
 
- [1]: http://www.westciv.com/style_master/index.html
- [2]: http://www.westciv.com/style_master/download/index.html
- [3]: http://www.zeldman.com/
+ [1]: https://www.westciv.com/style_master/index.html
+ [2]: https://www.westciv.com/style_master/download/index.html
+ [3]: https://www.zeldman.com/

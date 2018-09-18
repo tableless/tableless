@@ -7,7 +7,7 @@ url: /geourl-explicadinho/
 tweetbackscheck:
   - 1355624919
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/geourl-explicadinho";s:7:"tinyurl";s:26:"http://tinyurl.com/3gltv8y";s:4:"isgd";s:19:"http://is.gd/dV1MvG";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/geourl-explicadinho";s:7:"tinyurl";s:26:"https://tinyurl.com/3gltv8y";s:4:"isgd";s:19:"https://is.gd/dV1MvG";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035389
@@ -45,18 +45,18 @@ Curiosidades:
   * Nunca copie as meta tags alheias sem saber o que está fazendo. Há dois sites indicados no GeoURL em [meu antigo escritório][16], inclusive o de uma imobiliária de Minas Gerais.
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2006/05/geourl.jpg
- [2]: http://visie.com.br/blog/
- [3]: http://visie.com.br "Visie Padrões Web - Treinamentos de Web Standards, Tableless, Ajax e Mobilidade"
+ [2]: https://visie.com.br/blog/
+ [3]: https://visie.com.br "Visie Padrões Web - Treinamentos de Web Standards, Tableless, Ajax e Mobilidade"
  [4]: https://addons.mozilla.org/firefox/530/
- [5]: http://geourl.org/near?lat=-23.682205&long=-46.638637
- [6]: http://maps.google.com/?sll=-23.682205,-46.638637
- [7]: http://www.multimap.com/map/browse.cgi?lat=-23.682205&lon=-46.638637&scale=200000&icon=x
- [8]: http://www.allthegoodness.com/projects/map/firefox/index.php?lat=-23.682205&long=-46.638637
- [9]: http://www.mapquest.com/maps/map.adp?latlongtype=decimal&latitude=-23.682205&longitude=-46.638637
- [10]: http://geourl.org/add.html
- [11]: http://maps.google.com/
- [12]: http://geourl.org/resources.html
- [13]: http://geourl.org/ping/
- [14]: http://www.catb.org/~esr/jargon/html/I/ICBM-address.html
- [15]: http://blog.elcio.com.br/ "fechaTag - blog do Elcio"
- [16]: http://geourl.org/near?lat=-23.662&long=-46.638
+ [5]: https://geourl.org/near?lat=-23.682205&long=-46.638637
+ [6]: https://maps.google.com/?sll=-23.682205,-46.638637
+ [7]: https://www.multimap.com/map/browse.cgi?lat=-23.682205&lon=-46.638637&scale=200000&icon=x
+ [8]: https://www.allthegoodness.com/projects/map/firefox/index.php?lat=-23.682205&long=-46.638637
+ [9]: https://www.mapquest.com/maps/map.adp?latlongtype=decimal&latitude=-23.682205&longitude=-46.638637
+ [10]: https://geourl.org/add.html
+ [11]: https://maps.google.com/
+ [12]: https://geourl.org/resources.html
+ [13]: https://geourl.org/ping/
+ [14]: https://www.catb.org/~esr/jargon/html/I/ICBM-address.html
+ [15]: https://blog.elcio.com.br/ "fechaTag - blog do Elcio"
+ [16]: https://geourl.org/near?lat=-23.662&long=-46.638

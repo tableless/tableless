@@ -150,12 +150,12 @@ Com tudo pronto, falta definir a ação do link que exibe/oculta as tags. O mét
 
 Também seria legal desenvolver opções para edição do conteúdo e exclusão das tags.
 
-E que tal <a href="http://tableless.com.br/anatomia-de-um-plugin-jquery" target="_blank">transformar tudo em um plugin</a>? Só não esqueça de compartilhá-lo com a gente!
+E que tal <a href="https://tableless.com.br/anatomia-de-um-plugin-jquery" target="_blank">transformar tudo em um plugin</a>? Só não esqueça de compartilhá-lo com a gente!
 
 ### Downloads & referências
 
-  * <a href="http://jqueryui.com/" target="_blank">jQuery UI</a>
-  * <a href="http://odyniec.net/projects/imgareaselect/" target="_blank">plugin imgAreaSelect</a>
-  * <a href="http://tableless.github.io/exemplos/habilitando-tags-em-fotos-com-jquery/" target="_blank">Visualizar exemplo</a>
+  * <a href="https://jqueryui.com/" target="_blank">jQuery UI</a>
+  * <a href="https://odyniec.net/projects/imgareaselect/" target="_blank">plugin imgAreaSelect</a>
+  * <a href="https://tableless.github.io/exemplos/habilitando-tags-em-fotos-com-jquery/" target="_blank">Visualizar exemplo</a>
   * <a href="https://github.com/tableless/exemplos/tree/gh-pages/habilitando-tags-em-fotos-com-jquery" target="_blank">Download do código fonte</a>
-  * <a href="http://www.cambiaresearch.com/c4/702b8cd1-e5b0-42e6-83ac-25f0306e3e25/javascript-char-codes-key-codes.aspx" target="_blank">Tabela com KeyCodes para JavaScript</a>
+  * <a href="https://www.cambiaresearch.com/c4/702b8cd1-e5b0-42e6-83ac-25f0306e3e25/javascript-char-codes-key-codes.aspx" target="_blank">Tabela com KeyCodes para JavaScript</a>

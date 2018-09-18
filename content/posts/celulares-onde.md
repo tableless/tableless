@@ -7,7 +7,7 @@ url: /celulares-onde/
 tweetbackscheck:
   - 1355291469
 shorturls:
-  - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/celulares-onde";s:7:"tinyurl";s:26:"http://tinyurl.com/3kwfk3g";s:4:"isgd";s:19:"http://is.gd/nVft1q";}'
+  - 'a:3:{s:9:"permalink";s:38:"https://tableless.com.br/celulares-onde";s:7:"tinyurl";s:26:"https://tinyurl.com/3kwfk3g";s:4:"isgd";s:19:"https://is.gd/nVft1q";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 574065235
@@ -22,4 +22,4 @@ O Mauro [já comentou][1], então, seria besteira fazer os mesmos comentários s
 
 O &#8220;mundo mobile&#8221; está vivo e se mexendo, agora ninguém segura.
 
- [1]: http://www.carreirasolo.org/archives/katilce_e_o_show_do_.html
+ [1]: https://www.carreirasolo.org/archives/katilce_e_o_show_do_.html

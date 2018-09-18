@@ -7,7 +7,7 @@ url: /opera_1_milhao_downloads/
 tweetbackscheck:
   - 1356337763
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/opera_1_milhao_downloads";s:7:"tinyurl";s:26:"http://tinyurl.com/3haqoef";s:4:"isgd";s:19:"http://is.gd/OFMJYn";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/opera_1_milhao_downloads";s:7:"tinyurl";s:26:"https://tinyurl.com/3haqoef";s:4:"isgd";s:19:"https://is.gd/OFMJYn";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032596
@@ -30,5 +30,5 @@ Mais uma ótima notícia para os desenvolvedores.
 
 Mais sobre o assunto: 
 
-  * <http://www.opera.com/swim/>
-  * <http://www.opera.com/pressreleases/en/2005/04/21/>
+  * <https://www.opera.com/swim/>
+  * <https://www.opera.com/pressreleases/en/2005/04/21/>

@@ -7,7 +7,7 @@ url: /serie_de_artigos/
 tweetbackscheck:
   - 1355903187
 shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/serie_de_artigos";s:7:"tinyurl";s:26:"http://tinyurl.com/3zujbfd";s:4:"isgd";s:19:"http://is.gd/03mVEq";}'
+  - 'a:3:{s:9:"permalink";s:40:"https://tableless.com.br/serie_de_artigos";s:7:"tinyurl";s:26:"https://tinyurl.com/3zujbfd";s:4:"isgd";s:19:"https://is.gd/03mVEq";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033361

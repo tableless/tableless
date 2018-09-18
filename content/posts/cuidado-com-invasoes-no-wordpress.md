@@ -8,7 +8,7 @@ url: /cuidado-com-invasoes-no-wordpress/
 tweetbackscheck:
   - 1356399447
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5943";s:7:"tinyurl";s:26:"http://tinyurl.com/dyocp2d";s:4:"isgd";s:19:"http://is.gd/UkH7QV";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5943";s:7:"tinyurl";s:26:"https://tinyurl.com/dyocp2d";s:4:"isgd";s:19:"https://is.gd/UkH7QV";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 657472274
@@ -74,20 +74,20 @@ As páginas que não entraram no cache do Google depois que o problema foi soluc
 
 Apesar de tudo isso, **não houve oscilação com o número de visitas do site**, ele se mantéu estável. E o **número de _backlinks_ apontados para as páginas do blog cresceu**, mas com um textos âncora sem relação ao conteúdo real do blog.
 
-O **Cloaking** é considerada uma técnica de blackhat pelo Google, caso o problema não fosse solucionado a tempo, o blog poderia ser sofrer algum tipo de punição, veja mais em: <http://support.google.com/webmasters/bin/answer.py?hl=pt-BR&answer=66355>.
+O **Cloaking** é considerada uma técnica de blackhat pelo Google, caso o problema não fosse solucionado a tempo, o blog poderia ser sofrer algum tipo de punição, veja mais em: <https://support.google.com/webmasters/bin/answer.py?hl=pt-BR&answer=66355>.
 
 Se o seu site ainda não é integrado ao Google **[Web Master Tools][9]**, acesse agora e integre! É simples, fácil, e oferece informações importantes para o seu site. Para completar e evitar que algo semelhante aconteça, confira **[dicas para aumentar a segurança no WordPress][10]**.
 
 Quero aproveitar o espaço para agradecer [Leandro Lopes][11] (dono do blog Papo de Buteco), que autorizou a postagem de exemplos relacionados ao blog dele. É importante relatar o que aconteceu, ainda mais com casos verídicos, pois pode acontecer com qualquer um.
 
- [1]: http://papodebuteco.net
+ [1]: https://papodebuteco.net
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/serp-papo-de-buteco.png
- [3]: http://www.mestreseo.com.br/black-hat/cloaking-aplicacao-scripts-blackhat-e-questoes-eticas "Cloaking"
+ [3]: https://www.mestreseo.com.br/black-hat/cloaking-aplicacao-scripts-blackhat-e-questoes-eticas "Cloaking"
  [4]: https://www.google.com/webmasters/tools
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/mensagem-google.png
  [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/menu-navegacao.png
  [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/reinstalando-wordpress.png
  [8]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/04/gwmt-1.png
  [9]: https://www.google.com/webmasters/tools/
- [10]: http://webperfeita.com/10-dicas-para-aumentar-a-seguranca-do-wordpress/
- [11]: http://twitter.com/#!/papodebuteco
+ [10]: https://webperfeita.com/10-dicas-para-aumentar-a-seguranca-do-wordpress/
+ [11]: https://twitter.com/#!/papodebuteco

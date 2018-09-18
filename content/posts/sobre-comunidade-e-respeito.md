@@ -35,5 +35,5 @@ E ainda nem cheguei em casa&#8230; 🙂
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/image.jpeg" alt="Processed with VSCOcam with s5 preset" width="612" height="459" class="size-full wp-image-51196" />
 
  [1]: https://twitter.com/andrebetiolo
- [2]: http://diadobit.com.br/
+ [2]: https://diadobit.com.br/
  [3]: https://medium.com/@raphamorim/as-comunidades-estão-morrendo-ad72d6616674

@@ -7,7 +7,7 @@ url: /thunderbird/
 tweetbackscheck:
   - 1356420828
 shorturls:
-  - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/thunderbird";s:7:"tinyurl";s:26:"http://tinyurl.com/3m55som";s:4:"isgd";s:19:"http://is.gd/VLs5fU";}'
+  - 'a:3:{s:9:"permalink";s:35:"https://tableless.com.br/thunderbird";s:7:"tinyurl";s:26:"https://tinyurl.com/3m55som";s:4:"isgd";s:19:"https://is.gd/VLs5fU";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031479
@@ -29,4 +29,4 @@ A primeira vista parecia meio complicado, mas depois que você começa a conhece
               
 Só uma coisa que é ruim&#8230; É um pouco pesado. Mas vale a pena experimentar, quem sabe você não aposenta o velho Outlixo. Você pode até importar suas configurações do Outlook para o Thunderbird, rápido e fácil.
 
- [1]: http://texturizer.net/thunderbird/ "Thunderbird"
+ [1]: https://texturizer.net/thunderbird/ "Thunderbird"

@@ -7,7 +7,7 @@ url: /probleminha_caractere_duplicado/
 tweetbackscheck:
   - 1356452776
 shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/probleminha_caractere_duplicado";s:7:"tinyurl";s:26:"http://tinyurl.com/3mll5pc";s:4:"isgd";s:19:"http://is.gd/ikgjHX";}'
+  - 'a:3:{s:9:"permalink";s:55:"https://tableless.com.br/probleminha_caractere_duplicado";s:7:"tinyurl";s:26:"https://tinyurl.com/3mll5pc";s:4:"isgd";s:19:"https://is.gd/ikgjHX";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032835
@@ -41,4 +41,4 @@ Soluções simples, tão simples que eu pensei duas vezes antes de mostrar para 
   
 Mas gostei muito da participação de vocês, e acho que farei mais destes posts.
 
- [1]: http://tableless.com.br/problema/letra_repetida.htm
+ [1]: https://tableless.com.br/problema/letra_repetida.htm

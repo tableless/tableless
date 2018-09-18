@@ -5,7 +5,7 @@ categories:
   - Agile e Gestão
   - Artigos
 excerpt: "Como um pouco de estatística básica pode nos ajudar a entender melhor as entregas de projetos web"
-image: http://imgh.us/pexels-photo-147408.jpeg
+image: https://imgh.us/pexels-photo-147408.jpeg
 type: "post"
 authors: "Diego Eis"
 ---
@@ -35,7 +35,7 @@ iremos trilhar afim de prevermos nossas entregas e consequentemente termos um
 vislumbre de quando o projeto irá de fato terminar.
 
 A ideia desse artigo não é abordar as [previsões
-probabilísticas](http://blog.kudoos.com.br/lean/previsao-probabilistica/) de
+probabilísticas](https://blog.kudoos.com.br/lean/previsao-probabilistica/) de
 projetos (que é um assunto muito mais profissa), mas é dar alguma ideia básica
 para você que pode estar querendo fazer um pouco mais do que só olhar o CFD do
 seu time.
@@ -224,7 +224,7 @@ Para se aprofundar e ler mais:
 
 Trabalha como gestor de produtos maravilhosos para web. É Scrum Master,
 Adventista, palestrante e metido a besta.
-[http://diegoeis.com/](http://diegoeis.com/)
+[https://diegoeis.com/](https://diegoeis.com/)
 
 ### [Gestão de Produtos](https://medium.com/gestao-produtos?source=footer_card)
 

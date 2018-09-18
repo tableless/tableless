@@ -8,7 +8,7 @@ url: /2011-um-grande-ano/
 tweetbackscheck:
   - 1356405486
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/2011-um-grande-ano";s:7:"tinyurl";s:26:"http://tinyurl.com/3j7z49h";s:4:"isgd";s:19:"http://is.gd/zNzx25";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/2011-um-grande-ano";s:7:"tinyurl";s:26:"https://tinyurl.com/3j7z49h";s:4:"isgd";s:19:"https://is.gd/zNzx25";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039873
@@ -24,11 +24,11 @@ Também fico feliz com o rumo que o mercado client-side está tomando. Muitos de
 
 Ano que vem será outro grande ano para nós. Será um grande ano para você.
 
- [1]: http://tableless.com.br/gradientes-em-css "criando degrade no CSS"
- [2]: http://tableless.com.br/css3-columns
- [3]: http://tableless.com.br/elemento-tag-audio "Tag audio HTML5"
- [4]: http://campus.visie.com.br/ "Tag video HTML5"
- [5]: http://tableless.com.br/html5/?chapter=14 "Entendo o Canvas HTML5"
- [6]: http://tableless.com.br/html5/?chapter=13 "SVG e HTML5"
- [7]: http://tableless.com.br/html5/?chapter=21 "histórico de sessão e local storage no HTML5"
- [8]: http://tableless.com.br/responsabilidade-de-um-dev-client-side
+ [1]: https://tableless.com.br/gradientes-em-css "criando degrade no CSS"
+ [2]: https://tableless.com.br/css3-columns
+ [3]: https://tableless.com.br/elemento-tag-audio "Tag audio HTML5"
+ [4]: https://campus.visie.com.br/ "Tag video HTML5"
+ [5]: https://tableless.com.br/html5/?chapter=14 "Entendo o Canvas HTML5"
+ [6]: https://tableless.com.br/html5/?chapter=13 "SVG e HTML5"
+ [7]: https://tableless.com.br/html5/?chapter=21 "histórico de sessão e local storage no HTML5"
+ [8]: https://tableless.com.br/responsabilidade-de-um-dev-client-side

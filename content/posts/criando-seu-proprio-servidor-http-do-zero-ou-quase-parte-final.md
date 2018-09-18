@@ -236,7 +236,7 @@ public class Servidor {
             //converte o formato para o GMT espeficicado pelo protocolo HTTP
             String dataFormatada = Util.formatarDataGMT(new Date());
             //cabeçalho padrão da resposta HTTP/1.1
-            resposta.setCabecalho("Location", "http://localhost:8000/");
+            resposta.setCabecalho("Location", "https://localhost:8000/");
             resposta.setCabecalho("Date", dataFormatada);
             resposta.setCabecalho("Server", "MeuServidor/1.0");
             resposta.setCabecalho("Content-Type", "text/html");
@@ -321,7 +321,7 @@ public class ThreadConexao implements Runnable {
                 //converte o formato para o GMT espeficicado pelo protocolo HTTP
                 String dataFormatada = Util.formatarDataGMT(new Date());
                 //cabeçalho padrão da resposta HTTP/1.1
-                resposta.setCabecalho("Location", "http://localhost:8000/");
+                resposta.setCabecalho("Location", "https://localhost:8000/");
                 resposta.setCabecalho("Date", dataFormatada);
                 resposta.setCabecalho("Server", "MeuServidor/1.0");
                 resposta.setCabecalho("Content-Type", "text/html");
@@ -398,18 +398,18 @@ Até a próxima =D
 
 ## Referências:
 
-**Lições sobre socket (em inglês):** <a title="http://www.oracle.com/technetwork/java/socket-140484.html" href="http://www.oracle.com/technetwork/java/socket-140484.html" target="_blank">http://www.oracle.com/technetwork/java/socket-140484.html</a>
+**Lições sobre socket (em inglês):** <a title="https://www.oracle.com/technetwork/java/socket-140484.html" href="https://www.oracle.com/technetwork/java/socket-140484.html" target="_blank">https://www.oracle.com/technetwork/java/socket-140484.html</a>
 
-**Java Tutorial Tudo sobre sockets (em inglês):** <a title="http://docs.oracle.com/javase/tutorial/networking/sockets/" href="http://docs.oracle.com/javase/tutorial/networking/sockets/" target="_blank">http://docs.oracle.com/javase/tutorial/networking/sockets/</a>
+**Java Tutorial Tudo sobre sockets (em inglês):** <a title="https://docs.oracle.com/javase/tutorial/networking/sockets/" href="https://docs.oracle.com/javase/tutorial/networking/sockets/" target="_blank">https://docs.oracle.com/javase/tutorial/networking/sockets/</a>
 
-**RFC2616 (em inglês):** <a title="http://www.w3.org/Protocols/rfc2616/rfc2616.html" href="http://www.w3.org/Protocols/rfc2616/rfc2616.html" target="_blank">http://www.w3.org/Protocols/rfc2616/rfc2616.html</a>
+**RFC2616 (em inglês):** <a title="https://www.w3.org/Protocols/rfc2616/rfc2616.html" href="https://www.w3.org/Protocols/rfc2616/rfc2616.html" target="_blank">https://www.w3.org/Protocols/rfc2616/rfc2616.html</a>
 
 **Código**** Fonte Completo:** <a title="Repo MeuServidorHTTP" href="https://github.com/thiguetta/MeuServidorHTTP" target="_blank">https://github.com/thiguetta/MeuServidorHTTP</a>
 
 **Versão alternativa que fornece arquivos de imagem, javascript e css também:** <a title="Repo SimpleHTTPServer" href="https://github.com/thiguetta/SimpleHTTPServer" target="_blank">https://github.com/thiguetta/SimpleHTTPServer</a>
 
- [1]: http://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/
- [2]: http://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/
- [3]: http://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/
- [4]: http://tableless.com.br/http2-atualizacao-do-protocolo-base-da-internet/
- [5]: http://tableless.com.br/http2-para-desenvolvedores-de-web/
+ [1]: https://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/
+ [2]: https://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-ii/
+ [3]: https://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-iii/
+ [4]: https://tableless.com.br/http2-atualizacao-do-protocolo-base-da-internet/
+ [5]: https://tableless.com.br/http2-para-desenvolvedores-de-web/

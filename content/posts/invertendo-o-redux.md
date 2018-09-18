@@ -266,5 +266,5 @@ A minha intenção com este post, além de compartilhar minhas experiências, é
 
 Até a próxima, um grande abraço.
 
- [1]: http://redux.js.org/
+ [1]: https://redux.js.org/
  [2]: https://davidwalsh.name/pubsub-javascript

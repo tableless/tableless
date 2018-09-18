@@ -121,4 +121,4 @@ Solução:
 }
 </pre>
 
-Traduzido de: http://goschevski.com/simple-javascript-interview-exercises/
+Traduzido de: https://goschevski.com/simple-javascript-interview-exercises/

@@ -445,4 +445,4 @@ A tabela abaixo que encontrei no livro WordPress 3, é basicamente um mini-guia 
   </tr>
 </table>
 
-Para melhorar o conteúdo e o aprendizado, criei um <a href="http://tableless.github.com/exemplos/guia-tags-condicionais-wp/index.html" title="Guia de Referência das Tags Condicionais do WordPress" rel="external">Guia de Referência das Tags Condicionais do WordPress</a>.
+Para melhorar o conteúdo e o aprendizado, criei um <a href="https://tableless.github.com/exemplos/guia-tags-condicionais-wp/index.html" title="Guia de Referência das Tags Condicionais do WordPress" rel="external">Guia de Referência das Tags Condicionais do WordPress</a>.

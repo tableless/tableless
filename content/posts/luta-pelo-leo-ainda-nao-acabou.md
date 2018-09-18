@@ -21,8 +21,8 @@ Vamos continuar ajudando e divulgando a campanha para que nosso amigo vença ess
 
 Entre no site dele, faça sua doação, e divulgue pros seus parentes, amigos e peça à eles que divulguem também.
 
-<http://leokz.com/campanha/>
+<https://leokz.com/campanha/>
 
- [1]: http://leokz.com/campanha/
- [2]: http://frontendunited.io/leokzw/
- [3]: http://tableless.com.br/front-end-united-leo-kzw/
+ [1]: https://leokz.com/campanha/
+ [2]: https://frontendunited.io/leokzw/
+ [3]: https://tableless.com.br/front-end-united-leo-kzw/

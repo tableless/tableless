@@ -20,7 +20,7 @@ Anotações da palestra do Jaydson Gomes no evento 16 Encontro Locaweb de 2014 c
   * Em 1999 apareceu a versão ECMA-3 (ES3). Ele incluiu algumas efeatures como expressões regulares, try/catch e outras.
   * Em 2008 a ES4 a versão foi abandonada. Por isso pulamos ela.
   * Mas em 2009 houve várias melhores na linguagem, aí surgiu a versão ES5
-  * Tabela de compatibilidade da versão ES5. @kangax http://kangax.github.io/es5-compat-table/
+  * Tabela de compatibilidade da versão ES5. @kangax https://kangax.github.io/es5-compat-table/
   * CoffeScript é interessante porque ajuda na evolução da linguagem e da comunidade.
   * A versão ES6 do Javascript sai em Dezembro deste ano, com um bando de features bacanas. Há uma certa discussão sobre algumas novas features, como o Douglas Crockford não concordam com algumas features.
 
@@ -68,4 +68,4 @@ console.log(`Hello ${name}, how are you ${time}?`)</pre>
   * Uma promise representa um valor não necessariamente conhecido no seu tempo de criação.
   * Promises permitem associas handlers de sucesso ou erro de uma ação assíncrona
 
-  * Compilador onde você escreve em ES5 e ele compila para ES6. O próprio Google usa isso nos seus projetos. (<http://github.com/google/traceur-compiler>)
+  * Compilador onde você escreve em ES5 e ele compila para ES6. O próprio Google usa isso nos seus projetos. (<https://github.com/google/traceur-compiler>)

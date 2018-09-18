@@ -7,7 +7,7 @@ url: /css-e-so-para-formatar-texto-uma-visao-tacanha-sobre-o-css/
 tweetbackscheck:
   - 1355783745
 shorturls:
-  - 'a:3:{s:9:"permalink";s:82:"http://tableless.com.br/css-e-so-para-formatar-texto-uma-visao-tacanha-sobre-o-css";s:7:"tinyurl";s:26:"http://tinyurl.com/4xm9k9d";s:4:"isgd";s:19:"http://is.gd/DDKTqG";}'
+  - 'a:3:{s:9:"permalink";s:82:"https://tableless.com.br/css-e-so-para-formatar-texto-uma-visao-tacanha-sobre-o-css";s:7:"tinyurl";s:26:"https://tinyurl.com/4xm9k9d";s:4:"isgd";s:19:"https://is.gd/DDKTqG";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035991

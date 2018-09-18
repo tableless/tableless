@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356453532
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/escrevendo-um-xhtml-valido";s:7:"tinyurl";s:26:"http://tinyurl.com/3zwstgf";s:4:"isgd";s:19:"http://is.gd/IIlPd6";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/escrevendo-um-xhtml-valido";s:7:"tinyurl";s:26:"https://tinyurl.com/3zwstgf";s:4:"isgd";s:19:"https://is.gd/IIlPd6";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037686
@@ -48,21 +48,21 @@ Existem 3 tipos:
   
     PUBLIC &#8220;-//W3C//DTD XHTML 1.0 Strict//EN&#8221;
   
-    &#8220;http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&#8221;>
+    &#8220;https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&#8221;>
   * **Transitional**: Este é o modo mais usado, você o usa quando está começando a migrar do nosso amigo HTML para o poderoso XHTML, sua sintaxe é:
   
     <!DOCTYPE html
   
     PUBLIC &#8220;-//W3C//DTD XHTML 1.0 Transitional//EN&#8221;
   
-    &#8220;http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&#8221;>
+    &#8220;https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd&#8221;>
   * **Frameset**: É usado quando você está utilizando FRAMES em seu site, se escreve assim:
   
     <!DOCTYPE html
   
     PUBLIC &#8220;-//W3C//DTD XHTML 1.0 Frameset//EN&#8221;
   
-    &#8220;http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd&#8221;>
+    &#8220;https://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd&#8221;>
 
 Exemplo:
   
@@ -70,7 +70,7 @@ Exemplo:
   
 PUBLIC &#8220;-//W3C//DTD XHTML 1.0 Strict//EN&#8221;
   
-&#8220;http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&#8221;>
+&#8220;https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd&#8221;>
   
 <html>
   
@@ -103,7 +103,7 @@ Descobriram que fechando tags desta forma <br/>, não se sabe porque estava caus
 
 Quem nunca viu um código fonte de um documento HTML escrito assim:
   
-<A href=&#8221;http://tags.com.letras.minúsculas/&#8221; TARGET=&#8221;_BLANK&#8221;> </A>
+<A href=&#8221;https://tags.com.letras.minúsculas/&#8221; TARGET=&#8221;_BLANK&#8221;> </A>
   
 Um documento XHTML deve ter TODAS as tags e seus respectivos atributos escritos com letra minúscula!
 
@@ -157,19 +157,19 @@ Fazendo todas essas pequenas porém importantes regras, quer dizer, regras não,
 
 Como eu passei apenas o miolo, navegando nestes links poderão ser achados mais informações a respeito:
 
-  * <a href="http://www.w3schools.com/xhtml/xhtml_reference.asp" target="_blank">Referência de XHTML 1.0</a>
-  * <a href="http://www.w3schools.com/w3c/" target="_blank">Tutorial da W3C</a>
-  * <a href="http://www.w3schools.com/default.asp" target="_blank">W3Schools:</a>
-  * <a href="http://www.comciencia.br/reportagens/internet/net08.htm" target="_blank">WebSemântica</a>
+  * <a href="https://www.w3schools.com/xhtml/xhtml_reference.asp" target="_blank">Referência de XHTML 1.0</a>
+  * <a href="https://www.w3schools.com/w3c/" target="_blank">Tutorial da W3C</a>
+  * <a href="https://www.w3schools.com/default.asp" target="_blank">W3Schools:</a>
+  * <a href="https://www.comciencia.br/reportagens/internet/net08.htm" target="_blank">WebSemântica</a>
 
 ### Notas:
 
 Para saber se seu documento XHTML é válido:
   
-<a href="http://validator.w3.org" target="_blank">http://validator.w3.org</a>
+<a href="https://validator.w3.org" target="_blank">https://validator.w3.org</a>
 
 Tidy:
   
-<a title="Source Forge" href="http://tidy.sourceforge.net/" target="_blank">http://tidy.sourceforge.net/</a>
+<a title="Source Forge" href="https://tidy.sourceforge.net/" target="_blank">https://tidy.sourceforge.net/</a>
   
-<a title="Dave Raggett's Original" href="http://www.w3.org/People/Raggett/tidy/" target="_blank">http://www.w3.org/People/Raggett/tidy/</a>
+<a title="Dave Raggett's Original" href="https://www.w3.org/People/Raggett/tidy/" target="_blank">https://www.w3.org/People/Raggett/tidy/</a>

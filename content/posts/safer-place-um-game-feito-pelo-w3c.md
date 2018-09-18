@@ -8,7 +8,7 @@ url: /safer-place-um-game-feito-pelo-w3c/
 tweetbackscheck:
   - 1356442471
 shorturls:
-  - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/safer-place-um-game-feito-pelo-w3c/";s:7:"tinyurl";s:26:"http://tinyurl.com/9ke4vcn";s:4:"isgd";s:19:"http://is.gd/BvOBui";}'
+  - 'a:3:{s:9:"permalink";s:59:"https://tableless.com.br/safer-place-um-game-feito-pelo-w3c/";s:7:"tinyurl";s:26:"https://tinyurl.com/9ke4vcn";s:4:"isgd";s:19:"https://is.gd/BvOBui";}'
 twittercomments:
   - 'a:3:{i:232869252279971840;s:7:"retweet";i:232829271113089024;s:7:"retweet";i:236450033078243328;s:7:"retweet";}'
 tweetcount:
@@ -26,4 +26,4 @@ Gosta de programação e quer caçar alguns cibercriminosos? Cadastre-se no [Saf
   
 Os desafio vão até Maio do ano que vem, quando será feita a WWW2013 no Rio de Janeiro.
 
- [1]: http://www.saferplace.org
+ [1]: https://www.saferplace.org

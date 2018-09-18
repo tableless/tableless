@@ -7,7 +7,7 @@ url: /browsers_speed_comparisons/
 tweetbackscheck:
   - 1356040425
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/browsers_speed_comparisons";s:7:"tinyurl";s:26:"http://tinyurl.com/3edvbfm";s:4:"isgd";s:19:"http://is.gd/ookJjv";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/browsers_speed_comparisons";s:7:"tinyurl";s:26:"https://tinyurl.com/3edvbfm";s:4:"isgd";s:19:"https://is.gd/ookJjv";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033676
@@ -21,6 +21,6 @@ Site muito interessante que compara a velocidade dos browsers atuais de vários 
 
 [Browser Speed Comparisons][1] 
 
-<small>Visto no <a href="http://www.nemonox.com/ppp/archives/2005_09.html">Nemonox</a></small>
+<small>Visto no <a href="https://www.nemonox.com/ppp/archives/2005_09.html">Nemonox</a></small>
 
- [1]: http://www.howtocreate.co.uk/browserSpeed.html
+ [1]: https://www.howtocreate.co.uk/browserSpeed.html

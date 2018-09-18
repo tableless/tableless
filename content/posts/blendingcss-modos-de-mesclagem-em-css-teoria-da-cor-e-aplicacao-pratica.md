@@ -96,7 +96,7 @@ Todos os modos de mistura só pode voltar cores que estão dentro da gama de 0 a
 
 Blending CSS, onde são suportados, trabalha de duas maneiras diferentes. O primeiro tipo de modo de mistura é chamada `background-blend-mode` . Esta propriedade permite que você misturar todos os fundos dentro de um elemento com o outro.
 
-Se você tiver definido, por exemplo, múltiplas imagens de fundo (<a href="https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&ie=UTF8&prev=_t&rurl=translate.google.com.br&sl=en&tl=pt-BR&u=http://caniuse.com/&usg=ALkJrhgJSpRt8OnTYOP3TYJm2Gf1tC3M-A#feat=multibackgrounds" target="_self">suportados em todos os navegadores além do IE8</a>), a primeira imagem de fundo será tratada como a camada de origem, e qualquer imagem adicionada posteriormente será tratada como a camada de fundo, encontrando-se por baixo.
+Se você tiver definido, por exemplo, múltiplas imagens de fundo (<a href="https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&ie=UTF8&prev=_t&rurl=translate.google.com.br&sl=en&tl=pt-BR&u=https://caniuse.com/&usg=ALkJrhgJSpRt8OnTYOP3TYJm2Gf1tC3M-A#feat=multibackgrounds" target="_self">suportados em todos os navegadores além do IE8</a>), a primeira imagem de fundo será tratada como a camada de origem, e qualquer imagem adicionada posteriormente será tratada como a camada de fundo, encontrando-se por baixo.
 
 Adicionando uma cor de fundo (que deve ser o último da lista) coloca mais uma camada na parte inferior. A cor será tratada como a camada de fundo, e as imagens como as camadas de origem. Veja o seguinte na regra de estilo, por exemplo:
 
@@ -135,7 +135,7 @@ Isto é o que acontece quando usamos `mix-blend-mode` , na tentativa de obter a 
 }
 </pre>
 
-Abaixo, você pode encontrar uma <a href="https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&ie=UTF8&prev=_t&rurl=translate.google.com.br&sl=en&tl=pt-BR&u=http://codepen.io/tutsplus/live/wMvoyj&usg=ALkJrhiUNiZymZ8tkzwi_FO6w2rqQj4-6g" target="_self">demonstração interativa</a> para explorar os efeitos de um determinado modo de mistura.
+Abaixo, você pode encontrar uma <a href="https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&ie=UTF8&prev=_t&rurl=translate.google.com.br&sl=en&tl=pt-BR&u=https://codepen.io/tutsplus/live/wMvoyj&usg=ALkJrhiUNiZymZ8tkzwi_FO6w2rqQj4-6g" target="_self">demonstração interativa</a> para explorar os efeitos de um determinado modo de mistura.
 
 ## Blend Modes separáveis
 
@@ -876,7 +876,7 @@ Neste algoritmo, vemos uma função secundária `D` , que está situado no `with
               Leia mais sobre <a href="https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&ie=UTF8&prev=_t&rurl=translate.google.com.br&sl=en&tl=pt-BR&u=https://developer.mozilla.org/en/docs/Web/CSS/blend-mode&usg=ALkJrhhucd1JKzMcPZ9w-dM4ZfOQEige2g" target="_self"><misturar-mode></a> no Mozilla Developer Network
             </li>
             <li>
-              <a href="https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&ie=UTF8&prev=_t&rurl=translate.google.com.br&sl=en&tl=pt-BR&u=http://sarasoueidan.com/blog/compositing-and-blending-in-css/&usg=ALkJrhhERbYPRMYL0iPGDgy0A-JLD1MCFQ" target="_self">Composição e mistura Em CSS</a> por Sara Soueidan
+              <a href="https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&ie=UTF8&prev=_t&rurl=translate.google.com.br&sl=en&tl=pt-BR&u=https://sarasoueidan.com/blog/compositing-and-blending-in-css/&usg=ALkJrhhERbYPRMYL0iPGDgy0A-JLD1MCFQ" target="_self">Composição e mistura Em CSS</a> por Sara Soueidan
             </li>
           </ul>
         </div>
@@ -914,8 +914,8 @@ Neste algoritmo, vemos uma função secundária `D` , que está situado no `with
               <a href="https://webdesign.tutsplus.com/tutorials/blending-modes-in-css-color-theory-and-practical-application--cms-25201">Link Original do Post retirado do blog Tutsplus<br /> </a>
             </div>
 
- [1]: http://tableless.com.br/?author=14
- [2]: http://tableless.com.br/modos-de-mesclagem-em-css/
- [3]: http://tableless.com.br/css3%E2%80%8A-%E2%80%8Atrabalhando-com-multiplas-imagens-background-images/
- [4]: http://tableless.com.br/rgb-e-hsl/
+ [1]: https://tableless.com.br/?author=14
+ [2]: https://tableless.com.br/modos-de-mesclagem-em-css/
+ [3]: https://tableless.com.br/css3%E2%80%8A-%E2%80%8Atrabalhando-com-multiplas-imagens-background-images/
+ [4]: https://tableless.com.br/rgb-e-hsl/
  [5]: https://cms-assets.tutsplus.com/uploads/users/30/posts/25201/image/j1.jpg

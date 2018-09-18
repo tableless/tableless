@@ -7,7 +7,7 @@ url: /listas_discussao/
 tweetbackscheck:
   - 1356426805
 shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/listas_discussao";s:7:"tinyurl";s:26:"http://tinyurl.com/3g5us3o";s:4:"isgd";s:19:"http://is.gd/lzFyTV";}'
+  - 'a:3:{s:9:"permalink";s:40:"https://tableless.com.br/listas_discussao";s:7:"tinyurl";s:26:"https://tinyurl.com/3g5us3o";s:4:"isgd";s:19:"https://is.gd/lzFyTV";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032331
@@ -32,6 +32,6 @@ Sim, eu conheço e elas são ótimas:
 
 Uma das melhores maneiras de se manter atualizado, é freqüentar e participar de alguma lista de discussão.
 
- [1]: http://lists.topica.com/lists/arqhp
- [2]: http://br.groups.yahoo.com/group/webstandards-br/
- [3]: http://www.css-discuss.org/mailman/listinfo/css-d
+ [1]: https://lists.topica.com/lists/arqhp
+ [2]: https://br.groups.yahoo.com/group/webstandards-br/
+ [3]: https://www.css-discuss.org/mailman/listinfo/css-d

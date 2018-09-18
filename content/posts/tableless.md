@@ -7,7 +7,7 @@ url: /winxp_tableless/
 tweetbackscheck:
   - 1355212311
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/winxp_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3ocqse2";s:4:"isgd";s:19:"http://is.gd/CfETsC";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/winxp_tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3ocqse2";s:4:"isgd";s:19:"https://is.gd/CfETsC";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032670
@@ -22,5 +22,5 @@ tags:
               
 dica do [Bruno Torres][2]
 
- [1]: http://desktop.trovster.com/
- [2]: http://brunotorres.net/
+ [1]: https://desktop.trovster.com/
+ [2]: https://brunotorres.net/

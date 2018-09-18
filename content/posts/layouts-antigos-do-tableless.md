@@ -8,7 +8,7 @@ url: /layouts-antigos-do-tableless/
 tweetbackscheck:
   - 1356401382
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/layouts-antigos-do-tableless/";s:7:"tinyurl";s:26:"http://tinyurl.com/7ladry3";s:4:"isgd";s:19:"http://is.gd/xAJNDR";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/layouts-antigos-do-tableless/";s:7:"tinyurl";s:26:"https://tinyurl.com/7ladry3";s:4:"isgd";s:19:"https://is.gd/xAJNDR";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 615400908

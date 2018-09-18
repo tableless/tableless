@@ -7,7 +7,7 @@ url: /flock-ainda-evoluindo/
 tweetbackscheck:
   - 1356387591
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/flock-ainda-evoluindo";s:7:"tinyurl";s:26:"http://tinyurl.com/3dom942";s:4:"isgd";s:19:"http://is.gd/BadhQK";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/flock-ainda-evoluindo";s:7:"tinyurl";s:26:"https://tinyurl.com/3dom942";s:4:"isgd";s:19:"https://is.gd/BadhQK";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035652

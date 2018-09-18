@@ -133,6 +133,6 @@ Bem pessoal, essa foi uma breve introdução sobre Web Speech API. Futuramente 
 
 Disponibilizei o código no github e também disponibilizei uma demo.
 
-<a title="View Demo " href="http://clovisdasilvaneto.github.io/speechRecognition/" target="_blank">Clique aqui para ver a demo online</a>
+<a title="View Demo " href="https://clovisdasilvaneto.github.io/speechRecognition/" target="_blank">Clique aqui para ver a demo online</a>
 
 <a title="ver o código completo" href="https://github.com/clovisdasilvaneto/speechRecognition/blob/master/meu_artigo.html" target="_blank">Clique aqui, para ir ao código completo.</a>

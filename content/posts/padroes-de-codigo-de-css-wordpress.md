@@ -93,9 +93,9 @@ Bom gente, é assim que chego ao fim desse novo artigo que escrevo pra vocês, e
 
 ###### Leia mais:
 
-  * [http://make.wordpress.org/core/handbook/coding-standards/css/][2]
-  * [http://make.wordpress.org/core/handbook/coding-standards/][3]
+  * [https://make.wordpress.org/core/handbook/coding-standards/css/][2]
+  * [https://make.wordpress.org/core/handbook/coding-standards/][3]
 
- [1]: http://make.wordpress.org/core/handbook/coding-standards/css/ "Coding Standards CSS"
- [2]: http://make.wordpress.org/core/handbook/coding-standards/css/ "Conding Standards CSS"
- [3]: http://make.wordpress.org/core/handbook/coding-standards/ "Conding Standards"
+ [1]: https://make.wordpress.org/core/handbook/coding-standards/css/ "Coding Standards CSS"
+ [2]: https://make.wordpress.org/core/handbook/coding-standards/css/ "Conding Standards CSS"
+ [3]: https://make.wordpress.org/core/handbook/coding-standards/ "Conding Standards"

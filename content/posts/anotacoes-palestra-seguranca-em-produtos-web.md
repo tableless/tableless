@@ -21,7 +21,7 @@ Estas são as minhas anotações da palestra do Nando Vieira no evento 16 Encont
   * seu site está seguro? Você se pergunta isso quando coloca seu produto no ar?
   * 75% dos ataques estão na camada da aplicação.
   * brechas de segurança acabam com sua credibilidade.
-  * OWASP é uma fundação voltada para distribuir informações sobre segurança em aplicações web. http://owasp.org/
+  * OWASP é uma fundação voltada para distribuir informações sobre segurança em aplicações web. https://owasp.org/
   * o raios teve algo em torno de 8 ou 9 relesses de segurança em 2013. Parece muito mas não é.
   * falha de segurança vai ter em qualquer tipo de linguagem, não importa qual.
   * outras brechas são feitas pelos próprios devs por conta de experiência, pressa, deadline apertado, falta de atenção etc etc.

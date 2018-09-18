@@ -115,7 +115,7 @@ Premiar os melhores aplicativos e tecnologias assistivas (em produção ou prot�
   * Participa&ccedil;&atilde;o na solenidade (despesas de transporte e hospedagem por conta do finalista).
   * Trabalho exibido em publica&ccedil;&atilde;o do W3C.br 
 
-Para maiores informações [leia o regulamento][2] no site do prêmio: <http://premio.w3c.br/>
+Para maiores informações [leia o regulamento][2] no site do prêmio: <https://premio.w3c.br/>
 
- [1]: http://premio.w3c.br/inscricoes/
- [2]: http://premio.w3c.br/regulamento/
+ [1]: https://premio.w3c.br/inscricoes/
+ [2]: https://premio.w3c.br/regulamento/

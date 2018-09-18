@@ -7,7 +7,7 @@ url: /entrevista-com-hakon-wium-lie-sobre-css/
 tweetbackscheck:
   - 1354942665
 shorturls:
-  - 'a:3:{s:9:"permalink";s:63:"http://tableless.com.br/entrevista-com-hakon-wium-lie-sobre-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3aqxknr";s:4:"isgd";s:19:"http://is.gd/ymBRdZ";}'
+  - 'a:3:{s:9:"permalink";s:63:"https://tableless.com.br/entrevista-com-hakon-wium-lie-sobre-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3aqxknr";s:4:"isgd";s:19:"https://is.gd/ymBRdZ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035716
@@ -21,4 +21,4 @@ Ele fala um pouquinho sobre o futuro desta linguagem de formatação que vem mud
 
 [Hakon Resonds to questions about css and&#8230; ][1]
 
- [1]: http://interviews.slashdot.org/article.pl?sid=06/06/23/1443203
+ [1]: https://interviews.slashdot.org/article.pl?sid=06/06/23/1443203

@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356453932
 shorturls:
-  - 'a:3:{s:9:"permalink";s:64:"http://tableless.com.br/palestra-implementacao-de-layout-com-css";s:7:"tinyurl";s:26:"http://tinyurl.com/43nsrea";s:4:"isgd";s:19:"http://is.gd/TwBAhU";}'
+  - 'a:3:{s:9:"permalink";s:64:"https://tableless.com.br/palestra-implementacao-de-layout-com-css";s:7:"tinyurl";s:26:"https://tinyurl.com/43nsrea";s:4:"isgd";s:19:"https://is.gd/TwBAhU";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038351
@@ -30,7 +30,7 @@ tags:
 ---
 Essa semana, dia 23, quarta-feira, irei fazer uma palestra de 2 horas exclusivamente sobre Implementação de Layout com CSS. Irei implementar um layout, desde o HTML até o CSS, tudo explicado nos mínimos detalhes.
 
-<http://visie.com.br/eventos/>
+<https://visie.com.br/eventos/>
 
 O valor da palestra é de R$29 e será em São Paulo.
 

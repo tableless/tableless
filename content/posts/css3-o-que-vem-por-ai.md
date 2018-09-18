@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356419740
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/css3-o-que-vem-por-ai";s:7:"tinyurl";s:26:"http://tinyurl.com/3kz68rr";s:4:"isgd";s:19:"http://is.gd/NDOjx6";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/css3-o-que-vem-por-ai";s:7:"tinyurl";s:26:"https://tinyurl.com/3kz68rr";s:4:"isgd";s:19:"https://is.gd/NDOjx6";}'
 twittercomments:
   - 'a:6:{i:10012283849670658;s:6:"136227";i:10365828440530944;s:6:"136246";i:12480490867007488;s:6:"136274";i:11459776504397824;s:7:"retweet";i:10366813237940224;s:7:"retweet";i:10120186254336000;s:7:"retweet";}'
 tweetcount:
@@ -29,9 +29,9 @@ tags:
 ---
 O grande papel do desenvolvedor Front-End, na minha opinião, é traduzir em tags html, folhas de estilos e programação Javascript ou até mesmo uma linguagem backside, aquilo que o designer de interface criou e espera estar disponível a clicks e à leitura dos usuários. Ao meu ver, este é o nosso grande trabalho, recriar interfaces de forma adaptada aos diversos browsers de mercado e às diversas possibilidades tecnológicas que temos na web respeitando os limites dos padrões online e a essência da criação visual.
 
-Com a “quase” padronização entre browsers, as infinitas possibilidades Front-End e a atualização do html, nós teremos a chance de ampliar conhecimento saindo do estigma de “recortes de imagens” ou criadores de códigos não planejados e nada semânticos. Já <a href="http://tableless.com.br/afinal-o-que-muda-com-o-html-5" target="_blank">comentei algo a respeito em outro artigo</a> e reforço a mensagem neste, pois o assunto é novas tecnologias e novo aprendizado, sendo assim, esta questão de mercado também deverá vir à tona quando o desenvolvimento web começar a exigir o uso do HTML5 e seus companheiros.
+Com a “quase” padronização entre browsers, as infinitas possibilidades Front-End e a atualização do html, nós teremos a chance de ampliar conhecimento saindo do estigma de “recortes de imagens” ou criadores de códigos não planejados e nada semânticos. Já <a href="https://tableless.com.br/afinal-o-que-muda-com-o-html-5" target="_blank">comentei algo a respeito em outro artigo</a> e reforço a mensagem neste, pois o assunto é novas tecnologias e novo aprendizado, sendo assim, esta questão de mercado também deverá vir à tona quando o desenvolvimento web começar a exigir o uso do HTML5 e seus companheiros.
 
-De fontes não pertencentes ao grupo das <a href="http://www.w3.org/TR/WD-font/" target="_blank">WebFonts</a> à sombras e gradientes, o CSS3 promete revolucionar e dar ao desenvolvedor ainda mais possibilidades de traduzir elementos visuais em códigos dentro de folhas de estilo diminuindo consideravelmente o “recorte de imagens”.
+De fontes não pertencentes ao grupo das <a href="https://www.w3.org/TR/WD-font/" target="_blank">WebFonts</a> à sombras e gradientes, o CSS3 promete revolucionar e dar ao desenvolvedor ainda mais possibilidades de traduzir elementos visuais em códigos dentro de folhas de estilo diminuindo consideravelmente o “recorte de imagens”.
 
 De antemão, eu alerto: não vamos sair por aí já utilizando essas possibilidades, salvo em casos de testes, pois as devidas documentações normativas ainda estão sendo escritas pela W3C e muitos browsers ainda não conseguem renderizar algumas propriedades.
 
@@ -41,11 +41,11 @@ Primeiramente, enfatizo duas das novas possibilidades do CSS3 já descritas aqui
   
 Imaginou poder colocar em seu website uma fonte da família “Butter” e fazer um gradiente radial sem precisar recortar imagens de repetição? Pois estas duas propriedades nos auxiliarão nesta missão. Abaixo, o link para os dois artigos &#8211; tutoriais criados pelo Diego falando melhor sobre o assunto:
 
-@font-face &#8211; <a href="http://tableless.com.br/font-face-fonts-externas-na-web" target="_blank">http://tableless.com.br/font-face-fonts-externas-na-web</a>
+@font-face &#8211; <a href="https://tableless.com.br/font-face-fonts-externas-na-web" target="_blank">https://tableless.com.br/font-face-fonts-externas-na-web</a>
   
-Gradientes em CSS3 &#8211; <a href="http://tableless.com.br/gradientes-em-css" target="_blank">http://tableless.com.br/gradientes-em-css</a>
+Gradientes em CSS3 &#8211; <a href="https://tableless.com.br/gradientes-em-css" target="_blank">https://tableless.com.br/gradientes-em-css</a>
 
-<a href="http://tableless.com.br/gradientes-em-css" target="_blank"></a>No seletor “background”, duas novas possibilidades que prometem resolver parte dos problemas que tínhamos com layouts e vários tipos de imagens de fundo são &#8211; o uso de múltiplos background’s e a inserção de dimensões para imagens de fundo. Dessa maneira, com o CSS3 vamos poder adicionar mais de uma url de uma imagem de fundo para um mesmo elemento:
+<a href="https://tableless.com.br/gradientes-em-css" target="_blank"></a>No seletor “background”, duas novas possibilidades que prometem resolver parte dos problemas que tínhamos com layouts e vários tipos de imagens de fundo são &#8211; o uso de múltiplos background’s e a inserção de dimensões para imagens de fundo. Dessa maneira, com o CSS3 vamos poder adicionar mais de uma url de uma imagem de fundo para um mesmo elemento:
 
 <pre lang="css" line="1">background:url (fundo1.png) no-repeat 0px 0px, url(fundo2.jpg) repeat-x 0px 0px;</pre>
 

@@ -42,7 +42,7 @@ Embora seja uma solução simplificada, o aprendizado ganha fluidez graças aos 
 
 ### FusionCharts
 
-A [FusionCharts](http://www.fusioncharts.com/) suporta vanilla JavaScript, jQuery, Angular e outras bibliotecas conhecidas. Os mais de 90 gráficos e 1000 mapas o transformam em uma solução muito mais completa que o Google Charts ou o MetricsGraphics. Veja asespecificações técnicas e conheça a lista completa das representações gráficas disponíveis.
+A [FusionCharts](https://www.fusioncharts.com/) suporta vanilla JavaScript, jQuery, Angular e outras bibliotecas conhecidas. Os mais de 90 gráficos e 1000 mapas o transformam em uma solução muito mais completa que o Google Charts ou o MetricsGraphics. Veja asespecificações técnicas e conheça a lista completa das representações gráficas disponíveis.
 
 Levando em conta a escalabilidade de seu aplicativo ou site, é importante lembrar que a escolha de uma biblioteca gráfica incompleta pode representar um erro grave. O FusionCharts é utilizado por empresas como a Microsoft, Google e IBM. O que o torna uma ferramenta escalável mesmo para os requisitos corporativos.
 
@@ -54,7 +54,7 @@ Levando em conta a escalabilidade de seu aplicativo ou site, é importante lembr
 
 ### Epoch
 
-O [Epoch](http://epochjs.github.io/epoch/) é uma ferramenta desenvolvida em d3.js especificamente. Por isso, desenvolvedores podem usar gráficos em tempo real em seus projetos de aplicativos e sites. Além de amplamente documentado, o Epoch é de código aberto e 100% gratuito. Isso o torna uma boa opção aos que não estão dispostos a investir recursos na aquisição de uma solução.
+O [Epoch](https://epochjs.github.io/epoch/) é uma ferramenta desenvolvida em d3.js especificamente. Por isso, desenvolvedores podem usar gráficos em tempo real em seus projetos de aplicativos e sites. Além de amplamente documentado, o Epoch é de código aberto e 100% gratuito. Isso o torna uma boa opção aos que não estão dispostos a investir recursos na aquisição de uma solução.
 
 Com cinco diferentes tipos de gráficos - seja básico ou de tempo real - o Epoch é compatível com ferramentas como o FusionCharts ou o Highcharts. No entanto, é o que apresenta melhor desempenho na representação de dados em tempo real.
 
@@ -64,7 +64,7 @@ Com cinco diferentes tipos de gráficos - seja básico ou de tempo real - o Epoc
 
 ### ECharts
 
-O [ECharts](http://echarts.baidu.com/), da Baidu, é uma excelente ferramenta de gestão de dados já expostos a representações gráficas, pois apresenta uma característica única: O Drag-Recalculate permite que os usuários transfiram seções de dados de um gráfico para outro e que esses mesmos gráficos sejam recalculados em tempo real. Além disso, o EChart é desenvolvido para big data e pode traçar instantaneamente até 200.000 pontos em um gráfico cartesiano usando oZRender, uma biblioteca canvas feita especificamente para ECharts.
+O [ECharts](https://echarts.baidu.com/), da Baidu, é uma excelente ferramenta de gestão de dados já expostos a representações gráficas, pois apresenta uma característica única: O Drag-Recalculate permite que os usuários transfiram seções de dados de um gráfico para outro e que esses mesmos gráficos sejam recalculados em tempo real. Além disso, o EChart é desenvolvido para big data e pode traçar instantaneamente até 200.000 pontos em um gráfico cartesiano usando oZRender, uma biblioteca canvas feita especificamente para ECharts.
 
 Brinque com o código do gráfico exposto acima e descubra do que o ECharts é capaz.
 
@@ -84,7 +84,7 @@ Embora não seja a ferramenta mais fácil de ser usada, não há como negar o po
 
 ### Sigma
 
-O [Sigma](http://sigmajs.org/), comparado a outras ferramentas já expostas, é um recurso mais segmentado, pois se dedica exclusivamente ao desenho de gráficos. É desenvolvido em Canvas, WebGL e apresenta API pública. Por isso, dispõe de uma grande variedade de plugins disponibilizados pela comunidade no GitHub. Este é um exemplo do que se pode fazer com o Sigma js:
+O [Sigma](https://sigmajs.org/), comparado a outras ferramentas já expostas, é um recurso mais segmentado, pois se dedica exclusivamente ao desenho de gráficos. É desenvolvido em Canvas, WebGL e apresenta API pública. Por isso, dispõe de uma grande variedade de plugins disponibilizados pela comunidade no GitHub. Este é um exemplo do que se pode fazer com o Sigma js:
 
 O Sigma é altamente responsivo, permite interatividade por meio de toque e possibilita que os desenvolvedores adicionem suas próprias funções aos scripts, renderizando contornos às especificações.
 
@@ -96,7 +96,7 @@ O Sigma é altamente responsivo, permite interatividade por meio de toque e poss
 
 ### Highcharts
 
-O popular [Highcharts](http://www.highcharts.com/) cria gráficos interativos sem que haja dependência de plugins. A API de gráficos flexíveis da Highcharts é utilizada por empresas como a Nokia, Twitter, Visa e Facebook.
+O popular [Highcharts](https://www.highcharts.com/) cria gráficos interativos sem que haja dependência de plugins. A API de gráficos flexíveis da Highcharts é utilizada por empresas como a Nokia, Twitter, Visa e Facebook.
 
 O Highcharts é gratuito quando o uso não é comercial. No entanto, se houver pretensão de ganhar dinheiro com a ferramenta (e obter suporte enquanto o faz), é necessário pagar US$ 590 pela licença de desenvolvedor.
 
@@ -132,7 +132,7 @@ O Dygraphs é ativamente apoiado e desenvolvido pela comunidade. Foi isso que tr
 
 ### Vega
 
-A [Vega](http://vega.github.io/vega/) é uma biblioteca baseada em d3.js para criar, compartilhar e salvar projetos de visualização. É composta de ferramentas e sistemas que, dentre outras coisas, rivalizam com o d3 sem a necessidade de escrever códigos. A Vega traduz JSON em gráficos SVG ou HTML5 que - embora nada extravagante - cumpre bem sua função.
+A [Vega](https://vega.github.io/vega/) é uma biblioteca baseada em d3.js para criar, compartilhar e salvar projetos de visualização. É composta de ferramentas e sistemas que, dentre outras coisas, rivalizam com o d3 sem a necessidade de escrever códigos. A Vega traduz JSON em gráficos SVG ou HTML5 que - embora nada extravagante - cumpre bem sua função.
 
 Já que essabiblioteca não demanda programação (apenas a capacidade de editar valores em um arquivo JSON), trata-se de uma excelente alternativa ao d3, pois apresenta menor complexidade e os mesmo recursos.
 
@@ -144,7 +144,7 @@ Já que essabiblioteca não demanda programação (apenas a capacidade de editar
 
 ### NVD3
 
-A última ferramenta nesta lista é desenvolvida em d3, que é o precursor da maioria das bibliotecas gráficas de código aberto. O [NVD3](http://nvd3.org/examples/) é um conjunto de componentes que permite aos desenvolvedores a criação de gráficos reutilizáveis. Uma grande variedade de modelos e códigos pode ser explorada nosite do NVD3. Essa é, sem dúvida, a melhor maneira de desenvolver conhecimento a respeito da ferramenta.
+A última ferramenta nesta lista é desenvolvida em d3, que é o precursor da maioria das bibliotecas gráficas de código aberto. O [NVD3](https://nvd3.org/examples/) é um conjunto de componentes que permite aos desenvolvedores a criação de gráficos reutilizáveis. Uma grande variedade de modelos e códigos pode ser explorada nosite do NVD3. Essa é, sem dúvida, a melhor maneira de desenvolver conhecimento a respeito da ferramenta.
 
 Como você pode ver, o estilo do NVD3 é um pouco mais refinado do que o de outras ferramentas:
 

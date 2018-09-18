@@ -118,9 +118,9 @@ O único problema é que o Compressor.io só permite você otimizar uma imagem p
 
 Caso você tenha várias imagens com menos de 1MB e algumas imagens com mais, você poderá usar o melhor de cada ferramenta para conseguir atingir a otimização de performance que você deseja para seu site, gratuitamente!
 
-<a title="Kraken" href="http://kraken.io" target="_blank">http://kraken.io</a>
+<a title="Kraken" href="https://kraken.io" target="_blank">https://kraken.io</a>
 
-<a title="Compressor" href="http://compressor.io" target="_blank">http://compressor.io</a>
+<a title="Compressor" href="https://compressor.io" target="_blank">https://compressor.io</a>
 
 Agora é com vocês!
 

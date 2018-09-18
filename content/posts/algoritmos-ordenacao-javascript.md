@@ -104,7 +104,7 @@ a implementação do próprio C++, por exemplo o quick sort.
 
 ![](https://cdn-images-1.medium.com/max/800/1*4sdtKW2_XviENzCqvq4h7w.png)
 
-[http://en.cppreference.com/w/cpp/algorithm/qsort](http://en.cppreference.com/w/cpp/algorithm/qsort)
+[https://en.cppreference.com/w/cpp/algorithm/qsort](https://en.cppreference.com/w/cpp/algorithm/qsort)
 
 ### Discussão antiga
 

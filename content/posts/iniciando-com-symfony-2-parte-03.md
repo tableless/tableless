@@ -20,7 +20,7 @@ tags:
   - tutorial
 
 ---
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-02/" title="Iniciando com Symfony - parte 2" target="_blank">Dando continuidade ao tutorial anterior</a>, vamos continuar usando o componente console do Symfony, agora criaremos uma entidade, para acessar o banco de dados, usando o Doctrine ORM.
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-02/" title="Iniciando com Symfony - parte 2" target="_blank">Dando continuidade ao tutorial anterior</a>, vamos continuar usando o componente console do Symfony, agora criaremos uma entidade, para acessar o banco de dados, usando o Doctrine ORM.
 
 ## Banco de dados com Doctrine ORM
 
@@ -30,7 +30,7 @@ Não vou me aprofundar sobre Doctrine, porém, o que você precisa saber é que 
 
 ## Iniciando com Doctrine ORM
 
-O Doctrine já vem instalado e configurado no Symfony. Lembrando que você pode instalá-lo <a href="https://packagist.org/packages/doctrine/orm" title="Doctrine ORM" target="_blank">separadamente via Composer</a>. <a href="http://tableless.com.br/iniciando-com-symfony-2/" title="Instalação do Symfony" target="_blank">No primeiro post que escrevi</a> sobre a instalação do Symfony, nós configuramos as opções de banco de dados, o host, usuário e senha. Vale lembrar que são de configuração pessoais, configuradas em sua máquina.
+O Doctrine já vem instalado e configurado no Symfony. Lembrando que você pode instalá-lo <a href="https://packagist.org/packages/doctrine/orm" title="Doctrine ORM" target="_blank">separadamente via Composer</a>. <a href="https://tableless.com.br/iniciando-com-symfony-2/" title="Instalação do Symfony" target="_blank">No primeiro post que escrevi</a> sobre a instalação do Symfony, nós configuramos as opções de banco de dados, o host, usuário e senha. Vale lembrar que são de configuração pessoais, configuradas em sua máquina.
   
 No meu caso, configurei de acordo com minhas configurações do MySQL. Também demos um nome para o banco de dados que vamos utilizar agora e que foi configurado com o nome “symfony”. Porém este não está criado, vamos criá-lo neste momento usando o componente console do Symfony em conjunto com o Doctrine.
 
@@ -470,19 +470,19 @@ Agora vamos rodar nosso aplicação pelo console:
 
 E vamos entrar no navegador com a url:
 
-http://127.0.0.1:8000/post/
+https://127.0.0.1:8000/post/
 
 Para inserirmos um novo post, é só dar um clique, em &#8220;Create a new entry&#8221;.
   
 Eu inseri um post, com um texto “Lorem Ipsum”, apenas para reprodução das páginas, veja o resultado abaixo:
 
-Lista de posts = url: http://127.0.0.1:8000/post/
+Lista de posts = url: https://127.0.0.1:8000/post/
   
-Novo post = url: http://127.0.0.1:8000/post/new
+Novo post = url: https://127.0.0.1:8000/post/new
   
-Ver o post = url: http://127.0.0.1:8000/post/1
+Ver o post = url: https://127.0.0.1:8000/post/1
   
-Editar post = url: http://127.0.0.1:8000/post/1/edit
+Editar post = url: https://127.0.0.1:8000/post/1/edit
 
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/031.png" alt="Páginas criadas" width="750" height="403" class="alignnone size-full wp-image-47111" srcset="uploads/2015/02/031.png 750w, uploads/2015/02/031-259x139.png 259w, uploads/2015/02/031-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][2]
 

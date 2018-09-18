@@ -25,8 +25,8 @@ Onde: São Paulo Expo &#8211; Rodovia dos Imigrantes, KM 1,5 – São Paulo – 
   
 Horário: 11h às 23h
   
-Site: <http://fitic.com.br>
+Site: <https://fitic.com.br>
 
 Você pode ter 50% de desconto pela Ingress Rápido. [Veja mais informações aqui][1].
 
- [1]: http://fitic.com.br/emkt/22_06/softex/emkt_fitic_convite.html
+ [1]: https://fitic.com.br/emkt/22_06/softex/emkt_fitic_convite.html

@@ -61,8 +61,8 @@ Lembre-se que sites e blogs são criados para o público. Em outras palavras, ra
 Essas técnicas de SEO são eficazes e acessíveis a qualquer um. Utilizando essas estratégias, você pode aumentar o tráfego da sua página. Analise se o conteúdo do seu blog é visualizado por pessoas que estão em busca das informações que deseja transmitir e alavanque-o.
 
  [1]: https://website.grader.com/
- [2]: http://neilpatel.com/br/seo-analyzer/
- [3]: http://neilpatel.com/br/2016/02/25/23-otimas-ferramentas-para-blog-que-todos-os-profissionais-de-marketing-de-conteudo-estao-usando/
- [4]: http://www.siegemedia.com/content-marketing-checklist
- [5]: http://contentmarketinginstitute.com/2016/01/checklists-templates-guides/
- [6]: http://buzzsumo.com/blog/5-steps-track-competitor-content-buzzsumo-case-study/
+ [2]: https://neilpatel.com/br/seo-analyzer/
+ [3]: https://neilpatel.com/br/2016/02/25/23-otimas-ferramentas-para-blog-que-todos-os-profissionais-de-marketing-de-conteudo-estao-usando/
+ [4]: https://www.siegemedia.com/content-marketing-checklist
+ [5]: https://contentmarketinginstitute.com/2016/01/checklists-templates-guides/
+ [6]: https://buzzsumo.com/blog/5-steps-track-competitor-content-buzzsumo-case-study/

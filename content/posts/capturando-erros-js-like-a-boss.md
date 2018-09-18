@@ -8,7 +8,7 @@ url: /capturando-erros-js-like-a-boss/
 tweetbackscheck:
   - 1356440102
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7493";s:7:"tinyurl";s:26:"http://tinyurl.com/d6a2c8a";s:4:"isgd";s:19:"http://is.gd/j0XFrE";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7493";s:7:"tinyurl";s:26:"https://tinyurl.com/d6a2c8a";s:4:"isgd";s:19:"https://is.gd/j0XFrE";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 970809508
@@ -39,7 +39,7 @@ Antes de serem executados, _scripts_ passam por uma análise sintática (operaç
 Um _script_ pode até ser válido sintaticamente, ou seja, pode ter sido analisado com sucesso pelo _parser_ JS, mas mesmo assim ainda pode haver erros em tempo de execução (_runtime_). Por exemplo:
 
 <pre class="lang-javascript">// chamar métodos não definidos
-dartVader.comerTorta() // <a title="dartVader.comerTorta()" href="http://d.pr/VRVy" target="_blank">clique aqui</a> para mais informações.
+dartVader.comerTorta() // <a title="dartVader.comerTorta()" href="https://d.pr/VRVy" target="_blank">clique aqui</a> para mais informações.
 // ler índices inexistentes
 var lordSidious = jedi[ 'palpatine' ];
 // ler propriedades inexistentes

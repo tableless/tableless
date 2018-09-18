@@ -8,7 +8,7 @@ url: /querido-usuario-atualize-seu-browser/
 tweetbackscheck:
   - 1356394490
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6421";s:7:"tinyurl";s:26:"http://tinyurl.com/cd58zub";s:4:"isgd";s:19:"http://is.gd/8OIjSj";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6421";s:7:"tinyurl";s:26:"https://tinyurl.com/cd58zub";s:4:"isgd";s:19:"https://is.gd/8OIjSj";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 766583375
@@ -175,13 +175,13 @@ Não importa o que você esteja fazendo na web &#8211; lendo emails, comprando, 
 **_Este artigo é uma tradução do artigo original feito pela [Smashing Magazine][22]._**
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/ie-logo.jpg
- [2]: http://www.jonathan-krause.de/rainforest
+ [2]: https://www.jonathan-krause.de/rainforest
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/krause-ie8.jpg
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/krause-chrome.jpg
  [5]: https://www.google.com.br/chrome
- [6]: http://www.mozilla.org/pt-BR/firefox/new/?from=getfirefox
- [7]: http://www.opera.com/
- [8]: http://www.apple.com/br/safari/
+ [6]: https://www.mozilla.org/pt-BR/firefox/new/?from=getfirefox
+ [7]: https://www.opera.com/
+ [8]: https://www.apple.com/br/safari/
  [9]: https://chrome.google.com/webstore/category/home?hl=pt-BR&utm_source=chrome-ntp-launcher
  [10]: https://chrome.google.com/webstore/detail/nmameahlembdcigphohgiodcgjomcgeo
  [11]: https://chrome.google.com/webstore/detail/ciagpekplgpbepdgggflgmahnjgiaced
@@ -192,7 +192,7 @@ Não importa o que você esteja fazendo na web &#8211; lendo emails, comprando, 
  [16]: https://addons.mozilla.org/pt-BR/firefox/addon/fastestfox-browse-faster/
  [17]: https://extensions.apple.com/
  [18]: https://addons.opera.com/e
- [19]: http://browsingbetter.com/#saving
- [20]: http://www.google.com/chromeframe?prefersystemlevel=true&hl=pt-BR
- [21]: http://www.chromium.org/developers/how-tos/chrome-frame-getting-started/chrome-frame-faq#TOC-Do-I-need-to-be-an-Administrator-to-install-Google-Chrome-Frame-
- [22]: http://www.smashingmagazine.com/2012/07/10/dear-web-user-please-upgrade-your-browser/?utm_source=TablelessComBr&utm_medium=LinkTableless&utm_campaign=TablelessComBr&utm_nooverride=1
+ [19]: https://browsingbetter.com/#saving
+ [20]: https://www.google.com/chromeframe?prefersystemlevel=true&hl=pt-BR
+ [21]: https://www.chromium.org/developers/how-tos/chrome-frame-getting-started/chrome-frame-faq#TOC-Do-I-need-to-be-an-Administrator-to-install-Google-Chrome-Frame-
+ [22]: https://www.smashingmagazine.com/2012/07/10/dear-web-user-please-upgrade-your-browser/?utm_source=TablelessComBr&utm_medium=LinkTableless&utm_campaign=TablelessComBr&utm_nooverride=1

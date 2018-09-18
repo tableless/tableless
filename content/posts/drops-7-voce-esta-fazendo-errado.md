@@ -8,7 +8,7 @@ url: /drops-7-voce-esta-fazendo-errado/
 tweetbackscheck:
   - 1356355017
 shorturls:
-  - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/drops-7-voce-esta-fazendo-errado/";s:7:"tinyurl";s:26:"http://tinyurl.com/84rc7ck";s:4:"isgd";s:19:"http://is.gd/7BM7Ki";}'
+  - 'a:3:{s:9:"permalink";s:57:"https://tableless.com.br/drops-7-voce-esta-fazendo-errado/";s:7:"tinyurl";s:26:"https://tinyurl.com/84rc7ck";s:4:"isgd";s:19:"https://is.gd/7BM7Ki";}'
 twittercomments:
   - 'a:5:{i:189835085850230784;s:7:"retweet";i:207457890720681984;s:7:"retweet";i:207457392496091136;s:7:"retweet";i:207456786591137793;s:7:"retweet";i:223405467848818689;s:7:"retweet";}'
 tweetcount:

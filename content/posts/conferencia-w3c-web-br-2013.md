@@ -10,11 +10,11 @@ categories:
   - Geral
 
 ---
-A <a href="http://conferenciaweb.w3c.br" target="_blank">Conferência W3C Web.br</a> deste ano foi realizada no centro de convenções Rebouças em São Paulo e contou com diversos profissionais, sorteios, palestras, debates, networking, brindes e muita códificação. O evento foi dividido em trilhas: canvas, input, header e section. Logo quando cheguei minha cabeça deu um nó, muitas coisas acontendo ao mesmo tempo, era difícil escolher qual trilha deveria participar, pois queria assistir todas.
+A <a href="https://conferenciaweb.w3c.br" target="_blank">Conferência W3C Web.br</a> deste ano foi realizada no centro de convenções Rebouças em São Paulo e contou com diversos profissionais, sorteios, palestras, debates, networking, brindes e muita códificação. O evento foi dividido em trilhas: canvas, input, header e section. Logo quando cheguei minha cabeça deu um nó, muitas coisas acontendo ao mesmo tempo, era difícil escolher qual trilha deveria participar, pois queria assistir todas.
 
 ### Debate caloroso sobre a internet no Brasil
 
-Um dos pontos altos na conferência foi o segundo dia onde ocorreu um debate com o tema: Como progredir a Web? Que contou na mesa principal: <a href="http://conferenciaweb.w3c.br/#/page/57" target="_blank">Nathália Sautchuk</a>, <a href="http://conferenciaweb.w3c.br/#/page/67" target="_blank">Yasodara Córdova</a>, <a href="http://conferenciaweb.w3c.br/#/page/55" target="_blank">Sérgio Lopes</a> e <a href="http://conferenciaweb.w3c.br/#kris" target="_blank">Kris Borchers</a> e Vagner Diniz como mediador.
+Um dos pontos altos na conferência foi o segundo dia onde ocorreu um debate com o tema: Como progredir a Web? Que contou na mesa principal: <a href="https://conferenciaweb.w3c.br/#/page/57" target="_blank">Nathália Sautchuk</a>, <a href="https://conferenciaweb.w3c.br/#/page/67" target="_blank">Yasodara Córdova</a>, <a href="https://conferenciaweb.w3c.br/#/page/55" target="_blank">Sérgio Lopes</a> e <a href="https://conferenciaweb.w3c.br/#kris" target="_blank">Kris Borchers</a> e Vagner Diniz como mediador.
 
 <img class="alignnone size-full wp-image-39583" alt="conference-2013" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/flick1.jpg" width="660" height="347" />
 
@@ -42,13 +42,13 @@ Do outro lado Sérgio Lopes defendeu a tese que não há por quê pessoas sem in
 
 #### Javascript que voa!
 
-Com certeza um dos destaques foi a palestra do <a href="http://conferenciaweb.w3c.br/#/page/37" target="_blank">Daniel Filho</a> &#8220;Javascript que voa!&#8221;, ele trouxe para a platéia a ideia que o javascript é muito mais que só a web. Desenvolveu um sensor que ao passar a mão acendia um LED tudo isso feito em js e ainda fez um drone voar utilizando o nodecopter e o johnny-five, achei fantástico trabalhar diretamente com hardware. Vale a pena dar uma olhada no <a href="https://github.com/danielfilho" target="_blank">github</a> do Daniel.
+Com certeza um dos destaques foi a palestra do <a href="https://conferenciaweb.w3c.br/#/page/37" target="_blank">Daniel Filho</a> &#8220;Javascript que voa!&#8221;, ele trouxe para a platéia a ideia que o javascript é muito mais que só a web. Desenvolveu um sensor que ao passar a mão acendia um LED tudo isso feito em js e ainda fez um drone voar utilizando o nodecopter e o johnny-five, achei fantástico trabalhar diretamente com hardware. Vale a pena dar uma olhada no <a href="https://github.com/danielfilho" target="_blank">github</a> do Daniel.
 
 <img class="alignnone size-full wp-image-39586" alt="daniel-filho" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/flick2.jpg" width="660" height="347" />
 
 #### Processo de Desenvolvimento Front-End &#8211; Do caos ao Sublime
 
-Nesta palestra <a href="http://conferenciaweb.w3c.br/#jaydson" target="_blank">Jaydson Gomes</a> deu a idéia que não devemos ter medo de quebrar paradigmas, devemos inovar. Não foi uma palestra técnica e sim para refletimos.
+Nesta palestra <a href="https://conferenciaweb.w3c.br/#jaydson" target="_blank">Jaydson Gomes</a> deu a idéia que não devemos ter medo de quebrar paradigmas, devemos inovar. Não foi uma palestra técnica e sim para refletimos.
 
 <img class="alignnone size-full wp-image-39547" alt="do-caos-ao-sublime" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/do-caos-ao-sublime.jpg" width="660" height="347" srcset="uploads/2013/11/do-caos-ao-sublime.jpg 660w, uploads/2013/11/do-caos-ao-sublime-319x168.jpg 319w, uploads/2013/11/do-caos-ao-sublime-588x310.jpg 588w, uploads/2013/11/do-caos-ao-sublime-589x310.jpg 589w" sizes="(max-width: 660px) 100vw, 660px" />
 

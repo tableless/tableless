@@ -55,7 +55,7 @@ Se você tiver oportunidade, assista o An Event Apart. Vale a pena.
 
 <blockquote class="twitter-tweet" lang="en">
   <p>
-    Podem sentir inveja. Este é o cara. Sério. <a href="https://twitter.com/search?q=%23aeabos&src=hash">#aeabos</a> <a href="http://t.co/yD7fGppbX8">pic.twitter.com/yD7fGppbX8</a>
+    Podem sentir inveja. Este é o cara. Sério. <a href="https://twitter.com/search?q=%23aeabos&src=hash">#aeabos</a> <a href="https://t.co/yD7fGppbX8">pic.twitter.com/yD7fGppbX8</a>
   </p>
   
   <p>
@@ -63,12 +63,12 @@ Se você tiver oportunidade, assista o An Event Apart. Vale a pena.
   </p>
 </blockquote>
 
- [1]: http://aneventapart.com/event/boston-2014
- [2]: http://zeldman.com/
- [3]: http://meyerweb.com
- [4]: http://danielmall.com
- [5]: http://aneventapart.com/speakers/sarah-parmenter
- [6]: http://www.theblushbar.co.uk/
- [7]: http://www.lukew.com/
- [8]: http://tableless.com.br/anotacoes-jeffrey-zeldman-event-apart-boston-2014/ "Entendendo o Web Design – Jeffrey Zeldman – An Event Apart Boston 2014"
- [9]: http://tableless.com.br/rwd-ainda-e-facildificil-anotacoes-dan-mall-event-apart-2014/ "RWD é fácil/difícil – Anotações Dan Mall – An Event Apart 2014"
+ [1]: https://aneventapart.com/event/boston-2014
+ [2]: https://zeldman.com/
+ [3]: https://meyerweb.com
+ [4]: https://danielmall.com
+ [5]: https://aneventapart.com/speakers/sarah-parmenter
+ [6]: https://www.theblushbar.co.uk/
+ [7]: https://www.lukew.com/
+ [8]: https://tableless.com.br/anotacoes-jeffrey-zeldman-event-apart-boston-2014/ "Entendendo o Web Design – Jeffrey Zeldman – An Event Apart Boston 2014"
+ [9]: https://tableless.com.br/rwd-ainda-e-facildificil-anotacoes-dan-mall-event-apart-2014/ "RWD é fácil/difícil – Anotações Dan Mall – An Event Apart 2014"

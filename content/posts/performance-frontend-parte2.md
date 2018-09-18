@@ -88,14 +88,14 @@ Link prefetching é um mecanismo que utiliza o tempo ocioso do browser para faze
 
 Ou:
 
-<pre class="lang-html">&lt;link rel="prefetch" href="http://seuwebsite.com.br/parte2/"&gt;
+<pre class="lang-html">&lt;link rel="prefetch" href="https://seuwebsite.com.br/parte2/"&gt;
 </pre>
 
 Existe também o link prerender. Nesse caso o browser além de baixar os assets necessários, ele pré renderiza a página na memória de forma que ao visitar essa página, ela já estará totalmente renderizada. Diferentemente do link prefetch que apenas baixa os arquivos e só renderiza a página quando o usuário fizer a visita.
 
 Nem preciso dizer que isso deve ser usado com muito cuidado, principalmente quando estamos produzindo algo para mobiles. Você não quer acabar com a bateria e o pacote de dados do usuário baixando páginas que talvez ele nem vá visitar. Por isso é recomendável fazer o prefetch/prerender de poucas páginas e arquivos por vez. Se você não tem certeza de qual será a página a próxima página visitada, é melhor nem utilizar essa tática.
 
-<pre class="lang-html">&lt;link rel="prerender" href="http://seuwebsite.com.br/parte2/"&gt;
+<pre class="lang-html">&lt;link rel="prerender" href="https://seuwebsite.com.br/parte2/"&gt;
 </pre>
 
 ## Concluindo
@@ -109,20 +109,20 @@ A busca por performance deve ser algo constante. Há alguns pontos que você nã
   * [Maximizing Parallel Downloads in the Carpool Lane][16]
   * [Five Ways to Speed Up Page Response Times][17]
 
- [1]: http://tableless.com.br/performance-frontend-parte1/
- [2]: http://www.strangeloopnetworks.com/assets/images/infographic2.jpg
- [3]: http://computerworld.uol.com.br/negocios/2012/04/27/receita-da-amazon-cresce-34-no-trimestre-e-bate-expectativas/
+ [1]: https://tableless.com.br/performance-frontend-parte1/
+ [2]: https://www.strangeloopnetworks.com/assets/images/infographic2.jpg
+ [3]: https://computerworld.uol.com.br/negocios/2012/04/27/receita-da-amazon-cresce-34-no-trimestre-e-bate-expectativas/
  [4]: https://developers.google.com/speed/pagespeed/?hl=pt-BR
  [5]: https://developers.google.com/speed/pagespeed/insights
  [6]: https://developers.google.com/speed/pagespeed/insights#url=tableless.com.br&mobile=false
  [7]: https://developers.google.com/speed/pagespeed/insights#url=tableless.com.br&mobile=true
  [8]: https://developers.google.com/speed/docs/best-practices/rules_intro?hl=pt-BR
  [9]: https://developers.google.com/speed/tools?hl=pt-BR
- [10]: http://yslow.org/
- [11]: http://bit.ly/WhiWbW
+ [10]: https://yslow.org/
+ [11]: https://bit.ly/WhiWbW
  [12]: https://si0.twimg.com/profile_images/2927099623/a39b6f1a9af28d8dada6bc8958392cf3_normal.jpeg
- [13]: http://jquery.com/download/
- [14]: http://developer.yahoo.com/performance/rules.html
- [15]: http://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
- [16]: http://www.yuiblog.com/blog/2007/04/11/performance-research-part-4/
- [17]: http://sixrevisions.com/web-development/five-ways-to-speed-up-page-response-times/
+ [13]: https://jquery.com/download/
+ [14]: https://developer.yahoo.com/performance/rules.html
+ [15]: https://csswizardry.com/2013/01/front-end-performance-for-web-designers-and-front-end-developers/
+ [16]: https://www.yuiblog.com/blog/2007/04/11/performance-research-part-4/
+ [17]: https://sixrevisions.com/web-development/five-ways-to-speed-up-page-response-times/

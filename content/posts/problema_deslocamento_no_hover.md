@@ -7,7 +7,7 @@ url: /problema_deslocamento_no_hover/
 tweetbackscheck:
   - 1356461808
 shorturls:
-  - 'a:3:{s:9:"permalink";s:54:"http://tableless.com.br/problema_deslocamento_no_hover";s:7:"tinyurl";s:26:"http://tinyurl.com/3qyoxrs";s:4:"isgd";s:19:"http://is.gd/tnFSBu";}'
+  - 'a:3:{s:9:"permalink";s:54:"https://tableless.com.br/problema_deslocamento_no_hover";s:7:"tinyurl";s:26:"https://tinyurl.com/3qyoxrs";s:4:"isgd";s:19:"https://is.gd/tnFSBu";}'
 twittercomments:
   - 'a:1:{i:10059449964171264;s:7:"retweet";}'
 tweetcount:
@@ -32,4 +32,4 @@ Problema de [deslocamento no Hover][1]
   
 O problema acontece com o IE, ao passar o mouse nas opções do menu.
 
- [1]: http://tableless.com.br/problema/deslocando_hover/
+ [1]: https://tableless.com.br/problema/deslocando_hover/

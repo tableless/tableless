@@ -8,7 +8,7 @@ url: /keygen-certificando-suas-paginas-com-html/
 tweetbackscheck:
   - 1356414442
 shorturls:
-  - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/keygen-certificando-suas-paginas-com-html";s:7:"tinyurl";s:26:"http://tinyurl.com/42kr49b";s:4:"isgd";s:19:"http://is.gd/gjHkl2";}'
+  - 'a:3:{s:9:"permalink";s:65:"https://tableless.com.br/keygen-certificando-suas-paginas-com-html";s:7:"tinyurl";s:26:"https://tinyurl.com/42kr49b";s:4:"isgd";s:19:"https://is.gd/gjHkl2";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503027406
@@ -99,7 +99,7 @@ hardware criptográfico (por exemplo, &#8220;smart cards&#8221;), o usuário tam
 
 <pre lang="html" line="1"></pre>
 
-Para ver o em ação, clique aqui: <http://koolbanana.com.br/usehtml/keygen.html>
+Para ver o em ação, clique aqui: <https://koolbanana.com.br/usehtml/keygen.html>
 
 E pra quem achava que keygen era coisa de pirata&#8230;
 
@@ -107,28 +107,28 @@ Gostaria de agradecer o **Gabriel Pereira Borges** por ter ajudado (e inspirado)
 
 ### Referências
 
-  * Certificados SSL: http://en.wikipedia.org/wiki/Ssl_certificate  
-    http://www.networksolutions.com/SSL-certificates/how-ssl-works.jsp
-  * e-cpf: http://www.certisign.com.br/produtos-e-servicos/certificados-digitais/e-cpf  
-    http://www.receita.fazenda.gov.br/atendvirtual/solicemrenrevcd.htm
-  * Open Group: http://www.opengroup.org/
-  * SSO: http://www.opengroup.org/security/sso/  
-    http://code.google.com/googleapps/marketplace/sso.html
-  * SAML: http://code.google.com/googleapps/domain/sso/saml\_reference\_implementation.html
-  * OpenID: http://openid.net/get-an-openid/  
-    http://openid.net/get-an-openid/what-is-openid/
-  * Reificação: http://pt.wikipedia.org/wiki/Reifica%C3%A7%C3%A3o_(marxismo)
-  * RIC: http://portal.mj.gov.br/ric
+  * Certificados SSL: https://en.wikipedia.org/wiki/Ssl_certificate  
+    https://www.networksolutions.com/SSL-certificates/how-ssl-works.jsp
+  * e-cpf: https://www.certisign.com.br/produtos-e-servicos/certificados-digitais/e-cpf  
+    https://www.receita.fazenda.gov.br/atendvirtual/solicemrenrevcd.htm
+  * Open Group: https://www.opengroup.org/
+  * SSO: https://www.opengroup.org/security/sso/  
+    https://code.google.com/googleapps/marketplace/sso.html
+  * SAML: https://code.google.com/googleapps/domain/sso/saml\_reference\_implementation.html
+  * OpenID: https://openid.net/get-an-openid/  
+    https://openid.net/get-an-openid/what-is-openid/
+  * Reificação: https://pt.wikipedia.org/wiki/Reifica%C3%A7%C3%A3o_(marxismo)
+  * RIC: https://portal.mj.gov.br/ric
   * Keygen: https://developer.mozilla.org/En/HTML/Element/keygen  
-    Obscure tags: http://obscuretags.com/showcode.php?id=19  
-    http://dev.w3.org/html5/markup/keygen.html  
-    http://msdn.microsoft.com/en-us/library/cc249768(v=prot.13).aspx
-  * documentacao de 1998(!!!): http://devedge-temp.mozilla.org/library/manuals/1998/htmlguide/tags10.html#1615503
-  * Gerando chaves com Keygen em IIS: http://forums.hostsearch.com/archive/index.php?t-2094.html
-  * IIS suporte a keygen: http://certs.ipsca.com/Support/CSRMicrosoft-Internet-Information-Server-4.0.asp
+    Obscure tags: https://obscuretags.com/showcode.php?id=19  
+    https://dev.w3.org/html5/markup/keygen.html  
+    https://msdn.microsoft.com/en-us/library/cc249768(v=prot.13).aspx
+  * documentacao de 1998(!!!): https://devedge-temp.mozilla.org/library/manuals/1998/htmlguide/tags10.html#1615503
+  * Gerando chaves com Keygen em IIS: https://forums.hostsearch.com/archive/index.php?t-2094.html
+  * IIS suporte a keygen: https://certs.ipsca.com/Support/CSRMicrosoft-Internet-Information-Server-4.0.asp
 
- [1]: http://www.certisign.com.br/produtos-e-servicos/certificados-digitais/e-cpf
- [2]: http://www.opengroup.org/security/sso/
- [3]: http://openid.net/get-an-openid/what-is-openid/
- [4]: http://openid.net/get-an-openid/
- [5]: http://pt.wikipedia.org/wiki/Reifica%C3%A7%C3%A3o_(marxismo)
+ [1]: https://www.certisign.com.br/produtos-e-servicos/certificados-digitais/e-cpf
+ [2]: https://www.opengroup.org/security/sso/
+ [3]: https://openid.net/get-an-openid/what-is-openid/
+ [4]: https://openid.net/get-an-openid/
+ [5]: https://pt.wikipedia.org/wiki/Reifica%C3%A7%C3%A3o_(marxismo)

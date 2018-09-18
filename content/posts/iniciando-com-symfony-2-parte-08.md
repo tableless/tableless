@@ -15,7 +15,7 @@ tags:
   - phpOO
 
 ---
-No <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-07/" title="Parte 07" target="_blank">tutorial anterior</a>, criamos um upload de imagens para servirem de capa para nossos posts, agora vamos instalar e configurar um Bundle, disponibilizado pela comunidade, para fazer a paginação de nossa página index. Para isso temos que instalar o Knp Paginator em nossa aplicação.
+No <a href="https://tableless.com.br/iniciando-com-symfony-2-parte-07/" title="Parte 07" target="_blank">tutorial anterior</a>, criamos um upload de imagens para servirem de capa para nossos posts, agora vamos instalar e configurar um Bundle, disponibilizado pela comunidade, para fazer a paginação de nossa página index. Para isso temos que instalar o Knp Paginator em nossa aplicação.
 
 ## Instalação do Knp Paginator
 
@@ -24,7 +24,7 @@ Para instalar o Knp Paginator, temos que adicioná-lo em nosso composer.json. Ab
 <pre class="lang-php">"knplabs/knp-paginator-bundle": "2.4.*@dev"
 </pre>
 
-Caso não o conheça, ou tenha dúvidas, leia este post (<a href="http://tableless.com.br/composer-um-pouco-alem-basico/" title="Composer" target="_blank">Composer para iniciantes</a>).
+Caso não o conheça, ou tenha dúvidas, leia este post (<a href="https://tableless.com.br/composer-um-pouco-alem-basico/" title="Composer" target="_blank">Composer para iniciantes</a>).
   
 Depois de adicionado o Knp Paginator no composer, vamos instalá- lo. Entre no terminal e digite:
 
@@ -215,7 +215,7 @@ Rode o servidor:
 
 Entre na url:
   
-http://127.0.0.1:8000
+https://127.0.0.1:8000
 
 Veja a imagem:
 
@@ -247,19 +247,19 @@ Pronto, nosso simples projeto está fazendo a paginação de posts, no próximo 
 
 Links dos tutoriais anteriores:
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2/" title="part 01" target="_blank">Iniciando com Symfony 2 – Instalação</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2/" title="part 01" target="_blank">Iniciando com Symfony 2 – Instalação</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-02/" title="parte 02" target="_blank">Iniciando com Symfony 2 – parte 02</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-02/" title="parte 02" target="_blank">Iniciando com Symfony 2 – parte 02</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-03/" title="parte 03" target="_blank">Iniciando com Symfony 2 – parte 03</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-03/" title="parte 03" target="_blank">Iniciando com Symfony 2 – parte 03</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-04/" title="parte 04" target="_blank">Iniciando com Symfony 2 – parte 04</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-04/" title="parte 04" target="_blank">Iniciando com Symfony 2 – parte 04</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-05/" title="parte 05" target="_blank">Iniciando com Symfony 2 – parte 05</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-05/" title="parte 05" target="_blank">Iniciando com Symfony 2 – parte 05</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-06/" title="parte 06" target="_blank">Iniciando com Symfony 2 – parte 06</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-06/" title="parte 06" target="_blank">Iniciando com Symfony 2 – parte 06</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-07/" title="parte 07" target="_blank">Iniciando com Symfony 2 – parte 07</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-07/" title="parte 07" target="_blank">Iniciando com Symfony 2 – parte 07</a>
 
 O projeto encontra-se no <a href="https://github.com/candidosouza/tableless" title="GitHub do projeto" target="_blank">GitHub</a>!
 

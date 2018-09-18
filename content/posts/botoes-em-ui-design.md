@@ -248,7 +248,7 @@ os **dedos indicador** ou o **dedão**. Pensando nisso, qual o tamanho ideal par
 os botões no mobile?
 
 De acordo com um estudo realizado pelo [MIT Touch
-Lab](http://touchlab.mit.edu/publications/2003_009.pdf), a média do dedo
+Lab](https://touchlab.mit.edu/publications/2003_009.pdf), a média do dedo
 **indicador** das pessoas é de 1.6 a 2cm, que equivale a **47–57 pixels**. Já a
 média de tamanho do **dedão** é de 2.5cm, ou **72 pixels**.
 
@@ -288,7 +288,7 @@ aceleram nossos batimentos cardíacos ou despertam sensações de agitação e
 inquietude.
 
 **Acessibilidade:** de acordo com o site
-[http://www.color-blindness.com](http://www.color-blindness.com/), 1 em cada 12
+[https://www.color-blindness.com](https://www.color-blindness.com/), 1 em cada 12
 homens (8%) e 1 em cada 200 mulheres (0.5%) sofre de algum tipo de
 **daltonismo**, ou seja, possuem dificuldade de enxergar e diferenciar certas
 cores. Sabendo disso, podemos fazer a escolha das cores de uma maneira que

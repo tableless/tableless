@@ -7,7 +7,7 @@ url: /rapidinhas-para-comecar-a-pseudo-segunda-feira/
 tweetbackscheck:
   - 1356438807
 shorturls:
-  - 'a:3:{s:9:"permalink";s:70:"http://tableless.com.br/rapidinhas-para-comecar-a-pseudo-segunda-feira";s:7:"tinyurl";s:26:"http://tinyurl.com/3em44o6";s:4:"isgd";s:19:"http://is.gd/lbeilB";}'
+  - 'a:3:{s:9:"permalink";s:70:"https://tableless.com.br/rapidinhas-para-comecar-a-pseudo-segunda-feira";s:7:"tinyurl";s:26:"https://tinyurl.com/3em44o6";s:4:"isgd";s:19:"https://is.gd/lbeilB";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037372
@@ -34,8 +34,8 @@ Alguns links rápidos para começar a pseudo-segunda-feira (aqui em SP foi feria
   
     E para se inspirar algumas imagens do [iPhone para vermos como é a interface do usuário][5].
 
- [1]: http://tableless.com.br/se-virando-pra-testar-parte-2-desktops-virtuais
- [2]: http://ipinfo.info/netrenderer/
- [3]: http://meiert.com/en/indices/html-elements/
- [4]: http://www.technologyreview.com/printer_friendly_article.aspx?id=18621
- [5]: http://www.engadget.com/photos/the-definitive-iphone-user-interface-gallery/
+ [1]: https://tableless.com.br/se-virando-pra-testar-parte-2-desktops-virtuais
+ [2]: https://ipinfo.info/netrenderer/
+ [3]: https://meiert.com/en/indices/html-elements/
+ [4]: https://www.technologyreview.com/printer_friendly_article.aspx?id=18621
+ [5]: https://www.engadget.com/photos/the-definitive-iphone-user-interface-gallery/

@@ -8,7 +8,7 @@ url: /webbr-2012-empreendedorismo/
 tweetbackscheck:
   - 1356394782
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/webbr-2012-empreendedorismo/";s:7:"tinyurl";s:26:"http://tinyurl.com/9mq8wtn";s:4:"isgd";s:19:"http://is.gd/4T4IlG";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/webbr-2012-empreendedorismo/";s:7:"tinyurl";s:26:"https://tinyurl.com/9mq8wtn";s:4:"isgd";s:19:"https://is.gd/4T4IlG";}'
 twittercomments:
   - 'a:17:{i:260703838556786689;s:7:"retweet";i:260690180338483200;s:7:"retweet";i:260340626925707265;s:7:"retweet";i:259341801373171712;s:7:"retweet";i:259338788063547393;s:7:"retweet";i:259332427116322817;s:7:"retweet";i:259330474873323520;s:7:"retweet";i:259330088603111424;s:7:"retweet";i:259329445721149441;s:7:"retweet";i:259328624925220864;s:7:"retweet";i:266552841701847040;s:7:"retweet";i:266500229342326784;s:7:"retweet";i:266492063661568000;s:7:"retweet";i:270843640824356864;s:7:"retweet";i:270836928650285057;s:7:"retweet";i:282115782165557248;s:7:"retweet";i:281852623718592514;s:7:"retweet";}'
 tweetcount:
@@ -44,4 +44,4 @@ Minhas anotações sobre a palestra do [Edney Sousa][1] no Webbr 2012 sobre empr
           * Deixe o produto gratuito por tempo limitado, avise desde o início quando acaba o período de free-trial.
           * É fácil fazer sucesso com algo completamente gratuito, lance um produto gratuito com um pacote pago de vantagens.</ul>
 
- [1]: http://twitter.com/interney/
+ [1]: https://twitter.com/interney/

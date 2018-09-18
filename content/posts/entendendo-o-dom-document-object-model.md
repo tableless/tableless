@@ -278,6 +278,6 @@ O DOM nos proporciona várias API’s importantes para a criação de aplicaçõ
 
 [Understanding DOM: A Fool’s Guide](https://www.guru99.com/understanding-dom-fool-guide.html) (Artigo)
 
-[DOM Enlightment](http://shop.oreilly.com/product/0636920027690.do) (Book by Cody Lindley)
+[DOM Enlightment](https://shop.oreilly.com/product/0636920027690.do) (Book by Cody Lindley)
 
 Gostou? Como esse é meu primeiro artigo, deixa seu like, me segue no [**Twitter**](https://twitter.com/leonardomso) e deixa um comentário como feedback que isso é muito importante! ✌

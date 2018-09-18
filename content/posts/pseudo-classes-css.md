@@ -12,7 +12,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356400622
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/pseudo-classes-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3hyrllj";s:4:"isgd";s:19:"http://is.gd/635MdT";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/pseudo-classes-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3hyrllj";s:4:"isgd";s:19:"https://is.gd/635MdT";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038935
@@ -197,10 +197,10 @@ Há outras pseudo-classes como a :disabled ou :enabled, que modificam elementos 
 
 O CSS pode fazer muito por nós, basta os navegadores implementarem essas possibilidades. É por isso toda essa campanha contra o Internet Explorer 6. Esse artigo e [outros][6] [artigos][7] fazem parte dessa campanha. É uma forma de mostrar o quanto perdemos de produtividade em nosso dia a dia.
 
- [1]: http://www.w3.org/TR/css3-selectors/ "Seletores do CSS3"
- [2]: http://tableless.com.br/compatibilidadecss/ "Tabela para ver a compatibilidade de propriedades CSS entre os browsers"
+ [1]: https://www.w3.org/TR/css3-selectors/ "Seletores do CSS3"
+ [2]: https://tableless.com.br/compatibilidadecss/ "Tabela para ver a compatibilidade de propriedades CSS entre os browsers"
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/03/submenu.html "Submenu sem javascript"
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/03/lang.html
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/03/lastchild.html "Selecionando o último filho"
- [6]: http://tableless.com.br/seletores-complexos-do-css
- [7]: http://tableless.com.br/seletores-agrupados-e-encadeados
+ [6]: https://tableless.com.br/seletores-complexos-do-css
+ [7]: https://tableless.com.br/seletores-agrupados-e-encadeados

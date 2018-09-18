@@ -9,7 +9,7 @@ tweetbackscheck:
   - 1356391031
 dsq_thread_id: 505376751
 shorturls:
-  - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/convencimento-e-educacao-liberdade/";s:7:"tinyurl";s:26:"http://tinyurl.com/7g7gy5s";s:4:"isgd";s:19:"http://is.gd/TxAgfl";}'
+  - 'a:3:{s:9:"permalink";s:59:"https://tableless.com.br/convencimento-e-educacao-liberdade/";s:7:"tinyurl";s:26:"https://tinyurl.com/7g7gy5s";s:4:"isgd";s:19:"https://is.gd/TxAgfl";}'
 twittercomments:
   - 'a:7:{i:147370314878287872;s:7:"retweet";i:147338529477902336;s:7:"retweet";i:150387395320217600;s:7:"retweet";i:150322227332661250;s:7:"retweet";i:150313661142016000;s:7:"retweet";i:150312802945478657;s:7:"retweet";i:169583696385544193;s:7:"retweet";}'
 tweetcount:
@@ -35,5 +35,5 @@ A conta é simples: calcule o seu valor hora e o valor hora dos seus colegas de 
 
 Para ajudar fizemos [um PDF que explica][2] exatamente quais as soluções vocês precisam adotar e alguns outros assuntos que seu chefe precisa saber para entender melhor esse conceito todo. Você precisa entender esse é um caminho longo. Você não (ou vai) convencer seu chefe/cliente de primeira. Isso depende muito do seu perfil e do perfil deles. Mas com certeza, se você levar informações relevantes e maduras as chances serão grandes, já que ninguém gosta de perder dinheiro.
 
- [1]: http://dowebsitesneedtolookexactlythesameineverybrowser.com/
- [2]: http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/ "PDF – Browsers antigos: guerra contra o terror"
+ [1]: https://dowebsitesneedtolookexactlythesameineverybrowser.com/
+ [2]: https://tableless.com.br/browsers-antigos-guerra-contra-o-terror/ "PDF – Browsers antigos: guerra contra o terror"

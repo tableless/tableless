@@ -8,7 +8,7 @@ url: /jquery-dicas-de-otimizacao-e-performance/
 tweetbackscheck:
   - 1356436487
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4289";s:7:"tinyurl";s:26:"http://tinyurl.com/7k4rp23";s:4:"isgd";s:19:"http://is.gd/GjnsFV";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4289";s:7:"tinyurl";s:26:"https://tinyurl.com/7k4rp23";s:4:"isgd";s:19:"https://is.gd/GjnsFV";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 533617737
@@ -171,13 +171,13 @@ O site [jsPerf][7] permite a criação de testes de performance para códigos ja
 
 Você também pode (e deve) utilizar a aba profile do Firebug e/ou do Chrome Developer Tools. [Aqui][9] tem um tutorial antigo, mas bacana, sobre o Firebug e [aqui][10] você encontra um tutorial sobre o Chrome Developer Tools.
 
- [1]: http://blog.jquery.com/2011/11/21/jquery-1-7-1-released/ ""
+ [1]: https://blog.jquery.com/2011/11/21/jquery-1-7-1-released/ ""
  [2]: https://github.com/jquery/jquery/blob/master/src/css.js#L121
  [3]: https://github.com/jquery/jquery ""
- [4]: http://tableless.com.br/jquery-seletores-personalizados/ ""
- [5]: http://tableless.com.br/anatomia-de-um-plugin-jquery/ ""
- [6]: http://speakerdeck.com/u/mathiasbynens/p/faster-javascript-execution-for-the-lazy-developer
- [7]: http://jsperf.com/
- [8]: http://www.slideshare.net/mathiasbynens/using-jsperf-correctly
- [9]: http://michaelsync.net/2007/09/10/firebug-tutorial-logging-profiling-and-commandline-part-ii
- [10]: http://www.youtube.com/watch?v=OxW1dCjOstE
+ [4]: https://tableless.com.br/jquery-seletores-personalizados/ ""
+ [5]: https://tableless.com.br/anatomia-de-um-plugin-jquery/ ""
+ [6]: https://speakerdeck.com/u/mathiasbynens/p/faster-javascript-execution-for-the-lazy-developer
+ [7]: https://jsperf.com/
+ [8]: https://www.slideshare.net/mathiasbynens/using-jsperf-correctly
+ [9]: https://michaelsync.net/2007/09/10/firebug-tutorial-logging-profiling-and-commandline-part-ii
+ [10]: https://www.youtube.com/watch?v=OxW1dCjOstE

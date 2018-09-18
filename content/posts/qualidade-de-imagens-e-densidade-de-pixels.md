@@ -407,18 +407,18 @@ O W3C já criou um grupo chamado [Responsive Images Community Group][9] para a c
   * [A Pixel Identity Crisis][1] 
   * [optimizing web experiences for high resolution screens][15]
 
- [1]: http://www.alistapart.com/articles/a-pixel-identity-crisis/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
- [2]: http://en.wikipedia.org/wiki/Pixel
- [3]: http://www.andrewdaceyphotography.com/articles/dpi/
+ [1]: https://www.alistapart.com/articles/a-pixel-identity-crisis/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
+ [2]: https://en.wikipedia.org/wiki/Pixel
+ [3]: https://www.andrewdaceyphotography.com/articles/dpi/
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/03/retina.jpg
- [5]: http://www.appleinsider.com/articles/12/03/13/how_to_preview_the_retina_display_enhanced_applecom_in_safari_on_mac_or_pc.html
- [6]: http://tableless.com.br/introducao-sobre-media-queries/
- [7]: http://cloudfour.com/how-apple-com-will-serve-retina-images-to-new-ipads/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
- [8]: http://coding.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
- [9]: http://www.w3.org/community/respimg/
- [10]: http://aralbalkan.com/3331?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
- [11]: http://www.weedygarden.net/2010/10/13/retina-display-and-css-background-images/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
- [12]: http://www.lukew.com/ff/entry.asp?1142&utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
- [13]: http://eisabainyo.net/weblog/2011/06/07/how-to-use-hi-res-images-for-web-apps-in-iphone4/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
- [14]: http://www.fiveminutes.eu/targeting-hight-screen-densities-with-css-media-queries/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
- [15]: http://bradfrostweb.com/blog/mobile/hi-res-optimization/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
+ [5]: https://www.appleinsider.com/articles/12/03/13/how_to_preview_the_retina_display_enhanced_applecom_in_safari_on_mac_or_pc.html
+ [6]: https://tableless.com.br/introducao-sobre-media-queries/
+ [7]: https://cloudfour.com/how-apple-com-will-serve-retina-images-to-new-ipads/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
+ [8]: https://coding.smashingmagazine.com/2012/01/16/resolution-independence-with-svg/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
+ [9]: https://www.w3.org/community/respimg/
+ [10]: https://aralbalkan.com/3331?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
+ [11]: https://www.weedygarden.net/2010/10/13/retina-display-and-css-background-images/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
+ [12]: https://www.lukew.com/ff/entry.asp?1142&utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
+ [13]: https://eisabainyo.net/weblog/2011/06/07/how-to-use-hi-res-images-for-web-apps-in-iphone4/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
+ [14]: https://www.fiveminutes.eu/targeting-hight-screen-densities-with-css-media-queries/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1
+ [15]: https://bradfrostweb.com/blog/mobile/hi-res-optimization/?utm_source=TablelessComBr&utm_medium=PostLink&utm_campaign=TablelessComBr&utm_nooverride=1

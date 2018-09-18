@@ -24,7 +24,7 @@ Algumas anotações da minha palestra na QCon 2013, sobre como fazer seu própri
 
 
 <p style="margin-bottom:5px">
-  <strong> <a href="https://www.slideshare.net/diegoeis/frameworks-css2" title="Construindo seu framework CSS" target="_blank">Construindo seu framework CSS</a> </strong> from <strong><a href="http://www.slideshare.net/diegoeis" target="_blank">Diego Eis</a></strong>
+  <strong> <a href="https://www.slideshare.net/diegoeis/frameworks-css2" title="Construindo seu framework CSS" target="_blank">Construindo seu framework CSS</a> </strong> from <strong><a href="https://www.slideshare.net/diegoeis" target="_blank">Diego Eis</a></strong>
 </p>
 
 ### Por que usar Frameworks?

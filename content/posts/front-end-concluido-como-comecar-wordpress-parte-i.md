@@ -8,7 +8,7 @@ url: /front-end-concluido-como-comecar-wordpress-parte-i/
 tweetbackscheck:
   - 1356437477
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4835";s:7:"tinyurl";s:26:"http://tinyurl.com/bsv6v2r";s:4:"isgd";s:19:"http://is.gd/OBr5q1";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4835";s:7:"tinyurl";s:26:"https://tinyurl.com/bsv6v2r";s:4:"isgd";s:19:"https://is.gd/OBr5q1";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 527485010
@@ -19,7 +19,7 @@ tags:
   - Wordpress
 
 ---
-Andando pelo <a href="http://tableless.com.br/forum/" title="Fórum" target="_blank">fórum do Tableless</a>, me deparei com [esta postagem][1], e pelo que eu vi, essa é uma grande dúvida para todos que estão iniciando no desenvolvimento com WordPress. 
+Andando pelo <a href="https://tableless.com.br/forum/" title="Fórum" target="_blank">fórum do Tableless</a>, me deparei com [esta postagem][1], e pelo que eu vi, essa é uma grande dúvida para todos que estão iniciando no desenvolvimento com WordPress. 
 
 O usuário [Angelo Lucas][2] do nosso fórum postou a seguinte resposta:
 
@@ -33,16 +33,16 @@ Gostei bastante da resposta, mas o assunto é tão empolgante que merecia um con
 
 Com o front-end concluído, duplique o tema padrão do WordPress e altere o nome da pasta duplicada para o nome do seu tema. Acho melhor duplicar, pois se perde um tempo criando os arquivos do zero. Se o seu WordPress for a partir da versão 3.2, terás dois temas padrões: o Twenty Ten e o Twenty Eleven. A diferença é que o Twenty Eleven vem programado nas tags do HTML5.
 
-Depois disso, é importante entender a <a href="http://tableless.com.br/hierarquia-de-arquivos-do-wordpress/" target="_blank">hierarquia de arquivos do WordPress</a> e saber que **sem os arquivos index.php e style.css o tema não funciona**.
+Depois disso, é importante entender a <a href="https://tableless.com.br/hierarquia-de-arquivos-do-wordpress/" target="_blank">hierarquia de arquivos do WordPress</a> e saber que **sem os arquivos index.php e style.css o tema não funciona**.
 
 O arquivo style.css, além do estilo do tema, pode-se preencher informações do tema. Adicione no inicio do style.css esses comentários:
 
 <pre class="lang-css">/*
 Theme Name: Nome do meu Tema
-Theme URI: http://meusite.com.br
+Theme URI: https://meusite.com.br
 Description: Descrição do meu tema
 Author: Paulo Rodrigues
-Author URI: http://meusite.com.br
+Author URI: https://meusite.com.br
 Version: 1.0
 Tags: branco, vermelho, preto, header, menu, colunas, rodape
 */
@@ -59,8 +59,8 @@ Vou mostrar um exemplo de meus arquivos header.php e footer.php para vocês tere
 **header.php**
 
 <pre class="lang-html">&lt;!DOCTYPE html&gt;
-&lt;html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="pt-BR"&gt;
-&lt;head profile="http://gmpg.org/xfn/11"&gt;
+&lt;html xmlns="https://www.w3.org/1999/xhtml" dir="ltr" lang="pt-BR"&gt;
+&lt;head profile="https://gmpg.org/xfn/11"&gt;
 &lt;meta charset="&lt;?php bloginfo( 'charset' ); ?&gt;" /&gt;
 &lt;title&gt;&lt;?php bloginfo('name'); ?&gt;&lt;?php wp_title('|'); ?&gt;&lt;/title&gt;
 &lt;link rel="stylesheet" type="text/css" href="&lt;?php bloginfo( 'stylesheet_url' ); ?&gt;" /&gt; 
@@ -146,18 +146,18 @@ Esperem pelas próximas partes deste artigo, pois vou aprofundar mais esse assun
 
 Quero deixar o espaço sempre aberto para quem tiver dúvidas, dar sugestões, criticas construtivas, ect. Podem comentar, enviar email e encher o fórum do Tableless, pois de lá nasceu a idéia para esse artigo e tenho certeza que nascerá os próximos também.
 
- [1]: http://tableless.com.br/forum/discussion/55/customizacao-tema-wordpress
- [2]: http://tableless.com.br/forum/profile/375/angelolucas
+ [1]: https://tableless.com.br/forum/discussion/55/customizacao-tema-wordpress
+ [2]: https://tableless.com.br/forum/profile/375/angelolucas
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/12/header-para-desenvolvimento-wordpress.jpg
- [4]: http://codex.wordpress.org/pt-br:Template_Tags/bloginfo
- [5]: http://codex.wordpress.org/Function_Reference/wp_title
- [6]: http://codex.wordpress.org/Function_Reference/wp_head
- [7]: http://codex.wordpress.org/Function_Reference/wp_footer
- [8]: http://tableless.com.br/criando-menus-no-wordpress/
- [9]: http://tableless.com.br/o-loop-do-wordpress/
- [10]: http://codex.wordpress.org/Function_Reference/the_time
- [11]: http://codex.wordpress.org/pt-br:Formatando_Data_e_Hora
- [12]: http://codex.wordpress.org/Post_Thumbnails
- [13]: http://tableless.com.br/adicionando-post-thumbnail/
- [14]: http://tableless.com.br/criando-sidebar-dinamica-no-wordpress/
- [15]: http://codex.wordpress.org/Template_Tags
+ [4]: https://codex.wordpress.org/pt-br:Template_Tags/bloginfo
+ [5]: https://codex.wordpress.org/Function_Reference/wp_title
+ [6]: https://codex.wordpress.org/Function_Reference/wp_head
+ [7]: https://codex.wordpress.org/Function_Reference/wp_footer
+ [8]: https://tableless.com.br/criando-menus-no-wordpress/
+ [9]: https://tableless.com.br/o-loop-do-wordpress/
+ [10]: https://codex.wordpress.org/Function_Reference/the_time
+ [11]: https://codex.wordpress.org/pt-br:Formatando_Data_e_Hora
+ [12]: https://codex.wordpress.org/Post_Thumbnails
+ [13]: https://tableless.com.br/adicionando-post-thumbnail/
+ [14]: https://tableless.com.br/criando-sidebar-dinamica-no-wordpress/
+ [15]: https://codex.wordpress.org/Template_Tags

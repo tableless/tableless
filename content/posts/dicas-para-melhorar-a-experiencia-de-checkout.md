@@ -67,7 +67,7 @@ Como ainda tínhamos bastante informações a apresentar, recorremos a uma nova 
 
 ![](https://i.imgur.com/RCPbvpW.png)
 
-Dividimos em telas cada bloco de informações. Se tinham relação, beleza, **deixamos junto para fazer sentido em contexto**, se não, separamos. Todas as informações ainda seriam coletadas, mas criamos uma sensação de mais fluidez ao processo, algo que [resgatamos do padrão que os Wizards trabalham em UI](http://blog.alura.com.br/coletando-informacoes-do-usuario-atraves-de-wizards/).
+Dividimos em telas cada bloco de informações. Se tinham relação, beleza, **deixamos junto para fazer sentido em contexto**, se não, separamos. Todas as informações ainda seriam coletadas, mas criamos uma sensação de mais fluidez ao processo, algo que [resgatamos do padrão que os Wizards trabalham em UI](https://blog.alura.com.br/coletando-informacoes-do-usuario-atraves-de-wizards/).
 
 E, se tratando de wizards, trouxemos também as boas práticas desse padrão, como a inclusão de uma barra de progresso, que guiava o usuário em quais etapas tinha a seguir e em qual estava.
 
@@ -85,7 +85,7 @@ Se fôssemos implementar isso no aplicativo da loja, logo depois que o usuário 
 
 O problema disso é ter que comprometer o usuário em um momento que ele ainda está em processo de conversão. Isto é, criamos uma barreira que inibe a participação dele no app, afinal, por que eu passaria informações tão pessoais minhas sem nem saber se aquilo vale a pena? Vão usar esses dados em algo ruim? Será que é um app confiável e de credibilidade?
 
-Para evitar que isso aconteça e **permita uma maior liberdade no primeiro contato com o app**, inserimos um registro, ou login, apenas quando oportuno, isto é conhecido como [Lazy registration](http://blog.alura.com.br/quando-coletar-cadastros-de-usuario/).
+Para evitar que isso aconteça e **permita uma maior liberdade no primeiro contato com o app**, inserimos um registro, ou login, apenas quando oportuno, isto é conhecido como [Lazy registration](https://blog.alura.com.br/quando-coletar-cadastros-de-usuario/).
 
 No caso do ecommerce que refatoramos, o momento que identificamos ser muito relevante foi justamente quando, no processo de checkout, o usuário passa pela parte de identificação, quando poderá entrar com sua conta de usuário e, a partir do que já cadastrou, resumiremos uma etapa.
 

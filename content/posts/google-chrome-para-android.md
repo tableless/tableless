@@ -9,7 +9,7 @@ tweetbackscheck:
   - 1356424309
 dsq_thread_id: 568738663
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/google-chrome-para-android/";s:7:"tinyurl";s:26:"http://tinyurl.com/7jccyz7";s:4:"isgd";s:19:"http://is.gd/z6EQHM";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/google-chrome-para-android/";s:7:"tinyurl";s:26:"https://tinyurl.com/7jccyz7";s:4:"isgd";s:19:"https://is.gd/z6EQHM";}'
 twittercomments:
   - 'a:2:{i:167238449114517504;s:7:"retweet";i:167238035094781952;s:7:"retweet";}'
 tweetcount:
@@ -34,6 +34,6 @@ O Google Chrome para Android ainda está em fase beta e você pode [baixá-lo no
 
 Uma boa notícia para toda a comunidade de desenvolvimento web mobile. A briga fica acirrada entre os sistemas. O que é bom para nós e para os usuários. Agora oremos para que o IE10 para Windows Phone saia logo, o que eu duvido. Acho que ele somente virá com o Windows Phone 8. Entretanto temos um ótimo cenário quando falamos sobre browsers para mobiles.
 
- [1]: http://chrome.blogspot.com/2012/02/introducing-chrome-for-android.html
+ [1]: https://chrome.blogspot.com/2012/02/introducing-chrome-for-android.html
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/02/Tablet-phone-YT-G-Maps.png
  [3]: https://market.android.com/details?id=com.android.chrome

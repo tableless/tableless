@@ -12,7 +12,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356440352
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/pulga-na-cueca-html5";s:7:"tinyurl";s:26:"http://tinyurl.com/3ny8bla";s:4:"isgd";s:19:"http://is.gd/VasxeW";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/pulga-na-cueca-html5";s:7:"tinyurl";s:26:"https://tinyurl.com/3ny8bla";s:4:"isgd";s:19:"https://is.gd/VasxeW";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038968
@@ -51,14 +51,14 @@ Eu utilizei um bocado de [seletores complexos][10] e [pseudo-classes][11] que no
   
 O CSS é outra linguagem que está se atualizando muito rápido. Os browsers tem se prontificado implementando atualizações de características que podem ser salvar a nossa vida durante o desenvolvimento. Daqui pra frente, ouviremos muito sobre CSS Animations e CSS 3. As coisas estão andando depressa.
 
- [1]: http://www.whatwg.org/specs/web-apps/current-work/multipage/index.html#contents
- [2]: http://twitter.com/tableless/
- [3]: http://feeds2.feedburner.com/tableless
- [4]: http://search.twitter.com/search?q=%23semie6
- [5]: http://tableless.com.br/html5-estrutura-semantica
- [6]: http://www.engadget.com/2009/02/18/google-demos-html5-based-maps-on-the-palm-pre/
- [7]: http://www.whatwg.org/specs/web-apps/current-work/#offline
- [8]: http://www.whatwg.org/specs/web-apps/current-work/#video-and-audio-codecs-for-video-elements
- [9]: http://whatwg.org/html5
- [10]: http://tableless.com.br/seletores-complexos-do-css
- [11]: http://tableless.com.br/pseudo-classes-css
+ [1]: https://www.whatwg.org/specs/web-apps/current-work/multipage/index.html#contents
+ [2]: https://twitter.com/tableless/
+ [3]: https://feeds2.feedburner.com/tableless
+ [4]: https://search.twitter.com/search?q=%23semie6
+ [5]: https://tableless.com.br/html5-estrutura-semantica
+ [6]: https://www.engadget.com/2009/02/18/google-demos-html5-based-maps-on-the-palm-pre/
+ [7]: https://www.whatwg.org/specs/web-apps/current-work/#offline
+ [8]: https://www.whatwg.org/specs/web-apps/current-work/#video-and-audio-codecs-for-video-elements
+ [9]: https://whatwg.org/html5
+ [10]: https://tableless.com.br/seletores-complexos-do-css
+ [11]: https://tableless.com.br/pseudo-classes-css

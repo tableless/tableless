@@ -7,7 +7,7 @@ url: /principais-pontos-da-acessibilidade-na-web/
 tweetbackscheck:
   - 1356439825
 shorturls:
-  - 'a:3:{s:9:"permalink";s:66:"http://tableless.com.br/principais-pontos-da-acessibilidade-na-web";s:7:"tinyurl";s:26:"http://tinyurl.com/3hndf42";s:4:"isgd";s:19:"http://is.gd/uYiV4O";}'
+  - 'a:3:{s:9:"permalink";s:66:"https://tableless.com.br/principais-pontos-da-acessibilidade-na-web";s:7:"tinyurl";s:26:"https://tinyurl.com/3hndf42";s:4:"isgd";s:19:"https://is.gd/uYiV4O";}'
 twittercomments:
   - 'a:1:{i:10017612356395008;s:7:"retweet";}'
 tweetcount:
@@ -108,7 +108,7 @@ Leia Mais:
   * [Acessibilidade.net][3]
   * [Acessibilidade Brasil][4]
 
- [1]: http://www.speeds.com.br/conteudo/tecnologia/tecn_081002.shtml
- [2]: http://www1.folha.uol.com.br/folha/informatica/ult124u10755.shtml
- [3]: http://www.acessibilidade.net/
- [4]: http://www.acessobrasil.org.br/
+ [1]: https://www.speeds.com.br/conteudo/tecnologia/tecn_081002.shtml
+ [2]: https://www1.folha.uol.com.br/folha/informatica/ult124u10755.shtml
+ [3]: https://www.acessibilidade.net/
+ [4]: https://www.acessobrasil.org.br/

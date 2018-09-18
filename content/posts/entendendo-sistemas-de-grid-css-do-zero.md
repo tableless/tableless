@@ -48,7 +48,7 @@ Agora podemos declarar porcentagens para a largura das colunas. Isso permite que
 
 ## Limpando Floats
 
-A fim de alinhar as colunas horizontalmente, sistemas de grid irão <a href="https://css-tricks.com/all-about-floats/" target="_blank">flutuar</a> as colunas. Isso significa que você precisa limpar os elementos que flutuam sobre a linha para manter a estrutura do layout. Aqui é onde o <a href="http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/" target="_blank">clearfix</a> entra:
+A fim de alinhar as colunas horizontalmente, sistemas de grid irão <a href="https://css-tricks.com/all-about-floats/" target="_blank">flutuar</a> as colunas. Isso significa que você precisa limpar os elementos que flutuam sobre a linha para manter a estrutura do layout. Aqui é onde o <a href="https://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/" target="_blank">clearfix</a> entra:
 
 <pre class="lang-css">.row:before,
 .row:after {
@@ -142,7 +142,7 @@ Agora podemos declarar porcentagens para a largura das colunas. Isso permite que
 
 ## Limpando Floats
 
-A fim de alinhar as colunas horizontalmente, sistemas de grid irão <a href="https://css-tricks.com/all-about-floats/" target="_blank">flutuar</a> as colunas. Isso significa que você precisa limpar os elementos que flutuam sobre a linha para manter a estrutura do layout. Aqui é onde o <a href="http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/" target="_blank">clearfix</a> entra:
+A fim de alinhar as colunas horizontalmente, sistemas de grid irão <a href="https://css-tricks.com/all-about-floats/" target="_blank">flutuar</a> as colunas. Isso significa que você precisa limpar os elementos que flutuam sobre a linha para manter a estrutura do layout. Aqui é onde o <a href="https://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/" target="_blank">clearfix</a> entra:
 
 <pre class="lang-css">.row:before,
 .row:after {
@@ -244,7 +244,7 @@ Agora podemos declarar porcentagens para a largura das colunas. Isso permite que
 
 ## Limpando Floats
 
-A fim de alinhar as colunas horizontalmente, sistemas de grid irão <a href="https://css-tricks.com/all-about-floats/" target="_blank">flutuar</a> as colunas. Isso significa que você precisa limpar os elementos que flutuam sobre a linha para manter a estrutura do layout. Aqui é onde o <a href="http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/" target="_blank">clearfix</a> entra:
+A fim de alinhar as colunas horizontalmente, sistemas de grid irão <a href="https://css-tricks.com/all-about-floats/" target="_blank">flutuar</a> as colunas. Isso significa que você precisa limpar os elementos que flutuam sobre a linha para manter a estrutura do layout. Aqui é onde o <a href="https://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/" target="_blank">clearfix</a> entra:
 
 <pre class="lang-css">.row:before,
 .row:after {
@@ -338,7 +338,7 @@ Agora podemos declarar porcentagens para a largura das colunas. Isso permite que
 
 ## Limpando Floats
 
-A fim de alinhar as colunas horizontalmente, sistemas de grid irão <a href="https://css-tricks.com/all-about-floats/" target="_blank">flutuar</a> as colunas. Isso significa que você precisa limpar os elementos que flutuam sobre a linha para manter a estrutura do layout. Aqui é onde o <a href="http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/" target="_blank">clearfix</a> entra:
+A fim de alinhar as colunas horizontalmente, sistemas de grid irão <a href="https://css-tricks.com/all-about-floats/" target="_blank">flutuar</a> as colunas. Isso significa que você precisa limpar os elementos que flutuam sobre a linha para manter a estrutura do layout. Aqui é onde o <a href="https://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/" target="_blank">clearfix</a> entra:
 
 <pre class="lang-css">.row:before,
 .row:after {
@@ -490,9 +490,9 @@ Apesar do fato que o sistema de grid é responsivo, ele sozinho não pode ir tã
 
 Aqui, estamos dizendo ao grid para permitir que cada coluna possa ocupar a largura total do seu _container_ para dispositivos com uma janela menor que 550px de largura. _Gutters_ já não são mais necessárias aqui, então nós as removemos.
 
-Como alternativa, você pode optar pela estratégia <a href="http://www.sitepoint.com/making-case-mobile-first-designs/" target="_blank">mobile first</a> que leva a abordagem oposta, aumentando para um layout de 12 colunas. Nesse caso, as colunas começam como uma largura total, depois estabelecemos as larguras das colunas e _floats_ para permitir que elas se alinhem horizontalmente quando a resolução da tela atinge um limite especificado.
+Como alternativa, você pode optar pela estratégia <a href="https://www.sitepoint.com/making-case-mobile-first-designs/" target="_blank">mobile first</a> que leva a abordagem oposta, aumentando para um layout de 12 colunas. Nesse caso, as colunas começam como uma largura total, depois estabelecemos as larguras das colunas e _floats_ para permitir que elas se alinhem horizontalmente quando a resolução da tela atinge um limite especificado.
 
-Esse é a abordagem preferida para o sistema de grid do <a href="http://www.sitepoint.com/understanding-bootstrap-grid-system/" target="_blank">bootstrap</a>, que não institui a largura das colunas até que a janela de exibição atinja uma largura mínima de 992px. Essa pode ser uma abordagem mais favorável para seu caso, e deve ser algo para analisar melhor quando avaliar um sistema de grid.
+Esse é a abordagem preferida para o sistema de grid do <a href="https://www.sitepoint.com/understanding-bootstrap-grid-system/" target="_blank">bootstrap</a>, que não institui a largura das colunas até que a janela de exibição atinja uma largura mínima de 992px. Essa pode ser uma abordagem mais favorável para seu caso, e deve ser algo para analisar melhor quando avaliar um sistema de grid.
 
 ## Juntando Tudo
 
@@ -521,7 +521,7 @@ Confira abaixo a demonstração no CodePen para ver todo o sistema de grid em a�
   title="Understanding CSS Grid Systems"
 >}}
 
-Você também experimentar a <a href="http://codepen.io/ryanmorr/full/zxRzyE/" target="_blank">demo em tela cheia</a> para uma melhor impressão. Não se esqueça de brincar com as dimensões da tela para ver como o grid lida com várias resoluções.
+Você também experimentar a <a href="https://codepen.io/ryanmorr/full/zxRzyE/" target="_blank">demo em tela cheia</a> para uma melhor impressão. Não se esqueça de brincar com as dimensões da tela para ver como o grid lida com várias resoluções.
 
 ## Conclusão
 
@@ -529,4 +529,4 @@ Como você pode ver, não é preciso muito para montar um sistema de grid básic
 
 Tradução: Tamiris Bonicenha
 
-Acesse o artigo original no <a href="http://www.sitepoint.com/understanding-css-grid-systems/" target="_blank">SitePoint – &#8220;Understanding CSS Grid Systems from the Ground Up&#8221;</a>
+Acesse o artigo original no <a href="https://www.sitepoint.com/understanding-css-grid-systems/" target="_blank">SitePoint – &#8220;Understanding CSS Grid Systems from the Ground Up&#8221;</a>

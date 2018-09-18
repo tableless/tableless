@@ -158,9 +158,9 @@ Object.getNotifier(obj).notify({ type: "new", name: "id" });</pre>
 
 Caso você não queira aguardar sentado o Javascript Harmony existem algumas alternativas como o [Object.observe][5] (polyfill/shim) ou a utilização do [Chrome Canary][6] com a flag &#8220;Enable Experimental JS APIs&#8221; ativada.
 
- [1]: http://wiki.ecmascript.org/doku.php
+ [1]: https://wiki.ecmascript.org/doku.php
  [2]: https://github.com/melanke/Watch.JS
- [3]: http://backbonejs.org/#Events-listenTo
- [4]: http://wiki.ecmascript.org/doku.php?id=harmony:observe_public_api
+ [3]: https://backbonejs.org/#Events-listenTo
+ [4]: https://wiki.ecmascript.org/doku.php?id=harmony:observe_public_api
  [5]: https://github.com/jdarling/Object.observe
  [6]: https://www.google.com/intl/pt-BR/chrome/browser/canary.html "Chrome Canary"

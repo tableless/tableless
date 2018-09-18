@@ -2,7 +2,7 @@
 title: Manipulando Views com Android
 authors: Matheus Castiglioni
 type: post
-image: http://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/02/manipulando-views-no-android.jpg
+image: https://blog.matheuscastiglioni.com.br/arquivo/download/posts/2018/02/manipulando-views-no-android.jpg
 date: 2018-03-02
 excerpt: Sabemos que ficar procurando views (elementos ou componentes) no Android é um tanto quanto chato, necessitamos muitas linhas de código para realizar muito pouco.
 categories:
@@ -10,7 +10,7 @@ categories:
 ---
 Sabemos que ficar procurando *views* (elementos ou componentes) no Android é um tanto quanto chato, necessitamos muitas linhas de código para realizar muito pouco. Para exemplo do *post* vou estar utilizando a seguinte *app*:
 
-![Exemplo app](http://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/exemplo-injetando-views.gif)
+![Exemplo app](https://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/exemplo-injetando-views.gif)
 
 Como pode ver, é uma simples aplicação onde dado um **Nome** é informado um **Olá NOME**, como podemos começar o desenvolvimento dessa aplicação com Android?
 
@@ -20,9 +20,9 @@ Como o tema do *post* é focar na injeção de *views* vou dar o *layout* da apl
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
+<LinearLayout xmlns:android="https://schemas.android.com/apk/res/android"
+    xmlns:app="https://schemas.android.com/apk/res-auto"
+    xmlns:tools="https://schemas.android.com/tools"
     android:layout_height="match_parent"
     android:gravity="center_horizontal"
     android:orientation="vertical"
@@ -56,7 +56,7 @@ Como o tema do *post* é focar na injeção de *views* vou dar o *layout* da apl
 
 Com esse *layout* temos nossa *app* com a seguinte aparência:
 
-![Aparencia Injetando Views](http://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/aparencia-injetando-views.png)
+![Aparencia Injetando Views](https://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/aparencia-injetando-views.png)
 
 ## Desenvolvendo a app
 
@@ -128,7 +128,7 @@ public void onClick(View view) {
 
 Aqui tenho certeza que seu código novamente não deve estar compilando, mas afinal, o que esta acontecendo?
 
-![Gif Agnes pensativa](http://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/gif-agnes-pensativa.gif)
+![Gif Agnes pensativa](https://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/gif-agnes-pensativa.gif)
 
 Repare no erro que está sendo informado:
 
@@ -173,11 +173,11 @@ Poderíamos ter buscado e referenciado nossas *views* dentro do `onClick`? Sim, 
 
 Será que nossa aplicação está funcionando? Vamos testar!
 
-![Testando aplicação com nome](http://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/testandoa-app-com-nome.gif)
+![Testando aplicação com nome](https://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/testandoa-app-com-nome.gif)
 
 Legal, tudo está funcionando, certo? Errado, vamos tentar clicar no botão sem informar um nome.
 
-![Testando aplicação sem nome](http://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/testandoa-app-sem-nome.gif)
+![Testando aplicação sem nome](https://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/testandoa-app-sem-nome.gif)
 
 Pois é, e mensagem de olá ficou pela metade, cade o nome digitado? Para isso podemos fazer uma simples validação e informar ao usuário que nome é obrigatório:
 
@@ -196,11 +196,11 @@ public void onClick(View view) {
 
 Uma simples validação, apenas verificando se o nome informado é igual à branco, caso seja, um erro será informado no campo para o usuário ter um *feedback*, após informar o nome, tudo deve funcionar normalmente, vamos testar?
 
-![Testando aplicação sem nome com validação](http://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/testando-aplicacao-sem-nome-com-validacao.gif)
+![Testando aplicação sem nome com validação](https://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/testando-aplicacao-sem-nome-com-validacao.gif)
 
 Maravilha, aplicação está pronta e funcionando corretamente.
 
-![Gif da aplicação funcionando](http://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/gif-pessoal-comemorando.gif)
+![Gif da aplicação funcionando](https://blog.matheuscastiglioni.com.br/arquivo/download/arquivos-imagens/2018/02/gif-pessoal-comemorando.gif)
 
 Abaixo segue o código final de classa `Activity`:
 
@@ -246,4 +246,4 @@ Caso deseje, o projeto pode ser encontrado em meu github: [injetando-views](http
 
 No próximo *post* vou mostrar como deixar esse trabalho de injeção e referências de *views* mais simples (curioso com o *spoiler*? Não deixe de conferir).
 
-Publicado originalmente em [blog.matheuscastiglioni.com.br](http://blog.matheuscastiglioni.com.br/manipulando-views-no-android) em 27 de Fevereiro de 2018
+Publicado originalmente em [blog.matheuscastiglioni.com.br](https://blog.matheuscastiglioni.com.br/manipulando-views-no-android) em 27 de Fevereiro de 2018

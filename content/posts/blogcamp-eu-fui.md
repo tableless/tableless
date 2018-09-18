@@ -7,7 +7,7 @@ url: /blogcamp-eu-fui/
 tweetbackscheck:
   - 1356277129
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/blogcamp-eu-fui";s:7:"tinyurl";s:26:"http://tinyurl.com/3frxs9r";s:4:"isgd";s:19:"http://is.gd/QvkGsD";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/blogcamp-eu-fui";s:7:"tinyurl";s:26:"https://tinyurl.com/3frxs9r";s:4:"isgd";s:19:"https://is.gd/QvkGsD";}'
 twittercomments:
   - 'a:1:{i:33047691357323264;s:7:"retweet";}'
 tweetcount:
@@ -31,5 +31,5 @@ Um abraço pro pessoal que foi e que até me reconheceram lá no evento! 😉
 
 **[update]** Durante o BlogCamp, eu fazia atualizações no meu [Twitter][2].
 
- [1]: http://blogblogs.com.br/
- [2]: http://twitter.com/diegoeis
+ [1]: https://blogblogs.com.br/
+ [2]: https://twitter.com/diegoeis

@@ -17,7 +17,7 @@ tags:
 ---
 Apresentações não estão mais limitadas a softwares e plataformas específicas – hoje em dia é possível criar slides utilizando o navegador e tecnologias como HTML5, CSS3 e JavaScript. 
 
-Uma das responsáveis por isto é a biblioteca JavaScript <a href="http://lab.hakim.se/reveal-js/" target="_blank">reveal.js</a>, criada por Hakim El Hattab, desenvolvedor mais conhecido por seus <a href="http://lab.hakim.se/" target="_blank">experimentos com animações CSS3</a>.
+Uma das responsáveis por isto é a biblioteca JavaScript <a href="https://lab.hakim.se/reveal-js/" target="_blank">reveal.js</a>, criada por Hakim El Hattab, desenvolvedor mais conhecido por seus <a href="https://lab.hakim.se/" target="_blank">experimentos com animações CSS3</a>.
 
 Neste artigo vamos criar uma apresentação básica e conhecer as opções disponíveis para personalizar nossos slides.
 
@@ -149,9 +149,9 @@ No exemplo acima habilitamos o plugin de zoom. Agora, ao utilizar a combinação
 
 Isso foi só uma parte do que a biblioteca reveal.js oferece. É possível ainda criar temas próprios (o diretório de temas inclui um esqueleto em Sass), tirar proveito da API JavaScript do objeto Reveal (com métodos para controlar a navegação dos slides), escutar os eventos disparados por trocas de slides e fragmentos, entre outras coisas.
 
-Além do pacote JavaScript, você pode criar suas apresentações utilizando o serviço <a href="http://www.rvl.io/" target="_blank">www.rvl.io</a>, sem a necessidade de código.
+Além do pacote JavaScript, você pode criar suas apresentações utilizando o serviço <a href="https://www.rvl.io/" target="_blank">www.rvl.io</a>, sem a necessidade de código.
 
 Para finalizar, seguem os links do código fonte do exemplo e da apresentação criada aqui:
 
   * <a href="https://github.com/tableless/exemplos/tree/gh-pages/revealjs" target="_blank">código fonte da apresentação</a>
-  * <a href="http://tableless.github.com/exemplos/revealjs/" target="_blank">visualizar a apresentação no navegador</a>
+  * <a href="https://tableless.github.com/exemplos/revealjs/" target="_blank">visualizar a apresentação no navegador</a>

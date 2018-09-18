@@ -8,7 +8,7 @@ url: /utilizando-apps-em-vez-de-browsers/
 tweetbackscheck:
   - 1356434968
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5117";s:7:"tinyurl";s:26:"http://tinyurl.com/8x5xjox";s:4:"isgd";s:19:"http://is.gd/8OhNeJ";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5117";s:7:"tinyurl";s:26:"https://tinyurl.com/8x5xjox";s:4:"isgd";s:19:"https://is.gd/8OhNeJ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 528840038
@@ -49,4 +49,4 @@ Na verdade não precisa&#8230; Mas é bom manter a interface nativa de cada um d
 
 Só uma observação: estes números refletem a realidade lá dos states, ok? Provavelmente esse comportamento pode ser multiplicado em outros países, como aqui.
 
- [1]: http://www.comscore.com/Press_Events/Press_Releases/2011/12/comScore_Reports_November_2011_U.S._Mobile_Subscriber_Market_Share?utm_source=TablelessComBr&utm_medium=link&utm_campaign=Post
+ [1]: https://www.comscore.com/Press_Events/Press_Releases/2011/12/comScore_Reports_November_2011_U.S._Mobile_Subscriber_Market_Share?utm_source=TablelessComBr&utm_medium=link&utm_campaign=Post

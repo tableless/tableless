@@ -7,7 +7,7 @@ url: /minhas-ferramentas-de-trabalho-sim-e-sobre-fireworks-e-afins/
 tweetbackscheck:
   - 1356467004
 shorturls:
-  - 'a:3:{s:9:"permalink";s:84:"http://tableless.com.br/minhas-ferramentas-de-trabalho-sim-e-sobre-fireworks-e-afins";s:7:"tinyurl";s:26:"http://tinyurl.com/44fpc98";s:4:"isgd";s:19:"http://is.gd/SvnuSp";}'
+  - 'a:3:{s:9:"permalink";s:84:"https://tableless.com.br/minhas-ferramentas-de-trabalho-sim-e-sobre-fireworks-e-afins";s:7:"tinyurl";s:26:"https://tinyurl.com/44fpc98";s:4:"isgd";s:19:"https://is.gd/SvnuSp";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037203
@@ -95,11 +95,11 @@ E com certeza vou pedir para alguém me mostrar alguma vantagem do Fireworks lá
 
 Ps.: Não preciso dizer todo aquele blá blá blá de novo, não é? Usa o que sentir melhor. Use o programa que quiser.
 
- [1]: http://www.adobe.com/products/illustrator/
- [2]: http://www.adobe.com/products/photoshop/
- [3]: http://visie.com.br/
- [4]: http://tableless.com.br/desenvolvedor-analfabetico-sim-e-sobre-wysiwyg
- [5]: http://adobe.com
- [6]: http://www.adobe.com/products/fireworks/features/
- [7]: http://www.semantico.com.br/desenvolvedor-analfabetico-x-photoshop-x-fireworks-x-illustrator/
- [8]: http://visie.com.br/codeshow/
+ [1]: https://www.adobe.com/products/illustrator/
+ [2]: https://www.adobe.com/products/photoshop/
+ [3]: https://visie.com.br/
+ [4]: https://tableless.com.br/desenvolvedor-analfabetico-sim-e-sobre-wysiwyg
+ [5]: https://adobe.com
+ [6]: https://www.adobe.com/products/fireworks/features/
+ [7]: https://www.semantico.com.br/desenvolvedor-analfabetico-x-photoshop-x-fireworks-x-illustrator/
+ [8]: https://visie.com.br/codeshow/

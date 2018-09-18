@@ -7,7 +7,7 @@ url: /quer-emprego-ou-quer-anunciar-um-emprego/
 tweetbackscheck:
   - 1354977119
 shorturls:
-  - 'a:3:{s:9:"permalink";s:64:"http://tableless.com.br/quer-emprego-ou-quer-anunciar-um-emprego";s:7:"tinyurl";s:26:"http://tinyurl.com/4385v8z";s:4:"isgd";s:19:"http://is.gd/f3Pksh";}'
+  - 'a:3:{s:9:"permalink";s:64:"https://tableless.com.br/quer-emprego-ou-quer-anunciar-um-emprego";s:7:"tinyurl";s:26:"https://tinyurl.com/4385v8z";s:4:"isgd";s:19:"https://is.gd/f3Pksh";}'
 twittercomments:
   - 'a:2:{i:50011316148121601;s:7:"retweet";i:50011119691120640;s:7:"retweet";}'
 tweetcount:
@@ -26,10 +26,10 @@ Mas, se você não procura um emprego, pelo contrário, procura um profissional 
 
 Agora, melhor que isso é anunciar sua vaga, de graça até Março de 2007! Isso aí, totalmente na faixa.
 
-Antes que eu me esqueça, o endereço dessa maravilha é <http://vagas.carreirasolo.org/>. 😉
+Antes que eu me esqueça, o endereço dessa maravilha é <https://vagas.carreirasolo.org/>. 😉
 
 Se você é desenvolvedor e quer um emprego, dá um pulo lá. Se você quer arranjar alguém decente para sua empresa, corra pra lá também. Foco específico, serviço de boa qualidade e seu problema resolvido.
 
- [1]: http://www.carreirasolo.org
- [2]: http://crisdias.com
- [3]: http://vagas.carreirasolo.org/
+ [1]: https://www.carreirasolo.org
+ [2]: https://crisdias.com
+ [3]: https://vagas.carreirasolo.org/

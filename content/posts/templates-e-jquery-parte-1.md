@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356440751
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/templates-e-jquery-parte-1";s:7:"tinyurl";s:26:"http://tinyurl.com/3zhfa3b";s:4:"isgd";s:19:"http://is.gd/WkuhWP";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/templates-e-jquery-parte-1";s:7:"tinyurl";s:26:"https://tinyurl.com/3zhfa3b";s:4:"isgd";s:19:"https://is.gd/WkuhWP";}'
 twittercomments:
   - 'a:17:{i:12589426408431616;s:6:"136321";i:14319027266527232;s:7:"retweet";i:14318747263176704;s:7:"retweet";i:12654536934035457;s:7:"retweet";i:12653002087211009;s:7:"retweet";i:17524290672926720;s:7:"retweet";i:60675013988204544;s:6:"137642";i:129613816362319873;s:7:"retweet";i:129543420053172224;s:7:"retweet";i:129543327329689600;s:7:"retweet";i:129541797994184704;s:7:"retweet";i:129541699046350848;s:7:"retweet";i:186442457112780800;s:7:"retweet";i:268663122141786112;s:7:"retweet";i:268553287744225281;s:7:"retweet";i:273469806190149632;s:7:"retweet";i:273465631557443585;s:7:"retweet";}'
 tweetcount:
@@ -39,7 +39,7 @@ Na dieta diária do desenvolvedor front-end sempre esteve presente uma saladinha
 }
 $('#noticias').append( html );</pre>
 
-O problema do código acima é que ele é pouco reutilizável e de baixa legibilidade, além de ser muito chato de digitar e prestar manutenção, com todas as concatenações e índices. Foi pensando nisso que o pessoal da Microsoft desenvolveu o plugin <a href="http://github.com/jquery/jquery-tmpl" rel="external" title="jQuery.tmpl() no GitHub">jQuery.tmpl()</a> (tmpl de template, é claro), aceito recentemente na <a href="http://api.jquery.com/jquery.tmpl/" rel="external" title="Página do plugin jQuery.tmpl() na documentação oficial do jQuery">API oficial do jQuery</a>.
+O problema do código acima é que ele é pouco reutilizável e de baixa legibilidade, além de ser muito chato de digitar e prestar manutenção, com todas as concatenações e índices. Foi pensando nisso que o pessoal da Microsoft desenvolveu o plugin <a href="https://github.com/jquery/jquery-tmpl" rel="external" title="jQuery.tmpl() no GitHub">jQuery.tmpl()</a> (tmpl de template, é claro), aceito recentemente na <a href="https://api.jquery.com/jquery.tmpl/" rel="external" title="Página do plugin jQuery.tmpl() na documentação oficial do jQuery">API oficial do jQuery</a>.
 
 Mas não confunda template com separar o JavaScript do HTML no sentido &#8220;físico&#8221; da coisa (colocando tudo que é JS em arquivos externos, outra boa prática para desenvolvedores). Neste texto você aprende a utilizar blocos de código HTML nas suas interações via jQuery, substituindo variáveis por conteúdos de saída/retorno.
 

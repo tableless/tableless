@@ -56,18 +56,18 @@ Mas essa visão original foi alterada, em 2008 o grande *boom *de aplicativos
 começou quando a Apple primeiramente nos apresentou a App Store.
 
 Só tem um problema nessa história: [esse boom está
-acabando](http://www.recode.net/2016/6/8/11883518/app-boom-over-snapchat-uber).
+acabando](https://www.recode.net/2016/6/8/11883518/app-boom-over-snapchat-uber).
 
 Nos Estados Unidos, por exemplo, [o número de downloads de aplicativos vem
 diminuindo em
-20%](http://www.androidauthority.com/end-era-app-downloads-decline-usa-698555/)
+20%](https://www.androidauthority.com/end-era-app-downloads-decline-usa-698555/)
 a cada ano. A imagem abaixo mostra o declínio para todos os principais *apps* do
 mercado, exceto **Snapchat**, **Uber **e **Airbnb**, de 2015 para 2016:
 
 ![](https://cdn-images-1.medium.com/max/800/1*3Z7vG0x17UmZqdSbJXlTWA.png)
 
 Outros estudos apontam ainda que [60% de todos os apps, nunca foram sequer
-baixados](http://www.tinethygesen.com/post/42502739988/60-of-apps-have-never-been-used-stats-for-app).
+baixados](https://www.tinethygesen.com/post/42502739988/60-of-apps-have-never-been-used-stats-for-app).
 
 Além disso, [mais de 65% dos usuários de smartphones, não fazem nenhum download
 de aplicativo por
@@ -75,16 +75,16 @@ mês](https://qz.com/253618/most-smartphone-users-download-zero-apps-per-month/)
 
 Um outro dado interessante é que dos [1,5 milhões de aplicativos na Google Play
 Store, somente alguns poucos milhares tem algum
-engajamento](http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/).
+engajamento](https://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/).
 
 E pra terminar, [os usuários de smartphones gastam 80% do tempo usando apenas os
 mesmo 5
-apps](http://marketingland.com/report-mobile-users-spend-80-percent-time-just-five-apps-116858).
+apps](https://marketingland.com/report-mobile-users-spend-80-percent-time-just-five-apps-116858).
 
 Todos esses dados nos fazem ficar preocupados. Mas mesmo com todas essas
 informações, os *apps* certamente ainda tem seu lugar, e pra [muitas empresas
 ainda fazem muito
-sentido](http://www.concretesolutions.com.br/category/mobile/).
+sentido](https://www.concretesolutions.com.br/category/mobile/).
 
 O meu ponto é: construir um aplicativo nativo pode ser uma solução bem cara para
 algumas empresas, e para alguns produtos simplesmente não faz sentido ter um
@@ -144,7 +144,7 @@ etapas:
 1.  Compartilhar
 
 É comum termos uma [perda de 20% dos usuários para cada uma dessas
-etapas](http://blog.gaborcselle.com/2012/10/every-step-costs-you-20-of-users.html).
+etapas](https://blog.gaborcselle.com/2012/10/every-step-costs-you-20-of-users.html).
 O mesmo não acontece na *web*. Basta acessarmos um *link *e poucos segundos
 depois já estamos experimentando o produto.
 
@@ -208,7 +208,7 @@ pelo Safari: *push notifications *e funcionamento *offline*.<br> Mas, [a Apple
 já está considerando implementar os
 PWAs](https://twitter.com/jonathandavis/status/745688244323377152), mesmo porque
 [talvez ela não tenha muita
-escolha] (http://www.techrepublic.com/article/apple-could-lose-billions-on-progressive-web-apps-but-it-has-no-choice/).
+escolha] (https://www.techrepublic.com/article/apple-could-lose-billions-on-progressive-web-apps-but-it-has-no-choice/).
 
 ## Conclusão
 

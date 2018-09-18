@@ -48,7 +48,7 @@ A semântica da aplicação diz o seguinte:
 
 <pre class="lang-html">&lt;link rel="me" href="https://plus.google.com/u/0/00000000/posts"/&gt;</pre>
 
-**2.** Quando o site/blog tem mais de um autor, nos artigos deve ser inserida a **_tag rel=&#8221;author&#8221;_**, com a URL da página do autor no site (Exemplo: <http://tableless.com.br/author/carina/>). E nessa página do autor no site, deve ser inserida a tag **_rel=me_** com a URL do perfil no Google Plus.
+**2.** Quando o site/blog tem mais de um autor, nos artigos deve ser inserida a **_tag rel=&#8221;author&#8221;_**, com a URL da página do autor no site (Exemplo: <https://tableless.com.br/author/carina/>). E nessa página do autor no site, deve ser inserida a tag **_rel=me_** com a URL do perfil no Google Plus.
 
 **Obs.:** Vale dizer que inserir um link simples na página (na assinatura, por exemplo) para o perfil do Google Plus usando o atributo _rel=author_ ou _rel=me_ também funciona.
 
@@ -86,5 +86,5 @@ Para manter a estratégia correta é bom estar atento às próximas novidades do
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/snippet-com-author.png
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/author-google-plus.png
- [3]: http://www.google.com.br/webmasters/tools/richsnippets
+ [3]: https://www.google.com.br/webmasters/tools/richsnippets
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/testar-rich-snippets.png

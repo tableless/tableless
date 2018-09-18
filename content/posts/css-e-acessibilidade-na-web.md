@@ -54,9 +54,9 @@ Localizar onde está o foco em uma navegação via teclado de uma página cheia 
 
 Viu como acessibilidade no CSS vai muito além de questões com cores? Posicionamento de elementos, tamanho de fontes e linhas também devem ser considerados no seu projeto web. Vale lembrar que hoje desenvolvemos pensando em uma plataforma da web, a _Open Web Platform_ e não somente no HTML5 ou no CSS3. A Web de hoje vai muito além do código HTML e sua acessibilidade deve ser ampliada para toda a sua plataforma para que a web seja efetivamente para todos.
 
- [1]: http://emag.governoeletronico.gov.br/emag/#s7
- [2]: http://cssgallery.info/testing-the-accessibility-of-the-css-generated-content/
- [3]: http://www.nngroup.com/articles/guidelines-for-visualizing-links/
- [4]: http://www.w3.org/TR/WCAG/#seizure
- [5]: http://webaim.org/techniques/css/invisiblecontent/
- [6]: http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+ [1]: https://emag.governoeletronico.gov.br/emag/#s7
+ [2]: https://cssgallery.info/testing-the-accessibility-of-the-css-generated-content/
+ [3]: https://www.nngroup.com/articles/guidelines-for-visualizing-links/
+ [4]: https://www.w3.org/TR/WCAG/#seizure
+ [5]: https://webaim.org/techniques/css/invisiblecontent/
+ [6]: https://snook.ca/archives/html_and_css/hiding-content-for-accessibility

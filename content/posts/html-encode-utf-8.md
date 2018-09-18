@@ -80,8 +80,8 @@ Eu até sei um ou outro de cabeça, tipo o _&ccedil;_ e o _&_, mas prefiro mil v
 
 Referências:
 
-  * <a href="http://wiki.locaweb.com/pt-br/C%C3%B3digos_HTML_para_caracteres_acentuados" target="_blank">Locaweb &#8211; Códigos HTML para caracteres acentuados</a>
-  * <a href="http://wiki.locaweb.com/pt-br/Como_resolver_problemas_de_acentua%C3%A7%C3%B5es_em_seu_site" target="_blank">Locaweb &#8211; Como resolver problemas de acentuação no seu site</a>
-  * <a href="http://w3techs.com/technologies/overview/character_encoding/all" target="_blank">w3techs.com &#8211; Levantamento sobre o uso do UTF-8 na web</a>
+  * <a href="https://wiki.locaweb.com/pt-br/C%C3%B3digos_HTML_para_caracteres_acentuados" target="_blank">Locaweb &#8211; Códigos HTML para caracteres acentuados</a>
+  * <a href="https://wiki.locaweb.com/pt-br/Como_resolver_problemas_de_acentua%C3%A7%C3%B5es_em_seu_site" target="_blank">Locaweb &#8211; Como resolver problemas de acentuação no seu site</a>
+  * <a href="https://w3techs.com/technologies/overview/character_encoding/all" target="_blank">w3techs.com &#8211; Levantamento sobre o uso do UTF-8 na web</a>
 
- [1]: http://tableless.com.br/charsets-e-encodes-tabelas-de-caracteres/
+ [1]: https://tableless.com.br/charsets-e-encodes-tabelas-de-caracteres/

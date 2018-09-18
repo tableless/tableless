@@ -18,4 +18,4 @@ tags:
 ---
 Veja outras partes da série [Slides para Devs][1].
 
- [1]: http://tableless.com.br/categoria/series/slides-e-apresentacoes/
+ [1]: https://tableless.com.br/categoria/series/slides-e-apresentacoes/

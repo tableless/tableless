@@ -53,5 +53,5 @@ Eu preciso me lembrar disso de vez em quando, você não?
 [^2]:    
     E isso poderia ser chamado de **Ecologia da Programação**. Quer dizer: a maneira pela qual os códigos (de Ruby a CSS, com suas funções específicas) lidam com o ambiente. Que resíduos eles produzem, que transformações induzem na web etc. E também **Economia da Programação**: o mercado, as modas e as flutuações no valor de certas linguagens.<a href="2" rev="footnote">&#8617;</a>
 
- [1]: http://www.marco.org/2014/07/11/developers-dystopian-future
- [2]: http://swift-lang.org/main/
+ [1]: https://www.marco.org/2014/07/11/developers-dystopian-future
+ [2]: https://swift-lang.org/main/

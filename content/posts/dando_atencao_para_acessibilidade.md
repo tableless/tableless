@@ -7,7 +7,7 @@ url: /dando_atencao_para_acessibilidade/
 tweetbackscheck:
   - 1356439860
 shorturls:
-  - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/dando_atencao_para_acessibilidade";s:7:"tinyurl";s:26:"http://tinyurl.com/44dac6s";s:4:"isgd";s:19:"http://is.gd/HlFViV";}'
+  - 'a:3:{s:9:"permalink";s:57:"https://tableless.com.br/dando_atencao_para_acessibilidade";s:7:"tinyurl";s:26:"https://tinyurl.com/44dac6s";s:4:"isgd";s:19:"https://is.gd/HlFViV";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033912
@@ -23,5 +23,5 @@ A Acessibilidade &#8211; como já disse várias vezes aqui &#8211; é um assunto
   
 Mas não é tão assustador como parece. Acessibilidade é um assunto apaixonante. Vale muito a pena ler e se aprofundar no assunto.
 
- [1]: http://www.w3.org/ "World Wide Web Consortium"
- [2]: http://www.w3.org/TR/2005/WD-WCAG20-20051123/
+ [1]: https://www.w3.org/ "World Wide Web Consortium"
+ [2]: https://www.w3.org/TR/2005/WD-WCAG20-20051123/

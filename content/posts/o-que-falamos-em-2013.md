@@ -25,7 +25,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://tableless.com.br/?s=web+design+responsivo">http://tableless.com.br/?s=web+design+responsivo</a>
+  <a href="https://tableless.com.br/?s=web+design+responsivo">https://tableless.com.br/?s=web+design+responsivo</a>
 </p>
 
 &nbsp;
@@ -39,7 +39,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://tableless.com.br/categoria/semantica/acessibilidade-2/">http://tableless.com.br/categoria/semantica/acessibilidade-2/<br /> </a><a href="http://tableless.com.br/categoria/semantica/seo/">http://tableless.com.br/categoria/semantica/seo/</a>
+  <a href="https://tableless.com.br/categoria/semantica/acessibilidade-2/">https://tableless.com.br/categoria/semantica/acessibilidade-2/<br /> </a><a href="https://tableless.com.br/categoria/semantica/seo/">https://tableless.com.br/categoria/semantica/seo/</a>
 </p>
 
 &nbsp;
@@ -53,7 +53,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  Aqui publicamos tutoriais e dissemos muito quando e como usar.<br /> Dá uma conferida:<br /> <a href="http://tableless.com.br/?s=pr%C3%A9-processadores">http://tableless.com.br/?s=pr%C3%A9-processadores<br /> </a><a href="http://tableless.com.br/?s=framework">http://tableless.com.br/?s=framework</a>
+  Aqui publicamos tutoriais e dissemos muito quando e como usar.<br /> Dá uma conferida:<br /> <a href="https://tableless.com.br/?s=pr%C3%A9-processadores">https://tableless.com.br/?s=pr%C3%A9-processadores<br /> </a><a href="https://tableless.com.br/?s=framework">https://tableless.com.br/?s=framework</a>
 </p>
 
 &nbsp;
@@ -67,7 +67,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://tableless.com.br/?s=performance">http://tableless.com.br/?s=performance</a>
+  <a href="https://tableless.com.br/?s=performance">https://tableless.com.br/?s=performance</a>
 </p>
 
 &nbsp;
@@ -81,7 +81,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://tableless.com.br/categoria/code/css/css3/">http://tableless.com.br/categoria/code/css/css3/</a>
+  <a href="https://tableless.com.br/categoria/code/css/css3/">https://tableless.com.br/categoria/code/css/css3/</a>
 </p>
 
 **E no HTML(5)**
@@ -91,7 +91,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  <a href="http://tableless.com.br/?s=html5">http://tableless.com.br/?s=html5</a>
+  <a href="https://tableless.com.br/?s=html5">https://tableless.com.br/?s=html5</a>
 </p>
 
 &nbsp;

@@ -45,11 +45,11 @@ const bot = new TelegramBot( TOKEN, { polling: true } )
 
 Para gerar o nosso token, será necessário falar com o [@BotFather](https://telegram.me/botfather)
 
-![@BotFather](http://i.imgur.com/3dvVOwT.png)
+![@BotFather](https://i.imgur.com/3dvVOwT.png)
 
 Execute o seguinte comando: `/newbot` e siga as instruções:
 
-![Criando o Bot](http://i.imgur.com/q5GsuRY.png)
+![Criando o Bot](https://i.imgur.com/q5GsuRY.png)
 
 Agora, vou incluir o token na minha configuração:
 
@@ -78,7 +78,7 @@ node index.js
 
 Abra a conversa com o seu BOT e digite alguma mensagem para ele da seguinte forma:
 
-![Falando com o Bot](http://i.imgur.com/nocVBto.png)
+![Falando com o Bot](https://i.imgur.com/nocVBto.png)
 
 O resultado no console do Node será o seguinte:
 
@@ -195,7 +195,7 @@ bot.onText( /\/echo (.*)/, sendEcho);
 ```
 Com isso, o seu BOT vai ter a função /echo que funciona da seguinte forma:
 
-![Comando /echo](http://i.imgur.com/nocVBto.png)
+![Comando /echo](https://i.imgur.com/nocVBto.png)
 
 O código desse projeto está disponível no [GitHub](https://github.com/rafaelvicio/primeiro-bot) do autor.
 

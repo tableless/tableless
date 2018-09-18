@@ -89,7 +89,7 @@ algumas ferramentas gratuitas que fazem todo o trabalho para você. Recomendo
 principalmente essas duas:
 
 * [Web App Manifest Generator](https://app-manifest.firebaseapp.com/)
-* [PWA Builder](http://preview.pwabuilder.com/)
+* [PWA Builder](https://preview.pwabuilder.com/)
 
 Para conferir o *manifest* final da aplicação que construímos basta entrar no
 GitHub do projeto:

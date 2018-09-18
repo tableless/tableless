@@ -44,7 +44,7 @@ A diferença de um e para outro é um pouco óbvia. O tamanho padrão das font d
 
 EM é uma unidade de medida tipográfica. Seu nome está relacionada com a letra “M”, onde o tamanho base dessa unidade deriva da largura da letra M em maiúscula. Dizem que 1em equivale aproximadamente 16 pontos.
 
-Não sou eu que estou falando isso, <a href=“http://en.wikipedia.org/wiki/Em_(typography)”>é a Wikipedia</a>. 😉
+Não sou eu que estou falando isso, <a href=“https://en.wikipedia.org/wiki/Em_(typography)”>é a Wikipedia</a>. 😉
 
 O problema de utilizar fonts em EM é que elas são variáveis como a porcentagem. Diferentemente da utilização de pixels, temos que fazer um pouco de matemática para planejar nossas unidades no projeto. Não é nada de outro mundo, então pare de preguiça.
 

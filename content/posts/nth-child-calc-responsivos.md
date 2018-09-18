@@ -28,11 +28,11 @@ Além da semântica, o conceito _Tableless_ prega, sempre que possível, levar
 
 ![Exemplo de Grid Layout](https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/gridLayout.png)
 
-Enquanto a especificação &#8220;<a href="http://www.w3.org/TR/css3-grid-layout/" target="_blank">CSS Grid Layout Module</a>&#8221; ainda está no forno, proponho uma alternativa simples aos _frameworks_ de _grids_ responsivos, através da dupla dinâmica _**nth-child()**_ e _**calc()**_ presentes no CSS3, e que são suportadas pelos navegadores modernos, inclusive o IE9 (veja mais opções de compatibilidade <a href="http://caniuse.com/#search=CALC" target="_blank">aqui</a> e <a href="http://caniuse.com/#search=nth-child" target="_blank">aqui</a>). Para um rápido entendimento destes recursos também confira estes artigos: <http://tableless.com.br/nth-child/> e <a href="http://www.maujor.com/tutorial/css3-funcao-css-calc.php" target="_blank">http://www.maujor.com/tutorial/css3-funcao-css-calc.php</a>
+Enquanto a especificação &#8220;<a href="https://www.w3.org/TR/css3-grid-layout/" target="_blank">CSS Grid Layout Module</a>&#8221; ainda está no forno, proponho uma alternativa simples aos _frameworks_ de _grids_ responsivos, através da dupla dinâmica _**nth-child()**_ e _**calc()**_ presentes no CSS3, e que são suportadas pelos navegadores modernos, inclusive o IE9 (veja mais opções de compatibilidade <a href="https://caniuse.com/#search=CALC" target="_blank">aqui</a> e <a href="https://caniuse.com/#search=nth-child" target="_blank">aqui</a>). Para um rápido entendimento destes recursos também confira estes artigos: <https://tableless.com.br/nth-child/> e <a href="https://www.maujor.com/tutorial/css3-funcao-css-calc.php" target="_blank">https://www.maujor.com/tutorial/css3-funcao-css-calc.php</a>
 
 ## Exemplo de formulário
 
-Antes de partimos para o CSS, sempre que possível, precisamos usar elementos HTML5 semânticos, atributos WAI-ARIA, entre outros padrões de acessibilidade. Para este exemplo, o uso dos elementos de entradas de dados seguirão as técnicas preconizadas pelo eMAG 3.1 (ver <a href="http://emag.governoeletronico.gov.br/" target="_blank">http://emag.governoeletronico.gov.br/</a>).
+Antes de partimos para o CSS, sempre que possível, precisamos usar elementos HTML5 semânticos, atributos WAI-ARIA, entre outros padrões de acessibilidade. Para este exemplo, o uso dos elementos de entradas de dados seguirão as técnicas preconizadas pelo eMAG 3.1 (ver <a href="https://emag.governoeletronico.gov.br/" target="_blank">https://emag.governoeletronico.gov.br/</a>).
 
 Para cada elemento de entrada de dados presente na estrutura _form -> fieldset_ o seguinte padrão será seguido:
 
@@ -71,4 +71,4 @@ O próximo passo é poder criar mais de uma &#8220;coluna&#8221;, para que o cam
 
 Com estes recursos podemos alterar o layout da página HTML diretamente pelo CSS sem que a estrutura do layout fique no próprio HTML. Além de criar colunas que se adaptam a largura do contêiner, é possível criar colunas com tamanhos fixos, evitando também o uso de classes CSS, que só é encorajado quando for realmente necessário.
 
-O código fonte completo e a _Demo_ deste exemplo encontra-se em <a href="http://codepen.io/rogeriodegoiania/pen/GJQmzb" target="_blank">http://codepen.io/rogeriodegoiania/pen/GJQmzb</a>
+O código fonte completo e a _Demo_ deste exemplo encontra-se em <a href="https://codepen.io/rogeriodegoiania/pen/GJQmzb" target="_blank">https://codepen.io/rogeriodegoiania/pen/GJQmzb</a>

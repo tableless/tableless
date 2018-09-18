@@ -4,7 +4,7 @@ authors: Júlio Carneiro
 type: post
 date: 2017-07-21
 excerpt: Reinvente o modo como você escreve seu CSS.
-image: http://i.imgur.com/GXiOjKP.jpg
+image: https://i.imgur.com/GXiOjKP.jpg
 categories:
   - CSS
   - postcss
@@ -110,6 +110,6 @@ div {
 }
 ```
 
-Este foi um exemplo que eu aprendi no BeMean, o curso é gratuito e você pode fazer pelo próprio youtube, já me ensinou bastante coisa e eu achei esse exemplo perfeito para poder mostrar algumas coisas que o PostCSS faz. As possibilidades são infinitas, mesmo, e caso vocês curtirem bastante esse post eu vou trazer mais de como instalar outros plugins mais legais e mais úteis, de qualquer jeito você pode dar uma explorada no http://postcss.parts que você vai encontrar MUITOS plugins e como instala-los.
+Este foi um exemplo que eu aprendi no BeMean, o curso é gratuito e você pode fazer pelo próprio youtube, já me ensinou bastante coisa e eu achei esse exemplo perfeito para poder mostrar algumas coisas que o PostCSS faz. As possibilidades são infinitas, mesmo, e caso vocês curtirem bastante esse post eu vou trazer mais de como instalar outros plugins mais legais e mais úteis, de qualquer jeito você pode dar uma explorada no https://postcss.parts que você vai encontrar MUITOS plugins e como instala-los.
 
 Espero que tenham curtido o post, mostrem interesse curtindo e comentando e façam com que eu tenha mais vontade de escrever ;D Obrigado a todos pela leitura, um abraço.

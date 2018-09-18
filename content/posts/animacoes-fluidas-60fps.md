@@ -27,7 +27,7 @@ Como foi dito acima, o browser procura renderizar cerca de 60 quadros por segund
 
 Alguns estudos dizem que 30fps é o suficiente para a percepção humana, porém 60fps é ideal pois dá uma sensação de fluidez.
 
-Pessoalmente, percebo diferença entre 30fps e 60fps, acima disso não. Se você quiser fazer um teste dá uma olhada <a href="http://frames-per-second.appspot.com/" target="_blank">nesse site</a>.
+Pessoalmente, percebo diferença entre 30fps e 60fps, acima disso não. Se você quiser fazer um teste dá uma olhada <a href="https://frames-per-second.appspot.com/" target="_blank">nesse site</a>.
 
 Acredito que o ideal é entregar o mais próximo possível dos 60fps, assim fica mais fácil agradar gregos e troianos.
 
@@ -117,7 +117,7 @@ O Firefox faz um bom trabalho e tem uma ótima documentação, mas nesse quesito
 
 ### Dicas de outras ferramentas e recursos
 
-<a href="http://csstriggers.com/" target="_blank">CSS Triggers</a>
+<a href="https://csstriggers.com/" target="_blank">CSS Triggers</a>
   
 Este site tenta listar as propriedades CSS e o efeito que a alteração delas causam na renderização de um frame. Ótimo recurso!
 

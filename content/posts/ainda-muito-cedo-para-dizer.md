@@ -7,7 +7,7 @@ url: /ainda-muito-cedo-para-dizer/
 tweetbackscheck:
   - 1356468106
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/ainda-muito-cedo-para-dizer";s:7:"tinyurl";s:26:"http://tinyurl.com/3wz6qtr";s:4:"isgd";s:19:"http://is.gd/RXwhYU";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/ainda-muito-cedo-para-dizer";s:7:"tinyurl";s:26:"https://tinyurl.com/3wz6qtr";s:4:"isgd";s:19:"https://is.gd/RXwhYU";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034638
@@ -39,17 +39,17 @@ Nesse post, o mais interessante serão os links. Procurarei atualizar essa lista
   * [ClearType Text in IE7][13]
   * [!important Fixed in Later IE7 Releases][14]
 
- [1]: http://blogs.msdn.com/ie/
- [2]: http://dev.l-c-n.com/css3-selectors/test1.php
- [3]: http://blogs.msdn.com/ie/archive/2006/02/02/523679.aspx
- [4]: http://blogs.msdn.com/ie/archive/2006/02/01/522737.aspx
- [5]: http://msdn.microsoft.com/library/default.asp?url=/library/en-us/IETechCol/cols/dnexpie/ie7_css_compat.asp
- [6]: http://www.webstandards.org/act/acid2/test.html
- [7]: http://www.pcworld.com/news/article/0,aid,124595,00.asp
- [8]: http://www.pcmag.com/article2/0,1895,1918061,00.asp
- [9]: http://news.google.com.br/url?sa=t&ct=us/2-0&fp=43e20f1d37bc262e&ei=O8HiQ_edBoWKpAK6mNX-Cw&url=http%3A//www.betanews.com/article/IE7_Beta_2_Preview_Open_to_DoS_Attack/1138810784&cid=1103948497
- [10]: http://blogs.zdnet.com/web2explorer/index.php?p=107
- [11]: http://www.geek.com/news/geeknews/2006Jan/gee20060201034524.htm
- [12]: http://www.andybudd.com/archives/2006/02/css_hacks_in_ie7/index.php
- [13]: http://blogs.msdn.com/ie/archive/2006/02/03/524367.aspx
- [14]: http://webstandards.org/buzz/archive/2006_02.html#a000603
+ [1]: https://blogs.msdn.com/ie/
+ [2]: https://dev.l-c-n.com/css3-selectors/test1.php
+ [3]: https://blogs.msdn.com/ie/archive/2006/02/02/523679.aspx
+ [4]: https://blogs.msdn.com/ie/archive/2006/02/01/522737.aspx
+ [5]: https://msdn.microsoft.com/library/default.asp?url=/library/en-us/IETechCol/cols/dnexpie/ie7_css_compat.asp
+ [6]: https://www.webstandards.org/act/acid2/test.html
+ [7]: https://www.pcworld.com/news/article/0,aid,124595,00.asp
+ [8]: https://www.pcmag.com/article2/0,1895,1918061,00.asp
+ [9]: https://news.google.com.br/url?sa=t&ct=us/2-0&fp=43e20f1d37bc262e&ei=O8HiQ_edBoWKpAK6mNX-Cw&url=http%3A//www.betanews.com/article/IE7_Beta_2_Preview_Open_to_DoS_Attack/1138810784&cid=1103948497
+ [10]: https://blogs.zdnet.com/web2explorer/index.php?p=107
+ [11]: https://www.geek.com/news/geeknews/2006Jan/gee20060201034524.htm
+ [12]: https://www.andybudd.com/archives/2006/02/css_hacks_in_ie7/index.php
+ [13]: https://blogs.msdn.com/ie/archive/2006/02/03/524367.aspx
+ [14]: https://webstandards.org/buzz/archive/2006_02.html#a000603

@@ -8,7 +8,7 @@ url: /um-novo-numero-1/
 tweetbackscheck:
   - 1356381391
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6413";s:7:"tinyurl";s:26:"http://tinyurl.com/cpswjb2";s:4:"isgd";s:19:"http://is.gd/DdqbdZ";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6413";s:7:"tinyurl";s:26:"https://tinyurl.com/cpswjb2";s:4:"isgd";s:19:"https://is.gd/DdqbdZ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 766233225
@@ -63,6 +63,6 @@ Durante muito tempo o Google tem feito várias ações para divulgar o Chrome em
 
 E assim caminha a humanidade, em direção a uma web mais envolvente e inovadora, com browsers mais robustos e atuais. Até que enfim&#8230; Demorou, mas estamos chegando lá.
 
- [1]: http://gs.statcounter.com/
- [2]: http://gs.statcounter.com/#browser-BR-monthly-201106-201206
- [3]: http://gs.statcounter.com/#browser_version-BR-monthly-201106-201206-bar
+ [1]: https://gs.statcounter.com/
+ [2]: https://gs.statcounter.com/#browser-BR-monthly-201106-201206
+ [3]: https://gs.statcounter.com/#browser_version-BR-monthly-201106-201206-bar

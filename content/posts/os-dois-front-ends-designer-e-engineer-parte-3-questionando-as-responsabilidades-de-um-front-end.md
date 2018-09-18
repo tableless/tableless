@@ -44,7 +44,7 @@ Esse ponto é muito relacionada com a responsabilidade anterior e tem muito a ve
 
 Mas sejamos sinceros: a maioria dos front-ends **não começa** a fazer as funcionalidades e a interface iniciando pelo Mobile. **Manja aquela história de Mobile First? Na maioria da vezes isso não acontece na vida real.**
 
-Não é de hoje que existem plugins e outros softwares de design que dão esse poder para os designers. Só para citar dois: [http://macaw.co/](http://macaw.co/ "http://macaw.co/") e [http://trymason.com](http://trymason.com "http://trymason.com"). Obviamente o uso desses serviços **ainda é muito restrito e só serve para alguns projetos, não todos**. Tem vários outros. Inclusive que devolvem o código em Sass ou Less.
+Não é de hoje que existem plugins e outros softwares de design que dão esse poder para os designers. Só para citar dois: [https://macaw.co/](https://macaw.co/ "https://macaw.co/") e [https://trymason.com](https://trymason.com "https://trymason.com"). Obviamente o uso desses serviços **ainda é muito restrito e só serve para alguns projetos, não todos**. Tem vários outros. Inclusive que devolvem o código em Sass ou Less.
 
 Mesmo assim — por conta da falta de designers que codificam — **a responsabilidade de ter um projeto que funcione bem em tablets e mobile é sim do front-end. O**front-end designer, nesse caso dos perfis de front-end, é o responsável por essa tarefa. Contudo cabe ao designer dar todas as especificações. O que quase nunca acontece. :-)
 

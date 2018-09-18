@@ -36,8 +36,8 @@ Leia mais:
   * [Página de Help da Adobe][5]
   * [Página oficial][3]
 
- [1]: http://creativeandcode.com/psd-lens-for-adobe-brackets/
+ [1]: https://creativeandcode.com/psd-lens-for-adobe-brackets/
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/brackets-extract.jpg
- [3]: http://www.adobe.com/br/creativecloud/extract.html
+ [3]: https://www.adobe.com/br/creativecloud/extract.html
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/12/adobe-extract.jpg
- [5]: http://helpx.adobe.com/creative-cloud/help/extract-css-images-psd-files.html#extract_image_assets
+ [5]: https://helpx.adobe.com/creative-cloud/help/extract-css-images-psd-files.html#extract_image_assets

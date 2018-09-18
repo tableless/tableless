@@ -7,7 +7,7 @@ url: /web-standards-project-wasp/
 tweetbackscheck:
   - 1356396579
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/web-standards-project-wasp";s:7:"tinyurl";s:26:"http://tinyurl.com/3mb7gzw";s:4:"isgd";s:19:"http://is.gd/upUL3Q";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/web-standards-project-wasp";s:7:"tinyurl";s:26:"https://tinyurl.com/3mb7gzw";s:4:"isgd";s:19:"https://is.gd/upUL3Q";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038145
@@ -70,4 +70,4 @@ Hoje as coisas estão bem mais fáceis. Browsers e desenvolvedores lutam a favor
   
 Com o amadurecimento das partes, o conhecimento se renova e desenvolver para web fica mais divertido.
 
- [1]: http://zeldman.com
+ [1]: https://zeldman.com

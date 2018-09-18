@@ -29,9 +29,9 @@ Para conseguirmos criar páginas com o github não é necessário que se tenha u
 
 Portanto, se quiser descobrir um pouco mais sobre o github, recomendo que seja feita a leitura dos seguintes artigos disponíveis aqui no tableless:
 
-Iniciando no GIT &#8211; Parte 1: <a href="http://tableless.com.br/iniciando-no-git-parte-1/" target="_blank">http://tableless.com.br/iniciando-no-git-parte-1/</a>
+Iniciando no GIT &#8211; Parte 1: <a href="https://tableless.com.br/iniciando-no-git-parte-1/" target="_blank">https://tableless.com.br/iniciando-no-git-parte-1/</a>
   
-Iniciando no GIT &#8211; Parte 2: <a href="http://tableless.com.br/iniciando-no-git-parte-2/" target="_blank">http://tableless.com.br/iniciando-no-git-parte-2/</a>
+Iniciando no GIT &#8211; Parte 2: <a href="https://tableless.com.br/iniciando-no-git-parte-2/" target="_blank">https://tableless.com.br/iniciando-no-git-parte-2/</a>
 
 ## Criando páginas automaticamente
 
@@ -45,7 +45,7 @@ O github irá abrir as opções de configurações do repositório, lá, poderá
 
 [<img class="size-medium wp-image-38031 aligncenter" alt="github-pages-box" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/github-pages-box-588x148.png" width="588" height="148" srcset="uploads/2013/07/github-pages-box-588x148.png 588w, uploads/2013/07/github-pages-box-329x83.png 329w, uploads/2013/07/github-pages-box-660x166.png 660w, uploads/2013/07/github-pages-box.png 681w" sizes="(max-width: 588px) 100vw, 588px" />][3]
 
-Ao clicar nesse botão, você será redirecionado para um formulário contendo alguns campos e um editor de conteúdo, lá, você deverá informar o nome do projeto (que servirá como título na página criada), um subtítulo e o conteúdo que queremos que seja apresentado (em formato de markdown específico do github, referência disponível em <a href="http://github.github.com/github-flavored-markdown/" target="_blank">http://github.github.com/github-flavored-markdown/</a>):
+Ao clicar nesse botão, você será redirecionado para um formulário contendo alguns campos e um editor de conteúdo, lá, você deverá informar o nome do projeto (que servirá como título na página criada), um subtítulo e o conteúdo que queremos que seja apresentado (em formato de markdown específico do github, referência disponível em <a href="https://github.github.com/github-flavored-markdown/" target="_blank">https://github.github.com/github-flavored-markdown/</a>):
 
 [<img class="size-medium wp-image-38032 aligncenter" alt="github-pages-form" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/github-pages-form-588x305.png" width="588" height="305" srcset="uploads/2013/07/github-pages-form-588x305.png 588w, uploads/2013/07/github-pages-form-322x168.png 322w, uploads/2013/07/github-pages-form-596x310.png 596w, uploads/2013/07/github-pages-form.png 944w" sizes="(max-width: 588px) 100vw, 588px" />][4]
 
@@ -61,11 +61,11 @@ Pronto! Já possuímos uma página no github para o nosso repositório.
 
 As páginas criadas pelo github possuem o seguinte formato de endereço:
 
-http://<span style="color: #ff0000">nomedousuario</span>.github.io/<span style="color: #ff0000">nomedorepositorio</span>
+https://<span style="color: #ff0000">nomedousuario</span>.github.io/<span style="color: #ff0000">nomedorepositorio</span>
 
 No meu caso, o endereço ficou disponível da seguinte maneira:
 
-<http://wmartins.github.io/criando-paginas-github-pages/>
+<https://wmartins.github.io/criando-paginas-github-pages/>
 
 Portanto, basta substituir os valores em vermelho para acessar a sua página!
 

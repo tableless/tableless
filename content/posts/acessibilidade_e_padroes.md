@@ -7,7 +7,7 @@ url: /acessibilidade_e_padroes/
 tweetbackscheck:
   - 1355037816
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/acessibilidade_e_padroes";s:7:"tinyurl";s:26:"http://tinyurl.com/3efu735";s:4:"isgd";s:19:"http://is.gd/01AnkQ";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/acessibilidade_e_padroes";s:7:"tinyurl";s:26:"https://tinyurl.com/3efu735";s:4:"isgd";s:19:"https://is.gd/01AnkQ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031725
@@ -34,11 +34,11 @@ categories:
     </p>
     
     <p>
-      Isto é… Se você faz um site para desktops, com web standards bem feito, seu site vai estar muito bem acessível em leitores de telas e em dispositivos móveis. E você pode melhorar isso usando as famosas <a href="http://www.w3schools.com/css/css_mediatypes.asp">Media Types</a>. Assim, você deixa seu site muito mais acessivel para o dispositivo/plataforma escolhido.
+      Isto é… Se você faz um site para desktops, com web standards bem feito, seu site vai estar muito bem acessível em leitores de telas e em dispositivos móveis. E você pode melhorar isso usando as famosas <a href="https://www.w3schools.com/css/css_mediatypes.asp">Media Types</a>. Assim, você deixa seu site muito mais acessivel para o dispositivo/plataforma escolhido.
     </p>
     
     <p>
-      Temos que entender uma coisa. Não é porque o site é acessível que ele será compatível.<br /> Seu site certamente não será compatível quando comparado no Lynx e Internet Explorer. Mas será perfeitamente acessível aos dois, de formas diferentes, mas será acessível. No Lynx você não verá imagens bonitas, degrades e botões personalizados. Mas se você utilizar alts em imagens e até mesmo técnicas como <a href="http://www.stopdesign.com/articles/replace_text/">Image Replacement</a>, seu site será perfeitamente acessível.
+      Temos que entender uma coisa. Não é porque o site é acessível que ele será compatível.<br /> Seu site certamente não será compatível quando comparado no Lynx e Internet Explorer. Mas será perfeitamente acessível aos dois, de formas diferentes, mas será acessível. No Lynx você não verá imagens bonitas, degrades e botões personalizados. Mas se você utilizar alts em imagens e até mesmo técnicas como <a href="https://www.stopdesign.com/articles/replace_text/">Image Replacement</a>, seu site será perfeitamente acessível.
     </p>
     
     <p>

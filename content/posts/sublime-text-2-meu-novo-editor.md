@@ -8,7 +8,7 @@ url: /sublime-text-2-meu-novo-editor/
 tweetbackscheck:
   - 1356458200
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5924";s:7:"tinyurl";s:26:"http://tinyurl.com/dxjkter";s:4:"isgd";s:19:"http://is.gd/yzgkCt";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5924";s:7:"tinyurl";s:26:"https://tinyurl.com/dxjkter";s:4:"isgd";s:19:"https://is.gd/yzgkCt";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 651592681
@@ -119,17 +119,17 @@ O [Sublime][8] tem versões para Windows, Linux e Mac.
   * [Nove razões para você instalar Sublime][13]
   * [Migrando do Textmate para o Sublime][14]
 
- [1]: http://marciotrindade.com/
+ [1]: https://marciotrindade.com/
  [2]: https://github.com/tableless/Sublime/
- [3]: http://wbond.net/sublime_packages/package_control/installation
+ [3]: https://wbond.net/sublime_packages/package_control/installation
  [4]: https://github.com/titoBouzout/SideBarEnhancements
- [5]: http://wbond.net/sublime_packages/community
+ [5]: https://wbond.net/sublime_packages/community
  [6]: https://gist.github.com/1596897
  [7]: https://docs.google.com/spreadsheet/ccc?key=0AnLDKkpwS2wCdHVoRGdlZ2h0MVhjLXlVTVJFbVFCWWc&hl=en_GB#gid=0
- [8]: http://www.sublimetext.com/2
- [9]: http://www.eclipsecolorthemes.org/?view=theme&id=66
- [10]: http://tutsmais.com.br/blog/2012/como-criar-snippets-no-sublime-text-2-rapido-pratico-util-e-sexy/
- [11]: http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
- [12]: http://tarantsov.com/blog/2012/02/sublime-text-workflow-that-beats-coda-and-espresso/
- [13]: http://1p1e1.tumblr.com/post/14262857223/9-reasons-you-must-install-sublime-text-2-code-like-a
- [14]: http://danielfilho.info/blog/migrando-do-textmate-para-o-sublime-text-2/
+ [8]: https://www.sublimetext.com/2
+ [9]: https://www.eclipsecolorthemes.org/?view=theme&id=66
+ [10]: https://tutsmais.com.br/blog/2012/como-criar-snippets-no-sublime-text-2-rapido-pratico-util-e-sexy/
+ [11]: https://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
+ [12]: https://tarantsov.com/blog/2012/02/sublime-text-workflow-that-beats-coda-and-espresso/
+ [13]: https://1p1e1.tumblr.com/post/14262857223/9-reasons-you-must-install-sublime-text-2-code-like-a
+ [14]: https://danielfilho.info/blog/migrando-do-textmate-para-o-sublime-text-2/

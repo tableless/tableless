@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356204785
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/jquery-e-bom-para-designers";s:4:"isgd";s:19:"http://is.gd/xpGS0V";s:7:"tinyurl";s:26:"http://tinyurl.com/4y4oo7d";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/jquery-e-bom-para-designers";s:4:"isgd";s:19:"https://is.gd/xpGS0V";s:7:"tinyurl";s:26:"https://tinyurl.com/4y4oo7d";}'
 twittercomments:
   - 'a:1:{i:216197732229066753;s:7:"retweet";}'
 tweetcount:
@@ -133,8 +133,8 @@ Isto resolve nosso problema. Agora, precisamos esconder nosso submenu quando a p
 
 E esse é o nosso script final que pode ser visto [aqui][4] e [aqui com aplicação de CSS básico][5]. O interessante da jQuery é que ela é bem inuitiva e tem muitas coisas que já vem no escopo dela que resolvem muitos problemas que os designers querem desenvolver, mas não querem que um programador faça por ser uma coisa tão simples de fazer. jQuery é a parte da programação que os designers sentiam falta e muitas vezes contornavam com um arquivo flash que destruia a semantica de área como o menu que acabamos de construir.
 
- [1]: http://elcio.com.br/reusable/jquery/diretrizes.pt
- [2]: http://jquery.com
- [3]: http://tableless.com.br/faq
- [4]: http://dgmike.com.br/tableless/jquery/menu-simples.html
- [5]: http://dgmike.com.br/tableless/jquery/menu-simples-arquivos-importados.html
+ [1]: https://elcio.com.br/reusable/jquery/diretrizes.pt
+ [2]: https://jquery.com
+ [3]: https://tableless.com.br/faq
+ [4]: https://dgmike.com.br/tableless/jquery/menu-simples.html
+ [5]: https://dgmike.com.br/tableless/jquery/menu-simples-arquivos-importados.html

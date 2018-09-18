@@ -15,7 +15,7 @@ tags:
   - phpOO
 
 ---
-No <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-08/" title="tutorial anterior" target="_blank">tutorial anterior</a>, instalamos e configuramos o bundle Knp Paginator, para fazer a paginação de posts em nosso index, agora vamos instalar e configurar o Bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts
+No <a href="https://tableless.com.br/iniciando-com-symfony-2-parte-08/" title="tutorial anterior" target="_blank">tutorial anterior</a>, instalamos e configuramos o bundle Knp Paginator, para fazer a paginação de posts em nosso index, agora vamos instalar e configurar o Bundle StofDoctrineExtensionsBundle, para fazermos os slugs de nossos posts
 
 ## Instalação do bundle StofDoctrineExtensionsBundle
 
@@ -266,21 +266,21 @@ Pronto, nosso simples projeto está retornando o slug dos post em nossa url.
 
 Links dos tutoriais anteriores:
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2/" title="instalação" target="_blank">Iniciando com Symfony 2 – Instalação</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2/" title="instalação" target="_blank">Iniciando com Symfony 2 – Instalação</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-02/" title="parte 02" target="_blank">Iniciando com Symfony 2 – parte 02</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-02/" title="parte 02" target="_blank">Iniciando com Symfony 2 – parte 02</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-03/" title="parte 03" target="_blank">Iniciando com Symfony 2 – parte 03</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-03/" title="parte 03" target="_blank">Iniciando com Symfony 2 – parte 03</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-04/" title="parte 04" target="_blank">Iniciando com Symfony 2 – parte 04</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-04/" title="parte 04" target="_blank">Iniciando com Symfony 2 – parte 04</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-05/" title="parte 05" target="_blank">Iniciando com Symfony 2 – parte 05</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-05/" title="parte 05" target="_blank">Iniciando com Symfony 2 – parte 05</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-06/" title="parte 06" target="_blank">Iniciando com Symfony 2 – parte 06</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-06/" title="parte 06" target="_blank">Iniciando com Symfony 2 – parte 06</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-07/" title="parte 07" target="_blank">Iniciando com Symfony 2 – parte 07</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-07/" title="parte 07" target="_blank">Iniciando com Symfony 2 – parte 07</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-08/" title="parte 08" target="_blank">Iniciando com Symfony 2 – parte 08</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-08/" title="parte 08" target="_blank">Iniciando com Symfony 2 – parte 08</a>
 
 O projeto encontra-se no <a href="https://github.com/candidosouza/tableless" title="github do projeto" target="_blank">GitHub</a>!
 

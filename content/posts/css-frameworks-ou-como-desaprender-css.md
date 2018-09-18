@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356458273
 shorturls:
-  - 'a:3:{s:9:"permalink";s:62:"http://tableless.com.br/css-frameworks-ou-como-desaprender-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3zujfox";s:4:"isgd";s:19:"http://is.gd/BI0Iy3";}'
+  - 'a:3:{s:9:"permalink";s:62:"https://tableless.com.br/css-frameworks-ou-como-desaprender-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3zujfox";s:4:"isgd";s:19:"https://is.gd/BI0Iy3";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037516
@@ -64,7 +64,7 @@ O problema é um que eu já comentei com você e já falei bastante em palestras
   * [A CSS Framework][4]
   *][1]
 
- [1]: http://tableless.com.br/desenvolvedor-analfabetico-sim-e-sobre-wysiwyg
- [2]: http://warpspire.com/features/css-frameworks/
- [3]: http://www.smashingmagazine.com/2007/09/21/css-frameworks-css-reset-design-from-scratch/
- [4]: http://www.contentwithstyle.co.uk/Articles/17/
+ [1]: https://tableless.com.br/desenvolvedor-analfabetico-sim-e-sobre-wysiwyg
+ [2]: https://warpspire.com/features/css-frameworks/
+ [3]: https://www.smashingmagazine.com/2007/09/21/css-frameworks-css-reset-design-from-scratch/
+ [4]: https://www.contentwithstyle.co.uk/Articles/17/

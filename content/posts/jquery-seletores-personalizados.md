@@ -8,7 +8,7 @@ url: /jquery-seletores-personalizados/
 tweetbackscheck:
   - 1356388603
 shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/jquery-seletores-personalizados";s:7:"tinyurl";s:26:"http://tinyurl.com/3sb6kfq";s:4:"isgd";s:19:"http://is.gd/5mjCy6";}'
+  - 'a:3:{s:9:"permalink";s:55:"https://tableless.com.br/jquery-seletores-personalizados";s:7:"tinyurl";s:26:"https://tinyurl.com/3sb6kfq";s:4:"isgd";s:19:"https://is.gd/5mjCy6";}'
 twittercomments:
   - 'a:13:{i:103555847107526656;s:7:"retweet";i:146373488519811074;s:7:"retweet";i:146184692197105664;s:7:"retweet";i:146180775170146306;s:7:"retweet";i:146176533936091136;s:7:"retweet";i:146138959989325825;s:7:"retweet";i:154680583711232000;s:7:"retweet";i:154669817062895616;s:7:"retweet";i:154666532734107648;s:7:"retweet";i:152898003080982529;s:7:"retweet";i:152877171252273152;s:7:"retweet";i:152858986104893440;s:7:"retweet";i:169589285626970113;s:7:"retweet";}'
 tweetcount:
@@ -105,7 +105,7 @@ Um seletor pode ser composto de uma ou mais classes, atributos ou expressões e 
 </h3>
 
 <p>
-  <a href="http://tableless.com.br/melhorando-exibicao-tabelas-jquery" target="_blank">Seguindo a onda das tabelas</a> vamos utilizar como exemplo para nossos próximos seletores uma tabela com os principais jogadores do Mengão. O código completo você encontra lá no <a href="https://github.com/tableless-site/tableless-site.github.com/tree/master/seletores-personalizados" target="_blank">GitHub</a>.
+  <a href="https://tableless.com.br/melhorando-exibicao-tabelas-jquery" target="_blank">Seguindo a onda das tabelas</a> vamos utilizar como exemplo para nossos próximos seletores uma tabela com os principais jogadores do Mengão. O código completo você encontra lá no <a href="https://github.com/tableless-site/tableless-site.github.com/tree/master/seletores-personalizados" target="_blank">GitHub</a>.
 </p>
 
 <p>
@@ -237,5 +237,5 @@ Um seletor pode ser composto de uma ou mais classes, atributos ou expressões e 
 </p>
 
 <p>
-  <a href="https://github.com/tableless-site/tableless-site.github.com/tree/master/seletores-personalizados" target="_blank">Clique aqui para fazer o download do exemplo</a> ou <a href="http://tableless-site.github.com/seletores-personalizados/" target="_blank">aqui para visualizar o exemplo no navegador</a>.
+  <a href="https://github.com/tableless-site/tableless-site.github.com/tree/master/seletores-personalizados" target="_blank">Clique aqui para fazer o download do exemplo</a> ou <a href="https://tableless-site.github.com/seletores-personalizados/" target="_blank">aqui para visualizar o exemplo no navegador</a>.
 </p>

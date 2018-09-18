@@ -29,7 +29,7 @@ com JWT em ASP.Net Core. O código completo de exemplo encontra-se em meu
 
 > Lembrando que neste artigo irei focar em uma implementação simples, mas você
 > também pode usar outras soluções mais robustas para implementar autenticação,
-como o [Identity Server](http://identityserver.io/), que é open source e mantido
+como o [Identity Server](https://identityserver.io/), que é open source e mantido
 pela comunidade.
 
 *****
@@ -237,7 +237,7 @@ autenticação externa via Facebook, Google e Twitter por exemplo.
 
 Este exemplo é uma implementação simples de uma API de autenticação, e conforme
 eu disse anteriormente você pode utilizar uma solução mais robusta como o
-[Identity Server](http://identityserver.io/) para usar em ambiente de produção.
+[Identity Server](https://identityserver.io/) para usar em ambiente de produção.
 
 Espero que tenham gostado e se ficou alguma dúvida, ou tenham críticas e
 sugestões entrem em contato.

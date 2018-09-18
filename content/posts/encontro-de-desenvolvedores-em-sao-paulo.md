@@ -88,4 +88,4 @@ Para as comunidades que estiveram próximas da gente nos últimos tempos, estamo
   </tr>
 </table>
 
- [1]: http://eventos.locaweb.com.br/18o-encontro-locaweb-sao-paulo/
+ [1]: https://eventos.locaweb.com.br/18o-encontro-locaweb-sao-paulo/

@@ -72,8 +72,8 @@ No arquivo de layout **activity_main.xml **adicione:
 
 <pre class="lang-xml">&lt;?xml version="1.0" encoding="utf-8"?&gt;
 &lt;LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="https://schemas.android.com/apk/res/android"
+    xmlns:tools="https://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="barreto.alessandro.googlesign_in.MainActivity"
@@ -250,7 +250,7 @@ Depois de recuperar o resultado, você pode verificar se a solicitação  deu c
     }
 </pre>
 
-Utilizei a lib <a href="http://square.github.io/picasso/" target="_blank">Picasso</a> para o carregamento eficiente de imagem, adicione no seu **Gradle app-level**.
+Utilizei a lib <a href="https://square.github.io/picasso/" target="_blank">Picasso</a> para o carregamento eficiente de imagem, adicione no seu **Gradle app-level**.
 
 <pre>compile 'com.squareup.picasso:picasso:2.5.2'
 </pre>

@@ -20,7 +20,7 @@ tags:
   - webpack
 
 ---
-Não é um eufemismo dizer que que as ferramentas de front-end avançam rapidamente. Por um tempo, <a href="http://gruntjs.com/" target="_blank">Grunt</a> foi o principal automatizador. E desde então a comunidade adotou o <a href="http://gulpjs.com/" target="_blank">Gulp</a>, uma alternativa de streaming. Embora essas ferramentas sejam ótimas, você ainda precisará trabalhar dura para manter o seu sistema. E é aí que entram os empacotadores como o <a href="http://browserify.org/" target="_blank">Browserify</a> e <a href="https://webpack.github.io/" target="_blank">Webpack</a>.
+Não é um eufemismo dizer que que as ferramentas de front-end avançam rapidamente. Por um tempo, <a href="https://gruntjs.com/" target="_blank">Grunt</a> foi o principal automatizador. E desde então a comunidade adotou o <a href="https://gulpjs.com/" target="_blank">Gulp</a>, uma alternativa de streaming. Embora essas ferramentas sejam ótimas, você ainda precisará trabalhar dura para manter o seu sistema. E é aí que entram os empacotadores como o <a href="https://browserify.org/" target="_blank">Browserify</a> e <a href="https://webpack.github.io/" target="_blank">Webpack</a>.
 
 ## Como usar um empacotador
 
@@ -164,4 +164,4 @@ Saiba mais sobre o Jscrambler em <a href="https://jscrambler.com?utm_medium=soci
 
 ## Conclusão
 
-Ainda que o Webpack não seja a ferramenta mais fácil de aprender, eu recomendo que você dê uma olhada nela. O livro <a href="http://survivejs.com/" target="_blank">SurviveJS &#8211; Webpack and React</a>, que está em inglês, fala sobre essa ferramenta com mais detalhes. A maioria dos conteúdos está disponível gratuitamente e irá lhe ajudar a entender o Webpack e React a um nível mais profundo.
+Ainda que o Webpack não seja a ferramenta mais fácil de aprender, eu recomendo que você dê uma olhada nela. O livro <a href="https://survivejs.com/" target="_blank">SurviveJS &#8211; Webpack and React</a>, que está em inglês, fala sobre essa ferramenta com mais detalhes. A maioria dos conteúdos está disponível gratuitamente e irá lhe ajudar a entender o Webpack e React a um nível mais profundo.

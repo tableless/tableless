@@ -19,7 +19,7 @@ Uma das coisas que sempre senti dificuldades foi a forma de manipular janelas e 
   
 Vou mostrar algumas técninas que aprendi durante o tempo, e que hoje me ajudam a resolver esses problemas.
 
-**NOTA: OS COMANDOS ABAIXOS DEVEM SER EXECUTADOS USANDO O <a href="http://en.wikibooks.org/wiki/Learning_the_vi_Editor/Vim/Modes" target="_blank">&#8220;NORMAL MODE&#8221;</a> QUE VOCÊ PODE ACESSAR USANDO A TECLA \`ESC\`.
+**NOTA: OS COMANDOS ABAIXOS DEVEM SER EXECUTADOS USANDO O <a href="https://en.wikibooks.org/wiki/Learning_the_vi_Editor/Vim/Modes" target="_blank">&#8220;NORMAL MODE&#8221;</a> QUE VOCÊ PODE ACESSAR USANDO A TECLA \`ESC\`.
   
 ** 
 

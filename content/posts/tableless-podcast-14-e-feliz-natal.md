@@ -5,17 +5,17 @@ type: post
 date: 2005-12-23
 url: /tableless-podcast-14-e-feliz-natal/
 enclosure:
-  - http://tableless.com.br/podcasts/podcast14.mp3
+  - https://tableless.com.br/podcasts/podcast14.mp3
   - |
     |
-        http://tableless.com.br/podcast/podcast14.mp3
+        https://tableless.com.br/podcast/podcast14.mp3
         17900672
         audio/mpeg
         
 tweetbackscheck:
   - 1356457973
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/tableless-podcast-14-e-feliz-natal";s:7:"tinyurl";s:26:"http://tinyurl.com/3e6mmdt";s:4:"isgd";s:19:"http://is.gd/J8DnG8";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/tableless-podcast-14-e-feliz-natal";s:7:"tinyurl";s:26:"https://tinyurl.com/3e6mmdt";s:4:"isgd";s:19:"https://is.gd/J8DnG8";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034189
@@ -42,5 +42,5 @@ Tempo: ~18m38s
 
 <small>ps.: no podcast estou meio monótono, gaguejando, enrolando em algumas partes e etc&#8230; É muito diferente fazer um podcast solo&#8230; Ao mesmo tempo é interessantíssimo. Mas vou melhorar, prometo. Vivendo e Aprendendo.</small>
 
- [1]: http://tableless.com.br/podcast/podcast14.mp3 "Podcast do Tableless"
- [2]: http://tableless.com.br/feed/ "RSS do Tableless - Notícias e Podcast"
+ [1]: https://tableless.com.br/podcast/podcast14.mp3 "Podcast do Tableless"
+ [2]: https://tableless.com.br/feed/ "RSS do Tableless - Notícias e Podcast"

@@ -7,7 +7,7 @@ url: /aniversario_ano_novo/
 tweetbackscheck:
   - 1356148240
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/aniversario_ano_novo";s:7:"tinyurl";s:26:"http://tinyurl.com/43f7772";s:4:"isgd";s:19:"http://is.gd/grroQa";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/aniversario_ano_novo";s:7:"tinyurl";s:26:"https://tinyurl.com/43f7772";s:4:"isgd";s:19:"https://is.gd/grroQa";}'
 twittercomments:
   - 'a:1:{i:50841311602946049;s:7:"retweet";}'
 tweetcount:
@@ -51,7 +51,7 @@ neste blog.
   
 ajudando a aprender mais! Feliz Ano Novo!
 
- [1]: http://tableless.com.br/
- [2]: http://tableless.com.br/estudo.asp
- [3]: http://tableless.com.br/links.asp
- [4]: http://tableless.com.br/artigos.asp
+ [1]: https://tableless.com.br/
+ [2]: https://tableless.com.br/estudo.asp
+ [3]: https://tableless.com.br/links.asp
+ [4]: https://tableless.com.br/artigos.asp

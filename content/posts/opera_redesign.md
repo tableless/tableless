@@ -7,7 +7,7 @@ url: /opera_redesign/
 tweetbackscheck:
   - 1356453942
 shorturls:
-  - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/opera_redesign";s:7:"tinyurl";s:26:"http://tinyurl.com/3jcjv6j";s:4:"isgd";s:19:"http://is.gd/v84QGp";}'
+  - 'a:3:{s:9:"permalink";s:38:"https://tableless.com.br/opera_redesign";s:7:"tinyurl";s:26:"https://tinyurl.com/3jcjv6j";s:4:"isgd";s:19:"https://is.gd/v84QGp";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031964
@@ -19,4 +19,4 @@ O site deles ficou mais bonito na minha opinião. O site é tableless, mas o có
               
 [Opera][1] &#8211; Fica aqui a dica se você ainda navega com um programa arcaico como o Internet Explorer.
 
- [1]: http://www.opera.com
+ [1]: https://www.opera.com

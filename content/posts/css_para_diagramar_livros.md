@@ -7,7 +7,7 @@ url: /css_para_diagramar_livros/
 tweetbackscheck:
   - 1356368340
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/css_para_diagramar_livros";s:7:"tinyurl";s:26:"http://tinyurl.com/3qbbdyc";s:4:"isgd";s:19:"http://is.gd/dWkkSd";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/css_para_diagramar_livros";s:7:"tinyurl";s:26:"https://tinyurl.com/3qbbdyc";s:4:"isgd";s:19:"https://is.gd/dWkkSd";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033920
@@ -23,4 +23,4 @@ O InDesign já tem uma organização muito interessante de estilos, usa bastante
 
 E agora, com essa possibilidade se abrindo (já havia, mas ela estava muito crua, nada que poderia ser praticado) é só esperar para programas de diagramação se tocarem, e até mesmo nós, que somos mais acostumados a tratar CSS do que outros programas, teremos uma possibilidade extra.
 
- [1]: http://www.alistapart.com/articles/boom
+ [1]: https://www.alistapart.com/articles/boom

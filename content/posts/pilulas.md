@@ -7,7 +7,7 @@ url: /pilulas/
 tweetbackscheck:
   - 1355167951
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/pilulas";s:7:"tinyurl";s:26:"http://tinyurl.com/3upu2yz";s:4:"isgd";s:19:"http://is.gd/RKiwdB";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/pilulas";s:7:"tinyurl";s:26:"https://tinyurl.com/3upu2yz";s:4:"isgd";s:19:"https://is.gd/RKiwdB";}'
 twittercomments:
   - 'a:4:{i:12181448937177089;s:7:"retweet";i:12180180965531648;s:7:"retweet";i:11884766181720064;s:7:"retweet";i:11872393567936512;s:7:"retweet";}'
 tweetcount:
@@ -34,16 +34,16 @@ tags:
       * Não, não é a Web Semântica. Ainda não. A Web Semântica será (se vier um dia) construída em cima de uma série de padrões que ainda não estão claramente compreendidos para 99% dos desenvolvedores web (você, que está lendo, sabe exatamente o que são e pra que servem RDF ou ODL?) Os microformats formam o que está sendo chamada de &#8220;lower-case semantic web.&#8221; Trata-se de fugir das discussões acadêmicas e usar o que temos hoje. Mais [aqui][12].
       * Não entendeu nada? Veja, por exemplo, [GeoURL e a extensão para Firefox][13]. É um exemplo do mundo real. Semântica em um documento, que pode ser usada por qualquer aplicação e não apenas um navegador.</ul>
 
- [1]: http://www.slashcode.com/ "Slashcode.com"
- [2]: http://webinsider.uol.com.br/vernoticia.php/id/2571 "Loja online cobra menos sem querer. E agora?"
- [3]: http://jonasgalvez.com/br/blog/2005-09/a-web-remixavel "Concurso de layout com user script"
- [4]: http://jonasgalvez.com/br/blog/2005-09/python-no-firefox-1.6 "Python no Firefox"
- [5]: http://sinistras.aranha.com.br/ "URLs sinistras"
- [6]: http://digital-web.com/articles/writing_semantic_markup/ "Writing Semantic Markup"
- [7]: http://tantek.com/presentations/2005/03/elementsofxhtml/ "The Elements of Meaningful XHTML"
- [8]: http://usabletype.com/articles/2005/usable-microformats/ "Usable Microformats"
- [9]: http://www.microformats.org/ "Microformats"
- [10]: http://www.brunotorres.net/2005/09/10/xhtml-pensando-no-futuro "XHMTL, Pensando no Futuro"
- [11]: http://www.brunotorres.net/ "Bruno Torres"
- [12]: http://www.tantek.com/presentations/2004etech/realworldsemanticspres.html "real world semantics"
- [13]: http://tableless.com.br/?rapidinhas_instale_experimente "GeoURL Firefox Extension"
+ [1]: https://www.slashcode.com/ "Slashcode.com"
+ [2]: https://webinsider.uol.com.br/vernoticia.php/id/2571 "Loja online cobra menos sem querer. E agora?"
+ [3]: https://jonasgalvez.com/br/blog/2005-09/a-web-remixavel "Concurso de layout com user script"
+ [4]: https://jonasgalvez.com/br/blog/2005-09/python-no-firefox-1.6 "Python no Firefox"
+ [5]: https://sinistras.aranha.com.br/ "URLs sinistras"
+ [6]: https://digital-web.com/articles/writing_semantic_markup/ "Writing Semantic Markup"
+ [7]: https://tantek.com/presentations/2005/03/elementsofxhtml/ "The Elements of Meaningful XHTML"
+ [8]: https://usabletype.com/articles/2005/usable-microformats/ "Usable Microformats"
+ [9]: https://www.microformats.org/ "Microformats"
+ [10]: https://www.brunotorres.net/2005/09/10/xhtml-pensando-no-futuro "XHMTL, Pensando no Futuro"
+ [11]: https://www.brunotorres.net/ "Bruno Torres"
+ [12]: https://www.tantek.com/presentations/2004etech/realworldsemanticspres.html "real world semantics"
+ [13]: https://tableless.com.br/?rapidinhas_instale_experimente "GeoURL Firefox Extension"

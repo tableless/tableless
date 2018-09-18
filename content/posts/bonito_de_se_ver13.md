@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1354928822
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/bonito_de_se_ver13";s:7:"tinyurl";s:26:"http://tinyurl.com/3rdbr2q";s:4:"isgd";s:19:"http://is.gd/Gw2nKm";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/bonito_de_se_ver13";s:7:"tinyurl";s:26:"https://tinyurl.com/3rdbr2q";s:4:"isgd";s:19:"https://is.gd/Gw2nKm";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033417
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.stirman.net/>
-  2. <http://www.lisamcmillan.com/>
-  3. <http://www.pilok.com/>
-  4. <http://www.maniacalrage.net/>
-  5. <http://www.egographies.com/>
+  1. <https://www.stirman.net/>
+  2. <https://www.lisamcmillan.com/>
+  3. <https://www.pilok.com/>
+  4. <https://www.maniacalrage.net/>
+  5. <https://www.egographies.com/>

@@ -88,10 +88,10 @@ Cissa também pontuou que a comunidade, que surgiu na CPBr de 2011, tem como pri
 
 Você pode acompanhar várias palestras, inclusive com os _keynotes_ e magistrais, através do site [campuse.ro][7], que disponibiliza o _live streaming_ das palestras.
 
- [1]: http://www.campus-party.com.br/
- [2]: http://twitter.com/campuspartybra/
+ [1]: https://www.campus-party.com.br/
+ [2]: https://twitter.com/campuspartybra/
  [3]: https://www.youtube.com/watch?v=CqwhpSXJRCE
- [4]: http://twitter.com/loiane/
+ [4]: https://twitter.com/loiane/
  [5]: https://secure-nikeplus.nike.com/plus/
- [6]: http://www.garotascpbr.com.br/
- [7]: http://campuse.ro/
+ [6]: https://www.garotascpbr.com.br/
+ [7]: https://campuse.ro/

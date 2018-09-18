@@ -7,7 +7,7 @@ url: /quem-precisa-de-versao-mobile/
 tweetbackscheck:
   - 1356171168
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/quem-precisa-de-versao-mobile";s:7:"tinyurl";s:26:"http://tinyurl.com/3ckmjlc";s:4:"isgd";s:19:"http://is.gd/UzbjYf";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/quem-precisa-de-versao-mobile";s:7:"tinyurl";s:26:"https://tinyurl.com/3ckmjlc";s:4:"isgd";s:19:"https://is.gd/UzbjYf";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037817
@@ -52,16 +52,16 @@ Se você não tiver nenhum motivo muito bom para fazer diferente, fique num dos 
 
 Os mesmos quatro níveis podem ser aplicados a praticamente qualquer cenário de uso. Por exemplo, impressão ou leitores de tela. Você pode fazer um site nos padrões e isso vai funcionar de maneira razoável. Pode escrever CSS ou pequenas adições em seu HTML para melhorar a experiência nesses cenários de uso. Pode, se não tiver outro jeito mesmo, fazer a indesejável segunda versão. Ou pode ignorar seus usuários.
 
- [1]: http://geocities.yahoo.com/
- [2]: http://www.yahoo.com
- [3]: http://www.webstandards.org/
- [4]: http://www.opera.com
- [5]: http://www.mozilla.com/firefox/
- [6]: http://www.konqueror.org/
- [7]: http://www.flock.com/
- [8]: http://www.apple.com/safari/
- [9]: http://www.gnome.org/projects/epiphany/
- [10]: http://galeon.sourceforge.net/
- [11]: http://en.wikipedia.org/wiki/Microbrowser#Default_browsers_used_by_major_mobile_phone_and_PDA_vendors
- [12]: http://twitter.com/
- [13]: http://www.google.com/reader/
+ [1]: https://geocities.yahoo.com/
+ [2]: https://www.yahoo.com
+ [3]: https://www.webstandards.org/
+ [4]: https://www.opera.com
+ [5]: https://www.mozilla.com/firefox/
+ [6]: https://www.konqueror.org/
+ [7]: https://www.flock.com/
+ [8]: https://www.apple.com/safari/
+ [9]: https://www.gnome.org/projects/epiphany/
+ [10]: https://galeon.sourceforge.net/
+ [11]: https://en.wikipedia.org/wiki/Microbrowser#Default_browsers_used_by_major_mobile_phone_and_PDA_vendors
+ [12]: https://twitter.com/
+ [13]: https://www.google.com/reader/

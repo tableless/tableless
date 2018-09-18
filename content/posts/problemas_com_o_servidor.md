@@ -7,7 +7,7 @@ url: /problemas_com_o_servidor/
 tweetbackscheck:
   - 1355301543
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/problemas_com_o_servidor";s:7:"tinyurl";s:26:"http://tinyurl.com/3janwvn";s:4:"isgd";s:19:"http://is.gd/V1K0Xf";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/problemas_com_o_servidor";s:7:"tinyurl";s:26:"https://tinyurl.com/3janwvn";s:4:"isgd";s:19:"https://is.gd/V1K0Xf";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033784

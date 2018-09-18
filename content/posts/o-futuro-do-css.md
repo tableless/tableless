@@ -7,7 +7,7 @@ url: /o-futuro-do-css/
 tweetbackscheck:
   - 1356448760
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/o-futuro-do-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3rvxp4j";s:4:"isgd";s:19:"http://is.gd/y3aJug";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/o-futuro-do-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3rvxp4j";s:4:"isgd";s:19:"https://is.gd/y3aJug";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037059
@@ -37,7 +37,7 @@ A idéia seria lançar características do CSS que tem menor curso de esforço d
   * [Artigo do Andy Budd sobre o futuro do CSS][1]
   * [Entrevista com Andy Budd sobre o futuro CSS][4]
 
- [1]: http://www.andybudd.com/archives/2007/05/css22/index.php
- [2]: http://tableless.com.br/a-web-semantica/
- [3]: http://tableless.com.br/aplicacoes-comem-conteudo
- [4]: http://www.css3.info/interview-andy-budd-on-the-future-of-css/
+ [1]: https://www.andybudd.com/archives/2007/05/css22/index.php
+ [2]: https://tableless.com.br/a-web-semantica/
+ [3]: https://tableless.com.br/aplicacoes-comem-conteudo
+ [4]: https://www.css3.info/interview-andy-budd-on-the-future-of-css/

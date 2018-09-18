@@ -7,7 +7,7 @@ url: /tagsoup-e-programas-wysiwyg/
 tweetbackscheck:
   - 1356390477
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/tagsoup-e-programas-wysiwyg";s:7:"tinyurl";s:26:"http://tinyurl.com/3rzlnd4";s:4:"isgd";s:19:"http://is.gd/CjeE53";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/tagsoup-e-programas-wysiwyg";s:7:"tinyurl";s:26:"https://tinyurl.com/3rzlnd4";s:4:"isgd";s:19:"https://is.gd/CjeE53";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034964
@@ -30,4 +30,4 @@ Outro ponto que também é muito comum: O desenvolvedor trabalha anos com Dreamw
 
 Entende onde quero chegar? Não sou contra usar programas desse tipo, contanto que o desenvolvedor saiba o que está fazendo. E muitos simplesmente limitam-se em clicar alguns botões no programa, ajeitar suas layers e tudo certo. O layout está pronto. Mas quando abre o código fonte, parece o Neo quando vê pela primeira vez aqueles códigos verdes rolando na tela.
 
- [1]: http://www.456bereastreet.com/archive/200603/iweb_the_new_tag_soup_generator/
+ [1]: https://www.456bereastreet.com/archive/200603/iweb_the_new_tag_soup_generator/

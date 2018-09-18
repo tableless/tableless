@@ -8,7 +8,7 @@ url: /aprenda-a-programar-javascript-no-codecademy/
 tweetbackscheck:
   - 1356390223
 shorturls:
-  - 'a:3:{s:9:"permalink";s:69:"http://tableless.com.br/aprenda-a-programar-javascript-no-codecademy/";s:4:"isgd";s:19:"http://is.gd/GlfgOH";s:7:"tinyurl";s:26:"http://tinyurl.com/7a3a4e4";}'
+  - 'a:3:{s:9:"permalink";s:69:"https://tableless.com.br/aprenda-a-programar-javascript-no-codecademy/";s:4:"isgd";s:19:"https://is.gd/GlfgOH";s:7:"tinyurl";s:26:"https://tinyurl.com/7a3a4e4";}'
 twittercomments:
   - 'a:12:{i:162340719854501890;s:7:"retweet";i:161801950692782080;s:7:"retweet";i:161799745310949376;s:7:"retweet";i:167213195310800896;s:7:"retweet";i:167201726569521152;s:7:"retweet";i:167199990484176896;s:7:"retweet";i:167199783142952961;s:7:"retweet";i:167197784997498880;s:7:"retweet";i:167196760169656321;s:7:"retweet";i:167196756956815360;s:7:"retweet";i:167196595656458240;s:7:"retweet";i:167196547648466944;s:7:"retweet";}'
 tweetcount:
@@ -30,4 +30,4 @@ Conforme você vai aprendendo, você desbloqueia badges (Como o Campus Online no
 
 Muito indicado para quem quer aprender a programar ou quer ter alguma noção sobre o assunto! Visite o [Codeacademy][1] agora e comece sua jornada! 😉
 
- [1]: http://www.codecademy.com/?utm_source=TablelessComBr&utm_medium=linkPost&utm_campaign=freePost
+ [1]: https://www.codecademy.com/?utm_source=TablelessComBr&utm_medium=linkPost&utm_campaign=freePost

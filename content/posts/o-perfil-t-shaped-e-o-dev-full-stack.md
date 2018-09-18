@@ -21,9 +21,9 @@ A Valve diz que esse tipo de pessoa é muito importante para o sucesso da empres
 
 Se fôssemos aplicar isso para desenvolvimento web, estaríamos falando de um profissional **full-stack**. Geralmente o mercado usa esse termo um pouco errado. Alguns lugares definem que um desenvolvedor full-stack é aquele back-end que entende de também de operações. Outros lugares definem o full-stack como sendo um back-end que também sabe front-end. As duas estão certas e erradas ao mesmo tempo. Veja: um profissional full-stack é aquele que entende razoavelmente bem todo o **stack** que se usa em um determinado projeto. O stack de desenvolvimento é o conjunto de tecnologias utilizadas para fazer o projeto funcionar. Exemplo: Um site desenvolvido com HTML, CSS, JS, PHP com WordPress como CMS e MySQL como banco, rodando em um servidor Ubuntu 14 com NGINX e Jenkins como CI. Se você consegue colocar um projeto desses funcionando em produção, sozinho, você pode se chamar de **full-stack**. E é claro que os stacks mudam de projeto par projeto. Logo, na verdade, um desenvolvedor pode não ser totalmente um **full-stack** motherfucker. É muito difícil achar um cara que saiba programar todas as principais linguagens back-end, que saiba configurar e manter muito bem servidores web e que domine todos os sistemas de CI etc. Esses caras são moscas brancas.
 
-Se você quiser saber um pouco mais sobre essa história de dev full-stack, rolou uma thread interessante no twitter esses dias. Conheci pelo Lucas Mazza (esse podcast sensacional)[http://developertea.com/]. O podcast é em inglês e nesse episódio específico, ele fala sobre [o que é exatamente um desenvolvedor full-stack][2]. Vale a “ouvida”.
+Se você quiser saber um pouco mais sobre essa história de dev full-stack, rolou uma thread interessante no twitter esses dias. Conheci pelo Lucas Mazza (esse podcast sensacional)[https://developertea.com/]. O podcast é em inglês e nesse episódio específico, ele fala sobre [o que é exatamente um desenvolvedor full-stack][2]. Vale a “ouvida”.
 
 Mais para frente escrevo mais sobre a organização que a Valve mantém dentro da empresa.
 
- [1]: http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf
- [2]: http://developertea.com/episodes/9281
+ [1]: https://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf
+ [2]: https://developertea.com/episodes/9281

@@ -8,7 +8,7 @@ url: /biblioteca-css-ou-framework/
 tweetbackscheck:
   - 1356390219
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4327";s:7:"tinyurl";s:26:"http://tinyurl.com/3atpckk";s:4:"isgd";s:19:"http://is.gd/bT0wGW";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4327";s:7:"tinyurl";s:26:"https://tinyurl.com/3atpckk";s:4:"isgd";s:19:"https://is.gd/bT0wGW";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503015394
@@ -99,6 +99,6 @@ Mas tenha em mente: se for decidir utilizar qualquer um dos dois, é bom que ess
 
 Entenda que um framework pode ter uma biblioteca de CSS embutida em seu core. Tendo também a possibilidade de manipular o visual dos elementos, o framework se mostra muito mais completo que uma biblioteca CSS, embora a bilioteca ganhe por ser mais fácil de personalizar e por não manipular o visual dos elementos, te deixando livre para formatar da forma que você bem entender.
 
- [1]: http://tableless.com.br/?author=8
- [2]: http://bit.ly/qbkeRb
- [3]: http://twitter.github.com/bootstrap/
+ [1]: https://tableless.com.br/?author=8
+ [2]: https://bit.ly/qbkeRb
+ [3]: https://twitter.github.com/bootstrap/

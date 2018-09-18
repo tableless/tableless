@@ -7,7 +7,7 @@ url: /xhtml_20/
 tweetbackscheck:
   - 1356366682
 shorturls:
-  - 'a:3:{s:9:"permalink";s:32:"http://tableless.com.br/xhtml_20";s:7:"tinyurl";s:26:"http://tinyurl.com/3o4l9c4";s:4:"isgd";s:19:"http://is.gd/hqAyIM";}'
+  - 'a:3:{s:9:"permalink";s:32:"https://tableless.com.br/xhtml_20";s:7:"tinyurl";s:26:"https://tinyurl.com/3o4l9c4";s:4:"isgd";s:19:"https://is.gd/hqAyIM";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032741
@@ -47,8 +47,8 @@ Então, essa parte não será tão dolorosa como antigamente.
   
 [Backwards compatibility][5]
 
- [1]: http://www.w3.org/TR/2005/WD-xhtml2-20050527/
- [2]: http://www.w3.org/TR/2005/WD-xhtml2-20050527/mod-object.html#edef_object_object
- [3]: http://www.w3.org/TR/2005/WD-xhtml2-20050527/mod-structural.html#edef_structural_separator
- [4]: http://www.w3.org/TR/2005/WD-xhtml2-20050527/introduction.html#s_intro_differences
- [5]: http://www.w3.org/TR/2005/WD-xhtml2-20050527/introduction.html#backCompat
+ [1]: https://www.w3.org/TR/2005/WD-xhtml2-20050527/
+ [2]: https://www.w3.org/TR/2005/WD-xhtml2-20050527/mod-object.html#edef_object_object
+ [3]: https://www.w3.org/TR/2005/WD-xhtml2-20050527/mod-structural.html#edef_structural_separator
+ [4]: https://www.w3.org/TR/2005/WD-xhtml2-20050527/introduction.html#s_intro_differences
+ [5]: https://www.w3.org/TR/2005/WD-xhtml2-20050527/introduction.html#backCompat

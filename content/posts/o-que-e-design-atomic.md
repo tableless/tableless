@@ -121,17 +121,17 @@ A criação de Frost vai muito além da metáfora bonitinha. O que eu acho verda
 * [Brad Frost @ #BTCONF][13]
 * [Atomic Design Makes Me Feel Like a Chemist][14]
 
- [1]: http://tableless.com.br/guia-de-estilos/#.UcOkIPagkR4 "Guias de Estilos"
- [2]: http://daverupert.com/2013/04/responsive-deliverables/ "Responsive Deliverables"
- [3]: http://blog.cloudfour.com/common-patterns/ "Common Patterns"
- [4]: http://bradfrostweb.com/blog/post/atomic-web-design/ "Atomic Web Design"
- [5]: http://vimeo.com/channels/beyondtellerrand/67476280 "Atomic Design - Beyond Tellerrand"
- [6]: http://bradfrostweb.com/blog/post/atomic-web-design/
- [7]: http://patternlab.bradfrostweb.com/ "Pattern Lab"
- [8]: http://patternlab.bradfrostweb.com/
+ [1]: https://tableless.com.br/guia-de-estilos/#.UcOkIPagkR4 "Guias de Estilos"
+ [2]: https://daverupert.com/2013/04/responsive-deliverables/ "Responsive Deliverables"
+ [3]: https://blog.cloudfour.com/common-patterns/ "Common Patterns"
+ [4]: https://bradfrostweb.com/blog/post/atomic-web-design/ "Atomic Web Design"
+ [5]: https://vimeo.com/channels/beyondtellerrand/67476280 "Atomic Design - Beyond Tellerrand"
+ [6]: https://bradfrostweb.com/blog/post/atomic-web-design/
+ [7]: https://patternlab.bradfrostweb.com/ "Pattern Lab"
+ [8]: https://patternlab.bradfrostweb.com/
  [9]: https://github.com/bradfrost/patternlab "Pattern Lab"
  [10]: https://github.com/zakkain/patternlab-jekyll "Pattern Lab Jekyll"
- [11]: http://www.benedfit.com/2013/06/atomic-design-phases-and-mesophases.html "Atomic design phases and mesophases"
- [12]: http://bradfrostweb.com/blog/post/atomic-web-design/ "Atomic Design"
- [13]: http://jancbeck.com/articles/btconf-brad-frost/ "Brad Frost @ #BTCONF"
- [14]: http://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist/ "Atomic Design Makes me Feel Like a Chemist"
+ [11]: https://www.benedfit.com/2013/06/atomic-design-phases-and-mesophases.html "Atomic design phases and mesophases"
+ [12]: https://bradfrostweb.com/blog/post/atomic-web-design/ "Atomic Design"
+ [13]: https://jancbeck.com/articles/btconf-brad-frost/ "Brad Frost @ #BTCONF"
+ [14]: https://notebookandpenguin.com/atomic-design-makes-me-feel-like-a-chemist/ "Atomic Design Makes me Feel Like a Chemist"

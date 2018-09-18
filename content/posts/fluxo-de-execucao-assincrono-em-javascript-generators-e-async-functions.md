@@ -196,14 +196,14 @@ Utilizar Generators e Async Functions para escrita de código assíncrono são p
 
 Por hoje é só, pessoal. Compartilhem nos comentários suas experiências e aprendizados com esta série de artigos e até a próxima!
 
- [1]: http://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-callbacks
- [2]: http://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-promises
- [3]: http://tc39.github.io/ecmascript-asyncawait
+ [1]: https://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-callbacks
+ [2]: https://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-promises
+ [3]: https://tc39.github.io/ecmascript-asyncawait
  [4]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators
  [5]: https://github.com/tj/co
- [6]: http://bluebirdjs.com/docs/api/promise.coroutine.html
- [7]: http://thanpol.as/javascript/promises-a-performance-hits-you-should-be-aware-of
- [8]: http://blog.millermedeiros.com/promise-nexttick
- [9]: http://kangax.github.io/compat-table/es6/#generators
- [10]: http://kangax.github.io/compat-table/es7/#test-async_functions
- [11]: http://stackoverflow.com/a/28709165
+ [6]: https://bluebirdjs.com/docs/api/promise.coroutine.html
+ [7]: https://thanpol.as/javascript/promises-a-performance-hits-you-should-be-aware-of
+ [8]: https://blog.millermedeiros.com/promise-nexttick
+ [9]: https://kangax.github.io/compat-table/es6/#generators
+ [10]: https://kangax.github.io/compat-table/es7/#test-async_functions
+ [11]: https://stackoverflow.com/a/28709165

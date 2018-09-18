@@ -7,7 +7,7 @@ url: /why_is_stupid/
 tweetbackscheck:
   - 1356454355
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/why_is_stupid";s:7:"tinyurl";s:26:"http://tinyurl.com/42yg5vz";s:4:"isgd";s:19:"http://is.gd/5dJtMI";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/why_is_stupid";s:7:"tinyurl";s:26:"https://tinyurl.com/42yg5vz";s:4:"isgd";s:19:"https://is.gd/5dJtMI";}'
 twittercomments:
   - 'a:2:{i:45840037757198336;s:7:"retweet";i:45705630983536640;s:7:"retweet";}'
 tweetcount:
@@ -22,5 +22,5 @@ Quadrinhos que falam sobre o problema de se fazer layouts com Tables e sobre a s
               
 Link ¿ [ArqHP][2]
 
- [1]: http://www.hotdesign.com/seybold/index.html "Why tables for layout is stupid"
- [2]: http://www.topica.com/lists/arqhp
+ [1]: https://www.hotdesign.com/seybold/index.html "Why tables for layout is stupid"
+ [2]: https://www.topica.com/lists/arqhp

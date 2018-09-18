@@ -7,7 +7,7 @@ url: /eyesmiles/
 tweetbackscheck:
   - 1356467263
 shorturls:
-  - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/eyesmiles";s:7:"tinyurl";s:26:"http://tinyurl.com/3cyeurm";s:4:"isgd";s:19:"http://is.gd/Mpi6rK";}'
+  - 'a:3:{s:9:"permalink";s:33:"https://tableless.com.br/eyesmiles";s:7:"tinyurl";s:26:"https://tinyurl.com/3cyeurm";s:4:"isgd";s:19:"https://is.gd/Mpi6rK";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033055
@@ -31,4 +31,4 @@ Mas é isso.
   
 É tableless. 😀
 
- [1]: http://tableless.com.br/eyesmiles/
+ [1]: https://tableless.com.br/eyesmiles/

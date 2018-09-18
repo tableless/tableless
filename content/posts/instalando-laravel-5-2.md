@@ -16,7 +16,7 @@ tags:
   - php
 
 ---
-Neste artigo irei demonstrar como instalar e começar a utilizar o <a class="markup--anchor markup--p-anchor" href="http://laravel.com/" rel="nofollow">Laravel</a> 5.2, framework que vem ganhando visibilidade no mercado.
+Neste artigo irei demonstrar como instalar e começar a utilizar o <a class="markup--anchor markup--p-anchor" href="https://laravel.com/" rel="nofollow">Laravel</a> 5.2, framework que vem ganhando visibilidade no mercado.
 
 <p id="42c9" class="graf--p graf-after--p">
   O que iremos utilizar:
@@ -24,7 +24,7 @@ Neste artigo irei demonstrar como instalar e começar a utilizar o <a class="ma
 
 <ul class="postList">
   <li id="1067" class="graf--li graf-after--p">
-    <a class="markup--anchor markup--li-anchor" href="http://getcomposer.org/" target="_blank" rel="nofollow">Composer</a>
+    <a class="markup--anchor markup--li-anchor" href="https://getcomposer.org/" target="_blank" rel="nofollow">Composer</a>
   </li>
 </ul>
 
@@ -112,7 +112,7 @@ Este comando irá criar toda a estrutura necessária para sua aplicação.
 #### Testando sua instalação {#61a4.graf--h4.graf-after--figure}
 
 <p id="e0c1" class="graf--p graf-after--h4">
-  Para verificar se a instalação está funcionando, utilize o Artisan para subir um servidor <em>built-in</em>. No terminal exibirá um endereço como: http://localhost:8000. Digite o comando &#8220;serve&#8221; (sem r mesmo):
+  Para verificar se a instalação está funcionando, utilize o Artisan para subir um servidor <em>built-in</em>. No terminal exibirá um endereço como: https://localhost:8000. Digite o comando &#8220;serve&#8221; (sem r mesmo):
 </p>
 
 <pre class="lang-bash">php artisan serve

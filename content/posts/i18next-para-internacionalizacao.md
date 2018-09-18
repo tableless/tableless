@@ -22,7 +22,7 @@ Os primeiros questionamentos que eu me fiz foram:
 
 Antes de ir adiante, vamos ver o significado da coisa segundo o dicionário: **Tornar-se internacional; Espalhar ou difundir por vários países.**
 
-Depois de toda essa introdução, finalmente apresento a vocês o maestro da orquestraque pode ser a solução para os seus problemas: O <a title="site da lib i18next" href="http://i18next.com/" target="_blank">i18next</a>!
+Depois de toda essa introdução, finalmente apresento a vocês o maestro da orquestraque pode ser a solução para os seus problemas: O <a title="site da lib i18next" href="https://i18next.com/" target="_blank">i18next</a>!
 
 Algumas considerações sobre esta lib:
 
@@ -34,7 +34,7 @@ Algumas considerações sobre esta lib:
   * Você pode detectar a linguagem do usuário e inserir o conteúdo de acordo com seu idioma.
   * Ativar a internacionalização no clique.
 
-Vou descrever os passos para você conseguir chegar <a title="Resultado final" href="http://thulioph.github.io/i18next-internacionalizacao/" target="_blank">neste resultado</a> que será acessível para espanhol, inglês e português.
+Vou descrever os passos para você conseguir chegar <a title="Resultado final" href="https://thulioph.github.io/i18next-internacionalizacao/" target="_blank">neste resultado</a> que será acessível para espanhol, inglês e português.
 
 _ps: não levem em conta as más práticas nem a nomenclatura, apenas criei a página para ajudar no entendimento._
 

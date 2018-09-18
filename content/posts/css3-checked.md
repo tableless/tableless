@@ -7,7 +7,7 @@ url: /css3-checked/
 tweetbackscheck:
   - 1356450755
 shorturls:
-  - 'a:3:{s:9:"permalink";s:36:"http://tableless.com.br/css3-checked";s:7:"tinyurl";s:26:"http://tinyurl.com/3s2y92x";s:4:"isgd";s:19:"http://is.gd/aztHhA";}'
+  - 'a:3:{s:9:"permalink";s:36:"https://tableless.com.br/css3-checked";s:7:"tinyurl";s:26:"https://tinyurl.com/3s2y92x";s:4:"isgd";s:19:"https://is.gd/aztHhA";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036662
@@ -35,5 +35,5 @@ Mais de CSS3?
   
 [Saiba como a propriedade BACKGROUND irá se comportar][2].
 
- [1]: http://www.css3.info/selectors-test/test-checked.html#checked
- [2]: http://tableless.com.br/css-3-propriedade-background
+ [1]: https://www.css3.info/selectors-test/test-checked.html#checked
+ [2]: https://tableless.com.br/css-3-propriedade-background

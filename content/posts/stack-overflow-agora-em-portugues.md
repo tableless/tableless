@@ -40,8 +40,8 @@ Quanto mais você contribui, mais o site confia em você e o Brasil conta com um
 Se você é um programador que fala português, você pode [criar sua conta][5] ou [fazer o tour][6] (e ganhar sua primeira medalha no site!)
 
  [1]: https://plus.google.com/u/1/110394267562381672705/posts
- [2]: http://pt.stackoverflow.com/
- [3]: http://www.joelonsoftware.com
- [4]: http://stackexchange.com/
- [5]: http://pt.stackoverflow.com/users/login
- [6]: http://pt.stackoverflow.com/tour
+ [2]: https://pt.stackoverflow.com/
+ [3]: https://www.joelonsoftware.com
+ [4]: https://stackexchange.com/
+ [5]: https://pt.stackoverflow.com/users/login
+ [6]: https://pt.stackoverflow.com/tour

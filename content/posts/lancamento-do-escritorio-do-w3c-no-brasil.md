@@ -7,7 +7,7 @@ url: /lancamento-do-escritorio-do-w3c-no-brasil/
 tweetbackscheck:
   - 1356432730
 shorturls:
-  - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/lancamento-do-escritorio-do-w3c-no-brasil";s:7:"tinyurl";s:26:"http://tinyurl.com/3f4yuvp";s:4:"isgd";s:19:"http://is.gd/GxDTfH";}'
+  - 'a:3:{s:9:"permalink";s:65:"https://tableless.com.br/lancamento-do-escritorio-do-w3c-no-brasil";s:7:"tinyurl";s:26:"https://tinyurl.com/3f4yuvp";s:4:"isgd";s:19:"https://is.gd/GxDTfH";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038218
@@ -32,5 +32,5 @@ O evento será dia 4 de Junho às 11h. [Faça seu cadastro][1] e [leia mais info
 > 
 > Este evento está integrado ao 14º Congresso de Inovação na Gestão Pública que acontecerá em São Paulo, de 2 à 5 de Junho, sob o tema &#8220;Governo 2.0&#8221;.
 
- [1]: http://www.w3c.br/2008/lancamento/cadastro.html
- [2]: http://www.w3c.br/2008/lancamento/
+ [1]: https://www.w3c.br/2008/lancamento/cadastro.html
+ [2]: https://www.w3c.br/2008/lancamento/

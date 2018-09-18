@@ -8,7 +8,7 @@ url: /alternativas-ao-jquery/
 tweetbackscheck:
   - 1356452582
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4034";s:7:"tinyurl";s:26:"http://tinyurl.com/3hw3d9w";s:4:"isgd";s:19:"http://is.gd/QnfvAA";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4034";s:7:"tinyurl";s:26:"https://tinyurl.com/3hw3d9w";s:4:"isgd";s:19:"https://is.gd/QnfvAA";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503040374
@@ -85,14 +85,14 @@ Um dos seus principais destaques é o alto nível de modularização, permitindo
 
 Para concluir, segue uma [apresentação][11] do criador do jQuery que, apesar de um pouco antiga (2008), é bem legal e fala sobre o framework e suas alternativas.
 
- [1]: http://mootools.net/
- [2]: http://mochaui.org/
- [3]: http://jqueryvsmootools.com/
- [4]: http://www.sencha.com/products/extjs/
- [5]: http://www.sencha.com/products/extjs/examples/
- [6]: http://www.prototypejs.org/
- [7]: http://script.aculo.us/
- [8]: http://developer.yahoo.com/yui/3/
- [9]: http://developer.yahoo.com/yui/3/cssreset/
- [10]: http://dojotoolkit.org/
- [11]: http://www.slideshare.net/jeresig/javascript-library-overview-presentation/
+ [1]: https://mootools.net/
+ [2]: https://mochaui.org/
+ [3]: https://jqueryvsmootools.com/
+ [4]: https://www.sencha.com/products/extjs/
+ [5]: https://www.sencha.com/products/extjs/examples/
+ [6]: https://www.prototypejs.org/
+ [7]: https://script.aculo.us/
+ [8]: https://developer.yahoo.com/yui/3/
+ [9]: https://developer.yahoo.com/yui/3/cssreset/
+ [10]: https://dojotoolkit.org/
+ [11]: https://www.slideshare.net/jeresig/javascript-library-overview-presentation/

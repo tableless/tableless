@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1355633196
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bonito-de-se-ver-42";s:7:"tinyurl";s:26:"http://tinyurl.com/3jl6oco";s:4:"isgd";s:19:"http://is.gd/T6CN3P";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/bonito-de-se-ver-42";s:7:"tinyurl";s:26:"https://tinyurl.com/3jl6oco";s:4:"isgd";s:19:"https://is.gd/T6CN3P";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036552
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.weevox.com/>
-  2. <http://www.ministrycamp.com/>
-  3. <http://www.sampo-keramika.com/>
-  4. <http://www.felipedesign.com.br/>
-  5. <http://www.turismoriasbaixas.com/labs/panel/>
+  1. <https://www.weevox.com/>
+  2. <https://www.ministrycamp.com/>
+  3. <https://www.sampo-keramika.com/>
+  4. <https://www.felipedesign.com.br/>
+  5. <https://www.turismoriasbaixas.com/labs/panel/>

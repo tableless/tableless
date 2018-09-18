@@ -7,7 +7,7 @@ url: /video-tutorial-6-transformando-layout-fixo-em-fluido/
 tweetbackscheck:
   - 1356446620
 shorturls:
-  - 'a:3:{s:9:"permalink";s:76:"http://tableless.com.br/video-tutorial-6-transformando-layout-fixo-em-fluido";s:7:"tinyurl";s:26:"http://tinyurl.com/3er5mcq";s:4:"isgd";s:19:"http://is.gd/TZqEtf";}'
+  - 'a:3:{s:9:"permalink";s:76:"https://tableless.com.br/video-tutorial-6-transformando-layout-fixo-em-fluido";s:7:"tinyurl";s:26:"https://tinyurl.com/3er5mcq";s:4:"isgd";s:19:"https://is.gd/TZqEtf";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034485
@@ -33,7 +33,7 @@ Formato: SWF
 
 Se você quiser mais vídeos e em alta-resolução, visite o [Campus Online][3]. Lá você vai encontrar [vídeos tutoriais de Tableless, Ajax, Javascript][4] e boas práticas de desenvolvimento web.
 
- [1]: http://tableless.com.br/videotutorial/videotutorial6/
- [2]: http://tableless.com.br/videotutorial/videotutorial6/videotutorial6.rar
- [3]: http://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
- [4]: http://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"
+ [1]: https://tableless.com.br/videotutorial/videotutorial6/
+ [2]: https://tableless.com.br/videotutorial/videotutorial6/videotutorial6.rar
+ [3]: https://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
+ [4]: https://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"

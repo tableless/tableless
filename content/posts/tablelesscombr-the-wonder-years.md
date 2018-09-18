@@ -7,7 +7,7 @@ url: /tablelesscombr-the-wonder-years/
 tweetbackscheck:
   - 1356463183
 shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/tablelesscombr-the-wonder-years";s:7:"tinyurl";s:26:"http://tinyurl.com/4249afy";s:4:"isgd";s:19:"http://is.gd/hHBV6t";}'
+  - 'a:3:{s:9:"permalink";s:55:"https://tableless.com.br/tablelesscombr-the-wonder-years";s:7:"tinyurl";s:26:"https://tinyurl.com/4249afy";s:4:"isgd";s:19:"https://is.gd/hHBV6t";}'
 twittercomments:
   - 'a:2:{i:9926025068675072;s:7:"retweet";i:22387968777916416;s:7:"retweet";}'
 tweetcount:
@@ -41,6 +41,6 @@ E se você ainda acha que todo site Tableless tem cara de blog, seu lugar não �
 
 PS.: Estou usando um bocado o [Twitter][2]. Quem está no twitter sabia da mudança do layout a mais ou menos 1 semana adiantado. [Meu profile][3]. E tem feed. 😉
 
- [1]: http://visie.com.br/wordpress/
- [2]: http://twitter.com/
- [3]: http://twitter.com/diegoeis
+ [1]: https://visie.com.br/wordpress/
+ [2]: https://twitter.com/
+ [3]: https://twitter.com/diegoeis

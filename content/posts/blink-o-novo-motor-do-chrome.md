@@ -28,6 +28,6 @@ Essa mudança de caminho não trará quase que nenhuma mudança para os desenvol
 
 A boa notícia é que o Google é super comprometido com o projeto do WebKit. Tanto o Google quanto a Apple trabalharam juntos durante muito tempo para melhorar o WebKit para fazê-lo o que ele é hoje. Novidades virão com certeza. É só esperar.
 
- [1]: http://www.chromium.org/
- [2]: http://www.chromium.org/blink
- [3]: http://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html
+ [1]: https://www.chromium.org/
+ [2]: https://www.chromium.org/blink
+ [3]: https://blog.chromium.org/2013/04/blink-rendering-engine-for-chromium.html

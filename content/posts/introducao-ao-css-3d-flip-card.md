@@ -8,7 +8,7 @@ url: /introducao-ao-css-3d-flip-card/
 tweetbackscheck:
   - 1356394605
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4792";s:7:"tinyurl";s:26:"http://tinyurl.com/7oh62ow";s:4:"isgd";s:19:"http://is.gd/Vwt4Tq";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4792";s:7:"tinyurl";s:26:"https://tinyurl.com/7oh62ow";s:4:"isgd";s:19:"https://is.gd/Vwt4Tq";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 511601273
@@ -92,7 +92,7 @@ Muito importante: ao utilizar as propriedades resumidas, os browsers ativam auto
 
 ## Fazendo o efeito de Card Flip
 
-O efeito de Card Flip é muito conhecido entre os usuários de iPhone. Para ter ideia de como é o efeito <a href="http://tableless.github.com/exemplos/css3d/cardflip/cardflip.html" title="Exemplo de efeito card flip com CSS 3 3D" target="_blank">veja o exemplo final</a>.
+O efeito de Card Flip é muito conhecido entre os usuários de iPhone. Para ter ideia de como é o efeito <a href="https://tableless.github.com/exemplos/css3d/cardflip/cardflip.html" title="Exemplo de efeito card flip com CSS 3 3D" target="_blank">veja o exemplo final</a>.
 
 A estrutura HTML é esta:
 
@@ -181,14 +181,14 @@ O nome da biblioteca é [3Drollover][8]. Clone no seu computador e divirta-se. D
   * Pessoal do [WebKit explicando sobre outras propriedades do CSS 3D Transforms][10].
   * Você pode [brincar um pouco com as propriedades do CSS 3D aqui][11].
 
- [1]: http://tableless.com.br/utilizando-a-biblioteca-modernizr/ "Utilizando a Biblioteca Modernizr"
- [2]: http://pt.wikipedia.org/wiki/Perspectiva_(gráfica) "Wikipedia: sobre ponto de fuga"
- [3]: http://tableless.github.com/exemplos/cssanimation.html
- [4]: http://tableless.github.com/exemplos/css3d/cardflip/propriedade-perspective.html
- [5]: http://tableless.com.br/introducao-ao-css-animation/ "Introdução ao CSS Animation"
- [6]: http://tableless.github.com/exemplos/csstransforms/
- [7]: http://tableless.github.com/exemplos/css3d/cardflip/propriedade-transform.html
+ [1]: https://tableless.com.br/utilizando-a-biblioteca-modernizr/ "Utilizando a Biblioteca Modernizr"
+ [2]: https://pt.wikipedia.org/wiki/Perspectiva_(gráfica) "Wikipedia: sobre ponto de fuga"
+ [3]: https://tableless.github.com/exemplos/cssanimation.html
+ [4]: https://tableless.github.com/exemplos/css3d/cardflip/propriedade-perspective.html
+ [5]: https://tableless.com.br/introducao-ao-css-animation/ "Introdução ao CSS Animation"
+ [6]: https://tableless.github.com/exemplos/csstransforms/
+ [7]: https://tableless.github.com/exemplos/css3d/cardflip/propriedade-transform.html
  [8]: https://github.com/codepo8/3drollovers.css
- [9]: http://dev.w3.org/csswg/css3-3d-transforms/
- [10]: http://www.webkit.org/blog/386/3d-transforms/
- [11]: http://desandro.github.com/3dtransforms/examples/perspective-03.html
+ [9]: https://dev.w3.org/csswg/css3-3d-transforms/
+ [10]: https://www.webkit.org/blog/386/3d-transforms/
+ [11]: https://desandro.github.com/3dtransforms/examples/perspective-03.html

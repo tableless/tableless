@@ -4,7 +4,7 @@ authors: Bruno Castro
 type: post
 date: 2017-07-16
 excerpt: A-Frame é um framework NODE.JS pra construção de aplicações em 360 no browser.
-image: http://i.imgur.com/EWitjy4.png
+image: https://i.imgur.com/EWitjy4.png
 categories:
   - Javascript
 tags:
@@ -115,7 +115,7 @@ Agora que já conhece as principais tags e entende a composição do cenário, f
 fácil criar seus protótipos navegáveis em 360 e testá-los no celular.<br>
 
 **!dica:** use
-[SimpleHTTPServer](http://www.scottmadethis.net/interactive/simpleserver/) e
+[SimpleHTTPServer](https://www.scottmadethis.net/interactive/simpleserver/) e
 transforme seu mac em um servidor local.
 
 Lembre-se que um protótipo deve ser simples, ou seja, você deve dedicar o menor

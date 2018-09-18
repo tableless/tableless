@@ -6,7 +6,7 @@ date: 2006-11-09
 url: /podcast-tableless-25-validacao-e-importante/
 enclosure:
   - |
-    http://tableless.com.br/podcast/podcast-tableless-25.mp3
+    https://tableless.com.br/podcast/podcast-tableless-25.mp3
     29070266
     audio/mpeg
 aktt_tweeted:
@@ -16,7 +16,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356415936
 shorturls:
-  - 'a:3:{s:9:"permalink";s:67:"http://tableless.com.br/podcast-tableless-25-validacao-e-importante";s:7:"tinyurl";s:26:"http://tinyurl.com/44dx6hy";s:4:"isgd";s:19:"http://is.gd/5X2yTn";}'
+  - 'a:3:{s:9:"permalink";s:67:"https://tableless.com.br/podcast-tableless-25-validacao-e-importante";s:7:"tinyurl";s:26:"https://tinyurl.com/44dx6hy";s:4:"isgd";s:19:"https://is.gd/5X2yTn";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036265
@@ -50,10 +50,10 @@ Formato: Mp3
 
 Você pode [baixar o arquivo diretamente][4], mas aconselho fortemente que você [cadastre nosso FEED][5] em seu [agregador][6] favorito. Mais informações e links sobre feeds: [tableless.com.br/assine][7]
 
- [1]: http://en.wikipedia.org/wiki/The_Answer_to_Life,_the_Universe,_and_Everything#The_search_for_the_Ultimate_Question
- [2]: http://tableless.com.br/validar-e-importante
- [3]: http://skype.com/
- [4]: http://tableless.com.br/podcast/podcast-tableless-25.mp3
- [5]: http://tableless.com.br/feed/
- [6]: http://tableless.com.br/agregadores-de-feeds
- [7]: http://tableless.com.br/assine
+ [1]: https://en.wikipedia.org/wiki/The_Answer_to_Life,_the_Universe,_and_Everything#The_search_for_the_Ultimate_Question
+ [2]: https://tableless.com.br/validar-e-importante
+ [3]: https://skype.com/
+ [4]: https://tableless.com.br/podcast/podcast-tableless-25.mp3
+ [5]: https://tableless.com.br/feed/
+ [6]: https://tableless.com.br/agregadores-de-feeds
+ [7]: https://tableless.com.br/assine

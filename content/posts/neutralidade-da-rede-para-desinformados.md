@@ -32,7 +32,7 @@ Até hoje (16 de Janeiro) você pode [acessar esse link](https://www.meo.pt/inte
 Quando a operadora fala que você pode acessar o ZapZap ou o Facebook de grátis do seu celular, sem cobrar seu 3G, quer dizer que eles já estão monitorando seus dados para poder te dar essa gratuidade. Nada os impede de fazer o contrário.
 
 ## A Lei
-O sucesso é que nós estamos garantidos (ninguém sabe por quanto tempo) pelo Marco Civil da Internet, na forma da [Lei Federal Nº 12.965/2014](http://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2014/Lei/L12965.htm#art5i), que foi regulamentada através do [Decreto Nº 8.771/2016](http://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2016/Decreto/D8771.htm) (Santa Dilma), definindo regras bem claras sobre o tratamento sem diferenciação e do acesso à internet.
+O sucesso é que nós estamos garantidos (ninguém sabe por quanto tempo) pelo Marco Civil da Internet, na forma da [Lei Federal Nº 12.965/2014](https://www.planalto.gov.br/CCIVIL_03/_Ato2011-2014/2014/Lei/L12965.htm#art5i), que foi regulamentada através do [Decreto Nº 8.771/2016](https://www.planalto.gov.br/CCIVIL_03/_Ato2015-2018/2016/Decreto/D8771.htm) (Santa Dilma), definindo regras bem claras sobre o tratamento sem diferenciação e do acesso à internet.
 
 > Art. 3o  A exigência de tratamento isonômico de que trata o art. 9º da Lei nº 12.965, de 2014, deve garantir a preservação do caráter público e irrestrito do acesso à internet e os fundamentos, princípios e objetivos do uso da internet no País, conforme previsto na Lei nº 12.965, de 2014. 
 
@@ -50,9 +50,9 @@ Em uma pesquisa de Setembro de 2017 (tipo, ontem), descobriu que Brasil,  Chile,
 
 > A apressada e tecnicamente incorreta proposta de abolir as proteções à neutralidade de rede sem qualquer substituto é uma ameaça iminente à internet que nós demos duro criar.
 
-A [pesquisa está na íntegra aqui](https://www.4shared.com/s/fg5UFojRNca) e você pode [ler mais sobre ela direto no site da Intervozes](http://intervozes.org.br/pesquisa-mapeia-estado-da-neutralidade-de-rede-na-america-latina/).
+A [pesquisa está na íntegra aqui](https://www.4shared.com/s/fg5UFojRNca) e você pode [ler mais sobre ela direto no site da Intervozes](https://intervozes.org.br/pesquisa-mapeia-estado-da-neutralidade-de-rede-na-america-latina/).
 
-Depois que os USA reverteu a lei que destrói a neutralidade de rede por lá, tem rumores de que [o Brasil pode ser um dos próximos países](http://www1.folha.uol.com.br/mercado/2017/12/1943511-no-brasil-teles-tambem-vao-pedir-mudanca-de-neutralidade-de-rede.shtml) a seguir essa moda. Mas o inimaginável aconteceu e o [Kassab, que é ministro da Ciência, Tecnologia, Inovações e Comunicações, disse que o governo está lutando contra o fim da neutralidade](http://www1.folha.uol.com.br/mercado/2018/01/1948151-governo-combatera-pressao-contra-a-isonomia-na-internet-diz-kassab.shtml).
+Depois que os USA reverteu a lei que destrói a neutralidade de rede por lá, tem rumores de que [o Brasil pode ser um dos próximos países](https://www1.folha.uol.com.br/mercado/2017/12/1943511-no-brasil-teles-tambem-vao-pedir-mudanca-de-neutralidade-de-rede.shtml) a seguir essa moda. Mas o inimaginável aconteceu e o [Kassab, que é ministro da Ciência, Tecnologia, Inovações e Comunicações, disse que o governo está lutando contra o fim da neutralidade](https://www1.folha.uol.com.br/mercado/2018/01/1948151-governo-combatera-pressao-contra-a-isonomia-na-internet-diz-kassab.shtml).
 
 > A apressada e tecnicamente incorreta proposta de abolir as proteções à neutralidade de rede sem qualquer substituto é uma ameaça iminente à internet que nós demos duro criar. -- Carta aberta ao FCC
 
@@ -61,9 +61,9 @@ Uma galera tem se posicionado fortemente contra a atitude de acabar com a neutra
 Agora é só sentar e esperar as cenas dos próximos capítulos, que basicamente depende de grandes empresas como [NET Combo](https://netcombomulti.net.br/), Vivo, Claro e etc... Torçamos para que o pior não aconteça para nós usuários.
 
 ## Para você se instruir mais
-- [NEUTRALIDADE DA REDE NO MARCO CIVIL DA INTERNET](http://marcocivil.cgi.br/contribution/neutralidade-da-rede-no-marco-civil-da-internet/139)
+- [NEUTRALIDADE DA REDE NO MARCO CIVIL DA INTERNET](https://marcocivil.cgi.br/contribution/neutralidade-da-rede-no-marco-civil-da-internet/139)
 - [O que é traffic shaping](https://www.tecmundo.com.br/conexao/3078-o-que-e-traffic-shaping-.htm)
-- [Intervozes e Derechos Digitales lançam pesquisa que mapeia estado da neutralidade de rede na América Latina](http://intervozes.org.br/pesquisa-mapeia-estado-da-neutralidade-de-rede-na-america-latina/)
-- [FCC reverte leis da neutralidade na rede nos EUA, e Brasil pode ser o próximo](http://meiobit.com/377176/eua-fcc-derruba-neutralidade-da-rede-operadoras-brasil-se-preparam-para-fazer-o-mesmo-aqui/)
+- [Intervozes e Derechos Digitales lançam pesquisa que mapeia estado da neutralidade de rede na América Latina](https://intervozes.org.br/pesquisa-mapeia-estado-da-neutralidade-de-rede-na-america-latina/)
+- [FCC reverte leis da neutralidade na rede nos EUA, e Brasil pode ser o próximo](https://meiobit.com/377176/eua-fcc-derruba-neutralidade-da-rede-operadoras-brasil-se-preparam-para-fazer-o-mesmo-aqui/)
 - [Neutralidade de rede opõe pioneiros da internet, empresas de tecnologia e teles nos EUA](https://g1.globo.com/economia/tecnologia/noticia/neutralidade-de-rede-opoe-pioneiros-da-internet-empresas-de-tecnologia-e-teles-nos-eua.ghtml)
 - [Kassab afirma que governo combaterá pressão de teles contra neutralidade da rede](https://theenemy.com.br/tech/kassab-afirma-que-governo-combatera-pressao-de-teles-contra-neutralidade-da-rede)

@@ -291,14 +291,14 @@ Tradução autorizada pela [Smashing Magazine][11].
 
 Qualquer erro ou sugestão de melhoria na tradução, é bem vinda! 🙂
 
- [1]: http://tableless.com.br/?s=css3
- [2]: http://uxdesign.smashingmagazine.com/2013/10/23/smart-transitions-in-user-experience-design/ "Smart transitions in user experience design"
+ [1]: https://tableless.com.br/?s=css3
+ [2]: https://uxdesign.smashingmagazine.com/2013/10/23/smart-transitions-in-user-experience-design/ "Smart transitions in user experience design"
  [3]: https://twitter.com/webchaeschtli "Perfil do twitter"
- [4]: http://www.nytimes.com/2003/11/30/magazine/30IPOD.html?pagewanted=all
- [5]: http://hopelies.com/
- [6]: http://edenspiekermann.com/projects
- [7]: http://ec.europa.eu/regional_policy/archive/country/commu/docevent/26112008/5_doulgerof_glossary.pdf
- [8]: http://www.youtube.com/watch?v=MyIE9vjy8Zo
+ [4]: https://www.nytimes.com/2003/11/30/magazine/30IPOD.html?pagewanted=all
+ [5]: https://hopelies.com/
+ [6]: https://edenspiekermann.com/projects
+ [7]: https://ec.europa.eu/regional_policy/archive/country/commu/docevent/26112008/5_doulgerof_glossary.pdf
+ [8]: https://www.youtube.com/watch?v=MyIE9vjy8Zo
  [9]: https://twitter.com/webchaeschtli
- [10]: http://uxdesign.smashingmagazine.com/2013/10/23/smart-transitions-in-user-experience-design/
- [11]: http://www.smashingmagazine.com/
+ [10]: https://uxdesign.smashingmagazine.com/2013/10/23/smart-transitions-in-user-experience-design/
+ [11]: https://www.smashingmagazine.com/

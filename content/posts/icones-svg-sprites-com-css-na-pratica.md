@@ -23,8 +23,8 @@ O artigo abaixo abordará de forma prática o uso de ícones SVG com o uso das s
 
 O site [FlatIcon][1] contém alguns ícones gratuitos que podem ser baixados no formato SVG. Para este exemplo serão usados os dois arquivos SVG abaixo para compor o sprite:
 
-  * [http://www.flaticon.com/free-icon/save-disk_13842][2]
-  * [http://www.flaticon.com/free-icon/download-arrow_64090][3]
+  * [https://www.flaticon.com/free-icon/save-disk_13842][2]
+  * [https://www.flaticon.com/free-icon/download-arrow_64090][3]
 
 A figura abaixo mostra o código fonte das duas imagens:
 
@@ -50,22 +50,22 @@ O tamanho da imagem, juntamente com a cor de preenchimento, foi definida via CSS
 
 ## Resultado final
 
-Este exemplo foi testado com Chrome e Firefox. O Internet Explorer não suporta nativamente (tinha que ser&#8230;) o uso do elemento <use> para arquivos externos(veja [http://caniuse.com/#feat=svg][9]), sendo necessário o uso de polyfill (veja [https://github.com/jonathantneal/svg4everybody][10]).
+Este exemplo foi testado com Chrome e Firefox. O Internet Explorer não suporta nativamente (tinha que ser&#8230;) o uso do elemento <use> para arquivos externos(veja [https://caniuse.com/#feat=svg][9]), sendo necessário o uso de polyfill (veja [https://github.com/jonathantneal/svg4everybody][10]).
 
-Para quem quiser se aprofundar neste assunto não deixem de ler o seguinte artigo: <http://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/>
+Para quem quiser se aprofundar neste assunto não deixem de ler o seguinte artigo: <https://sarasoueidan.com/blog/structuring-grouping-referencing-in-svg/>
 
 A figura abaixo mostra o resultado final.
 
 [<img class="alignnone size-full wp-image-49055" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/figura_svg_exemplo_fonte4.png" alt="figura_svg_exemplo_fonte4" width="1292" height="447" />][11]
 
- [1]: http://www.flaticon.com/ "flaticon"
- [2]: http://www.flaticon.com/free-icon/save-disk_13842 "svg"
- [3]: http://www.flaticon.com/free-icon/download-arrow_64090 "svg"
+ [1]: https://www.flaticon.com/ "flaticon"
+ [2]: https://www.flaticon.com/free-icon/save-disk_13842 "svg"
+ [3]: https://www.flaticon.com/free-icon/download-arrow_64090 "svg"
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/figura_exemplo_svg_fonte1.png
  [5]: https://developer.mozilla.org/pt-BR/docs/Web/SVG/Element/symbol "svg symbol"
  [6]: https://developer.mozilla.org/en-US/docs/Web/SVG/Element/defs "svg defs"
  [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/figura_svg_exemplo_fonte2.png
  [8]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/figura_svg_exemplo_fonte3.png
- [9]: http://caniuse.com/#feat=svg "caniuse"
+ [9]: https://caniuse.com/#feat=svg "caniuse"
  [10]: https://github.com/jonathantneal/svg4everybody "polyfill ie"
  [11]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/figura_svg_exemplo_fonte4.png

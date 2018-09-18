@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356462432
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/extension-screen-grab";s:7:"tinyurl";s:26:"http://tinyurl.com/42z6dmc";s:4:"isgd";s:19:"http://is.gd/zAFH08";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/extension-screen-grab";s:7:"tinyurl";s:26:"https://tinyurl.com/42z6dmc";s:4:"isgd";s:19:"https://is.gd/zAFH08";}'
 twittercomments:
   - 'a:1:{i:10476503653425152;s:7:"retweet";}'
 tweetcount:

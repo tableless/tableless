@@ -7,7 +7,7 @@ url: /minha_vez_de_comentar/
 tweetbackscheck:
   - 1355109298
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/minha_vez_de_comentar";s:7:"tinyurl";s:26:"http://tinyurl.com/3c5ngku";s:4:"isgd";s:19:"http://is.gd/mvEi5t";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/minha_vez_de_comentar";s:7:"tinyurl";s:26:"https://tinyurl.com/3c5ngku";s:4:"isgd";s:19:"https://is.gd/mvEi5t";}'
 twittercomments:
   - 'a:1:{i:9849748131414016;s:7:"retweet";}'
 tweetcount:

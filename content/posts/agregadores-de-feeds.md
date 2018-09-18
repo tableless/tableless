@@ -7,7 +7,7 @@ url: /agregadores-de-feeds/
 tweetbackscheck:
   - 1356172559
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/agregadores-de-feeds";s:7:"tinyurl";s:26:"http://tinyurl.com/3v42g9c";s:4:"isgd";s:19:"http://is.gd/PFnlI6";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/agregadores-de-feeds";s:7:"tinyurl";s:26:"https://tinyurl.com/3v42g9c";s:4:"isgd";s:19:"https://is.gd/PFnlI6";}'
 twittercomments:
   - 'a:2:{i:52507909791289344;s:7:"retweet";i:58022090447663104;s:7:"retweet";}'
 tweetcount:
@@ -49,17 +49,17 @@ A maioria dos agregadores te permite exportar sua lista de feeds no formato OPML
 
 Se você ainda não sabe o que são feeds, rss, atom e essas coisas. Dá [uma lida neste texto][14] (muito, muito bom) que o Bruno Torres escreveu.
 
- [1]: http://tableless.com.br/feed/
- [2]: http://bloglines.com/
- [3]: http://newshutch.com/
- [4]: http://www.newsgator.com/
- [5]: http://wasabi.com.br/ "Agregador de Feeds e Social"
- [6]: http://www.digitalminds.com.br/blog/
- [7]: http://www.netvibes.com/
- [8]: http://www.google.com/reader/
- [9]: http://feedreader.com/
- [10]: http://www.bradsoft.com/feeddemon/
- [11]: http://ranchero.com/netnewswire/
- [12]: http://akregator.sourceforge.net/
- [13]: http://liferea.sourceforge.net/
- [14]: http://brunotorres.net/assinar/#comofunciona
+ [1]: https://tableless.com.br/feed/
+ [2]: https://bloglines.com/
+ [3]: https://newshutch.com/
+ [4]: https://www.newsgator.com/
+ [5]: https://wasabi.com.br/ "Agregador de Feeds e Social"
+ [6]: https://www.digitalminds.com.br/blog/
+ [7]: https://www.netvibes.com/
+ [8]: https://www.google.com/reader/
+ [9]: https://feedreader.com/
+ [10]: https://www.bradsoft.com/feeddemon/
+ [11]: https://ranchero.com/netnewswire/
+ [12]: https://akregator.sourceforge.net/
+ [13]: https://liferea.sourceforge.net/
+ [14]: https://brunotorres.net/assinar/#comofunciona

@@ -56,7 +56,7 @@ Uma maneira fácil de se familiarizar com a ferramenta é verifica o que acontec
   
 Vamos realizar um passo a passo com a ferramenta online.
   
-1.Primeiro você vai acessar a url [http://closure-compiler.appspot.com/home][2] ;
+1.Primeiro você vai acessar a url [https://closure-compiler.appspot.com/home][2] ;
 
 2. Ao acessar a página você vera uma simples function, para realizar um teste básico;
 
@@ -68,7 +68,7 @@ O Closure Compiler Service API é um ótimo lugar para iniciar com poucas linhas
 
   1. Primeiro vamos criar um HTML básico, onde você vai utilizar a API com HTTP POST request. <pre class="lang-html">&lt;html&gt;
   &lt;body&gt;
-    &lt;form action="http://closure-compiler.appspot.com/compile" method="POST"&gt;
+    &lt;form action="https://closure-compiler.appspot.com/compile" method="POST"&gt;
     &lt;p&gt;Type JavaScript code to optimize here:&lt;/p&gt;
     &lt;textarea name="js_code" cols="50" rows="5"&gt;
     function hello(name) {
@@ -100,6 +100,6 @@ O Closure Compiler Service API é um ótimo lugar para iniciar com poucas linhas
 
  [1]: https://www.google.com/url?q=https%3A%2F%2Fdevelopers.google.com%2Fclosure%2Ftemplates
  [2]: https://www.google.com/url?q=http%3A%2F%2Fclosure-compiler.appspot.com%2Fhome
- [3]: http://closure-compiler.appspot.com/home
- [4]: http://jsfiddle.net/leonardo403/mgozvgu0/2/
+ [3]: https://closure-compiler.appspot.com/home
+ [4]: https://jsfiddle.net/leonardo403/mgozvgu0/2/
  [5]: https://developers.google.com/closure/

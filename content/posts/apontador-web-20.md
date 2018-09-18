@@ -7,7 +7,7 @@ url: /apontador-web-20/
 tweetbackscheck:
   - 1356298156
 shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/apontador-web-20";s:7:"tinyurl";s:26:"http://tinyurl.com/3rzu6n2";s:4:"isgd";s:19:"http://is.gd/cNEGFm";}'
+  - 'a:3:{s:9:"permalink";s:40:"https://tableless.com.br/apontador-web-20";s:7:"tinyurl";s:26:"https://tinyurl.com/3rzu6n2";s:4:"isgd";s:19:"https://is.gd/cNEGFm";}'
 twittercomments:
   - 'a:3:{i:10204181403009024;s:7:"retweet";i:10188027196342272;s:7:"retweet";i:10177783397359616;s:7:"retweet";}'
 tweetcount:
@@ -43,6 +43,6 @@ Vamos ver se eles vão mesmo manter o espírito da coisa ao chamar de web 2.0. A
 
 Está aí, Apontador, um exemplo de um site que sofreu uma melhoria muito grande, e um projeto para se acompanhar.
 
- [1]: http://www.apontador.com.br
- [2]: http://maps.google.com/
- [3]: http://wikimapia.org
+ [1]: https://www.apontador.com.br
+ [2]: https://maps.google.com/
+ [3]: https://wikimapia.org

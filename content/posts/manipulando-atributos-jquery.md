@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356289231
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/manipulando-atributos-jquery";s:7:"tinyurl";s:26:"http://tinyurl.com/3wb2ox5";s:4:"isgd";s:19:"http://is.gd/Pa3wHT";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/manipulando-atributos-jquery";s:7:"tinyurl";s:26:"https://tinyurl.com/3wb2ox5";s:4:"isgd";s:19:"https://is.gd/Pa3wHT";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038690
@@ -28,10 +28,10 @@ Depois de encontrar os objetos do HTML, é preciso alterá-los. Aprenda como ler
   
 Aconselhamos que você assista esse vídeo em Fullscreen. 
 
-<embed src="https://visie.com.br/campus/static/mediaplayer.swf" width="457" height="353" allowscriptaccess="always" allowfullscreen="true" flashvars="height=353&#038;width=457&#038;file=http://visie.com.br/campus/flv/65.flv&#038;image=http://visie.com.br/campus/static/visie.jpg" />
+<embed src="https://visie.com.br/campus/static/mediaplayer.swf" width="457" height="353" allowscriptaccess="always" allowfullscreen="true" flashvars="height=353&#038;width=457&#038;file=https://visie.com.br/campus/flv/65.flv&#038;image=https://visie.com.br/campus/static/visie.jpg" />
 
 
 Esse e outros vídeos estão disponíveis no [Campus Online da Visie][1]. Lá você encontra [videos tutoriais de Tableless, Ajax, Javascript][2] e um monte de outras coisas.
 
- [1]: http://visie.com.br/campus/ "Vídeos tutoriais de Tableless"
- [2]: http://visie.com.br/campus/
+ [1]: https://visie.com.br/campus/ "Vídeos tutoriais de Tableless"
+ [2]: https://visie.com.br/campus/

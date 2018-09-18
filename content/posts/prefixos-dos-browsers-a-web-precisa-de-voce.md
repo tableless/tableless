@@ -8,7 +8,7 @@ url: /prefixos-dos-browsers-a-web-precisa-de-voce/
 tweetbackscheck:
   - 1356436655
 shorturls:
-  - 'a:3:{s:9:"permalink";s:68:"http://tableless.com.br/prefixos-dos-browsers-a-web-precisa-de-voce/";s:7:"tinyurl";s:26:"http://tinyurl.com/6qkql7z";s:4:"isgd";s:19:"http://is.gd/GkktW1";}'
+  - 'a:3:{s:9:"permalink";s:68:"https://tableless.com.br/prefixos-dos-browsers-a-web-precisa-de-voce/";s:7:"tinyurl";s:26:"https://tinyurl.com/6qkql7z";s:4:"isgd";s:19:"https://is.gd/GkktW1";}'
 twittercomments:
   - 'a:26:{i:169043082690564097;s:7:"retweet";i:169044650131337216;s:7:"retweet";i:169191951898390528;s:7:"retweet";i:169088392645181441;s:7:"retweet";i:169086105277317120;s:7:"retweet";i:169065048008962050;s:7:"retweet";i:169064943512068097;s:7:"retweet";i:169062792782036992;s:7:"retweet";i:169061065546670080;s:7:"retweet";i:169056063553945600;s:7:"retweet";i:169054519085371392;s:7:"retweet";i:169052757653856257;s:7:"retweet";i:169050512895909888;s:7:"retweet";i:169047362646450177;s:7:"retweet";i:169046449844264960;s:7:"retweet";i:169044839017611266;s:7:"retweet";i:169044263722696704;s:7:"retweet";i:169043997367607296;s:7:"retweet";i:169043684875190272;s:7:"retweet";i:169043156912979968;s:7:"retweet";i:169043046590197760;s:7:"retweet";i:172705389035520000;s:7:"retweet";i:172700988640202752;s:7:"retweet";i:172700927369805825;s:7:"retweet";i:172698204171808768;s:7:"retweet";i:172698076593668096;s:7:"retweet";}'
 tweetcount:
@@ -71,8 +71,8 @@ Como você pode ajudar?
 
 [Assine essa petição][3] para os fabricantes de browsers não suportarem o prefixo webkit e espalhe para seus colegas a notícia. E claro, ao usar os prefixos para os browsers, utilize todos e não apenas um.
 
-<small><a href="http://carrosantigos.wordpress.com/2011/07/25/freedom-riders-i-stand-among-heroes/">Foto do post</a></small>
+<small><a href="https://carrosantigos.wordpress.com/2011/07/25/freedom-riders-i-stand-among-heroes/">Foto do post</a></small>
 
- [1]: http://www.glazman.org/weblog/dotclear/index.php?trackback/5454
- [2]: http://bit.ly/x9LxGx
- [3]: http://www.change.org/petitions/microsoft-mozilla-opera-dont-make-webkit-prefixes-a-de-facto-standard
+ [1]: https://www.glazman.org/weblog/dotclear/index.php?trackback/5454
+ [2]: https://bit.ly/x9LxGx
+ [3]: https://www.change.org/petitions/microsoft-mozilla-opera-dont-make-webkit-prefixes-a-de-facto-standard

@@ -7,7 +7,7 @@ url: /auto-completar-ajax-como-o-google-suggest/
 tweetbackscheck:
   - 1356382009
 shorturls:
-  - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/auto-completar-ajax-como-o-google-suggest";s:7:"tinyurl";s:26:"http://tinyurl.com/4xmvs6z";s:4:"isgd";s:19:"http://is.gd/kkhHEP";}'
+  - 'a:3:{s:9:"permalink";s:65:"https://tableless.com.br/auto-completar-ajax-como-o-google-suggest";s:7:"tinyurl";s:26:"https://tinyurl.com/4xmvs6z";s:4:"isgd";s:19:"https://is.gd/kkhHEP";}'
 twittercomments:
   - 'a:2:{i:9949784504795136;s:7:"retweet";i:9949436692140032;s:7:"retweet";}'
 tweetcount:
@@ -24,5 +24,5 @@ Algumas pessoas tem escrito perguntando como se produz um efeito semelhante ao [
 
 Como você pode ver lá, é o início do trabalho. Pretendo ter tudo pronto em duas semanas. Colaborações são muito bem vindas!
 
- [1]: http://www.google.com/webhp?complete=1&hl=en
- [2]: http://elcio.com.br/ajax/autocompletar/
+ [1]: https://www.google.com/webhp?complete=1&hl=en
+ [2]: https://elcio.com.br/ajax/autocompletar/

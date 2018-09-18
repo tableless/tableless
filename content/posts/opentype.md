@@ -60,7 +60,7 @@ As chamadas **PostScript** foram as primeiras a surgir pelas mãos da Adobe. Com
 
 ## Suporte
 
-Hoje o único navegador que não oferece suporte ao OpenType é o Opera Mini. Veja a lista de navegadores com suporte, abaixo: (disponível em: <a href="http://caniuse.com/#search=woff" target="_blank">http://caniuse.com/#search=woff</a>)
+Hoje o único navegador que não oferece suporte ao OpenType é o Opera Mini. Veja a lista de navegadores com suporte, abaixo: (disponível em: <a href="https://caniuse.com/#search=woff" target="_blank">https://caniuse.com/#search=woff</a>)
 
 [<img class="alignnone wp-image-43155 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/06/support.png" alt="suporte" width="930" height="351" srcset="uploads/2014/06/support.png 930w, uploads/2014/06/support-265x100.png 265w, uploads/2014/06/support-400x150.png 400w" sizes="(max-width: 930px) 100vw, 930px" />][1]
 
@@ -89,7 +89,7 @@ Este código habilita as frações, se estiverem disponíveis na fonte. Devido �
 
 </pre>
 
-Você pode ver o código acima funcionando através do seguinte codepen: <a href="http://codepen.io/Fabiano/pen/zFdka" target="_blank">http://codepen.io/Fabiano/pen/zFdka</a>
+Você pode ver o código acima funcionando através do seguinte codepen: <a href="https://codepen.io/Fabiano/pen/zFdka" target="_blank">https://codepen.io/Fabiano/pen/zFdka</a>
 
 Aqui está uma lista completa dos recursos existentes e como usá-los.
 
@@ -134,28 +134,28 @@ Com a grande ênfase em legibilidade, aumento na densidade de pixels e qualidade
 
 **Fonts.com**
 
-O serviço Monotype permite pesquisar fontes por nível de recursos OpenType suportados: <a href="http://www.fonts.com/support/faq/opentype-features-tab" target="_blank">http://www.fonts.com/support/faq/opentype-features-tab</a>. Também possui um sistema para gerar o código CSS para seu site.
+O serviço Monotype permite pesquisar fontes por nível de recursos OpenType suportados: <a href="https://www.fonts.com/support/faq/opentype-features-tab" target="_blank">https://www.fonts.com/support/faq/opentype-features-tab</a>. Também possui um sistema para gerar o código CSS para seu site.
 
 **Typography.com**
 
-A H&FJ também suporta recursos OpenType em suas fontes, com os mais extensos e detalhados controles sobre os recursos a serem usados, oferecendo mais controle sobre o tamanho do download. Veja a ótima documentação de uso em: <a href="http://www.typography.com/cloud/user-guide/font-features" target="_blank">http://www.typography.com/cloud/user-guide/font-features</a>
+A H&FJ também suporta recursos OpenType em suas fontes, com os mais extensos e detalhados controles sobre os recursos a serem usados, oferecendo mais controle sobre o tamanho do download. Veja a ótima documentação de uso em: <a href="https://www.typography.com/cloud/user-guide/font-features" target="_blank">https://www.typography.com/cloud/user-guide/font-features</a>
 
 **A ferramenta de Rich Rutter**
 
-O cofundador da Fontdeck criou uma ferramenta para lidar com recursos OpenType, permitindo habilitar e desabilitar as diferentes funções. Você pode testar fontes variadas e analisar o CSS resultante: <a href="http://clagnut.com/sandbox/css3/" target="_blank">http://clagnut.com/sandbox/css3/</a>
+O cofundador da Fontdeck criou uma ferramenta para lidar com recursos OpenType, permitindo habilitar e desabilitar as diferentes funções. Você pode testar fontes variadas e analisar o CSS resultante: <a href="https://clagnut.com/sandbox/css3/" target="_blank">https://clagnut.com/sandbox/css3/</a>
 
 ## Referências
 
 Há um PDF muito bom direto do site da Adobe que aborda como o OpenType funciona e alguns detalhes bem interessantes:
 
-DESCONHECIDO. Can I Use. Support tables for HTML5, CSS3, etc. **Can I Use**, 2014. Disponivel em: <http://caniuse.com/#search=woff>. Acesso em: 9 Junho 2014.
+DESCONHECIDO. Can I Use. Support tables for HTML5, CSS3, etc. **Can I Use**, 2014. Disponivel em: <https://caniuse.com/#search=woff>. Acesso em: 9 Junho 2014.
 
-DESCONHECIDO. Qual é a diferença entre fontes TrueType, PostScript e OpenType? **Windows**. Disponivel em: <http://windows.microsoft.com/pt-br/windows/difference-truetype-postscript-opentype-fonts#1TC=windows-7>. Acesso em: 9 Junho 2014.
+DESCONHECIDO. Qual é a diferença entre fontes TrueType, PostScript e OpenType? **Windows**. Disponivel em: <https://windows.microsoft.com/pt-br/windows/difference-truetype-postscript-opentype-fonts#1TC=windows-7>. Acesso em: 9 Junho 2014.
 
-MOTA, H. O que são fontes TrueType, OpenType e PostScript? **Design Culture**, 13. Disponivel em: <http://www.designculture.com.br/o-que-sao-fontes-truetype-opentype-e-postscript/>. Acesso em: 16 Junho 2014.
+MOTA, H. O que são fontes TrueType, OpenType e PostScript? **Design Culture**, 13. Disponivel em: <https://www.designculture.com.br/o-que-sao-fontes-truetype-opentype-e-postscript/>. Acesso em: 16 Junho 2014.
 
 PAMENTAL, J. Domine o OpenType. **Revista W**, São Paulo, n. 167, p. 62-66, Junho 2014.
 
-SANGIOVANNI, C. Rapidinha:O que é Kerning. **Choco La Design**, 2011. Disponivel em: <http://chocoladesign.com/rapidinha-o-que-e-kerning>. Acesso em: 9 Junho 2014.
+SANGIOVANNI, C. Rapidinha:O que é Kerning. **Choco La Design**, 2011. Disponivel em: <https://chocoladesign.com/rapidinha-o-que-e-kerning>. Acesso em: 9 Junho 2014.
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/06/support.png

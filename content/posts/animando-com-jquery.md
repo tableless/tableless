@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356391426
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/animando-com-jquery";s:7:"tinyurl";s:26:"http://tinyurl.com/3fbk63j";s:4:"isgd";s:19:"http://is.gd/6w1ema";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/animando-com-jquery";s:7:"tinyurl";s:26:"https://tinyurl.com/3fbk63j";s:4:"isgd";s:19:"https://is.gd/6w1ema";}'
 twittercomments:
   - 'a:25:{i:165093192918765568;s:7:"retweet";i:165092717251137538;s:7:"retweet";i:186789423101378560;s:7:"retweet";i:186747114452295680;s:7:"retweet";i:186692405817393153;s:7:"retweet";i:186681153917423616;s:7:"retweet";i:186655732291211264;s:7:"retweet";i:186655695628795905;s:7:"retweet";i:186655687047258114;s:7:"retweet";i:198211749349040129;s:7:"retweet";i:198115887721615361;s:7:"retweet";i:198110105038884864;s:7:"retweet";i:215876876034510849;s:7:"retweet";i:215869515022606336;s:7:"retweet";i:215868714715848704;s:7:"retweet";i:227936961069985793;s:7:"retweet";i:227825841667723264;s:7:"retweet";i:227825668975632384;s:7:"retweet";i:241516619233374210;s:7:"retweet";i:251065037882531840;s:7:"retweet";i:251018368281350144;s:7:"retweet";i:256807785432485888;s:7:"retweet";i:256454292133777411;s:7:"retweet";i:276410235307036672;s:7:"retweet";i:276370497388818433;s:7:"retweet";}'
 tweetcount:
@@ -124,12 +124,12 @@ Enfim, aplicamos estes dois trechos de script ao nosso &#8220;inicializator-jque
 
 A jQuery manipula muito bem efeitos simples (mas que resolvem a esmagadora quantidade de problemas) que muitas bibliotecas insistem em deixar confuso demais ou complexo demais por adicionar mais e mais configurações para cada efeito. Por isso jQuery é uma ferramenta muito poderosa.
 
- [1]: http://dgmike.com.br/tableless/jquery/caixa-de-ferramentas-simples.html
- [2]: http://dgmike.com.br/tableless/jquery/caixa-de-ferramentas.html
+ [1]: https://dgmike.com.br/tableless/jquery/caixa-de-ferramentas-simples.html
+ [2]: https://dgmike.com.br/tableless/jquery/caixa-de-ferramentas.html
  [3]: #area "Mostrar/Esconder Área"
- [4]: http://dgmike.com.br/tableless/jquery/caixa-de-ferramentas-animado.html
- [5]: http://dgmike.com.br/tableless/jquery/caixa-de-ferramentas-simples-animado.html
+ [4]: https://dgmike.com.br/tableless/jquery/caixa-de-ferramentas-animado.html
+ [5]: https://dgmike.com.br/tableless/jquery/caixa-de-ferramentas-simples-animado.html
  [6]: google.com "Encontre o que você procura"
  [7]: tableless.com.br "Webstandards com Feijão e Farofa"
- [8]: http://dgmike.com.br/tableless/jquery/tooltip-simples.html
- [9]: http://dgmike.com.br/tableless/jquery/tooltip-simples-animado.html "Tooltip simples animado com JQuery"
+ [8]: https://dgmike.com.br/tableless/jquery/tooltip-simples.html
+ [9]: https://dgmike.com.br/tableless/jquery/tooltip-simples-animado.html "Tooltip simples animado com JQuery"

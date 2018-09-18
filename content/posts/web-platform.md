@@ -8,7 +8,7 @@ url: /web-platform/
 tweetbackscheck:
   - 1356390768
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/web-platform/";s:7:"tinyurl";s:26:"http://tinyurl.com/9fztssm";s:4:"isgd";s:19:"http://is.gd/oN64mI";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/web-platform/";s:7:"tinyurl";s:26:"https://tinyurl.com/9fztssm";s:4:"isgd";s:19:"https://is.gd/oN64mI";}'
 twittercomments:
   - 'a:6:{i:261175048310771712;s:7:"retweet";i:261063141461467136;s:7:"retweet";i:260916258625687552;s:7:"retweet";i:260915324369649664;s:7:"retweet";i:258280518167183361;s:7:"retweet";i:258277581961457664;s:7:"retweet";}'
 tweetcount:
@@ -41,12 +41,12 @@ Eles descrevem muito bem o propósito do site:
 
 O WebPlatform irá curar, atualizar e indicar referências e tutoriais sobre cada parte do desenvolvimento client-side e também design. Eles mostrarão bugs e explicarão detalhadamente as soluções. A ideia é ótima. Muitos devs me perguntam sobre problemas que tem diversas soluções. É muito bom saber como desenvolvedores destes grandes sites resolvem problemas diários e principalmente como você pode utilizar também essas soluções em seus projetos.
 
- [1]: http://www1.webplatform.org/
- [2]: http://webplatform.org/stewards/adobe
- [3]: http://webplatform.org/stewards/facebook
- [4]: http://webplatform.org/stewards/google
- [5]: http://webplatform.org/stewards/hp
- [6]: http://webplatform.org/stewards/microsoft
- [7]: http://webplatform.org/stewards/mozilla
- [8]: http://webplatform.org/stewards/nokia
- [9]: http://webplatform.org/stewards/opera
+ [1]: https://www1.webplatform.org/
+ [2]: https://webplatform.org/stewards/adobe
+ [3]: https://webplatform.org/stewards/facebook
+ [4]: https://webplatform.org/stewards/google
+ [5]: https://webplatform.org/stewards/hp
+ [6]: https://webplatform.org/stewards/microsoft
+ [7]: https://webplatform.org/stewards/mozilla
+ [8]: https://webplatform.org/stewards/nokia
+ [9]: https://webplatform.org/stewards/opera

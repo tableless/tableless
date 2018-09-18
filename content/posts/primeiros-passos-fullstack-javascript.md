@@ -38,11 +38,11 @@ Com JavaScript devemos pensar fora da caixa, ele não é apenas uma linguagem pa
 manipular dentro da web, com ele você pode programar diretamente no [hardware
 seja (arduino, raspberry e tantos outros)](https://braziljs.org/blog/interacao-com-hardware-usando-javascript/),
 como programar seu próprio [drone](https://t.co/bMFGr4zs7B), as possibilidades
-são [infinitas](http://www.sitepoint.com/javascript-beyond-web/).
+são [infinitas](https://www.sitepoint.com/javascript-beyond-web/).
 
 Pois é, se você é um daqueles desenvolvedores que tinha um certo "receio" com o
 JavaScript, acho que está na hora de rever seus conceitos sobre o
-[(ECMAScript)](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf),
+[(ECMAScript)](https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf),
 atualmente na versão 6, aka ECMA2015.
 
 Pois bem e para sermos um Full-Stack JavaScript Developer? Bom, o JavaScript que
@@ -53,7 +53,7 @@ fazer de tudo com JavaScript, inclusive roda-lo no servidor como uma linguagem
 Server-Side, ou seja, agora temos o JavaScript do lado do
 Servidor([NodeJs](https://nodejs.org/en/)) e do lado do Cliente da qual podemos
 adotar alguns frameworks ou bibliotecas, como [Angular, Ember, Backbone, React,
-Meteor ou até mesmo o jQuery](http://whichcatisyourjavascriptframework.com/).
+Meteor ou até mesmo o jQuery](https://whichcatisyourjavascriptframework.com/).
 
 Ferramentas essas que fazem o “ciclo de vida” dos produtos serem extremamente
 produtivos em relação a escalabilidade e agilidade no desenvolvimento
@@ -68,11 +68,11 @@ E sobre o financeiro? Afinal saco vazio não para de pé, certo?
 
 Veja os dois links abaixo que mostra a média salarial para pessoas que dominam o
 NodeJs, nem preciso mencionar que com o [dólar atual a
-R$3.90](http://dolarhoje.com/) é extremamente interessante trabalhar para
+R$3.90](https://dolarhoje.com/) é extremamente interessante trabalhar para
 empresas no exterior além do conforto do home-office, vai refletindo sobre isso
 até o final do post e veja abaixo:
 
-* [PayScale](http://www.payscale.com/research/US/Skill=Node.js/Salary)
+* [PayScale](https://www.payscale.com/research/US/Skill=Node.js/Salary)
 * [Quora](https://www.quora.com/What-is-the-average-Node-js-salary)
 
 Bom, até aqui você já percebeu que o JavaScript oferece inúmeros recursos,
@@ -82,9 +82,9 @@ você então dar uma chance para o JS, ainda não está convencido?
 Veja quem está adotando Node no seus projetos:
 
 * [Linkedin](https://engineering.linkedin.com/nodejs/blazing-fast-nodejs-10-performance-tips-linkedin-mobile)
-* [Walmart](http://venturebeat.com/2012/01/24/why-walmart-is-using-node-js/)
-* [Groupon](http://www.datacenterknowledge.com/archives/2013/12/06/need-speed-groupon-migrated-node-js/)
-* [Microsoft](http://techcrunch.com/2013/11/21/microsoft-launches-node-js-tools-for-visual-studio/)
+* [Walmart](https://venturebeat.com/2012/01/24/why-walmart-is-using-node-js/)
+* [Groupon](https://www.datacenterknowledge.com/archives/2013/12/06/need-speed-groupon-migrated-node-js/)
+* [Microsoft](https://techcrunch.com/2013/11/21/microsoft-launches-node-js-tools-for-visual-studio/)
 * [Paypal](https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/)
 * [Outras](https://github.com/nodejs/node-v0.x-archive/wiki/Projects,-Applications,-and-Companies-Using-Node)
 
@@ -95,8 +95,8 @@ JavasScript](https://medium.com/@mjackson/universal-javascript-4761051b7ae9#.8co
 
 > E quanto ao cenário Front-End!? Não preciso mencionar sobre a importância,
 > certo? Aos amigos que já fazem parte desse cenário e se divertem com
-[jQuery](http://youmightnotneedjquery.com/), [recomendo que possam adotar
-JavaScript puro](http://youmightnotneedjquery.com/) em suas aplicações para
+[jQuery](https://youmightnotneedjquery.com/), [recomendo que possam adotar
+JavaScript puro](https://youmightnotneedjquery.com/) em suas aplicações para
 assim entrar de uma vez por todas, para o lado negro da força, adotando seja o
 Angular ou outro framework que mencionei anteriormente.
 
@@ -137,21 +137,21 @@ em (Leia, Pesquise e Pergunte) ou seja leia a respeito, pesquise por respostas e
 aspirante já sai metralhando todos os grupos igual “rambo na hora da vingança”
 em busca de alguma alma caridosa que resolva seu problema com 2 linhas de
 código, não seja um desenvolvedor [POG (programador orientado a
-gambiarras)](http://pt.slideshare.net/josenaldomatos/programao-orientada-a-gambiarra-30097904).
+gambiarras)](https://pt.slideshare.net/josenaldomatos/programao-orientada-a-gambiarra-30097904).
 
 Sendo assim, e seguindo a metodologia mencionada, recomendo que leia esses
 livros:
 
 * [JavaScript Guia Definitivo 6.ª edição — David
-Flanagam](http://www.submarino.com.br/produto/112167569/livro-javascript-o-guia-definitivo)
+Flanagam](https://www.submarino.com.br/produto/112167569/livro-javascript-o-guia-definitivo)
 * [Padrões JavaScript — Stoyan
-Stefanov](http://novatec.com.br/livros/padroesjavascript/)
+Stefanov](https://novatec.com.br/livros/padroesjavascript/)
 * [JavaScript de Alto Desempenho — Nicholas C.
-Zakas](http://novatec.com.br/livros/javascriptdesemp/)
+Zakas](https://novatec.com.br/livros/javascriptdesemp/)
 * [O Melhor do JavaScript — Douglas
-Crockford](http://www.altabooks.com.br/o-melhor-do-javascript.html)
+Crockford](https://www.altabooks.com.br/o-melhor-do-javascript.html)
 * [Ninja JavaScript — John Resig / Bear
-Bibeault](http://www.novatec.com.br/livros/ninja-javascript/)
+Bibeault](https://www.novatec.com.br/livros/ninja-javascript/)
 
 Obs: Você irá aprender JavaScript corretamente em 6 semanas com esses livros que
 mencionei. Todos estão disponíveis em pt-br, ou seja, para quem não está
@@ -161,7 +161,7 @@ Quer entender como usar os livros com um cronograma detalhado sobre quais
 capítulos você vai ler por semana? Veja nesse
 [link](https://codeinbrasil.wordpress.com/2013/04/28/como-aprender-javascript-corretamente-javascript-is-sexy/)
 do Eric Douglas que ele traduziu do artigo [JavaScript is
-Sexy](http://javascriptissexy.com/how-to-learn-javascript-properly/), com o
+Sexy](https://javascriptissexy.com/how-to-learn-javascript-properly/), com o
 primeiro livro que citei, você consegue fazer coisas fantásticas, os outros 04
 livros irão coloca-lo em um nível acima da média como Developer JavaScript.
 
@@ -172,7 +172,7 @@ links que recomendo, seriam:
 
 * [JavaScript Furtivo](https://leanpub.com/javascriptfurtivo) (ebook) | Eric
 Douglas — pt-br
-* [Eloquent JavaScript (ebook)](http://braziljs.github.io/eloquente-javascript/) |
+* [Eloquent JavaScript (ebook)](https://braziljs.github.io/eloquente-javascript/) |
 Marijn Haverbeke — pt-br
 * [Learning JavaScript Design Patterns
 (ebook)](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)| Addy
@@ -180,9 +180,9 @@ Osmani— en-us
 * [Série You Don ‘t Know JavaScript
 (ebook](https://github.com/getify/You-Dont-Know-JS))| Kyle Simpson — en-us
 * [Programming JavaScript Applications (ebook)
-](http://chimera.labs.oreilly.com/books/1234000000262/index.html)| Eric Elliot —
+](https://chimera.labs.oreilly.com/books/1234000000262/index.html)| Eric Elliot —
 en-us
-* [JSBooks Free Resources (ebooks) — en-us](http://jsbooks.revolunet.com/)
+* [JSBooks Free Resources (ebooks) — en-us](https://jsbooks.revolunet.com/)
 * [Rodrigo
 Brana](https://www.youtube.com/playlist?list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc)s
 (video-aula)
@@ -200,9 +200,9 @@ alguns links que irão dar uma força nesse ponto:
 * [Developer
 Mozilla](https://developer.mozilla.org/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico)
 * [CodeSchool](https://www.codeschool.com/paths/javascript)
-* [Learn-Js](http://www.learn-js.org/)
+* [Learn-Js](https://www.learn-js.org/)
 * [Team TreeHouse](https://teamtreehouse.com/library/javascript-basics)
-* [freeCodeCamp](http://www.freecodecamp.com/)
+* [freeCodeCamp](https://www.freecodecamp.com/)
 
 Essas são instituições que visam ensinar JavaScript através de exercícios
 práticos com terminal no browser.
@@ -213,22 +213,22 @@ em mãos a documentação sem erros de tradução, e artigos de excelente qualid
 
 Existe muita gente boa daqui do nosso lado([Brazilian
 JS](https://braziljs.org/)), fazendo coisas excelentes e ajudando a comunidade
-brutalmente, como é o caso do [Jaydson Gomes](http://jaydson.org/), [Felipe
-Moura](http://felipenmoura.com/home/), [Jean
-Nascimento](http://nomadev.com.br/), [Jean Ermer](http://jcemer.com/),[ Fernando
-Daciuk](http://blog.da2k.com.br/), [Eric
+brutalmente, como é o caso do [Jaydson Gomes](https://jaydson.org/), [Felipe
+Moura](https://felipenmoura.com/home/), [Jean
+Nascimento](https://nomadev.com.br/), [Jean Ermer](https://jcemer.com/),[ Fernando
+Daciuk](https://blog.da2k.com.br/), [Eric
 Douglas](https://github.com/ericdouglas), [Henrique Silvério
 ](https://github.com/HenriqueSilverio?tab=repositories), [Guilherme
 Diego](https://medium.com/@guidiego), [Almir
-Filho](http://loopinfinito.com.br/), [Diego
-Eis](http://tableless.com.br/author/diegoeis/), [Daniel Filho](http://dnl.pw/),
-[Davidson Felipe](http://www.fellipe.com/blog/), [Zeno
-Rocha](https://zenorocha.com/blog), [Willian Bruno](http://wbruno.com.br/),
+Filho](https://loopinfinito.com.br/), [Diego
+Eis](https://tableless.com.br/author/diegoeis/), [Daniel Filho](https://dnl.pw/),
+[Davidson Felipe](https://www.fellipe.com/blog/), [Zeno
+Rocha](https://zenorocha.com/blog), [Willian Bruno](https://wbruno.com.br/),
 entre tantos outros que daria outro artigo para evidenciar isso, pois tem muita
 gente bacana, empenhada nisso!
 
 Uma boa plataforma que você pode estudar é a
-[freeCodeCamp](http://www.freecodecamp.com/), que é a proposta mais **épica**
+[freeCodeCamp](https://www.freecodecamp.com/), que é a proposta mais **épica**
 que eu conheci até o momento. Inclusive foi essa plataforma que me incentivou a
 escrever esse artigo*.*
 
@@ -257,9 +257,9 @@ se quiser manter-se atualizado sobre as principais novidades assina as "Weekly
 carreira e muito mais!
 
 * [BrazilJS Weekly](https://braziljs.org/#weekly)
-* [JavaScript Weekly](http://javascriptweekly.com/)
+* [JavaScript Weekly](https://javascriptweekly.com/)
 
-**Bônus 1:** Existe esse guide [SuperHero JS](http://superherojs.com/),
+**Bônus 1:** Existe esse guide [SuperHero JS](https://superherojs.com/),
 *"…Creating, testing and maintaining a large JavaScript code base is not easy —
 especially since great resources on how to do this are hard to find. This page
 is a collection of the best articles, videos and presentations we’ve found on
@@ -274,10 +274,10 @@ segui-la também!
 informei sobre livros** (READ)**, passei videos e pessoas para buscar conteúdo
 relevante **(SEARCH)**. E o **(ASK)?** [Você não vai ficar criando dúvidas em
 redes sociais como o
-(facebook)](http://imasters.com.br/gerencia-de-ti/mercado/por-que-voce-deveria-parar-de-fazerresponder-perguntas-tecnicas-via-redes-sociais/?trace=1519021197)
+(facebook)](https://imasters.com.br/gerencia-de-ti/mercado/por-que-voce-deveria-parar-de-fazerresponder-perguntas-tecnicas-via-redes-sociais/?trace=1519021197)
 né?! Sugiro boas alternativas como:
 
-* [Stack Overflow](http://pt.stackoverflow.com/)
+* [Stack Overflow](https://pt.stackoverflow.com/)
 * [Slack BrazilJS](https://t.co/Y3lNJbl8Jj)
 * [Front-End GitHub](https://github.com/frontendbr/forum)
 

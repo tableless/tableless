@@ -7,7 +7,7 @@ url: /acessibilidade-nao-e-altruismo/
 tweetbackscheck:
   - 1356439276
 shorturls:
-  - 'a:3:{s:9:"permalink";s:54:"http://tableless.com.br/acessibilidade-nao-e-altruismo";s:7:"tinyurl";s:26:"http://tinyurl.com/3skpxlc";s:4:"isgd";s:19:"http://is.gd/HUk8GT";}'
+  - 'a:3:{s:9:"permalink";s:54:"https://tableless.com.br/acessibilidade-nao-e-altruismo";s:7:"tinyurl";s:26:"https://tinyurl.com/3skpxlc";s:4:"isgd";s:19:"https://is.gd/HUk8GT";}'
 twittercomments:
   - 'a:2:{i:13496143241551872;s:7:"retweet";i:13496092695986176;s:7:"retweet";}'
 tweetcount:
@@ -27,5 +27,5 @@ Com a adoção dos padrões, muitos outros assuntos como Usabilidade e Acessibil
 
 [Acessibilidade não é Altruísmo][2]
 
- [1]: http://brunotorres.net/
- [2]: http://brunotorres.net/2006/03/13/acessibilidade-nao-e-altruismo
+ [1]: https://brunotorres.net/
+ [2]: https://brunotorres.net/2006/03/13/acessibilidade-nao-e-altruismo

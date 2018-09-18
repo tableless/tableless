@@ -8,7 +8,7 @@ url: /o-front-end-auxiliando-o-marketing-digital/
 tweetbackscheck:
   - 1356393177
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6931";s:7:"tinyurl";s:26:"http://tinyurl.com/9f6pe3t";s:4:"isgd";s:19:"http://is.gd/Lspqc2";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6931";s:7:"tinyurl";s:26:"https://tinyurl.com/9f6pe3t";s:4:"isgd";s:19:"https://is.gd/Lspqc2";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 859140025
@@ -45,7 +45,7 @@ Em outras palavras, vamos pegar o conteúdo hospedado por você em um servidor e
   
 2. Criar uma pasta no servidor e o arquivo inicial como index
   
-Exemplo: http://urldosite.com.br/app/index.html
+Exemplo: https://urldosite.com.br/app/index.html
   
 3. Desenvolva o html, css e js normalmente e faça upload em uma pasta específica no servidor.
   
@@ -53,7 +53,7 @@ Exemplo: http://urldosite.com.br/app/index.html
 
 **Exemplo:**
   
-A: http://urldosite.com.br/app/
+A: https://urldosite.com.br/app/
   
 B: https://urlsegura.com.br/app
 
@@ -139,7 +139,7 @@ ou
 
 User_ID = ID do seu Perfil, caso não saiba qual é o seu , veja o exemplo:
 
-<a title="Dados do Perfil do Deivid Marques no Facebook" href="http://graph.facebook.com/deividmarquess" target="_blank">http://graph.facebook.com/deividmarquess</a>
+<a title="Dados do Perfil do Deivid Marques no Facebook" href="https://graph.facebook.com/deividmarquess" target="_blank">https://graph.facebook.com/deividmarquess</a>
   
 ID= 100000470381955
 
@@ -151,7 +151,7 @@ Na minha Page, existem alguns apps Promocinais que eu já criei: <a title="Pági
 
 1. Central de ajuda:
   
-<a title="Central de Ajuda" href="http://www.facebook.com/help/?ref=pf" target="_blank">http://www.facebook.com/help/?ref=pf</a>
+<a title="Central de Ajuda" href="https://www.facebook.com/help/?ref=pf" target="_blank">https://www.facebook.com/help/?ref=pf</a>
   
 2. Documentação Developers (APP):
   

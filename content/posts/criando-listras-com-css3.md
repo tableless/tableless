@@ -18,7 +18,7 @@ Cada vez mais, com o passar do tempo as ferramentas CSS3 aos poucos vem ganhando
 
 Anteriormente sempre que queríamos algo assim, era necessário a utilização de imagens, texturas ou dependendo do caso nem era possível. Agora com a criação de listras em CSS você poderá fazer de maneira fácil, simples e melhorar o desempenho do carregamento do seu código no browser.
 
-O início de tudo vem com a utilização CSS Gradientes quando foi falado inicialmente há 4 anos atrás sobre <a title="http://tableless.com.br/gradientes-em-css/" href="http://tableless.com.br/gradientes-em-css/" target="_blank">Gradientes em CSS</a> e foi apresentado um guia de <a title="http://tableless.com.br/como-usar-gradient-no-css-de-forma-consciente/" href="http://tableless.com.br/como-usar-gradient-no-css-de-forma-consciente/" target="_blank">Como usar linear-gradient de maneira consciente </a>fornecendo uma base para o que precisamos saber agora.
+O início de tudo vem com a utilização CSS Gradientes quando foi falado inicialmente há 4 anos atrás sobre <a title="https://tableless.com.br/gradientes-em-css/" href="https://tableless.com.br/gradientes-em-css/" target="_blank">Gradientes em CSS</a> e foi apresentado um guia de <a title="https://tableless.com.br/como-usar-gradient-no-css-de-forma-consciente/" href="https://tableless.com.br/como-usar-gradient-no-css-de-forma-consciente/" target="_blank">Como usar linear-gradient de maneira consciente </a>fornecendo uma base para o que precisamos saber agora.
 
 Primeiro precisamos saber quais são os tipos de gradientes que podemos utilizar :
 
@@ -135,8 +135,8 @@ background: repeating-radial-gradient(
 
 A única diferença que ao invés de colocarmos a rotatividade em graus, adicionamos um círculo e o próprio CSS3 fez o resto!
 
-Bom, acaba por aqui? Claro que não, ainda tem muito o que se pode fazer apenas com estas propriedades, a autora deste blog por exemplo, criou um tabuleiro de xadrez só com estas propriedades, veja só : <http://lea.verou.me/2010/12/checkered-stripes-other-background-patterns-with-css3-gradients/>
+Bom, acaba por aqui? Claro que não, ainda tem muito o que se pode fazer apenas com estas propriedades, a autora deste blog por exemplo, criou um tabuleiro de xadrez só com estas propriedades, veja só : <https://lea.verou.me/2010/12/checkered-stripes-other-background-patterns-with-css3-gradients/>
 
 Ficamos por aqui, espero que tenham gostado!
 
- [1]: http://tableless.com.br/como-usar-gradient-no-css-de-forma-consciente/ "Como usar linear-gradient em CSS de forma consciente?"
+ [1]: https://tableless.com.br/como-usar-gradient-no-css-de-forma-consciente/ "Como usar linear-gradient em CSS de forma consciente?"

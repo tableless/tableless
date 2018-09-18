@@ -7,7 +7,7 @@ url: /blazhost/
 tweetbackscheck:
   - 1356130104
 shorturls:
-  - 'a:3:{s:9:"permalink";s:32:"http://tableless.com.br/blazhost";s:7:"tinyurl";s:26:"http://tinyurl.com/3dvm35x";s:4:"isgd";s:19:"http://is.gd/Bvz6PM";}'
+  - 'a:3:{s:9:"permalink";s:32:"https://tableless.com.br/blazhost";s:7:"tinyurl";s:26:"https://tinyurl.com/3dvm35x";s:4:"isgd";s:19:"https://is.gd/Bvz6PM";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031650
@@ -17,4 +17,4 @@ dsq_thread_id: 503031650
   
 Parabéns a equipe. Mais um site Tableless.
 
- [1]: http://www.blazhost.com.br/
+ [1]: https://www.blazhost.com.br/

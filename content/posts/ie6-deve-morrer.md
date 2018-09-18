@@ -7,7 +7,7 @@ url: /ie6-deve-morrer/
 tweetbackscheck:
   - 1356181983
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/ie6-deve-morrer";s:7:"tinyurl";s:26:"http://tinyurl.com/3qujrx4";s:4:"isgd";s:19:"http://is.gd/lde5J5";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/ie6-deve-morrer";s:7:"tinyurl";s:26:"https://tinyurl.com/3qujrx4";s:4:"isgd";s:19:"https://is.gd/lde5J5";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036853
@@ -35,8 +35,8 @@ Sugestão? Espere&#8230; ainda continue com o IE6 na sua lista de testes. Inclua
   
 E tente influênciar usuários normais, a mudar de browser caso ainda use IE6. Eu sempre instalo [Firefox][5] aonde vou.
 
- [1]: http://visie.com.br/
- [2]: http://www.css3.info/kill-ie6-to-let-css3-live/
- [3]: http://www.css3.info/uploads/2007/04/graph.png
- [4]: http://tableless.com.br/?s=CSS3
- [5]: http://getfirefox.com
+ [1]: https://visie.com.br/
+ [2]: https://www.css3.info/kill-ie6-to-let-css3-live/
+ [3]: https://www.css3.info/uploads/2007/04/graph.png
+ [4]: https://tableless.com.br/?s=CSS3
+ [5]: https://getfirefox.com

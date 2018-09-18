@@ -27,7 +27,7 @@ Com um crescimento das SPAs e seguindo o mesmo conceito do artigo anterior, vou 
 
 ## Aproveitando
 
-Como já temos um header responsivo, vamos continuar com a mesma estrutura até o final dos artigos só com css e html. Se você ainda não viu como criar um <a href="http://tableless.com.br/header-responsivo-somente-com-css/" title="Header responsivo somente com css" target="_blank">header responsivo, clique aqui</a>.
+Como já temos um header responsivo, vamos continuar com a mesma estrutura até o final dos artigos só com css e html. Se você ainda não viu como criar um <a href="https://tableless.com.br/header-responsivo-somente-com-css/" title="Header responsivo somente com css" target="_blank">header responsivo, clique aqui</a>.
 
 ## O HTML
 
@@ -53,7 +53,7 @@ Vamos iniciar realocando a foto do Chaves para um novo formato:
 
 Temos um simples html para 3 itens, deixei os nome das classes mais compreensível e semântico, observado pelo amigo Shankar.
   
-<a href="http://palloi.github.io/responsive-header-only-css/demo-only-elements.html" target="_blank">Ver demo sem style</a>.
+<a href="https://palloi.github.io/responsive-header-only-css/demo-only-elements.html" target="_blank">Ver demo sem style</a>.
 
 ## O CSS
 
@@ -85,7 +85,7 @@ Para cada item apliquei 32% em width + 2% em margin-left, se multiplicarmos por 
   
 Então selecionamos o primeiro item para zerar o margin usando o seletor &#8220;:first-of-type&#8221;, por que mais adiante vamos adicionar mais elementos e já evitamos quebrar o css se caso usássemos os &#8220;first-child&#8221;.
   
-<a href="http://palloi.github.io/responsive-header-only-css/demo-basic-highlights.html" target="_blank">Ver demo com style</a>.
+<a href="https://palloi.github.io/responsive-header-only-css/demo-basic-highlights.html" target="_blank">Ver demo com style</a>.
 
 ## O RESPONSIVO
 
@@ -213,7 +213,7 @@ Para evitar a repetição manual a cada novo item, se você usa SASS ou LESS vai
 
 Mais uma vez com poucos elementos e css, conseguimos deixar nossos destaques em uma galeria navegável e responsivo.
 
-<a title="Veja como ficou o resultado final" href="http://palloi.github.io/responsive-header-only-css/responsive-highlights.html" target="_blank">Veja como ficou o resultado final</a>.
+<a title="Veja como ficou o resultado final" href="https://palloi.github.io/responsive-header-only-css/responsive-highlights.html" target="_blank">Veja como ficou o resultado final</a>.
 
 <a title="Código completo no github" href="https://github.com/palloi/responsive-header-only-css" target="_blank">Veja o código completo no github</a>.
 

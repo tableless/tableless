@@ -21,19 +21,19 @@ Informações mais detalhadas, como chegar e também a página de inscrição es
 
 **Salvador**
   
-Senai Cimatec, Av. Orlando Gomes, 1845, Piatã http://gdg­salvador.github.io/extended.html
+Senai Cimatec, Av. Orlando Gomes, 1845, Piatã https://gdg­salvador.github.io/extended.html
 
 **Belo Horizonte**
   
-UNA, João Pinheiro, Av. João Pinheiro, 580, centro http://www.gdgbh.org/extended/
+UNA, João Pinheiro, Av. João Pinheiro, 580, centro https://www.gdgbh.org/extended/
 
 **Curitiba**
   
-Universidade Positivo ­ Campus Osório, Praça Gen. Osório, 125, centro http://extends.gdgcuritiba.com.br/
+Universidade Positivo ­ Campus Osório, Praça Gen. Osório, 125, centro https://extends.gdgcuritiba.com.br/
 
 **Recife**
   
-Rua Benfica, 455, Madalena http://www.gdgrecife.com/extended/
+Rua Benfica, 455, Madalena https://www.gdgrecife.com/extended/
   
 Evento:​GDG DevFest Extended 2015 Data:​28 de março
 

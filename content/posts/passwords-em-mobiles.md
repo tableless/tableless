@@ -8,7 +8,7 @@ url: /passwords-em-mobiles/
 tweetbackscheck:
   - 1356437173
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7214";s:7:"tinyurl";s:26:"http://tinyurl.com/bbblb93";s:4:"isgd";s:19:"http://is.gd/mNcE1U";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7214";s:7:"tinyurl";s:26:"https://tinyurl.com/bbblb93";s:4:"isgd";s:19:"https://is.gd/mNcE1U";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 923713978
@@ -60,9 +60,9 @@ Leia mais sobre o assunto:
   * [Fundamental Guidelines for Web Usability][6]
   * [Mobile Design Details: Hide/Show Passwords][1]
 
- [1]: http://www.lukew.com/ff/entry.asp?1653
+ [1]: https://www.lukew.com/ff/entry.asp?1653
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/Screen-Shot-2012-11-11-at-9.25.25-PM.png
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/hidepass4.png
- [4]: http://danamckay.wordpress.com/2010/01/22/password-masking-and-the-difference-between-usability-and-user-experience/
- [5]: http://www.useit.com/alertbox/passwords.html
- [6]: http://www.nngroup.com/events/tutorials/usability.html
+ [4]: https://danamckay.wordpress.com/2010/01/22/password-masking-and-the-difference-between-usability-and-user-experience/
+ [5]: https://www.useit.com/alertbox/passwords.html
+ [6]: https://www.nngroup.com/events/tutorials/usability.html

@@ -76,7 +76,7 @@ Esse ainda da muito pano para manga e está longe de acabar&#8230;
 
  [1]: https://www.w3.org/Graphics/GIF/spec-gif87.txt
  [2]: https://en.wikipedia.org/wiki/APNG#cite_note-20
- [3]: http://www.slideshare.net/caelumdev/tudo-que-voc-precisa-saber-sobre-ltpicture-e-srcset
+ [3]: https://www.slideshare.net/caelumdev/tudo-que-voc-precisa-saber-sobre-ltpicture-e-srcset
  [4]: https://en.wikipedia.org/wiki/Huffman_coding
  [5]: https://developers.google.com/speed/webp/docs/c_study
  [6]: https://developers.google.com/speed/webp/docs/compression#lossy_webp

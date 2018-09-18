@@ -106,5 +106,5 @@ O sublime tem diversos packages úteis, vou deixar alguns a seguir que mais uso:
 
 Deixe nos comentários os pacotes que você usa.
 
- [1]: http://www.sublimetext.com/
+ [1]: https://www.sublimetext.com/
  [2]: https://github.com/danielschmitz/sublime_text_2_for_markdown

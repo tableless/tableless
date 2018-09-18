@@ -8,7 +8,7 @@ url: /boas-praticas-na-estruturacao-de-interfaces/
 tweetbackscheck:
   - 1356439211
 shorturls:
-  - 'a:3:{s:9:"permalink";s:67:"http://tableless.com.br/boas-praticas-na-estruturacao-de-interfaces";s:7:"tinyurl";s:26:"http://tinyurl.com/3qzu4l7";s:4:"isgd";s:19:"http://is.gd/ZEaZ4P";}'
+  - 'a:3:{s:9:"permalink";s:67:"https://tableless.com.br/boas-praticas-na-estruturacao-de-interfaces";s:7:"tinyurl";s:26:"https://tinyurl.com/3qzu4l7";s:4:"isgd";s:19:"https://is.gd/ZEaZ4P";}'
 twittercomments:
   - 'a:20:{i:111112119088447489;s:7:"retweet";i:111089713993105409;s:7:"retweet";i:111082540995055617;s:7:"retweet";i:111073797037232128;s:7:"retweet";i:111073656448360448;s:7:"retweet";i:111072716769071105;s:7:"retweet";i:111071400218996736;s:7:"retweet";i:111071242471211008;s:7:"retweet";i:111071187353878528;s:7:"retweet";i:111071123382353920;s:7:"retweet";i:111071109834739713;s:7:"retweet";i:111070911091838976;s:7:"retweet";i:111070764370890752;s:7:"retweet";i:111070503707484161;s:7:"retweet";i:148810136826290176;s:7:"retweet";i:149147571988873216;s:7:"retweet";i:148823733514153985;s:7:"retweet";i:148823730938851328;s:7:"retweet";i:148810782115766272;s:7:"retweet";i:169575188172783617;s:7:"retweet";}'
 tweetcount:
@@ -64,7 +64,7 @@ Identificadas essas informações, inicie a estruturação da interface pelo có
 
 O uso de folhas de estilos externas para declaração de propriedades css é uma das práticas que incansavelmente vem sendo ressaltada e com objetivo: propriedades declaradas de forma “inline” dificultam a manutenção de website, deixam o código carregado de informações não relevantes para mecanismos de busca e para leitores de tela além de, devido este tipo de declaração ter maior relevância na renderização realizada pelos browsers, o que é declarado “inline” vai sobrescrever o que foi declarado nas folhas externas, fazendo com que você se obrigue a utilizar hacks, ou seja, um “conserto” atrás de outro.
   
-Reforçado o recado continuamos, para estruturação inicial de uma interface, podemos criar uma folha de estilos com as propriedades básicas (diagramação de sustentação dos 3 principais elementos), reset nas pré-formatações de alguns elementos (<a href="http://tableless.com.br/evite-incompatibilidade-browsers" target="_blank">já comentado em outro artigo</a>) e declaração dos estilos dos elementos de repetição do projeto (elementos de topo, menus, breadcrumbs, etc). Esta folha de estilo, por exemplo, chamaremos de: estrutura.css.
+Reforçado o recado continuamos, para estruturação inicial de uma interface, podemos criar uma folha de estilos com as propriedades básicas (diagramação de sustentação dos 3 principais elementos), reset nas pré-formatações de alguns elementos (<a href="https://tableless.com.br/evite-incompatibilidade-browsers" target="_blank">já comentado em outro artigo</a>) e declaração dos estilos dos elementos de repetição do projeto (elementos de topo, menus, breadcrumbs, etc). Esta folha de estilo, por exemplo, chamaremos de: estrutura.css.
   
 Para as demais páginas, além da “home”, caso seu projeto seja um projeto de médio a grande porte (websites institucionais, e-commerces e portais) uma dica é o uso de, além da folha de estruturação, uma folha para cada página com suas respectivas propriedades. Por exemplo: home.css, noticias.css, empresa.css, etc.
 

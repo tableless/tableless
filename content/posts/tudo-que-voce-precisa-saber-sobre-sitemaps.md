@@ -34,9 +34,9 @@ Todos os tipos de sitemap tem um limite de tamanho, é recomendado que fique com
 Certifique-se que todas as URLs do seu arquivo estejam no mesmo host, outro ponto importante é o tamanho da URL é permitido até 2.048 caracteres.
 
 <pre class="lang-pre">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"&gt;
+&lt;urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"&gt;
     &lt;url&gt;
-        &lt;loc&gt;http://www.seusite.com.br/&lt;/loc&gt;
+        &lt;loc&gt;https://www.seusite.com.br/&lt;/loc&gt;
         &lt;lastmod&gt;2013-01-13&lt;/lastmod&gt;
         &lt;changefreq&gt;weekly&lt;/changefreq&gt;
         &lt;priority&gt;0.6&lt;/priority&gt;
@@ -53,12 +53,12 @@ Certifique-se que todas as URLs do seu arquivo estejam no mesmo host, outro pont
 Se você tiver mais de um Sitemap, poderá listá-los em um arquivo de **índice de Sitemaps** e enviar esse arquivo ao Google, nesse caso você não precisa enviar cada arquivo de Sitemap individualmente.
 
 <pre class="lang-xml">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"&gt;
+&lt;sitemapindex xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"&gt;
     &lt;sitemap&gt;
-        &lt;loc&gt;http://www.website.com/sitemap1.xml&lt;/loc&gt;
+        &lt;loc&gt;https://www.website.com/sitemap1.xml&lt;/loc&gt;
     &lt;/sitemap&gt;
     &lt;sitemap&gt;
-        &lt;loc&gt;http://www.website.com/sitemap2.xml&lt;/loc&gt;
+        &lt;loc&gt;https://www.website.com/sitemap2.xml&lt;/loc&gt;
     &lt;/sitemap&gt;
 &lt;/sitemapindex&gt;</pre>
 
@@ -67,10 +67,10 @@ Se você tiver mais de um Sitemap, poderá listá-los em um arquivo de **índice
 Essa é a **estrutura de um Sitemap** voltado para o Google News, geralmente utilizado por grandes portais pois possuem uma grande demanda de URLs com constantes atualizações.
 
 <pre class="lang-xml">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"&gt;
+&lt;urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:news="https://www.google.com/schemas/sitemap-news/0.9"&gt;
     &lt;url&gt;
-        &lt;loc&gt;http://www.example.org/business/article55.html&lt;/loc&gt;
+        &lt;loc&gt;https://www.example.org/business/article55.html&lt;/loc&gt;
         &lt;news:news&gt;
             &lt;news:publication&gt;
                 &lt;news:name&gt;Jornal de Exemplo&lt;/news:name&gt;
@@ -90,15 +90,15 @@ xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"&gt;
 
 Também é possível criar um **Sitemap para vídeos**, os formatos permitidos para os buscador rastrear são: WMV, MP4, MPEG, MPG, m4v, asf, fvl, swf, avi, RA e RAM.
 
-<pre class="lang-xml">&lt;urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"&gt;
+<pre class="lang-xml">&lt;urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:video="https://www.google.com/schemas/sitemap-video/1.1"&gt;
 &lt;url&gt;
-    &lt;loc&gt;http://www.website.com/video-page.html&lt;/loc&gt;
+    &lt;loc&gt;https://www.website.com/video-page.html&lt;/loc&gt;
     &lt;video:video&gt;
-    &lt;video:thumbnail_loc&gt;http://www.website.com/video-thumbnail.jpg&lt;/video:thumbnail_loc&gt;
+    &lt;video:thumbnail_loc&gt;https://www.website.com/video-thumbnail.jpg&lt;/video:thumbnail_loc&gt;
     &lt;video:title&gt;Most Awesome Video Ever&lt;/video:title&gt;
     &lt;video:description&gt;As the title says: this is the most awesome video ever.&lt;/video:description&gt;
-    &lt;video:content_loc&gt;http://www.website.com/video.mp4&lt;/video:content_loc&gt;
+    &lt;video:content_loc&gt;https://www.website.com/video.mp4&lt;/video:content_loc&gt;
     &lt;video:duration&gt;120&lt;/video:duration&gt;
     &lt;/video:video&gt;
     &lt;/url&gt;
@@ -111,28 +111,28 @@ Há uma abundância de outras tags que você pode adicionar, como uma classifica
 O **Sitemap de imagem** pode ser muito útil para obter um tráfego &#8220;extra&#8221; através de resultados de pesquisas por imagens no Google.
 
 <pre class="lang-xml">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
- &lt;urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"&gt;
+ &lt;urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"&gt;
  &lt;url&gt;
-   &lt;loc&gt;http://example.com/exemplo.html&lt;/loc&gt;
+   &lt;loc&gt;https://example.com/exemplo.html&lt;/loc&gt;
    &lt;image:image&gt;
-     &lt;image:loc&gt;http://example.com/image.jpg&lt;/image:loc&gt; 
+     &lt;image:loc&gt;https://example.com/image.jpg&lt;/image:loc&gt; 
    &lt;/image:image&gt;
    &lt;image:image&gt;
-     &lt;image:loc&gt;http://example.com/foto.jpg&lt;/image:loc&gt;
+     &lt;image:loc&gt;https://example.com/foto.jpg&lt;/image:loc&gt;
    &lt;/image:image&gt;
  &lt;/url&gt; 
 &lt;/urlset&gt;</pre>
 
 ### Sitemap para Celular
 
-Com o crescimento do mercado Mobile é natural que as pessoas comecem a buscar mais através do seus dispositivos móveis, é um fato inevitável saia na frente do seus concorrentes comece com o **Sitemap para celular** e depois saiba <a href="http://www.seomonkey.com.br/mobile/dicas-para-otimizacao-mobile" target="_blank">como otimizar o seu site para mobile</a>.
+Com o crescimento do mercado Mobile é natural que as pessoas comecem a buscar mais através do seus dispositivos móveis, é um fato inevitável saia na frente do seus concorrentes comece com o **Sitemap para celular** e depois saiba <a href="https://www.seomonkey.com.br/mobile/dicas-para-otimizacao-mobile" target="_blank">como otimizar o seu site para mobile</a>.
 
 <pre class="lang-xml">&lt;?xml version="1.0" encoding="UTF-8" ?&gt;
- &lt;urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"&gt;
+ &lt;urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:mobile="https://www.google.com/schemas/sitemap-mobile/1.0"&gt;
     &lt;url&gt;
-   &lt;loc&gt;http://celular.example.com/artigo100.html&lt;/loc&gt;
+   &lt;loc&gt;https://celular.example.com/artigo100.html&lt;/loc&gt;
         &lt;mobile:mobile/&gt;
     &lt;/url&gt;
 &lt;/urlset&gt;</pre>
@@ -149,4 +149,4 @@ Todos nós já esquecemos de fechar uma tag, pensando nisso o Google disponibili
 
 Deseja ter mair relevância nos buscadores, comece facilitando a indexação do seu site através do Sitemap.
 
- [1]: http://www.seomonkey.com.br/img/ferramentas-para-webmasters-otimizacao-sitemaps.jpg
+ [1]: https://www.seomonkey.com.br/img/ferramentas-para-webmasters-otimizacao-sitemaps.jpg

@@ -84,11 +84,11 @@ Em uma única sentença, a **dose certa de JavaScript é aquela em que a experi�
 
 Aprenda a pensar e planejar a sua aplicação como um todo, apenas JavaScript não será sua salvação nem sua completa derrota. Saiba que as vezes a acessibilidade só pode ser alcançada com a ajuda de alguns atributos no HTML. O segredo é estudar alternativas, experimentar soluções e mensurar resultados.
 
- [1]: http://en.wikipedia.org/wiki/Comparison_of_web_browsers#JavaScript_support
- [2]: http://www.webstandards.org/action/dstf/manifesto
+ [1]: https://en.wikipedia.org/wiki/Comparison_of_web_browsers#JavaScript_support
+ [2]: https://www.webstandards.org/action/dstf/manifesto
  [3]: https://blog.twitter.com/2012/improving-performance-on-twittercom
- [4]: http://dev.opera.com/articles/view/the-seven-rules-of-unobtrusive-javascrip
- [5]: http://tableless.com.br/o-grande-desencontro-http-com-o-html
- [6]: http://getbootstrap.com/javascript/#modals
- [7]: http://www.w3.org/WAI/PF/aria-practices/#liveprops
- [8]: http://tableless.com.br/modularizacao-em-javascript
+ [4]: https://dev.opera.com/articles/view/the-seven-rules-of-unobtrusive-javascrip
+ [5]: https://tableless.com.br/o-grande-desencontro-http-com-o-html
+ [6]: https://getbootstrap.com/javascript/#modals
+ [7]: https://www.w3.org/WAI/PF/aria-practices/#liveprops
+ [8]: https://tableless.com.br/modularizacao-em-javascript

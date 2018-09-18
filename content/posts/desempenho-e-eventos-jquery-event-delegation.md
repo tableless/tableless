@@ -97,5 +97,5 @@ Nem muito específico, nem muito genérico. O importante é observar que a utili
 No próximo artigo vou falar sobre como evitar colisão e duplicação de eventos.
 
  [1]: https://developer.mozilla.org/pt-BR/docs/Glossario/DOM
- [2]: http://api.jquery.com/ready/
+ [2]: https://api.jquery.com/ready/
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/devtools-firefox-evtdelegation.jpg

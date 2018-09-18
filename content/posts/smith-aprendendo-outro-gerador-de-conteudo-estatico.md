@@ -47,7 +47,7 @@ O template padrão do projeto é o de blog (existem também basic e webapp), o q
     $ wintersmith preview
     
 
-Ai pronto! Você já pode acessar http://localhost:8080 e ver o que está criado (Vale lembrar que enquanto estiver visualizando, qualquer alteração é refletida na pré-visualização sem a necessidade de executar o comando novamente).
+Ai pronto! Você já pode acessar https://localhost:8080 e ver o que está criado (Vale lembrar que enquanto estiver visualizando, qualquer alteração é refletida na pré-visualização sem a necessidade de executar o comando novamente).
 
 ## Personalizando o blog
 
@@ -57,7 +57,7 @@ Na raiz do projeto existe um arquivo chamado config.json e o padrão dele é:
 
     {
       "locals": {
-        "url": "http://localhost:8080",
+        "url": "https://localhost:8080",
         "name": "The Wintersmith's blog",
         "owner": "Someone",
         "description": "Ramblings of an immor(t)al demigod"
@@ -85,7 +85,7 @@ E após as minhas alterações, eu o deixei assim:
 
     {
       "locals": {
-        "url": "http://oqueaprendihoje.com.br",
+        "url": "https://oqueaprendihoje.com.br",
         "name": "O Que Aprendi Hoje",
         "owner": "João Felix",
         "description": "A saga de um aprendiz encantado com o universo do Front-end",
@@ -135,8 +135,8 @@ Para manter o padrão de organização do projeto, eu criei um template jade cha
     <script type="text/javascript"> 
       var disqus_shortname = 'oqueaprendihoje'; (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })(); 
     </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> 
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript> 
+    <a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
 Para o padrão de escrita Jade:
 
@@ -150,8 +150,8 @@ Para o padrão de escrita Jade:
       })();
     noscript
       Habilite o Javascript do seu browser para ver os
-      a(href="http://disqus.com/?ref_noscript") comentários mantidos pelo Disqus.
-    a.dsq-brlink(href="http://disqus.com")
+      a(href="https://disqus.com/?ref_noscript") comentários mantidos pelo Disqus.
+    a.dsq-brlink(href="https://disqus.com")
       comments powered by
       span.logo-disqus
         Disqus
@@ -204,11 +204,11 @@ Neste momento, temos um blog pronto, porem, sem customização e apenas com o la
 
 Todo o código está disponível no Github e no site: https://github.com/jr8116/oqueaprendihoje
 
- [1]: http://tableless.com.br/jekyll-servindo-sites-estaticos/
- [2]: http://wintersmith.io/ "Wintersmith"
- [3]: http://jekyllrb.com
+ [1]: https://tableless.com.br/jekyll-servindo-sites-estaticos/
+ [2]: https://wintersmith.io/ "Wintersmith"
+ [3]: https://jekyllrb.com
  [4]: https://iwantmyname.com/blog/2011/02/list-static-website-generators.html
- [5]: http://daringfireball.net/projects/markdown/
- [6]: http://jade-lang.com
- [7]: http://coffeescript.org/
+ [5]: https://daringfireball.net/projects/markdown/
+ [6]: https://jade-lang.com
+ [7]: https://coffeescript.org/
  [8]: https://npmjs.org/

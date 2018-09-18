@@ -13,7 +13,7 @@ Para quem já programa em alguma linguagem de programação (Java, PHP, C#), com
 
 Em Javascript, existem diferentes maneiras e métodos para aplicar este conceito de programação (uso de Prototypes, heranças de classe, etc), mas para entendermos melhor o conceito de orientação a objetos, vamos criar uma classe bem simples para mostrar como o conceito pode ser aplicado.
 
-Na maioria das linguagens de programação, a conotação de classe e função (ou método), se diferencia como `classe NomeDaClasse {}` e `function nomeDaFuncao(){}`, geralmente utilizando-se do padrão <a title="Padrão CamelCase" href="http://pt.wikipedia.org/wiki/CamelCase" target="_blank">CamelCase</a>.
+Na maioria das linguagens de programação, a conotação de classe e função (ou método), se diferencia como `classe NomeDaClasse {}` e `function nomeDaFuncao(){}`, geralmente utilizando-se do padrão <a title="Padrão CamelCase" href="https://pt.wikipedia.org/wiki/CamelCase" target="_blank">CamelCase</a>.
 
 Em Javascript, tanto classes como métodos utilizam a conotação **function** (`function NomeDaClasse(){}` e `function nomeDaFuncao(){}`).
 
@@ -74,7 +74,7 @@ Aluno.setCurso("Introdução à programação orientada a objetos em Javascript"
 Aluno.mostraDados();
 </pre>
 
-Aqui está um <a title="Exemplo Javascript OO" href="http://jsfiddle.net/hmschreiner/d2x7qgsd/" target="_blank">exemplo</a> de nossa classe funcionando. Coloque seus próprios dados e veja o resultado.
+Aqui está um <a title="Exemplo Javascript OO" href="https://jsfiddle.net/hmschreiner/d2x7qgsd/" target="_blank">exemplo</a> de nossa classe funcionando. Coloque seus próprios dados e veja o resultado.
 
 A nossa classe completa ficou assim:
 

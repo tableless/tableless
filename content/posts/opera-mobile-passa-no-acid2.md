@@ -7,7 +7,7 @@ url: /opera-mobile-passa-no-acid2/
 tweetbackscheck:
   - 1356453933
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/opera-mobile-passa-no-acid2";s:7:"tinyurl";s:26:"http://tinyurl.com/3ewasvn";s:4:"isgd";s:19:"http://is.gd/uDOFXR";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/opera-mobile-passa-no-acid2";s:7:"tinyurl";s:26:"https://tinyurl.com/3ewasvn";s:4:"isgd";s:19:"https://is.gd/uDOFXR";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035407
@@ -28,5 +28,5 @@ Para quem não sabe, o [Acid2][2] é um teste para ajudar os fabricantes de brow
 
 Abra este teste com IE6 e abra com o Firefox. Você vai ver a grande diferença.
 
- [1]: http://operawatch.com/news/2006/05/opera-mobile-becomes-the-first-mobile-browser-to-pass-the-acid2-test.html
- [2]: http://www.webstandards.org/action/acid2/
+ [1]: https://operawatch.com/news/2006/05/opera-mobile-becomes-the-first-mobile-browser-to-pass-the-acid2-test.html
+ [2]: https://www.webstandards.org/action/acid2/

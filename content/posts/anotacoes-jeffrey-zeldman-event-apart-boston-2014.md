@@ -76,6 +76,6 @@ Se você não conhece o [Jeffrey Zeldman][1], pegue uma corda e se enforque. Voc
   * We are all evangelists.
   * Nós precisamos de embaixadores do web design.
 
- [1]: http://zeldman.com/
- [2]: http://zeldman.com
- [3]: http://www.webstandards.org
+ [1]: https://zeldman.com/
+ [2]: https://zeldman.com
+ [3]: https://www.webstandards.org

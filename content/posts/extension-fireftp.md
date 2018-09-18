@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356462306
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/extension-fireftp";s:7:"tinyurl";s:26:"http://tinyurl.com/3bc4n9f";s:4:"isgd";s:19:"http://is.gd/4WIy5X";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/extension-fireftp";s:7:"tinyurl";s:26:"https://tinyurl.com/3bc4n9f";s:4:"isgd";s:19:"https://is.gd/4WIy5X";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034432
@@ -31,7 +31,7 @@ Muito útil quando você tem que fazer uma transferências às pressas, e não t
 
 [FireFTP][3] de [Mime Cuvalo][4]
 
- [1]: http://fireftp.mozdev.org/
- [2]: http://www.spreadfirefox.com/?q=affiliates&id=155760&t=195
+ [1]: https://fireftp.mozdev.org/
+ [2]: https://www.spreadfirefox.com/?q=affiliates&id=155760&t=195
  [3]: https://addons.mozilla.org/extensions/moreinfo.php?id=684&application=firefox
  [4]: https://addons.mozilla.org/extensions/authorprofiles.php?application=firefox&id=167

@@ -8,7 +8,7 @@ url: /manipulando-metatag-viewport/
 tweetbackscheck:
   - 1356397672
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/manipulando-metatag-viewport";s:7:"tinyurl";s:26:"http://tinyurl.com/3odakfo";s:4:"isgd";s:19:"http://is.gd/bKHkmh";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/manipulando-metatag-viewport";s:7:"tinyurl";s:26:"https://tinyurl.com/3odakfo";s:4:"isgd";s:19:"https://is.gd/bKHkmh";}'
 twittercomments:
   - 'a:10:{i:127188376863518722;s:7:"retweet";i:126465282385522690;s:7:"retweet";i:126348029631533056;s:7:"retweet";i:126347228095848448;s:7:"retweet";i:126345823905783808;s:7:"retweet";i:126341375041085440;s:7:"retweet";i:155242144943190018;s:7:"retweet";i:155229542263422976;s:7:"retweet";i:160165094976798720;s:7:"retweet";i:169916451069763584;s:7:"retweet";}'
 tweetcount:
@@ -120,5 +120,5 @@ Manipular o Viewport nos dá possibilidades para personalizar o visual de qualqu
  [8]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/scale1-text.png
  [9]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/scale15-text.png
  [10]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/04/scale2-text.png
- [11]: http://tableless.github.com/exemplos/viewport/viewport.html
- [12]: http://tableless.com.br/introducao-sobre-media-queries
+ [11]: https://tableless.github.com/exemplos/viewport/viewport.html
+ [12]: https://tableless.com.br/introducao-sobre-media-queries

@@ -17,11 +17,11 @@ tags:
 ---
 Como já mencionei em um artigo anterior, o <a title="Ir ao repositório do PHPUnit" href="https://github.com/sebastianbergmann/phpunit/" target="_blank">PHPUnit</a> é um framework de testes unitários para a linguagem PHP. Ele provê um ecossistema para a execução de testes de forma automatizada.
 
-Neste artigo veremos a sua instalação utilizando o gerenciador de pacotes <a title="Ir à página oficial do Composer" href="http://getcomposer.org/" target="_blank">composer</a>, configuração e estrutura de pastas e alguns testes simples sem persistência de dados.
+Neste artigo veremos a sua instalação utilizando o gerenciador de pacotes <a title="Ir à página oficial do Composer" href="https://getcomposer.org/" target="_blank">composer</a>, configuração e estrutura de pastas e alguns testes simples sem persistência de dados.
 
 ## Instalando o PHPUnit
 
-Para iniciar a instalação do PHPUnit precisamos primeiramente de um diretório que será nosso diretório de trabalho neste exemplo. Após criado o diretório é necessário criar um arquivo chamado <a title="Ir ao modelo do arquivo composer.json" href="http://getcomposer.org/doc/04-schema.md" target="_blank"><i>composer</i><i>.json</i></a> para que seja definida a necessidade do PHP Unit no projeto. O arquivo _composer__.json_ é responsável por declarar todas as bibliotecas que serão necessárias para o projeto em questão, em suma todas soluções de terceiros, incluindo suas soluções genéricas que encontrem-se no <a title="Ir ao Packagist, repositório do composer" href="https://packagist.org/" target="_blank">repositório do composer</a> serão gerenciadas conforme a especificação do arquivo _composer.json._
+Para iniciar a instalação do PHPUnit precisamos primeiramente de um diretório que será nosso diretório de trabalho neste exemplo. Após criado o diretório é necessário criar um arquivo chamado <a title="Ir ao modelo do arquivo composer.json" href="https://getcomposer.org/doc/04-schema.md" target="_blank"><i>composer</i><i>.json</i></a> para que seja definida a necessidade do PHP Unit no projeto. O arquivo _composer__.json_ é responsável por declarar todas as bibliotecas que serão necessárias para o projeto em questão, em suma todas soluções de terceiros, incluindo suas soluções genéricas que encontrem-se no <a title="Ir ao Packagist, repositório do composer" href="https://packagist.org/" target="_blank">repositório do composer</a> serão gerenciadas conforme a especificação do arquivo _composer.json._
 
 O arquivo para este artigo deverá conter o seguinte conteúdo:
 
@@ -33,7 +33,7 @@ O arquivo para este artigo deverá conter o seguinte conteúdo:
 
 Isto quer dizer que estamos registrando como uma dependência de nosso projeto o PHPUnit em sua versão 3.7 sempre solicitando a última atualização. Para que sempre seja utilizada a última versão do PHPUnit basta remover a sequência &#8220;3.7.\*&#8221; por simplesmente &#8220;\*&#8221;. O mesmo é possível com qualquer biblioteca gerenciada pelo composer.
 
-Agora já estão prontas as declarações de nossas dependências basta baixar o gerenciador de dependência <a title="Baixar o composer" href="http://getcomposer.org/download/" target="_blank">composer</a> e rodar o comando
+Agora já estão prontas as declarações de nossas dependências basta baixar o gerenciador de dependência <a title="Baixar o composer" href="https://getcomposer.org/download/" target="_blank">composer</a> e rodar o comando
 
 <pre class="lang-shell">php composer.phar install.</pre>
 
@@ -55,7 +55,7 @@ Isto irá de maneira automática baixar todas as dependências que foram especif
   </p>
 </div>
 
-> Existe uma convenção de padrões definidos pela <a title="Ir à página do Framework Interop Group" href="http://www.php-fig.org/" target="_blank">FIG</a> chamada <a title="Ver todas as PSRs" href="https://github.com/php-fig/fig-standards/tree/master/accepted" target="_blank">PSR (Proposal Standards Recommendation)</a>. Para facilitar será utilizada a definição do Autoloader para o exemplo que está descrito na PSR-0. Após a correta instalação via composer devem ser criadas os diretórios _src_ e dentro dele _Application_.
+> Existe uma convenção de padrões definidos pela <a title="Ir à página do Framework Interop Group" href="https://www.php-fig.org/" target="_blank">FIG</a> chamada <a title="Ver todas as PSRs" href="https://github.com/php-fig/fig-standards/tree/master/accepted" target="_blank">PSR (Proposal Standards Recommendation)</a>. Para facilitar será utilizada a definição do Autoloader para o exemplo que está descrito na PSR-0. Após a correta instalação via composer devem ser criadas os diretórios _src_ e dentro dele _Application_.
 
 Com a definição do Autoloader a nova estrutura do composer é a seguinte:
 
@@ -276,4 +276,4 @@ Frenta à necessidade de refatoração novamente começamos a partir do teste e 
 
 Você pode baixar o código-fonte dos exemplos apresentados aqui no <a title="Ir para o repositório de exemplos desenvolvidos neste artigo" href="https://github.com/andrebian/phpunit-como-iniciar-sem-dores" target="_blank">github</a>.
 
- [1]: http://tableless.com.br/tdd-por-que-usar "Ler mais sobre TDD"
+ [1]: https://tableless.com.br/tdd-por-que-usar "Ler mais sobre TDD"

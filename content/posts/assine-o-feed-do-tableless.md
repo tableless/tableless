@@ -7,7 +7,7 @@ url: /assine-o-feed-do-tableless/
 tweetbackscheck:
   - 1356375371
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/assine-o-feed-do-tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3bur92r";s:4:"isgd";s:19:"http://is.gd/dS84gq";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/assine-o-feed-do-tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3bur92r";s:4:"isgd";s:19:"https://is.gd/dS84gq";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035548
@@ -24,5 +24,5 @@ O Tableless trabalha com 2 feeds principais: O primeiro é o Feed do site, com t
 
 Faça bom proveito.
 
- [1]: http://tableless.com.br/wp-admin/http;//tableless.com.br/feed/
- [2]: http://del.icio.us/rss/tableless
+ [1]: https://tableless.com.br/wp-admin/http;//tableless.com.br/feed/
+ [2]: https://del.icio.us/rss/tableless

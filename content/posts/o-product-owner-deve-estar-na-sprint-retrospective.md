@@ -29,6 +29,6 @@ Portanto, quando você deixa de incluir seu _Product Owner_ na retrospectiva ele
 
 O P.O. não só pode, como deve estar presente na cerimônia. Espero e desejo que sua próxima retrospectiva, todos os membros do seu Time de _Scrum_ estejam presentes!
 
- [1]: http://www.agilemanifesto.org/iso/en/principles.html
- [2]: http://amzn.to/295UAz0
- [3]: http://www.accelright.com/detail-Should-the-Product-Owner-Attend-Daily-Scrum,-Product-Owner-and-Team-Engagement_63.html#sthash.3XBtjGxD.dpuf
+ [1]: https://www.agilemanifesto.org/iso/en/principles.html
+ [2]: https://amzn.to/295UAz0
+ [3]: https://www.accelright.com/detail-Should-the-Product-Owner-Attend-Daily-Scrum,-Product-Owner-and-Team-Engagement_63.html#sthash.3XBtjGxD.dpuf

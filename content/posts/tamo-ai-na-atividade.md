@@ -7,7 +7,7 @@ url: /2006-tamo-ai-na-atividade/
 tweetbackscheck:
   - 1356159253
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/2006-tamo-ai-na-atividade";s:7:"tinyurl";s:26:"http://tinyurl.com/3pay5fz";s:4:"isgd";s:19:"http://is.gd/TQLbNq";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/2006-tamo-ai-na-atividade";s:7:"tinyurl";s:26:"https://tinyurl.com/3pay5fz";s:4:"isgd";s:19:"https://is.gd/TQLbNq";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034222

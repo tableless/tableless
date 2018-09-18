@@ -26,5 +26,5 @@ Dessa vez ela resolveu fazer uma homenagem a todos que viveram nos anos 90, most
 
 Eu estou gostando muito dessa abordagem que a MS tem levado com o IE. Você pode ver mais vídeos dessa campanha [aqui][1] e [aqui][2].
 
- [1]: http://tableless.com.br/o-browser-que-voce-amou-odiar/ "O browser que você amou odiar"
- [2]: http://tableless.com.br/um-recado-da-ms-aos-trolls-do-ie/ "Um recado da MS aos trolls do IE"
+ [1]: https://tableless.com.br/o-browser-que-voce-amou-odiar/ "O browser que você amou odiar"
+ [2]: https://tableless.com.br/um-recado-da-ms-aos-trolls-do-ie/ "Um recado da MS aos trolls do IE"

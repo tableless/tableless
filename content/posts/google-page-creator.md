@@ -7,7 +7,7 @@ url: /google-page-creator/
 tweetbackscheck:
   - 1356400309
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/google-page-creator";s:7:"tinyurl";s:26:"http://tinyurl.com/3sctdk4";s:4:"isgd";s:19:"http://is.gd/a5RgtP";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/google-page-creator";s:7:"tinyurl";s:26:"https://tinyurl.com/3sctdk4";s:4:"isgd";s:19:"https://is.gd/a5RgtP";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034932
@@ -30,8 +30,8 @@ Mas, claro que estou brincando. Ele não vai substuir os programas citados acima
 
 Teste e depois comente aqui suas impressões.
 
-Testando: <http://diegoeis.googlepages.com/home>
+Testando: <https://diegoeis.googlepages.com/home>
 
-<small>via <a href="http://charles.pilger.com.br/">Charles</a> por <a href="http://br.groups.yahoo.com/group/radinho/">Radinho</a></small>
+<small>via <a href="https://charles.pilger.com.br/">Charles</a> por <a href="https://br.groups.yahoo.com/group/radinho/">Radinho</a></small>
 
- [1]: http://pages.google.com/
+ [1]: https://pages.google.com/

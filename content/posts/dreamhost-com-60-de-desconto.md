@@ -7,7 +7,7 @@ url: /dreamhost-com-60-de-desconto/
 tweetbackscheck:
   - 1355188136
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/dreamhost-com-60-de-desconto";s:7:"tinyurl";s:26:"http://tinyurl.com/3hscumt";s:4:"isgd";s:19:"http://is.gd/srjXrn";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/dreamhost-com-60-de-desconto";s:7:"tinyurl";s:26:"https://tinyurl.com/3hscumt";s:4:"isgd";s:19:"https://is.gd/srjXrn";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035418
@@ -28,4 +28,4 @@ Usando o cupom **TABLELESS6007**, você ganha **60% de desconto** para [planos m
 
 200 GB de espaço, 2Terabytes de banda, Instalar aplicações com apenas um click e muito mais!
 
- [1]: http://www.dreamhost.com/rewards.cgi?diegoeis/shared/
+ [1]: https://www.dreamhost.com/rewards.cgi?diegoeis/shared/

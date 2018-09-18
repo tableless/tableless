@@ -105,7 +105,7 @@ Descreve o conteúdo de todos os arquivos. Apesar da extensão esquisita é só 
 ```
 <?xml version=&#8221;1.0&#8243; encoding=&#8221;UTF-8&#8243;?>
   
-<package xmlns=&#8221;http://www.idpf.org/2007/opf&#8221; unique-identifier=&#8221;EPB-UUID&#8221; version=&#8221;2.0&#8243;>
+<package xmlns=&#8221;https://www.idpf.org/2007/opf&#8221; unique-identifier=&#8221;EPB-UUID&#8221; version=&#8221;2.0&#8243;>
   
 <!&#8211; insira os parâmetros aqui &#8211;>
   
@@ -142,7 +142,7 @@ Bem, vamos preencher nossas metadatas. Eu inseri o seguinte entre as tags packag
 
 ```
 
-<metadata xmlns:opf=&#8221;http://www.idpf.org/2007/opf&#8221; xmlns:dc=&#8221;http://purl.org/dc/elements/1.1/&#8221;>
+<metadata xmlns:opf=&#8221;https://www.idpf.org/2007/opf&#8221; xmlns:dc=&#8221;https://purl.org/dc/elements/1.1/&#8221;>
   
   <dc:title>Saga do primeiro ePub</dc:title>
     
@@ -245,9 +245,9 @@ O nosso índice ficou assim então:
 
 <?xml version=&#8221;1.0&#8243; encoding=&#8221;UTF-8&#8243;?>
   
-<!DOCTYPE ncx PUBLIC &#8220;-//NISO//DTD ncx 2005-1//EN&#8221; &#8220;http://www.daisy.org/z3986/2005/ncx-2005-1.dtd&#8221;>
+<!DOCTYPE ncx PUBLIC &#8220;-//NISO//DTD ncx 2005-1//EN&#8221; &#8220;https://www.daisy.org/z3986/2005/ncx-2005-1.dtd&#8221;>
   
-<ncx xmlns=&#8221;http://www.daisy.org/z3986/2005/ncx/&#8221; version=&#8221;2005-1&#8243;>
+<ncx xmlns=&#8221;https://www.daisy.org/z3986/2005/ncx/&#8221; version=&#8221;2005-1&#8243;>
   
 <head>
     
@@ -313,7 +313,7 @@ O nosso índice ficou assim então:
 
 ```
 
-<html xmlns=&#8221;http://www.w3.org/1999/xhtml&#8221; xml:lang=&#8221;pt&#8221;>
+<html xmlns=&#8221;https://www.w3.org/1999/xhtml&#8221; xml:lang=&#8221;pt&#8221;>
   
 <head>
   
@@ -434,19 +434,19 @@ Os PDFs estão presos a um tamanho fixo, lembra? O que significa que as palavras
   * [Magic Scroll][15] &#8211; Google Chrome
   * [ePub Read][16] &#8211; Firefox
 
- [1]: http://idpf.org/ "IDPF"
+ [1]: https://idpf.org/ "IDPF"
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/01/meulivro.epub_.zip
- [3]: http://code.google.com/p/sigil/ "Sigil"
- [4]: http://idpf.org/epub "IDPF"
- [5]: http://code.google.com/p/epubcheck/ "ePub Check"
- [6]: http://www.hxa.name/articles/content/epub-guide_hxa7241_2007.html "Epub Format Construction Guide"
- [7]: http://books.google.com.br/ "Google Books"
- [8]: http://www.epubbud.com/ "ePub Bud"
- [9]: http://www.adobe.com/products/digitaleditions/ "Adobe Digital Editions "
- [10]: http://www.barnesandnoble.com/u/free-nook-apps/379002321/ "Nook"
- [11]: http://www.fbreader.org/ "FB Reader"
- [12]: http://www.apple.com/br/ipad/built-in-apps/ibooks.html "iBooks"
- [13]: http://itunes.apple.com/br/app/stanza/id284956128?mt=8 "Stanza"
- [14]: http://www.aldiko.com/ "Aldiko"
+ [3]: https://code.google.com/p/sigil/ "Sigil"
+ [4]: https://idpf.org/epub "IDPF"
+ [5]: https://code.google.com/p/epubcheck/ "ePub Check"
+ [6]: https://www.hxa.name/articles/content/epub-guide_hxa7241_2007.html "Epub Format Construction Guide"
+ [7]: https://books.google.com.br/ "Google Books"
+ [8]: https://www.epubbud.com/ "ePub Bud"
+ [9]: https://www.adobe.com/products/digitaleditions/ "Adobe Digital Editions "
+ [10]: https://www.barnesandnoble.com/u/free-nook-apps/379002321/ "Nook"
+ [11]: https://www.fbreader.org/ "FB Reader"
+ [12]: https://www.apple.com/br/ipad/built-in-apps/ibooks.html "iBooks"
+ [13]: https://itunes.apple.com/br/app/stanza/id284956128?mt=8 "Stanza"
+ [14]: https://www.aldiko.com/ "Aldiko"
  [15]: https://chrome.google.com/webstore/detail/ghgnmgfdoiplfmhgghbmlphanpfmjble "Magic Scroll "
- [16]: http://www.epubread.com/ "ePub Read"
+ [16]: https://www.epubread.com/ "ePub Read"

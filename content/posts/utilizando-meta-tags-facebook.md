@@ -47,7 +47,7 @@ Eu, particularmente, não uso _pt_BR_ para publicações no facebook, e para ser
 
 ### URL
 
-<pre class="lang-html">&lt;meta property="og:url" content="http://www.meusite.com.br/ola-mundo"&gt;</pre>
+<pre class="lang-html">&lt;meta property="og:url" content="https://www.meusite.com.br/ola-mundo"&gt;</pre>
 
 A tag URL é usada para definir o link destino da publicação. Ela também é usada para definir o tanto de  likes e shares que uma página possui, sem desmembrar nenhum dado perdido por ai, como um like ali e um like aqui. Tudo é “somado” na URL especificáda.
 
@@ -124,7 +124,7 @@ Especificando todas as meta tags:og o seu cabeçalho tem que ficar preenchido ma
 <pre class="lang-html">&lt;head&gt;
 &lt;meta property="og:locale" content="pt_BR"&gt;
 
-&lt;meta property="og:url" content="http://www.meusite.com.br/ola-mundo"&gt;
+&lt;meta property="og:url" content="https://www.meusite.com.br/ola-mundo"&gt;
 
 &lt;meta property="og:title" content="Título da página ou artigo"&gt;
 &lt;meta property="og:site_name" content="Nome do meu site"&gt;
@@ -161,4 +161,4 @@ Eu esqueci alguma coisa? Então me ajude, comente aqui em baixo.
 
 Abraços!
 
- [1]: http://ogp.me/
+ [1]: https://ogp.me/

@@ -75,13 +75,13 @@ Se você quer um exemplo prático confira o Styleguide da [Mozilla][1]. É um gu
   * [Style Tyles and How they Work][9]
   * [Styleguides são o novo Photoshop][10]
 
- [1]: http://www.mozilla.org/en-US/styleguide
- [2]: http://twitter.github.com/bootstrap/base-css.html
+ [1]: https://www.mozilla.org/en-US/styleguide
+ [2]: https://twitter.github.com/bootstrap/base-css.html
  [3]: https://gimmebar.com/collection/4ecd439c2f0aaad734000022/front-end-styleguides
- [4]: http://codex.wordpress.org/WordPress_Coding_Standards
- [5]: http://maban.co.uk/65
- [6]: http://24ways.org/2011/front-end-style-guides/
+ [4]: https://codex.wordpress.org/WordPress_Coding_Standards
+ [5]: https://maban.co.uk/65
+ [6]: https://24ways.org/2011/front-end-style-guides/
  [7]: https://speakerdeck.com/lukebrooker/future-friendly-style-guides
- [8]: http://coffeepowered.co.uk/2010/01/css-coding-standards/
- [9]: http://www.alistapart.com/articles/style-tiles-and-how-they-work/
- [10]: http://arquiteturadeinformacao.com/2012/12/17/styleguides-sao-o-novo-photoshop/
+ [8]: https://coffeepowered.co.uk/2010/01/css-coding-standards/
+ [9]: https://www.alistapart.com/articles/style-tiles-and-how-they-work/
+ [10]: https://arquiteturadeinformacao.com/2012/12/17/styleguides-sao-o-novo-photoshop/

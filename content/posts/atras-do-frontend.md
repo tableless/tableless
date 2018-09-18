@@ -26,13 +26,13 @@ Ouça aí!
 </div>
 
 <p style="display:block; font-size:12px; font-family:Helvetica, Arial, sans-serif; margin:0; padding: 3px 4px; color:#02a0c7; width:auto;">
-  <a href="http://www.mixcloud.com/eduf/diego-eis-front-end-developer-e-raul-gil-no-twitter/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=resource_link" target="_blank" style="color:#02a0c7; font-weight:bold;">Diego Eis, front-end developer e Raul Gil no Twitter</a><span> by </span><a href="http://www.mixcloud.com/eduf/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=profile_link" target="_blank" style="color:#02a0c7; font-weight:bold;">Eduf</a><span> on </span><a href="http://www.mixcloud.com/?utm_source=widget&#038;utm_medium=web&#038;utm_campaign=base_links&#038;utm_term=homepage_link" target="_blank" style="color:#02a0c7; font-weight:bold;"> Mixcloud</a>
+  <a href="https://www.mixcloud.com/eduf/diego-eis-front-end-developer-e-raul-gil-no-twitter/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=resource_link" target="_blank" style="color:#02a0c7; font-weight:bold;">Diego Eis, front-end developer e Raul Gil no Twitter</a><span> by </span><a href="https://www.mixcloud.com/eduf/?utm_source=widget&utm_medium=web&utm_campaign=base_links&utm_term=profile_link" target="_blank" style="color:#02a0c7; font-weight:bold;">Eduf</a><span> on </span><a href="https://www.mixcloud.com/?utm_source=widget&#038;utm_medium=web&#038;utm_campaign=base_links&#038;utm_term=homepage_link" target="_blank" style="color:#02a0c7; font-weight:bold;"> Mixcloud</a>
 </p>
 
 <div style="clear:both; height:3px;">
 </div>
 
- [1]: http://twitter.com/eduf
- [2]: http://caosordenado.com/
- [3]: http://caosordenado.com/atras-do-front-End-diego-eis/
- [4]: http://caosordenado.com/atras-do-front/
+ [1]: https://twitter.com/eduf
+ [2]: https://caosordenado.com/
+ [3]: https://caosordenado.com/atras-do-front-End-diego-eis/
+ [4]: https://caosordenado.com/atras-do-front/

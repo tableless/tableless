@@ -8,7 +8,7 @@ url: /jquery-para-layouts/
 tweetbackscheck:
   - 1356390539
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/jquery-para-layouts";s:7:"tinyurl";s:26:"http://tinyurl.com/3wfv6rr";s:4:"isgd";s:19:"http://is.gd/wD0jzW";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/jquery-para-layouts";s:7:"tinyurl";s:26:"https://tinyurl.com/3wfv6rr";s:4:"isgd";s:19:"https://is.gd/wD0jzW";}'
 twittercomments:
   - 'a:12:{i:144234675437715458;s:7:"retweet";i:144083034642194432;s:7:"retweet";i:144082557154230272;s:7:"retweet";i:146982470926090240;s:7:"retweet";i:146981745294704640;s:7:"retweet";i:144744699087949824;s:7:"retweet";i:146983246842970113;s:7:"retweet";i:146982091983302656;s:7:"retweet";i:146982548231294976;s:7:"retweet";i:146982215862063104;s:7:"retweet";i:146982200917766144;s:7:"retweet";i:146987329070972928;s:7:"retweet";}'
 tweetcount:
@@ -66,7 +66,7 @@ Uma maneira simples de ser feita é colocando um backgrounds diretamente no LINK
 
 [cc lang=&#8221;html&#8221;][texto do botão <span class="borderdir"></span>][2]{.btn}[/cc]
 
-Para mantermos a integridade do nosso HTML, criaremos esse elemento via [JQuery][1] da seguinte forma utilizando a função <a href="http://api.[JQuery][1].com/append/&#8221;>append</a>:
+Para mantermos a integridade do nosso HTML, criaremos esse elemento via [JQuery][1] da seguinte forma utilizando a função <a href="https://api.[JQuery][1].com/append/&#8221;>append</a>:
 
 [cc lang=&#8221;javascript&#8221;]$(document).ready(function(){
 	  
@@ -88,7 +88,7 @@ color:red;
 
 O problema? Nada disso funciona nos IEs. Mas isso é extremamente útil e com [JQuery][1] você pode adicionar uma classe nestes elementos para formatar com CSS.
   
-A Home deste site foi feita desta forma. O conteúdo foi criado com um simples LOOP do WordPress que joga o HTML do conteúdo em uma única página. Veja que cada um blocos de texto desta home é diferente. Sem poder utilizar o **nth-child** eu utilizei a função <a href="http://api.[JQuery][1].com/slice/&#8221;>slice</a> do [JQuery][1]:
+A Home deste site foi feita desta forma. O conteúdo foi criado com um simples LOOP do WordPress que joga o HTML do conteúdo em uma única página. Veja que cada um blocos de texto desta home é diferente. Sem poder utilizar o **nth-child** eu utilizei a função <a href="https://api.[JQuery][1].com/slice/&#8221;>slice</a> do [JQuery][1]:
 
 [cc lang=&#8221;javascript&#8221;]
   
@@ -176,6 +176,6 @@ Com as classes atribuídas, podemos temos controle total via CSS.
 
 Estas pequenas dicas contribuem para soluções sustentáveis para seu código. Com um pouco de planejamento você conseguirá manter o controle total do seu código e um alto índice de compatibilidade com os browsers atuais no mercado. A diminuição de hacks no CSS também diminui bastante já que com uma mesma solução, você abrange até os browsers mais antigos.
 
- [1]: http://tableless.com.br/categoria/client-side/jquery/ "artigos sobre JQuery"
+ [1]: https://tableless.com.br/categoria/client-side/jquery/ "artigos sobre JQuery"
  [2]: #
- [3]: http://tableless.com.br/seletores-complexos-do-css "Introdução aos Seletores complexos"
+ [3]: https://tableless.com.br/seletores-complexos-do-css "Introdução aos Seletores complexos"

@@ -41,7 +41,7 @@ Quais são as páginas que tem meta tag **&lt;title&gt;** e **&lt;description&gt
 
 Uma regra muito importante no SEO é utilizar URLs amigáveis em sua página. Como:
 
-**http://www.meusite.com.br/nome-do-produto** e não utilizar **http://www.meusite.com.br/prod001**
+**https://www.meusite.com.br/nome-do-produto** e não utilizar **https://www.meusite.com.br/prod001**
 
 Pois o Google lê sua URL para saber do que se trata aquela página antes mesmo de ler o documento.
 
@@ -98,7 +98,7 @@ Então preocupe se o seu website é acessível a todas as telas, seja ela deskto
 
 Essas são somente algumas dicas para que você venha ter mais vontade em aplicar mais técnicas de SEO em seus websites.
 
- [1]: http://www.google.com.br/webmasters/ "Webmaster"
- [2]: http://tableless.com.br/gulp-o-novo-automatizador/ "Automatizador de tarefas"
- [3]: http://tableless.com.br/css-sprites/ "CSS Sprites"
+ [1]: https://www.google.com.br/webmasters/ "Webmaster"
+ [2]: https://tableless.com.br/gulp-o-novo-automatizador/ "Automatizador de tarefas"
+ [3]: https://tableless.com.br/css-sprites/ "CSS Sprites"
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/css-sprites.png

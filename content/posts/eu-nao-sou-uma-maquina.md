@@ -8,7 +8,7 @@ url: /eu-nao-sou-uma-maquina/
 tweetbackscheck:
   - 1356438616
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6718";s:7:"tinyurl";s:26:"http://tinyurl.com/96wxpvz";s:4:"isgd";s:19:"http://is.gd/BIRiRd";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6718";s:7:"tinyurl";s:26:"https://tinyurl.com/96wxpvz";s:4:"isgd";s:19:"https://is.gd/BIRiRd";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 824445143
@@ -41,9 +41,9 @@ Enquanto algumas empresas buscam técnicas cada vez mais complexas para evitar q
 
 A web é feita de pessoas e para pessoas. O acesso a informação de qualquer lugar é uma vitória que hoje nós temos que comemorar. Estamos construindo uma web para as pessoas que deve ser segura, mas que não deve criar barreiras de acesso para os seres humanos. Quem sabe, muito antes desse futuro não tão distante previsto por Ridley Scott, eu não tenha mais que provar para uma máquina que eu sou um ser humano.
 
- [1]: http://www.imdb.com/title/tt0083658/
- [2]: http://pt.wikipedia.org/wiki/CAPTCHA
- [3]: http://elie.im/publication/text-based-Captcha-strengths-and-weaknesses#.UDzNQ8FlSk8
- [4]: http://acessodigital.net/art_captcha-heroi-ou-vilao.html
- [5]: http://areyouahuman.com/demo/
- [6]: http://www.faberludens.com.br/pt-br/contact
+ [1]: https://www.imdb.com/title/tt0083658/
+ [2]: https://pt.wikipedia.org/wiki/CAPTCHA
+ [3]: https://elie.im/publication/text-based-Captcha-strengths-and-weaknesses#.UDzNQ8FlSk8
+ [4]: https://acessodigital.net/art_captcha-heroi-ou-vilao.html
+ [5]: https://areyouahuman.com/demo/
+ [6]: https://www.faberludens.com.br/pt-br/contact

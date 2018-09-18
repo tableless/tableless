@@ -27,13 +27,13 @@ Se você entender que uma Expressão Regular é apenas uma representação forma
 
 ### Classe de caracteres
 
-Vamos começar pelo mais fácil: quando você faz uma busca, você pode buscar uma combinação de caracteres específica, por exemplo: no seu editor de código, se você fizer uma busca por **a**, ele vai te mostrar todas as letras **a** do documento. Mas e se você quiser procurar todas as letras **a** e as letras **e**? Simples, você faz um agrupamento utilizando os colchetes `[]`. Essa expressão irá encontrar todos os caracteres que estiverem dentro dos colchetes. <a target="_blank" href="http://rubular.com/r/i7apRSchRh">Veja esse exemplo, onde ele filtra as letras <code>[ue]</code></a>. Isso se chama **classe de caracteres**, onde você encontra vários caracteres diferentes ao mesmo tempo.
+Vamos começar pelo mais fácil: quando você faz uma busca, você pode buscar uma combinação de caracteres específica, por exemplo: no seu editor de código, se você fizer uma busca por **a**, ele vai te mostrar todas as letras **a** do documento. Mas e se você quiser procurar todas as letras **a** e as letras **e**? Simples, você faz um agrupamento utilizando os colchetes `[]`. Essa expressão irá encontrar todos os caracteres que estiverem dentro dos colchetes. <a target="_blank" href="https://rubular.com/r/i7apRSchRh">Veja esse exemplo, onde ele filtra as letras <code>[ue]</code></a>. Isso se chama **classe de caracteres**, onde você encontra vários caracteres diferentes ao mesmo tempo.
 
 Bom, se você quiser selecionar TODAS as letras do texto, você não precisa escrever o alfabeto inteiro dentro dos colchetes, basta só usar a representação `[A-z]`. Isso quer dizer que ele pega as letras de A até Z, maiúsculas ou minúsculas.
 
 Se você quiser pegar os números, por exemplo, use `[0-9]`. Se quiser todas as letras e todos números: `[A-z0-9]`. Pra facilitar a expressão, você pode usar `\w`, que vai dar no mesmo.
 
-Para você fazer uma negação da Classe criada, basta adicionar um `^` dentro da classe. Por exemplo, você quer pegar todas as combinações que não sejam formadas pela sequência `es`: `[^es]`. <a target="_blank" href="http://rubular.com/r/v5TNAzCQKa">Veja esse exemplo aqui</a>.
+Para você fazer uma negação da Classe criada, basta adicionar um `^` dentro da classe. Por exemplo, você quer pegar todas as combinações que não sejam formadas pela sequência `es`: `[^es]`. <a target="_blank" href="https://rubular.com/r/v5TNAzCQKa">Veja esse exemplo aqui</a>.
 
 Exemplos de classes de caracteres:
 
@@ -58,15 +58,15 @@ E as classses de negação. Lembrando que basta colocar o sinal de `^` logo depo
 
 ### Múltiplos padrões
 
-Imagine agora que você queira encontrar dois padrões diferentes de caracteres, por exemplo, duas palavras. Bastando usar o símbolo `|` (pipe), que vai significar **OU**. Nesse caso a expressão irá reconhecer um ou o outro padrão. <a target="_blank" href="http://rubular.com/r/QScUEY0F1D">Veja esse exemplo</a> onde recuperamos o retorno das palavras **dolor** ou **labore**.
+Imagine agora que você queira encontrar dois padrões diferentes de caracteres, por exemplo, duas palavras. Bastando usar o símbolo `|` (pipe), que vai significar **OU**. Nesse caso a expressão irá reconhecer um ou o outro padrão. <a target="_blank" href="https://rubular.com/r/QScUEY0F1D">Veja esse exemplo</a> onde recuperamos o retorno das palavras **dolor** ou **labore**.
 
 ### Âncoras
 
-As âncoras recuperam a posição **entre os caracteres, mas não os caracteres em si**. Por exemplo, a expressão `^dolor`, vai recuperar as palavras **dolor** que estiverem no início da linha (<a target="_blank" href="http://rubular.com/r/xLTGYJY1fz">veja o exemplo</a>). A expressão `dolor$` vai recuperar o termo que estiver no final da linha (<a target="_blank" href="http://rubular.com/r/FdBuPNAeWE">veja o exemplo</a>).
+As âncoras recuperam a posição **entre os caracteres, mas não os caracteres em si**. Por exemplo, a expressão `^dolor`, vai recuperar as palavras **dolor** que estiverem no início da linha (<a target="_blank" href="https://rubular.com/r/xLTGYJY1fz">veja o exemplo</a>). A expressão `dolor$` vai recuperar o termo que estiver no final da linha (<a target="_blank" href="https://rubular.com/r/FdBuPNAeWE">veja o exemplo</a>).
 
 ### Modos
 
-Agora, suponha que você queira pegar uma sequência que contenha um termo parecido, mas que possa estar com algumas letras maiúsculas ou minúsculas. Por exemplo os termos **Lorem**, **lorem**, **loRem**, **lOrEm** etc, bastaria usar a representação `(?i)` antes do termo a ser buscada. A expressão ficaria assim `(?i)lorem`. <a target="_blank" href="http://rubular.com/r/oEesGNpNcZ">Veja este exemplo aqui</a>.
+Agora, suponha que você queira pegar uma sequência que contenha um termo parecido, mas que possa estar com algumas letras maiúsculas ou minúsculas. Por exemplo os termos **Lorem**, **lorem**, **loRem**, **lOrEm** etc, bastaria usar a representação `(?i)` antes do termo a ser buscada. A expressão ficaria assim `(?i)lorem`. <a target="_blank" href="https://rubular.com/r/oEesGNpNcZ">Veja este exemplo aqui</a>.
 
 ### Brincando de validar um email
 
@@ -97,8 +97,8 @@ Veja funcionando abaixo:
 Existem alguns sites pra facilitar a criação e o debug das expressões regulares, veja abaixo:
 
   * <https://regex101.com/r/vS7vZ3/224#javascript>
-  * <http://rubular.com>
+  * <https://rubular.com>
 
-  * <http://aprenda.vidageek.net/aprenda/regex>
-  * <http://turing.com.br/material/regex/introducao.html#>
+  * <https://aprenda.vidageek.net/aprenda/regex>
+  * <https://turing.com.br/material/regex/introducao.html#>
   * <https://msdn.microsoft.com/pt-br/library/az24scfc(v=vs.110).aspx>

@@ -8,7 +8,7 @@ url: /rgb-e-hsl/
 tweetbackscheck:
   - 1356422305
 shorturls:
-  - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/rgb-e-hsl";s:7:"tinyurl";s:26:"http://tinyurl.com/3tgl4pb";s:4:"isgd";s:19:"http://is.gd/mYuEkX";}'
+  - 'a:3:{s:9:"permalink";s:33:"https://tableless.com.br/rgb-e-hsl";s:7:"tinyurl";s:26:"https://tinyurl.com/3tgl4pb";s:4:"isgd";s:19:"https://is.gd/mYuEkX";}'
 twittercomments:
   - 'a:6:{i:109965506114629632;s:7:"retweet";i:109689656509083648;s:7:"retweet";i:109688123797143552;s:7:"retweet";i:109680690844545024;s:7:"retweet";i:149525146946904064;s:7:"retweet";i:148725116312879104;s:7:"retweet";}'
 tweetcount:
@@ -97,8 +97,8 @@ Para escolhermos a luminosidade e a saturação da cor modificamos os dois outro
 
 O hexadecimal, queridinho dos nossos corações, sempre estará ao nosso lado. A sintaxe é muito mais curta que as outras duas específicações. Não temos todas as vantagens que as outras especificações nos dão, começando pelo canal alpha. Com a grande maioria dos programas visuais dando suporte ao formato hexadecimal ele ainda perdurará durante muito tempo ainda em nossas vidas.
 
- [1]: http://en.wikipedia.org/wiki/X11_color_names
- [2]: http://www.w3.org/TR/SVG/types.html#ColorKeywords
- [3]: http://tableless.com.br/css3-breve-introducao-a-rgba
- [4]: http://en.wikipedia.org/wiki/RGB_color_model
+ [1]: https://en.wikipedia.org/wiki/X11_color_names
+ [2]: https://www.w3.org/TR/SVG/types.html#ColorKeywords
+ [3]: https://tableless.com.br/css3-breve-introducao-a-rgba
+ [4]: https://en.wikipedia.org/wiki/RGB_color_model
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/06/HSL_color_solid_cylinder_alpha_lowgamma.jpg "HSL_color_solid_cylinder_alpha_lowgamma"

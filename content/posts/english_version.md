@@ -7,7 +7,7 @@ url: /english_version/
 tweetbackscheck:
   - 1356452347
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/english_version";s:7:"tinyurl";s:26:"http://tinyurl.com/3p6zzta";s:4:"isgd";s:19:"http://is.gd/Q6Knfh";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/english_version";s:7:"tinyurl";s:26:"https://tinyurl.com/3p6zzta";s:4:"isgd";s:19:"https://is.gd/Q6Knfh";}'
 twittercomments:
   - 'a:1:{i:53641203098468352;s:7:"retweet";}'
 tweetcount:

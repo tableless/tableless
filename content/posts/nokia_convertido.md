@@ -7,7 +7,7 @@ url: /nokia_convertido/
 tweetbackscheck:
   - 1356111818
 shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/nokia_convertido";s:7:"tinyurl";s:26:"http://tinyurl.com/3drkrwj";s:4:"isgd";s:19:"http://is.gd/ZUGLTt";}'
+  - 'a:3:{s:9:"permalink";s:40:"https://tableless.com.br/nokia_convertido";s:7:"tinyurl";s:26:"https://tinyurl.com/3drkrwj";s:4:"isgd";s:19:"https://is.gd/ZUGLTt";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032303
@@ -20,4 +20,4 @@ tags:
 ---
 Mais um site convertido! Desta vez é da [Nokia][1]!
 
- [1]: http://tableless.com.br/convertidos.asp#nokia
+ [1]: https://tableless.com.br/convertidos.asp#nokia

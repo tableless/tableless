@@ -7,7 +7,7 @@ url: /quem-deve-se-preocupar-com-os-padroes-web/
 tweetbackscheck:
   - 1356467004
 shorturls:
-  - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/quem-deve-se-preocupar-com-os-padroes-web";s:7:"tinyurl";s:26:"http://tinyurl.com/3zcbts8";s:4:"isgd";s:19:"http://is.gd/LQY5Qt";}'
+  - 'a:3:{s:9:"permalink";s:65:"https://tableless.com.br/quem-deve-se-preocupar-com-os-padroes-web";s:7:"tinyurl";s:26:"https://tinyurl.com/3zcbts8";s:4:"isgd";s:19:"https://is.gd/LQY5Qt";}'
 twittercomments:
   - 'a:2:{i:13603669568126976;s:7:"retweet";i:19199923534692352;s:7:"retweet";}'
 tweetcount:
@@ -43,6 +43,6 @@ As vantagens dos Padrões Web são muitas e alcançam a todos os envolvidos do p
   
 E claro, você precisa se preocupar com os Padrões para poder convencer todo o pessoal acima. Ou você achou que ia ser fácil?
 
- [1]: http://www.revolucao.etc.br/archives/quem-deve-se-preocupar-com-os-padroes-web/
- [2]: http://tableless.com.br/podcast-tableless-22-primeira-impressao-sobre-padroes-web
- [3]: http://visie.com.br/
+ [1]: https://www.revolucao.etc.br/archives/quem-deve-se-preocupar-com-os-padroes-web/
+ [2]: https://tableless.com.br/podcast-tableless-22-primeira-impressao-sobre-padroes-web
+ [3]: https://visie.com.br/

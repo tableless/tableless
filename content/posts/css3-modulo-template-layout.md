@@ -8,7 +8,7 @@ url: /css3-modulo-template-layout/
 tweetbackscheck:
   - 1356451976
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/css3-modulo-template-layout";s:7:"tinyurl";s:26:"http://tinyurl.com/3h77pa8";s:4:"isgd";s:19:"http://is.gd/WhBZNx";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/css3-modulo-template-layout";s:7:"tinyurl";s:26:"https://tinyurl.com/3h77pa8";s:4:"isgd";s:19:"https://is.gd/WhBZNx";}'
 twittercomments:
   - 'a:50:{i:101965952924651521;s:6:"138126";i:104305359203737600;s:7:"retweet";i:104199267819847681;s:7:"retweet";i:104197827294531584;s:7:"retweet";i:104196826252574720;s:7:"retweet";i:104194430898159617;s:7:"retweet";i:103128176347197440;s:7:"retweet";i:121650285797060608;s:7:"retweet";i:121647631352074241;s:7:"retweet";i:121646569811488768;s:7:"retweet";i:121738176011317250;s:7:"retweet";i:121731928729718785;s:7:"retweet";i:121723395955105792;s:7:"retweet";i:121708940668059648;s:7:"retweet";i:121678703204909056;s:7:"retweet";i:121659062210412544;s:7:"retweet";i:121654907915862016;s:7:"retweet";i:121650905715179521;s:7:"retweet";i:121650229782126593;s:7:"retweet";i:121649727262568448;s:7:"retweet";i:121649651437940737;s:7:"retweet";i:121649214471147521;s:7:"retweet";i:121648981603385345;s:7:"retweet";i:121648321923256320;s:7:"retweet";i:121647978120355840;s:7:"retweet";i:121647583516049408;s:7:"retweet";i:121647341311758336;s:7:"retweet";i:121647287591116800;s:7:"retweet";i:121647126735355904;s:7:"retweet";i:121647102911713280;s:7:"retweet";i:121646736467951616;s:7:"retweet";i:121646454149365760;s:7:"retweet";i:128633419264573441;s:7:"retweet";i:171940669080862720;s:7:"retweet";i:171277281052995584;s:7:"retweet";i:170547330716680192;s:7:"retweet";i:170546038829096960;s:7:"retweet";i:170545481989099520;s:7:"retweet";i:170543793475555329;s:7:"retweet";i:170543279501361155;s:7:"retweet";i:170543144302149634;s:7:"retweet";i:213080083529867264;s:7:"retweet";i:213080044401201152;s:7:"retweet";i:213036677336281088;s:7:"retweet";i:212969701691760640;s:7:"retweet";i:212960052095623169;s:7:"retweet";i:212960022748078081;s:7:"retweet";i:212959173355380737;s:7:"retweet";i:212958385417625600;s:7:"retweet";i:212957299482968065;s:7:"retweet";}'
 tweetcount:
@@ -333,5 +333,5 @@ Sim, já funciona, mas não nativamente nos browser. Esta especificação ainda 
 Veja um [exemplo funcionando aqui][3].
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/05/Untitled.png
- [2]: http://migre.me/4FL7D
- [3]: http://migre.me/4FLGU "exemplo do módulo template layout do CSS3"
+ [2]: https://migre.me/4FL7D
+ [3]: https://migre.me/4FLGU "exemplo do módulo template layout do CSS3"

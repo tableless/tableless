@@ -8,7 +8,7 @@ url: /iniciando-no-git-parte-2/
 tweetbackscheck:
   - 1356393277
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/iniciando-no-git-parte-2/";s:7:"tinyurl";s:26:"http://tinyurl.com/ceqpfkt";s:4:"isgd";s:19:"http://is.gd/sKmy4V";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/iniciando-no-git-parte-2/";s:7:"tinyurl";s:26:"https://tinyurl.com/ceqpfkt";s:4:"isgd";s:19:"https://is.gd/sKmy4V";}'
 twittercomments:
   - 'a:13:{i:274212844919222272;s:7:"retweet";i:274212778967961600;s:7:"retweet";i:274209157748502528;s:7:"retweet";i:272137459779907584;s:7:"retweet";i:272082829716893696;s:7:"retweet";i:271976153319890944;s:7:"retweet";i:271724965462691840;s:7:"retweet";i:271688569326800896;s:7:"retweet";i:271688195924705280;s:7:"retweet";i:278558260628451330;s:7:"retweet";i:281460997875695616;s:7:"retweet";i:281459505919823873;s:7:"retweet";i:280025936605347840;s:7:"retweet";}'
 tweetcount:
@@ -78,6 +78,6 @@ A [documentação do Git][3] é muito fácil de ler e entender. É bem objetiva 
 
 Veja um vídeo que mostra os comandos básicos do GIT:
 
- [1]: http://tableless.com.br/iniciando-no-git-parte-1/
+ [1]: https://tableless.com.br/iniciando-no-git-parte-1/
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/git2.jpg
- [3]: http://git-scm.com/docs
+ [3]: https://git-scm.com/docs

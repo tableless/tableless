@@ -1,6 +1,6 @@
 +++
 authors = "Udacity Brasil"
-canonical = "http://br.udacity.com/blog/post/react-o-que-e-como-funciona"
+canonical = "https://br.udacity.com/blog/post/react-o-que-e-como-funciona"
 categories = ["javascript"]
 date = "2018-09-13T10:00:00-03:00"
 excerpt = "Como definido por seus criadores, React é “uma biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário (UI)”."
@@ -38,7 +38,7 @@ _Comparação do número de downloads \[Fonte:_ [_Medium/unicorn.supplies_](htt
 
 Dizer que React é uma biblioteca significa que este [não é um framework](https://reactjs.org/blog/2013/06/05/why-react.html), mas simplesmente uma coleção de funcionalidades relacionadas que podem ser chamadas pelo desenvolvedor para resolver problemas específicos — a criação de interfaces de usuário reaproveitáveis, no caso do React.
 
-Já a principal característica de um framework é a [Inversão de Controle](https://pt.wikipedia.org/wiki/Invers%C3%A3o_de_controle), também conhecida como [Hollywood Principle](http://wiki.c2.com/?HollywoodPrinciple). Ou seja, quem dita o que (e como) algo deve ser feito é o framework, não o desenvolvedor — é ele quem chama o seu código, e não o contrário.
+Já a principal característica de um framework é a [Inversão de Controle](https://pt.wikipedia.org/wiki/Invers%C3%A3o_de_controle), também conhecida como [Hollywood Principle](https://wiki.c2.com/?HollywoodPrinciple). Ou seja, quem dita o que (e como) algo deve ser feito é o framework, não o desenvolvedor — é ele quem chama o seu código, e não o contrário.
 
 O importante disso tudo é que, em geral, bibliotecas são mais flexíveis e menos complexas do que frameworks.
 

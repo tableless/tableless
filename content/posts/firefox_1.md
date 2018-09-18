@@ -7,7 +7,7 @@ url: /firefox_1/
 tweetbackscheck:
   - 1355580663
 shorturls:
-  - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/firefox_1";s:7:"tinyurl";s:26:"http://tinyurl.com/3zotdyl";s:4:"isgd";s:19:"http://is.gd/HFs2a9";}'
+  - 'a:3:{s:9:"permalink";s:33:"https://tableless.com.br/firefox_1";s:7:"tinyurl";s:26:"https://tinyurl.com/3zotdyl";s:4:"isgd";s:19:"https://is.gd/HFs2a9";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032026
@@ -17,5 +17,5 @@ Foi lançado a versão oficial do [Mozilla Firefox 1.0][1]. O O que achei mais i
 
 Baixe o [Firefox 1.0 aqui][1]!
 
- [1]: http://simonevb.com/Firefox%20Setup%201.0.exe
+ [1]: https://simonevb.com/Firefox%20Setup%201.0.exe
  [2]: www.mozilla.org/products/firefox/

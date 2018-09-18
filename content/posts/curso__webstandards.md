@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356392125
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/curso__webstandards";s:7:"tinyurl";s:26:"http://tinyurl.com/3pgqvv9";s:4:"isgd";s:19:"http://is.gd/zkJbmt";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/curso__webstandards";s:7:"tinyurl";s:26:"https://tinyurl.com/3pgqvv9";s:4:"isgd";s:19:"https://is.gd/zkJbmt";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503098473
@@ -38,12 +38,12 @@ Ensinamos no [curso de tableless][5] a escrever código com significado semânti
 
 Ensinamos o aluno a utilizar Ajax em lugares realmente úteis. Em aplicações por exemplo, Ajax é uma boa pedida. Mas em sites comuns, para fazer aparecer conteúdo textual por exemplo, fazer Ajax já não vale a pena. 
 
-Para mais informações sobre nossos cursos, por favor, visite: <http://visie.com.br/treinamento/>.
+Para mais informações sobre nossos cursos, por favor, visite: <https://visie.com.br/treinamento/>.
   
 Lá você também pode conferir outros cursos como o de Python e PHP.
 
- [1]: http://visie.com.br/ "Empresa de treinamentos e desenvolvimento de sistemas web"
- [2]: http://visie.com.br/treinamento/presencial
- [3]: http://visie.com.br/treinamento/assuntos-que-ensinamos/curso-de-tableless/ "Curso de Tableless e boas práticas"
- [4]: http://visie.com.br/treinamento/treinamento-in-company/ "Curso in company de padrões web"
- [5]: http://visie.com.br/treinamento/assuntos-que-ensinamos/curso-de-tableless/ "Treinamento de Tableless"
+ [1]: https://visie.com.br/ "Empresa de treinamentos e desenvolvimento de sistemas web"
+ [2]: https://visie.com.br/treinamento/presencial
+ [3]: https://visie.com.br/treinamento/assuntos-que-ensinamos/curso-de-tableless/ "Curso de Tableless e boas práticas"
+ [4]: https://visie.com.br/treinamento/treinamento-in-company/ "Curso in company de padrões web"
+ [5]: https://visie.com.br/treinamento/assuntos-que-ensinamos/curso-de-tableless/ "Treinamento de Tableless"

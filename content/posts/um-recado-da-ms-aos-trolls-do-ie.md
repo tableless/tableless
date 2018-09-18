@@ -8,7 +8,7 @@ url: /um-recado-da-ms-aos-trolls-do-ie/
 tweetbackscheck:
   - 1356472077
 shorturls:
-  - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/um-recado-da-ms-aos-trolls-do-ie/";s:7:"tinyurl";s:26:"http://tinyurl.com/aokr6pd";s:4:"isgd";s:19:"http://is.gd/0YxPaT";}'
+  - 'a:3:{s:9:"permalink";s:57:"https://tableless.com.br/um-recado-da-ms-aos-trolls-do-ie/";s:7:"tinyurl";s:26:"https://tinyurl.com/aokr6pd";s:4:"isgd";s:19:"https://is.gd/0YxPaT";}'
 twittercomments:
   - 'a:2:{i:276737565053308928;s:7:"retweet";i:276726605898981376;s:7:"retweet";}'
 tweetcount:
@@ -31,6 +31,6 @@ Mesmo com esse cenário decente que o IE se encontra, existem muitos devs que ai
 
 Veja abaixo e relaxe um pouco.
 
- [1]: http://html5test.com/results/desktop.html
- [2]: http://ie.microsoft.com/testdrive/
- [3]: http://tableless.com.br/o-browser-que-voce-amou-odiar/
+ [1]: https://html5test.com/results/desktop.html
+ [2]: https://ie.microsoft.com/testdrive/
+ [3]: https://tableless.com.br/o-browser-que-voce-amou-odiar/

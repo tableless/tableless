@@ -73,9 +73,9 @@ Eu apliquei um efeito de glass para melhorar o visual, e ficou assim.
 
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/mockup9.png" alt="mockup9" width="728" height="734" class="alignnone size-full wp-image-38330" srcset="uploads/2013/07/mockup9.png 728w, uploads/2013/07/mockup9-166x168.png 166w, uploads/2013/07/mockup9-307x310.png 307w" sizes="(max-width: 728px) 100vw, 728px" />][11]
 
-Esta é uma forma de como podemos aplicar e criar diversas formas de mockups para exibirmos nossos trabalhos e essa técnica pode ser utilizado para diversos tipos de aplicações em diferentes propostas. Existem diversos artigos na web que contém pacotes para download gratuitos ou você pode criar o seu pacote de acordo com a necessidade. Aqui tem o link para baixar esse mockup **http://bit.ly/1c1p0go**. Gostou? Comenta ai 🙂
+Esta é uma forma de como podemos aplicar e criar diversas formas de mockups para exibirmos nossos trabalhos e essa técnica pode ser utilizado para diversos tipos de aplicações em diferentes propostas. Existem diversos artigos na web que contém pacotes para download gratuitos ou você pode criar o seu pacote de acordo com a necessidade. Aqui tem o link para baixar esse mockup **https://bit.ly/1c1p0go**. Gostou? Comenta ai 🙂
 
- [1]: http://bit.ly/1c1p0go
+ [1]: https://bit.ly/1c1p0go
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/mobile-mockup.jpg
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/mockup1.png
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/mockup2.png

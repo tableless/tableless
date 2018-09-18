@@ -36,12 +36,12 @@ Existem três pilares principais: W3C, browsers e devs. E eu sempre presto aten�
 
 Vamos ver como isso tudo se desenrola e participe. Não seja um dev passivo às mudanças.
 
- [1]: http://html5forwebdesigners.com/history/index.html#the_schism_whatwg_tf
- [2]: http://dig.csail.mit.edu/breadcrumbs/node/166
+ [1]: https://html5forwebdesigners.com/history/index.html#the_schism_whatwg_tf
+ [2]: https://dig.csail.mit.edu/breadcrumbs/node/166
  [3]: https://github.com/whatwg/web-history "Um resumo da história escrita pelo próprio WHATWG"
- [4]: http://html5forwebdesigners.com/history/index.html#the_schism_whatwg_tf "A história do WHATWG contada pelo livro HTML5 para Web Designers."
- [5]: http://www.cnet.com
- [6]: http://www.cnet.com/news/html5-is-done-but-two-groups-still-wrestle-over-webs-future/
- [7]: http://twitter.com/stshank
- [8]: http://www.cnet.com/news/w3c-buttons-down-html5-opens-up-html5-1/
- [9]: http://lists.w3.org/
+ [4]: https://html5forwebdesigners.com/history/index.html#the_schism_whatwg_tf "A história do WHATWG contada pelo livro HTML5 para Web Designers."
+ [5]: https://www.cnet.com
+ [6]: https://www.cnet.com/news/html5-is-done-but-two-groups-still-wrestle-over-webs-future/
+ [7]: https://twitter.com/stshank
+ [8]: https://www.cnet.com/news/w3c-buttons-down-html5-opens-up-html5-1/
+ [9]: https://lists.w3.org/

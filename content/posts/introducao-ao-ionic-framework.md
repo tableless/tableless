@@ -76,8 +76,8 @@ A equipe por trás da ferramenta está trabalhando a todo vapor lançando corre�
 
 É também um ótimo projeto para contribuir pois o desenvolvimento é bastante simples e a comunidade é bastante receptiva.
 
- [1]: http://ionicframework.com/
- [2]: http://cordova.apache.org/
+ [1]: https://ionicframework.com/
+ [2]: https://cordova.apache.org/
  [3]: https://angularjs.org/
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/Screen-Shot-2015-02-18-at-5.33.43-PM.png
- [5]: http://ngcordova.com/
+ [5]: https://ngcordova.com/

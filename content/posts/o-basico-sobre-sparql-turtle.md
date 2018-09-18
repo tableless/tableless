@@ -4,7 +4,7 @@ categories:
   - Web Semântica
   - HTML
 excerpt: Entendendo um pouco sobre serialização RDF com Turtle e criando queries simples com Sparql
-image: http://imgh.us/pexels-photo-245618.jpeg
+image: https://imgh.us/pexels-photo-245618.jpeg
 type: "post"
 authors: Diego Eis
 date: "2017-05-07T16:10:22-03:00"
@@ -24,33 +24,33 @@ O RDF por si só não tem uma maneira de expressar Triplas. Um documento Turtle 
 O Turtle permite que substituamos as grandes URLs que usamos para identificar nossos dados, por um namespace amigável. Ainda com o exemplo do Steve Jobs, nós definimos um prefixo logo no início do código (que é nosso contexto, onde vamos definir o vocabulário) e depois modificamos o endereço dos predicados por esse prefixo. Teríamos o seguinte código:
 
 ```xml
-@prefix schema:<http://schema.org/> .
+@prefix schema:<https://schema.org/> .
 
-<http://dbpedia.org/resource/Steve_Jobs> 
+<https://dbpedia.org/resource/Steve_Jobs> 
     schema:alternateName
     "Steve Jobs"
 
-<http://dbpedia.org/resource/Steve_Jobs>
+<https://dbpedia.org/resource/Steve_Jobs>
     schema:spouse>
-    <http://dbpedia.org/resource/Laurene_Powell_Jobs>
+    <https://dbpedia.org/resource/Laurene_Powell_Jobs>
     
-<http://dbpedia.org/resource/Steve_Jobs>
+<https://dbpedia.org/resource/Steve_Jobs>
     schema:owns
-    <http://dbpedia.org/resource/Apple_Inc.>
+    <https://dbpedia.org/resource/Apple_Inc.>
 
-<http://dbpedia.org/resource/Steve_Jobs>
+<https://dbpedia.org/resource/Steve_Jobs>
     schema:birthPlace
-    <http://dbpedia.org/resource/San_Francisco>
+    <https://dbpedia.org/resource/San_Francisco>
     
-<http://dbpedia.org/resource/Steve_Jobs>
+<https://dbpedia.org/resource/Steve_Jobs>
     schema:birthDate
     "24 de Fevereiro de 1955"
 
-<http://dbpedia.org/resource/Steve_Jobs>
+<https://dbpedia.org/resource/Steve_Jobs>
     schema:deathPlace
-    <http://dbpedia.org/resource/Palo_Alto,_California>
+    <https://dbpedia.org/resource/Palo_Alto,_California>
 
-<http://dbpedia.org/resource/Steve_Jobs>
+<https://dbpedia.org/resource/Steve_Jobs>
     schema:deathDate
     "5 de Outubro de 2011"
 ```
@@ -59,27 +59,27 @@ Esse código seria colocado num arquivo **.ttl** e servido separadamente. O W3c 
 
 ```xml
 # Uma tripla com todas as URLs absolutas. Como no nosso primeiro exemplo
-<http://one.example/subject1> <http://one.example/predicate1> <http://one.example/object1> .
+<https://one.example/subject1> <https://one.example/predicate1> <https://one.example/object1> .
 
-@base <http://one.example/> .
-<subject2> <predicate2> <object2> .     # URLs relativa, ex. http://one.example/subject2
+@base <https://one.example/> .
+<subject2> <predicate2> <object2> .     # URLs relativa, ex. https://one.example/subject2
 
-BASE <http://one.example/>
-<subject2> <predicate2> <object2> .     # URLs relativa, ex. http://one.example/subject2
+BASE <https://one.example/>
+<subject2> <predicate2> <object2> .     # URLs relativa, ex. https://one.example/subject2
 
-@prefix p: <http://two.example/> .
-p:subject3 p:predicate3 p:object3 .     # prefixo de nome, ex. http://two.example/subject3
+@prefix p: <https://two.example/> .
+p:subject3 p:predicate3 p:object3 .     # prefixo de nome, ex. https://two.example/subject3
 
-PREFIX p: <http://two.example/>
-p:subject3 p:predicate3 p:object3 .     # prefixo de nome, ex. http://two.example/subject3
+PREFIX p: <https://two.example/>
+p:subject3 p:predicate3 p:object3 .     # prefixo de nome, ex. https://two.example/subject3
 
-@prefix p: <path/> .                    # prefixo p: agora se refere a http://one.example/path/
-p:subject4 p:predicate4 p:object4 .     # prefixo de nome, ex. http://one.example/path/subject4
+@prefix p: <path/> .                    # prefixo p: agora se refere a https://one.example/path/
+p:subject4 p:predicate4 p:object4 .     # prefixo de nome, ex. https://one.example/path/subject4
 
-@prefix : <http://another.example/> .    # prefixo vazio
-:subject5 :predicate5 :object5 .        # prefixo de nome, ex. http://another.example/subject5
+@prefix : <https://another.example/> .    # prefixo vazio
+:subject5 :predicate5 :object5 .        # prefixo de nome, ex. https://another.example/subject5
 
-:subject6 a :subject7 .                 # atributo 'same as' :subject6 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> :subject7 .
+:subject6 a :subject7 .                 # atributo 'same as' :subject6 <https://www.w3.org/1999/02/22-rdf-syntax-ns#type> :subject7 .
 ```
 
 Com uma linguagem de query, as máquinas podem vasculhar bancos de dados que estão estruturados por meio de triplas para conseguir extrair informações úteis. Uma dessas linguagens é o SPARQL.
@@ -90,7 +90,7 @@ O SPARQL é uma linguagem de query para realizar consultas em dados estruturados
 
 Uma query SPARQL consiste numa estrutura simples de duas clausulas: SELECT e WHERE. O **SELECT** identifica as variáveis que aparecerão nos resultados da query e o **WHERE** mostra o padrão básico do grafo que bate com os dados. 
 
-No exemplo abaixo pego todas as obras de Mozart. Estou usando para esse exemplo um banco de dados de triplas RDF online do DBPedia. Se você quiser testar, entre na interface do iSPARQL da própria DBPedia. É uma interface bem feinha, não se espante: http://dbpedia.org/isparql/
+No exemplo abaixo pego todas as obras de Mozart. Estou usando para esse exemplo um banco de dados de triplas RDF online do DBPedia. Se você quiser testar, entre na interface do iSPARQL da própria DBPedia. É uma interface bem feinha, não se espante: https://dbpedia.org/isparql/
 
 Segue o exemplo:
 
@@ -104,57 +104,57 @@ WHERE {
 A resposta que recebi em XML no formato RDF:
 
 ```XML
-<rdf:RDF xmlns:res="http://www.w3.org/2005/sparql-results#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<rdf:RDF xmlns:res="https://www.w3.org/2005/sparql-results#" xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
 <rdf:Description rdf:nodeID="rset">
-<rdf:type rdf:resource="http://www.w3.org/2005/sparql-results#ResultSet"/>
+<rdf:type rdf:resource="https://www.w3.org/2005/sparql-results#ResultSet"/>
     <res:resultVariable>musics</res:resultVariable>
     <res:solution rdf:nodeID="r0">
-      <res:binding rdf:nodeID="r0c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/Teorema_(film)"/></res:binding>
+      <res:binding rdf:nodeID="r0c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/Teorema_(film)"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r1">
-      <res:binding rdf:nodeID="r1c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/Balthus_Through_the_Looking_Glass"/></res:binding>
+      <res:binding rdf:nodeID="r1c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/Balthus_Through_the_Looking_Glass"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r2">
-      <res:binding rdf:nodeID="r2c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/Teaching_to_See"/></res:binding>
+      <res:binding rdf:nodeID="r2c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/Teaching_to_See"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r3">
-      <res:binding rdf:nodeID="r3c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/Écoute_voir"/></res:binding>
+      <res:binding rdf:nodeID="r3c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/Écoute_voir"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r4">
-      <res:binding rdf:nodeID="r4c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/A_Man_Escaped"/></res:binding>
+      <res:binding rdf:nodeID="r4c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/A_Man_Escaped"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r5">
-      <res:binding rdf:nodeID="r5c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/Ehrengard"/></res:binding>
+      <res:binding rdf:nodeID="r5c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/Ehrengard"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r6">
-      <res:binding rdf:nodeID="r6c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/Tale_of_Tales_(1979_film)"/></res:binding>
+      <res:binding rdf:nodeID="r6c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/Tale_of_Tales_(1979_film)"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r7">
-      <res:binding rdf:nodeID="r7c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/The_Magic_Flute_(1975_film)"/></res:binding>
+      <res:binding rdf:nodeID="r7c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/The_Magic_Flute_(1975_film)"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r8">
-      <res:binding rdf:nodeID="r8c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/The_Magic_Flute_(2006_film)"/></res:binding>
+      <res:binding rdf:nodeID="r8c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/The_Magic_Flute_(2006_film)"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r9">
-      <res:binding rdf:nodeID="r9c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/Quiet_Night_In"/></res:binding>
+      <res:binding rdf:nodeID="r9c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/Quiet_Night_In"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r10">
-      <res:binding rdf:nodeID="r10c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/Live_Together,_Die_Alone"/></res:binding>
+      <res:binding rdf:nodeID="r10c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/Live_Together,_Die_Alone"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r11">
-      <res:binding rdf:nodeID="r11c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/Eroica_(2003_film)"/></res:binding>
+      <res:binding rdf:nodeID="r11c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/Eroica_(2003_film)"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r12">
-      <res:binding rdf:nodeID="r12c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/Killing_Time_(2013_film)"/></res:binding>
+      <res:binding rdf:nodeID="r12c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/Killing_Time_(2013_film)"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r13">
-      <res:binding rdf:nodeID="r13c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/Don_Giovanni_(1979_film)"/></res:binding>
+      <res:binding rdf:nodeID="r13c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/Don_Giovanni_(1979_film)"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r14">
-      <res:binding rdf:nodeID="r14c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/Under_the_Pavement_Lies_the_Strand"/></res:binding>
+      <res:binding rdf:nodeID="r14c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/Under_the_Pavement_Lies_the_Strand"/></res:binding>
     </res:solution>
     <res:solution rdf:nodeID="r15">
-      <res:binding rdf:nodeID="r15c0"><res:variable>musics</res:variable><res:value rdf:resource="http://dbpedia.org/resource/A_Woman_Is_a_Risky_Bet:_Six_Orchestra_Conductors"/></res:binding>
+      <res:binding rdf:nodeID="r15c0"><res:variable>musics</res:variable><res:value rdf:resource="https://dbpedia.org/resource/A_Woman_Is_a_Risky_Bet:_Six_Orchestra_Conductors"/></res:binding>
     </res:solution>
   </rdf:Description>
 </rdf:RDF>
@@ -188,4 +188,4 @@ O W3C dá um exemplo bem legal para entender isso: números são o oposto de num
 
 O RDF também não é uma aplicação XML. O modelo fundamental do RDF é totalmente independente do XML. Ele é um modelo que descreve e qualifica relações entre duas fontes web.
 
-A página do *John Lennon* lá na [DBPedia](http://dbpedia.org/page/John_Lennon), tem todas as informações sobre o cantor. Você consegue essas informações em diversos formatos. Incluindo XML em padrão [RDF](http://dbpedia.org/data/John_Lennon.rdf). Esse arquivo RDF tem algo em torno de 2148 linhas, com todos os dados que a DBPedia tem de John Lennon. Há outros formatos disponíveis, como [JSON-LD](http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FJohn_Lennon%3E&format=application%2Fjson-ld).
+A página do *John Lennon* lá na [DBPedia](https://dbpedia.org/page/John_Lennon), tem todas as informações sobre o cantor. Você consegue essas informações em diversos formatos. Incluindo XML em padrão [RDF](https://dbpedia.org/data/John_Lennon.rdf). Esse arquivo RDF tem algo em torno de 2148 linhas, com todos os dados que a DBPedia tem de John Lennon. Há outros formatos disponíveis, como [JSON-LD](https://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&query=DESCRIBE%20%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FJohn_Lennon%3E&format=application%2Fjson-ld).

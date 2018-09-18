@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356397672
 shorturls:
-  - 'a:3:{s:9:"permalink";s:54:"http://tableless.com.br/introducao-sobre-media-queries";s:7:"tinyurl";s:26:"http://tinyurl.com/4xzfx8x";s:4:"isgd";s:19:"http://is.gd/zKPYui";}'
+  - 'a:3:{s:9:"permalink";s:54:"https://tableless.com.br/introducao-sobre-media-queries";s:7:"tinyurl";s:26:"https://tinyurl.com/4xzfx8x";s:4:"isgd";s:19:"https://is.gd/zKPYui";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033160
@@ -42,7 +42,7 @@ Mas o exemplo acima é muito comum. Existem outras outros cenários que precisam
   * **print** para impressão em papel.
   * **projection** para apresentações, como PowerPoint. Este valor foi inventado pelo pessoal da Opera. MUITO útil.
   * **screen** para dispositivos com telas coloridas e alta resolução.
-  * **speech** para sintetizadores de voz. O CSS 2 tem uma especificação de CSS chamada Aural (http://www.w3.org/TR/CSS2/aural.html) que podemos “formatar” a voz de leitores de tela e outros sintetizadores.
+  * **speech** para sintetizadores de voz. O CSS 2 tem uma especificação de CSS chamada Aural (https://www.w3.org/TR/CSS2/aural.html) que podemos “formatar” a voz de leitores de tela e outros sintetizadores.
   * **tty** para dispositivos que utilizam uma grade fixa para exibição de caracteres, como teletypes, terminais, dispositivos portáteis com display limitado.
   * **tv** para dispositivos como televisores, ou seja, com baixa resolução, com boa quantidade de cores e scroll limitado.
 

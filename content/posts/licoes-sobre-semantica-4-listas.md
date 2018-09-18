@@ -7,7 +7,7 @@ url: /licoes-sobre-semantica-4-listas/
 tweetbackscheck:
   - 1356378423
 shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/licoes-sobre-semantica-4-listas";s:7:"tinyurl";s:26:"http://tinyurl.com/3oyotbh";s:4:"isgd";s:19:"http://is.gd/psfrQJ";}'
+  - 'a:3:{s:9:"permalink";s:55:"https://tableless.com.br/licoes-sobre-semantica-4-listas";s:7:"tinyurl";s:26:"https://tinyurl.com/3oyotbh";s:4:"isgd";s:19:"https://is.gd/psfrQJ";}'
 twittercomments:
   - 'a:2:{i:12864226771075073;s:7:"retweet";i:18164952137203712;s:7:"retweet";}'
 tweetcount:
@@ -40,4 +40,4 @@ Existem 3 tipos de listas, listas ordenadas, listas não ordenadas e listas de d
 
 Claro que há sempre aquele papo da [Subjetividade da Semântica][1].
 
- [1]: http://tableless.com.br/subjetividade-na-semantica
+ [1]: https://tableless.com.br/subjetividade-na-semantica

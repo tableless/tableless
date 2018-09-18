@@ -24,11 +24,11 @@ A ideia é que você possa, além de colocar o bannerzinho aí embaixo nos lugar
 
 Mãos à obra e let’s hunt IE today.
 
-<pre class="lang-html">&lt;!--[if IE]&gt;&lt;div style='clear: both; height: 112px; padding:0; position: relative;'&gt;&lt;a href="http://www.theie8countdown.com/ie-users-info"&gt;&lt;img src="https://www.theie8countdown.com/assets/badge_iecountdown.png" border="0" height="112" width="348" alt="" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;![endif]--&gt;
+<pre class="lang-html">&lt;!--[if IE]&gt;&lt;div style='clear: both; height: 112px; padding:0; position: relative;'&gt;&lt;a href="https://www.theie8countdown.com/ie-users-info"&gt;&lt;img src="https://www.theie8countdown.com/assets/badge_iecountdown.png" border="0" height="112" width="348" alt="" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;![endif]--&gt;
 </pre>
 
 <div style='clear: both; height: 112px; padding:0; position: relative;'>
-  <a href="http://www.theie8countdown.com/ie-users-info"><img src="https://www.theie8countdown.com/assets/badge_iecountdown.png" border="0" height="112" width="348" alt="" /></a>
+  <a href="https://www.theie8countdown.com/ie-users-info"><img src="https://www.theie8countdown.com/assets/badge_iecountdown.png" border="0" height="112" width="348" alt="" /></a>
 </div>
 
- [1]: http://theie8countdown.com/
+ [1]: https://theie8countdown.com/

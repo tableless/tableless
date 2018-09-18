@@ -6,13 +6,13 @@ date: 2006-09-01
 url: /podcast-tableless-22-primeira-impressao-sobre-padroes-web/
 enclosure:
   - |
-    http://tableless.com.br/podcast/podcast-tableless-22.mp3
+    https://tableless.com.br/podcast/podcast-tableless-22.mp3
     10743128
     audio/mpeg
 tweetbackscheck:
   - 1356415709
 shorturls:
-  - 'a:3:{s:9:"permalink";s:81:"http://tableless.com.br/podcast-tableless-22-primeira-impressao-sobre-padroes-web";s:7:"tinyurl";s:26:"http://tinyurl.com/3k9vsc6";s:4:"isgd";s:19:"http://is.gd/nxeKaw";}'
+  - 'a:3:{s:9:"permalink";s:81:"https://tableless.com.br/podcast-tableless-22-primeira-impressao-sobre-padroes-web";s:7:"tinyurl";s:26:"https://tinyurl.com/3k9vsc6";s:4:"isgd";s:19:"https://is.gd/nxeKaw";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035979
@@ -41,8 +41,8 @@ Tamanho: ~10Mb
   
 Tempo: ~00h30m
 
-Você pode ouvir as outras edições do podcast do Tableless, basta visitar o link: <http://tableless.com.br/categorias/pratica/podcasts/>
+Você pode ouvir as outras edições do podcast do Tableless, basta visitar o link: <https://tableless.com.br/categorias/pratica/podcasts/>
 
- [1]: http://visie.com.br/cursos/
- [2]: http://visie.com.br/
- [3]: http://tableless.com.br/podcast/podcast-tableless-22.mp3
+ [1]: https://visie.com.br/cursos/
+ [2]: https://visie.com.br/
+ [3]: https://tableless.com.br/podcast/podcast-tableless-22.mp3

@@ -7,7 +7,7 @@ url: /cursos-de-padroes-web-e-workshop-gratis/
 tweetbackscheck:
   - 1356110302
 shorturls:
-  - 'a:3:{s:9:"permalink";s:63:"http://tableless.com.br/cursos-de-padroes-web-e-workshop-gratis";s:7:"tinyurl";s:26:"http://tinyurl.com/3ukmt9s";s:4:"isgd";s:19:"http://is.gd/cMuTTK";}'
+  - 'a:3:{s:9:"permalink";s:63:"https://tableless.com.br/cursos-de-padroes-web-e-workshop-gratis";s:7:"tinyurl";s:26:"https://tinyurl.com/3ukmt9s";s:4:"isgd";s:19:"https://is.gd/cMuTTK";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 511109700
@@ -25,6 +25,6 @@ O Workshop será realizado no dia 5 de Dezembro, aqui em São Paulo.
   
 Os cursos tem inicio na próxima semana com Tableless I. Portanto corra porque já está em cima da hora.
 
- [1]: http://visie.com.br/workshop
- [2]: http://visie.com.br/cursos/presencial.php
- [3]: http://elcio.com.br/
+ [1]: https://visie.com.br/workshop
+ [2]: https://visie.com.br/cursos/presencial.php
+ [3]: https://elcio.com.br/

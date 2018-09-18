@@ -7,7 +7,7 @@ url: /codeshow/
 tweetbackscheck:
   - 1356301399
 shorturls:
-  - 'a:3:{s:9:"permalink";s:32:"http://tableless.com.br/codeshow";s:7:"tinyurl";s:26:"http://tinyurl.com/3f6z2o9";s:4:"isgd";s:19:"http://is.gd/wmLoTu";}'
+  - 'a:3:{s:9:"permalink";s:32:"https://tableless.com.br/codeshow";s:7:"tinyurl";s:26:"https://tinyurl.com/3f6z2o9";s:4:"isgd";s:19:"https://is.gd/wmLoTu";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036930
@@ -27,4 +27,4 @@ Você verá como os padrões web se integram com o desenvolvimento server-side e
 
 [CodeShow &#8211; Uma boa maneira de compartilhar conhecimento][1]
 
- [1]: http://visie.com.br/codeshow/
+ [1]: https://visie.com.br/codeshow/

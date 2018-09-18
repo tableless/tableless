@@ -7,7 +7,7 @@ url: /css-modular-breve-explicacao/
 tweetbackscheck:
   - 1356460976
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/css-modular-breve-explicacao";s:7:"tinyurl";s:26:"http://tinyurl.com/3dqwr9v";s:4:"isgd";s:19:"http://is.gd/ba04ud";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/css-modular-breve-explicacao";s:7:"tinyurl";s:26:"https://tinyurl.com/3dqwr9v";s:4:"isgd";s:19:"https://is.gd/ba04ud";}'
 twittercomments:
   - 'a:1:{i:35056021730758657;s:7:"retweet";}'
 tweetcount:
@@ -67,4 +67,4 @@ Fazendo todo este planejamento, é simples de controlar toda a estrutura de form
   
 A maneira que eu apresentei aqui é muito básica. Você com certeza fará sites bem maiores e complexos do que nosso exemplo. Mas a idéia continua a mesma. Adapte esta técnica de acordo com as necessidades do projeto. Invente maneiras novas&#8230; lembre-se que padrões web vieram para libertar.
 
- [1]: http://tableless.com.br/modulando-o-css "Modulando o CSS"
+ [1]: https://tableless.com.br/modulando-o-css "Modulando o CSS"

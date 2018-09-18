@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356387202
 shorturls:
-  - 'a:3:{s:9:"permalink";s:32:"http://tableless.com.br/metatags";s:7:"tinyurl";s:26:"http://tinyurl.com/3oxqvl4";s:4:"isgd";s:19:"http://is.gd/IwSaiU";}'
+  - 'a:3:{s:9:"permalink";s:32:"https://tableless.com.br/metatags";s:7:"tinyurl";s:26:"https://tinyurl.com/3oxqvl4";s:4:"isgd";s:19:"https://is.gd/IwSaiU";}'
 twittercomments:
   - 'a:1:{i:14108532416716800;s:7:"retweet";}'
 tweetcount:
@@ -98,9 +98,9 @@ Informa que o navegador não deverá cachear a página.
 
 É importante notar que não é necessário colocar muitas metatags em suas páginas. Apenas utilize aquelas que realmente serão úteis. Se você utiliza algo como o WordPress, é interessante encontrar plugins que ajudem na publicação de metatags nas páginas. Aqui no [Tableless][2] eu utilizo o Plugin para WordPress chamada [AddMetaTags][3].
 
-Uma lista maior de metatags você pode encontrar aqui: <http://vancouver-webpages.com/META/>. Há bastante informação também [aqui][4].
+Uma lista maior de metatags você pode encontrar aqui: <https://vancouver-webpages.com/META/>. Há bastante informação também [aqui][4].
 
- [1]: http://www.obasicodaweb.com/introducao-ao-http
- [2]: http://tableless.com.br/
- [3]: http://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plugin/
- [4]: http://www.library.uq.edu.au/iad/ctmeta4.html
+ [1]: https://www.obasicodaweb.com/introducao-ao-http
+ [2]: https://tableless.com.br/
+ [3]: https://www.g-loaded.eu/2006/01/05/add-meta-tags-wordpress-plugin/
+ [4]: https://www.library.uq.edu.au/iad/ctmeta4.html

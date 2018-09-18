@@ -37,7 +37,7 @@ Ser comum é normal e subestimado. Você pode não ser o melhor em tudo e se pas
 
 #### Ganhar mais dinheiro
 
-Se você quiser ganhar mais dinheiro, você precisa ser o melhor no que faz. Se você é bom, sua reputação irá crescer e você será capaz de cobrar por melhores preços. Confira neste e-book <a href="http://build.codepoet.com/2012/05/11/getting-pricing-right/" target="_blank">como obter o preço certo</a>.
+Se você quiser ganhar mais dinheiro, você precisa ser o melhor no que faz. Se você é bom, sua reputação irá crescer e você será capaz de cobrar por melhores preços. Confira neste e-book <a href="https://build.codepoet.com/2012/05/11/getting-pricing-right/" target="_blank">como obter o preço certo</a>.
 
 #### Ter os melhores clientes
 
@@ -81,37 +81,37 @@ Pode parecer óbvio, mas usando o WordPress para você mesmo é uma ótima manei
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/02/mamp-wordpress-381x310.jpg" alt="MAMP WordPress" width="381" height="310" class="alignnone size-medium wp-image-8157" srcset="uploads/2013/02/mamp-wordpress-381x310.jpg 381w, uploads/2013/02/mamp-wordpress-206x168.jpg 206w, uploads/2013/02/mamp-wordpress.jpg 423w" sizes="(max-width: 381px) 100vw, 381px" />
 
-Você não precisa ser um desenvolvedor para criar um ambiente de desenvolvimento no seu computador. Pode parecer assustador, mas eu me lembro da primeira vez que estava configurando o Xampp com o WordPress e estava totalmente confuso e não tinha ideia do que estava fazendo. Agora eu tenho mais instalações locais do WordPress do que eu posso acompanhar. Instalar WordPress no seu computador significa que você pode fazer o que quiser com ele sem ter que se preocupar com nomes de domínios, hospedagens etc. Depois de instalar o WordPress algumas vezes em seu computador, vai perceber como é extremamente simples. Veja os tutoriais de como instalar o WordPress usando <a href="http://wpmu.org/install-wordpress-locally-on-windows-with-xampp/" target="_blank">Xampp</a> (Windows) ou <a href="http://wp.smashingmagazine.com/2011/09/28/developing-wordpress-locally-with-mamp/" target="_blank">MAMP</a> (Mac).
+Você não precisa ser um desenvolvedor para criar um ambiente de desenvolvimento no seu computador. Pode parecer assustador, mas eu me lembro da primeira vez que estava configurando o Xampp com o WordPress e estava totalmente confuso e não tinha ideia do que estava fazendo. Agora eu tenho mais instalações locais do WordPress do que eu posso acompanhar. Instalar WordPress no seu computador significa que você pode fazer o que quiser com ele sem ter que se preocupar com nomes de domínios, hospedagens etc. Depois de instalar o WordPress algumas vezes em seu computador, vai perceber como é extremamente simples. Veja os tutoriais de como instalar o WordPress usando <a href="https://wpmu.org/install-wordpress-locally-on-windows-with-xampp/" target="_blank">Xampp</a> (Windows) ou <a href="https://wp.smashingmagazine.com/2011/09/28/developing-wordpress-locally-with-mamp/" target="_blank">MAMP</a> (Mac).
 
 ## Siga os blogs
 
 Há uma infinidade de blogs sobre WordPress que você pode aprender. Adicione eles no seu leitor de RSS e mantenha-se atualizado. Com tantos blogs falando sobre WordPress, pode parecer que todos oferecem a mesma coisa, mas cada um oferece algo único. Aqui estão alguns dos meus favoritos:
 
-<a href="http://wp.smashingmagazine.com/" target="_blank"><strong>Smashing Magazine (Categoria de WordPress)</strong></a>
+<a href="https://wp.smashingmagazine.com/" target="_blank"><strong>Smashing Magazine (Categoria de WordPress)</strong></a>
   
 Artigos mais longos e tutoriais.
 
-<a href="http://wprealm.com/" target="_blank"><strong>Realm WP</strong></a>
+<a href="https://wprealm.com/" target="_blank"><strong>Realm WP</strong></a>
   
 Notícias sobre WordPress, opinião e artigos de especialistas em toda a comunidade.
 
-<a href="http://www.wpcandy.com/" target="_blank"><strong>WPCandy</strong></a>
+<a href="https://www.wpcandy.com/" target="_blank"><strong>WPCandy</strong></a>
   
 Notícias e Podcasts sobre WordPress.
 
-<a href="http://www.wpbeginner.com/" target="_blank"><strong>WPBeginner</strong></a>
+<a href="https://www.wpbeginner.com/" target="_blank"><strong>WPBeginner</strong></a>
   
 Tutoriais de WordPress e vídeos, junto com uma seção de cupons de desconto em produtos e serviços relacionados com WordPress.
 
-<a href="http://wpmu.org/" target="_blank"><strong>WPMU.org</strong></a>
+<a href="https://wpmu.org/" target="_blank"><strong>WPMU.org</strong></a>
   
 Dicas diárias, tutoriais e notícias de WordPress.
 
-<a href="http://wplift.com/" target="_blank"><strong>WPLift</strong></a>
+<a href="https://wplift.com/" target="_blank"><strong>WPLift</strong></a>
   
 Temas, plug-ins e tutoriais.
 
-<a href="http://build.codepoet.com/" target="_blank"><strong>Code Poet</strong></a>
+<a href="https://build.codepoet.com/" target="_blank"><strong>Code Poet</strong></a>
   
 Entrevistas com especialistas de destaque do WordPress e tutoriais.
 
@@ -121,7 +121,7 @@ Um pouco de entusiasmo leva tempo. James Mason, começou em um emprego como dese
 
 “Independente do mercado, as pessoas querem trabalhar com alguém que gostem de estar perto. Ter uma atitude positiva e estar disposto a enfrentar os desafios são qualidades que qualquer empresa está procurando.“
 
-Seu entusiasmo o levou para um longo caminho e agora Mason é CEO de sua própria agência de WordPress e gerenciamento de projetos, <a href="http://thewpvalet.com/" target="_blank">Valet WP</a>.
+Seu entusiasmo o levou para um longo caminho e agora Mason é CEO de sua própria agência de WordPress e gerenciamento de projetos, <a href="https://thewpvalet.com/" target="_blank">Valet WP</a>.
 
 ## Ouvir
 
@@ -141,7 +141,7 @@ Agora que você aprendeu o básico em WordPress, está na hora de começar a se 
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/02/make-wordpress.jpg" alt="Make WordPress" width="527" height="238" class="alignnone size-full wp-image-8159" srcset="uploads/2013/02/make-wordpress.jpg 527w, uploads/2013/02/make-wordpress-329x148.jpg 329w" sizes="(max-width: 527px) 100vw, 527px" />
 
-Make WordPress.org é o lugar onde você pode encontrar blogs para todos os grupos. Onde costumava haver listas de discussão, agora há blogs. Todos os grupos estão reunidos na <a href="http://make.wordpress.org/" target="_blank">Make WordPress.org</a>. Você pode acompanhar todas elas ou escolher as que são mais relevantes para você. Os blogs que fazem parte são:
+Make WordPress.org é o lugar onde você pode encontrar blogs para todos os grupos. Onde costumava haver listas de discussão, agora há blogs. Todos os grupos estão reunidos na <a href="https://make.wordpress.org/" target="_blank">Make WordPress.org</a>. Você pode acompanhar todas elas ou escolher as que são mais relevantes para você. Os blogs que fazem parte são:
 
   * Núcleo
   * Plugins
@@ -163,13 +163,13 @@ Os fóruns de suporte do WordPress são um excelente recurso para os usuários d
 
 ## Escreva sobre WordPress
 
-Você poderia começar a escrever sobre WordPress para o WordPress Codex, encontrando alguma página que precisa ser editada. O Codex feito em MediaWiki e qualquer um com um nome de usuário WordPress.org pode editar. O Codex tem sempre a necessidade de atualização e edição e contribuir com seus próprios artigos ajudará a primorar suas habilidades de WordPress. Você também pode ajudar com o <a href="http://make.wordpress.org/support/handbook/" target="_blank">Manual de usuário do WordPress</a>, que está atualmente em processo de edição nos blogs de suporte do WordPress.
+Você poderia começar a escrever sobre WordPress para o WordPress Codex, encontrando alguma página que precisa ser editada. O Codex feito em MediaWiki e qualquer um com um nome de usuário WordPress.org pode editar. O Codex tem sempre a necessidade de atualização e edição e contribuir com seus próprios artigos ajudará a primorar suas habilidades de WordPress. Você também pode ajudar com o <a href="https://make.wordpress.org/support/handbook/" target="_blank">Manual de usuário do WordPress</a>, que está atualmente em processo de edição nos blogs de suporte do WordPress.
 
 O WordPress.org não é o único lugar para escrever sobre WordPress. Caso você encontre uma solução para um problema de WordPress e escrever sobre isso em seu blog pessoal, as pessoas encontrarão através do Google e lhes ajudarão a resolver seu problema e você o problema delas. Com o processo de escrever sobre como resolver problemas de WordPress, as soluções chegarão cada vez mais de forma clara para você.
 
 ## Conheça a comunidade
 
-Trabalhar online é ótimo, mas não há nada como o encontro cara a cara para criar relacionamentos mais fortes e profundos. A fundação WordPress aceita dois tipos de eventos: WordPress <a href="http://central.wordcamp.org/" target="_blank">WordCamps</a> e <a href="http://wordpress.org/news/2012/01/year-of-the-meetup/" target="_blank">Meetups</a>. Wordcamps são grandes conferências anuais no qual especialistas e entusiastas se reúnem para compartilhar suas experiências com WordPress. Meetups são mais regulares, muitas vezes, uma vez por mês e são curtos encontros informais que podem envolver hacking ou apresentações. Participe de eventos e, quando se sentir confiante o suficiente, palestre neles. Não sinta que você tem que ser um gênio de WordPress para fazer uma apresentaçãoo. Se você já fez alguma coisa útil, o que vale a pena é compartilhar. Wordcamps e Meetups são importantes meios de construção de novos relacionamentos e amizades dentro dos mesmos interesses.
+Trabalhar online é ótimo, mas não há nada como o encontro cara a cara para criar relacionamentos mais fortes e profundos. A fundação WordPress aceita dois tipos de eventos: WordPress <a href="https://central.wordcamp.org/" target="_blank">WordCamps</a> e <a href="https://wordpress.org/news/2012/01/year-of-the-meetup/" target="_blank">Meetups</a>. Wordcamps são grandes conferências anuais no qual especialistas e entusiastas se reúnem para compartilhar suas experiências com WordPress. Meetups são mais regulares, muitas vezes, uma vez por mês e são curtos encontros informais que podem envolver hacking ou apresentações. Participe de eventos e, quando se sentir confiante o suficiente, palestre neles. Não sinta que você tem que ser um gênio de WordPress para fazer uma apresentaçãoo. Se você já fez alguma coisa útil, o que vale a pena é compartilhar. Wordcamps e Meetups são importantes meios de construção de novos relacionamentos e amizades dentro dos mesmos interesses.
 
 ## Siga em frente
 
@@ -183,11 +183,11 @@ Se você quiser chegar à frente, você precisa saber mais do que apenas é o Wo
 
 #### Execute o nightly builds
 
-Mantenha a <a href="http://wordpress.org/download/nightly/" target="_blank">nightly builds</a> instalado em uma instalação local. Isso irá manter o seu update.
+Mantenha a <a href="https://wordpress.org/download/nightly/" target="_blank">nightly builds</a> instalado em uma instalação local. Isso irá manter o seu update.
 
 #### Acompanhe o desenvolvimento do Core
 
-Você pode acompanhar o que está acontecendo no núcleo do WordPress de várias maneiras: seguindo o <a href="http://make.wordpress.org/core/" target="_blank">Make WordPress Core</a>, mantendo-se com os <a href="https://irclogs.wordpress.org/chanlog.php?channel=wordpress-dev" target="_blank">Recent Development Chats</a> e seguindo o <a href="http://core.trac.wordpress.org/" target="_blank">WordPress Trac</a>. Você também pode seguir o <a href="https://twitter.com/wordpresstrac" target="_blank">@wordpresstrac</a> no Twitter para atualizações ao vivo.
+Você pode acompanhar o que está acontecendo no núcleo do WordPress de várias maneiras: seguindo o <a href="https://make.wordpress.org/core/" target="_blank">Make WordPress Core</a>, mantendo-se com os <a href="https://irclogs.wordpress.org/chanlog.php?channel=wordpress-dev" target="_blank">Recent Development Chats</a> e seguindo o <a href="https://core.trac.wordpress.org/" target="_blank">WordPress Trac</a>. Você também pode seguir o <a href="https://twitter.com/wordpresstrac" target="_blank">@wordpresstrac</a> no Twitter para atualizações ao vivo.
 
 #### Acompanhe as mudanças de interface
 
@@ -205,4 +205,4 @@ Mesmo que você tenha chegado ao topo, você precisa ouvir. Outras pessoas conti
 
 O mercado de WordPress é uma área onde reúne muitos tipos de profissionais. Não apenas desenvolvedores, mas jornalistas, blogueiros, gerentes de projetos, designers, consultores, médicos, professores e inúmeros profissões que utilizam o WordPress e são muito bem remunerado com ele. Há outras recompensas além do dinheiro. O nosso mundo está cada vez mais fragmentado, especialmente para nós que passamos a maior parte do tempo online. Ser parte de uma comunidade significa ter pessoas para se comunicar, compartilhar ideias e colaborar para formar novas parcerias e amizades. Se você quer tomar o caminho para o topo e se divertir enquanto faz isso, então é só escutar, aprender, compartilhar, colaborar e contribuir.
 
-_Tradução e adaptação do texto de <a href="http://wp.smashingmagazine.com/author/siobhan-mckeown/?rel=author" target="_blank">Siobhan McKeown</a>, originalmente publicado na <a href="http://wp.smashingmagazine.com/2012/12/05/become-top-wordpress-professional/" target="_blank">Smashing Magazine</a>._
+_Tradução e adaptação do texto de <a href="https://wp.smashingmagazine.com/author/siobhan-mckeown/?rel=author" target="_blank">Siobhan McKeown</a>, originalmente publicado na <a href="https://wp.smashingmagazine.com/2012/12/05/become-top-wordpress-professional/" target="_blank">Smashing Magazine</a>._

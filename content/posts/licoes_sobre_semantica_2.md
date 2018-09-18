@@ -7,7 +7,7 @@ url: /licoes_sobre_semantica_2/
 tweetbackscheck:
   - 1355163108
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/licoes_sobre_semantica_2";s:7:"tinyurl";s:26:"http://tinyurl.com/3kfdd49";s:4:"isgd";s:19:"http://is.gd/SbDcZo";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/licoes_sobre_semantica_2";s:7:"tinyurl";s:26:"https://tinyurl.com/3kfdd49";s:4:"isgd";s:19:"https://is.gd/SbDcZo";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032137
@@ -57,7 +57,7 @@ Então, resumindo: A tag &#8220;cite&#8221; é apenas para definir o nome do Aut
 
 Ao usar as tags &#8220;q&#8221; e &#8220;blockquote&#8221; você defini um atributo chamado &#8220;cite&#8221;. O valor deste atributo é a URL de onde você tirou a citação.
   
-<q cite=&#8221;http://elcio.locaweb.com.br/poesias/autor.asp?cod=1&#8243;>Feliz aquele que é capaz de amar até mesmo aquilo que não compreende.</q>
+<q cite=&#8221;https://elcio.locaweb.com.br/poesias/autor.asp?cod=1&#8243;>Feliz aquele que é capaz de amar até mesmo aquilo que não compreende.</q>
   
 Entendido?
 
@@ -72,7 +72,7 @@ Abaixo, veja os links que usei como referência:
 
 Espero que as dúvidas tenham sido respondidas.
 
- [1]: http://www.w3schools.com/tags/tag_blockquote.asp
- [2]: http://www.w3schools.com/tags/tag_q.asp
- [3]: http://www.w3.org/TR/REC-html40/struct/text.html#edef-Q
- [4]: http://www.w3.org/TR/REC-html40/struct/text.html#edef-CITE
+ [1]: https://www.w3schools.com/tags/tag_blockquote.asp
+ [2]: https://www.w3schools.com/tags/tag_q.asp
+ [3]: https://www.w3.org/TR/REC-html40/struct/text.html#edef-Q
+ [4]: https://www.w3.org/TR/REC-html40/struct/text.html#edef-CITE

@@ -112,5 +112,5 @@ O método conforme descrito originalmente no livro é super rígido e em alguns 
 
 E você? Já conhecia a técnica? Já tentou utilizar? Compartilhe sua experiência nos comentários. Até o próximo artigo!
 
- [1]: http://pomodorotechnique.com/ "Pomodoro Technique"
- [2]: http://3030.binaryhammer.com/ "30/30"
+ [1]: https://pomodorotechnique.com/ "Pomodoro Technique"
+ [2]: https://3030.binaryhammer.com/ "30/30"

@@ -7,7 +7,7 @@ url: /retrospectiva-2006-marco/
 tweetbackscheck:
   - 1355295547
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/retrospectiva-2006-marco";s:7:"tinyurl";s:26:"http://tinyurl.com/4y2j3rl";s:4:"isgd";s:19:"http://is.gd/8qpckP";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/retrospectiva-2006-marco";s:7:"tinyurl";s:26:"https://tinyurl.com/4y2j3rl";s:4:"isgd";s:19:"https://is.gd/8qpckP";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 860107018
@@ -29,11 +29,11 @@ Por aí:
   * [O Henrique falava sobre XHTML Media Types][7]
   * [E o Gui falava sobre WindowsXP no MacIntel][8]
 
- [1]: http://tableless.com.br/breve-introducao-xhtml-mobile-profile
- [2]: http://tableless.com.br/video-tutorial-9-criando-a-home-da-visie-css
- [3]: http://tableless.com.br/a-era-da-informacao-nao-chegou
- [4]: http://tableless.com.br/tagsoup-e-programas-wysiwyg
- [5]: http://logbr.reflectivesurface.com/2006/03/18/rss-como-plataforma/
- [6]: http://brunotorres.net/acessibilidade-nao-e-altruismo
- [7]: http://www.revolucao.etc.br/archives/xhtml-media-types/
- [8]: http://www.guileite.com/2006/03/17/windows-xp-no-mac-intel/
+ [1]: https://tableless.com.br/breve-introducao-xhtml-mobile-profile
+ [2]: https://tableless.com.br/video-tutorial-9-criando-a-home-da-visie-css
+ [3]: https://tableless.com.br/a-era-da-informacao-nao-chegou
+ [4]: https://tableless.com.br/tagsoup-e-programas-wysiwyg
+ [5]: https://logbr.reflectivesurface.com/2006/03/18/rss-como-plataforma/
+ [6]: https://brunotorres.net/acessibilidade-nao-e-altruismo
+ [7]: https://www.revolucao.etc.br/archives/xhtml-media-types/
+ [8]: https://www.guileite.com/2006/03/17/windows-xp-no-mac-intel/

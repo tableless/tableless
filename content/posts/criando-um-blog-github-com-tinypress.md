@@ -90,18 +90,18 @@ Meu blog criado com tinypress (básico) &#8211; [reidark.github.io][15]
 
 Abraços 🙂
 
- [1]: http://tableless.com.br/ghost-simples-e-perfeita-plataforma-para-publicacoes/
+ [1]: https://tableless.com.br/ghost-simples-e-perfeita-plataforma-para-publicacoes/
  [2]: https://tinypress.co/
- [3]: http://reidark.github.io/criando-paginas-no-github/
+ [3]: https://reidark.github.io/criando-paginas-no-github/
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/Captura-de-Tela-2014-04-23-às-20.51.26.png
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/Captura-de-Tela-2014-04-23-às-21.12.44.png
  [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/Captura-de-Tela-2014-04-23-às-21.21.01.png
- [7]: http://daringfireball.net/projects/markdown/syntax
- [8]: http://jekyllrb.com/docs/github-pages/
+ [7]: https://daringfireball.net/projects/markdown/syntax
+ [8]: https://jekyllrb.com/docs/github-pages/
  [9]: https://github.com/reidark/reidark.github.io
  [10]: https://github.com/reidark/reidark.github.io/tree/master/public/css
  [11]: https://windows.github.com/
  [12]: https://mac.github.com/
- [13]: http://tableless.com.br/iniciando-no-git-parte-1/
+ [13]: https://tableless.com.br/iniciando-no-git-parte-1/
  [14]: https://twitter.com/tinypress_co
- [15]: http://reidark.github.io/
+ [15]: https://reidark.github.io/

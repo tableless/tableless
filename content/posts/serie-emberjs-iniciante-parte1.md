@@ -26,7 +26,7 @@ Primeiramente, vá até o site do nosso querido framework Ember (www.emberjs.co
 
 ## 2. Descompactar o Arquivo
 
-Parece óbvio, mas como dito no início, vamos devagar: vá até onde você salvou o arquivo do Ember e descompacte-o. Depois disso, caso prefira, mude o nome da pasta para um nome mais sugestivo. Feito isso abra a pasta e veja seus diretórios e arquivos responsáveis pelo funcionamento do framework. Não vou me ater a isso aqui pois você pode encontrar detalhes <a title="Ember JS ... Do Zero!" href="http://emberjs.com.br/blog/?p=14" target="_blank">aqui neste post</a>.
+Parece óbvio, mas como dito no início, vamos devagar: vá até onde você salvou o arquivo do Ember e descompacte-o. Depois disso, caso prefira, mude o nome da pasta para um nome mais sugestivo. Feito isso abra a pasta e veja seus diretórios e arquivos responsáveis pelo funcionamento do framework. Não vou me ater a isso aqui pois você pode encontrar detalhes <a title="Ember JS ... Do Zero!" href="https://emberjs.com.br/blog/?p=14" target="_blank">aqui neste post</a>.
 
 ## 3. Abrindo os arquivos!
 
@@ -57,7 +57,7 @@ Note que temos 2 rotas mapeadas: uma chamada **index** e outra **hello.** A co
 
 ## 6. Criar os templates
 
-Agora que temos as rotas devidamente criadas e configuradas, podemos criar no arquivo **index.html** os nossos templates. Aqui vale lembrar que você verá um monte de coisas entre tags <script>, certo? Pois bem. O Ember utiliza como engine de template padrão o <a title="Handlebars" href="http://handlebarsjs.com" target="_blank">Handlebars</a>, e então essas tags são necessárias para que tudo rode nos conformes!
+Agora que temos as rotas devidamente criadas e configuradas, podemos criar no arquivo **index.html** os nossos templates. Aqui vale lembrar que você verá um monte de coisas entre tags <script>, certo? Pois bem. O Ember utiliza como engine de template padrão o <a title="Handlebars" href="https://handlebarsjs.com" target="_blank">Handlebars</a>, e então essas tags são necessárias para que tudo rode nos conformes!
 
 Pode apagar tudo (ou quase tudo). Tenha atenção na chamada dos scripts, pois há uma ordem devido as suas dependências. Jquery vem primeiro, depois Handlebars e por fim o EmberJS. Daí sim, você pode chamar seu app.js (aquele que estava mexendo até agorinha, não esqueceu né?!).
 
@@ -78,6 +78,6 @@ Adicione algum conteúdo dentro do template, como por exemplo o tão clichê &#8
 
 Bem, por fim criamos os 2 templates que queríamos e a aplicação já pode ser vista, no navegador!
 
-Sua URL será algo parecido com isso: **http://localdasuaaplicacao/#bem-vindo** e **http://localdasuaaplicacao/#index**
+Sua URL será algo parecido com isso: **https://localdasuaaplicacao/#bem-vindo** e **https://localdasuaaplicacao/#index**
 
 Missão cumprida por aqui, bons estudos e até o próximo!

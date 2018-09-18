@@ -7,7 +7,7 @@ url: /portable-firefox/
 tweetbackscheck:
   - 1356363259
 shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/portable-firefox";s:7:"tinyurl";s:26:"http://tinyurl.com/45ygn4o";s:4:"isgd";s:19:"http://is.gd/3LCNOW";}'
+  - 'a:3:{s:9:"permalink";s:40:"https://tableless.com.br/portable-firefox";s:7:"tinyurl";s:26:"https://tinyurl.com/45ygn4o";s:4:"isgd";s:19:"https://is.gd/3LCNOW";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035537
@@ -62,10 +62,10 @@ Coloquei no meu iPod o meu [Portable Firefox][2], com todas as extensões que pr
   
 No site][5] tem um bocado de softwares que podem servir em ocasiões chatas. Você encontra desde][6] até o cliente de FTP [FileZilla][7]. Vale a [visita][5].
 
- [1]: http://getfirefox.com/
- [2]: http://portableapps.com/apps/internet/browsers/portable_firefox
- [3]: http://tableless.com.br/extension-foxmarks
- [4]: http://editplus.com/
- [5]: http://portableapps.com/
- [6]: http://portableapps.com/news/2006-05-01_-_portable_thunderbird_1.5.0.2_released
- [7]: http://portableapps.com/news/2006-04-21_-_portable_filezilla_2.2.22_released
+ [1]: https://getfirefox.com/
+ [2]: https://portableapps.com/apps/internet/browsers/portable_firefox
+ [3]: https://tableless.com.br/extension-foxmarks
+ [4]: https://editplus.com/
+ [5]: https://portableapps.com/
+ [6]: https://portableapps.com/news/2006-05-01_-_portable_thunderbird_1.5.0.2_released
+ [7]: https://portableapps.com/news/2006-04-21_-_portable_filezilla_2.2.22_released

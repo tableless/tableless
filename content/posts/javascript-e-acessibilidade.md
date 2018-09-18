@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356440622
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/javascript-e-acessibilidade";s:7:"tinyurl";s:26:"http://tinyurl.com/42jstn4";s:4:"isgd";s:19:"http://is.gd/Ry9ISe";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/javascript-e-acessibilidade";s:7:"tinyurl";s:26:"https://tinyurl.com/42jstn4";s:4:"isgd";s:19:"https://is.gd/Ry9ISe";}'
 twittercomments:
   - 'a:1:{i:15372882397896704;s:6:"136424";}'
 tweetcount:
@@ -68,6 +68,6 @@ Procurando estabelecer um padrão para acessibilidade e conteúdos dinâmicos fo
 
 O ARIA, por exemplo, pode definir regiões em um site e habilitar o movimento via tab entre essas regiões, ao invés de elemento por elemento. O WAI-ARIA também possibilita definir papéis (roles) para elementos como menu, menuitem, banner, application etc.
 
-Este é um assunto muito rico e ainda pouco explorado. Para mais informações visite a <a href="http://www.w3.org/WAI/PF/aria/" rel="external">especificação do WAI-ARIA no site do W3C</a> e também <a href="http://www.paciellogroup.com/blog/?p=106" rel="external">este tutorial sobre os papéis disponíveis no ARIA</a>.
+Este é um assunto muito rico e ainda pouco explorado. Para mais informações visite a <a href="https://www.w3.org/WAI/PF/aria/" rel="external">especificação do WAI-ARIA no site do W3C</a> e também <a href="https://www.paciellogroup.com/blog/?p=106" rel="external">este tutorial sobre os papéis disponíveis no ARIA</a>.
 
  [1]: /como-tornar-seu-website-acessivel

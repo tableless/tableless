@@ -35,7 +35,7 @@ Pense que interessante seria se essa moda aparecesse nos tempos de IE6, quando t
 
 ## MOTION UI
 
-A moderna forma de atrair o interesse dos usuários de forma leve e dinâmica está em alta. Frameworks te ajudam na missão de implementar mais animação em suas páginas sem fazer com que seu site fique pesado. Visite <a href="http://foundation.zurb.com/apps/docs/#!/motion-ui" target="_blank">Foundation for APPs</a> ou <a href="http://daneden.github.io/animate.css/" target="_blank">Animate.css</a> e veja os efeitos incríveis em ação.
+A moderna forma de atrair o interesse dos usuários de forma leve e dinâmica está em alta. Frameworks te ajudam na missão de implementar mais animação em suas páginas sem fazer com que seu site fique pesado. Visite <a href="https://foundation.zurb.com/apps/docs/#!/motion-ui" target="_blank">Foundation for APPs</a> ou <a href="https://daneden.github.io/animate.css/" target="_blank">Animate.css</a> e veja os efeitos incríveis em ação.
 
 [<img class=" size-full wp-image-48162 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/motion-ui.png" alt="motion-ui" width="730" height="400" />][2]
 
@@ -43,13 +43,13 @@ A moderna forma de atrair o interesse dos usuários de forma leve e dinâmica es
 
 ## RESPONSIVIDADE
 
-A preocupação em se adaptar a todos os dispositivos utilizados pelos usuários hoje em dia está ficando cada vez maior entre as empresas, por isso, para não perder mais tempo, utilize de uma ajudinha amiga como <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>, <a href="http://foundation.zurb.com/" target="_blank">Foundation</a> e o novo <del>porém não menos interessante</del> <a href="http://semantic-ui.com/" target="_blank">Semantic UI</a>. Todos os frameworks são simples e contam com ótimos tutoriais disponíveis no próprio site.
+A preocupação em se adaptar a todos os dispositivos utilizados pelos usuários hoje em dia está ficando cada vez maior entre as empresas, por isso, para não perder mais tempo, utilize de uma ajudinha amiga como <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>, <a href="https://foundation.zurb.com/" target="_blank">Foundation</a> e o novo <del>porém não menos interessante</del> <a href="https://semantic-ui.com/" target="_blank">Semantic UI</a>. Todos os frameworks são simples e contam com ótimos tutoriais disponíveis no próprio site.
 
 [<img class=" size-full wp-image-48163 aligncenter" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/design-responsivo.png" alt="design-responsivo" width="730" height="400" />][4]
 
 ## SINGLE PAGES
 
-Já viu aqueles sites em que você tem todo conteúdo em uma só página? Pois é, as single pages estão entre as tendências web 2015 e com razão. Além de visualmente serem mais agradáveis, são super práticas para usuários que odeiam se perder em milhares de páginas só para achar tal conteúdo que havia se interessado. Essa tecnologia fica ainda mais legal quando aplicada em mobiles! Olha um <a href="http://www.twitch.tv/year/2014" target="_blank">exemplo bem legal aqui</a>.
+Já viu aqueles sites em que você tem todo conteúdo em uma só página? Pois é, as single pages estão entre as tendências web 2015 e com razão. Além de visualmente serem mais agradáveis, são super práticas para usuários que odeiam se perder em milhares de páginas só para achar tal conteúdo que havia se interessado. Essa tecnologia fica ainda mais legal quando aplicada em mobiles! Olha um <a href="https://www.twitch.tv/year/2014" target="_blank">exemplo bem legal aqui</a>.
 
 [<img class="aligncenter size-full wp-image-48164" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/single-page.png" alt="Single Pages" width="730" height="400" />][5]
 
@@ -67,10 +67,10 @@ Junte todas essas armas para montar o site dos sonhos de seu cliente. 🙂
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/flat-design.png
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/motion-ui.png
- [3]: http://tableless.com.br/materialup-uma-colecao-de-conceitos-usando-material-design/
+ [3]: https://tableless.com.br/materialup-uma-colecao-de-conceitos-usando-material-design/
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/design-responsivo.png
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/single-page.png
- [6]: http://sennajs.com/
+ [6]: https://sennajs.com/
  [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/videos.png
- [8]: http://www.dadaabstories.org/
- [9]: http://www.barrelny.com/recap/2012/
+ [8]: https://www.dadaabstories.org/
+ [9]: https://www.barrelny.com/recap/2012/

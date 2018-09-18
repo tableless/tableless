@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356140464
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/desenvolvedor-retrogrado";s:7:"tinyurl";s:26:"http://tinyurl.com/3nv58jk";s:4:"isgd";s:19:"http://is.gd/FxEx9E";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/desenvolvedor-retrogrado";s:7:"tinyurl";s:26:"https://tinyurl.com/3nv58jk";s:4:"isgd";s:19:"https://is.gd/FxEx9E";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037355
@@ -91,5 +91,5 @@ Para esses, temos que desejar boa sorte para mudar de pensamento e estudar melho
 
 Ficar acomodado é muito bom, mas só para você (as vezes nem pra você).
 
- [1]: http://logbr.reflectivesurface.com/2007/06/29/tableless-vs-mundo-real/
- [2]: http://logbr.reflectivesurface.com/2007/06/29/tableless-vs-mundo-real/#comment-3942
+ [1]: https://logbr.reflectivesurface.com/2007/06/29/tableless-vs-mundo-real/
+ [2]: https://logbr.reflectivesurface.com/2007/06/29/tableless-vs-mundo-real/#comment-3942

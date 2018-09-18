@@ -361,5 +361,5 @@ function setaImagem(){
 window.addEventListener("load",setaImagem,false);
 &lt;/script&gt;</pre>
 
- [1]: http://www.devmedia.com.br/criando-slideshow-do-zero-com-jquery-sem-usar-plugins/28297 "Clique para ir ao artigo"
+ [1]: https://www.devmedia.com.br/criando-slideshow-do-zero-com-jquery-sem-usar-plugins/28297 "Clique para ir ao artigo"
  [2]: https://github.com/clovisdasilvaneto/slide-com-javascript-puro "visualizar exemplo pelo github"

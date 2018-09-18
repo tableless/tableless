@@ -7,7 +7,7 @@ url: /microsoft_redesign/
 tweetbackscheck:
   - 1355771313
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/microsoft_redesign";s:7:"tinyurl";s:26:"http://tinyurl.com/3ck6sau";s:4:"isgd";s:19:"http://is.gd/peAcnU";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/microsoft_redesign";s:7:"tinyurl";s:26:"https://tinyurl.com/3ck6sau";s:4:"isgd";s:19:"https://is.gd/peAcnU";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031755
@@ -19,7 +19,7 @@ Tenham a curiosidade de abrir o código fonte. Redesenharam o site e não tivera
               
 Precisa de alguns retoques, mas tá aí.
 
- [1]: http://www.microsoft.com/
- [2]: http://www.guninski.com/browsers.html
- [3]: http://www.microsoft
- [4]: http://tableless.com.br/sites/microsoftnew/
+ [1]: https://www.microsoft.com/
+ [2]: https://www.guninski.com/browsers.html
+ [3]: https://www.microsoft
+ [4]: https://tableless.com.br/sites/microsoftnew/

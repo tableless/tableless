@@ -10,7 +10,7 @@ title = "Uma História Web: A Origem dos Bundlers"
 type = "post"
 
 +++
-Você é um aspirante JavaScript ou está confuso sobre módulos? Já viu vários termos como module loaders e module bundlers e está querendo saber o que é?! Ou você tem escrito JavaScript por um tempo mas não está muito confiante para falar sobre módulos? Ouviu falar sobre [webpack](https://webpack.js.org/), [Browserify](http://browserify.org/), [CommonJS](http://www.commonjs.org/), [AMD](http://www.requirejs.org/docs/whyamd.html) e não entendeu porquê utilizamos essas coisas?
+Você é um aspirante JavaScript ou está confuso sobre módulos? Já viu vários termos como module loaders e module bundlers e está querendo saber o que é?! Ou você tem escrito JavaScript por um tempo mas não está muito confiante para falar sobre módulos? Ouviu falar sobre [webpack](https://webpack.js.org/), [Browserify](https://browserify.org/), [CommonJS](https://www.commonjs.org/), [AMD](https://www.requirejs.org/docs/whyamd.html) e não entendeu porquê utilizamos essas coisas?
 
 Nesse artigo vamos entender qual foi a necessidade dos módulos e o porque do surgimento de tantas ferramentas para trabalhar com eles.
 
@@ -108,7 +108,7 @@ Dado a situação atual, Diêiés recorre novamente ao oráculo web, buscando no
 
 Refletindo sobre isso durante um tempo, Diêiés chegou ao ponto que seria muito legal se ele pudesse adicionar alguma forma de seu próprio arquivo script, disponibilizar a sua própria ordem, ou melhor dizendo, disponibilizar quais são as suas dependências explicitamente.
 
-Para não perdermos o foco da história no meio de um monte de código, você pode dar uma pesquisada rápida sobre [RequireJS](http://requirejs.org/), pois essa é a implementação que mais se aproxima com a ideia de Diêiés nesse momento.
+Para não perdermos o foco da história no meio de um monte de código, você pode dar uma pesquisada rápida sobre [RequireJS](https://requirejs.org/), pois essa é a implementação que mais se aproxima com a ideia de Diêiés nesse momento.
 
 Em resumo, o RequireJS é o que muitos dizem, um Carregador de Módulos. Esse termo é mais conhecido na linha inglesa como **Loader**. Ele implementa uma definição chamada **Asynchronous Module Definition**. **Ele ajuda a carregar módulos de forma assíncrona.**
                                                                                                        <script src="https://gist.github.com/igoroctaviano/ec6f1a4a027fb6a2d47ef3733e5cb041.js"></script>
@@ -117,7 +117,7 @@ Novamente, enquanto ele estava fazendo uso do RequireJS, vivendo alegremente ime
 
 Isso é relevante porque o Node.js incluiu um mecanismo para fazer exatamente o que Diêiés queria fazer: definir módulos que possam ter partes locais e privadas, que possam exportar (**export**) algumas partes públicas e que também podem requisitar (**require**) outros módulos/dependências.
 
-O mecanismo do Node.js surgiu com todo o poder da sintaxe de uma especificação conhecida na época como [CommonJS](http://www.commonjs.org/). Bom, se tornou algo muito popular. _Observe que depois de um tempo, o padrão ECMAScript decide fazer uso de um outro mecanismo e uma nova sintaxe extensível. Isso não importa muito agora, a parte importante é que algumas sintaxes se tornaram populares e é uma boa ideia seguir as que são populares, as que tem grandes chances de serem mantidas pela comunidade._
+O mecanismo do Node.js surgiu com todo o poder da sintaxe de uma especificação conhecida na época como [CommonJS](https://www.commonjs.org/). Bom, se tornou algo muito popular. _Observe que depois de um tempo, o padrão ECMAScript decide fazer uso de um outro mecanismo e uma nova sintaxe extensível. Isso não importa muito agora, a parte importante é que algumas sintaxes se tornaram populares e é uma boa ideia seguir as que são populares, as que tem grandes chances de serem mantidas pela comunidade._
 
 Claro, a sintaxe no Node.js funciona muito bem para Node.js. E enquanto o ECMAScript não tinha padronizado essa sintaxe, o suporte de módulos ainda não estava totalmente disponível em todos os navegadores, e esses sistemas são desenhados com a intenção de ter vários arquivos independentes e você não iria querer servir esses arquivos separadamente.
 
@@ -160,7 +160,7 @@ Observe que não é só isso. O sistema de dependência pode trabalhar com o có
 
 Agora, essa ferramenta do caso de Diêiés é algo que podemos fazer nós mesmos, igual como imaginamos aqui nessa história. Mas seria bem melhor se várias pessoas fazendo ferramentas similares, fizessem elas de uma forma que funcionasse da mesma maneira, ou utilizasse da mesma ferramenta que nós. Assim iriamos poder tratar bibliotecas externas da mesma forma que nós tratamos nosso próprio código, como um contrato, uma interface em comum.
 
-Então, ao invés de construirmos nós mesmos essa ferramenta, você pode utilizar uma já existente. Essas ferramentas são [Browserify](http://browserify.org/), [webpack](https://webpack.js.org/), [Parcel](https://parceljs.org/), etc.
+Então, ao invés de construirmos nós mesmos essa ferramenta, você pode utilizar uma já existente. Essas ferramentas são [Browserify](https://browserify.org/), [webpack](https://webpack.js.org/), [Parcel](https://parceljs.org/), etc.
 
 Algumas dessas ferramentas tem a tendência de tirar vantagem do fato que nós já estamos fazendo todas essas transformações de código, como também esses processos de empacotamento, para então, fornecer outras tarefas! Tarefas como minificar o nosso código (comprimir ele para que fique menor e leve menos tempo para ser carregado). Ou talvez algumas ferramentas são sofisticadas o suficiente que elas podem até evitar a inclusão de arquivos (ou partes de arquivos) cuja não estão sendo realmente utilizados (técnica conhecida como [tree-shaking](https://webpack.js.org/guides/tree-shaking/)). Ou eles também podem processar nossos assets como CSS e imagens. Uma vez que nós concordamos em ter essa ferramenta ou processo como um passo no nosso fluxo de trabalho, bom, por que não fazer uso de tudo isso?!
 
@@ -227,4 +227,4 @@ Ah, só para deixar mais explicito ainda, o webpack, além de ser um bundler tam
 
 O tempo voou em! chegamos no fim!
 
-Espero que tenha pegado alguma coisa desse post, alguma ideia de como tudo isso surgiu, de qual foi a necessidade. Sei que é bem complicado começar um projeto web hoje em dia, tipo [Vue.js](https://vuejs.org/) ou [React](http://react.js/), eles vão exigir essas ferramentas. Ainda bem que alguns geradores de projeto já faz toda a configuração dessas ferramentas para nós. Muitas vezes é complicado entender todo esse ecosistema web, não se sinta só, é complicado mesmo, mas não é difícil, é possível entender e nada melhor do que uma história para começar o aprendizado!
+Espero que tenha pegado alguma coisa desse post, alguma ideia de como tudo isso surgiu, de qual foi a necessidade. Sei que é bem complicado começar um projeto web hoje em dia, tipo [Vue.js](https://vuejs.org/) ou [React](https://react.js/), eles vão exigir essas ferramentas. Ainda bem que alguns geradores de projeto já faz toda a configuração dessas ferramentas para nós. Muitas vezes é complicado entender todo esse ecosistema web, não se sinta só, é complicado mesmo, mas não é difícil, é possível entender e nada melhor do que uma história para começar o aprendizado!

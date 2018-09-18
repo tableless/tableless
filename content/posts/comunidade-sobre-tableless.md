@@ -7,7 +7,7 @@ url: /comunidade-sobre-tableless/
 tweetbackscheck:
   - 1356140275
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/comunidade-sobre-tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3dkrqe6";s:4:"isgd";s:19:"http://is.gd/lsY5EF";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/comunidade-sobre-tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3dkrqe6";s:4:"isgd";s:19:"https://is.gd/lsY5EF";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036697
@@ -28,5 +28,5 @@ Se você quer acompanhar os posts da [Comunidade Tableless][1], [pegue o RSS][2]
 
 [Grupo Comunidade Tableless][1].
 
- [1]: http://tableless.com.br/comunidade-tableless/
- [2]: http://feeds.feedburner.com//comunidadetableless
+ [1]: https://tableless.com.br/comunidade-tableless/
+ [2]: https://feeds.feedburner.com//comunidadetableless

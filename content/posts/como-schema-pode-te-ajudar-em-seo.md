@@ -29,7 +29,7 @@ Neste [vídeo Matt Cutts][1] fala das diferentes formas que o Google faz para in
 Para usar em seu conteúdo basta apenas fazer marcações no código onde passa ao buscador o que é exatamente determinada informação que está sendo exibida. EX: Digamos estamos em uma página de produto, veja como ficará a marcação.
 
 <pre class="lang-html">&lt;!--// Iniciamos o bloco do c&oacute;digo informando qual tag iremos utilizar, neste caso &eacute; a Product--&gt;
-&lt;div itemscope itemtype="http://schema.org/Product"&gt;
+&lt;div itemscope itemtype="https://schema.org/Product"&gt;
 
 &lt;!--// Informamos a URL e o nome do produto--&gt;
 &lt;a itemprop="url" href="www.url-sua-loja-online.com.br"&gt;
@@ -40,28 +40,28 @@ Para usar em seu conteúdo basta apenas fazer marcações no código onde passa 
 &lt;div itemprop="description"&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s&lt;/div&gt;
 
 &lt;!--// J&aacute; mudamos de tag, agora iremos usar a Organization--&gt;
-&lt;div itemprop="brand" itemscope itemtype="http://schema.org/Organization"&gt;
+&lt;div itemprop="brand" itemscope itemtype="https://schema.org/Organization"&gt;
 
 &lt;span itemprop="name"&gt;Samsumg&lt;/span&gt;&lt;/div&gt;
 
 &lt;div&gt;Product ID: &lt;span itemprop="productID"&gt;985&lt;/span&gt;&lt;/div&gt;
 
 &lt;!--// Alteramos mais uma vez, desta vez iremos para AggregateRating--&gt;
-&lt;div itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"&gt;
+&lt;div itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating"&gt;
 
 &lt;span itemprop="ratingValue"&gt;80&lt;/span&gt; based on &lt;span itemprop="reviewCount"&gt;125&lt;/span&gt; reviews&lt;/div&gt;
 
 &lt;!--// E finalizamos com Offer e NewCondition--&gt;
-&lt;div itemprop="offers" itemscope itemtype="http://schema.org/Offer"&gt;
+&lt;div itemprop="offers" itemscope itemtype="https://schema.org/Offer"&gt;
 
 &lt;span itemprop="price"&gt;236.63&lt;/span&gt;
 
-&lt;link itemprop="itemCondition" href="http://schema.org/NewCondition" /&gt;New&lt;/div&gt;&lt;/div&gt;
+&lt;link itemprop="itemCondition" href="https://schema.org/NewCondition" /&gt;New&lt;/div&gt;&lt;/div&gt;
 </pre>
 
 Não precisa ser páginas apenas de produtos, mas também um evento, filme ou pessoas. O que importa é que seu código vai ficar semanticamente organizado para quando o buscador chegar e identificar as informações contidas no conteúdo. Veja o exemplo como se fosse uma página falando de um filme.
 
-<pre class="lang-html">&lt;div itemscope itemtype ="http://schema.org/Movie"&gt;
+<pre class="lang-html">&lt;div itemscope itemtype ="https://schema.org/Movie"&gt;
 
   &lt;h1 itemprop="name"&gt;Avatar&lt;/h1&gt;
 
@@ -96,7 +96,7 @@ Outra coisa importante a ser observado. Quando usar schema em suas páginas, os 
 
 Veja neste exemplo como é algo que chama atenção. Use isso ao seu favor!!
 
- [1]: http://www.youtube.com/watch?v=IZF13_4obbQ
- [2]: http://support.google.com/webmasters/bin/answer.py?hl=en&answer=146750&topic=1088474&ctx=topic
- [3]: http://www.google.com/webmasters/tools/richsnippets
- [4]: http://eletrikusbrasiliensis-site.com.br/
+ [1]: https://www.youtube.com/watch?v=IZF13_4obbQ
+ [2]: https://support.google.com/webmasters/bin/answer.py?hl=en&answer=146750&topic=1088474&ctx=topic
+ [3]: https://www.google.com/webmasters/tools/richsnippets
+ [4]: https://eletrikusbrasiliensis-site.com.br/

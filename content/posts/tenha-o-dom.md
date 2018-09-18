@@ -8,7 +8,7 @@ url: /tenha-o-dom/
 tweetbackscheck:
   - 1356390917
 shorturls:
-  - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/tenha-o-dom";s:7:"tinyurl";s:26:"http://tinyurl.com/3qxwvyg";s:4:"isgd";s:19:"http://is.gd/WQ9qEg";}'
+  - 'a:3:{s:9:"permalink";s:35:"https://tableless.com.br/tenha-o-dom";s:7:"tinyurl";s:26:"https://tinyurl.com/3qxwvyg";s:4:"isgd";s:19:"https://is.gd/WQ9qEg";}'
 twittercomments:
   - 'a:29:{i:102724647971340288;s:7:"retweet";i:109638504400683009;s:7:"retweet";i:109638482850349056;s:7:"retweet";i:109572897433059328;s:7:"retweet";i:109414012059525120;s:7:"retweet";i:109318730282045440;s:7:"retweet";i:109317022919303168;s:7:"retweet";i:109306943092428800;s:7:"retweet";i:109304883156500480;s:7:"retweet";i:109304181214552064;s:7:"retweet";i:109304089732595712;s:7:"retweet";i:109303596650209281;s:7:"retweet";i:109303518837489665;s:7:"retweet";i:109303462617026560;s:7:"retweet";i:109303416068653056;s:7:"retweet";i:109303312528060417;s:7:"retweet";i:144248143767277568;s:7:"retweet";i:153015068055973888;s:7:"retweet";i:153091102742822912;s:7:"retweet";i:156541353759748096;s:7:"retweet";i:156490352939905025;s:7:"retweet";i:217744387311009792;s:7:"retweet";i:217686733897207809;s:7:"retweet";i:217667087500455939;s:7:"retweet";i:217653827464212480;s:7:"retweet";i:217653795516198912;s:7:"retweet";i:217653531941945348;s:7:"retweet";i:217650874930053122;s:7:"retweet";i:217649300941975552;s:7:"retweet";}'
 tweetcount:
@@ -89,7 +89,7 @@ Netscape e Microsoft guerreavam com Netscape 2 e IE3.0 lá em 1996 e enquanto a 
     
     <ol start="1">
       <li>
-        <strong>Attachment</strong>: Após finalizar o parse do DOM e a criação de seus nós, os navegadores chamam um método chamado <strong>attach </strong>para começar a renderização. O attach adiciona primeiramente as folhas de estilo a árvore DOM e começa a estilização da página. Um bom exemplo é o uso das propriedades CSS display x visibility: Caso um elemento da árvore DOM tenha uma propriedade display:none, este elemento (e seus nós filhos) não será criado na<em> Render Tree</em>. Ao contrário do uso de visibility:hidden, que vai renderizar o elemento na <span>árvore, porém  ele irá remover (ou adicionar quando visibility:visible) via<strong> Repaint </strong>as cores (ou propriedades) que formam este elemento. Vale lembrar também que este processo de attach é <em>top down</em>, criando sempre inicialmente os nós parent e depois seus descendentes (nós filhos). (<a href="http://tableless.com.br/entendendo-os-reflows-2" title="Entendendo os Reflows">Para saber mais sobre Repaint e Reflows, veja este outro artigo</a>)</li> 
+        <strong>Attachment</strong>: Após finalizar o parse do DOM e a criação de seus nós, os navegadores chamam um método chamado <strong>attach </strong>para começar a renderização. O attach adiciona primeiramente as folhas de estilo a árvore DOM e começa a estilização da página. Um bom exemplo é o uso das propriedades CSS display x visibility: Caso um elemento da árvore DOM tenha uma propriedade display:none, este elemento (e seus nós filhos) não será criado na<em> Render Tree</em>. Ao contrário do uso de visibility:hidden, que vai renderizar o elemento na <span>árvore, porém  ele irá remover (ou adicionar quando visibility:visible) via<strong> Repaint </strong>as cores (ou propriedades) que formam este elemento. Vale lembrar também que este processo de attach é <em>top down</em>, criando sempre inicialmente os nós parent e depois seus descendentes (nós filhos). (<a href="https://tableless.com.br/entendendo-os-reflows-2" title="Entendendo os Reflows">Para saber mais sobre Repaint e Reflows, veja este outro artigo</a>)</li> 
         
         <li>
           <strong>RenderStyle.h</strong>: Durante o processo de attach um método é criado, o <strong>RenderStyle.h</strong> que vai guardar objetos de referência com cada uma das propriedades CSS do documento. O nó criado no DOM é verificado no documento de CSS e caso existam propriedades que incidam naquele elemento, ela é aplicada. Esta propriedade fica salva dentro da <em>Render Tree </em>até que ela seja destruída ou que este valor seja alterado por algum script.
@@ -174,27 +174,27 @@ Netscape e Microsoft guerreavam com Netscape 2 e IE3.0 lá em 1996 e enquanto a 
               
               <ul>
                 <li>
-                  <a href="http://tableless.com.br/entendendo-os-reflows-2">Entendendo os Reflows</a> por Alysson Franklin
+                  <a href="https://tableless.com.br/entendendo-os-reflows-2">Entendendo os Reflows</a> por Alysson Franklin
                 </li>
                 <li>
-                  <a href="http://www.modernizr.com/">Modernizr</a> para suporte HTML5
+                  <a href="https://www.modernizr.com/">Modernizr</a> para suporte HTML5
                 </li>
                 <li>
-                  <a href="http://code.google.com/p/html5shiv/">HTML5shiv</a> para suporte HTML5
+                  <a href="https://code.google.com/p/html5shiv/">HTML5shiv</a> para suporte HTML5
                 </li>
                 <li>
-                  <a href="http://en.wikipedia.org/wiki/Browser_wars">Browser Wars</a> pela Wikipedia
+                  <a href="https://en.wikipedia.org/wiki/Browser_wars">Browser Wars</a> pela Wikipedia
                 </li>
                 <li>
-                  <a href="http://en.wikipedia.org/wiki/ECMAScript">ECMAScript</a> pela Wikipedia
+                  <a href="https://en.wikipedia.org/wiki/ECMAScript">ECMAScript</a> pela Wikipedia
                 </li>
                 <li>
-                  <a href="http://en.wikipedia.org/wiki/JavaScript">Javascript</a> pela Wikipedia
+                  <a href="https://en.wikipedia.org/wiki/JavaScript">Javascript</a> pela Wikipedia
                 </li>
                 <li>
-                  <a href="http://en.wikipedia.org/wiki/JScript">JScript</a> pela Wikipedia
+                  <a href="https://en.wikipedia.org/wiki/JScript">JScript</a> pela Wikipedia
                 </li>
                 <li>
-                  <a href="http://www.w3.org/TR/CSS21/box.html#box-dimensions">CSS Box model</a> pelo W3C
+                  <a href="https://www.w3.org/TR/CSS21/box.html#box-dimensions">CSS Box model</a> pelo W3C
                 </li>
                 <ul>

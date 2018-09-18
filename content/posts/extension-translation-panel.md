@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356462747
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/extension-translation-panel";s:7:"tinyurl";s:26:"http://tinyurl.com/4xmb6v3";s:4:"isgd";s:19:"http://is.gd/7G0qbt";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/extension-translation-panel";s:7:"tinyurl";s:26:"https://tinyurl.com/4xmb6v3";s:4:"isgd";s:19:"https://is.gd/7G0qbt";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034531
@@ -31,7 +31,7 @@ Apertando <kbd>CTRL + Q</kbd>, um painelzinho é aberto no lado esquerdo do seu 
 [Versão da extensão para Firefox 1.5][5].
 
  [1]: https://addons.mozilla.org/extensions/moreinfo.php?id=186&application=firefox
- [2]: http://www.freetranslation.com/
+ [2]: https://www.freetranslation.com/
  [3]: https://addons.mozilla.org/extensions/moreinfo.php?application=firefox&id=186
  [4]: https://addons.mozilla.org/extensions/authorprofiles.php?application=firefox&id=118
- [5]: http://nazodane.hp.infoseek.co.jp/extension/translation/package/translation_1.4.13+.xpi
+ [5]: https://nazodane.hp.infoseek.co.jp/extension/translation/package/translation_1.4.13+.xpi

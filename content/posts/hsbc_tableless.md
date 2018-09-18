@@ -7,7 +7,7 @@ url: /hsbc_tableless/
 tweetbackscheck:
   - 1356261012
 shorturls:
-  - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/hsbc_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3h96bcj";s:4:"isgd";s:19:"http://is.gd/nnEFlg";}'
+  - 'a:3:{s:9:"permalink";s:38:"https://tableless.com.br/hsbc_tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3h96bcj";s:4:"isgd";s:19:"https://is.gd/nnEFlg";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032882
@@ -23,5 +23,5 @@ Claro, o código não está perfeito (existe código perfeito?), há muitas cois
 
   * [HSBC][2]
 
- [1]: http://www.atipico.com.br/
- [2]: http://www.hsbc.com.br/
+ [1]: https://www.atipico.com.br/
+ [2]: https://www.hsbc.com.br/

@@ -84,5 +84,5 @@ Dica: Fique sempre atento a documentação do WordPress! O Codex é a bíblia de
   * [Include Tags][1]
   * [Codex WordPress][2]
 
- [1]: http://codex.wordpress.org/Include_Tags
- [2]: http://codex.wordpress.org/
+ [1]: https://codex.wordpress.org/Include_Tags
+ [2]: https://codex.wordpress.org/

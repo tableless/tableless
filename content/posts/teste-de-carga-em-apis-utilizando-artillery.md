@@ -51,7 +51,7 @@ Neste cara que você colocará todas as informações referentes a sua API, como
 Segue abaixo um exemplo desse arquivo:
 
 <pre class="lang-bash">config:
-  target: '<a class="markup--anchor markup--pre-anchor" href="http://localhost:3000%27" target="_blank" rel="nofollow noopener noopener">http://localhost:3000'</a>
+  target: '<a class="markup--anchor markup--pre-anchor" href="https://localhost:3000%27" target="_blank" rel="nofollow noopener noopener">https://localhost:3000'</a>
   phases:
     - duration: 60
       arrivalRate: 20

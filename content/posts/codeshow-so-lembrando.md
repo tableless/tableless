@@ -7,7 +7,7 @@ url: /codeshow-so-lembrando/
 tweetbackscheck:
   - 1356140230
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/codeshow-so-lembrando";s:7:"tinyurl";s:26:"http://tinyurl.com/3pff9cu";s:4:"isgd";s:19:"http://is.gd/2Hnvjt";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/codeshow-so-lembrando";s:7:"tinyurl";s:26:"https://tinyurl.com/3pff9cu";s:4:"isgd";s:19:"https://is.gd/2Hnvjt";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037290
@@ -23,12 +23,12 @@ Para quem tem dúvidas sobre o evento, [vale dar uma olhada neste FAQ que fizemo
 
 OBS.: [A Visie ainda está precisando de gente][9]! Se você acha que se encaixa em alguma das vagas, por favor, entre em contato!
 
- [1]: http://visie.com.br/codeshow/
- [2]: http://brunotorres.net/
- [3]: http://visie.com.br/cursos/professores.pt
- [4]: http://visie.com.br/
- [5]: http://brunotorres.net/curso-de-acessibilidade-visie-codeshow
- [6]: http://visie.com.br/cursos/acessibilidade.pt
- [7]: http://visie.com.br/cursos/presencial.pt
- [8]: http://visie.com.br/blog/codeshow-perguntas-e-respostas
- [9]: http://visie.com.br/blog/ha-vagas-na-visie
+ [1]: https://visie.com.br/codeshow/
+ [2]: https://brunotorres.net/
+ [3]: https://visie.com.br/cursos/professores.pt
+ [4]: https://visie.com.br/
+ [5]: https://brunotorres.net/curso-de-acessibilidade-visie-codeshow
+ [6]: https://visie.com.br/cursos/acessibilidade.pt
+ [7]: https://visie.com.br/cursos/presencial.pt
+ [8]: https://visie.com.br/blog/codeshow-perguntas-e-respostas
+ [9]: https://visie.com.br/blog/ha-vagas-na-visie

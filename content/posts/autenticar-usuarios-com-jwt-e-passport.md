@@ -280,7 +280,7 @@ module.exports = app;</pre>
 Parabéns! Nós terminamos uma implementação extremamente importante para vários tipos de aplicações, que é o **processo de autenticação**. Graças à JWT, agora nós temos um mecanismo seguro para autenticação de usuários entre cliente e servidor utilizando apenas dados JSON. Antes de lançar a sua aplicação, não esqueça de garantir que ela não é adulterada, arruinando a experiência de utilização. Caso tenha interesse, você pode testar a versão [trial gratuita][5] do Jscrambler que em poucos minutos você já configura sua aplicação na plataforma para aplicar proteção no código-fonte de seus projetos.
 
  [1]: https://jwt.io
- [2]: http://passportjs.org
- [3]: http://jwt.io
- [4]: http://npmjs.com/package/passport-jwt#extracting-the-jwt-from-the-request
- [5]: https://jscrambler.com/account/signup/?ref=http://tableless.com.br/
+ [2]: https://passportjs.org
+ [3]: https://jwt.io
+ [4]: https://npmjs.com/package/passport-jwt#extracting-the-jwt-from-the-request
+ [5]: https://jscrambler.com/account/signup/?ref=https://tableless.com.br/

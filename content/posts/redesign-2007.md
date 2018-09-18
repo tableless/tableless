@@ -7,7 +7,7 @@ url: /redesign-2007/
 tweetbackscheck:
   - 1356048567
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/redesign-2007";s:7:"tinyurl";s:26:"http://tinyurl.com/3hgo548";s:4:"isgd";s:19:"http://is.gd/GdYjqK";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/redesign-2007";s:7:"tinyurl";s:26:"https://tinyurl.com/3hgo548";s:4:"isgd";s:19:"https://is.gd/GdYjqK";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036129
@@ -23,4 +23,4 @@ Ainda há um bocado de coisas para se fazer. Qualquer sugestão é bem vinda. Ac
   
 E 3 Vivas para o WordPress e toda a sua facilidade. 🙂
 
- [1]: http://alistapart.com/articles/redesignrealign
+ [1]: https://alistapart.com/articles/redesignrealign

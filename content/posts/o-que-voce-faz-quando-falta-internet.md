@@ -39,15 +39,15 @@ Agora mesmo, escrevo em meio a uma queda de energia. A Copa já começou. O sol 
 [^1]:    
     Tente traçar um pedaço de bacon após ver um porco ser morto. A experiência será completamente outra.<a href="1" rev="footnote">&#8617;</a>
 
- [1]: http://www.usda.gov/wps/portal/usda/knowyourfarmer?navid=KNOWYOURFARMER
+ [1]: https://www.usda.gov/wps/portal/usda/knowyourfarmer?navid=KNOWYOURFARMER
  [2]: https://www.google.com/goodtoknow/web/101/
- [3]: http://www.amazon.com/Tubes-A-Journey-Center-Internet/dp/0061994952
- [4]: http://toe.prx.org/2013/04/toe-01-the-clouds-part-one/
- [5]: http://toe.prx.org/
+ [3]: https://www.amazon.com/Tubes-A-Journey-Center-Internet/dp/0061994952
+ [4]: https://toe.prx.org/2013/04/toe-01-the-clouds-part-one/
+ [5]: https://toe.prx.org/
  [6]: https://en.wikipedia.org/wiki/Neodymium
- [7]: http://git-scm.com/docs/gittutorial
- [8]: http://goo.gl/eY0oCw
+ [7]: https://git-scm.com/docs/gittutorial
+ [8]: https://goo.gl/eY0oCw
  [9]: https://www.youtube.com/watch?v=u404SLJj7ig
- [10]: http://craphound.com/?p=5198
- [11]: http://buy.indiegamethemovie.com/
- [12]: http://caosordenado.com/bruce-sterling-como-aterrorizar-geeks-na-sxsw/
+ [10]: https://craphound.com/?p=5198
+ [11]: https://buy.indiegamethemovie.com/
+ [12]: https://caosordenado.com/bruce-sterling-como-aterrorizar-geeks-na-sxsw/

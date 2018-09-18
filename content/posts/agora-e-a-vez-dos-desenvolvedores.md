@@ -62,8 +62,8 @@ Os desenvolvedores precisam acordar.
 
 <small>Artigo originalmente publicado em Nov/2009 na revista TI Digital.</small>
 
- [1]: http://tableless.com.br/convencimento-e-educacao-liberdade/ "Convencimento e educação = liberdade"
- [2]: http://tableless.com.br/bem-vindo-a-xangrila-parte-1/ "Bem vindo a Xangri-lá – Parte 1"
- [3]: http://tableless.com.br/categoria/client-side/html-css/html5-client-side/
- [4]: http://tableless.com.br/categoria/client-side/html-css/css3/
- [5]: http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/
+ [1]: https://tableless.com.br/convencimento-e-educacao-liberdade/ "Convencimento e educação = liberdade"
+ [2]: https://tableless.com.br/bem-vindo-a-xangrila-parte-1/ "Bem vindo a Xangri-lá – Parte 1"
+ [3]: https://tableless.com.br/categoria/client-side/html-css/html5-client-side/
+ [4]: https://tableless.com.br/categoria/client-side/html-css/css3/
+ [5]: https://tableless.com.br/browsers-antigos-guerra-contra-o-terror/

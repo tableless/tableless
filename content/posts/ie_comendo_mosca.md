@@ -7,14 +7,14 @@ url: /ie_comendo_mosca/
 enclosure:
   - |
     |
-        http://tableless.com.br/anexo/podcastespecial.mp3
+        https://tableless.com.br/anexo/podcastespecial.mp3
         6661587
         audio/mpeg
         
 tweetbackscheck:
   - 1356171181
 shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/ie_comendo_mosca";s:7:"tinyurl";s:26:"http://tinyurl.com/3l5dupc";s:4:"isgd";s:19:"http://is.gd/uwnGoP";}'
+  - 'a:3:{s:9:"permalink";s:40:"https://tableless.com.br/ie_comendo_mosca";s:7:"tinyurl";s:26:"https://tinyurl.com/3l5dupc";s:4:"isgd";s:19:"https://is.gd/uwnGoP";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032534
@@ -46,11 +46,11 @@ Mais do mesmo
 :   [Parecer do Bruno Torres.][7]
 :   [Mobile Life][8]
 
- [1]: http://spaces.msn.com/members/adremresworb
- [2]: http://www.brunotorres.net/
- [3]: http://elcio.locaweb.com.br/
- [4]: http://www.mobilelife.com.br/
- [5]: http://www.digitalminds.com.br/
- [6]: http://tableless.com.br/anexo/podcastespecial.mp3
- [7]: http://www.brunotorres.net/web/ie-comendo-mosca
- [8]: http://www.mobilelife.com.br/comenta.asp?post=258#com
+ [1]: https://spaces.msn.com/members/adremresworb
+ [2]: https://www.brunotorres.net/
+ [3]: https://elcio.locaweb.com.br/
+ [4]: https://www.mobilelife.com.br/
+ [5]: https://www.digitalminds.com.br/
+ [6]: https://tableless.com.br/anexo/podcastespecial.mp3
+ [7]: https://www.brunotorres.net/web/ie-comendo-mosca
+ [8]: https://www.mobilelife.com.br/comenta.asp?post=258#com

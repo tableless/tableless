@@ -7,7 +7,7 @@ url: /lidando-bem-com-os-bloqueadores-de-pop-up/
 tweetbackscheck:
   - 1356413389
 shorturls:
-  - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/lidando-bem-com-os-bloqueadores-de-pop-up";s:7:"tinyurl";s:26:"http://tinyurl.com/4xov5kp";s:4:"isgd";s:19:"http://is.gd/IeCJhA";}'
+  - 'a:3:{s:9:"permalink";s:65:"https://tableless.com.br/lidando-bem-com-os-bloqueadores-de-pop-up";s:7:"tinyurl";s:26:"https://tinyurl.com/4xov5kp";s:4:"isgd";s:19:"https://is.gd/IeCJhA";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503021473
@@ -38,11 +38,11 @@ Telefonar e escrever para pessoal do sistema de pagamentos, avisando que pop-ups
 
 Entender os fatos básicos. Agora que você já ajudou a tornar a web um lugar melhor, vamos resolver o problema imediato do nosso cliente. Primeiro vamos ver como criar um link de pop-up que seja acessível a quem não quer ou não pode exibir pop-ups. Links para pop-ups geralmente são criados assim:
 
-<pre>&lt;a href="javascript:void(open('http://www.atipico.com.br','nova','width=800,height=600'))"&gt;Atípico&lt;/a&gt;</pre>
+<pre>&lt;a href="javascript:void(open('https://www.atipico.com.br','nova','width=800,height=600'))"&gt;Atípico&lt;/a&gt;</pre>
 
 O problema é que quem não tem javascript em seu navegador ou bloqueou todos os pop-ups não pode acessar o link. Muita gente por aí tem usado assim:
 
-<pre>&lt;a href="http://www.atipico.com.br" onclick="window.open(this.href,'nova','width=800,height=600');return false;"&gt;Atípico&lt;/a&gt;</pre>
+<pre>&lt;a href="https://www.atipico.com.br" onclick="window.open(this.href,'nova','width=800,height=600');return false;"&gt;Atípico&lt;/a&gt;</pre>
 
 Assim, o link passa a ser um link HTML comum. Para quem tem javascript disponível, o evento onclick vai abrir o popup e o **return false** ao final vai cancelar o click, fazendo com que a página seja aberta apenas no pop-up, e não na janela atual. Apesar da beleza e da simplicidade, este código tem dois problemas. O primeiro é que o Internet Explorer 5.0, em algumas situações, não lida muito bem com comandos separados por ponto-e-vírgula em atributos HTML. O segundo, mais sério, é que navegadores como Konqueror e Firefox não interrompem um script ao bloquear um pop-up. Então, se o Konqueror estiver configurado para bloquear todos os pop-ups, o pop-up não vai aparecer, e o **return false** vai ser executado, fazendo com que o link também não seja carregado na janela atual.
 
@@ -52,7 +52,7 @@ Para entender mais de perto a problemática vamos verificar como os navegadores 
 
 <pre>&lt;script&gt;
     alert("passo 1")
-    window.open("http://www.atipico.com.br","nova","width=800,height=600")
+    window.open("https://www.atipico.com.br","nova","width=800,height=600")
     alert("passo 2")
 &lt;/script&gt;
 &lt;script&gt;
@@ -66,7 +66,7 @@ Fazendo o teste com este script você pode notar como os navegadores se comporta
 Vamos manter nosso pop-up automático, e inserir um link para abrir pop-up que poderá ser usado por quem usa bloqueadores (ou mesmo por alguém que tenha fechado o pop-up por engano):
 
 <pre>&lt;script&gt;
-    pagina="http://www.atipico.com.br"
+    pagina="https://www.atipico.com.br"
 
     function abrir(){
         newWindow=window.open(pagina,"nova","width=800,height=600")
@@ -75,7 +75,7 @@ Vamos manter nosso pop-up automático, e inserir um link para abrir pop-up que p
 
     abrir()
 &lt;/script&gt;
-&lt;a href='http://www.atipico.com.br' onclick='return abrir()'&gt;Abrir&lt;/a&gt;</pre>
+&lt;a href='https://www.atipico.com.br' onclick='return abrir()'&gt;Abrir&lt;/a&gt;</pre>
 
 Aqui criamos uma função, abrir, que abre o popup. Em seguida a executamos. Se não houver bloqueadores o pop-up será exibido automaticamente neste passo. Exibimos então um link &#8220;Abrir&#8221; que executa novamente a função quando clicado. Aqui está toda a mágica, o **onclick** do link contém **return abrir()**, ou seja, o evento será tratado de acordo com o retorno da função. O click somente será cancelado se a função retornar false.
 
@@ -88,7 +88,7 @@ Há ainda uma quarta situação, a dos navegadores que não possuem javascript h
 Pra quê um quarto passo? O código anterior já funciona muito bem, resolvendo nosso problema. Bom talvez você seja curioso o suficiente para querer complicar um pouco as coisas. A questão agora é: como exibir conteúdo de acordo com o status do pop-up. Isto é, por exemplo, se não houver bloqueador de pop-up não exibir o link &#8220;Abrir&#8221;, uma vez que o usuário verá o pop-up automaticamente. Pois bem, vamos lá:
 
 <pre>&lt;script&gt;
-    pagina="http://www.atipico.com.br"
+    pagina="https://www.atipico.com.br"
 
     abriu=false
 
@@ -104,7 +104,7 @@ Pra quê um quarto passo? O código anterior já funciona muito bem, resolvendo 
 
 &lt;/script&gt;
 &lt;script&gt;
-if(!abriu)document.write("&lt;a href='http://www.atipico.com.br' onclick='return abrir()'&gt;Abrir&lt;/a&gt;")
+if(!abriu)document.write("&lt;a href='https://www.atipico.com.br' onclick='return abrir()'&gt;Abrir&lt;/a&gt;")
 &lt;/script&gt;</pre>
 
 Agora usamos uma variável, **abriu**, para guardar o status do pop-up. Começamos o script atribuindo false a esta variável. Depois, dentro do if que testa o pop-up, setamos seu valor para true. Se o pop-up for aberto o valor de abriu será true, caso contrário será mantido o false original.
@@ -114,7 +114,7 @@ No segundo bloco script testamos o valor de abriu. Se o pop-up não foi aberto, 
 O script já faz o que propusemos, exibe o link apenas se o pop-up não for aberto automaticamente. Mas agora ele falha em navegadores sem suporte a javascript. Iso é fácil de resolver, basta colocar, depois dos scripts:
 
 <pre>&lt;noscript&gt;
-    &lt;a href="http://www.atipico.com.br"&gt;Abrir&lt;/a&gt;
+    &lt;a href="https://www.atipico.com.br"&gt;Abrir&lt;/a&gt;
 &lt;/noscript&gt;</pre>
 
 ### Palavras finais:
@@ -123,9 +123,9 @@ Como você viu, lidar com bloqueadores de pop-up é tarefa trivial, e você pode
 
 O código nesse artigo foi escrito apenas para estudo. É claro, quando for para valer, você deve escrever código melhor que o meu. Seus links precisam ter um atributo **title** que descreva bem seu destino, e &#8220;Abrir&#8221; não é um bom texto para se colocar em um link. Você sabe também que, neste último exemplo, depois de **if(!abriu)** você pode fazer o que quiser, e também deve saber que não é bom escrever scripts assim, no meio do seu HTML, e que document.write não é uma boa maneira de se exibir conteúdo. Esperamos que estas idéias lhe sejam úteis. Se você desenvolver algo útil com isso [conte pra gente][6].
 
- [1]: http://www.opera.com/ "A melhor experiência de internet"
- [2]: http://www.konqueror.org/ "Konqueror - Web Browser, File Manager - and more!"
- [3]: http://www.mozilla.org/products/firefox/ "Firefox - The Browser, Reloaded"
- [4]: http://gmail.google.com "Email com gosto de Google"
- [5]: http://toolbar.google.com/ "Google Toolbar"
+ [1]: https://www.opera.com/ "A melhor experiência de internet"
+ [2]: https://www.konqueror.org/ "Konqueror - Web Browser, File Manager - and more!"
+ [3]: https://www.mozilla.org/products/firefox/ "Firefox - The Browser, Reloaded"
+ [4]: https://gmail.google.com "Email com gosto de Google"
+ [5]: https://toolbar.google.com/ "Google Toolbar"
  [6]: mailto:elciof+artigopopup@gmail.com "Email para o Elcio"

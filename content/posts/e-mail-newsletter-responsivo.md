@@ -9,7 +9,7 @@ url: /e-mail-newsletter-responsivo/
 tweetbackscheck:
   - 1356383143
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7611";s:7:"tinyurl";s:26:"http://tinyurl.com/bsd5wcu";s:4:"isgd";s:19:"http://is.gd/WI4pk0";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7611";s:7:"tinyurl";s:26:"https://tinyurl.com/bsd5wcu";s:4:"isgd";s:19:"https://is.gd/WI4pk0";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 992364554
@@ -414,12 +414,12 @@ Da mesma forma que acontece com os browsers, a medida que os clientes de e-mail 
   
 &#8211; [Email newsletter mobile responsivo][9]
 
- [1]: http://www.alistapart.com/articles/responsive-web-design/ "Responsive Web Design"
- [2]: http://tableless.com.br/?s=design+responsivo "Design Responsivo no Tableless"
- [3]: http://blog.popupdesign.com.br/design-responsivo-i-o-que-e-e-por-que-usar/ "Design Responsivo 1"
- [4]: http://blog.popupdesign.com.br/design-responsivo-grids-e-texto/ "Design Responsivo 2"
- [5]: http://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/ "Design Responsivo 3"
+ [1]: https://www.alistapart.com/articles/responsive-web-design/ "Responsive Web Design"
+ [2]: https://tableless.com.br/?s=design+responsivo "Design Responsivo no Tableless"
+ [3]: https://blog.popupdesign.com.br/design-responsivo-i-o-que-e-e-por-que-usar/ "Design Responsivo 1"
+ [4]: https://blog.popupdesign.com.br/design-responsivo-grids-e-texto/ "Design Responsivo 2"
+ [5]: https://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/ "Design Responsivo 3"
  [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/12/exemplo_newsletter_responsiva.rar "Exemplo de Newsletter Responsiva"
- [7]: http://www.campaignmonitor.com/guides/mobile/ "Responsive Email Design"
- [8]: http://www.zurb.com/playground/responsive-email-templates "Responsive Email Templates"
- [9]: http://sergiolopes.org/email-newsletter-mobile-responsivo/ "Email Newsletter Mobile Responsivo"
+ [7]: https://www.campaignmonitor.com/guides/mobile/ "Responsive Email Design"
+ [8]: https://www.zurb.com/playground/responsive-email-templates "Responsive Email Templates"
+ [9]: https://sergiolopes.org/email-newsletter-mobile-responsivo/ "Email Newsletter Mobile Responsivo"

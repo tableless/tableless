@@ -19,7 +19,7 @@ tags:
   - Zend Framework
 
 ---
-Neste artigo você verá como utilizar o <a title="PHPUnit - site oficial" href="http://phpunit.de/" target="_blank">PHPUnit</a> para realizar testes com persistência de dados utilizando o <a title="Projeto Doctrine" href="http://www.doctrine-project.org/" target="_blank">Doctrine</a> um <a title="O que é um ORM?" href="http://pt.wikipedia.org/wiki/Mapeamento_objeto-relacional" target="_blank">ORM</a> open-source e como definir configurações avançadas para personalizar sua suíte de testes e gerar relatórios de testes executados bem como cobertura do código de produção.
+Neste artigo você verá como utilizar o <a title="PHPUnit - site oficial" href="https://phpunit.de/" target="_blank">PHPUnit</a> para realizar testes com persistência de dados utilizando o <a title="Projeto Doctrine" href="https://www.doctrine-project.org/" target="_blank">Doctrine</a> um <a title="O que é um ORM?" href="https://pt.wikipedia.org/wiki/Mapeamento_objeto-relacional" target="_blank">ORM</a> open-source e como definir configurações avançadas para personalizar sua suíte de testes e gerar relatórios de testes executados bem como cobertura do código de produção.
 
 ##  Começando
 
@@ -37,7 +37,7 @@ Para começar o projeto crie um arquivo chamado _composer.json_. Nele listaremos
     "zendframework/zend-math": "2.3.*@dev"
  }</pre>
 
-Seguindo as recomendações da <a title="FIG" href="http://www.php-fig.org/" target="_blank">FIG</a>, utilizaremos a <a title="PSR-0" href="http://www.php-fig.org/psr/psr-0/" target="_blank">PSR-0</a> que trata sobre a forma de carregarmento de classes na aplicação que estamos desenvolvendo. Com isso trabalharemos com namespaces e não precisaremos utilizar require ou include nas classes que utilizaremos. Para que o projeto tenha suas classes carregadas conforme a PSR-0 podemos informar isso no arquivo _composer.json_.
+Seguindo as recomendações da <a title="FIG" href="https://www.php-fig.org/" target="_blank">FIG</a>, utilizaremos a <a title="PSR-0" href="https://www.php-fig.org/psr/psr-0/" target="_blank">PSR-0</a> que trata sobre a forma de carregarmento de classes na aplicação que estamos desenvolvendo. Com isso trabalharemos com namespaces e não precisaremos utilizar require ou include nas classes que utilizaremos. Para que o projeto tenha suas classes carregadas conforme a PSR-0 podemos informar isso no arquivo _composer.json_.
 
 <pre class="lang-php"> "autoload" : {
     "psr-0": {
@@ -377,7 +377,7 @@ Podemos definir erros e avisos sendo tratados como exceções.
     bootstrap="bootstrap.php"
 &gt;</pre>
 
-E muitas outras opções. Para conhecer todas as opções de configurações acesse <a title="Visualizar as configurações do PHPUnit" href="http://phpunit.de/manual/3.7/pt_br/appendixes.configuration.html" target="_blank">este link</a>.
+E muitas outras opções. Para conhecer todas as opções de configurações acesse <a title="Visualizar as configurações do PHPUnit" href="https://phpunit.de/manual/3.7/pt_br/appendixes.configuration.html" target="_blank">este link</a>.
 
 Certamente que a configuração a seguir é uma que empolga muitos desenvolvedores, logs e coverage. Com logs e coverage você identifica quais testes passaram, quais tiveram exceções, quais não passaram e o mais legal de tudo, o percentual de cobertura de testes que há em seu código de produção. Basicamente ao rodar um teste unitário, ele cobre uma pequena parte de seu código de produção, habilitando coverage você pode verificar quais linhas estão realmente garantidas por testes e quais você ainda tem de trabalhar mais tempo para garantir um mínimo de cobertura necessário para perfeito funcionamento mas principalmente para garantia de evolução de seu software.
 
@@ -538,5 +538,5 @@ Agora que você já configurou o Doctrine, já conhece como criar testes unitár
 
 Para baixar o código-fonte gerado neste artigo acesse este link do <a title="Baixar o código-fonte" href="https://github.com/andrebian/tdd-persistencia-de-dados" target="_blank">Github</a>.
 
- [1]: http://tableless.com.br/phpunit-como-iniciar-sem-dores/ "PHPUnit, como iniciar sem dores"
- [2]: http://tableless.com.br/tdd-por-que-usar/ "TDD, por que usar?"
+ [1]: https://tableless.com.br/phpunit-como-iniciar-sem-dores/ "PHPUnit, como iniciar sem dores"
+ [2]: https://tableless.com.br/tdd-por-que-usar/ "TDD, por que usar?"

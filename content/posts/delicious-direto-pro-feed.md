@@ -7,7 +7,7 @@ url: /delicious-direto-pro-feed/
 tweetbackscheck:
   - 1356003445
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/delicious-direto-pro-feed";s:7:"tinyurl";s:26:"http://tinyurl.com/44hdbza";s:4:"isgd";s:19:"http://is.gd/wOk3Rn";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/delicious-direto-pro-feed";s:7:"tinyurl";s:26:"https://tinyurl.com/44hdbza";s:4:"isgd";s:19:"https://is.gd/wOk3Rn";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034832
@@ -21,5 +21,5 @@ Tudo isso graças ao [FeedBurner][2], que permite colocar funcionalidades incriv
 
 Se alguém quiser dar uma lida em assuntos interessantes sobre Padrões Web, Desenvolvimento Web e etc, pode visitar diretamente o [del.icio.us do tableless.com.br][1].
 
- [1]: http://del.icio.us/tableless "Favoritos do Tableless"
- [2]: http://www.feedburner.com/
+ [1]: https://del.icio.us/tableless "Favoritos do Tableless"
+ [2]: https://www.feedburner.com/

@@ -13,7 +13,7 @@ tags:
   - html5
 
 ---
-O <a href="http://www.turnjs.com/" target="_blank">Turn.js</a> é uma biblioteca JavaScript que faz o conteúdo parecer um livro ou revista de verdade, usando as vantagens do HTML5.
+O <a href="https://www.turnjs.com/" target="_blank">Turn.js</a> é uma biblioteca JavaScript que faz o conteúdo parecer um livro ou revista de verdade, usando as vantagens do HTML5.
 
 É uma biblioteca baseada no jQuery, versão 1.7 ou superior, então é um requerimento básico.
   
@@ -26,7 +26,7 @@ Temos o suporte para os navegadores:
 
 ## Na prática
 
-Como exemplo, vamos usar como base a história criada por  <a href="http://adagadegelo.deviantart.com/art/A-Historia-Nao-Contada-Da-Estrela-Azul-572943339" target="_blank">Rodrigo Martins</a>, que tranformou em quadrinhos o meme da internet &#8220;Já acabou, Jéssica&#8221;.
+Como exemplo, vamos usar como base a história criada por  <a href="https://adagadegelo.deviantart.com/art/A-Historia-Nao-Contada-Da-Estrela-Azul-572943339" target="_blank">Rodrigo Martins</a>, que tranformou em quadrinhos o meme da internet &#8220;Já acabou, Jéssica&#8221;.
 
 Vamos utilizar _divs_ para criar as páginas do livro:
 
@@ -107,10 +107,10 @@ E por fim, só é preciso colocar 5 linhas de JavaScript:
 
 E pronto: basta abrir o navegador e ser feliz. 🙂
 
-Quem quiser ver o resultado basta <a href="http://codepen.io/anon/pen/Vezozz" target="_blank">clicar aqui</a>. [Link atualizado]
+Quem quiser ver o resultado basta <a href="https://codepen.io/anon/pen/Vezozz" target="_blank">clicar aqui</a>. [Link atualizado]
 
 Acesse:
   
-<a href="http://turnjs.com/" target="_blank">Website do Turn.js</a>
+<a href="https://turnjs.com/" target="_blank">Website do Turn.js</a>
   
 <a href="https://github.com/blasten/turn.js" target="_blank">Github do Turn.js</a>

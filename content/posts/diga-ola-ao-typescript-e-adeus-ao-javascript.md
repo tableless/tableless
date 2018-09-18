@@ -54,7 +54,7 @@ Este código feioso aí em cima é 100% javascript compreensível em qualquer na
 
 ## Testando o TypeScript
 
-Abra uma nova aba no seu browser e acesse: <http://www.typescriptlang.org/Playground>. O Playground é um pequeno editor TypeScript que, além de checar possíveis erros de sintaxe, também compila automaticamente o código para Javascript, no qual você pode testá-lo. Não omita o Playground no seu aprendizado, ele pode te ajudar muito, como na figura a seguir.
+Abra uma nova aba no seu browser e acesse: <https://www.typescriptlang.org/Playground>. O Playground é um pequeno editor TypeScript que, além de checar possíveis erros de sintaxe, também compila automaticamente o código para Javascript, no qual você pode testá-lo. Não omita o Playground no seu aprendizado, ele pode te ajudar muito, como na figura a seguir.
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/12/ts01.png" alt="ts01" width="856" height="277" class="alignleft size-full wp-image-52433" />
 

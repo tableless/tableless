@@ -7,7 +7,7 @@ url: /me_copiaram/
 tweetbackscheck:
   - 1356286792
 shorturls:
-  - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/me_copiaram";s:7:"tinyurl";s:26:"http://tinyurl.com/3jrgmsq";s:4:"isgd";s:19:"http://is.gd/HQuHOM";}'
+  - 'a:3:{s:9:"permalink";s:35:"https://tableless.com.br/me_copiaram";s:7:"tinyurl";s:26:"https://tinyurl.com/3jrgmsq";s:4:"isgd";s:19:"https://is.gd/HQuHOM";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032035
@@ -31,7 +31,7 @@ Artigo copiado:
               
 [Porque escrever um XHTML válido?][4]
 
- [1]: http://www.portalfiremasters.com.br/index.php?area=arquivos&action=view&a=2366
- [2]: http://www.portalfiremasters.com.br/
- [3]: http://www.usabilidoido.com.br/me_plagiaram_descaradamente.html
- [4]: http://tableless.com.br/artigos/xhtml.asp
+ [1]: https://www.portalfiremasters.com.br/index.php?area=arquivos&action=view&a=2366
+ [2]: https://www.portalfiremasters.com.br/
+ [3]: https://www.usabilidoido.com.br/me_plagiaram_descaradamente.html
+ [4]: https://tableless.com.br/artigos/xhtml.asp

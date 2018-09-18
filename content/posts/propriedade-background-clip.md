@@ -9,7 +9,7 @@ tweetbackscheck:
   - 1356443205
 dsq_thread_id: 525035568
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/propriedade-background-clip/";s:7:"tinyurl";s:26:"http://tinyurl.com/772snvm";s:4:"isgd";s:19:"http://is.gd/bKWwhc";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/propriedade-background-clip/";s:7:"tinyurl";s:26:"https://tinyurl.com/772snvm";s:4:"isgd";s:19:"https://is.gd/bKWwhc";}'
 twittercomments:
   - 'a:15:{i:154172494906003456;s:7:"retweet";i:154195363039952896;s:7:"retweet";i:154177824259964929;s:7:"retweet";i:154177745398673408;s:7:"retweet";i:154177218552135680;s:7:"retweet";i:154173734192812032;s:7:"retweet";i:154173122260635648;s:7:"retweet";i:154173088337108993;s:7:"retweet";i:154172257743273984;s:7:"retweet";i:154171996534620160;s:7:"retweet";i:154171699632414720;s:7:"retweet";i:157976183714230272;s:7:"retweet";i:157775068523544576;s:7:"retweet";i:169914962419003392;s:7:"retweet";i:169914879979962368;s:7:"retweet";}'
 tweetcount:
@@ -33,6 +33,6 @@ O background-clip tem 4 valores: border-box, content-box, padding-box e text. O 
 
 [Aqui tem a documentação oficial.][3]
 
- [1]: http://www.webkit.org/blog/164/background-clip-text/
- [2]: http://tableless.github.com/exemplos/background-clip/
- [3]: http://www.w3.org/TR/css3-background/#the-background-clip
+ [1]: https://www.webkit.org/blog/164/background-clip-text/
+ [2]: https://tableless.github.com/exemplos/background-clip/
+ [3]: https://www.w3.org/TR/css3-background/#the-background-clip

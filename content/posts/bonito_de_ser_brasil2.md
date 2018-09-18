@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356405072
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/bonito_de_ser_brasil2";s:7:"tinyurl";s:26:"http://tinyurl.com/3brv5vy";s:4:"isgd";s:19:"http://is.gd/5xKxNt";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/bonito_de_ser_brasil2";s:7:"tinyurl";s:26:"https://tinyurl.com/3brv5vy";s:4:"isgd";s:19:"https://is.gd/5xKxNt";}'
 twittercomments:
   - 'a:1:{i:10093864819888129;s:7:"retweet";}'
 tweetcount:
@@ -23,8 +23,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://ah.com.br/>
-  2. <http://www.azevedosette.com.br/>
-  3. <http://www.nutrinet.com.br/>
-  4. <http://www.nerdhost.com.br/>
-  5. <http://www.expedicaoparana.com/dinamico/>
+  1. <https://ah.com.br/>
+  2. <https://www.azevedosette.com.br/>
+  3. <https://www.nutrinet.com.br/>
+  4. <https://www.nerdhost.com.br/>
+  5. <https://www.expedicaoparana.com/dinamico/>

@@ -10,14 +10,14 @@ url: /drops-9-preprocessadores-frameworks-e-bibliotecas/
 enclosure:
   - |
     |
-        http://tableless.com.br/podcast/drops9-frameworks-bibliotecas-preprocessadores.mp3
+        https://tableless.com.br/podcast/drops9-frameworks-bibliotecas-preprocessadores.mp3
         2375680
         audio/mpeg
         
 tweetbackscheck:
   - 1356468824
 shorturls:
-  - 'a:3:{s:9:"permalink";s:74:"http://tableless.com.br/drops-9-preprocessadores-frameworks-e-bibliotecas/";s:7:"tinyurl";s:26:"http://tinyurl.com/6n5yhoq";s:4:"isgd";s:19:"http://is.gd/SLJpqw";}'
+  - 'a:3:{s:9:"permalink";s:74:"https://tableless.com.br/drops-9-preprocessadores-frameworks-e-bibliotecas/";s:7:"tinyurl";s:26:"https://tinyurl.com/6n5yhoq";s:4:"isgd";s:19:"https://is.gd/SLJpqw";}'
 twittercomments:
   - 'a:3:{i:207988086628560897;s:7:"retweet";i:231385198867136512;s:7:"retweet";i:231383411456086016;s:7:"retweet";}'
 tweetcount:
@@ -44,4 +44,4 @@ Uma continuação do post que escrevi sobre o assunto e a primeira parte de uma 
 
 [Arquivo Mp3][1].
 
- [1]: http://tableless.com.br/podcast/drops9-frameworks-bibliotecas-preprocessadores.mp3
+ [1]: https://tableless.com.br/podcast/drops9-frameworks-bibliotecas-preprocessadores.mp3

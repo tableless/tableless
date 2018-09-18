@@ -14,7 +14,7 @@ Os designers hoje tem como pauta principal pra discutir a profissão o “sobrin
 
 Muitas pessoas sabem que os designers são pessoas descoladas, estilosas, que sabem desenhar “direitinho” ou que trabalham muitas vezes em um ambiente descontraído. Mas que tal tentar mostrar ao mundo que por trás daquela embalagem bonita, daquele banner bonito, daquela cadeira confortável ou daquele site super maneiro tem um designer que passou horas, dias e/ou meses trabalhando naquele projeto para chegar a uma solução?
 
-Os designers precisam deixar de lado essa raiva da Comic Sans (<a title="História da Comic Sans" href="http://chocoladesign.com/comic-sans-por-que" target="_blank">Conheça melhor a história da fonte mais marginalizada do design</a>) e começar a pensar no maior inimigo do reconhecimento que tanto procuram. O próprio designer. Designers quando vêem um projeto de outro designer criticam de forma pessoal e não profissional a arte, muitas vezes parecendo aquele cliente chato que pede pra fazer mil alterações sem sentido.
+Os designers precisam deixar de lado essa raiva da Comic Sans (<a title="História da Comic Sans" href="https://chocoladesign.com/comic-sans-por-que" target="_blank">Conheça melhor a história da fonte mais marginalizada do design</a>) e começar a pensar no maior inimigo do reconhecimento que tanto procuram. O próprio designer. Designers quando vêem um projeto de outro designer criticam de forma pessoal e não profissional a arte, muitas vezes parecendo aquele cliente chato que pede pra fazer mil alterações sem sentido.
 
 Por isso resolvi desenvolver 10 dicas para um designer se respeitar e respeitar a classe:
 

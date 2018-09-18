@@ -7,7 +7,7 @@ url: /traducao-dos-artigos-do-a-list-apart/
 tweetbackscheck:
   - 1356453506
 shorturls:
-  - 'a:3:{s:9:"permalink";s:60:"http://tableless.com.br/traducao-dos-artigos-do-a-list-apart";s:7:"tinyurl";s:26:"http://tinyurl.com/3o2j7j3";s:4:"isgd";s:19:"http://is.gd/ukfbox";}'
+  - 'a:3:{s:9:"permalink";s:60:"https://tableless.com.br/traducao-dos-artigos-do-a-list-apart";s:7:"tinyurl";s:26:"https://tinyurl.com/3o2j7j3";s:4:"isgd";s:19:"https://is.gd/ukfbox";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034750
@@ -27,6 +27,6 @@ Se alguém quiser ajudar o Luciano, será uma ótima idéia também. Se voluntar
 
 Eu estava com uma idéia parecida, mas iria por em prática apenas mais para frente. Iria pedir a ajuda de alguns voluntários (escolhidos a dedo) para fazer traduções de artigos de sites gringos, como o ALA, Molly.com, W3C, e todos os outros que todos já conhecem. Vamos ver se não rola mais para frente&#8230; Alguém se voluntaria? 🙂
 
- [1]: http://alabrasil.blogspot.com/
- [2]: http://www.alistapart.com/
- [3]: http://alabrasil.blogspot.com/atom.xml
+ [1]: https://alabrasil.blogspot.com/
+ [2]: https://www.alistapart.com/
+ [3]: https://alabrasil.blogspot.com/atom.xml

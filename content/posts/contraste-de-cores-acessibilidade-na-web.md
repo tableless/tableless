@@ -253,9 +253,9 @@ Com esse valor guardado no cookie o passo 3 vai funcionar perfeitamente, setando
 Veja o projeto completo no [codepen][6] e no [github][7].
 
  [1]: https://validator.w3.org/
- [2]: http://www.acessibilidade.gov.pt/accessmonitor/
+ [2]: https://www.acessibilidade.gov.pt/accessmonitor/
  [3]: https://jigsaw.w3.org/css-validator/
  [4]: https://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/
  [5]: https://www.npmjs.com/package/http-server
- [6]: http://codepen.io/orivelton/pen/XNymQp
+ [6]: https://codepen.io/orivelton/pen/XNymQp
  [7]: https://github.com/orivelton10/contraste-de-cores

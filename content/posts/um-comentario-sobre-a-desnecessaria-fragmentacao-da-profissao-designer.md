@@ -21,7 +21,7 @@ O artigo é esse aqui: [The Unnecessary Fragmentation of Design
 Job](https://m.signalvnoise.com/the-unnecessary-fragmentation-of-design-jobs-d5b9c8621082)
 
 Em conjunto com esse artigo, sugiro que você ouça [o episódio do Podcast
-Movimento UX](http://movimentoux.com/work/felipememoria/), onde o
+Movimento UX](https://movimentoux.com/work/felipememoria/), onde o
 [Felipe](https://medium.com/@memo) conta um pouco sobre o processo que eles
 praticam na Work & Co. Nesse episódio (por volta do **1h09**), o Felipe fala que
 houve um momento que por algum motivo, o mercado quebrou a disciplina do

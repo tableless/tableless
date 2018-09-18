@@ -7,7 +7,7 @@ url: /abril_tableless/
 tweetbackscheck:
   - 1356301780
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/abril_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3ms48ft";s:4:"isgd";s:19:"http://is.gd/GYmJW8";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/abril_tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3ms48ft";s:4:"isgd";s:19:"https://is.gd/GYmJW8";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033167
@@ -25,4 +25,4 @@ Estamos percebendo que as empresas estão interessando&#8230; A pílula vermelha
   
 Welcome to real World, Neo. Ops&#8230; Abril. 😀
 
- [1]: http://www.abril.com.br/
+ [1]: https://www.abril.com.br/

@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1355581295
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/bonito_de_se_ver15";s:7:"tinyurl";s:26:"http://tinyurl.com/3aw4uff";s:4:"isgd";s:19:"http://is.gd/9qObUu";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/bonito_de_se_ver15";s:7:"tinyurl";s:26:"https://tinyurl.com/3aw4uff";s:4:"isgd";s:19:"https://is.gd/9qObUu";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033686
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.hotelplichta.sk/>
-  2. <http://www.marklea.net/>
-  3. <http://www.richarddavies.us/>
-  4. <http://skolazivota.czechline.cz/>
-  5. <http://www.smolaahrusky.sk/>
+  1. <https://www.hotelplichta.sk/>
+  2. <https://www.marklea.net/>
+  3. <https://www.richarddavies.us/>
+  4. <https://skolazivota.czechline.cz/>
+  5. <https://www.smolaahrusky.sk/>

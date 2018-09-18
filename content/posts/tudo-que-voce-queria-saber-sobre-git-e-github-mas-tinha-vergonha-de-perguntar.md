@@ -31,7 +31,7 @@ O <a href="https://github.com/" target="_blank">Github</a> é um serviço web qu
 
 ## Instalando git
 
-O git é um programa que pode ser instalado <a href="http://git-scm.com/download/win" target="_blank">neste link</a> para Windows, <a href="http://git-scm.com/download/mac" target="_blank">neste</a> para Mac, ou então através do comando `sudo apt-get install git` para plataformas Linux/Debian, como o Ubuntu. Se você usa uma VM na nuvem, como o <a href="http://c9.io" target="_blank">cloud9</a> ou <a href="https://koding.com/" target="_blank">koding</a>, o git já estará disponível em sua linha de comando.
+O git é um programa que pode ser instalado <a href="https://git-scm.com/download/win" target="_blank">neste link</a> para Windows, <a href="https://git-scm.com/download/mac" target="_blank">neste</a> para Mac, ou então através do comando `sudo apt-get install git` para plataformas Linux/Debian, como o Ubuntu. Se você usa uma VM na nuvem, como o <a href="https://c9.io" target="_blank">cloud9</a> ou <a href="https://koding.com/" target="_blank">koding</a>, o git já estará disponível em sua linha de comando.
 
 > Nossa metodologia é fazer com que você aprenda git já utilizando o github, então vamos a sua configuração!
 
@@ -51,7 +51,7 @@ Temos muitas informações nesta tela, pois ela é a tela principal do seu proje
 
 ## Configurando o git
 
-Existem 2 pequenos passos para configurar o seu GIT para ter um acesso mais simplificado ao github. Aqui estaremos estabelecendo que, sempre que necessitar, você irá fornecer o seu login e senha ao GitHub. Existem meios para salvar a senha em local seguro, mas vamos pular esta etapa. Para abrir um terminal GIT no Windows, basta criar uma pasta no seu sistema e, nela, clicar com o botão direito do mouse e escolher `Git Bash Here`. Em sistemas mac/linux você já está acostumado a usar o terminal/console, o git estará lá disponível. Neste artigo estaremos utilizando a máquina virtual cloud9, que você pode aprender a usá-la neste <a href="http://tableless.com.br/programando-na-nuvem-com-o-cloud9/" target="_blank">artigo</a>.
+Existem 2 pequenos passos para configurar o seu GIT para ter um acesso mais simplificado ao github. Aqui estaremos estabelecendo que, sempre que necessitar, você irá fornecer o seu login e senha ao GitHub. Existem meios para salvar a senha em local seguro, mas vamos pular esta etapa. Para abrir um terminal GIT no Windows, basta criar uma pasta no seu sistema e, nela, clicar com o botão direito do mouse e escolher `Git Bash Here`. Em sistemas mac/linux você já está acostumado a usar o terminal/console, o git estará lá disponível. Neste artigo estaremos utilizando a máquina virtual cloud9, que você pode aprender a usá-la neste <a href="https://tableless.com.br/programando-na-nuvem-com-o-cloud9/" target="_blank">artigo</a>.
 
 Então, com o seu terminal git aberto, vamos digitar:
 
@@ -278,8 +278,8 @@ O github possui uma ferramenta gráfica para exibir os branches e merges do seu 
 
 Você pode ler mais sobre git e entender mais sobre controles de versão, nesses artigos do Tableless:
 
-* <a href="http://tableless.com.br/alguns-comandos-git/" target="_blank">Comandos Iniciais do Git</a> 
-* <a href="http://tableless.com.br/slides-devs-10-git/" target="_blank">Apresentações sobre GIT</a> 
-* <a href="http://tableless.com.br/iniciando-no-git-parte-1/" target="_blank">Iniciando com GIT &#8211; Parte 1</a> 
-* <a href="http://tableless.com.br/iniciando-no-git-parte-2/" target="_blank">Iniciando com GIT &#8211; Parte 2</a> 
-* <a href="http://tableless.com.br/git-com-interface-grafica/" target="_blank">Git com Interface Gráfica</a>
+* <a href="https://tableless.com.br/alguns-comandos-git/" target="_blank">Comandos Iniciais do Git</a> 
+* <a href="https://tableless.com.br/slides-devs-10-git/" target="_blank">Apresentações sobre GIT</a> 
+* <a href="https://tableless.com.br/iniciando-no-git-parte-1/" target="_blank">Iniciando com GIT &#8211; Parte 1</a> 
+* <a href="https://tableless.com.br/iniciando-no-git-parte-2/" target="_blank">Iniciando com GIT &#8211; Parte 2</a> 
+* <a href="https://tableless.com.br/git-com-interface-grafica/" target="_blank">Git com Interface Gráfica</a>

@@ -8,7 +8,7 @@ url: /drops-2-a-palavra-marcacao-do-html/
 tweetbackscheck:
   - 1356469092
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/drops-2-a-palavra-marcacao-do-html";s:7:"tinyurl";s:26:"http://tinyurl.com/44g8zcf";s:4:"isgd";s:19:"http://is.gd/YMSnoP";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/drops-2-a-palavra-marcacao-do-html";s:7:"tinyurl";s:26:"https://tinyurl.com/44g8zcf";s:4:"isgd";s:19:"https://is.gd/YMSnoP";}'
 twittercomments:
   - 'a:1:{i:157059883454300161;s:7:"retweet";}'
 tweetcount:
@@ -56,7 +56,7 @@ Veja todos os [nossos drops no Soundcloud][1].
 
 Se preferir faça o download do arquivo em [Mp3][2] ou [OGA][3]. Ou [inscreva no iTunes][4].
 
- [1]: http://soundcloud.com/tableless
+ [1]: https://soundcloud.com/tableless
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/drops2-marcacao-html.mp3 "Audio: HTML5 já pode ser usado"
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/01/drops2-marcacao-html.oga "Audio: HTML5 já pode ser usado"
- [4]: http://itunes.apple.com/us/podcast/tableless-desenvolvimento/id73330789 "Drops do Tableless no iTunes."
+ [4]: https://itunes.apple.com/us/podcast/tableless-desenvolvimento/id73330789 "Drops do Tableless no iTunes."

@@ -82,8 +82,8 @@ Foi um dos primeiros artigos sobre gestão ágil aqui no Tableless. Talvez venha
   * [Moving Motivators][4]
   * [Moving Motivators Exercise][5]
 
- [1]: http://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs
- [2]: http://www.noop.nl/2013/02/champfrogs.html
- [3]: http://www.management30.com/uploads/2012/09/04-Moving-Motivators-Letter-v2.00.pdf
- [4]: http://www.management30.com/product/moving-motivators/
- [5]: http://www.noop.nl/2011/09/moving-motivators-free-exercise.html
+ [1]: https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs
+ [2]: https://www.noop.nl/2013/02/champfrogs.html
+ [3]: https://www.management30.com/uploads/2012/09/04-Moving-Motivators-Letter-v2.00.pdf
+ [4]: https://www.management30.com/product/moving-motivators/
+ [5]: https://www.noop.nl/2011/09/moving-motivators-free-exercise.html

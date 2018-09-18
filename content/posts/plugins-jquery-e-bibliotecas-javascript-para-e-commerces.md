@@ -41,7 +41,7 @@ O código-fonte, em CoffeeScript, está disponível no GitHub: [https://github.c
 
 ## accounting.js
 
-[http://josscrowcroft.github.com/accounting.js/][4]
+[https://josscrowcroft.github.com/accounting.js/][4]
 
 Accounting.js é uma biblioteca JavaScript com funções utilitárias para formatar números e valores monetários.
 
@@ -69,7 +69,7 @@ Para padronizar o formato em todas as funções, sem a necessidade de utilizar p
 
 ## Masked Input
 
-[http://digitalbush.com/projects/masked-input-plugin/][5]
+[https://digitalbush.com/projects/masked-input-plugin/][5]
 
 Ainda falando de formatação, temos o plugin MaskedInput, responsável por formatar qualquer _input_ em formulários, garantindo assim uma maior integridade dos dados digitados.
 
@@ -84,7 +84,7 @@ $(".cep").mask("99.999-999");</pre>
 
 ## Ideal Forms
 
-[http://elclanrs.github.com/jq-idealforms/][6]
+[https://elclanrs.github.com/jq-idealforms/][6]
 
 Formulários são uma parte importante de qualquer e-commerce e, geralmente, são a parte mais chata para o usuário: os cadastros tendem a ser tediosos, com campos desnecessários, validações mal-feitas e falta de informações.
 
@@ -114,7 +114,7 @@ A documentação do projeto é bem completa e está disponível no [GitHub][7].
 
 ## Filtrify
 
-[http://luis-almeida.github.com/filtrify/][8]
+[https://luis-almeida.github.com/filtrify/][8]
 
 Filtrify é um plugin jQuery que habilita filtros em tempo real, ideal para páginas de produtos em uma loja online. Basedo no atributo _data_ de elementos HTML, o Filtrify gera uma lista, possibilitando selecionar apenas elementos de um determinado filtro.
 
@@ -143,7 +143,7 @@ E o resultado:
 
 ## jQuery Zoom
 
-[http://www.jacklmoore.com/zoom][9]
+[https://www.jacklmoore.com/zoom][9]
 
 O plugin jQuery Zoom habilita o recurso de zoom em imagens com interações do mouse. A inicialização do plugin cria elementos novos para o efeito de zoom, portanto, deve ser aplicada em um elemento capaz de receber outros elementos (não pode ser aplicada em um elemento img).
 
@@ -156,7 +156,7 @@ As opções do plugin incluem os seguintes parâmetros: _url_ da imagem maior, _
 
 ## Bônus: Carrinho de compras com drag and drop
 
-[http://tableless.com.br/carrinho-de-compras-com-drag-and-drop/][10]
+[https://tableless.com.br/carrinho-de-compras-com-drag-and-drop/][10]
 
 Há mais ou menos dois anos escrevi um tutorial aqui no Tableless mostrando como implementar um carrinho com funções de _drag and drop_. 
 
@@ -167,11 +167,11 @@ Utilizando os métodos _draggable_ e _droppable_ da biblioteca jQueryUI, ao fina
  [1]: https://stripe.com/blog/jquery-payment "https://stripe.com/blog/jquery-payment"
  [2]: https://stripe.com/ "https://stripe.com/"
  [3]: https://github.com/stripe/jquery.payment "https://github.com/stripe/jquery.payment"
- [4]: http://josscrowcroft.github.com/accounting.js/ "http://josscrowcroft.github.com/accounting.js/"
- [5]: http://digitalbush.com/projects/masked-input-plugin/ "http://digitalbush.com/projects/masked-input-plugin/"
- [6]: http://elclanrs.github.com/jq-idealforms/ "http://elclanrs.github.com/jq-idealforms/"
+ [4]: https://josscrowcroft.github.com/accounting.js/ "https://josscrowcroft.github.com/accounting.js/"
+ [5]: https://digitalbush.com/projects/masked-input-plugin/ "https://digitalbush.com/projects/masked-input-plugin/"
+ [6]: https://elclanrs.github.com/jq-idealforms/ "https://elclanrs.github.com/jq-idealforms/"
  [7]: https://github.com/elclanrs/jq-idealforms "https://github.com/elclanrs/jq-idealforms"
- [8]: http://luis-almeida.github.com/filtrify/ "http://luis-almeida.github.com/filtrify/"
- [9]: http://www.jacklmoore.com/zoom "http://www.jacklmoore.com/zoom"
- [10]: http://tableless.com.br/carrinho-de-compras-com-drag-and-drop/ "http://tableless.com.br/carrinho-de-compras-com-drag-and-drop/"
- [11]: http://tableless.github.com/exemplos/carrinho-compras/ "http://tableless.github.com/exemplos/carrinho-compras/"
+ [8]: https://luis-almeida.github.com/filtrify/ "https://luis-almeida.github.com/filtrify/"
+ [9]: https://www.jacklmoore.com/zoom "https://www.jacklmoore.com/zoom"
+ [10]: https://tableless.com.br/carrinho-de-compras-com-drag-and-drop/ "https://tableless.com.br/carrinho-de-compras-com-drag-and-drop/"
+ [11]: https://tableless.github.com/exemplos/carrinho-compras/ "https://tableless.github.com/exemplos/carrinho-compras/"

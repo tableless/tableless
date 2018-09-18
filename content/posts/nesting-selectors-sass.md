@@ -251,8 +251,8 @@ Se você seguir as boas práticas de CSS que já falamos [aqui][2] e [aqui][3] v
 
 Sugiro duas ferramentas interessantes para testar códigos SASS. Um deles é o [SaasMeister][4], que converte código SASS em código CSS normal. E o outro é o [ScssConverter][5], que converte código SASS para SCSS.
 
- [1]: http://thesassway.com/beginner/the-inception-rule
- [2]: http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/ "OOCSS, SMACSS, BEM, DRY CSS: afinal, como escrever CSS?"
- [3]: http://tableless.com.br/6-estrategias-para-melhorar-a-organizacao-do-seu-css-2/ "6 estratégias para melhorar a organização do seu CSS"
- [4]: http://sassmeister.com/
- [5]: http://sasstoscss.com/
+ [1]: https://thesassway.com/beginner/the-inception-rule
+ [2]: https://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/ "OOCSS, SMACSS, BEM, DRY CSS: afinal, como escrever CSS?"
+ [3]: https://tableless.com.br/6-estrategias-para-melhorar-a-organizacao-do-seu-css-2/ "6 estratégias para melhorar a organização do seu CSS"
+ [4]: https://sassmeister.com/
+ [5]: https://sasstoscss.com/

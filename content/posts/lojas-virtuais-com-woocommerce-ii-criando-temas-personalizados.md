@@ -346,9 +346,9 @@ Uma vez que você esteja satisfeito com o visual e as funcionalidades do seu tem
 
 E pronto! Agora é só realizar as configurações básicas, acrescentar produtos e começar a vender. Boa sorte! 🙂
 
- [1]: http://www.woothemes.com/woocommerce/ "WooCommerce"
- [2]: http://codex.wordpress.org/Theme_Development "Wordpress Codex - Theme Development"
- [3]: http://tableless.com.br/lojas-virtuais-com-woocommerce/#.UnLaEJTXQv4 "Lojas virtuais com WooCommerce"
- [4]: http://docs.woothemes.com/document/hooks/ "WooThemes Hooks"
- [5]: http://docs.woothemes.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/ "WooCommerce Snippets"
- [6]: http://tableless.com.br/css-dinamico-com-less/#.UnLuApTXQv4 "Css dinamico com less"
+ [1]: https://www.woothemes.com/woocommerce/ "WooCommerce"
+ [2]: https://codex.wordpress.org/Theme_Development "Wordpress Codex - Theme Development"
+ [3]: https://tableless.com.br/lojas-virtuais-com-woocommerce/#.UnLaEJTXQv4 "Lojas virtuais com WooCommerce"
+ [4]: https://docs.woothemes.com/document/hooks/ "WooThemes Hooks"
+ [5]: https://docs.woothemes.com/documentation/plugins/woocommerce/woocommerce-codex/snippets/ "WooCommerce Snippets"
+ [6]: https://tableless.com.br/css-dinamico-com-less/#.UnLuApTXQv4 "Css dinamico com less"

@@ -7,7 +7,7 @@ url: /internet_explorer_7_reviews/
 tweetbackscheck:
   - 1356329534
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/internet_explorer_7_reviews";s:7:"tinyurl";s:26:"http://tinyurl.com/3w6fmvx";s:4:"isgd";s:19:"http://is.gd/1kzU9Y";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/internet_explorer_7_reviews";s:7:"tinyurl";s:26:"https://tinyurl.com/3w6fmvx";s:4:"isgd";s:19:"https://is.gd/1kzU9Y";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033249
@@ -28,7 +28,7 @@ Em compensação, aqui vão alguns links sobre o Internet Explorer 7.
     Internet Explorer 7 Preview][3]
   * [IE7 Beta 1 and Standards (WaSP)][4]
 
- [1]: http://www.windowsitpro.com/windowspaulthurrott/Article/ArticleID/47208/windowspaulthurrott_47208.html
- [2]: http://blogs.msdn.com/ie/archive/2005/07/29/445242.aspx
- [3]: http://www.winsupersite.com/reviews/ie7_preview_1.asp
- [4]: http://webstandards.org/buzz/archive/2005_07.html#a000541
+ [1]: https://www.windowsitpro.com/windowspaulthurrott/Article/ArticleID/47208/windowspaulthurrott_47208.html
+ [2]: https://blogs.msdn.com/ie/archive/2005/07/29/445242.aspx
+ [3]: https://www.winsupersite.com/reviews/ie7_preview_1.asp
+ [4]: https://webstandards.org/buzz/archive/2005_07.html#a000541

@@ -12,7 +12,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356412993
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/convertidos-de-volta";s:7:"tinyurl";s:26:"http://tinyurl.com/3tu8eru";s:4:"isgd";s:19:"http://is.gd/sY0nSg";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/convertidos-de-volta";s:7:"tinyurl";s:26:"https://tinyurl.com/3tu8eru";s:4:"isgd";s:19:"https://is.gd/sY0nSg";}'
 twittercomments:
   - 'a:1:{i:10054590510669825;s:7:"retweet";}'
 tweetcount:
@@ -40,4 +40,4 @@ Se houver algum desenvolvedor que trabalha nas empresas que citarei daqui pra fr
 
 Você já pode ver o primeiro Convertido: [Convertido &#8211; Menu (Livraria Cultura)][1].
 
- [1]: http://tableless.com.br/convertido-menu-livraria-cultura
+ [1]: https://tableless.com.br/convertido-menu-livraria-cultura

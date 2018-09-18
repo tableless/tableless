@@ -43,9 +43,9 @@ Se você está habituado a utilizar o WordPress provavelmente já digita &#8220;
 
 Para isto vamos precisar editar o arquivo .htaccess. Este arquivo fica geralmente na pasta raíz do seu diretorio do WordPress. Dependendo das configurações do seu servidor ele pode estar oculto. Para modificar a url do seu painel de administração basta inserir esta linha no topo do seu arquivo (substituindo &#8220;seu-site&#8221; pela sua url):
 
-<pre class="lang-php">RewriteRule ^login$ http://seu-site.com.br/wp-login.php [NC,L]</pre>
+<pre class="lang-php">RewriteRule ^login$ https://seu-site.com.br/wp-login.php [NC,L]</pre>
 
-Agora basta acessar http://seu-site.com.br/login para entrar na sua conta WordPress.
+Agora basta acessar https://seu-site.com.br/login para entrar na sua conta WordPress.
 
 ## Acessando o functions.php
 
@@ -162,7 +162,7 @@ Para trocar este texto novamente vamos utilizar o nosso grande amigo functions.p
 
 <pre class="lang-php">// Customizar o Footer do WordPress
 function remove_footer_admin () {
-	echo '© &lt;a href="http://tableless.com.br/"&gt;Tableless&lt;/a&gt; - Desenvolvimento inteligente com padrões web e design';
+	echo '© &lt;a href="https://tableless.com.br/"&gt;Tableless&lt;/a&gt; - Desenvolvimento inteligente com padrões web e design';
 }
 add_filter('admin_footer_text', 'remove_footer_admin');</pre>
 
@@ -241,9 +241,9 @@ As dicas que eu mostrei aqui são só o começo. Dominando bem as classes CSS do
   
 [Smashing Magazine &#8211; Customize WordPress Admin Easily ][6]
 
- [1]: http://tableless.com.br/wordpress-uma-pequena-introducao/#.Uc3zT_bXS5c "WordPress – Uma pequena introdução"
- [2]: http://tableless.com.br/como-se-tornar-um-profissional-top-em-wordpress/#.Uc3zs_bXS5c "http://tableless.com.br/como-se-tornar-um-profissional-top-em-wordpress/#.Uc3zs_bXS5c"
- [3]: http://codex.wordpress.org/Customizing_the_Login_Form "Codex WordPress - Customizing the Login Form"
- [4]: http://codex.wordpress.org/Creating_Admin_Themes "Codex WordPress - Creating Admin Themes"
- [5]: http://wp-snippets.com/ "WP Snippets"
- [6]: http://wp.smashingmagazine.com/2012/05/17/customize-wordpress-admin-easily/ "Customize WordPress Admin Easily"
+ [1]: https://tableless.com.br/wordpress-uma-pequena-introducao/#.Uc3zT_bXS5c "WordPress – Uma pequena introdução"
+ [2]: https://tableless.com.br/como-se-tornar-um-profissional-top-em-wordpress/#.Uc3zs_bXS5c "https://tableless.com.br/como-se-tornar-um-profissional-top-em-wordpress/#.Uc3zs_bXS5c"
+ [3]: https://codex.wordpress.org/Customizing_the_Login_Form "Codex WordPress - Customizing the Login Form"
+ [4]: https://codex.wordpress.org/Creating_Admin_Themes "Codex WordPress - Creating Admin Themes"
+ [5]: https://wp-snippets.com/ "WP Snippets"
+ [6]: https://wp.smashingmagazine.com/2012/05/17/customize-wordpress-admin-easily/ "Customize WordPress Admin Easily"

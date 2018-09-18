@@ -10,7 +10,7 @@ tags:
   - Tecnologia e Tendências
   - Code Fights
   - Code Wars
-image: http://i.stack.imgur.com/j4j1p.png
+image: https://i.stack.imgur.com/j4j1p.png
 ---
 
 Sempre gostei de conhecer e aprender novas linguagens de programação. Porém, a falta de prática sempre acabava me fazendo esquecer os conceitos vistos na linguagem.
@@ -21,7 +21,7 @@ Foi a partir da vontade de praticar que acabei encontrando esses 2 sites que vou
 
 O [Code Fights](https://codefights.com/) é o site que eu mais gosto para poder praticar diversas linguagens de programação. 
 
-![Painel Code Fights](http://i.imgur.com/Uisu6V9.png)
+![Painel Code Fights](https://i.imgur.com/Uisu6V9.png)
 
 O site é bem intuitivo e tem muitas (muitas mesmo) coisas legais. Vou citar as que mais acho interessantes:
 
@@ -45,7 +45,7 @@ Essa parte de desafios segue o mesmo esquema do Code Fights, ou seja, após voc�
 
 O maior ponto positivos do Code Wars é poder escolher várias linguagens **simultaneamente** para participar dos desafios.
 
-![Linguagens Code Wars](http://i.imgur.com/6zDRRor.png)
+![Linguagens Code Wars](https://i.imgur.com/6zDRRor.png)
 
 Já na parte de **gamification** o Code Wars não deixa nada a desejar, ele também tem sistema de ranking e níveis que você vai passando conforme vai conseguindo resolver os diversos desafios.
 

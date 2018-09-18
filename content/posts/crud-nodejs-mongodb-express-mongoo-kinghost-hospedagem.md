@@ -148,7 +148,7 @@ Inicie novamente a app:
 
   
 Acesse o navegador e cadastre um contato.  
-[http://nodejs.kinghost.net/new](http://nodejs.kinghost.net/new&sa=D&ust=1514955708144000&usg=AFQjCNHwTYlG37qUryPKa-SNvPvwPM_Qqg)  
+[https://nodejs.kinghost.net/new](https://nodejs.kinghost.net/new&sa=D&ust=1514955708144000&usg=AFQjCNHwTYlG37qUryPKa-SNvPvwPM_Qqg)  
   
 Após adicionarmos os dados e clicarmos em cadastrar, veja que ocorre erro 404, pois nossa rota retorna o acesso para a raiz. Vamos implementar agora a página inicial onde exibiremos os dados do banco. Criaremos apenas uma rota get:  
 

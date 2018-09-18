@@ -7,7 +7,7 @@ url: /feed-icon/
 tweetbackscheck:
   - 1356404518
 shorturls:
-  - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/feed-icon";s:7:"tinyurl";s:26:"http://tinyurl.com/3n66fpv";s:4:"isgd";s:19:"http://is.gd/DkpO3E";}'
+  - 'a:3:{s:9:"permalink";s:33:"https://tableless.com.br/feed-icon";s:7:"tinyurl";s:26:"https://tinyurl.com/3n66fpv";s:4:"isgd";s:19:"https://is.gd/DkpO3E";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034206
@@ -34,7 +34,7 @@ Bom, temos que fazer nossa parte. Quem tem um site, e usa em algum lugar o ícon
   * [Icons: It’s still orange][3]
   * [The New Standard Feed Icon][4]
 
- [1]: http://feedicons.com/
- [2]: http://weblogs.mozillazine.org/asa/archives/2005/12/firefox_feed_ic.html
- [3]: http://blogs.msdn.com/rssteam/archive/2005/12/14/503778.aspx
- [4]: http://mattbrett.com/archives/2005/12/the-new-standard-feed-icon/
+ [1]: https://feedicons.com/
+ [2]: https://weblogs.mozillazine.org/asa/archives/2005/12/firefox_feed_ic.html
+ [3]: https://blogs.msdn.com/rssteam/archive/2005/12/14/503778.aspx
+ [4]: https://mattbrett.com/archives/2005/12/the-new-standard-feed-icon/

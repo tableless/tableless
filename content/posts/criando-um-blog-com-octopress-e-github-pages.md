@@ -14,13 +14,13 @@ tags:
   - ruby
 
 ---
-Já faz pouco mais de uma semana que venho estudando o Octopress para o desenvolvimento do meu <a title="divecch.com" href="http://divecch.com" target="_blank">blog</a>. Hoje vou mostrar como iniciar seu blog utilizando essa ferramenta e falar um pouco sobre como está sendo a experiência de criar um blog totalmente estático, sem a necessidade de um server-side.
+Já faz pouco mais de uma semana que venho estudando o Octopress para o desenvolvimento do meu <a title="divecch.com" href="https://divecch.com" target="_blank">blog</a>. Hoje vou mostrar como iniciar seu blog utilizando essa ferramenta e falar um pouco sobre como está sendo a experiência de criar um blog totalmente estático, sem a necessidade de um server-side.
 
-O <a title="Octopress Official Page" href="http://octopress.org/" target="_blank">Octopress</a> é um framework criado por <a title="Brandon Mathis Website" href="http://brandonmathis.com/" target="_blank">Brandon Mathis</a> com o <a title="Jekyll Framework" href="http://jekyllrb.com/" target="_blank">Jekyll</a>, que é uma ferramenta Ruby para gerar sites estáticos a partir de templates HTML, CSS, Javascript, arquivos de configurações e markdowns. Também possui algumas tarefas automatizadas com o rake, para criar, novos posts, gerar o conteúdo estático, fazer deploy, etc. Eu nunca havia trabalhado com esse tipo de ferramenta e achei bem interessante essa ideia, porém o Octopress é totalmente voltado pra blogs e nesse pouco tempo de uso já senti algumas limitações, estou começando a cogitar a ideia de criar uma ferramenta dessas pra abranger outros segmentos além de blogs, mas isso é uma história para outro post. Bom, chega de blá, blá, blá e vamos pra prática!
+O <a title="Octopress Official Page" href="https://octopress.org/" target="_blank">Octopress</a> é um framework criado por <a title="Brandon Mathis Website" href="https://brandonmathis.com/" target="_blank">Brandon Mathis</a> com o <a title="Jekyll Framework" href="https://jekyllrb.com/" target="_blank">Jekyll</a>, que é uma ferramenta Ruby para gerar sites estáticos a partir de templates HTML, CSS, Javascript, arquivos de configurações e markdowns. Também possui algumas tarefas automatizadas com o rake, para criar, novos posts, gerar o conteúdo estático, fazer deploy, etc. Eu nunca havia trabalhado com esse tipo de ferramenta e achei bem interessante essa ideia, porém o Octopress é totalmente voltado pra blogs e nesse pouco tempo de uso já senti algumas limitações, estou começando a cogitar a ideia de criar uma ferramenta dessas pra abranger outros segmentos além de blogs, mas isso é uma história para outro post. Bom, chega de blá, blá, blá e vamos pra prática!
 
 ### Como instalar
 
-Antes de começar, certifiquem-se que vocês possuem instalado o **<a title="Ruby" href="https://www.ruby-lang.org/pt/" target="_blank">ruby</a> – versão > 1.9.3** e <a title="Git" href="http://git-scm.com/" target="_blank"><strong>git</strong></a>.
+Antes de começar, certifiquem-se que vocês possuem instalado o **<a title="Ruby" href="https://www.ruby-lang.org/pt/" target="_blank">ruby</a> – versão > 1.9.3** e <a title="Git" href="https://git-scm.com/" target="_blank"><strong>git</strong></a>.
 
 Agora basta fazer clone do repositório do Octopress e adicionar o nome do blog no final do comando. No nosso exemplo vamos utilizar “blog-zueiro”:
 
@@ -45,7 +45,7 @@ Para visualizar nosso blog localmente, basta executar:
 rake preview    # inicia um servidor local na porta 4000
 </code></pre>
 
-aeee, agora podemos visualizar nosso “blog-zueiro” acessando <http://localhost:4000>.
+aeee, agora podemos visualizar nosso “blog-zueiro” acessando <https://localhost:4000>.
 
 ### Configurações básicas:
 
@@ -125,7 +125,7 @@ authors: Zeh Zueiro
 Cheguei na net e to afim de zueira, meu primeiro post é sobre...
 </code></pre>
 
-**dica:** existem vários editores de arquivos markdown que facilita na hora de inserir links, imagens, etc. Teve dois que eu utilizei e gostei bastante que é o <https://stackedit.io> e o [http://mouapp.com][1]
+**dica:** existem vários editores de arquivos markdown que facilita na hora de inserir links, imagens, etc. Teve dois que eu utilizei e gostei bastante que é o <https://stackedit.io> e o [https://mouapp.com][1]
 
 ### Deploy para o GithubPages
 
@@ -141,7 +141,7 @@ Volte novamente pro terminal e execute:
 
 <pre><code class="sh">rake setup_github_pages</code></pre>
 
-Nesse momento ele vai pedir pra você inserir o repositório do github, o que a gente criou agora pouco: <http://github.com/joseh/joseh.github.io.git>
+Nesse momento ele vai pedir pra você inserir o repositório do github, o que a gente criou agora pouco: <https://github.com/joseh/joseh.github.io.git>
 
 e em seguida:
 
@@ -238,7 +238,7 @@ O código html você coloca onde for exibir os comentários, no meu caso coloque
 
 ### Customizar layout
 
-O Octopress utiliza o pré-processador de css SaSS nos seus templates, esse está sendo meu primeiro contato com pré processadores e realmente traz muitas facilidades, quem quiser ficar por dentro de como o SaSS funciona, acesse: <http://sass-lang.com/.> Toda customização do layout pode ser feita através dos arquivos .scss que ficam na pasta /sass.
+O Octopress utiliza o pré-processador de css SaSS nos seus templates, esse está sendo meu primeiro contato com pré processadores e realmente traz muitas facilidades, quem quiser ficar por dentro de como o SaSS funciona, acesse: <https://sass-lang.com/.> Toda customização do layout pode ser feita através dos arquivos .scss que ficam na pasta /sass.
 
 ### Criando novas páginas
 
@@ -275,5 +275,5 @@ Gostaria também de agradecer o grande Diego Eis pelo espaço e pela iniciativa 
 
 vlw !!!
 
- [1]: http://mouapp.com/
+ [1]: https://mouapp.com/
  [2]: https://lh5.googleusercontent.com/7oygYA9JHZZUrF9NHv0OgZSFLSKSJ-MujapA0gUnm1M=w733-h453-no

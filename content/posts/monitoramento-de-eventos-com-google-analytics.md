@@ -77,11 +77,11 @@ São incontáveis os ganhos, principalmente no âmbito da análise ao monitorar
 
 ## Referências
 
-<a title="How to track custom click/touch events in Google Universal Analytics" href="http://www.creare.co.uk/track-custom-events-universal-ga" target="_blank">How to track custom click/touch events in Google Universal Analytics</a>
+<a title="How to track custom click/touch events in Google Universal Analytics" href="https://www.creare.co.uk/track-custom-events-universal-ga" target="_blank">How to track custom click/touch events in Google Universal Analytics</a>
   
-<a title="Event tracking in google analytics explained for non-coders" href="http://www.seerinteractive.com/blog/event-tracking-explained/" target="_blank">Event tracking in google analytics explained for non-coders</a>
+<a title="Event tracking in google analytics explained for non-coders" href="https://www.seerinteractive.com/blog/event-tracking-explained/" target="_blank">Event tracking in google analytics explained for non-coders</a>
   
 <a title="Configuração avançada - acompanhamento da Web " href="https://developers.google.com/analytics/devguides/collection/analyticsjs/advanced?hl=pt-br" target="_blank">Configuração avançada &#8211; acompanhamento da Web </a>
 
- [1]: http://google.com/analytics
+ [1]: https://google.com/analytics
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/custom-event1-658x415.jpg

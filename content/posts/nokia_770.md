@@ -7,7 +7,7 @@ url: /nokia_770/
 tweetbackscheck:
   - 1356455347
 shorturls:
-  - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/nokia_770";s:7:"tinyurl";s:26:"http://tinyurl.com/3cw8u9f";s:4:"isgd";s:19:"http://is.gd/Uho85h";}'
+  - 'a:3:{s:9:"permalink";s:33:"https://tableless.com.br/nokia_770";s:7:"tinyurl";s:26:"https://tinyurl.com/3cw8u9f";s:4:"isgd";s:19:"https://is.gd/Uho85h";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032812
@@ -45,8 +45,8 @@ Tomara.
   * [Screenshot do Nokia 770][4]
   * [Nokia funding Minimo browser project][5]
 
- [1]: http://www.nokia.com/nokia/0,,75023,00.html
- [2]: http://webinsider.uol.com.br/vernoticia.php/id/2469
- [3]: http://www.linuxdevices.com/news/NS5409534614.html
- [4]: http://www.linuxdevices.com/files/misc/nokia_770_internet_tablet.jpg
- [5]: http://linuxdevices.com/news/NS8843062427.html
+ [1]: https://www.nokia.com/nokia/0,,75023,00.html
+ [2]: https://webinsider.uol.com.br/vernoticia.php/id/2469
+ [3]: https://www.linuxdevices.com/news/NS5409534614.html
+ [4]: https://www.linuxdevices.com/files/misc/nokia_770_internet_tablet.jpg
+ [5]: https://linuxdevices.com/news/NS8843062427.html

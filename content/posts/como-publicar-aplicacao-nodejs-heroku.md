@@ -22,12 +22,12 @@ O código da aplicação de exemplo está disponível em um [gist][1], para baix
 
 Dentro da pasta **_minhas midias sociais_**, o arquivo _<a href="https://gist.github.com/igorlima/69153705256f6a9a4557#file-index-html" rel="noreferrer">index.html</a>_ pode ser aberto utilizando qualquer navegador. Como são arquivos estáticos, será possível visualizar a aplicação web normalmente.
 
-Para rodar esse pequeno projeto no serviço de cloud, será preciso criar um servidor para tal. Nesse caso, vamos usar o <a href="http://expressjs.com/" rel="noreferrer">Express</a>, framework para <a href="http://nodejs.org/" rel="noreferrer">NodeJS</a> inspirado no [Sinatra][2]. O código está no arquivo _<a href="https://gist.github.com/igorlima/69153705256f6a9a4557#file-server-js" rel="noreferrer">server.js</a>_. Para rodá-lo execute:
+Para rodar esse pequeno projeto no serviço de cloud, será preciso criar um servidor para tal. Nesse caso, vamos usar o <a href="https://expressjs.com/" rel="noreferrer">Express</a>, framework para <a href="https://nodejs.org/" rel="noreferrer">NodeJS</a> inspirado no [Sinatra][2]. O código está no arquivo _<a href="https://gist.github.com/igorlima/69153705256f6a9a4557#file-server-js" rel="noreferrer">server.js</a>_. Para rodá-lo execute:
 
 <pre class="prettyprint lang-sh">npm install
 node server.js</pre>
 
-Para confirmar que tudo está funcionando como o esperado, acesse o endereço `http://localhost:5000` e pingo, já temos uma aplicação NodeJS para ser hospedada na nuvem.
+Para confirmar que tudo está funcionando como o esperado, acesse o endereço `https://localhost:5000` e pingo, já temos uma aplicação NodeJS para ser hospedada na nuvem.
 
 Agora, vá ao site Heroku e faça os seguintes passos: (i) se <a href="https://id.heroku.com/signup/www-home-top" rel="noreferrer">cadastre</a>, (ii) <a href="https://dashboard.heroku.com/apps" rel="noreferrer">crie uma aplicação</a> e (iii) carregue sua chave pública ssh na <a href="https://dashboard.heroku.com/account" rel="noreferrer">sessão SSH Keys</a>. Caso precise de detalhes de como gerar uma _chave ssh_, acesse o <a href="https://help.github.com/articles/generating-ssh-keys" rel="noreferrer">link</a>.
 
@@ -41,5 +41,5 @@ Após o **_push_**, sua aplicação pode ser visualizada no endereço `http:/o-
 ![Screenshot da aplicação 'minhas midias sociais'][3]
 
  [1]: https://gist.github.com/igorlima/69153705256f6a9a4557 "gist"
- [2]: http://www.sinatrarb.com/ "sinatra"
- [3]: http://i1368.photobucket.com/albums/ag182/igorribeirolima/a0000d4f6b3b7ca0469fcdeba8a6f6e2_zps2ba999fa.jpg
+ [2]: https://www.sinatrarb.com/ "sinatra"
+ [3]: https://i1368.photobucket.com/albums/ag182/igorribeirolima/a0000d4f6b3b7ca0469fcdeba8a6f6e2_zps2ba999fa.jpg

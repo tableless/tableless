@@ -87,7 +87,7 @@ _
   
 ** 
   
-**Um exemplo de falta de pesquisa é a decisão da implementação da linguagem de programação criada pelo Facebook: o FBML, caso eles tivessem perguntado a sua base de usuários, teriam descoberto que as pessoas prefeririam usar o bom e velho HTML, ou sua versão nova o HTML5, que além de mais flexível e robusto, já faz parte da base de conhecimento dos programadores de interface que por tanto tempo lutaram com as restrições da rede social mais popular do mundo. Veja outros #fails do Facebook: <http://on.mash.to/q4JoF3>
+**Um exemplo de falta de pesquisa é a decisão da implementação da linguagem de programação criada pelo Facebook: o FBML, caso eles tivessem perguntado a sua base de usuários, teriam descoberto que as pessoas prefeririam usar o bom e velho HTML, ou sua versão nova o HTML5, que além de mais flexível e robusto, já faz parte da base de conhecimento dos programadores de interface que por tanto tempo lutaram com as restrições da rede social mais popular do mundo. Veja outros #fails do Facebook: <https://on.mash.to/q4JoF3>
   
 ** 
   

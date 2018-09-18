@@ -88,7 +88,7 @@ E quase que instantaneamente seu repositório em prod vai estar atualizado.
 
 O [Akita fez uma artigo em 2010][3] (!) falando sobre o mesmo assunto e existem uma série de [outros artigos][4] pela internet explicando a mesma coisa, é só procurar. E porque eu quis fazer um artigo igual? Só por que eu nunca tinha feito algo assim. ;-D
 
- [1]: http://diegoeis.com
- [2]: http://debuggable.com/posts/git-tip-auto-update-working-tree-via-post-receive-hook:49551efe-6414-4e86-aec6-544f4834cda3
- [3]: http://www.akitaonrails.com/2010/02/13/deploy-com-git-push
+ [1]: https://diegoeis.com
+ [2]: https://debuggable.com/posts/git-tip-auto-update-working-tree-via-post-receive-hook:49551efe-6414-4e86-aec6-544f4834cda3
+ [3]: https://www.akitaonrails.com/2010/02/13/deploy-com-git-push
  [4]: https://githowto.com/bare_repositories

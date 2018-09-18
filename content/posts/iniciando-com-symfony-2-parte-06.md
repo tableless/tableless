@@ -17,7 +17,7 @@ tags:
 ---
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/capa.png" alt="Symfony e Twig" width="750" height="403" class="alignnone size-full wp-image-47950" />][1]
 
-No <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-05/" title="iniciando com symfony 2 - parte 05" target="_blank">tutorial anterior</a>, configuramos nosso projeto e criamos nossas páginas, home e show, porém as mesmas se encontram sem estilização, neste tutorial, vamos apenas estruturar nossas páginas de um modo simples e básico, porém funcional. Não entrarei em detalhes sobre o Bootstrap, não é meu objetivo, porém para iniciantes, recomendo a <a href="http://getbootstrap.com/css/" title="Doc. Bootstrap" target="_blank">documentação</a>.
+No <a href="https://tableless.com.br/iniciando-com-symfony-2-parte-05/" title="iniciando com symfony 2 - parte 05" target="_blank">tutorial anterior</a>, configuramos nosso projeto e criamos nossas páginas, home e show, porém as mesmas se encontram sem estilização, neste tutorial, vamos apenas estruturar nossas páginas de um modo simples e básico, porém funcional. Não entrarei em detalhes sobre o Bootstrap, não é meu objetivo, porém para iniciantes, recomendo a <a href="https://getbootstrap.com/css/" title="Doc. Bootstrap" target="_blank">documentação</a>.
   
 Sobre o Twig, falarei o básico do básico, somente o que vamos usar. Lembrando que ele já vem instalado e configurado no Symfony, porém podemos instalá-lo separadamente <a href="https://packagist.org/packages/twig/twig" title="Pacote do Twig" target="_blank">via Composer</a> e configurá- lo em outros projetos, usando ou não outros frameworks.
 
@@ -25,11 +25,11 @@ Sobre o Twig, falarei o básico do básico, somente o que vamos usar. Lembrando 
 
 Vamos iniciar com a configuração do bootstrap.
   
-Temos algumas formas de instalar e configurar o arquivo css no symfony, em nosso caso vamos fazer uma configuração simples apenas para a didática, caso queiram se aprofundar mais no assunto, aconselho a <a href="http://symfony.com/doc/current/cookbook/assetic/asset_management.html#including-css-stylesheets" title="Assets no Symfony" target="_blank">documentação</a>.
+Temos algumas formas de instalar e configurar o arquivo css no symfony, em nosso caso vamos fazer uma configuração simples apenas para a didática, caso queiram se aprofundar mais no assunto, aconselho a <a href="https://symfony.com/doc/current/cookbook/assetic/asset_management.html#including-css-stylesheets" title="Assets no Symfony" target="_blank">documentação</a>.
 
 Primeiramente vamos criar uma pasta dentro da pasta Resource do bundle CoreBundle, caminho: src/Tableless/CoreBundle/Resouces, com o nome public, e dentro dessa nova pasta, vamos criar outra pasta com o nome css.
 
-<a href="http://getbootstrap.com/getting-started/#download" title="Download do bootstrap" target="_blank">Baixe o bootstrap</a>, e copie o arquivo bootstrap.min.css para a pasta css/, veja a imagem abaixo para comparação:
+<a href="https://getbootstrap.com/getting-started/#download" title="Download do bootstrap" target="_blank">Baixe o bootstrap</a>, e copie o arquivo bootstrap.min.css para a pasta css/, veja a imagem abaixo para comparação:
 
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/011.png" alt="Pasta para bootstrap" width="750" height="403" class="alignnone size-full wp-image-47951" />][2]
 
@@ -262,7 +262,7 @@ Obs: Se tivéssemos usando o php para recuperar esses dados, passaríamos um for
 {% endfor %}
 </pre>
 
-Para entender melhor o funcionamento do for, recomendo a <a href="http://twig.sensiolabs.org/doc/tags/for.html" title="twig for" target="_blank">documentação</a>. 
+Para entender melhor o funcionamento do for, recomendo a <a href="https://twig.sensiolabs.org/doc/tags/for.html" title="twig for" target="_blank">documentação</a>. 
 
 Vamos entender melhor
 
@@ -363,7 +363,7 @@ Vamos entrar no terminal, e subir nosso servidor.
 <pre class="lang-bash">$ php app/console server:run
 </pre>
 
-Entre na url: http://127.0.0.1:8000/
+Entre na url: https://127.0.0.1:8000/
 
 Nossa home está pronto, veja:
 
@@ -427,15 +427,15 @@ src/Tableless/CoreBundle/Resources/views/Posts/
 
 Links dos tutoriais anteriores:
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2/" title="instalação" target="_blank">Iniciando com Symfony 2 – Instalação</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2/" title="instalação" target="_blank">Iniciando com Symfony 2 – Instalação</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-02/" title="pt 02" target="_blank">Iniciando com Symfony 2 – parte 02</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-02/" title="pt 02" target="_blank">Iniciando com Symfony 2 – parte 02</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-03/" title="pt 3" target="_blank">Iniciando com Symfony 2 – parte 03</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-03/" title="pt 3" target="_blank">Iniciando com Symfony 2 – parte 03</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-04/" title="pt 4" target="_blank">Iniciando com Symfony 2 – parte 04</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-04/" title="pt 4" target="_blank">Iniciando com Symfony 2 – parte 04</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-05/" title="pt 5" target="_blank">Iniciando com Symfony 2 – parte 05</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-05/" title="pt 5" target="_blank">Iniciando com Symfony 2 – parte 05</a>
 
 O projeto <a href="https://github.com/candidosouza/tableless" title="Github do projeto" target="_blank">encontra-se no GitHub</a>!
 

@@ -47,10 +47,10 @@ Se você não foi, fique com um fiozinho do que aconteceu vendo as fotos, palest
 
 ## Fellyph Cintra
 
- [1]: http://tableless.com.br/webbr2012-abertura/
- [2]: http://tableless.com.br/anotacoes-da-palestra-do-silvio-meira/
- [3]: http://caravanaweb.com.br/
- [4]: http://blog.eventick.com.br/?p=4171
- [5]: http://bradfrostweb.com/
- [6]: http://bernarddeluna.com/talks/css-art-br/#1
+ [1]: https://tableless.com.br/webbr2012-abertura/
+ [2]: https://tableless.com.br/anotacoes-da-palestra-do-silvio-meira/
+ [3]: https://caravanaweb.com.br/
+ [4]: https://blog.eventick.com.br/?p=4171
+ [5]: https://bradfrostweb.com/
+ [6]: https://bernarddeluna.com/talks/css-art-br/#1
  [7]: https://github.com/cstipkovic/cstipkovic-talks/tree/master/tableless-conf-2013-fxos

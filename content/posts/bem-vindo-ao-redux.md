@@ -20,7 +20,7 @@ tags:
 
 ## Introdução
 
-**[Redux][1]** é uma maneira de pensar o desenvolvimento de aplicações criada pelo <a href="https://twitter.com/dan_abramov" target="_blank">@dan_abramov</a> que teve como principio optimizar a ideia do <a href="https://facebook.github.io/flux/" target="_blank">Flux</a>. Ela foi criada para tentar optimizar alguns obstáculos que o Flux começou a enfrentar, e também veio para simplificar a implementação do mesmo. Inspirada em conceitos da linguagem funcional <a href="http://elm-lang.org/" target="_blank">Elm</a>, e de algumas bibliotecas JS como o <a href="https://facebook.github.io/immutable-js/" target="_blank">Immutable.js</a>,  o <a href="https://github.com/Yomguithereal/baobab" target="_blank">Baobab</a>, o  <a href="https://github.com/Reactive-Extensions/RxJS" target="_blank">RxJs</a> e o próprio Flux, o Redux veio com alguns paradigmas interessantes e um pouco diferenciados do Flux.
+**[Redux][1]** é uma maneira de pensar o desenvolvimento de aplicações criada pelo <a href="https://twitter.com/dan_abramov" target="_blank">@dan_abramov</a> que teve como principio optimizar a ideia do <a href="https://facebook.github.io/flux/" target="_blank">Flux</a>. Ela foi criada para tentar optimizar alguns obstáculos que o Flux começou a enfrentar, e também veio para simplificar a implementação do mesmo. Inspirada em conceitos da linguagem funcional <a href="https://elm-lang.org/" target="_blank">Elm</a>, e de algumas bibliotecas JS como o <a href="https://facebook.github.io/immutable-js/" target="_blank">Immutable.js</a>,  o <a href="https://github.com/Yomguithereal/baobab" target="_blank">Baobab</a>, o  <a href="https://github.com/Reactive-Extensions/RxJS" target="_blank">RxJs</a> e o próprio Flux, o Redux veio com alguns paradigmas interessantes e um pouco diferenciados do Flux.
 
 ## Triforce do Redux
 
@@ -121,12 +121,12 @@ Lembrando que o Redux não é de forma alguma um concorrente do Flux, ou das out
 
 Um ótimo exemplo para entender mais sobre o que eu escrevi acima pode ser encontrado em <a href="https://github.com/reactjs/redux/tree/master/examples/todomvc" target="_blank">aqui</a>;
 
-A documentação completa pode ser vista através <a href="http://redux.js.org/" target="_blank">deste link</a>;
+A documentação completa pode ser vista através <a href="https://redux.js.org/" target="_blank">deste link</a>;
 
-E caso tenha lido o post sobre <a href="http://tableless.com.br/introducao-ao-electron/" target="_blank">Electron.js</a> e queira iniciar o desenvolvimento de aplicações Desktop usando React + Redux aqui esta o <a href="https://github.com/henriquesosa/electron-intro" target="_blank">repositório</a> que criei com uma breve introdução ao assunto.
+E caso tenha lido o post sobre <a href="https://tableless.com.br/introducao-ao-electron/" target="_blank">Electron.js</a> e queira iniciar o desenvolvimento de aplicações Desktop usando React + Redux aqui esta o <a href="https://github.com/henriquesosa/electron-intro" target="_blank">repositório</a> que criei com uma breve introdução ao assunto.
 
 <a href="https://github.com/redbooth/backbone-redux" target="_blank">Migração do Backbone.</a>
 
 <a href="https://github.com/wbuchwalter/ng-redux" target="_blank">Migrando o Angular.js para Redux.</a>
 
- [1]: http://redux.js.org/docs/introduction/index.html
+ [1]: https://redux.js.org/docs/introduction/index.html

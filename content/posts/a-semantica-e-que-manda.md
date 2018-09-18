@@ -7,7 +7,7 @@ url: /a-semantica-e-que-manda/
 tweetbackscheck:
   - 1356439579
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/a-semantica-e-que-manda";s:7:"tinyurl";s:26:"http://tinyurl.com/42m5fl8";s:4:"isgd";s:19:"http://is.gd/GMaZgS";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/a-semantica-e-que-manda";s:7:"tinyurl";s:26:"https://tinyurl.com/42m5fl8";s:4:"isgd";s:19:"https://is.gd/GMaZgS";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035137
@@ -38,4 +38,4 @@ O que você acha?
 
 <small>Nunca é demais voltar nestes assuntos para fixar melhor na memória. Já dizia o velho sentado: A repetição faz a gravação. </small>
 
- [1]: http://somerandomdude.net/projects/webdev/divless/
+ [1]: https://somerandomdude.net/projects/webdev/divless/

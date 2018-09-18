@@ -3,7 +3,7 @@ categories:
   - Artigos
   - Design
 excerpt: Algumas informações sobre o novo formato de arquivo do Sketch 43
-image: http://i.imgur.com/oU9aar0.jpg
+image: https://i.imgur.com/oU9aar0.jpg
 type: post
 authors: Diego Eis
 date: 2017-04-16T09:23:34-03:00
@@ -21,7 +21,7 @@ No Sketch 42, os arquivos eram baseados em formato binário. Formato binário n�
 
 Os novos formatos de arquivos do Sketch são basicamente um arquivo ZIP que guardam todos os assets necessários para que o arquivo funcione.
 
-![Estrutura de arquivos do Sketch](http://i.imgur.com/p3ostqh.png)
+![Estrutura de arquivos do Sketch](https://i.imgur.com/p3ostqh.png)
 
 Faça o teste aí com qualquer arquivo do Sketch 43: renomeie para **.zip** e descompacte o arquivo.
 
@@ -45,13 +45,13 @@ Alguns mitos que a galera tem falado por aí e várias pessoas já desmentiram:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check it out. Now (9.1 or 9.2) <a href="https://twitter.com/gitlab">@gitlab</a> will be rendering <a href="https://twitter.com/sketchapp">@sketchapp</a> 43 files. <a href="https://twitter.com/rboudinot">@rboudinot</a>, <a href="https://twitter.com/iamphill">@iamphill</a> and I. More advance features to come. <a href="https://t.co/ZzOHVzIiHd">pic.twitter.com/ZzOHVzIiHd</a></p>&mdash; Jacob Schatz (@jakecodes) <a href="https://twitter.com/jakecodes/status/847536958750556161">March 30, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-O formato aberto do Sketch só deixa a tarefa de automatizar os layouts feitos Sketch para HTML/CSS/JS mais perto. Uma das grandes qualidades do Sketch, é que ele valoriza os plugins. Eles sabem que existem pessoas inteligentes nesse mundão afora que podem melhorar ainda mais seu produto fazendo plugins que facilitam algumas tarefas do dia a dia dos designers. Muito por isso eles tem uma [documentação bem legal para desenvolvedores](http://developer.sketchapp.com/reference/api/) que querem entender como é possível interagir com o programa. A [API JavaScript para trabalhar com Sketch está no GitHub](https://github.com/BohemianCoding/SketchAPI).
+O formato aberto do Sketch só deixa a tarefa de automatizar os layouts feitos Sketch para HTML/CSS/JS mais perto. Uma das grandes qualidades do Sketch, é que ele valoriza os plugins. Eles sabem que existem pessoas inteligentes nesse mundão afora que podem melhorar ainda mais seu produto fazendo plugins que facilitam algumas tarefas do dia a dia dos designers. Muito por isso eles tem uma [documentação bem legal para desenvolvedores](https://developer.sketchapp.com/reference/api/) que querem entender como é possível interagir com o programa. A [API JavaScript para trabalhar com Sketch está no GitHub](https://github.com/BohemianCoding/SketchAPI).
 
 > Translating a visual design to CSS/HTML is now a mundane task of the past. [Andree @blended.io](https://uxdesign.cc/design-is-code-code-is-design-b941c14f3fd8)
 
 Já existem algumas ferramentas surgindo por aí, como é o caso do [Sketch Web Viewer](https://github.com/AnimaApp/sketch-web-viewer).
 
-![API JavaScript para construir plugins do Sketch](http://i.imgur.com/CHzCjA8.png)
+![API JavaScript para construir plugins do Sketch](https://i.imgur.com/CHzCjA8.png)
 
 Existem várias pessoas apostando que um monte de plugins e outras ferramentas de automatizações surjam do nada por causa desse novo formato do Sketch. Os caras estão realmente animados com todas essas possibilidades:
 
@@ -67,10 +67,10 @@ Além disso, designers estão aprendendo algumas coisas com os desenvolvedores, 
 - [View and inspect Sketch 43 files in browser](https://github.com/AnimaApp/sketch-web-viewer)
 - [Abstract](https://www.abstractapp.com/)
 - [Sketch 43 is coming to town with a new game. An open file format!](https://medium.com/sketch-app-sources/sketch-43-is-coming-to-town-with-a-new-game-an-open-file-format-ae62e7e7c223)
-- [Sketch API](http://developer.sketchapp.com/reference/api/)
+- [Sketch API](https://developer.sketchapp.com/reference/api/)
 - [Sketch 43: A brief tour of fact vs folklore](https://blog.prototypr.io/sketch-43-a-brief-tour-of-fact-and-folklore-7772ca7f6e61)
-- [New file format in Sketch 43](http://sketchplugins.com/d/87-new-file-format-in-sketch-43)
-- [Trocando nome de uma layer com Node](http://sketchplugins.com/d/87-new-file-format-in-sketch-43/2)
+- [New file format in Sketch 43](https://sketchplugins.com/d/87-new-file-format-in-sketch-43)
+- [Trocando nome de uma layer com Node](https://sketchplugins.com/d/87-new-file-format-in-sketch-43/2)
 
 ---
 

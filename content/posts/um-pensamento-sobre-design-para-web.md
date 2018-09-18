@@ -8,7 +8,7 @@ url: /um-pensamento-sobre-design-para-web/
 tweetbackscheck:
   - 1356399315
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5229";s:7:"tinyurl";s:26:"http://tinyurl.com/6wo3xqp";s:4:"isgd";s:19:"http://is.gd/s4ARj9";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5229";s:7:"tinyurl";s:26:"https://tinyurl.com/6wo3xqp";s:4:"isgd";s:19:"https://is.gd/s4ARj9";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 545047342
@@ -46,8 +46,8 @@ O design para web está mudando de novo outra vez por causa da explosão de novo
 
 Eu [queria mesmo era fazer um carro][5].
 
- [1]: http://www.alistapart.com/articles/a-pixel-identity-crisis/?utm_source=TablelessComBr&utm_medium=postLink&utm_campaign=citacaoTexto
- [2]: http://www.luli.com.br/2009/02/02/design-e-uma-conversa-revista-webdesign/?utm_source=TablelessComBr&utm_medium=link&utm_campaign=citacaoTexto
- [3]: http://www.alistapart.com/articles/personality-in-design/?utm_source=TablelessComBr&utm_medium=postLink&utm_campaign=citacaoTexto
- [4]: http://tableless.com.br/experiencia-cross-device/
- [5]: http://www.bmwblog.com/2008/08/08/behind-the-design-of-the-bmw-7-series/
+ [1]: https://www.alistapart.com/articles/a-pixel-identity-crisis/?utm_source=TablelessComBr&utm_medium=postLink&utm_campaign=citacaoTexto
+ [2]: https://www.luli.com.br/2009/02/02/design-e-uma-conversa-revista-webdesign/?utm_source=TablelessComBr&utm_medium=link&utm_campaign=citacaoTexto
+ [3]: https://www.alistapart.com/articles/personality-in-design/?utm_source=TablelessComBr&utm_medium=postLink&utm_campaign=citacaoTexto
+ [4]: https://tableless.com.br/experiencia-cross-device/
+ [5]: https://www.bmwblog.com/2008/08/08/behind-the-design-of-the-bmw-7-series/

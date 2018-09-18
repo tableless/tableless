@@ -26,5 +26,5 @@ tags:
 
 Já viu o primeiro post da série **[Slides para Devs][1]**? [Veja agora][2].
 
- [1]: http://tableless.com.br/categoria/series/slides-e-apresentacoes/ "slides sobre desenvolvimento web"
- [2]: http://tableless.com.br/slides-devs-1/ "Slides para Devs #1"
+ [1]: https://tableless.com.br/categoria/series/slides-e-apresentacoes/ "slides sobre desenvolvimento web"
+ [2]: https://tableless.com.br/slides-devs-1/ "Slides para Devs #1"

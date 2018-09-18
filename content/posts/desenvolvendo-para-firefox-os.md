@@ -52,20 +52,20 @@ Para iniciar, crie uma pasta do seu projeto e nela ficarão os arquivos da sua a
     },
     "developer": {
         "name": "Willem Allan",
-        "url": "http://willemallan.com.br"
+        "url": "https://willemallan.com.br"
     },
     "installs_allowed_from": ["*"],
     "locales": {
         "es": {
             "description": "Willem Allan - Blog posts",
             "developer": {
-                "url": "http://willemallan.com.br"
+                "url": "https://willemallan.com.br"
             }
         },
         "it": {
             "description": "Willem Allan - Blog posts",
             "developer": {
-                "url": "http://willemallan.com.br"
+                "url": "https://willemallan.com.br"
             }
         }
     },
@@ -94,7 +94,7 @@ Adicione um texto qualquer no arquivo index.html, pode ser o famoso hello world.
 Para testar a aplicação é preciso ir na extensão do Firefox OS Simulator, Bashboard e adicionar a pasta do projeto &#8220;add directory&#8221;, depois inicie o emulador a aplicação será instalada e aparecerá nos aplicativos.
 
   * github &#8211; exemplo de aplicação do Firefox OS: <a href="https://github.com/willemallan/tableless-firefox-os-example" target="_blank">link</a>
-  * github page &#8211; <a href="http://willemallan.github.io/tableless-firefox-os-example/" target="_blank">link</a>
+  * github page &#8211; <a href="https://willemallan.github.io/tableless-firefox-os-example/" target="_blank">link</a>
 
 ## Saiba mais
 

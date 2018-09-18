@@ -68,7 +68,7 @@ querer fazer isso!
 
 ### Use o Cérebro!
 
-Com esse tanto de [API REST](http://v2.wp-api.org/) supimpa que o ElasticSearch
+Com esse tanto de [API REST](https://v2.wp-api.org/) supimpa que o ElasticSearch
 nos oferece, é claaaro que alguém ia começar a construir um negócio
 *open-source* pra galera. Esse projeto é o
 [Cérebro](https://github.com/lmenezes/cerebro)! O inexorável [Leonardo
@@ -76,7 +76,7 @@ Menezes](https://twitter.com/leonardomenezes) começou por conta própria fazer 
 p#$% projeto de **monitoramento** e **administração** do ElasticSearch, [o
 antigo Kopf](https://github.com/lmenezes/elasticsearch-kopf). Tudo usando as
 facilidades da API do ES e seu profundo conhecimento de JS e
-[Scala](http://www.scala-lang.org/)! ❤
+[Scala](https://www.scala-lang.org/)! ❤
 
 ## Funcionalidades
 
@@ -112,8 +112,8 @@ unzip cerebro-0.7.0.zip .
 ./cerebro-0.7.0/bin/cerebro
 ```
 
-* Acessar `http://localhost:9000` e apontar pra algum nó de seu *cluster*, de
-preferência um mais sussa, como um nó *master* elegível ou um *client/*[coordinator](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-node.html) - *`http://meu.no.sussa:9200/`.
+* Acessar `https://localhost:9000` e apontar pra algum nó de seu *cluster*, de
+preferência um mais sussa, como um nó *master* elegível ou um *client/*[coordinator](https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-node.html) - *`https://meu.no.sussa:9200/`.
 
 Pronto! Seu *cluster* tá lá, intacto, **sem restart nenhum**.
 

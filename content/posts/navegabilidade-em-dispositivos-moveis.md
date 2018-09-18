@@ -38,4 +38,4 @@ Outras dicas importantes sobre acessibilidade (e também usabilidade) para dispo
   * Para os textos, evite medidas absolutas e em pixels, permitindo que os navegadores ajustem o conteúdo à tela.  No CSS, utilize porcentagens e medidas relativas como _em_, _ex_, _bolder_, _larger_ e _thick_.
   * Especificar as dimensões exatas da imagem em pixels ajuda o navegador a continuar o carregamento da página e evitar o recarregamento depois da página ter sido exibida por completo. Os dispositivos podem perceber melhor as intenções do desenvolvedor se as margens, bordas e espaçamentos forem especificados em pixels.
 
-Algumas destas recomendações foram obtidas no site <a title="Ready.mobi" href="http://ready.mobi/" target="_blank">ready.mobi</a> com base em diretrizes do W3C.
+Algumas destas recomendações foram obtidas no site <a title="Ready.mobi" href="https://ready.mobi/" target="_blank">ready.mobi</a> com base em diretrizes do W3C.

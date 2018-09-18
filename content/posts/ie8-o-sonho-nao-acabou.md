@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356171728
 shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/ie8-o-sonho-nao-acabou";s:7:"tinyurl";s:26:"http://tinyurl.com/3loxnzk";s:4:"isgd";s:19:"http://is.gd/S8bQzB";}'
+  - 'a:3:{s:9:"permalink";s:46:"https://tableless.com.br/ie8-o-sonho-nao-acabou";s:7:"tinyurl";s:26:"https://tinyurl.com/3loxnzk";s:4:"isgd";s:19:"https://is.gd/S8bQzB";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037958
@@ -49,6 +49,6 @@ As [atualizações do IE8 são ótimas][3]. Há uma série de características q
 
 Me preocupo com o momento em que o IE6, IE7 e IE8 estarão sendo utilizados pelos visitantes, aí sim teremos um grande problema. Ou três.
 
- [1]: http://tableless.com.br/ie8-targeting-version
- [2]: http://logbr.reflectivesurface.com/2008/03/04/ie8-compativel-por-padrao/
- [3]: http://msdn2.microsoft.com/en-us/library/cc304082(VS.85).aspx
+ [1]: https://tableless.com.br/ie8-targeting-version
+ [2]: https://logbr.reflectivesurface.com/2008/03/04/ie8-compativel-por-padrao/
+ [3]: https://msdn2.microsoft.com/en-us/library/cc304082(VS.85).aspx

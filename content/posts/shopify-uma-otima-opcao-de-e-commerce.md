@@ -42,4 +42,4 @@ Como eu disse no começo, pode ser um pouco estranho um desenvolvedor usar ofere
 
 _<small>Publieditorial.</small>_
 
- [1]: http://bit.ly/1RlIgw2
+ [1]: https://bit.ly/1RlIgw2

@@ -7,7 +7,7 @@ url: /novidades_gmail/
 tweetbackscheck:
   - 1355053106
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/novidades_gmail";s:7:"tinyurl";s:26:"http://tinyurl.com/44h4jys";s:4:"isgd";s:19:"http://is.gd/hkRf08";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/novidades_gmail";s:7:"tinyurl";s:26:"https://tinyurl.com/44h4jys";s:4:"isgd";s:19:"https://is.gd/hkRf08";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034029
@@ -34,5 +34,5 @@ Acho que esse serviço é apenas lá para fora, se alguém souber de algo, dá u
 Para ler mais: [What&#8217;s new on Gmail?][1]
 
  [1]: https://mail.google.com/mail/help/about_whatsnew.html
- [2]: http://www.bloglines.com/
- [3]: http://mail.google.com/support/bin/answer.py?answer=30719
+ [2]: https://www.bloglines.com/
+ [3]: https://mail.google.com/support/bin/answer.py?answer=30719

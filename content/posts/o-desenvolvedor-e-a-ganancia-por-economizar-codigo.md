@@ -7,7 +7,7 @@ url: /o-desenvolvedor-e-a-ganancia-por-economizar-codigo/
 tweetbackscheck:
   - 1356329634
 shorturls:
-  - 'a:3:{s:9:"permalink";s:74:"http://tableless.com.br/o-desenvolvedor-e-a-ganancia-por-economizar-codigo";s:7:"tinyurl";s:26:"http://tinyurl.com/442xteo";s:4:"isgd";s:19:"http://is.gd/HntLr7";}'
+  - 'a:3:{s:9:"permalink";s:74:"https://tableless.com.br/o-desenvolvedor-e-a-ganancia-por-economizar-codigo";s:7:"tinyurl";s:26:"https://tinyurl.com/442xteo";s:4:"isgd";s:19:"https://is.gd/HntLr7";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036737
@@ -20,7 +20,7 @@ tags:
 ---
 Está certo que o desenvolvedor é um bicho estranho, cheio de manias intratáveis e teimoso, mas muito teimoso. Mesmo assim há alguns pontos que podemos tratar antes que vire algo irrecuperável. Um destes pontos é a ganância por economizar código, seja ele qual for. Vamos pegar aqui exemplos de XHTML e CSS. Lembra do tempo que você trabalhava com códigos mais ou menos assim:`<br />
 ...<br />
-<table width="100%" border="0" cellpadding="0" cellspacing="0" style="background:url(http://www.siteruim.com/mot/image/topnav_bckgrd.gif) repeat-x;"><br />
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="background:url(https://www.siteruim.com/mot/image/topnav_bckgrd.gif) repeat-x;"><br />
 <tr><td><table width="100%" border="0" cellspacing="0" cellpadding="0"><br />
 <tr><td width="91" valign="top"><table width="91" border="0" cellpadding="0" cellspacing="0" class="spacertable"><br />
 <tr><td colspan="3"><img src="/mot/image/spacer.gif" alt="" width="1" height="10" /></td><br />
@@ -39,5 +39,5 @@ Mesma coisa acontece com o CSS. Alguns desenvolvedores resolvem por as proprieda
   
 Já vi [muitos dos meus alunos][2] com medo de deixar o código CSS com muitas linhas. Relaxe. No começo ele vai ficar com muitas linhas, vai mesmo. Meu primeiro CSS decente teve por volta de mil e poucas linhas! Não, não tinha organização nenhuma. Havia muito código redundante, vários hacks e milhares de conflitos e pra ajudar o site era enorme. Mesmo assim era muito melhor/menor que um site feito em tabelas.
 
- [1]: http://tableless.com.br/estruturando-o-codigo-css
- [2]: http://visie.com.br/cursos/
+ [1]: https://tableless.com.br/estruturando-o-codigo-css
+ [2]: https://visie.com.br/cursos/

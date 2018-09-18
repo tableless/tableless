@@ -12,7 +12,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356391794
 shorturls:
-  - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/nth-child";s:7:"tinyurl";s:26:"http://tinyurl.com/42nrmxv";s:4:"isgd";s:19:"http://is.gd/78T9i9";}'
+  - 'a:3:{s:9:"permalink";s:33:"https://tableless.com.br/nth-child";s:7:"tinyurl";s:26:"https://tinyurl.com/42nrmxv";s:4:"isgd";s:19:"https://is.gd/78T9i9";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039138
@@ -109,8 +109,8 @@ Se você ainda não leu sobre seletores do CSS, leia estes artigos abaixo:
   * [Seletores do CSS &#8211; Pseudo-classes][4]
   * [Seletores Complexos do CSS][5]
 
- [1]: http://www.w3.org/TR/css3-selectors/#nth-child-pseudo
+ [1]: https://www.w3.org/TR/css3-selectors/#nth-child-pseudo
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/07/nth-child-ex1.html
- [3]: http://tableless.com.br/seletores-agrupados-e-encadeados
- [4]: http://tableless.com.br/pseudo-classes-css
- [5]: http://tableless.com.br/seletores-complexos-do-css
+ [3]: https://tableless.com.br/seletores-agrupados-e-encadeados
+ [4]: https://tableless.com.br/pseudo-classes-css
+ [5]: https://tableless.com.br/seletores-complexos-do-css

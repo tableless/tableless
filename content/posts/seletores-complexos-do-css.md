@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356457389
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/seletores-complexos-do-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3vyqkk8";s:4:"isgd";s:19:"http://is.gd/VKl143";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/seletores-complexos-do-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3vyqkk8";s:4:"isgd";s:19:"https://is.gd/VKl143";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038919
@@ -97,7 +97,7 @@ Este seletor significa que você encontrará os **inputs** que contenham o atrib
   
   <tr>
     <td>
-      a[href^=&#8221;http://tableless.com.br/&#8221;]
+      a[href^=&#8221;https://tableless.com.br/&#8221;]
     </td>
     
     <td>
@@ -127,11 +127,11 @@ Este seletor significa que você encontrará os **inputs** que contenham o atrib
   
   <tr>
     <td>
-      a[href=&#8221;http://tableless.com.br/&#8221;]
+      a[href=&#8221;https://tableless.com.br/&#8221;]
     </td>
     
     <td>
-      Seleciona o elemento <strong>a</strong> cujo o valor do atributo <strong>href</strong> seja exatamente <b>http://tableless.com.br/</b>.
+      Seleciona o elemento <strong>a</strong> cujo o valor do atributo <strong>href</strong> seja exatamente <b>https://tableless.com.br/</b>.
     </td>
   </tr>
   
@@ -158,4 +158,4 @@ Este seletor significa que você encontrará os **inputs** que contenham o atrib
 
 Há uma [lista inteira de seletores aqui][1].
 
- [1]: http://www.w3.org/TR/css3-selectors/#selectors "Link externo: Lista de seletores do W3C"
+ [1]: https://www.w3.org/TR/css3-selectors/#selectors "Link externo: Lista de seletores do W3C"

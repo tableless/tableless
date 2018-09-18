@@ -8,7 +8,7 @@ url: /css-transforms/
 tweetbackscheck:
   - 1356458876
 shorturls:
-  - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/css-transforms";s:7:"tinyurl";s:26:"http://tinyurl.com/3rmns5y";s:4:"isgd";s:19:"http://is.gd/xhdT5U";}'
+  - 'a:3:{s:9:"permalink";s:38:"https://tableless.com.br/css-transforms";s:7:"tinyurl";s:26:"https://tinyurl.com/3rmns5y";s:4:"isgd";s:19:"https://is.gd/xhdT5U";}'
 twittercomments:
   - 'a:5:{i:26963440056668160;s:7:"retweet";i:50610432746065920;s:6:"137347";i:144961097227714560;s:7:"retweet";i:156883648010915840;s:7:"retweet";i:169918207606525952;s:7:"retweet";}'
 tweetcount:
@@ -173,9 +173,9 @@ ul li img:hover {
 
 Aplicando animação via CSS, o [exemplo fica mais interessante][6].
 
- [1]: http://tableless.github.com/exemplos/csstransforms/exemplo1.html
- [2]: http://www.paulrhayes.com/experiments/cube/multiCubes.html
- [3]: http://tableless.github.com/exemplos/csstransforms/exemplo2.html
- [4]: http://tableless.github.com/exemplos/csstransforms/exemplo3.html
- [5]: http://tableless.github.com/exemplos/csstransforms/exemplo4.html
- [6]: http://tableless.github.com/exemplos/csstransforms/
+ [1]: https://tableless.github.com/exemplos/csstransforms/exemplo1.html
+ [2]: https://www.paulrhayes.com/experiments/cube/multiCubes.html
+ [3]: https://tableless.github.com/exemplos/csstransforms/exemplo2.html
+ [4]: https://tableless.github.com/exemplos/csstransforms/exemplo3.html
+ [5]: https://tableless.github.com/exemplos/csstransforms/exemplo4.html
+ [6]: https://tableless.github.com/exemplos/csstransforms/

@@ -52,7 +52,7 @@ Após a instalação de todas as dependências necessárias, vamos criar dois ar
  
 /**
 Vows Errored » callback not fired
-http://birkett.no/blog/2013/05/01/vows-errored-callback-not-fired/
+https://birkett.no/blog/2013/05/01/vows-errored-callback-not-fired/
 */
 process.on( 'uncaughtException', function(err) {
   console.error('Caught exception: ' + err.stack );
@@ -81,7 +81,7 @@ vows.describe('Apenas um exemplo')
   'Acessando a página de teste do SauceLabs': {
     topic: function() {
       var callback = this.callback;
-      browser.get( 'http://saucelabs.com/test/guinea-pig', function(err) {
+      browser.get( 'https://saucelabs.com/test/guinea-pig', function(err) {
         callback( err );
       });
     },
@@ -132,14 +132,14 @@ Uma vez o PhantomJS rodando em segundo plano, basta rodar o _vows_, o parâmetr
 
 Esse exemplo contempla de forma bem simples a utilização da API do WebDriver/Selenium 2. Essa abordagem também pode ser feita em [diferentes tipos de navegadores][10]. Como é sempre melhor começarmos aos poucos, aplicando pequenos passos de cada vez, isso ficará para uma próxima discussão. Para quem se interessar, todo código está disponível em um [gist][11]. Muito obrigado.
 
- [1]: http://www.seleniumhq.org/docs/01_introducing_selenium.jsp "introdução ao selenium no site oficial"
- [2]: http://www.seleniumhq.org/docs/03_webdriver.jsp "introdução ao selenium webdriver no site oficial"
- [3]: http://nodejs.org/download/ "site oficial do NodeJS"
- [4]: http://vowsjs.org/ "site oficial do vows"
+ [1]: https://www.seleniumhq.org/docs/01_introducing_selenium.jsp "introdução ao selenium no site oficial"
+ [2]: https://www.seleniumhq.org/docs/03_webdriver.jsp "introdução ao selenium webdriver no site oficial"
+ [3]: https://nodejs.org/download/ "site oficial do NodeJS"
+ [4]: https://vowsjs.org/ "site oficial do vows"
  [5]: https://saucelabs.com/test/guinea-pig "página oficial de teste do SauceLabs"
- [6]: http://blog.nodejs.org/2011/03/23/npm-1-0-global-vs-local-installation/ "artigo do blog oficial do NodeJS sobre os tipos de dependências"
- [7]: http://phantomjs.org/ "site oficial do PhantomJS"
- [8]: http://chaijs.com/ "site oficial do Chai"
+ [6]: https://blog.nodejs.org/2011/03/23/npm-1-0-global-vs-local-installation/ "artigo do blog oficial do NodeJS sobre os tipos de dependências"
+ [7]: https://phantomjs.org/ "site oficial do PhantomJS"
+ [8]: https://chaijs.com/ "site oficial do Chai"
  [9]: https://github.com/admc/wd "repositorio oficial do WebDriver no github"
- [10]: http://tableless.com.br/introducao-de-como-executar-testes-unitarios-em-diferentes-tipos-de-navegadores "introdução de como executar testes unitários em diferentes tipos de navegadores"
+ [10]: https://tableless.com.br/introducao-de-como-executar-testes-unitarios-em-diferentes-tipos-de-navegadores "introdução de como executar testes unitários em diferentes tipos de navegadores"
  [11]: https://gist.github.com/igorlima/7826752 "gist introduzindo o Selenium 2"

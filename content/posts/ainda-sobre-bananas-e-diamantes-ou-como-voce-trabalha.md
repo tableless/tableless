@@ -7,7 +7,7 @@ url: /ainda-sobre-bananas-e-diamantes-ou-como-voce-trabalha/
 tweetbackscheck:
   - 1356139862
 shorturls:
-  - 'a:3:{s:9:"permalink";s:77:"http://tableless.com.br/ainda-sobre-bananas-e-diamantes-ou-como-voce-trabalha";s:7:"tinyurl";s:26:"http://tinyurl.com/3jle6jr";s:4:"isgd";s:19:"http://is.gd/n1NNp2";}'
+  - 'a:3:{s:9:"permalink";s:77:"https://tableless.com.br/ainda-sobre-bananas-e-diamantes-ou-como-voce-trabalha";s:7:"tinyurl";s:26:"https://tinyurl.com/3jle6jr";s:4:"isgd";s:19:"https://is.gd/n1NNp2";}'
 twittercomments:
   - 'a:1:{i:10025310741340160;s:7:"retweet";}'
 tweetcount:
@@ -26,8 +26,8 @@ O [Elcio][1] escreveu um [texto muito interessante][2] lá no [Blog][3] da [Visi
 
 Vale a pena dar uma lida e deixar sua opinião, tanto aqui como lá.
 
- [1]: http://elcio.com.br/
- [2]: http://visie.com.br/blog/ainda-sobre-bananas-e-diamantes
- [3]: http://visie.com.br/blog "Blog da nossa empresa."
- [4]: http://visie.com.br/ "Cursos e Treinamentos de Padrões Web"
- [5]: http://en.wikipedia.org/wiki/Code_monkey
+ [1]: https://elcio.com.br/
+ [2]: https://visie.com.br/blog/ainda-sobre-bananas-e-diamantes
+ [3]: https://visie.com.br/blog "Blog da nossa empresa."
+ [4]: https://visie.com.br/ "Cursos e Treinamentos de Padrões Web"
+ [5]: https://en.wikipedia.org/wiki/Code_monkey

@@ -61,4 +61,4 @@ Inscrições: De 18/10 a 28/10 –][1]
   
 Divulgação dos 80 selecionados: 31/10
 
- [1]: http://www.experiancejam.com.br
+ [1]: https://www.experiancejam.com.br

@@ -8,7 +8,7 @@ url: /startup-e-proposito/
 tweetbackscheck:
   - 1356443061
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/startup-e-proposito/";s:7:"tinyurl";s:26:"http://tinyurl.com/bow8rg7";s:4:"isgd";s:19:"http://is.gd/WBcWBD";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/startup-e-proposito/";s:7:"tinyurl";s:26:"https://tinyurl.com/bow8rg7";s:4:"isgd";s:19:"https://is.gd/WBcWBD";}'
 twittercomments:
   - 'a:6:{i:278641722286809090;s:7:"retweet";i:278608424495882240;s:7:"retweet";i:278562824605798402;s:7:"retweet";i:278277537665257473;s:7:"retweet";i:281463327635410944;s:7:"retweet";i:279904523089219584;s:7:"retweet";}'
 tweetcount:
@@ -51,7 +51,7 @@ Existem várias maneiras de ganhar dinheiro, mas não existem muitas maneiras de
   
 É, eu sei&#8230; isso é muito dramático e romântico. Muito [Brothers and Sisters][4]&#8230; Mas é a real.
 
- [1]: http://tableless.com.br/por-que-eu-nao-gosto-do-nome-startup/ "Por que eu não gosto do nome startup"
- [2]: http://37signals.com/rework
- [3]: http://37signals.com/
- [4]: http://pt.wikipedia.org/wiki/Brothers_%26_Sisters
+ [1]: https://tableless.com.br/por-que-eu-nao-gosto-do-nome-startup/ "Por que eu não gosto do nome startup"
+ [2]: https://37signals.com/rework
+ [3]: https://37signals.com/
+ [4]: https://pt.wikipedia.org/wiki/Brothers_%26_Sisters

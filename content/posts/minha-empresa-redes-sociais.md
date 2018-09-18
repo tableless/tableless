@@ -8,7 +8,7 @@ url: /minha-empresa-redes-sociais/
 tweetbackscheck:
   - 1356471741
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6754";s:7:"tinyurl";s:26:"http://tinyurl.com/bqd8ydh";s:4:"isgd";s:19:"http://is.gd/6TnWah";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6754";s:7:"tinyurl";s:26:"https://tinyurl.com/bqd8ydh";s:4:"isgd";s:19:"https://is.gd/6TnWah";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 831916475

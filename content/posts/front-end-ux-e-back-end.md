@@ -8,7 +8,7 @@ url: /front-end-ux-e-back-end/
 tweetbackscheck:
   - 1355164558
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/front-end-ux-e-back-end/";s:7:"tinyurl";s:26:"http://tinyurl.com/d7lgtx7";s:4:"isgd";s:19:"http://is.gd/sVWLBy";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/front-end-ux-e-back-end/";s:7:"tinyurl";s:26:"https://tinyurl.com/d7lgtx7";s:4:"isgd";s:19:"https://is.gd/sVWLBy";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 954944209
@@ -48,4 +48,4 @@ Quando os times de UX entendem a importância do front-end, eles entregam não a
 
 Entender sobre os processos é importante para qualquer um dentro da equipe. Entender as limitações e saber quais os impactos que cada decisão, por mínima que seja, desencadeia no projeto é algo que só se conhece quando você procura saber mais do que acontece ao seu redor. E eu não estou dizendo para você ser um profissional canivete, longe disso. Mas trabalhar em equipe envolve muito mais do que conversas nos dailys da vida.
 
- [1]: http://www.uxmatters.com/mt/archives/2012/04/great-user-experiences-require-great-front-end-development.php
+ [1]: https://www.uxmatters.com/mt/archives/2012/04/great-user-experiences-require-great-front-end-development.php

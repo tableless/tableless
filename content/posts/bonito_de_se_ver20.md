@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1355971632
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/bonito_de_se_ver20";s:7:"tinyurl";s:26:"http://tinyurl.com/4xbntoz";s:4:"isgd";s:19:"http://is.gd/kXMTmd";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/bonito_de_se_ver20";s:7:"tinyurl";s:26:"https://tinyurl.com/4xbntoz";s:4:"isgd";s:19:"https://is.gd/kXMTmd";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033872
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.aplus.co.yu/>
-  2. <http://www.nairobiswahili.com/>
-  3. <http://www.thegladecornwall.com/>
-  4. <http://www.eoghanmccabe.com/>
-  5. <http://www.circodeliaproducciones.com/>
+  1. <https://www.aplus.co.yu/>
+  2. <https://www.nairobiswahili.com/>
+  3. <https://www.thegladecornwall.com/>
+  4. <https://www.eoghanmccabe.com/>
+  5. <https://www.circodeliaproducciones.com/>

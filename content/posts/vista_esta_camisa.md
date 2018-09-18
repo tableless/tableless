@@ -7,7 +7,7 @@ url: /vista_esta_camisa/
 tweetbackscheck:
   - 1356172483
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/vista_esta_camisa";s:7:"tinyurl";s:26:"http://tinyurl.com/3v7fv2k";s:4:"isgd";s:19:"http://is.gd/ZfF8J8";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/vista_esta_camisa";s:7:"tinyurl";s:26:"https://tinyurl.com/3v7fv2k";s:4:"isgd";s:19:"https://is.gd/ZfF8J8";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032667
@@ -34,5 +34,5 @@ Abaixo, as instruções:
   7. Boa Sorte. Conto com a participação de vocês.
 
  [1]: mailto:tableless@tableless.com.br
- [2]: http://tableless.com.br/
- [3]: http://tableless.com.br/logo_tableless.rar
+ [2]: https://tableless.com.br/
+ [3]: https://tableless.com.br/logo_tableless.rar

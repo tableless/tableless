@@ -9,7 +9,7 @@ tweetbackscheck:
   - 1356462992
   - 1356462992
 shorturls:
-  - 'a:3:{s:9:"permalink";s:69:"http://tableless.com.br/w3c-decide-descontinuar-svg-e-adotar-o-flash/";s:7:"tinyurl";s:26:"http://tinyurl.com/bpb6qn4";s:4:"isgd";s:19:"http://is.gd/WKSe1x";}'
+  - 'a:3:{s:9:"permalink";s:69:"https://tableless.com.br/w3c-decide-descontinuar-svg-e-adotar-o-flash/";s:7:"tinyurl";s:26:"https://tinyurl.com/bpb6qn4";s:4:"isgd";s:19:"https://is.gd/WKSe1x";}'
 twittercomments:
   - 'a:15:{i:186295923545092096;s:7:"retweet";i:186318302216331264;s:7:"retweet";i:186297485973655552;s:7:"retweet";i:186291692821938176;s:7:"retweet";i:186288960539078657;s:7:"retweet";i:186288365623181312;s:7:"retweet";i:186287832023838721;s:7:"retweet";i:186287165146279937;s:7:"retweet";i:187088007684304896;s:7:"retweet";i:186787699775111168;s:7:"retweet";i:186318911296385024;s:7:"retweet";i:186313366682349568;s:7:"retweet";i:186290097702973440;s:7:"retweet";i:186289889631944704;s:7:"retweet";i:186288202670288897;s:7:"retweet";}'
 tweetcount:
@@ -35,4 +35,4 @@ Quanto a pergunta sobre a falta de suporte do Flash em aparelhos da Apple, espec
 
 E você, [o que acha disso][1]?
 
- [1]: http://en.wikipedia.org/wiki/April_Fools'_Day
+ [1]: https://en.wikipedia.org/wiki/April_Fools'_Day

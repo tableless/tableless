@@ -7,7 +7,7 @@ url: /wireless_wlan_wifi/
 tweetbackscheck:
   - 1356305544
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/wireless_wlan_wifi";s:7:"tinyurl";s:26:"http://tinyurl.com/3z44gxx";s:4:"isgd";s:19:"http://is.gd/ES7UGK";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/wireless_wlan_wifi";s:7:"tinyurl";s:26:"https://tinyurl.com/3z44gxx";s:4:"isgd";s:19:"https://is.gd/ES7UGK";}'
 twittercomments:
   - 'a:1:{i:29937188628078594;s:7:"retweet";}'
 tweetcount:
@@ -21,5 +21,5 @@ O [Rigonatti][1], administrador do site [Mobile Life][1], fez um artigo que nos 
               
 Vale muito a pena ler o artigo: [Introdução ao Mundo Wireless][2].
 
- [1]: http://www.mobilelife.com.br/
- [2]: http://www.mobilelife.com.br/artigos/introducao.asp
+ [1]: https://www.mobilelife.com.br/
+ [2]: https://www.mobilelife.com.br/artigos/introducao.asp

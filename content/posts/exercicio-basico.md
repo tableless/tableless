@@ -18,7 +18,7 @@ Costumo dar esse exercício para alguns dos alunos aqui da [Visie][1]. Ele é um
 
 Esse exercício está **disponível gratuitamente** no [Campus Online][2] também, em texto e em vídeo na [parte de Tableless][3]!
   
-<http://visie.com.br/campus/>
+<https://visie.com.br/campus/>
 
 [<img class="alignleft size-thumbnail wp-image-1026" title="Layout Básico de Tableless" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2008/10/layout-tableless-150x150.jpg" alt="Exercício de Tableless do Campus Online" width="150" height="150" />][4]
 
@@ -28,7 +28,7 @@ Nesse exercício o camarada vai utilizar as propriedades: margin, padding, line-
 
 Tem um vídeo, para os assinantes pagantes, com a implementação do HTML e outro vídeo com a implementaçãodo CSS em cima deste HTML. Assim o camarada pode comparar o seu exercício com o do vídeo.
 
- [1]: http://visie.com.br/treinamento/
- [2]: http://visie.com.br/campus/ "Videos tutoriais sobre Tableless"
- [3]: http://visie.com.br/campus/assunto/1 "Videos tutoriais sobre Tableless"
- [4]: http://visie.com.br/campus/static/media/exemplos/tableless/layout-tableless/layout-tableless.jpg
+ [1]: https://visie.com.br/treinamento/
+ [2]: https://visie.com.br/campus/ "Videos tutoriais sobre Tableless"
+ [3]: https://visie.com.br/campus/assunto/1 "Videos tutoriais sobre Tableless"
+ [4]: https://visie.com.br/campus/static/media/exemplos/tableless/layout-tableless/layout-tableless.jpg

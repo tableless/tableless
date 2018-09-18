@@ -16,7 +16,7 @@ tags:
 ---
 ## O que é Codeigniter?
 
-O **Codeigniter** é um _framework_ para desenvolvimento web baseado na arquitetura MVC. Se você não sabe o que significa MVC ou não entende bem o seu funcionamento poderá encontrar maiores informações <a href="http://tableless.com.br/mvc-afinal-e-o-que/" target="_blank">neste post</a> do Tableless.
+O **Codeigniter** é um _framework_ para desenvolvimento web baseado na arquitetura MVC. Se você não sabe o que significa MVC ou não entende bem o seu funcionamento poderá encontrar maiores informações <a href="https://tableless.com.br/mvc-afinal-e-o-que/" target="_blank">neste post</a> do Tableless.
 
 Este _framework_ apresenta uma estrutura que lhe permite de forma rápida fazer uso de bibliotecas para ganhar tempo e aproveitar a reutilização de código. Entenda este _framework_ como um kit de ferramentas que tornarão seu ambiente de desenvolvimento ainda mais rápido.
 
@@ -30,13 +30,13 @@ Este _framework_ apresenta uma estrutura que lhe permite de forma rápida fazer 
   * É muito leve em relação a outros _frameworks_;
   * Não será descontinuado tão cedo. O medo já passou;
   * Mantém-se atualizado;
-  * Está entre os _frameworks_ PHP favoritos para 2015 (<a title="frameworks PHP favoritos 2015" href="http://icl.googleusercontent.com/?lite_url=http://blog.a-way-out.net/blog/2015/03/27/php-framework-benchmark/&ei=UJ3_QIlA&lc=pt-BR&s=1" target="_blank">veja aqui</a>);
+  * Está entre os _frameworks_ PHP favoritos para 2015 (<a title="frameworks PHP favoritos 2015" href="https://icl.googleusercontent.com/?lite_url=https://blog.a-way-out.net/blog/2015/03/27/php-framework-benchmark/&ei=UJ3_QIlA&lc=pt-BR&s=1" target="_blank">veja aqui</a>);
 
-Se você nunca usou o Codeigniter, veja dicas e técnicas de utilização hackeando a <a title="codeigniter" href="http://www.codeigniter.com/" target="_blank">documentação aqui</a>.
+Se você nunca usou o Codeigniter, veja dicas e técnicas de utilização hackeando a <a title="codeigniter" href="https://www.codeigniter.com/" target="_blank">documentação aqui</a>.
 
 ## Faça seu Hello World com o Codeigniter
 
-Acesse a página inicial do Codeigniter para fazer <a href="http://www.codeigniter.com/download" target="_blank">download</a> da versão atual do _framework_. A versão utilizada para a realização deste post é a 3.0.
+Acesse a página inicial do Codeigniter para fazer <a href="https://www.codeigniter.com/download" target="_blank">download</a> da versão atual do _framework_. A versão utilizada para a realização deste post é a 3.0.
 
 Para que você possa fazer uso do _framework_ será necessário a utilização de um servidor local. Você pode usar, por exemplo, ferramentas como o <a href="https://www.apachefriends.org/pt_br/index.html" target="_blank">Xampp</a>, que possui Apache, PHP e MySql disponíveis.
 
@@ -48,9 +48,9 @@ Colocando a pasta do Codeigniter neste local será possível visualizar uma est
 
 Dentro da pasta _application_, ficarão todos os arquivos importantes para o desenvolvimento da sua aplicação.  Na pasta _system_ ficam o que podemos chamar de &#8220;_kernel_&#8221; do _framework_, mas isso é assunto para outro momento. 😀
 
-Dentro da pasta _application_ você encontrará duas pastas importantes para o nosso &#8220;_Hello World_&#8220;, sendo elas: a pasta _controller_ e a pasta _views_. Novamente, se você tem dúvidas sobre a nomenclatura destas pastas e como funciona a arquitetura MVC, <a href="http://tableless.com.br/mvc-afinal-e-o-que/" target="_blank">este post</a> pode te auxiliar.
+Dentro da pasta _application_ você encontrará duas pastas importantes para o nosso &#8220;_Hello World_&#8220;, sendo elas: a pasta _controller_ e a pasta _views_. Novamente, se você tem dúvidas sobre a nomenclatura destas pastas e como funciona a arquitetura MVC, <a href="https://tableless.com.br/mvc-afinal-e-o-que/" target="_blank">este post</a> pode te auxiliar.
 
-Com o Apache inicializado, acesse o endereço: **_http://localhost/CodeIgniter-3.0.0/_**. Será possível ver seu Codeigniter funcionando conforme a imagem a seguir:
+Com o Apache inicializado, acesse o endereço: **_https://localhost/CodeIgniter-3.0.0/_**. Será possível ver seu Codeigniter funcionando conforme a imagem a seguir:
 
 [<img class="alignnone wp-image-49602 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/screenshot-localhost-2015-06-17-10-47-23.png" alt="Tela - Seja bem vindo ao Codeigniter" width="1512" height="394" />][1]
 

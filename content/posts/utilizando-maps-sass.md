@@ -148,11 +148,11 @@ A única coisa que você vai gerenciar depois são as variáveis para modificar 
 Veja abaixo um exemplo mais completo, mostrando o código final do CSS gerado:
 
 <p class="sassmeister" data-gist-id="9fc788894331313ce485" data-height="480">
-  <a href="http://sassmeister.com/gist/9fc788894331313ce485">Play with this gist on SassMeister.</a>
+  <a href="https://sassmeister.com/gist/9fc788894331313ce485">Play with this gist on SassMeister.</a>
 </p>
 
 
 
 [O pessoal do Viget explorou outro problema][1] para resolver. Na verdade, as implicações são diversas. A qualquer momento que você tiver um bloco de código repetitivo e que depende de muitas variações, o `maps` é indicado.
 
- [1]: http://viget.com/extend/sass-maps-are-awesome
+ [1]: https://viget.com/extend/sass-maps-are-awesome

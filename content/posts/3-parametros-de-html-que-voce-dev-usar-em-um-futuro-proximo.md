@@ -62,7 +62,7 @@ O padrão foi [rejeitado pelo Microformats][7] por ser parecido com rel=&#8221;i
 
 Basta uma linha de HTML para utilizar rel=&#8221;logo&#8221; em seu site. O processo é bem similar ao de implementação de um favicon ou um apple touch icon. Para utilizar basta realizar o upload do arquivo SVG em um servidor qualquer e adicionar o seguinte código entre as tags head (obviamente substituindo &#8220;seudominio.com.br&#8221; pelo endereço do seu arquivo).
 
-<pre class="lang-HTML">&lt;link rel="logo"   type="image/svg"  href="http://www.seudominio.com.br/logo.svg"/&gt;</pre>
+<pre class="lang-HTML">&lt;link rel="logo"   type="image/svg"  href="https://www.seudominio.com.br/logo.svg"/&gt;</pre>
 
 E pronto! Você pode testar o funcionamento utilizando a [API do serviço][8].
 
@@ -92,13 +92,13 @@ Além de baixar automáticamente ao clicar no link, no Google Chrome também é 
 
 Este pensamento aplica-se perfeitamente ao desenvolvimento web. As vezes dependemos muito de padrões, consórcios e associações fechadas para determinar o futuro e esquecemos que nós, desenvolvedores, também temos o poder para criarmos nossos próprios caminhos e fazermos a diferença na comunidade. Iniciativas como rel=&#8221;logo&#8221; e Responsive Images Community Group são a prova disto.
 
- [1]: http://responsiveimages.org/ "Responsive Images Community Group"
- [2]: http://picture.responsiveimages.org/ "Responsive Images - Picture"
+ [1]: https://responsiveimages.org/ "Responsive Images Community Group"
+ [2]: https://picture.responsiveimages.org/ "Responsive Images - Picture"
  [3]: https://github.com/responsiveimagescg "Responsive Images CG "
- [4]: http://www.w3.org/html/wg/drafts/srcset/w3c-srcset/ "W3C - Srcset "
- [5]: http://www.brandsoftheworld.com/ "Brands of the World"
- [6]: http://relogo.org "relogo"
- [7]: http://microformats.org/wiki/rel-logo "Rel Logo"
- [8]: http://relogo.org/api/ "Relogo API"
- [9]: http://demo.jarnesjo.net/jquery-logo-downloadtip/ "jQuery Logo Downloadtip"
- [10]: http://html5-demos.appspot.com/static/a.download.html "A-download Demo"
+ [4]: https://www.w3.org/html/wg/drafts/srcset/w3c-srcset/ "W3C - Srcset "
+ [5]: https://www.brandsoftheworld.com/ "Brands of the World"
+ [6]: https://relogo.org "relogo"
+ [7]: https://microformats.org/wiki/rel-logo "Rel Logo"
+ [8]: https://relogo.org/api/ "Relogo API"
+ [9]: https://demo.jarnesjo.net/jquery-logo-downloadtip/ "jQuery Logo Downloadtip"
+ [10]: https://html5-demos.appspot.com/static/a.download.html "A-download Demo"

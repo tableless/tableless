@@ -66,11 +66,11 @@ Vamos discutir sobre o assunto, porque discutir é sempre saudável, hehe.
 
 Abraços, até a próxima 😉
 
- [1]: http://macaw.co/
+ [1]: https://macaw.co/
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/Macaw.png
- [3]: http://attasi.com/
+ [3]: https://attasi.com/
  [4]: https://www.kickstarter.com/projects/macaw/macaw-the-code-savvy-web-design-tool
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/macaw2.png
- [6]: http://download.macaw.co/
+ [6]: https://download.macaw.co/
  [7]: https://secure.macaw.co/
- [8]: http://forum.macaw.co/
+ [8]: https://forum.macaw.co/

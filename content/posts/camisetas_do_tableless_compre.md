@@ -7,7 +7,7 @@ url: /camisetas_do_tableless_compre/
 tweetbackscheck:
   - 1356341538
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/camisetas_do_tableless_compre";s:7:"tinyurl";s:26:"http://tinyurl.com/3hymzgx";s:4:"isgd";s:19:"http://is.gd/AuyN4Q";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/camisetas_do_tableless_compre";s:7:"tinyurl";s:26:"https://tinyurl.com/3hymzgx";s:4:"isgd";s:19:"https://is.gd/AuyN4Q";}'
 twittercomments:
   - 'a:1:{i:37458459695910912;s:7:"retweet";}'
 tweetcount:
@@ -41,6 +41,6 @@ Como prometi, estou retirando os banners do google&#8230;
   
 Espero a ajuda de vocês!
 
- [1]: http://tableless.com.br/contato.asp
- [2]: http://www.correios.com.br/servicos/precos_tarifas/nacionais/pdf/Encomendas_Normais.zip
- [3]: http://tableless.com.br/camiseta/
+ [1]: https://tableless.com.br/contato.asp
+ [2]: https://www.correios.com.br/servicos/precos_tarifas/nacionais/pdf/Encomendas_Normais.zip
+ [3]: https://tableless.com.br/camiseta/

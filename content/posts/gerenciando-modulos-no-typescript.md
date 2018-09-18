@@ -560,6 +560,6 @@ Você verá a mensagem _Olá mundo_, mas o que estamos interessados é no carreg
 
 ## Conclusão
 
-Neste artigo criamos duas formas para utilizar TypeScript no qual os arquivos estão inicialmente separados. A primeira é utilizando o padrão do TypeScript e o `/// <reference path="arquivo.ts" />` e a segunda é usando `requirejs` para carregar os arquivos javascript via ajax. Para que você possa se aprofundar ainda mais neste conceito, que é complexo, sugiro a leitura da documentação: <a href="http://www.typescriptlang.org/Handbook#modules" target="_blank">http://www.typescriptlang.org/Handbook#modules</a>
+Neste artigo criamos duas formas para utilizar TypeScript no qual os arquivos estão inicialmente separados. A primeira é utilizando o padrão do TypeScript e o `/// <reference path="arquivo.ts" />` e a segunda é usando `requirejs` para carregar os arquivos javascript via ajax. Para que você possa se aprofundar ainda mais neste conceito, que é complexo, sugiro a leitura da documentação: <a href="https://www.typescriptlang.org/Handbook#modules" target="_blank">https://www.typescriptlang.org/Handbook#modules</a>
 
- [1]: http://tableless.com.br/diga-ola-ao-typescript-e-adeus-ao-javascript/
+ [1]: https://tableless.com.br/diga-ola-ao-typescript-e-adeus-ao-javascript/

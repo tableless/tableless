@@ -7,7 +7,7 @@ url: /introducao_ajax/
 tweetbackscheck:
   - 1356447573
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/introducao_ajax";s:7:"tinyurl";s:26:"http://tinyurl.com/3jr9d9t";s:4:"isgd";s:19:"http://is.gd/6zLXrf";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/introducao_ajax";s:7:"tinyurl";s:26:"https://tinyurl.com/3jr9d9t";s:4:"isgd";s:19:"https://is.gd/6zLXrf";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033476
@@ -22,4 +22,4 @@ Sempre que um assunto entra em voga, aparece um monte de gente perguntando as me
 
 [Ajax para quem só ouviu falar][1]
 
- [1]: http://tableless.com.br/ajaxdemo/ "Um tutorial introdução ao Ajax"
+ [1]: https://tableless.com.br/ajaxdemo/ "Um tutorial introdução ao Ajax"

@@ -7,7 +7,7 @@ url: /para_o_alto_e_avante/
 tweetbackscheck:
   - 1356364832
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/para_o_alto_e_avante";s:7:"tinyurl";s:26:"http://tinyurl.com/3s54cm3";s:4:"isgd";s:19:"http://is.gd/XLlFhA";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/para_o_alto_e_avante";s:7:"tinyurl";s:26:"https://tinyurl.com/3s54cm3";s:4:"isgd";s:19:"https://is.gd/XLlFhA";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031743
@@ -35,9 +35,9 @@ Padrões Web estão aqui para isso, para ajudar.
 
 <small>OBS.: Contei 2 dispositivos porque os desktops e notebooks usam os mesmo softwares.</small>
 
- [1]: http://www.mobilelife.com.br/
- [2]: http://www.mobilelife.com.br/comenta.asp?post=152
- [3]: http://www.telecentros.sp.gov.br/interna.php?id=911
- [4]: http://www.google.com/bot.html
- [5]: http://www.buscapé.com.br/
- [6]: http://www.bloglines.com/
+ [1]: https://www.mobilelife.com.br/
+ [2]: https://www.mobilelife.com.br/comenta.asp?post=152
+ [3]: https://www.telecentros.sp.gov.br/interna.php?id=911
+ [4]: https://www.google.com/bot.html
+ [5]: https://www.buscapé.com.br/
+ [6]: https://www.bloglines.com/

@@ -8,7 +8,7 @@ url: /introducao-ao-css-shaders/
 tweetbackscheck:
   - 1356408574
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4297";s:7:"tinyurl";s:26:"http://tinyurl.com/687bdec";s:4:"isgd";s:19:"http://is.gd/RjQdnN";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4297";s:7:"tinyurl";s:26:"https://tinyurl.com/687bdec";s:4:"isgd";s:19:"https://is.gd/RjQdnN";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503016117
@@ -18,17 +18,17 @@ categories:
   - HTML
 
 ---
-O recurso de shaders CSS é proposto à consideração da <a title="FX Task Force" href="http://www.w3.org/Graphics/fx/" target="_blank">FX Task Force</a> que pode ser integrado na especificação de <a title="Filter Effects" href="https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/publish/Filters.html" target="_blank">Filter Effects</a>.
+O recurso de shaders CSS é proposto à consideração da <a title="FX Task Force" href="https://www.w3.org/Graphics/fx/" target="_blank">FX Task Force</a> que pode ser integrado na especificação de <a title="Filter Effects" href="https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/publish/Filters.html" target="_blank">Filter Effects</a>.
 
 ### Introdução
 
 Um Shader é essencialmente um pequeno programa que proporciona um efeito particular e cujo comportamento é controlado com parâmetros de entradas.
 
-Arquiteturas de gráficos, tais como <a title="Microsof 3D" href="http://msdn.microsoft.com/en-us/library/bb219679(v=vs.85).aspx" target="_blank">Microsoft Direct3D</a> ou <a title="Open GL" href="http://en.wikipedia.org/wiki/OpenGL" target="_blank">OpenGL </a>tem uma noção de <a title="Vertex Shaders" href="http://en.wikipedia.org/wiki/Vertex_shader" target="_blank">vertex shaders</a> que são operadas em coordenadas de ponto(vértices). Vertex shaders opera em uma malha de vértices e fornece uma ampla variedade de efeitos e distorção (Onda, oscilação). Shaders permitem varios efeitos per-pixel, como por exemplos, um efeito de florescer e vários outros efeitos de imagem (borrão, brilhos, detecção de bordas).
+Arquiteturas de gráficos, tais como <a title="Microsof 3D" href="https://msdn.microsoft.com/en-us/library/bb219679(v=vs.85).aspx" target="_blank">Microsoft Direct3D</a> ou <a title="Open GL" href="https://en.wikipedia.org/wiki/OpenGL" target="_blank">OpenGL </a>tem uma noção de <a title="Vertex Shaders" href="https://en.wikipedia.org/wiki/Vertex_shader" target="_blank">vertex shaders</a> que são operadas em coordenadas de ponto(vértices). Vertex shaders opera em uma malha de vértices e fornece uma ampla variedade de efeitos e distorção (Onda, oscilação). Shaders permitem varios efeitos per-pixel, como por exemplos, um efeito de florescer e vários outros efeitos de imagem (borrão, brilhos, detecção de bordas).
 
-Quando aplicado para um conteúdo do documento, como o HTML ou elementos SVG, shaders podem ser usados de formas interessantes. Esses elementos 2D podem ser desenhados conceitualmente sobre uma malha de vértices que podem ser processados através de um <a title="vertex shader" href="http://en.wikipedia.org/wiki/Vertex_shader" target="_blank">Vertex Shader</a> para a distorção e depois para um <a title="Introdução ao Shader CSS" href="http://tableless.com.br/introducao-ao-css-shaders/" target="_blank">shader</a> de fragmento para o processamento de pixel.
+Quando aplicado para um conteúdo do documento, como o HTML ou elementos SVG, shaders podem ser usados de formas interessantes. Esses elementos 2D podem ser desenhados conceitualmente sobre uma malha de vértices que podem ser processados através de um <a title="vertex shader" href="https://en.wikipedia.org/wiki/Vertex_shader" target="_blank">Vertex Shader</a> para a distorção e depois para um <a title="Introdução ao Shader CSS" href="https://tableless.com.br/introducao-ao-css-shaders/" target="_blank">shader</a> de fragmento para o processamento de pixel.
 
-Shaders são particulamente interessantes no contexto de transições animadas e um complemento para o <a title="Filter Effects 1.0" href="https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/publish/Filters.html" target="_blank">Filter Effects 1.0</a>, <a title="CSS Animation" href="http://tableless.com.br/introducao-ao-css-animation/" target="_blank">CSS Animations</a>, CSS Transitions entre outras.
+Shaders são particulamente interessantes no contexto de transições animadas e um complemento para o <a title="Filter Effects 1.0" href="https://dvcs.w3.org/hg/FXTF/raw-file/tip/filters/publish/Filters.html" target="_blank">Filter Effects 1.0</a>, <a title="CSS Animation" href="https://tableless.com.br/introducao-ao-css-animation/" target="_blank">CSS Animations</a>, CSS Transitions entre outras.
 
 Este documento propõe:
 

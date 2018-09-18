@@ -15,6 +15,6 @@ Esse ano estamos fazendo de novo! São uma série de mais ou menos 50 perguntas,
 
 Quando tivermos uma boa quantidade de respostas, talvez daqui um mês, iremos divulgar os números!
 
-<a class="typeform-share button" href="http://bit.ly/surveytableless2015" data-mode="2" target="_blank" style="display: inline-block; float: none !important; clear:both !important; font-size:17px; font-weight: bold; padding: 15px 20px;">Participar do Survey</a>
+<a class="typeform-share button" href="https://bit.ly/surveytableless2015" data-mode="2" target="_blank" style="display: inline-block; float: none !important; clear:both !important; font-size:17px; font-weight: bold; padding: 15px 20px;">Participar do Survey</a>
 
- [1]: http://tableless.com.br/resultados-survey-2013/
+ [1]: https://tableless.com.br/resultados-survey-2013/

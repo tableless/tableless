@@ -8,7 +8,7 @@ url: /melhorando-exibicao-tabelas-jquery/
 tweetbackscheck:
   - 1356390494
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/melhorando-exibicao-tabelas-jquery";s:7:"tinyurl";s:26:"http://tinyurl.com/3v6c35h";s:4:"isgd";s:19:"http://is.gd/Ytlonr";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/melhorando-exibicao-tabelas-jquery";s:7:"tinyurl";s:26:"https://tinyurl.com/3v6c35h";s:4:"isgd";s:19:"https://is.gd/Ytlonr";}'
 twittercomments:
   - 'a:18:{i:154615976267223040;s:7:"retweet";i:155083394810781698;s:7:"retweet";i:154616999388004352;s:7:"retweet";i:154616211605434368;s:7:"retweet";i:155435615784157184;s:7:"retweet";i:155413305966592001;s:7:"retweet";i:158879278535147521;s:7:"retweet";i:158005508240977920;s:7:"retweet";i:157983947568066560;s:7:"retweet";i:157976260235108354;s:7:"retweet";i:157969310793482242;s:7:"retweet";i:179074809936879618;s:7:"retweet";i:179074809878159360;s:7:"retweet";i:178877039108042752;s:7:"retweet";i:178844424304996353;s:7:"retweet";i:178842888539619328;s:7:"retweet";i:178831506565906432;s:7:"retweet";i:178824922548805632;s:7:"retweet";}'
 tweetcount:
@@ -26,7 +26,7 @@ Tabelas (aquelas com dados tabulares) são elementos importantes, principalmente
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/03/tabela.png" alt="Tabela HTML de exemplo" width="609" height="488" class="aligncenter size-full wp-image-3182" srcset="uploads/2011/03/tabela.png 609w, uploads/2011/03/tabela-300x240.png 300w" sizes="(max-width: 609px) 100vw, 609px" />
 
-<a href="https://github.com/tableless/exemplos/tree/gh-pages/melhorando-exibicao-tabelas-jquery" target="_blank">Clique aqui para fazer o download do exemplo</a> ou <a href="http://tableless.github.com/exemplos/melhorando-exibicao-tabelas-jquery/" target="_blank">aqui para visualizar o exemplo no navegador</a>.
+<a href="https://github.com/tableless/exemplos/tree/gh-pages/melhorando-exibicao-tabelas-jquery" target="_blank">Clique aqui para fazer o download do exemplo</a> ou <a href="https://tableless.github.com/exemplos/melhorando-exibicao-tabelas-jquery/" target="_blank">aqui para visualizar o exemplo no navegador</a>.
 
 Utilizando algumas ferramentas jQuery vamos dar uma vida nova para tabelas e seus dados. Efeitos como uma cor diferente no mouseover, filtros, ordenação dos registros e paginação. Alguns desses efeitos utilizam apenas uma linha de código, enquanto outros serão proporcionados pelo plugin **tablesorter**.
 

@@ -30,7 +30,7 @@ O Chromebook, para quem ainda não conhece é um notebook que roda o sistema ope
 
 Levando em consideração que você já possui algum conhecimento em desenvolvimento web, eu quero compartilhar com vocês a minha experiência como desenvolvedor front-end utilizando um Chromebook. Abaixo eu vou apresentar algumas soluções que eu encontrei para usar o meu Chromebook como HOD e desenvolver aplicações usando HTML, CSS e JavaScript usando o Sublime Text e acessando todos os recursos de um servidor.
 
-Um exemplo bem legal é o **<a href="http://thomaswilburn.net/caret/" target="_blank">Caret</a>**, editor de códigos bem simples porém muito funcional. O Caret é aquele tipo de editor honesto, que não oferece muita perfumaria e faz exatamente o que se propõe a fazer. Abaixo eu mostro uma imagem onde eu só abri ele e colei um JavaScript do Google Maps. Você pode ver que o Caret já reconhece o tipo de código como sendo JavaScript. Como o Chrome OS é um sistema baseado em cloud, se por acaso você estiver em um ambiente off-line (e eu espero que isso nunca aconteça) ainda assim é possível escrever as suas aplicações web, criar exemplos ou até mesmo melhorar os seus estudos.
+Um exemplo bem legal é o **<a href="https://thomaswilburn.net/caret/" target="_blank">Caret</a>**, editor de códigos bem simples porém muito funcional. O Caret é aquele tipo de editor honesto, que não oferece muita perfumaria e faz exatamente o que se propõe a fazer. Abaixo eu mostro uma imagem onde eu só abri ele e colei um JavaScript do Google Maps. Você pode ver que o Caret já reconhece o tipo de código como sendo JavaScript. Como o Chrome OS é um sistema baseado em cloud, se por acaso você estiver em um ambiente off-line (e eu espero que isso nunca aconteça) ainda assim é possível escrever as suas aplicações web, criar exemplos ou até mesmo melhorar os seus estudos.
 
 [<img class="alignnone size-full wp-image-48364" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/04/Screenshot-2015-04-18-at-16.06.24.png" alt="Screenshot 2015-04-18 at 16.06.24" width="1366" height="768" />][1]
 
@@ -60,9 +60,9 @@ Continuando as experiências &#8230;
 
 Veja que dentro do diretório ceva tem um outro diretório que é chamado de ruivo (no caso sou eu). Óbvio que isso é mais um teste para mostrar o que você pode fazer com essa ferramenta em cloud. Vamos ver como ficou o meu ambiente de produção.
 
-O serviço que eu dei start quando criei a minha conta (wordpress) <a href="http://ceva-realruivo.c9.io/" target="_blank">pode ser acessado por aqui</a>.
+O serviço que eu dei start quando criei a minha conta (wordpress) <a href="https://ceva-realruivo.c9.io/" target="_blank">pode ser acessado por aqui</a>.
 
-Esse outro diretório chamado de ruivo (no caso eu de novo) tem uma estrutura em HTML, CSS e JS que eu fiz apenas para testar e <a href="http://ceva-realruivo.c9.io/ruivo/" target="_blank">pode ser acessada por aqui</a>.
+Esse outro diretório chamado de ruivo (no caso eu de novo) tem uma estrutura em HTML, CSS e JS que eu fiz apenas para testar e <a href="https://ceva-realruivo.c9.io/ruivo/" target="_blank">pode ser acessada por aqui</a>.
 
 Todo o conteúdo disponível nesses links está partindo de uma ferramenta que eu rodo pelo browser. É grátis! Você pode usar como ambiente de produção e permitir ao seu cliente, por exemplo, acompanhar em tempo real o andamento dos processos através da URL gerada pelo próprio Cloud 9.
 

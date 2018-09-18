@@ -8,7 +8,7 @@ url: /especificacao-para-touch-screens/
 tweetbackscheck:
   - 1356391427
 shorturls:
-  - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/especificacao-para-touch-screens";s:7:"tinyurl";s:26:"http://tinyurl.com/3uqkomg";s:4:"isgd";s:19:"http://is.gd/eVQT1p";}'
+  - 'a:3:{s:9:"permalink";s:56:"https://tableless.com.br/especificacao-para-touch-screens";s:7:"tinyurl";s:26:"https://tinyurl.com/3uqkomg";s:4:"isgd";s:19:"https://is.gd/eVQT1p";}'
 twittercomments:
   - 'a:29:{i:126272505781555203;s:7:"retweet";i:126004282158878720;s:7:"retweet";i:125993918478303233;s:7:"retweet";i:125993502457864192;s:7:"retweet";i:164742954123132930;s:7:"retweet";i:164739646620835840;s:7:"retweet";i:184333298284244994;s:7:"retweet";i:200555587027738625;s:7:"retweet";i:200267957933318146;s:7:"retweet";i:204989362314821632;s:7:"retweet";i:204976737002598400;s:7:"retweet";i:204968681162276865;s:7:"retweet";i:204968341297823745;s:7:"retweet";i:204968330241654784;s:7:"retweet";i:204967937495408641;s:7:"retweet";i:218750502446440452;s:7:"retweet";i:218740519315054593;s:7:"retweet";i:218739630785302528;s:7:"retweet";i:237942847175806976;s:7:"retweet";i:235769811542609921;s:7:"retweet";i:235769237673750529;s:7:"retweet";i:250272917135425536;s:7:"retweet";i:255700479366029312;s:7:"retweet";i:255700375867375617;s:7:"retweet";i:263317060619206657;s:7:"retweet";i:263315085672448000;s:7:"retweet";i:263310844518080512;s:7:"retweet";i:271647463423762434;s:7:"retweet";i:271644654305435648;s:7:"retweet";}'
 tweetcount:
@@ -52,5 +52,5 @@ Se você parar para ler a específicação, vai entender que poderemos controlar
 
 A especificação ainda é um rascunho mas já está mostrando que as possibilidades são imensas. Eu vivo me perguntando até onde irá o HTML, CSS e Javascript com essas novas mudanças. Será que vão continuar fáceis como são hoje ou tudo vai ficar complicado? Será que serão eles que farão todo o trabalho ou novas linguagens serão criadas para lidar com essas novidades? Who knows? Eu tenho um palpite, mas é assunto para outra hora.
 
- [1]: http://www.microsoft.com/surface/
- [2]: http://bit.ly/mMP5jy
+ [1]: https://www.microsoft.com/surface/
+ [2]: https://bit.ly/mMP5jy

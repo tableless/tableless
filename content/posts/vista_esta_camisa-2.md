@@ -7,7 +7,7 @@ url: /vista_esta_camisa-2/
 tweetbackscheck:
   - 1356460050
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/vista_esta_camisa-2";s:7:"tinyurl";s:26:"http://tinyurl.com/3da2k3q";s:4:"isgd";s:19:"http://is.gd/RN7Rrz";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/vista_esta_camisa-2";s:7:"tinyurl";s:26:"https://tinyurl.com/3da2k3q";s:4:"isgd";s:19:"https://is.gd/RN7Rrz";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 517736247
@@ -45,5 +45,5 @@ Peço imensas desculpas ao pessoal que colaborou.
               
 Não parem de colaborar! Por favor!
 
- [1]: http://www.linuxmall.com.br/
- [2]: http://www.linuxmall.com.br/index.php?product_id=2370
+ [1]: https://www.linuxmall.com.br/
+ [2]: https://www.linuxmall.com.br/index.php?product_id=2370

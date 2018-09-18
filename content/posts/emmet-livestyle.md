@@ -42,6 +42,6 @@ O pessoal listou em seu site algumas features:
 
 Leia as instruções e [instale agora][3] para testar.
 
- [1]: http://tableless.com.br/bye-zen-coding-bem-vindo-emmet/
- [2]: http://livestyle.emmet.io
- [3]: http://livestyle.emmet.io/install/
+ [1]: https://tableless.com.br/bye-zen-coding-bem-vindo-emmet/
+ [2]: https://livestyle.emmet.io
+ [3]: https://livestyle.emmet.io/install/

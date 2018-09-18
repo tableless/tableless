@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356420070
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bonito-de-se-ver-31";s:7:"tinyurl";s:26:"http://tinyurl.com/3mlc7ln";s:4:"isgd";s:19:"http://is.gd/eDNPWg";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/bonito-de-se-ver-31";s:7:"tinyurl";s:26:"https://tinyurl.com/3mlc7ln";s:4:"isgd";s:19:"https://is.gd/eDNPWg";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034882
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.indianheadranch.com/>
-  2. <http://www.pestol.dk/index.php>
-  3. <http://www.earph.com/>
-  4. <http://www.alsacreations.fr/>
-  5. <http://www.designdeconstruct.com/>
+  1. <https://www.indianheadranch.com/>
+  2. <https://www.pestol.dk/index.php>
+  3. <https://www.earph.com/>
+  4. <https://www.alsacreations.fr/>
+  5. <https://www.designdeconstruct.com/>

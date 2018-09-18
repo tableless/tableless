@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356466647
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/gradientes-em-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3gqncch";s:4:"isgd";s:19:"http://is.gd/leoN1w";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/gradientes-em-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3gqncch";s:4:"isgd";s:19:"https://is.gd/leoN1w";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503028815
@@ -66,5 +66,5 @@ A [biblioteca de referência do Safari][2] tem alguns exemplos muito bons sobre 
 Para gradientes simples e para ocasiões onde o Internet Explorer não seja requisitado, esse recurso é interessante. Se o IE for realmente uma pedra no seu caminho e você precisa fazer uma versão com imagens para ele, aconselho deixar essa técnica para lá e fazer uma versão com imagens para todos os browsers. Você vai ter o trabalho já de produzir as imagens, recortá-las e etc, não vale a pena manter dois tipos de códigos.
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/09/gradiente.html
- [2]: http://developer.apple.com/library/safari/#documentation/InternetWeb/Conceptual/SafariVisualEffectsProgGuide/Gradients/Gradients.html
- [3]: http://www.westciv.com/tools/gradients/index.html
+ [2]: https://developer.apple.com/library/safari/#documentation/InternetWeb/Conceptual/SafariVisualEffectsProgGuide/Gradients/Gradients.html
+ [3]: https://www.westciv.com/tools/gradients/index.html

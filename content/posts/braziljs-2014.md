@@ -48,5 +48,5 @@ Se você quiser ver uma análise mais inteligente das palestras, sugiro que leia
  [7]: https://gist.github.com/diegoeis/1033b3f7a91cb8a337d8
  [8]: https://gist.github.com/diegoeis/bcb8dd2809c03dcfc581
  [9]: https://gist.github.com/danielfilho/2192d44ca3635d2b7417
- [10]: http://jcemer.com/brazil-js-2014-primeiro-dia.html
- [11]: http://jcemer.com/brazil-js-2014-segundo-dia.html
+ [10]: https://jcemer.com/brazil-js-2014-primeiro-dia.html
+ [11]: https://jcemer.com/brazil-js-2014-segundo-dia.html

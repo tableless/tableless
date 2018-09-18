@@ -105,10 +105,10 @@ Aposto que você tem algumas rotas em suas APIs que são síncronas mas não pr
  [1]: https://jwt.io/
  [2]: https://oauth.net/
  [3]: https://oauth.net/2/
- [4]: http://graphql.org/learn/
- [5]: http://redis.io/
+ [4]: https://graphql.org/learn/
+ [5]: https://redis.io/
  [6]: https://memcached.org/
- [7]: http://blog.remarkablelabs.com/2012/12/russian-doll-caching-cache-digests-rails-4-countdown-to-2013
- [8]: http://martinfowler.com/articles/richardsonMaturityModel.html
+ [7]: https://blog.remarkablelabs.com/2012/12/russian-doll-caching-cache-digests-rails-4-countdown-to-2013
+ [8]: https://martinfowler.com/articles/richardsonMaturityModel.html
  [9]: https://www.rabbitmq.com/
  [10]: https://kafka.apache.org/

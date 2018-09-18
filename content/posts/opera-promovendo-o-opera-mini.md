@@ -7,7 +7,7 @@ url: /opera-promovendo-o-opera-mini/
 tweetbackscheck:
   - 1356468335
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/opera-promovendo-o-opera-mini";s:7:"tinyurl";s:26:"http://tinyurl.com/3dham66";s:4:"isgd";s:19:"http://is.gd/FZ2im6";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/opera-promovendo-o-opera-mini";s:7:"tinyurl";s:26:"https://tinyurl.com/3dham66";s:4:"isgd";s:19:"https://is.gd/FZ2im6";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034519
@@ -16,7 +16,7 @@ categories:
   - Geral
 
 ---
-Parece que o Opera está començando a promover mais o Opera Mini &#8211; versão do browser para celulares &#8211; do que o Opera para Desktop. Dá uma olhada na home do site: <http://www.opera.com/>.
+Parece que o Opera está començando a promover mais o Opera Mini &#8211; versão do browser para celulares &#8211; do que o Opera para Desktop. Dá uma olhada na home do site: <https://www.opera.com/>.
   
 Grande idéia, já que a Mozilla e os outros fabricantes dão mais foco em Desktops. Os browsers para mobiles, de maneira geral, são muito imaturos, e o Opera está mudando isso&#8230; enquanto os outros concorrentes não fazem nada, eles começam a tomar o mercado.
 
@@ -32,5 +32,5 @@ Acabei de ver: [Opera Mobile Web Browser Now Available in Beta for Windows Mobil
   
 Hahahaha&#8230; Good bye Internet Explorer&#8230;
 
- [1]: http://www.opera.com/products/mobile/operamini/campaign/
- [2]: http://www.opera.com/pressreleases/en/2006/01/18/
+ [1]: https://www.opera.com/products/mobile/operamini/campaign/
+ [2]: https://www.opera.com/pressreleases/en/2006/01/18/

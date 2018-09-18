@@ -7,7 +7,7 @@ url: /terminou/
 tweetbackscheck:
   - 1356453537
 shorturls:
-  - 'a:3:{s:9:"permalink";s:32:"http://tableless.com.br/terminou";s:7:"tinyurl";s:26:"http://tinyurl.com/3mtxt5l";s:4:"isgd";s:19:"http://is.gd/Sp9FAf";}'
+  - 'a:3:{s:9:"permalink";s:32:"https://tableless.com.br/terminou";s:7:"tinyurl";s:26:"https://tinyurl.com/3mtxt5l";s:4:"isgd";s:19:"https://is.gd/Sp9FAf";}'
 twittercomments:
   - 'a:1:{i:45327983505977344;s:7:"retweet";}'
 tweetcount:
@@ -29,4 +29,4 @@ O layout vai ficar um tempo [aqui][1].
               
 Seus comentários são muito bem vindos.
 
- [1]: http://tableless.com.br/aovivo/novosite.asp "Novo Tableless.com.br"
+ [1]: https://tableless.com.br/aovivo/novosite.asp "Novo Tableless.com.br"

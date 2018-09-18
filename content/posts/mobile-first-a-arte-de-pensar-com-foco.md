@@ -8,7 +8,7 @@ url: /mobile-first-a-arte-de-pensar-com-foco/
 tweetbackscheck:
   - 1356399448
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4669";s:7:"tinyurl";s:26:"http://tinyurl.com/8xylsnv";s:4:"isgd";s:19:"http://is.gd/UYb8aY";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4669";s:7:"tinyurl";s:26:"https://tinyurl.com/8xylsnv";s:4:"isgd";s:19:"https://is.gd/UYb8aY";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503164429
@@ -93,15 +93,15 @@ Não existem mais desculpas. Os browsers para mobiles estão tão modernos quant
 
 Você pode [ler mais sobre este assunto neste livro][11] esperto escrito por [LUKE WROBLEWSKI][12]. Aproveite!
 
- [1]: http://tech.fortune.cnn.com/2011/02/07/idc-smartphone-shipment-numbers-passed-pc-in-q4-2010/
- [2]: http://news.bango.com/2010/02/16/600-percent-growth-in-mobile-web-usage/
- [3]: http://prowireless.com.au/paypal-mobile-payments
- [4]: http://www.plexical.com/blog/2011/09/29/mobile-first-mobile-only/
- [5]: http://www.plexical.com/blog/uploads/2011/09/mobile-first-mobile-only.pdf
+ [1]: https://tech.fortune.cnn.com/2011/02/07/idc-smartphone-shipment-numbers-passed-pc-in-q4-2010/
+ [2]: https://news.bango.com/2010/02/16/600-percent-growth-in-mobile-web-usage/
+ [3]: https://prowireless.com.au/paypal-mobile-payments
+ [4]: https://www.plexical.com/blog/2011/09/29/mobile-first-mobile-only/
+ [5]: https://www.plexical.com/blog/uploads/2011/09/mobile-first-mobile-only.pdf
  [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/12/flickr1.png
  [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/12/flickr2.png
- [8]: http://m.flickr.com/
+ [8]: https://m.flickr.com/
  [9]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/12/gmail.gif
  [10]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/12/espn.gif
- [11]: http://www.abookapart.com/products/mobile-first
- [12]: http://www.lukew.com/
+ [11]: https://www.abookapart.com/products/mobile-first
+ [12]: https://www.lukew.com/

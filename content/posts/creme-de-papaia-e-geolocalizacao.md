@@ -8,7 +8,7 @@ url: /creme-de-papaia-e-geolocalizacao/
 tweetbackscheck:
   - 1356389720
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7408";s:7:"tinyurl";s:26:"http://tinyurl.com/cyd6o5w";s:4:"isgd";s:19:"http://is.gd/hb0OgL";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7408";s:7:"tinyurl";s:26:"https://tinyurl.com/cyd6o5w";s:4:"isgd";s:19:"https://is.gd/hb0OgL";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 948116804
@@ -36,16 +36,16 @@ Fazer uso dos recursos do HTML5 é muito mais simples do que se imagina. Com um 
 
 Você vai ver que utilizar a API de Geolocalização do HTML5 é mamão com açúcar (Desculpe. Não podia deixar esse trocadilho fora do post).
 
- [1]: http://guiadacozinha.uol.com.br/receitas/1722-Receita-de-Creme-de-papaia-com-cassis
- [2]: http://www.w3.org/TR/2010/CR-geolocation-API-20100907/
- [3]: http://www.w3.org/2008/geolocation/
- [4]: http://html5demos.com/geo
- [5]: http://cybercook.terra.com.br/resultado.php?palavra1=mamao+papaya&ingredientes=S
- [6]: http://www.html5rocks.com/en/tutorials/geolocation/trip_meter/
- [7]: http://demo.tutorialzine.com/2012/05/weather-forecast-geolocation-jquery/
- [8]: http://www.malapronta.com.br/blog/2010/12/16/como-o-brasileiro-planeja-suas-ferias/
- [9]: http://www.tripadvisor.com/PressCenter-i4720-c1-Press_Releases.html
- [10]: http://travel.usatoday.com/hotels/post/2012/04/survey-reveals-hotels-guests-want-wifi-over-everything-else/666250/1
- [11]: http://caniuse.com/#feat=geolocation
- [12]: http://www.w3.org/TR/2010/CR-geolocation-API-20100907/#security
- [13]: http://dev.opera.com/articles/view/how-to-use-the-w3c-geolocation-api/
+ [1]: https://guiadacozinha.uol.com.br/receitas/1722-Receita-de-Creme-de-papaia-com-cassis
+ [2]: https://www.w3.org/TR/2010/CR-geolocation-API-20100907/
+ [3]: https://www.w3.org/2008/geolocation/
+ [4]: https://html5demos.com/geo
+ [5]: https://cybercook.terra.com.br/resultado.php?palavra1=mamao+papaya&ingredientes=S
+ [6]: https://www.html5rocks.com/en/tutorials/geolocation/trip_meter/
+ [7]: https://demo.tutorialzine.com/2012/05/weather-forecast-geolocation-jquery/
+ [8]: https://www.malapronta.com.br/blog/2010/12/16/como-o-brasileiro-planeja-suas-ferias/
+ [9]: https://www.tripadvisor.com/PressCenter-i4720-c1-Press_Releases.html
+ [10]: https://travel.usatoday.com/hotels/post/2012/04/survey-reveals-hotels-guests-want-wifi-over-everything-else/666250/1
+ [11]: https://caniuse.com/#feat=geolocation
+ [12]: https://www.w3.org/TR/2010/CR-geolocation-API-20100907/#security
+ [13]: https://dev.opera.com/articles/view/how-to-use-the-w3c-geolocation-api/

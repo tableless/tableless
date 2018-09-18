@@ -270,9 +270,9 @@ Demos um ponta pé inicial exibindo algumas funcionalidades deste framework, mas
       * [telegram.me/danielschmitz][7]&#8211; Converse diretamente comigo pelo Telegram</ul>
 
  [1]: https://jsfiddle.net/
- [2]: http://vuejs.org/guide/installation.html
- [3]: http://vuejs-br.github.io/vuejs.org/guide/
- [4]: http://www.vuejs-brasil.com.br
- [5]: http://vuejs-brasil.slack.com
+ [2]: https://vuejs.org/guide/installation.html
+ [3]: https://vuejs-br.github.io/vuejs.org/guide/
+ [4]: https://www.vuejs-brasil.com.br
+ [5]: https://vuejs-brasil.slack.com
  [6]: https://telegram.me/vuejsbrasil
  [7]: https://telegram.me/danielschmitz

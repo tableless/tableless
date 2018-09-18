@@ -135,6 +135,6 @@ Existem uma [listagem completa na documentação do W3C][1] que mostra não apen
 
 Alguns seletores eu queria muito ver funcionando, como é o caso das time-pseudos [:current, :past e :future][3].
 
- [1]: http://dev.w3.org/csswg/selectors-4/#overview
- [2]: http://css4-selectors.com/selectors/
- [3]: http://dev.w3.org/csswg/selectors-4/#time-pseudos
+ [1]: https://dev.w3.org/csswg/selectors-4/#overview
+ [2]: https://css4-selectors.com/selectors/
+ [3]: https://dev.w3.org/csswg/selectors-4/#time-pseudos

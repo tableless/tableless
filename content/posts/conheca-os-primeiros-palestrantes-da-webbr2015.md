@@ -49,21 +49,21 @@ As [inscrições estão abertas e o lote promocional a R$ 80,00][18] vai até o 
 
 Participe! Fique atento ao [site da conferência][4]. Em breve novos palestrantes serão divulgados.
 
- [1]: http://conferenciaweb.w3c.br/wp-content/themes/webbr2015/assets/img/logos/logo--webbr.svg
- [2]: http://conferenciaweb.w3c.br/inscricoes
- [3]: http://conferenciaweb.w3c.br/trends/#andreisambra
- [4]: http://conferenciaweb.w3c.br/
- [5]: http://conferenciaweb.w3c.br/trends/#sergiolopes
- [6]: http://conferenciaweb.w3c.br/trends/#jaydsongomes
- [7]: http://conferenciaweb.w3c.br/openweb/#cironunes
- [8]: http://conferenciaweb.w3c.br/openweb/#luizcortereal
- [9]: http://conferenciaweb.w3c.br/trends/#alexandregaigalas
- [10]: http://conferenciaweb.w3c.br/openweb/#rafaelrinaldi
- [11]: http://conferenciaweb.w3c.br/privacy/#fernandoike
- [12]: http://conferenciaweb.w3c.br/privacy/#camilagomes
- [13]: http://conferenciaweb.w3c.br/privacy/#nandovieira
- [14]: http://conferenciaweb.w3c.br/workshop/#leonardoruosso
- [15]: http://conferenciaweb.w3c.br/workshop/#hannelitavante
- [16]: http://conferenciaweb.w3c.br/workshop/#talitapagani
- [17]: http://conferenciaweb.w3c.br/workshop/#helderdarocha
- [18]: http://conferenciaweb.w3c.br/inscricoes/
+ [1]: https://conferenciaweb.w3c.br/wp-content/themes/webbr2015/assets/img/logos/logo--webbr.svg
+ [2]: https://conferenciaweb.w3c.br/inscricoes
+ [3]: https://conferenciaweb.w3c.br/trends/#andreisambra
+ [4]: https://conferenciaweb.w3c.br/
+ [5]: https://conferenciaweb.w3c.br/trends/#sergiolopes
+ [6]: https://conferenciaweb.w3c.br/trends/#jaydsongomes
+ [7]: https://conferenciaweb.w3c.br/openweb/#cironunes
+ [8]: https://conferenciaweb.w3c.br/openweb/#luizcortereal
+ [9]: https://conferenciaweb.w3c.br/trends/#alexandregaigalas
+ [10]: https://conferenciaweb.w3c.br/openweb/#rafaelrinaldi
+ [11]: https://conferenciaweb.w3c.br/privacy/#fernandoike
+ [12]: https://conferenciaweb.w3c.br/privacy/#camilagomes
+ [13]: https://conferenciaweb.w3c.br/privacy/#nandovieira
+ [14]: https://conferenciaweb.w3c.br/workshop/#leonardoruosso
+ [15]: https://conferenciaweb.w3c.br/workshop/#hannelitavante
+ [16]: https://conferenciaweb.w3c.br/workshop/#talitapagani
+ [17]: https://conferenciaweb.w3c.br/workshop/#helderdarocha
+ [18]: https://conferenciaweb.w3c.br/inscricoes/

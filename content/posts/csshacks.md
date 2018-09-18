@@ -7,7 +7,7 @@ url: /csshacks/
 tweetbackscheck:
   - 1356447337
 shorturls:
-  - 'a:3:{s:9:"permalink";s:32:"http://tableless.com.br/csshacks";s:7:"tinyurl";s:26:"http://tinyurl.com/3gyg86r";s:4:"isgd";s:19:"http://is.gd/Qz7edn";}'
+  - 'a:3:{s:9:"permalink";s:32:"https://tableless.com.br/csshacks";s:7:"tinyurl";s:26:"https://tinyurl.com/3gyg86r";s:4:"isgd";s:19:"https://is.gd/Qz7edn";}'
 twittercomments:
   - 'a:1:{i:22315039234981888;s:6:"136574";}'
 tweetcount:

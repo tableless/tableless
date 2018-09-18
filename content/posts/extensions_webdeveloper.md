@@ -7,7 +7,7 @@ url: /extensions_webdeveloper/
 tweetbackscheck:
   - 1355028784
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/extensions_webdeveloper";s:7:"tinyurl";s:26:"http://tinyurl.com/3gjtqks";s:4:"isgd";s:19:"http://is.gd/vHOiva";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/extensions_webdeveloper";s:7:"tinyurl";s:26:"https://tinyurl.com/3gjtqks";s:4:"isgd";s:19:"https://is.gd/vHOiva";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032732
@@ -39,6 +39,6 @@ Realmente, é uma mão na roda.
   * [Baixar extensão Web Developer][2]
   * [Mais informações][3]
 
- [1]: http://www.mozilla.org/products/firefox/
- [2]: http://ftp.mozilla.org/pub/mozilla.org/extensions/web_developer/web_developer-0.9.3-fx.xpi
- [3]: http://chrispederick.com/work/firefox/webdeveloper/
+ [1]: https://www.mozilla.org/products/firefox/
+ [2]: https://ftp.mozilla.org/pub/mozilla.org/extensions/web_developer/web_developer-0.9.3-fx.xpi
+ [3]: https://chrispederick.com/work/firefox/webdeveloper/

@@ -7,7 +7,7 @@ url: /criadores_de_caso/
 tweetbackscheck:
   - 1356463867
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/criadores_de_caso";s:7:"tinyurl";s:26:"http://tinyurl.com/3es4gvd";s:4:"isgd";s:19:"http://is.gd/c3ud6g";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/criadores_de_caso";s:7:"tinyurl";s:26:"https://tinyurl.com/3es4gvd";s:4:"isgd";s:19:"https://is.gd/c3ud6g";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033191
@@ -41,25 +41,25 @@ Só queria encorajar os desenvolvedores que estão afim de mudar, a não dar ouv
   
 Faz bem ao trabalho e conserva a mente.
 
- [1]: http://www.brunotorres.net/web/leitores-de-titulos
- [2]: http://brunotorres.net/
- [3]: http://idgnow.uol.com.br/AdPortalv5/SegurancaInterna_010805.html
- [4]: http://idgnow.uol.com.br/AdPortalv5/default.aspx
- [5]: http://www.brunotorres.net/web/primeiro-beta-internet-explorer-7#comentarios
- [6]: http://tableless.com.br/?internet_explorer7#comentarios
+ [1]: https://www.brunotorres.net/web/leitores-de-titulos
+ [2]: https://brunotorres.net/
+ [3]: https://idgnow.uol.com.br/AdPortalv5/SegurancaInterna_010805.html
+ [4]: https://idgnow.uol.com.br/AdPortalv5/default.aspx
+ [5]: https://www.brunotorres.net/web/primeiro-beta-internet-explorer-7#comentarios
+ [6]: https://tableless.com.br/?internet_explorer7#comentarios
  [7]: https://addons.mozilla.org/extensions/?application=firefox
- [8]: http://www.mozilla.org/products/firefox/tabbed-browsing
- [9]: http://www.mozilla.org/products/firefox/live-bookmarks
- [10]: http://www.opera.com/support/service/m2/index.dml
- [11]: http://www.mozilla.org/products/firefox/search
- [12]: http://www.opera.com/voice/
- [13]: http://www.opera.com/support/tutorials/flash/skins/
- [14]: http://www.opera.com/products/desktop/customize/
- [15]: http://www.mozilla.org/products/firefox/releases/1.0.6.html
- [16]: http://www.opera.com/features/
- [17]: http://www.microsoft.com/windows/ie/default.mspx
- [18]: http://secunia.com/
- [19]: http://secunia.com/gfx/crit_4.gif
- [20]: http://secunia.com/product/11/?period=2005
- [21]: http://secunia.com/gfx/crit_2.gif
- [22]: http://secunia.com/product/4227/?period=2005
+ [8]: https://www.mozilla.org/products/firefox/tabbed-browsing
+ [9]: https://www.mozilla.org/products/firefox/live-bookmarks
+ [10]: https://www.opera.com/support/service/m2/index.dml
+ [11]: https://www.mozilla.org/products/firefox/search
+ [12]: https://www.opera.com/voice/
+ [13]: https://www.opera.com/support/tutorials/flash/skins/
+ [14]: https://www.opera.com/products/desktop/customize/
+ [15]: https://www.mozilla.org/products/firefox/releases/1.0.6.html
+ [16]: https://www.opera.com/features/
+ [17]: https://www.microsoft.com/windows/ie/default.mspx
+ [18]: https://secunia.com/
+ [19]: https://secunia.com/gfx/crit_4.gif
+ [20]: https://secunia.com/product/11/?period=2005
+ [21]: https://secunia.com/gfx/crit_2.gif
+ [22]: https://secunia.com/product/4227/?period=2005

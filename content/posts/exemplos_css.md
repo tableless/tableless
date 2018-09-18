@@ -7,7 +7,7 @@ url: /exemplos_css/
 tweetbackscheck:
   - 1356470694
 shorturls:
-  - 'a:3:{s:9:"permalink";s:36:"http://tableless.com.br/exemplos_css";s:7:"tinyurl";s:26:"http://tinyurl.com/3sgbbmz";s:4:"isgd";s:19:"http://is.gd/Qg6W3q";}'
+  - 'a:3:{s:9:"permalink";s:36:"https://tableless.com.br/exemplos_css";s:7:"tinyurl";s:26:"https://tinyurl.com/3sgbbmz";s:4:"isgd";s:19:"https://is.gd/Qg6W3q";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033305
@@ -25,5 +25,5 @@ Muito interessante.
 
 Visto no [Css Beauty][2].
 
- [1]: http://www.brunildo.org/test/
- [2]: http://www.cssbeauty.com/
+ [1]: https://www.brunildo.org/test/
+ [2]: https://www.cssbeauty.com/

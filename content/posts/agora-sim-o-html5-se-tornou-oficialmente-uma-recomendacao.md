@@ -17,4 +17,4 @@ O HTML5 teve muita importância porque trouxe um pacote de novidades para os des
 
 Veja a [notícia completa aqui][1].
 
- [1]: http://www.w3.org/blog/news/archives/4167
+ [1]: https://www.w3.org/blog/news/archives/4167

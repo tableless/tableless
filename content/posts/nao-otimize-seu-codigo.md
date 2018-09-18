@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356392850
 shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/nao-otimize-seu-codigo";s:7:"tinyurl";s:26:"http://tinyurl.com/3atkpd9";s:4:"isgd";s:19:"http://is.gd/1quHZz";}'
+  - 'a:3:{s:9:"permalink";s:46:"https://tableless.com.br/nao-otimize-seu-codigo";s:7:"tinyurl";s:26:"https://tinyurl.com/3atkpd9";s:4:"isgd";s:19:"https://is.gd/1quHZz";}'
 twittercomments:
   - 'a:1:{i:19795282808016896;s:6:"136512";}'
 tweetcount:
@@ -138,5 +138,5 @@ Quando treinei a primeira equipe do Terra &#8211; da época do site laranjão, l
 
 Realmente 1Kb multiplicado por milhões é coisa para caramba e não há banda que agüente. Por isso, é totalmente aceitável que sites com um porte muito grande, &#8220;otimizem&#8221; seu código. **[/update]**
 
- [1]: http://tableless.com.br/modulando-o-css "Modulação de CSS"
- [2]: http://leonardocaineli.com.br/dicas-para-otimizar-seu-css/
+ [1]: https://tableless.com.br/modulando-o-css "Modulação de CSS"
+ [2]: https://leonardocaineli.com.br/dicas-para-otimizar-seu-css/

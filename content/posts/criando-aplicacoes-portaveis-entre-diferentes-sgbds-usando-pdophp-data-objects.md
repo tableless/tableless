@@ -206,11 +206,11 @@ Trabalhar com PDO tem várias vantagens, além da portabilidade, existe também 
 
 **Referências**
 
-<http://www.diogomatheus.com.br/blog/php/trabalhando-com-pdo-no-php/>
+<https://www.diogomatheus.com.br/blog/php/trabalhando-com-pdo-no-php/>
   
-<http://php.net/manual/en/book.pdo.php>
+<https://php.net/manual/en/book.pdo.php>
   
-<http://www.php.net/manual/en/pdo.drivers.php>
+<https://www.php.net/manual/en/pdo.drivers.php>
 
- [1]: http://php.net/manual/pt_BR/class.pdostatement.php
+ [1]: https://php.net/manual/pt_BR/class.pdostatement.php
  [2]: https://github.com/Anrahh/pdo_tableless

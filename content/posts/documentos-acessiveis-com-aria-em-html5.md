@@ -120,8 +120,8 @@ Com estas marcações, os leitores de tela poderão informar o conteúdo que o u
   * [How screen readers speak a page with HTML5 and ARIA][4]
   * [Introduction to WAI ARIA][5]
 
- [1]: http://www.freedomscientific.com/products/fs/jaws-product-page.asp "JAWS - Screen Reader for Windows"
- [2]: http://www.w3.org/WAI/ "W3C-WAI"
- [3]: http://www.w3.org/WAI/PF/aria/
- [4]: http://cssgallery.info/how-screen-readers-speak-a-page-with-html5-and-aria/
- [5]: http://dev.opera.com/articles/view/introduction-to-wai-aria/
+ [1]: https://www.freedomscientific.com/products/fs/jaws-product-page.asp "JAWS - Screen Reader for Windows"
+ [2]: https://www.w3.org/WAI/ "W3C-WAI"
+ [3]: https://www.w3.org/WAI/PF/aria/
+ [4]: https://cssgallery.info/how-screen-readers-speak-a-page-with-html5-and-aria/
+ [5]: https://dev.opera.com/articles/view/introduction-to-wai-aria/

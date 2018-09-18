@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356446588
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/o-que-sao-media-types";s:7:"tinyurl";s:26:"http://tinyurl.com/3v79y6k";s:4:"isgd";s:19:"http://is.gd/Oi4big";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/o-que-sao-media-types";s:7:"tinyurl";s:26:"https://tinyurl.com/3v79y6k";s:4:"isgd";s:19:"https://is.gd/Oi4big";}'
 twittercomments:
   - 'a:1:{i:52705573715722240;s:6:"137424";}'
 tweetcount:
@@ -101,10 +101,10 @@ Para ter mais detalhes:
   * [Opera Show Tutorial][3]
   * [Google: O que são Media Types?][7]
 
- [1]: http://w3c.org/
- [2]: http://tableless.com.br/introducao-sobre-media-queries
- [3]: http://www.opera.com/support/tutorials/operashow/
- [4]: http://www.opera.com/
- [5]: http://www.w3.org/TR/REC-CSS2/media.html
- [6]: http://www.mozilla.org/projects/minimo/
- [7]: http://www.google.com.br/search?q=O+que+s%C3%A3o+Media+Types
+ [1]: https://w3c.org/
+ [2]: https://tableless.com.br/introducao-sobre-media-queries
+ [3]: https://www.opera.com/support/tutorials/operashow/
+ [4]: https://www.opera.com/
+ [5]: https://www.w3.org/TR/REC-CSS2/media.html
+ [6]: https://www.mozilla.org/projects/minimo/
+ [7]: https://www.google.com.br/search?q=O+que+s%C3%A3o+Media+Types

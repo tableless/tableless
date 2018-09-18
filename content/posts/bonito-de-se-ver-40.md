@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356388665
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bonito-de-se-ver-40";s:7:"tinyurl";s:26:"http://tinyurl.com/3q45s92";s:4:"isgd";s:19:"http://is.gd/V7tXD1";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/bonito-de-se-ver-40";s:7:"tinyurl";s:26:"https://tinyurl.com/3q45s92";s:4:"isgd";s:19:"https://is.gd/V7tXD1";}'
 twittercomments:
   - 'a:1:{i:13838994018144256;s:7:"retweet";}'
 tweetcount:
@@ -23,14 +23,14 @@ tags:
   - bonitodesever
 
 ---
-  * <http://www.textpattern.com/>
-  * <http://vpm.org/>
-  * <http://shanemielke.com/>
-  * [http://www.ncl.com/nclweb/][1]
-  * <http://mccoy.co.uk/>
+  * <https://www.textpattern.com/>
+  * <https://vpm.org/>
+  * <https://shanemielke.com/>
+  * [https://www.ncl.com/nclweb/][1]
+  * <https://mccoy.co.uk/>
 
 Está precisando de [Host][2]? Aproveite as promoções do [Tableless no Dreamhost][2]. São 3 cupons para você aproveitar (sendo que um dos cupons te dá 60% de desconto). [Mais informações aqui][3].
 
- [1]: http://www.ncl.com/nclweb/home.html
- [2]: http://www.dreamhost.com/r.cgi?132780/hosting.html
- [3]: http://tableless.com.br/desconto-no-dreamhost
+ [1]: https://www.ncl.com/nclweb/home.html
+ [2]: https://www.dreamhost.com/r.cgi?132780/hosting.html
+ [3]: https://tableless.com.br/desconto-no-dreamhost

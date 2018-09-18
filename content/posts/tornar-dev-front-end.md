@@ -154,25 +154,25 @@ Mais do mesmo:
   * [Como se tornar um desenvolvedor front-end][2]
 
  [1]: https://www.casadocodigo.com.br/products/livro-guia-frontend
- [2]: http://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/
- [3]: http://sublimetext.com
- [4]: http://www.w3.org/Style/CSS/
- [5]: http://tableless.com.br/introducao-das-premissas-dos-controles-de-versao/
- [6]: http://tableless.com.br/iniciando-no-git-parte-1/
- [7]: http://campus.tableless.com.br/2012/10/controle-de-versão-com-git/
- [8]: http://tableless.com.br/grunt-voce-deveria-estar-usando/
- [9]: http://simplesideias.com.br/gerenciando-dependencias-client-side-com-bower
- [10]: http://yeoman.io
- [11]: http://middlemanapp.com
- [12]: http://jekyllrb.com
- [13]: http://brunotorres.net/acessibilidade-nao-e-altruismo
- [14]: http://tableless.com.br/slides-para-devs-9-acessibilidade-na-web/
- [15]: http://tableless.com.br/categoria/acessibilidade-2/
- [16]: http://developer.yahoo.com/blogs/ydn/high-performance-sites-importance-front-end-performance-7160.html
+ [2]: https://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/
+ [3]: https://sublimetext.com
+ [4]: https://www.w3.org/Style/CSS/
+ [5]: https://tableless.com.br/introducao-das-premissas-dos-controles-de-versao/
+ [6]: https://tableless.com.br/iniciando-no-git-parte-1/
+ [7]: https://campus.tableless.com.br/2012/10/controle-de-versão-com-git/
+ [8]: https://tableless.com.br/grunt-voce-deveria-estar-usando/
+ [9]: https://simplesideias.com.br/gerenciando-dependencias-client-side-com-bower
+ [10]: https://yeoman.io
+ [11]: https://middlemanapp.com
+ [12]: https://jekyllrb.com
+ [13]: https://brunotorres.net/acessibilidade-nao-e-altruismo
+ [14]: https://tableless.com.br/slides-para-devs-9-acessibilidade-na-web/
+ [15]: https://tableless.com.br/categoria/acessibilidade-2/
+ [16]: https://developer.yahoo.com/blogs/ydn/high-performance-sites-importance-front-end-performance-7160.html
  [17]: https://developers.google.com/speed/pagespeed/
- [18]: http://tableless.com.br/performance-frontend-parte1/
- [19]: http://tableless.com.br/performance-frontend-parte2/
- [20]: http://tableless.com.br/pre-processadores-usar-ou-nao-usar/
- [21]: http://getbootstrap.com
- [22]: http://www.devmedia.com.br/revista-front-end-magazine
- [23]: http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
+ [18]: https://tableless.com.br/performance-frontend-parte1/
+ [19]: https://tableless.com.br/performance-frontend-parte2/
+ [20]: https://tableless.com.br/pre-processadores-usar-ou-nao-usar/
+ [21]: https://getbootstrap.com
+ [22]: https://www.devmedia.com.br/revista-front-end-magazine
+ [23]: https://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/

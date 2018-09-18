@@ -7,7 +7,7 @@ url: /portais-do-governo-serao-adaptados-para-cegos/
 tweetbackscheck:
   - 1356427623
 shorturls:
-  - 'a:3:{s:9:"permalink";s:69:"http://tableless.com.br/portais-do-governo-serao-adaptados-para-cegos";s:7:"tinyurl";s:26:"http://tinyurl.com/3lufype";s:4:"isgd";s:19:"http://is.gd/4KJStC";}'
+  - 'a:3:{s:9:"permalink";s:69:"https://tableless.com.br/portais-do-governo-serao-adaptados-para-cegos";s:7:"tinyurl";s:26:"https://tinyurl.com/3lufype";s:4:"isgd";s:19:"https://is.gd/4KJStC";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037098
@@ -32,6 +32,6 @@ Depois de tentar, instale algum programa leitor de tela como o [Jaws][3], coloqu
   
 Se você não é cego e não experimentou  fazer isso, tente. Você vai ter uma pequena sensação do que é navegar às cegas.
 
- [1]: http://info.abril.com.br/aberto/infonews/052007/15052007-0.shl
- [2]: http://www.dasilva.org.br/?itemid=13
- [3]: http://www.freedomscientific.com/fs_products/software_jaws.asp
+ [1]: https://info.abril.com.br/aberto/infonews/052007/15052007-0.shl
+ [2]: https://www.dasilva.org.br/?itemid=13
+ [3]: https://www.freedomscientific.com/fs_products/software_jaws.asp

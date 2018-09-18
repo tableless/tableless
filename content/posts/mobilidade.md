@@ -7,7 +7,7 @@ url: /mobilidade/
 tweetbackscheck:
   - 1356367104
 shorturls:
-  - 'a:3:{s:9:"permalink";s:34:"http://tableless.com.br/mobilidade";s:7:"tinyurl";s:26:"http://tinyurl.com/3ugooa2";s:4:"isgd";s:19:"http://is.gd/uh54Gq";}'
+  - 'a:3:{s:9:"permalink";s:34:"https://tableless.com.br/mobilidade";s:7:"tinyurl";s:26:"https://tinyurl.com/3ugooa2";s:4:"isgd";s:19:"https://is.gd/uh54Gq";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031626
@@ -23,5 +23,5 @@ dar uma passada [aqui][2].
   
 Ahh, totalmente tableless.
 
- [1]: http://www.rigonatti.com.br
- [2]: http://www.rigonatti.com.br/mobile/
+ [1]: https://www.rigonatti.com.br
+ [2]: https://www.rigonatti.com.br/mobile/

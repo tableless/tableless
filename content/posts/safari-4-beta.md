@@ -12,7 +12,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356005275
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/safari-4-beta";s:7:"tinyurl";s:26:"http://tinyurl.com/3uvcemt";s:4:"isgd";s:19:"http://is.gd/GLE3Av";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/safari-4-beta";s:7:"tinyurl";s:26:"https://tinyurl.com/3uvcemt";s:4:"isgd";s:19:"https://is.gd/GLE3Av";}'
 twittercomments:
   - 'a:10:{i:49432946138025984;s:7:"retweet";i:49432330087051264;s:7:"retweet";i:49432210142531585;s:7:"retweet";i:49432040122232832;s:7:"retweet";i:49432023428890624;s:7:"retweet";i:49431897146802176;s:7:"retweet";i:49431353741152257;s:7:"retweet";i:49431171234398208;s:7:"retweet";i:49431140179771392;s:7:"retweet";i:49430702365745152;s:7:"retweet";}'
 tweetcount:
@@ -78,12 +78,12 @@ O resto das mudanças são coisas que fazem o Safari se aproximar mais do Firefo
 
 Aos poucos o Safari ganha corpo e conquista sua fatia do mercado. A briga vai ser silênciosa como eu sempre digo, mas muito concorrida. Mais do que nunca os browsers estão entendendo a receita de conquistar os usuários e os desenvolvedores. Ponto para o Safari, mas ainda há um grande caminho para percorrer.
 
- [1]: http://www.thecounter.com/stats/2008/December/browser.php
- [2]: http://www.thecounter.com/
- [3]: http://www.apple.com/safari/features.html
+ [1]: https://www.thecounter.com/stats/2008/December/browser.php
+ [2]: https://www.thecounter.com/
+ [3]: https://www.apple.com/safari/features.html
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/02/abas.jpg
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/02/overlay-devtools-2-20090224.jpg
- [6]: http://www.apple.com/safari/whats-new.html#developer
+ [6]: https://www.apple.com/safari/whats-new.html#developer
  [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/02/webinspector.jpg
- [8]: http://www.apple.com/safari/features.html#developer
- [9]: http://developer.apple.com/safari/
+ [8]: https://www.apple.com/safari/features.html#developer
+ [9]: https://developer.apple.com/safari/

@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356392097
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/google-apps-nao-suportara-mais-ie6";s:7:"tinyurl";s:26:"http://tinyurl.com/3rogf4k";s:4:"isgd";s:19:"http://is.gd/RWsItl";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/google-apps-nao-suportara-mais-ie6";s:7:"tinyurl";s:26:"https://tinyurl.com/3rogf4k";s:4:"isgd";s:19:"https://is.gd/RWsItl";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039341
@@ -63,7 +63,7 @@ Abaixo segue o email recebido do Google.
   
 > Mountain View, CA 94043
 
- [1]: http://visie.com.br/
- [2]: http://tableless.com.br/a-internet-tem-que-avancar-sem-o-ie6 "A internet tem que avançar sem o IE6"
- [3]: http://tableless.com.br/aonde-nos-leva-a-morte-do-internet-explorer-6
- [4]: http://tableless.com.br/ah-o-maravilhoso-mundo-real
+ [1]: https://visie.com.br/
+ [2]: https://tableless.com.br/a-internet-tem-que-avancar-sem-o-ie6 "A internet tem que avançar sem o IE6"
+ [3]: https://tableless.com.br/aonde-nos-leva-a-morte-do-internet-explorer-6
+ [4]: https://tableless.com.br/ah-o-maravilhoso-mundo-real

@@ -88,21 +88,21 @@ _Artigo traduzido por **[Diego Eis][14]** e [escrito originalmente em inglês][1
 
 Se encontrar algum erro ou tem uma sugestão para melhorar a tradução, por favor, [nos avise][18]!
 
- [1]: http://github.com/jquery/jquery "/a> quando comparamos a sintaxe do jQuery com as alternativas nativas. Estas comparações são uma boa base par"
- [2]: http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/ "á acontecendo pro trás da cortina e é um grande passo para entender o DOM. Entretanto, é importante entender "
- [3]: http://youmightnotneedjquery.com/ "inados a terem bugs. Na verdade, <a href="http://blog.jquery.com/2013/01/14/the-state-of-jquery-2013/" title="
- [4]: http://toddmotto.com/is-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background/ "hes e correções para o Chrome, Safari e Firefox do que para o Internet Explorer">o estado do jQuery em 2013</"
- [5]: http://blog.jquery.com/2013/01/14/the-state-of-jquery-2013/ "jQuery 2.0 agora tem mais patches e correções para o Chrome, Safari e Firefox do que para o Internet Explorer"
- [6]: http://browserify.org/
- [7]: http://requirejs.org/
- [8]: http://addyosmani.com/writing-modular-js/]
+ [1]: https://github.com/jquery/jquery "/a> quando comparamos a sintaxe do jQuery com as alternativas nativas. Estas comparações são uma boa base par"
+ [2]: https://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/ "á acontecendo pro trás da cortina e é um grande passo para entender o DOM. Entretanto, é importante entender "
+ [3]: https://youmightnotneedjquery.com/ "inados a terem bugs. Na verdade, <a href="https://blog.jquery.com/2013/01/14/the-state-of-jquery-2013/" title="
+ [4]: https://toddmotto.com/is-it-time-to-drop-jquery-essentials-to-learning-javascript-from-a-jquery-background/ "hes e correções para o Chrome, Safari e Firefox do que para o Internet Explorer">o estado do jQuery em 2013</"
+ [5]: https://blog.jquery.com/2013/01/14/the-state-of-jquery-2013/ "jQuery 2.0 agora tem mais patches e correções para o Chrome, Safari e Firefox do que para o Internet Explorer"
+ [6]: https://browserify.org/
+ [7]: https://requirejs.org/
+ [8]: https://addyosmani.com/writing-modular-js/]
  [9]: https://github.com/jquery/jquery
  [10]: https://github.com/jquery/jquery#how-to-build-your-own-jquery
- [11]: http://zeptojs.com/#modules
- [12]: http://lodash.com/custom-builds
- [13]: http://twitter.com/davearel
- [14]: http://medium.com/@diegoeis
+ [11]: https://zeptojs.com/#modules
+ [12]: https://lodash.com/custom-builds
+ [13]: https://twitter.com/davearel
+ [14]: https://medium.com/@diegoeis
  [15]: https://tech.bellycard.com/blog/the-future-of-jquery/
  [16]: https://tech.bellycard.com/team/dave-arel/
  [17]: https://tech.bellycard.com/
- [18]: http://tableless.com.br/contato/
+ [18]: https://tableless.com.br/contato/

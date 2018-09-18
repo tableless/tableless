@@ -138,7 +138,7 @@ Com o terminal do diretório do seu projeto digite:
 
 <pre>npm start</pre>
 
-Se tudo deu certo, o seu browser em _http://localhost:3000/_ deve estar assim:
+Se tudo deu certo, o seu browser em _https://localhost:3000/_ deve estar assim:
 
 <span style="display:block; max-width: 800px">
 ![Imagem ilustrativa do create-react-app](https://i.imgur.com/Xi1ogae.png style="max-width: 800px")
@@ -219,7 +219,7 @@ class App extends Component {
 
 export default App;</pre>
 
-Agora abrindo o browser em _http://localhost:3000/_ vemos:
+Agora abrindo o browser em _https://localhost:3000/_ vemos:
 
 ![Exemplo de Hello World](https://i.imgur.com/wDwPZ0s.png)
 

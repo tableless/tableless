@@ -8,7 +8,7 @@ url: /entendendo-os-reflows-2/
 tweetbackscheck:
   - 1356448139
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/entendendo-os-reflows-2";s:7:"tinyurl";s:26:"http://tinyurl.com/3bgy96v";s:4:"isgd";s:19:"http://is.gd/RF5TTH";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/entendendo-os-reflows-2";s:7:"tinyurl";s:26:"https://tinyurl.com/3bgy96v";s:4:"isgd";s:19:"https://is.gd/RF5TTH";}'
 twittercomments:
   - 'a:2:{i:144739315350650880;s:7:"retweet";i:152895559601106945;s:7:"retweet";}'
 tweetcount:
@@ -81,12 +81,12 @@ Entendido as diferenças entre display e visibility, além do contexto de área 
 
 ## Como um navegador monta seu documento HTML
 
-Esses vídeos são sensacionais. Eles explicam o que são os reflows e dai como minimizá-los durante a fase de desenvolvimento do documento (sempre usando <span class="c9"><a class="c7" href="http://tableless.com.br/bem-vindo-a-xangrila-parte-1">Progressive Enhancement</a></span> quando possível) é mais fácil..
+Esses vídeos são sensacionais. Eles explicam o que são os reflows e dai como minimizá-los durante a fase de desenvolvimento do documento (sempre usando <span class="c9"><a class="c7" href="https://tableless.com.br/bem-vindo-a-xangrila-parte-1">Progressive Enhancement</a></span> quando possível) é mais fácil..
 
-[youtube http://www.youtube.com/watch?v=ZTnIxIA5KGw]
+[youtube https://www.youtube.com/watch?v=ZTnIxIA5KGw]
 
 <p class="c6 anotacao">
-  Esta é uma representação de como a página da Mozilla é montada. Quer mais? Veja também como a <span class="c9"><a class="c7" href="http://video.google.com/videoplay?docid=-5863446593724321515">Wikipedia</a></span> e a página do <span class="c9"><a class="c7" href="http://video.google.com/videoplay?docid=-1471976166301235697">Google</a></span> no Japão são renderizadas.
+  Esta é uma representação de como a página da Mozilla é montada. Quer mais? Veja também como a <span class="c9"><a class="c7" href="https://video.google.com/videoplay?docid=-5863446593724321515">Wikipedia</a></span> e a página do <span class="c9"><a class="c7" href="https://video.google.com/videoplay?docid=-1471976166301235697">Google</a></span> no Japão são renderizadas.
 </p>
 
 Analisando o primeiro vídeo, perceba que ao finalizar a montagem do rodapé, “algo mais” acontece (a partir de 12seg). São os Reflows. A maioria dos elementos são recalculados e reposicionados. Se ponderarmos que o rodapé acaba de ser montado aos 14 segundos e a renderização termina aos 26 segundos da pagina, estamos falando quase de 50% do tempo de renderização sendo gasto com Reflows, o que é muito, dependendo do que a sua página deve fazer.
@@ -137,12 +137,12 @@ Entendido as diferenças entre display e visibility, além do contexto de área 
 
 ## Como um navegador monta seu documento HTML
 
-Esses vídeos são sensacionais. Eles explicam o que são os reflows e dai como minimizá-los durante a fase de desenvolvimento do documento (sempre usando <span class="c9"><a class="c7" href="http://tableless.com.br/bem-vindo-a-xangrila-parte-1">Progressive Enhancement</a></span> quando possível) é mais fácil..
+Esses vídeos são sensacionais. Eles explicam o que são os reflows e dai como minimizá-los durante a fase de desenvolvimento do documento (sempre usando <span class="c9"><a class="c7" href="https://tableless.com.br/bem-vindo-a-xangrila-parte-1">Progressive Enhancement</a></span> quando possível) é mais fácil..
 
-[youtube http://www.youtube.com/watch?v=ZTnIxIA5KGw]
+[youtube https://www.youtube.com/watch?v=ZTnIxIA5KGw]
 
 <p class="c6 anotacao">
-  Esta é uma representação de como a página da Mozilla é montada. Quer mais? Veja também como a <span class="c9"><a class="c7" href="http://video.google.com/videoplay?docid=-5863446593724321515">Wikipedia</a></span> e a página do <span class="c9"><a class="c7" href="http://video.google.com/videoplay?docid=-1471976166301235697">Google</a></span> no Japão são renderizadas.
+  Esta é uma representação de como a página da Mozilla é montada. Quer mais? Veja também como a <span class="c9"><a class="c7" href="https://video.google.com/videoplay?docid=-5863446593724321515">Wikipedia</a></span> e a página do <span class="c9"><a class="c7" href="https://video.google.com/videoplay?docid=-1471976166301235697">Google</a></span> no Japão são renderizadas.
 </p>
 
 Analisando o primeiro vídeo, perceba que ao finalizar a montagem do rodapé, “algo mais” acontece (a partir de 12seg). São os Reflows. A maioria dos elementos são recalculados e reposicionados. Se ponderarmos que o rodapé acaba de ser montado aos 14 segundos e a renderização termina aos 26 segundos da pagina, estamos falando quase de 50% do tempo de renderização sendo gasto com Reflows, o que é muito, dependendo do que a sua página deve fazer.
@@ -295,53 +295,53 @@ Em um dos posts sobre o assunto, Tony G mapeou pesquisas prévias e montou a seg
         
         <ul>
           <li>
-            <a href="http://en.wikipedia.org/wiki/Document_Object_Model">DOM</a> pela wikipedia
+            <a href="https://en.wikipedia.org/wiki/Document_Object_Model">DOM</a> pela wikipedia
           </li>
           <li>
-            <a href="http://video.google.com/videoplay?docid=-1471976166301235697#docid=1020647662203348823">Gecko Reflow</a>
+            <a href="https://video.google.com/videoplay?docid=-1471976166301235697#docid=1020647662203348823">Gecko Reflow</a>
           </li>
           <li>
-            <a href="http://paulirish.com/2011/dom-html5-css3-performance/">DOM, HTML5, CSS3 e Performance</a> &#8211; <a href="http://dl.dropbox.com/u/39519/talks/gperf/index.html">Slides</a> por Paul Irish
+            <a href="https://paulirish.com/2011/dom-html5-css3-performance/">DOM, HTML5, CSS3 e Performance</a> &#8211; <a href="https://dl.dropbox.com/u/39519/talks/gperf/index.html">Slides</a> por Paul Irish
           </li>
           <li>
-            <a href="http://www.mozilla.org/newlayout/doc/reflow.html">Reflow</a> pelo Mozilla Labs
+            <a href="https://www.mozilla.org/newlayout/doc/reflow.html">Reflow</a> pelo Mozilla Labs
           </li>
           <li>
-            <a href="http://ajaxian.com/archives/browser-reflows-how-do-they-affect-performance">Reflow e Repaint</a> na Ajaxian
+            <a href="https://ajaxian.com/archives/browser-reflows-how-do-they-affect-performance">Reflow e Repaint</a> na Ajaxian
           </li>
           <li>
-            <a href="http://code.google.com/speed/articles/reflow.html">Reflow</a> pelo Google Code
+            <a href="https://code.google.com/speed/articles/reflow.html">Reflow</a> pelo Google Code
           </li>
           <li>
-            <a href="http://www.w3.org/DOM/">W3C Overview do DOM</a>
+            <a href="https://www.w3.org/DOM/">W3C Overview do DOM</a>
           </li>
           <li>
-            <a href="http://www.dayofjs.com/videos/22158462/web-browsers_alex-russel">1 dia de javascript com Alex Russel: Como Navegadores Veem as suas Apps</a>
+            <a href="https://www.dayofjs.com/videos/22158462/web-browsers_alex-russel">1 dia de javascript com Alex Russel: Como Navegadores Veem as suas Apps</a>
           </li>
           <li>
-            <a href="http://gent.ilcore.com/2011/03/how-not-to-trigger-layout-in-webkit.html">Como (não) criar um layout no webkit por Tony G</a>
+            <a href="https://gent.ilcore.com/2011/03/how-not-to-trigger-layout-in-webkit.html">Como (não) criar um layout no webkit por Tony G</a>
           </li>
           <li>
-            <a href="http://www.webkit.org/blog/1091/more-web-inspector-updates/#timeline_panel">Usando a timeline panel em navegadores webkit</a>
+            <a href="https://www.webkit.org/blog/1091/more-web-inspector-updates/#timeline_panel">Usando a timeline panel em navegadores webkit</a>
           </li>
           <li>
-            <a href="http://www.bookofspeed.com/">The book of Speed</a>
+            <a href="https://www.bookofspeed.com/">The book of Speed</a>
           </li>
           <li>
-            <a href="http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/">Reflow/Repaint</a> por Stoyan Stefanov
+            <a href="https://www.phpied.com/rendering-repaint-reflowrelayout-restyle/">Reflow/Repaint</a> por Stoyan Stefanov
           </li>
           <li>
-            <a href="http://calendar.perfplanet.com/2009/the-new-game-show-will-it-reflow/">Inconsistências dos navegadores em Reflows</a> por Stoyan Stefanov
+            <a href="https://calendar.perfplanet.com/2009/the-new-game-show-will-it-reflow/">Inconsistências dos navegadores em Reflows</a> por Stoyan Stefanov
           </li>
           <li>
-            <a href="http://www.browserscope.org/?category=reflow">BrowserScope tests para reflows</a>
+            <a href="https://www.browserscope.org/?category=reflow">BrowserScope tests para reflows</a>
           </li>
           <li>
-            <a href="http://www.youtube.com/watch?v=a2_6bGNZ7bA">Browsers para Web Developers</a> David Baron da Mozilla labs
+            <a href="https://www.youtube.com/watch?v=a2_6bGNZ7bA">Browsers para Web Developers</a> David Baron da Mozilla labs
           </li>
           <li>
-            <a href="http://www.webkit.org/blog/114/webcore-rendering-i-the-basics/">Renderização no webkit, o básico</a>
+            <a href="https://www.webkit.org/blog/114/webcore-rendering-i-the-basics/">Renderização no webkit, o básico</a>
           </li>
         </ul>
 
- [1]: http://tableless.com.br/tenha-o-dom "Tenha o DOM"
+ [1]: https://tableless.com.br/tenha-o-dom "Tenha o DOM"

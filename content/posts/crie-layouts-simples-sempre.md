@@ -45,7 +45,7 @@ Por mais que eu concorde com esse último argumento, isso não significa que ele
 
 ### Antes de rabiscar o layout, é preciso muita pesquisa e planejamento
 
-A prova disso é que se você pedir para um empresário responder junto com ele uma simples matriz de <a title="Análise SWOT | Esse link abre numa nova janela" href="http://pt.wikipedia.org/wiki/An%C3%A1lise_SWOT" target="_blank">Análise SWOT</a> sobre a sua empresa, ele será incapaz de responder de forma equilibrada a maioria dos tópicos. Ora vai superestimar alguns pontos, como subestimar outros. O resultado dessa estratégia é criar uma interface que efetivamente não comunica, não atrai, e não interage com o consumidor/usuário.
+A prova disso é que se você pedir para um empresário responder junto com ele uma simples matriz de <a title="Análise SWOT | Esse link abre numa nova janela" href="https://pt.wikipedia.org/wiki/An%C3%A1lise_SWOT" target="_blank">Análise SWOT</a> sobre a sua empresa, ele será incapaz de responder de forma equilibrada a maioria dos tópicos. Ora vai superestimar alguns pontos, como subestimar outros. O resultado dessa estratégia é criar uma interface que efetivamente não comunica, não atrai, e não interage com o consumidor/usuário.
 
 <img class="aligncenter wp-image-47658" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/crie-layouts-simples-sempre-002.jpg" alt="crie-layouts-simples-sempre-002" width="350" height="328" srcset="uploads/2015/03/crie-layouts-simples-sempre-002.jpg 800w, uploads/2015/03/crie-layouts-simples-sempre-002-148x139.jpg 148w, uploads/2015/03/crie-layouts-simples-sempre-002-400x375.jpg 400w" sizes="(max-width: 350px) 100vw, 350px" />
 

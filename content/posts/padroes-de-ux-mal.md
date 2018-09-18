@@ -150,26 +150,26 @@ O site [darkpatterns.org][18] criou um espaço para as pessoas catalogarem este 
   
 [Dark Patterns an overview for brand owners][23]
 
- [1]: http://darkpatterns.org/wired-co-uk-december-2010/ "LA Fitness"
- [2]: http://darkpatterns.org/wired-co-uk-december-2010/
- [3]: http://darkpatterns.org/java-update-february-2014/ "Dark Patterns - Java"
- [4]: http://darkpatterns.org/java-update-february-2014/
- [5]: http://meiobit.com/64608/alma-dos-consumidores-pertence-a-gamestation/ "Alma dos consumidores pertence a gamestation"
- [6]: http://darkpatterns.org/ryan-air-trick-insurance-opt-out-trick-question-august-2010/ "Dark Patterns - Ryanair"
- [7]: http://darkpatterns.org/ryan-air-trick-insurance-opt-out-trick-question-august-2010/
- [8]: http://darkpatterns.org/comet-co-uk-august-2010/ "Dark Patterns - Comet"
- [9]: http://darkpatterns.org/comet-co-uk-august-2010/
- [10]: http://darkpatterns.org/hotels-com-contact-phone-number-may-2013/ "Dark Patterns - hotel.com"
- [11]: http://darkpatterns.org/hotels-com-contact-phone-number-may-2013/
- [12]: http://darkpatterns.org/nikes-world-cup-2010-facebook-advert-may-2010/ "Dark Patterns - Nike"
- [13]: http://darkpatterns.org/theladders-co-uk-september-2010/ "The Ladders"
- [14]: http://darkpatterns.org/theladders-co-uk-september-2010/
- [15]: http://darkpatterns.org/days-am-app-november-2013/ "Dark Patterns - Days"
- [16]: http://darkpatterns.org/days-am-app-november-2013/
- [17]: http://darkpatterns.org/softpedia-com-july-2010/
- [18]: http://darkpatterns.org "darkpatterns.org"
- [19]: http://darkpatterns.org/ "DarkPatterns"
- [20]: http://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design "Dark patterns deception vs. honesty in ui design"
- [21]: http://www.slideshare.net/Nomensa/dark-patterns-in-ux "Dark Patterns in UX"
- [22]: http://www.slideshare.net/harrybr/ux-brighton-dark-patterns "UX Dark Patterns"
- [23]: http://www.slideshare.net/harrybr/dark-patterns-an-overview-for-brand-owners "Dark Patterns an overview for brand owners"
+ [1]: https://darkpatterns.org/wired-co-uk-december-2010/ "LA Fitness"
+ [2]: https://darkpatterns.org/wired-co-uk-december-2010/
+ [3]: https://darkpatterns.org/java-update-february-2014/ "Dark Patterns - Java"
+ [4]: https://darkpatterns.org/java-update-february-2014/
+ [5]: https://meiobit.com/64608/alma-dos-consumidores-pertence-a-gamestation/ "Alma dos consumidores pertence a gamestation"
+ [6]: https://darkpatterns.org/ryan-air-trick-insurance-opt-out-trick-question-august-2010/ "Dark Patterns - Ryanair"
+ [7]: https://darkpatterns.org/ryan-air-trick-insurance-opt-out-trick-question-august-2010/
+ [8]: https://darkpatterns.org/comet-co-uk-august-2010/ "Dark Patterns - Comet"
+ [9]: https://darkpatterns.org/comet-co-uk-august-2010/
+ [10]: https://darkpatterns.org/hotels-com-contact-phone-number-may-2013/ "Dark Patterns - hotel.com"
+ [11]: https://darkpatterns.org/hotels-com-contact-phone-number-may-2013/
+ [12]: https://darkpatterns.org/nikes-world-cup-2010-facebook-advert-may-2010/ "Dark Patterns - Nike"
+ [13]: https://darkpatterns.org/theladders-co-uk-september-2010/ "The Ladders"
+ [14]: https://darkpatterns.org/theladders-co-uk-september-2010/
+ [15]: https://darkpatterns.org/days-am-app-november-2013/ "Dark Patterns - Days"
+ [16]: https://darkpatterns.org/days-am-app-november-2013/
+ [17]: https://darkpatterns.org/softpedia-com-july-2010/
+ [18]: https://darkpatterns.org "darkpatterns.org"
+ [19]: https://darkpatterns.org/ "DarkPatterns"
+ [20]: https://alistapart.com/article/dark-patterns-deception-vs.-honesty-in-ui-design "Dark patterns deception vs. honesty in ui design"
+ [21]: https://www.slideshare.net/Nomensa/dark-patterns-in-ux "Dark Patterns in UX"
+ [22]: https://www.slideshare.net/harrybr/ux-brighton-dark-patterns "UX Dark Patterns"
+ [23]: https://www.slideshare.net/harrybr/dark-patterns-an-overview-for-brand-owners "Dark Patterns an overview for brand owners"

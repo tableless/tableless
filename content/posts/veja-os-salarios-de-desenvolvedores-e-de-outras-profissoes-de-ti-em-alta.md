@@ -13,7 +13,7 @@ type = "post"
 +++
 Com a evolução da tecnologia e sua maior importância no cotidiano, os especialistas da área estão cada vez mais valorizados. A demanda por profissionais qualificados é crescente, enquanto a oferta dessa mão de obra ainda é limitada. O resultado é a necessidade das empresas oferecerem salários competitivos.
 
-Para os desenvolvedores, a remuneração média nacional na carreira é de 6.452 reais. O dado faz parte de estudo feito pela [Revelo](http://revelo.com.br/) sobre o panorama de salário em tecnologia, que reuniu dados de 9 mil ofertas de emprego e 100 mil candidatos.
+Para os desenvolvedores, a remuneração média nacional na carreira é de 6.452 reais. O dado faz parte de estudo feito pela [Revelo](https://revelo.com.br/) sobre o panorama de salário em tecnologia, que reuniu dados de 9 mil ofertas de emprego e 100 mil candidatos.
 
 Segundo Lachlan de Crespigny, cofundador da Revelo, startup de recrutamento de profissionais de tecnologia, a procura por [desenvolvedores](https://br.udacity.com/blog/post/front-end-vs-back-end-vs-full-stack-desenvolvedor-web) é a mais aquecida do mercado. “Empresas grandes estão investindo pesado em aplicativos. Muitos bancos procuram ter seu acesso mobile mais sofisticado”, explica ele.
 

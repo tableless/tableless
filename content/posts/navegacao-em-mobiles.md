@@ -7,7 +7,7 @@ url: /navegacao-em-mobiles/
 tweetbackscheck:
   - 1356464132
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/navegacao-em-mobiles";s:7:"tinyurl";s:26:"http://tinyurl.com/3mjzud4";s:4:"isgd";s:19:"http://is.gd/oqp5YW";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/navegacao-em-mobiles";s:7:"tinyurl";s:26:"https://tinyurl.com/3mjzud4";s:4:"isgd";s:19:"https://is.gd/oqp5YW";}'
 twittercomments:
   - 'a:2:{i:44738015272251392;s:7:"retweet";i:44734898623361024;s:7:"retweet";}'
 tweetcount:
@@ -41,5 +41,5 @@ O que você acha? Você faz sites  para versão mobile? Ou só faz por livre e 
 
 Estou começando a colocar na minha cabeça que todo desenvolvedor devia ter um SmartPhone. Pelo menos os que trabalham com interface e padrões web.
 
- [1]: http://www.opera.com/products/mobile/products/
- [2]: http://visie.com.br/
+ [1]: https://www.opera.com/products/mobile/products/
+ [2]: https://visie.com.br/

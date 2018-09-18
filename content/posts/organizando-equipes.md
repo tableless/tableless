@@ -73,13 +73,13 @@ Conforme o tempo for passando, escrevo mais falando como estamos lidando como es
 Se você quiser ler mais sobre o assunto, sugiro que inicie lendo o livro [Management 3.0][10] e veja os vídeos ([parte 1][4] e [parte 2][11]) de como o Spotify montou seus times.
 
  [1]: https://en.wikipedia.org/wiki/Waterfall_model
- [2]: http://bit.ly/18MX8cg
+ [2]: https://bit.ly/18MX8cg
  [3]: https://dl.dropboxusercontent.com/u/177663/assets-diegoeis-com/guia-interesse-spotify.jpg
  [4]: https://vimeo.com/85490944
  [5]: https://vimeo.com/user14023874
  [6]: https://dl.dropboxusercontent.com/u/177663/assets-diegoeis-com/autonomy-alignment.jpg
  [7]: https://dl.dropboxusercontent.com/u/177663/assets-diegoeis-com/frontend-meddlers-locaweb.jpg
- [8]: http://noop.nl/2011/09/meddlers-free-exercise.html
- [9]: http://opensource.locaweb.com.br/locawebstyle/
+ [8]: https://noop.nl/2011/09/meddlers-free-exercise.html
+ [9]: https://opensource.locaweb.com.br/locawebstyle/
  [10]: https://management30.com/product/management30/
- [11]: http://vimeo.com/94950270
+ [11]: https://vimeo.com/94950270

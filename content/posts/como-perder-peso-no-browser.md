@@ -75,7 +75,7 @@ _iMasters &#8211; [Guia que conscientiza desenvolvedores sobre a importância da
 
 <blockquote class="twitter-tweet">
   <p>
-    love this new project: <a title="http://browserdiet.com" href="http://t.co/u8FWpD5mW0">browserdiet.com</a>
+    love this new project: <a title="https://browserdiet.com" href="https://t.co/u8FWpD5mW0">browserdiet.com</a>
   </p>
   
   <p>
@@ -87,7 +87,7 @@ _Stoyan Stefanov, Engineer &#8211; Facebook_
 
 <blockquote class="twitter-tweet">
   <p>
-    How to lose weight in the browser — the definitive front-end performance guide: <a title="http://browserdiet.com/" href="http://t.co/YqRgmFvipm">browserdiet.com</a>
+    How to lose weight in the browser — the definitive front-end performance guide: <a title="https://browserdiet.com/" href="https://t.co/YqRgmFvipm">browserdiet.com</a>
   </p>
   
   <p>
@@ -99,7 +99,7 @@ _Mathias Bynens, Web Developer &#8211; Freelance_
 
 <blockquote class="twitter-tweet">
   <p>
-    Some of Brazil&#8217;s brightest front-end devs created and just launched <a title="http://browserdiet.com/" href="http://t.co/8FNPhsjzQx">browserdiet.com</a>. Check it out!
+    Some of Brazil&#8217;s brightest front-end devs created and just launched <a title="https://browserdiet.com/" href="https://t.co/8FNPhsjzQx">browserdiet.com</a>. Check it out!
   </p>
   
   <p>
@@ -109,29 +109,29 @@ _Mathias Bynens, Web Developer &#8211; Freelance_
 
 _Mike Taylor, Web Opener &#8211; Opera_
 
- [1]: http://browserdiet.com
- [2]: http://zenorocha.com/monografia/
- [3]: http://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309
- [4]: http://www.amazon.com/Even-Faster-Web-Sites-Performance/dp/0596522304/ref=sr_1_1
- [5]: http://stevesouders.com/
- [6]: http://developer.yahoo.com/performance/rules.html
+ [1]: https://browserdiet.com
+ [2]: https://zenorocha.com/monografia/
+ [3]: https://www.amazon.com/High-Performance-Web-Sites-Essential/dp/0596529309
+ [4]: https://www.amazon.com/Even-Faster-Web-Sites-Performance/dp/0596522304/ref=sr_1_1
+ [5]: https://stevesouders.com/
+ [6]: https://developer.yahoo.com/performance/rules.html
  [7]: https://developers.google.com/speed/docs/best-practices/rules_intro
- [8]: http://www.brizabueno.com/
- [9]: http://myextralife.com/56geeks/
- [10]: http://irae.pro.br
- [11]: http://docpad.org
- [12]: http://html5please.com/
- [13]: http://pt.wikipedia.org/wiki/Markdown
+ [8]: https://www.brizabueno.com/
+ [9]: https://myextralife.com/56geeks/
+ [10]: https://irae.pro.br
+ [11]: https://docpad.org
+ [12]: https://html5please.com/
+ [13]: https://pt.wikipedia.org/wiki/Markdown
  [14]: https://github.com/davidsonfellipe
  [15]: https://github.com/keppelen
  [16]: https://github.com/jaydson
- [17]: http://comoperderpesonobrowser.com.br
+ [17]: https://comoperderpesonobrowser.com.br
  [18]: https://github.com/marcelduran
  [19]: https://github.com/miketaylr
  [20]: https://github.com/mangini
  [21]: https://github.com/sergiolopes
  [22]: https://github.com/zenorocha/browser-diet/issues/40
- [23]: http://riojs.org
+ [23]: https://riojs.org
  [24]: https://github.com/zenorocha/browser-diet
  [25]: https://speakerdeck.com/zenorocha/como-perder-peso-no-browser/
- [26]: http://imasters.com.br/noticia/guia-que-conscientiza-desenvolvedores-sobre-a-importancia-da-performance-e-lancado/
+ [26]: https://imasters.com.br/noticia/guia-que-conscientiza-desenvolvedores-sobre-a-importancia-da-performance-e-lancado/

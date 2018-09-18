@@ -81,7 +81,7 @@ Fontes:
 - [https://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html](https://www.w3.org/Protocols/rfc2616/rfc2616-sec13.html)
 - [https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=pt-br](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=pt-br)
 - [https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
-- [http://odino.org/rest-better-http-cache/](http://odino.org/rest-better-http-cache/)
+- [https://odino.org/rest-better-http-cache/](https://odino.org/rest-better-http-cache/)
 - [https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers](https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers)
 - [https://www.mnot.net/cache_docs/#CACHE-CONTROL](https://www.mnot.net/cache_docs/#CACHE-CONTROL)
 - [https://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/](https://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/)

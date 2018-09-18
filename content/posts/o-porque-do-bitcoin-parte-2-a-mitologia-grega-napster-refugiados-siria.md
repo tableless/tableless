@@ -19,7 +19,7 @@ tags:
 
 
 Esse post faz parte de uma coletânea de artigos sobre o Bitcoin, Ethereum, Blockchain e criptomoedas em geral. Fique ligado que mais novidades estão
-por vir! [Leia o primeiro post](http://tableless.com.br/o-porque-do-bitcoin-parte-1-la-casa-de-papel-roma-antiga-decada-perdida/).
+por vir! [Leia o primeiro post](https://tableless.com.br/o-porque-do-bitcoin-parte-1-la-casa-de-papel-roma-antiga-decada-perdida/).
 
 *****
 
@@ -52,7 +52,7 @@ diversas cabeças de serpente.
 
 ![](https://cdn-images-1.medium.com/max/800/1*uiwZlXO88e4D2M6PRVR47A.jpeg)
 <span class="figcaption_hack">Fonte:
-[http://orig01.deviantart.net/557f/f/2014/084/9/f/hydra_by_yoso999-d7bmpqg.jpg](http://orig01.deviantart.net/557f/f/2014/084/9/f/hydra_by_yoso999-d7bmpqg.jpg)</span>
+[https://orig01.deviantart.net/557f/f/2014/084/9/f/hydra_by_yoso999-d7bmpqg.jpg](https://orig01.deviantart.net/557f/f/2014/084/9/f/hydra_by_yoso999-d7bmpqg.jpg)</span>
 
 Segundo as primeiras versões do conto, toda vez que uma das cabeças do monstro
 fosse cortado, outra nasceria em seu lugar. A história porém foi alterada mais
@@ -138,7 +138,7 @@ grande calcanhar de Aquiles do Napster que fez com que todo o projeto fosse por
 
 ![](https://cdn-images-1.medium.com/max/600/1*ZnjC5nTFdakvGuWDD738Mw.gif)
 <span class="figcaption_hack">Fonte:
-[http://money.cnn.com/2010/02/02/news/companies/napster_music_industry/](http://money.cnn.com/2010/02/02/news/companies/napster_music_industry/)</span>
+[https://money.cnn.com/2010/02/02/news/companies/napster_music_industry/](https://money.cnn.com/2010/02/02/news/companies/napster_music_industry/)</span>
 
 E por quê? Bem, obviamente a indústria da música não ia deixar barato. Afinal,
 ela faturava bilhões exclusivamente com as vendas de CDs.
@@ -147,7 +147,7 @@ E como o Napster era uma empresa localizada nos EUA, com servidores
 centralizados, onde todos os arquivos estavam fisicamente, bastava a indústria
 processar a empresa e pedir o encerramento do serviço.
 
-[E foi exatamente isso que aconteceu](http://news.bbc.co.uk/2/hi/852283.stm).
+[E foi exatamente isso que aconteceu](https://news.bbc.co.uk/2/hi/852283.stm).
 
 E isso tudo, vale frisar novamente, só ocorreu porque o Napster era uma *empresa
 americana*, com *servidores centralizados*.
@@ -171,7 +171,7 @@ E como faz pra fechar um serviço descentralizado? Não faz. Pra acabar com o
 Napster bastou derrubar o servidor central. Ponto final. Se tentassem derrubar o
 BitTorrent por exemplo, seria necessário visitar todas as milhões de máquinas
 dos usuários do serviço. Uma a uma. Ou seja, impossível. Tanto que o serviço [tá
-aí até hoje.](http://www.bittorrent.com/)
+aí até hoje.](https://www.bittorrent.com/)
 
 Pra resumir, o que eu quero que você entenda com essa história é que:
 
@@ -209,7 +209,7 @@ isso ocorreu [diversas](https://pt.wikipedia.org/wiki/Bene_Israel)
 [história](https://www.theguardian.com/science/2011/jun/20/hadrians-wall-roman-britain-refugee-camp).
 E nos últimos anos as migrações em massa de refugiados voltaram a acontecer
 principalmente por causa da [guerra civil na
-Síria](http://www.bbc.com/portuguese/internacional-43204513).
+Síria](https://www.bbc.com/portuguese/internacional-43204513).
 
 Essa guerra, que ainda está em andamento, já deixou [pelo menos 5 milhões de
 refugiados](https://brasil.elpais.com/brasil/2018/03/12/internacional/1520865451_577510.html),
@@ -231,7 +231,7 @@ barras de ouro. Você seria um alvo fácil.
 
 ![](https://cdn-images-1.medium.com/max/600/1*lItVhx6-eSCeUS81SQLSfA.jpeg)
 <span class="figcaption_hack">Fonte:
-[http://static2.businessinsider.com/image/557871ec6da811a40274389d-4708-2687/rtx1fx37.jpg](http://static2.businessinsider.com/image/557871ec6da811a40274389d-4708-2687/rtx1fx37.jpg)</span>
+[https://static2.businessinsider.com/image/557871ec6da811a40274389d-4708-2687/rtx1fx37.jpg](https://static2.businessinsider.com/image/557871ec6da811a40274389d-4708-2687/rtx1fx37.jpg)</span>
 
 Deixar no sistema bancário também pode ser uma péssima ideia, porque quando você
 chegar num país seguro, vai ser bem difícil (se não for impossível) transferir o
@@ -260,7 +260,7 @@ anti-censura](https://coincentral.com/bitcoin-censorship-resistance/).
 
 ![](https://cdn-images-1.medium.com/max/600/1*2-coLy2vOubmnRjvAD12dw.jpeg)
 <span class="figcaption_hack">Fonte:
-[http://www.theamericanmirror.com/wp-content/uploads/2015/11/refugees.jpg](http://www.theamericanmirror.com/wp-content/uploads/2015/11/refugees.jpg)</span>
+[https://www.theamericanmirror.com/wp-content/uploads/2015/11/refugees.jpg](https://www.theamericanmirror.com/wp-content/uploads/2015/11/refugees.jpg)</span>
 
 Ah, tem mais. Lembra que os refugiados nem sempre conseguem fugir com toda a
 família? É muito comum ter que abandonar seus pais, por exemplo, por questões de
@@ -300,7 +300,7 @@ pronto. **Você agora virou seu próprio banco.**
 
 E por falar em bancos, no locais mais remotos e mais pobres da Terra existem [2
 bilhões de indivíduos
-desbancarizados](http://uk.businessinsider.com/the-worlds-unbanked-population-in-6-charts-2017-8)
+desbancarizados](https://uk.businessinsider.com/the-worlds-unbanked-population-in-6-charts-2017-8)
 (pessoas sem conta em banco). A maioria desses vivendo em [zonas rurais e
 ganhando menos que U$5 por
 dia](https://www.cnbc.com/2015/07/05/can-bitcoin-help-the-worlds-unbanked.html).
@@ -318,12 +318,12 @@ coisas que nós privilegiados tomamos como certo.
 O Bitcoin pode ser uma mudança de paradigma para todos esses indivíduos que
 tanto precisam. E com o [aumento expressivo do número de smartphones em países
 em
-desenvolvimento](http://www.pewglobal.org/2016/02/22/smartphone-ownership-and-internet-usage-continues-to-climb-in-emerging-economies/)
+desenvolvimento](https://www.pewglobal.org/2016/02/22/smartphone-ownership-and-internet-usage-continues-to-climb-in-emerging-economies/)
 todos os benefícios do Bitcoin, que já foram citados anteriormente, seriam
 possíveis.
 
 [A inclusão financeira é um conceito
-chave](http://thehill.com/opinion/technology/380115-for-worlds-unbanked-bitcoin-is-the-future)
+chave](https://thehill.com/opinion/technology/380115-for-worlds-unbanked-bitcoin-is-the-future)
 para que possamos tentar diminuir a pobreza no mundo. E é bem possível que o
 Bitcoin seja a maior oportunidade de inclusão financeira de todos os tempos.
 
@@ -334,7 +334,7 @@ Indivíduos privilegiados, acostumados com uma sociedade* estável e previsível
 [Banqueiros](https://www.coindesk.com/2017-review-bankers-think-bitcoin/), [Bill
 Gates](https://portaldobitcoin.com/bitcoin-bill-gates-diz-que-apostaria-contra-se-pudesse/)
 e [Warren
-Buffet](http://economia.estadao.com.br/noticias/geral,criptomoeda-e-um-veneno-afirma-warren-buffett,70002299133)
+Buffet](https://economia.estadao.com.br/noticias/geral,criptomoeda-e-um-veneno-afirma-warren-buffett,70002299133)
 (os dois últimos, apesar de tudo, sempre foram meus heróis) são só alguns
 exemplos que vieram a público recentemente criticar a moeda digital.
 
@@ -366,7 +366,7 @@ cabeça do Bitcoin, duas novas surgiram no seu lugar.
 
 *****
 
-**Se quiser receber de antemão mais posts como esse, [assine a newsletter](http://eepurl.com/bHZHC1).**
+**Se quiser receber de antemão mais posts como esse, [assine a newsletter](https://eepurl.com/bHZHC1).**
 
 Obrigado por ler! ❤
 

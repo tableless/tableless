@@ -137,17 +137,17 @@ A especificação de _CSS Custom Properties_ ainda está em rascunho e só está
 
 Espero que este texto o tenha ajudado a entender a diferente semântica das variáveis em cada um dos pré-processadores e diferenciado o suficiente das propriedades personalizadas.
 
- [1]: http://tableless.com.br/css-steroids
- [2]: http://codepen.io/jcemer/pen/CfvLm
- [3]: http://benalman.com/news/2010/11/immediately-invoked-function-expression
- [4]: http://sass-lang.com/documentation/file.SASS_CHANGELOG.html#330_7_march_2014
- [5]: http://codepen.io/jcemer/pen/yqLoJ
- [6]: http://codepen.io/jcemer/pen/AJzwp
- [7]: http://codepen.io/jcemer/pen/qBlci
+ [1]: https://tableless.com.br/css-steroids
+ [2]: https://codepen.io/jcemer/pen/CfvLm
+ [3]: https://benalman.com/news/2010/11/immediately-invoked-function-expression
+ [4]: https://sass-lang.com/documentation/file.SASS_CHANGELOG.html#330_7_march_2014
+ [5]: https://codepen.io/jcemer/pen/yqLoJ
+ [6]: https://codepen.io/jcemer/pen/AJzwp
+ [7]: https://codepen.io/jcemer/pen/qBlci
  [8]: https://github.com/thoughtbot/neat/blob/90016226abbdcc4c01cf24ce7346cb4ed2d5291b/app/assets/stylesheets/grid/_row.scss#L3
  [9]: https://github.com/thoughtbot/neat/blob/90016226abbdcc4c01cf24ce7346cb4ed2d5291b/app/assets/stylesheets/grid/_span-columns.scss#L8
- [10]: http://codepen.io/jcemer/pen/tijCI
- [11]: http://dev.w3.org/csswg/css-variables
+ [10]: https://codepen.io/jcemer/pen/tijCI
+ [11]: https://dev.w3.org/csswg/css-variables
  [12]: https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables
- [13]: http://tableless.com.br/efeito-cascata-e-especificidade-do-css
- [14]: http://codepen.io/jcemer/pen/uwntB
+ [13]: https://tableless.com.br/efeito-cascata-e-especificidade-do-css
+ [14]: https://codepen.io/jcemer/pen/uwntB

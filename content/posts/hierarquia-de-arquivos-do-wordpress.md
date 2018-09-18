@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356425990
 shorturls:
-  - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/hierarquia-de-arquivos-do-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/3j7m5qr";s:4:"isgd";s:19:"http://is.gd/0tzn55";}'
+  - 'a:3:{s:9:"permalink";s:59:"https://tableless.com.br/hierarquia-de-arquivos-do-wordpress";s:7:"tinyurl";s:26:"https://tinyurl.com/3j7m5qr";s:4:"isgd";s:19:"https://is.gd/0tzn55";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039009
@@ -103,9 +103,9 @@ Muitos desenvolvedores por aí, aconselham que você comece seu theme a partir d
 
 No site do [WordPress][5] há outras muitas [informações importantes sobre a Hierearquia dos Arquivos][6].
 
- [1]: http://codex.wordpress.org/Glossary#Query_string
- [2]: http://codex.wordpress.org/Template_Hierarchy "Hierarquia de arquivo do WordPress - Em inglês"
- [3]: http://codex.wordpress.org/images/1/18/Template_Hierarchy.png
+ [1]: https://codex.wordpress.org/Glossary#Query_string
+ [2]: https://codex.wordpress.org/Template_Hierarchy "Hierarquia de arquivo do WordPress - Em inglês"
+ [3]: https://codex.wordpress.org/images/1/18/Template_Hierarchy.png
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/04/template_hierarchy.png
- [5]: http://tableless.com.br/categoria/wordpress "Artigos sobre WordPress"
- [6]: http://codex.wordpress.org/Template_Hierarchy
+ [5]: https://tableless.com.br/categoria/wordpress "Artigos sobre WordPress"
+ [6]: https://codex.wordpress.org/Template_Hierarchy

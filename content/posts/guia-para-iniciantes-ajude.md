@@ -21,8 +21,8 @@ A ideia é ter um guia para iniciantes atualizado com textos e informações sob
   
 Não precisa escrever se não quiser, mas tente ajudar de qualquer outra forma, há muito o que se fazer e por isso qualquer ajuda é bem-vinda.
 
-Para acessar o projeto, visite: http://github.com/tableless/iniciantes/
+Para acessar o projeto, visite: https://github.com/tableless/iniciantes/
 
 Espero que vocês gostem da iniciativa e que isso cresça. Não quis nem colocar logo do Tableless e nem algo parecido, por que isso é algo da comunidade. Só abri mesmo o projeto no Github para manter o mínimo de organização. Por favor, ajude, vai ser bom pra você e para todos.
 
- [1]: http://tableless.com.br/para-iniciantes/
+ [1]: https://tableless.com.br/para-iniciantes/

@@ -135,7 +135,7 @@ Apesar de ser um editor com pouco tempo no mercado já conta com um grande quant
 
 Entre outras milhares de extensões e recursos, isso é só um resumo.
 
-Se você se interessou, você pode fazer o download no <a href="http://brackets.io/" target="_blank">site oficial</a>, tem versões para Windows, MAC OS X e Linux, funciona muito bem nos três sistemas. Teste, é de graça!
+Se você se interessou, você pode fazer o download no <a href="https://brackets.io/" target="_blank">site oficial</a>, tem versões para Windows, MAC OS X e Linux, funciona muito bem nos três sistemas. Teste, é de graça!
 
 Se você já usa o Brackets e quer fazer um adendo ou uma correção, por favor, colabore, tenho interesse em saber o que você descobriu sobre ele.
   

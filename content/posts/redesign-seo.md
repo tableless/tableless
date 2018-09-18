@@ -40,17 +40,17 @@ Se você fizer o redesign do seu site, de forma que prejudique sua linkagem inte
 
 Aí está um grande vilão de implementação de projetos. Já vi e já tive problemas com isso. Se você não se preocupar em atualizar links e trabalhar sua URL, isso irá te dar uma grande dor de cabeça. Ao fazermos a mudança de arquitetura por exemplo, temos que informar ao motor que uma determinada página agora tem outro endereço.  Veja, se você tinha a seguinte estrutura:
 
-http://www.seudominio.com.br/**o-que-fazemos**/marketing-digital
+https://www.seudominio.com.br/**o-que-fazemos**/marketing-digital
 
 Por algum motivo e aproveitando a mudança de design no site, você decidiu mudar para:
 
-http://www.seudominio.com.br/**servicos**/marketing-digital
+https://www.seudominio.com.br/**servicos**/marketing-digital
 
 Ao decidir fazer essa mudança, você deve se preocupar com erros 404, pois o Google irá buscar aquela página e não a encontrará. Você pode resolver isso com um redirect 301 via htaccess ou em PHP, por exemplo:
 
 ## Via htaccsess:
 
-redirect 301 /**o-que-fazemos**/marketing-digital http://www.seudominio.com.br/**servicos**/marketing-digital
+redirect 301 /**o-que-fazemos**/marketing-digital https://www.seudominio.com.br/**servicos**/marketing-digital
 
 ## Via PHP:
 
@@ -58,7 +58,7 @@ redirect 301 /**o-que-fazemos**/marketing-digital http://www.seudominio.com.br/*
 
 Header( “HTTP/1.1 301 Moved Permanently” );
 
-Header( “Location: http://www.seudominio.com.br” );
+Header( “Location: https://www.seudominio.com.br” );
 
 ?&gt;
 </pre>
@@ -116,5 +116,5 @@ Bom pessoal, é isso aí! Existem vários pontos que podem ser citados aqui e eu
 
 Valew pessoal e até o próximo artigo!
 
- [1]: http://pt.wikipedia.org/wiki/Anexo:Lista_de_c%C3%B3digos_de_status_HTTP
- [2]: http://www.sitemaps.org/
+ [1]: https://pt.wikipedia.org/wiki/Anexo:Lista_de_c%C3%B3digos_de_status_HTTP
+ [2]: https://www.sitemaps.org/

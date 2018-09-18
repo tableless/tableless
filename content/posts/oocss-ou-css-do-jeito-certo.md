@@ -8,7 +8,7 @@ url: /oocss-ou-css-do-jeito-certo/
 tweetbackscheck:
   - 1356408379
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4713";s:7:"tinyurl";s:26:"http://tinyurl.com/cg8d3k8";s:4:"isgd";s:19:"http://is.gd/CkmTVo";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4713";s:7:"tinyurl";s:26:"https://tinyurl.com/cg8d3k8";s:4:"isgd";s:19:"https://is.gd/CkmTVo";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 509393793
@@ -31,7 +31,7 @@ Escrever CSS é fácil. Isto não deveria ser um problema, mas é. Por ser fáci
   
 Mas quando falamos de sites grandes (em visitação e quantidade de páginas) existem algumas restrições: velocidade de carregamento, compatibilidade entre browsers, manutenção, flexibilidade para mudanças etc. Tudo isso deve ser pensado e planejado antes de colocarmos a mão na massa. É no planejamento que iremos estruturar como serão feitas as manutenções posteriores, como iremos mudar elementos principais sem interferir no layout como um todo.
 
-O CSS Orientado a Objeto (em inglês OOCSS &#8211; Object Oriented CSS &#8211; Sendo sincero, esse nome é muito ruim) tem como conceito técnicas que já falamos durante muito tempo, mas que como o <a href="http://tableless.com.br/introducao-ao-responsive-web-design/" title="Artigo sobre responsive web design" target="_blank">Responsive Web Design</a>, está ganhando força somente agora.
+O CSS Orientado a Objeto (em inglês OOCSS &#8211; Object Oriented CSS &#8211; Sendo sincero, esse nome é muito ruim) tem como conceito técnicas que já falamos durante muito tempo, mas que como o <a href="https://tableless.com.br/introducao-ao-responsive-web-design/" title="Artigo sobre responsive web design" target="_blank">Responsive Web Design</a>, está ganhando força somente agora.
 
 ## Princípios
 
@@ -163,7 +163,7 @@ Não estou falando aqui sobre a modularização de **arquivos** CSS, mas sim do 
 
 Encontre o meio termo. Não faça seletores muito específicos ou seletores muito genéricos. O CSS trabalha com especificidade: quanto mais específico, mais certeiro você é ao capturar um elemento, mas seu CSS fica mais engessado e consequentemente você usa mais código. Quanto mais genérico, mais elementos do mesmo tipo você formata, mas o risco de conflito de estilos aumenta. O ideal é encontrar o meio termo, onde você é tão específico e nem tão genérico.
 
-Dependendo da forma que você utiliza os seletores os browsers podem ser ou não mais rápidos ao renderizar seu site. <a href="http://tableless.com.br/melhorando-performance-css/" title="Performance do seu CSS" target="_blank">Já falamos disso aqui</a>.
+Dependendo da forma que você utiliza os seletores os browsers podem ser ou não mais rápidos ao renderizar seu site. <a href="https://tableless.com.br/melhorando-performance-css/" title="Performance do seu CSS" target="_blank">Já falamos disso aqui</a>.
 
 ### Formate elementos com classes modulares
 
@@ -196,7 +196,7 @@ Porque criei os nomes das classes btVermelho e btVerde em vez de btCancelar e bt
 
 ### Concluindo
 
-Seguir esses pequenos detalhes evitam uma série de problemas comuns no desenvolvimento client-side. A reutilização de código CSS se torna real, a velocidade do carregamento melhora e os problemas de manutenção são solucionados. A flexibilidade que teremos ao modificar o CSS será muito grande e não aumentaremos nosso código a cada modificação feita. A ideia é que seu código CSS fique sob controle. A utilização de <a href="http://tableless.com.br/biblioteca-css-ou-framework/" target="_blank">frameworks e bibliotecas podem ajudar em muitos momentos</a>.
+Seguir esses pequenos detalhes evitam uma série de problemas comuns no desenvolvimento client-side. A reutilização de código CSS se torna real, a velocidade do carregamento melhora e os problemas de manutenção são solucionados. A flexibilidade que teremos ao modificar o CSS será muito grande e não aumentaremos nosso código a cada modificação feita. A ideia é que seu código CSS fique sob controle. A utilização de <a href="https://tableless.com.br/biblioteca-css-ou-framework/" target="_blank">frameworks e bibliotecas podem ajudar em muitos momentos</a>.
 
- [1]: http://tableless.com.br/modulando-o-css/
- [2]: http://tableless.com.br/camadas-de-desenvolvimento-client-side/
+ [1]: https://tableless.com.br/modulando-o-css/
+ [2]: https://tableless.com.br/camadas-de-desenvolvimento-client-side/

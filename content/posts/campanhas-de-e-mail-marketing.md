@@ -28,6 +28,6 @@ Ou seja, se essas 700 pessoas clicaram nesses produtos é porque elas se interes
 
 Por isso, a análise detalhada de cada campanha se faz necessária e muito importante para as estratégias de E-mail Marketing, pois não adianta ficar disparando e-mails aleatórios, achando que você conhece seu cliente. Isso é praticamente impossível. Se você realmente quer saber o que seus clientes procuram, comece agora mesmo a analisar suas campanhas, veja se a ferramenta que está usando atende suas necessidades, construa sua lista e crie os segmentos que são importantes para seu negócio. Tenho certeza de que você irá descobrir muitas coisas interessantes sobre eles.
 
- [1]: http://www.aweber.com/index3.htm
- [2]: http://mailchimp.com/
- [3]: http://www.getresponse.com/
+ [1]: https://www.aweber.com/index3.htm
+ [2]: https://mailchimp.com/
+ [3]: https://www.getresponse.com/

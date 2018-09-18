@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356443501
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/referenciacss";s:7:"tinyurl";s:26:"http://tinyurl.com/3zrh9u5";s:4:"isgd";s:19:"http://is.gd/o9tTR5";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/referenciacss";s:7:"tinyurl";s:26:"https://tinyurl.com/3zrh9u5";s:4:"isgd";s:19:"https://is.gd/o9tTR5";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037080
@@ -27,5 +27,5 @@ Principalmente quem está começando na área tem algumas dificuldades para lemb
 
 [Guia de Referência Rápida de CSS][2]
 
- [1]: http://gosquared.com/liquidicity/archives/33
- [2]: http://migre.me/4vJNs "Referência CSS"
+ [1]: https://gosquared.com/liquidicity/archives/33
+ [2]: https://migre.me/4vJNs "Referência CSS"

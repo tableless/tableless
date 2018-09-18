@@ -38,5 +38,5 @@ Gostaria de salientar a importância em focar no _mobile_ de agora em diante. C
 
 Esse material foi extraído do <a href="https://webmasters.googleblog.com/2016/11/mobile-first-indexing.html" target="_blank">blog Webmasters do Google</a>, onde você poderá discutir com outros usuários e também encontrará os links para os fóruns para _webmasters_.
 
- [1]: http://rodrigofavaro.com/2016/07/04/introduzindo-rich-cards-um-novo-formato-de-resultados-para-buscas/
+ [1]: https://rodrigofavaro.com/2016/07/04/introduzindo-rich-cards-um-novo-formato-de-resultados-para-buscas/
  [2]: https://developers.google.com/webmasters/mobile-sites/mobile-seo/separate-urls

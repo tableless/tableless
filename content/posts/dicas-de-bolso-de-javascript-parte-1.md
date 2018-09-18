@@ -101,4 +101,4 @@ Era isso! Dicas rápidas sobre a linguagem, que para alguns podem ser básicas, 
 
 Referências
   
-<a href="http://www.amazon.com/Learning-JavaScript-Edition-Shelley-Powers/dp/0596521871" target="_blank">Learning JavaScript</a> | <a href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742" target="_blank">JavaScript: The Good Parts</a> | <a href="http://shop.oreilly.com/product/0636920011460.do" target="_blank">JavaScript: Pocket Reference</a> | <a href="http://shop.oreilly.com/product/9780596806767.do" target="_blank">JavaScript Patterns</a>
+<a href="https://www.amazon.com/Learning-JavaScript-Edition-Shelley-Powers/dp/0596521871" target="_blank">Learning JavaScript</a> | <a href="https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742" target="_blank">JavaScript: The Good Parts</a> | <a href="https://shop.oreilly.com/product/0636920011460.do" target="_blank">JavaScript: Pocket Reference</a> | <a href="https://shop.oreilly.com/product/9780596806767.do" target="_blank">JavaScript Patterns</a>

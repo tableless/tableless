@@ -4,7 +4,7 @@ authors: Diego Eis
 excerpt: Uma análise simples de velocidade do Tableless depois da mudança para código estático.
 type: post
 date: 2017-05-23
-image: http://imgh.us/pexels-photo-83948.jpeg
+image: https://imgh.us/pexels-photo-83948.jpeg
 categories:
   - Código
   - middleman
@@ -24,21 +24,21 @@ Todo mundo sabe [como fazer um site carregar mais rápido](https://browserdiet.c
 
 O tempo médio de carregamento da página melhorou em 41%.
 
-![tempo médio de carregamento da página](http://imgh.us/tempo-medio-carregamento-pagina.gif)
+![tempo médio de carregamento da página](https://imgh.us/tempo-medio-carregamento-pagina.gif)
 
 O tempo médio de resposta do servidor melhorou em 55.72%.
 
-![Tempo médio de resposta do servidor](http://imgh.us/tempo-medio-resposta-servidor.gif)
+![Tempo médio de resposta do servidor](https://imgh.us/tempo-medio-resposta-servidor.gif)
 
 Já o tempo médio de download da página, melhorou em 37.8%.
 
-![Tempo médio de download da página](http://imgh.us/tempo-medio-download-pagina.gif)
+![Tempo médio de download da página](https://imgh.us/tempo-medio-download-pagina.gif)
 
 Não há segredo nenhum: apenas código HTML puro, com o mínimo de CSS, JS e claro, imagens. Estou usando imagens apenas onde realmente é necessário. O uso de JS pesado aqui fica por conta do Disqus, que é um monstro, mas por enquanto é necessário por conta dos comentários.
 
 Não fiz nenhuma mudança no servidor, que é o mais barato da DigitalOcean, com NGINX rodando num Ubuntu.
 
-Fazendo o teste no WebPageTest.org, você pode ver [bons resultados também](https://www.webpagetest.org/result/170524_Q6_4RQ/1/details/#waterfall_view_step1). Veja que um número importante ali é o [Speed Index](http://blog.caelum.com.br/porque-voce-nao-deveria-ligar-para-o-tempo-do-onload-ou-as-metricas-que-importam-para-performance-real-na-web/). O ideal, de acordo com o [Sergio Lopes](https://www.youtube.com/watch?v=EMCBd3kw4zs) é 1000 ou menos. Sem fazer esforço cheguei nos 2400... 
+Fazendo o teste no WebPageTest.org, você pode ver [bons resultados também](https://www.webpagetest.org/result/170524_Q6_4RQ/1/details/#waterfall_view_step1). Veja que um número importante ali é o [Speed Index](https://blog.caelum.com.br/porque-voce-nao-deveria-ligar-para-o-tempo-do-onload-ou-as-metricas-que-importam-para-performance-real-na-web/). O ideal, de acordo com o [Sergio Lopes](https://www.youtube.com/watch?v=EMCBd3kw4zs) é 1000 ou menos. Sem fazer esforço cheguei nos 2400... 
 
 No caso, a página testada foi [https://tableless.com.br/o-basico-sobre-sparql-turtle/](https://tableless.com.br/o-basico-sobre-sparql-turtle/).
 
@@ -47,7 +47,7 @@ Veja abaixo o vídeo de carregamento da página:
 
 [Nesse link](https://www.webpagetest.org/video/compare.php?tests=170524_Q6_4RQ-r:1-c:0) você consegue ver o filme separado em frames como imagens. Perceba que aos 2.5s o site já foi 99% carregado.
 
-![](http://imgh.us/Screen_Shot_2017-05-23_at_23.25.36.png)
+![](https://imgh.us/Screen_Shot_2017-05-23_at_23.25.36.png)
 
 Tem coisa para caramba para arrumar ainda, já que o svg do logo e o campo de busca aparecem apenas aos 2.0 segundos. Isso quer dizer que o site fica 2 segundos se aparecer NADA na tela. Já sei que o problema são as malditas fonts... Mas como sou teimoso e gosto dessas fonts, quero manter assim por enquanto.
 

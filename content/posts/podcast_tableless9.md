@@ -7,12 +7,12 @@ url: /podcast_tableless9/
 enclosure:
   - |
     |
-        http://tableless.com.br/podcast/podcast_tableless9.mp3
+        https://tableless.com.br/podcast/podcast_tableless9.mp3
         
 tweetbackscheck:
   - 1355439559
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/podcast_tableless9";s:7:"tinyurl";s:26:"http://tinyurl.com/44adwjr";s:4:"isgd";s:19:"http://is.gd/QkdWhW";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/podcast_tableless9";s:7:"tinyurl";s:26:"https://tinyurl.com/44adwjr";s:4:"isgd";s:19:"https://is.gd/QkdWhW";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033348
@@ -24,9 +24,9 @@ Falamos sobre o interesse do [Google][1] de comprar a [Mozilla Foundation][2], [
 
 [Tableless Podcast #9][6]
 
- [1]: http://www.google.com/
- [2]: http://www.mozilla.org/
- [3]: http://www-306.ibm.com/able/news/firefox.html
- [4]: http://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=010110041210
- [5]: http://pt.wikipedia.org/wiki/Disco_Blu-ray
- [6]: http://tableless.com.br/podcast/podcast_tableless9.mp3
+ [1]: https://www.google.com/
+ [2]: https://www.mozilla.org/
+ [3]: https://www-306.ibm.com/able/news/firefox.html
+ [4]: https://www.inovacaotecnologica.com.br/noticias/noticia.php?artigo=010110041210
+ [5]: https://pt.wikipedia.org/wiki/Disco_Blu-ray
+ [6]: https://tableless.com.br/podcast/podcast_tableless9.mp3

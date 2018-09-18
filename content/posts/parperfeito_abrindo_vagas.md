@@ -7,7 +7,7 @@ url: /parperfeito_abrindo_vagas/
 tweetbackscheck:
   - 1356453939
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/parperfeito_abrindo_vagas";s:7:"tinyurl";s:26:"http://tinyurl.com/3ma2rb2";s:4:"isgd";s:19:"http://is.gd/pOAlrB";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/parperfeito_abrindo_vagas";s:7:"tinyurl";s:26:"https://tinyurl.com/3ma2rb2";s:4:"isgd";s:19:"https://is.gd/pOAlrB";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033652

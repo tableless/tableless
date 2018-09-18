@@ -42,7 +42,7 @@ Quando executamos a operação new Date() ou trabalhamos com serialização e d
 <pre>Ex: 
 dataGMT = new Date(dataUTC.getFullYear(),dataUTC.getMonth(),dataUTC.getDate())</pre>
 
-Criei uma pequena demo com código fonte completo demonstrando esta operação em: <a href="http://codepen.io/rogeriodegoiania/pen/OVGWry" target="_blank">http://codepen.io/rogeriodegoiania/pen/OVGWry</a>
+Criei uma pequena demo com código fonte completo demonstrando esta operação em: <a href="https://codepen.io/rogeriodegoiania/pen/OVGWry" target="_blank">https://codepen.io/rogeriodegoiania/pen/OVGWry</a>
 
 <h3 style="text-align: left;">
   Método toLocaleDateString()

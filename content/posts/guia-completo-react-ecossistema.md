@@ -9,7 +9,7 @@ categories:
 tags:
   - reactjs
   - nodejs
-image: http://i.imgur.com/FBXy8M5.png
+image: https://i.imgur.com/FBXy8M5.png
 ---
 
 Você já até estudou um pouco sobre a biblioteca desenvolvida pelo Facebook mas
@@ -74,7 +74,7 @@ JavaScript.
 
 Os críticos mais ferrenhos afirmavam que o JSX quebra um dos princípios básicos
 do desenvolvimento de software, que é o [Separation of
-Concerns](http://deviq.com/separation-of-concerns/).<br> Na minha opinião, essa
+Concerns](https://deviq.com/separation-of-concerns/).<br> Na minha opinião, essa
 visão é errada por dois motivos:
 
 1.  O React em si, a biblioteca e não o ecossistema, como já falei anteriormente,
@@ -442,7 +442,7 @@ Existem diversos gerenciadores de estado feitos exclusivamente para lidar com
 esse problema, dentre eles: [Flux](https://facebook.github.io/flux/),
 [MobX](https://github.com/mobxjs/mobx),
 [Reflux](https://github.com/reflux/refluxjs) e o mais famoso deles, o
-[Redux](http://redux.js.org/).
+[Redux](https://redux.js.org/).
 
 ![](https://cdn-images-1.medium.com/max/800/1*tOI6UC5EaS2fPItCesI-AQ.png)
 
@@ -509,7 +509,7 @@ comentários abaixo :)
 *****
 
 **Se você gostou do post não se esqueça de dar um ❤ aqui embaixo!E se quiser
-receber de antemão mais posts como esse, **[assine nossa newsletter](http://eepurl.com/bHZHC1)**.**
+receber de antemão mais posts como esse, **[assine nossa newsletter](https://eepurl.com/bHZHC1)**.**
 
 *Seja um apoiador, doe BitCoins: 1BGVKwjwQxkr3w1Md2X8WHAsyRjDjyJiPZ*
 
@@ -518,14 +518,14 @@ receber de antemão mais posts como esse, **[assine nossa newsletter](http://eep
 ### JSCasts
 
 É difícil encontrar conteúdo bom e atualizado em português. Com isso em mente
-criamos o [JSCasts](http://jscasts.teachable.com/), onde você vai se manter em
+criamos o [JSCasts](https://jscasts.teachable.com/), onde você vai se manter em
 dia com o JavaScript e todo o seu ecossistema de forma fácil e interativa.
 
 ![](https://cdn-images-1.medium.com/max/800/1*hUoaRpFtnMdWTE8Vo-5lIA.png)
 
 ### Cursos:
 
-- [Começando com React.js](http://jscasts.teachable.com/courses/comecando-com-react-js)
-- [React.js com ES6](http://jscasts.teachable.com/courses/react-js-com-es6)
+- [Começando com React.js](https://jscasts.teachable.com/courses/comecando-com-react-js)
+- [React.js com ES6](https://jscasts.teachable.com/courses/react-js-com-es6)
 
 *Obrigado por ler! ❤*

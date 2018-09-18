@@ -90,7 +90,7 @@ Hoje em dia, as Smart TVs estão cada vez mais presentes no dia a dia. E muito p
 
 Agora você pode usar sua imaginação e criar a App que desejar apenas com HTML, CSS e Ajax, no próximo tutorial irei introduzir como usar Ajax no desenvolvimento da App.
 
- [1]: http://developer.samsung.com/home.do
+ [1]: https://developer.samsung.com/home.do
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/imagem0.png
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/imagem00.png
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/imagem-03.png

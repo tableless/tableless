@@ -33,6 +33,6 @@ Antes da cerimônia, a partir das 15:00, haverá um workshop de acessibilidade n
   
 **Estacionamento**: Acesso pelo portão 15 
 
-Maiores informações estão disponíveis no site da premiação em <http://premio.w3c.br/cerimonia/>
+Maiores informações estão disponíveis no site da premiação em <https://premio.w3c.br/cerimonia/>
 
- [1]: http://premio.w3c.br/
+ [1]: https://premio.w3c.br/

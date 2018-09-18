@@ -42,7 +42,7 @@ Além do [Google I/O][8] que mostrou coisas absurdas, outra conferência importa
 
 Inúmeros desenvolvedores palestraram por lá, mas eu gostaria de destacar a palestra da [Angelina Fabbro][10], que inclusive virá ao Brasil para [JSConf BR][11]. O tema da palestra foi como ir de iniciante à expert.
 
-## Melhor artigo: <a title="Caio Gondim" href="http://loopinfinito.com.br/2013/05/28/css-position-sticky/" rel="author">Caio Gondim</a>
+## Melhor artigo: <a title="Caio Gondim" href="https://loopinfinito.com.br/2013/05/28/css-position-sticky/" rel="author">Caio Gondim</a>
 
 [<img class="aligncenter size-full wp-image-37528" alt="Untitled-1" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/05/Untitled-1.jpg" width="600" height="282" srcset="uploads/2013/05/Untitled-1.jpg 600w, uploads/2013/05/Untitled-1-329x154.jpg 329w, uploads/2013/05/Untitled-1-588x276.jpg 588w" sizes="(max-width: 600px) 100vw, 600px" />][12]
 
@@ -54,16 +54,16 @@ O [Loop Infinito][13] foi lá e explicou em _pt-br_ como funciona.
 
 Quais foram os melhores projetos, palestras, artigos desse mês?
 
- [1]: http://braziljs.org
- [2]: http://zofe.com.br
- [3]: http://purecss.io/
- [4]: http://topcoat.io/
- [5]: http://facebook.github.io/react/
- [6]: http://twitter.github.io/bootstrap
- [7]: http://afabbro.github.io/jsconf2013/
+ [1]: https://braziljs.org
+ [2]: https://zofe.com.br
+ [3]: https://purecss.io/
+ [4]: https://topcoat.io/
+ [5]: https://facebook.github.io/react/
+ [6]: https://twitter.github.io/bootstrap
+ [7]: https://afabbro.github.io/jsconf2013/
  [8]: https://developers.google.com/events/io/
- [9]: http://2013.jsconf.us/
- [10]: http://twitter.com/angelinamagnum
- [11]: http://2013.jsconfbr.org/
- [12]: http://loopinfinito.com.br/2013/05/28/css-position-sticky/
- [13]: http://loopinfinito.com.br/
+ [9]: https://2013.jsconf.us/
+ [10]: https://twitter.com/angelinamagnum
+ [11]: https://2013.jsconfbr.org/
+ [12]: https://loopinfinito.com.br/2013/05/28/css-position-sticky/
+ [13]: https://loopinfinito.com.br/

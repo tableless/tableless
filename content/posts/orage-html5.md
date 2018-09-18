@@ -224,7 +224,7 @@ Execute mais um calculo e salve seu valor. Agora clique em LISTAR VALORES e assi
 
 Clicando em APAGAR VALORES os dados sumirão e não serão mais visualizados no Developers Tools e não serão listados na tabela.
 
-Para finalizarmos temos que esclarecer que a maneira de se usar o sessionStorage é a mesma do localStorage. O que deve ficar claro é que ao usar o sessionStorage todos os dados salvos serão perdidos ao se fechar o navegador. O exemplo acima pode ser adaptado ao sessionStorage sem problemas. Veja o exemplo funcionando: <a title="EXEMPLO" href="http://jsfiddle.net/bruiz/d5prC/" target="_blank">EXEMPLO</a>
+Para finalizarmos temos que esclarecer que a maneira de se usar o sessionStorage é a mesma do localStorage. O que deve ficar claro é que ao usar o sessionStorage todos os dados salvos serão perdidos ao se fechar o navegador. O exemplo acima pode ser adaptado ao sessionStorage sem problemas. Veja o exemplo funcionando: <a title="EXEMPLO" href="https://jsfiddle.net/bruiz/d5prC/" target="_blank">EXEMPLO</a>
 
 Bons estudos e bom trabalho!
 

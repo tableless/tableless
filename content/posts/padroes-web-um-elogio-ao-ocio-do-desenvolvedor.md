@@ -7,7 +7,7 @@ url: /padroes-web-um-elogio-ao-ocio-do-desenvolvedor/
 tweetbackscheck:
   - 1356455351
 shorturls:
-  - 'a:3:{s:9:"permalink";s:70:"http://tableless.com.br/padroes-web-um-elogio-ao-ocio-do-desenvolvedor";s:7:"tinyurl";s:26:"http://tinyurl.com/3t7d6a9";s:4:"isgd";s:19:"http://is.gd/7MrJnP";}'
+  - 'a:3:{s:9:"permalink";s:70:"https://tableless.com.br/padroes-web-um-elogio-ao-ocio-do-desenvolvedor";s:7:"tinyurl";s:26:"https://tinyurl.com/3t7d6a9";s:4:"isgd";s:19:"https://is.gd/7MrJnP";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037561
@@ -35,12 +35,12 @@ Normalmente, a maioria dos eventos sobre desenvolvimento acontecem em lugares co
 
 Se você quiser mais vídeos e em alta-resolução, visite o [Campus Online][8]. Lá você vai encontrar [vídeos tutoriais de Tableless, Ajax, Javascript][9] e boas práticas de desenvolvimento web.
 
- [1]: http://www.slideshare.net/diegoeis/padres-web-um-elogio-ao-cio-do-desenvolvedor/
- [2]: http://www.alternativaweb2007.com.br/
- [3]: http://twitter.com/diegoeis/
- [4]: http://www.netlus.com.br/alternativa-web-2007-1o-dia/
- [5]: http://www.teoriaglacial.com/2007/10/02/alternativa-web-2007-1o-dia
- [6]: http://verdesmares.globo.com/v3/canais/noticias.asp?codigo=194034&modulo=181
- [7]: http://www.netlus.com.br/alternativa-web-primeiramente/
- [8]: http://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
- [9]: http://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"
+ [1]: https://www.slideshare.net/diegoeis/padres-web-um-elogio-ao-cio-do-desenvolvedor/
+ [2]: https://www.alternativaweb2007.com.br/
+ [3]: https://twitter.com/diegoeis/
+ [4]: https://www.netlus.com.br/alternativa-web-2007-1o-dia/
+ [5]: https://www.teoriaglacial.com/2007/10/02/alternativa-web-2007-1o-dia
+ [6]: https://verdesmares.globo.com/v3/canais/noticias.asp?codigo=194034&modulo=181
+ [7]: https://www.netlus.com.br/alternativa-web-primeiramente/
+ [8]: https://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
+ [9]: https://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"

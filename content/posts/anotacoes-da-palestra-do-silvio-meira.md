@@ -54,5 +54,5 @@ Essas são as anotações que fiz na palestra do [Silvio Meira][1] no evento [En
   * Deve ser possível fazer entregas parciais. O todo deve degradar graciosamente.
   * Grandes empresas trabalham em rede, usando a rede, consumindo da rede e provendo para a rede. Seu negócio como parte de uma verdadeira federação.
 
- [1]: http://twitter.com/slrm
- [2]: http://encontrolocaweb.com.br/
+ [1]: https://twitter.com/slrm
+ [2]: https://encontrolocaweb.com.br/

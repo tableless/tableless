@@ -59,10 +59,10 @@ A nova API de _history_ permite adicionar novas entradas com a função `window.
       console.log(event.state);
     }, false
     
-    window.history.pushState({ tableless: 'sample' }, 'Fake Post', 'http://tableless.com.br/fake-post');
+    window.history.pushState({ tableless: 'sample' }, 'Fake Post', 'https://tableless.com.br/fake-post');
     
 
-Como já observamos, a execução da função `pushState` irá adicionar uma entrada no histórico de navegação e alterar a barra de endereço para _http://tableless.com.br/fake-post_. Na ocasião de o usuário retroceder o histórico de navegação, a barra de endereço será alterada para seu endereço inicial e o evento `popstate` será disparado. O valor da propriedade `state` do evento é aquele definido pelo parâmetro `data` na chamada de `pushState`. O _console_ será preenchido com `Object {tableless: "sample"}`.
+Como já observamos, a execução da função `pushState` irá adicionar uma entrada no histórico de navegação e alterar a barra de endereço para _https://tableless.com.br/fake-post_. Na ocasião de o usuário retroceder o histórico de navegação, a barra de endereço será alterada para seu endereço inicial e o evento `popstate` será disparado. O valor da propriedade `state` do evento é aquele definido pelo parâmetro `data` na chamada de `pushState`. O _console_ será preenchido com `Object {tableless: "sample"}`.
 
 Dependendo da implementação da API no navegador, o evento `popstate` será disparado logo no carregamento da página. Neste caso, o _console_ será preenchido com `undefined`.
 
@@ -112,16 +112,16 @@ Os endereços serão gerenciados pelo `Backbone.Router` que inclusive utiliza `w
 
 Os ganhos em rapidez de carregamento podem ser bastante significativos, mas a aplicação precisa ser repensada e adequada. É preciso testar constantemente a aplicação em busca de _memory leaks_.  Apenas adicionar uma das bibliotecas de carregamento de conteúdo assíncrono e esperar que tudo funcione não é uma alternativa. Mas não deixe de tentar, o usuário agradece.
 
- [1]: http://browserdiet.com/pt
- [2]: http://tableless.com.br/performance-frontend-parte1
- [3]: http://developer.yahoo.com/yslow
- [4]: http://developer.yahoo.com/performance/rules.html
- [5]: http://tableless.com.br/o-grande-desencontro-http-com-o-html
+ [1]: https://browserdiet.com/pt
+ [2]: https://tableless.com.br/performance-frontend-parte1
+ [3]: https://developer.yahoo.com/yslow
+ [4]: https://developer.yahoo.com/performance/rules.html
+ [5]: https://tableless.com.br/o-grande-desencontro-http-com-o-html
  [6]: https://github.com/defunkt/jquery-pjax
- [7]: http://www.w3.org/TR/XMLHttpRequest
- [8]: http://www.w3.org/TR/2011/WD-html5-20110113/history.html
- [9]: http://caniuse.com/#feat=history
+ [7]: https://www.w3.org/TR/XMLHttpRequest
+ [8]: https://www.w3.org/TR/2011/WD-html5-20110113/history.html
+ [9]: https://caniuse.com/#feat=history
  [10]: https://github.com/kossnocorp/jquery.turbolinks
- [11]: http://reed.github.io/turbolinks-compatibility
- [12]: http://caniuse.com/xhr2
+ [11]: https://reed.github.io/turbolinks-compatibility
+ [12]: https://caniuse.com/xhr2
  [13]: https://github.com/igor-alexandrov/wiselinks

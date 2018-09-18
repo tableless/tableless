@@ -89,12 +89,12 @@ Com todos estes caminhos a explorar, por que se contentar com &#8220;menos é ma
   
 [Assumptions About Mobile To Reconsider][9]
 
- [1]: http://www.thinkwithgoogle.com/mobileplanet/en/graph/?country=br&country=cn&country=se&country=uk&country=us&category=DETAILS&topic=DETAILS_LOCA&stat=LOCA01&stat=LOCA02&stat=LOCA03&stat=LOCA04&stat=LOCA06&stat=LOCA10&subcategory=GSA&wave=wave2&age=all&gender=all&active=stat "Our mobile planet"
- [2]: http://www.strangeloopnetworks.com/resources/infographics/mobile-infographics/32-percent-of-customers-choose-to-view-the-full-site-on-their-mobile-device/ "32% of customers  choose to view the full site on their mobile device"
- [3]: http://cardealermagazine.co.uk/publish/ebay-sees-huge-acceleration-in-mobile-car-sales-and-launches-its-own-app/66471 "Rise in mobile car sale"
- [4]: http://googlewebmastercentral.blogspot.se/2012/06/recommendations-for-building-smartphone.html "Recommendations for smartphone-optimized websites"
- [5]: http://precious-forever.com/2011/05/26/patterns-for-multiscreen-strategies/ " Patterns for Multiscreen Strategies"
- [6]: http://online.wsj.com/article/SB10001424127887323393304578360651345373308.html "Facebook Working on Incorporating the Hashtag"
- [7]: http://vimeo.com/48327889 "The Seven Deadly Myths of Mobile "
- [8]: http://www.smashingmagazine.com/2013/02/25/there-is-no-mobile-internet/ "Read 'There Is No Mobile Internet!'"
- [9]: http://mobile.smashingmagazine.com/2013/01/18/assumptions-about-mobile-to-reconsider/ "Read 'Think Again: Assumptions About Mobile To Reconsider'"
+ [1]: https://www.thinkwithgoogle.com/mobileplanet/en/graph/?country=br&country=cn&country=se&country=uk&country=us&category=DETAILS&topic=DETAILS_LOCA&stat=LOCA01&stat=LOCA02&stat=LOCA03&stat=LOCA04&stat=LOCA06&stat=LOCA10&subcategory=GSA&wave=wave2&age=all&gender=all&active=stat "Our mobile planet"
+ [2]: https://www.strangeloopnetworks.com/resources/infographics/mobile-infographics/32-percent-of-customers-choose-to-view-the-full-site-on-their-mobile-device/ "32% of customers  choose to view the full site on their mobile device"
+ [3]: https://cardealermagazine.co.uk/publish/ebay-sees-huge-acceleration-in-mobile-car-sales-and-launches-its-own-app/66471 "Rise in mobile car sale"
+ [4]: https://googlewebmastercentral.blogspot.se/2012/06/recommendations-for-building-smartphone.html "Recommendations for smartphone-optimized websites"
+ [5]: https://precious-forever.com/2011/05/26/patterns-for-multiscreen-strategies/ " Patterns for Multiscreen Strategies"
+ [6]: https://online.wsj.com/article/SB10001424127887323393304578360651345373308.html "Facebook Working on Incorporating the Hashtag"
+ [7]: https://vimeo.com/48327889 "The Seven Deadly Myths of Mobile "
+ [8]: https://www.smashingmagazine.com/2013/02/25/there-is-no-mobile-internet/ "Read 'There Is No Mobile Internet!'"
+ [9]: https://mobile.smashingmagazine.com/2013/01/18/assumptions-about-mobile-to-reconsider/ "Read 'Think Again: Assumptions About Mobile To Reconsider'"

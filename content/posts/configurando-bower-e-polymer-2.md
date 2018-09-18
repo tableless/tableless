@@ -16,7 +16,7 @@ tags:
 ---
 Bower é um gerenciador de pacotes e dependências muito utilizado hoje em dia. O Polymer é um novo polyfill do Google para Web Components. Neste artigo veremos algumas configurações do Bower e criaremos nosso primeiro web component com Polymer.
 
-[youtube http://www.youtube.com/watch?v=owT5n9jlzVI?rel=0]
+[youtube https://www.youtube.com/watch?v=owT5n9jlzVI?rel=0]
 
 # Bower
 

@@ -7,7 +7,7 @@ url: /uol_convertido/
 tweetbackscheck:
   - 1356435158
 shorturls:
-  - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/uol_convertido";s:7:"tinyurl";s:26:"http://tinyurl.com/3pvlvzc";s:4:"isgd";s:19:"http://is.gd/LrmVSb";}'
+  - 'a:3:{s:9:"permalink";s:38:"https://tableless.com.br/uol_convertido";s:7:"tinyurl";s:26:"https://tinyurl.com/3pvlvzc";s:4:"isgd";s:19:"https://is.gd/LrmVSb";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031902
@@ -21,8 +21,8 @@ Obrigado pela colaboração [Bruno][1].
               
 Gostaria de colaborar também? [Leia as instruções.][5]
 
- [1]: http://www.brunotorres.net
- [2]: http://tableless.com.br/convertidos/uol/tableless/
- [3]: http://www.uol.com.br/
- [4]: http://tableless.com.br/convertidos/
- [5]: http://tableless.com.br/convertidos.asp#contribua
+ [1]: https://www.brunotorres.net
+ [2]: https://tableless.com.br/convertidos/uol/tableless/
+ [3]: https://www.uol.com.br/
+ [4]: https://tableless.com.br/convertidos/
+ [5]: https://tableless.com.br/convertidos.asp#contribua

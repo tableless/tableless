@@ -7,7 +7,7 @@ url: /video-tutorial-11/
 tweetbackscheck:
   - 1356449472
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/video-tutorial-11";s:7:"tinyurl";s:26:"http://tinyurl.com/3o6ds2y";s:4:"isgd";s:19:"http://is.gd/W5RQaH";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/video-tutorial-11";s:7:"tinyurl";s:26:"https://tinyurl.com/3o6ds2y";s:4:"isgd";s:19:"https://is.gd/W5RQaH";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035838
@@ -53,10 +53,10 @@ Se você não pode instalar o Opera Mini, não se preocupe, no site do Opera há
 
 Se você quiser mais vídeos e em alta-resolução, visite o [Campus Online][6]. Lá você vai encontrar [vídeos tutoriais de Tableless, Ajax, Javascript][7] e boas práticas de desenvolvimento web.
 
- [1]: http://www.opera.com/products/mobile/operamini/
- [2]: http://www.divx.com/divx/
- [3]: http://tableless.com.br/videotutorial/videotutorial11/videotutorial11.divx
- [4]: http://www.opera.com/products/mobile/operamini/demo.dml
- [5]: http://www.opera.com/support/tutorials/operamini/
- [6]: http://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
- [7]: http://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"
+ [1]: https://www.opera.com/products/mobile/operamini/
+ [2]: https://www.divx.com/divx/
+ [3]: https://tableless.com.br/videotutorial/videotutorial11/videotutorial11.divx
+ [4]: https://www.opera.com/products/mobile/operamini/demo.dml
+ [5]: https://www.opera.com/support/tutorials/operamini/
+ [6]: https://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
+ [7]: https://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"

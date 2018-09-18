@@ -45,8 +45,8 @@ O Joomla agora também é multi-idiomas, nativo. Você pode criar sites em vári
 
 Por falar em JED, o mesmo disponibiliza hoje 7604 extensões divididas entre gratuitas e comerciais, você pode conferir tudo isso em [www.joomla.org.][3]
 
-Para quem não conhecia Joomla, este foi o ponta pé para iniciar o interesse pelo CMS. Para aqueles que querem um pouco mais de informação, vale assistir o vídeo <a href="http://www.youtube.com/watch?v=0mTrFu4S3Yk" target="_blank">Conheça o CMS Joomla (Em Português)</a>.
+Para quem não conhecia Joomla, este foi o ponta pé para iniciar o interesse pelo CMS. Para aqueles que querem um pouco mais de informação, vale assistir o vídeo <a href="https://www.youtube.com/watch?v=0mTrFu4S3Yk" target="_blank">Conheça o CMS Joomla (Em Português)</a>.
 
- [1]: http://ux.joomla.org/
- [2]: http://icomoon.io/
- [3]: http://www.joomla.org
+ [1]: https://ux.joomla.org/
+ [2]: https://icomoon.io/
+ [3]: https://www.joomla.org

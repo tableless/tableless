@@ -9,7 +9,7 @@ tweetbackscheck:
   - 1356409155
 dsq_thread_id: 776755199
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/como-usar-before-after/";s:7:"tinyurl";s:26:"http://tinyurl.com/d8fuy2s";s:4:"isgd";s:19:"http://is.gd/veZvuf";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/como-usar-before-after/";s:7:"tinyurl";s:26:"https://tinyurl.com/d8fuy2s";s:4:"isgd";s:19:"https://is.gd/veZvuf";}'
 twittercomments:
   - 'a:12:{i:227464509395189760;s:7:"retweet";i:227392267093164032;s:7:"retweet";i:227385027426672640;s:7:"retweet";i:231018323461152768;s:7:"retweet";i:230764490201894912;s:7:"retweet";i:230763824305815553;s:7:"retweet";i:230377812429774848;s:7:"retweet";i:230292768524750849;s:7:"retweet";i:230281665841360896;s:7:"retweet";i:230281605665677312;s:7:"retweet";i:243824350191558659;s:7:"retweet";i:243817083832500224;s:7:"retweet";}'
 tweetcount:

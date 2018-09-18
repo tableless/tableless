@@ -45,8 +45,8 @@ Todavia, a conclusão mais realista da dupla de pesquisadores está no final do 
 
 Em se tratando de empresas da economia compartilhada, você pode amá-las ou detestá-las, mas não pode ignorá-las.
 
- [1]: http://www.inc.com/magazine/201307/christine-lagorio/uber-the-car-service-explosive-growth.html
- [2]: http://www.cnbc.com/2015/07/13/in-economic-address-hillary-clinton-calls-out-gig-economy.html
- [3]: http://rodrigodavies.com/blog/2015/04/28/is-airbnb-a-civic-peace-tech-company.html
- [4]: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2549919
- [5]: http://www.zipcar.com/press/releases/zipcar-launches-new-boston-fleethub-program
+ [1]: https://www.inc.com/magazine/201307/christine-lagorio/uber-the-car-service-explosive-growth.html
+ [2]: https://www.cnbc.com/2015/07/13/in-economic-address-hillary-clinton-calls-out-gig-economy.html
+ [3]: https://rodrigodavies.com/blog/2015/04/28/is-airbnb-a-civic-peace-tech-company.html
+ [4]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2549919
+ [5]: https://www.zipcar.com/press/releases/zipcar-launches-new-boston-fleethub-program

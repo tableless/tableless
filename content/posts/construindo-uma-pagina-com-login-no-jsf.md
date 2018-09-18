@@ -70,10 +70,10 @@ A página deve ter os campos vinculados a um Managed Bean chamado usuário e um 
 Este foi meu código, claro, há diversos meios diferente para se fazer o mesmo:
 
 <pre class="lang-html">&lt;?xml version="1.0" encoding="ISO-8859-1" ?&gt;
-&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-&lt;html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:h="http://java.sun.com/jsf/html"
-      xmlns:f="http://java.sun.com/jsf/core"
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+&lt;html xmlns="https://www.w3.org/1999/xhtml"
+      xmlns:h="https://java.sun.com/jsf/html"
+      xmlns:f="https://java.sun.com/jsf/core"
 >
 &lt;h:head&gt;
 &lt;meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /&gt;
@@ -152,10 +152,10 @@ public class Usuario {
 E, também, o código do XHTML de resposta em caso de sucesso.
 
 <pre class="lang-html">&lt;?xml version="1.0" encoding="ISO-8859-1" ?&gt;
-&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-&lt;html xmlns="http://www.w3.org/1999/xhtml"
-      xmlns:h="http://java.sun.com/jsf/html"
-      xmlns:f="http://java.sun.com/jsf/core"
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+&lt;html xmlns="https://www.w3.org/1999/xhtml"
+      xmlns:h="https://java.sun.com/jsf/html"
+      xmlns:f="https://java.sun.com/jsf/core"
 >
 &lt;h:head&gt;
 &lt;meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /&gt;
@@ -332,9 +332,9 @@ Para que funcione, precisamos registrar no faces-config.xml que ele é um Listen
 
 <pre class="lang-xml">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
 &lt;faces-config
-    xmlns="http://xmlns.jcp.org/xml/ns/javaee"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_2.xsd"
+    xmlns="https://xmlns.jcp.org/xml/ns/javaee"
+    xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://xmlns.jcp.org/xml/ns/javaee https://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_2.xsd"
     version="2.2"&gt;
     &lt;lifecycle&gt;
         &lt;phase-listener&gt;root.Listener&lt;/phase-listener&gt;
@@ -403,17 +403,17 @@ Obtendo o resultado desejado.
 
 Comente em caso de dúvidas ou falhas =D.
 
-Em meu blog tem alguns outros artigos deste mesmo tipo, se deseja ver: <http://jcdourado.github.io>
+Em meu blog tem alguns outros artigos deste mesmo tipo, se deseja ver: <https://jcdourado.github.io>
 
 Obrigado!!
 
 Segue alguns links de artigos e alguns livros que ajudam nessa caminhada:
 
-<http://www.devmedia.com.br/jsf-session-criando-um-modulo-de-login/30975>
+<https://www.devmedia.com.br/jsf-session-criando-um-modulo-de-login/30975>
 
-<http://www.devmedia.com.br/java-web-criando-uma-tela-de-login-com-jpa-jsf-primefaces-e-mysql/32456>
+<https://www.devmedia.com.br/java-web-criando-uma-tela-de-login-com-jpa-jsf-primefaces-e-mysql/32456>
 
-<http://www.universidadejava.com.br/materiais/jsf-tela-login/>
+<https://www.universidadejava.com.br/materiais/jsf-tela-login/>
 
 Livro: **JSF Eficaz** &#8211; Casa do Código.
 

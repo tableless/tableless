@@ -34,7 +34,7 @@ A instalação é fácil:
   * Faça o download ou o clone do projeto
   * Rode `npm install` para instalar as dependencias.
   * Rode `gulp` para iniciar o servidor, o live reload e o watch dos assets.
-  * Abra o browser em http://localhost:8080 para ver seu servidor local e o live reload do projeto
+  * Abra o browser em https://localhost:8080 para ver seu servidor local e o live reload do projeto
   * Rode `gulp deploy` para fazer o build seu projeto
 
 Alguns dos módulos usados para fazer esse boilerplate são:
@@ -53,5 +53,5 @@ Alguns dos módulos usados para fazer esse boilerplate são:
 
 A [documentação][2] ainda está sendo escrita, mas acho que você vai conseguir se virar bem.
 
- [1]: http://www.ryanbensonmedia.com/harvest
- [2]: http://www.ryanbensonmedia.com/harvest/documentation
+ [1]: https://www.ryanbensonmedia.com/harvest
+ [2]: https://www.ryanbensonmedia.com/harvest/documentation

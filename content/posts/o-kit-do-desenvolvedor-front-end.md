@@ -83,8 +83,8 @@ Esqueci de algum link importante? Deixa nos comentários :)
 [5]: https://developers.google.com/web/fundamentals/design-and-ux/responsive/?hl=pt-br
 [6]: https://www.caelum.com.br/apostila-html-css-javascript/web-para-dispositivos-moveis/
 [7]: https://www.w3schools.com/css/css_rwd_mediaqueries.asp
-[8]: http://blog.froont.com/9-basic-principles-of-responsive-web-design/
-[9]: http://sass-lang.com/
+[8]: https://blog.froont.com/9-basic-principles-of-responsive-web-design/
+[9]: https://sass-lang.com/
 [10]: https://medium.com/@jontorrado/working-with-gulp-2-19376bfdd077
 [11]: https://scotch.io/tutorials/getting-started-with-sass
 [12]: https://alistapart.com/article/getting-started-with-sass
@@ -96,9 +96,9 @@ Esqueci de algum link importante? Deixa nos comentários :)
 [18]: https://imasters.com.br/desenvolvimento/detectando-problemas-automaticamente-no-javascript-com-eslint/
 [19]: https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb
 [20]: https://developers.google.com/web/fundamentals/performance/http2/?hl=pt-br
-[21]: http://blog.caelum.com.br/browser-sync-indispensavel-para-desenvolver-sites-em-varios-dispositivos/
+[21]: https://blog.caelum.com.br/browser-sync-indispensavel-para-desenvolver-sites-em-varios-dispositivos/
 [22]: https://scotch.io/tutorials/how-to-use-browsersync-for-faster-development
-[23]: http://hugobessa.com.br/browsersync-browsers-sincronizados/
+[23]: https://hugobessa.com.br/browsersync-browsers-sincronizados/
 [24]: https://developers.google.com/web/fundamentals/primers/service-workers/
 [25]: https://addyosmani.com/blog/getting-started-with-progressive-web-apps/
 [26]: https://codelabs.developers.google.com/codelabs/your-first-pwapp/

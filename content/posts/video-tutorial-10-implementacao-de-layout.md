@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356471299
 shorturls:
-  - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/video-tutorial-10-implementacao-de-layout";s:7:"tinyurl";s:26:"http://tinyurl.com/3tb7sn8";s:4:"isgd";s:19:"http://is.gd/b03m4v";}'
+  - 'a:3:{s:9:"permalink";s:65:"https://tableless.com.br/video-tutorial-10-implementacao-de-layout";s:7:"tinyurl";s:26:"https://tinyurl.com/3tb7sn8";s:4:"isgd";s:19:"https://is.gd/b03m4v";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035487
@@ -39,7 +39,7 @@ Tempo: ~40m46s
 
 Você também pode ficar sabendo dos lançamentos de video tutoriais e outras novidades pelo [nosso Feed][4]&#8230; Cadastre-o em seu leitor de feeds favoritos.
 
- [1]: http://visie.com.br/campus/assunto/1
- [2]: http://visie.com.br/campus/ "Video tutorial de Tableless"
- [3]: http://tableless.com.br/videotutorial/videotutorial10/
- [4]: http://tableless.com.br/feed/
+ [1]: https://visie.com.br/campus/assunto/1
+ [2]: https://visie.com.br/campus/ "Video tutorial de Tableless"
+ [3]: https://tableless.com.br/videotutorial/videotutorial10/
+ [4]: https://tableless.com.br/feed/

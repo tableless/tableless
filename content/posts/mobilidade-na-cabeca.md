@@ -7,7 +7,7 @@ url: /mobilidade-na-cabeca/
 tweetbackscheck:
   - 1354962270
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/mobilidade-na-cabeca";s:7:"tinyurl";s:26:"http://tinyurl.com/3z3gjoq";s:4:"isgd";s:19:"http://is.gd/DDW7kr";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/mobilidade-na-cabeca";s:7:"tinyurl";s:26:"https://tinyurl.com/3z3gjoq";s:4:"isgd";s:19:"https://is.gd/DDW7kr";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036541
@@ -42,10 +42,10 @@ Mobilidade é uma coisa que todo mundo precisa e quer. Quem tem um celular hoje,
 
 Já falei e repito: pra mim, este ano será da mobilidade. Haverá mais interesse nesse mercado, mais procura, mais agitação. Se as empresas acima estão dando uma certa atenção pra isso, já é motivo para mexermos nossos ossos e corrermos atrás do prejuízo desde agora.
 
- [1]: http://apple.com/iphone
- [2]: http://www.apple.com/iphone/keynote/
- [3]: http://www.apple.com/macosx/features/safari/
- [4]: http://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
- [5]: http://yahoo.com/
- [6]: http://mobile.yahoo.com/go
- [7]: http://opera.com/
+ [1]: https://apple.com/iphone
+ [2]: https://www.apple.com/iphone/keynote/
+ [3]: https://www.apple.com/macosx/features/safari/
+ [4]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
+ [5]: https://yahoo.com/
+ [6]: https://mobile.yahoo.com/go
+ [7]: https://opera.com/

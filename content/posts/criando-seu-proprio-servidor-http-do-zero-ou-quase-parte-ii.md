@@ -46,7 +46,7 @@ Uma porta ela é única por computador mas não é única na internet, quando vo
  192.168.1.224:1000     
 </pre>
 
-A maioria das aplicações que requerem conexão com algum serviço se conectam diretamente as portas especificas que cada uma delas usa, sendo necessário informar apenas o IP (ao menos que seja uma porta que a aplicação não conheça, o serviço está funcionando numa porta atípica ai será necessário informar, veremos mais na parte III). O que isso significa? isso significa que quando você digita o site <http://www.google.com.br> no seu navegador, ele sabe que os servidores HTTP estão executando na porta 80, então não é preciso identificar-la, pois o navegador irá &#8220;converter&#8221; para o formato correto, transparentemente, a mesma coisa acontece quando você acessa um site seguro utilizando https://www.seubanco.com.br o navegador sabe que a porta de conexão segura no servidor é a 443, e tentará se conectar nela.
+A maioria das aplicações que requerem conexão com algum serviço se conectam diretamente as portas especificas que cada uma delas usa, sendo necessário informar apenas o IP (ao menos que seja uma porta que a aplicação não conheça, o serviço está funcionando numa porta atípica ai será necessário informar, veremos mais na parte III). O que isso significa? isso significa que quando você digita o site <https://www.google.com.br> no seu navegador, ele sabe que os servidores HTTP estão executando na porta 80, então não é preciso identificar-la, pois o navegador irá &#8220;converter&#8221; para o formato correto, transparentemente, a mesma coisa acontece quando você acessa um site seguro utilizando https://www.seubanco.com.br o navegador sabe que a porta de conexão segura no servidor é a 443, e tentará se conectar nela.
 
 O que acontece é seu navegador irá se conectar ao site, ele sabe que o servidor está respondendo na porta 80 no endereço tal, para isso é necessário que o navegador abre uma porta local aleatória, para que assim o servidor possa saber para quem responder:
 
@@ -123,7 +123,7 @@ Cache-Control: private, max-age=0
 Content-Type: text/html; charset=ISO-8859-1
 Set-Cookie: PREF=ID=fee5bb44e3822528:FF=0:TM=1403047797:LM=1403047797:S=BpVMDbzBHKUgdlRS; expires=Thu, 16-Jun-2016 23:29:57 GMT; path=/; domain=.google.com.br
 Set-Cookie: NID=67=CT9hDvtQnKCvGeox_lmn7IjB_gbZ6Z9m7YT2rM1LAw2hVDVbvas16qfTsH1Jc1TRhrynqE-j0fb3EPl_JvjttiV-kqVpJlYjmg7Qd_e8oHcnJM1L2xlHWtlKw2EcomUM; expires=Wed, 17-Dec-2014 23:29:57 GMT; path=/; domain=.google.com.br; HttpOnly
-P3P: CP="This is not a P3P policy! See http://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
+P3P: CP="This is not a P3P policy! See https://www.google.com/support/accounts/bin/answer.py?hl=en&answer=151657 for more info."
 Server: gws
 X-XSS-Protection: 1; mode=block
 X-Frame-Options: SAMEORIGIN
@@ -154,6 +154,6 @@ Por hoje ficamos por aqui pessoal, espero que tenham aproveitado bem nossa parte
 
 Até Mais.
 
- [1]: http://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/ "Criando seu próprio servidor HTTP do zero (ou quase) – Parte I"
- [2]: http://www.raywenderlich.com/uploads/2011/06/sockets.jpg
- [3]: http://google.com.br
+ [1]: https://tableless.com.br/criando-seu-proprio-servidor-http-do-zero-ou-quase-parte-i/ "Criando seu próprio servidor HTTP do zero (ou quase) – Parte I"
+ [2]: https://www.raywenderlich.com/uploads/2011/06/sockets.jpg
+ [3]: https://google.com.br

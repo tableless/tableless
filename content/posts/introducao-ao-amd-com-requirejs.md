@@ -17,7 +17,7 @@ Antes de entrarmos no foco do artigo, é importantíssimo tocar no assunto **_m
 
 A modularização é um conceito muito antigo em termos computacionais, em poucas palavras, é a **separação de funcionalidades**, **redução de complexidade** e principalmente, o **reuso de código**.
 
-O <a href="http://jcemer.com/" target="_blank">Jean Carlo Emer</a> postou um um artigo aqui mesmo muito bom sobre _Modularização em JavaScript._ Recomendo fortemente ler o <a href="http://tableless.com.br/modularizacao-em-javascript/" target="_blank">artigo na íntegra</a>. Nele, o autor também dá um exemplo com AMD e fala dos pontos fracos e fortes do uso.
+O <a href="https://jcemer.com/" target="_blank">Jean Carlo Emer</a> postou um um artigo aqui mesmo muito bom sobre _Modularização em JavaScript._ Recomendo fortemente ler o <a href="https://tableless.com.br/modularizacao-em-javascript/" target="_blank">artigo na íntegra</a>. Nele, o autor também dá um exemplo com AMD e fala dos pontos fracos e fortes do uso.
 
 ### AMD
 
@@ -25,7 +25,7 @@ Buscando a modularização do código JavaScript, um dos padrões mais falados u
 
 ### Require.js
 
-O _script loader_ mais famoso da internet, o RequireJS é o cara responsável por carregar os nossos scripts assincronamente. A <a href="http://requirejs.org/" target="_blank">página do projeto</a> dá muito mais informações sobre compatibilidade e benefícios de seu uso.
+O _script loader_ mais famoso da internet, o RequireJS é o cara responsável por carregar os nossos scripts assincronamente. A <a href="https://requirejs.org/" target="_blank">página do projeto</a> dá muito mais informações sobre compatibilidade e benefícios de seu uso.
 
 ## Exemplificando
 
@@ -37,7 +37,7 @@ A intenção deste artigo é introduzir à estruturação, e como aplicar o AMD 
 
 ### 1º Passo: Adicione o require.js ao seu projeto
 
-Faça o download no <a href="http://requirejs.org/docs/download.html" target="_blank">site oficial</a> (ou use CDN), e incorpore-o na aplicação:
+Faça o download no <a href="https://requirejs.org/docs/download.html" target="_blank">site oficial</a> (ou use CDN), e incorpore-o na aplicação:
 
 <pre class="lang-html">&lt;script data-main="js/app" src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.20/require.min.js"&gt;
     &lt;/script&gt;
@@ -82,7 +82,7 @@ define(function () {
 });
 </pre>
 
-O grande <a href="http://addyosmani.com/" target="_blank">Addy Osmani</a>, publicou um <a href="http://addyosmani.com/writing-modular-js/" target="_blank">artigo muito bom</a> sobre JavaScript Modular, onde demonstra outras formas de declarar módulos AMD.
+O grande <a href="https://addyosmani.com/" target="_blank">Addy Osmani</a>, publicou um <a href="https://addyosmani.com/writing-modular-js/" target="_blank">artigo muito bom</a> sobre JavaScript Modular, onde demonstra outras formas de declarar módulos AMD.
 
 ### 4º Passo: Criando o main.js
 
@@ -106,6 +106,6 @@ Neste arquivo é onde controlamos nossa aplicação, tendo como **dependência**
 
 Finalizamos por aqui pessoal, apesar do exemplo ser tão simples, acho que consegui introduzir o conceito necessário.
 
-Disponibilizei o código do exemplo no <a href="http://plnkr.co/edit/OdLRwo62uV4KJPKSL4zh" target="_blank">Plunker</a>, dá uma olhada lá caso precise 😉
+Disponibilizei o código do exemplo no <a href="https://plnkr.co/edit/OdLRwo62uV4KJPKSL4zh" target="_blank">Plunker</a>, dá uma olhada lá caso precise 😉
 
 Abraço!

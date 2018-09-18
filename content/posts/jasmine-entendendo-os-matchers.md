@@ -155,6 +155,6 @@ Esse _matcher_ permite que verifiquemos se uma função lançou um erro. Como e
 
 ## Ufa&#8230;
 
-Deu pra ver que o _framework_ nos oferece um monte de opção para utilizarmos em nossos testes. É ainda é possível fazer nossos _matchers_ customizados, mas vou deixar isso para um próximo post. Se você se interessar mais pelo assunto, recomendo o livro <a href="http://shop.oreilly.com/product/0636920028277.do" target="_blank">JavaScript Testing with Jasmine</a> que inclusive li recentemente e tive a idéia de escrever o post.
+Deu pra ver que o _framework_ nos oferece um monte de opção para utilizarmos em nossos testes. É ainda é possível fazer nossos _matchers_ customizados, mas vou deixar isso para um próximo post. Se você se interessar mais pelo assunto, recomendo o livro <a href="https://shop.oreilly.com/product/0636920028277.do" target="_blank">JavaScript Testing with Jasmine</a> que inclusive li recentemente e tive a idéia de escrever o post.
 
 Acho que é isso. Se encontrar algum erro ou melhoria no post, pode postar no comentário ou pode me chamar no <a href="https://twitter.com/raphaelfabeni" target="_blank">twitter</a>.

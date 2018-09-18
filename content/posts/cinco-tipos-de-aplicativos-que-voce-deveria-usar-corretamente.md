@@ -57,4 +57,4 @@ Quando aplicativos como esse abrem uma funcionalidade de criação e participaç
 
 E você? Que aplicativo que usa ou desenvolveu está sendo usado de alguma maneira errada ou irritante? Compartilhe nos comentários.
 
- [1]: http://tecnocracia.com.br/cinco-dicas-sobre-o-tinder/
+ [1]: https://tecnocracia.com.br/cinco-dicas-sobre-o-tinder/

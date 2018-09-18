@@ -59,4 +59,4 @@ Numa abordagem baseada em componentes, Weather Card é um componente. Ele encap
 
 Como você pode ver, reuso é na verdade uma consequência dos dois benefícios acima. Quando você quebra qualquer View em diversos pequenos pedaços de código (pequenas responsabilidades), você torna tudo mais fácil quando precisa movê-los de um contexto para outro (flexibilidade) ou, consequentemente, reutilizá-los em alguma outra View.
 
-_Curtiu os benefícios que a abordagem baseada em componentes pode trazer para a arquitetura do seu código? Já pratica essa abordagem no dia-a-dia? Se sim, [clique aqui​](http://bit.ly/vagas-contaazul-tableless) e mande um alô. Nós aqui no ​ContaAzul​ queremos conhecer você!_
+_Curtiu os benefícios que a abordagem baseada em componentes pode trazer para a arquitetura do seu código? Já pratica essa abordagem no dia-a-dia? Se sim, [clique aqui​](https://bit.ly/vagas-contaazul-tableless) e mande um alô. Nós aqui no ​ContaAzul​ queremos conhecer você!_

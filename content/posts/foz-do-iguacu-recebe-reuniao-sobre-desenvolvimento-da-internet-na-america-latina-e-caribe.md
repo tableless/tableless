@@ -18,7 +18,7 @@ Esta edição trará pela primeira vez o “Dia do IPv6”, em que será outorga
 
 A agenda do LACNIC 27 traz ainda tutoriais técnicos relevantes como a Oficina Antiabuso, o Fórum de Interconexão Regional e o Fórum de Segurança de Redes, entre outras atividades. Todos estes temas serão tratados por influentes especialistas da região e do mundo, entre eles: Merike Kaeo, Timothy Winters, Mikel Jimenez Fernández e Goran Marby.
 
-A agenda completa e mais informações sobre o evento estão disponíveis em: <http://www.lacnic.net/web/eventos/lacnic27>.
+A agenda completa e mais informações sobre o evento estão disponíveis em: <https://www.lacnic.net/web/eventos/lacnic27>.
 
 **LACNIC27**
   
@@ -30,4 +30,4 @@ Local do evento: Bourbon Cataratas Convention & Spa Resort
   
 Endereço: Av. das Cataratas km 2,5, Nº 2345 – Foz do Iguaçu &#8211; PR
   
-Endereço web: http://www.lacnic.net/pt/web/eventos/lacnic27
+Endereço web: https://www.lacnic.net/pt/web/eventos/lacnic27

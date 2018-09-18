@@ -123,9 +123,9 @@ baixo, principalmente em grandes empresas onde é complicado priorizar tarefas
 essenciais que muitos teimam em considerar como “*features*”, mas para
 complementar a visão de John, o artigo **“**[Accessibility is everyone’s job: a
 role-based model for
-teams](http://simplyaccessible.com/article/role-based-a11y/)**”** de [Mark
+teams](https://simplyaccessible.com/article/role-based-a11y/)**”** de [Mark
 Palmer](https://medium.com/@caledoniaman), especialista em acessibilidade da
-consultoria [Simply Accessible](http://simplyaccessible.com/), detalha um pouco
+consultoria [Simply Accessible](https://simplyaccessible.com/), detalha um pouco
 mais alguns cargos e funções.
 
 Tomei a liberdade e mesclei áreas e funções que o Mark cita em seu artigo com
@@ -263,7 +263,7 @@ entendermos o *"quão fácil"* é a linguagem… ;)
 
 **Esse profissional precisa ter a semântica na veia e respirar front-end.**
 Precisa saber de cor coisas como DOM, CSSOM, Render Tree, Reflow e Paint.
-Precisa entender que a [Accessibility Tree](http://whatsock.com/training/) vai
+Precisa entender que a [Accessibility Tree](https://whatsock.com/training/) vai
 influenciar diretamente na tecnologia assistiva utilizada. Precisa saber que
 propriedades que ocultam elementos em tela via CSS também o fazem para o leitor
 de telas (mas não deveria). Precisa conhecer
@@ -282,9 +282,9 @@ casos de sucesso e insucesso.
 Amigo desenvolvedor, caso esses conceitos passam longe do seu conhecimento,
 talvez valha uma reciclagem. Comece os estudos por este artigo **"**[A Practical
 Starter Guide on Developing Accessible
-Websites](http://journal.code4lib.org/articles/12697)**"** e siga para o
+Websites](https://journal.code4lib.org/articles/12697)**"** e siga para o
 [material do
-W3C](http://www.acessibilidade.gov.pt/w3/TR/UNDERSTANDING-WCAG20/Overview.html)
+W3C](https://www.acessibilidade.gov.pt/w3/TR/UNDERSTANDING-WCAG20/Overview.html)
 em seguida! :)
 
 ## Qualidade e testes

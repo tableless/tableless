@@ -1468,13 +1468,13 @@ As vezes são os detalhes que fazem toda a diferença. Criar um ícone projetado
   
 [Pinned sites in windows 8][5]
 
- [1]: http://www.fivesimplesteps.com/products/the-icon-handbook
- [2]: http://www.telegraphics.com.au/sw/
- [3]: http://appicontemplate.com/
- [4]: http://msdn.microsoft.com/en-us/library/windows/apps/br212849.aspx
- [5]: http://blogs.msdn.com/b/ie/archive/2012/04/03/pinned-sites-in-windows-8.aspx
- [6]: http://msdn.microsoft.com/en-us/library/gg491725(v=vs.85).aspx
- [7]: http://msdn.microsoft.com/en-us/library/gg491724(v=vs.85).aspx
- [8]: http://www.jonathantneal.com/blog/understand-the-favicon/
- [9]: http://www.netmagazine.com/features/create-perfect-favicon
- [10]: http://mathiasbynens.be/notes/touch-icons
+ [1]: https://www.fivesimplesteps.com/products/the-icon-handbook
+ [2]: https://www.telegraphics.com.au/sw/
+ [3]: https://appicontemplate.com/
+ [4]: https://msdn.microsoft.com/en-us/library/windows/apps/br212849.aspx
+ [5]: https://blogs.msdn.com/b/ie/archive/2012/04/03/pinned-sites-in-windows-8.aspx
+ [6]: https://msdn.microsoft.com/en-us/library/gg491725(v=vs.85).aspx
+ [7]: https://msdn.microsoft.com/en-us/library/gg491724(v=vs.85).aspx
+ [8]: https://www.jonathantneal.com/blog/understand-the-favicon/
+ [9]: https://www.netmagazine.com/features/create-perfect-favicon
+ [10]: https://mathiasbynens.be/notes/touch-icons

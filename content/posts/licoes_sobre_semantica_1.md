@@ -7,7 +7,7 @@ url: /licoes_sobre_semantica_1/
 tweetbackscheck:
   - 1355700965
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/licoes_sobre_semantica_1";s:7:"tinyurl";s:26:"http://tinyurl.com/3nty9gs";s:4:"isgd";s:19:"http://is.gd/Z7jQm9";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/licoes_sobre_semantica_1";s:7:"tinyurl";s:26:"https://tinyurl.com/3nty9gs";s:4:"isgd";s:19:"https://is.gd/Z7jQm9";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031988
@@ -65,6 +65,6 @@ Leitores de tela, browsers de texto, robôs de busca e etc, só interpretam como
 
 Espero que eu tenha esclarecido a dúvida e que vocês tenham gostado da idéia, até a próxima.
 
- [1]: http://www.simplebits.com/
- [2]: http://tableless.com.br/
- [3]: http://tableless.com.br/estudo/quiz/quiz1.asp
+ [1]: https://www.simplebits.com/
+ [2]: https://tableless.com.br/
+ [3]: https://tableless.com.br/estudo/quiz/quiz1.asp

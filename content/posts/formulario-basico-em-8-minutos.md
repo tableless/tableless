@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356388126
 shorturls:
-  - 'a:3:{s:9:"permalink";s:54:"http://tableless.com.br/formulario-basico-em-8-minutos";s:7:"tinyurl";s:26:"http://tinyurl.com/4444pqa";s:4:"isgd";s:19:"http://is.gd/5Bb2Ax";}'
+  - 'a:3:{s:9:"permalink";s:54:"https://tableless.com.br/formulario-basico-em-8-minutos";s:7:"tinyurl";s:26:"https://tinyurl.com/4444pqa";s:4:"isgd";s:19:"https://is.gd/5Bb2Ax";}'
 twittercomments:
   - 'a:1:{i:46289828215664640;s:6:"137214";}'
 tweetcount:
@@ -31,7 +31,7 @@ tags:
   - xhtml
 
 ---
-**update:** Se você quiser mais vídeos e em alta-resolução, visite o <a title="Vídeo tutoriais sobre Tableless e Ajax." href="http://visie.com.br/campus"">Campus Online</a>. Lá você vai encontrar [vídeos tutoriais de Tableless, Ajax, Javascript][1] e boas práticas de desenvolvimento web.
+**update:** Se você quiser mais vídeos e em alta-resolução, visite o <a title="Vídeo tutoriais sobre Tableless e Ajax." href="https://visie.com.br/campus"">Campus Online</a>. Lá você vai encontrar [vídeos tutoriais de Tableless, Ajax, Javascript][1] e boas práticas de desenvolvimento web.
 
 Na verdade ele foi escrito em 7 minutos e 51 segundos e foram escritos apenas o XHTML e CSS. Infelizmente está sem áudio.
 
@@ -43,6 +43,6 @@ O formulário, depois do link, é o &#8220;objeto&#8221; mais utilizado pelos us
 
 O Coda não é tão bom quanto pensam. Percebam que quando eu fecho as tags de input, ele coloca um /input. Embora haja algumas destas &#8220;tosquices&#8221;, o acabamento visual e outras características matam os outros editores. Mesmo assim, vou experimentar melhor outros editores como o TextMate.
 
- [1]: http://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"
- [2]: http://www.youtube.com/watch?v=9KlSuomZkdQ "Construindo o XHTML e CSS de um formulário"
+ [1]: https://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"
+ [2]: https://www.youtube.com/watch?v=9KlSuomZkdQ "Construindo o XHTML e CSS de um formulário"
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2008/06/index.html

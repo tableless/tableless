@@ -29,12 +29,12 @@ A ideia do Internet Explorer é que ele seja usado apenas para motivos de legado
 
 O que o novo browser e o novo motor de renderização significa para os Devs?
 
-  1. O novo motor Spartan será default no Windows 10, no Spartan e possivelmente no Internet Explorer. O motor será interoperável e o suporte e o roadmap pode ser visto aqui: <http://status.modern.ie>
+  1. O novo motor Spartan será default no Windows 10, no Spartan e possivelmente no Internet Explorer. O motor será interoperável e o suporte e o roadmap pode ser visto aqui: <https://status.modern.ie>
   2. Os sites serão renderizados pelo novo motor, usando os padrões modernos. Os comportamentos específicos do Internet Explorer não serão suportados no novo motor. Se seu site depende do IE para funcionar, a Microsoft encoraja fortemente que você mude para os padrões mais modernos. Isso quer dizer que os famosos Hacks e possivelmente o prefixo **-ms-** não funcionarão.
-  3. O objetivo da Microsoft é a interoperabilidade com os browsers mais modernos. Você pode testar o novo motor via <http://remote.modern.ie>.
+  3. O objetivo da Microsoft é a interoperabilidade com os browsers mais modernos. Você pode testar o novo motor via <https://remote.modern.ie>.
 
 A ideia é não ficar em pânico. Eu aconselho esquecer o Spartan até que ele comece a pipocar no seu analytics e ainda assim mantenha em mente a compatibilidade de dois IEs antigos. Eu sempre suporto o IE mais novo, no caso hoje o 11, e duas versões anteriores, ou seja, o IE 10 e 9.
 
 Se for para melhorar nossa vida, mesmo que seja daqui há alguns anos, não importan, eu voto pelo sucesso do novo Spartan.
 
- [1]: http://blogs.msdn.com/b/ie/archive/2015/01/22/project-spartan-and-the-windows-10-january-preview-build.aspx
+ [1]: https://blogs.msdn.com/b/ie/archive/2015/01/22/project-spartan-and-the-windows-10-january-preview-build.aspx

@@ -7,7 +7,7 @@ url: /mudancas-repentinas/
 tweetbackscheck:
   - 1356453929
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/mudancas-repentinas";s:7:"tinyurl";s:26:"http://tinyurl.com/3jjf3rn";s:4:"isgd";s:19:"http://is.gd/kO7lnK";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/mudancas-repentinas";s:7:"tinyurl";s:26:"https://tinyurl.com/3jjf3rn";s:4:"isgd";s:19:"https://is.gd/kO7lnK";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034043
@@ -50,9 +50,9 @@ Valeu cara.
 
 A respeito do [fórum][5], migramos para phpBB. Logo, logo, vamos dar um jeito também no layout. Infelizmente, não é possível importar as senhas do Snitz, que são codificadas num formato próprio. Então, para acessar, você vai precisar criar uma senha nova. Acesse por [aqui][6] e coloque seu nome de usuário e seu e-mail. Uma nova senha será gerada e enviada para você por e-mail. Se você não sabe seu nome de usuário, basta procurar algum post seu no fórum. É o seu nome, do jeito que estiver aparecendo lá.
 
- [1]: http://www.dreamhost.com/r.cgi?diegoeis/shared/
- [2]: http://brunotorres.net/
- [3]: http://www.digitalminds.com.br
- [4]: http://www.mobilelife.com.br/
- [5]: http://tableless.com.br/forum/
- [6]: http://tableless.dreamhosters.com/forum/profile.php?mode=sendpassword
+ [1]: https://www.dreamhost.com/r.cgi?diegoeis/shared/
+ [2]: https://brunotorres.net/
+ [3]: https://www.digitalminds.com.br
+ [4]: https://www.mobilelife.com.br/
+ [5]: https://tableless.com.br/forum/
+ [6]: https://tableless.dreamhosters.com/forum/profile.php?mode=sendpassword

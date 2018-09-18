@@ -7,7 +7,7 @@ url: /nao-troque-todas-as-suas-imagens-por-background/
 tweetbackscheck:
   - 1356251011
 shorturls:
-  - 'a:3:{s:9:"permalink";s:71:"http://tableless.com.br/nao-troque-todas-as-suas-imagens-por-background";s:7:"tinyurl";s:26:"http://tinyurl.com/3fuugc3";s:4:"isgd";s:19:"http://is.gd/gIYG5X";}'
+  - 'a:3:{s:9:"permalink";s:71:"https://tableless.com.br/nao-troque-todas-as-suas-imagens-por-background";s:7:"tinyurl";s:26:"https://tinyurl.com/3fuugc3";s:4:"isgd";s:19:"https://is.gd/gIYG5X";}'
 twittercomments:
   - 'a:5:{i:8232404506386432;s:7:"retweet";i:18524183449305089;s:7:"retweet";i:21344047213842432;s:7:"retweet";i:34027031129890816;s:7:"retweet";i:50243902250287104;s:7:"retweet";}'
 tweetcount:
@@ -56,7 +56,7 @@ Uma última coisa em que você pode pensar é na indexação pelo Google Bot. Ao
 
 Há ainda um terceiro caso que pode confundí-lo, que é o image replacement. Mas sobre isso [o Diego já escreveu bastante][4].
 
- [1]: http://tableless.com.br/forum/viewtopic.php?t=3821
- [2]: http://blog.elcio.com.br/performancing/
- [3]: http://curso.visie.com.br/go/2/http://visie.com.br/afiliados/6/visie.com.br/workshop/
- [4]: http://tableless.com.br/aprenda/image-replacement-ou-imagens
+ [1]: https://tableless.com.br/forum/viewtopic.php?t=3821
+ [2]: https://blog.elcio.com.br/performancing/
+ [3]: https://curso.visie.com.br/go/2/https://visie.com.br/afiliados/6/visie.com.br/workshop/
+ [4]: https://tableless.com.br/aprenda/image-replacement-ou-imagens

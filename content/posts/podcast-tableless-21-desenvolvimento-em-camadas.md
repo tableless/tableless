@@ -6,13 +6,13 @@ date: 2006-08-17
 url: /podcast-tableless-21-desenvolvimento-em-camadas/
 enclosure:
   - |
-    http://tableless.com.br/podcast/podcast-tableless-21.mp3
+    https://tableless.com.br/podcast/podcast-tableless-21.mp3
     10180519
     audio/mpeg
 tweetbackscheck:
   - 1356455261
 shorturls:
-  - 'a:3:{s:9:"permalink";s:71:"http://tableless.com.br/podcast-tableless-21-desenvolvimento-em-camadas";s:7:"tinyurl";s:26:"http://tinyurl.com/3rx4dty";s:4:"isgd";s:19:"http://is.gd/BM6sSQ";}'
+  - 'a:3:{s:9:"permalink";s:71:"https://tableless.com.br/podcast-tableless-21-desenvolvimento-em-camadas";s:7:"tinyurl";s:26:"https://tinyurl.com/3rx4dty";s:4:"isgd";s:19:"https://is.gd/BM6sSQ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035873
@@ -118,10 +118,10 @@ Iremos na medida do possível acertar o som. O som sempre foi um dos maiores pro
   * [Desenvolvimento em camadas][4]
   *][5] 
 
-Você pode ouvir as outras edições do podcast do Tableless, basta visitar o link: <http://tableless.com.br/categorias/pratica/podcasts/>
+Você pode ouvir as outras edições do podcast do Tableless, basta visitar o link: <https://tableless.com.br/categorias/pratica/podcasts/>
 
- [1]: http://tableless.com.br/categorias/pratica/podcasts/
- [2]: http://tableless.com.br/podcast/podcast-tableless-21.mp3 "Podcast Tableless #21"
- [3]: http://www.456bereastreet.com/archive/200608/malicious_javascript_yet_another_reason_for_graceful_degradation/
- [4]: http://obasicodaweb.com/arquivo/padroes-web-desenvolvimento-em-camadas-camada-de-comportamento
- [5]: http://elcio.com.br/crossbrowser/#7
+ [1]: https://tableless.com.br/categorias/pratica/podcasts/
+ [2]: https://tableless.com.br/podcast/podcast-tableless-21.mp3 "Podcast Tableless #21"
+ [3]: https://www.456bereastreet.com/archive/200608/malicious_javascript_yet_another_reason_for_graceful_degradation/
+ [4]: https://obasicodaweb.com/arquivo/padroes-web-desenvolvimento-em-camadas-camada-de-comportamento
+ [5]: https://elcio.com.br/crossbrowser/#7

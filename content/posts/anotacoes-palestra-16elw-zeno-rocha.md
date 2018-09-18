@@ -32,7 +32,7 @@ Ainda vamos passar por mais 3 cidades: [Porto Alegre][2], [Rio de Janeiro][3] e 
   * Em 2010 a Apple matou o Flash e reconheceu o HTML5 como uma alternativa válida
   * As oportunidades podem ser simples experimentos com qualquer linguagem. Qual o sentido de criar experimentos que só você vai gostar ou que só vai servir para você aprender?
   * Mas esses experimentos aparentemente sem importância podem alavancar sua carreira de maneira imprevisível.
-  * O Futuro é o HTML11. http://vimeo.com/html11 😉
+  * O Futuro é o HTML11. https://vimeo.com/html11 😉
 
 ## Não tenha medo do novo
 
@@ -86,8 +86,8 @@ Ainda vamos passar por mais 3 cidades: [Porto Alegre][2], [Rio de Janeiro][3] e 
   * Não importa qual mundo seja. Pode ser o seu mundo. Pode ser o mundo todo. Não importa, mas mude alguma coisa.
   * A mudança de vários mundos faz uma grande diferença no mercado como um todo
 
- [1]: http://zenorocha.com
- [2]: http://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-porto-alegre/
- [3]: http://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-rio-de-janeiro/
- [4]: http://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-sao-paulo/
- [5]: http://eventos.locaweb.com.br
+ [1]: https://zenorocha.com
+ [2]: https://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-porto-alegre/
+ [3]: https://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-rio-de-janeiro/
+ [4]: https://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-sao-paulo/
+ [5]: https://eventos.locaweb.com.br

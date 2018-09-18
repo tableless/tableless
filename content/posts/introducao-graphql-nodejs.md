@@ -302,7 +302,7 @@ Inicie o servidor no seu terminal:
 
 E acesse a seguinte url no seu browser:
 ```
-http://localhost:3000/user?query={user(id:2){id,name,age,knowledge{language,frameworks}}}
+https://localhost:3000/user?query={user(id:2){id,name,age,knowledge{language,frameworks}}}
 ```
 Você deve receber isso:
 
@@ -334,11 +334,11 @@ Experimente variar as propriedades solicitadas e veja o que retorna:
 
 
 ```
-http://localhost:3000/user?query={user(id:2){id,name,age,knowledge{language,frameworks}}}
-http://localhost:3000/user?query={user(id:3){id,name,age,knowledge{language}}}
-http://localhost:3000/user?query={user(id:1){id,knowledge{language,frameworks}}}
-http://localhost:3000/user?query={user(id:1){id,name,age}}
-http://localhost:3000/user?query={user(id:2){id,name,age,knowledge{}}}
+https://localhost:3000/user?query={user(id:2){id,name,age,knowledge{language,frameworks}}}
+https://localhost:3000/user?query={user(id:3){id,name,age,knowledge{language}}}
+https://localhost:3000/user?query={user(id:1){id,knowledge{language,frameworks}}}
+https://localhost:3000/user?query={user(id:1){id,name,age}}
+https://localhost:3000/user?query={user(id:2){id,name,age,knowledge{}}}
 ```
 
 A propriedade `query` em `schema` recebe em `fields` os métodos que serão
@@ -360,7 +360,7 @@ usuário com a id passada como argumento e `users` que retorna a lista com todos
 os usuários. Experimente:
 
 ```
-http://localhost:3000/user?query={users{id,name,age,knowledge{language,frameworks}}}
+https://localhost:3000/user?query={users{id,name,age,knowledge{language,frameworks}}}
 ```
 Essa url tem uma query no seguinte formato:
 
@@ -381,5 +381,5 @@ post falando sobre isso porque este já ficou bem extenso. Até mais!
 
 **Fontes:**
 
-* [http://graphql.org/](http://graphql.org/)
+* [https://graphql.org/](https://graphql.org/)
 * [https://code.facebook.com/posts/1691455094417024/graphql-a-data-query-language/](https://code.facebook.com/posts/1691455094417024/graphql-a-data-query-language/)

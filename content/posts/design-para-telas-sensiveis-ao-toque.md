@@ -247,17 +247,17 @@ Apesar das dicas apresentadas aqui serem um bom caminho inicial, ainda não exis
   
 [Common Misconceptions About Touch][14]
 
- [1]: http://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php
- [2]: http://responsive-nav.com/ "Responsive Nav"
- [3]: http://software.intel.com/en-us/articles/the-human-touch-building-ultrabook-applications-in-a-post-pc-age/
- [4]: http://touchlab.mit.edu/publications/2003_009.pdf
+ [1]: https://www.uxmatters.com/mt/archives/2013/02/how-do-users-really-hold-mobile-devices.php
+ [2]: https://responsive-nav.com/ "Responsive Nav"
+ [3]: https://software.intel.com/en-us/articles/the-human-touch-building-ultrabook-applications-in-a-post-pc-age/
+ [4]: https://touchlab.mit.edu/publications/2003_009.pdf
  [5]: https://developer.apple.com/library/ios/#documentation/UserExperience/Conceptual/MobileHIG/UEBestPractices/UEBestPractices.html#//apple_ref/doc/uid/TP40006556-CH20-SW1
- [6]: http://www.teehanlax.com/tools/density/
- [7]: http://www.lukew.com/ff/entry.asp?1071
- [8]: http://gestureworks.com/pages/flash-features-gestures
- [9]: http://www.wired.com/gadgetlab/2007/07/iphones-design/
- [10]: http://skeu.it/
+ [6]: https://www.teehanlax.com/tools/density/
+ [7]: https://www.lukew.com/ff/entry.asp?1071
+ [8]: https://gestureworks.com/pages/flash-features-gestures
+ [9]: https://www.wired.com/gadgetlab/2007/07/iphones-design/
+ [10]: https://skeu.it/
  [11]: https://shop.smashingmagazine.com/the-mobile-book-digital-edition.html
- [12]: http://uxdesign.smashingmagazine.com/2012/02/21/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/
- [13]: http://www.lukew.com/ff/entry.asp?1649
- [14]: http://www.uxmatters.com/mt/archives/2013/03/common-misconceptions-about-touch.php
+ [12]: https://uxdesign.smashingmagazine.com/2012/02/21/finger-friendly-design-ideal-mobile-touchscreen-target-sizes/
+ [13]: https://www.lukew.com/ff/entry.asp?1649
+ [14]: https://www.uxmatters.com/mt/archives/2013/03/common-misconceptions-about-touch.php

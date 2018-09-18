@@ -211,4 +211,4 @@ Um exemplo de agrupamento lógico:
 
 Com técnicas simples como esta é possível tornar o CSS mais funcional, semântico e compreensível, mantendo, principalmente, a flexibilidade do código.
 
- [1]: http://tableless.com.br/seletores-agrupados-e-encadeados
+ [1]: https://tableless.com.br/seletores-agrupados-e-encadeados

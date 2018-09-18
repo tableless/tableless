@@ -7,7 +7,7 @@ url: /chargescombr_tableless/
 tweetbackscheck:
   - 1355714622
 shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/chargescombr_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3s555he";s:4:"isgd";s:19:"http://is.gd/mlYRYn";}'
+  - 'a:3:{s:9:"permalink";s:46:"https://tableless.com.br/chargescombr_tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3s555he";s:4:"isgd";s:19:"https://is.gd/mlYRYn";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033333
@@ -21,4 +21,4 @@ Mais um brazuca que vira tableless!
 
 Parabéns a toda equipe!
 
- [1]: http://charges.uol.com.br/
+ [1]: https://charges.uol.com.br/

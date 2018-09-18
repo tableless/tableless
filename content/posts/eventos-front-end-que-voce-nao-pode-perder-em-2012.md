@@ -6,7 +6,7 @@ date: 2012-01-30
 excerpt: Fique por dentro do que acontece de melhor na nossa área!
 url: /eventos-front-end-que-voce-nao-pode-perder-em-2012/
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6207";s:7:"tinyurl";s:26:"http://tinyurl.com/6pyep4b";s:4:"isgd";s:19:"http://is.gd/3vzxry";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6207";s:7:"tinyurl";s:26:"https://tinyurl.com/6pyep4b";s:4:"isgd";s:19:"https://is.gd/3vzxry";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 708199209
@@ -105,45 +105,45 @@ Qual desses eventos você vai participar? Esqueci de mencionar algum? Interaja n
 
 Nos esbarramos por lá 😉
 
- [1]: http://tableless.com.br/eventos/
- [2]: http://www.bhjs.com.br/
- [3]: http://rsjs.org/
- [4]: http://sampajs.com/
- [5]: http://www.pernambucojs.com/
- [6]: http://riojs.org
- [7]: http://media.zenorocha.com/tableless/frontinrio.jpg
- [8]: http://www.frontinrio.com.br/
+ [1]: https://tableless.com.br/eventos/
+ [2]: https://www.bhjs.com.br/
+ [3]: https://rsjs.org/
+ [4]: https://sampajs.com/
+ [5]: https://www.pernambucojs.com/
+ [6]: https://riojs.org
+ [7]: https://media.zenorocha.com/tableless/frontinrio.jpg
+ [8]: https://www.frontinrio.com.br/
  [9]: https://twitter.com/#!/heynemann
- [10]: http://globo.com
+ [10]: https://globo.com
  [11]: https://twitter.com/#!/leobalter
- [12]: http://www.unirio.br/
- [13]: http://media.zenorocha.com/tableless/frontincuritiba.jpg
- [14]: http://www.frontincuritiba.com.br/
- [15]: http://frontinlondrina.com.br/
+ [12]: https://www.unirio.br/
+ [13]: https://media.zenorocha.com/tableless/frontincuritiba.jpg
+ [14]: https://www.frontincuritiba.com.br/
+ [15]: https://frontinlondrina.com.br/
  [16]: https://twitter.com/#!/reinaldoferraz
- [17]: http://www.w3c.br/Home/WebHome
+ [17]: https://www.w3c.br/Home/WebHome
  [18]: https://twitter.com/#!/talitapagani
  [19]: https://twitter.com/#!/horaciosoares
  [20]: https://twitter.com/#!/alyssonfranklin
- [21]: http://www.ibm.com/br/pt/
- [22]: http://media.zenorocha.com/tableless/frontinbh.jpg
- [23]: http://frontinbh.com.br/
- [24]: http://www.peixeurbano.com.br
+ [21]: https://www.ibm.com/br/pt/
+ [22]: https://media.zenorocha.com/tableless/frontinbh.jpg
+ [23]: https://frontinbh.com.br/
+ [24]: https://www.peixeurbano.com.br
  [25]: https://twitter.com/#!/alganet
- [26]: http://twitter.com/bernarddeluna
- [27]: http://media.zenorocha.com/tableless/braziljs.jpg
- [28]: http://braziljs.com.br/
+ [26]: https://twitter.com/bernarddeluna
+ [27]: https://media.zenorocha.com/tableless/braziljs.jpg
+ [28]: https://braziljs.com.br/
  [29]: https://twitter.com/#!/felipenmoura
- [30]: http://twitter.com/jaydson
- [31]: http://media.zenorocha.com/tableless/qcon.jpg
- [32]: http://qconsp.com/
+ [30]: https://twitter.com/jaydson
+ [31]: https://media.zenorocha.com/tableless/qcon.jpg
+ [32]: https://qconsp.com/
  [33]: https://twitter.com/#!/shiota
  [34]: https://twitter.com/#!/loiane
- [35]: http://media.zenorocha.com/tableless/tdc.jpg
- [36]: http://www.thedevelopersconference.com.br/
+ [35]: https://media.zenorocha.com/tableless/tdc.jpg
+ [36]: https://www.thedevelopersconference.com.br/
  [37]: https://twitter.com/#!/danielfilho
- [38]: http://www.thedevelopersconference.com.br/#geral
- [39]: http://media.zenorocha.com/tableless/frontinlondrina.jpg
- [40]: http://frontinlondrina.com.br
- [41]: http://media.zenorocha.com/tableless/feec.jpg
+ [38]: https://www.thedevelopersconference.com.br/#geral
+ [39]: https://media.zenorocha.com/tableless/frontinlondrina.jpg
+ [40]: https://frontinlondrina.com.br
+ [41]: https://media.zenorocha.com/tableless/feec.jpg
  [42]: https://www.facebook.com/feecbr

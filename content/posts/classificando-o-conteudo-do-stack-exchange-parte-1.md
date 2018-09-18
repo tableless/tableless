@@ -10,7 +10,7 @@ title = "Classificando o conteúdo do Stack Exchange - Parte 1"
 type = "post"
 
 +++
-O [Stack Exchange](https://stackexchange.com/) é um conjunto de sites de Q&A (_question-and-answer_) que abordam diversos temas diferentes. Provavelmente você conhece e participa do mais famosos desses sites, o Stack Overflow, que aborda a temática de programação. Existem outros tópicos abordados nos diversos sites, como matemática, estatística, eletrônica, etc., cada um com seu site especializado. A maioria tem uma comunidade bem ativa e participante, como pode ser visto em seu [Data Explorer](http://data.stackexchange.com/).
+O [Stack Exchange](https://stackexchange.com/) é um conjunto de sites de Q&A (_question-and-answer_) que abordam diversos temas diferentes. Provavelmente você conhece e participa do mais famosos desses sites, o Stack Overflow, que aborda a temática de programação. Existem outros tópicos abordados nos diversos sites, como matemática, estatística, eletrônica, etc., cada um com seu site especializado. A maioria tem uma comunidade bem ativa e participante, como pode ser visto em seu [Data Explorer](https://data.stackexchange.com/).
 
 Neste texto eu vou começar a resolver um desafio de [classificação das questões do Stack Exchange proposto no HackerRank](https://www.hackerrank.com/challenges/stack-exchange-question-classifier/problem). Ele vai ser dividido em duas partes principais:
 

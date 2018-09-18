@@ -9,7 +9,7 @@ url: /um-guia-completo-de-tipografia-para-a-web/
 tweetbackscheck:
   - 1356469473
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7500";s:7:"tinyurl";s:26:"http://tinyurl.com/ac4b65d";s:4:"isgd";s:19:"http://is.gd/G54CyQ";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7500";s:7:"tinyurl";s:26:"https://tinyurl.com/ac4b65d";s:4:"isgd";s:19:"https://is.gd/G54CyQ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 970541542
@@ -213,19 +213,19 @@ Capitalização, kerning, condensamento, estilo, extenção, altura x, font-stac
   
 [Compose to a vertical rhythm][5]
 
- [1]: http://informationarchitects.net/blog/the-web-is-all-about-typography-period/
- [2]: http://www.comicsanscriminal.com/ "Comic Sans Criminal"
- [3]: http://dev.w3.org/csswg/css3-fonts/ "CSS Font Modules Level 3"
- [4]: http://typotalks.com/berlin/de/blog/2011/05/19/oliver-reichenstein-we-are-the-medium/
- [5]: http://24ways.org/2006/compose-to-a-vertical-rhythm/
- [6]: http://www.pearsonified.com/typography/
- [7]: http://tableless.com.br/font-face-fonts-externas-na-web/ "Propriedade @font-face CSS – Fonts externas na web"
- [8]: http://www.google.com/webfonts "Google Fonts"
+ [1]: https://informationarchitects.net/blog/the-web-is-all-about-typography-period/
+ [2]: https://www.comicsanscriminal.com/ "Comic Sans Criminal"
+ [3]: https://dev.w3.org/csswg/css3-fonts/ "CSS Font Modules Level 3"
+ [4]: https://typotalks.com/berlin/de/blog/2011/05/19/oliver-reichenstein-we-are-the-medium/
+ [5]: https://24ways.org/2006/compose-to-a-vertical-rhythm/
+ [6]: https://www.pearsonified.com/typography/
+ [7]: https://tableless.com.br/font-face-fonts-externas-na-web/ "Propriedade @font-face CSS – Fonts externas na web"
+ [8]: https://www.google.com/webfonts "Google Fonts"
  [9]: https://typekit.com/ "Typekit"
- [10]: http://dev.w3.org/csswg/css3-fonts/
- [11]: http://informationarchitects.net/blog/100e2r/
- [12]: http://informationarchitects.net/blog/webdesign-is-95-typography-partii/
- [13]: http://www.markboulton.co.uk/journal/five-simple-steps-to-better-typography
- [14]: http://uxdesign.smashingmagazine.com/2011/11/29/the-perfect-paragraph/
- [15]: http://www.alistapart.com/articles/on-web-typography/
- [16]: http://sixrevisions.com/css/css-typography-02/
+ [10]: https://dev.w3.org/csswg/css3-fonts/
+ [11]: https://informationarchitects.net/blog/100e2r/
+ [12]: https://informationarchitects.net/blog/webdesign-is-95-typography-partii/
+ [13]: https://www.markboulton.co.uk/journal/five-simple-steps-to-better-typography
+ [14]: https://uxdesign.smashingmagazine.com/2011/11/29/the-perfect-paragraph/
+ [15]: https://www.alistapart.com/articles/on-web-typography/
+ [16]: https://sixrevisions.com/css/css-typography-02/

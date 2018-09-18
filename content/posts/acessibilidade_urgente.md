@@ -7,7 +7,7 @@ url: /acessibilidade_urgente/
 tweetbackscheck:
   - 1356439550
 shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/acessibilidade_urgente";s:7:"tinyurl";s:26:"http://tinyurl.com/3d9pa98";s:4:"isgd";s:19:"http://is.gd/k0a3yp";}'
+  - 'a:3:{s:9:"permalink";s:46:"https://tableless.com.br/acessibilidade_urgente";s:7:"tinyurl";s:26:"https://tinyurl.com/3d9pa98";s:4:"isgd";s:19:"https://is.gd/k0a3yp";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033096
@@ -41,4 +41,4 @@ Precisamos pensar mais na acessibilidade dos nossos sites.
   
 Perceba que o problema que o rapaz citou, é fácil de ser resolvido, basta um pouco de nossa atenção&#8230;
 
- [1]: http://www.freedomscientific.com/fs_downloads/jaws.asp
+ [1]: https://www.freedomscientific.com/fs_downloads/jaws.asp

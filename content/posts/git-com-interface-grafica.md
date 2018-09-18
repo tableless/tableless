@@ -37,12 +37,12 @@ Para windows, mac e linux há o [SmartGit][7] e o [Git-Cola][8]. As duas interfa
 
 A aplicação mais bem acabada mesmo é a do GitHub, mesmo assim há algumas limitações, tipo: eu não consigo visualizar tags no histórico de commits. Mesmo assim quando preciso usar tags eu corro pro terminal. Nada tão ruim assim. 😉
 
- [1]: http://git-scm.com/downloads/guis
- [2]: http://gitk.sourceforge.net
- [3]: http://mac.github.com
- [4]: http://windows.github.com
+ [1]: https://git-scm.com/downloads/guis
+ [2]: https://gitk.sourceforge.net
+ [3]: https://mac.github.com
+ [4]: https://windows.github.com
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/11/Screen-Shot-2012-11-19-at-2.23.16-PM.png
- [6]: http://gitx.frim.nl
- [7]: http://www.syntevo.com/smartgit/index.html
- [8]: http://git-cola.github.com/
- [9]: http://code.google.com/p/gitextensions/
+ [6]: https://gitx.frim.nl
+ [7]: https://www.syntevo.com/smartgit/index.html
+ [8]: https://git-cola.github.com/
+ [9]: https://code.google.com/p/gitextensions/

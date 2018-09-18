@@ -7,7 +7,7 @@ url: /sombra-e-agua-fresca/
 tweetbackscheck:
   - 1355015927
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/sombra-e-agua-fresca";s:7:"tinyurl";s:26:"http://tinyurl.com/3scqhnw";s:4:"isgd";s:19:"http://is.gd/oXXA4d";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/sombra-e-agua-fresca";s:7:"tinyurl";s:26:"https://tinyurl.com/3scqhnw";s:4:"isgd";s:19:"https://is.gd/oXXA4d";}'
 twittercomments:
   - 'a:2:{i:48591665132351488;s:7:"retweet";i:48559700207345664;s:7:"retweet";}'
 tweetcount:
@@ -31,4 +31,4 @@ Como todos sabem, dia 1º de Abril é conhecido como o dia da mentira. Por isso,
 
 Diego Eis
 
- [1]: http://www.digitalminds.com.br/posts/2721
+ [1]: https://www.digitalminds.com.br/posts/2721

@@ -7,7 +7,7 @@ url: /dicas-para-ter-compatibilidade-nos-browsers/
 tweetbackscheck:
   - 1356392508
 shorturls:
-  - 'a:3:{s:9:"permalink";s:67:"http://tableless.com.br/dicas-para-ter-compatibilidade-nos-browsers";s:7:"tinyurl";s:26:"http://tinyurl.com/44fvbok";s:4:"isgd";s:19:"http://is.gd/vMOVgb";}'
+  - 'a:3:{s:9:"permalink";s:67:"https://tableless.com.br/dicas-para-ter-compatibilidade-nos-browsers";s:7:"tinyurl";s:26:"https://tinyurl.com/44fvbok";s:4:"isgd";s:19:"https://is.gd/vMOVgb";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037660
@@ -73,4 +73,4 @@ Era tudo muito mais difícil quando tentávamos desenvolver com padrões, mas ne
   
 O jeito é estudar, estudar e estudar. Pelo menos se você quiser ser um bom profissional.
 
- [1]: http://www.techbits.com.br/2007/11/29/vamos-matar-o-ie6/
+ [1]: https://www.techbits.com.br/2007/11/29/vamos-matar-o-ie6/

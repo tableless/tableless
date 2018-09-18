@@ -7,7 +7,7 @@ url: /quer-testar-o-ie-7-beta/
 tweetbackscheck:
   - 1356442077
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/quer-testar-o-ie-7-beta";s:7:"tinyurl";s:26:"http://tinyurl.com/3t5b4cd";s:4:"isgd";s:19:"http://is.gd/wTdHav";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/quer-testar-o-ie-7-beta";s:7:"tinyurl";s:26:"https://tinyurl.com/3t5b4cd";s:4:"isgd";s:19:"https://is.gd/wTdHav";}'
 twittercomments:
   - 'a:1:{i:37596313466048512;s:7:"retweet";}'
 tweetcount:
@@ -27,7 +27,7 @@ Vou testar, depois posto minhas observações.
   * [Internet Explorer 7: Beta Preview][2]
   * [Microsoft releases IE 7 beta to public][3]
 
-<small>via <a href="http://br.groups.yahoo.com/group/radinho/">Radinho</a></small>
+<small>via <a href="https://br.groups.yahoo.com/group/radinho/">Radinho</a></small>
 
 **Update**:
   
@@ -43,9 +43,9 @@ O Internet Explorer 7 pode ser instalado como standalone, basta seguir essas ins
   
 [Descompactando o IE7][4]
 
-<small>via Rafael Apocalypse no <a href="http://br.groups.yahoo.com/group/radinho/">Radinho</a></small>
+<small>via Rafael Apocalypse no <a href="https://br.groups.yahoo.com/group/radinho/">Radinho</a></small>
 
- [1]: http://www.microsoft.com/windows/ie/ie7/tour/default.mspx
- [2]: http://www.microsoft.com/windows/ie/ie7/default.mspx
- [3]: http://news.zdnet.com/2100-3513_22-6033116.html?tag=nl.e589
- [4]: http://digg.com/software/MS_Official:-_Microsoft_IE_Beta_2_Live_Download#wholecomment956833
+ [1]: https://www.microsoft.com/windows/ie/ie7/tour/default.mspx
+ [2]: https://www.microsoft.com/windows/ie/ie7/default.mspx
+ [3]: https://news.zdnet.com/2100-3513_22-6033116.html?tag=nl.e589
+ [4]: https://digg.com/software/MS_Official:-_Microsoft_IE_Beta_2_Live_Download#wholecomment956833

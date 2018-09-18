@@ -7,7 +7,7 @@ url: /experimente-o-opera-mini/
 tweetbackscheck:
   - 1356427632
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/experimente-o-opera-mini";s:7:"tinyurl";s:26:"http://tinyurl.com/3u3v98p";s:4:"isgd";s:19:"http://is.gd/MYkUvQ";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/experimente-o-opera-mini";s:7:"tinyurl";s:26:"https://tinyurl.com/3u3v98p";s:4:"isgd";s:19:"https://is.gd/MYkUvQ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034551
@@ -27,5 +27,5 @@ Estou impressionado com o Opera Mini. Li e escrevi e-mails no Gmail, postei no W
 
 Para mim o pessoal do Opera conseguiu. Levaram internet de verdade, com toda sua variedade de sites, com Google, del.icio.us e Flickr, a uma série de dispositivos que só tinham acesso a wap. Isso muda muita coisa.
 
- [1]: http://www.opera.com/products/mobile/operamini/demo.dml
- [2]: http://elcio.com.br/operamini/
+ [1]: https://www.opera.com/products/mobile/operamini/demo.dml
+ [2]: https://elcio.com.br/operamini/

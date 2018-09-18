@@ -7,7 +7,7 @@ url: /lavando-a-roupa-suja/
 tweetbackscheck:
   - 1354887803
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/lavando-a-roupa-suja";s:7:"tinyurl";s:26:"http://tinyurl.com/3e6xyba";s:4:"isgd";s:19:"http://is.gd/IVrMpd";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/lavando-a-roupa-suja";s:7:"tinyurl";s:26:"https://tinyurl.com/3e6xyba";s:4:"isgd";s:19:"https://is.gd/IVrMpd";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035966
@@ -43,11 +43,11 @@ E para saber direto da fonte:
 
 Vale a pena dar uma olhada nos links. Tire um pouco de tempo para essa leitura, é importante.
 
- [1]: http://brunotorres.net/
- [2]: http://www.revolucao.etc.br/
- [3]: http://brunotorres.net/2006/08/28/qual-o-problema-da-w3c
- [4]: http://www.revolucao.etc.br/archives/discussao-sobre-os-rumos-da-w3c/
- [5]: http://www.zeldman.com/2006/07/17/an-angry-fix/
- [6]: http://meyerweb.com/eric/thoughts/2006/08/14/angry-indeed/
- [7]: http://www.w3.org/QA/2006/07/a_peaceful_ear.html
- [8]: http://lists.w3.org/Archives/Public/public-qa-dev/2006Jul/0011
+ [1]: https://brunotorres.net/
+ [2]: https://www.revolucao.etc.br/
+ [3]: https://brunotorres.net/2006/08/28/qual-o-problema-da-w3c
+ [4]: https://www.revolucao.etc.br/archives/discussao-sobre-os-rumos-da-w3c/
+ [5]: https://www.zeldman.com/2006/07/17/an-angry-fix/
+ [6]: https://meyerweb.com/eric/thoughts/2006/08/14/angry-indeed/
+ [7]: https://www.w3.org/QA/2006/07/a_peaceful_ear.html
+ [8]: https://lists.w3.org/Archives/Public/public-qa-dev/2006Jul/0011

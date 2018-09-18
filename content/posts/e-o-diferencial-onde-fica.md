@@ -7,7 +7,7 @@ url: /e-o-diferencial-onde-fica/
 tweetbackscheck:
   - 1356418776
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/e-o-diferencial-onde-fica";s:7:"tinyurl";s:26:"http://tinyurl.com/3e37ceo";s:4:"isgd";s:19:"http://is.gd/PaT31h";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/e-o-diferencial-onde-fica";s:7:"tinyurl";s:26:"https://tinyurl.com/3e37ceo";s:4:"isgd";s:19:"https://is.gd/PaT31h";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036091

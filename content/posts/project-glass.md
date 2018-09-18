@@ -8,7 +8,7 @@ url: /project-glass/
 tweetbackscheck:
   - 1356454222
 shorturls:
-  - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/project-glass/";s:7:"tinyurl";s:26:"http://tinyurl.com/ckffrzf";s:4:"isgd";s:19:"http://is.gd/2YMo6M";}'
+  - 'a:3:{s:9:"permalink";s:38:"https://tableless.com.br/project-glass/";s:7:"tinyurl";s:26:"https://tinyurl.com/ckffrzf";s:4:"isgd";s:19:"https://is.gd/2YMo6M";}'
 twittercomments:
   - 'a:5:{i:187909639206207489;s:7:"retweet";i:187659847582498816;s:7:"retweet";i:187631875190300672;s:7:"retweet";i:187614511245692929;s:7:"retweet";i:214555212323618816;s:7:"retweet";}'
 tweetcount:
@@ -43,6 +43,6 @@ Tem designers trabalhando com web que não entendem HTML/CSS. Tem programadores 
 
 Mas esse post não é sobre isso. Aproveite o vídeo e pense nisso! 😉
 
- [1]: http://tableless.com.br/seu-lugar-ao-sol/
- [2]: http://www.youtube.com/watch?v=cNbDj7OAbh0
- [3]: http://www.brainstorm9.com.br/29201/tech/project-glass-sera-que-um-dia-isso-se-torna-realidade/?utm_source=tablelessComBr&utm_medium=LinkPost&utm_campaign=TablelessComBr&utm_nooverride=1
+ [1]: https://tableless.com.br/seu-lugar-ao-sol/
+ [2]: https://www.youtube.com/watch?v=cNbDj7OAbh0
+ [3]: https://www.brainstorm9.com.br/29201/tech/project-glass-sera-que-um-dia-isso-se-torna-realidade/?utm_source=tablelessComBr&utm_medium=LinkPost&utm_campaign=TablelessComBr&utm_nooverride=1

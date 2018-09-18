@@ -7,7 +7,7 @@ url: /ganhe-uma-entrada-para-o-codeshow/
 tweetbackscheck:
   - 1356122014
 shorturls:
-  - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/ganhe-uma-entrada-para-o-codeshow";s:7:"tinyurl";s:26:"http://tinyurl.com/3q88vkd";s:4:"isgd";s:19:"http://is.gd/m050t9";}'
+  - 'a:3:{s:9:"permalink";s:57:"https://tableless.com.br/ganhe-uma-entrada-para-o-codeshow";s:7:"tinyurl";s:26:"https://tinyurl.com/3q88vkd";s:4:"isgd";s:19:"https://is.gd/m050t9";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037153
@@ -23,11 +23,11 @@ Quem fizer qualquer um destes cursos presenciais, ganhará a entrada para o [Cod
 
 Não custa lembrar que as vagas para os [cursos presenciais][7] e para o [CodeShow][8] são bem limitadas. Como sempre.
 
- [1]: http://visie.com.br/calendario/
- [2]: http://visie.com.br/codeshow/
- [3]: http://visie.com.br/cursos/ajax
- [4]: http://visie.com.br/cursos/tableless
- [5]: http://http://visie.com.br/cursos/javascript
- [6]: http://visie.com.br/calendario/ "Calendário da Visie"
- [7]: http://visie.com.br/calendario
- [8]: http://visie.com.br/codeshow
+ [1]: https://visie.com.br/calendario/
+ [2]: https://visie.com.br/codeshow/
+ [3]: https://visie.com.br/cursos/ajax
+ [4]: https://visie.com.br/cursos/tableless
+ [5]: https://https://visie.com.br/cursos/javascript
+ [6]: https://visie.com.br/calendario/ "Calendário da Visie"
+ [7]: https://visie.com.br/calendario
+ [8]: https://visie.com.br/codeshow

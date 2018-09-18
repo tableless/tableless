@@ -8,7 +8,7 @@ url: /css3-breve-introducao-a-rgba/
 tweetbackscheck:
   - 1356404509
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/css3-breve-introducao-a-rgba";s:7:"tinyurl";s:26:"http://tinyurl.com/3mbg5e6";s:4:"isgd";s:19:"http://is.gd/R9fE7a";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/css3-breve-introducao-a-rgba";s:7:"tinyurl";s:26:"https://tinyurl.com/3mbg5e6";s:4:"isgd";s:19:"https://is.gd/R9fE7a";}'
 twittercomments:
   - 'a:11:{i:126007285947437056;s:7:"retweet";i:125918556280987648;s:7:"retweet";i:151734836422381568;s:7:"retweet";i:153886273864613888;s:7:"retweet";i:151742617695174657;s:7:"retweet";i:151735554004877313;s:7:"retweet";i:151734970220675073;s:7:"retweet";i:151734887655809024;s:7:"retweet";i:161627565944078336;s:7:"retweet";i:161626587282935809;s:7:"retweet";i:161626465887191040;s:7:"retweet";}'
 tweetcount:
@@ -79,5 +79,5 @@ Como o Hexadecimal, você não precisa decorar todos estes números. Hoje, qualq
 
 [Veja novamente o exemplo aqui][1] e o [código no github do Tableless][2].
 
- [1]: http://tableless.github.com/exemplos/rgba/ "Teste de RGBA"
+ [1]: https://tableless.github.com/exemplos/rgba/ "Teste de RGBA"
  [2]: https://github.com/tableless/exemplos/tree/gh-pages/rgba "Código no Github"

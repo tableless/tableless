@@ -23,5 +23,5 @@ A conferência está sendo [transmitida ao vivo pelo site Channel 9 desde as 12:
 
 <a class="twitter-timeline" href="https://twitter.com/hashtag/EdgeWebSummit" data-widget-id="717034618919264256">#EdgeWebSummit Tweets</a>
 
- [1]: http://issues.microsoftedge.com/
+ [1]: https://issues.microsoftedge.com/
  [2]: https://channel9.msdn.com/Events/WebPlatformSummit/edgesummit2016

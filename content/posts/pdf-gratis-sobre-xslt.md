@@ -7,7 +7,7 @@ url: /pdf-gratis-sobre-xslt/
 tweetbackscheck:
   - 1356288129
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/pdf-gratis-sobre-xslt";s:7:"tinyurl";s:26:"http://tinyurl.com/3e89luo";s:4:"isgd";s:19:"http://is.gd/o8ddtp";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/pdf-gratis-sobre-xslt";s:7:"tinyurl";s:26:"https://tinyurl.com/3e89luo";s:4:"isgd";s:19:"https://is.gd/o8ddtp";}'
 twittercomments:
   - 'a:2:{i:42348287927402496;s:6:"137115";i:54894996649807872;s:7:"retweet";}'
 tweetcount:
@@ -35,5 +35,5 @@ O conteúdo do PDF era usado para ministrar cursos aqui na Visie sobre XSLT. Se 
 
 Aproveite!
 
- [1]: http://visie.com.br/
- [2]: http://visie.com.br/treinamento/cursosrapidos/
+ [1]: https://visie.com.br/
+ [2]: https://visie.com.br/treinamento/cursosrapidos/

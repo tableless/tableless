@@ -114,12 +114,12 @@ A parte de HTML e CSS é bem tranquila e, se pararmos pra olhar, até a parte do
 
 É isso pessoal, a idéia era dar uma passada geral sobre o recurso que pode ser útil para alguém que for mexer com mapas que possuem muitos pontos!
 
- [1]: http://tableless.com.br/api-google-maps-v3/
+ [1]: https://tableless.com.br/api-google-maps-v3/
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/exemplo-antes-MarkerClusterer.png
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/exemplo-depois-MarkerClusterer.png
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/exemplo2-antes-MarkerClusterer.png
- [5]: http://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/examples/speed_test_example.html?
+ [5]: https://google-maps-utility-library-v3.googlecode.com/svn/trunk/markerclusterer/examples/speed_test_example.html?
  [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/04/exemplo2-depois-MarkerClusterer.png
  [7]: https://developers.google.com/maps/articles/toomanymarkers?hl=pt-br#markerclusterer
- [8]: http://codepen.io/raphaelfabeni/full/hdjgA
- [9]: http://codepen.io/raphaelfabeni/full/zjcFd
+ [8]: https://codepen.io/raphaelfabeni/full/hdjgA
+ [9]: https://codepen.io/raphaelfabeni/full/zjcFd

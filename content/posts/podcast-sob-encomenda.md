@@ -7,7 +7,7 @@ url: /podcast-sob-encomenda/
 tweetbackscheck:
   - 1356329732
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/podcast-sob-encomenda";s:7:"tinyurl";s:26:"http://tinyurl.com/3czr4cy";s:4:"isgd";s:19:"http://is.gd/RVLGQ6";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/podcast-sob-encomenda";s:7:"tinyurl";s:26:"https://tinyurl.com/3czr4cy";s:4:"isgd";s:19:"https://is.gd/RVLGQ6";}'
 twittercomments:
   - 'a:1:{i:47808974384414720;s:7:"retweet";}'
 tweetcount:

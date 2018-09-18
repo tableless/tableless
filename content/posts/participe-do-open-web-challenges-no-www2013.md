@@ -33,7 +33,7 @@ Em tempo: eu também estarei por lá durante toda a semana! Serei voluntária no
 
 Nos vemos no Rio!
 
- [1]: http://www2013.org/
- [2]: http://www2013.org/2012/12/20/tim-berners-lee-will-be-in-rio-de-janeiro/
- [3]: http://www2013.org/openwebchallenges/br/
- [4]: http://www2013.org/2013/03/27/list-of-accepted-papers-developers-track/
+ [1]: https://www2013.org/
+ [2]: https://www2013.org/2012/12/20/tim-berners-lee-will-be-in-rio-de-janeiro/
+ [3]: https://www2013.org/openwebchallenges/br/
+ [4]: https://www2013.org/2013/03/27/list-of-accepted-papers-developers-track/

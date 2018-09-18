@@ -32,9 +32,9 @@ Não! Não ia adiantar nada eu saber o que tinha que fazer e o que já havia ter
 
 Foi ai que me calhou a testar outra indicação: sites que tem diferentes sons que simulam ambientes. Quando conheci no passado achei a maior &#8220;bizarrice&#8221;, mas depois de testar por alguns dias vi que realmente é útil.
 
-<a href="http://www.noisli.com/" target="_blank"><strong>Noisli</strong></a>: tem dois botões que te auxiliam conforme o seu objetivo: **Relax** ou **Productivity**. Também o botão **Random** para fazer uma mistura dos diversos sons ambiente que contém no site.
+<a href="https://www.noisli.com/" target="_blank"><strong>Noisli</strong></a>: tem dois botões que te auxiliam conforme o seu objetivo: **Relax** ou **Productivity**. Também o botão **Random** para fazer uma mistura dos diversos sons ambiente que contém no site.
 
-<a href="http://defonic.com/" target="_blank"><strong>Defonic</strong></a>: bem similar ao Noisli mas o diferencial (e o que me faz utilizá-lo mais) é o som de Piano, coloco ele combinado com barulho da chuva e esqueço do mundo.
+<a href="https://defonic.com/" target="_blank"><strong>Defonic</strong></a>: bem similar ao Noisli mas o diferencial (e o que me faz utilizá-lo mais) é o som de Piano, coloco ele combinado com barulho da chuva e esqueço do mundo.
 
 Existem diversas ferramentas para organizar suas tarefas e diversas formas para focar no trabalho ou estudos, há quem goste de ouvir rádio e não ligar para as propagandas na troca de músicas (não é meu caso), também já ouvi que música instrumental é ótimo para focar pois não tem o vocalista para atrapalhar com seu pensamento.
 

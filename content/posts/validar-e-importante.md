@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356468349
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/validar-e-importante";s:7:"tinyurl";s:26:"http://tinyurl.com/3dewf2u";s:4:"isgd";s:19:"http://is.gd/bbYtgd";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/validar-e-importante";s:7:"tinyurl";s:26:"https://tinyurl.com/3dewf2u";s:4:"isgd";s:19:"https://is.gd/bbYtgd";}'
 twittercomments:
   - 'a:2:{i:10084954125893632;s:7:"retweet";i:51264824566493185;s:7:"retweet";}'
 tweetcount:
@@ -49,14 +49,14 @@ Mais do mesmo:
 
 * Facilite a sua vida e assine [nosso FEED][11] no seu agregador favorito!
 
- [1]: http://validator.w3.org
- [2]: http://www.w3.org/2001/sw/#spec
- [3]: http://brunotorres.net/
- [4]: http://www.revolucao.etc.br/archives/eu-ja-disse-que-validacao-nao-significa-nada/
- [5]: http://www.revolucao.etc.br/archives/validacao-e-semantica/
- [6]: http://jaderubini.wordpress.com/2006/08/03/validar-ou-nao-validar-eis-a-questao/
- [7]: http://tableless.com.br/aplicacoes-comem-conteudo
- [8]: http://brunotorres.net/2005/09/10/xhtml-pensando-no-futuro
- [9]: http://www-128.ibm.com/developerworks/web/library/x-futhtml1/index.html
- [10]: http://www-128.ibm.com/developerworks/web/library/x-futhtml2.html
- [11]: http://tableless.com.br/feed/
+ [1]: https://validator.w3.org
+ [2]: https://www.w3.org/2001/sw/#spec
+ [3]: https://brunotorres.net/
+ [4]: https://www.revolucao.etc.br/archives/eu-ja-disse-que-validacao-nao-significa-nada/
+ [5]: https://www.revolucao.etc.br/archives/validacao-e-semantica/
+ [6]: https://jaderubini.wordpress.com/2006/08/03/validar-ou-nao-validar-eis-a-questao/
+ [7]: https://tableless.com.br/aplicacoes-comem-conteudo
+ [8]: https://brunotorres.net/2005/09/10/xhtml-pensando-no-futuro
+ [9]: https://www-128.ibm.com/developerworks/web/library/x-futhtml1/index.html
+ [10]: https://www-128.ibm.com/developerworks/web/library/x-futhtml2.html
+ [11]: https://tableless.com.br/feed/

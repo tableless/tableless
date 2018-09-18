@@ -236,12 +236,12 @@ Já o lado do usuário ganha uma grande vantagem: flexibilidade e controle. O us
 
 Como você já percebeu, há uma variação interminável de plataformas e dispositivos. Isso só tende a aumentar. Esse é o caminho que a web deve percorrer. Liberdade para troca de informações, independente do dispositivo utilizado para isso. É isso que o usuário espera.
 
- [1]: http://www.webstandards.org/about/mission/pt/
- [2]: http://www.w3.org/
- [3]: http://www.w3.org/ "World Wide Web Consortium"
- [4]: http://www.csszengarden.com/
- [5]: http://www.mardiros.net/bobby-accessibility-tool.html
- [6]: http://www.st-andrews.ac.uk/its/web/accessibility/cynthia_validator.shtml
- [7]: http://www1.acessobrasil.org.br/dasilva/dasilva.html
- [8]: http://www.w3.org/WAI/
- [9]: http://espn.com
+ [1]: https://www.webstandards.org/about/mission/pt/
+ [2]: https://www.w3.org/
+ [3]: https://www.w3.org/ "World Wide Web Consortium"
+ [4]: https://www.csszengarden.com/
+ [5]: https://www.mardiros.net/bobby-accessibility-tool.html
+ [6]: https://www.st-andrews.ac.uk/its/web/accessibility/cynthia_validator.shtml
+ [7]: https://www1.acessobrasil.org.br/dasilva/dasilva.html
+ [8]: https://www.w3.org/WAI/
+ [9]: https://espn.com

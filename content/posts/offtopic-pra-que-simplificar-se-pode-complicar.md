@@ -7,7 +7,7 @@ url: /offtopic-pra-que-simplificar-se-pode-complicar/
 tweetbackscheck:
   - 1356471814
 shorturls:
-  - 'a:3:{s:9:"permalink";s:70:"http://tableless.com.br/offtopic-pra-que-simplificar-se-pode-complicar";s:7:"tinyurl";s:26:"http://tinyurl.com/3b292d5";s:4:"isgd";s:19:"http://is.gd/Fg7pfC";}'
+  - 'a:3:{s:9:"permalink";s:70:"https://tableless.com.br/offtopic-pra-que-simplificar-se-pode-complicar";s:7:"tinyurl";s:26:"https://tinyurl.com/3b292d5";s:4:"isgd";s:19:"https://is.gd/Fg7pfC";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036871
@@ -39,4 +39,4 @@ SIMPLIFICAR minha gente, é a segunda alma do negócio, [a primeira como já dit
 
 KISS &#8211; Keep It Simple Stupid. Procure na web por isso e seja feliz.
 
- [1]: http://tableless.com.br/a-semantica-e-que-manda
+ [1]: https://tableless.com.br/a-semantica-e-que-manda

@@ -7,7 +7,7 @@ url: /codeshow-mais-20-vagas-corra/
 tweetbackscheck:
   - 1356182314
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/codeshow-mais-20-vagas-corra";s:7:"tinyurl";s:26:"http://tinyurl.com/3tjwqwx";s:4:"isgd";s:19:"http://is.gd/Dv3qz7";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/codeshow-mais-20-vagas-corra";s:7:"tinyurl";s:26:"https://tinyurl.com/3tjwqwx";s:4:"isgd";s:19:"https://is.gd/Dv3qz7";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037396
@@ -33,6 +33,6 @@ SÃO PAULO &#8211; SP &#8211; BRASIL
 
 Iremos fazer **transmissão ao vivo**. Se quiser assistir via internet, faça seu [cadastro por aqui][3]. É a última opção da lista.
 
- [1]: http://www.paulistaplaza.com.br/
- [2]: http://maps.google.com/maps/ms?ie=UTF8&om=1&msa=0&msid=100268483657177769788.0004374abd5c9656518ea&ll=-23.57152,-46.645997&spn=0.009558,0.020084&z=16
- [3]: http://visie.com.br/matricula
+ [1]: https://www.paulistaplaza.com.br/
+ [2]: https://maps.google.com/maps/ms?ie=UTF8&om=1&msa=0&msid=100268483657177769788.0004374abd5c9656518ea&ll=-23.57152,-46.645997&spn=0.009558,0.020084&z=16
+ [3]: https://visie.com.br/matricula

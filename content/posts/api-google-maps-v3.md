@@ -19,7 +19,7 @@ Neste post irei falar um pouco sobre a <a title="API Google Maps V3" href="https
 
 No último projeto que participei, o designer incluiu no layout um mapa com width: 100%. Até ai nada demais, não é? Fui no Google Maps, digitei o endereço do local e incorporei o mapa ao meu projeto com aquele iframe lindo cheio de tags inúteis. Não é errado usar o embed do Google. É simples de incorporar no seu projeto, é relativamente fácil de manipular e deixar as dimensões do jeito que quiser, mas o código não é aquela coisa linda.
 
-Vamos ao que interessa. Irei descrever abaixo o passo a passo de como eu cheguei <a title="Resultado do mapa personalizado / Github" href="http://thulioph.github.io/mapa/" target="_blank">neste resultado</a>. Depois de ler este post você conseguirá brincar bastante, personalizando o quanto quiser o seu mapa.
+Vamos ao que interessa. Irei descrever abaixo o passo a passo de como eu cheguei <a title="Resultado do mapa personalizado / Github" href="https://thulioph.github.io/mapa/" target="_blank">neste resultado</a>. Depois de ler este post você conseguirá brincar bastante, personalizando o quanto quiser o seu mapa.
 
 ## HTML
 
@@ -120,7 +120,7 @@ Para o mapa aparecer de fato no seu projeto, é preciso inserir o script da api 
   function loadScript() {
   var script = document.createElement(“script”);
   script.type = “text/javascript”;
-  script.src =”http://maps.googleapis.com/maps/api/js?key=SUA_API_KEY&sensor=true_or_false&callback=initialize”;
+  script.src =”https://maps.googleapis.com/maps/api/js?key=SUA_API_KEY&sensor=true_or_false&callback=initialize”;
 
   document.body.appendChild(script);
 }
@@ -237,7 +237,7 @@ Até aqui você está mostrando o mapa, personalizando os controles e modificand
 Em alguns mapas quando o usuário clica no pin do local é aberto uma espécie de balão de texto sobre aquele pin, com algumas informações tipo telefone, e-mail, ou qualquer coisa do gênero. Esta “janela” que se abre é chamada de janela de informações ou **InfoWindow** _nome bastante óbvio rsrs_, agora vamos inseri-la no nosso mapa. Dando continuidade ao exemplo anterior, agora você quer que quando o usuário clique na sua foto do mapa, apareça seus dados para contato, e-mail, telefone, etc. Mãos a obra!
 
 <pre class="lang-javascript">// Parâmetros do texto que será exibido no clique;
-  var contentString = ‘&lt;h2&gt;Marco Zero&lt;/h2&gt;’ + ‘&lt;p&gt;Praça Rio Branco, Recife/PE.&lt;/p&gt;’ + ‘&lt;a href=”http://pt.wikipedia.org/wiki/Pra%C3%A7a_Rio_Branco_(Recife)” target=”_blank”&gt;clique aqui para mais informações&lt;/a&gt;’;
+  var contentString = ‘&lt;h2&gt;Marco Zero&lt;/h2&gt;’ + ‘&lt;p&gt;Praça Rio Branco, Recife/PE.&lt;/p&gt;’ + ‘&lt;a href=”https://pt.wikipedia.org/wiki/Pra%C3%A7a_Rio_Branco_(Recife)” target=”_blank”&gt;clique aqui para mais informações&lt;/a&gt;’;
 
   var infowindow = new google.maps.InfoWindow({
   content: contentString,

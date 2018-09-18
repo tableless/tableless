@@ -103,7 +103,7 @@ Com apenas seis linhas de código (real) concluímos um menu com submenu dinâmi
 
 Um dos motivos pelos quais a jQuery é uma das bibliotecas mais incríveis de se trabalhar porque seu aprendizado é simples e prático. Vale a pena investir um tempo para aprender a usá-la.
 
- [1]: http://docs.jquery.com/Selectors "Selectores da jQuery"
- [2]: http://dgmike.com.br/tableless/jquery/menu-submenu-parte1.html "Aplicação do HTML e JavaScript ao menu com submenu"
- [3]: http://dgmike.com.br/tableless/jquery/menu-submenu-parte2.html "Sumindo com os submenus com uma linha de código"
- [4]: http://dgmike.com.br/tableless/jquery/menu-submenu-parte3.html "Versão final do menu com submenu dinâmico"
+ [1]: https://docs.jquery.com/Selectors "Selectores da jQuery"
+ [2]: https://dgmike.com.br/tableless/jquery/menu-submenu-parte1.html "Aplicação do HTML e JavaScript ao menu com submenu"
+ [3]: https://dgmike.com.br/tableless/jquery/menu-submenu-parte2.html "Sumindo com os submenus com uma linha de código"
+ [4]: https://dgmike.com.br/tableless/jquery/menu-submenu-parte3.html "Versão final do menu com submenu dinâmico"

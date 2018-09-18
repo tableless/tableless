@@ -15,7 +15,7 @@ tags:
 ---
 ### Introdução
 
-Ano passado trabalhei em um projeto que era um concurso de fotografia online, o <a href="http://www.prixphotoaliancafrancesa.com.br" target="_blank">Prix Photo Web</a>, onde cada fotógrafo podia se cadastrar, fazer upload de suas fotos e concorrer a um prêmio.
+Ano passado trabalhei em um projeto que era um concurso de fotografia online, o <a href="https://www.prixphotoaliancafrancesa.com.br" target="_blank">Prix Photo Web</a>, onde cada fotógrafo podia se cadastrar, fazer upload de suas fotos e concorrer a um prêmio.
 
 O site tinha uma página de galeria, onde se podia ver os diversos trabalhos publicados a partir de _thumbnails_.
 
@@ -23,7 +23,7 @@ Eu havia pego o código já quase todo pronto, mas resolvi atualizar algumas coi
 
 No decorrer do processo acabei tendo que usar o **JSON** para trocar informações entre scripts PHP e JavaScript, e achei muito interessante a maneira como isso aconteceu.
 
-O resultado final pode ser conferido <a href="http://www.prixphotoaliancafrancesa.com.br/galeria" target="_blank">aqui</a>, e a seguir vou descrever o passo a passo do processo que percorri.
+O resultado final pode ser conferido <a href="https://www.prixphotoaliancafrancesa.com.br/galeria" target="_blank">aqui</a>, e a seguir vou descrever o passo a passo do processo que percorri.
 
 ### Escopo
 
@@ -31,7 +31,7 @@ O conteúdo do site era totalmente dinâmico, ou seja, vinha de consultas ao ban
 
 [<img class=" wp-image-43 size-large aligncenter" src="https://www.decheryweb.com.br/blog/uploads/galeria-prix-1-1024x550.png" alt="galeria-prix-1" width="660" height="354" />][1]
 
-Ao dar o clique em um dos _thumbs_ se abria uma galeria de fotos em _lightbox_, usando o _plugin_ jQuery <a href="http://fancyapps.com/fancybox/" target="_blank"><em>fancybox</em> </a>(um velho favorito meu):
+Ao dar o clique em um dos _thumbs_ se abria uma galeria de fotos em _lightbox_, usando o _plugin_ jQuery <a href="https://fancyapps.com/fancybox/" target="_blank"><em>fancybox</em> </a>(um velho favorito meu):
 
 [<img class=" size-large wp-image-42 aligncenter" src="https://www.decheryweb.com.br/blog/uploads/galeria-prix-2-1024x550.png" alt="galeria-prix-2" width="660" height="354" />][2]
 
@@ -92,9 +92,9 @@ Ao final do processo, o array produzido tinha a seguinte estrutura:
 <pre class="lang-javascript">$proj = array (
 	"candidato" =&gt; "Felisbério dos Santos",
 	"imgs"  =&gt; array ( 
-		0 =&gt; "http://localhost/projeto/diretorio/nome-arquivo.jpg",
-		1 =&gt; "http://localhost/projeto/diretorio/nome-arquivo.jpg",
-		2 =&gt; "http://localhost/projeto/diretorio/nome-arquivo.jpg",
+		0 =&gt; "https://localhost/projeto/diretorio/nome-arquivo.jpg",
+		1 =&gt; "https://localhost/projeto/diretorio/nome-arquivo.jpg",
+		2 =&gt; "https://localhost/projeto/diretorio/nome-arquivo.jpg",
 	),
 	"projeto" =&gt; "Sombras Negras"
 );</pre>
@@ -109,19 +109,19 @@ Isto foi feito simplesmente adicionando-se ao código esta linha:
 
 <pre class="lang-php">echo json_encode($proj);</pre>
 
-A função nativa do PHP &#8216;<a href="http://php.net/manual/pt_BR/function.json-encode.php" target="_blank">json_encode</a>&#8216;, como diz o nome, converte o _array_ `$proj` para um objeto JSON, que ficará assim:
+A função nativa do PHP &#8216;<a href="https://php.net/manual/pt_BR/function.json-encode.php" target="_blank">json_encode</a>&#8216;, como diz o nome, converte o _array_ `$proj` para um objeto JSON, que ficará assim:
 
 <pre class="lang-javascript">{
 	"candidato":"Felisbério dos Santos",
 	"imgs":[
-		"http://path/da/imagem/136/000-1.jpg",
-		"http://path/da/imagem/136/000-2.jpg",
-		"http://path/da/imagem/136/000-3.jpg"
+		"https://path/da/imagem/136/000-1.jpg",
+		"https://path/da/imagem/136/000-2.jpg",
+		"https://path/da/imagem/136/000-3.jpg"
 		],
 	"nome":"Sombras Negras"
  }</pre>
 
-Este objeto pode ser passado tranquilamente pela script JS, aonde será usado na já citada função `fancyPrix()`, que é quem vai pegar cada informação do objeto JSON e aplicar no _plugin <a href="http://fancyapps.com/fancybox/" target="_blank">fancybox</a>_, da seguinte maneira:
+Este objeto pode ser passado tranquilamente pela script JS, aonde será usado na já citada função `fancyPrix()`, que é quem vai pegar cada informação do objeto JSON e aplicar no _plugin <a href="https://fancyapps.com/fancybox/" target="_blank">fancybox</a>_, da seguinte maneira:
 
 <pre class="lang-javascript">function fancyPrix(projeto) {
 	$.fancybox.open(projeto.imgs, {
@@ -154,6 +154,6 @@ Relembrando o script jQuery original podemos ver como a galeria toda é criada e
 
 Quando apliquei esta solução e vi tudo funcionando o orgulho (e o alívio) foram grandes, mas maior ainda foi a sensação de &#8216;uau&#8217; ao ver as diferentes linguagens da web conversando juntas e de maneira tão integrada.
 
- [1]: http://www.decheryweb.com.br/blog/uploads/galeria-prix-1.png
- [2]: http://www.decheryweb.com.br/blog/uploads/galeria-prix-2.png
- [3]: http://www.decheryweb.com.br/blog/uploads/diagrama-prix.png
+ [1]: https://www.decheryweb.com.br/blog/uploads/galeria-prix-1.png
+ [2]: https://www.decheryweb.com.br/blog/uploads/galeria-prix-2.png
+ [3]: https://www.decheryweb.com.br/blog/uploads/diagrama-prix.png

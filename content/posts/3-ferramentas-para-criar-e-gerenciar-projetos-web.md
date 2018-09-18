@@ -60,10 +60,10 @@ Assim como o Yeoman, o Brunch também utiliza a ferramenta Grunt para gerenciar 
 
 Essa foi uma apresentação inicial e, futuramente, pretendo escrever um artigo específico sobre cada um dos projetos listados aqui. E vocês, utilizam alguma outra alternativa? Deixem suas mensagens nos comentários!
 
- [1]: http://tableless.com.br/qualidade-codigo-javascript/ "http://tableless.com.br/qualidade-codigo-javascript/"
- [2]: http://tableless.com.br/javascript-com-cafe/ "http://tableless.com.br/javascript-com-cafe/"
- [3]: http://yeoman.io "http://yeoman.io"
- [4]: http://roots.cx "http://roots.cx"
- [5]: http://sindresorhus.com/bower-components/ "http://sindresorhus.com/bower-components/"
- [6]: http://brunch.io/ "http://brunch.io/"
- [7]: http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/ "http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/"
+ [1]: https://tableless.com.br/qualidade-codigo-javascript/ "https://tableless.com.br/qualidade-codigo-javascript/"
+ [2]: https://tableless.com.br/javascript-com-cafe/ "https://tableless.com.br/javascript-com-cafe/"
+ [3]: https://yeoman.io "https://yeoman.io"
+ [4]: https://roots.cx "https://roots.cx"
+ [5]: https://sindresorhus.com/bower-components/ "https://sindresorhus.com/bower-components/"
+ [6]: https://brunch.io/ "https://brunch.io/"
+ [7]: https://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/ "https://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/"

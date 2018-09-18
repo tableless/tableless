@@ -7,7 +7,7 @@ url: /mudancas-no-ie7/
 tweetbackscheck:
   - 1356453935
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/mudancas-no-ie7";s:7:"tinyurl";s:26:"http://tinyurl.com/3my4sjw";s:4:"isgd";s:19:"http://is.gd/zoMYse";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/mudancas-no-ie7";s:7:"tinyurl";s:26:"https://tinyurl.com/3my4sjw";s:4:"isgd";s:19:"https://is.gd/zoMYse";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036071
@@ -49,9 +49,9 @@ A única coisa que me preocupa mesmo é que apenas Windows Originais terão a at
 Mais:
 
   * [Details on our CSS changes for IE7][1]
-  * <http://www.positioniseverything.net/explorer.html>
+  * <https://www.positioniseverything.net/explorer.html>
   * [Quirks Mode][3]
 
- [1]: http://blogs.msdn.com/ie/archive/2006/08/22/712830.aspx
- [2]: http://www.positioniseverything.net/explorer.html
- [3]: http://en.wikipedia.org/wiki/Quirks_mode
+ [1]: https://blogs.msdn.com/ie/archive/2006/08/22/712830.aspx
+ [2]: https://www.positioniseverything.net/explorer.html
+ [3]: https://en.wikipedia.org/wiki/Quirks_mode

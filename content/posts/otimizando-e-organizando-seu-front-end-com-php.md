@@ -27,8 +27,8 @@ Muitos desenvolvedores acham que é cada um por si, eu particulamente não sigo 
 
 Tenho um site com 250 páginas HTMLs e meu cliente deseja modificar o menu principal, colocando mais um item, como eu desenvolveria em HTML? Entraria nas 250 páginas e alterava todos os menus? Criaria um iframe? Muitos fariam isso, mas a partir de hoje, não mais!
 
-<pre class="lang-html">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-&lt;html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br"&gt;
+<pre class="lang-html">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+&lt;html xmlns="https://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br"&gt;
 &lt;head&gt;
 &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
 &lt;title&gt;Trabalhando com PHP no front-end&lt;/title&gt;
@@ -56,8 +56,8 @@ Primeiro passo, crie uma página PHP. No meu caso irei colocar o nome &#8220;men
 
 Agora basta chamar nossa página principal utilizando o php (Lembre-se a página principal deve utlizar a extensão &#8220;.php&#8221;):
 
-<pre class="lang-php">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-&lt;html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br"&gt;
+<pre class="lang-php">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+&lt;html xmlns="https://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br"&gt;
 &lt;head&gt;
 &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
 &lt;title&gt;Trabalhando com PHP no front-end&lt;/title&gt;
@@ -81,8 +81,8 @@ Imagine diversos formulários em um projeto ERP onde você é o responsável fro
 
 Temos a seguinte página HTML:
 
-<pre class="lang-html">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-&lt;html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br"&gt;
+<pre class="lang-html">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+&lt;html xmlns="https://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br"&gt;
 &lt;head&gt;
 &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
 &lt;title&gt;Trabalhando com PHP no front-end&lt;/title&gt;
@@ -168,8 +168,8 @@ echo '&lt;p&gt;&lt;input type="submit" name="'.$NomeSubmit.'" value="'.$Valor.'"
 }
 ?&gt;
 
-&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
-&lt;html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br"&gt;
+&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"&gt;
+&lt;html xmlns="https://www.w3.org/1999/xhtml" xml:lang="pt-br" lang="pt-br"&gt;
 &lt;head&gt;
 &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
 &lt;title&gt;Trabalhando com PHP no front-end&lt;/title&gt;

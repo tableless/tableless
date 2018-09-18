@@ -33,7 +33,7 @@ Outro dia eu estava tentando me lembrar de um site bem simpático e simples para
 
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/code-combat.jpg" alt="code-combat" width="500" height="300" class="alignnone size-full wp-image-49681" />][4]
 
- [1]: http://javascript.com/
- [2]: http://www.codewars.com/join?language=javascript
- [3]: http://www.codeavengers.com/javascript/1#1.1
- [4]: http://codecombat.com/
+ [1]: https://javascript.com/
+ [2]: https://www.codewars.com/join?language=javascript
+ [3]: https://www.codeavengers.com/javascript/1#1.1
+ [4]: https://codecombat.com/

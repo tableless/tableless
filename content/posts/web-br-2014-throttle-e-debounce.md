@@ -28,6 +28,6 @@ O [Almir Filho][1] falou um pouco sobre dois métodos de JS que nos permite cont
   * Um caso comum: quando o fulano clica ou aperta uma tecla vezes seguidas.
   * Caso de uso: auto complete. Quando você faz um auto complete com requisições ajax. O usuário digita tudo de uma vez.
   * Você não pode executar o auto complete a partir do momento que o usuário digita cada tecla.
-  * Leia sobre Throttle e Debounce aqui! http://loopinfinito.com.br/2013/09/24/throttle-e-debounce-patterns-em-javascript/
+  * Leia sobre Throttle e Debounce aqui! https://loopinfinito.com.br/2013/09/24/throttle-e-debounce-patterns-em-javascript/
 
- [1]: http://twitter.com/almirfilho
+ [1]: https://twitter.com/almirfilho

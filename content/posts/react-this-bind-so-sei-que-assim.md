@@ -210,7 +210,7 @@ estágios de maturidade, começando pelo estágio 0. O stage-3 ou estágio 3 que
 mencionado anteriormente, significa que a proposta de tal recurso está
 praticamente finalizada e agora precisa de feedback de implementações e usuários
 para progredir ainda mais. Mais detalhes do TC e dos outros estágios
-[aqui](http://2ality.com/2015/11/tc39-process.html).
+[aqui](https://2ality.com/2015/11/tc39-process.html).
 
 ## fecharPost.bind(this);
 

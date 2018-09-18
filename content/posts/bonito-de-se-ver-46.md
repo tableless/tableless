@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356221705
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bonito-de-se-ver-46";s:7:"tinyurl";s:26:"http://tinyurl.com/3hzzcmj";s:4:"isgd";s:19:"http://is.gd/5O76Vl";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/bonito-de-se-ver-46";s:7:"tinyurl";s:26:"https://tinyurl.com/3hzzcmj";s:4:"isgd";s:19:"https://is.gd/5O76Vl";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036581
@@ -21,14 +21,14 @@ tags:
   - bonitodesever
 
 ---
-  * <http://www.theaterwebsiteservices.com/>
-  * <http://www.thebeststuffintheworld.com/>
-  * <http://www.younggogetter.com/>
-  * <http://www.enrichmint.com/>
-  * [  * <http://www.theaterwebsiteservices.com/>
-  * <http://www.thebeststuffintheworld.com/>
-  * <http://www.younggogetter.com/>
-  * <http://www.enrichmint.com/>
+  * <https://www.theaterwebsiteservices.com/>
+  * <https://www.thebeststuffintheworld.com/>
+  * <https://www.younggogetter.com/>
+  * <https://www.enrichmint.com/>
+  * [  * <https://www.theaterwebsiteservices.com/>
+  * <https://www.thebeststuffintheworld.com/>
+  * <https://www.younggogetter.com/>
+  * <https://www.enrichmint.com/>
   *][1]
 
- [1]: http://bryanveloso.com/
+ [1]: https://bryanveloso.com/

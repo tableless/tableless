@@ -12,7 +12,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356392261
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/implementar-xhtmlcss-e-gratis";s:7:"tinyurl";s:26:"http://tinyurl.com/3h95jk4";s:4:"isgd";s:19:"http://is.gd/XXoYPj";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/implementar-xhtmlcss-e-gratis";s:7:"tinyurl";s:26:"https://tinyurl.com/3h95jk4";s:4:"isgd";s:19:"https://is.gd/XXoYPj";}'
 twittercomments:
   - 'a:2:{i:17638262411632640;s:6:"136470";i:17630219045179392;s:7:"retweet";}'
 tweetcount:
@@ -56,4 +56,4 @@ Será que são escritos de forma semântica? Será que não tem muito código? N
 
 A minha revolta aqui é contra aqueles profissionais que não fazem questão de aprender mais. Que simplesmente fazem apenas o que mandam e não tem o desejo de mudar o mundo em nenhum sentido.
 
- [1]: http://marcogomes.com/blog/2008/campanha-programar-e-gratis "Programar é de graça"
+ [1]: https://marcogomes.com/blog/2008/campanha-programar-e-gratis "Programar é de graça"

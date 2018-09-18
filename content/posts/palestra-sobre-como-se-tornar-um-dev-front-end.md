@@ -20,7 +20,7 @@ Fiz um artigo há um tempo atrás escrevi [um artigo sobre como se tornar um des
 
 
 <div style="margin-bottom:5px">
-  <strong> <a href="https://www.slideshare.net/diegoeis/como-tornardevfrontend" title="O que você precisa saber para se tornar um dev front-end" target="_blank">O que você precisa saber para se tornar um dev front-end</a> </strong> from <strong><a href="http://www.slideshare.net/diegoeis" target="_blank">Diego Eis</a></strong>
+  <strong> <a href="https://www.slideshare.net/diegoeis/como-tornardevfrontend" title="O que você precisa saber para se tornar um dev front-end" target="_blank">O que você precisa saber para se tornar um dev front-end</a> </strong> from <strong><a href="https://www.slideshare.net/diegoeis" target="_blank">Diego Eis</a></strong>
 </div>
 
- [1]: http://tableless.com.br/tornar-dev-front-end/ "Como se tornar um dev front-end"
+ [1]: https://tableless.com.br/tornar-dev-front-end/ "Como se tornar um dev front-end"

@@ -19,9 +19,9 @@ Nessa série oficial da _Google_, **gravada em português e produzida por brasil
 
 Se você se interessa por produtividade e qualidade no desenvolvimento de aplicações web, não deixe de assistir todos os vídeos!
 
-[youtube http://www.youtube.com/watch?v=videoseries?list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53]
+[youtube https://www.youtube.com/watch?v=videoseries?list=PLiGzvgwA5Gmgnq5vPjJxW52hDiX3ndL53]
 
- [1]: http://getfirebug.com/
+ [1]: https://getfirebug.com/
  [2]: https://developer.chrome.com/devtools
- [3]: http://www.opera.com/dragonfly/
+ [3]: https://www.opera.com/dragonfly/
  [4]: https://developer.mozilla.org/en/docs/Tools

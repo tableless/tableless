@@ -36,7 +36,7 @@ Não. Os TDLs serão tratados da mesma forma como qualquer outro gTLDs. Eles vã
 
 Mesmo que esses domínios tenham especificado sua região geográfica, o Google irá tratá-los como gTLDs. Isso vai de acordo com a forma de manipulação de TDL regionais do Google, como .EU, e .ASIA, por exemplo. Para mais informações, o Google oferece detalhes sobre locais de <a href="https://support.google.com/webmasters/answer/182192" target="_blank">multi-regiões e multilinguagens</a>, além de informações sobre a <a href="https://support.google.com/webmasters/answer/62399" target="_blank">Segmentação Geográfica por País</a>.
 
-**E sobre <a href="http://en.wikipedia.org/wiki/Country_code_top-level_domain" target="_blank">ccTLDs</a> (_country code top-level domains_): o Google vai favorecer ccTLDs (como .UK, .AE, etc.) como um domínio local para pessoas realizando buscas nestes países?**
+**E sobre <a href="https://en.wikipedia.org/wiki/Country_code_top-level_domain" target="_blank">ccTLDs</a> (_country code top-level domains_): o Google vai favorecer ccTLDs (como .UK, .AE, etc.) como um domínio local para pessoas realizando buscas nestes países?**
 
 Por padrão, a maioria dos ccTLDs (com <a href="https://support.google.com/webmasters/answer/1347922" target="_blank">exceções</a>) tem resultados no Google utilizando estes ccTLDs para &#8220;geotarget&#8221;, ou seja, ele diz que o site é provavelmente mais relevante no país apropriado. Ainda confuso? Veja o centro de ajuda para obter mais informações sobre <a href="https://support.google.com/webmasters/answer/182192" target="_blank">locais de multi-regiões e multilinguagens</a>.
 
@@ -48,4 +48,4 @@ O Google possui uma <a href="https://support.google.com/webmasters/answer/603304
 
 Quando o assunto é domínio, geralmente poucos dão a importância devida, além de não tratar questões relacionadas a alteração. Futuramente escreverei sobre a melhor forma de fazer isso, seja mudando um site e mantendo o domínio, ou mudando o site e também o domínio, e como isso pode impactar nos resultados de busca para quem possui muitas páginas indexadas.
 
-Sugiro olhar os preços do site  <a href="http://www.whois.com/" target="_blank">Whois.com</a> para registar seus gTLDs. Atualmente há uma promoção para domínios .SITE por apenas US$ 5,88.
+Sugiro olhar os preços do site  <a href="https://www.whois.com/" target="_blank">Whois.com</a> para registar seus gTLDs. Atualmente há uma promoção para domínios .SITE por apenas US$ 5,88.

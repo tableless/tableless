@@ -37,7 +37,7 @@ ligadas ao **Tempo**.
 
 Mesmo os mais jovens programadores já ouviram falar de acoplamento de código,
 aquele código que dá preguiça até de ler... macarrônico... famoso [big ball of
-mud](http://www.laputan.org/mud/)... arghhh ;p
+mud](https://www.laputan.org/mud/)... arghhh ;p
 
 Mas um acoplamento que muita gente negligencia é justamente de **Tempo!
 **Quantas vezes seu sistema em produção -e não importa qual tecnologia você use
@@ -115,7 +115,7 @@ anteriormente.
 * **Tolerância à Partição (Partitioning):** O sistema continua funcionando
 **normalmente **mesmo que parte dele esteja indisponível.
 
-[http://robertgreiner.com/2014/08/cap-theorem-revisited/](http://robertgreiner.com/2014/08/cap-theorem-revisited/)</span>
+[https://robertgreiner.com/2014/08/cap-theorem-revisited/](https://robertgreiner.com/2014/08/cap-theorem-revisited/)</span>
 
 Lembre-se que estamos falando de sistemas de bancos de dados **distribuídos** e
 é sempre bom repetir que sistemas distribuídos [são o demônio na
@@ -123,7 +123,7 @@ terra](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)**!
 **Dessa forma, meio que somos forçados a admitir que **Tolerância à partição **é
 um fato, é **inerente** a qualquer sistema distribuído. Portanto, segundo o
 [Teorema de
-Brewer](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.6951&rep=rep1&type=pdf),
+Brewer](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.67.6951&rep=rep1&type=pdf),
 ou escolhemos **Consistência** ou **Disponibilidade**.
 
 Analise o seguinte exemplo, visualizando o desenho acima com somente 2 nós num
@@ -175,4 +175,4 @@ disponibilidade. Abraços e até mais!
 Um lugar para ler e discutir sobre desenvolvimento, design, web semântica,
 back-end e outros assuntos relacionados a web. Se você quiser publicar artigos
 conosco, envie um email: medium[at]tableless.com.br ou *clique no link*
-[http://bit.ly/escreva-tableless-medium](http://bit.ly/escreva-tableless-medium)
+[https://bit.ly/escreva-tableless-medium](https://bit.ly/escreva-tableless-medium)

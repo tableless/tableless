@@ -63,6 +63,6 @@ Abaixo, veja outro vídeo mudo, onde eu crio o projeto e modifico o **config.rb*
 
 Eu vou tentar melhorar ainda mais esse passo a passo com o tempo. Não encontrei nenhum lugar onde ensinasse exatamente como fazer para rodar SASS na máquina sem estar em um projeto Ruby. Isso era uma dificuldade para devs novatos que querem experimentar as maravilhosas peripécias do SASS.
 
- [1]: http://incident57.com/codekit/
- [2]: http://mhs.github.io/scout-app/
- [3]: http://koala-app.com
+ [1]: https://incident57.com/codekit/
+ [2]: https://mhs.github.io/scout-app/
+ [3]: https://koala-app.com

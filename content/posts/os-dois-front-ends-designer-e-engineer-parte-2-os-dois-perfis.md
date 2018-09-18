@@ -116,7 +116,7 @@ Quais as oportunidades que existem? Você vai conseguir responder se experimenta
 
 ### Para ler mais:
 
-* [http://bradfrost.com/blog/post/frontend-design/](http://bradfrost.com/blog/post/frontend-design/ "http://bradfrost.com/blog/post/frontend-design/")
+* [https://bradfrost.com/blog/post/frontend-design/](https://bradfrost.com/blog/post/frontend-design/ "https://bradfrost.com/blog/post/frontend-design/")
 * [https://blog.salsitasoft.com/the-shifting-definition-of-front-end-developer/](https://blog.salsitasoft.com/the-shifting-definition-of-front-end-developer/ "https://blog.salsitasoft.com/the-shifting-definition-of-front-end-developer/")
-* [http://bradfrost.com/blog/post/development-is-design](http://bradfrost.com/blog/post/development-is-design "http://bradfrost.com/blog/post/development-is-design")
+* [https://bradfrost.com/blog/post/development-is-design](https://bradfrost.com/blog/post/development-is-design "https://bradfrost.com/blog/post/development-is-design")
 * [https://medium.freecodecamp.org/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051](https://medium.freecodecamp.org/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051 "https://medium.freecodecamp.org/how-i-landed-a-full-stack-developer-job-without-a-tech-degree-or-work-experience-6add97be2051")

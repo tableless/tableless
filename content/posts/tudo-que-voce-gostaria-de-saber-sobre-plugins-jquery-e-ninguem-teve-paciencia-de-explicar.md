@@ -6,7 +6,7 @@ date: 2012-11-02
 excerpt: Pra você que cansou de ser um mero manipulador de plugins alheios
 url: /tudo-que-voce-gostaria-de-saber-sobre-plugins-jquery-e-ninguem-teve-paciencia-de-explicar/
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5999";s:7:"tinyurl";s:26:"http://tinyurl.com/7ppv8w6";s:4:"isgd";s:19:"http://is.gd/52YlXT";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5999";s:7:"tinyurl";s:26:"https://tinyurl.com/7ppv8w6";s:4:"isgd";s:19:"https://is.gd/52YlXT";}'
 twittercomments:
   - 'a:0:{}'
 tweetbackscheck:
@@ -186,10 +186,10 @@ Lembre-se que o jQuery não é apenas uma caixa preta que faz mágicas pra você
 
 E é isso, espero que depois desse artigo, você tenha evoluido de um simples “manipulador de plugins” para um criador de fato. Até a próxima!
 
- [1]: http://code.jquery.com/jquery-1.7.1.js
- [2]: http://code.jquery.com/jquery-latest.js
- [3]: http://api.jquery.com/jQuery.extend/
- [4]: http://docs.jquery.com/Plugins/Authoring
- [5]: http://jqueryboilerplate.com/
- [6]: http://en.wikipedia.org/wiki/State_(computer_science
- [7]: http://wiki.jqueryui.com/w/page/12138135/Widget%20factory
+ [1]: https://code.jquery.com/jquery-1.7.1.js
+ [2]: https://code.jquery.com/jquery-latest.js
+ [3]: https://api.jquery.com/jQuery.extend/
+ [4]: https://docs.jquery.com/Plugins/Authoring
+ [5]: https://jqueryboilerplate.com/
+ [6]: https://en.wikipedia.org/wiki/State_(computer_science
+ [7]: https://wiki.jqueryui.com/w/page/12138135/Widget%20factory

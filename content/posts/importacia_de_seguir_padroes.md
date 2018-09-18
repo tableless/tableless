@@ -7,7 +7,7 @@ url: /importacia_de_seguir_padroes/
 tweetbackscheck:
   - 1356467058
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/importacia_de_seguir_padroes";s:7:"tinyurl";s:26:"http://tinyurl.com/42chylk";s:4:"isgd";s:19:"http://is.gd/YHuzrx";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/importacia_de_seguir_padroes";s:7:"tinyurl";s:26:"https://tinyurl.com/42chylk";s:4:"isgd";s:19:"https://is.gd/YHuzrx";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031931
@@ -35,5 +35,5 @@ Seguir os padrões é ter apenas ganhos. Ganhos na acessibilidade. Ganhos na man
   
 Seguir padrões é essencial para se manter na frente. Se um site é acessado por 90% do mercado, é um site bom pra caramba, mas um site acessado por 100% do mercado, é melhor ainda.
 
- [1]: http://tableless.com.br/eyesmiles/livros.asp#8571645094
- [2]: http://www.mobilelife.com.br/glossario.asp#wifi
+ [1]: https://tableless.com.br/eyesmiles/livros.asp#8571645094
+ [2]: https://www.mobilelife.com.br/glossario.asp#wifi

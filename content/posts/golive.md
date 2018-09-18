@@ -7,7 +7,7 @@ url: /golive/
 tweetbackscheck:
   - 1355245594
 shorturls:
-  - 'a:3:{s:9:"permalink";s:30:"http://tableless.com.br/golive";s:7:"tinyurl";s:26:"http://tinyurl.com/3gt7zco";s:4:"isgd";s:19:"http://is.gd/S134na";}'
+  - 'a:3:{s:9:"permalink";s:30:"https://tableless.com.br/golive";s:7:"tinyurl";s:26:"https://tinyurl.com/3gt7zco";s:4:"isgd";s:19:"https://is.gd/S134na";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032655
@@ -30,4 +30,4 @@ Notei também que eles estão dando uma atenção especial ao suporte de CSS par
 
 Para quem quiser saber mais, basta visitar: [New Features of GoLive][1]
 
- [1]: http://www.adobe.com/products/golive/newfeatures2.html
+ [1]: https://www.adobe.com/products/golive/newfeatures2.html

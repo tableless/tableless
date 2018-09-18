@@ -8,7 +8,7 @@ url: /web-index/
 tweetbackscheck:
   - 1356399448
 shorturls:
-  - 'a:3:{s:9:"permalink";s:34:"http://tableless.com.br/web-index/";s:7:"tinyurl";s:26:"http://tinyurl.com/c4x34jf";s:4:"isgd";s:19:"http://is.gd/E9TLrl";}'
+  - 'a:3:{s:9:"permalink";s:34:"https://tableless.com.br/web-index/";s:7:"tinyurl";s:26:"https://tinyurl.com/c4x34jf";s:4:"isgd";s:19:"https://is.gd/E9TLrl";}'
 twittercomments:
   - 'a:10:{i:244954623935410176;s:7:"retweet";i:243353795483013121;s:7:"retweet";i:243349547768758273;s:7:"retweet";i:243348014155055104;s:7:"retweet";i:243347850191314944;s:7:"retweet";i:260456006247653377;s:7:"retweet";i:260433563776872448;s:7:"retweet";i:260431230741405696;s:7:"retweet";i:260427159846404096;s:7:"retweet";i:271660571185774593;s:7:"retweet";}'
 tweetcount:
@@ -37,5 +37,5 @@ O Web Index funciona como um termômetro, mostrando qual o ranking do País e su
 
 Vale a pena explorar.
 
- [1]: http://thewebindex.org/
- [2]: http://thewebindex.org/data/index/
+ [1]: https://thewebindex.org/
+ [2]: https://thewebindex.org/data/index/

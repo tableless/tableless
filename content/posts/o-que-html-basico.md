@@ -111,8 +111,8 @@ Mais referências:
   * [Sobre o desenvolvimento web em camadas.][4]
   * [Áudio: Sobre marcação HTML][5]
 
- [1]: http://tableless.com.br/servicos/aula-particular.php "aula particular de html"
- [2]: http://campus.tableless.com.br/?utm_source=Tableless&utm_medium=linkOqueHTML&utm_campaign=linkCampusOnline
- [3]: http://pt.wikipedia.org/wiki/HTML
- [4]: http://wp.me/p1vY5N-kS
- [5]: http://tableless.com.br/drops-2-a-palavra-marcacao-do-html/ "Drops 2 – A palavra Marcação do HTML"
+ [1]: https://tableless.com.br/servicos/aula-particular.php "aula particular de html"
+ [2]: https://campus.tableless.com.br/?utm_source=Tableless&utm_medium=linkOqueHTML&utm_campaign=linkCampusOnline
+ [3]: https://pt.wikipedia.org/wiki/HTML
+ [4]: https://wp.me/p1vY5N-kS
+ [5]: https://tableless.com.br/drops-2-a-palavra-marcacao-do-html/ "Drops 2 – A palavra Marcação do HTML"

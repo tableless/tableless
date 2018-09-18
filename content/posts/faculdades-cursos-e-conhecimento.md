@@ -7,7 +7,7 @@ url: /faculdades-cursos-e-conhecimento/
 tweetbackscheck:
   - 1356464462
 shorturls:
-  - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/faculdades-cursos-e-conhecimento";s:7:"tinyurl";s:26:"http://tinyurl.com/3kbo748";s:4:"isgd";s:19:"http://is.gd/NUHW5f";}'
+  - 'a:3:{s:9:"permalink";s:56:"https://tableless.com.br/faculdades-cursos-e-conhecimento";s:7:"tinyurl";s:26:"https://tinyurl.com/3kbo748";s:4:"isgd";s:19:"https://is.gd/NUHW5f";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037327

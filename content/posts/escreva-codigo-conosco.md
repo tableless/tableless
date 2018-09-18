@@ -19,5 +19,5 @@ O [código do projeto está aqui no GitHub][2], aberto pra todo mundo. Já exist
 
 Agora sim a frase &#8220;O Tableless é feito para e pela comunidade de desenvolvimento web&#8221; ganha mais força. Espero que com mais essa iniciativa, a comunidade possa crescer mais ainda e que outros devs tenham a oportunidade de contribuir também.
 
- [1]: http://sauro.me
- [2]: http://github.com/tableless/tableless
+ [1]: https://sauro.me
+ [2]: https://github.com/tableless/tableless

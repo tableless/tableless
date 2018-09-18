@@ -94,7 +94,7 @@ Conforme vimos, a atualização de tokens de acesso é um recurso muito poderoso
 
 Lembrando que essa é apenas uma das várias formas de implementar o Refresh Token em sua API de Autenticação. Se você procurar, irá encontrar outros modelos de implementação. 
 
-Soluções como o [Identity Server](http://identityserver.io/) já possuem esse e outros recursos de segurança nativos e mais completos, sendo essa demo apenas um modelo simples para implementar autenticação em seu app. 
+Soluções como o [Identity Server](https://identityserver.io/) já possuem esse e outros recursos de segurança nativos e mais completos, sendo essa demo apenas um modelo simples para implementar autenticação em seu app. 
 
 Espero que tenham gostado, e se ficou alguma dúvida ou tenham críticas e sugestões, não deixem de entrar em contato. 
 

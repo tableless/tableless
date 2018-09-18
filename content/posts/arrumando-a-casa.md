@@ -26,4 +26,4 @@ Agora foi a vez do [Tutorial Tableless Básico][1], um dos primeiros estudos que
 
 Ah, eu queria aproveitar para perguntar: vocês elogiaram muito o phpBB, e reclamaram muito do fórum anterior, o Snitz. Qual é a diferença? O que o phpBB tem de tão bom?
 
- [1]: http://tableless.com.br/artigos/tutorial
+ [1]: https://tableless.com.br/artigos/tutorial

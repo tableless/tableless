@@ -7,7 +7,7 @@ url: /alistapart_novo_em_folha/
 tweetbackscheck:
   - 1356345812
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/alistapart_novo_em_folha";s:7:"tinyurl";s:26:"http://tinyurl.com/3wks4g6";s:4:"isgd";s:19:"http://is.gd/i3ZCFT";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/alistapart_novo_em_folha";s:7:"tinyurl";s:26:"https://tinyurl.com/3wks4g6";s:4:"isgd";s:19:"https://is.gd/i3ZCFT";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033400
@@ -21,9 +21,9 @@ Os responsáveis pela reestruturação são: [Jason Santa Maria][2], que fez o n
 
 Não preciso falar nada sobre cada um dos citados acima. O trabalho e a reputação deles falam por si.
 
- [1]: http://alistapart.textdrive.com/
- [2]: http://www.jasonsantamaria.com/archive/2005/08/23/a_list_apart_redesign.php
- [3]: http://www.meyerweb.com/
- [4]: http://www.hivelogic.com/
- [5]: http://www.incisive.nu/
- [6]: http://www.zeldman.com/
+ [1]: https://alistapart.textdrive.com/
+ [2]: https://www.jasonsantamaria.com/archive/2005/08/23/a_list_apart_redesign.php
+ [3]: https://www.meyerweb.com/
+ [4]: https://www.hivelogic.com/
+ [5]: https://www.incisive.nu/
+ [6]: https://www.zeldman.com/

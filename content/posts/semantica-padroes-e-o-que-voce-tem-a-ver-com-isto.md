@@ -93,5 +93,5 @@ Pode parecer um esforço inútil colocar ordem no amontoado gigantesco de dados 
   
 [Periodic Table of the Elements][2]
 
- [1]: http://www.w3.org/html/wg/drafts/html/CR/ "HTML5"
- [2]: http://joshduck.com/periodic-table.html "Periodic Table of the Elements"
+ [1]: https://www.w3.org/html/wg/drafts/html/CR/ "HTML5"
+ [2]: https://joshduck.com/periodic-table.html "Periodic Table of the Elements"

@@ -8,7 +8,7 @@ url: /jquery-metodos-desconhecidos/
 tweetbackscheck:
   - 1356439207
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5315";s:7:"tinyurl";s:26:"http://tinyurl.com/7sf6yg3";s:4:"isgd";s:19:"http://is.gd/3omKze";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5315";s:7:"tinyurl";s:26:"https://tinyurl.com/7sf6yg3";s:4:"isgd";s:19:"https://is.gd/3omKze";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 559084614
@@ -197,7 +197,7 @@ Estes foram alguns métodos que pouca gente conhece ou utiliza. Pode até ser qu
 
 E se você gostou, garanto que ao consultar a [API do jQuery][4] você descobrirá vários outros métodos desconhecidos, mas que podem ser úteis em algum momento do desenvolvimento dos seus projetos.
 
- [1]: http://tableless.com.br/jquery-dicas-de-otimizacao-e-performance/ ""
- [2]: http://api.jquery.com/category/utilities/ ""
- [3]: http://api.jquery.com/jQuery.ajax/ ""
- [4]: http://api.jquery.com/ ""
+ [1]: https://tableless.com.br/jquery-dicas-de-otimizacao-e-performance/ ""
+ [2]: https://api.jquery.com/category/utilities/ ""
+ [3]: https://api.jquery.com/jQuery.ajax/ ""
+ [4]: https://api.jquery.com/ ""

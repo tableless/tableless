@@ -55,11 +55,11 @@ Ouça o podcast aqui:
   * [Redesigning Google: how Larry Page engineered a beautiful&nbsp;revolution][1]
   * [Google’s Design Guru Said Creating Android’s Massive New Redesign Was Like ‘Going To The Moon’][8]
 
- [1]: http://www.theverge.com/2013/1/24/3904134/google-redesign-how-larry-page-engineered-beautiful-revolution
- [2]: http://github.com/locaweb/locawebstyle/
- [3]: http://locaweb.github.com/locawebstyle/
- [4]: http://www.google.com/design/spec/material-design/introduction.html
+ [1]: https://www.theverge.com/2013/1/24/3904134/google-redesign-how-larry-page-engineered-beautiful-revolution
+ [2]: https://github.com/locaweb/locawebstyle/
+ [3]: https://locaweb.github.com/locawebstyle/
+ [4]: https://www.google.com/design/spec/material-design/introduction.html
  [5]: https://www.google.com/events/io/io14videos/79edef8b-96d4-e311-b297-00155d5066d7
- [6]: http://www.google.com/design/
- [7]: http://time.com/2921566/google-android-l-lollipop/
- [8]: http://www.businessinsider.com/matias-duarte-material-design-android-lollipop-2014-11
+ [6]: https://www.google.com/design/
+ [7]: https://time.com/2921566/google-android-l-lollipop/
+ [8]: https://www.businessinsider.com/matias-duarte-material-design-android-lollipop-2014-11

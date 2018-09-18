@@ -95,13 +95,13 @@ Veja os [slides desta palestra no Speaker Deck][9].
 
 E este foi apenas o primeiro dia de conferência! Aguarde o próximo artigo para acompanhar o final da minha saga na W3C Conf. Para saber mais sobre o evento acesse o [site oficial][10]  e acompanhe a hashtag #webbr2013 nas redes sociais. Até breve!
 
- [1]: http://conferenciaweb.w3c.br/ "Conferência Web W3C Brasil"
- [2]: http://jaydson.org/cultura-maldita-no-desenvolvimento-de-software/ "Cultura maldita no desenvolvimento de software"
- [3]: http://www.flickr.com/photos/nicbr/
- [4]: http://tableless.com.br/author/talita-cpb/
- [5]: http://tableless.com.br/author/diego-eis/ "Tableless - Autor - Diego Eis"
- [6]: http://tableless.com.br/author/deividmarques/ "Tableless - Autor - Deivid Marques"
- [7]: http://tableless.com.br/wai-aria-estendendo-o-significado-das-interacoes/#.Uowhg2TXQv4 "Wai-aria estendendo o significado das interacoes"
- [8]: http://loopinfinito.com.br/2013/10/08/css-grid-isso-muda-tudo-de-novo/ "CSS Grid - Isso muda tudo de novo"
+ [1]: https://conferenciaweb.w3c.br/ "Conferência Web W3C Brasil"
+ [2]: https://jaydson.org/cultura-maldita-no-desenvolvimento-de-software/ "Cultura maldita no desenvolvimento de software"
+ [3]: https://www.flickr.com/photos/nicbr/
+ [4]: https://tableless.com.br/author/talita-cpb/
+ [5]: https://tableless.com.br/author/diego-eis/ "Tableless - Autor - Diego Eis"
+ [6]: https://tableless.com.br/author/deividmarques/ "Tableless - Autor - Deivid Marques"
+ [7]: https://tableless.com.br/wai-aria-estendendo-o-significado-das-interacoes/#.Uowhg2TXQv4 "Wai-aria estendendo o significado das interacoes"
+ [8]: https://loopinfinito.com.br/2013/10/08/css-grid-isso-muda-tudo-de-novo/ "CSS Grid - Isso muda tudo de novo"
  [9]: https://speakerdeck.com/loopinfinito/css-layout-o-ontem-o-hoje-e-o-depois "CSS Layout: O ontem, o hoje e o depois"
- [10]: http://conferenciaweb.w3c.br/ "Conferência W3C Web Brasil"
+ [10]: https://conferenciaweb.w3c.br/ "Conferência W3C Web Brasil"

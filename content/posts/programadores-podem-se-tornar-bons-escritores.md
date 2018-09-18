@@ -22,7 +22,7 @@ Hoje aprender a programar é fácil e barato. Existem diversos cursos e a [comun
 
 Com essa facilidade no acesso ao ensino de programação, surge a questão a respeito da semelhança entre aprender a escrever códigos e aprender um novo idioma (inglês, espanhol, alemão).
 
-Ou melhor, qual a semelhança entre as <a href="http://pt.wikipedia.org/wiki/L%C3%ADngua_natural" target="_blank">linguagens naturais</a> e as <a href="http://pt.wikipedia.org/wiki/Lingu%C3%ADstica_computacional" target="_blank">de programação</a>? Desenvolver um software e escrever um livro são coisas parecidas? Afinal de contas, ambas não são atividades de escrita que trabalham com códigos, tendo como objetivo final a comunicação? Por serem acostumados a lidar com semântica, “regras gramaticais” e concisão, programadores poderiam se tornar bons escritores?
+Ou melhor, qual a semelhança entre as <a href="https://pt.wikipedia.org/wiki/L%C3%ADngua_natural" target="_blank">linguagens naturais</a> e as <a href="https://pt.wikipedia.org/wiki/Lingu%C3%ADstica_computacional" target="_blank">de programação</a>? Desenvolver um software e escrever um livro são coisas parecidas? Afinal de contas, ambas não são atividades de escrita que trabalham com códigos, tendo como objetivo final a comunicação? Por serem acostumados a lidar com semântica, “regras gramaticais” e concisão, programadores poderiam se tornar bons escritores?
 
 A discussão é interessante: aplicações hoje são desenvolvidas não apenas para transmitir ideias, mas também para comunicar emoções. Além disso, programadores têm hoje uma vasta influência no campo da comunicação. Vide o que acontece quando o Google ou o Facebook realizam uma modificação em seus algoritmos de conteúdo ou de exibição de publicidade.
 
@@ -44,7 +44,7 @@ Como muitos sabem, meu DNA é na área de comunicação (escrita). Na prática, 
 
 A propósito, existe um princípio no desenvolvimento de código chamado [DRY][3] (Don&#8217;t Repeat Yourself), que é muito similar à atividade de editar um texto na área de comunicação. Esse processo é apoiado na elegância e na não-repetição de código.
 
-Aliás, essa é uma das minhas partes preferidas no processo de escrever códigos. Adoro debugar códigos e aplicar o conceito de DRY, talvez porque em grande parte da minha vida tenha feito exatamente isso, mas no campo da comunicação com <a href="http://pt.wikipedia.org/wiki/L%C3%ADngua_natural" target="_blank">linguagens naturais</a>.
+Aliás, essa é uma das minhas partes preferidas no processo de escrever códigos. Adoro debugar códigos e aplicar o conceito de DRY, talvez porque em grande parte da minha vida tenha feito exatamente isso, mas no campo da comunicação com <a href="https://pt.wikipedia.org/wiki/L%C3%ADngua_natural" target="_blank">linguagens naturais</a>.
 
 Mas onde vamos chegar com todo esse debate sobre linguagens naturais, programação e comunicação? Bom, vou compartilhar com vocês o que tenho visto por aqui, em Boston. As barreiras entre todas as áreas do conhecimento vêm desmoronando numa rapidez tremenda. Não será nenhuma surpresa se daqui a algum tempo projetos que veem a programação como um processo criativo busquem programadores em faculdades de letras e de comunicação.
 
@@ -52,8 +52,8 @@ Por outro lado, há um movimento já consolidado de programadores entrarem na �
 
 É muito positivo que programadores se encarem como comunicadores e escritores. Geralmente, programadores que se veem assim se tornam competentes profissionais, tendo como princípio a concisão, a clareza e a elegância em seu trabalho. No final das contas, quem lucra com toda essa postura é o usuário final, que ganha acesso a melhores serviços baseados em software para resolver, sem demora ou frustrações, os seus problemas.
 
-_PS &#8211; Quem quiser se aprofundar mais no assunto vale acompanhar o trabalho do cientista da computação <a href="http://www-cs-faculty.stanford.edu/~uno/" target="_blank">Donald Knuth</a>, que há décadas pesquisa a relação entre literatura, estética e programação._
+_PS &#8211; Quem quiser se aprofundar mais no assunto vale acompanhar o trabalho do cientista da computação <a href="https://www-cs-faculty.stanford.edu/~uno/" target="_blank">Donald Knuth</a>, que há décadas pesquisa a relação entre literatura, estética e programação._
 
  [1]: https://www.youtube.com/watch?v=Ok6LbV6bqaE
- [2]: http://github.com
- [3]: http://tableless.com.br/?s=DRY
+ [2]: https://github.com
+ [3]: https://tableless.com.br/?s=DRY

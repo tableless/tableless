@@ -7,7 +7,7 @@ url: /wii-usando-opera/
 tweetbackscheck:
   - 1356434013
 shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/wii-usando-opera";s:7:"tinyurl";s:26:"http://tinyurl.com/4yv5y3x";s:4:"isgd";s:19:"http://is.gd/N0kXh6";}'
+  - 'a:3:{s:9:"permalink";s:40:"https://tableless.com.br/wii-usando-opera";s:7:"tinyurl";s:26:"https://tinyurl.com/4yv5y3x";s:4:"isgd";s:19:"https://is.gd/N0kXh6";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035398
@@ -44,10 +44,10 @@ Tá na hora pensar fora da caixa. Usar internet na frente de um computador está
   
 ][7]
 
- [1]: http://opera.com/pressreleases/en/2006/05/10/
- [2]: http://wii.nintendo.com/home.html
- [3]: http://nintendo.com/
- [4]: http://opera.com/
- [5]: http://wii.nintendo.com/
- [6]: http://getfirefox.com/
- [7]: http://opera.com/products/devices/
+ [1]: https://opera.com/pressreleases/en/2006/05/10/
+ [2]: https://wii.nintendo.com/home.html
+ [3]: https://nintendo.com/
+ [4]: https://opera.com/
+ [5]: https://wii.nintendo.com/
+ [6]: https://getfirefox.com/
+ [7]: https://opera.com/products/devices/

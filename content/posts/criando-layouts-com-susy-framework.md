@@ -24,7 +24,7 @@ Com a alta demanda e prazos cada vez menores somos obrigados a trabalhar cada ve
 
 Susy é um framework que permite criar grids de acordo com as necessidades do seu site. Diferente de outros como Bootstrap e Foundation, você não vai precisar importar um arquivo cheio de classes em que vai usar apenas algumas delas. O Susy trabalha direto no estilo das classes que você definiu e personalizou.
 
-Para começar a usá-lo você precisa ter o Sass instalado e o mínimo de conhecimento sobre ele. Não vou me aprofundar em Sass, pois não é o foco desse artigo, mas para quem tiver alguma dúvida a respeito pode ver uma série de <a href="http://goo.gl/PmuwuA" target="_blank">artigos</a> aqui mesmo no Tableless.
+Para começar a usá-lo você precisa ter o Sass instalado e o mínimo de conhecimento sobre ele. Não vou me aprofundar em Sass, pois não é o foco desse artigo, mas para quem tiver alguma dúvida a respeito pode ver uma série de <a href="https://goo.gl/PmuwuA" target="_blank">artigos</a> aqui mesmo no Tableless.
 
 Agora que já sabemos do que se trata vamos começar a desenvolver nosso layout com Susy.
 
@@ -199,6 +199,6 @@ Por fim vamos apenas remover do Susy Map a linha que exibe os grids:
 
 <pre class="lang-sass">debug: (image: show),</pre>
 
-Pronto, finalizamos o nosso layout, fácil não é?! Esse projeto foi bem simples apenas para apresentar o framework e mostrar como funciona, mas não pare por aí, faça o <a href="https://github.com/felipecesr/layout-susy-framework" target="_blank">download do código</a>, brinque com ele, acesse a documentação do <a href="http://susydocs.oddbird.net/en/latest/" target="_blank">Susy</a> e conheça outros recursos que podem te ajudar bastante no desenvolvimento.
+Pronto, finalizamos o nosso layout, fácil não é?! Esse projeto foi bem simples apenas para apresentar o framework e mostrar como funciona, mas não pare por aí, faça o <a href="https://github.com/felipecesr/layout-susy-framework" target="_blank">download do código</a>, brinque com ele, acesse a documentação do <a href="https://susydocs.oddbird.net/en/latest/" target="_blank">Susy</a> e conheça outros recursos que podem te ajudar bastante no desenvolvimento.
 
 Espero que tenham gostado do artigo, bons estudos!

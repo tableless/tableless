@@ -7,18 +7,18 @@ url: /podcast_especial_digitalminds/
 enclosure:
   - |
     |
-        http://tableless.com.br/anexo/podcastespecial3.mp3
+        https://tableless.com.br/anexo/podcastespecial3.mp3
         
   - |
     |
-        http://tableless.com.br/podcast/podcastespecial3.mp3
+        https://tableless.com.br/podcast/podcastespecial3.mp3
         9829160
         audio/mpeg
         
 tweetbackscheck:
   - 1354994214
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/podcast_especial_digitalminds";s:7:"tinyurl";s:26:"http://tinyurl.com/455ndj8";s:4:"isgd";s:19:"http://is.gd/rzzEpT";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/podcast_especial_digitalminds";s:7:"tinyurl";s:26:"https://tinyurl.com/455ndj8";s:4:"isgd";s:19:"https://is.gd/rzzEpT";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033089
@@ -34,10 +34,10 @@ Clique aqui para baixar o [MP3][6].
   
 E o RSS com Podcast do tableless, você pode [assinar por aqui][7].
 
- [1]: http://tableless.com.br/eyesmiles/
- [2]: http://www.elcio.com.br/
- [3]: http://brunotorres.net/
- [4]: http://www.mobilelife.com.br/
- [5]: http://www.digitalminds.com.br/
- [6]: http://tableless.com.br/podcast/podcastespecial3.mp3
- [7]: http://tableless.com.br/rss.asp
+ [1]: https://tableless.com.br/eyesmiles/
+ [2]: https://www.elcio.com.br/
+ [3]: https://brunotorres.net/
+ [4]: https://www.mobilelife.com.br/
+ [5]: https://www.digitalminds.com.br/
+ [6]: https://tableless.com.br/podcast/podcastespecial3.mp3
+ [7]: https://tableless.com.br/rss.asp

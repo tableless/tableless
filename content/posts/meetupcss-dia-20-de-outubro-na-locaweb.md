@@ -24,5 +24,5 @@ Os detalhes podem ser [vistos aqui][1]. Vai ter pizza. Vai ter refri. Vai ter br
 
 Eles abrirão 10 vagas exclusivas para quem estiver indo no Meetup pela primeira vez. Os 10 primeiros que enviarem e-mail para meetup.css@gmail.com com o assunto meetup #10, terão sua participação confirmada. É importante ter cadastro no site do Meetup.com e enviar no e-mail o nome completo e RG para questões de acesso ao local (se tiver alguma dúvida ou caso não possa ir, libere sua vaga para outra pessoa; para mais informações leia o tópico Confirmações abaixo).
 
- [1]: http://www.meetup.com/pt/CSS-SP/events/225755287/?eventId=225755287
- [2]: http://maps.google.com/maps?f=q&hl=en&q=Rua+Itapaiúna%2C+2434%2C+São+Paulo%2C+br
+ [1]: https://www.meetup.com/pt/CSS-SP/events/225755287/?eventId=225755287
+ [2]: https://maps.google.com/maps?f=q&hl=en&q=Rua+Itapaiúna%2C+2434%2C+São+Paulo%2C+br

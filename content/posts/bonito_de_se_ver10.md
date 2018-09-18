@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356392565
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/bonito_de_se_ver10";s:7:"tinyurl";s:26:"http://tinyurl.com/42bsp34";s:4:"isgd";s:19:"http://is.gd/xicT6z";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/bonito_de_se_ver10";s:7:"tinyurl";s:26:"https://tinyurl.com/42bsp34";s:4:"isgd";s:19:"https://is.gd/xicT6z";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033131
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.weeklyread.com/>
-  2. <http://www.webgraph.com/>
-  3. <http://pandora.alexsancho.name/>
-  4. <http://www.coldtreepress.com/>
-  5. <http://www.bradtuckman.com/>
+  1. <https://www.weeklyread.com/>
+  2. <https://www.webgraph.com/>
+  3. <https://pandora.alexsancho.name/>
+  4. <https://www.coldtreepress.com/>
+  5. <https://www.bradtuckman.com/>

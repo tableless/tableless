@@ -278,26 +278,26 @@ Além de um website, redes sociais e e-mails existem muitos outros recursos de m
   
 [10 Ways To Incorporate Storytelling In Web Design][23]
 
- [1]: http://www.nytimes.com/2012/03/18/opinion/sunday/the-neuroscience-of-your-brain-on-fiction.html "Your Brain on Fiction"
- [2]: http://www.apple.com/br/iphone/ "Apple iPhone"
- [3]: http://www.apple.com/br/iphone/
- [4]: http://benthebodyguard.com "Ben - The Bodyguard"
- [5]: http://benthebodyguard.com
- [6]: http://jessandruss.us/ "The Story of Jess and Druss"
- [7]: http://jessandruss.us/
- [8]: http://pt.wikipedia.org/wiki/Gamebook "Gamebook"
- [9]: http://ats-vs-world.cadillac.com/ "Cadillac ATS vs The World"
- [10]: http://ats-vs-world.cadillac.com/
+ [1]: https://www.nytimes.com/2012/03/18/opinion/sunday/the-neuroscience-of-your-brain-on-fiction.html "Your Brain on Fiction"
+ [2]: https://www.apple.com/br/iphone/ "Apple iPhone"
+ [3]: https://www.apple.com/br/iphone/
+ [4]: https://benthebodyguard.com "Ben - The Bodyguard"
+ [5]: https://benthebodyguard.com
+ [6]: https://jessandruss.us/ "The Story of Jess and Druss"
+ [7]: https://jessandruss.us/
+ [8]: https://pt.wikipedia.org/wiki/Gamebook "Gamebook"
+ [9]: https://ats-vs-world.cadillac.com/ "Cadillac ATS vs The World"
+ [10]: https://ats-vs-world.cadillac.com/
  [11]: https://www.dropbox.com/tour "Dropbox Tour"
  [12]: https://www.dropbox.com/tour
- [13]: http://tableless.com.br/personalidade-no-design/ "Personalidade no Design"
- [14]: http://www.google.com/landing/now/ "Google Now"
- [15]: http://www.google.com/landing/now/
- [16]: http://www.flickr.com/ "Flickr"
- [17]: http://forefathersgroup.com/ "Forefathers Group"
- [18]: http://forefathersgroup.com/
- [19]: http://www.meumovel.com.br/mkt-mmm/email-mkt/2013/mar/minha-casa-nova-estar/minha-casa-nova-estar.html "E-mail marketing - Minha casa nova"
- [20]: http://www.meumovel.com.br/mkt-mmm/email-mkt/2013/mar/minha-casa-nova-estar/minha-casa-nova-estar.html
+ [13]: https://tableless.com.br/personalidade-no-design/ "Personalidade no Design"
+ [14]: https://www.google.com/landing/now/ "Google Now"
+ [15]: https://www.google.com/landing/now/
+ [16]: https://www.flickr.com/ "Flickr"
+ [17]: https://forefathersgroup.com/ "Forefathers Group"
+ [18]: https://forefathersgroup.com/
+ [19]: https://www.meumovel.com.br/mkt-mmm/email-mkt/2013/mar/minha-casa-nova-estar/minha-casa-nova-estar.html "E-mail marketing - Minha casa nova"
+ [20]: https://www.meumovel.com.br/mkt-mmm/email-mkt/2013/mar/minha-casa-nova-estar/minha-casa-nova-estar.html
  [21]: https://shop.smashingmagazine.com/smashing-book-one-third-digital.html?pk_campaign=smashing-magazine-ebooks-tab# "Smashing Book #3 1/3"
- [22]: http://uxdesign.smashingmagazine.com/2010/02/11/better-user-experience-through-storytelling-part-2/ "Better User Experience with Storytelling"
- [23]: http://blog.usabilla.com/10-ways-to-incorporate-storytelling-in-web-design/ "10 ways to incorporate storytelling in web-design"
+ [22]: https://uxdesign.smashingmagazine.com/2010/02/11/better-user-experience-through-storytelling-part-2/ "Better User Experience with Storytelling"
+ [23]: https://blog.usabilla.com/10-ways-to-incorporate-storytelling-in-web-design/ "10 ways to incorporate storytelling in web-design"

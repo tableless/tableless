@@ -6,13 +6,13 @@ date: 2006-09-28
 url: /podcast-tableless-23-mobi/
 enclosure:
   - |
-    http://tableless.com.br/podcast/podcast-tableless-23.mp3
+    https://tableless.com.br/podcast/podcast-tableless-23.mp3
     10830410
     audio/mpeg
 tweetbackscheck:
   - 1356453938
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/podcast-tableless-23-mobi";s:7:"tinyurl";s:26:"http://tinyurl.com/3jk5gug";s:4:"isgd";s:19:"http://is.gd/gamh0A";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/podcast-tableless-23-mobi";s:7:"tinyurl";s:26:"https://tinyurl.com/3jk5gug";s:4:"isgd";s:19:"https://is.gd/gamh0A";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036045
@@ -96,12 +96,12 @@ Leia mais sobre o assunto:
 
 **Obs.:** Acho que este podcast foi o melhor em nível de qualidade de audio. A musiquinha de início vai ser sempre essa e vamos melhorar o enredo no caminho. Mas gostei do resultado final. Não vou mais me preocupar tanto com o tamanho de arquivo. Vou prezar mais pela qualidade de audio. Acho que é mais interessante.
 
- [1]: http://tableless.com.br/podcast/podcast-tableless-23.mp3
- [2]: http://www.w3.org/DesignIssues/TLD
- [3]: http://pc.mtld.mobi/
- [4]: http://www.icann.org/tlds/stld-apps-19mar04/mobi.htm
- [5]: http://web-graphics.com/mtarchive/001474.php
- [6]: http://www.theregister.co.uk/2006/05/22/mobi_domain/
- [7]: http://www.w3.org/2001/di/
- [8]: http://news.com.com/Dot-mobi+domain+for+mobile+devices+hits+the+Web/2100-1039_3-6075779.html
- [9]: http://news.com.com/5208-1039-0.html?forumID=1&threadID=17341&messageID=178833&start=-1
+ [1]: https://tableless.com.br/podcast/podcast-tableless-23.mp3
+ [2]: https://www.w3.org/DesignIssues/TLD
+ [3]: https://pc.mtld.mobi/
+ [4]: https://www.icann.org/tlds/stld-apps-19mar04/mobi.htm
+ [5]: https://web-graphics.com/mtarchive/001474.php
+ [6]: https://www.theregister.co.uk/2006/05/22/mobi_domain/
+ [7]: https://www.w3.org/2001/di/
+ [8]: https://news.com.com/Dot-mobi+domain+for+mobile+devices+hits+the+Web/2100-1039_3-6075779.html
+ [9]: https://news.com.com/5208-1039-0.html?forumID=1&threadID=17341&messageID=178833&start=-1

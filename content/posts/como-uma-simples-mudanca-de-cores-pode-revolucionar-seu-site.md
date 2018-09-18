@@ -16,7 +16,7 @@ tags:
 ---
 Acredito que muitos de nós estamos na batalha diária desenvolvendo projetos para se realizar profissionalmente, sustentar nossas famílias, entre outras razões particulares. Entretanto existem também os objetivos relacionados às nossas funções que motivam, ou deveriam motivar, nossas ações para que os resultados de nossos projetos nos realizem e tragam reconhecimento.
 
-E uma meta primordial que faz com que todo profissional web atinja parte destes objetivos é desenvolver projetos com foco no usuário, como já foi citado <a href="http://tableless.com.br/nada-de-capa-quando-a-firula-e-mais-do-que-a-funcao/" target="_blank">neste excelente artigo</a> aqui no Tableless.
+E uma meta primordial que faz com que todo profissional web atinja parte destes objetivos é desenvolver projetos com foco no usuário, como já foi citado <a href="https://tableless.com.br/nada-de-capa-quando-a-firula-e-mais-do-que-a-funcao/" target="_blank">neste excelente artigo</a> aqui no Tableless.
 
 É óbvio que o foco no usuário é a menina-dos-olhos de todo projeto web. Para isso, toda equipe (ou equipe de um homem só) se concentra em construir conteúdos maravilhosos, interfaces tão bem projetadas que “parecem imperceptíveis” para o usuário. Lembro que um erro de usabilidade pode ser algo perceptível.
 
@@ -55,7 +55,7 @@ Veja bem. Não estou dizendo que a culpa do baixo retorno de um projeto é o des
 
 ## Utilizando o Design aplicado a conversões
 
-Aqui mesmo no Tableless já foi falado sobre <a href="http://tableless.com.br/7-dicas-de-otimizacao-de-conversao-em-landing-pages/" target="_blank">otimização de conversões<b> </b>através de landing pages</a>. Para quem não sabe, conversão é o resultado de um objetivo traçado, por exemplo, uma venda, um cadastro, entre outros. E _landing pages_ são páginas de aterrissagem construídas para direcionar tráfego com objetivo o dos usuários tomarem uma ação (cadastro em formulário, clique, etc.) e que traga um resultado esperado (captação de e-mails, vendas, etc).
+Aqui mesmo no Tableless já foi falado sobre <a href="https://tableless.com.br/7-dicas-de-otimizacao-de-conversao-em-landing-pages/" target="_blank">otimização de conversões<b> </b>através de landing pages</a>. Para quem não sabe, conversão é o resultado de um objetivo traçado, por exemplo, uma venda, um cadastro, entre outros. E _landing pages_ são páginas de aterrissagem construídas para direcionar tráfego com objetivo o dos usuários tomarem uma ação (cadastro em formulário, clique, etc.) e que traga um resultado esperado (captação de e-mails, vendas, etc).
 
 <img class="alignnone wp-image-52134 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/11/iMac-Office.png" alt="Design não é apenas o que parece e o que se sente. Design é como funciona - Steve Jobs" width="620" height="413" />
 
@@ -67,7 +67,7 @@ _Squeeze Page_ é um tipo de _landing page_ específica, objetiva, com poucas di
 
 As _squeeze pages_ &#8220;comprimem&#8221; visitantes de seu tráfego para dentro do funil de vendas. Posteriormente é possível transformá-los em &#8220;_leads_ qualificados&#8221; através de relacionamento, para deixá-los aptos a receber ofertas.
 
-Mas nenhum tipo de _landing page_ é eficiente se não a otimizarmos para conversão. A otimização pode aumentar a conversão de um projeto em significantes porcentagens. Existem <a href="http://chiefofdesign.com.br/testes-ab-taxas-de-conversao/" target="_blank">relatos de incrementos de 52% até 134%</a>.
+Mas nenhum tipo de _landing page_ é eficiente se não a otimizarmos para conversão. A otimização pode aumentar a conversão de um projeto em significantes porcentagens. Existem <a href="https://chiefofdesign.com.br/testes-ab-taxas-de-conversao/" target="_blank">relatos de incrementos de 52% até 134%</a>.
 
 E como isto é feito? Através de testes de versões.
 
@@ -92,7 +92,7 @@ Veja este estudo:
 
 **Teste de cores com botão na página inicial do site da Performable**
 
-Durante um <a href="http://Teste de cores com botão na página inicial do site da Performable Durante um <a>teste</a> com um total de 2.000 visitas a equipe da Perfomable [http://blog.hubspot.com/blog/tabid/6307/bid/20566/The-Button-Color-A-B-Test-Red-Beats-Green.aspx] queria avaliar qual botão obteria mais cliques entre duas versões de páginas. A página original possuía um botão verde que correspondia também a cor verde usada também no padrão visual usado no logo da empresa. Foi definido na versão concorrente um botão vermelho, o resto do layout era totalmente igual. Sabe qual foi o resultado? 21% a mais pessoas clicaram no botão vermelho em relação ao botão verde." target="_blank">teste com um total de 2.000 visitas</a> a equipe da Perfomable queria avaliar qual botão obteria mais cliques entre duas versões de páginas. A página original possuía um botão verde que correspondia também a cor verde usada no padrão visual do logotipo da empresa. Foi definido na versão concorrente um botão vermelho, sendo o resto do layout totalmente igual. Sabe qual foi o resultado?
+Durante um <a href="https://Teste de cores com botão na página inicial do site da Performable Durante um <a>teste</a> com um total de 2.000 visitas a equipe da Perfomable [https://blog.hubspot.com/blog/tabid/6307/bid/20566/The-Button-Color-A-B-Test-Red-Beats-Green.aspx] queria avaliar qual botão obteria mais cliques entre duas versões de páginas. A página original possuía um botão verde que correspondia também a cor verde usada também no padrão visual usado no logo da empresa. Foi definido na versão concorrente um botão vermelho, o resto do layout era totalmente igual. Sabe qual foi o resultado? 21% a mais pessoas clicaram no botão vermelho em relação ao botão verde." target="_blank">teste com um total de 2.000 visitas</a> a equipe da Perfomable queria avaliar qual botão obteria mais cliques entre duas versões de páginas. A página original possuía um botão verde que correspondia também a cor verde usada no padrão visual do logotipo da empresa. Foi definido na versão concorrente um botão vermelho, sendo o resto do layout totalmente igual. Sabe qual foi o resultado?
 
 21% a mais pessoas clicaram no botão vermelho em relação ao botão verde.<img class="alignnone wp-image-52133 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/11/teste-ab-pratica.png" alt="Exemplo de Teste A/B" width="620" height="817" />
 
@@ -100,20 +100,20 @@ Muitos escolhem cores aleatórias para competir com a página da versão origin
 
 Com o _design_ aplicado à conversão, as decisões de otimização tem critérios mais elaborados, baseado nos conceitos de _design_, sem achismos. Com isso, você obtém resultados mais certeiros logo nos primeiros testes.
 
-Acredito que a decisão acertada da equipe de Perfomable foi devido a critérios baseados em conceitos de _design_ e não uma escolha qualquer. Conceitos sobre contrastes encontrados na <a href="https://pt.wikipedia.org/wiki/Teoria_das_cores" target="_blank">Teoria de Cores</a> e <a href="http://www.designculture.com.br/leis-da-gestalt-unidade-e-segregacao/" target="_blank">Segregação de Gestalt</a> do objeto justificam escolher a cor vermelha. Veja mais nesta explicação de um minuto em vídeo que gravei:
+Acredito que a decisão acertada da equipe de Perfomable foi devido a critérios baseados em conceitos de _design_ e não uma escolha qualquer. Conceitos sobre contrastes encontrados na <a href="https://pt.wikipedia.org/wiki/Teoria_das_cores" target="_blank">Teoria de Cores</a> e <a href="https://www.designculture.com.br/leis-da-gestalt-unidade-e-segregacao/" target="_blank">Segregação de Gestalt</a> do objeto justificam escolher a cor vermelha. Veja mais nesta explicação de um minuto em vídeo que gravei:
 
 
 
 Poderíamos ter um ótimo resultado usando uma cor com pouco destaque em relação ao verde? Talvez! Porém só da para saber testando. Então pergunto: você prefere economizar tempo e dinheiro com critério ou adotar achismos?
 
-Bem-vindo ao mundo da otimização, dos testes A/B e do _design_ aplicado a conversão. Para saber mais, sugiro conferir este <a href="http://designfreela.com/" target="_blank">infográfico</a>**.**
+Bem-vindo ao mundo da otimização, dos testes A/B e do _design_ aplicado a conversão. Para saber mais, sugiro conferir este <a href="https://designfreela.com/" target="_blank">infográfico</a>**.**
 
 **O Design tem esse poder, não desperdice.**
 
 **Referências:**
 
-<a href="http://chiefofdesign.com.br/design-para-conversao/" target="_blank">Design para conversão</a>
+<a href="https://chiefofdesign.com.br/design-para-conversao/" target="_blank">Design para conversão</a>
 
-<a href="http://designfreela.com/" target="_blank">Infográfico Design para Conversão &#8211; Saiba como não FERRAR com a conversão dos seus layouts e com os projetos dos seus clientes</a>
+<a href="https://designfreela.com/" target="_blank">Infográfico Design para Conversão &#8211; Saiba como não FERRAR com a conversão dos seus layouts e com os projetos dos seus clientes</a>
 
-<a href="http://blog.hubspot.com/blog/tabid/6307/bid/20566/The-Button-Color-A-B-Test-Red-Beats-Green.aspx" target="_blank">The Button Color A/B Test: Red Beats Green</a>
+<a href="https://blog.hubspot.com/blog/tabid/6307/bid/20566/The-Button-Color-A-B-Test-Red-Beats-Green.aspx" target="_blank">The Button Color A/B Test: Red Beats Green</a>

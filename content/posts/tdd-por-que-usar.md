@@ -17,7 +17,7 @@ tags:
   - xUnit
 
 ---
-TDD é o desenvolvimento de software orientado a testes, ou em inglês, <a title="Test Driven Development" href="http://pt.wikipedia.org/wiki/Test_Driven_Development" target="_blank">Test Driven Development</a>. Mas mais do que simplesmente testar seu código, TDD é uma filosofia, uma cultura. Neste artigo você conhecerá um pouco sobre sua motivação e também saberá os fatores que contribuem e dificultam sua prática.
+TDD é o desenvolvimento de software orientado a testes, ou em inglês, <a title="Test Driven Development" href="https://pt.wikipedia.org/wiki/Test_Driven_Development" target="_blank">Test Driven Development</a>. Mas mais do que simplesmente testar seu código, TDD é uma filosofia, uma cultura. Neste artigo você conhecerá um pouco sobre sua motivação e também saberá os fatores que contribuem e dificultam sua prática.
 
 ## Por que muitos não praticam?
 
@@ -81,6 +81,6 @@ Como ficou claro a prática do desenvolvimento orientado a testes pode ser penos
 
 Em suma tudo vai depender to porte do projeto em que se está trabalhando, da cultura da empresa e da vontade de programadores mas sabe-se que quem utiliza TDD reconhece suas vantagens.
 
-Agora que você já tem uma noção do que é TDD, suas vantagens e desvantagens, sugiro a ler sobre <a title="xUnit - Framework de testes unitários" href="http://www.martinfowler.com/bliki/Xunit.html" target="_blank">xUnit</a>. O xUnit é um framework de testes disponível para várias linguagens de programação. Em PHP temos o <a title="PHPUnit - Framework de testes unitários para PHP" href="http://phpunit.de/manual/3.7/pt_br/automating-tests.html" target="_blank">PHPUnit</a>, em java o <a title="jUnit - Framework de testes unitários para Java" href="http://junit.org/" target="_blank">jUnit</a> e demais linguagens possuem seus frameworks que tem a mesma finalidade, criar um ecossistema para que o programador desenvolva orientando-se a testes.
+Agora que você já tem uma noção do que é TDD, suas vantagens e desvantagens, sugiro a ler sobre <a title="xUnit - Framework de testes unitários" href="https://www.martinfowler.com/bliki/Xunit.html" target="_blank">xUnit</a>. O xUnit é um framework de testes disponível para várias linguagens de programação. Em PHP temos o <a title="PHPUnit - Framework de testes unitários para PHP" href="https://phpunit.de/manual/3.7/pt_br/automating-tests.html" target="_blank">PHPUnit</a>, em java o <a title="jUnit - Framework de testes unitários para Java" href="https://junit.org/" target="_blank">jUnit</a> e demais linguagens possuem seus frameworks que tem a mesma finalidade, criar um ecossistema para que o programador desenvolva orientando-se a testes.
 
 &nbsp;

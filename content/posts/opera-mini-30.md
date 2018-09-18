@@ -7,7 +7,7 @@ url: /opera-mini-30/
 tweetbackscheck:
   - 1356454128
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/opera-mini-30";s:7:"tinyurl";s:26:"http://tinyurl.com/3n7vcyx";s:4:"isgd";s:19:"http://is.gd/IGjFXZ";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/opera-mini-30";s:7:"tinyurl";s:26:"https://tinyurl.com/3n7vcyx";s:4:"isgd";s:19:"https://is.gd/IGjFXZ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036364
@@ -29,11 +29,11 @@ Um tempo atrás eu fiz um video mostrando o Opera Mini em ação. Você pode dar
 
 Se quiser ler mais sobre, o [Meio Bit][7] também escreveu um pequeno review sobre o [Opera Mini 3][1]. Dá um pulo lá: [Opera Mini Versão 3.0][8].
 
- [1]: http://www.operamini.com/
- [2]: http://www.operamini.com/features/photoblog/
- [3]: http://www.operamini.com/features/security/
- [4]: http://www.operamini.com/features/rss/
- [5]: http://www.operamini.com/features/folding/
- [6]: http://tableless.com.br/video-tutorial-11
- [7]: http://meiobit.com
- [8]: http://www.meiobit.com/software/opera_mini_versao_3_0
+ [1]: https://www.operamini.com/
+ [2]: https://www.operamini.com/features/photoblog/
+ [3]: https://www.operamini.com/features/security/
+ [4]: https://www.operamini.com/features/rss/
+ [5]: https://www.operamini.com/features/folding/
+ [6]: https://tableless.com.br/video-tutorial-11
+ [7]: https://meiobit.com
+ [8]: https://www.meiobit.com/software/opera_mini_versao_3_0

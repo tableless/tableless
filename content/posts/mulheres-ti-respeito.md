@@ -9,7 +9,7 @@ categories:
   - Na Prática
   - Artigos
   - Tecnologia e Tendências
-image: http://i.imgur.com/nrRWK4S.jpg
+image: https://i.imgur.com/nrRWK4S.jpg
 ---
 
 Faz algum tempo que tenho me dedicado a não escrever tantos artigos técnicos. Se você perceber, tenho escrito cada vez menos artigos falando sobre linhas de código e mais artigos falando sobre comportamento, mercado e carreira. Tenho feito isso por vários motivos, mas o mais básico é que eu acho que o mercado precisa amadurecer em outros pontos que nada tem a ver com a parte técnica. 
@@ -34,34 +34,34 @@ Para finalizar esse rap, é interessante que você saiba e divulgue as iniciativ
 ### Mulheres para seguir
 Algumas heroínas que você deveria seguir. Elas manjam MUITO sobre desenvolvimento web, sobre cultura feminina, mercado e carreira. 
 
-- [Talita Pagani](http://talitapagani.com/)
+- [Talita Pagani](https://talitapagani.com/)
 - [Alda Rocha](https://mjcoffeeholick.github.io/)
 - [Vanessa Me Tonini](https://github.com/vanessametonini)
 - [Aline Bastos](https://twitter.com/AlineBastos)
 - [Livia Amorim](https://t.co/93wjxzJZJP)
-- [Evelyn](http://transnerd.com.br/)
-- [Iana Chan](http://www.programaria.org/)
-- [Débora Cardu](http://twitter.com/deboracardu)
+- [Evelyn](https://transnerd.com.br/)
+- [Iana Chan](https://www.programaria.org/)
+- [Débora Cardu](https://twitter.com/deboracardu)
 - [Andréa Zambrana](https://twitter.com/akfzambrana)
 - [Roberta Arcoverde](https://twitter.com/rla4)
 - [Bianca Brancaleone](https://twitter.com/biab)
 - [Amanda Rover](https://github.com/amandarover)
 - [Daniela Araujo](https://twitter.com/nyan07)
 
-E uma menção especial para duas das mulheres que mais admiro nesse mundão das interwebs: [Lucia Freitas](https://ladybugbrazil.com/) e a [Simone Villas Boas](http://s1mone.net/). 
+E uma menção especial para duas das mulheres que mais admiro nesse mundão das interwebs: [Lucia Freitas](https://ladybugbrazil.com/) e a [Simone Villas Boas](https://s1mone.net/). 
 
 
 ### Iniciativas
 Algumas iniciativas destinadas para as mulheres ou lideradas por mulheres:
 
 - [Luluzinha Camp](https://www.luluzinhacamp.com/)
-- [Rails Girls](http://railsgirls.com/)
-- [Programaria](http://www.programaria.org/)
-- [Projeto Devas](http://twitter.com/projetodevas)
+- [Rails Girls](https://railsgirls.com/)
+- [Programaria](https://www.programaria.org/)
+- [Projeto Devas](https://twitter.com/projetodevas)
 - [Codamos](https://www.meetup.com/pt-BR/Codamos-Club/)
 - [Code Like a Girl](https://twitter.com/CodeLikeAGirlBR)
 - [Senai Code Experience](https://codexp.sp.senai.br/)
-- [Mulheres Palestrantes](http://insideoutproject.xyz/mulheres-palestrantes/)
+- [Mulheres Palestrantes](https://insideoutproject.xyz/mulheres-palestrantes/)
 - [PodProgramar](https://mundopodcast.com.br/podprogramar/)
 - [Women Techmakers](https://www.womentechmakers.com/)
 
@@ -72,7 +72,7 @@ Alguns artigos sobre poder feminino no mercado de TI:
 - [Mulheres na TI: codando a igualdade](https://imasters.com.br/desenvolvimento/mulheres-na-ti-codando-igualdade/)
 - [Ajudando Mulheres a se tornarem Palestrantes TECH — #1 Desconstrução do Medo](https://medium.com/@bernarddeluna/ajudando-mulheres-a-se-tornarem-palestrantes-tech-1-desconstrução-do-medo-2a2c4e3c33cb)
 - [Todos nós deveríamos ser feministas | Chimamanda Ngozi Adichie | TEDxEuston](https://www.youtube.com/watch?v=hg3umXU_qWc)
-- [Como organizamos o Rails Girls e como você pode começar a programar](http://shipit.resultadosdigitais.com.br/blog/como-organizamos-o-rails-girls-e-como-voce-pode-comecar-a-programar/)
+- [Como organizamos o Rails Girls e como você pode começar a programar](https://shipit.resultadosdigitais.com.br/blog/como-organizamos-o-rails-girls-e-como-voce-pode-comecar-a-programar/)
 - [Comitê de Diversidade](https://braziljs.org/comite-de-diversidade/)
 - [Empoderamento feminino | Maíra Liguori](https://www.youtube.com/watch?v=0HBeBrp3xJc)
 - [The TechGirlz Manifesto](https://code.likeagirl.io/the-techgirlz-manifesto-20a0b798bc19)

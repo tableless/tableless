@@ -7,7 +7,7 @@ url: /elpi-problema-3/
 tweetbackscheck:
   - 1356432860
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/elpi-problema-3";s:7:"tinyurl";s:26:"http://tinyurl.com/3zr2gzp";s:4:"isgd";s:19:"http://is.gd/zFyyDS";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/elpi-problema-3";s:7:"tinyurl";s:26:"https://tinyurl.com/3zr2gzp";s:4:"isgd";s:19:"https://is.gd/zFyyDS";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038136

@@ -33,5 +33,5 @@ Gostaria de aproveitar e agradecer a todos os palestrantes: Clécio, Victor, Ser
 
 E para todo mundo que foi, um grande, grande abraço. Como disse lá várias vezes, o Tableless só é o que é por causa do apoio de vocês. Obrigado a todos que assistiram! <3
 
- [1]: http://bit.ly/videos-tablelessconf2014
+ [1]: https://bit.ly/videos-tablelessconf2014
  [2]: https://www.eventials.com/tableless/groups/3-tableless-conference-2014/

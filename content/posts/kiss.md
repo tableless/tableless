@@ -7,7 +7,7 @@ url: /kiss/
 tweetbackscheck:
   - 1356466327
 shorturls:
-  - 'a:3:{s:9:"permalink";s:28:"http://tableless.com.br/kiss";s:7:"tinyurl";s:26:"http://tinyurl.com/3pgfl5o";s:4:"isgd";s:19:"http://is.gd/Pcionp";}'
+  - 'a:3:{s:9:"permalink";s:28:"https://tableless.com.br/kiss";s:7:"tinyurl";s:26:"https://tinyurl.com/3pgfl5o";s:4:"isgd";s:19:"https://is.gd/Pcionp";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032349
@@ -35,6 +35,6 @@ Quando você estiver implementando um site, e perceber que o código está compl
 
   * [Keep it simple, stupid!][3]
 
- [1]: http://www.kissonline.com/news/index.php?page=news_index.html
- [2]: http://www.udate.com/kiss.asp?czoneR=7935
- [3]: http://digital-web.com/articles/keep_it_simple_stupid/
+ [1]: https://www.kissonline.com/news/index.php?page=news_index.html
+ [2]: https://www.udate.com/kiss.asp?czoneR=7935
+ [3]: https://digital-web.com/articles/keep_it_simple_stupid/

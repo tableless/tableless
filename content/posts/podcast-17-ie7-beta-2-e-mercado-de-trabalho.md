@@ -5,7 +5,7 @@ type: post
 date: 2006-02-07
 url: /podcast-17-ie7-beta-2-e-mercado-de-trabalho/
 enclosure:
-  - http://tableless.com.br/podcast/podcast17.mp3
+  - https://tableless.com.br/podcast/podcast17.mp3
 dsq_thread_id: 503034647
 categories:
   - Browsers
@@ -30,7 +30,7 @@ Links citados:
   * [Mercado de trabalho aquecido][3]
   * [Press Releases and Advisories][4]
 
- [1]: http://tableless.com.br/podcast/podcast17.mp3
- [2]: http://feeds.feedburner.com/tableless/
- [3]: http://blog.elcio.com.br/mercado-de-trabalho-aquecido/
- [4]: http://www.w3.org/Press/
+ [1]: https://tableless.com.br/podcast/podcast17.mp3
+ [2]: https://feeds.feedburner.com/tableless/
+ [3]: https://blog.elcio.com.br/mercado-de-trabalho-aquecido/
+ [4]: https://www.w3.org/Press/

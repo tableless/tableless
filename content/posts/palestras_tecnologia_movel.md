@@ -7,7 +7,7 @@ url: /palestras_tecnologia_movel/
 tweetbackscheck:
   - 1356154797
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/palestras_tecnologia_movel";s:7:"tinyurl";s:26:"http://tinyurl.com/3hrkuby";s:4:"isgd";s:19:"http://is.gd/5xNiyr";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/palestras_tecnologia_movel";s:7:"tinyurl";s:26:"https://tinyurl.com/3hrkuby";s:4:"isgd";s:19:"https://is.gd/5xNiyr";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032097
@@ -25,6 +25,6 @@ Tendência Wireless, Wi-Fi, WiMax, Uni-Fi, serão alguns dos assuntos abordados.
 
 Quer saber mais? Visite o site da [Mobile Life][1] e faça a [inscrição][3].
 
- [1]: http://www.mobilelife.com.br/
- [2]: http://www.mobilelife.com.br/questionario/
- [3]: http://mobilelife.com.br/questionario/
+ [1]: https://www.mobilelife.com.br/
+ [2]: https://www.mobilelife.com.br/questionario/
+ [3]: https://mobilelife.com.br/questionario/

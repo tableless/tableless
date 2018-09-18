@@ -7,7 +7,7 @@ url: /mascaras-javascript-em-campos-de-formulario/
 tweetbackscheck:
   - 1356434410
 shorturls:
-  - 'a:3:{s:9:"permalink";s:67:"http://tableless.com.br/mascaras-javascript-em-campos-de-formulario";s:7:"tinyurl";s:26:"http://tinyurl.com/3tvn47c";s:4:"isgd";s:19:"http://is.gd/fd1N8J";}'
+  - 'a:3:{s:9:"permalink";s:67:"https://tableless.com.br/mascaras-javascript-em-campos-de-formulario";s:7:"tinyurl";s:26:"https://tinyurl.com/3tvn47c";s:4:"isgd";s:19:"https://is.gd/fd1N8J";}'
 twittercomments:
   - 'a:3:{i:159666714278244352;s:7:"retweet";i:159329313508966400;s:7:"retweet";i:159315427296681984;s:7:"retweet";}'
 tweetcount:
@@ -31,5 +31,5 @@ Vou tentar, uma vez por semana, responder aqui a alguma dúvida de algum aluno d
 
 Comentários aqui.
 
- [1]: http://visie.com.br/cursos
- [2]: http://elcio.com.br/ajax/mascara/
+ [1]: https://visie.com.br/cursos
+ [2]: https://elcio.com.br/ajax/mascara/

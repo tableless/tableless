@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356465330
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/ie6-no-mac-eu-sei-e-pecado";s:7:"tinyurl";s:26:"http://tinyurl.com/3pr5u5e";s:4:"isgd";s:19:"http://is.gd/nfig1l";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/ie6-no-mac-eu-sei-e-pecado";s:7:"tinyurl";s:26:"https://tinyurl.com/3pr5u5e";s:4:"isgd";s:19:"https://is.gd/nfig1l";}'
 twittercomments:
   - 'a:1:{i:27360440963043329;s:6:"136775";}'
 tweetcount:
@@ -34,7 +34,7 @@ Eu ia colocar screenshots aqui, mas [um cara já o fez e colocou as imagens no F
 [CrossOver para Mac][5]
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/05/ie6mac.png "IE6 no Mac"
- [2]: http://www.tatanka.com.br/ies4linux/page/Main_Page
- [3]: http://www.z3lab.org/sections/blogs/philipp-weitershausen/2006_11_30_how-to-install-ie6-on
- [4]: http://flickr.com/photos/jnewland/sets/72157594262220246/
- [5]: http://www.codeweavers.com/products/cxmac/
+ [2]: https://www.tatanka.com.br/ies4linux/page/Main_Page
+ [3]: https://www.z3lab.org/sections/blogs/philipp-weitershausen/2006_11_30_how-to-install-ie6-on
+ [4]: https://flickr.com/photos/jnewland/sets/72157594262220246/
+ [5]: https://www.codeweavers.com/products/cxmac/

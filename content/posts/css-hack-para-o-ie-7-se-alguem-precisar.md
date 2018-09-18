@@ -7,7 +7,7 @@ url: /css-hack-para-o-ie-7-se-alguem-precisar/
 tweetbackscheck:
   - 1356400844
 shorturls:
-  - 'a:3:{s:9:"permalink";s:63:"http://tableless.com.br/css-hack-para-o-ie-7-se-alguem-precisar";s:7:"tinyurl";s:26:"http://tinyurl.com/3luxwvo";s:4:"isgd";s:19:"http://is.gd/ufyRIx";}'
+  - 'a:3:{s:9:"permalink";s:63:"https://tableless.com.br/css-hack-para-o-ie-7-se-alguem-precisar";s:7:"tinyurl";s:26:"https://tinyurl.com/3luxwvo";s:4:"isgd";s:19:"https://is.gd/ufyRIx";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503014851

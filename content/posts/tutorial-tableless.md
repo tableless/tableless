@@ -7,7 +7,7 @@ url: /tutorial-tableless/
 tweetbackscheck:
   - 1356460840
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/tutorial-tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3vpr8ye";s:4:"isgd";s:19:"http://is.gd/fYJMvL";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/tutorial-tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3vpr8ye";s:4:"isgd";s:19:"https://is.gd/fYJMvL";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503024430
@@ -39,7 +39,7 @@ O arquivos para você [tentar você mesmo estão aqui][3].
 
 Quer ver mais vídeos sobre desenvolvimento web? Visite nosso [Campus Online][4].
 
- [1]: http://campus.tableless.com.br/default/video/12 "Vídeo sobre o HTML"
- [2]: http://campus.tableless.com.br/default/video/12 "Vídeo sobre o CSS"
- [3]: http://campus.tableless.com.br/default/texto/25
- [4]: http://campus.tableless.com.br/
+ [1]: https://campus.tableless.com.br/default/video/12 "Vídeo sobre o HTML"
+ [2]: https://campus.tableless.com.br/default/video/12 "Vídeo sobre o CSS"
+ [3]: https://campus.tableless.com.br/default/texto/25
+ [4]: https://campus.tableless.com.br/

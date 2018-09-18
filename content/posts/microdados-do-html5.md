@@ -9,7 +9,7 @@ tweetbackscheck:
   - 1356399447
 dsq_thread_id: 862914570
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/microdados-do-html5/";s:7:"tinyurl";s:26:"http://tinyurl.com/8j3peck";s:4:"isgd";s:19:"http://is.gd/0OEuse";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/microdados-do-html5/";s:7:"tinyurl";s:26:"https://tinyurl.com/8j3peck";s:4:"isgd";s:19:"https://is.gd/0OEuse";}'
 twittercomments:
   - 'a:14:{i:251689744457687042;s:7:"retweet";i:251685389151133696;s:7:"retweet";i:251682302214684672;s:7:"retweet";i:251676492902301696;s:7:"retweet";i:251675529323884544;s:7:"retweet";i:258581364012638208;s:7:"retweet";i:258575924121976832;s:7:"retweet";i:258572990294396928;s:7:"retweet";i:258572886795759616;s:7:"retweet";i:258572146769543168;s:7:"retweet";i:263273144754769920;s:7:"retweet";i:265440415480688640;s:7:"retweet";i:274143690455388161;s:7:"retweet";i:274141410918297601;s:7:"retweet";}'
 tweetcount:
@@ -37,18 +37,18 @@ Os Microdados são atributos colocados nas tags do HTML com informações para c
 
 <pre class="lang-html">&lt;div&gt; 
   Meu nome é Bob Smith, mas todos me chamam de Smithy. Esta é a minha página inicial:
-  &lt;a href="http://www.example.com"&gt;www.example.com&lt;/a&gt;
+  &lt;a href="https://www.example.com"&gt;www.example.com&lt;/a&gt;
   Moro em Albuquerque, Novo México, e trabalho como engenheiro na ACME Corp.
 &lt;/div&gt;
 </pre>
 
 Agora esse mesmo código recheado de Microdados:
 
-<pre class="lang-html">&lt;div itemscope itemtype="http://data-vocabulary.org/Person"&gt;
+<pre class="lang-html">&lt;div itemscope itemtype="https://data-vocabulary.org/Person"&gt;
   Meu nome é &lt;span itemprop="name"&gt;Bob Smith&lt;/span&gt; 
   mas todos me chamam de &lt;span itemprop="nickname"&gt;Smithy&lt;/span&gt;.
   Esta é a minha página inicial:
-  &lt;a href="http://www.example.com" itemprop="url"&gt;www.example.com&lt;/a&gt;
+  &lt;a href="https://www.example.com" itemprop="url"&gt;www.example.com&lt;/a&gt;
   Moro em Albuquerque, Novo México, e trabalho como &lt;span itemprop="title"&gt;engenheiro&lt;/span&gt;
   na &lt;span itemprop="affiliation"&gt;ACME Corp&lt;/span&gt;.
 &lt;/div&gt;
@@ -60,11 +60,11 @@ Quando você, ser humano, lê este texto, entende todas essas informações. O p
 
 A ideia é que a informação seja acessível por qualquer coisa. Qualquer coisa mesmo. Se você pode ler, uma máquina deve ler também. Se uma máquina deve ler, ela precisa intepretar essa informação, como você faz. Por isso é importante que uma mesma linguagem seja conversada entre máquina e ser humano. 
 
-A ideia de existir informações complementares para expandir o significado de informações em elementos do HTML não é nova. Os microformats já haviam tentado entrar na moda uma vez, sem sucesso. Houveram poucos adeptos e muitos serviços resolveram simplesmente não adotar a tecnologia. Agora, com uma nova época no desenvolvimento web, onde diversas necessidades tem surgido, algumas empresas voltaram a se interessar pelo assunto. Veja o trabalho que alguns buscadores <a href=&#8221;http://tableless.com.br/schema-marcacao-de-dados-estruturados/&#8221;>tem feito com o Schema</a>. 
+A ideia de existir informações complementares para expandir o significado de informações em elementos do HTML não é nova. Os microformats já haviam tentado entrar na moda uma vez, sem sucesso. Houveram poucos adeptos e muitos serviços resolveram simplesmente não adotar a tecnologia. Agora, com uma nova época no desenvolvimento web, onde diversas necessidades tem surgido, algumas empresas voltaram a se interessar pelo assunto. Veja o trabalho que alguns buscadores <a href=&#8221;https://tableless.com.br/schema-marcacao-de-dados-estruturados/&#8221;>tem feito com o Schema</a>. 
 
 Lembre-se que o objetivo principal é entregar conteúdo para o usuário não importa o que ele esteja usando. Se for uma App ou um sistema web, se for um celular ou um óculos, não importa, ele deve conseguir consumir essas informações.
 
 Leia mais sobre microdados [aqui][1] e [aqui][2].
 
- [1]: http://tableless.com.br/introducao-a-microdata-no-html5/
- [2]: http://tableless.com.br/schema-marcacao-de-dados-estruturados/
+ [1]: https://tableless.com.br/introducao-a-microdata-no-html5/
+ [2]: https://tableless.com.br/schema-marcacao-de-dados-estruturados/

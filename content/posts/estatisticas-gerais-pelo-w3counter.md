@@ -7,7 +7,7 @@ url: /estatisticas-gerais-pelo-w3counter/
 tweetbackscheck:
   - 1356453581
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/estatisticas-gerais-pelo-w3counter";s:7:"tinyurl";s:26:"http://tinyurl.com/3h9tw9a";s:4:"isgd";s:19:"http://is.gd/CiM03q";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/estatisticas-gerais-pelo-w3counter";s:7:"tinyurl";s:26:"https://tinyurl.com/3h9tw9a";s:4:"isgd";s:19:"https://is.gd/CiM03q";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037145
@@ -23,5 +23,5 @@ Interessante também os outros dados. A resolução dos usuários vem aumentando
 
 Esses dados foram gerados baseados em 31,612,302 unique visits de 4,427 sites. Os últimos 25,000 pageviews de cada site fora analisados para identificar estes visitantes.
 
- [1]: http://br-linux.org/linux/firefox-alcancou-25-do-mercado-de-navegadores
- [2]: http://www.w3counter.com/globalstats.php?date=2007-05-20
+ [1]: https://br-linux.org/linux/firefox-alcancou-25-do-mercado-de-navegadores
+ [2]: https://www.w3counter.com/globalstats.php?date=2007-05-20

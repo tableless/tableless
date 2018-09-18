@@ -32,7 +32,7 @@ Hoje em dia quando o cliente diz que o site é responsivo, quem aqui pensa no bo
 
 > _&#8220;Fazer menu responsivo é só com bootstrap&#8221; ou &#8220;vamos precisar de javascript.&#8221;_
 
-Nada contra o bootstrap, mas prefiro o <a title="Locawebstyle" href="http://locaweb.github.io/locawebstyle/" target="_blank">Locawebstyle</a> que está lindo e o javascript é maravilhoso.
+Nada contra o bootstrap, mas prefiro o <a title="Locawebstyle" href="https://locaweb.github.io/locawebstyle/" target="_blank">Locawebstyle</a> que está lindo e o javascript é maravilhoso.
 
 ## O HTML
 
@@ -64,7 +64,7 @@ Vamos criar primeiro nosso html com header simples:
 
 ​Agora com o nosso html pronto, vamos fazer o primeiro teste olhando nosso html puro e formatar usando poucas linhas de css.
   
-<a title="Ver demo sem style." href="http://palloi.github.io/responsive-header-only-css/demo-only-elements.html" target="_blank">Ver demo sem style.</a>
+<a title="Ver demo sem style." href="https://palloi.github.io/responsive-header-only-css/demo-only-elements.html" target="_blank">Ver demo sem style.</a>
 
 ## O CSS
 
@@ -84,7 +84,7 @@ Como nosso header ficará sempre fixo no topo, vamos formatar da seguinte maneir
 
 Agora com o header formatado, o segundo teste é redimensionar o navegador para perceber que o header sempre acompanha e ao diminuir muito tem quebra por falta de espaço.
   
-<a title="Ver demo com style." href="http://palloi.github.io/responsive-header-only-css/demo-basic-header.html" target="_blank">Ver demo com style.</a>
+<a title="Ver demo com style." href="https://palloi.github.io/responsive-header-only-css/demo-basic-header.html" target="_blank">Ver demo com style.</a>
 
 Montamos um header simples e funcional, com mais 3 elementos e CSS teremos um header simples e responsivo.
 
@@ -189,7 +189,7 @@ Formatei o &#8220;label .control-nav&#8221; para ser o botão responsivo, o &#82
 
 ## Agora o pulo do gato
 
-Utilizando dos seletores do CSS3 que são os &#8216;:checked&#8217; e &#8216;~&#8217;, conseguimos formatar elementos de acordo com a necessidade, <a title="Veja a documentação" href="http://www.w3.org/TR/css3-selectors/#selectors" target="_blank">veja a documentação</a>.
+Utilizando dos seletores do CSS3 que são os &#8216;:checked&#8217; e &#8216;~&#8217;, conseguimos formatar elementos de acordo com a necessidade, <a title="Veja a documentação" href="https://www.w3.org/TR/css3-selectors/#selectors" target="_blank">veja a documentação</a>.
 
 Sendo mais claro, com o seletor &#8216;~&#8217; você consegue selecionar elemento do mesmo pai declarado depois dele.
 
@@ -212,7 +212,7 @@ Ao marcar o input, no css usando o transform vamos exibir suavemente o menu, vej
 
 Agora o menu é responsivo e bem simples com poucos elementos.
 
-<a title="Veja como ficou o resultado final" href="http://palloi.github.io/responsive-header-only-css/" target="_blank">Veja como ficou o resultado final</a>.
+<a title="Veja como ficou o resultado final" href="https://palloi.github.io/responsive-header-only-css/" target="_blank">Veja como ficou o resultado final</a>.
 
 <a title="código completo no github" href="https://github.com/palloi/responsive-header-only-css" target="_blank">Veja o código completo no github</a>.
 

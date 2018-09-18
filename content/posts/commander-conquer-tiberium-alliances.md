@@ -8,7 +8,7 @@ url: /commander-conquer-tiberium-alliances/
 tweetbackscheck:
   - 1356397911
 shorturls:
-  - 'a:3:{s:9:"permalink";s:61:"http://tableless.com.br/commander-conquer-tiberium-alliances/";s:7:"tinyurl";s:26:"http://tinyurl.com/cw93qnv";s:4:"isgd";s:19:"http://is.gd/QaDS21";}'
+  - 'a:3:{s:9:"permalink";s:61:"https://tableless.com.br/commander-conquer-tiberium-alliances/";s:7:"tinyurl";s:26:"https://tinyurl.com/cw93qnv";s:4:"isgd";s:19:"https://is.gd/QaDS21";}'
 twittercomments:
   - 'a:14:{i:148785390248132610;s:7:"retweet";i:149445378301894657;s:7:"retweet";i:149421158670929920;s:7:"retweet";i:149312023434502145;s:7:"retweet";i:148844679771865088;s:7:"retweet";i:148798225191673858;s:7:"retweet";i:148766623988318209;s:7:"retweet";i:148761387181674496;s:7:"retweet";i:148761357922213888;s:7:"retweet";i:148760470516539392;s:7:"retweet";i:148759299601084416;s:7:"retweet";i:148758025551884288;s:7:"retweet";i:148757886930137088;s:7:"retweet";i:148757559669559296;s:7:"retweet";}'
 tweetcount:
@@ -40,6 +40,6 @@ Abaixo veja o trailer de como o jogo está ficando. Sensacional. Quero só ver q
 
 [Mais sobre o jogo][2]. Eu vi essa notícia via [@reinaldoferraz][3].
 
- [1]: http://www.ea.com/tiberium-alliances "Site oficial do Jogo"
- [2]: http://www.arkade.com.br/noticias/command-conquer-tiberium-wars-pc/
- [3]: http://twitter.com/reinaldoferraz
+ [1]: https://www.ea.com/tiberium-alliances "Site oficial do Jogo"
+ [2]: https://www.arkade.com.br/noticias/command-conquer-tiberium-wars-pc/
+ [3]: https://twitter.com/reinaldoferraz

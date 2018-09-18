@@ -25,7 +25,7 @@ os dias. 2017 afinal, foi o ano das
 Nesse *post* porém, não vou focar em nenhuma dessas moedas digitais. Mas sim na
 tecnologia por trás delas, [que muitas pessoas dizem ser tão revolucionárias
 quanto a própria
-internet](http://theconversation.com/the-big-business-revolution-why-the-future-is-blockchain-78409),
+internet](https://theconversation.com/the-big-business-revolution-why-the-future-is-blockchain-78409),
 o Blockchain.
 
 A ideia é implementar passo-a-passo uma versão simplificada do Blockchain em

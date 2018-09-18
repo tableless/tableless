@@ -28,10 +28,10 @@ Em seguida devemos criar dentro do diretório do child theme um arquivo **style.
 
 <pre class="lang-css">/*
 Theme Name:     Twenty Twelve Child
-Theme URI:      http://www.tableless.com.br/
+Theme URI:      https://www.tableless.com.br/
 Description:    Tutorial de Child Theme para o Tableless
 Author:         Tableless
-Author URI:     http://www.tableless.com.br/
+Author URI:     https://www.tableless.com.br/
 Template:       twentytwelve                             
 Version:        1.0
 */</pre>
@@ -103,9 +103,9 @@ Espero que tenham gostado e qualquer dúvida postem nos comentários!
 Abraço!
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/criar.jpg
- [2]: http://codex.wordpress.org/Child_Themes
+ [2]: https://codex.wordpress.org/Child_Themes
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/ativar.png
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/theme-zero.png
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/antes.png
  [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/07/depois.png
- [7]: http://www.tableless.com.br/efeito-cascata-e-especificidade-do-css/
+ [7]: https://www.tableless.com.br/efeito-cascata-e-especificidade-do-css/

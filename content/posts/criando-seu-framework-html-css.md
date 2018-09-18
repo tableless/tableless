@@ -94,8 +94,8 @@ Tooltip = .tooltip, .tooltip-pin-up, .tooltip-pin-down, .tooltip-small, .tooltip
 
 Um bom framework é reconhecido pela reutilização de seu código, sendo assim, você não pode contar que seus elementos caibam, se alinhem e harmonizem apenas no local pre desenhado, por isso, você precisa criar uma página que apresente todos os elementos padronizados, a fim de testá-los e documentá-los. Repare nas duas páginas abaixo:
 
-  * Twitter Bootstrap: <a href="http://twitter.github.com/bootstrap/components.html" title="http://twitter.github.com/bootstrap/components.html" target="_blank">http://twitter.github.com/bootstrap/components.html</a>
-  * Foundation: <a href="http://foundation.zurb.com/docs/elements.php" title="http://foundation.zurb.com/docs/elements.php" target="_blank">http://foundation.zurb.com/docs/elements.php</a>
+  * Twitter Bootstrap: <a href="https://twitter.github.com/bootstrap/components.html" title="https://twitter.github.com/bootstrap/components.html" target="_blank">https://twitter.github.com/bootstrap/components.html</a>
+  * Foundation: <a href="https://foundation.zurb.com/docs/elements.php" title="https://foundation.zurb.com/docs/elements.php" target="_blank">https://foundation.zurb.com/docs/elements.php</a>
 
 Agora que está convencido, você precisa criar essa página de apresentação onde você listará os componentes padronizados. Em um primeiro momento você pode inserir os componentes na página, agrupando (Veja os links acima para inspirar-se) da maneira que achar mais organizada. Essa etapa lhe dará mais segurança, pois a cada componente finalizado, você e sua equipe comemorará pelo padrão criado. Lembre-se que mais do que criar os componentes é preciso sempre dar 360 nos seus artefatos, identificando pontos de melhoria ou bugs, tratando e atualizando-os nessa página de padrões.
 
@@ -123,7 +123,7 @@ Claro que cada projeto pedirá necessidades especiais, cabendo a você e sua equ
 
 ### Grid
 
-Lembro de quando eu criei o <a href="http://formee.org" title="formee framework" target="_blank">Formee framework</a> e penava com cálculos e mais cálculos para chegar ao Grid flexível perfeito, foram muitas páginas de caderno rabiscadas com contas e mais contas. O Grid é uma parte perigosa do projeto, principalmente por exigirem algumas escolhas desde o começo, como:
+Lembro de quando eu criei o <a href="https://formee.org" title="formee framework" target="_blank">Formee framework</a> e penava com cálculos e mais cálculos para chegar ao Grid flexível perfeito, foram muitas páginas de caderno rabiscadas com contas e mais contas. O Grid é uma parte perigosa do projeto, principalmente por exigirem algumas escolhas desde o começo, como:
 
   * Usarei float para diagramação?
   * Usarei algum pre processador como Less, Sass ou Stylus?
@@ -164,7 +164,7 @@ Creio que a melhor forma de começar a criar seus padrões é pelo grupo de bot�
 
 Alguns projetos acabam necessitando de outros padrões no botão como, por exemplo, `.btn-secondary` para botão de importância secundário, mas ainda sim não genérico, e `.btn-error.btn-no.btn-delete` para botões que tenham uma carga negativa (vermelho talvez) clara neles para o usuário saber que pode ser perigosa tal opção.
 
-Geralmente, os botões possuim algumas particularidades comuns em todos os projetos como o .small para uma versão mais minimalista, .full para uma versão de ocupar toda a largura do container. Uma possibilidade é botões com ícones, assim sendo, primeiro é necessário criar um agrupamento de padrões chamados ícones, depois você precisa estudar se o elemento botão precisa sofrer alguma mudança por ter o ícone dentro, caso sim, seria interessante pensar em um padrão focado no &#8220;estado&#8221; do botão, podendo ser `.btn-icon`, seguindo o padrão de `.btn-disabled`, `.btn-loading`, ou até mesmo criar um prefixo que indica as chamadas **&#8220;state rules&#8221;**, mais difundida atualmente pelo <a href="http://smacss.com/book/type-state" title="http://smacss.com/book/type-state" target="_blank">SMACSS</a>, segue um exemplo:
+Geralmente, os botões possuim algumas particularidades comuns em todos os projetos como o .small para uma versão mais minimalista, .full para uma versão de ocupar toda a largura do container. Uma possibilidade é botões com ícones, assim sendo, primeiro é necessário criar um agrupamento de padrões chamados ícones, depois você precisa estudar se o elemento botão precisa sofrer alguma mudança por ter o ícone dentro, caso sim, seria interessante pensar em um padrão focado no &#8220;estado&#8221; do botão, podendo ser `.btn-icon`, seguindo o padrão de `.btn-disabled`, `.btn-loading`, ou até mesmo criar um prefixo que indica as chamadas **&#8220;state rules&#8221;**, mais difundida atualmente pelo <a href="https://smacss.com/book/type-state" title="https://smacss.com/book/type-state" target="_blank">SMACSS</a>, segue um exemplo:
 
 <pre class="lang-css">a.is-disabled { 
   color: gray;
@@ -198,6 +198,6 @@ Separei 3 coisas não comentadas acima que eu faço quando desenvolvo meus frame
 
   * Separo meu CSS em arquivos LESS como: reset, base, theme, responsive. Tenho um style.less que compila todos num único CSS, mas mantendo a organização do projeto, o que é muito difícil de fazer depois que se passa das 3 mil linhas.
   * De tanto em tanto tempo dou um 360 em uma dos padrões criados
-  * Apresento meu rascunho de planejamento do padrão para o Designer responsável (se houver) para que o mesmo possa alinhar os agrupamentos na hora de criar o <a href="http://www.onextrapixel.com/2012/09/28/30-handy-and-free-ui-kits-for-web-and-mobile/" title="http://www.onextrapixel.com/2012/09/28/30-handy-and-free-ui-kits-for-web-and-mobile/" target="_blank">UI kit</a>.
+  * Apresento meu rascunho de planejamento do padrão para o Designer responsável (se houver) para que o mesmo possa alinhar os agrupamentos na hora de criar o <a href="https://www.onextrapixel.com/2012/09/28/30-handy-and-free-ui-kits-for-web-and-mobile/" title="https://www.onextrapixel.com/2012/09/28/30-handy-and-free-ui-kits-for-web-and-mobile/" target="_blank">UI kit</a>.
 
 **E você já criou o seu próprio Framework?** Conte aqui sua experiência 🙂

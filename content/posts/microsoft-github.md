@@ -19,7 +19,7 @@ Se você der uma boa olhada [na lista de projetos web envolvendo o Edge](https:/
 Então, na verdade, não seria surpresa pra nós se a Microsoft comprasse o maior repositório de código de todos os tempos, o GitHub. E foi exatamente isso que aconteceu. 
 Você pode ler o [post do Satya](https://blogs.microsoft.com/blog/2018/06/04/microsoft-github-empowering-developers/) aqui e do [GitHub aqui](https://blog.github.com/2018-06-04-github-microsoft/).
 
-O GitHub tem mais ou menos 27 milhões de developers trabalhando em 80 milhões de repositórios. Embora o GitHub tenha tido perdas de algo em torno de USD$ 66 milhões em 2016, dizem que em 2017 eles deram a volta por cima: mais ou menos a metade dos [USD$200 milhões anuais vem dos planos corporativos, de acordo com o CFO, Julio Avalos](http://www.businessinsider.com/githubs-enterprise-service-brings-in-half-its-200-million-in-sales-2017-10). 
+O GitHub tem mais ou menos 27 milhões de developers trabalhando em 80 milhões de repositórios. Embora o GitHub tenha tido perdas de algo em torno de USD$ 66 milhões em 2016, dizem que em 2017 eles deram a volta por cima: mais ou menos a metade dos [USD$200 milhões anuais vem dos planos corporativos, de acordo com o CFO, Julio Avalos](https://www.businessinsider.com/githubs-enterprise-service-brings-in-half-its-200-million-in-sales-2017-10). 
 A Microsoft e o Google guardam parte dos seus códigos corporativos lá, além dos seus códigos abertos. Melhor que isso: a empresa diz que 52% da Fortune 50 são clientes do GitHub Enterprise. 
 
 Outra coisa: a empresa estava se preparando faz um tempo pra abrir seu IPO, mesmo com a procura de um novo CEO. Esse é um grande passo pra qualquer empresa desse porte.

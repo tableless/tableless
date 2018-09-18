@@ -7,7 +7,7 @@ url: /construindo_sites_com_padroes/
 tweetbackscheck:
   - 1356446375
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/construindo_sites_com_padroes";s:7:"tinyurl";s:26:"http://tinyurl.com/3umop4y";s:4:"isgd";s:19:"http://is.gd/82H3qp";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/construindo_sites_com_padroes";s:7:"tinyurl";s:26:"https://tinyurl.com/3umop4y";s:4:"isgd";s:19:"https://is.gd/82H3qp";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031476
@@ -31,8 +31,8 @@ Estes artigos são ótimos para pessoas que estão começando a se interessar po
   
 [Artigo 2 &#8211; Ferramentas][5]
 
- [1]: http://kb.reflectivesurface.com/br/artigos/sitesComPadroesWeb/conteudo
- [2]: http://reflectivesurface.com/weblog-br/
- [3]: http://tableless.com.br/
- [4]: http://kb.reflectivesurface.com/br/artigos/sitesComPadroesWeb/introducao
- [5]: http://kb.reflectivesurface.com/br/artigos/sitesComPadroesWeb/ferramentas
+ [1]: https://kb.reflectivesurface.com/br/artigos/sitesComPadroesWeb/conteudo
+ [2]: https://reflectivesurface.com/weblog-br/
+ [3]: https://tableless.com.br/
+ [4]: https://kb.reflectivesurface.com/br/artigos/sitesComPadroesWeb/introducao
+ [5]: https://kb.reflectivesurface.com/br/artigos/sitesComPadroesWeb/ferramentas

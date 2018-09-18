@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356457290
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/desconto-no-dreamhost";s:7:"tinyurl";s:26:"http://tinyurl.com/3eghu4p";s:4:"isgd";s:19:"http://is.gd/QkAsBP";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/desconto-no-dreamhost";s:7:"tinyurl";s:26:"https://tinyurl.com/3eghu4p";s:4:"isgd";s:19:"https://is.gd/QkAsBP";}'
 twittercomments:
   - 'a:1:{i:9924187376324608;s:7:"retweet";}'
 tweetcount:
@@ -91,7 +91,7 @@ Para poder [ganhar desconto ao assinar][3] algum plano de hospedagem na [Dreamho
   * Na mesma página, você escolhe se quer receber comissões por indicações;
   * Logo após, selecione as opções de domínio, se você não tiver domínio ainda, preencha os dados referentes ao seu domínio, conta de usuário, email e seus dados pessoais. Se já tiver, é só selecionar dizendo que já tem um domínio;
   * No último campo, intitulado “**Promo Code or email of who referred you:**“, digite um dos cupons do Tableless: **TABLELESS**, **TABLELESSMENSAL** ou **TABLELESS60**;
-  * Clique em **I agree to abide by DreamHost&#8217;s <a href="http://www.dreamhost.com/tos.html" target="new">Terms of Service</a> and <a href="http://www.dreamhost.com/spam.html" target="new">Anti-Spam Policy</a>.**
+  * Clique em **I agree to abide by DreamHost&#8217;s <a href="https://www.dreamhost.com/tos.html" target="new">Terms of Service</a> and <a href="https://www.dreamhost.com/spam.html" target="new">Anti-Spam Policy</a>.**
   * E para finalizar clique no botão “**Continue to secure payment…**”;
   * Cheque o valor. Ele já deve estar _com o desconto aplicado_;
   * Preencha os dados do seu cartão de crédito (**_tem que ser internacional_** **ou via [paypal][6]**) e finalize a compra;
@@ -109,9 +109,9 @@ Para usar o GoogleCheckout no Dreamhost, siga os passos abaixo:
 
 Assine o [DreamHost pelo Tableless][3] e saia do sufoco.
 
- [1]: http://blog.elcio.com.br/pagando-o-dreamhost-com-google-checkout-mesmo-sendo-brasileiro/
- [2]: http://www.revolucao.etc.br/archives/criando-sua-conta-no-google-checkout-para-assinar-a-dreamhost/
- [3]: http://www.dreamhost.com/r.cgi?132780/hosting.html
- [4]: http://www.dreamhost.com/r.cgi?132780/signup/?next_step=Index
- [5]: http://wiki.dreamhost.com/index.php/Main_Page
- [6]: http://www.paypal.com/us/
+ [1]: https://blog.elcio.com.br/pagando-o-dreamhost-com-google-checkout-mesmo-sendo-brasileiro/
+ [2]: https://www.revolucao.etc.br/archives/criando-sua-conta-no-google-checkout-para-assinar-a-dreamhost/
+ [3]: https://www.dreamhost.com/r.cgi?132780/hosting.html
+ [4]: https://www.dreamhost.com/r.cgi?132780/signup/?next_step=Index
+ [5]: https://wiki.dreamhost.com/index.php/Main_Page
+ [6]: https://www.paypal.com/us/

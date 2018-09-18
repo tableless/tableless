@@ -33,14 +33,14 @@ Eu gosto bastante do Bootstrap, mas apenas em alguns momentos. Bootstrap, para m
   * Não use um framework se você não quiser usar o design dele.
   * No Locaweb Style tivemos esse problema de redesign. Nós tínhamos que reescrever parte do bootstrap para ficar com o nosso design.
   * Para mim, opinião pessoal, não use Bootstrap para fazer websites. Bootstrap é muito bom para painéis administrativos.
-  * Mas aí eu sugiro usar o Locaweb Style. É bem mais bonito. 😉 http://locaweb.github.io/locawebstyle/
+  * Mas aí eu sugiro usar o Locaweb Style. É bem mais bonito. 😉 https://locaweb.github.io/locawebstyle/
   * Fazer o redesign de um site que já usa um framework é muito custoso.
   * Você já usou o Bourbon Neat? É legal, mas não se compara com Boostrap. Neat é só GRID.
-  * Bourbon é legal. Eu aconselho dar uma olhadinha. Aí compara com Compass… que é bem mais conhecido. http://bourbon.io
+  * Bourbon é legal. Eu aconselho dar uma olhadinha. Aí compara com Compass… que é bem mais conhecido. https://bourbon.io
   * As vezes, na minha opinião, você só vai precisar de um framework de Grid. As vezes nem isso!
   * Tenha cautela com os Mixins do Bourbon, Compass ou qualquer outro cara desse tipo
   * Ainda há outra opção, o Foundation. O foundation pode ser comparado ao Bootstrap… Ele é minha segunda opção, sempre.
   * Escolha o framework mais adequado para o seu projeto atual. Bootstrap é interessante para sistemas administrativos
   * Se você trabalha em um projeto aberto, é muito melhor criar um framework interno, onde você faz sua semântica e organização.
 
- [1]: http://twitter.com/hannelita
+ [1]: https://twitter.com/hannelita

@@ -14,7 +14,7 @@ Todo mundo sabe que é fundamental criar links de compartilhamento no seu artigo
 
 Primeiramente precisamos entender como a API do bit.ly funciona. Podemos fazer uma requisição via URL e a mesma nos retornará um arquivo XML:
 
-http://api.bit.ly/shorten?version=**[VERSÃO]**&longUrl=**[URL]**&login=**[LOGIN]**&apiKey=**[API]**&format=**[FORMATO]**
+https://api.bit.ly/shorten?version=**[VERSÃO]**&longUrl=**[URL]**&login=**[LOGIN]**&apiKey=**[API]**&format=**[FORMATO]**
 
 **[VERSÃO]** &#8211; A versão do XML
 
@@ -38,7 +38,7 @@ Bom, visto isso vamos aos códigos! Primeiramente criaremos uma função no **fu
   $bitly_login = 'LOGIN';
   $bitly_api = 'API';
   //create the URL
-  $bitly = 'http://api.bit.ly/shorten?version='.$version.'&longUrl='.urlencode($url).'&login='.$bitly_login.'&apiKey='.$bitly_api.'&format='.$format;
+  $bitly = 'https://api.bit.ly/shorten?version='.$version.'&longUrl='.urlencode($url).'&login='.$bitly_login.'&apiKey='.$bitly_api.'&format='.$format;
   $xml = simplexml_load_file($bitly) -&gt; results;
   foreach($xml -&gt; nodeKeyVal as $nodeKeyVal) {
     return (string)$nodeKeyVal -&gt; shortUrl;
@@ -73,4 +73,4 @@ Pronto! Isso é quase o fim, agora só precisamos imprimir a variável **$short_
 
 Bom, agora você pode usar como quiser: imprimi-la no seu artigo, criar um botão de compartilhamento, etc. Recomendo que você, depois de testar, tente implementar outras APIs e ver o resultado. Caso dê algo errado, tente habilitar o error_reporting do PHP porque vai ajudar bastante você descobrir onde está o erro. Você pode usar os comentários para me perguntar algo, será um prazer responder.
 
- [1]: http://bit.ly
+ [1]: https://bit.ly

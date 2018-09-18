@@ -8,7 +8,7 @@ url: /pontuacao-especificidade-css/
 tweetbackscheck:
   - 1356397672
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/pontuacao-especificidade-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3ce4bcl";s:4:"isgd";s:19:"http://is.gd/yGYm4z";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/pontuacao-especificidade-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3ce4bcl";s:4:"isgd";s:19:"https://is.gd/yGYm4z";}'
 twittercomments:
   - 'a:10:{i:129293865323728896;s:7:"retweet";i:129191757375225856;s:7:"retweet";i:129181835682004994;s:7:"retweet";i:129179365765423104;s:7:"retweet";i:129179030611173376;s:7:"retweet";i:151369580315545600;s:7:"retweet";i:151367903579607041;s:7:"retweet";i:158724569199415296;s:7:"retweet";i:169585953051131904;s:7:"retweet";i:182259699406737409;s:7:"retweet";}'
 tweetcount:
@@ -119,4 +119,4 @@ No nosso exemplo acima o browser leu que os links dentro do elemento CLASS MENU 
 
 É interessante que você resolva os problemas de conflito utilizando o próprio seletor, sem apelar para o `!important` ou o atributo `style`. Assim você mantém o código sob controle. Se começarmos a colocar muito `!important` no meio do código, equivale a regra de: se todo o mundo é importante, ninguém é importante. E então o `!important` perde seu efeito e passará a ser inútil.
 
- [1]: http://tableless.com.br/efeito-cascata-e-especificidade-do-css "Leia mais sobre especificadade e herança do CSS"
+ [1]: https://tableless.com.br/efeito-cascata-e-especificidade-do-css "Leia mais sobre especificadade e herança do CSS"

@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356392604
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bonito-de-se-ver-44";s:7:"tinyurl";s:26:"http://tinyurl.com/3tanjst";s:4:"isgd";s:19:"http://is.gd/qB7ES5";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/bonito-de-se-ver-44";s:7:"tinyurl";s:26:"https://tinyurl.com/3tanjst";s:4:"isgd";s:19:"https://is.gd/qB7ES5";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036571
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  * <http://www.beside.ca/>
-  * <http://www.12stoneart.com/>
-  * <http://www.ituloyangsulong.com/>
-  * <http://ewebscapes.com/>
-  * <http://www.retrointeractive.com/>
+  * <https://www.beside.ca/>
+  * <https://www.12stoneart.com/>
+  * <https://www.ituloyangsulong.com/>
+  * <https://ewebscapes.com/>
+  * <https://www.retrointeractive.com/>

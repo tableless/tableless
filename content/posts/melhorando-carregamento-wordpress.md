@@ -8,7 +8,7 @@ url: /melhorando-carregamento-wordpress/
 tweetbackscheck:
   - 1356388317
 shorturls:
-  - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/melhorando-carregamento-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/3wjkjzu";s:4:"isgd";s:19:"http://is.gd/NAVDch";}'
+  - 'a:3:{s:9:"permalink";s:57:"https://tableless.com.br/melhorando-carregamento-wordpress";s:7:"tinyurl";s:26:"https://tinyurl.com/3wjkjzu";s:4:"isgd";s:19:"https://is.gd/NAVDch";}'
 twittercomments:
   - 'a:5:{i:104167377658318848;s:7:"retweet";i:163350088545091584;s:7:"retweet";i:163301091491069954;s:7:"retweet";i:163282805592305664;s:7:"retweet";i:163273661510463488;s:7:"retweet";}'
 tweetcount:
@@ -27,7 +27,7 @@ tags:
 
 ---
 <!--a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/05/site-speed.png"><img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/05/site-speed.png" alt="Velocidade do site" width="400" height="300" class="alignnone size-full wp-image-3788" srcset="uploads/2011/05/site-speed.png 400w, uploads/2011/05/site-speed-300x225.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a>
-<em>(Imagem retirada de http://www.netpaths.net/blog/how-to-increase-site-speed-for-google-page-load-algorithm/, em 02/06/11 às 21:06)</em-->
+<em>(Imagem retirada de https://www.netpaths.net/blog/how-to-increase-site-speed-for-google-page-load-algorithm/, em 02/06/11 às 21:06)</em-->
 
 A web cresceu, e com isso várias tecnologias e ferramentas foram criadas ou melhoradas para suprir necessidades requisitadas pelos usuários. Ao longo do tempo clientes e usuários vão pedindo sites mais bonitos e atraentes, e também exigindo rapidez. Para quem usa WordPress, existe aperfeiçoamento e acertos para deixar ele mais rápido. Já para quem não usa, lamento, mas é bom prestar atenção algumas dicas, pois podem servir.
 
@@ -57,7 +57,7 @@ Re-indico [WP Super Cache][4], [W3 Total Cache][5], [Batcache][6] ou [Hyper Cach
 
 <ol style="margin-top: 10px">
   <li>
-    <strong>Estrutura dos códigos:</strong> A estrutura do código também interfere, seja ele HTML, CSS ou JS. Para HTML, faça um código semântico, sem muitas gambiarras. Confira esse <a href="http://tableless.com.br/6-estrategias-para-melhorar-a-organizacao-do-seu-css-2" title="artigo para melhorar organização do código CSS">artigo para melhorar organização do código CSS</a>, que vai ajudar muito.
+    <strong>Estrutura dos códigos:</strong> A estrutura do código também interfere, seja ele HTML, CSS ou JS. Para HTML, faça um código semântico, sem muitas gambiarras. Confira esse <a href="https://tableless.com.br/6-estrategias-para-melhorar-a-organizacao-do-seu-css-2" title="artigo para melhorar organização do código CSS">artigo para melhorar organização do código CSS</a>, que vai ajudar muito.
   </li>
   <li>
     <strong>Boa hospedagem:</strong> Ter um servidor com melhor qualidade ajuda muito no carregamento. Escolhendo uma boa hospedagem, tente também conter quedas no servidor.
@@ -83,12 +83,12 @@ Re-indico [WP Super Cache][4], [W3 Total Cache][5], [Batcache][6] ou [Hyper Cach
 
 Você pode analisar, através da [ferramenta do Google &#8211; Page Speed][8], a velocidade no carregamento do site. Se você usa Google Analytics, segue uma [dica para analisar o carregamento do site][9].
 
- [1]: http://wordpress.org/extend/plugins/wp-minify/ "Baixe WP-Minify"
- [2]: http://wordpress.org/extend/plugins/wp-smushit/ "plug-in WP Smush.it"
- [3]: http://tableless.com.br/otimizando-site-wordpress-seo "Otimizando seu site em WordPress para SEO"
- [4]: http://wordpress.org/extend/plugins/wp-super-cache/ "WP Super Cache"
- [5]: http://wordpress.org/extend/plugins/wp-super-cache/ "W3 Total Cache"
- [6]: http://wordpress.org/extend/plugins/batcache/ "Batcache"
- [7]: http://wordpress.org/extend/plugins/hyper-cache/ "Hyper Cache"
- [8]: http://code.google.com/speed/page-speed/ "ferramenta do Google Page Speed"
- [9]: http://www.domicioneto.com/web-analytics/google-analytics/trackpageloadtime-monitorar-carregamento-google-analytics/ "dica para analisar o carregamento do site"
+ [1]: https://wordpress.org/extend/plugins/wp-minify/ "Baixe WP-Minify"
+ [2]: https://wordpress.org/extend/plugins/wp-smushit/ "plug-in WP Smush.it"
+ [3]: https://tableless.com.br/otimizando-site-wordpress-seo "Otimizando seu site em WordPress para SEO"
+ [4]: https://wordpress.org/extend/plugins/wp-super-cache/ "WP Super Cache"
+ [5]: https://wordpress.org/extend/plugins/wp-super-cache/ "W3 Total Cache"
+ [6]: https://wordpress.org/extend/plugins/batcache/ "Batcache"
+ [7]: https://wordpress.org/extend/plugins/hyper-cache/ "Hyper Cache"
+ [8]: https://code.google.com/speed/page-speed/ "ferramenta do Google Page Speed"
+ [9]: https://www.domicioneto.com/web-analytics/google-analytics/trackpageloadtime-monitorar-carregamento-google-analytics/ "dica para analisar o carregamento do site"

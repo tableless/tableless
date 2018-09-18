@@ -7,7 +7,7 @@ url: /padroes-web-de-onde-viemos-para-onde-vamos/
 tweetbackscheck:
   - 1356453935
 shorturls:
-  - 'a:3:{s:9:"permalink";s:66:"http://tableless.com.br/padroes-web-de-onde-viemos-para-onde-vamos";s:7:"tinyurl";s:26:"http://tinyurl.com/3rkm72s";s:4:"isgd";s:19:"http://is.gd/lezaLP";}'
+  - 'a:3:{s:9:"permalink";s:66:"https://tableless.com.br/padroes-web-de-onde-viemos-para-onde-vamos";s:7:"tinyurl";s:26:"https://tinyurl.com/3rkm72s";s:4:"isgd";s:19:"https://is.gd/lezaLP";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035794
@@ -27,8 +27,8 @@ O título da minha apresentação foi: [Padrões Web: de onde viemos, para onde 
   
 Onde falei um pouco sobre a história dos Padrões Web. Assunto muito interessante que muitos profissionais desconhecem. Sinceramente, acho uma vergonha um desenvolvedor web não saber o nome do camarada que inventou a web, por exemplo. É a mesma coisa que o camarada trabalhar com carros e não saber quem é [Henry Ford][3].
 
-Estou disponibilizando a apresentação neste link: <http://tableless.com.br/apresentacoes/padroesontemhoje/>
+Estou disponibilizando a apresentação neste link: <https://tableless.com.br/apresentacoes/padroesontemhoje/>
 
- [1]: http://pt.wikipedia.org/wiki/Pal%C3%A1cio_dos_Bandeirantes
- [2]: http://tableless.com.br/apresentacoes/padroesontemhoje/
- [3]: http://pt.wikipedia.org/wiki/Henry_Ford
+ [1]: https://pt.wikipedia.org/wiki/Pal%C3%A1cio_dos_Bandeirantes
+ [2]: https://tableless.com.br/apresentacoes/padroesontemhoje/
+ [3]: https://pt.wikipedia.org/wiki/Henry_Ford

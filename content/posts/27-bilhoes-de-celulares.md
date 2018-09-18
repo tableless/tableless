@@ -7,7 +7,7 @@ url: /27-bilhoes-de-celulares/
 tweetbackscheck:
   - 1356405480
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/27-bilhoes-de-celulares";s:7:"tinyurl";s:26:"http://tinyurl.com/3sajuvk";s:4:"isgd";s:19:"http://is.gd/ekam0d";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/27-bilhoes-de-celulares";s:7:"tinyurl";s:26:"https://tinyurl.com/3sajuvk";s:4:"isgd";s:19:"https://is.gd/ekam0d";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036648
@@ -48,12 +48,12 @@ Novamente:
   * [Browsers para dispositivos móveis][8]
   * [Curso de Internet Móvel][9]
 
- [1]: http://communities-dominate.blogs.com/brands/2007/01/putting_27_bill.html
- [2]: http://cameronmoll.com/archives/2007/01/3_billion_mobile_users_in_context/
- [3]: http://gmail.com/
- [4]: http://tableless.com.br/sites-para-dispositivos-moveis-breve-introducao
- [5]: http://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
- [6]: http://tableless.com.br/aprenda/sites-para-dispositivos-moveis-mediatype/
- [7]: http://tableless.com.br/breve-introducao-xhtml-mobile-profile
- [8]: http://tableless.com.br/browsers_em_dispositivos_moveis
- [9]: http://visie.com.br/cursos/intermediarios/internetmovel2.php
+ [1]: https://communities-dominate.blogs.com/brands/2007/01/putting_27_bill.html
+ [2]: https://cameronmoll.com/archives/2007/01/3_billion_mobile_users_in_context/
+ [3]: https://gmail.com/
+ [4]: https://tableless.com.br/sites-para-dispositivos-moveis-breve-introducao
+ [5]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
+ [6]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-mediatype/
+ [7]: https://tableless.com.br/breve-introducao-xhtml-mobile-profile
+ [8]: https://tableless.com.br/browsers_em_dispositivos_moveis
+ [9]: https://visie.com.br/cursos/intermediarios/internetmovel2.php

@@ -146,7 +146,7 @@ O *switchMap* é um dos operadores que você irá usar e se orgulhar infinitamen
       ...
     }
 
-Temos um pouco mais de código, mas nada muito complexo, a lógica é simples: No evento *keyup* da barra de pesquisa a função ***handleFilterChange*** é chamada e ela adiciona o valor ao *[Subject](http://reactivex.io/documentation/subject.html)* (que em tese, é uma versão bidirecional do *Observable*), após isso, temos no *ngOnInit* a variável *users* recebendo o resultado do *switchMap*, que busca os usuários filtrando com o valor passado. Sendo assim, quando digitarmos *“Paulo”*, apenas a última requisição será processada e terá seu valor atribuído à variável *users*, pois foi a última a ser enviada.
+Temos um pouco mais de código, mas nada muito complexo, a lógica é simples: No evento *keyup* da barra de pesquisa a função ***handleFilterChange*** é chamada e ela adiciona o valor ao *[Subject](https://reactivex.io/documentation/subject.html)* (que em tese, é uma versão bidirecional do *Observable*), após isso, temos no *ngOnInit* a variável *users* recebendo o resultado do *switchMap*, que busca os usuários filtrando com o valor passado. Sendo assim, quando digitarmos *“Paulo”*, apenas a última requisição será processada e terá seu valor atribuído à variável *users*, pois foi a última a ser enviada.
 
 Mas ainda assim, podemos diminuir este número para apenas uma requisição, e poupar, além de processamento, consumo de dados!
 

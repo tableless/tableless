@@ -91,8 +91,8 @@ A primeira vez que mexi com AngularJS e fiz algo bem básico, logo pensei: essa 
 
 O exemplo das tabs e uma aplicação básica de ToDo que fiz com AngualrJS pode ser visto direto [aqui no meu GitHub][7].
 
- [1]: http://twitter.com/rodrigobranas
- [2]: http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/ "Criando uma aplicação simples com AngularJS"
+ [1]: https://twitter.com/rodrigobranas
+ [2]: https://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/ "Criando uma aplicação simples com AngularJS"
  [3]: https://docs.angularjs.org/api/ng/directive/ngClick
  [4]: https://docs.angularjs.org/api/ng/directive/ngClass
  [5]: https://docs.angularjs.org/api/ng/directive/ngShow

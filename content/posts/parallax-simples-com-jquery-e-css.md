@@ -8,7 +8,7 @@ url: /parallax-simples-com-jquery-e-css/
 tweetbackscheck:
   - 1356325721
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7592";s:7:"tinyurl";s:26:"http://tinyurl.com/cjtr2qg";s:4:"isgd";s:19:"http://is.gd/N0NxVG";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7592";s:7:"tinyurl";s:26:"https://tinyurl.com/cjtr2qg";s:4:"isgd";s:19:"https://is.gd/N0NxVG";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 1024953901
@@ -149,6 +149,6 @@ O código final fica assim:
 
 Veja o [exemplo completo aqui][3].
 
- [1]: http://www.uxdesign.blog.br/imersao/a-imersao-do-efeito-parallax/
- [2]: http://en.wikipedia.org/wiki/Parallax
- [3]: http://tableless.github.com/exemplos/parallax/parallax.html
+ [1]: https://www.uxdesign.blog.br/imersao/a-imersao-do-efeito-parallax/
+ [2]: https://en.wikipedia.org/wiki/Parallax
+ [3]: https://tableless.github.com/exemplos/parallax/parallax.html

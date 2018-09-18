@@ -91,6 +91,6 @@ Essa [apresentação vai te ajudar muito a entender melhor o vim][10].
  [5]: https://github.com/VundleVim/Vundle.vim
  [6]: https://www.google.com.br/search?q=vando&safe=off&client=safari&rls=en&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiqhqm086TRAhXCF5AKHQqRBVAQ_AUICSgC&biw=2398&bih=1351#safe=off&tbm=isch&q=vando+calcinha&imgrc=eFoxWJye6tM-TM%3A
  [7]: https://github.com/diegoeis/configfiles/blob/master/vimrc
- [8]: http://macvim-dev.github.io/macvim/
+ [8]: https://macvim-dev.github.io/macvim/
  [9]: https://github.com/macvim-dev/macvim/wiki/FAQ
  [10]: https://faraohh.files.wordpress.com/2009/01/vim-super_editor.pdf

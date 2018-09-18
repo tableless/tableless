@@ -25,4 +25,4 @@ Nem preciso dizer que você também consegue fazer um rollback para a change ant
 
 Se você for usar apenas um repositório, é grátis, com a disponibilidade de ter deploys e usuários ilimitados. Tem uma [documentação da sua API bem aqui][1].
 
- [1]: http://deploybot.com/api/overview
+ [1]: https://deploybot.com/api/overview

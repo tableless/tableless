@@ -10,7 +10,7 @@ url: /seu-conteudo-agora-mobile/
 tweetbackscheck:
   - 1356399295
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7353";s:7:"tinyurl";s:26:"http://tinyurl.com/c5tcph9";s:4:"isgd";s:19:"http://is.gd/35weVb";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7353";s:7:"tinyurl";s:26:"https://tinyurl.com/c5tcph9";s:4:"isgd";s:19:"https://is.gd/35weVb";}'
 twittercomments:
   - 'a:0:{}'
 categories:
@@ -18,7 +18,7 @@ categories:
   - Traduções
 
 ---
-_Resumo do 1° capítulo do livro “<a href="http://www.abookapart.com/products/content-strategy-for-mobile" target="_blank">Strategy for Mobile</a>” de Karen MacGrane, disponível na Editora <a href="http://www.abookapart.com/" target="_blank">A Book Apart</a>_.
+_Resumo do 1° capítulo do livro “<a href="https://www.abookapart.com/products/content-strategy-for-mobile" target="_blank">Strategy for Mobile</a>” de Karen MacGrane, disponível na Editora <a href="https://www.abookapart.com/" target="_blank">A Book Apart</a>_.
 
 Quando falamos sobre criar produtos e serviços para mobile, a conversa tende a concentrar-se nos desafios do design e desenvolvimento. Como a estética do nosso design muda quando estamos lidando com uma tela menor (ou com maior resolução)? Como podemos empregar (e ensinar) novas interações gestuais, que aproveitem as capacidades touchscreen? Como (e quem) vamos escrever o código para todas essas diferentes plataformas – e como manteremos todas elas?
 
@@ -32,7 +32,7 @@ Não se desespere, pois há notícias bem melhores no fim deste arco-íris. Tire
 
 ## MOBILE NÃO É UMA VERSÃO “LITE”
 
-_“Imagine-se agora num trem. Você iria Gostar se eu lhe oferecesse uma versão de site mobile ofensivamente simplificada?” – _Cennydd Bowles (<a href="http://bkaprt.com/csm/15" target="_blank">http://bkaprt.com/csm/15</a>)”
+_“Imagine-se agora num trem. Você iria Gostar se eu lhe oferecesse uma versão de site mobile ofensivamente simplificada?” – _Cennydd Bowles (<a href="https://bkaprt.com/csm/15" target="_blank">https://bkaprt.com/csm/15</a>)”
 
 Se as pessoas querem fazer algo na internet, elas vão querer fazê-lo usando seus dispositivos mobile.
 
@@ -46,7 +46,7 @@ Conhecer o tipo de dispositivo que o usuário está carregando não diz nada sob
 
 ### O contexto não mobile
 
-Usuários têm acessado nosso conteúdo através de telas com tamanhos e resoluções bem diversificados. Dados relatados pela SecureCube mostram que, em janeiro de 2000, a maioria dos usuários acessavam a partir de um navegador com resolução de 800 x 600, mas uma minoria significativa (29%) acessavam o site em 1024 x 768 ou superior, com uma pequena porcentagem (11%) em sites em 640 x 480 (<a href="http://bkaprt.com/csm/16" target="_blank">http://bkaprt.com/csm/16</a>; fig 1.1). Naquela época, as decisões sobre a melhor forma de apresentar o conteúdo eram vistas como desafios de design, e os desenvolvedores procuravam oferecer uma boa experiência na leitura para os usuários em todas as resoluções, discutindo formas apropriadas de ajustar a largura de colunas layout, conforme o redimensionamento da tela.
+Usuários têm acessado nosso conteúdo através de telas com tamanhos e resoluções bem diversificados. Dados relatados pela SecureCube mostram que, em janeiro de 2000, a maioria dos usuários acessavam a partir de um navegador com resolução de 800 x 600, mas uma minoria significativa (29%) acessavam o site em 1024 x 768 ou superior, com uma pequena porcentagem (11%) em sites em 640 x 480 (<a href="https://bkaprt.com/csm/16" target="_blank">https://bkaprt.com/csm/16</a>; fig 1.1). Naquela época, as decisões sobre a melhor forma de apresentar o conteúdo eram vistas como desafios de design, e os desenvolvedores procuravam oferecer uma boa experiência na leitura para os usuários em todas as resoluções, discutindo formas apropriadas de ajustar a largura de colunas layout, conforme o redimensionamento da tela.
 
 <img class="alignleft" src="https://www.alistapart.com/d/your-content-now-mobile/mcgrane-1-1.png" alt="" width="540" height="272" />
 
@@ -88,7 +88,7 @@ Os especialistas e designers de apps mobile não decidem o que é realmente impo
 
 _Fig 1.3: O app para iphone da Southwest Airlines só tem espaço para o que realmente é importante… desde que o que seja importante não envolva a busca por informações._
 
-Nos meses que se passaram, 86% dos donos de Smartphones usaram seus celulares na busca de informações que ajudasse na solução de problemas, em discussões, no levantamento de informações sobre o tráfego ou resultados de jogos, e ainda para visitar algum estabelecimento – um restaurante, por exemplo (<a href="http://bkaprt.com/csm/27" target="_blank">http://bkaprt.com/csm/27</a>). Não acredita? Então olhe no histórico da busca do seu próprio dispositivo – provavelmente você já tentou obter respostas a diversas questões através do seu celular.
+Nos meses que se passaram, 86% dos donos de Smartphones usaram seus celulares na busca de informações que ajudasse na solução de problemas, em discussões, no levantamento de informações sobre o tráfego ou resultados de jogos, e ainda para visitar algum estabelecimento – um restaurante, por exemplo (<a href="https://bkaprt.com/csm/27" target="_blank">https://bkaprt.com/csm/27</a>). Não acredita? Então olhe no histórico da busca do seu próprio dispositivo – provavelmente você já tentou obter respostas a diversas questões através do seu celular.
 
 A versão desktop da Southwest Airlines inclui informações como normas de transporte de bagagens, incluindo informações sobre despacho de malas, bagagens de mão e animais de estimação, assim como achados e perdidos, atrasos, e uma variedade de outras informações aos viajantes, tais como o que fazer caso perca o seu bilhete, se precisar remarcar, ou caso o seu voo esteja atrasado. Esta versão ainda inclui informações aos pais que desejam fazer reservas a menores de idade, e sobre as adaptações da Southwest aos deficientes e idosos.
 
@@ -100,7 +100,7 @@ Isto não é uma experiência mobile? Quem somos nós para dizer que esse conte�
 
 Você já clicou em um link do Facebook ou Twitter em seu celular? E num link de e-mail que alguém lhe enviou?
 
-É claro que você já fez isso. Compartilhar conteúdo com nossos amigos e colegas é uma das formas mais básicas de se comunicar atualmente. Os usuários não fazem distinção entre acessar um e-mail, Facebook, Twitter, ou outros serviços sociais no desktop ou mobile – eles escolhem de maneira natural, dependendo do dispositivo que está mais próximo no momento. Na verdade, desde junho de 2012, quase 20% dos membros do Facebook utilizam exclusivamente sua versão mobile (<a href="http://bkaprt.com/csm/28" target="_blank">http://bkaprt.com/csm/28</a>).
+É claro que você já fez isso. Compartilhar conteúdo com nossos amigos e colegas é uma das formas mais básicas de se comunicar atualmente. Os usuários não fazem distinção entre acessar um e-mail, Facebook, Twitter, ou outros serviços sociais no desktop ou mobile – eles escolhem de maneira natural, dependendo do dispositivo que está mais próximo no momento. Na verdade, desde junho de 2012, quase 20% dos membros do Facebook utilizam exclusivamente sua versão mobile (<a href="https://bkaprt.com/csm/28" target="_blank">https://bkaprt.com/csm/28</a>).
 
 Se seu conteúdo não está disponível na versão mobile – ou oferece uma experiência de leitura ruim – você está perdendo uma das formas mais atrativas de fazer com que as pessoas o leiam. Seu site é cheio de ícones tentando fazer com que os usuários compartilhem seu conteúdo? Se seus leitores receberem uma mensagem de erro ao tentar compartilhá-lo, todos os esforços para animá-lo a fazer isto serão desperdiçados (fig 1.4).
 
@@ -110,7 +110,7 @@ _Fig 1.4: “Nenhum conteúdo mobile foi encontrado. Você gostaria de visitar a
 
 **DESIGN PARA O CONTEXTO**
 
-“Contexto” é a palavra do momento quando o assunto é mobile. Na conferência da South by Southwest Interactive de 2011, o painel chamado “Designing for Context” (Design para contexto ou Projetando para o contexto) foi sessão obrigatória, de acordo com a .Net Magazine (<a href="http://bkaprt.com/csm/29" target="_blank">http://bkaprt.com/csm/29</a>).
+“Contexto” é a palavra do momento quando o assunto é mobile. Na conferência da South by Southwest Interactive de 2011, o painel chamado “Designing for Context” (Design para contexto ou Projetando para o contexto) foi sessão obrigatória, de acordo com a .Net Magazine (<a href="https://bkaprt.com/csm/29" target="_blank">https://bkaprt.com/csm/29</a>).
 
 A ideia é que você possa adaptar seu conteúdo ao contexto do usuário – localização, hora do dia, ambiente social, preferências pessoais. Com base no que você sabe a respeito do usuário, você possa dinamicamente personalizar a experiência, de modo que ela se adapte às suas necessidades.
 
@@ -120,7 +120,7 @@ Hoje, costumamos “projetar para contextos mobile” como uma desculpa para faz
 
 Presumir que o “designer sabe o que é melhor” ao escolher como entregar um conteúdo ou funcionalidade personalizada é arriscado. Somos notoriamente ruins em prever o que alguém vai querer. E mesmo armados com dados reais, estamos propensos a fazer suposições incorretas quando decidimos em mostrar ou esconder algo.
 
-O Microsoft Office tentou essa estratégia no fim dos anos 90. O Office 97 oferecia vários recursos e aprimoramentos novos, os quais tornaram a interface mais complexa. Longos menus e densas barras de ferramentas deram a impressão de que a interface estava “inchada” (<a href="http://bkaprt.com/csm/30" target="_blank">http://bkaprt.com/csm/30</a>). (isto se assemelha a versões desktop de sites que você conhece?)
+O Microsoft Office tentou essa estratégia no fim dos anos 90. O Office 97 oferecia vários recursos e aprimoramentos novos, os quais tornaram a interface mais complexa. Longos menus e densas barras de ferramentas deram a impressão de que a interface estava “inchada” (<a href="https://bkaprt.com/csm/30" target="_blank">https://bkaprt.com/csm/30</a>). (isto se assemelha a versões desktop de sites que você conhece?)
 
 Em resposta, a Microsoft desenvolveu “Menus personalizados” e “Barras de ferramentas entroncadas” que mostravam os itens mais populares primeiro (fig 1.5). Embora a Microsoft tivesse bons dados e um poderoso algoritmo para ajudar a determinar quais itens devessem ser priorizados, descobriu-se que os usuários não gostavam de ser previstos. As pessoas achavam muito frustrante passar por um processo de dois estágios, procurando por múltiplos menus até encontrar o que buscavam. Menus personalizados violam um dos princípios fundamentais do design em uso: o de colocar o usuário no controle.
 
@@ -138,7 +138,7 @@ As escolhas que você faz sobre o subconjunto do conteúdo a ser entregue ao seu
 
 E mesmo que você tenha dados analíticos, sobre o conteúdo mais buscado no mobile, é provável que você não possua um quadro preciso do que as pessoas realmente querem. Hoje, a deficiente experiência mobile é testada de forma inadequada ao avaliar o que as pessoas desejam fazer. É como Jason Grigsby, Co-fundador daCloudFour.com e MobilePortland.com disse:
 
-_“Não podemos prever o comportamento futuro de uma experiência atual que é uma droga”_(<a href="http://bkaprt.com/csm/31" target="_blank">http://bkaprt.com/csm/31</a>)
+_“Não podemos prever o comportamento futuro de uma experiência atual que é uma droga”_(<a href="https://bkaprt.com/csm/31" target="_blank">https://bkaprt.com/csm/31</a>)
 
 Se a sua visão mobile é a do design para contexto, então o primeiro passo que você deve dar é pôr todo o seu conteúdo também nos dispositivos mobile.
 
@@ -160,8 +160,8 @@ Nunca force os usuários a ir à versão desktop do seu site, quando estiverem b
 
 —
 
-_Traduzido com autorização da <a href="http://www.alistapart.com/" target="_blank">A List Apart Magazine</a> e do autor._
+_Traduzido com autorização da <a href="https://www.alistapart.com/" target="_blank">A List Apart Magazine</a> e do autor._
 
-_Artigo original escrito por <a href="http://www.alistapart.com/authors/m/Karen%20McGrane" target="_blank">Karen McGrane</a>._
+_Artigo original escrito por <a href="https://www.alistapart.com/authors/m/Karen%20McGrane" target="_blank">Karen McGrane</a>._
 
-_Acesse o artigo original no <a href="http://www.alistapart.com/articles/your-content-now-mobile/" target="_blank">A List Apart</a> – Your Content, Now Mobile – 5 de novembro de 2012._
+_Acesse o artigo original no <a href="https://www.alistapart.com/articles/your-content-now-mobile/" target="_blank">A List Apart</a> – Your Content, Now Mobile – 5 de novembro de 2012._

@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356466248
 shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/o-que-etableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3tz22up";s:4:"isgd";s:19:"http://is.gd/4idbWy";}'
+  - 'a:3:{s:9:"permalink";s:40:"https://tableless.com.br/o-que-etableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3tz22up";s:4:"isgd";s:19:"https://is.gd/4idbWy";}'
 twittercomments:
   - 'a:3:{i:196954586181939200;s:7:"retweet";i:196954585913491456;s:7:"retweet";i:196954585854779393;s:7:"retweet";}'
 tweetcount:

@@ -7,7 +7,7 @@ url: /codeshow-inscricoes-para-assistir-online/
 tweetbackscheck:
   - 1356427652
 shorturls:
-  - 'a:3:{s:9:"permalink";s:64:"http://tableless.com.br/codeshow-inscricoes-para-assistir-online";s:7:"tinyurl";s:26:"http://tinyurl.com/3wnzcf6";s:4:"isgd";s:19:"http://is.gd/JrDjGg";}'
+  - 'a:3:{s:9:"permalink";s:64:"https://tableless.com.br/codeshow-inscricoes-para-assistir-online";s:7:"tinyurl";s:26:"https://tinyurl.com/3wnzcf6";s:4:"isgd";s:19:"https://is.gd/JrDjGg";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037403
@@ -21,6 +21,6 @@ Acho que qualquer computador tem as especificações técnicas para ver a transm
 
 Estou meio ausente aqui do Tableless, se você quiser saber porque, só [visitar o meu Twitter][3].
 
- [1]: http://visie.com.br/matricula
- [2]: http://www.igrejaadventista.org.br/adra.asp
- [3]: http://twitter.com/diegoeis
+ [1]: https://visie.com.br/matricula
+ [2]: https://www.igrejaadventista.org.br/adra.asp
+ [3]: https://twitter.com/diegoeis

@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356454344
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/html5-estrutura-semantica";s:7:"tinyurl";s:26:"http://tinyurl.com/3kpur8s";s:4:"isgd";s:19:"http://is.gd/BlH9VO";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/html5-estrutura-semantica";s:7:"tinyurl";s:26:"https://tinyurl.com/3kpur8s";s:4:"isgd";s:19:"https://is.gd/BlH9VO";}'
 twittercomments:
   - 'a:3:{i:19728203417387008;s:6:"136503";i:102575489302003712;s:7:"retweet";i:102563722484133888;s:7:"retweet";}'
 tweetcount:
@@ -107,7 +107,7 @@ Para saber mais sobre isso, leia: [The Elements Of HTML 5][4].
   
 Irei escrever outros artigos sobre a inserção de vídeo e audio no código e uma série de outros assuntos interessantes sobre HTML 5. E o que você acha disso tudo? Deixe seu comentário!
 
- [1]: http://tableless.com.br/microformatos-internet-movel-e-quem-ainda-nao-entendeu-nada
- [2]: http://tableless.com.br/html-5-semantica-e-o-que-e-importante-na-web
+ [1]: https://tableless.com.br/microformatos-internet-movel-e-quem-ainda-nao-entendeu-nada
+ [2]: https://tableless.com.br/html-5-semantica-e-o-que-e-importante-na-web
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/1999/11/printtableless.gif
- [4]: http://www.whatwg.org/specs/web-apps/current-work/multipage/semantics.html
+ [4]: https://www.whatwg.org/specs/web-apps/current-work/multipage/semantics.html

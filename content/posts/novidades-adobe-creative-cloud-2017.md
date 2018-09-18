@@ -5,7 +5,7 @@ type: post
 date: 2016-12-19
 url: /novidades-adobe-creative-cloud-2017/
 enclosure:
-  - http://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/dff07833-7104-474a-a2ff-ab7c541aa8b6/5a25eade-06f4-4ae7-980b-286f35a97369_20161021120402.960x540at1200_h264.mp4
+  - https://images-tv.adobe.com/avp/vr/17da0fa7-490c-4daa-a14e-9507b290149a/dff07833-7104-474a-a2ff-ab7c541aa8b6/5a25eade-06f4-4ae7-980b-286f35a97369_20161021120402.960x540at1200_h264.mp4
 categories:
   - Publieditorial
   - Tecnologia e Tendências
@@ -67,14 +67,14 @@ A feature que mais me chamou atenção foi o que eles chamam de **Quick Edit**. 
 
 Veja [todas as features do Dreamweaver 2017 aqui][11]. Vale a pena dar uma nova chance, já que ele tem ficado mais esperto a cada versão.
 
- [1]: http://www.software.com.br/p/adobe-creative-cloud
+ [1]: https://www.software.com.br/p/adobe-creative-cloud
  [2]: https://helpx.adobe.com/photoshop/using/touchbar.html
  [3]: uploads/2016/12/v3_TopView_new.jpg
  [4]: uploads/2016/12/All_tab.png
- [5]: http://www.adobe.com/creativecloud/features.photoshop-cc-in-app-search.socialshare.html?scid=social67131146#photoshop-cc-in-app-search
- [6]: http://diegoeis.deviantart.com/art/Battle-Chasers-in-vetor-6907950
+ [5]: https://www.adobe.com/creativecloud/features.photoshop-cc-in-app-search.socialshare.html?scid=social67131146#photoshop-cc-in-app-search
+ [6]: https://diegoeis.deviantart.com/art/Battle-Chasers-in-vetor-6907950
  [7]: https://helpx.adobe.com/illustrator/using/whats-new.html
- [8]: http://www.adobe.com/creativecloud/features.html
- [9]: http://max.adobe.com/sessions/max-online/
+ [8]: https://www.adobe.com/creativecloud/features.html
+ [9]: https://max.adobe.com/sessions/max-online/
  [10]: https://helpx.adobe.com/dreamweaver/using/whats-new/_jcr_content/main-pars/image_1350455085.img.gif/codehint.gif
- [11]: http://www.adobe.com/br/products/dreamweaver/features.html
+ [11]: https://www.adobe.com/br/products/dreamweaver/features.html

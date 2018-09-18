@@ -74,12 +74,12 @@ Para iniciar um projeto é muito simples, com poucos passos já esta tudo config
 
 ## PARA SABER MAIS:
 
-Criando um projeto: <a href="http://laravel-recipes.com/recipes/30/creating-a-laravel-project">http://laravel-recipes.com/recipes/30/creating-a-laravel-project</a>
+Criando um projeto: <a href="https://laravel-recipes.com/recipes/30/creating-a-laravel-project">https://laravel-recipes.com/recipes/30/creating-a-laravel-project</a>
 
 Documentação do framework: <a href="https://laravel.com/docs/5.4">https://laravel.com/docs/5.4</a>
 
 O que é o laravel: <a href="https://code.tutsplus.com/tutorials/getting-started-with-laravel--cms-25386">https://code.tutsplus.com/tutorials/getting-started-with-laravel--cms-25386</a>
 
-10 razões para usar laravel: <a href="http://acadtec.com.br/site/blog/item/61-10-razoes-para-usar-laravel.html">http://acadtec.com.br/site/blog/item/61-10-razoes-para-usar-laravel.html</a>
+10 razões para usar laravel: <a href="https://acadtec.com.br/site/blog/item/61-10-razoes-para-usar-laravel.html">https://acadtec.com.br/site/blog/item/61-10-razoes-para-usar-laravel.html</a>
 
-Arquivo .env: <a href="http://pt.stackoverflow.com/questions/156660/laravel-5-arquivo-env">http://pt.stackoverflow.com/questions/156660/laravel-5-arquivo-env</a>
+Arquivo .env: <a href="https://pt.stackoverflow.com/questions/156660/laravel-5-arquivo-env">https://pt.stackoverflow.com/questions/156660/laravel-5-arquivo-env</a>

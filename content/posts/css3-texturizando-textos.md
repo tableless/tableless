@@ -8,7 +8,7 @@ url: /css3-texturizando-textos/
 tweetbackscheck:
   - 1356415575
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5542";s:7:"tinyurl";s:26:"http://tinyurl.com/7evv8xy";s:4:"isgd";s:19:"http://is.gd/TBTIPr";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5542";s:7:"tinyurl";s:26:"https://tinyurl.com/7evv8xy";s:4:"isgd";s:19:"https://is.gd/TBTIPr";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 586505255
@@ -101,7 +101,7 @@ Reload no navegador&#8230; e voilá! Um texto com um preenchimento texturizado.
 
 [<img class="alignnone size-medium wp-image-5553" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/02/img3.png" alt="" width="300" height="117" />][3]
 
-Daí para frente você pode incrementar utilizando <a title="Propriedade @font-face CSS – Fonts externas na web" href="http://tableless.com.br/font-face-fonts-externas-na-web/" target="_blank">font-face</a>, <a title="CSS3 – Sombras em textos e elementos" href="http://tableless.com.br/css3-sombras-em-textos-e-elementos/" target="_blank">text-shadow</a> ou outras texturas. Fica a critério da sua criatividade.
+Daí para frente você pode incrementar utilizando <a title="Propriedade @font-face CSS – Fonts externas na web" href="https://tableless.com.br/font-face-fonts-externas-na-web/" target="_blank">font-face</a>, <a title="CSS3 – Sombras em textos e elementos" href="https://tableless.com.br/css3-sombras-em-textos-e-elementos/" target="_blank">text-shadow</a> ou outras texturas. Fica a critério da sua criatividade.
 
 Até a próxima!
 

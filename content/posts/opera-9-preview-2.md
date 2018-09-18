@@ -7,7 +7,7 @@ url: /opera-9-preview-2/
 tweetbackscheck:
   - 1356443209
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/opera-9-preview-2";s:7:"tinyurl";s:26:"http://tinyurl.com/3z6nd95";s:4:"isgd";s:19:"http://is.gd/qxrU4S";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/opera-9-preview-2";s:7:"tinyurl";s:26:"https://tinyurl.com/3z6nd95";s:4:"isgd";s:19:"https://is.gd/qxrU4S";}'
 twittercomments:
   - 'a:1:{i:11101609127841793;s:7:"retweet";}'
 tweetcount:
@@ -35,11 +35,11 @@ Outros detalhes interessantes são: o menu de feeds, que facilita um pouquinho, 
 
 Para um preview, o Opera 9 vem prometendo. Está bastante estável e muito mais inovador e útil que o, bem, vocês sabem, 7.0.
 
- [1]: http://slashdot.org/article.pl?sid=06/02/08/0017226&from=rss
- [2]: http://tableless.com.br/shots/opera9th.jpg
- [3]: http://tableless.com.br/shots/opera.jpg
- [4]: http://www.webstandards.org/act/acid2/
- [5]: http://www.apple.com/macosx/features/dashboard/
- [6]: http://widgets.yahoo.com/
- [7]: http://netdragon.sourceforge.net/ssuperkaramba.html
- [8]: http://tableless.com.br/shots/opera9feeds.jpg
+ [1]: https://slashdot.org/article.pl?sid=06/02/08/0017226&from=rss
+ [2]: https://tableless.com.br/shots/opera9th.jpg
+ [3]: https://tableless.com.br/shots/opera.jpg
+ [4]: https://www.webstandards.org/act/acid2/
+ [5]: https://www.apple.com/macosx/features/dashboard/
+ [6]: https://widgets.yahoo.com/
+ [7]: https://netdragon.sourceforge.net/ssuperkaramba.html
+ [8]: https://tableless.com.br/shots/opera9feeds.jpg

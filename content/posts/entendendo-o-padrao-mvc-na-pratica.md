@@ -38,7 +38,7 @@ _View_ não é só o HTML, mas qualquer tipo de retorno de dados, como _PDF_, _
 
 O _controller_ diz quando as coisas devem acontecer. Só isso.
 
-É usado para intermediar a _model_ e a _view_ de uma camada. Por exemplo, para pegar dados da _model_ (guardados em um banco) e exibir na _view_ (em uma página HTML), ou pegar os dados de um formulário (_view_) e enviar para alguém (_model_). Também é responsabilidade do _controller_ cuidar das requisições (_request_ e _response_) e isso também inclui os famosos _middlewares_ (<a href="http://laravel.com/" target="_blank">Laravel</a>, <a href="http://www.slimframework.com/" target="_blank">Slim Framework</a>, <a href="http://expressjs.com/" target="_blank">Express</a>, <a href="http://www.rubyonrails.com.br/" target="_blank">Ruby on Rails</a>, etc.). O _controller_ não precisa saber como obter os dados nem como exibi-los, só quando fazer isso.
+É usado para intermediar a _model_ e a _view_ de uma camada. Por exemplo, para pegar dados da _model_ (guardados em um banco) e exibir na _view_ (em uma página HTML), ou pegar os dados de um formulário (_view_) e enviar para alguém (_model_). Também é responsabilidade do _controller_ cuidar das requisições (_request_ e _response_) e isso também inclui os famosos _middlewares_ (<a href="https://laravel.com/" target="_blank">Laravel</a>, <a href="https://www.slimframework.com/" target="_blank">Slim Framework</a>, <a href="https://expressjs.com/" target="_blank">Express</a>, <a href="https://www.rubyonrails.com.br/" target="_blank">Ruby on Rails</a>, etc.). O _controller_ não precisa saber como obter os dados nem como exibi-los, só quando fazer isso.
 
 ## Na prática
 
@@ -46,12 +46,12 @@ Uma sugestão aos desenvolvedores é criar seu próprio _framework_ de estudo (
 
 Neste estudo, vamos criar uma aplicação MVC simples com PHP, usando práticas modernas.
 
-Para começar, vamos utilizar a ideia de que não devemos criar nada que já existe: este é o princípio da interoperabilidade buscada pelo <a href="http://www.php-fig.org/" target="_blank">PHP-FIG</a> (grupo formado pelas principais empresas e grupos PHP para definir boas práticas e padrões). Utilizaremos <a href="http://www.php-fig.org/psr/psr-4/" target="_blank">PSR-4</a> e <a href="https://getcomposer.org/" target="_blank">Composer</a> para gerenciar o carregamento das classes.
+Para começar, vamos utilizar a ideia de que não devemos criar nada que já existe: este é o princípio da interoperabilidade buscada pelo <a href="https://www.php-fig.org/" target="_blank">PHP-FIG</a> (grupo formado pelas principais empresas e grupos PHP para definir boas práticas e padrões). Utilizaremos <a href="https://www.php-fig.org/psr/psr-4/" target="_blank">PSR-4</a> e <a href="https://getcomposer.org/" target="_blank">Composer</a> para gerenciar o carregamento das classes.
 
-Para instalar o Composer, cito uma parte do artigo <a href="http://tableless.com.br/composer-para-iniciantes/" target="_blank">Composer para iniciantes</a> de <a href="http://www.andrebian.com/" target="_blank">Andre Cardoso</a> aqui no Tableless:
+Para instalar o Composer, cito uma parte do artigo <a href="https://tableless.com.br/composer-para-iniciantes/" target="_blank">Composer para iniciantes</a> de <a href="https://www.andrebian.com/" target="_blank">Andre Cardoso</a> aqui no Tableless:
 
   * Primeiramente você precisa realizar o download do _phar_ do composer. O <a title="Descubra o que é um arquivo Phar" href="https://php.net/manual/pt_BR/book.phar.php" target="_blank">phar</a> é um empacotamento de uma aplicação e é utilizado para fornecer bibliotecas e ferramentas nas quais o desenvolvedor não tem de se preocupar com sua estrutura. Em outras palavras, é pegar e usar.
-  * Para que você obtenha o composer há duas maneiras distintas. Através da biblioteca <a title="Descubra o que é cURL" href="http://en.wikipedia.org/wiki/CURL" target="_blank">cURL</a> e através do próprio PHP. Basta selecionar uma das opções abaixo e executar em seu terminal.
+  * Para que você obtenha o composer há duas maneiras distintas. Através da biblioteca <a title="Descubra o que é cURL" href="https://en.wikipedia.org/wiki/CURL" target="_blank">cURL</a> e através do próprio PHP. Basta selecionar uma das opções abaixo e executar em seu terminal.
   * Instalando via cURL:
   
     `curl -sS https://getcomposer.org/installer | php`
@@ -59,7 +59,7 @@ Para instalar o Composer, cito uma parte do artigo <a href="http://tableless.
   
     `php -r “readfile(‘https://getcomposer.org/installer’);” | php`
 
-Para saber mais sobre <a href="http://www.php-fig.org/psr/psr-4/" target="_blank">PSR-4 veja o guia oficial aqui</a>.
+Para saber mais sobre <a href="https://www.php-fig.org/psr/psr-4/" target="_blank">PSR-4 veja o guia oficial aqui</a>.
 
 Na raiz do diretório do seu projeto crie estes 5 arquivos (e diretórios):
 
@@ -138,7 +138,7 @@ E no index.php adicione no final a linha:
 
 Ao rodar o index.php você verá um _&#8220;Olá mundo!&#8221;_ na tela. Agora vamos separar este código nas camadas do MVC.
 
-No _model_, vamos criar o método que serve o texto em questão. Ele poderia carregar um componente que facilitaria as tarefas com o banco de dados, como o <a href="http://www.doctrine-project.org/" target="_blank">Doctrine</a>, por exemplo, mas aqui só retorna um texto.
+No _model_, vamos criar o método que serve o texto em questão. Ele poderia carregar um componente que facilitaria as tarefas com o banco de dados, como o <a href="https://www.doctrine-project.org/" target="_blank">Doctrine</a>, por exemplo, mas aqui só retorna um texto.
 
 <pre>&lt;?php
    namespace App\Mvc;
@@ -150,7 +150,7 @@ No _model_, vamos criar o método que serve o texto em questão. Ele poderia ca
       }
    }</pre>
 
-Na _view_ vamos imprimir este texto na tela. Poderíamos carregar um _template engine_ (<a href="http://laravel.com/docs/5.0/templates" target="_blank">Blade</a>, <a href="http://twig.sensiolabs.org/" target="_blank">Twig</a>, etc.), ou até criar o nosso próprio, mas ele só fará um _echo_ mesmo.
+Na _view_ vamos imprimir este texto na tela. Poderíamos carregar um _template engine_ (<a href="https://laravel.com/docs/5.0/templates" target="_blank">Blade</a>, <a href="https://twig.sensiolabs.org/" target="_blank">Twig</a>, etc.), ou até criar o nosso próprio, mas ele só fará um _echo_ mesmo.
 
 <pre>&lt;?php
    namespace App\Mvc;
@@ -186,6 +186,6 @@ Apenas para reforçar, o exemplo abaixo deveria estar dentro de um arquivo de _M
 
 <pre>$users = User::whereRaw('age &gt; ? and votes = 100', [25])-&gt;get();</pre>
 
-Este último exemplo foi retirado de <a href="http://laravel.com/docs/5.0/eloquent" target="_blank">http://laravel.com/docs/5.0/eloquent</a>
+Este último exemplo foi retirado de <a href="https://laravel.com/docs/5.0/eloquent" target="_blank">https://laravel.com/docs/5.0/eloquent</a>
 
 Quanto mais organizada e centralizada a lógica, melhor. Pense nisso e comece a pesquisar <a href="https://www.google.com.br/search?q=Dependency+Injection&oq=Dependency+Injection&aqs=chrome..69i57&sourceid=chrome&es_sm=122&ie=UTF-8" target="_blank">Dependency Injection</a>. Isso organiza seu código ainda mais.

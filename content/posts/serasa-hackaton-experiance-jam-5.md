@@ -15,7 +15,7 @@ tags:
 
 ---
 A Serasa Experian inicia as inscrições para seu primeiro hackaton aberto a participantes externos, que acontecerá nos dias 18 e 19 de Agosto em São Carlos - SP. As premiações totalizam R$ 40 mil reais, sendo R$ 10 mil
-reais para cada um dos quatro desafios. Os participantes podem se inscrever para a maratona tecnológica individualmente ou em equipes pelo [site do evento](http://www.ej5.com.br), basta preencher o formulário online, ler e aceitar o regulamento.
+reais para cada um dos quatro desafios. Os participantes podem se inscrever para a maratona tecnológica individualmente ou em equipes pelo [site do evento](https://www.ej5.com.br), basta preencher o formulário online, ler e aceitar o regulamento.
 
 Os times formados devem conter de três a 10 participantes, e são indicados ao menos dois desenvolvedores e um designer de UX na composição da equipe. Serão selecionados 200 participantes para o hackathon, que terão das 9 horas do dia 18 às 18 horas do dia 19 para resolver os desafios propostos.
 
@@ -34,6 +34,6 @@ Como todo bom Hackathon, o EJ5 também tem bons desafios que os devs participar�
 
 Se você estiver interessado, fique esperto nas datas:
 
-- Inscrições até dia 27/07 nesse link [http://experiancejam.com.br/hackathon-da-serasa-experian#typeform](http://experiancejam.com.br/hackathon-da-serasa-experian#typeform)
+- Inscrições até dia 27/07 nesse link [https://experiancejam.com.br/hackathon-da-serasa-experian#typeform](https://experiancejam.com.br/hackathon-da-serasa-experian#typeform)
 - Data do evento: 18 e 19 de agosto de 2018
 - Local: Serasa Experian São Carlos - Av. Juscelino Kubitscheck, 100 – São Carlos SP

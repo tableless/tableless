@@ -21,7 +21,7 @@ Tudo perfeito? Na teoria sim, na prática não.
 
 ## Ao menos tente aplicar Progressive Enhancement {#ao-menos-tente-aplicar-progressive-enhancement}
 
-Em poucas palavras, **Progressive Enhancement** é uma maneira de desenvolver aplicações de forma a suportar browser antigos, conexões lentar, etc. Se você não sabe o que é esse termo, vá atrás porque passou da hora. _(Recomendo esse post do <a title="Diego Eis no Twitter" href="https://twitter.com/diegoeis" target="_blank">@diegoeis</a> sobre o assunto: <a title="Fault Tolerance: a base do Progressive Enhancement" href="http://tableless.com.br/faut-tolerant-base-progressive-enhancement/" target="_blank">Fault Tolerance: a base do Progressive Enhancement</a>)_
+Em poucas palavras, **Progressive Enhancement** é uma maneira de desenvolver aplicações de forma a suportar browser antigos, conexões lentar, etc. Se você não sabe o que é esse termo, vá atrás porque passou da hora. _(Recomendo esse post do <a title="Diego Eis no Twitter" href="https://twitter.com/diegoeis" target="_blank">@diegoeis</a> sobre o assunto: <a title="Fault Tolerance: a base do Progressive Enhancement" href="https://tableless.com.br/faut-tolerant-base-progressive-enhancement/" target="_blank">Fault Tolerance: a base do Progressive Enhancement</a>)_
 
 Há pouco tempo eu era um hater de aplicações e frameworks que não davam suporte ao PE (Progressive Enhancement) ou dificultavam esse tipo de abordagem. Mas o extremismo nunca é saudável. Em um comentário que fiz em um tweet do <a title="Daniel Filho no Twitter" href="https://twitter.com/danielfilho" target="_blank">@danielfilho</a>, ele respondeu algo que me fez mudar de opinião:
 
@@ -39,17 +39,17 @@ Há pouco tempo eu era um hater de aplicações e frameworks que não davam supo
 
 ## A web é acessível {#a-web--acessvel}
 
-A web em sua forma mais simples é acessível. Veja <a title="Exemplo de uma página acessível" href="http://codepen.io/fernahh/pen/OVJNWB" target="_blank">esse exemplo no Codepen</a>, só usei [Normalize][1] e HTML.
+A web em sua forma mais simples é acessível. Veja <a title="Exemplo de uma página acessível" href="https://codepen.io/fernahh/pen/OVJNWB" target="_blank">esse exemplo no Codepen</a>, só usei [Normalize][1] e HTML.
 
 Contraste perfeito. Links legíveis. Botões que parecem botões. Um leitor de tela provavelmente se daria bem lendo o conteúdo dessa página, mesmo sem uma extensão com [WAI-ARAI][2]. Um usuário provavelmente interpretaria rápido a informação com elementos expressados dessa forma.
 
 Mas se a web na sua forma mais crua é acessível, por que desenvolvedores fazem isso?
 
 <div style="width: 510px" class="wp-caption aligncenter">
-  <a href="http://sighjavascript.tumblr.com/" target="_blank"><img class="" src="https://41.media.tumblr.com/49748cc0168a329867f45fcc807ae650/tumblr_mslkvjXcmX1sgju96o1_1280.png" alt="Instagram sem JavaScript não funciona." width="500" height="400" /></a>
+  <a href="https://sighjavascript.tumblr.com/" target="_blank"><img class="" src="https://41.media.tumblr.com/49748cc0168a329867f45fcc807ae650/tumblr_mslkvjXcmX1sgju96o1_1280.png" alt="Instagram sem JavaScript não funciona." width="500" height="400" /></a>
   
   <p class="wp-caption-text">
-    Exemplo do tumblr &#8220;Sign, JavaScript&#8221; (http://sighjavascript.tumblr.com/)
+    Exemplo do tumblr &#8220;Sign, JavaScript&#8221; (https://sighjavascript.tumblr.com/)
   </p>
 </div>
 
@@ -63,5 +63,5 @@ Estude padrões.
 
 _Frameworks_, bibliotecas e pré-processadores são fantásticos, mas primeiro vamos fazer o que a web se propôs a fazer desde seu início: **ser inclusiva**.
 
- [1]: http://necolas.github.io/normalize.css/
- [2]: http://tableless.com.br/wai-aria-estendendo-o-significado-das-interacoes/
+ [1]: https://necolas.github.io/normalize.css/
+ [2]: https://tableless.com.br/wai-aria-estendendo-o-significado-das-interacoes/

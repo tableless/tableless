@@ -5,7 +5,7 @@ type: post
 date: 2012-09-28
 url: /conheca-o-maior-treinamento-de-html5-do-brasil/
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7054";s:7:"tinyurl";s:26:"http://tinyurl.com/97kc52e";s:4:"isgd";s:19:"http://is.gd/WcgDmW";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7054";s:7:"tinyurl";s:26:"https://tinyurl.com/97kc52e";s:4:"isgd";s:19:"https://is.gd/WcgDmW";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 871131785
@@ -58,4 +58,4 @@ Site: [www.quaddro.com.br][1]
 
 **Este é um publieditorial.**
 
- [1]: http://bit.ly/QvoA6u
+ [1]: https://bit.ly/QvoA6u

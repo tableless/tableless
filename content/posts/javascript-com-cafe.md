@@ -8,7 +8,7 @@ url: /javascript-com-cafe/
 tweetbackscheck:
   - 1356445044
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5840";s:7:"tinyurl";s:26:"http://tinyurl.com/bq5gbzj";s:4:"isgd";s:19:"http://is.gd/URbqAZ";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5840";s:7:"tinyurl";s:26:"https://tinyurl.com/bq5gbzj";s:4:"isgd";s:19:"https://is.gd/URbqAZ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 642090982
@@ -60,7 +60,7 @@ Além disso, ele pode também executar diretamente um script:
 
 [cce lang=&#8221;bash&#8221;]coffee codigo.coffee[/cce]
 
-Uma maneira mais fácil de testar e experimentar CoffeeScript é visitando o link &#8220;Try CoffeeScript&#8221; no <a href="http://coffeescript.org" title="CoffeeScript: Site oficial" target="_blank">site oficial da linguagem</a>. Lá você pode observar, em tempo real, o resultado da transformação de CoffeeScript em JavaScript.
+Uma maneira mais fácil de testar e experimentar CoffeeScript é visitando o link &#8220;Try CoffeeScript&#8221; no <a href="https://coffeescript.org" title="CoffeeScript: Site oficial" target="_blank">site oficial da linguagem</a>. Lá você pode observar, em tempo real, o resultado da transformação de CoffeeScript em JavaScript.
 
 ## Variáveis & Funções
 
@@ -146,9 +146,9 @@ especialidades: ["javascript", "jquery"]
     
 sites:
       
-blog: "http://www.daviferreira.com/blog"
+blog: "https://www.daviferreira.com/blog"
       
-portfolio: "http://www.daviferreira.com"
+portfolio: "https://www.daviferreira.com"
     
 social:
       
@@ -166,9 +166,9 @@ especialidades: ["javascript", "jquery"],
     
 sites: {
       
-blog: "http://www.daviferreira.com/blog",
+blog: "https://www.daviferreira.com/blog",
       
-portfolio: "http://www.daviferreira.com"
+portfolio: "https://www.daviferreira.com"
     
 },
     

@@ -8,7 +8,7 @@ url: /drops3-modular-css/
 tweetbackscheck:
   - 1356456396
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/drops3-modular-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3vg92vh";s:4:"isgd";s:19:"http://is.gd/5C98Nw";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/drops3-modular-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3vg92vh";s:4:"isgd";s:19:"https://is.gd/5C98Nw";}'
 enclosure:
   - |
     |
@@ -58,7 +58,7 @@ Veja todos os [nossos drops no Soundcloud][1].
 
 Se preferir faça o download do arquivo em [Mp3][2] ou [OGA][3]. Ou [inscreva no iTunes][4].
 
- [1]: http://soundcloud.com/tableless
+ [1]: https://soundcloud.com/tableless
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/drops3-modulando-css1.mp3 "Audio MP3 - Duas formas de modular se CSS"
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/drops3-modulando-css1.oga "Audio OGG - Duas formas de modular se CSS"
- [4]: http://itunes.apple.com/us/podcast/tableless-desenvolvimento/id73330789 "Drops do Tableless no iTunes."
+ [4]: https://itunes.apple.com/us/podcast/tableless-desenvolvimento/id73330789 "Drops do Tableless no iTunes."

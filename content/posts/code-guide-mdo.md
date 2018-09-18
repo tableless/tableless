@@ -24,7 +24,7 @@ Ontem a noite ele liberou um Guia de Escrita de Código. É um guia simples onde
 
 Eu [forkei o projeto e traduzi o guia para o português][3]. Mesmo assim eu preciso ainda de ajuda para revisão. Se alguém quiser ajudar ou apenas estiver curioso para ler o guia em português, visite: [Code Guide by @mdo][4].
 
- [1]: http://twitter.com/@mdo
- [2]: http://getbootstrap.com
+ [1]: https://twitter.com/@mdo
+ [2]: https://getbootstrap.com
  [3]: https://github.com/diegoeis/code-guide/
- [4]: http://diegoeis.github.io/code-guide/
+ [4]: https://diegoeis.github.io/code-guide/

@@ -8,7 +8,7 @@ url: /custom-post-types-wordpress/
 tweetbackscheck:
   - 1356387863
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/custom-post-types-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/4xnag2m";s:4:"isgd";s:19:"http://is.gd/XyqpeE";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/custom-post-types-wordpress";s:7:"tinyurl";s:26:"https://tinyurl.com/4xnag2m";s:4:"isgd";s:19:"https://is.gd/XyqpeE";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503026190
@@ -94,7 +94,7 @@ A variável **$args** é onde vamos colocar as informações do post. Explico co
       * **title:** inclui o título ao tipo do post
       * **editor:** inclui a área de conteúdo do post (VISUAL ou HTML) e uploader de mídia
       * **excerpts:** inclui o campo de resumo
-      * **thumbnail:** determina se o tipo de post pode inlcuir miniatura de post (http://tableless.com.br/adicionando-post-thumbnail)
+      * **thumbnail:** determina se o tipo de post pode inlcuir miniatura de post (https://tableless.com.br/adicionando-post-thumbnail)
       * **comments:** inclui os comentários
       * **trackbacks:** inclui os trackbacks
       * **custom-fields:** inclui a baixa de Custom Fields e se os campos serão automaticamente salvos
@@ -202,7 +202,7 @@ $newsArgs = array( 'post_type' =&gt; 'noticias', 'posts_per_page' =&gt; 4);
 
 O único termo desconhecido no Loop é a função **get\_the\_term_list**, que vai retornar a taxonomia para o post. O primeiro argumento é o valor do ID do post, o segundo valor é o nome definido da taxonomia, o terceiro valor é o que vai retonar antes de retornar as taxonomias e o último o separador.
 
-Não há dificuldade, o segredo está na variável **$newsArgs**, que é aonde você vai definir as opções da repetição, ele pode receber mais argumentos, que você pode ver em: http://codex.wordpress.org/Function\_Reference/WP\_Query
+Não há dificuldade, o segredo está na variável **$newsArgs**, que é aonde você vai definir as opções da repetição, ele pode receber mais argumentos, que você pode ver em: https://codex.wordpress.org/Function\_Reference/WP\_Query
 
 Para visualizar um post, editamos as informações no arquivo **single.php** do nosso tema, quando temos um Custom Post Type, por padrão ele lê com essa página, caso queria ter uma pagina só para o tipo de post, você pode uma nova página chamada **single-{slug}.php**, ou seja, essa slug seria trocada pelo nome do Custom Post Type, no nosso caso, **single-noticias.php**.
 
@@ -256,4 +256,4 @@ add_action('init', 'type_post_noticias');
 
 Ambas as formas estão corretas.
 
- [1]: http://tableless.com.br/o-loop-do-wordpress "O Loop do WordPress - Tableless"
+ [1]: https://tableless.com.br/o-loop-do-wordpress "O Loop do WordPress - Tableless"

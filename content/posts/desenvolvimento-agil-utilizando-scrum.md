@@ -147,6 +147,6 @@ Pode ser constrangedor explicar para um cliente por que ele não pode ter uma mu
 
 [Scrum Guide][3]
 
- [1]: http://online.wsj.com/article/SB10001424127887323452204578288192043905634.html "Family Inc"
- [2]: http://youtu.be/Sygm9x9sBEo "Another perspective on SCRUM"
- [3]: http://www.scrum.org/Scrum-Guides "Scrum Guide"
+ [1]: https://online.wsj.com/article/SB10001424127887323452204578288192043905634.html "Family Inc"
+ [2]: https://youtu.be/Sygm9x9sBEo "Another perspective on SCRUM"
+ [3]: https://www.scrum.org/Scrum-Guides "Scrum Guide"

@@ -114,34 +114,34 @@ Descubra o quanto o seu site é amigável com dispositivos móveis em um ranking
 
 Seguindo estas dicas é possível garantir um ótimo resultado em múltiplas plataformas. E vocês? Que ferramenta costumam utilizar para testar design responsivo? Deixem sugestões nos comentários e até a próxima!
 
- [1]: http://www.devicelab.com.br/ "Device Lab"
- [2]: http://clearleft.com/testlab/ "Clearleft"
- [3]: http://devicelab.fi/ "Device Lab"
- [4]: http://mobileportland.com/device-lab "Mobile Portland"
- [5]: http://www.bv02.com/device-lab "http://www.bv02.com/device-lab"
- [6]: http://opendevicelab.com/ "Open Device Lab"
- [7]: http://devicelab.fi/
- [8]: http://lab-up.org/ "LabUp"
- [9]: http://mobile.smashingmagazine.com/2012/09/24/establishing-an-open-device-lab/ "Establishing An Open Device Lab"
- [10]: http://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/ "Test on Real Mobile Devices without Breaking the Bank"
- [11]: http://dmolsen.com/2012/06/26/how-to-build-a-device-lab-part-1/ "How to Build a Device Lab"
- [12]: http://devicelab.vanamco.com/ "Device Lab"
- [13]: http://devicelab.vanamco.com/
- [14]: http://www.chadmanley.ca/ADOBE-DEVICE-WALL "Adobe Device Wall"
- [15]: http://www.chadmanley.ca/ADOBE-DEVICE-WALL
- [16]: http://quirktools.com/screenfly/ "Screenfly"
- [17]: http://quirktools.com/screenfly/
- [18]: http://www.responsinator.com/ "Responsinator"
- [19]: http://www.responsinator.com/about/ "Responsinator - About"
- [20]: http://www.responsinator.com/
- [21]: http://www.mobilexweb.com/emulators "Emulators"
- [22]: http://html.adobe.com/edge/inspect/
- [23]: http://html.adobe.com/edge/inspect/ "Adobe Edge Inspect"
- [24]: http://lab.maltewassermann.com/viewport-resizer/
- [25]: http://lab.maltewassermann.com/viewport-resizer/ "Viewport Resizer"
- [26]: http://screensiz.es/
- [27]: http://screensiz.es/ "Screensiz.es"
+ [1]: https://www.devicelab.com.br/ "Device Lab"
+ [2]: https://clearleft.com/testlab/ "Clearleft"
+ [3]: https://devicelab.fi/ "Device Lab"
+ [4]: https://mobileportland.com/device-lab "Mobile Portland"
+ [5]: https://www.bv02.com/device-lab "https://www.bv02.com/device-lab"
+ [6]: https://opendevicelab.com/ "Open Device Lab"
+ [7]: https://devicelab.fi/
+ [8]: https://lab-up.org/ "LabUp"
+ [9]: https://mobile.smashingmagazine.com/2012/09/24/establishing-an-open-device-lab/ "Establishing An Open Device Lab"
+ [10]: https://bradfrostweb.com/blog/mobile/test-on-real-mobile-devices-without-breaking-the-bank/ "Test on Real Mobile Devices without Breaking the Bank"
+ [11]: https://dmolsen.com/2012/06/26/how-to-build-a-device-lab-part-1/ "How to Build a Device Lab"
+ [12]: https://devicelab.vanamco.com/ "Device Lab"
+ [13]: https://devicelab.vanamco.com/
+ [14]: https://www.chadmanley.ca/ADOBE-DEVICE-WALL "Adobe Device Wall"
+ [15]: https://www.chadmanley.ca/ADOBE-DEVICE-WALL
+ [16]: https://quirktools.com/screenfly/ "Screenfly"
+ [17]: https://quirktools.com/screenfly/
+ [18]: https://www.responsinator.com/ "Responsinator"
+ [19]: https://www.responsinator.com/about/ "Responsinator - About"
+ [20]: https://www.responsinator.com/
+ [21]: https://www.mobilexweb.com/emulators "Emulators"
+ [22]: https://html.adobe.com/edge/inspect/
+ [23]: https://html.adobe.com/edge/inspect/ "Adobe Edge Inspect"
+ [24]: https://lab.maltewassermann.com/viewport-resizer/
+ [25]: https://lab.maltewassermann.com/viewport-resizer/ "Viewport Resizer"
+ [26]: https://screensiz.es/
+ [27]: https://screensiz.es/ "Screensiz.es"
  [28]: https://developers.google.com/speed/pagespeed/insights/
  [29]: https://developers.google.com/speed/pagespeed/insights/ "Insights"
- [30]: http://www.iammobile.co.uk/
- [31]: http://www.iammobile.co.uk/ "I am mobile"
+ [30]: https://www.iammobile.co.uk/
+ [31]: https://www.iammobile.co.uk/ "I am mobile"

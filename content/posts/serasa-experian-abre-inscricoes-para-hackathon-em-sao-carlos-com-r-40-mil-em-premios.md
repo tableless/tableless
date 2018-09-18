@@ -111,7 +111,7 @@ Os interessados em participar do Experiance Jam devem se inscrever pelo site [ww
 </p>
 
 <p class="p3">
-  <span class="s1">Para mais informações, visite <a href="http://www.serasaexperian.com.br"><span class="s5">www.serasaexperian.com.br</span></a></span>
+  <span class="s1">Para mais informações, visite <a href="https://www.serasaexperian.com.br"><span class="s5">www.serasaexperian.com.br</span></a></span>
 </p>
 
 <p class="p3">
@@ -127,7 +127,7 @@ Os interessados em participar do Experiance Jam devem se inscrever pelo site [ww
 </p>
 
 <p class="p3">
-  <span class="s1">Saiba mais em <a href="http://www.experianplc.com"><span class="s5">www.experianplc.com</span></a> ou visite o nosso hub de conteúdo global para as últimas notícias sobre a empresa <a href="http://www.experian.com/blogs/news"><span class="s5">www.experian.com/blogs/news</span></a>.</span>
+  <span class="s1">Saiba mais em <a href="https://www.experianplc.com"><span class="s5">www.experianplc.com</span></a> ou visite o nosso hub de conteúdo global para as últimas notícias sobre a empresa <a href="https://www.experian.com/blogs/news"><span class="s5">www.experian.com/blogs/news</span></a>.</span>
 </p>
 
- [1]: http://www.experiancejam.com.br
+ [1]: https://www.experiancejam.com.br

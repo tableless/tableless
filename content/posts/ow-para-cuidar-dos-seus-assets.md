@@ -84,11 +84,11 @@ Entendi, você achou as funcionalidades do Asset Pipeline fantásticas e compree
 
 Vale ressaltar que qualquer linguagem de back-end pode implementar um workflow igual a este. E com certeza ele deve ser copiado e aprimorado. Já existem inclusive plugins em desenvolvimento para o [Grunt][8]. Quem sabe você não possa colaborar com algum deles.
 
- [1]: http://tableless.com.br/javascript-com-cafe
- [2]: http://tableless.com.br/sass-um-outro-metodo-de-escrever-css
- [3]: http://www.html5rocks.com/en/tutorials/developertools/sourcemaps
+ [1]: https://tableless.com.br/javascript-com-cafe
+ [2]: https://tableless.com.br/sass-um-outro-metodo-de-escrever-css
+ [3]: https://www.html5rocks.com/en/tutorials/developertools/sourcemaps
  [4]: https://github.com/mishoo/UglifyJS
  [5]: https://github.com/h5bp/html5-boilerplate/blob/9518d22de739a1b03bdbfcde2149e1fd994c280a/.htaccess#L445
- [6]: http://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring
+ [6]: https://www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring
  [7]: https://github.com/DanielHeath/sprockets-sample
- [8]: http://tableless.com.br/grunt-voce-deveria-estar-usando
+ [8]: https://tableless.com.br/grunt-voce-deveria-estar-usando

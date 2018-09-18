@@ -22,7 +22,7 @@ Como isso funciona? O &#8220;_RemoteDebugging_&#8221; ocorre pela porta USB, a p
 Para iniciar debug remoto você precisará de:
 
   * Um celular ou tablet Android com Chrome for Android na versão 31 ou maior instalado via Google Play. (O Chrome for Android beta já esta na versão 32 &#8211; é uma boa opção para sempre testar as novidades &#8211; requer ADB-free para conectar)
-  * Um cabo usb para plugar o seu dispositivo. (Para usuários windows instalar um <a title="OEM USB Android" href="http://developer.android.com/tools/extras/oem-usb.html" target="_blank">driver USB apropriado</a>)
+  * Um cabo usb para plugar o seu dispositivo. (Para usuários windows instalar um <a title="OEM USB Android" href="https://developer.android.com/tools/extras/oem-usb.html" target="_blank">driver USB apropriado</a>)
   * Google Chrome na versão 31 ou maior em sua máquina
 
 Vamos agora às configurações:
@@ -49,7 +49,7 @@ Para instalar o Chromium Browser &#8211; a versão open source do Google Chrome:
 <pre class="lang-bash">$  sudo apt-get install chromium-browser
 </pre>
 
-Caso esteja em Windows será necessário ir no site do android e instalar o <a title="OEM USB Android" href="http://developer.android.com/tools/extras/oem-usb.html" target="_blank">driver usb</a> do fabricante apropriado.
+Caso esteja em Windows será necessário ir no site do android e instalar o <a title="OEM USB Android" href="https://developer.android.com/tools/extras/oem-usb.html" target="_blank">driver usb</a> do fabricante apropriado.
 
 As versões 32 do Chrome  (as versões beta) tem suporte nativo para Debug Remoto, basta a acessar `about:inspect` e ver a lista de dispositivos.
 

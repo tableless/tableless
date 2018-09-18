@@ -7,7 +7,7 @@ url: /pdf-sobre-produtividade/
 tweetbackscheck:
   - 1355438026
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/pdf-sobre-produtividade";s:7:"tinyurl";s:26:"http://tinyurl.com/4xskryt";s:4:"isgd";s:19:"http://is.gd/ftxYGe";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/pdf-sobre-produtividade";s:7:"tinyurl";s:26:"https://tinyurl.com/4xskryt";s:4:"isgd";s:19:"https://is.gd/ftxYGe";}'
 twittercomments:
   - 'a:1:{i:30099456858791936;s:7:"retweet";}'
 tweetcount:
@@ -42,5 +42,5 @@ Nosso objetivo é colocar minhocas na sua cabeça, na de sua equipe, e na de seu
 
 PS.: Você também pode baixar de graça [nossa apostila de XSLT][2].
 
- [1]: http://visie.com.br/treinamento/pdf/cadastro.pt
- [2]: http://visie.com.br/treinamento/pdf/
+ [1]: https://visie.com.br/treinamento/pdf/cadastro.pt
+ [2]: https://visie.com.br/treinamento/pdf/

@@ -6,7 +6,7 @@ date: 2012-01-29
 excerpt: Não seria lindo se pudéssemos criar apps nativas para um sistema operacional mobile totalmente open source e feito em HTML, CSS e JavaScript? Bom, agora você já pode.
 url: /conheca-de-verdade-o-boot2gecko-ou-firefoxos/
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6544";s:4:"isgd";s:19:"http://is.gd/xFnVGy";s:7:"tinyurl";s:26:"http://tinyurl.com/d7485xc";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6544";s:4:"isgd";s:19:"https://is.gd/xFnVGy";s:7:"tinyurl";s:26:"https://tinyurl.com/d7485xc";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 783970492
@@ -29,7 +29,7 @@ Hoje escrevo direto do [FISL (Fórum Internacional do Software Livre)][1] em Por
 
 Antes de ontem (dia 26/07/12), Christian Heilmann ([@codepo8][2]) e John Hammink ([@rijksband][3]) deram uma palestra introdutória sobre esse assunto. Para quem não conhece, o Chris é o principal e mais popular evangelista da Mozilla no mundo. E se você nunca tinha ouvido falar sobre esse sistema operacional, recomendo muito assisti-lá. 
 
-[youtube http://www.youtube.com/watch?v=ukjXZvfvSUs&w=560&h=420]
+[youtube https://www.youtube.com/watch?v=ukjXZvfvSUs&w=560&h=420]
 
 Já ontem (dia 27/07/12) passei o dia inteiro no Hackathon na MozillaHQ. O objetivo era criar uma app e submeter para a [Mozilla Marketplace][4].
 
@@ -37,7 +37,7 @@ Já ontem (dia 27/07/12) passei o dia inteiro no Hackathon na MozillaHQ. O objet
 
 Infelizmente não consegui terminar e submeter a tempo, até porque aproveitei o dia para trocar muitas ideias com esses caras e gravar um vídeo com o Chris mostrando um celular rodando o Boot2Gecko \o/.
 
-[youtube http://www.youtube.com/watch?v=Lu77uPgrgx0&w=560&h=420]
+[youtube https://www.youtube.com/watch?v=Lu77uPgrgx0&w=560&h=420]
 
 E no momento em que escrevo (dia 28/07/12) passei boa parte do dia contribuindo para o Boot2Gecko na [tradução da documentação][5].
 
@@ -53,7 +53,7 @@ Pode! Hoje já é possível instalar o Boot2Gecko em alguns smartphones, mas iss
 
 Pra isso existem os emuladores, tem um projeto chamado [Gaia Rocking][6] onde lhe instrui como rodar o emulador. Por agora não vou perder muito tempo mostrando como rodar, já que esse não é o foco do artigo, mas para provar que o negócio funciona mesmo, aproveitei para gravar um vídeo emulando o Boot2Gecko na minha máquina. Saca só o bicho!
 
-[youtube http://www.youtube.com/watch?v=tigdi6EwSgs&w=560&h=420]
+[youtube https://www.youtube.com/watch?v=tigdi6EwSgs&w=560&h=420]
 
 ## Quando eu vou poder usar?
 
@@ -65,9 +65,9 @@ A ideia não é convencer ninguém que esse novo sistema operacional é melhor d
 
 O que vale ressaltar aqui é a incrível oportunidade de mercado para nós brasileiros. Podemos lançar os primeiros apps da Mozilla Marketplace e sair na frente comparado ao resto do mundo.
 
- [1]: http://softwarelivre.org/fisl13
+ [1]: https://softwarelivre.org/fisl13
  [2]: https://twitter.com/codepo8
- [3]: http://twitter.com/rijksband
+ [3]: https://twitter.com/rijksband
  [4]: https://marketplace.mozilla.org/
  [5]: https://developer-new.mozilla.org/pt-BR/docs/Apps
  [6]: https://github.com/canuckistani/gaia-rocking

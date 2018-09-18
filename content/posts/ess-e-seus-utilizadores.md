@@ -77,5 +77,5 @@ Caso exista alguma demanda não atendida e você tenha a seu dispor terceiros pa
 
 Perceba que a idéia é otimizar cada tipo de serviço diante das caracteristícas apresentadas pelo WordPress. Definido o uso do CMS, o melhor é manter uma comunicação baseada em suas diretrizes e bem alinhada com todos os envolvidos; sendo de suma importância conhecer o sistema e suas possibilidades, de modo a proporcionar melhores experiências para cada membro da equipe.
 
- [1]: http://codex.wordpress.org/Function_Reference/wp_enqueue_script#Default_Scripts_Included_and_Registered_by_WordPress%20
- [2]: http://codex.wordpress.org/
+ [1]: https://codex.wordpress.org/Function_Reference/wp_enqueue_script#Default_Scripts_Included_and_Registered_by_WordPress%20
+ [2]: https://codex.wordpress.org/

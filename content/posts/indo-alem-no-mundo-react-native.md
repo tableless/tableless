@@ -2,7 +2,7 @@
 title: Indo além no Mundo React-Native
 authors: Jose Urbano Duarte Junior
 type: post
-image: http://i.imgur.com/oudmGva.png
+image: https://i.imgur.com/oudmGva.png
 date: 2017-05-24
 excerpt: Um estudo pessoal sobre as possibilidade do React Native. 
 url: /indo-alem-no-react-native/
@@ -36,7 +36,7 @@ Na internet, você encontra milhares de posts explicando como começar um projet
 
 **Faremos duas "aplicações" React-Native rodando em um mesmo aplicativo. Uma sobre a outra.**
 
-![Overview](http://i.imgur.com/DiTFTwM.png)
+![Overview](https://i.imgur.com/DiTFTwM.png)
 
 Inicialmente você poderá ter dificuldade em visualizar um motivo para construir tal cenário, mas tenha certeza que ao final desse post sua cabeça terá ideias malucas da aplicabilidade dessa brincadeira.
 
@@ -59,11 +59,11 @@ Após a realização das alterações, faça o empacotamento desse projeto. Para
 react-native bundle — platform android — dev false — entry-file app2.js — bundle-output app2.jsbundle
 ```
 
-![react-native-bundle](http://i.imgur.com/OUzgVp0.png)
+![react-native-bundle](https://i.imgur.com/OUzgVp0.png)
 
 Você observará que o empacotador irá criar um arquivo chamado app2.jsbundle. Esse arquivo é semelhante ao que o teu servidor node disponibiliza por padrão na porta 8081.
 
-Caso você nunca tenha feito isso, como o servidor node rodando em algum outro projeto, acesse o endereço http://localhost:8081/index.android.bundle?dev=false&mimify=true&platform=android no teu browser. Olhe esse arquivo e o compare com o arquivo gerado pelo empacotador.
+Caso você nunca tenha feito isso, como o servidor node rodando em algum outro projeto, acesse o endereço https://localhost:8081/index.android.bundle?dev=false&mimify=true&platform=android no teu browser. Olhe esse arquivo e o compare com o arquivo gerado pelo empacotador.
 
 ## Editando e Empacotando o App 1 ##
 Após concluir a edição do App 2, vamos para a modificação do aplicativo _"App 1"_. Agora iremos modificar também as camadas nativas do Android.
@@ -120,7 +120,7 @@ react-native bundle — platform android — dev false — entry-fil
 
 ## Resultado Final
 
-![finalResult](http://i.imgur.com/qDFU91F.png)
+![finalResult](https://i.imgur.com/qDFU91F.png)
 ---
 
 ## Visão Geral

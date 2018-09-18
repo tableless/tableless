@@ -34,7 +34,7 @@ Para quem ainda não conhece a pseudo classe &#8220;:target&#8221; aqui vai um e
 }
 </pre>
 
-Você pode conferir o resultado no CODEPEN <a href="http://codepen.io/lleonardoll/pen/BzBdWB?editors=1100" target="_blank">aqui.</a>
+Você pode conferir o resultado no CODEPEN <a href="https://codepen.io/lleonardoll/pen/BzBdWB?editors=1100" target="_blank">aqui.</a>
 
 O Tableless tem [um artigo que ensina a fazer abas usando apenas CSS3 com o pseudo classe :target][1].
 
@@ -116,7 +116,7 @@ Para facilitar a exibição do primeiro target (sem ter que criar um link person
 <pre>window.location = "#wall-1";
 </pre>
 
-Você pode ver o código em ação no CODEPEN <a href="http://codepen.io/lleonardoll/pen/pbvdRZ" target="_blank">aqui.</a>
+Você pode ver o código em ação no CODEPEN <a href="https://codepen.io/lleonardoll/pen/pbvdRZ" target="_blank">aqui.</a>
 
 Pronto! Uma maneira muito simples para resolver um grande problema.
 
@@ -124,4 +124,4 @@ Pronto! Uma maneira muito simples para resolver um grande problema.
 
 Caso você esteja utilizando algum link com target &#8220;#&#8221; para executar alguma ação, o &#8220;#wall-x&#8221; que está sendo setado perderá o foco, e logicamente terá a atribuição &#8220;display: none;&#8221; retomada. Neste caso é recomendável que não utilize targets na mesma pagina do carrossel e substitua os links &#8220;#&#8221; por funções onclick via JavaScript ou JQuery.
 
- [1]: http://tableless.com.br/css3-abas-com-a-pseudo-classe-target/
+ [1]: https://tableless.com.br/css3-abas-com-a-pseudo-classe-target/

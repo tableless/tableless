@@ -62,9 +62,9 @@ Se no projeto que está participando o objetivo é obter visibilidade dos buscad
 
 O efeito paralaxe não é tão ruim, sim, é melhor que um site todo em Flash ou em Ajax, mas não é ideal se o objetivo do seu site é ter visibilidade através dos principais buscadores, mas como falado nesse post você pode ter bons resultados com a otimização do seu site já que SEO e Social estão cada vez mais pertos.
 
- [1]: http://pt.wikipedia.org/wiki/Paralaxe
- [2]: http://tableless.com.br/parallax-simples-com-jquery-e-css/ "Parallax simples com JQuery e CSS"
- [3]: http://www.google.com/intl/in/insidesearch/howsearchworks/thestory/
- [4]: http://www.doting.com.br/marketing-digital-seo-sorocaba
- [5]: http://en.wikipedia.org/wiki/Heat_map
- [6]: http://www.google.com/intl/en/insidesearch/howsearchworks/thestory/part-2.html
+ [1]: https://pt.wikipedia.org/wiki/Paralaxe
+ [2]: https://tableless.com.br/parallax-simples-com-jquery-e-css/ "Parallax simples com JQuery e CSS"
+ [3]: https://www.google.com/intl/in/insidesearch/howsearchworks/thestory/
+ [4]: https://www.doting.com.br/marketing-digital-seo-sorocaba
+ [5]: https://en.wikipedia.org/wiki/Heat_map
+ [6]: https://www.google.com/intl/en/insidesearch/howsearchworks/thestory/part-2.html

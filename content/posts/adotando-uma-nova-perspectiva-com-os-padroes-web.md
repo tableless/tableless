@@ -7,7 +7,7 @@ url: /adotando-uma-nova-perspectiva-com-os-padroes-web/
 tweetbackscheck:
   - 1355838486
 shorturls:
-  - 'a:3:{s:9:"permalink";s:72:"http://tableless.com.br/adotando-uma-nova-perspectiva-com-os-padroes-web";s:7:"tinyurl";s:26:"http://tinyurl.com/3atblob";s:4:"isgd";s:19:"http://is.gd/H9nf01";}'
+  - 'a:3:{s:9:"permalink";s:72:"https://tableless.com.br/adotando-uma-nova-perspectiva-com-os-padroes-web";s:7:"tinyurl";s:26:"https://tinyurl.com/3atblob";s:4:"isgd";s:19:"https://is.gd/H9nf01";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036028
@@ -29,4 +29,4 @@ O desenvolvedor que absorve a idéia dos Padrões Web, muda seu nível de desenv
   
 Esta mudança de pensamento é comum. Você consegue dar espaço para fazer muito mais do que fazia antes. Abre portas para possibilidades a muito esquecidas. Consegue enxergar o desenvolvimento para web de um ângulo diferente. Mais inteligente. Melhor.
 
- [1]: http://images.google.com.br/images?q=canivete%20sui%C3%A7o&ie=UTF-8&oe=UTF-8&client=firefox-a&rls=org.mozilla:en-US:official&sa=N&tab=wi
+ [1]: https://images.google.com.br/images?q=canivete%20sui%C3%A7o&ie=UTF-8&oe=UTF-8&client=firefox-a&rls=org.mozilla:en-US:official&sa=N&tab=wi

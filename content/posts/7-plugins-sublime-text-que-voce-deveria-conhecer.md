@@ -29,7 +29,7 @@ Saiba mais <a href="https://sublime.wbond.net/installation" target="_blank">aqui
 
 ## 1 &#8211; Emmet
 
-O Emmet (anteriormente conhecido como Zen Coding) é simplesmente um conjunto de ferramentas de desenvolvimento web que ajudam a codificação de HTML e CSS. Ele permite que você crie, com mais velocidade, seus elementos através de expressões específicas, seguidas da tecla TAB. Saiba mais em <http://emmet.io/>
+O Emmet (anteriormente conhecido como Zen Coding) é simplesmente um conjunto de ferramentas de desenvolvimento web que ajudam a codificação de HTML e CSS. Ele permite que você crie, com mais velocidade, seus elementos através de expressões específicas, seguidas da tecla TAB. Saiba mais em <https://emmet.io/>
 
 #### Escrita da expressão: 
 

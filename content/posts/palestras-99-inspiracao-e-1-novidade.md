@@ -26,4 +26,4 @@ Boas palestras são como um revigorante lembrete para a sua motivação.
 
 Meio estranho falar isso, mas palestras não são exatamente sobre aprendizado, mas sobre energia e inspiração.
 
- [1]: http://www.tiagodoria.com.br/coluna/2013/07/24/todo-mundo-deveria-ser-professor/
+ [1]: https://www.tiagodoria.com.br/coluna/2013/07/24/todo-mundo-deveria-ser-professor/

@@ -783,7 +783,7 @@ invert($color);     /* retorna cor inversa de $color */
 mix($color1, $color2, 50%); /* mistura $color1 com $color2 com um peso de 50% */
 </pre>
 
-Essas é apenas uma pequena lista de funções de cores disponíveis no Sass. A lista completa das funções de cores disponíveis no Sass pode ser encontrada na <a href="http://sass-lang.com/documentation/Sass/Script/Functions.html" target="_blank">documentação do Sass</a>.
+Essas é apenas uma pequena lista de funções de cores disponíveis no Sass. A lista completa das funções de cores disponíveis no Sass pode ser encontrada na <a href="https://sass-lang.com/documentation/Sass/Script/Functions.html" target="_blank">documentação do Sass</a>.
 
 Funções de cores podem ser usadas em qualquer lugar que uma cor é válida no CSS. Veja um exemplo:
 
@@ -809,7 +809,7 @@ spin(@color, -10); /* retorna uma cor 10 graus abaixo na matiz/tonalidade que @c
 mix(@color1, @color2); /* mistura @color1 com @color2 */
 </pre>
 
-A lista de todas as funções disponíveis no LESS pode encontrada na <a href="http://lesscss.org/#-color-functions" target="_blank">documentação LESS</a>.
+A lista de todas as funções disponíveis no LESS pode encontrada na <a href="https://lesscss.org/#-color-functions" target="_blank">documentação LESS</a>.
 
 Veja um exemplo de como usar uma função de cores no LESS:
 
@@ -830,7 +830,7 @@ saturate(color, 10%);   /* retorna uma cor 10% mais saturada que 'color' */
 desaturate(color, 10%); /* retorna uma cor 10% menos saturada que 'color' */
 </pre>
 
-A lista completa de todas funções de cores disponíveis no Stylus pode ser encontrada na <a href="http://stylus-lang.com/docs/bifs.html" target="_blank">documentação Stylus</a>.
+A lista completa de todas funções de cores disponíveis no Stylus pode ser encontrada na <a href="https://stylus-lang.com/docs/bifs.html" target="_blank">documentação Stylus</a>.
 
 Veja um exemplo de como usar uma função de cores no Stylus:
 
@@ -1070,7 +1070,7 @@ Existem algumas peculiaridades ao usar um pré-processador CSS. Irei falar de al
 
 Se você já escreveu CSS por uma boa quantia de tempo, tenho certeza que você já chegou a um ponto onde você tinha um erro em algum lugar e simplesmente não conseguia o encontrar. Se você é como eu, provavelmente passou a tarde toda arrancando os cabelos fora e comentando diversas coisas para caçar o erro.
 
-Pré-processadores CSS relatam os erros. Simples assim. Se tem alguma coisa errada em seu códigom ele te fala onde e, se você estiver com sorte até mesmo o porquê. Você pode dar uma olhada <a href="http://tjholowaychuk.com/post/5002088731/stylus-vs-sass-vs-less-error-reporting" target="_blank">nesse post</a> caso esteja interessado em ver como os erros são relatados em diferentes pré-processadores.
+Pré-processadores CSS relatam os erros. Simples assim. Se tem alguma coisa errada em seu códigom ele te fala onde e, se você estiver com sorte até mesmo o porquê. Você pode dar uma olhada <a href="https://tjholowaychuk.com/post/5002088731/stylus-vs-sass-vs-less-error-reporting" target="_blank">nesse post</a> caso esteja interessado em ver como os erros são relatados em diferentes pré-processadores.
 
 ### Comentários
 
@@ -1088,7 +1088,7 @@ Eu aconselho todos vocês a utilizar e testar a maior quantidade de pré-process
 
 Você tem alguma funcionalidade de seu pré-processador favorito que não foi mencionada? Há algo que algum pré-processador possa fazer e outros não? Conte-nos nos comentários abaixo!
 
-Traduzido e adaptado de: [http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout&#8211;net-24320][2]
+Traduzido e adaptado de: [https://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout&#8211;net-24320][2]
 
  [1]: https://cdn.tutsplus.com/net/uploads/legacy/1144_preprocshootout/text3d.png
- [2]: http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout--net-24320
+ [2]: https://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout--net-24320

@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356381343
 shorturls:
-  - 'a:3:{s:9:"permalink";s:62:"http://tableless.com.br/responsabilidade-de-um-dev-client-side";s:7:"tinyurl";s:26:"http://tinyurl.com/3hpq98l";s:4:"isgd";s:19:"http://is.gd/cweL0V";}'
+  - 'a:3:{s:9:"permalink";s:62:"https://tableless.com.br/responsabilidade-de-um-dev-client-side";s:7:"tinyurl";s:26:"https://tinyurl.com/3hpq98l";s:4:"isgd";s:19:"https://is.gd/cweL0V";}'
 twittercomments:
   - 'a:10:{i:9975481474486272;s:7:"retweet";i:19350013402423296;s:6:"136489";i:47669586954424323;s:7:"retweet";i:47663310987997184;s:7:"retweet";i:47659817065652224;s:7:"retweet";i:47655167943905281;s:7:"retweet";i:53828034188410880;s:6:"137492";i:53827492351451136;s:6:"137493";i:53835798407163904;s:6:"137495";i:53873791121637376;s:6:"137497";}'
 tweetcount:

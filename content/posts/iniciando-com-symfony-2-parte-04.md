@@ -17,7 +17,7 @@ tags:
   - tutorial
 
 ---
-Anteriormente, <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-03/" title="Iniciando com symfony - parte-03" target="_blank">criamos a entidade Post</a>, vamos dar continuidade ao nosso simples projeto, criando uma entidade Author, faremos o relacionamento para que cada autor fique ligado ao post que criou.
+Anteriormente, <a href="https://tableless.com.br/iniciando-com-symfony-2-parte-03/" title="Iniciando com symfony - parte-03" target="_blank">criamos a entidade Post</a>, vamos dar continuidade ao nosso simples projeto, criando uma entidade Author, faremos o relacionamento para que cada autor fique ligado ao post que criou.
 
 ## Criando a entidade Author
 
@@ -495,13 +495,13 @@ Inicie o servidor:
 
 entre na url:
 
-http://127.0.0.1:8000/author/
+https://127.0.0.1:8000/author/
 
 Vamos criar um autor com o nome Tableless
 
 ## Relacionamento com Doctrine
 
-Vamos fazer um relacionamento no banco de dados, pois queremos que, ao criarmos um post, o mesmo esteja relacionado com o autor que o criou. Não entraremos em detalhes sobre relacionamento, caso tenha dúvidas, <a href="http://doctrine-orm.readthedocs.org/en/latest/reference/association-mapping.html" title="Documentação de relacionamento com Doctrine" target="_blank">consulte a documentação</a>.
+Vamos fazer um relacionamento no banco de dados, pois queremos que, ao criarmos um post, o mesmo esteja relacionado com o autor que o criou. Não entraremos em detalhes sobre relacionamento, caso tenha dúvidas, <a href="https://doctrine-orm.readthedocs.org/en/latest/reference/association-mapping.html" title="Documentação de relacionamento com Doctrine" target="_blank">consulte a documentação</a>.
 
 Vamos configurar novamente as entidades para que o relacionamento possa acontecer.
 
@@ -877,11 +877,11 @@ Veja abaixo:
 
 Lembrando que a url de autor é:
 
-http://127.0.0.1:8000/author/
+https://127.0.0.1:8000/author/
 
 e a url de post é:
 
-http://127.0.0.1:8000/post/
+https://127.0.0.1:8000/post/
 
 ## Conclusão
 

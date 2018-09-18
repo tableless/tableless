@@ -145,5 +145,5 @@ BEVAN, N. **Quality in Use: Meeting User Needs for Quality**. In: Journal of Sys
 
 BEVAN, N.; AZUMA, M. **Quality in Use: Incorporating Human Factors into the Software Engineering Lifecycle.** Proceedings of the 3rd International Software Engineering Standards Symposium (ISESS &#8217;97), p.169, June 01-06, 1997
 
- [1]: http://www.nigelbevan.com/
- [2]: http://en.wikipedia.org/wiki/ISO/IEC_9126
+ [1]: https://www.nigelbevan.com/
+ [2]: https://en.wikipedia.org/wiki/ISO/IEC_9126

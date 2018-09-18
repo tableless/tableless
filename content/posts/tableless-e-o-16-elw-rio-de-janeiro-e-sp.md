@@ -55,6 +55,6 @@ Fotos do último evento, em Curitiba!
 
 Para ver mais fotos, [se liga no Flickr][3].
 
- [1]: http://bit.ly/16elw-rj
- [2]: http://bit.ly/16elw-sp
+ [1]: https://bit.ly/16elw-rj
+ [2]: https://bit.ly/16elw-sp
  [3]: https://www.flickr.com/photos/locaweb/

@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356030874
 shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/bonito_de_se_ver";s:7:"tinyurl";s:26:"http://tinyurl.com/3t29bvo";s:4:"isgd";s:19:"http://is.gd/yWLInW";}'
+  - 'a:3:{s:9:"permalink";s:40:"https://tableless.com.br/bonito_de_se_ver";s:7:"tinyurl";s:26:"https://tinyurl.com/3t29bvo";s:4:"isgd";s:19:"https://is.gd/yWLInW";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032616
@@ -21,9 +21,9 @@ tags:
   - bonitodesever
 
 ---
-  * <http://stevepsharpe.co.uk/>
-  * <http://www.certovka.info/eng/>
-  * <http://www.steinruckdesign.com/>
-  * <http://www.karmatics.com/aardvark/>
-  * <http://www.newinphilly.com/>
-  * <http://www.jeremyboles.com/>
+  * <https://stevepsharpe.co.uk/>
+  * <https://www.certovka.info/eng/>
+  * <https://www.steinruckdesign.com/>
+  * <https://www.karmatics.com/aardvark/>
+  * <https://www.newinphilly.com/>
+  * <https://www.jeremyboles.com/>

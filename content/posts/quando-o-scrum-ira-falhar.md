@@ -87,6 +87,6 @@ Caso contrário futuramente será totalmente irremediável durante a execução 
 
 Obrigado por ler até aqui, espero ter apresentado pontos a serem analisados por você e evitados! Caso tenha mais algum ponto crítico que acha interessante que seja adicionado a esse artigo, elogio ou crítica deixe um comentário 😀
 
- [1]: http://tableless.com.br/desenvolvimento-agil-utilizando-scrum/
- [2]: http://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf
- [3]: http://theleanstartup.com/
+ [1]: https://tableless.com.br/desenvolvimento-agil-utilizando-scrum/
+ [2]: https://www.scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf
+ [3]: https://theleanstartup.com/

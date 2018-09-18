@@ -8,7 +8,7 @@ url: /css3-sombras-em-textos-e-elementos/
 tweetbackscheck:
   - 1356422306
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/css3-sombras-em-textos-e-elementos";s:7:"tinyurl";s:26:"http://tinyurl.com/3rhtmzp";s:4:"isgd";s:19:"http://is.gd/yAiUvJ";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/css3-sombras-em-textos-e-elementos";s:7:"tinyurl";s:26:"https://tinyurl.com/3rhtmzp";s:4:"isgd";s:19:"https://is.gd/yAiUvJ";}'
 twittercomments:
   - 'a:14:{i:129005267408011264;s:7:"retweet";i:128794304012488704;s:7:"retweet";i:128782801267990528;s:7:"retweet";i:128781696266014720;s:7:"retweet";i:128775883149418496;s:7:"retweet";i:128749204188307456;s:7:"retweet";i:128728147079331840;s:7:"retweet";i:128697006494453761;s:7:"retweet";i:155326084773191680;s:7:"retweet";i:155104929781002240;s:7:"retweet";i:155059206842630146;s:7:"retweet";i:155041493973864448;s:7:"retweet";i:155039139656507393;s:7:"retweet";i:169916200808222721;s:7:"retweet";}'
 tweetcount:
@@ -53,5 +53,5 @@ Na minha opinião pessoal há ainda algumas features que poderiam ser incluídas
 
 Você [pode ver um exemplo em nosso Github][2]. Lembre-se que codificar é de graça&#8230; Faça um teste agora, antes de deixar este post de lado. 😉
 
- [1]: http://tableless.com.br/css3-breve-introducao-a-rgba "Entenda como funciona o RGBA"
- [2]: http://tableless.github.com/exemplos/css3-shadow.html "Exemplo de sombra com CSS3"
+ [1]: https://tableless.com.br/css3-breve-introducao-a-rgba "Entenda como funciona o RGBA"
+ [2]: https://tableless.github.com/exemplos/css3-shadow.html "Exemplo de sombra com CSS3"

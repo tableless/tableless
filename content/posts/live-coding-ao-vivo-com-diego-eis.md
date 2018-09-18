@@ -38,5 +38,5 @@ Queremos experimentar essa nova forma de compartilhar informação. Já temos ou
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/11/01_Homepage-workshop.jpg" alt="01_Homepage-workshop" width="800" height="1833" class="alignnone size-full wp-image-39808" srcset="uploads/2013/11/01_Homepage-workshop.jpg 800w, uploads/2013/11/01_Homepage-workshop-73x168.jpg 73w, uploads/2013/11/01_Homepage-workshop-135x310.jpg 135w" sizes="(max-width: 800px) 100vw, 800px" />
 
- [1]: http://about.me/diegoeis/
- [2]: http://bit.ly/primeiro-micro-workshop
+ [1]: https://about.me/diegoeis/
+ [2]: https://bit.ly/primeiro-micro-workshop

@@ -13,7 +13,7 @@ tags:
   - framework
 
 ---
-Continuando nossa jornada sobre o **Silex Framework**, neste post falarei sobre rotas dinâmicas. Se você não está familiarizado com o Silex, confira nosso primeiro post _<a href="http://tableless.com.br/conhecendo-e-instalando-o-silex/" target="_blank">Conhecendo e instalando o Silex</a>_.
+Continuando nossa jornada sobre o **Silex Framework**, neste post falarei sobre rotas dinâmicas. Se você não está familiarizado com o Silex, confira nosso primeiro post _<a href="https://tableless.com.br/conhecendo-e-instalando-o-silex/" target="_blank">Conhecendo e instalando o Silex</a>_.
 
 Rotas dinâmicas são a possibilidade de passar parâmetros nas rotas da sua aplicação. O Silex possui diversos métodos para facilitar o uso dessa dinâmica em suas rotas.
 
@@ -31,7 +31,7 @@ $app-&gt;get('users/{name}', function($name){
 $app-&gt;run();
 </pre>
 
-O que nos interessa nesse momento, são as linhas de 5 e 6. Na linha 5 definimos nossa rota _users_, que receberá requisições do tipo `GET`. Perceba que entre chaves `{}`, incluímos um elemento chamado `name`, ou seja, esse é o parâmetro da nossa rota _users_. Agora tudo que passarmos na URL após chamada a rota, poderemos manipular em nosso _callback_, mas para isso devemos passar o mesmo parâmetro da rota como parâmetro do nosso _callback_, como mostrado na mesma linha 5. Na linha 6 apenas retornamos como saída o valor passado na rota. Por exemplo, se acessarmos no navegador o seguinte link `http://url_de_minha_app.com.br/users/Nando`, teríamos como saída:
+O que nos interessa nesse momento, são as linhas de 5 e 6. Na linha 5 definimos nossa rota _users_, que receberá requisições do tipo `GET`. Perceba que entre chaves `{}`, incluímos um elemento chamado `name`, ou seja, esse é o parâmetro da nossa rota _users_. Agora tudo que passarmos na URL após chamada a rota, poderemos manipular em nosso _callback_, mas para isso devemos passar o mesmo parâmetro da rota como parâmetro do nosso _callback_, como mostrado na mesma linha 5. Na linha 6 apenas retornamos como saída o valor passado na rota. Por exemplo, se acessarmos no navegador o seguinte link `https://url_de_minha_app.com.br/users/Nando`, teríamos como saída:
 
 `Olá, Nando`
 
@@ -79,4 +79,4 @@ O método recebe 2 parâmetros: o primeiro é o nome do parâmetro informado na
 
 Vimos como é simples trabalhar com rotas dinâmicas em nossas aplicações Silex, e com os métodos auxiliares nossa aplicação de rotas fica ainda mais robusta.
 
-Na sessão <a href="http://silex.sensiolabs.org/doc/usage.html" target="_blank">&#8216;Usage&#8217;</a> da documentação do Silex, você encontrará mais opções além das mostradas aqui.
+Na sessão <a href="https://silex.sensiolabs.org/doc/usage.html" target="_blank">&#8216;Usage&#8217;</a> da documentação do Silex, você encontrará mais opções além das mostradas aqui.

@@ -48,7 +48,7 @@ Se você já estiver usando o <a href="https://getcomposer.org/" target="_blank"
     }
 }</pre>
 
-Se não usa o Composer, essa é uma ótima oportunidade para começar. O Andre Cardoso escreveu sobre ele aqui no Tableless: <a title="Composer para iniciantes" href="http://tableless.com.br/composer-para-iniciantes/" target="_blank">Composer para iniciantes</a>.
+Se não usa o Composer, essa é uma ótima oportunidade para começar. O Andre Cardoso escreveu sobre ele aqui no Tableless: <a title="Composer para iniciantes" href="https://tableless.com.br/composer-para-iniciantes/" target="_blank">Composer para iniciantes</a>.
 
 Caso não esteja usando um framework, provavelmente precisará adicionar a chamada ao class loader do Composer:
 

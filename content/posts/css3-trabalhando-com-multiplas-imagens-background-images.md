@@ -108,7 +108,7 @@ background-size..........define as dimensões da imagem no box;
 background...............maneira abreviada para declarar todas as propriedades anteriores;</pre>
 
 
-  O nosso grande mestre <a class="markup--user markup--p-user" href="https://medium.com/u/addb7196c9b9">Maurício Samy Silva</a> #Maujor explica melhor as aplicações das propriedades <a class="markup--anchor markup--p-anchor" href="http://maujor.com/tutorial/propriedade-css-para-estilizacao-de-background.php" rel="nofollow">http://maujor.com/tutorial/propriedade-css-para-estilizacao-de-background.php</a>
+  O nosso grande mestre <a class="markup--user markup--p-user" href="https://medium.com/u/addb7196c9b9">Maurício Samy Silva</a> #Maujor explica melhor as aplicações das propriedades <a class="markup--anchor markup--p-anchor" href="https://maujor.com/tutorial/propriedade-css-para-estilizacao-de-background.php" rel="nofollow">https://maujor.com/tutorial/propriedade-css-para-estilizacao-de-background.php</a>
 
 
   Agora que conhecemos suas propriedades e características… agora vamos ver como o “background-image” funciona para entendermos nosso horizonte de possibilidades:
@@ -123,7 +123,7 @@ Quando trabalhamos 2 ou 3 elementos (sejam `<img>`, `<div>`, `<etc…>`) temos u
   <em>Às vezes não necessariamente queremos ou podemos utilizar o z-index.</em>
 
 
-  Sem contar que quebramos o conceito de <a class="markup--anchor markup--p-anchor" href="http://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/">DRY</a> em nosso documento CSS e não queremos isso, não é amiguinhos?
+  Sem contar que quebramos o conceito de <a class="markup--anchor markup--p-anchor" href="https://tableless.com.br/oocss-smacss-bem-dry-css-afinal-como-escrever-css/">DRY</a> em nosso documento CSS e não queremos isso, não é amiguinhos?
 
 <div style="width: 495px" class="wp-caption aligncenter">
   <img src="https://cdn-images-1.medium.com/max/800/1*xt8qqJopHwF-Gcg9xM6t3w.gif" alt="Vida de um Front-end" width="485" height="364" />
@@ -148,7 +148,7 @@ Quando trabalhamos 2 ou 3 elementos (sejam `<img>`, `<div>`, `<etc…>`) temos u
 }</pre>
 
 
-  <a class="markup--anchor markup--p-anchor" href="http://tableless.com.br/tag/css3/">CSS3</a> permite especificar imagens de fundo para múltiplos elementos, usando nada mais do que uma única lista separada por vírgulas.
+  <a class="markup--anchor markup--p-anchor" href="https://tableless.com.br/tag/css3/">CSS3</a> permite especificar imagens de fundo para múltiplos elementos, usando nada mais do que uma única lista separada por vírgulas.
 
 
   Você pode fazer isso com a propriedade reduzida <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background">background</a> e também com as propriedade individuais, com a exceção de <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-color">background-color</a>. Isto é, as seguintes propriedades de plano de fundo podem ser especificadas com uma lista, uma por fundo: <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background">background</a>, <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-attachment">background-attachment</a>, <a class="markup--anchor markup--p-anchor" title="A propriedade CSS background-clip especifica se o fundo de um elemento, seja cor ou imagem, se extende debaixo de sua borda." href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-clip">background-clip</a>, <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-image">background-image</a>, <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-origin">background-origin</a>, <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-position">background-position</a>, <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-repeat">background-repeat</a>, <a class="markup--anchor markup--p-anchor" title="The documentation about this has not yet been written; please consider contributing!" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/background-size">background-size</a>. (rola até gradiente!)
@@ -169,7 +169,7 @@ Quando trabalhamos 2 ou 3 elementos (sejam `<img>`, `<div>`, `<etc…>`) temos u
 
 
 <pre class="lang-css">header {
-  background: url(<a class="markup--anchor markup--pre-anchor" href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/logo-tableless-01.png" rel="nofollow">https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/logo-tableless-01.png</a>) no-repeat center center, url(<a class="markup--anchor markup--pre-anchor" href="http://lorempixel.com/output/city-q-g-1024-768-10.jpg" rel="nofollow">http://lorempixel.com/output/city-q-g-1024-768-10.jpg</a>) no-repeat center top;
+  background: url(<a class="markup--anchor markup--pre-anchor" href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/logo-tableless-01.png" rel="nofollow">https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/04/logo-tableless-01.png</a>) no-repeat center center, url(<a class="markup--anchor markup--pre-anchor" href="https://lorempixel.com/output/city-q-g-1024-768-10.jpg" rel="nofollow">https://lorempixel.com/output/city-q-g-1024-768-10.jpg</a>) no-repeat center top;
   height: 100vh;
   width: auto;
   box-sizing: border-box;

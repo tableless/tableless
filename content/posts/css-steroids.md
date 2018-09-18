@@ -318,17 +318,17 @@ Espero que estes exemplos o tenham convencido a considerar o uso de um pré-proc
 
 A respeito da escolha do pré-processador, saiba que os mais populares são [Sass][12], [Stylus][13] e [Less][14]. Não se esqueça de sempre levar em consideração a preferência e habilidades da sua equipe para auxiliar na tarefa de escolha. Vou apenas bancar o intrometido e deixar uma dica: o Less não possui suporte a _placeholders_.
 
- [1]: http://www.w3.org/TR/css3-color/#svg-color
- [2]: http://tableless.com.br/como-usar-gradient-no-css-de-forma-consciente
+ [1]: https://www.w3.org/TR/css3-color/#svg-color
+ [2]: https://tableless.com.br/como-usar-gradient-no-css-de-forma-consciente
  [3]: //www.colorzilla.com/gradient-editor
- [4]: http://compass-style.org
- [5]: http://visionmedia.github.io/nib
- [6]: http://bourbon.io
- [7]: http://compass-style.org/reference/compass/css3/images
- [8]: http://bem.info/method
+ [4]: https://compass-style.org
+ [5]: https://visionmedia.github.io/nib
+ [6]: https://bourbon.io
+ [7]: https://compass-style.org/reference/compass/css3/images
+ [8]: https://bem.info/method
  [9]: //josh.github.io/css-explain
- [10]: http://frontinpoa.com.br
+ [10]: https://frontinpoa.com.br
  [11]: https://gist.github.com/jcemer/7130218
- [12]: http://sass-lang.com
- [13]: http://learnboost.github.io/stylus/
- [14]: http://lesscss.org/
+ [12]: https://sass-lang.com
+ [13]: https://learnboost.github.io/stylus/
+ [14]: https://lesscss.org/

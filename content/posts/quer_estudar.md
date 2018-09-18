@@ -7,7 +7,7 @@ url: /quer_estudar/
 tweetbackscheck:
   - 1356446327
 shorturls:
-  - 'a:3:{s:9:"permalink";s:36:"http://tableless.com.br/quer_estudar";s:7:"tinyurl";s:26:"http://tinyurl.com/3k5pvoy";s:4:"isgd";s:19:"http://is.gd/swqI3B";}'
+  - 'a:3:{s:9:"permalink";s:36:"https://tableless.com.br/quer_estudar";s:7:"tinyurl";s:26:"https://tinyurl.com/3k5pvoy";s:4:"isgd";s:19:"https://is.gd/swqI3B";}'
 twittercomments:
   - 'a:1:{i:13337332564369409;s:7:"retweet";}'
 tweetcount:
@@ -28,6 +28,6 @@ tags:
   
 Ótimos exemplos de layouts em css, bugs de browsers, dicas de sites, etc&#8230; vale muito a pena ler os source (código fonte), e aprender um pouco sobre o que dá para fazer com CSS.
   
-[http://www.positioniseverything.net/][1]
+[https://www.positioniseverything.net/][1]
 
- [1]: http://www.positioniseverything.net/ "Position is Every Thing"
+ [1]: https://www.positioniseverything.net/ "Position is Every Thing"

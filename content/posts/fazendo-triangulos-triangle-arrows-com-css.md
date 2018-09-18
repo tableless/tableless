@@ -96,4 +96,4 @@ Abaixo, segue o código:
 
 Perceba que o que define o tamanho da seta é o tamanho das bordas. A cor também é definida pela borda. Eu usei em um pseudo-elemento, mas você pode muito bem fazer em um span ou qualquer outro elemento vazio. Eu ainda assim sugiro fazer em um pseudo-elemento para evitar elementos inúteis.
 
- [1]: http://tableless.com.br/como-usar-before-after/
+ [1]: https://tableless.com.br/como-usar-before-after/

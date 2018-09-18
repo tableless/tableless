@@ -6,13 +6,13 @@ date: 2006-03-24
 url: /blogbits-podcast-4-anuncios-na-web/
 enclosure:
   - |
-    http://blogbits.com.br/podcasts/blogbits-podcast-4.mp3
+    https://blogbits.com.br/podcasts/blogbits-podcast-4.mp3
     18769172
     audio/mpeg
 tweetbackscheck:
   - 1355970948
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/blogbits-podcast-4-anuncios-na-web";s:7:"tinyurl";s:26:"http://tinyurl.com/3dhq2pn";s:4:"isgd";s:19:"http://is.gd/Ka5evi";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/blogbits-podcast-4-anuncios-na-web";s:7:"tinyurl";s:26:"https://tinyurl.com/3dhq2pn";s:4:"isgd";s:19:"https://is.gd/Ka5evi";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035040
@@ -44,16 +44,16 @@ E você, o que acha?
   
 <small>Cuidado com as palavras e por favor, se identifique, anonimato eu bloqueio mesmo, não importando o conteúdo do comentário.</small>
 
- [1]: http://blogbits.com.br/
- [2]: http://brunotorres.net/
- [3]: http://meiobit.com/
- [4]: http://mobilelife.com.br/
- [5]: http://guileite.com/
- [6]: http://google.com/adsense
- [7]: http://mercadolivre.com/
- [8]: http://submarino.com/
- [9]: http://blogbits.com.br/feed/
- [10]: http://blogbits.com.br/podcasts/blogbits-podcast-4.mp3
- [11]: http://tableless.com.br/nao-alimente-os-trolls
- [12]: http://visie.com.br/
- [13]: http://elcio.com.br/
+ [1]: https://blogbits.com.br/
+ [2]: https://brunotorres.net/
+ [3]: https://meiobit.com/
+ [4]: https://mobilelife.com.br/
+ [5]: https://guileite.com/
+ [6]: https://google.com/adsense
+ [7]: https://mercadolivre.com/
+ [8]: https://submarino.com/
+ [9]: https://blogbits.com.br/feed/
+ [10]: https://blogbits.com.br/podcasts/blogbits-podcast-4.mp3
+ [11]: https://tableless.com.br/nao-alimente-os-trolls
+ [12]: https://visie.com.br/
+ [13]: https://elcio.com.br/

@@ -7,7 +7,7 @@ url: /palestra-alternativaweb-em-fortaleza/
 tweetbackscheck:
   - 1355773066
 shorturls:
-  - 'a:3:{s:9:"permalink";s:60:"http://tableless.com.br/palestra-alternativaweb-em-fortaleza";s:7:"tinyurl";s:26:"http://tinyurl.com/3qf68a9";s:4:"isgd";s:19:"http://is.gd/buqQPJ";}'
+  - 'a:3:{s:9:"permalink";s:60:"https://tableless.com.br/palestra-alternativaweb-em-fortaleza";s:7:"tinyurl";s:26:"https://tinyurl.com/3qf68a9";s:4:"isgd";s:19:"https://is.gd/buqQPJ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037541
@@ -23,7 +23,7 @@ Se alguém filmar as palestras, por favor, me falem depois pra poder publicar aq
 
 Pessoal de Fortaleza, como está o tempo aí? 😉
 
- [1]: http://www.alternativaweb2007.com.br/
- [2]: http://tiagodoria.com.br/
- [3]: http://brunoavila.com.br/blog/
- [4]: http://www.viuisso.com.br
+ [1]: https://www.alternativaweb2007.com.br/
+ [2]: https://tiagodoria.com.br/
+ [3]: https://brunoavila.com.br/blog/
+ [4]: https://www.viuisso.com.br

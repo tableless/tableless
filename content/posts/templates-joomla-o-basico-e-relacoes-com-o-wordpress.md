@@ -15,7 +15,7 @@ tags:
   - Técnicas e Práticas
 
 ---
-Ao lado do WordPress, o Joomla! é sem dúvida um dos melhores CMS que existem atualmente. Como o amigo Girlan bem já escreveu <a title="Vamos falar de Joomla!?" href="http://tableless.com.br/vamos-falar-de-joomla/" target="_blank">noutro artigo</a>, o Joomla! tem se superado muito a cada versão&nbsp;e, desta perspectiva, torna-se mais que vantajoso ao desenvolvedor front-end dominar a criação de temas tanto para&nbsp;o WordPress quanto para o Joomla!.
+Ao lado do WordPress, o Joomla! é sem dúvida um dos melhores CMS que existem atualmente. Como o amigo Girlan bem já escreveu <a title="Vamos falar de Joomla!?" href="https://tableless.com.br/vamos-falar-de-joomla/" target="_blank">noutro artigo</a>, o Joomla! tem se superado muito a cada versão&nbsp;e, desta perspectiva, torna-se mais que vantajoso ao desenvolvedor front-end dominar a criação de temas tanto para&nbsp;o WordPress quanto para o Joomla!.
 
 A boa notícia é que se você já sabe&nbsp;criar temas para o WordPress, você praticamente já&nbsp;sabe criar&nbsp;templates para o Joomla! também. O objetivo deste artigo, portanto, não é embarcar naquela velha discussão <del>formada sobre tudo</del> de qual CMS é o melhor. Estamos mais interessados em criar um template básico (ou sandbox) para o Joomla! observando as relações existentes com&nbsp;o desenvolvimento de temas para o WordPress, despertando, quem sabe, novos joomlers pela comunidade Tableless!&nbsp;<img class="emoji" src="https://s.w.org/images/core/emoji/72x72/1f609.png" alt="😉" />
 
@@ -25,7 +25,7 @@ Antes de criar um template para o Joomla!, primeiro precisamos entender, pelo me
 
 O Joomla! se&nbsp;assemelha ao WordPress em muitos aspectos. O&nbsp;conceito de artigo, por exemplo, se assemelha ao de post do WordPress: é a forma concebida ao conteúdo principal armazenado no banco de dados para ser&nbsp;gerenciado no painel de administração. O mesmo vale para os módulos e widgets, templates e temas, plugins, entre outras semelhanças — é claro que&nbsp;cada CMS apresenta as suas próprias especificidades, mas, por hora, vamos deixar assim.
 
-Composto basicamente por um framework e suas extensões —&nbsp;analogamente a&nbsp;um sistema operacional e suas aplicações —, o diferencial do Joomla! está justamente nas extensões chamadas de **componentes**, que permitem desenvolver sites de todas as formas e tamanhos&nbsp;através de <a title="MVC – Afinal, é o quê ?" href="http://tableless.com.br/mvc-afinal-e-o-que/" target="_blank">arquitetura MVC</a>. No desenvolvimento de templates, só nos interessa a camada _view_ dos componentes, doravante chamada apenas de &#8220;componente&#8221;.
+Composto basicamente por um framework e suas extensões —&nbsp;analogamente a&nbsp;um sistema operacional e suas aplicações —, o diferencial do Joomla! está justamente nas extensões chamadas de **componentes**, que permitem desenvolver sites de todas as formas e tamanhos&nbsp;através de <a title="MVC – Afinal, é o quê ?" href="https://tableless.com.br/mvc-afinal-e-o-que/" target="_blank">arquitetura MVC</a>. No desenvolvimento de templates, só nos interessa a camada _view_ dos componentes, doravante chamada apenas de &#8220;componente&#8221;.
 
 Vejamos mais sobre as extensões&#8230;
 
@@ -35,9 +35,9 @@ Vejamos mais sobre as extensões&#8230;
 
 Ainda segundo a documentação do Joomla!, as extensões podem ser classificadas basicamente em&nbsp;**componentes**, **módulos**, **plugins** e **templates**. Também os idiomas do Joomla! e os pacotes de extensões relacionadas, os&nbsp;packages, são consideradas extensões, assim como as bibliotecas que fornecem funções que podem ser usadas por outras extensões.
 
-O Joomla! possui extensões nativas que se mostram&nbsp;suficientes na&nbsp;maioria dos nossos projetos, o que não nos&nbsp;impede de criar as nossas próprias extensões ou usar&nbsp;algumas das&nbsp;**9 mil extensões disponíveis** (e aumentando!) no <a title="Diretório de Extensões do Joomla!" href="http://extensions.joomla.org/" target="_blank">JED</a>, o&nbsp;diretório de extensões do Joomla!.
+O Joomla! possui extensões nativas que se mostram&nbsp;suficientes na&nbsp;maioria dos nossos projetos, o que não nos&nbsp;impede de criar as nossas próprias extensões ou usar&nbsp;algumas das&nbsp;**9 mil extensões disponíveis** (e aumentando!) no <a title="Diretório de Extensões do Joomla!" href="https://extensions.joomla.org/" target="_blank">JED</a>, o&nbsp;diretório de extensões do Joomla!.
 
-Para conhecer melhor o CMS, você pode&nbsp;<a title="Download da última versão do Joomla!" href="http://www.joomla.org/download.html" target="_blank">baixar a última versão do Joomla!</a>&nbsp;e instalar localmente ou <a title="Fazer test-drive rápido do Joomla!" href="http://demo.joomla.org/" target="_blank">fazer um test-drive rápido no Joomla.org</a>, que gera instantaneamente uma instalação remota todinha&nbsp;sua por 90 minutos. Aqui, nos referimos à versão 3.4.1 do Joomla! e, para comparação, à versão 4.2.2 do WordPress — as mais recentes até a&nbsp;publicação deste artigo.
+Para conhecer melhor o CMS, você pode&nbsp;<a title="Download da última versão do Joomla!" href="https://www.joomla.org/download.html" target="_blank">baixar a última versão do Joomla!</a>&nbsp;e instalar localmente ou <a title="Fazer test-drive rápido do Joomla!" href="https://demo.joomla.org/" target="_blank">fazer um test-drive rápido no Joomla.org</a>, que gera instantaneamente uma instalação remota todinha&nbsp;sua por 90 minutos. Aqui, nos referimos à versão 3.4.1 do Joomla! e, para comparação, à versão 4.2.2 do WordPress — as mais recentes até a&nbsp;publicação deste artigo.
 
 Sem mais&nbsp;delongas, vamos ao que interessa!
 
@@ -59,7 +59,7 @@ O arquivo _templateDetails.xml_&nbsp;é equivalente aos comentários iniciais do
   &lt;creationDate&gt;25/05/2015&lt;/creationDate&gt;
   &lt;author&gt;Tableless&lt;/author&gt;
   &lt;authorEmail&gt;contato@tableless.com.br&lt;/authorEmail&gt;
-  &lt;authorUrl&gt;http://www.tableless.com.br&lt;/authorUrl&gt;
+  &lt;authorUrl&gt;https://www.tableless.com.br&lt;/authorUrl&gt;
   &lt;copyright&gt;© 2015 Tableless. Todos os direitos reservados.&lt;/copyright&gt;
   &lt;license&gt;GNU/GPL&lt;/license&gt;
   &lt;version&gt;1.0&lt;/version&gt;
@@ -78,7 +78,7 @@ O arquivo _templateDetails.xml_&nbsp;é equivalente aos comentários iniciais do
   &lt;/positions&gt;
 &lt;/extension&gt;</pre>
 
-Na primeira linha, informamos&nbsp;a versão <abbr style="cursor: help" title="eXtensible Markup Language">XML</abbr> e o tipo de codificação do arquivo (recomenda-se&nbsp;o uso de&nbsp;<a title="HTML: Encode UTF-8" href="http://tableless.com.br/html-encode-utf-8/" target="_blank">UTF-8</a> sem BOM). Na segunda, informamos&nbsp;a versão da instalação do Joomla!&nbsp;e&nbsp;o tipo da extensão.&nbsp;A partir daí, as tags falam por si mesmas: as tags `<name>` informam o nome do template, as tags `<creationDate>` informam a data de criação do template e por aí vai&#8230;
+Na primeira linha, informamos&nbsp;a versão <abbr style="cursor: help" title="eXtensible Markup Language">XML</abbr> e o tipo de codificação do arquivo (recomenda-se&nbsp;o uso de&nbsp;<a title="HTML: Encode UTF-8" href="https://tableless.com.br/html-encode-utf-8/" target="_blank">UTF-8</a> sem BOM). Na segunda, informamos&nbsp;a versão da instalação do Joomla!&nbsp;e&nbsp;o tipo da extensão.&nbsp;A partir daí, as tags falam por si mesmas: as tags `<name>` informam o nome do template, as tags `<creationDate>` informam a data de criação do template e por aí vai&#8230;
 
 As tags&nbsp;`<filemame>`&nbsp;e&nbsp;`<folder>`&nbsp;informam, respectivamente, os arquivos e os diretórios do template. Vale ressaltar que se já informamos algum diretório do template, não precisamos informar os arquivos e subdiretórios contidos nele (tome como exemplo o diretório para as folhas de estilo, cujos arquivos _style.css_ e _index.html_&nbsp;contidos nele não&nbsp;informamos&nbsp;diretamente). Assim, os únicos arquivos e diretórios&nbsp;que precisamos informar são os que se encontram **imediatamente** no diretório que criamos.
 
@@ -86,7 +86,7 @@ Já as&nbsp;tags `<positions>` informam os nomes das&nbsp;posições que os mód
 
 ### Modelo:&nbsp;a&nbsp;estrutura do&nbsp;template
 
-Ao contrário do que acontece no&nbsp;WordPress, em que a estrutura de um tema é&nbsp;dividida em <a title="Hierarquia de arquivos do WordPress" href="http://tableless.com.br/hierarquia-de-arquivos-do-wordpress/" target="_blank">vários arquivos</a>&nbsp;pela funcionalidade, a estrutura de um template do Joomla! normalmente&nbsp;se concentra em apenas um: o _index.php_. Com ele, nós criamos uma página genérica para todo o site, isto é, um **modelo** para todas as páginas específicas do site, incluindo declarações próprias&nbsp;do Joomla! que processarão o conteúdo dinâmico a cada requisição de página.
+Ao contrário do que acontece no&nbsp;WordPress, em que a estrutura de um tema é&nbsp;dividida em <a title="Hierarquia de arquivos do WordPress" href="https://tableless.com.br/hierarquia-de-arquivos-do-wordpress/" target="_blank">vários arquivos</a>&nbsp;pela funcionalidade, a estrutura de um template do Joomla! normalmente&nbsp;se concentra em apenas um: o _index.php_. Com ele, nós criamos uma página genérica para todo o site, isto é, um **modelo** para todas as páginas específicas do site, incluindo declarações próprias&nbsp;do Joomla! que processarão o conteúdo dinâmico a cada requisição de página.
 
 Entretanto, e como no WordPress, nós podemos implementar a página de erros e a do componente (para impressão)&nbsp;separadamente&nbsp;em&nbsp;arquivos semelhantes chamados de&nbsp;_error.php_ e _component.php_, respectivamente, mas aqui nos concentraremos no básico, ok?
 
@@ -139,7 +139,7 @@ O tipo `module` define uma posição&nbsp;do modelo que poderá ser ocupada por 
 
 Já o&nbsp;tipo `modules` define uma posição mais genérica do modelo que poderá ser ocupada por vários módulos —&nbsp;como uma sidebar, por exemplo. Nesse caso, o atributo `title` não é necessário.
 
-Observe que para <a title="Criando Sidebar Dinâmica no WordPress" href="http://tableless.com.br/criando-sidebar-dinamica-no-wordpress/" target="_blank">criar&nbsp;uma sidebar dinâmica&nbsp;no WordPress</a>, normalmente&nbsp;registramos a posição&nbsp;no arquivo _functions.php_ e adicionamos&nbsp;o seguinte trecho em algum lugar do arquivo _sidebar.php_:
+Observe que para <a title="Criando Sidebar Dinâmica no WordPress" href="https://tableless.com.br/criando-sidebar-dinamica-no-wordpress/" target="_blank">criar&nbsp;uma sidebar dinâmica&nbsp;no WordPress</a>, normalmente&nbsp;registramos a posição&nbsp;no arquivo _functions.php_ e adicionamos&nbsp;o seguinte trecho em algum lugar do arquivo _sidebar.php_:
 
 <pre class="lang-php">&lt;div id="sidebar" role="complementary"&gt;
   &lt;?php dynamic_sidebar( 'aside' ); ?&gt;
@@ -259,7 +259,7 @@ Na&nbsp;terceira&nbsp;linha, definimos o idioma da página dinamicamente&nbsp;co
 
 Assim, além das declarações JDOC, o Joomla! também processa essas&nbsp;propriedades do site disponíveis a partir do template, o que&nbsp;minimiza a sua manutenção —&nbsp;já que não precisamos ficar editando o modelo toda vez que mudarmos&nbsp;o título&nbsp;do site, ou o domínio, idioma, etc. Os nomes para retornar as propriedades mais importantes são:
 
-  * **baseurl:**&nbsp;o domínio do&nbsp;site (ex.: http://www.tableless.com.br);
+  * **baseurl:**&nbsp;o domínio do&nbsp;site (ex.: https://www.tableless.com.br);
   * **language:**&nbsp;o código HTML do idioma definido para o site&nbsp;(ex.: pt-br);
   * **template:**&nbsp;o nome do diretório do template atual&nbsp;do site (ex.: meunovotemplate);
   * **title:**&nbsp;o título do site;
@@ -322,8 +322,8 @@ E até a próxima pessoal!
 
 ### Referências
 
-  * <a title="Documentação do Joomla!" href="http://docs.joomla.org" target="_blank">Documentação do Joomla!</a>
-  * <a title="Documentação do WordPress" href="http://codex.wordpress.org" target="_blank">Documentação do WordPress</a>
+  * <a title="Documentação do Joomla!" href="https://docs.joomla.org" target="_blank">Documentação do Joomla!</a>
+  * <a title="Documentação do WordPress" href="https://codex.wordpress.org" target="_blank">Documentação do WordPress</a>
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/instalacao-de-extensoes-no-joomla.png
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/05/template.zip

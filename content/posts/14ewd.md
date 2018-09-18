@@ -34,5 +34,5 @@ Outro bom motivo para garantir já o seu ingresso é que você não precisa se p
   
 Nos veremos lá!
 
- [1]: http://www.encontrodeti.com.br/
- [2]: http://www.encontrodewebdesign.com.br/ewd-14/index.php/quero-me-inscrever
+ [1]: https://www.encontrodeti.com.br/
+ [2]: https://www.encontrodewebdesign.com.br/ewd-14/index.php/quero-me-inscrever

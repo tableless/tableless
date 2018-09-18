@@ -68,8 +68,8 @@ Assim, estou curioso para ver o que a lógica viral vai fazer com o áudio. Ser�
 [^1]:    
     O WhatsApp já começa a implementar as mensagens de voz como uma alternativa ou acréscimo ao texting.<a href="1" rev="footnote">&#8617;</a>
 
- [1]: http://www.buzzfeed.com/juliafurlan/10-everyday-sounds-youll-never-hear-the-same-way-again
+ [1]: https://www.buzzfeed.com/juliafurlan/10-everyday-sounds-youll-never-hear-the-same-way-again
  [2]: https://www.youtube.com/watch?v=sC75aU47GRk
- [3]: http://mentalpod.com/
- [4]: http://zofe.com.br/
- [5]: http://www.theguardian.com/media/media-blog/2014/mar/16/metrics-shape-news-website-content-hits
+ [3]: https://mentalpod.com/
+ [4]: https://zofe.com.br/
+ [5]: https://www.theguardian.com/media/media-blog/2014/mar/16/metrics-shape-news-website-content-hits

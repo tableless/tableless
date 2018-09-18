@@ -7,16 +7,16 @@ url: /podcast_tableless11/
 enclosure:
   - |
     |
-        http://brunotorres.net/mp3/podcast-tableless-11.mp3
+        https://brunotorres.net/mp3/podcast-tableless-11.mp3
         
   - |
     |
-        http://tableless.com.br/podcast/podcast11.mp3
+        https://tableless.com.br/podcast/podcast11.mp3
         
 tweetbackscheck:
   - 1356228187
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/podcast_tableless11";s:7:"tinyurl";s:26:"http://tinyurl.com/3ujet68";s:4:"isgd";s:19:"http://is.gd/y8TMIx";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/podcast_tableless11";s:7:"tinyurl";s:26:"https://tinyurl.com/3ujet68";s:4:"isgd";s:19:"https://is.gd/y8TMIx";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033707
@@ -36,14 +36,14 @@ Nesta edição falamos sobre Hp oferecendo máquinas com Netscape, críticas sob
 
 <small>Desculpe o tamanho do arquivo. Preferimos não cortar porque estamos no meio de uma discussão, e cortar apenas 20 minutos do começo ou do final, não valeria a pena.<br /> O tempo também aumentou. Se não agüentar ouvir tudo, não ficaremos tristes. 😀</small>
 
- [1]: http://brunotorres.net/mp3/podcast-tableless-11.mp3 "Podcast Tableless 11"
- [2]: http://tableless.com.br/podcast/podcast11.mp3
- [3]: http://brunotorres.net
- [4]: http://www.rigonatti.com.br/
- [5]: http://www.digitalminds.com.br/
- [6]: http://www.microsoft.com/ "Microsoft"
- [7]: http://www.microsoft.com/max/index.html
- [8]: http://www.meebo.com/ "Meebo - Instant Messengers Online"
- [9]: http://www.google.com/ "Google"
- [10]: http://www.apple.com/ "Apple"
- [11]: http://www.wordpress.com/ "WordPress.com"
+ [1]: https://brunotorres.net/mp3/podcast-tableless-11.mp3 "Podcast Tableless 11"
+ [2]: https://tableless.com.br/podcast/podcast11.mp3
+ [3]: https://brunotorres.net
+ [4]: https://www.rigonatti.com.br/
+ [5]: https://www.digitalminds.com.br/
+ [6]: https://www.microsoft.com/ "Microsoft"
+ [7]: https://www.microsoft.com/max/index.html
+ [8]: https://www.meebo.com/ "Meebo - Instant Messengers Online"
+ [9]: https://www.google.com/ "Google"
+ [10]: https://www.apple.com/ "Apple"
+ [11]: https://www.wordpress.com/ "WordPress.com"

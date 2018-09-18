@@ -17,7 +17,7 @@ Estamos correndo com os preparativos e [você ainda pode participar][1]. [Ainda 
 
 **Aviso para os que vão:** as 20 pessoas que chegarem primeiro no dia do evento ganharão canecas do Tableless. Há também broches, em número bem limitado!
 
-<a href="http://tableless.com.br/tablelessconf/#signup" style="display: inline-block; vertical-align: middle; border: 3px solid #FFF; padding: 15px 30px; color: #FFF; font-weight: bold; text-decoration: none; display: inline-block; background: #27AE60; border-radius: 5px; line-height: 1; ">Inscreva-se &#8211; R$150</a>
+<a href="https://tableless.com.br/tablelessconf/#signup" style="display: inline-block; vertical-align: middle; border: 3px solid #FFF; padding: 15px 30px; color: #FFF; font-weight: bold; text-decoration: none; display: inline-block; background: #27AE60; border-radius: 5px; line-height: 1; ">Inscreva-se &#8211; R$150</a>
 
 A ideia é que sejam apenas 150 pessoas. Nada de muita gente, nada de empurra empurra. Queremos que você converse com todo mundo, inclusive com os palestrantes. Sobre os palestrantes, esse ano teremos:
 
@@ -75,7 +75,7 @@ A ideia é que sejam apenas 150 pessoas. Nada de muita gente, nada de empurra em
         
         <td style="border-bottom: 0; display: inline-block; width: 500px;">
           <p>
-            <strong>Victor Cavalcante</strong> vai falar sobre um cenário incomum: e se você não usasse jQuery? O Victor vai vai fazer uma comparação de alto nível sobre como você poderia fazer funções simples e complexas usando e ou não jQuery. Você já <a href="http://tableless.com.br/considere-nao-usar-jquery/">considerou não usar jQuery para algumas coisas</a>?
+            <strong>Victor Cavalcante</strong> vai falar sobre um cenário incomum: e se você não usasse jQuery? O Victor vai vai fazer uma comparação de alto nível sobre como você poderia fazer funções simples e complexas usando e ou não jQuery. Você já <a href="https://tableless.com.br/considere-nao-usar-jquery/">considerou não usar jQuery para algumas coisas</a>?
           </p>
         </td>
       </tr>
@@ -103,7 +103,7 @@ A ideia é que sejam apenas 150 pessoas. Nada de muita gente, nada de empurra em
           </p></tr> </table> 
           
           <p>
-            Já agradecendo aos nossos patrocinadores: <a href="http://locaweb.com.br/">Locaweb</a>, <a href="http://caelum.com.br/">Caelum</a>, <a href="http://www.w3c.br/">W3C Brasil</a> e <a href="http://www.novatec.com.br/">Editora Novatec</a>.
+            Já agradecendo aos nossos patrocinadores: <a href="https://locaweb.com.br/">Locaweb</a>, <a href="https://caelum.com.br/">Caelum</a>, <a href="https://www.w3c.br/">W3C Brasil</a> e <a href="https://www.novatec.com.br/">Editora Novatec</a>.
           </p>
 
- [1]: http://tableless.com.br/tablelessconf/
+ [1]: https://tableless.com.br/tablelessconf/

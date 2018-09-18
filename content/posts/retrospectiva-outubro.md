@@ -7,7 +7,7 @@ url: /retrospectiva-2005-outubro/
 tweetbackscheck:
   - 1356362538
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/retrospectiva-2005-outubro";s:7:"tinyurl";s:26:"http://tinyurl.com/4xtkjy4";s:4:"isgd";s:19:"http://is.gd/uNtyMB";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/retrospectiva-2005-outubro";s:7:"tinyurl";s:26:"https://tinyurl.com/4xtkjy4";s:4:"isgd";s:19:"https://is.gd/uNtyMB";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 588586671
@@ -34,15 +34,15 @@ O Henrique explica [Bloglines, Feedburner e Del.icio.us][7].
 
 Nós aqui: O [Gui Leite][8] é [convidado a participar dos podcasts][9]. Eu colocava no ar o [Robô de Google Ranking][10] e escrevia: [Ubuntu, Xara e o avanço do Linux][11] e [Ainda sobre instalar programas no Linux][12].
 
- [1]: http://tableless.com.br/2005/10/
- [2]: http://www.flock.com/
- [3]: http://www.apple.com/itunes/
- [4]: http://www.spreadfirefox.com/?q=node/18917
- [5]: http://www.google.com/reader/
- [6]: http://www.carreirasolo.org/archives/voce_sabe_o_que_e_we.html
- [7]: http://www.revolucao.etc.br/archives/as-facilidades-da-web/
- [8]: http://www.guileite.com/
- [9]: http://tableless.com.br/podcast_tableless_12
- [10]: http://elcio.com.br/google/
- [11]: http://blog.elcio.com.br/ubuntu-xara-e-o-avanco-do-linux/
- [12]: http://blog.elcio.com.br/ainda-sobre-instalar-programas-no-linux/
+ [1]: https://tableless.com.br/2005/10/
+ [2]: https://www.flock.com/
+ [3]: https://www.apple.com/itunes/
+ [4]: https://www.spreadfirefox.com/?q=node/18917
+ [5]: https://www.google.com/reader/
+ [6]: https://www.carreirasolo.org/archives/voce_sabe_o_que_e_we.html
+ [7]: https://www.revolucao.etc.br/archives/as-facilidades-da-web/
+ [8]: https://www.guileite.com/
+ [9]: https://tableless.com.br/podcast_tableless_12
+ [10]: https://elcio.com.br/google/
+ [11]: https://blog.elcio.com.br/ubuntu-xara-e-o-avanco-do-linux/
+ [12]: https://blog.elcio.com.br/ainda-sobre-instalar-programas-no-linux/

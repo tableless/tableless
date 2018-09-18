@@ -37,16 +37,16 @@ Iremos falar bastante sobre front-end, back-end e UX. AS salas são para desenvo
 
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/post-17elw-garantaseulugar.png" alt="17 Encontro Locaweb" width="716" height="600" class="alignnone size-full wp-image-46938" srcset="uploads/2015/02/post-17elw-garantaseulugar.png 716w, uploads/2015/02/post-17elw-garantaseulugar-166x139.png 166w, uploads/2015/02/post-17elw-garantaseulugar-400x335.png 400w" sizes="(max-width: 716px) 100vw, 716px" />][13]
 
- [1]: http://eventos.locaweb.com.br/proximos-eventos/
- [2]: http://twitter.com/rafaelrinaldi
- [3]: http://twitter.com/sergio_caelum
- [4]: http://twitter.com/pothix
- [5]: http://twitter.com/omauriciosoares
- [6]: http://twitter.com/akitaonrails
- [7]: http://twitter.com/danielfilho
- [8]: http://twitter.com/eduardolundgren
- [9]: http://twitter.com/horaciosoares
- [10]: http://twitter.com/patidecia
- [11]: http://twitter.com/jcemer
- [12]: http://twitter.com/mobtec
- [13]: http://bit.ly/1EYAPnB
+ [1]: https://eventos.locaweb.com.br/proximos-eventos/
+ [2]: https://twitter.com/rafaelrinaldi
+ [3]: https://twitter.com/sergio_caelum
+ [4]: https://twitter.com/pothix
+ [5]: https://twitter.com/omauriciosoares
+ [6]: https://twitter.com/akitaonrails
+ [7]: https://twitter.com/danielfilho
+ [8]: https://twitter.com/eduardolundgren
+ [9]: https://twitter.com/horaciosoares
+ [10]: https://twitter.com/patidecia
+ [11]: https://twitter.com/jcemer
+ [12]: https://twitter.com/mobtec
+ [13]: https://bit.ly/1EYAPnB

@@ -7,7 +7,7 @@ url: /congratulations/
 tweetbackscheck:
   - 1356345977
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/congratulations";s:7:"tinyurl";s:26:"http://tinyurl.com/3bczetm";s:4:"isgd";s:19:"http://is.gd/UgYB4J";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/congratulations";s:7:"tinyurl";s:26:"https://tinyurl.com/3bczetm";s:4:"isgd";s:19:"https://is.gd/UgYB4J";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 532239682
@@ -19,4 +19,4 @@ Gostaria de agradecer aos voluntários responsáveis pela tradução da [versão
               
 Agradeço ao: Cláudio F. Barbosa, Leonardo Prado, Vinícius Ficagna, João Faissal, Mauricio Wolff, Jefferson De Almeida Teixeira, Thiago Rigonatti.
 
- [1]: http://tableless.com.br/eng/
+ [1]: https://tableless.com.br/eng/

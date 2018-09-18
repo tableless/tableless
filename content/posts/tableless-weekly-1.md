@@ -62,23 +62,23 @@ Se você tem alguma sugestão, estaremos disponibilizando no próximo artigo um 
 
 Algumas das ferramentas úteis para front-end.
 
-<a href="http://jsfiddle.net/" target="_blank">JSFiddle</a> &#8211; Talvez não seja uma novidade para ninguem, mas com o JSFiddle fica simples testar seu código HTML, CSS e JS, ou códigos prontos que você ahca por aí e não sabe se funciona 😉
+<a href="https://jsfiddle.net/" target="_blank">JSFiddle</a> &#8211; Talvez não seja uma novidade para ninguem, mas com o JSFiddle fica simples testar seu código HTML, CSS e JS, ou códigos prontos que você ahca por aí e não sabe se funciona 😉
   
-<a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">FontAwesome</a> &#8211; Também não deve ser novidade, mas com o FontAwesome, temos vários ícones disponíveis em formato de fonte.
+<a href="https://fortawesome.github.io/Font-Awesome/" target="_blank">FontAwesome</a> &#8211; Também não deve ser novidade, mas com o FontAwesome, temos vários ícones disponíveis em formato de fonte.
   
-<a title="BrowserDiet" href="http://browserdiet.com/pt/" target="_blank">BrowserDiet</a> &#8211; Um site com definitivamente tudo(ou quase tudo) que você precisa saber sobre como perder peso no carregamento de sites.
+<a title="BrowserDiet" href="https://browserdiet.com/pt/" target="_blank">BrowserDiet</a> &#8211; Um site com definitivamente tudo(ou quase tudo) que você precisa saber sobre como perder peso no carregamento de sites.
   
-<a title="BrowserFit" href="http://browserfit.github.io/" target="_blank">BrowserFit</a> &#8211; Site que reúne vários conceitos para criar sites responsivos. Aborda conceitos como: mobile first, content first, media queries, entre outros.
+<a title="BrowserFit" href="https://browserfit.github.io/" target="_blank">BrowserFit</a> &#8211; Site que reúne vários conceitos para criar sites responsivos. Aborda conceitos como: mobile first, content first, media queries, entre outros.
 
 ## Alguns sites legais
 
 [Ominisense][1]<span style="text-decoration: underline"><br /> </span>Site da Ominisense. Simplesmente estou namorando esse site. Os efeitos são muito legais e se você assistir o vídeo no final, verá o quanto é incrível o trabalho que fizeram. O video completamente feito em HTML5, fala sobre os sentidos humanos e sobre escolhas, achei bem interessante e resolvi colocar aqui.
 
-<a title="Cantina Volpolicella Negrar" href="http://www.cantinanegrar.it/" target="_blank">Cantina Valpolicella Negrar</a>
+<a title="Cantina Volpolicella Negrar" href="https://www.cantinanegrar.it/" target="_blank">Cantina Valpolicella Negrar</a>
   
 Site de uma cantina de vinhos italiana. O Design é bem moderno, e o vídeo que fizeram ficou muito legal.
 
-<a title="Volkswagen SportCars" href="http://volkswagen-sportscars.fr/" target="_blank">Volkswagen SportCars</a>
+<a title="Volkswagen SportCars" href="https://volkswagen-sportscars.fr/" target="_blank">Volkswagen SportCars</a>
   
 Site da Volkswagen para divulgar seus carros esportivos. A interface e navegação pelo site são muito intuitivos e agradáveis.
 
@@ -88,4 +88,4 @@ Bom galera, este foi nosso primeiro Tableless Weekly, esperamos que tenham gosta
 
 Então até a próxima terça com mais conteúdo fresco pra vocês se deliciarem.
 
- [1]: http://omnisense.net/
+ [1]: https://omnisense.net/

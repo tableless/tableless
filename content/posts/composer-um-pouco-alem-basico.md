@@ -63,7 +63,7 @@ Criamos um projeto qualquer em um diretório de sua escolha. Farei o mesmo em me
     }
 }</pre>
 
-Perceba que não temos nenhum pacote de terceiro como dependência ainda, somente definimos que a versão mínima do PHP para rodarmos a aplicação é a 5.2.8, deixaremos esta versão por enquanto e adicionaremos em &#8220;require&#8221; o <a title="ORM Doctrine" href="http://www.doctrine-project.org/" target="_blank">ORM Doctrine</a>. Não será criado nenhum código utilizando o Doctrine, apenas está sendo incluso por ser um projeto que não possui muitas dependências fazendo a instalação ser mais rápida. Então nosso require agora fica assim:
+Perceba que não temos nenhum pacote de terceiro como dependência ainda, somente definimos que a versão mínima do PHP para rodarmos a aplicação é a 5.2.8, deixaremos esta versão por enquanto e adicionaremos em &#8220;require&#8221; o <a title="ORM Doctrine" href="https://www.doctrine-project.org/" target="_blank">ORM Doctrine</a>. Não será criado nenhum código utilizando o Doctrine, apenas está sendo incluso por ser um projeto que não possui muitas dependências fazendo a instalação ser mais rápida. Então nosso require agora fica assim:
 
 <pre class="lang-json">"require": {
     "php": "&gt;=5.2.8",
@@ -189,7 +189,7 @@ Note apenas que na imagem acima eu rodei o update em meu ambiente de desenvolvim
 
 ## Definição de Autoload
 
-Para quem não conhece existe a <a title="FIG" href="http://www.php-fig.org/" target="_blank">FIG</a> (Framework Interop Group) que visa sugerir padrões de desenvolvimento através de suas PSRs. Atualmente são 4 recomendações sendo a primeira delas (<a title="Conheça a PSR-0" href="http://www.php-fig.org/psr/psr-0/" target="_blank">PSR-0</a>) a que trata de como o carregamento de sua aplicação deve ocorrer. Basicamente é a informação de onde será definido o namespace de sua aplicação.
+Para quem não conhece existe a <a title="FIG" href="https://www.php-fig.org/" target="_blank">FIG</a> (Framework Interop Group) que visa sugerir padrões de desenvolvimento através de suas PSRs. Atualmente são 4 recomendações sendo a primeira delas (<a title="Conheça a PSR-0" href="https://www.php-fig.org/psr/psr-0/" target="_blank">PSR-0</a>) a que trata de como o carregamento de sua aplicação deve ocorrer. Basicamente é a informação de onde será definido o namespace de sua aplicação.
 
 <pre class="lang-json">"autoload" : {
     "psr-0": {
@@ -292,5 +292,5 @@ Prontinho! Tudo funcionando perfeitamente. Agora sempre que você der um push no
 
 Como você pode ver o composer é muito versátil, pode (e deve preferencialmente) ser utilizado em todo e qualquer projeto em PHP. Obviamente que existem configurações mais avançadas no entanto elas não vem ao caso neste momento por serem muito específicas de cada projeto/pacote. A ideia deste post era fornecer um pouco mais de informações sobre a utilização do composer que foi iniciada no post anterior [Composer para iniciantes][2] para maiores informações a documentação oficial sempre será a melhor fonte.
 
- [1]: http://tableless.com.br/iniciando-no-git-parte-1/ "Iniciando no git parte 1"
- [2]: http://tableless.com.br/composer-para-iniciantes/ "Composer para iniciantes"
+ [1]: https://tableless.com.br/iniciando-no-git-parte-1/ "Iniciando no git parte 1"
+ [2]: https://tableless.com.br/composer-para-iniciantes/ "Composer para iniciantes"

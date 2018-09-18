@@ -7,7 +7,7 @@ url: /terracom_tableless/
 tweetbackscheck:
   - 1356450329
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/terracom_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3kt7u3h";s:4:"isgd";s:19:"http://is.gd/Pmhb0P";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/terracom_tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3kt7u3h";s:4:"isgd";s:19:"https://is.gd/Pmhb0P";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031636
@@ -23,5 +23,5 @@ tinha que acontecer. Qual será a próxima vítima? 😉
               
 dica ¿ [Rogério Madureira][2]
 
- [1]: http://www.terra.com/
- [2]: http://www.atipico.com.br/
+ [1]: https://www.terra.com/
+ [2]: https://www.atipico.com.br/

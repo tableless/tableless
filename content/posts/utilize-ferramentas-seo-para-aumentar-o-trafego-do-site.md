@@ -52,10 +52,10 @@ Em seguida, comece com uma ferramenta de cada vez. Você pode iniciar com o Goog
 
 O universo do SEO é muito amplo e um artigo apenas é pouco para explicá-lo e, ainda, demonstrar como você pode utilizá-lo. Em outras palavras, a relevância deste texto está, digamos, essencialmente em estimulá-lo a empregar essas táticas. Comece a seguir esses passos e projete os bons resultados que virão.
 
- [1]: http://neilpatel.com/br/2016/02/14/o-guia-definitivo-de-fatores-que-nao-afetam-os-mecanismos-de-busca/
+ [1]: https://neilpatel.com/br/2016/02/14/o-guia-definitivo-de-fatores-que-nao-afetam-os-mecanismos-de-busca/
  [2]: https://analytics.google.com/
  [3]: https://www.google.com/trends/
  [4]: https://www.woorank.com/
  [5]: https://moz.com/tools/seo-toolbar
  [6]: https://adwords.google.com/KeywordPlanner
- [7]: http://neilpatel.com/br/seo-analyzer
+ [7]: https://neilpatel.com/br/seo-analyzer

@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356431818
 shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"http://tableless.com.br/font-face-fonts-externas-na-web";s:7:"tinyurl";s:26:"http://tinyurl.com/3mnp6xu";s:4:"isgd";s:19:"http://is.gd/MQYurQ";}'
+  - 'a:3:{s:9:"permalink";s:55:"https://tableless.com.br/font-face-fonts-externas-na-web";s:7:"tinyurl";s:26:"https://tinyurl.com/3mnp6xu";s:4:"isgd";s:19:"https://is.gd/MQYurQ";}'
 twittercomments:
   - 'a:2:{i:35040372405178368;s:6:"137018";i:48426092440190977;s:6:"137269";}'
 tweetcount:
@@ -182,8 +182,8 @@ O principal problema com na utilização de **@font-face** é que arquivo da fon
 
 [Leia mais sobre @font-face direto do W3C.][5]
 
- [1]: http://typekit.com/
- [2]: http://www.mikeindustries.com/blog/archive/2004/12/sifr-2.0-release-candidate-2
- [3]: http://www.fontsquirrel.com/fontface/generator
+ [1]: https://typekit.com/
+ [2]: https://www.mikeindustries.com/blog/archive/2004/12/sifr-2.0-release-candidate-2
+ [3]: https://www.fontsquirrel.com/fontface/generator
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/03/fonface.html
- [5]: http://www.w3.org/TR/css3-fonts/#the-font-face-rule
+ [5]: https://www.w3.org/TR/css3-fonts/#the-font-face-rule

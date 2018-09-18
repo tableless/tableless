@@ -6,7 +6,7 @@ date: 2012-02-14
 excerpt: Pra você que não aguenta mais ver código bagunçado
 url: /principios-para-escrever-css-de-forma-consistente/
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6294";s:7:"tinyurl";s:26:"http://tinyurl.com/bqs46u5";s:4:"isgd";s:19:"http://is.gd/7iSXRH";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6294";s:7:"tinyurl";s:26:"https://tinyurl.com/bqs46u5";s:4:"isgd";s:19:"https://is.gd/7iSXRH";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 725958034
@@ -406,11 +406,11 @@ Os projetos devem sempre tentar incluir alguns meios genéricos pelos quais sua 
 
 Independemente de você ter concordado ou não com o guia de estilo proposto, o importante é entender como uma padronização no estilo do código pode ajudar você e sua equipe. Pense nisso.
 
- [1]: http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+ [1]: https://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
  [2]: https://github.com/styleguide/
  [3]: https://twitter.com/#!/necolas
- [4]: http://necolas.github.com/normalize.css/
- [5]: http://html5boilerplate.com/
+ [4]: https://necolas.github.com/normalize.css/
+ [5]: https://html5boilerplate.com/
  [6]: https://github.com/zenorocha/idiomatic-css
  [7]: https://github.com/rwldrn/idiomatic.js
  [8]: https://github.com/zenorocha/idiomatic-css/tree/master/translations/pt-BR

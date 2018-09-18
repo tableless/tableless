@@ -113,13 +113,13 @@ O projeto [SUIT CSS][10], mantido por ninguém menos que Nicolas Gallagher, cria
 
 Acima de tudo, é essencial evoluirmos nosso entendimento sobre a importância da busca por um sistema para evitar conflitos de código e facilitar reuso até mesmo entre diferentes projetos. A adoção de um sistema abstrai o raciocínio repetitivo de buscar nomes para as classes e permite escrever CSS com um pouco menos de culpa.
 
- [1]: http://josh.github.io/css-explain
- [2]: http://nicolasgallagher.com/about-html-semantics-front-end-architecture
- [3]: http://stackoverflow.com/a/8357635
- [4]: http://www.smashingmagazine.com/2012/04/20/decoupling-html-from-css
- [5]: http://bem.info/method/filesystem
- [6]: http://tableless.com.br/css-steroids
- [7]: http://www.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach
+ [1]: https://josh.github.io/css-explain
+ [2]: https://nicolasgallagher.com/about-html-semantics-front-end-architecture
+ [3]: https://stackoverflow.com/a/8357635
+ [4]: https://www.smashingmagazine.com/2012/04/20/decoupling-html-from-css
+ [5]: https://bem.info/method/filesystem
+ [6]: https://tableless.com.br/css-steroids
+ [7]: https://www.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach
  [8]: https://my.yahoo.com
  [9]: https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md
  [10]: https://github.com/suitcss

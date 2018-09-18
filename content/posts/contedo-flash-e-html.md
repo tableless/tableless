@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356431832
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/contedo-flash-e-html";s:7:"tinyurl";s:26:"http://tinyurl.com/4yrjdnm";s:4:"isgd";s:19:"http://is.gd/e0UJfU";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/contedo-flash-e-html";s:7:"tinyurl";s:26:"https://tinyurl.com/4yrjdnm";s:4:"isgd";s:19:"https://is.gd/e0UJfU";}'
 twittercomments:
   - 'a:1:{i:14752610397458432;s:7:"retweet";}'
 tweetcount:
@@ -51,7 +51,7 @@ Toda aquela história de semântica, código simples e com significado, é regra
 
 A web só existe por causa do conteúdo. Se a informação desaparece ou se torna difícil de ser acessada, a web perde o sentido. Se você é desenvolvedor web e não trabalha para que essa informação fique cada mais semântica, acessível, abundante, você não é um profissional de internet, vocé qualquer coisa, menos isso.
 
- [1]: http://migre.me/AyLA
- [2]: http://moglobo.globo.com/integra.asp?txtUrl=/tecnologia/mat/2010/04/29/steve-jobs-explica-em-carta-aberta-por-que-nao-permite-flash-no-iphone-no-ipad-916462367.asp
- [3]: http://www.w3.org/TR/html401/intro/intro.html#h-2.2
- [4]: http://tableless.com.br/camadas-de-desenvolvimento-client-side
+ [1]: https://migre.me/AyLA
+ [2]: https://moglobo.globo.com/integra.asp?txtUrl=/tecnologia/mat/2010/04/29/steve-jobs-explica-em-carta-aberta-por-que-nao-permite-flash-no-iphone-no-ipad-916462367.asp
+ [3]: https://www.w3.org/TR/html401/intro/intro.html#h-2.2
+ [4]: https://tableless.com.br/camadas-de-desenvolvimento-client-side

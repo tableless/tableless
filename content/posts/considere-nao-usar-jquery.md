@@ -61,8 +61,8 @@ Lá ele pondera sobre vários pontos, alguns até que nem se aplicam ao Tableles
 
 **Update:** Depois do artigo do Leo, aproveitei os pontos que ele citou lá e fiz umas modificações rápidas no Tableless. Ainda tenho várias coisas pra mudar, sabe comequié site novo. Ele fez um outro artigo mostrando uma melhora nos resultados depois dessas modificações. [Dá uma olhada][5].
 
- [1]: http://tableless.com.br/wp-content/themes/tableless-2014/js/scripts.js
- [2]: http://www.pinceladasdaweb.com.br
- [3]: http://bit.ly/1m8zH8e
- [4]: http://leobalter.github.io/pt-br/jquery/2014/02/19/o-hype-sobre-não-utilizar-jquery.html
- [5]: http://leobalter.github.io/pt-br/jquery/2014/02/19/o-entendimento-técnico-de-uma-cr%C3%ADtica.html
+ [1]: https://tableless.com.br/wp-content/themes/tableless-2014/js/scripts.js
+ [2]: https://www.pinceladasdaweb.com.br
+ [3]: https://bit.ly/1m8zH8e
+ [4]: https://leobalter.github.io/pt-br/jquery/2014/02/19/o-hype-sobre-não-utilizar-jquery.html
+ [5]: https://leobalter.github.io/pt-br/jquery/2014/02/19/o-entendimento-técnico-de-uma-cr%C3%ADtica.html

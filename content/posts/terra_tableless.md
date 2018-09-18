@@ -7,7 +7,7 @@ url: /terra_tableless/
 tweetbackscheck:
   - 1356127733
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/terra_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3l45u95";s:4:"isgd";s:19:"http://is.gd/iSNoxb";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/terra_tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3l45u95";s:4:"isgd";s:19:"https://is.gd/iSNoxb";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031860
@@ -96,5 +96,5 @@ tags:
 
 Com certeza, fazendo com tableless, o Terra ganhou em velocidade e economia de banda. As imagens diminuiram bastante, não há mais aqueles gifs de 1px para dar espaçamentos. E com certeza, esperar 7 segundos a menos se estivermos conectando de um modem, é um alívio. Parabéns a equipe do Terra e a equipe da [Visie][2] por treiná-los.
 
- [1]: http://www.terra.com.br "Terra - Quem quer MAIS assina o Terra"
- [2]: http://www.visie.com.br
+ [1]: https://www.terra.com.br "Terra - Quem quer MAIS assina o Terra"
+ [2]: https://www.visie.com.br

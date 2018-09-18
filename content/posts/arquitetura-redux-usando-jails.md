@@ -24,7 +24,7 @@ Ultimamente tenho me preocupado mais com arquiteturas no front-end do que propri
 
 Os frameworks acabaram aparecendo nos últimos tempos e percebo que tiveram uma importância muito maior do que o nosso amadurecimento quanto aos novos desafios nas aplicações web, especificamente na linguagem Javascript. Percebo por comentários de colegas que em entrevistas a preocupação com o conhecimento em determinados frameworks é maior do que a preocupação com o pensamento abstrato do programador Javascript.
 
-Eu acabei escrevendo um micro-framework, já postei ele aqui, o **<a href="http://tableless.com.br/jails-o-framework-e-arquitetura-javascript/" target="_blank">Jails</a>**. Que nada mais é do que uma aplicação de um conceito de relacionamento entre as partes, uma micro-arquitetura baseada em eventos, com alguns padrões, bem simples. Ao invés de vir de fábrica lotada de features, ela apenas resolve o problema básico de **organização.**
+Eu acabei escrevendo um micro-framework, já postei ele aqui, o **<a href="https://tableless.com.br/jails-o-framework-e-arquitetura-javascript/" target="_blank">Jails</a>**. Que nada mais é do que uma aplicação de um conceito de relacionamento entre as partes, uma micro-arquitetura baseada em eventos, com alguns padrões, bem simples. Ao invés de vir de fábrica lotada de features, ela apenas resolve o problema básico de **organização.**
 
 ## O Problema principal e o secundário
 
@@ -280,16 +280,16 @@ Além disso você perde menos tempo com detalhes do DOM, delegue isso para algu
 
 Bom galera, era isso que eu tinha pra falar, eu não postei a aplicação por completo para não estender ainda mais esse post, deixarei no final do post um link com o app funcionando e o código-fonte no caso de alguém se interessar. A idéia do post não é servir como referência para suas aplicações baseadas em Redux, serve apenas para instigar um pouco a curiosidade com relação à padrões e arquiteturas, deixando os frameworks em segundo plano. Há outros conceitos não discutidos como **imutabilidade** e outras coisas mais, sugiro a leitura da documentação oficial para maiores detalhes.
 
-O TodoApp que fiz é um projeto feito em AMD, usando o micro-framework Jails para relacionamento entre componentes e módulos, o projeto foi escrito usando a sintaxe do ES6 usando **Babel** para gerar os AMD&#8217;s em ES5. Estou usando como componente de renderização o <a href="http://riotjs.com/" target="_blank">RiotJS</a> que implementa virtualDOM e é extremamente leve, tornou-se minha engine padrão nos projetos para renderização de templates, embora ela seja muito mais que isso. O Riotjs é uma ótima alternativa para quem quer colocar os conceitos do React em prática.
+O TodoApp que fiz é um projeto feito em AMD, usando o micro-framework Jails para relacionamento entre componentes e módulos, o projeto foi escrito usando a sintaxe do ES6 usando **Babel** para gerar os AMD&#8217;s em ES5. Estou usando como componente de renderização o <a href="https://riotjs.com/" target="_blank">RiotJS</a> que implementa virtualDOM e é extremamente leve, tornou-se minha engine padrão nos projetos para renderização de templates, embora ela seja muito mais que isso. O Riotjs é uma ótima alternativa para quem quer colocar os conceitos do React em prática.
 
 Um grande abraço.
 
   * <a href="https://github.com/jails-org/Demos/tree/master/TodoApp" target="_blank">Jails TodoApp</a>
   * <a href="https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree?series=getting-started-with-redux" target="_blank">Redux Course ( Screencasts )</a>
-  * <a href="http://redux.js.org/" target="_blank">Redux Documentation</a>
+  * <a href="https://redux.js.org/" target="_blank">Redux Documentation</a>
   * <a href="https://en.wikipedia.org/wiki/Pure_function" target="_blank">Pure Functions</a>
-  * <a href="http://riotjs.com/" target="_blank">RiotJS</a>
+  * <a href="https://riotjs.com/" target="_blank">RiotJS</a>
   * [Babel & AMD modules][2]
 
- [1]: http://todomvc.com/
- [2]: http://babeljs.io/docs/plugins/transform-es2015-modules-amd/
+ [1]: https://todomvc.com/
+ [2]: https://babeljs.io/docs/plugins/transform-es2015-modules-amd/

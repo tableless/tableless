@@ -8,7 +8,7 @@ url: /testando-seu-codigo-jquery-com-jasmine-parte-2/
 tweetbackscheck:
   - 1356393493
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4189";s:7:"tinyurl";s:26:"http://tinyurl.com/6kyqegk";s:4:"isgd";s:19:"http://is.gd/3Ae4hM";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4189";s:7:"tinyurl";s:26:"https://tinyurl.com/6kyqegk";s:4:"isgd";s:19:"https://is.gd/3Ae4hM";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503040401
@@ -174,11 +174,11 @@ Nesses dois artigos vocês conheceram o jasmine-jquery, mas existem diversos out
   * [Testing jQuery plugins with Jasmine][7]
   * [HTML fixtures in Jasmine (using jasmine-jquery)][8]
 
- [1]: http://tableless.com.br/testando-seu-codigo-jquery-com-jasmine-parte-1/
+ [1]: https://tableless.com.br/testando-seu-codigo-jquery-com-jasmine-parte-1/
  [2]: https://github.com/velesin/jasmine-jquery
- [3]: http://tableless.com.br/conteudo-sob-demanda-com-jquery/
+ [3]: https://tableless.com.br/conteudo-sob-demanda-com-jquery/
  [4]: https://github.com/pivotal/jasmine/wiki/Related-projects
  [5]: https://github.com/tableless/exemplos/tree/gh-pages/jasmine-parte-2
- [6]: http://tableless.github.com/exemplos/jasmine-parte-2/tests/SpecRunner.html
- [7]: http://f.souza.cc/2011/05/testing-jquery-plugins-with-jasmine/
- [8]: http://testdrivenwebsites.com/2010/07/29/html-fixtures-in-jasmine-using-jasmine-jquery/
+ [6]: https://tableless.github.com/exemplos/jasmine-parte-2/tests/SpecRunner.html
+ [7]: https://f.souza.cc/2011/05/testing-jquery-plugins-with-jasmine/
+ [8]: https://testdrivenwebsites.com/2010/07/29/html-fixtures-in-jasmine-using-jasmine-jquery/

@@ -7,7 +7,7 @@ url: /blogbits-podcast-5-a-internet-mudando-pessoas/
 tweetbackscheck:
   - 1356325102
 shorturls:
-  - 'a:3:{s:9:"permalink";s:69:"http://tableless.com.br/blogbits-podcast-5-a-internet-mudando-pessoas";s:7:"tinyurl";s:26:"http://tinyurl.com/3mxn5cc";s:4:"isgd";s:19:"http://is.gd/nSBXVV";}'
+  - 'a:3:{s:9:"permalink";s:69:"https://tableless.com.br/blogbits-podcast-5-a-internet-mudando-pessoas";s:7:"tinyurl";s:26:"https://tinyurl.com/3mxn5cc";s:4:"isgd";s:19:"https://is.gd/nSBXVV";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035091
@@ -26,4 +26,4 @@ Como a internet mudou seu modo de se relacionar? Como a internet mudou seu modo 
 
 Discutimos esses assuntos no [BlogBits Podcast #5][1].
 
- [1]: http://blogbits.com.br/arquivo/blogbits-podcast-5-a-internet-mudando-pessoas
+ [1]: https://blogbits.com.br/arquivo/blogbits-podcast-5-a-internet-mudando-pessoas

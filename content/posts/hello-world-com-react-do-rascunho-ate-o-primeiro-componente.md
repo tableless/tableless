@@ -161,7 +161,7 @@ Pra ver funcionando, lá no seu terminal, rode o comando abaixo na pasta do proj
 <pre class="lang-bash">$ webpack -w
 </pre>
 
-Ele vai gerar um bundle todas as vezes que você salvar algo no projeto. Você poderá acessar o **index.html** pelo seu browser. No meu Mac eu acessei nesse endereço **http://localhost/curso-react-matheus/public/index.html**
+Ele vai gerar um bundle todas as vezes que você salvar algo no projeto. Você poderá acessar o **index.html** pelo seu browser. No meu Mac eu acessei nesse endereço **https://localhost/curso-react-matheus/public/index.html**
 
 O Tutorial puro do ReactJS sugere rodar um server. Exatamente por que eles não mostram o processo usando Webpack. Contudo, se quiser, segue aí as instruções. [Entre nesse link e rode um dos servidores][4]. É só baixar um dos arquivos da linguagem que mais te agrada e rodar o comando para que o servidor rode.
 
@@ -233,7 +233,7 @@ Algumas leituras eu perdi, outras estão por aí. Todos esses links me ajudaram 
   * [Modularise CSS the React way][9]
   * [Style React Components in SASS][10]
   * [Style React][11]
-  * <http://buildwithreact.com/tutorial/components>
+  * <https://buildwithreact.com/tutorial/components>
   * [Curso do Matheus Lima em Português][1]
   * [Começando com React &#8211; Hugo Bessa][12]
   * [The React Quick Starter Guide][13]
@@ -244,19 +244,19 @@ Algumas leituras eu perdi, outras estão por aí. Todos esses links me ajudaram 
   * [React Native — Construindo Apps Nativos com Javascript (parte 1)][18]
   * [Starter Pack para React do Nando][19]
 
- [1]: http://jscasts.teachable.com/
+ [1]: https://jscasts.teachable.com/
  [2]: https://dribbble.com/shots/1262636-To-Do-Dashboard/attachments/172917
- [3]: http://tableless.com.br/introducao-ao-webpack/
+ [3]: https://tableless.com.br/introducao-ao-webpack/
  [4]: https://github.com/reactjs/react-tutorial/#to-use
  [5]: https://facebook.github.io/react/tutorial/tutorial.html
- [6]: http://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm
- [7]: http://blog.andrewray.me/reactjs-for-stupid-people/
- [8]: http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
+ [6]: https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm
+ [7]: https://blog.andrewray.me/reactjs-for-stupid-people/
+ [8]: https://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/
  [9]: https://medium.com/@jviereck/modularise-css-the-react-way-1e817b317b04
- [10]: http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
- [11]: http://survivejs.com/react/advanced-techniques/styling-react/
- [12]: http://hugobessa.com.br/2015/01/17/comecando-com-react/
- [13]: http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html
+ [10]: https://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/
+ [11]: https://survivejs.com/react/advanced-techniques/styling-react/
+ [12]: https://hugobessa.com.br/2015/01/17/comecando-com-react/
+ [13]: https://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html
  [14]: https://gist.github.com/danawoodman/9cfddb1a0c934a35f31a
  [15]: https://tylermcginnis.com/react-js-tutorial-pt-1-a-comprehensive-guide-to-building-apps-with-react-js-8ce321b125ba#.wn4e2ymf3
  [16]: https://github.com/facebook/react

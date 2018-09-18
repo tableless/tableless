@@ -39,7 +39,7 @@ Primeiro devemos fazer um breve resumo sobre o que estamos falando quando nos re
 
 Um mixin é uma diretiva que permite que você defina várias regras com diversos argumentos. Pense nisso como uma função que irá retornar conteúdo CSS ao invés de um valor. Aqui está a definição de _mixin_ da [referência do SASS][9]:
 
-<blockquote cite="http://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixin-content">
+<blockquote cite="https://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixin-content">
   <p>
     Mixins permitem definir estilos que podem ser reutilizados em toda a folha de estilo, sem a necessidade de recorrer a classes não semânticas como <i>.float-left</i>. Mixins podem também conter regras completas de CSS e quaisquer outras coisas permitidas em um documento SASS. Eles podem até mesmo possuírem argumentos que lhe permitem produzir uma ampla variedade de estilos com poucos mixins.
   </p>
@@ -261,7 +261,7 @@ Primeiro devemos fazer um breve resumo sobre o que estamos falando quando nos re
 
 Um mixin é uma diretiva que permite que você defina várias regras com diversos argumentos. Pense nisso como uma função que irá retornar conteúdo CSS ao invés de um valor. Aqui está a definição de _mixin_ da [referência do SASS][9]:
 
-<blockquote cite="http://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixin-content">
+<blockquote cite="https://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixin-content">
   <p>
     Mixins permitem definir estilos que podem ser reutilizados em toda a folha de estilo, sem a necessidade de recorrer a classes não semânticas como <i>.float-left</i>. Mixins podem também conter regras completas de CSS e quaisquer outras coisas permitidas em um documento SASS. Eles podem até mesmo possuírem argumentos que lhe permitem produzir uma ampla variedade de estilos com poucos mixins.
   </p>
@@ -469,18 +469,18 @@ Tradução autorizada pelo [SitePoint][15].
 
 Qualquer erro ou sugestão de melhoria na tradução, é bem vinda! 🙂
 
- [1]: http://blog.millermedeiros.com/the-problem-with-css-pre-processors/
- [2]: http://tableless.com.br/css-steroids/ "CSS on steroids"
- [3]: http://tableless.com.br/pre-processadores-usar-ou-nao-usar/ "Pré processadores: usar ou não usar?"
- [4]: http://www.sitepoint.com/sass-mixin-placeholder/
+ [1]: https://blog.millermedeiros.com/the-problem-with-css-pre-processors/
+ [2]: https://tableless.com.br/css-steroids/ "CSS on steroids"
+ [3]: https://tableless.com.br/pre-processadores-usar-ou-nao-usar/ "Pré processadores: usar ou não usar?"
+ [4]: https://www.sitepoint.com/sass-mixin-placeholder/
  [5]: https://twitter.com/HugoGiraudel "Perfil do twitter do desenvolvedor Hugo Giraudel"
- [6]: http://www.sitepoint.com/ "Link do website SitePoint"
- [7]: http://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixins
- [8]: http://sass-lang.com/documentation/file.SASS_REFERENCE.html#placeholders
- [9]: http://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixin-content
- [10]: http://en.wikipedia.org/wiki/Don't_repeat_yourself
- [11]: http://hugogiraudel.com/2013/08/05/offsets-sass-mixin/
- [12]: http://www.w3.org/TR/html401/types.html#type-cdata
- [13]: http://reference.sitepoint.com/css/selectorgrouping
+ [6]: https://www.sitepoint.com/ "Link do website SitePoint"
+ [7]: https://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixins
+ [8]: https://sass-lang.com/documentation/file.SASS_REFERENCE.html#placeholders
+ [9]: https://sass-lang.com/documentation/file.SASS_REFERENCE.html#mixin-content
+ [10]: https://en.wikipedia.org/wiki/Don't_repeat_yourself
+ [11]: https://hugogiraudel.com/2013/08/05/offsets-sass-mixin/
+ [12]: https://www.w3.org/TR/html401/types.html#type-cdata
+ [13]: https://reference.sitepoint.com/css/selectorgrouping
  [14]: https://twitter.com/HugoGiraudel "Perfil do twitter"
- [15]: http://www.sitepoint.com/
+ [15]: https://www.sitepoint.com/

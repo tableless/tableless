@@ -8,7 +8,7 @@ url: /elemento-tag-audio/
 tweetbackscheck:
   - 1356399030
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/elemento-tag-audio";s:7:"tinyurl";s:26:"http://tinyurl.com/3wlgeym";s:4:"isgd";s:19:"http://is.gd/pDos7J";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/elemento-tag-audio";s:7:"tinyurl";s:26:"https://tinyurl.com/3wlgeym";s:4:"isgd";s:19:"https://is.gd/pDos7J";}'
 twittercomments:
   - 'a:0:{}'
 enclosure:
@@ -162,7 +162,7 @@ A sintaxe é muito simples:
 Colocando um conteúdo dentro da tag para que browsers que não suportam possam baixar este arquivo.
 
 <pre lang="HTML" line="1">&lt;audio src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" controls="controls">
-   Você pode <a href="http://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/">baixar essa música gratuitamente no Public Domain 2Ten.</a>
+   Você pode <a href="https://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/">baixar essa música gratuitamente no Public Domain 2Ten.</a>
 &lt;/audio>
 </pre>
 
@@ -171,7 +171,7 @@ Suponha então que você tenha que servir dois tipos de formatos de audio para c
 <pre lang="HTML">&lt;audio controls="controls">
   &lt;source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg" type="audio/ogg" />
   &lt;source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" type="audio/mpeg" />
-   Você pode <a href="http://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/">baixar essa música gratuitamente no Public Domain 2Ten.</a>
+   Você pode <a href="https://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/">baixar essa música gratuitamente no Public Domain 2Ten.</a>
 &lt;/audio>
 </pre>
 
@@ -395,7 +395,7 @@ A sintaxe é muito simples:
 Colocando um conteúdo dentro da tag para que browsers que não suportam possam baixar este arquivo.
 
 <pre lang="HTML">&lt;audio src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" controls="controls">
-   Você pode <a href="http://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/">baixar essa música gratuitamente no Public Domain 2Ten.</a>
+   Você pode <a href="https://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/">baixar essa música gratuitamente no Public Domain 2Ten.</a>
 &lt;/audio>
 </pre>
 
@@ -404,7 +404,7 @@ Suponha então que você tenha que servir dois tipos de formatos de audio para c
 <pre lang="HTML">&lt;audio controls>
   &lt;source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.ogg" type="audio/ogg" />
   &lt;source src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/LouisArmstrongAllHisStars-StruttinWithSomeBarbecue.mp3" type="audio/mpeg" />
-   Você pode <a href="http://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/">baixar essa música gratuitamente no Public Domain 2Ten.</a>
+   Você pode <a href="https://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/">baixar essa música gratuitamente no Public Domain 2Ten.</a>
 &lt;/audio>
 </pre>
 
@@ -527,4 +527,4 @@ Teste abaixo:
 
 Customizando estes botões com CSS e aprimorando o Javascript, você consegue fazer um player bem desenhado e que funciona em diversas plataformas.
 
- [1]: http://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/
+ [1]: https://www.publicdomain2ten.com/2010/09/louis-armstrong-all-his-stars-struttin-with-some-barbecue-mp3/

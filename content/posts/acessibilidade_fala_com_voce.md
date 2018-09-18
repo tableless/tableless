@@ -7,7 +7,7 @@ url: /acessibilidade_fala_com_voce/
 tweetbackscheck:
   - 1356261767
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/acessibilidade_fala_com_voce";s:7:"tinyurl";s:26:"http://tinyurl.com/3osgaxs";s:4:"isgd";s:19:"http://is.gd/k6Wrcf";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/acessibilidade_fala_com_voce";s:7:"tinyurl";s:26:"https://tinyurl.com/3osgaxs";s:4:"isgd";s:19:"https://is.gd/k6Wrcf";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031713
@@ -33,4 +33,4 @@ Outra coisa é a colocação dos Alts nas imagens. É de extrema necessidade, qu
 
 A Web tende a crescer, isso quer dizer que mais pessoas irão acessá-la. Pessoas diversas, acessando por diversos meios. Seja com browser comum ou com leitor de telas, melhor, (ou pior), por um dispositivo móvel com leitor de telas. Fazendo um site, seguindo os padrões web, não vai ser bom apenas para você, para o programador ou para o bolso da empresa&#8230; vai ser bom também para qualquer tipo de usuário. Seja ele deficiente, ou não.
 
- [1]: http://www-306.ibm.com/able/solution_offerings/hpr.html
+ [1]: https://www-306.ibm.com/able/solution_offerings/hpr.html

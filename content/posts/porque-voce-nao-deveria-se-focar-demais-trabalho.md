@@ -50,5 +50,5 @@ Sei que isso parece absolutamente óbvio. Mas leva algum tempo para realmente _a
 
 Mas a vida está aí, como sempre. Se você correr demais, ela vai segurá-lo(a). Se você for muito lento(a), vai empurrá-lo(a). Podemos confiar na aspereza da compaixão do envelhecimento. É provável que esse processo lhe traga filhos, relacionamentos amorosos, prazeres e frustrações. Você estará tão ocupado(a) que, quando se der conta, talvez esteja trabalhando melhor.
 
- [1]: http://goo.gl/GsU0Ay
+ [1]: https://goo.gl/GsU0Ay
  [2]: https://www.youtube.com/watch?v=kaIZWjItReI

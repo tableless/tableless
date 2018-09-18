@@ -7,7 +7,7 @@ url: /palestra-sobre-padroes-web-no-senac-de-tocantins/
 tweetbackscheck:
   - 1356453945
 shorturls:
-  - 'a:3:{s:9:"permalink";s:72:"http://tableless.com.br/palestra-sobre-padroes-web-no-senac-de-tocantins";s:7:"tinyurl";s:26:"http://tinyurl.com/3qp84bx";s:4:"isgd";s:19:"http://is.gd/YbLOdB";}'
+  - 'a:3:{s:9:"permalink";s:72:"https://tableless.com.br/palestra-sobre-padroes-web-no-senac-de-tocantins";s:7:"tinyurl";s:26:"https://tinyurl.com/3qp84bx";s:4:"isgd";s:19:"https://is.gd/YbLOdB";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035270

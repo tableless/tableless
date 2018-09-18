@@ -52,4 +52,4 @@ Tem plugins para diversos editores: Sublime Text, TextMate, VIM, Notepad++, gEdi
 
 Obviamente que os integrantes da equipe devem brigar apenas uma vez, para definir qual será o estilo base do código. Depois disso é só escrever um EditorConfig e pronto.
 
- [1]: http://editorconfig.org
+ [1]: https://editorconfig.org

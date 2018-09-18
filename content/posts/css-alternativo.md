@@ -7,7 +7,7 @@ url: /css-alternativo/
 tweetbackscheck:
   - 1356140387
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/css-alternativo";s:7:"tinyurl";s:26:"http://tinyurl.com/3r4w434";s:4:"isgd";s:19:"http://is.gd/1eaKVl";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/css-alternativo";s:7:"tinyurl";s:26:"https://tinyurl.com/3r4w434";s:4:"isgd";s:19:"https://is.gd/1eaKVl";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035218
@@ -57,5 +57,5 @@ Fácil não é?
   
 Mas é bem mais legal quando você faz um script decente, que guarda a opção no cache e tudo mais. Fica mais interativo.
 
- [1]: http://tableless.com.br/video-tutorial-9-criando-a-home-da-visie-css
- [2]: http://visie.com.br/
+ [1]: https://tableless.com.br/video-tutorial-9-criando-a-home-da-visie-css
+ [2]: https://visie.com.br/

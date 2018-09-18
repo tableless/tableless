@@ -51,13 +51,13 @@ Já vi projetos que começaram repletos de boas práticas, e terminaram desas
 
 Seu código atual tem uma qualidade superior comparado com o que você escreveu há 6 meses atrás? Se sua resposta for sim, isso indica que você está no caminho certo. Programação é algo em constante evolução, o você programador, também deve evoluir. Com o passar dos anos seu código deve se tornar mais bem organizado, limpo e elegante.
 
-Uma leitura obrigatória é o livro <a href="http://www.saraiva.com.br/clean-code-a-handbook-of-agile-software-craftsman-3095979.html" target="_blank">Clean Code</a>. Muitos artigos e palestras sobre boas práticas (incluindo esse artigo), repetem pontos abordados nesse livro. Já vi até empresas cobrando a leitura desse livro como requisito para contratação.
+Uma leitura obrigatória é o livro <a href="https://www.saraiva.com.br/clean-code-a-handbook-of-agile-software-craftsman-3095979.html" target="_blank">Clean Code</a>. Muitos artigos e palestras sobre boas práticas (incluindo esse artigo), repetem pontos abordados nesse livro. Já vi até empresas cobrando a leitura desse livro como requisito para contratação.
 
 ## Código Limpo
 
 Enquanto o _GDD_ pode te dar felicidade a curto prazo, escrever código de forma limpa e consistente vai te garantir um futuro mais confortável. Você terá um código de fácil entendimento, o que tornará sua manutenção mais eficiente. E se você for um garoto prendado e cobrir sua aplicação com o máximo possível de testes, erros de regressão não irão mais chatear teu cliente/chefe.
 
-Vou focar em poucos pontos. Se quiser mais conteúdo, leia o <a href="http://www.saraiva.com.br/clean-code-a-handbook-of-agile-software-craftsman-3095979.html" target="_blank">Clean Code</a>.
+Vou focar em poucos pontos. Se quiser mais conteúdo, leia o <a href="https://www.saraiva.com.br/clean-code-a-handbook-of-agile-software-craftsman-3095979.html" target="_blank">Clean Code</a>.
 
 ### Code Review
 
@@ -67,7 +67,7 @@ Sempre peça para um colega revisar teu código. Se outra pessoa entendeu perfei
 
 ### Linters
 
-Ferramentas que escaneiam nosso código procurando o uso de más práticas e possíveis erros de execução, são nossos aliados. No dia-a-dia costumo usar o <a href="http://jshint.com/" target="_blank">JSHint</a> e agora meu novo parceiro: <a href="https://github.com/danielstjules/jsinspect" target="_blank">JSInspect</a>.
+Ferramentas que escaneiam nosso código procurando o uso de más práticas e possíveis erros de execução, são nossos aliados. No dia-a-dia costumo usar o <a href="https://jshint.com/" target="_blank">JSHint</a> e agora meu novo parceiro: <a href="https://github.com/danielstjules/jsinspect" target="_blank">JSInspect</a>.
 
 Gosto do JSHint pelo fato de poder customizar algumas regras. Já o JSInspect te ajuda á identificar o padrão _copy & paste_, te ajudando a escrever módulos melhores.
 
@@ -121,14 +121,14 @@ Conhecer a língua inglesa é extremamente importante no mundo da programação,
 
 A adoção de uma convenção facilita muito na padronização de estilo de escrita e organização de código. É uma ótima opção iniciar com alguma existente:
 
-  * <a href="http://snowdream.github.io/javascript-style-guide/javascript-style-guide/br/naming-conventions.html" target="_blank">Convenção de Nomenclatura &#8211; Airbnb</a>
-  * <a href="http://andrecomws.com/lab/code-standards/" target="_blank">Padrões de Código Front-End &#8211; Isobar</a> (a versão original está <a href="http://isobar-idev.github.io/code-standards/" target="_blank">aqui</a>)
-  * <a href="http://javascript.crockford.com/code.html" target="_blank">Convenções do Douglas Crockford</a>
+  * <a href="https://snowdream.github.io/javascript-style-guide/javascript-style-guide/br/naming-conventions.html" target="_blank">Convenção de Nomenclatura &#8211; Airbnb</a>
+  * <a href="https://andrecomws.com/lab/code-standards/" target="_blank">Padrões de Código Front-End &#8211; Isobar</a> (a versão original está <a href="https://isobar-idev.github.io/code-standards/" target="_blank">aqui</a>)
+  * <a href="https://javascript.crockford.com/code.html" target="_blank">Convenções do Douglas Crockford</a>
   * <a href="https://google.github.io/styleguide/javascriptguide.xml" target="_blank">Padrões de Código da Google</a>
 
 Bônus:
 
-  * Leitura obrigatória: <a href="http://jstherightway.org/pt-br/" target="_blank">JavaSript the Right Way</a>
+  * Leitura obrigatória: <a href="https://jstherightway.org/pt-br/" target="_blank">JavaSript the Right Way</a>
 
 ### Variáveis e funções não utilizadas
 
@@ -163,7 +163,7 @@ function salvar() {
         }
     } );
 
-    $http.post( 'http://app.com/api/usuario', usuario )
+    $http.post( 'https://app.com/api/usuario', usuario )
         .success( ... )
         .error( ... )
         .finally( ... );
@@ -188,7 +188,7 @@ function validarUsuario() {
 }
 
 function salvar() {
-    $http.post( 'http://app.com/api/usuario', usuario )
+    $http.post( 'https://app.com/api/usuario', usuario )
         .success( ... )
         .error( ... )
         .finally( ... );
@@ -196,7 +196,7 @@ function salvar() {
 
 Manter suas funções enxutas te auxilia á praticar o reuso do código.
 
-Esse é um assunto que pode ser extenso. Uma discussão bem bacana rolou no StackOverflow. Dá uma olhada <a href="http://pt.stackoverflow.com/questions/30772/uma-fun%C3%A7%C3%A3o-grande-ou-muitas-pequenas" target="_blank">aqui</a>.
+Esse é um assunto que pode ser extenso. Uma discussão bem bacana rolou no StackOverflow. Dá uma olhada <a href="https://pt.stackoverflow.com/questions/30772/uma-fun%C3%A7%C3%A3o-grande-ou-muitas-pequenas" target="_blank">aqui</a>.
 
 ### 
 
@@ -207,7 +207,7 @@ Já ouvi dizer que código semântico dispensa comentários. Concordo parcialmen
   * Utilização muito pouco comum de uma parte da API pode ajudar a galera mais nova
   * Nem sempre conseguimos deixar nosso código semântico, a ponto dele _contar o que está acontecendo_
   * Existem poucos momentos em que devemos fazer uso de uma má prática. E é bom deixar documentado o motivo antes que alguém refatore e quebre alguma funcionalidade
-  * Sua aplicação expõe uma API pública. Sugiro o uso do <a href="http://usejsdoc.org/" target="_blank">JSDocs</a> para manter um padrão.
+  * Sua aplicação expõe uma API pública. Sugiro o uso do <a href="https://usejsdoc.org/" target="_blank">JSDocs</a> para manter um padrão.
 
 Agora  **/\* código comentado \*/ **é algo deve ter pouquíssima tolerância.
 
@@ -233,7 +233,7 @@ usuario.salvar();</pre>
 
 E agora? Ficou mais fácil de ler?
 
-Enfiar todo o código em uma pequena lata de sardinha pode dificultar um pouco a sua compreensão, por mais que o seu editor de texto ou IDE tenha um highlight com alto contraste. Uma ferramenta bacana pra te ajudar á manter esse padrão é o <a href="http://jscs.info/" target="_blank">JSCS</a>. Gosto de usar o preset jQuery dessa ferramenta, pois o código fica com mais espaçamento, deixando o mais confortável para ler.
+Enfiar todo o código em uma pequena lata de sardinha pode dificultar um pouco a sua compreensão, por mais que o seu editor de texto ou IDE tenha um highlight com alto contraste. Uma ferramenta bacana pra te ajudar á manter esse padrão é o <a href="https://jscs.info/" target="_blank">JSCS</a>. Gosto de usar o preset jQuery dessa ferramenta, pois o código fica com mais espaçamento, deixando o mais confortável para ler.
 
 ### Vale lembrar que&#8230;
 

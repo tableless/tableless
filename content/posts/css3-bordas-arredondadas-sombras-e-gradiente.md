@@ -8,7 +8,7 @@ url: /css3-bordas-arredondadas-sombras-e-gradiente/
 tweetbackscheck:
   - 1356388523
 shorturls:
-  - 'a:3:{s:9:"permalink";s:68:"http://tableless.com.br/css3-bordas-arredondadas-sombras-e-gradiente";s:7:"tinyurl";s:26:"http://tinyurl.com/3nord3g";s:4:"isgd";s:19:"http://is.gd/VyaV3J";}'
+  - 'a:3:{s:9:"permalink";s:68:"https://tableless.com.br/css3-bordas-arredondadas-sombras-e-gradiente";s:7:"tinyurl";s:26:"https://tinyurl.com/3nord3g";s:4:"isgd";s:19:"https://is.gd/VyaV3J";}'
 twittercomments:
   - 'a:18:{i:145818679395876865;s:7:"retweet";i:158902711121739779;s:7:"retweet";i:159975179081105408;s:7:"retweet";i:159973521357934592;s:7:"retweet";i:159970928644718592;s:7:"retweet";i:158934121794637824;s:7:"retweet";i:158884186449649664;s:7:"retweet";i:158884011903692800;s:7:"retweet";i:158883560827256832;s:7:"retweet";i:158882895291875328;s:7:"retweet";i:172351941018521600;s:7:"retweet";i:169920036667011072;s:7:"retweet";i:183232806904803328;s:7:"retweet";i:183212236377034753;s:7:"retweet";i:183206276455596034;s:7:"retweet";i:183204339731533825;s:7:"retweet";i:183201892657152001;s:7:"retweet";i:183200564946010113;s:7:"retweet";}'
 tweetcount:
@@ -38,7 +38,7 @@ Aplicar propriedades CSS3 é bastante simples e nenhum segredo para desenvolvedo
 
 O browser IE (sempre ele) é um dos responsáveis por esse trabalho. Nas versões 7 e 8, não interpreta as propriedades que vamos demonstrar em nosso tutorial, desta forma, a renderização deverá acontecer através do uso de javascript (neste caso PIE) e mesmo que você não tenha familiaridade com a linguagem, não se preocupe, pois a aplicação deste é simples e baseada apenas na hospedagem de alguns arquivo no servidor e a chamada destes na classe ou ID correspondente no css.
 
-<a href="http://css3pie.com/download-latest" rel="external" target="_blank">Para iniciar, clique aqui e baixe os arquivos CSS3 PIE.</a>
+<a href="https://css3pie.com/download-latest" rel="external" target="_blank">Para iniciar, clique aqui e baixe os arquivos CSS3 PIE.</a>
 
 Após, descompacte os arquivos e os hospede no diretório raiz de seu site (seja online ou local) e pronto! Já podemos começar a utilizar bordas arredondadas, gradientes e sombras no IE 7 e 8.
 
@@ -136,9 +136,9 @@ background: url (image.png) repeat-x 0px 0px; /\* Background com imagem para deg
   
 }[/cc]
 
-<a href="http://tableless.com.br/gradientes-em-css" target="_blank" rel="external">Leia mais sobre gradientes em css, clicando aqui.</a>
+<a href="https://tableless.com.br/gradientes-em-css" target="_blank" rel="external">Leia mais sobre gradientes em css, clicando aqui.</a>
 
-<a href="http://tableless.github.com/exemplos/css3-pie/index.html" target="_blank" rel="external">Veja um exemplo, clicando aqui.</a> E [baixe o código pelo nosso GitHub aqui][1].
+<a href="https://tableless.github.com/exemplos/css3-pie/index.html" target="_blank" rel="external">Veja um exemplo, clicando aqui.</a> E [baixe o código pelo nosso GitHub aqui][1].
 
 Até a próxima.
 

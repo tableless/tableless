@@ -28,11 +28,11 @@ Antes de iniciarmos o post, vale lembrar que em momento nenhum eu e o <a href="h
 
 ## Slush, um gerador baseado em streamings (e no gulp).
 
-Nossa! Entramos no assunto principal e de cara deixando explícito que o <a href="http://slushjs.github.io/" target="_blank">Slush</a> utiliza Streamings e o Gulp, e se usa eles, já que todo mundo fala de Streamings e Gulp, é porque é bom, não é? Mas o que são Streamings e porque isso pode fazer a diferença na escolha do Slush como gerador? E que raios é esse tal de Gulp?
+Nossa! Entramos no assunto principal e de cara deixando explícito que o <a href="https://slushjs.github.io/" target="_blank">Slush</a> utiliza Streamings e o Gulp, e se usa eles, já que todo mundo fala de Streamings e Gulp, é porque é bom, não é? Mas o que são Streamings e porque isso pode fazer a diferença na escolha do Slush como gerador? E que raios é esse tal de Gulp?
 
 ### Stream
 
-Sendo bem objetivo, <a href="http://pt.wikipedia.org/wiki/Stream" target="_blank">Stream</a> é um processo computacional para lidar com informações. Ok, mas o que isso quer dizer para nós? Quer dizer que&#8230;
+Sendo bem objetivo, <a href="https://pt.wikipedia.org/wiki/Stream" target="_blank">Stream</a> é um processo computacional para lidar com informações. Ok, mas o que isso quer dizer para nós? Quer dizer que&#8230;
 
 _**Streams está para o Slush, Como a cereja está para o bolo.**_
 
@@ -40,7 +40,7 @@ Isso mesmo! E quando digo isso, é porque, ao utilizar Streamings ganhamos agili
 
 ### Gulp
 
-O <a href="http://gulpjs.com/" target="_blank">Gulp</a> é um Task Runner baseado em Streamings, e ao ler isso, normalmente a pessoa faz uma cara de espertinho, sabendo de cara que esse é o motivo do Slush ser um Scaffolding Generator baseado em Streamings (_dã_). Ok! Mas ao chegar nessa conclusão, o que digo a vocês é que estão **CERTÍSSIMOS** 😉
+O <a href="https://gulpjs.com/" target="_blank">Gulp</a> é um Task Runner baseado em Streamings, e ao ler isso, normalmente a pessoa faz uma cara de espertinho, sabendo de cara que esse é o motivo do Slush ser um Scaffolding Generator baseado em Streamings (_dã_). Ok! Mas ao chegar nessa conclusão, o que digo a vocês é que estão **CERTÍSSIMOS** 😉
 
 Mas não é só isso, Gulp é de fácil uso, alta eficiência e qualidade de código, e além de tudo, fácil de aprender e isso o Slush herda por default ao utilizar ele.
 
@@ -50,7 +50,7 @@ Tá! Mas não da pra falar do Gulp sem falar do Grunt (_mimimi4ever_), porém, n
 
 Se fosse só o uso do Gulp e Streamings já seria bastante coisa, mas a boa notícia é que o Slush tem muito mais a oferecer, e para ilustrar, fiz uma pequena lista de benefícios trazidos por ele:
 
-  * <a href="http://slushjs.github.io/generators/#/" target="_blank">Repositório de Generators oficial</a>;
+  * <a href="https://slushjs.github.io/generators/#/" target="_blank">Repositório de Generators oficial</a>;
   * É extremamente flexível para criação e distribuição de Generators;
   * Faz tudo que o Grunt faz, e muita das vezes de forma bem mais simples;
   * Utiliza o Gulp em sua base e que por sua vez aplica outros inúmeros benefícios e comodidades;
@@ -60,7 +60,7 @@ Se fosse só o uso do Gulp e Streamings já seria bastante coisa, mas a boa not�
 
 #### Instalação
 
-Para instalar o Slush, basta você ter o <a href="http://nodejs.org/" target="_blank">NodeJS</a> no seu computador e executar o seguinte comando no terminal:
+Para instalar o Slush, basta você ter o <a href="https://nodejs.org/" target="_blank">NodeJS</a> no seu computador e executar o seguinte comando no terminal:
 
      $ npm install -g slush
 
@@ -72,7 +72,7 @@ Se ele retonar a versão do mesmo, é porque ocorreu tudo supimpa (_rs&#8230;_).
 
 #### Utilizando Generators de terceiros
 
-Para utilizar Generators de terceiros ou até mesmo distribuir e utilizar os que você criar em qualquer lugar daqui pra frente, vamos recorrer ao repositório disponibilizado pelo <a href="http://joakim.beng.se/" target="_blank">criador do Slush</a>, que você pode conferir <a href="http://slushjs.github.io/generators/#/" target="_blank">aqui</a>. Nele existem centenas de Generators dos mais variados tipos e finalidades, e para exemplificar o uso de Generators de terceiros, irei utilizar um que eu mesmo criei: O <a href="https://github.com/webcomponents/slush-element/" target="_blank"><strong>slush-element</strong></a>, que basicamente serve pra criar Web Components, utilizando-se do padrão do Polymer, X-Tags ou Nativo (VannilaJS).
+Para utilizar Generators de terceiros ou até mesmo distribuir e utilizar os que você criar em qualquer lugar daqui pra frente, vamos recorrer ao repositório disponibilizado pelo <a href="https://joakim.beng.se/" target="_blank">criador do Slush</a>, que você pode conferir <a href="https://slushjs.github.io/generators/#/" target="_blank">aqui</a>. Nele existem centenas de Generators dos mais variados tipos e finalidades, e para exemplificar o uso de Generators de terceiros, irei utilizar um que eu mesmo criei: O <a href="https://github.com/webcomponents/slush-element/" target="_blank"><strong>slush-element</strong></a>, que basicamente serve pra criar Web Components, utilizando-se do padrão do Polymer, X-Tags ou Nativo (VannilaJS).
 
 Para iniciarmos o uso do generator **element**, precisamos instalar o mesmo e para isso, basta executar o seguinte comando no terminal:
 
@@ -219,11 +219,11 @@ Mas é isso&#8230;Um abração!!! E até o próximo post.
 ## Referências
 
   * <a href="https://github.com/slushjs/mock-gulp-dest" target="_blank">Ferramenta de Testes para Slush</a>
-  * <a href="http://en.wikipedia.org/wiki/Stream_%28computing%29" target="_blank">Stream</a>
-  * <a href="http://gulpjs.com/" target="_blank">GulpJS</a>
-  * <a href="http://slushjs.github.io/#/" target="_blank">Slush</a>
-  * <a href="http://slushjs.github.io/generators/#/" target="_blank">Slush Generators</a>
-  * <a href="http://nodejs.org/" target="_blank">NodeJS</a>
+  * <a href="https://en.wikipedia.org/wiki/Stream_%28computing%29" target="_blank">Stream</a>
+  * <a href="https://gulpjs.com/" target="_blank">GulpJS</a>
+  * <a href="https://slushjs.github.io/#/" target="_blank">Slush</a>
+  * <a href="https://slushjs.github.io/generators/#/" target="_blank">Slush Generators</a>
+  * <a href="https://nodejs.org/" target="_blank">NodeJS</a>
   * <a href="https://www.npmjs.com/" target="_blank">NPMJS.ORG</a>
   * <a href="https://github.com/obetomuniz/slush-boilerplate" target="_blank">Slush Generator Boilerplate</a>
   * <a href="https://github.com/webcomponents/slush-element" target="_blank">Slush Element</a>

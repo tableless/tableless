@@ -19,7 +19,7 @@ image: https://cdn-images-1.medium.com/max/800/1*2paLPOKgTuxCqGADIY2CKg.png
 ---
 
 No meu último *post*, por exemplo: [O que TODO desenvolvedor JavaScript precisa
-saber](http://tableless.com.br/o-que-todo-dev-js-precisa-saber/),
+saber](https://tableless.com.br/o-que-todo-dev-js-precisa-saber/),
 um dos pontos que gerou mais dúvida foi justamente o da Programação Funcional.
 
 Continue lendo esse artigo para aprender:
@@ -62,7 +62,7 @@ diversas vezes, o retorno dela nem sempre será o mesmo. O que dificulta a
 manutenção e os testes na sua aplicação.
 
 [Funções Puras (pure
-functions)](http://stackoverflow.com/questions/22395311/difference-between-pure-and-impure-function)
+functions)](https://stackoverflow.com/questions/22395311/difference-between-pure-and-impure-function)
 por outro lado, como o primeiro exemplo desse *post*, tem *inputs* e *outputs*
 declarados e não geram *side-effects*. Além disso, o retorno de uma função pura
 dado um parâmetro será sempre o mesmo. Obviamente os seus testes serão mais
@@ -106,7 +106,7 @@ Ou dessa, bem mais curta, em ES6:
 <script src="https://gist.github.com/matheusml/4a40ce82b5e28248aa4b.js"></script>
 
 *Higher-order functions* estão em todos os lugares no ecossistema do JavaScript.
-Se você já usou testes unitários com [Jasmine](http://jasmine.github.io/) ou
+Se você já usou testes unitários com [Jasmine](https://jasmine.github.io/) ou
 [Mocha](https://mochajs.org/), então o trecho abaixo deve ser familiar:
 
 <script src="https://gist.github.com/matheusml/0dda8c064b756e5ec077.js"></script>

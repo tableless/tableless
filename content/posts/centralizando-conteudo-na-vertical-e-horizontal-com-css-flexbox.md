@@ -69,4 +69,4 @@ Olha só como está o status no CanIUse.
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/Screen-Shot-2015-10-07-at-2.50.22-PM.png" alt="Flexbox no Can I Use" width="1254" height="313" class="alignnone size-full wp-image-51607" />
 
- [1]: http://tableless.com.br/centralizando-um-objeto-na-horizontal-e-vertical-com-css/
+ [1]: https://tableless.com.br/centralizando-um-objeto-na-horizontal-e-vertical-com-css/

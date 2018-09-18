@@ -7,7 +7,7 @@ url: /10o-encontro-locaweb/
 tweetbackscheck:
   - 1355939735
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/10o-encontro-locaweb";s:7:"tinyurl";s:26:"http://tinyurl.com/4yu4wqc";s:4:"isgd";s:19:"http://is.gd/7KouFS";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/10o-encontro-locaweb";s:7:"tinyurl";s:26:"https://tinyurl.com/4yu4wqc";s:4:"isgd";s:19:"https://is.gd/7KouFS";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038080

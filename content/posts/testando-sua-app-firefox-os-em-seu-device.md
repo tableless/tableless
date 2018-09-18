@@ -20,7 +20,7 @@ Para habilitar Depuração em seu celular é preciso ir em Configurações, Info
 
 Após habilitar opção no celular é preciso configurar e baixar adt-bundle no site do Android.
 
-  * <a href="http://developer.android.com/sdk/index.html" target="_blank">Download</a></p> 
+  * <a href="https://developer.android.com/sdk/index.html" target="_blank">Download</a></p> 
 
 Caso queria instalar em um Windows ou Linux segue o link da <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Debugging/Connecting_a_Firefox_OS_device_to_the_desktop" target="_blank">Mozilla</a>.
 

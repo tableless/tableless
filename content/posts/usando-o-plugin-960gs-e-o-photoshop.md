@@ -26,7 +26,7 @@ Neste tutorial eu vou mostrar como funciona um layout de um site responsivo usan
 
 ## Instalando o plugin
 
-Um recurso muito interessante para criarmos grids rapidamente em softwares como o Photoshop e o Fireworks é o plugin 960gs. Este plugin pode ser encontrado no site <a href="http://960.gs" target="_blank">http://960.gs/</a>
+Um recurso muito interessante para criarmos grids rapidamente em softwares como o Photoshop e o Fireworks é o plugin 960gs. Este plugin pode ser encontrado no site <a href="https://960.gs" target="_blank">https://960.gs/</a>
 
 [<img class="alignnone size-medium wp-image-37700" alt="960gs-btn" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/960gs-btn-465x310.jpg" width="465" height="310" srcset="uploads/2013/06/960gs-btn-465x310.jpg 465w, uploads/2013/06/960gs-btn-252x168.jpg 252w, uploads/2013/06/960gs-btn.jpg 600w" sizes="(max-width: 465px) 100vw, 465px" />][1]
 
@@ -155,7 +155,7 @@ Na versão de **celular**, o layout se adapta até o tamanho de **240px**. Com a
 
 Vários artigos sobre **Design Responsivo** ou **RWD** (Responsive Web Design) estão disponíveis na Web. Este artigo é apenas uma das formas que conseguimos otimizar o site para dispositivos móveis. Lembrando, como disse anteriormente, temos que pensar como o conteúdo será exibido e como podemos moldar ao nosso projeto e como trabalhar ele de diferentes formas.
 
-Eu disponibilizei esse exemplo de layout neste <a href="http://bit.ly/12kNheE" target="_blank">http://bit.ly/12kNheE</a> para melhor visualização e entendimento. Espero que tenha ajudado a gerar conhecimento. Gostou, quer comentar ou criticar? Vamos conversar
+Eu disponibilizei esse exemplo de layout neste <a href="https://bit.ly/12kNheE" target="_blank">https://bit.ly/12kNheE</a> para melhor visualização e entendimento. Espero que tenha ajudado a gerar conhecimento. Gostou, quer comentar ou criticar? Vamos conversar
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/960gs-btn.jpg
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/plugin.jpg

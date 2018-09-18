@@ -2,7 +2,7 @@
 title: 'Media queries simples com rupture'
 authors: Guilherme Bayer
 type: post
-image: http://i.imgur.com/Wl1JzuY.png
+image: https://i.imgur.com/Wl1JzuY.png
 date: 2017-07-07
 excerpt: Torne o desenvolvimento do seu código Stylus mais divertido e produtivo conhecendo um pouco mais sobre o rupture, uma pequena lib para media queries.
 categories:

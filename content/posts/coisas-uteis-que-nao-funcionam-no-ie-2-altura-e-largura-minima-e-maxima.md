@@ -7,7 +7,7 @@ url: /coisas-uteis-que-nao-funcionam-no-ie-2-altura-e-largura-minima-e-maxima/
 tweetbackscheck:
   - 1356463700
 shorturls:
-  - 'a:3:{s:9:"permalink";s:95:"http://tableless.com.br/coisas-uteis-que-nao-funcionam-no-ie-2-altura-e-largura-minima-e-maxima";s:7:"tinyurl";s:26:"http://tinyurl.com/3q4f62l";s:4:"isgd";s:19:"http://is.gd/eOyvRb";}'
+  - 'a:3:{s:9:"permalink";s:95:"https://tableless.com.br/coisas-uteis-que-nao-funcionam-no-ie-2-altura-e-largura-minima-e-maxima";s:7:"tinyurl";s:26:"https://tinyurl.com/3q4f62l";s:4:"isgd";s:19:"https://is.gd/eOyvRb";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036054
@@ -33,4 +33,4 @@ Infelizmente, essas propriedades &#8211; que salvariam nossa vida &#8211; não f
 
 Leia também o primeiro artigo da série: [Coisas úties que não funcionam no IE #1 &#8211; Seletor Inteligente][1]
 
- [1]: http://tableless.com.br/coisas-uteis-que-nao-funcionam-no-ie-1-seletor-inteligente
+ [1]: https://tableless.com.br/coisas-uteis-que-nao-funcionam-no-ie-1-seletor-inteligente

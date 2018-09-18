@@ -26,7 +26,7 @@ tags:
 
 À esta altura do campeonato é provável que você já tenha ouvido falar da nova versão deste famoso framework para criação de aplicações móveis híbridas. O **<a href="https://ionicframework.com/docs/v2/" target="_blank">Ionic 2</a>** acaba de chegar em seu _Release Candidate_ e, com ele, trás uma série de recursos e otimizações de código, além de um considerável ganho de performance! Muito desse mérito se deve ao **<a href="https://angular.io/" target="_blank">Angular</a>** (como é chamada a nova versão do framework, que deixa para trás o &#8220;JS&#8221; ao final do nome) que chega &#8211; finalmente &#8211; na sua versão estável, provando que não está para brincadeiras.
 
-Depois de passar por várias mudanças e quebras de código à cada novo release, o **Ionic 2** agora atinge a maturidade e se torna um competidor ainda mais forte do modelo de desenvolvimento tradicional (nativo). No entanto, se você já está familiarizado com o **<a href="http://ionicframework.com/" target="_blank">Ionic 1</a>**, a mudança nos conceitos pode lhe soar um tanto quanto desagradáveis à primeira vista. Mas uma vez que você entende como as peças se encaixam, vai perceber que criar aplicações móveis com o framework tornou-se uma atividade ainda mais simples e recompensadora.
+Depois de passar por várias mudanças e quebras de código à cada novo release, o **Ionic 2** agora atinge a maturidade e se torna um competidor ainda mais forte do modelo de desenvolvimento tradicional (nativo). No entanto, se você já está familiarizado com o **<a href="https://ionicframework.com/" target="_blank">Ionic 1</a>**, a mudança nos conceitos pode lhe soar um tanto quanto desagradáveis à primeira vista. Mas uma vez que você entende como as peças se encaixam, vai perceber que criar aplicações móveis com o framework tornou-se uma atividade ainda mais simples e recompensadora.
 
 ### O que tem de novo?
 
@@ -200,7 +200,7 @@ export class HomePage {
 
 _Caso queira entender melhor sobre os endpoints da API, dê uma olhada <a href="https://www.reddit.com/dev/api/" target="_blank">nesse link</a>._
 
-O que fizemos acima foi importar o componente **Http** e injetá-lo no método construtor. Isso nos possibilita acessar sua instância através do objeto **this**. Note que também estamos importando o operador **map** da biblioteca **<a href="https://github.com/Reactive-Extensions/RxJS" target="_blank">rxjs</a>**. O rxjs é uma das extensões que compõe a **<a href="http://reactivex.io/" target="_blank">reactiveX</a>** (Reactive Extensions), uma biblioteca assíncrona que trabalha com o stream de dados no padrão **Observable**.
+O que fizemos acima foi importar o componente **Http** e injetá-lo no método construtor. Isso nos possibilita acessar sua instância através do objeto **this**. Note que também estamos importando o operador **map** da biblioteca **<a href="https://github.com/Reactive-Extensions/RxJS" target="_blank">rxjs</a>**. O rxjs é uma das extensões que compõe a **<a href="https://reactivex.io/" target="_blank">reactiveX</a>** (Reactive Extensions), uma biblioteca assíncrona que trabalha com o stream de dados no padrão **Observable**.
 
 No objeto http estamos fazendo uma requisição do tipo **GET** à um endpoint que definimos na variável **url**, acima do método construtor. Note que, com o uso do TypeScript, podemos definir seu escopo (pública ou privada) e ainda definir o seu tipo (string, number, array&#8230;). Ponto para o TypeScript!
 
@@ -451,7 +451,7 @@ Tem mais uma coisa que está incomodando: Perceba que os posts sem imagens estã
 
 <pre class="lang-javascript">this.feeds.forEach((e, i, a) =&gt; {
    if (!e.data.thumbnail || e.data.thumbnail.indexOf('b.thumbs.redditmedia.com') === -1 ) { 
-      e.data.thumbnail = 'http://www.redditstatic.com/icon.png';
+      e.data.thumbnail = 'https://www.redditstatic.com/icon.png';
    }
  })
 </pre>
@@ -500,7 +500,7 @@ E criamos o método correspondente em nossa classe:
           
           this.feeds.forEach((e, i, a) =&gt; {
             if (!e.data.thumbnail || e.data.thumbnail.indexOf('b.thumbs.redditmedia.com') === -1 ) {  
-              e.data.thumbnail = 'http://www.redditstatic.com/icon.png';
+              e.data.thumbnail = 'https://www.redditstatic.com/icon.png';
             }
           })
           infiniteScroll.complete();
@@ -559,7 +559,7 @@ Por fim, inserimos o método na classe:
         
         this.feeds.forEach((e, i, a) =&gt; {
           if (!e.data.thumbnail || e.data.thumbnail.indexOf('b.thumbs.redditmedia.com') === -1 ) {  
-            e.data.thumbnail = 'http://www.redditstatic.com/icon.png';
+            e.data.thumbnail = 'https://www.redditstatic.com/icon.png';
           }
         })
         refresher.complete();
@@ -695,7 +695,7 @@ export class HomePage {
 
         this.feeds.forEach((e, i, a) =&gt; {
           if (!e.data.thumbnail || e.data.thumbnail.indexOf('b.thumbs.redditmedia.com') === -1 ) {  
-            e.data.thumbnail = 'http://www.redditstatic.com/icon.png';
+            e.data.thumbnail = 'https://www.redditstatic.com/icon.png';
           }
         })
 
@@ -716,7 +716,7 @@ export class HomePage {
         
         this.feeds.forEach((e, i, a) =&gt; {
           if (!e.data.thumbnail || e.data.thumbnail.indexOf('b.thumbs.redditmedia.com') === -1 ) {  
-            e.data.thumbnail = 'http://www.redditstatic.com/icon.png';
+            e.data.thumbnail = 'https://www.redditstatic.com/icon.png';
           }
         })
 
@@ -738,7 +738,7 @@ export class HomePage {
           
           this.feeds.forEach((e, i, a) =&gt; {
             if (!e.data.thumbnail || e.data.thumbnail.indexOf('b.thumbs.redditmedia.com') === -1 ) {  
-              e.data.thumbnail = 'http://www.redditstatic.com/icon.png';
+              e.data.thumbnail = 'https://www.redditstatic.com/icon.png';
             }
           })
 
@@ -856,7 +856,7 @@ export class RedditService {
           
           this.feeds.forEach((e, i, a) =&gt; {
             if (!e.data.thumbnail || e.data.thumbnail.indexOf('b.thumbs.redditmedia.com') === -1 ) {  
-              e.data.thumbnail = 'http://www.redditstatic.com/icon.png';
+              e.data.thumbnail = 'https://www.redditstatic.com/icon.png';
             }
           })
           resolve(this.feeds);
@@ -1140,7 +1140,7 @@ Para facilitar o seu aprendizado, o projeto está disponível no **<a href="http
 
 Bons estudos e até a próxima!
 
-> Se você ficou curioso sobre a criação de aplicativos multiplataforma que utilizam tecnologia da web, saiba que o Ionic não é a única opção existente. Leia meu post sobre **<a href="http://tableless.com.br/react-native-construa-aplicacoes-moveis-nativas-com-javascript/" target="_blank">React Native</a>** e descubra como já é possível criar uma aplicação 100% nativa utilizando JavaScript.
+> Se você ficou curioso sobre a criação de aplicativos multiplataforma que utilizam tecnologia da web, saiba que o Ionic não é a única opção existente. Leia meu post sobre **<a href="https://tableless.com.br/react-native-construa-aplicacoes-moveis-nativas-com-javascript/" target="_blank">React Native</a>** e descubra como já é possível criar uma aplicação 100% nativa utilizando JavaScript.
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/tumblr_npjjd6T4Lu1tq4of6o1_400.gif
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2016/10/ionic-2-localhost-5.jpg

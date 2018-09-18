@@ -2,13 +2,13 @@
 title: "Agora o Tableless é estático"
 categories: ["Artigos"]
 excerpt: Tableless não é mais no WordPress.
-image: http://i.imgur.com/bvQOlPV.png
+image: https://i.imgur.com/bvQOlPV.png
 type: "post"
 authors: Diego Eis
 date: "2017-04-11T21:59:58-03:00"
 ---
 
-Eu não sei se você já tentou cuidar de um site durante algum tempo, mas fica a dica: dá trabalho. Aqui no Tableless temos 3 servidores na DigitalOcean: um pro Fórum rodando Discourse, um pro WordPress rodando Nginx + PHP e finalmente um para o banco MySQL. Antes estava tudo em um servidor só, mas dava muita dor de cabeça com instabilidades, upgrades, configurações de infra etc. Logo decidi separar um servidor apenas para o [Fórum](http://forum.tableless.com.br/). Assim, quando eu tivesse que atualizar o fórum ou fazer qualquer coisa arriscada por lá, o blog ficaria intacto e vice-versa. Com isso, uma parte do problema foi resolvido. Sobrou o WordPress.
+Eu não sei se você já tentou cuidar de um site durante algum tempo, mas fica a dica: dá trabalho. Aqui no Tableless temos 3 servidores na DigitalOcean: um pro Fórum rodando Discourse, um pro WordPress rodando Nginx + PHP e finalmente um para o banco MySQL. Antes estava tudo em um servidor só, mas dava muita dor de cabeça com instabilidades, upgrades, configurações de infra etc. Logo decidi separar um servidor apenas para o [Fórum](https://forum.tableless.com.br/). Assim, quando eu tivesse que atualizar o fórum ou fazer qualquer coisa arriscada por lá, o blog ficaria intacto e vice-versa. Com isso, uma parte do problema foi resolvido. Sobrou o WordPress.
 
 ## WordPress
 Eu AMO o WordPress. Embora muita gente não goste, o WordPress é uma ferramenta fenomenal que resolve um caminhão de problemas quando se trata de criar websites e qualquer outra coisa que dependa de um CMS. Ele é flexível, tem uma comunidade gigante, com soluções para qualquer tipo de problema: basta fazer uma pergunta no Google e pronto, você encontra a resposta. A coisa ruim é que dependendo do site, o WordPress fica carente. Você precisa dar bastante atenção para suas atualizações, performance, configurações e tudo mais. Como ele é praticamente onipresente na web, é alvo de ataques constantes...
@@ -20,9 +20,9 @@ Como eu disse, aqui no Tableless, só para o Blog, tínhamos 2 servidores, um de
 
 
 ## Mudança
-Cansado de tanto trabalho e tanto dinheiro indo embora, faz bastante tempo que tenho pensado em passar a usar um gerador de sites estáticos para manter o Tableless. Eu gosto muito de Middleman ([meu blog pessoal](http://diegoeis.com/) é baseado e Middleman, assim como todos os meus projetos de clientes) e então eu comecei a fazer testes com ele. Gostei bastante dos resultados e percebi que migrar do WordPress para algum gerador de site estático era uma possibilidade real. Mas por causa da correria da vida, eu adiei um tempão... Até hoje.
+Cansado de tanto trabalho e tanto dinheiro indo embora, faz bastante tempo que tenho pensado em passar a usar um gerador de sites estáticos para manter o Tableless. Eu gosto muito de Middleman ([meu blog pessoal](https://diegoeis.com/) é baseado e Middleman, assim como todos os meus projetos de clientes) e então eu comecei a fazer testes com ele. Gostei bastante dos resultados e percebi que migrar do WordPress para algum gerador de site estático era uma possibilidade real. Mas por causa da correria da vida, eu adiei um tempão... Até hoje.
 
-Estava fofocando esses dias com o [PotHix](http://pothix.com/) e ele me disse que havia migrado o blog dele de Middleman para um gerador estático chamado Hugo. Foi aí que eu resolvi tentar matar todo esse processo em três domingos. O resultado, é esse site que vocês estão vendo.
+Estava fofocando esses dias com o [PotHix](https://pothix.com/) e ele me disse que havia migrado o blog dele de Middleman para um gerador estático chamado Hugo. Foi aí que eu resolvi tentar matar todo esse processo em três domingos. O resultado, é esse site que vocês estão vendo.
 
 Um dos problemas que me fazia adiar essa mudança, era pensar numa solução para busca. Existem várias iniciativas para buscas de conteúdo em sites estáticos por aí. No site do Hugo mesmo há uma série de sugestões, mas como eu queria algo sem muito guéri-guéri, resolvi da maneira mais simples possível: coloquei o [DuckDuckGo Search Box](https://duckduckgo.com/search_box). Simples e fácil. Depois posso pensar em fazer um trabalho mais bem acabado, usando alguma solução mais apropriada e principalmente mais customizável. Mas por enquanto o Duck valente dá conta do recado.
 
@@ -39,18 +39,18 @@ Mas porque não Middleman? Embora eu tenha uma facilidade maior com Middleman po
 - Suporta vários tipos de frontmatters: json, toml e yaml
 - A forma de templating usando Sections, Archetypes e Types é bastante interessante (embora eu tenha demorado para entender o conceito)
 - O esquema de oganização e gestão de [Taxonomias](https://gohugo.io/taxonomies/overview/) também é bem legal
-- Suporta [Syntax Hightlighting](http://gohugo.io/extras/highlighting/) nativamente
+- Suporta [Syntax Hightlighting](https://gohugo.io/extras/highlighting/) nativamente
 - E tem um monte de [extras](https://gohugo.io/extras/) que talvez eu nem precise usar
 
 ## Tableless está mais opensource do que nunca
-O código do Tableless em Wordpress já estava todo [aberto no GitHub](http://github.com/tableless/tableless), assim como essa versão estática, usando Hugo, também está [aberta aqui](http://github.com/tableless/tableless-static) caso alguém queira ajudar.
+O código do Tableless em Wordpress já estava todo [aberto no GitHub](https://github.com/tableless/tableless), assim como essa versão estática, usando Hugo, também está [aberta aqui](https://github.com/tableless/tableless-static) caso alguém queira ajudar.
 
 ## Quer ser autor?
-Como não temos mais um CMS, você não vai precisar mais se cadastrar para submeter artigos. Para tanto, basta seguir as [instruções dessa página](http://tableless.com.br/seja-um-autor/). Agora tudo vai ser gerido via GitHub. Quer submeter um artigo? Basta abrir um Pull Request com o artigo escrito em Markdown que a gente revisa e aprova. A comunidade também poderá participar dessa revisão, o que me poupa um trabalho gigante.
+Como não temos mais um CMS, você não vai precisar mais se cadastrar para submeter artigos. Para tanto, basta seguir as [instruções dessa página](https://tableless.com.br/seja-um-autor/). Agora tudo vai ser gerido via GitHub. Quer submeter um artigo? Basta abrir um Pull Request com o artigo escrito em Markdown que a gente revisa e aprova. A comunidade também poderá participar dessa revisão, o que me poupa um trabalho gigante.
 
-Além disso, queria agradecer aos Editores, principalmente ao [Tailo Mateus](http://tailomateus.github.io/) por estar me ajudando nas revisões dos artigos.
+Além disso, queria agradecer aos Editores, principalmente ao [Tailo Mateus](https://tailomateus.github.io/) por estar me ajudando nas revisões dos artigos.
 
 ## O Design
-Quero agradecer o [Daniel Santiago](http://www.danielsantiago.com.br/), um dos designers mais talentosos que eu já conheci, que me deu vários pitacos quando mostrei esse design para ele, além de fazer todo o design mobile do site. Claro, várias coisas eu tive que adaptar por causa do Hugo (por exemplo a Busca), mas acho que no final deu tudo certo. Valeu, [Daniel](http://www.danielsantiago.com.br/)!
+Quero agradecer o [Daniel Santiago](https://www.danielsantiago.com.br/), um dos designers mais talentosos que eu já conheci, que me deu vários pitacos quando mostrei esse design para ele, além de fazer todo o design mobile do site. Claro, várias coisas eu tive que adaptar por causa do Hugo (por exemplo a Busca), mas acho que no final deu tudo certo. Valeu, [Daniel](https://www.danielsantiago.com.br/)!
 
 Espero que gostem.

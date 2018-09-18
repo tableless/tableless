@@ -66,12 +66,12 @@ Se ainda tem algumas dúvidas sobre o método de funcionamento do dropshipping, 
 
 De seguida explicamos-lhe como tudo funciona depois de ter o seu site criado e todos os produtos que quer vender inseridos.
 
-1 – O cliente realiza a compra na sua [loja virtual](http://www.sebrae.com.br/sites/PortalSebrae/ideias/como-montar-uma-loja-virtual,00287a51b9105410VgnVCM1000003b74010aRCRD), realizando o pagamento do produto para que o mesmo possa ser enviado.
+1 – O cliente realiza a compra na sua [loja virtual](https://www.sebrae.com.br/sites/PortalSebrae/ideias/como-montar-uma-loja-virtual,00287a51b9105410VgnVCM1000003b74010aRCRD), realizando o pagamento do produto para que o mesmo possa ser enviado.
 
 2 – A sua própria loja online irá encaminhar o pedido diretamente para o fornecedor escolhido, indicando o que é que o cliente pretende comprar e fazendo logo o pagamento diretamente ao fornecedor.
 
 3 – O fornecedor envia o pedido para a morada indicada pelo cliente, sem que o mesmo saiba que o produto não está a ser enviado diretamente pela loja onde foi comprado.
 
-4 – Depois de [expedido o produto](http://bit.ly/2MsEfdu) , irá receber uma mensagem para notificar o cliente que o mesmo já está a caminho da sua casa.
+4 – Depois de [expedido o produto](https://bit.ly/2MsEfdu) , irá receber uma mensagem para notificar o cliente que o mesmo já está a caminho da sua casa.
 
 Como vê, acaba por ser um processo relativamente simples. Isso faz com que cada vez mais milhares de pessoas invistam no dropshipping como forma de criar os seus próprios negócios, ou pelo menos obterem uma renda extra sem terem muito com que se preocupar.

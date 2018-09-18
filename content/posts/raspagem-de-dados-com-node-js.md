@@ -14,12 +14,12 @@ tags:
 ---
 Raspagem de dados, ou _Web scraping_, é uma técnica de extração de dados onde é possível recuperar informações de websites.
 
-Existem diversas maneiras de fazer raspagem de dados: pode ser feito manualmente copiando e colando, utilizando uma ferramenta online, usando uma extensão para o navegador Google Chrome (como o <a href="https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn" target="_blank">Webscrapper</a>), etc. Neste artigo será mostrado um passo-a-passo de como fazer raspagem de dados no site Portal da Transparência. O site <a href="http://www.portaldatransparencia.gov.br/" target="_blank">Portal da Transparência</a> é mantido pelo Tribunal de Contas da União, órgão que fiscaliza as contas do governo. Informações de gastos com aquisição e contratação de obras e compras governamentais, diárias pagas, cartões de pagamento do Governo Federal, entre outras são exemplos que podem ser encontrado.
+Existem diversas maneiras de fazer raspagem de dados: pode ser feito manualmente copiando e colando, utilizando uma ferramenta online, usando uma extensão para o navegador Google Chrome (como o <a href="https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn" target="_blank">Webscrapper</a>), etc. Neste artigo será mostrado um passo-a-passo de como fazer raspagem de dados no site Portal da Transparência. O site <a href="https://www.portaldatransparencia.gov.br/" target="_blank">Portal da Transparência</a> é mantido pelo Tribunal de Contas da União, órgão que fiscaliza as contas do governo. Informações de gastos com aquisição e contratação de obras e compras governamentais, diárias pagas, cartões de pagamento do Governo Federal, entre outras são exemplos que podem ser encontrado.
 
 Para fazer a aplicação raspar dados, usaremos as seguintes ferramentas:
 
-  * <a href="http://nodejs.org/" target="_blank">Node.js</a>
-  * <a href="http://expressjs.com/" target="_blank">Express</a>
+  * <a href="https://nodejs.org/" target="_blank">Node.js</a>
+  * <a href="https://expressjs.com/" target="_blank">Express</a>
   * <a href="https://github.com/request/request" target="_blank">Request</a> &#8211; Para fazer chamadas HTTP
   * <a href="https://github.com/cheeriojs/cheerio" target="_blank">Cheerio</a> &#8211; Para acessar o DOM externo e extrair os dados
 
@@ -49,7 +49,7 @@ Primeiro devemos configurar as dependências necessárias no arquivo package.jso
 
 Com o arquivo **package.json** pronto, é só instalar as dependências com o comando `npm install`.
 
-Agora que as dependências foram instaladas, iremos definir o que deve ser criado. Neste exemplo, iremos fazer uma requisição na página de <a href="http://www.portaldatransparencia.gov.br/PortalComprasDiretasOEOrgaoSuperior.asp?Ano=2015&Valor=86726995548647&Pagina=1" target="_blank">Gastos Diretos por Órgão Executor</a>. Nesta página teremos acesso aos gastos que o governo teve em 2015, separado por Ministério. Uma vez que tivermos acesso a estas informações, podemos escolher o que salvar em um arquivo JSON no computador.
+Agora que as dependências foram instaladas, iremos definir o que deve ser criado. Neste exemplo, iremos fazer uma requisição na página de <a href="https://www.portaldatransparencia.gov.br/PortalComprasDiretasOEOrgaoSuperior.asp?Ano=2015&Valor=86726995548647&Pagina=1" target="_blank">Gastos Diretos por Órgão Executor</a>. Nesta página teremos acesso aos gastos que o governo teve em 2015, separado por Ministério. Uma vez que tivermos acesso a estas informações, podemos escolher o que salvar em um arquivo JSON no computador.
 
 ## A aplicação
 
@@ -84,7 +84,7 @@ A requisição externa deve ser realizada dentro do escopo do método `app.get()
 
 <pre class="lang-javascript">app.get('/raspagem', function(req, res) {
     // Passo 2
-    url = 'http://www.portaldatransparencia.gov.br/PortalComprasDiretasOEOrgaoSuperior.asp?Ano=2015&Valor=86726995548647&Pagina=1';
+    url = 'https://www.portaldatransparencia.gov.br/PortalComprasDiretasOEOrgaoSuperior.asp?Ano=2015&Valor=86726995548647&Pagina=1';
     request(url, function(error, response, html) {
         ...
     })
@@ -141,7 +141,7 @@ Assim, quando executarmos o comando `node server.js` no terminal a nossa aplica�
 
 ## Validando
 
-É sempre importante validar o que você está fazendo. Podemos verificar se o nosso arquivo .json é válido com a ferramenta <a href="http://jsonlint.com/" target="_blank">JSONLint</a>:
+É sempre importante validar o que você está fazendo. Podemos verificar se o nosso arquivo .json é válido com a ferramenta <a href="https://jsonlint.com/" target="_blank">JSONLint</a>:
   
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/07/valid_json.png" alt="valid_json" width="961" height="631" class="alignleft size-full wp-image-50473" />
 
@@ -151,7 +151,7 @@ Vimos neste exemplo que o processo de raspagem de dados pode ser bem simples, po
 
 ### Porquê escolhi um site do governo
 
-Decidi escolher um site do governo porquê trata-se de um Portal com todas informações disponíveis ao cidadão, que por uma série de fatores acaba passando despercebido. É importante evidenciar que o Governo incentiva o manuseio de suas informações com <a href="http://dados.gov.br/dados-abertos/" target="_blank">dados abertos</a>. Para se ter uma noção sobre esta iniciativa, existem <a href="http://br.okfn.org/projetos/" target="_blank">diversos projetos</a> que trabalham com os dados governamentais, através de raspagem e bots automatizadores de tarefas. O [DataBR][1], por exemplo, é um conjunto de API&#8217;s que possibilita desenvolvedores, jornalistas, analistas e demais interessados, trabalhar com dados governamentais brasileiros.
+Decidi escolher um site do governo porquê trata-se de um Portal com todas informações disponíveis ao cidadão, que por uma série de fatores acaba passando despercebido. É importante evidenciar que o Governo incentiva o manuseio de suas informações com <a href="https://dados.gov.br/dados-abertos/" target="_blank">dados abertos</a>. Para se ter uma noção sobre esta iniciativa, existem <a href="https://br.okfn.org/projetos/" target="_blank">diversos projetos</a> que trabalham com os dados governamentais, através de raspagem e bots automatizadores de tarefas. O [DataBR][1], por exemplo, é um conjunto de API&#8217;s que possibilita desenvolvedores, jornalistas, analistas e demais interessados, trabalhar com dados governamentais brasileiros.
 
 <p style="text-align: center">
   ***
@@ -159,4 +159,4 @@ Decidi escolher um site do governo porquê trata-se de um Portal com todas infor
 
 Espero que tenha aproveitado a leitura.
 
- [1]: http://databr.io/
+ [1]: https://databr.io/

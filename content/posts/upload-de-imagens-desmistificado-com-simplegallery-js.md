@@ -32,7 +32,7 @@ A seguir criaremos um servidor bem simples. Utilizarei o package &#8220;Multer&
 Primeiro começaremos com a instalação do NodeJS e NPM, para mais informações:
 
   * <https://nodejs.org/en/>
-  * <http://blog.npmjs.org/post/85484771375/how-to-install-npm>
+  * <https://blog.npmjs.org/post/85484771375/how-to-install-npm>
 
 Após NodeJS e NPM instalados, é hora de criarmos nosso `package.json`, que será responsável por armazenar o nome do app, versão, nossos packages etc. Abra o terminal e digite:
 
@@ -77,7 +77,7 @@ app.get('/', (req, res) =&gt; {
 
 app.post('/upload', upload.array('gallery[]'), (req, res) =&gt; {
  let gallery = []
- req.files.map((image) =&gt; gallery.push({'url': `http://localhost:3000/uploads/${image.filename}`}))
+ req.files.map((image) =&gt; gallery.push({'url': `https://localhost:3000/uploads/${image.filename}`}))
  res.status(200).json(gallery)
 })
 
@@ -85,7 +85,7 @@ app.listen(3000, () =&gt; console.log('Listening on port 3000!'))</pre>
 
 &nbsp;
 
-Agora nossa API já está 100% funcional. Para testar, submeta um POST com as imagens para a url `http://localhost:3000/uploads`. Você receberá uma resposta formato JSON com a URL das imagens enviadas.
+Agora nossa API já está 100% funcional. Para testar, submeta um POST com as imagens para a url `https://localhost:3000/uploads`. Você receberá uma resposta formato JSON com a URL das imagens enviadas.
 
 ## Já no Front-End..
 
@@ -170,7 +170,7 @@ O conteúdo deste artigo pode ser encontrado [aqui][5].
 Bom, é isso. Espero que tenha gostado e perdido o medo quando o assunto é &#8220;upload de imagens&#8221;.
 
  [1]: https://github.com/fccoelho7/simpleGallery.js/
- [2]: http://expressjs.com/pt-br/starter/hello-world.html
+ [2]: https://expressjs.com/pt-br/starter/hello-world.html
  [3]: https://github.com/expressjs/multer
  [4]: https://github.com/RubaXa/Sortable
  [5]: https://github.com/fccoelho7/simple-gallery-demo

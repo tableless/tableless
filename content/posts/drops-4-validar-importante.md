@@ -8,7 +8,7 @@ url: /drops-4-validar-importante/
 tweetbackscheck:
   - 1356387891
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/drops-4-validar-importante";s:7:"tinyurl";s:26:"http://tinyurl.com/3dvu8z6";s:4:"isgd";s:19:"http://is.gd/9Yw4ir";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/drops-4-validar-importante";s:7:"tinyurl";s:26:"https://tinyurl.com/3dvu8z6";s:4:"isgd";s:19:"https://is.gd/9Yw4ir";}'
 twittercomments:
   - 'a:0:{}'
 enclosure:
@@ -50,9 +50,9 @@ Validar o HTML é importante? Para que serve o validador? O que ele não analisa
 
 Veja todos os [nossos drops no Soundcloud][1].
 
-Se preferir faça o download do arquivo em [Mp3][2] ou [OGA][3]. Ou [inscreva no iTunes][4]. <a href="http://tableless.com.br/?feed=podcast" rel="external">Feed direto dos Podcasts</a>.
+Se preferir faça o download do arquivo em [Mp3][2] ou [OGA][3]. Ou [inscreva no iTunes][4]. <a href="https://tableless.com.br/?feed=podcast" rel="external">Feed direto dos Podcasts</a>.
 
- [1]: http://soundcloud.com/tableless
+ [1]: https://soundcloud.com/tableless
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/03/drops4-validar-importa.mp3 "Audio MP3"
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/03/drops4-validar-importa.ogg "Audio OGG"
- [4]: http://itunes.apple.com/us/podcast/tableless-desenvolvimento/id73330789 "Drops do Tableless no iTunes."
+ [4]: https://itunes.apple.com/us/podcast/tableless-desenvolvimento/id73330789 "Drops do Tableless no iTunes."

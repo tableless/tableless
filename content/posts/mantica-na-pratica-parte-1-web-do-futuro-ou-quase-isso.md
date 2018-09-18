@@ -64,8 +64,8 @@ Embora não tenha nada de realmente prático nesse primeiro post, imagino que pa
 
 No próximo capítulo: “IRI, URI, URL, URN e como identificar TUDO na Web”.
 
- [1]: http://tableless.com.br/a-web-semantica/
- [2]: http://tableless.com.br/semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/
- [3]: http://www.scientificamerican.com/article/the-semantic-web/
- [4]: http://ieeexplore.ieee.org/abstract/document/1637364/?reload=true
- [5]: http://dl.acm.org/citation.cfm?id=1988690
+ [1]: https://tableless.com.br/a-web-semantica/
+ [2]: https://tableless.com.br/semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/
+ [3]: https://www.scientificamerican.com/article/the-semantic-web/
+ [4]: https://ieeexplore.ieee.org/abstract/document/1637364/?reload=true
+ [5]: https://dl.acm.org/citation.cfm?id=1988690

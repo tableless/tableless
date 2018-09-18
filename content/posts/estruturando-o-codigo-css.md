@@ -7,7 +7,7 @@ url: /estruturando-o-codigo-css/
 tweetbackscheck:
   - 1356404816
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/estruturando-o-codigo-css";s:7:"tinyurl";s:26:"http://tinyurl.com/4yphvyu";s:4:"isgd";s:19:"http://is.gd/kUcZwK";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/estruturando-o-codigo-css";s:7:"tinyurl";s:26:"https://tinyurl.com/4yphvyu";s:4:"isgd";s:19:"https://is.gd/kUcZwK";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036720
@@ -1551,5 +1551,5 @@ Eu organizo primeiro propriedades controlam o visual, depois as propriedades de 
 
 A única dificuldade que tenho é de aplicar essas sugestões. 😉 A pressa me vence sempre e muitas vezes eu me &#8220;esqueço&#8221; de aplicar uma dessas sugestões. O código CSS é a base do site inteiro, ele precisa ter uma bela organização, ser legível. Ter controle sobre o arquivo CSS é tudo. Você fica muito mais produtivo. Mas tem que se habituar, se acostumar com essas novas regrinhas.
 
- [1]: http://friendlybit.com/css/how-to-structure-large-css-files/
- [2]: http://sinistras.aranha.com.br/2007/02/css-2/
+ [1]: https://friendlybit.com/css/how-to-structure-large-css-files/
+ [2]: https://sinistras.aranha.com.br/2007/02/css-2/

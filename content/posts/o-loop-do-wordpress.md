@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356410277
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/o-loop-do-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/3pnfjl3";s:4:"isgd";s:19:"http://is.gd/4R1Scy";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/o-loop-do-wordpress";s:7:"tinyurl";s:26:"https://tinyurl.com/3pnfjl3";s:4:"isgd";s:19:"https://is.gd/4R1Scy";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038097
@@ -73,7 +73,7 @@ Esse código puxa do banco: título do post, o conteúdo do post, o dia que foi 
 
 [Se quiser, pegue o arquivo de exemplo aqui][4].
 
- [1]: http://codex.wordpress.org/The_Loop
- [2]: http://codex.wordpress.org/Template_Tags
- [3]: http://codex.wordpress.org/Template_Tags/the_content
+ [1]: https://codex.wordpress.org/The_Loop
+ [2]: https://codex.wordpress.org/Template_Tags
+ [3]: https://codex.wordpress.org/Template_Tags/the_content
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2008/04/exemplo-loop-wordpressphp.zip

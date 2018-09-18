@@ -247,4 +247,4 @@ Isso só foi o ponto de partida, foi o básico do básico do básico e mais um p
 
 (E por favor, não estou dizendo que as outras ferramentas são ruins, ou que você não deve usá-las. Quero apenas chamar a atenção para as ferramentas que já estão aqui há muito mais tempo e não conhecemos tão bem quanto pensamos.)
 
-Referência suprema: <a href="http://www.gnu.org/software/make/manual/make.html" target="_blank">Manual Make</a>
+Referência suprema: <a href="https://www.gnu.org/software/make/manual/make.html" target="_blank">Manual Make</a>

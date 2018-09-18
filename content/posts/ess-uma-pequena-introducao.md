@@ -26,16 +26,16 @@ A sintaxe que está escrita no meu **style.css** é este:
 
 <pre class="lang-css">/*  
 Theme Name: Oficina WordPress da Tableless
-Theme URI: http://tableless.com.br/
+Theme URI: https://tableless.com.br/
 Description: O layout do Tableless
 Version: 1.0
 Author: Diego Eis
-Author URI: http://tableless.com.br/
+Author URI: https://tableless.com.br/
 
-	 http://tableless.com.br
+	 https://tableless.com.br
 
 	This theme was designed and built by Diego Eis,
-	whose blog you will find at http://tableless.com.br/
+	whose blog you will find at https://tableless.com.br/
 
 */
 </pre>
@@ -63,7 +63,7 @@ Daqui para frente, irei colocar apenas o código que irá dentro do BODY do docu
 
 ### As Template Tags
 
-O segredo do WordPress são as Template Tags. Você pode conferir todas aqui: <http://codex.wordpress.org/Template_Tags>
+O segredo do WordPress são as Template Tags. Você pode conferir todas aqui: <https://codex.wordpress.org/Template_Tags>
 
 Os templates do wordpress são escritos em PHP. Isso torna pro designer um pouco complicado, mas não muito. Se você souber um pouco de PHP, fazer um template é muito fácil, porque PHP é uma linguagem que todo mundo usa. Para facilitar, o WordPress chama as funções do PHP que são utilizadas pelo seu sistema de Template Tags. As Template Tags não passam de funções PHP que recuperam do banco, informações que você precisará para compor o conteúdo do site. Para o programador isso não muda nada. Mas para o pessoal que não é tão íntimo assim com a linguagem PHP, a forma que usamos essas &#8220;funções&#8221; (Template Tags) facilita demais.
 
@@ -129,7 +129,7 @@ A Template Tag que iremos utilizar é a the\_author\_posts\_link() para Autor, q
 &lt;?php endwhile; ?&gt;
 </pre>
 
-Você pode deixar a Template Tag the_time do jeito que você quiser. Ela usa aquela tabela de formatação padrão de data do PHP, você pode encontrar essa tabela aqui: http://php.net/date/
+Você pode deixar a Template Tag the_time do jeito que você quiser. Ela usa aquela tabela de formatação padrão de data do PHP, você pode encontrar essa tabela aqui: https://php.net/date/
   
 Iremos formatar nossa data aqui:
 
@@ -214,4 +214,4 @@ Novamente iremos utilizar a tag boginfo(). Agora ela irá buscar o endereço do 
 
 Perceba que utilizamos neste exemplo apenas um arquivo, o **index.php** para listar o conteúdo. O WordPress tem uma maneira eficaz de hierarquia de arquivos. Por exemplo: nós precisamos de um arquivo chamado archives.php para criar a lista de histórico. Na falta deste arquivo, o WordPress utiliza o **index.php** para criar a lista. Se tivéssemos feito o archives.php e colocado o código que utlizamos acima que cria a lista de histórico, o WordPress não utilizará o **index.php**.
 
- [1]: http://visie.com.br/wordpress/ "Oficina de WordPress da Visie"
+ [1]: https://visie.com.br/wordpress/ "Oficina de WordPress da Visie"

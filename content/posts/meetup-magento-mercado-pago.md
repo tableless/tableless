@@ -7,7 +7,7 @@ excerpt: Um encontro na sede do Mercado Livre pra falar sobre Magento e platafor
 categories:
   - magento
   - publieditorial
-image: http://i.imgur.com/418kUqV.jpg
+image: https://i.imgur.com/418kUqV.jpg
 ---
 
 O Mercado Pago, plataforma de tecnologia de serviços de pagamento e financeiros, abre suas portas para receber dois dos maiores especialistas em Magento no Brasil para um bate-papo sobre tecnologia, novidades e cases de sucesso. O evento acontecerá no dia 19/07, às 19h00, e é gratuito. Para participar, os interessados devem preencher o formulário de inscrição.
@@ -26,7 +26,7 @@ Confira a agenda:
 
 **Local:** Melicidade (Campus do Mercado Livre) - Av. das Nações Unidas, 3.003 - Bairro: Bonfim - Osasco - SP.
 
-[Faça sua Inscrição](http://bit.ly/2uMBJlP)
+[Faça sua Inscrição](https://bit.ly/2uMBJlP)
 
 ## Mais sobre os palestrantes:
 

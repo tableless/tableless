@@ -7,7 +7,7 @@ url: /nao-ie-mais-de-20-do-mercado/
 tweetbackscheck:
   - 1356448736
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/nao-ie-mais-de-20-do-mercado";s:7:"tinyurl";s:26:"http://tinyurl.com/4xjqk53";s:4:"isgd";s:19:"http://is.gd/1MaxhC";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/nao-ie-mais-de-20-do-mercado";s:7:"tinyurl";s:26:"https://tinyurl.com/4xjqk53";s:4:"isgd";s:19:"https://is.gd/1MaxhC";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036501
@@ -32,7 +32,7 @@ Estamos falando de gente que tem blog, Orkut, MySpace, Flickr e etc. e que passa
 
 São os 50 mil hard users (com potencial de usar muito o seu site) de renda média um pouco mais alta que os outros 95%, e formadores de opinião.
 
- [1]: http://marketshare.hitslink.com/report.aspx?qprid=3
- [2]: http://br-linux.org/linux/net-applications-firefox-14
+ [1]: https://marketshare.hitslink.com/report.aspx?qprid=3
+ [2]: https://br-linux.org/linux/net-applications-firefox-14
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/01/browsum200612.thumbnail.png
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2007/01/browsum200612.png

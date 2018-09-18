@@ -7,7 +7,7 @@ url: /msn_tableless/
 tweetbackscheck:
   - 1356453924
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/msn_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3kl9mld";s:4:"isgd";s:19:"http://is.gd/oFps46";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/msn_tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3kl9mld";s:4:"isgd";s:19:"https://is.gd/oFps46";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032336
@@ -29,6 +29,6 @@ Isso mostra que a microsoft (ou os seus desenvolvedores web) se preocupa um boca
   * [MSN.com][1]
   * [A letter from Bill Gates][3]
 
- [1]: http://www.msn.com/
- [2]: http://www.stopdesign.com/log/2005/01/31/msn-goes-css.html
- [3]: http://specials.msn.com/letter/billgates.html
+ [1]: https://www.msn.com/
+ [2]: https://www.stopdesign.com/log/2005/01/31/msn-goes-css.html
+ [3]: https://specials.msn.com/letter/billgates.html

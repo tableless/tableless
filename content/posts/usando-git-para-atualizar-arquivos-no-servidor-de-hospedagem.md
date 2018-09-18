@@ -30,7 +30,7 @@ Com o GIT esse problema é solucionado, você pode voltar para a versão desejad
   * Conta no site <a href="https://bitbucket.org/" target="_blank">https://bitbucket.org/</a>
   * Serviço de hospedagem linux com acesso SSH
   * Cliente GIT instalado na sua máquina &#8211; <a href="https://git-scm.com/downloads" target="_blank">https://git-scm.com/downloads</a>
-  * Putty, baixe o pacote completo, é um arquivo .zip com os binários para windows &#8211; <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html" target="_blank">http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html</a>
+  * Putty, baixe o pacote completo, é um arquivo .zip com os binários para windows &#8211; <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html" target="_blank">https://www.chiark.greenend.org.uk/~sgtatham/putty/download.html</a>
 
 Antes de tudo vamos criar nossa chave de ssh no windows, essa chave serve para autenticação no bitbucket, com a chave ativa no windows você não precisa ficar digitando seu login e senha para autenticar;
 
@@ -126,7 +126,7 @@ Agora que seu repositório já esta configurado você pode usar o comando |git p
 
 Ou pode voltar uma versão usando |git checkout| vale a penas estudar um pouco os comandos do git e entender todos os seus recursos.
 
-Link para material de estudo sobre o GIT: <a href="http://pt.slideshare.net/slide_user/magia-git" target="_blank">http://pt.slideshare.net/slide_user/magia-git</a>
+Link para material de estudo sobre o GIT: <a href="https://pt.slideshare.net/slide_user/magia-git" target="_blank">https://pt.slideshare.net/slide_user/magia-git</a>
   
 Link oficial do git: <a href="https://git-scm.com/" target="_blank">https://git-scm.com/</a>
 
@@ -134,8 +134,8 @@ ATENÇÃO: para evitar conflitos no git não use mais FTP nas pastas que você e
 
 No próximo artigo vou explicar como fazer o deploy automático usando php, sempre que o GIT for atualizado ele envia um aviso ao servidor que executa os comandos para atualizar os arquivos.
 
- [1]: http://elcio.com.br/pare-de-usar-ftp/
- [2]: http://tableless.com.br/tornar-dev-front-end/
+ [1]: https://elcio.com.br/pare-de-usar-ftp/
+ [2]: https://tableless.com.br/tornar-dev-front-end/
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/puttygen_01.jpg
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/puttygen_02.jpg
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/09/chave_bitbucket.jpg

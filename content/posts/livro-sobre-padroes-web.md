@@ -7,7 +7,7 @@ url: /livro-sobre-padroes-web/
 tweetbackscheck:
   - 1356175694
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/livro-sobre-padroes-web";s:7:"tinyurl";s:26:"http://tinyurl.com/3jydhtr";s:4:"isgd";s:19:"http://is.gd/HnOJtv";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/livro-sobre-padroes-web";s:7:"tinyurl";s:26:"https://tinyurl.com/3jydhtr";s:4:"isgd";s:19:"https://is.gd/HnOJtv";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035294
@@ -25,4 +25,4 @@ No brasil há uma carência muito grande de títulos deste gênero e muitas veze
 
 Obs.: Claro, claro&#8230; Se alguma editora se interessar por esse projeto, não negaremos ajuda. 🙂
 
- [1]: http://www.revolucao.etc.br/
+ [1]: https://www.revolucao.etc.br/

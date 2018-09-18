@@ -13,7 +13,7 @@ tags:
   - react
 
 ---
-Uma das palestras que chamou minha atenção na BrazilJS desse ano foi a de <a href="http://www.phpied.com/files/react/slides.html" target="_blank">Stoyan Stefanov</a>, autor do clássico <a href="http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752" target="_blank">JavaScript Patterns</a>. Stoyan mostrou a biblioteca <a href="http://facebook.github.io/react/" target="_blank">React</a>, desenvolvida pelo pessoal do Facebook/Instagram.
+Uma das palestras que chamou minha atenção na BrazilJS desse ano foi a de <a href="https://www.phpied.com/files/react/slides.html" target="_blank">Stoyan Stefanov</a>, autor do clássico <a href="https://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752" target="_blank">JavaScript Patterns</a>. Stoyan mostrou a biblioteca <a href="https://facebook.github.io/react/" target="_blank">React</a>, desenvolvida pelo pessoal do Facebook/Instagram.
 
 Apesar de não ser um palestrante muito <a href="https://twitter.com/davitferreira/status/371051778764468224" target="_blank">carismático</a>, o código mostrado por Stoyan me deixou com a pulga atrás da orelha por possuir uma sintaxe para lá de esquisita e por fugir um pouco da abordagem mais conservadora adotada por bibliotecas e frameworks do mercado.
 
@@ -23,7 +23,7 @@ Depois de experimentar em algumas aplicações rápidas, fiquei bem surpreso e s
 
 A React pode ser comparada com o framework AngularJS, do Google, por ser declarativo, ou seja, por fazer você, desenvolvedor, focar mais no resultado do que na forma como ele é atingido. Na prática, isso quer dizer que você vai escrever pouco código JavaScript e obter uma aplicação funcional em muito pouco tempo.
 
-Outro grande diferencial da React é que ela trabalha com um pseudo-DOM em memória. Como vocês sabem (<a href="http://tableless.com.br/jquery-dicas-de-otimizacao-e-performance/" target="_blank">ou deveriam saber</a>), manipular o DOM é um dos principais causadores de gargalos de performance em sites e web apps e a React resolve isso de maneira brilhante trabalhando com um &#8220;DOM&#8221; próprio. 
+Outro grande diferencial da React é que ela trabalha com um pseudo-DOM em memória. Como vocês sabem (<a href="https://tableless.com.br/jquery-dicas-de-otimizacao-e-performance/" target="_blank">ou deveriam saber</a>), manipular o DOM é um dos principais causadores de gargalos de performance em sites e web apps e a React resolve isso de maneira brilhante trabalhando com um &#8220;DOM&#8221; próprio. 
 
 Toda vez que um elemento precisa ser renderizado, a biblioteca identifica as atualizações comparando o elemento no DOM e na memória, modificando somente o que foi de fato alterado, sem precisar renderizar todo o elemento.
 
@@ -43,19 +43,19 @@ Vejamos um exemplo simples:
 
 <pre class="lang-javascript">// JSX:
 var Site,
-    tableless = &lt;Site url="http://www.tableless.com.br" nome="Tableless" /&gt;;</pre>
+    tableless = &lt;Site url="https://www.tableless.com.br" nome="Tableless" /&gt;;</pre>
 
 Tranformando em JavaScript, o resultado é o seguinte:
 
-<pre class="lang-javascript">var tableless = Site({url:"http://www.tableless.com.br", nome:"Tableless"});</pre>
+<pre class="lang-javascript">var tableless = Site({url:"https://www.tableless.com.br", nome:"Tableless"});</pre>
 
 Notem que precisamos ter o objeto Site no escopo do JSX, mesmo ele não sendo utilizado. O XML é convertido para a chamada deste objeto onde os atributos da tag Site viram propriedades do objeto Site. 
 
-O site da React oferece um compilador online de JSX caso você queira brincar e experimentar com a sintaxe: <a href="http://facebook.github.io/react/jsx-compiler.html" target="_blank">http://facebook.github.io/react/jsx-compiler.html</a>. O conceito e a implementação do JSX são tão interessantes que valeriam um artigo próprio. 
+O site da React oferece um compilador online de JSX caso você queira brincar e experimentar com a sintaxe: <a href="https://facebook.github.io/react/jsx-compiler.html" target="_blank">https://facebook.github.io/react/jsx-compiler.html</a>. O conceito e a implementação do JSX são tão interessantes que valeriam um artigo próprio. 
 
 ## Aplicação de exemplo
 
-Depois de muita teoria, chegou a hora de ver a React na prática. Para nossa aplicação, vou utilizar o mesmo exemplo que mostrei no <a href="http://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/" target="_blank">artigo sobre AngularJS</a>, até mesmo para servir como um comparativo entre o código dessas duas bibliotecas.
+Depois de muita teoria, chegou a hora de ver a React na prática. Para nossa aplicação, vou utilizar o mesmo exemplo que mostrei no <a href="https://tableless.com.br/criando-uma-aplicacao-simples-com-angularjs/" target="_blank">artigo sobre AngularJS</a>, até mesmo para servir como um comparativo entre o código dessas duas bibliotecas.
 
 Vamos começar com a estrutura inicial do nosso HTML:
 
@@ -364,7 +364,7 @@ var ShoppingForm = React.createClass({
 
 O processo de envio é tratado em dois componentes diferentes. O componente do formulário trata o envio do próprio form, ativando o evento **ProductSubmit**. O tratamento deste evento, por sua vez, fica a cargo do elemento **ShoppingBox**, o container da nossa lista, responsável por atualizar seu estado e renderizar novamente nossa lista. Faz sentido, certo? Cada componente possui uma responsabilidade bem definida.
 
-Para quem quiser conferir nosso exemplo funcionando: <a href="http://tableless.github.io/exemplos/react/" target="_blank">http://tableless.github.io/exemplos/react/</a> (código fonte: <a href="https://github.com/tableless/exemplos/tree/gh-pages/react" target="_blank">https://github.com/tableless/exemplos/tree/gh-pages/react</a>).
+Para quem quiser conferir nosso exemplo funcionando: <a href="https://tableless.github.io/exemplos/react/" target="_blank">https://tableless.github.io/exemplos/react/</a> (código fonte: <a href="https://github.com/tableless/exemplos/tree/gh-pages/react" target="_blank">https://github.com/tableless/exemplos/tree/gh-pages/react</a>).
 
 ## Considerações finais
 

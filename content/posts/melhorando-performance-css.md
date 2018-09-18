@@ -8,7 +8,7 @@ url: /melhorando-performance-css/
 tweetbackscheck:
   - 1356410056
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/melhorando-performance-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3o4yfp5";s:4:"isgd";s:19:"http://is.gd/V929jJ";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/melhorando-performance-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3o4yfp5";s:4:"isgd";s:19:"https://is.gd/V929jJ";}'
 twittercomments:
   - 'a:8:{i:108208753198891009;s:7:"retweet";i:150278938252410881;s:7:"retweet";i:150271527382827008;s:7:"retweet";i:150271379189665793;s:7:"retweet";i:150270657513537536;s:7:"retweet";i:150270536692400129;s:7:"retweet";i:150270135515619329;s:7:"retweet";i:169583543826137088;s:7:"retweet";}'
 tweetcount:
@@ -216,11 +216,11 @@ Claro que é muito complexo colocar uma classe nos títulos do site, ainda mais 
 
 #### Referências:
 
-  * <a href="http://blog.archive.jpsykes.com/152/testing-css-performance-pt-2/" rel="external">Testing CSS Performance</a>
-  * <a href="http://www.stevesouders.com/blog/2009/06/18/simplifying-css-selectors/" rel="external">Simplifying CSS Selectors</a>
-  * <a href="http://css-tricks.com/more-on-css-selector-performance/" rel="external">More on CSS Selector Performance</a>
+  * <a href="https://blog.archive.jpsykes.com/152/testing-css-performance-pt-2/" rel="external">Testing CSS Performance</a>
+  * <a href="https://www.stevesouders.com/blog/2009/06/18/simplifying-css-selectors/" rel="external">Simplifying CSS Selectors</a>
+  * <a href="https://css-tricks.com/more-on-css-selector-performance/" rel="external">More on CSS Selector Performance</a>
   * <a href="https://developer.mozilla.org/en/Writing_Efficient_CSS" rel="external">Wrinting Efficient CSS</a>
 
- [1]: http://tableless.com.br/modulando-o-css
- [2]: http://tableless.com.br/seletores-complexos-do-css?utm_source=Artigo%2BSeletores%2BPerformance&utm_medium=Artigo%2Btableless&utm_campaign=seletores%2Bperformance
- [3]: http://tableless.com.br/seletores-agrupados-e-encadeados?utm_source=Artigo%2BSeletores%2BPerformance&utm_medium=Artigo%2Btableless&utm_campaign=seletores%2Bperformance
+ [1]: https://tableless.com.br/modulando-o-css
+ [2]: https://tableless.com.br/seletores-complexos-do-css?utm_source=Artigo%2BSeletores%2BPerformance&utm_medium=Artigo%2Btableless&utm_campaign=seletores%2Bperformance
+ [3]: https://tableless.com.br/seletores-agrupados-e-encadeados?utm_source=Artigo%2BSeletores%2BPerformance&utm_medium=Artigo%2Btableless&utm_campaign=seletores%2Bperformance

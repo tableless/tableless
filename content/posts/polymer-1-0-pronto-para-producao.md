@@ -89,12 +89,12 @@ Para tal, irei indicar alguns links, incluindo uma série de posts que fiz, inde
   * <a href="https://www.polymer-project.org/" target="_blank">Polymer Project</a>
   * <a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsII5c3Mgw6fNYCzaWrsM3sMN" target="_blank">Polycasts</a>
   * <a href="https://github.com/Granze/awesome-polymer" target="_blank">Awesome Polymer</a>
-  * <a href="http://webcomponents.org/" target="_blank">WebComponents.org</a>
+  * <a href="https://webcomponents.org/" target="_blank">WebComponents.org</a>
   * <a href="https://github.com/obetomuniz/awesome-webcomponents" target="_blank">Awesome Web Components</a>
-  * <a href="http://betomuniz.com/blog/web-components-hoje/" target="_blank">Web Components! Hoje!</a>
-  * <a href="http://betomuniz.com/blog/desmistificando-o-polymer-parte-1/" target="_blank">Desmistificando o Polymer: Olá Polymer!</a>
-  * <a href="http://betomuniz.com/blog/desmistificando-o-polymer-parte-2/" target="_blank">Desmistificando o Polymer: Porque o Polymer?</a>
-  * <a href="http://betomuniz.com/blog/desmistificando-o-polymer-parte-3/" target="_blank">Desmistificando o Polymer: Polymer FAQ (unoffical)</a>
+  * <a href="https://betomuniz.com/blog/web-components-hoje/" target="_blank">Web Components! Hoje!</a>
+  * <a href="https://betomuniz.com/blog/desmistificando-o-polymer-parte-1/" target="_blank">Desmistificando o Polymer: Olá Polymer!</a>
+  * <a href="https://betomuniz.com/blog/desmistificando-o-polymer-parte-2/" target="_blank">Desmistificando o Polymer: Porque o Polymer?</a>
+  * <a href="https://betomuniz.com/blog/desmistificando-o-polymer-parte-3/" target="_blank">Desmistificando o Polymer: Polymer FAQ (unoffical)</a>
 
 ## E isso é tudo pessoal&#8230;
 
@@ -106,7 +106,7 @@ E é isso, se gostou ou teve alguma dúvida, não deixe de escrever um comentár
 
 Alguns links que usei de referência:
 
-  * <a href="http://venturebeat.com/2015/05/28/google-launches-polymer-1-0-lets-developers-bring-app-like-experiences-to-the-desktop-and-mobile-web/" target="_blank">http://venturebeat.com/2015/05/28/google-launches-polymer-1-0-lets-developers-bring-app-like-experiences-to-the-desktop-and-mobile-web/</a>
+  * <a href="https://venturebeat.com/2015/05/28/google-launches-polymer-1-0-lets-developers-bring-app-like-experiences-to-the-desktop-and-mobile-web/" target="_blank">https://venturebeat.com/2015/05/28/google-launches-polymer-1-0-lets-developers-bring-app-like-experiences-to-the-desktop-and-mobile-web/</a>
   * <a href="https://blog.polymer-project.org/announcements/2015/05/29/one-dot-oh/" target="_blank">https://blog.polymer-project.org/announcements/2015/05/29/one-dot-oh/</a>
   * <a href="https://blog.polymer-project.org/announcements/2015/05/14/updated-elements/" target="_blank">https://blog.polymer-project.org/announcements/2015/05/14/updated-elements/</a>
   * <a href="https://www.polymer-project.org/1.0/" target="_blank">https://www.polymer-project.org/1.0/</a>

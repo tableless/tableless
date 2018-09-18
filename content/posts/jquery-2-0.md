@@ -49,9 +49,9 @@ O jQuery 2.0 é 12% mais leve do que a versão anterior (1.9.1). Mas isto, infel
 
 ## Onde eu consigo
 
-[http://code.jquery.com/jquery-2.0.0.min.js][3] (minificada, para produção)
+[https://code.jquery.com/jquery-2.0.0.min.js][3] (minificada, para produção)
   
-[http://code.jquery.com/jquery-2.0.0.js][4] (não minificada, para teste)
+[https://code.jquery.com/jquery-2.0.0.js][4] (não minificada, para teste)
 
 ## Fallback
 
@@ -80,9 +80,9 @@ O HTML5 e o CSS3 ganharam mais espaço (afinal você pode [criar diversos elemen
 [jQuery 2.0 Release][7]
 
  [1]: https://github.com/jquery/jquery/#readme "jQuery ReadMe"
- [2]: http://projects.jga.me/jquery-builder/ "jQuery Builder"
- [3]: http://code.jquery.com/jquery-2.0.0.min.js "jQuery 2.0 Min"
- [4]: http://code.jquery.com/jquery-2.0.0.js "jQuery 2.0"
- [5]: http://www.w3schools.com/browsers/browsers_explorer.asp "Browser Explorer - W3C Schools"
- [6]: http://tableless.com.br/elementos-de-interface-utilizando-apenas-css3 "Elementos de interface utilizando apenas css3"
- [7]: http://blog.jquery.com/2013/04/18/jquery-2-0-release "jQuery 2.0 Release"
+ [2]: https://projects.jga.me/jquery-builder/ "jQuery Builder"
+ [3]: https://code.jquery.com/jquery-2.0.0.min.js "jQuery 2.0 Min"
+ [4]: https://code.jquery.com/jquery-2.0.0.js "jQuery 2.0"
+ [5]: https://www.w3schools.com/browsers/browsers_explorer.asp "Browser Explorer - W3C Schools"
+ [6]: https://tableless.com.br/elementos-de-interface-utilizando-apenas-css3 "Elementos de interface utilizando apenas css3"
+ [7]: https://blog.jquery.com/2013/04/18/jquery-2-0-release "jQuery 2.0 Release"

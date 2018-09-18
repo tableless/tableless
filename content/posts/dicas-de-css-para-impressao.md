@@ -216,8 +216,8 @@ Se você quiser testar o resultado final baixe a [folha de estilos utilizada nes
 paid: true/css-print "Css-print"
  [2]: https://github.com/daniauthors: Dani Guerrato
 paid: true/css-print "CSS-print"
- [3]: http://coding.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet/ "How to set up a print style sheet"
- [4]: http://davidwalsh.name/optimizing-structure-print-css "Optimizing structure print css"
- [5]: http://davidwalsh.name/optimizing-content-print-css "Optimizing content print CSS"
- [6]: http://html5boilerplate.com/ "HTML5 Boilerplate"
- [7]: http://designshack.net/articles/css/6-thinks-i-learned-about-print-stylesheets-from-html5-boilerplate/ "6 things I learned about print stylesheets"
+ [3]: https://coding.smashingmagazine.com/2011/11/24/how-to-set-up-a-print-style-sheet/ "How to set up a print style sheet"
+ [4]: https://davidwalsh.name/optimizing-structure-print-css "Optimizing structure print css"
+ [5]: https://davidwalsh.name/optimizing-content-print-css "Optimizing content print CSS"
+ [6]: https://html5boilerplate.com/ "HTML5 Boilerplate"
+ [7]: https://designshack.net/articles/css/6-thinks-i-learned-about-print-stylesheets-from-html5-boilerplate/ "6 things I learned about print stylesheets"

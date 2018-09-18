@@ -52,17 +52,17 @@ E você achava que o filme [Inception][9] era esperto. Ele é só uma espécie d
 
 Enfim, acho que você já entendeu, mas não custa enfatizar: dei toda essa volta maluca para chamar sua atenção para Dave Winer. Ou melhor, para a _intuição_ um tanto excêntrica desse engenheiro, que, despretensiosamente, funciona como uma antena para o _zeitgeist_ de pelo menos duas décadas de publicação digital.
 
-Agora ele está (ainda mais) interessado na ideia de <a href="http://river2.newsriver.org/" rel="bookmark">rio de informações</a> — [e, de quebra, em reformar o site do New York Times][12]. #ficaadica: [Scripting News][3].
+Agora ele está (ainda mais) interessado na ideia de <a href="https://river2.newsriver.org/" rel="bookmark">rio de informações</a> — [e, de quebra, em reformar o site do New York Times][12]. #ficaadica: [Scripting News][3].
 
- [1]: http://davewiner.com/
+ [1]: https://davewiner.com/
  [2]: https://en.wikipedia.org/wiki/Web_syndication
- [3]: http://scripting.com/
- [4]: http://caosordenado.com/o-estado-paralelo-digital-global/
- [5]: http://caosordenado.com/matutando-sobre-as-redes-sociais/
+ [3]: https://scripting.com/
+ [4]: https://caosordenado.com/o-estado-paralelo-digital-global/
+ [5]: https://caosordenado.com/matutando-sobre-as-redes-sociais/
  [6]: https://www.youtube.com/watch?v=bxC5Xo_KaC4
  [7]: https://www.youtube.com/watch?v=7UXIKu4t6D4
  [8]: https://www.secret.ly/
  [9]: https://en.wikipedia.org/wiki/Inception
- [10]: http://fargo.io/
- [11]: http://scripting.com/2014/03/20/theNoteblogFormat.html
- [12]: http://scripting.com/2014/05/16/#a1400253877
+ [10]: https://fargo.io/
+ [11]: https://scripting.com/2014/03/20/theNoteblogFormat.html
+ [12]: https://scripting.com/2014/05/16/#a1400253877

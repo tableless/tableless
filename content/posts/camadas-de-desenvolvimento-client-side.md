@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356409848
 shorturls:
-  - 'a:3:{s:9:"permalink";s:62:"http://tableless.com.br/camadas-de-desenvolvimento-client-side";s:7:"tinyurl";s:26:"http://tinyurl.com/3zmmdbk";s:4:"isgd";s:19:"http://is.gd/heFpWW";}'
+  - 'a:3:{s:9:"permalink";s:62:"https://tableless.com.br/camadas-de-desenvolvimento-client-side";s:7:"tinyurl";s:26:"https://tinyurl.com/3zmmdbk";s:4:"isgd";s:19:"https://is.gd/heFpWW";}'
 twittercomments:
   - 'a:2:{i:25524607993778176;s:6:"136690";i:25524595779969024;s:6:"136691";}'
 tweetcount:

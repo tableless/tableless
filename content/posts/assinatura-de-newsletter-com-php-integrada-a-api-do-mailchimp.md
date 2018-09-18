@@ -33,7 +33,7 @@ A chave gerada é sua forma de autenticação na API, então deve ser mantida em
 
 ## 2 Instalação
 
-Existe um <a href="https://bitbucket.org/mailchimp/mailchimp-api-php" target="_blank">SDK PHP oficial do Mailchimp</a>. Você pode instalar <a href="http://tableless.com.br/composer-para-iniciantes/" target="_blank">usando o Composer</a>, incluindo a seguinte dependência no seu arquivo **composer.json**:
+Existe um <a href="https://bitbucket.org/mailchimp/mailchimp-api-php" target="_blank">SDK PHP oficial do Mailchimp</a>. Você pode instalar <a href="https://tableless.com.br/composer-para-iniciantes/" target="_blank">usando o Composer</a>, incluindo a seguinte dependência no seu arquivo **composer.json**:
 
 <pre>"mailchimp/mailchimp": "2.0.*"</pre>
 
@@ -131,7 +131,7 @@ Isso acontece porque o SDK do Mailchimp usa exceções para indicar qualquer coi
 
 Dessa forma conseguimos tratar algumas exceções mais comuns que o SDK pode lançar e devolver um feedback para o usuário, assim ele é capaz de corrigir as informações e tentar novamente.
 
-Para os outros casos, fazemos um tratamento genérico apenas exibindo a mensagem da exceção. Isso é o suficiente para um exemplo como esse aqui, mas não é o ideal para um código real que vai para produção, porque pode expôr bugs e informações sensíveis da sua aplicação. Então recomendo fazer um tratamento mais adequado, como gravar em um arquivo de log ou <a href="http://tableless.com.br/rastreando-excecoes-no-php-com-o-airbrake/" target="_blank">usar um rastreador de bugs</a>.
+Para os outros casos, fazemos um tratamento genérico apenas exibindo a mensagem da exceção. Isso é o suficiente para um exemplo como esse aqui, mas não é o ideal para um código real que vai para produção, porque pode expôr bugs e informações sensíveis da sua aplicação. Então recomendo fazer um tratamento mais adequado, como gravar em um arquivo de log ou <a href="https://tableless.com.br/rastreando-excecoes-no-php-com-o-airbrake/" target="_blank">usar um rastreador de bugs</a>.
 
 Agora quando você submeter o formulário com um e-mail já cadastrado, verá a mensagem: **“Você já assinou a newsletter.”**
 

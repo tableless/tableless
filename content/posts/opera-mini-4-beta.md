@@ -7,7 +7,7 @@ url: /opera-mini-4-beta/
 tweetbackscheck:
   - 1356369939
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/opera-mini-4-beta";s:7:"tinyurl";s:26:"http://tinyurl.com/44gum4t";s:4:"isgd";s:19:"http://is.gd/VSATfx";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/opera-mini-4-beta";s:7:"tinyurl";s:26:"https://tinyurl.com/44gum4t";s:4:"isgd";s:19:"https://is.gd/VSATfx";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037282
@@ -27,8 +27,8 @@ Se você não tem celular (dúvido), ou se tem mas não quer pagar absurdos (ten
 
 Veja a [lista das atualizações aqui][5].
 
- [1]: http://www.operamini.com/beta/
- [2]: http://www.operamini.com/beta/demo/
- [3]: http://www.operamini.com/beta/video/
- [4]: http://www.operamini.com/beta/simulator/
- [5]: http://www.operamini.com/beta/features/
+ [1]: https://www.operamini.com/beta/
+ [2]: https://www.operamini.com/beta/demo/
+ [3]: https://www.operamini.com/beta/video/
+ [4]: https://www.operamini.com/beta/simulator/
+ [5]: https://www.operamini.com/beta/features/

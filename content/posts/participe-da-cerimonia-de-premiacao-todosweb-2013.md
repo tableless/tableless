@@ -12,7 +12,7 @@ categories:
 ---
 O W3C Brasil e o Comitê Gestor da Internet no Brasil convidam para a cerimônia de premiação da segunda edição do Prêmio Nacional de Acessibilidade na Web &#8211; todos@web, que acontecerá no dia 3 de dezembro de 2013 em São Paulo.
 
-Nesse dia serão conhecidos os vencedores das categorias Pessoas/Instituições, Projetos Web e Tecnologias Assistivas/Aplicativos. A lista completa de finalistas está disponível em <http://premio.w3c.br/finalistas/>
+Nesse dia serão conhecidos os vencedores das categorias Pessoas/Instituições, Projetos Web e Tecnologias Assistivas/Aplicativos. A lista completa de finalistas está disponível em <https://premio.w3c.br/finalistas/>
 
 **A entrada é gratuita, mas somente pré-inscritos poderão assistir a cerimônia. [Para participar, preencha o formulário e aguarde a confirmação][1]**
 

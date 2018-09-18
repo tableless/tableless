@@ -121,7 +121,7 @@ World (38)
 
 ## 3. Mesclando o uso com outros comandos
 
-Falando um pouco das utilidades que o terminal oferece e que podemos combinar com o nosso script, temos, por exemplo, o **grep**, que executa buscas através de expressões regulares (alternativamente, no Windows você pode usar o **findstr**: <a title="http://technet.microsoft.com/en-us/library/bb490907.aspx" href="http://technet.microsoft.com/en-us/library/bb490907.aspx" target="_blank">http://technet.microsoft.com/en-us/library/bb490907.aspx</a>). Se quisermos filtrar o resultado do nosso script para exibir apenas uma palavra específica, sem alterar o código, poderíamos executá-lo assim:
+Falando um pouco das utilidades que o terminal oferece e que podemos combinar com o nosso script, temos, por exemplo, o **grep**, que executa buscas através de expressões regulares (alternativamente, no Windows você pode usar o **findstr**: <a title="https://technet.microsoft.com/en-us/library/bb490907.aspx" href="https://technet.microsoft.com/en-us/library/bb490907.aspx" target="_blank">https://technet.microsoft.com/en-us/library/bb490907.aspx</a>). Se quisermos filtrar o resultado do nosso script para exibir apenas uma palavra específica, sem alterar o código, poderíamos executá-lo assim:
 
 <pre>$ php script.php sobre.txt | grep originalmente
 originalmente (18)

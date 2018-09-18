@@ -7,7 +7,7 @@ url: /mundo_magico_dos_browsers/
 tweetbackscheck:
   - 1356453927
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/mundo_magico_dos_browsers";s:7:"tinyurl";s:26:"http://tinyurl.com/3ogf5qk";s:4:"isgd";s:19:"http://is.gd/Zz01sF";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/mundo_magico_dos_browsers";s:7:"tinyurl";s:26:"https://tinyurl.com/3ogf5qk";s:4:"isgd";s:19:"https://is.gd/Zz01sF";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032397
@@ -25,4 +25,4 @@ Espero que gostem.
 
 [O mundo mágico dos browsers][1]
 
- [1]: http://tableless.com.br/artigos/browsers.asp
+ [1]: https://tableless.com.br/artigos/browsers.asp

@@ -40,7 +40,7 @@ Naquela época, ainda não existia XML, mas nós pensamos que deveríamos ter um
 
 Quando o XML foi criado um pouco depois (pesquisa iniciada em 1996, com a publicação do padrão em 1998), acabou combinando muito bem com o que tínhamos em mente e assim o CSS pôde ser utilizado com grande parte de documentos XML também.
 
-E o CSS pode ser usado, e está de fato sendo usado, para outras coisas também. Um exemplo é a biblioteca de interfaces gráficas [Qt][9]. Ela usa CSS para aplicar estilo aos componentes da interface gráfica ([http://doc.qt.io/qt-5/][10]). Outro exemplo é o MapCSS, usado por diversos programadores para desenhar mapas cartográficos ([http://wiki.openstreetmap][11]).
+E o CSS pode ser usado, e está de fato sendo usado, para outras coisas também. Um exemplo é a biblioteca de interfaces gráficas [Qt][9]. Ela usa CSS para aplicar estilo aos componentes da interface gráfica ([https://doc.qt.io/qt-5/][10]). Outro exemplo é o MapCSS, usado por diversos programadores para desenhar mapas cartográficos ([https://wiki.openstreetmap][11]).
 
 **3. Quais partes da atual versão da estecificação do CSS você acha que ainda precisa de mais aprimoramentos?**
 
@@ -68,18 +68,18 @@ Dessa forma, em termos práticos, acho que ainda iremos adicionar novas funciona
 
 Continuaremos mantendo a retrocompatibilidade do CSS, mas isso também significa se tornará gradativamente mais difícil de adicionar novas funcionalidades a ele, e suas sintaxes poderão não ser as mais intuitivas.
 
- [1]: http://conferenciaweb.w3c.br/
+ [1]: https://conferenciaweb.w3c.br/
  [2]: https://en.wikipedia.org/wiki/Håkon_Wium_Lie
  [3]: https://en.wikipedia.org/wiki/ViolaWWW
  [4]: https://en.wikipedia.org/wiki/Mosaic_%28web_browser%29
  [5]: https://en.wikipedia.org/wiki/Argo_%28web_browser%29
  [6]: https://en.wikipedia.org/wiki/LaTeX
- [7]: http://www.w3.org/Style/LieBos2e/history/
- [8]: http://people.opera.com/howcome/2006/phd/
- [9]: http://qt-project.org/doc/qt-4.8/stylesheet.html
- [10]: http://doc.qt.io/qt-5/stylesheet.html
- [11]: http://wiki.openstreetmap.org/wiki/MapCSS
- [12]: http://en.wikipedia.org/wiki/StretchText
- [13]: http://www.w3.org/Style/2013/paged-media-tasks
- [14]: http://en.wikipedia.org/wiki/Sass_%28stylesheet_language%29
- [15]: http://en.wikipedia.org/wiki/LESS_%28stylesheet_language%29
+ [7]: https://www.w3.org/Style/LieBos2e/history/
+ [8]: https://people.opera.com/howcome/2006/phd/
+ [9]: https://qt-project.org/doc/qt-4.8/stylesheet.html
+ [10]: https://doc.qt.io/qt-5/stylesheet.html
+ [11]: https://wiki.openstreetmap.org/wiki/MapCSS
+ [12]: https://en.wikipedia.org/wiki/StretchText
+ [13]: https://www.w3.org/Style/2013/paged-media-tasks
+ [14]: https://en.wikipedia.org/wiki/Sass_%28stylesheet_language%29
+ [15]: https://en.wikipedia.org/wiki/LESS_%28stylesheet_language%29

@@ -7,7 +7,7 @@ url: /opera-so-se-nao-for-para-desktops/
 tweetbackscheck:
   - 1356393199
 shorturls:
-  - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/opera-so-se-nao-for-para-desktops";s:7:"tinyurl";s:26:"http://tinyurl.com/3olh9ob";s:4:"isgd";s:19:"http://is.gd/a7QgFp";}'
+  - 'a:3:{s:9:"permalink";s:57:"https://tableless.com.br/opera-so-se-nao-for-para-desktops";s:7:"tinyurl";s:26:"https://tinyurl.com/3olh9ob";s:4:"isgd";s:19:"https://is.gd/a7QgFp";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036910
@@ -43,16 +43,16 @@ Eles [disponibilizam um PDF bem legal][12] para quem quiser saber em quais nicho
 
 PS.: E eles colocaram um tal de Speed Dial agora na versão para Desktops. [Dá só uma olhada][13].
 
- [1]: http://www.opera.com/products/devices/nintendo/
- [2]: http://www.meiobit.com/lan_ccedil_ado_opera_para_wii_de_gra_ccedil_ou_quase
- [3]: http://opera.com
- [4]: http://getfirefox.com/
- [5]: http://www.wii.com/
- [6]: http://www.opera.com/index.dml
- [7]: http://www.opera.com/products/devices/nintendo/ds/tips/
- [8]: http://www.operamini.com/
- [9]: http://www.opera.com/products/devices/
- [10]: http://www.opera.com/products/devices/markets/stb/
- [11]: http://www.opera.com/products/devices/markets/transport/
- [12]: http://www.opera.com/products/devices/brochures/pdf/OperaForDevices2006.pdf
- [13]: http://portal.opera.com/startup/?tip=speeddial
+ [1]: https://www.opera.com/products/devices/nintendo/
+ [2]: https://www.meiobit.com/lan_ccedil_ado_opera_para_wii_de_gra_ccedil_ou_quase
+ [3]: https://opera.com
+ [4]: https://getfirefox.com/
+ [5]: https://www.wii.com/
+ [6]: https://www.opera.com/index.dml
+ [7]: https://www.opera.com/products/devices/nintendo/ds/tips/
+ [8]: https://www.operamini.com/
+ [9]: https://www.opera.com/products/devices/
+ [10]: https://www.opera.com/products/devices/markets/stb/
+ [11]: https://www.opera.com/products/devices/markets/transport/
+ [12]: https://www.opera.com/products/devices/brochures/pdf/OperaForDevices2006.pdf
+ [13]: https://portal.opera.com/startup/?tip=speeddial

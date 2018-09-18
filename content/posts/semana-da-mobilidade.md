@@ -7,7 +7,7 @@ url: /semana-da-mobilidade/
 tweetbackscheck:
   - 1354886761
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/semana-da-mobilidade";s:7:"tinyurl";s:26:"http://tinyurl.com/45yteuq";s:4:"isgd";s:19:"http://is.gd/WpxOoQ";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/semana-da-mobilidade";s:7:"tinyurl";s:26:"https://tinyurl.com/45yteuq";s:4:"isgd";s:19:"https://is.gd/WpxOoQ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035081
@@ -29,6 +29,6 @@ A Intel vem por muito tempo ajudando a adoção dessas tecnologias aqui no Brasi
 
 Você pode ter mais informações no [Mobile Life][3].
 
- [1]: http://www.mobilelife.com.br/
- [2]: http://info.abril.com.br/aberto/infonews/032006/28032006-10.shl
- [3]: http://www.mobilelife.com.br/2006/03/29/paul-otellini-inagura-semana-de-mobilidade-no-brasil
+ [1]: https://www.mobilelife.com.br/
+ [2]: https://info.abril.com.br/aberto/infonews/032006/28032006-10.shl
+ [3]: https://www.mobilelife.com.br/2006/03/29/paul-otellini-inagura-semana-de-mobilidade-no-brasil

@@ -23,15 +23,15 @@ tags:
 ---
 Projetos open source são o que há de mais legal no mundo do desenvolvimento quando se quer aprender novas tecnologias e envolver-se em projetos, seja codificando, documentando, testando ou realizando qualquer tipo de atividade que envolve um projeto.
 
-Uma das principais ferramentas para o envolvimento em projetos open source é o <a href="http://www.github.com" target="_blank">github</a>. Este artigo explica como utilizar essa ferramenta para envolver-se em projetos, visando realizar contribuições em projetos.
+Uma das principais ferramentas para o envolvimento em projetos open source é o <a href="https://www.github.com" target="_blank">github</a>. Este artigo explica como utilizar essa ferramenta para envolver-se em projetos, visando realizar contribuições em projetos.
 
 ## Primeiros passos
 
 Antes de tudo é necessário conhecer minimamente a ferramenta e o seu fluxo de trabalho, portanto, é recomendada a leitura de dois artigos:
 
-<http://tableless.com.br/iniciando-no-git-parte-1/>
+<https://tableless.com.br/iniciando-no-git-parte-1/>
 
-<http://tableless.com.br/iniciando-no-git-parte-2/>
+<https://tableless.com.br/iniciando-no-git-parte-2/>
 
 ## Let&#8217;s go
 
@@ -39,7 +39,7 @@ O primeiro passo é a criação de uma conta no site do github, assim, basta ent
 
 [<img class="size-medium wp-image-37719 aligncenter" alt="Formulário de cadastro - github" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/formulário-de-registro-github-552x310.png" width="552" height="310" srcset="uploads/2013/06/formulário-de-registro-github-552x310.png 552w, uploads/2013/06/formulário-de-registro-github-299x168.png 299w, uploads/2013/06/formulário-de-registro-github.png 677w" sizes="(max-width: 552px) 100vw, 552px" />][1]
 
-O segundo passo consiste em baixar a aplicação ‘git’, esta será a responsável por toda a manipulação que realizaremos nos repositórios aos quais desejamos contribuir. Recomendo que seja lido primeiramente o artigo elaborado pelo Diego Eis, na seção ‘Instalando o git’, disponível em <http://tableless.com.br/iniciando-no-git-parte-1/>, ou então, se preferir, o próprio pessoal do github disponibiliza uma série de instruções para instalar e configurar o git, estas estão disponíveis em <https://help.github.com/articles/set-up-git>.
+O segundo passo consiste em baixar a aplicação ‘git’, esta será a responsável por toda a manipulação que realizaremos nos repositórios aos quais desejamos contribuir. Recomendo que seja lido primeiramente o artigo elaborado pelo Diego Eis, na seção ‘Instalando o git’, disponível em <https://tableless.com.br/iniciando-no-git-parte-1/>, ou então, se preferir, o próprio pessoal do github disponibiliza uma série de instruções para instalar e configurar o git, estas estão disponíveis em <https://help.github.com/articles/set-up-git>.
 
 # Conceitos básicos
 
@@ -49,7 +49,7 @@ Para começar a trabalhar com o git de forma colaborativa é necessário conhece
 
 O fork consiste em realizar a cópia de um repositório de alguém, adicionando esse repositório aos nossos repositórios. Em linhas gerais, nos tornamos os ‘donos’ do repositório o qual estamos realizando o fork (mas o original se mantém intacto).
 
-O fork é o primeiro passo para colaborar em um projeto. Por exemplo, percebemos que existe um problema em um arquivo nos exemplos para iniciantes disponíveis no tableless (<http://tableless.com.br/para-iniciantes/>) e queremos realizar a correção. Como o projeto está no github, podemos colaborar! Para isso, navegamos até o repositório (<https://github.com/tableless/iniciantes>) e clicamos na opção fork, localizada no canto direito da página.
+O fork é o primeiro passo para colaborar em um projeto. Por exemplo, percebemos que existe um problema em um arquivo nos exemplos para iniciantes disponíveis no tableless (<https://tableless.com.br/para-iniciantes/>) e queremos realizar a correção. Como o projeto está no github, podemos colaborar! Para isso, navegamos até o repositório (<https://github.com/tableless/iniciantes>) e clicamos na opção fork, localizada no canto direito da página.
 
 <p style="text-align: center">
   <a href="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/opções-do-repositório-github.png"><img class="size-full wp-image-37722 aligncenter" alt="Opções disponíveis no repositório" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/06/opções-do-repositório-github.png" width="413" height="56" srcset="uploads/2013/06/opções-do-repositório-github.png 413w, uploads/2013/06/opções-do-repositório-github-329x44.png 329w" sizes="(max-width: 413px) 100vw, 413px" /></a>
@@ -93,7 +93,7 @@ Uma vez feitas as configurações necessárias e conhecendo os conceitos de fork
 
   1. Realiza-se um fork do projeto para o qual se quer contribuir.
 
-  2. Clona-se o repositório criado através do fork para o nosso ambiente de trabalho (como explicado em <http://tableless.com.br/iniciando-no-git-parte-1/> na seção ‘Clonando um projeto’).
+  2. Clona-se o repositório criado através do fork para o nosso ambiente de trabalho (como explicado em <https://tableless.com.br/iniciando-no-git-parte-1/> na seção ‘Clonando um projeto’).
 
   3. Realizam-se as modificações /correções / novas implementações desejadas.
 

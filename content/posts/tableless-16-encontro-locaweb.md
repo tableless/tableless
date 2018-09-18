@@ -29,17 +29,17 @@ O valor do evento é bem em conta, só R$50 por cidade. O Coffee é top demais. 
 
 Faça um esforço e apareça no evento da sua cidade&#8230; vamos conversar!
 
- [1]: http://eventos.locaweb.com.br/
- [2]: http://jaydson.org
- [3]: http://jcemer.com
- [4]: http://nandovieira.com
- [5]: http://about.me/diegoeis/
- [6]: http://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-recife/
- [7]: http://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-belo-horizonte/
- [8]: http://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-curitiba/
- [9]: http://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-porto-alegre/
- [10]: http://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-rio-de-janeiro/
- [11]: http://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-sao-paulo/
- [12]: http://interney.net
- [13]: http://www.martha.com.br
+ [1]: https://eventos.locaweb.com.br/
+ [2]: https://jaydson.org
+ [3]: https://jcemer.com
+ [4]: https://nandovieira.com
+ [5]: https://about.me/diegoeis/
+ [6]: https://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-recife/
+ [7]: https://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-belo-horizonte/
+ [8]: https://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-curitiba/
+ [9]: https://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-porto-alegre/
+ [10]: https://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-rio-de-janeiro/
+ [11]: https://eventos.locaweb.com.br/16o-encontro-locaweb-de-profissionais-de-internet-sao-paulo/
+ [12]: https://interney.net
+ [13]: https://www.martha.com.br
  [14]: https://twitter.com/Erika_Zuza

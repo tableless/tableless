@@ -8,7 +8,7 @@ url: /personalidade-no-design/
 tweetbackscheck:
   - 1356389575
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7225";s:7:"tinyurl";s:26:"http://tinyurl.com/axnz9zv";s:4:"isgd";s:19:"http://is.gd/w1DwGi";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7225";s:7:"tinyurl";s:26:"https://tinyurl.com/axnz9zv";s:4:"isgd";s:19:"https://is.gd/w1DwGi";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 925266725
@@ -23,9 +23,9 @@ tags:
   - ux
 
 ---
-_Traduzido com autorização da <a href="http://www.alistapart.com/" target="_blank">A List Apart Magazine</a> e do autor._
+_Traduzido com autorização da <a href="https://www.alistapart.com/" target="_blank">A List Apart Magazine</a> e do autor._
 
-_Estamos animados em apresentar um trecho do 3° capítulo do livro “_<a href="http://www.abookapart.com/products/designing-for-emotion" target="_blank"><em>Designing for Emotion</em></a>_” de Aarron Walter (Ed. A Book Apart, 2011)_
+_Estamos animados em apresentar um trecho do 3° capítulo do livro “_<a href="https://www.abookapart.com/products/designing-for-emotion" target="_blank"><em>Designing for Emotion</em></a>_” de Aarron Walter (Ed. A Book Apart, 2011)_
 
 Chamamos de personalidade, o centro de relações duradouras, em torno de qualidades únicas, e perspectivas que todos possuímos. Através de nossa personalidade, expressamos uma gama de emoções humanas. Personalidade é a força que nos atrai a certas pessoas e nos repele de outras. Pelo fato de a personalidade exercer grande influência em nosso processo de tomada de decisões, a mesma pode ser uma poderosa ferramenta no design.
 
@@ -65,7 +65,7 @@ _Figura 3.2: Personalidade à frente e no centro do design do Volkswagen Fusca, 
 
 Este sorriso que cumprimenta o motorista reflete a emoção e estabelece um tipo específico de relacionamento. É difícil não retribuir a um sorriso, mesmo vindo de um objeto. Em torno desta simples interação, construímos uma persona emocional para este automóvel, levando-o a jogos (“Slug bug red!”) e como herói no filme “Herbie”. Criamos memórias ao redor dessas experiências, e elas nos lembraram as emoções positivas que o Fusca inspira.
 
-Embora a bíblia de Gutenberg e o Fusca sejam casos interessantes, não há um exemplo mais concreto de personalidade no design do que a campanha publicitária da Apple _“Get a Mac”_ (Nota do Tradutor – <a href="http://www.youtube.com/watch?v=BdGqf4d2GHM" target="_blank">Exemplo da campanha</a>). Nos anúncios, Justin Long interpreta um jovem e moderno Mac – John Hodgman é um PC comum – que sem esforço algum consegue resolver problemas complexos e todas as suas tarefas. Esses anúncios transmitem uma experiência de personalidade e ajudam os consumidores a comparar os diferentes relacionamentos que poderiam ter com o seu computador. Os anúncios não falam sobre especificações ou características, e sim sobre como você se sentiria se comprasse um Mac. Compreendendo a história da personalidade no design, vamos voltar ao presente, onde nos esforçamos para tentar entender o nosso público, e damos o nosso melhor para desenvolver experiências atraentes para a web.
+Embora a bíblia de Gutenberg e o Fusca sejam casos interessantes, não há um exemplo mais concreto de personalidade no design do que a campanha publicitária da Apple _“Get a Mac”_ (Nota do Tradutor – <a href="https://www.youtube.com/watch?v=BdGqf4d2GHM" target="_blank">Exemplo da campanha</a>). Nos anúncios, Justin Long interpreta um jovem e moderno Mac – John Hodgman é um PC comum – que sem esforço algum consegue resolver problemas complexos e todas as suas tarefas. Esses anúncios transmitem uma experiência de personalidade e ajudam os consumidores a comparar os diferentes relacionamentos que poderiam ter com o seu computador. Os anúncios não falam sobre especificações ou características, e sim sobre como você se sentiria se comprasse um Mac. Compreendendo a história da personalidade no design, vamos voltar ao presente, onde nos esforçamos para tentar entender o nosso público, e damos o nosso melhor para desenvolver experiências atraentes para a web.
 
 ## Personas
 
@@ -105,7 +105,7 @@ _**Voz:**_ Se a sua marca pudesse falar, como seria?  O que ela diria? Ela fal
 
 _**Exemplos de reprodução:** _Forneça exemplos de reprodução que podem ser usados em diferentes situações na sua interface. Isto ajuda os desenvolvedores  a entender como a sua persona deve se comunicar.
 
-**_Visual léxico:_** Se você é um designer, crie este documento para si e/ou a equipe de design. Você pode criar um visual léxico do projeto da sua persona que inclui resumo de cores, tipografia e estilo visual que transmita a personalidade da sua marca. Você pode ser bem generalista nestes conceitos, ou incluir um <a href="http://www.webdesignerdepot.com/2008/12/why-mood-boards-matter/" target="_blank">mood board</a>.
+**_Visual léxico:_** Se você é um designer, crie este documento para si e/ou a equipe de design. Você pode criar um visual léxico do projeto da sua persona que inclui resumo de cores, tipografia e estilo visual que transmita a personalidade da sua marca. Você pode ser bem generalista nestes conceitos, ou incluir um <a href="https://www.webdesignerdepot.com/2008/12/why-mood-boards-matter/" target="_blank">mood board</a>.
 
 **_Métodos de envolvimento:_** Descreva os métodos de envolvimento emocional que você pode usar em sua interface, para ajudar o desenvolvedor da persona  a criar uma experiência memorável.
 
@@ -143,7 +143,7 @@ _**Métodos de envolvimento:** Surpresa e alegria:_ Telas temáticas de login 
 
 _Antecipação:_ No topo de cada página, Freddy faz saudações randômicas e engraçadas, gerando uma antecipação em carregar a próxima página. Esses cumprimentos nunca dão informações ou feedbacks. Eles são layers divertidos, que nunca interferem na funcionalidade ou usabilidade.
 
-Faça o download de um template para construção de persona e o modelo do Mailchimp em <a href="http://aarronwalter.com/design-personas" target="_blank">http://aarronwalter.com/design-personas</a>. Experimente em seu projeto, ou talvez até mesmo em um redesign.
+Faça o download de um template para construção de persona e o modelo do Mailchimp em <a href="https://aarronwalter.com/design-personas" target="_blank">https://aarronwalter.com/design-personas</a>. Experimente em seu projeto, ou talvez até mesmo em um redesign.
 
 Da mesma forma que os desenvolvedores de UX deixam as personas a disposição de designers, desenvolvedores e estrategistas de conteúdo ao longo do projeto, a sua persona deve estar visível para lembrar a equipe o tipo de relacionamento que você deseja construir com seu público. As personas devem guiar todos aqueles que queiram desenvolver/alterar um pixel, um parágrafo ou esteja envolvido em qualquer processo do website.
 
@@ -159,7 +159,7 @@ _Figura 3.6: Os apps da Tapbots são como robozinhos prontos para fazer o seu fo
 
 O app convertbot, como o próprio nome diz, faz simples conversões de unidades de medidas. Já o  Weightbot ajuda os usuários a controlarem as alterações de sua massa corporal. Nenhuma dessas tarefas é muito agradável de realizar, especialmente o acompanhamento de peso, coisa que pode balançar a sua auto-estima. Mas o design dos aplicativos adquiriu um público fiel que faz deles um sucesso estrondoso.
 
-Os aplicativos parecem ter rostos pelos quais toda a interação acontece. O painel escuro no topo parece ser inspirado nos óculos de <a href="http://pt.wikipedia.org/wiki/Kool_Moe_Dee" target="_blank">Kool Moe Dee</a>, sendo apoiados sobre um nariz pequeno e uma boca larga.
+Os aplicativos parecem ter rostos pelos quais toda a interação acontece. O painel escuro no topo parece ser inspirado nos óculos de <a href="https://pt.wikipedia.org/wiki/Kool_Moe_Dee" target="_blank">Kool Moe Dee</a>, sendo apoiados sobre um nariz pequeno e uma boca larga.
 
 Ao contrário de outros aplicativos para iPhone, a interface parece pequenos robôs-humanos. Um robô em particular inspirou o aplicativo Tapbot. O designer Mark Jardine, que desenvolveu a personalidade da UI, diz:
 
@@ -167,7 +167,7 @@ _“Todo o conceito de interface do usuário foi inspirado no filme Wall-e. Noss
 
 _Queremos que nossos aplicativos sejam utilizados com seriedade, mas que também dê um sensação de que são mais que apenas um software. Queremos que os usuários tenham uma conexão emocional com nossos aplicativos. A maior parte das pessoas não tem amor e nem se divertem com os seus softwares (como fazem os geeks)”._
 
-O blogueiro <a href="http://daringfireball.net/linked/2009/04/02/designing-convertbot" target="_blank">John Gruber</a> resume o sentimento do público a respeito dos aplicativos Tapbots de uma forma bem simples:
+O blogueiro <a href="https://daringfireball.net/linked/2009/04/02/designing-convertbot" target="_blank">John Gruber</a> resume o sentimento do público a respeito dos aplicativos Tapbots de uma forma bem simples:
 
 _“Eu adoro a forma e os sons desses aplicativos”._
 
@@ -179,7 +179,7 @@ A personalidade da marca transborda no próximo exemplo. A Carbonmade consegue c
 
 A personalidade pode estabelecer relações com um público, desde que seja única e autêntica, mas se utilizada como um artifício, pode ter o efeito contrário, pois notarão a personalidade forjada e sem autenticidade no design e deixarão de confiar em sua marca.
 
-A <a href="http://carbonmade.com/" target="_blank">Carbonmade</a> é um pequeno e inteligente aplicativo que ajuda as pessoas a desenvolver portfólios elegantes, e expressa a sua personalidade em todo o seu site, combinando a seriedade de <a href="http://pt.wikipedia.org/wiki/James_Stewart" target="_blank">Jimmy Stewart</a> com o charme cômico de [Eddie Izzard][1]. Polvos e unicórnios brincam em sua paisagem fantástica (ver figura 3.7), o que é atípico  para um site com foco em conversão.
+A <a href="https://carbonmade.com/" target="_blank">Carbonmade</a> é um pequeno e inteligente aplicativo que ajuda as pessoas a desenvolver portfólios elegantes, e expressa a sua personalidade em todo o seu site, combinando a seriedade de <a href="https://pt.wikipedia.org/wiki/James_Stewart" target="_blank">Jimmy Stewart</a> com o charme cômico de [Eddie Izzard][1]. Polvos e unicórnios brincam em sua paisagem fantástica (ver figura 3.7), o que é atípico  para um site com foco em conversão.
 
 <img class="aligncenter" src="https://www.alistapart.com/d/personality-in-design/figure3_7.jpg" alt="" width="540" height="567" />
 
@@ -201,7 +201,7 @@ Poucos websites fazem isto tão bem quanto o Housing Works, que estampa rostos h
 
 Assim como no mundo real, nem sempre podemos pontuar a personalidade nos sites com perspicácia e humor. Certas situações exigem táticas diferenciadas. A Housing Works é uma organização sem fins lucrativos, dedicada a inspirar aidéticos em estado terminal e sem moradia. A Housing Works transforma vidas todos os dias. Suas histórias são de empatia, bondade e esperança para pessoas comuns.
 
-Quando o estúdio <a href="http://happycog.com/" target="_blank">Happy Cog</a> fez o redesign do site em 2008 (fig 3.8), a personalidade da organização e das pessoas a quem ela auxilia foi a musa inspiradora do processo de design.
+Quando o estúdio <a href="https://happycog.com/" target="_blank">Happy Cog</a> fez o redesign do site em 2008 (fig 3.8), a personalidade da organização e das pessoas a quem ela auxilia foi a musa inspiradora do processo de design.
 
 <img class="aligncenter" src="https://www.alistapart.com/d/personality-in-design/figure3_8.jpg" alt="" width="540" height="362" />
 
@@ -223,8 +223,8 @@ Tenha em mente que quando você enfatiza a personalidade na experiência do usu�
 
 &#8212;
 
-_Artigo original escrito por <a href="http://www.alistapart.com/authors/w/awalter" target="_blank" rel="author">Aarron Walter</a>_
+_Artigo original escrito por <a href="https://www.alistapart.com/authors/w/awalter" target="_blank" rel="author">Aarron Walter</a>_
 
-_Acesse o artigo original no <a href="http://www.alistapart.com/articles/personality-in-design/" target="_blank">A List Apart</a> &#8211; Personality in Design &#8211; 18 de Outubro de 2011_
+_Acesse o artigo original no <a href="https://www.alistapart.com/articles/personality-in-design/" target="_blank">A List Apart</a> &#8211; Personality in Design &#8211; 18 de Outubro de 2011_
 
- [1]: http://en.wikipedia.org/wiki/Eddie_Izzard
+ [1]: https://en.wikipedia.org/wiki/Eddie_Izzard

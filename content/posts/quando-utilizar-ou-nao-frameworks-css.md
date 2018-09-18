@@ -63,7 +63,7 @@ Portanto, é recomendável que frameworks sejam utilizados por quem possui um n�
 
 Como as classes geralmente não apresentam muita semântica, procure colocar IDs significativos nos elementos da página, quando possível.
 
-Você também pode optar por utilizar somente uma parte do framework. Em projetos em que utilizei o <a title="Blueprint CSS" href="http://www.blueprintcss.org/" target="_blank">Blueprint CSS</a>, muitas vezes utilizava apenas algumas folhas de estilos do framework que se adequavam ao que eu necessitava.
+Você também pode optar por utilizar somente uma parte do framework. Em projetos em que utilizei o <a title="Blueprint CSS" href="https://www.blueprintcss.org/" target="_blank">Blueprint CSS</a>, muitas vezes utilizava apenas algumas folhas de estilos do framework que se adequavam ao que eu necessitava.
 
 **Dica:** evite usar vários frameworks CSS em um mesmo projeto. Isto quebra a ideia de consistência, uma vez que cada framework tem o seu padrão de estruturação.
 
@@ -79,16 +79,16 @@ Frameworks CSS, se bem utilizados, podem trazer muitos benefícios para seus pro
 
 ### Referências
 
-Why you should NOT use a web framework &#8211; <http://checkedexception.blogspot.com/2010/04/why-you-should-not-use-web-framework.html>
+Why you should NOT use a web framework &#8211; <https://checkedexception.blogspot.com/2010/04/why-you-should-not-use-web-framework.html>
 
-To use a framework, or not to: that is the question &#8211; <http://www.phparch.com/2010/04/to-use-a-framework-or-not-to-that-is-the-question/>
+To use a framework, or not to: that is the question &#8211; <https://www.phparch.com/2010/04/to-use-a-framework-or-not-to-that-is-the-question/>
 
-Please do not Use CSS Frameworks &#8211; <http://mondaybynoon.com/2007/08/27/please-do-not-use-css-frameworks/>
+Please do not Use CSS Frameworks &#8211; <https://mondaybynoon.com/2007/08/27/please-do-not-use-css-frameworks/>
 
-Which CSS Grid Framework Should You Use for Web Design? &#8211; <http://net.tutsplus.com/tutorials/html-css-techniques/which-css-grid-framework-should-you-use-for-web-design/>
+Which CSS Grid Framework Should You Use for Web Design? &#8211; <https://net.tutsplus.com/tutorials/html-css-techniques/which-css-grid-framework-should-you-use-for-web-design/>
 
-When to use CSS framework? &#8211; <http://www.vcarrer.com/2008/08/when-to-use-css-framework.html>
+When to use CSS framework? &#8211; <https://www.vcarrer.com/2008/08/when-to-use-css-framework.html>
 
-WHAT’S NOT TO LOVE ABOUT CSS FRAMEWORKS? &#8211; <http://jeffcroft.com/blog/2007/nov/17/whats-not-love-about-css-frameworks/>
+WHAT’S NOT TO LOVE ABOUT CSS FRAMEWORKS? &#8211; <https://jeffcroft.com/blog/2007/nov/17/whats-not-love-about-css-frameworks/>
 
-Frameworks for Designers &#8211; <http://www.alistapart.com/articles/frameworksfordesigners>
+Frameworks for Designers &#8211; <https://www.alistapart.com/articles/frameworksfordesigners>

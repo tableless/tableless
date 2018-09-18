@@ -129,9 +129,9 @@ O encerramento do evento ficou por conta do concurso Web&#8217;s Got Talent, um 
 
 Ufa! Foi uma verdadeira maratona de palestras, debates, apresentações e cafézinhos. Mas o mais legal foi conhecer ao vivo as pessoas que trabalham diariamente para transformar a web em um lugar melhor. Cada um dentro da sua área lutando para que seja mais acessível, mais inclusivo, mais rápido, funcional ou interativo. Mas definitivamente melhor! Mal posso esperar pela próxima conferência!
 
- [1]: http://tableless.com.br/conferencia-w3c-webbr-2013-primeiro-dia/ "Conferência W3C Web.br 2013 – Dia 1"
- [2]: http://pushtalk.herokuapp.com "Push Talk"
- [3]: http://conferenciaweb.w3c.br/webs-got-talent/
- [4]: http://arteforadomuseu.com.br/
- [5]: http://web.prodeaf.net/
+ [1]: https://tableless.com.br/conferencia-w3c-webbr-2013-primeiro-dia/ "Conferência W3C Web.br 2013 – Dia 1"
+ [2]: https://pushtalk.herokuapp.com "Push Talk"
+ [3]: https://conferenciaweb.w3c.br/webs-got-talent/
+ [4]: https://arteforadomuseu.com.br/
+ [5]: https://web.prodeaf.net/
  [6]: https://www.loggi.com/

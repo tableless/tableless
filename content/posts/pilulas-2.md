@@ -7,7 +7,7 @@ url: /pilulas-2/
 tweetbackscheck:
   - 1356454001
 shorturls:
-  - 'a:3:{s:9:"permalink";s:33:"http://tableless.com.br/pilulas-2";s:7:"tinyurl";s:26:"http://tinyurl.com/3d5l2lc";s:4:"isgd";s:19:"http://is.gd/e27RLG";}'
+  - 'a:3:{s:9:"permalink";s:33:"https://tableless.com.br/pilulas-2";s:7:"tinyurl";s:26:"https://tinyurl.com/3d5l2lc";s:4:"isgd";s:19:"https://is.gd/e27RLG";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034185
@@ -26,11 +26,11 @@ tags:
   * Seu celular não roda Symbian nem Windows Mobile e você sente falta de um navegador web decente? [Opera Mini][5], uma versão Java do Opera que vai rodar no seu celular.
   * [Decorating type using CSS][6]. Esse não preciso explicar, só de olhar você vai entender. Vi na [arqHP][7], dica do [Maudy Pedrão][8].
 
- [1]: http://www.alistapart.com/articles/outsidethegrid
- [2]: http://www.alistapart.com/articles/sensibleforms
- [3]: http://www.digitalminds.com.br/
- [4]: http://www.imasters.com.br/artigo.php?cn=3766&cc=307
- [5]: http://www.opera.com/products/mobile/operamini/
- [6]: http://www.khmerang.com/csslab/decoratingtype/
- [7]: http://groups.google.com/group/arqhp
+ [1]: https://www.alistapart.com/articles/outsidethegrid
+ [2]: https://www.alistapart.com/articles/sensibleforms
+ [3]: https://www.digitalminds.com.br/
+ [4]: https://www.imasters.com.br/artigo.php?cn=3766&cc=307
+ [5]: https://www.opera.com/products/mobile/operamini/
+ [6]: https://www.khmerang.com/csslab/decoratingtype/
+ [7]: https://groups.google.com/group/arqhp
  [8]: http://www.jedimania.com.br/

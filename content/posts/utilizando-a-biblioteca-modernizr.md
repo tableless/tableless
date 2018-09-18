@@ -8,7 +8,7 @@ url: /utilizando-a-biblioteca-modernizr/
 tweetbackscheck:
   - 1356390410
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4431";s:4:"isgd";s:19:"http://is.gd/mVMoin";s:7:"tinyurl";s:26:"http://tinyurl.com/3p4ogu9";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4431";s:4:"isgd";s:19:"https://is.gd/mVMoin";s:7:"tinyurl";s:26:"https://tinyurl.com/3p4ogu9";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503040422
@@ -55,7 +55,7 @@ Entenda que a Modernizr não é um sniffing de browser. Ela é diferente. A Mode
 
 ### Como funciona
 
-É simples: primeiro você baixa a versão mais atual da biblioteca no endereço <http://www.modernizr.com/>. O interessante é que você tem a opção para personalizar a biblioteca, indicando quais features você quer que a Modernizr teste no seu projeto.
+É simples: primeiro você baixa a versão mais atual da biblioteca no endereço <https://www.modernizr.com/>. O interessante é que você tem a opção para personalizar a biblioteca, indicando quais features você quer que a Modernizr teste no seu projeto.
 
 Depois você inclui esse pacote no seu HTML:
 
@@ -122,5 +122,5 @@ A Modernizr facilita demais as coisas. A ideia é que você não prive seus proj
 
 Sugiro que você [dê uma lida na documentação][2] da Modernizr. Tem bastante coisa interessante lá que você deveria saber.
 
- [1]: http://bit.ly/oA9jHu "link externo"
- [2]: http://www.modernizr.com/docs/ "link externo para a documentação da Modernizr"
+ [1]: https://bit.ly/oA9jHu "link externo"
+ [2]: https://www.modernizr.com/docs/ "link externo para a documentação da Modernizr"

@@ -16,7 +16,7 @@ tags:
   - phpOO
 
 ---
-No <a href="http://tableless.com.br/iniciando-com-symfony-2-parte-04/" title="Iniciando com symfony2 - parte 4" target="_blank">tutorial anterior</a>, criamos a entidade Author, e fizemos o relacionamento com os posts, neste tutorial vamos fazer as configurações adequadas para que possamos deixar nossa aplicação estruturada corretamente, e vamos criar e configurar a página index, onde os usuários terão acesso para visualizar e ler os posts.
+No <a href="https://tableless.com.br/iniciando-com-symfony-2-parte-04/" title="Iniciando com symfony2 - parte 4" target="_blank">tutorial anterior</a>, criamos a entidade Author, e fizemos o relacionamento com os posts, neste tutorial vamos fazer as configurações adequadas para que possamos deixar nossa aplicação estruturada corretamente, e vamos criar e configurar a página index, onde os usuários terão acesso para visualizar e ler os posts.
 
 ## Configurando
 
@@ -97,9 +97,9 @@ Rode o servidor
 
 Entre nas urls:
   
-http://127.0.0.1:8000/post/
+https://127.0.0.1:8000/post/
   
-http://127.0.0.1:8000/author/
+https://127.0.0.1:8000/author/
 
 Se tudo foi configurado corretamente, nossa aplicação voltará a funcionar perfeitamente, veja:
 
@@ -185,7 +185,7 @@ Pronto! Nosso controller IndexController está criado, juntamente com suas templ
   
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/07.png" alt="Index controller" width="750" height="403" class="alignnone size-full wp-image-47775" />][6]
 
-Ao entrarmos na url: http://127.0.0.1:8000/, vamos entrar no nosso index, e receberemos a mensagem abaixo:
+Ao entrarmos na url: https://127.0.0.1:8000/, vamos entrar no nosso index, e receberemos a mensagem abaixo:
 
 Welcome to the IndexControler:index page
 
@@ -382,17 +382,17 @@ Welcome to the IndexControler:show page
 
 Para vemos o resultado, entre nas urls:
 
-http://127.0.0.1:8000/
+https://127.0.0.1:8000/
   
-http://127.0.0.1:8000/show/{o id do seu post}
+https://127.0.0.1:8000/show/{o id do seu post}
 
 Veja as imagens para comparação:
 
-index &#8211; url: http://127.0.0.1:8000/
+index &#8211; url: https://127.0.0.1:8000/
   
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/08.png" alt="index" width="750" height="403" class="alignnone size-full wp-image-47767" />][7]
 
-Pagina show – url: http://127.0.0.1:8000/show/4 -> {o id do seu post} no meu caso 4.
+Pagina show – url: https://127.0.0.1:8000/show/4 -> {o id do seu post} no meu caso 4.
   
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/03/09.png" alt="show" width="750" height="403" class="alignnone size-full wp-image-47768" />][8]
 
@@ -402,13 +402,13 @@ No tutorial anterior, eu comentei que iriamos configurar nosso projeto e começa
 
 Links dos tutoriais anteriores:
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2/" title="instalação" target="_blank">Iniciando com Symfony 2 &#8211; Instalação</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2/" title="instalação" target="_blank">Iniciando com Symfony 2 &#8211; Instalação</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-02/" title="parte 02" target="_blank">Iniciando com Symfony 2 &#8211; parte 02</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-02/" title="parte 02" target="_blank">Iniciando com Symfony 2 &#8211; parte 02</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-03/" title="parte 03" target="_blank">Iniciando com Symfony 2 &#8211; parte 03</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-03/" title="parte 03" target="_blank">Iniciando com Symfony 2 &#8211; parte 03</a>
   
-<a href="http://tableless.com.br/iniciando-com-symfony-2-parte-04/" title="parte 04" target="_blank">Iniciando com Symfony 2 &#8211; parte 04</a>
+<a href="https://tableless.com.br/iniciando-com-symfony-2-parte-04/" title="parte 04" target="_blank">Iniciando com Symfony 2 &#8211; parte 04</a>
 
 O projeto <a href="https://github.com/candidosouza/tableless" title="Git do projeto" target="_blank">encontra-se no GitHub</a>!
 

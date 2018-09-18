@@ -62,7 +62,7 @@ SELECT FOUND_ROWS();
 Que simples e útil é esta função do MySQL! Não existem grandes modificações para serem feitas. Como exemplo, eu adaptei facilmente alguns frameworks que desenvolvi para aumentar a performance.
 
 <p style="text-align: left;">
-  Você pode saber mais destas funções do MySQL <a href="http://dev.mysql.com/doc/refman/5.7/en/information-functions.html#function_found-rows" target="_blank">diretamente na documentação do próprio banco</a>.
+  Você pode saber mais destas funções do MySQL <a href="https://dev.mysql.com/doc/refman/5.7/en/information-functions.html#function_found-rows" target="_blank">diretamente na documentação do próprio banco</a>.
 </p>
 
 <p style="text-align: left;">

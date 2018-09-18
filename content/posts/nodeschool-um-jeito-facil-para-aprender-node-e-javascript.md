@@ -17,5 +17,5 @@ O [NodeSchool é um workshop][1], online e presencial, que ensina a desenvolver 
 
 Além dos módulos online, onde você aprende sozinho via terminal, você pode encontrar um Workshop presencial perto de você. Aqui no Brasil, pelo que sei, [vai acontecer um em SP, dia 14 de Julho][2]. Mas as inscrições já estão fechadas.
 
- [1]: http://nodeschool.io
- [2]: http://nodeschool.io/sao-paulo/
+ [1]: https://nodeschool.io
+ [2]: https://nodeschool.io/sao-paulo/

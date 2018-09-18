@@ -8,7 +8,7 @@ url: /utilizando-icones-formato-font/
 tweetbackscheck:
   - 1356387705
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6471";s:7:"tinyurl";s:26:"http://tinyurl.com/cfp7vlz";s:4:"isgd";s:19:"http://is.gd/Bd96Io";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6471";s:7:"tinyurl";s:26:"https://tinyurl.com/cfp7vlz";s:4:"isgd";s:19:"https://is.gd/Bd96Io";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 811911850
@@ -107,11 +107,11 @@ Veja [um exemplo direto do IcoMoon][6] [aqui no nosso GitHub][7].
   
 O [CSS-Tricks também fez um exemplo com um monte de firulas][8].
 
- [1]: http://tableless.com.br/css-sprites/ "CSS Sprites"
- [2]: http://tableless.com.br/font-face-fonts-externas-na-web/
- [3]: http://bit.ly/Ob6o1I
- [4]: http://fontello.com
- [5]: http://keyamoon.com/icomoon/app/
- [6]: http://tableless.github.com/exemplos/font-icons/
+ [1]: https://tableless.com.br/css-sprites/ "CSS Sprites"
+ [2]: https://tableless.com.br/font-face-fonts-externas-na-web/
+ [3]: https://bit.ly/Ob6o1I
+ [4]: https://fontello.com
+ [5]: https://keyamoon.com/icomoon/app/
+ [6]: https://tableless.github.com/exemplos/font-icons/
  [7]: https://github.com/tableless
- [8]: http://css-tricks.com/examples/IconFont/
+ [8]: https://css-tricks.com/examples/IconFont/

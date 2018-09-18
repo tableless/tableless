@@ -7,7 +7,7 @@ url: /conteudo-e-o-rei-do-batatal/
 tweetbackscheck:
   - 1356439498
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/conteudo-e-o-rei-do-batatal";s:7:"tinyurl";s:26:"http://tinyurl.com/4yws462";s:4:"isgd";s:19:"http://is.gd/DUEqx8";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/conteudo-e-o-rei-do-batatal";s:7:"tinyurl";s:26:"https://tinyurl.com/4yws462";s:4:"isgd";s:19:"https://is.gd/DUEqx8";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036746
@@ -27,7 +27,7 @@ Em desenvolvimento web, não é só o design que serve o conteúdo, mas também 
 
 É óbvio que se você vê um site com um design bem feito, que encha os olhos, a sua experiência se transforma, melhora e você se sente mais motivado a navegar. Design bom é aquele que consegue apresentar bem o conteúdo.
 
- [1]: http://www.contraditorium.com/2006/07/04/como-ganhar-dinheiro-na-internet-primeiro-extermine-seu-designer/
- [2]: http://tableless.com.br/aplicacoes-comem-conteudo
- [3]: http://tableless.com.br/a-semantica-e-que-manda
- [4]: http://tableless.com.br/a-web-semantica/
+ [1]: https://www.contraditorium.com/2006/07/04/como-ganhar-dinheiro-na-internet-primeiro-extermine-seu-designer/
+ [2]: https://tableless.com.br/aplicacoes-comem-conteudo
+ [3]: https://tableless.com.br/a-semantica-e-que-manda
+ [4]: https://tableless.com.br/a-web-semantica/

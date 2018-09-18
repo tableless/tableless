@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356456348
 shorturls:
-  - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/chrome-nao-quer-dizer-muita-coisa";s:7:"tinyurl";s:26:"http://tinyurl.com/3hclxtr";s:4:"isgd";s:19:"http://is.gd/sLQoKs";}'
+  - 'a:3:{s:9:"permalink";s:57:"https://tableless.com.br/chrome-nao-quer-dizer-muita-coisa";s:7:"tinyurl";s:26:"https://tinyurl.com/3hclxtr";s:4:"isgd";s:19:"https://is.gd/sLQoKs";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503027601
@@ -38,5 +38,5 @@ Vou ter muito mais prazer de trabalhar quando ouvir a notícia da descontinuaç�
 
 Vou continuar tendo as mesmas preocupações, vou continuar fazendo as mesmas técnicas manjadas e trabalhosas. O problema continua sendo o passado. É o IE6 que ainda dita as regras.
 
- [1]: http://www.google.com/googlebooks/chrome/
- [2]: http://www.google.com/chrome/
+ [1]: https://www.google.com/googlebooks/chrome/
+ [2]: https://www.google.com/chrome/

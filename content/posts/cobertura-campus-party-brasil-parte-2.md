@@ -73,8 +73,8 @@ O Lean UX também enxuga alguns processos e propõem menos ênfase em entregas/d
 
 [Assista ao vídeo][5] da palestra.
 
- [1]: http://tableless.com.br/campus-party-brasil-2014-primeiro-dia/
- [2]: http://www.campus-party.com.br/2014/index.html
+ [1]: https://tableless.com.br/campus-party-brasil-2014-primeiro-dia/
+ [2]: https://www.campus-party.com.br/2014/index.html
  [3]: https://www.youtube.com/watch?v=X4-RsX9Dvnc
  [4]: https://www.scirra.com/construct2
  [5]: https://www.youtube.com/watch?v=mNeV9gLwFL8

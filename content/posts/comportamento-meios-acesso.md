@@ -7,7 +7,7 @@ url: /comportamento-meios-acesso/
 tweetbackscheck:
   - 1356399543
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/comportamento-meios-acesso";s:7:"tinyurl";s:26:"http://tinyurl.com/3b857et";s:4:"isgd";s:19:"http://is.gd/Wy5r0S";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/comportamento-meios-acesso";s:7:"tinyurl";s:26:"https://tinyurl.com/3b857et";s:4:"isgd";s:19:"https://is.gd/Wy5r0S";}'
 twittercomments:
   - 'a:7:{i:129903788499795968;s:7:"retweet";i:129898026578886656;s:7:"retweet";i:129896422169518080;s:7:"retweet";i:129895281268490240;s:7:"retweet";i:129893074926178304;s:7:"retweet";i:154867152074178560;s:7:"retweet";i:154860994290659328;s:7:"retweet";}'
 tweetcount:

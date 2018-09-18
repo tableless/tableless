@@ -7,7 +7,7 @@ url: /feliz_2005/
 tweetbackscheck:
   - 1356415674
 shorturls:
-  - 'a:3:{s:9:"permalink";s:34:"http://tableless.com.br/feliz_2005";s:7:"tinyurl";s:26:"http://tinyurl.com/3ed5olt";s:4:"isgd";s:19:"http://is.gd/2qrDqG";}'
+  - 'a:3:{s:9:"permalink";s:34:"https://tableless.com.br/feliz_2005";s:7:"tinyurl";s:26:"https://tinyurl.com/3ed5olt";s:4:"isgd";s:19:"https://is.gd/2qrDqG";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032280
@@ -58,11 +58,11 @@ Confira os convertidos:
   * [Xerox][7]
   * [Dell][8]
 
- [1]: http://tableless.com.br/
- [2]: http://tableless.com.br/forum/
- [3]: http://tableless.com.br/convertidos
- [4]: http://tableless.com.br/convertidos#lexmark
- [5]: http://tableless.com.br/convertidos#fedexbr
- [6]: http://tableless.com.br/convertidos#ericsson
- [7]: http://tableless.com.br/convertidos#xerox
- [8]: http://tableless.com.br/convertidos#dell
+ [1]: https://tableless.com.br/
+ [2]: https://tableless.com.br/forum/
+ [3]: https://tableless.com.br/convertidos
+ [4]: https://tableless.com.br/convertidos#lexmark
+ [5]: https://tableless.com.br/convertidos#fedexbr
+ [6]: https://tableless.com.br/convertidos#ericsson
+ [7]: https://tableless.com.br/convertidos#xerox
+ [8]: https://tableless.com.br/convertidos#dell

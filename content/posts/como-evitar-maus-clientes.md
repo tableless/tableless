@@ -62,4 +62,4 @@ Não vale a pena levar o projeto adiante se o cliente não entende o seu cenári
 
 Assuntos como esse quase nunca são discutidos em nosso mercado. Muitos freelas ou empreendedores novatos aprendem isso da maneira mais difícil. Mas quando aprendemos, lidamos com nossos projetos de forma mais confiante, errando menos e deixando os clientes que merecem mais felizes.
 
- [1]: http://tableless.com.br/atender-bem-para-atender-sempre
+ [1]: https://tableless.com.br/atender-bem-para-atender-sempre

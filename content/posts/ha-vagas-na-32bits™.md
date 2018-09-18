@@ -7,7 +7,7 @@ url: /ha-vagas-na-32bits™/
 tweetbackscheck:
   - 1356408110
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/ha-vagas-na-32bits%e2%84%a2";s:7:"tinyurl";s:26:"http://tinyurl.com/3zu83uh";s:4:"isgd";s:19:"http://is.gd/8MQyc3";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/ha-vagas-na-32bits%e2%84%a2";s:7:"tinyurl";s:26:"https://tinyurl.com/3zu83uh";s:4:"isgd";s:19:"https://is.gd/8MQyc3";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036823
@@ -25,5 +25,5 @@ Meu amigo [Danilo Medeiros][1] está abrindo vagas na [32Bits™][2]!
 
 Ele ainda intera que se o cara for &#8216;bão&#8217; mesmo, esta vaga pode virar algo sério no final do estágio!
 
- [1]: http://www.digitalminds.com.br/blog/
- [2]: http://www.32bits.com.br/
+ [1]: https://www.digitalminds.com.br/blog/
+ [2]: https://www.32bits.com.br/

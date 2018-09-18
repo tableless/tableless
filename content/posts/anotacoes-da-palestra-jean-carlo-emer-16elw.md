@@ -54,4 +54,4 @@ Anotações da palestra do Jean Carlo Emer no evento 16 Encontro Locaweb de 2014
 }
 </pre>
 
- [1]: http://nicolasgallagher.com/another-css-image-replacement-technique
+ [1]: https://nicolasgallagher.com/another-css-image-replacement-technique

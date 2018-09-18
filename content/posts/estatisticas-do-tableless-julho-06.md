@@ -7,7 +7,7 @@ url: /estatisticas-do-tableless-julho-06/
 tweetbackscheck:
   - 1356405480
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/estatisticas-do-tableless-julho-06";s:7:"tinyurl";s:26:"http://tinyurl.com/3s6uwtd";s:4:"isgd";s:19:"http://is.gd/EHqFoO";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/estatisticas-do-tableless-julho-06";s:7:"tinyurl";s:26:"https://tinyurl.com/3s6uwtd";s:4:"isgd";s:19:"https://is.gd/EHqFoO";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035896
@@ -53,4 +53,4 @@ Estatísticas referentes ao mês de Julho de 2006.
 
 Se quiser comparar com o mês de Junho, fique à vontade: [Estatísticas do Tableless Junho-06][1]
 
- [1]: http://tableless.com.br/estatisticas-do-tableless#comments
+ [1]: https://tableless.com.br/estatisticas-do-tableless#comments

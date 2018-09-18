@@ -18,8 +18,8 @@ Se você ainda não participa de nenhuma lista de discussão do W3C, ou nunca co
 
 [Web standards for the future][3] from [W3C][4] on [Vimeo][5].
 
- [1]: http://vimeo.com/m/110256895
- [2]: http://w3.org/participate
- [3]: http://vimeo.com/110256895
- [4]: http://vimeo.com/w3c
+ [1]: https://vimeo.com/m/110256895
+ [2]: https://w3.org/participate
+ [3]: https://vimeo.com/110256895
+ [4]: https://vimeo.com/w3c
  [5]: https://vimeo.com

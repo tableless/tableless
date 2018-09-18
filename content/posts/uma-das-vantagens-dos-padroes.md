@@ -7,7 +7,7 @@ url: /uma-das-vantagens-dos-padroes/
 tweetbackscheck:
   - 1356453553
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/uma-das-vantagens-dos-padroes";s:7:"tinyurl";s:26:"http://tinyurl.com/3jhgtcd";s:4:"isgd";s:19:"http://is.gd/uOwYWk";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/uma-das-vantagens-dos-padroes";s:7:"tinyurl";s:26:"https://tinyurl.com/3jhgtcd";s:4:"isgd";s:19:"https://is.gd/uOwYWk";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035183
@@ -32,4 +32,4 @@ Cada caso é um caso. Cada site tem suas necessidades que precisam de mais ou me
   
 Ainda não sei explicar porque ainda existem desenvolvedores e clientes contra a adoção dos padrões.
 
- [1]: http://www.mikeindustries.com/blog/archive/2003/06/espn-interview
+ [1]: https://www.mikeindustries.com/blog/archive/2003/06/espn-interview

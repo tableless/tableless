@@ -41,6 +41,6 @@ Esperamos ajudar mais ainda a comunidade front-end, divulgando e compartilhando 
 
 Estou também escrevendo outro livro sobre front-end. Esse é um livro solo e vai ser lançado pela [Casa do Código][3] também. Aguarde e verá! 😉
 
- [1]: http://sergiolopes.org/
- [2]: http://bit.ly/1hfDzMc
+ [1]: https://sergiolopes.org/
+ [2]: https://bit.ly/1hfDzMc
  [3]: https://casadocodigo.refersion.com/c/7442

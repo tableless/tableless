@@ -226,8 +226,8 @@ Vale lembrar que não é só a calibração que influência na percepção de co
 
 Bem, esta foi só a ponta do iceberg. Existe muito a ser estudado sobre teoria das cores. Ainda restam os aspectos físicos, biológicos, psicológicos, culturais, colorimetria&#8230; Mas com este artigo vocês já tem as ferramentas básicas para criarem ótimas paletas de cores funcionais. Até a próxima!
 
- [1]: http://tableless.com.br/sobre-cor-e-webdesign/ "Sobre Cor e Webdesign"
- [2]: http://www.w3.org/TR/AERT#color-contrast "W3C.org - Color Contrast"
- [3]: http://snook.ca/technical/colour_contrast/colour.html "Colour Contrast"
- [4]: http://www.popupdesign.com.br "PopUp Design"
- [5]: http://www.popupdesign.com.br
+ [1]: https://tableless.com.br/sobre-cor-e-webdesign/ "Sobre Cor e Webdesign"
+ [2]: https://www.w3.org/TR/AERT#color-contrast "W3C.org - Color Contrast"
+ [3]: https://snook.ca/technical/colour_contrast/colour.html "Colour Contrast"
+ [4]: https://www.popupdesign.com.br "PopUp Design"
+ [5]: https://www.popupdesign.com.br

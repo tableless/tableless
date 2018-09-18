@@ -7,7 +7,7 @@ url: /firefox_nyt/
 tweetbackscheck:
   - 1356348356
 shorturls:
-  - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/firefox_nyt";s:7:"tinyurl";s:26:"http://tinyurl.com/3o87rrd";s:4:"isgd";s:19:"http://is.gd/VDzeUN";}'
+  - 'a:3:{s:9:"permalink";s:35:"https://tableless.com.br/firefox_nyt";s:7:"tinyurl";s:26:"https://tinyurl.com/3o87rrd";s:4:"isgd";s:19:"https://is.gd/VDzeUN";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031981
@@ -27,9 +27,9 @@ O mais legal disso tudo, é que na lista dos que mais doaram, havia um nome conh
               
 Para aqueles que ainda gostam de usar aquele navegador que não tem suporte a abas. Que não terá atualização tão cedo. Que não tem mouse gestures. Que é ponto de encontro de vírus e outras pragas de web. Clica neste link aí, e seja feliz.
 
- [1]: http://www.mozilla.org/products/firefox/
- [2]: http://www.spreadfirefox.com/
- [3]: http://br-linux.org/main/noticia-divulgando_o_firefox.html
- [4]: http://www.spreadfirefox.com/?q=node/view/3749
+ [1]: https://www.mozilla.org/products/firefox/
+ [2]: https://www.spreadfirefox.com/
+ [3]: https://br-linux.org/main/noticia-divulgando_o_firefox.html
+ [4]: https://www.spreadfirefox.com/?q=node/view/3749
  [5]: imagens/get.gif
- [6]: http://www.getfirefox.com/
+ [6]: https://www.getfirefox.com/

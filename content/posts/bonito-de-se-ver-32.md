@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356392571
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bonito-de-se-ver-32";s:7:"tinyurl";s:26:"http://tinyurl.com/3w3ovmq";s:4:"isgd";s:19:"http://is.gd/iPCvaa";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/bonito-de-se-ver-32";s:7:"tinyurl";s:26:"https://tinyurl.com/3w3ovmq";s:4:"isgd";s:19:"https://is.gd/iPCvaa";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034837
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://research.history.org/pf/>
-  2. <http://pres.umptuo.us/>
-  3. <http://www.pizzaroyers.com/>
-  4. <http://www.desink.com/index.html>
-  5. <http://www.didats.net/>
+  1. <https://research.history.org/pf/>
+  2. <https://pres.umptuo.us/>
+  3. <https://www.pizzaroyers.com/>
+  4. <https://www.desink.com/index.html>
+  5. <https://www.didats.net/>

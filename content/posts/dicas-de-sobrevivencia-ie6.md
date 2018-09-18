@@ -48,7 +48,7 @@ Isso já acaba com aqueles problemas de alinhamento de elementos em linha, onde 
 
 ### Seletores complexos
 
-Olha só que maravilha, o IE7+ já suporta alguns <a href="http://tableless.com.br/seletores-complexos-do-css/" target="_blank">seletores complexos</a> como os descritos abaixo:
+Olha só que maravilha, o IE7+ já suporta alguns <a href="https://tableless.com.br/seletores-complexos-do-css/" target="_blank">seletores complexos</a> como os descritos abaixo:
 
 <table summary="lista de seletores complexos">
   <tr>
@@ -93,7 +93,7 @@ Olha só que maravilha, o IE7+ já suporta alguns <a href="http://tableless.com.
   
   <tr>
     <td>
-      a[href^=&#8221;http://tableless.com.br/&#8221;]
+      a[href^=&#8221;https://tableless.com.br/&#8221;]
     </td>
     
     <td>
@@ -123,11 +123,11 @@ Olha só que maravilha, o IE7+ já suporta alguns <a href="http://tableless.com.
   
   <tr>
     <td>
-      a[href=&#8221;http://tableless.com.br/&#8221;]
+      a[href=&#8221;https://tableless.com.br/&#8221;]
     </td>
     
     <td>
-      Seleciona o elemento <strong>a</strong> cujo o valor do atributo <strong>href</strong> seja exatamente <b>http://tableless.com.br/</b>.
+      Seleciona o elemento <strong>a</strong> cujo o valor do atributo <strong>href</strong> seja exatamente <b>https://tableless.com.br/</b>.
     </td>
   </tr>
   
@@ -175,4 +175,4 @@ Essas aqui são essências para produzirmos layouts fluidos e responsivos. Funci
 
 ## Tabela de referência
 
-O MSDN guarda uma <a href="http://msdn.microsoft.com/en-us/library/cc351024(v=vs.85).aspx#elementselectors" target="_blank">tabela de compatibilidade muito completa com propriedades do CSS</a> que os IEs suportam ou não. Vale a pena dar uma olhada e entender melhor o que você já pode usar nativamente do CSS em vez de sair escrevendo loucamente soluções JQuery.
+O MSDN guarda uma <a href="https://msdn.microsoft.com/en-us/library/cc351024(v=vs.85).aspx#elementselectors" target="_blank">tabela de compatibilidade muito completa com propriedades do CSS</a> que os IEs suportam ou não. Vale a pena dar uma olhada e entender melhor o que você já pode usar nativamente do CSS em vez de sair escrevendo loucamente soluções JQuery.

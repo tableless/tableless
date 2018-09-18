@@ -7,7 +7,7 @@ url: /digital_web_magazine/
 tweetbackscheck:
   - 1355469257
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/digital_web_magazine";s:7:"tinyurl";s:26:"http://tinyurl.com/3ul3n8l";s:4:"isgd";s:19:"http://is.gd/bEFYsu";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/digital_web_magazine";s:7:"tinyurl";s:26:"https://tinyurl.com/3ul3n8l";s:4:"isgd";s:19:"https://is.gd/bEFYsu";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 538507814
@@ -23,8 +23,8 @@ Saila][2] foi resposável pela implementação do HTML e do CSS. Pessoas como [D
   
 site.
 
- [1]: http://www.digital-web.com/
- [2]: http://www.saila.com/
- [3]: http://www.mezzoblue.com/
- [4]: http://www.zeldman.com/
- [5]: http://www.meyerweb.com/
+ [1]: https://www.digital-web.com/
+ [2]: https://www.saila.com/
+ [3]: https://www.mezzoblue.com/
+ [4]: https://www.zeldman.com/
+ [5]: https://www.meyerweb.com/

@@ -7,7 +7,7 @@ url: /sites-para-dispositivos-moveis-mediatype/
 tweetbackscheck:
   - 1356439238
 shorturls:
-  - 'a:3:{s:9:"permalink";s:64:"http://tableless.com.br/sites-para-dispositivos-moveis-mediatype";s:7:"tinyurl";s:26:"http://tinyurl.com/3wtrl9k";s:4:"isgd";s:19:"http://is.gd/D4Y2kX";}'
+  - 'a:3:{s:9:"permalink";s:64:"https://tableless.com.br/sites-para-dispositivos-moveis-mediatype";s:7:"tinyurl";s:26:"https://tinyurl.com/3wtrl9k";s:4:"isgd";s:19:"https://is.gd/D4Y2kX";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037689
@@ -95,9 +95,9 @@ E atenção&#8230; Não são todos os browsers que tem um sistema tão bom quant
 
 Vamos nos dar mais atenção a esse mercado. Ele está crescendo e a cada ano surgem novas possibilidades. É um ramo que cresce rápido, e não vai demorar muito você ver qualquer pessoa na rua visitando algum site para consultar um mapa ou procurar qualquer tipo de informação. É muito importante que os desenvolvedores atentem para esse grande caminho.
 
- [1]: http://www.uol.com.br/
+ [1]: https://www.uol.com.br/
  [2]: /artigos/sites-mobiles/opera-screen.jpg
  [3]: /artigos/sites-mobiles/opera-handheld-preview.jpg
  [4]: /artigos/sites-mobiles/opera-handheld.jpg
- [5]: http://www.opera.com/products/mobile/dev/multiple/
- [6]: http://www.mozilla.org/projects/minimo/
+ [5]: https://www.opera.com/products/mobile/dev/multiple/
+ [6]: https://www.mozilla.org/projects/minimo/

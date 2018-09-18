@@ -7,7 +7,7 @@ url: /noticias_internet_explorer_7/
 tweetbackscheck:
   - 1356223265
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/noticias_internet_explorer_7";s:7:"tinyurl";s:26:"http://tinyurl.com/43wl7aw";s:4:"isgd";s:19:"http://is.gd/Yp7qPm";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/noticias_internet_explorer_7";s:7:"tinyurl";s:26:"https://tinyurl.com/43wl7aw";s:4:"isgd";s:19:"https://is.gd/Yp7qPm";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032574
@@ -28,6 +28,6 @@ Quem viver, verá.
 
   * [Mais detalhes][3]
 
- [1]: http://veerle.duoh.com/index.php?id=P330
- [2]: http://www.positioniseverything.net/
+ [1]: https://veerle.duoh.com/index.php?id=P330
+ [2]: https://www.positioniseverything.net/
  [3]: https://blogs.msdn.com/ie/archive/2005/04/22/410963.aspx

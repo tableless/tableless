@@ -513,14 +513,14 @@ Você pode fazer aqui o [download dos arquivos][7] com os exemplos criados ou br
 
 A navegação é sempre uma parte fundamental de qualquer layout. Cuidar para que ela apareça da maneira mais otimizada possível, não apenas em aparelhos mobile, mais em dispositivos com o viewport reduzido não é mais um luxo, mas uma necessidade. Existem algumas outras abordagens até mesmo utilizando apenas CSS3. É importante conhecer diversas soluções para adequar as necessidades de cada projeto. Reaproveitando trechos de código como este podemos garantir que o processo de desenvolvimento seja ágil e preciso, sem sacrificar qualidade, semântica e a experiência do usuário.
 
- [1]: http://snippets.me/ "Snippets.me"
- [2]: http://snippi.com/ "Snippi"
- [3]: http://codepen.io/daniauthors: Dani Guerrato
+ [1]: https://snippets.me/ "Snippets.me"
+ [2]: https://snippi.com/ "Snippi"
+ [3]: https://codepen.io/daniauthors: Dani Guerrato
 paid: true/pen/fbgLl "Navegação Responsiva 1"
- [4]: http://codepen.io/daniauthors: Dani Guerrato
+ [4]: https://codepen.io/daniauthors: Dani Guerrato
 paid: true/pen/iAeyx "Navegação Responsiva 2"
- [5]: http://codepen.io/daniauthors: Dani Guerrato
+ [5]: https://codepen.io/daniauthors: Dani Guerrato
 paid: true/pen/EKylp "Navegação Responsiva 3"
- [6]: http://codepen.io/daniauthors: Dani Guerrato
+ [6]: https://codepen.io/daniauthors: Dani Guerrato
 paid: true/pen/wcCEK "Navegação Responsiva 4"
- [7]: http://cl.ly/0E0C3O0j2r2T "Navegação Responsiva - Demo"
+ [7]: https://cl.ly/0E0C3O0j2r2T "Navegação Responsiva - Demo"

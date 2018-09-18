@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356439968
 shorturls:
-  - 'a:3:{s:9:"permalink";s:72:"http://tableless.com.br/graceful-degradation-e-tudo-sobre-acessibilidade";s:7:"tinyurl";s:26:"http://tinyurl.com/3suom8q";s:4:"isgd";s:19:"http://is.gd/uSyvhG";}'
+  - 'a:3:{s:9:"permalink";s:72:"https://tableless.com.br/graceful-degradation-e-tudo-sobre-acessibilidade";s:7:"tinyurl";s:26:"https://tinyurl.com/3suom8q";s:4:"isgd";s:19:"https://is.gd/uSyvhG";}'
 twittercomments:
   - 'a:1:{i:174582502474788864;s:7:"retweet";}'
 tweetcount:
@@ -34,7 +34,7 @@ Graceful Degradation é algo que vemos todos os dias. Trata-se de um método com
 
 > Graceful degradation means that your Web site continues to operate even when viewed with less-than-optimal software in which advanced effects don’t work.
 
-<cite><a href="http://www.digital-web.com/about/contributors/peterpaul_koch">Peter-Paul Koch</a> em <a href="http://www.digital-web.com/articles/fluid_thinking/">Fluid Thinking</a></cite>
+<cite><a href="https://www.digital-web.com/about/contributors/peterpaul_koch">Peter-Paul Koch</a> em <a href="https://www.digital-web.com/articles/fluid_thinking/">Fluid Thinking</a></cite>
 
 Esse assunto é bastante velho, mas que volta à tona nestes dias de [campanhas contra o IE6][1] e outros browsers antigos. Eu mesmo já falei para ignorar totalmente o Internet Explorer 6, mas não é tão fácil assim. Eu posso ignorar aqui no Tableless, onde os usuários são de um nicho específico, mas eu não posso ignorar esse público quando se trata de um produto que é feito para o meu cliente. O cliente do meu cliente utiliza IE6. E ignorá-los significa fazer meu cliente perder dinheiro. Isso está fora de questão.
   
@@ -92,7 +92,7 @@ Graceful Degradation é algo que vemos todos os dias. Trata-se de um método com
 
 > Graceful degradation means that your Web site continues to operate even when viewed with less-than-optimal software in which advanced effects don’t work.
 
-<cite><a href="http://www.digital-web.com/about/contributors/peterpaul_koch">Peter-Paul Koch</a> em <a href="http://www.digital-web.com/articles/fluid_thinking/">Fluid Thinking</a></cite>
+<cite><a href="https://www.digital-web.com/about/contributors/peterpaul_koch">Peter-Paul Koch</a> em <a href="https://www.digital-web.com/articles/fluid_thinking/">Fluid Thinking</a></cite>
 
 Esse assunto é bastante velho, mas que volta à tona nestes dias de [campanhas contra o IE6][1] e outros browsers antigos. Eu mesmo já falei para ignorar totalmente o Internet Explorer 6, mas não é tão fácil assim. Eu posso ignorar aqui no Tableless, onde os usuários são de um nicho específico, mas eu não posso ignorar esse público quando se trata de um produto que é feito para o meu cliente. O cliente do meu cliente utiliza IE6. E ignorá-los significa fazer meu cliente perder dinheiro. Isso está fora de questão.
   
@@ -149,8 +149,8 @@ Para complementar seu estudo:
   * [Graceful Degradation &#8211; CSS3.info][4]
   * [Graceful Degradation Progressive Enhancement][5]
 
- [1]: http://tableless.com.br/a-internet-tem-que-avancar-sem-o-ie6
- [2]: http://en.wikipedia.org/wiki/Fault-tolerant_system
- [3]: http://webtips.dan.info/graceful.html
- [4]: http://www.css3.info/graceful-degradation/
- [5]: http://accessites.org/site/2007/02/graceful-degradation-progressive-enhancement/
+ [1]: https://tableless.com.br/a-internet-tem-que-avancar-sem-o-ie6
+ [2]: https://en.wikipedia.org/wiki/Fault-tolerant_system
+ [3]: https://webtips.dan.info/graceful.html
+ [4]: https://www.css3.info/graceful-degradation/
+ [5]: https://accessites.org/site/2007/02/graceful-degradation-progressive-enhancement/

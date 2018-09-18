@@ -8,7 +8,7 @@ url: /cut-the-rope/
 tweetbackscheck:
   - 1356399447
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/cut-the-rope/";s:7:"tinyurl";s:26:"http://tinyurl.com/6q9xmsf";s:4:"isgd";s:19:"http://is.gd/zkyZA9";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/cut-the-rope/";s:7:"tinyurl";s:26:"https://tinyurl.com/6q9xmsf";s:4:"isgd";s:19:"https://is.gd/zkyZA9";}'
 twittercomments:
   - 'a:29:{i:185098999538257920;s:7:"retweet";i:185090038533599233;s:7:"retweet";i:185079980332560384;s:7:"retweet";i:185069683035217920;s:7:"retweet";i:185069240997511168;s:7:"retweet";i:185068458944372736;s:7:"retweet";i:192621706735656962;s:7:"retweet";i:192614523646132225;s:7:"retweet";i:192359004792553476;s:7:"retweet";i:192313313722515457;s:7:"retweet";i:196288063620653056;s:7:"retweet";i:196011771260182528;s:7:"retweet";i:195939502445953024;s:7:"retweet";i:200601751290789888;s:7:"retweet";i:200598606678458369;s:7:"retweet";i:205720364091850753;s:7:"retweet";i:217012950202982402;s:7:"retweet";i:217003583428763648;s:7:"retweet";i:216963332819791872;s:7:"retweet";i:216957664587022336;s:7:"retweet";i:216955241978015744;s:7:"retweet";i:226016982892425216;s:7:"retweet";i:226013611582164992;s:7:"retweet";i:226013608931360768;s:7:"retweet";i:226013605232013312;s:7:"retweet";i:231452020916240387;s:7:"retweet";i:231450003749601281;s:7:"retweet";i:248905815266836480;s:7:"retweet";i:253193564224368640;s:7:"retweet";}'
 tweetcount:
@@ -45,6 +45,6 @@ Por mim, tanto faz, contanto que continuem o bom trabalho.
 
 E eu diria mais: **Pega essa, Flash!**
 
- [1]: http://www.cuttherope.ie/
- [2]: http://www.cuttherope.ie
- [3]: http://www.cuttherope.ie/dev/
+ [1]: https://www.cuttherope.ie/
+ [2]: https://www.cuttherope.ie
+ [3]: https://www.cuttherope.ie/dev/

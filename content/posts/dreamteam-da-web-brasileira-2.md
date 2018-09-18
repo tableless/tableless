@@ -7,7 +7,7 @@ url: /dreamteam-da-web-brasileira-2/
 tweetbackscheck:
   - 1354928213
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/dreamteam-da-web-brasileira-2";s:7:"tinyurl";s:26:"http://tinyurl.com/43x2a7j";s:4:"isgd";s:19:"http://is.gd/5TDC5m";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/dreamteam-da-web-brasileira-2";s:7:"tinyurl";s:26:"https://tinyurl.com/43x2a7j";s:4:"isgd";s:19:"https://is.gd/5TDC5m";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034388
@@ -23,6 +23,6 @@ Ele tava tão chapado na hora que escreveu, que colocou até meu nome lá. Mas, 
 
 <small>Talvez tenha algumas pessoas que irão criticar fortemente alguns nomes ali. Para esses, por favor, vamos manter a calma e o respeito.</small>
 
- [1]: http://www.elcio.com.br/
- [2]: http://fatorw.com/
- [3]: http://fatorw.com/2006/01/09/a-agencia-web-ideal/
+ [1]: https://www.elcio.com.br/
+ [2]: https://fatorw.com/
+ [3]: https://fatorw.com/2006/01/09/a-agencia-web-ideal/

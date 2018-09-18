@@ -16,7 +16,7 @@ Esta é a segunda e última parte do artigo que explica como fazer um esquema si
 
 A mesma configuração pode ser usada em qualquer servidor GIT e qualquer serviço de hospedagem que tenha acesso via ssh e git instalado
 
-Se você ainda não leu a primeira parte, segue o link: <http://tableless.com.br/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem>
+Se você ainda não leu a primeira parte, segue o link: <https://tableless.com.br/usando-git-para-atualizar-arquivos-no-servidor-de-hospedagem>
 
 No artigo anterior, criamos as chaves SSH para autenticação no Bitbucket, criamos um repositório GIT e manualmente executamos o comando | git pull | para atualizar o nosso repositório.
 
@@ -81,11 +81,11 @@ Acesse seu repositório, no menu lateral esquerdo, clique em &#8220;Configuraç�
   
 Na tela configurações clique em &#8220;Webhooks&#8221; e depois em &#8220;Add Webhook&#8221;
   
-No campo &#8220;Title&#8221; adicione um nome de sua preferência e no campo &#8220;URL&#8221; adicione o endereço para a sua url que executa o comando de atualização, no meu caso a URL é &#8220;http://joaozonta.com.br/artigo\_atualizacao\_arquivos/deploy/index.php&#8221;
+No campo &#8220;Title&#8221; adicione um nome de sua preferência e no campo &#8220;URL&#8221; adicione o endereço para a sua url que executa o comando de atualização, no meu caso a URL é &#8220;https://joaozonta.com.br/artigo\_atualizacao\_arquivos/deploy/index.php&#8221;
   
-Mas não podemos deixar essa URL aberta, porque qualquer um poderia acessar e isso iria executar o comando git pull em nosso servidor, então vamos criar um token de autenticação, junto com a URL eu passo um token que mais tarde vamos validar lá no nosso código, então a URL ficaria assim: http://joaozonta.com.br/artigo\_atualizacao\_arquivos/deploy/index.php?token=d41d8cd98f00b204e9800998ecf8427e
+Mas não podemos deixar essa URL aberta, porque qualquer um poderia acessar e isso iria executar o comando git pull em nosso servidor, então vamos criar um token de autenticação, junto com a URL eu passo um token que mais tarde vamos validar lá no nosso código, então a URL ficaria assim: https://joaozonta.com.br/artigo\_atualizacao\_arquivos/deploy/index.php?token=d41d8cd98f00b204e9800998ecf8427e
 
-_* Use este site para gerar seu token: <http://www.miraclesalad.com/webtools/md5.php>_
+_* Use este site para gerar seu token: <https://www.miraclesalad.com/webtools/md5.php>_
 
 [<img class="alignnone size-full wp-image-51940" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/adicionar_webhook.jpg" alt="adicionar_webhook" width="850" height="439" />][5]
 
@@ -311,7 +311,7 @@ Você pode implementar muitas outras opções para deixar o seu sistema cada vez
 
 Não falei sobre banco de dados nesse artigo, acho que isso pode ser tratado em outro tópico.
 
-Você pode ver o exemplo funcionando em [http://joaozonta.com.br/artigo\_atualizacao\_arquivos/deploy/][7], use a senha &#8220;joaozonta&#8221;
+Você pode ver o exemplo funcionando em [https://joaozonta.com.br/artigo\_atualizacao\_arquivos/deploy/][7], use a senha &#8220;joaozonta&#8221;
 
 *_No exemplo que esta no ar foram comentadas as linhas que fazem o deploy automático, está apenas simulando o funcionamento._
 
@@ -331,6 +331,6 @@ João A. Zonta
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/comando_shell_navegador.jpg
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/adicionar_webhook.jpg
  [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/local_git_servidor.jpg
- [7]: http://joaozonta.com.br/artigo_atualizacao_arquivos/deploy/
- [8]: http://www.joaozonta.com.br
+ [7]: https://joaozonta.com.br/artigo_atualizacao_arquivos/deploy/
+ [8]: https://www.joaozonta.com.br
  [9]: https://twitter.com/joaozontaweb

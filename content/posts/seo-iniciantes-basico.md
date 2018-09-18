@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356453781
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/seo-iniciantes-basico";s:7:"tinyurl";s:26:"http://tinyurl.com/3gyyccx";s:4:"isgd";s:19:"http://is.gd/XsAra3";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/seo-iniciantes-basico";s:7:"tinyurl";s:26:"https://tinyurl.com/3gyyccx";s:4:"isgd";s:19:"https://is.gd/XsAra3";}'
 twittercomments:
   - 'a:16:{i:10415472725991424;s:6:"136248";i:10632497654145024;s:6:"136254";i:10717828126609408;s:7:"retweet";i:10415994338025472;s:7:"retweet";i:144743985095778304;s:7:"retweet";i:154247924954562560;s:7:"retweet";i:154243825626382337;s:7:"retweet";i:154241606063624192;s:7:"retweet";i:154240323407712256;s:7:"retweet";i:154240239739736064;s:7:"retweet";i:154239987964055552;s:7:"retweet";i:154239908393914369;s:7:"retweet";i:154239385167085568;s:7:"retweet";i:154239321988276225;s:7:"retweet";i:170114014184083457;s:7:"retweet";i:170107546961575936;s:7:"retweet";}'
 tweetcount:
@@ -41,9 +41,9 @@ Prefira sempre URLs amigáveis. São fáceis de lembrar e o Google dá pontos pa
 
 Essas são algumas ferramentas que podem lhe ajudar:
 
-  * <http://www.pagerank.net/>
-  * <http://www.seochat.com/seo-tools/>
-  * <http://tools.seobook.com/>
+  * <https://www.pagerank.net/>
+  * <https://www.seochat.com/seo-tools/>
+  * <https://tools.seobook.com/>
 
 ### Estudo de palavras-chaves e termos importantes
 
@@ -67,5 +67,5 @@ O designer que criou o layout pode prever lugares para Títulos, sub-títulos e 
 
 Estas são apenas alguns passos simples que você mesmo pode controlar e monitorar. Como disse no começo, deixar tudo isso em ordem não quer dizer que você irá ficar em primeiro, seu concorrente pode ter feito isso antes de você e pode ter feito melhor. Por isso, há todo um trabalho que você precisa fazer para que os resultados sejam sempre mais efetivos e duradouros.
 
- [1]: http://www.google.com/webmasters/tools/
+ [1]: https://www.google.com/webmasters/tools/
  [2]: https://adwords.google.com/select/KeywordToolExternal

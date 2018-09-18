@@ -52,4 +52,4 @@ O objetivo geral do jogo é facilitar a discussão sobre a estrutura organizacio
 
 Digam-me quais foram as experiências quando aplicarem o jogo.
 
- [1]: http://www.management30.com/product/meddlers/
+ [1]: https://www.management30.com/product/meddlers/

@@ -16,7 +16,7 @@ tags:
 ---
 ## **O que é um pré-processador CSS?**
 
-Como o nome ja diz, é uma linguagem que precisa ser pré-processada por um _parser_ para assim gerar o arquivo de extensão **.css** que será renderizado pelo browser. Atualmente há vários pré-processadores que você pode utilizar para facilitar a codificação e reaproveitamento de código, você pode estar utilizando SASS, LESS e Stylus que são os mais conhecidos no mercado. A diferença do <a href="http://stylus-lang.com/" target="_blank" rel="nofollow">Stylus</a> para os outros pré-processadores que estão sendo utilizados no mercado é que ele já é baseado em <a href="https://nodejs.org/en/" target="_blank" rel="nofollow">NodeJS</a> e não em ruby. Por conta disso não há necessidade de uma tecnologia intermediária em seu workflow para processá-lo.
+Como o nome ja diz, é uma linguagem que precisa ser pré-processada por um _parser_ para assim gerar o arquivo de extensão **.css** que será renderizado pelo browser. Atualmente há vários pré-processadores que você pode utilizar para facilitar a codificação e reaproveitamento de código, você pode estar utilizando SASS, LESS e Stylus que são os mais conhecidos no mercado. A diferença do <a href="https://stylus-lang.com/" target="_blank" rel="nofollow">Stylus</a> para os outros pré-processadores que estão sendo utilizados no mercado é que ele já é baseado em <a href="https://nodejs.org/en/" target="_blank" rel="nofollow">NodeJS</a> e não em ruby. Por conta disso não há necessidade de uma tecnologia intermediária em seu workflow para processá-lo.
 
 ## Vamos começar!
 
@@ -84,10 +84,10 @@ Uma vez que você compreendeu a ideia dos diretórios criados e está com o comp
 **all.styl (Import de todos os arquivos do diretório)**
 
 <pre>// Import all from base
-&lt;a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow"&gt;@import&lt;/a&gt; ‘reset.styl’
-&lt;a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow"&gt;@import&lt;/a&gt; ‘colors.styl’
-&lt;a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow"&gt;@import&lt;/a&gt; ‘typography.styl’
-&lt;a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow"&gt;@import&lt;/a&gt; ‘variables.styl’</pre>
+&lt;a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow"&gt;@import&lt;/a&gt; ‘reset.styl’
+&lt;a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow"&gt;@import&lt;/a&gt; ‘colors.styl’
+&lt;a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow"&gt;@import&lt;/a&gt; ‘typography.styl’
+&lt;a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow"&gt;@import&lt;/a&gt; ‘variables.styl’</pre>
 
 **colors.styl (Definições de cores do projeto)**
 
@@ -162,8 +162,8 @@ btn-info-color = lighter
 **all.styl**
 
 <pre>// Import all from components
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘buttons.styl’
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘forms.styl’</pre>
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘buttons.styl’
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘forms.styl’</pre>
 
 **buttons.styl**
 
@@ -247,15 +247,15 @@ btn-info-color = lighter
 **all.styl (Import de todos os arquivos do diretório)**
 
 <pre>// Import all from helpers
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘functions.styl’
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘helpers.styl’
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘mixins.styl’</pre>
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘functions.styl’
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘helpers.styl’
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘mixins.styl’</pre>
 
 **functions.styl**
 
 <pre>make-media-queries-breakpoints()
  for screen-width in screen-desktop-large screen-desktop screen-tablet screen-mobile
- <a title="Twitter profile for @media" href="http://twitter.com/media" target="_blank" rel="nofollow">@media</a> only screen and (max-width: screen-width)
+ <a title="Twitter profile for @media" href="https://twitter.com/media" target="_blank" rel="nofollow">@media</a> only screen and (max-width: screen-width)
  if (screen-width == screen-desktop-large)
  .container
  width container-desktop
@@ -394,8 +394,8 @@ container-mobile = 100%
 &:after
  clear both
 .columns
- <a title="Twitter profile for @extend" href="http://twitter.com/extend" target="_blank" rel="nofollow">@extend</a> .relative
- <a title="Twitter profile for @extend" href="http://twitter.com/extend" target="_blank" rel="nofollow">@extend</a> .pull-left
+ <a title="Twitter profile for @extend" href="https://twitter.com/extend" target="_blank" rel="nofollow">@extend</a> .relative
+ <a title="Twitter profile for @extend" href="https://twitter.com/extend" target="_blank" rel="nofollow">@extend</a> .pull-left
  padding 0 (grid-gutter-width / 2)
 make-media-queries-breakpoints()
 make-columns()</pre>
@@ -438,17 +438,17 @@ a
 
 Neste arquivo você deve efetuar todas as importações necessárias do seu projeto. Em nosso tutorial o arquivo ficou assim:
 
-<pre><a title="Twitter profile for @charset" href="http://twitter.com/charset" target="_blank" rel="nofollow">@charset</a> “UTF-8”
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘base/all.styl’
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘helpers/all.styl’
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘components/all.styl’
+<pre><a title="Twitter profile for @charset" href="https://twitter.com/charset" target="_blank" rel="nofollow">@charset</a> “UTF-8”
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘base/all.styl’
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘helpers/all.styl’
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘components/all.styl’
 // Imports from layout
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘layout/grid.styl’
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘layout/header.styl’
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘layout/footer.styl’
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘layout/login.styl’
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘layout/grid.styl’
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘layout/header.styl’
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘layout/footer.styl’
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘layout/login.styl’
 // Import themes
-<a title="Twitter profile for @import" href="http://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘themes/default.styl’</pre>
+<a title="Twitter profile for @import" href="https://twitter.com/import" target="_blank" rel="nofollow">@import</a> ‘themes/default.styl’</pre>
 
 Por fim, crie um arquivo **index.html** na raíz de seu projeto com o seguinte código:
 
@@ -491,9 +491,9 @@ Por fim, crie um arquivo **index.html** na raíz de seu projeto com o seguinte c
 &lt;footer class=”footer text-center”&gt;
  &lt;div class=”container”&gt;
  &lt;p&gt;
- Feito com &lt;i class=”fa fa-heart”&gt;&lt;/i&gt; por &lt;a href=”<a href="http://helderburato.com/" target="_blank" rel="nofollow">http://helderburato.com/</a>”&gt;Helder Burato Berto&lt;/a&gt;
+ Feito com &lt;i class=”fa fa-heart”&gt;&lt;/i&gt; por &lt;a href=”<a href="https://helderburato.com/" target="_blank" rel="nofollow">https://helderburato.com/</a>”&gt;Helder Burato Berto&lt;/a&gt;
  &lt;/p&gt;
-&lt;a class=”in-block” href=”<a href="http://uilab.com.br/" target="_blank" rel="nofollow">http://uilab.com.br/</a>"&gt;
+&lt;a class=”in-block” href=”<a href="https://uilab.com.br/" target="_blank" rel="nofollow">https://uilab.com.br/</a>"&gt;
  &lt;img class=”img-responsive” src=”assets/images/uilab-logo.png” alt=””&gt;
  &lt;/a&gt;
  &lt;/div&gt;
@@ -542,7 +542,7 @@ Observe que foi gerado o código ja com os prefixos para outros browsers, facili
 
 <pre>make-media-queries-breakpoints()
  for screen-width in screen-desktop-large screen-desktop screen-tablet screen-mobile
- <a title="Twitter profile for @media" href="http://twitter.com/media" target="_blank" rel="nofollow">@media</a> only screen and (max-width: screen-width)
+ <a title="Twitter profile for @media" href="https://twitter.com/media" target="_blank" rel="nofollow">@media</a> only screen and (max-width: screen-width)
  if (screen-width == screen-desktop-large)
  .container
  width container-desktop
@@ -558,17 +558,17 @@ Nós utilizamos o FOR para percorrer as variáveis declaradas posteriormente e I
 
 O código acima após a compilação:
 
-<pre><a title="Twitter profile for @media" href="http://twitter.com/media" target="_blank" rel="nofollow">@media</a> only screen and (max-width: 1200px) {
+<pre><a title="Twitter profile for @media" href="https://twitter.com/media" target="_blank" rel="nofollow">@media</a> only screen and (max-width: 1200px) {
  .container {
  width: 1170px;
  }
 }
-<a title="Twitter profile for @media" href="http://twitter.com/media" target="_blank" rel="nofollow">@media</a> only screen and (max-width: 992px) {
+<a title="Twitter profile for @media" href="https://twitter.com/media" target="_blank" rel="nofollow">@media</a> only screen and (max-width: 992px) {
  .container {
  width: 720px;
  }
 }
-<a title="Twitter profile for @media" href="http://twitter.com/media" target="_blank" rel="nofollow">@media</a> only screen and (max-width: 768px) {
+<a title="Twitter profile for @media" href="https://twitter.com/media" target="_blank" rel="nofollow">@media</a> only screen and (max-width: 768px) {
  .container,
  .columns {
  width: 100%;

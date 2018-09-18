@@ -8,7 +8,7 @@ url: /criando-um-plugin-javascript-sem-jquery/
 tweetbackscheck:
   - 1356456785
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=7193";s:7:"tinyurl";s:26:"http://tinyurl.com/axg3nwp";s:4:"isgd";s:19:"http://is.gd/93ak44";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7193";s:7:"tinyurl";s:26:"https://tinyurl.com/axg3nwp";s:4:"isgd";s:19:"https://is.gd/93ak44";}'
 twittercomments:
   - 'a:0:{}'
 categories:
@@ -305,7 +305,7 @@ Finalizando, algumas melhorias que ficam de dever de casa para vocês:
 
 ## Código completo do plugin
 
-<a href="http://jsfiddle.net/jnQJu/" target="_blank">Nosso plugin em ação no jsFiddle</a>
+<a href="https://jsfiddle.net/jnQJu/" target="_blank">Nosso plugin em ação no jsFiddle</a>
 
 <pre class="lang-javascript">/*jslint browser:true */
 'use strict';
@@ -469,6 +469,6 @@ JSliderStage.prototype.setNavigationState = function (page) {
     }
 };</pre>
 
- [1]: http://tableless.com.br/qualidade-codigo-javascript/ "Assegurando a qualidade do seu código JavaScript"
- [2]: http://tableless.com.br/anatomia-de-um-plugin-jquery/ "Anatomia de um plugin jQuery"
- [3]: http://tableless.com.br/testando-seu-codigo-jquery-com-jasmine-parte-1/ "Testando seu código jQuery com Jasmine – Parte 1"
+ [1]: https://tableless.com.br/qualidade-codigo-javascript/ "Assegurando a qualidade do seu código JavaScript"
+ [2]: https://tableless.com.br/anatomia-de-um-plugin-jquery/ "Anatomia de um plugin jQuery"
+ [3]: https://tableless.com.br/testando-seu-codigo-jquery-com-jasmine-parte-1/ "Testando seu código jQuery com Jasmine – Parte 1"

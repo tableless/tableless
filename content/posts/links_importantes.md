@@ -7,7 +7,7 @@ url: /links_importantes/
 tweetbackscheck:
   - 1356126435
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/links_importantes";s:7:"tinyurl";s:26:"http://tinyurl.com/439vl9w";s:4:"isgd";s:19:"http://is.gd/vWtdNh";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/links_importantes";s:7:"tinyurl";s:26:"https://tinyurl.com/439vl9w";s:4:"isgd";s:19:"https://is.gd/vWtdNh";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031558
@@ -27,7 +27,7 @@ Dá para aprender um bocado de coisa&#8230; Alguns já foram postados aqui, mas 
               
 [SimpleBits][4]
 
- [1]: http://css.maxdesign.com.au/index.htm
- [2]: http://www.inknoise.com/experimental/layoutomatic.php
- [3]: http://www.copysense.co.uk/border.htm
- [4]: http://www.simplebits.com/
+ [1]: https://css.maxdesign.com.au/index.htm
+ [2]: https://www.inknoise.com/experimental/layoutomatic.php
+ [3]: https://www.copysense.co.uk/border.htm
+ [4]: https://www.simplebits.com/

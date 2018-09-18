@@ -75,7 +75,7 @@ Se você deseja pegar alguma outra informação do arquivo, a variável $_FILES 
 
 ## Upload Múltiplo
 
-Para o segundo exemplo faremos o upload de múltiplas imagens. Porém, nesse exemplo utilizaremos a classe <a href="http://wideimage.sourceforge.net/" title="WideImage" target="_blank">WideImage</a>, para tratarmos as imagens que foram enviadas.
+Para o segundo exemplo faremos o upload de múltiplas imagens. Porém, nesse exemplo utilizaremos a classe <a href="https://wideimage.sourceforge.net/" title="WideImage" target="_blank">WideImage</a>, para tratarmos as imagens que foram enviadas.
 
 O segredo do múltiplo upload é a adição do atributo **multiple** à tag do input type=&#8221;file&#8221; e adicionar **[ ]** ao name da tag.
 
@@ -131,7 +131,7 @@ Para fazer a consistência que iremos salvar apenas imagens, criei uma array de 
 
 ## Upload com AJAX
 
-Neste último exemplo, vamos utilizar o mesmo código PHP de cima para salvar as imagens, porém, com alguns truques HTML e utilizando o <a href="http://malsup.com/jquery/form/" title="Jquery Form Plugin" target="_blank">Jquery Form Plugin</a> para fazer o upload via AJAX.
+Neste último exemplo, vamos utilizar o mesmo código PHP de cima para salvar as imagens, porém, com alguns truques HTML e utilizando o <a href="https://malsup.com/jquery/form/" title="Jquery Form Plugin" target="_blank">Jquery Form Plugin</a> para fazer o upload via AJAX.
 
 Não repare na utilização de css inline, ou javascript incorporado ao exemplo, procurei o máximo de agilidade possível e foco no ajax.
 

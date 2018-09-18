@@ -5,11 +5,11 @@ type: post
 date: 2005-10-25
 url: /um_novo_conceito_browser/
 enclosure:
-  - http://www.digitalminds.com.br/podcasts/digitalmindspodcast14.mp3
+  - https://www.digitalminds.com.br/podcasts/digitalmindspodcast14.mp3
 tweetbackscheck:
   - 1354895415
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/um_novo_conceito_browser";s:7:"tinyurl";s:26:"http://tinyurl.com/3b2yg93";s:4:"isgd";s:19:"http://is.gd/AsRfml";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/um_novo_conceito_browser";s:7:"tinyurl";s:26:"https://tinyurl.com/3b2yg93";s:4:"isgd";s:19:"https://is.gd/AsRfml";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033767
@@ -37,14 +37,14 @@ Mas fique de olho. Um novo caminho está se abrindo, e vai ser interessante tril
 
 Se quiser ler mais, a [Simone][8] escreveu algo [sobre o Flock][9] também, vale dar uma olhada. o [Danilo Medeiros][10] também falou um pouco sobre o assunto em seu [Podcast #14][11]. (se não quiser ouvir todo o podcast, ouça apenas o trecho do comentário, começa aos 35 minutos. Aconselho ouvi-lo todo, vale a pena.)
 
- [1]: http://www.flock.com
- [2]: http://www.getfirefox.com/
- [3]: http://www.flickr.com/
- [4]: http://del.icio.us/
- [5]: http://www.wordpress.com/
- [6]: http://brunotorres.net/
- [7]: http://brunotorres.net/2005/10/21/flock-ate-agora-nada-empolgante
- [8]: http://simonevb.com/blog/
- [9]: http://simonevb.com/blog/2005/10/ploc_nao_flock.htm
- [10]: http://www.digitalminds.com.br/
- [11]: http://www.digitalminds.com.br/podcasts/digitalmindspodcast14.mp3
+ [1]: https://www.flock.com
+ [2]: https://www.getfirefox.com/
+ [3]: https://www.flickr.com/
+ [4]: https://del.icio.us/
+ [5]: https://www.wordpress.com/
+ [6]: https://brunotorres.net/
+ [7]: https://brunotorres.net/2005/10/21/flock-ate-agora-nada-empolgante
+ [8]: https://simonevb.com/blog/
+ [9]: https://simonevb.com/blog/2005/10/ploc_nao_flock.htm
+ [10]: https://www.digitalminds.com.br/
+ [11]: https://www.digitalminds.com.br/podcasts/digitalmindspodcast14.mp3

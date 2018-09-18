@@ -41,8 +41,8 @@ Todos os exemplos que citei foram para reforçar a teoria de desenvolvimento com
 
 Essas comparações podem parecer um pouco absurdas, mas mostram o quanto o software sempre esteve mais relacionado com a máquina do que com o usuário. Enquanto tratarmos o usuário como um operador de um sistema burocrático, teremos que escrever enormes documentações sobre como operar esse sistema, que deve ser mais intuitivo e menos complicado como eram há 20 anos atrás. E isso é o nosso dever. Transformar a experiência do usuário em nossas páginas o foco principal do desenvolvimento web.
 
- [1]: http://pt.wikipedia.org/wiki/Monitor_de_v%C3%ADdeo#CRT
- [2]: http://www.youtube.com/watch?feature=player_embedded&v=WIfKfzGBvYc
- [3]: http://www.hanselman.com/blog/TheFloppyDiskMeansSaveAnd14OtherOldPeopleIconsThatDontMakeSenseAnymore.aspx
+ [1]: https://pt.wikipedia.org/wiki/Monitor_de_v%C3%ADdeo#CRT
+ [2]: https://www.youtube.com/watch?feature=player_embedded&v=WIfKfzGBvYc
+ [3]: https://www.hanselman.com/blog/TheFloppyDiskMeansSaveAnd14OtherOldPeopleIconsThatDontMakeSenseAnymore.aspx
  [4]: https://www.youtube.com/watch?v=6BTCoT8ajbI
- [5]: http://web.archive.org/web/20000620030315/http://www.cade.com.br/
+ [5]: https://web.archive.org/web/20000620030315/https://www.cade.com.br/

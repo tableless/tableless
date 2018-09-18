@@ -7,7 +7,7 @@ url: /se-virando-pra-testar-parte-1-screenshots/
 tweetbackscheck:
   - 1356166126
 shorturls:
-  - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/se-virando-pra-testar-parte-1-screenshots";s:7:"tinyurl";s:26:"http://tinyurl.com/4xbc3a5";s:4:"isgd";s:19:"http://is.gd/3w2hBq";}'
+  - 'a:3:{s:9:"permalink";s:65:"https://tableless.com.br/se-virando-pra-testar-parte-1-screenshots";s:7:"tinyurl";s:26:"https://tinyurl.com/4xbc3a5";s:4:"isgd";s:19:"https://is.gd/3w2hBq";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036293
@@ -64,7 +64,7 @@ Se você estiver trabalhando como freela ou estiver em uma empresa que não tenh
 
 ### Browsershots
 
-<http://browsershots.org/>
+<https://browsershots.org/>
 
 Este é grátis. Tem menos opções que o [Browsercam][1] e é um serviço é mais simples. Mas se você estiver com pressa e seu teste não for muito cabeludo, ele pode te ajudar. O site conta com uma versão para português.
 
@@ -78,5 +78,5 @@ Como ainda é um produto Alpha, não podemos esperar tantas coisas quanto o Brow
 
 Um ponto ruim nestes serviços, principalmente no Browsercam, é que se você for fazer um grande volume de screenshots, você pode ficar muito, mas muito tempo esperando. Era isso que me fazia preferir outras formas de testar. Mas se isso não for problema para você (vai ser, uma hora ou outra), manda bala, vale a pena.
 
- [1]: http://www.browsercam.com/
- [2]: http://browsershots.org/screenshots/
+ [1]: https://www.browsercam.com/
+ [2]: https://browsershots.org/screenshots/

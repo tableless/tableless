@@ -17,7 +17,7 @@ tags:
 ---
 Quantas vezes na sua vida você já se deparou com um código hexadecimal? A gente sabe que seu Command-C tá em um relacionamento sério com ele. Mas afinal, como que um punhado de letras e números representam essa tralharada de cores (ou o que quer que seja) que nós vemos por aí nos dispositivos digitais?
 
-Existe um artigo ótimo no Tableless explicando tudo o que você precisa saber sobre cor <a href="http://tableless.com.br/sobre-cor-e-webdesign/" target="_blank">aqui</a>. Sério, vai lá, mas depois volta aqui.
+Existe um artigo ótimo no Tableless explicando tudo o que você precisa saber sobre cor <a href="https://tableless.com.br/sobre-cor-e-webdesign/" target="_blank">aqui</a>. Sério, vai lá, mas depois volta aqui.
 
 O hexadecimal é um sistema com base 16. Não ajudou em nada? Então vamos voltar para os tempos de escola e relembrar como funciona o sistema decimal que utilizamos todos os dias. Caso você se perguntou “mas por que o decimal?”. Porque nós temos dez dedos e fica relativamente fácil de realizar os cálculos. Foi o que os hindus disseram lá pelo ano 400 AC.
 

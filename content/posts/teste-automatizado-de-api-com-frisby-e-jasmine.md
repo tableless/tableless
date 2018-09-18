@@ -34,7 +34,7 @@ Para o uso devemos instanciar seu módulo:
 
 No seu uso mais básico, passamos como parâmetro a url a ser chamada e a resposta esperada.
 
-<pre class="lang-bash">frisby.create('Teste BDD').get('http://www.teste.com/pessoa/1').expectStatus(200).toss();</pre>
+<pre class="lang-bash">frisby.create('Teste BDD').get('https://www.teste.com/pessoa/1').expectStatus(200).toss();</pre>
 
 Com o comando acima, estamos testando a API sendo que seu sucesso depende do código de retorno HTTP 200.
 
@@ -56,7 +56,7 @@ O framework oferece alguns recursos interessantes e de fácil implementação 
 
 1) Testar se a resposta HTTP contém um cabeçalho específico.
 
-<pre class="lang-javascript">frisby.create('Teste BDD').get('http://www.teste.com/pessoa/1')
+<pre class="lang-javascript">frisby.create('Teste BDD').get('https://www.teste.com/pessoa/1')
    .expectStatus(200)
    .expectHeaderContains('Content-Type', 'json')
    .toss();
@@ -65,7 +65,7 @@ O framework oferece alguns recursos interessantes e de fácil implementação 
 
 2) Testar se a resposta HTTP contém um objeto com um conteúdo específico.
 
-<pre class="lang-javascript">frisby.create('Teste BDD').get('http://www.teste.com/pessoa/1')
+<pre class="lang-javascript">frisby.create('Teste BDD').get('https://www.teste.com/pessoa/1')
    .expectStatus(200)
    .expectHeaderContains('Content-Type', 'json')
    .expectJSON({codigo:1,nome:"fulano"})
@@ -73,7 +73,7 @@ O framework oferece alguns recursos interessantes e de fácil implementação 
 
 3) Testar se a resposta HTTP contém um objeto com um tipo específico.
 
-<pre class="lang-javascript">frisby.create('Teste BDD').get('http://www.teste.com/pessoa/1')
+<pre class="lang-javascript">frisby.create('Teste BDD').get('https://www.teste.com/pessoa/1')
    .expectStatus(200)
    .expectHeaderContains('Content-Type', 'json')
    .expectJSONTypes({codigo: Number})
@@ -81,12 +81,12 @@ O framework oferece alguns recursos interessantes e de fácil implementação 
 
 4) Realizar um teste que depende da conclusão de um teste anterior.
 
-<pre class="lang-javascript">frisby.create('Teste BDD').get('http://www.teste.com/pessoa/1')
+<pre class="lang-javascript">frisby.create('Teste BDD').get('https://www.teste.com/pessoa/1')
    .expectStatus(200)
    .expectHeaderContains('Content-Type', 'json')
    .expectJSONTypes({codigo: Number})
    .after(function(){
-      frisby.create('Teste BDD').delete('http://www.teste.com/pessoa/1').expectStatus(200).toss();
+      frisby.create('Teste BDD').delete('https://www.teste.com/pessoa/1').expectStatus(200).toss();
    })
    .toss();</pre>
 
@@ -94,7 +94,7 @@ No teste acima, caso tenha sucesso ao obter informações de uma pessoa será f
 
 #### Integração com GULP(Projetos em nodejs)
 
-Quando a aplicação backend é feita em nodejs é interessante configurar o gulpjs(<http://gulpjs.com/>) para o gerenciamento dos testes. No exemplo abaixo o gulp é configurado para iniciar a aplicação backend, disparar os testes e finalizar a aplicação:
+Quando a aplicação backend é feita em nodejs é interessante configurar o gulpjs(<https://gulpjs.com/>) para o gerenciamento dos testes. No exemplo abaixo o gulp é configurado para iniciar a aplicação backend, disparar os testes e finalizar a aplicação:
 
 <pre class="lang-javascript">gulp.task('spec', function() {
    var jasmine = spawn('jasmine-node', ['spec/','--junitreport','--output','specTestReportJasmine']);
@@ -117,4 +117,4 @@ Quando a aplicação backend é feita em nodejs é interessante configurar o gul
    });
 });</pre>
 
- [1]: http://frisbyjs.com/
+ [1]: https://frisbyjs.com/

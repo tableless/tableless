@@ -7,7 +7,7 @@ url: /site-em-ajax-site-em-flash-pergunta-ruim/
 tweetbackscheck:
   - 1356449607
 shorturls:
-  - 'a:3:{s:9:"permalink";s:64:"http://tableless.com.br/site-em-ajax-site-em-flash-pergunta-ruim";s:7:"tinyurl";s:26:"http://tinyurl.com/3hj4mwc";s:4:"isgd";s:19:"http://is.gd/lHVTUZ";}'
+  - 'a:3:{s:9:"permalink";s:64:"https://tableless.com.br/site-em-ajax-site-em-flash-pergunta-ruim";s:7:"tinyurl";s:26:"https://tinyurl.com/3hj4mwc";s:4:"isgd";s:19:"https://is.gd/lHVTUZ";}'
 twittercomments:
   - 'a:20:{i:19484621888552960;s:7:"retweet";i:19458907562844160;s:7:"retweet";i:184681464380665856;s:7:"retweet";i:184659373975552000;s:7:"retweet";i:184657996666769411;s:7:"retweet";i:184657903146385410;s:7:"retweet";i:184656484913774592;s:7:"retweet";i:184656240436183041;s:7:"retweet";i:184655466985570307;s:7:"retweet";i:195591864580190209;s:7:"retweet";i:202956514208649217;s:7:"retweet";i:202896179426631682;s:7:"retweet";i:202861146380840960;s:7:"retweet";i:202858430036328449;s:7:"retweet";i:217332825576308737;s:7:"retweet";i:230752034897412096;s:7:"retweet";i:230741654624169985;s:7:"retweet";i:230741081686409216;s:7:"retweet";i:256110919665459200;s:7:"retweet";i:256108193036517376;s:7:"retweet";}'
 tweetcount:
@@ -39,9 +39,9 @@ Para ajudar meu amigo, vou publicar aqui algumas coisas que levo em consideraç�
 
 Logo, meu conselho é: não faça sites &#8220;em Ajax&#8221;, nem sites &#8220;em Flash&#8221;. Faça sites com os padrões web, e use Ajax ou Flash onde isso for realmente ajudar seus usuários.
 
- [1]: http://www.youtube.com
- [2]: http://video.google.com/
- [3]: http://www.charges.com.br
- [4]: http://maps.google.com/
- [5]: http://tableless.com.br/artigos/ajaxdemo/ "Tutorial de Ajax"
- [6]: http://tableless.com.br/artigos/ajaxdemo2/ "Tutorial de Ajax, parte 2"
+ [1]: https://www.youtube.com
+ [2]: https://video.google.com/
+ [3]: https://www.charges.com.br
+ [4]: https://maps.google.com/
+ [5]: https://tableless.com.br/artigos/ajaxdemo/ "Tutorial de Ajax"
+ [6]: https://tableless.com.br/artigos/ajaxdemo2/ "Tutorial de Ajax, parte 2"

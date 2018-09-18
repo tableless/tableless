@@ -50,10 +50,10 @@ O prêmio é encerrado com uma bela premiação. Além de participar da cerimôn
 
 O prêmio tem uma função muito nobre: Aumentar a preocupação com a acessibilidade na Web nas mais diversas áreas. Nós, como desenvolvedores, temos um papel fundamental na mudança desse cenário de uma web cheia de barreiras para uma que seja inclusiva.
 
-As [inscrições são gratuitas e estão abertas][5] até o mês de maio. Maiores informações, como categorias, premiação e regulamento podem ser acessadas na página do prêmio em <http://premio.ceweb.br/>.
+As [inscrições são gratuitas e estão abertas][5] até o mês de maio. Maiores informações, como categorias, premiação e regulamento podem ser acessadas na página do prêmio em <https://premio.ceweb.br/>.
 
- [1]: http://premio.ceweb.br/
+ [1]: https://premio.ceweb.br/
  [2]: https://www.w3.org/Translations/WCAG20-pt-br/
  [3]: https://www.w3.org/TR/wai-aria/
- [4]: http://tableless.com.br/?s=acessibilidade
- [5]: http://premio.ceweb.br/inscricoes/
+ [4]: https://tableless.com.br/?s=acessibilidade
+ [5]: https://premio.ceweb.br/inscricoes/

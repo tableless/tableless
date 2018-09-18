@@ -7,7 +7,7 @@ url: /votacao_vista_esta_camisa/
 tweetbackscheck:
   - 1354895977
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/votacao_vista_esta_camisa";s:7:"tinyurl";s:26:"http://tinyurl.com/3zjk6rg";s:4:"isgd";s:19:"http://is.gd/1GQyg7";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/votacao_vista_esta_camisa";s:7:"tinyurl";s:26:"https://tinyurl.com/3zjk6rg";s:4:"isgd";s:19:"https://is.gd/1GQyg7";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032680
@@ -34,6 +34,6 @@ Abaixo, vocês podem conferir as camisas:
 
 Vencedor Logo Tableless. Em segundo lugar Che e em Terceiro, iChing.
 
- [1]: http://tableless.com.br/cheguevara.gif
- [2]: http://tableless.com.br/iching.gif
- [3]: http://tableless.com.br/logo.gif
+ [1]: https://tableless.com.br/cheguevara.gif
+ [2]: https://tableless.com.br/iching.gif
+ [3]: https://tableless.com.br/logo.gif

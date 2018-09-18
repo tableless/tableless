@@ -20,7 +20,7 @@ tags:
 ---
 ## O que é Node.js?
 
-<a href="http://www.nodejs.org/" rel="noreferrer">Node.js</a> é uma plataforma para desenvolvimento de aplicações _server-side_ baseadas em rede utilizando **JavaScript** e o **V8 JavaScript Engine**, ou seja, com **Node.js** podemos criar uma variedade de aplicações _Web_ utilizando apenas código em **JavaScript**.
+<a href="https://www.nodejs.org/" rel="noreferrer">Node.js</a> é uma plataforma para desenvolvimento de aplicações _server-side_ baseadas em rede utilizando **JavaScript** e o **V8 JavaScript Engine**, ou seja, com **Node.js** podemos criar uma variedade de aplicações _Web_ utilizando apenas código em **JavaScript**.
 
 Em uma primeira análise essa informação pode não parecer tão interessante, uma vez que existem diversas outras maneiras em que esses tipos de serviços podem ser implementados. Mas se pensarmos um pouco mais sobre as demandas de aplicações na internet e o modo em que o código em **JavaScript** pode ser estruturado, vamos nos deparar com uma gama de novas possibilidades para desenvolvimento _Web_, e provavelmente nos juntar à crescente comunidade que tem adotado essa plataforma.
 
@@ -32,7 +32,7 @@ Uma importante diferença está no fato do Node ser _single threaded_. Embora is
 
 ## Instalando o Node.js
 
-A instalação do **Node.js** é extremamente simples graças ao fato de o **V8 JavaScript Engine** ser completamente multi-plataforma, tudo que você precisa fazer é visitar a <a href="http://www.nodejs.org/" rel="noreferrer">página oficial do Node.js</a>, clicar em &#8220;INSTALL&#8221; e seguir as instruções.
+A instalação do **Node.js** é extremamente simples graças ao fato de o **V8 JavaScript Engine** ser completamente multi-plataforma, tudo que você precisa fazer é visitar a <a href="https://www.nodejs.org/" rel="noreferrer">página oficial do Node.js</a>, clicar em &#8220;INSTALL&#8221; e seguir as instruções.
 
 <img style="width: 100%" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/07/node_2.png" alt="img node 2" />
 
@@ -67,7 +67,7 @@ Para executar o seu programa Node basta o seguinte comando no seu terminal:
 
 Para testar seu servidor você pode acessar _localhost:3000_ no seu navegador ou utilizar linha de comando com o comando `curl` (em uma nova instância do terminal) como mostrado a seguir:
 
-<pre class="lang-plain">$ curl http://0.0.0.0:3000/
+<pre class="lang-plain">$ curl https://0.0.0.0:3000/
 &gt; Olá mundo!
 </pre>
 
@@ -152,6 +152,6 @@ Observe que no nosso primeiro exemplo com **Node.js** tanto a função `on` quan
 
 ## Conclusão
 
-Espero que este tutorial tenha sido o suficiente para provocar o seu interesse em aprender mais sobre **Node.js**. Portanto visite a <a href="http://nodejs.org/api/" rel="noreferrer">documentação do Node.js</a> para obter mais informações e exemplos de aplicações dessa plataforma e também a página da <a href="https://www.joyent.com" rel="noreferrer">Joyent</a>, patrocinadora oficial do projeto.
+Espero que este tutorial tenha sido o suficiente para provocar o seu interesse em aprender mais sobre **Node.js**. Portanto visite a <a href="https://nodejs.org/api/" rel="noreferrer">documentação do Node.js</a> para obter mais informações e exemplos de aplicações dessa plataforma e também a página da <a href="https://www.joyent.com" rel="noreferrer">Joyent</a>, patrocinadora oficial do projeto.
 
 E finalmente, **Node.js** é um projeto _open source_, portanto você pode visualizar o código fonte e contribuir no <a href="https://github.com/joyent/node" rel="noreferrer">repositório do Node.js no GitHub</a>.

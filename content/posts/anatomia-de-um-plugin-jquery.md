@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356445418
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/anatomia-de-um-plugin-jquery";s:7:"tinyurl";s:26:"http://tinyurl.com/3dv2fyc";s:4:"isgd";s:19:"http://is.gd/8RzJRK";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/anatomia-de-um-plugin-jquery";s:7:"tinyurl";s:26:"https://tinyurl.com/3dv2fyc";s:4:"isgd";s:19:"https://is.gd/8RzJRK";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039503
@@ -250,5 +250,5 @@ E, não esqueça: se você já tiver desenvolvido um plugin, deixe o link nos co
   * [Exemplo online: jquery.marcaTexto][3]
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/09/plugins.zip
- [2]: http://tableless.github.com/exemplos/anatomia-plugin-jquery/fila.html
- [3]: http://tableless.github.com/exemplos/anatomia-plugin-jquery/
+ [2]: https://tableless.github.com/exemplos/anatomia-plugin-jquery/fila.html
+ [3]: https://tableless.github.com/exemplos/anatomia-plugin-jquery/

@@ -17,7 +17,7 @@ Assim como em todos os frameworks ou libs de SPA, no Elm o meio mais comum para 
 
 Antes de partir para o código recomendo que você leia os outros artigos dessa série, [introdução ao Elm](https://tableless.com.br/introducao-ao-elm) e [instalação e o Hello World](https://tableless.com.br/elm-hello-world).
 
-Nesse artigo vamos criar uma aplicação um pouco mais próxima da realidade, ou seja, vamos fazer uma requisição HTTP e alterar o conteúdo dinamicamente de acordo com os dados recebidos. Para esse artigo, foi utilizado como base um dos [exemplos oficiais do Elm.](http://elm-lang.org/examples)
+Nesse artigo vamos criar uma aplicação um pouco mais próxima da realidade, ou seja, vamos fazer uma requisição HTTP e alterar o conteúdo dinamicamente de acordo com os dados recebidos. Para esse artigo, foi utilizado como base um dos [exemplos oficiais do Elm.](https://elm-lang.org/examples)
 
 # Criando a estrutura do projeto
 
@@ -157,7 +157,7 @@ main =
 
 # Executando o projeto
 
-Para testarmos o projeto, é necessário rodar o comando **elm-reactor** e após acessar a url http://localhost:8000/Main.elm.
+Para testarmos o projeto, é necessário rodar o comando **elm-reactor** e após acessar a url https://localhost:8000/Main.elm.
 
 Nesse primeiro acesso a página pode demorar um pouco para carregar, pois é nesse momento que o Elm está baixando todos os pacotes que estamos utilizando no projeto.
 

@@ -44,14 +44,14 @@ Por [Victor Erixon][6]
 
 [<img src="https://dribbble.s3.amazonaws.com/users/236729/screenshots/1031879/nav_1x.jpg" width="400" height="300" alt="Navigation Menu .PSD" class="alignnone" />][11]
 
- [1]: http://dribbble.com/rikitanone
- [2]: http://dribbble.s3.amazonaws.com/users/165589/screenshots/947782/attachments/107093/flat-ui.png
- [3]: http://dribbble.com/shots/947782-Freebie-PSD-Flat-UI-Kit?list=searches&tag=freebies?list=searches&tag=freebies
- [4]: http://dribbble.com/lobanovskiy
- [5]: http://dribbble.com/shots/865767-iPhone-5-Grid?list=searches&tag=freebies?list=searches&tag=freebies
- [6]: http://dribbble.com/victorerixon
- [7]: http://dribbble.com/shots/928458-80-Shades-of-White-Icons?list=searches&tag=freebies
- [8]: http://dribbble.com/chrisbannister
- [9]: http://dribbble.com/shots/1017934-Free-responsive-wireframes-GIF?list=searches&tag=freebies
- [10]: http://dribbble.com/dylansimel
- [11]: http://dribbble.com/shots/1031879-Navigation-Menu-PSD?list=tags&tag=free
+ [1]: https://dribbble.com/rikitanone
+ [2]: https://dribbble.s3.amazonaws.com/users/165589/screenshots/947782/attachments/107093/flat-ui.png
+ [3]: https://dribbble.com/shots/947782-Freebie-PSD-Flat-UI-Kit?list=searches&tag=freebies?list=searches&tag=freebies
+ [4]: https://dribbble.com/lobanovskiy
+ [5]: https://dribbble.com/shots/865767-iPhone-5-Grid?list=searches&tag=freebies?list=searches&tag=freebies
+ [6]: https://dribbble.com/victorerixon
+ [7]: https://dribbble.com/shots/928458-80-Shades-of-White-Icons?list=searches&tag=freebies
+ [8]: https://dribbble.com/chrisbannister
+ [9]: https://dribbble.com/shots/1017934-Free-responsive-wireframes-GIF?list=searches&tag=freebies
+ [10]: https://dribbble.com/dylansimel
+ [11]: https://dribbble.com/shots/1031879-Navigation-Menu-PSD?list=tags&tag=free

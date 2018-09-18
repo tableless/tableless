@@ -7,7 +7,7 @@ url: /colecao-de-layouts/
 tweetbackscheck:
   - 1356441091
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/colecao-de-layouts";s:7:"tinyurl";s:26:"http://tinyurl.com/3qdhjal";s:4:"isgd";s:19:"http://is.gd/39qxrf";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/colecao-de-layouts";s:7:"tinyurl";s:26:"https://tinyurl.com/3qdhjal";s:4:"isgd";s:19:"https://is.gd/39qxrf";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036886
@@ -24,6 +24,6 @@ Para guardar os layouts eu uso uma [extensão][1] pra Firefox [chamada ScreenGra
 
 Vou disponibilizar [minha coleção no aqui][3].
 
- [1]: http://tableless.com.br/categorias/extensions/
- [2]: http://tableless.com.br/extension-screen-grab
- [3]: http://diegoeis.com/colecao-de-layouts-para-referencia-de-design/
+ [1]: https://tableless.com.br/categorias/extensions/
+ [2]: https://tableless.com.br/extension-screen-grab
+ [3]: https://diegoeis.com/colecao-de-layouts-para-referencia-de-design/

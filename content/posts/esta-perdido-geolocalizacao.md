@@ -48,7 +48,7 @@ Vamos imaginar que o dono dessa empresa quer saber a localização dos seu clien
 
 Nosso primeiro trecho de código é bem simples: pegamos a posição de latitude e longitude e mostramos essa informação no console.
 
-Você pode testá-lo aqui <http://jsfiddle.net/pererinha/Mg9T5/>.
+Você pode testá-lo aqui <https://jsfiddle.net/pererinha/Mg9T5/>.
 
 <pre class="lang-javascript">function getPosition(){
   // Verifica se o browser do usuario tem suporte a Geolocation
@@ -69,7 +69,7 @@ Primeiro verificamos se o browser do usuário tem suporte a Geolocation. Caso po
 
 Agora o nosso código ficará um pouco mais completo, vamos criar uma função que será chamada caso a Geolocalização apresente um erro.
 
-Para testar: <http://jsfiddle.net/pererinha/Y49kd/>.
+Para testar: <https://jsfiddle.net/pererinha/Y49kd/>.
 
 <pre class="lang-javascript">function getPosition(){
   // Verifica se o browser do usuario tem suporte a geolocation
@@ -112,7 +112,7 @@ $( document ).ready( function(){
 
 Bom, já deu para entender como funciona o tal do Geolocation. Agora vamos organizar melhor esse código e começar a utilizar os dados da posição do usuário.
 
-Olha como ficou o script final. Para testar <http://jsfiddle.net/pererinha/dKSY5/>.
+Olha como ficou o script final. Para testar <https://jsfiddle.net/pererinha/dKSY5/>.
 
 <pre class="lang-javascript">// Objeto oficina com os dados da oficina
 var Oficina = {
@@ -221,7 +221,7 @@ Esse objeto contém as os métodos para trabalharmos com a api de Geolocation, d
 
 Esse objeto tem um método importante que é o **distanciaEntreDoisPontos** esse método calcula a distância entre dois pontos e retorna o valor em kilômetros.
 
-Adaptado dessa formula <http://stackoverflow.com/questions/27928/how-do-i-calculate-distance-between-two-latitude-longitude-points>.
+Adaptado dessa formula <https://stackoverflow.com/questions/27928/how-do-i-calculate-distance-between-two-latitude-longitude-points>.
 
 # Conclusão
 
@@ -234,4 +234,4 @@ Dois plugins, para o Chrome, que podem te ajudar bastante.
 
 Em um próximo artigo veremos sobre conseguir a latitude e longitude do usuário a partir de seu endereço e mais alguns parâmetros que podemos utilizar com o método **navigator.geolocation.getCurrentPosition**.
 
- [1]: http://tableless.com.br/creme-de-papaia-e-geolocalizacao/
+ [1]: https://tableless.com.br/creme-de-papaia-e-geolocalizacao/

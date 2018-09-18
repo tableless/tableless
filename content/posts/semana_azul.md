@@ -7,7 +7,7 @@ url: /semana_azul/
 tweetbackscheck:
   - 1355633853
 shorturls:
-  - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/semana_azul";s:7:"tinyurl";s:26:"http://tinyurl.com/3ox6uug";s:4:"isgd";s:19:"http://is.gd/o5ntN2";}'
+  - 'a:3:{s:9:"permalink";s:35:"https://tableless.com.br/semana_azul";s:7:"tinyurl";s:26:"https://tinyurl.com/3ox6uug";s:4:"isgd";s:19:"https://is.gd/o5ntN2";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033125
@@ -38,7 +38,7 @@ Fui convidado para falar (digitar) algumas palavras sobre Padrões Web&#8230;
   
 Mas, compareçam e por favor, divulguem.
 
- [1]: http://www.mozilla.org.br/semanaazul
- [2]: http://xul.mozilla.org.br/
- [3]: http://www.mozilla.org.br/
- [4]: http://bardo.cyaneus.net/sazul/index.php?n=SAr1.CanalIRC
+ [1]: https://www.mozilla.org.br/semanaazul
+ [2]: https://xul.mozilla.org.br/
+ [3]: https://www.mozilla.org.br/
+ [4]: https://bardo.cyaneus.net/sazul/index.php?n=SAr1.CanalIRC

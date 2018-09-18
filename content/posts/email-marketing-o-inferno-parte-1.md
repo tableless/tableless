@@ -37,5 +37,5 @@ Se quiser saber também quais propriedades do CSS funcionam, [o Campaign Monitor
 
 Lembre-se: neste ambiente incerto dos emails, teste exaustivamente. Não acredite apenas em serviços online para testar seus emails. Envie emails para você mesmo, teste pessoalmente em todos os clientes de email que puder. É a melhor forma para você obter um resultado decente.
 
- [1]: http://emailclientmarketshare.com
- [2]: http://www.campaignmonitor.com/css/
+ [1]: https://emailclientmarketshare.com
+ [2]: https://www.campaignmonitor.com/css/

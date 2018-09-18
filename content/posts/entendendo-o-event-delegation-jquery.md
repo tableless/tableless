@@ -42,4 +42,4 @@ Lembrando que a função `on()` foi adicionada no jQuery 1.7, para juntar as van
 
 Há uma [análise de performance no JSPerf][1] comparando o várias maneiras para você delegar os eventos aos filhos de um elemento. O `delegate()` tem quase a mesma performance que o `on()`, mesmo assim é melhor usar o `on()`, já que ele tem mais vantagens.
 
- [1]: http://jsperf.com/jquery-event-delegation/5
+ [1]: https://jsperf.com/jquery-event-delegation/5

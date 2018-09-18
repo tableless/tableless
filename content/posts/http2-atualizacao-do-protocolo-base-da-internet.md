@@ -38,10 +38,10 @@ Uma curiosidade interessante é que eles usaram o [GitHub para definir as especi
 
 Se tiver perguntas, o pessoal do IETF [criou um FAQ bastante extenso][7] explicando uma série de perguntar pertinentes.
 
- [1]: http://pt.wikipedia.org/wiki/Hipertexto
+ [1]: https://pt.wikipedia.org/wiki/Hipertexto
  [2]: https://httpwg.github.io/
  [3]: https://www.mnot.net/blog
  [4]: https://www.mnot.net/blog/2015/02/18/http2
  [5]: https://github.com/http2
- [6]: http://http2.github.io/
- [7]: http://http2.github.io/faq/
+ [6]: https://http2.github.io/
+ [7]: https://http2.github.io/faq/

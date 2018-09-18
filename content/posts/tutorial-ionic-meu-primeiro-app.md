@@ -16,7 +16,7 @@ tags:
 ---
 ## Introdução
 
-Após publicar uma <a href="http://tableless.com.br/introducao-ao-ionic-framework/" target="_blank">breve introdução do Ionic Framework</a>, vamos agora tentar construir uma app que consiga abordar o uso de componentes nativos de um celular assim como o build para as determinadas plataformas.
+Após publicar uma <a href="https://tableless.com.br/introducao-ao-ionic-framework/" target="_blank">breve introdução do Ionic Framework</a>, vamos agora tentar construir uma app que consiga abordar o uso de componentes nativos de um celular assim como o build para as determinadas plataformas.
 
 Para isso, ao decorrer deste tutorial, vamos construir uma app bastante simples que utiliza a posição do usuário para exibir os dados do tempo na tela.
 
@@ -52,7 +52,7 @@ Para instalar o plugin de geolocalização do Cordova, basta rodarmos o comando 
 <pre class="lang-bash">cordova plugin add org.apache.cordova.geolocation
 </pre>
 
-Após instalado o plugin do cordova, vamos instalar uma lib que tem implementado a comunicação com alguns plugins do Cordova de uma forma mais amigável para o AngularJS que é o <a href="http://ngcordova.com/" target="_blank">ngCordova</a>.
+Após instalado o plugin do cordova, vamos instalar uma lib que tem implementado a comunicação com alguns plugins do Cordova de uma forma mais amigável para o AngularJS que é o <a href="https://ngcordova.com/" target="_blank">ngCordova</a>.
 
 Para instalar o _ngCordova_ basta rodar
 

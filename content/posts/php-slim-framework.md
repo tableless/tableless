@@ -75,7 +75,7 @@ get('/', function () {
 //rode a aplicação Slim 
 $app-&gt;run();</pre>
 
-Se você acessar `http://localhost/api/` você verá a mensagem **&#8220;Hello World!&#8221;**.
+Se você acessar `https://localhost/api/` você verá a mensagem **&#8220;Hello World!&#8221;**.
 
 Mas não é isso que queremos, queremos uma API REST que retorne um JSON. Então vamos ver um exemplo bem simples. O Slim também trabalha com templates, então dentro do diretório da nossa aplicação vamos criar um diretório chamado de `templates` e dentro dele criaremos um arquivo chamado `default.php`, neste arquivo coloque o seguintes conteúdo:
 
@@ -159,16 +159,16 @@ RewriteRule . /api/index.php [L]
 
 Perceba que adicionei o método group no arquivo `index.php.` O Slim trabalha também com grupos de rotas, então é possível criar vários grupos com rotas próprias, dessa forma podemos organizar o código e não ter que ficar digitando o mesmo código várias vezes. Com o grupo de rotas chamado /users tudo que tiver dentro dele deverá vir precedido de /users ex: (/users/login/, /users/update/).
 
-Acessando `http://localhost/api/users/` você verá uma lista de usuários, caso acesse `http://localhost/api/users/login/` você verá uma página de erro. Isso ocorre porque setamos apenas uma rota POST para /users/login/ e como você acessou via GET o sistema redirecionou pois não existe a rota GET para /users/login/.
+Acessando `https://localhost/api/users/` você verá uma lista de usuários, caso acesse `https://localhost/api/users/login/` você verá uma página de erro. Isso ocorre porque setamos apenas uma rota POST para /users/login/ e como você acessou via GET o sistema redirecionou pois não existe a rota GET para /users/login/.
 
 Daqui para frente é só continuar implementando coisas novas, criando uma classe para conectar ao banco de dados, utilizando outros verbos HTTP, novos templates e etc. Você pode criar classes e usá-las normalmente é só incluí-las com o require e instanciar o objeto;
 
-O post termina aqui. O link para documentação do Slim é esse <http://docs.slimframework.com/> divirtam-se e mãos a obra! ;D
+O post termina aqui. O link para documentação do Slim é esse <https://docs.slimframework.com/> divirtam-se e mãos a obra! ;D
 
- [1]: http://www.sinatrarb.com/
- [2]: http://flask.pocoo.org/
- [3]: http://www.slimframework.com/
+ [1]: https://www.sinatrarb.com/
+ [2]: https://flask.pocoo.org/
+ [3]: https://www.slimframework.com/
  [4]: https://getcomposer.org/
- [5]: http://bundler.io/
- [6]: http://tableless.com.br/composer-para-iniciantes/
- [7]: http://tableless.com.br/author/andrecardosodev/
+ [5]: https://bundler.io/
+ [6]: https://tableless.com.br/composer-para-iniciantes/
+ [7]: https://tableless.com.br/author/andrecardosodev/

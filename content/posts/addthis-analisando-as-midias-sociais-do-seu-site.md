@@ -37,4 +37,4 @@ A única coisa que sinto falta é que não há um gerenciamento de botões no pr
 
 Essa é uma das minhas descobertas nos últimos meses. Existem outros serviços que quero vou compartilhar com vocês em outos posts, que ajudarão na tarefa de capturar e analisar os dados que seus visitantes geram. Além do mais, informação é poder.
 
- [1]: http://addthis.com/?utm_source=tablelessComBr&utm_medium=postLink&utm_campaign=post
+ [1]: https://addthis.com/?utm_source=tablelessComBr&utm_medium=postLink&utm_campaign=post

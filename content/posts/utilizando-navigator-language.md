@@ -140,16 +140,16 @@ Essa é a lista dos browsers mobile que suportam o **navigator.language**:
 Todo o conteúdo utilizado foi retirado do site developer.mozilla.org, pois lá tem bastante material sobre o assunto. Você pode utilizar o navigator.language por enquanto nos dois principais browsers Firefox e Chrome, mas isso não impede você de testar nos outros também. Eu espero que este material sirva como um auxílio para encorajar outros web developer a utilizarem mais o navigator.language.
 
  [1]: https://github.com/andyearnshaw
- [2]: http://norbertlindenberg.com
- [3]: http://formatjs.io/
- [4]: http://tools.ietf.org/html/rfc4646
- [5]: http://jsfiddle.net/leonardo403/f9f70vgh/10/
+ [2]: https://norbertlindenberg.com
+ [3]: https://formatjs.io/
+ [4]: https://tools.ietf.org/html/rfc4646
+ [5]: https://jsfiddle.net/leonardo403/f9f70vgh/10/
  [6]: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage.language
  [7]: https://developer.mozilla.org/en-US/docs/Web/API/DOMString
  [8]: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage.languages
  [9]: https://developer.mozilla.org/en-US/docs/Web/API/NavigatorLanguage
- [10]: http://developer.mozilla.org
+ [10]: https://developer.mozilla.org
  [11]: https://developer.mozilla.org/en/HTTP/Headers
  [12]: https://developer.mozilla.org/en-US/docs/Web/API/window.navigator.userAgent
- [13]: http://msdn.microsoft.com/en-us/library/ie/ms534713.aspx
- [14]: http://msdn.microsoft.com/en-us/library/ie/ms533542.aspx
+ [13]: https://msdn.microsoft.com/en-us/library/ie/ms534713.aspx
+ [14]: https://msdn.microsoft.com/en-us/library/ie/ms533542.aspx

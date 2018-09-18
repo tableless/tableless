@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356463836
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/extension-foxmarks";s:7:"tinyurl";s:26:"http://tinyurl.com/3ljjtyh";s:4:"isgd";s:19:"http://is.gd/A6X5Vv";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/extension-foxmarks";s:7:"tinyurl";s:26:"https://tinyurl.com/3ljjtyh";s:4:"isgd";s:19:"https://is.gd/A6X5Vv";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035531
@@ -27,6 +27,6 @@ Você tem um computador em casa, um no trabalho, um na casa da namorada, outro n
 
 [Foxmarks][1] sincroniza os favoritos guardando uma versão do seu favoritos online. Ele compara os favoritos do firefox que você está usando, e se for mais ou novo ou mais velho, ele atualiza para você automaticamente.
 
-<small>dica do <a href="http://mobilelife.com.br/">Rigonatti</a>.</small>
+<small>dica do <a href="https://mobilelife.com.br/">Rigonatti</a>.</small>
 
  [1]: https://addons.mozilla.org/firefox/2410/

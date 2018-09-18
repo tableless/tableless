@@ -12,7 +12,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356455438
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/lancado-firefox-3-5";s:7:"tinyurl";s:26:"http://tinyurl.com/42cvtal";s:4:"isgd";s:19:"http://is.gd/umV7VH";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/lancado-firefox-3-5";s:7:"tinyurl";s:26:"https://tinyurl.com/42cvtal";s:4:"isgd";s:19:"https://is.gd/umV7VH";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039087
@@ -60,7 +60,7 @@ A sintaxe:
 
 <pre lang="css" line="1">@font-face {
   font-family: "Bitstream Vera Serif Bold";
-  src: url("http://developer.mozilla.org/@api/deki/files/2934/=VeraSeBd.ttf");
+  src: url("https://developer.mozilla.org/@api/deki/files/2934/=VeraSeBd.ttf");
 }
     
 body { font-family: "Bitstream Vera Serif Bold", serif }
@@ -91,7 +91,7 @@ Daqui pra frente os browsers irão forçar ainda mais a evolução do desenvolvi
 
 [Baixe o Firefox 3.5 aqui.][4]
 
- [1]: http://www.mozilla.com/en-US/firefox/performance/
- [2]: http://tableless.com.br/font-face
+ [1]: https://www.mozilla.com/en-US/firefox/performance/
+ [2]: https://tableless.com.br/font-face
  [3]: https://developer.mozilla.org/En/Firefox_3.5_for_developers
- [4]: http://www.mozilla.com/en-US/firefox/upgrade.html
+ [4]: https://www.mozilla.com/en-US/firefox/upgrade.html

@@ -90,4 +90,4 @@ Com o tempo o uso do macro dentro do vim se torna algo automático, você começ
 
 Nesse artigo foi utilizado um exemplo muito simples, mas imagine quantas possibilidades você pode alcançar com os _macros_ desde tarefas complexas como copy/paste em arquivos diferentes, alinhamentos e etc.
 
-Se você achou interessante entenda mais sobre as diversas açoes dos _macros_ na documentação oficial do vim <a href="http://vim.wikia.com/wiki/Macros" rel="noreferrer">nesse link</a>.
+Se você achou interessante entenda mais sobre as diversas açoes dos _macros_ na documentação oficial do vim <a href="https://vim.wikia.com/wiki/Macros" rel="noreferrer">nesse link</a>.

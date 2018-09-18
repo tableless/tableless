@@ -7,7 +7,7 @@ url: /browsers-para-mobile-nova-era/
 tweetbackscheck:
   - 1356391453
 shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"http://tableless.com.br/browsers-para-mobile-nova-era";s:7:"tinyurl";s:26:"http://tinyurl.com/3bx6tuu";s:4:"isgd";s:19:"http://is.gd/Pt3Q6j";}'
+  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/browsers-para-mobile-nova-era";s:7:"tinyurl";s:26:"https://tinyurl.com/3bx6tuu";s:4:"isgd";s:19:"https://is.gd/Pt3Q6j";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038150
@@ -64,25 +64,25 @@ Enquanto isso, leia algo antes de começar a fazer a versões mobiles por aí:
   * [Curso de Internet Móvel][21]
   * [Web Development for the iphone][22]
 
- [1]: http://tableless.com.br/quem-precisa-de-versao-mobile
- [2]: http://apple.com/iphone/
- [3]: http://developer.apple.com/documentation/AppleApplications/Reference/SafariWebContent/Introduction/chapter_1_section_1.html
- [4]: http://www.vimeo.com/781678?pg=embed&sec=781678
- [5]: http://www.vimeo.com/user400411?pg=embed&sec=781678
- [6]: http://vimeo.com?pg=embed&sec=781678
- [7]: http://www.operamini.com/
- [8]: http://www.vimeo.com/217513?pg=embed&sec=217513
- [9]: http://www.vimeo.com/kirankonathala?pg=embed&sec=217513
- [10]: http://vimeo.com?pg=embed&sec=217513
- [11]: http://www.w3.org/QA/2008/04/is_your_mobile_browser_ready_f.html
- [12]: http://dev.w3.org/2008/mobile-test/test.html
- [13]: http://visie.com.br/treinamento/ "Treinamento em padrões web e sistemas de e-commerce"
- [14]: http://visie.com.br/treinamento/palestra-internet-movel/
- [15]: http://tableless.com.br/sites-para-dispositivos-moveis-breve-introducao
- [16]: http://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
- [17]: http://tableless.com.br/aprenda/sites-para-dispositivos-moveis-mediatype/
- [18]: http://tableless.com.br/breve-introducao-xhtml-mobile-profile
- [19]: http://tableless.com.br/browsers_em_dispositivos_moveis
- [20]: http://tableless.com.br/27-bilhoes-de-celulares
- [21]: http://visie.com.br/cursos/intermediarios/internetmovel2.php
- [22]: http://www.evotech.net/blog/2007/07/web-development-for-the-iphone/
+ [1]: https://tableless.com.br/quem-precisa-de-versao-mobile
+ [2]: https://apple.com/iphone/
+ [3]: https://developer.apple.com/documentation/AppleApplications/Reference/SafariWebContent/Introduction/chapter_1_section_1.html
+ [4]: https://www.vimeo.com/781678?pg=embed&sec=781678
+ [5]: https://www.vimeo.com/user400411?pg=embed&sec=781678
+ [6]: https://vimeo.com?pg=embed&sec=781678
+ [7]: https://www.operamini.com/
+ [8]: https://www.vimeo.com/217513?pg=embed&sec=217513
+ [9]: https://www.vimeo.com/kirankonathala?pg=embed&sec=217513
+ [10]: https://vimeo.com?pg=embed&sec=217513
+ [11]: https://www.w3.org/QA/2008/04/is_your_mobile_browser_ready_f.html
+ [12]: https://dev.w3.org/2008/mobile-test/test.html
+ [13]: https://visie.com.br/treinamento/ "Treinamento em padrões web e sistemas de e-commerce"
+ [14]: https://visie.com.br/treinamento/palestra-internet-movel/
+ [15]: https://tableless.com.br/sites-para-dispositivos-moveis-breve-introducao
+ [16]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
+ [17]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-mediatype/
+ [18]: https://tableless.com.br/breve-introducao-xhtml-mobile-profile
+ [19]: https://tableless.com.br/browsers_em_dispositivos_moveis
+ [20]: https://tableless.com.br/27-bilhoes-de-celulares
+ [21]: https://visie.com.br/cursos/intermediarios/internetmovel2.php
+ [22]: https://www.evotech.net/blog/2007/07/web-development-for-the-iphone/

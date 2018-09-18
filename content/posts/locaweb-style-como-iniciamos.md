@@ -118,7 +118,7 @@ Nenhum framework do mundo vai se adequar a 100% da sua necessidade. Isso é mito
 
 Fazer um framework que funcione e que tenha uma continuidade saudável é difícil. Mesmo assim vale a pena pela experiência e pela força de produção que a equipe ganha em novos produtos e na manutenção dos que já existem. Por conta dessa facilidade, conseguimos manter com uma equipe de 3 pessoas algo em torno de 10 produtos simultaneos.
 
-Se quiser saber mais sobre o Locaweb Style: <http://developer.locaweb.com.br/locawebstyle/>
+Se quiser saber mais sobre o Locaweb Style: <https://developer.locaweb.com.br/locawebstyle/>
 
 Há também dois artigos que escrevi falando um pouco sobre estruturação front-end. Talvez valha a pena ler.
 
@@ -127,23 +127,23 @@ Há também dois artigos que escrevi falando um pouco sobre estruturação front
 
 Há outro artigo bem interessante sobre a [criação de seu próprio framework][19] que o [Bernard de Luna][20] escreveu.
 
- [1]: http://developer.locaweb.com.br/locawebstyle/ "Locaweb Style - O Framework da Locaweb"
+ [1]: https://developer.locaweb.com.br/locawebstyle/ "Locaweb Style - O Framework da Locaweb"
  [2]: https://github.com/locaweb/
- [3]: http://twitter.github.com/bootstrap/
- [4]: http://fontello.com/
- [5]: http://icomoon.io/
- [6]: http://jquery.com/
- [7]: http://modernizr.com/
- [8]: http://ivaynberg.github.com/select2/
- [9]: http://harvesthq.github.com/chosen/
- [10]: http://digitalbush.com/projects/masked-input-plugin/
- [11]: http://jqueryui.com/datepicker/
- [12]: http://developer.locaweb.com.br/locawebstyle/conteudo/busca-avancada/
- [13]: http://net.tutsplus.com/tutorials/javascript-ajax/prototypes-in-javascript-what-you-need-to-know/
- [14]: http://prototypejs.org/
- [15]: http://tableless.com.br/bem-vindo-a-xangrila-parte-1/ "Bem vindo a Xangri-lá – Parte 1"
- [16]: http://tableless.com.br/utilizando-a-biblioteca-modernizr/
- [17]: http://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/ "Estruturação de front-end – Parte 1: Préprocessadores, Framewoks e Bibliotecas"
- [18]: http://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/ "Estruturação de front-end – Parte 2: Designers e Programadores"
- [19]: http://tableless.com.br/criando-seu-framework-html-css/ "Criando seu próprio Framework HTML CSS"
- [20]: http://bernarddeluna.com/
+ [3]: https://twitter.github.com/bootstrap/
+ [4]: https://fontello.com/
+ [5]: https://icomoon.io/
+ [6]: https://jquery.com/
+ [7]: https://modernizr.com/
+ [8]: https://ivaynberg.github.com/select2/
+ [9]: https://harvesthq.github.com/chosen/
+ [10]: https://digitalbush.com/projects/masked-input-plugin/
+ [11]: https://jqueryui.com/datepicker/
+ [12]: https://developer.locaweb.com.br/locawebstyle/conteudo/busca-avancada/
+ [13]: https://net.tutsplus.com/tutorials/javascript-ajax/prototypes-in-javascript-what-you-need-to-know/
+ [14]: https://prototypejs.org/
+ [15]: https://tableless.com.br/bem-vindo-a-xangrila-parte-1/ "Bem vindo a Xangri-lá – Parte 1"
+ [16]: https://tableless.com.br/utilizando-a-biblioteca-modernizr/
+ [17]: https://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/ "Estruturação de front-end – Parte 1: Préprocessadores, Framewoks e Bibliotecas"
+ [18]: https://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/ "Estruturação de front-end – Parte 2: Designers e Programadores"
+ [19]: https://tableless.com.br/criando-seu-framework-html-css/ "Criando seu próprio Framework HTML CSS"
+ [20]: https://bernarddeluna.com/

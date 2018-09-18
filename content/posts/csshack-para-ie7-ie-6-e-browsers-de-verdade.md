@@ -7,7 +7,7 @@ url: /csshack-para-ie7-ie-6-e-browsers-de-verdade/
 tweetbackscheck:
   - 1356431446
 shorturls:
-  - 'a:3:{s:9:"permalink";s:67:"http://tableless.com.br/csshack-para-ie7-ie-6-e-browsers-de-verdade";s:7:"tinyurl";s:26:"http://tinyurl.com/3v2jfx7";s:4:"isgd";s:19:"http://is.gd/1L8oTw";}'
+  - 'a:3:{s:9:"permalink";s:67:"https://tableless.com.br/csshack-para-ie7-ie-6-e-browsers-de-verdade";s:7:"tinyurl";s:26:"https://tinyurl.com/3v2jfx7";s:4:"isgd";s:19:"https://is.gd/1L8oTw";}'
 twittercomments:
   - 'a:1:{i:33511365796831232;s:7:"retweet";}'
 tweetcount:
@@ -36,4 +36,4 @@ Horrível né? Paciência.
 
 Fiz uma busca rápida para ver se encontrava outra solução, mas [achei este site][1] com a mesma solução acima.
 
- [1]: http://snook.ca/archives/html_and_css/targetting_ie7/
+ [1]: https://snook.ca/archives/html_and_css/targetting_ie7/

@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356465841
 shorturls:
-  - 'a:3:{s:9:"permalink";s:75:"http://tableless.com.br/vote-no-especialista-em-usabilidade-para-presidente";s:7:"tinyurl";s:26:"http://tinyurl.com/3pmlnfx";s:4:"isgd";s:19:"http://is.gd/UXSE3d";}'
+  - 'a:3:{s:9:"permalink";s:75:"https://tableless.com.br/vote-no-especialista-em-usabilidade-para-presidente";s:7:"tinyurl";s:26:"https://tinyurl.com/3pmlnfx";s:4:"isgd";s:19:"https://is.gd/UXSE3d";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039683
@@ -44,7 +44,7 @@ Usabilidade é um assunto muitas vezes subestimado em toda a cadeia de produçã
 
 E apesar de envolver vários níveis em uma organização, um dos roles mais importantes na _hierarquia de poder_ do projeto (ainda mais agora com o HTML5) é o do desenvolvedor web responsável pela prototipação dos templates que recebem as funcionalidades de uma aplicação. Componentes e objetos desenvolvidos em outras camadas devem obedecer formatos de saída definidos para a camada web, o que transforma a responsabilidade (o poder&#8230;) do Especialista de Usabilidade em diferencial na otimização de processos de desenvolvimento de outras frentes, fornecendo as informações necessárias sobre o comportamento do browser com os componentes criados (e como ele deveria se comportar) &#8211; como a informação entra e sai das telas, como ela é embalada para consumo, o que pode ser feito no front-end X o que vai para o middleware, economizando horas de desenvolvimento&#8230; obviamente a lista de vantagens é maior e fica visível a medida que o projeto caminha. Uma camada web bem escrita é um mar aberto, tranquilo. Navegar com _navios e jangadas_ em um cenário desses é mais rápido, mais tranquilo e o melhor de tudo, mais barato.
 
-As aplicações web de grande porte hoje em dia são monstruosas quando analisadas do ponto de vista da arquitetura. Não é raro você encontrar projetos que façam uso de várias tecnologias para atingir determinado objetivo. Um exemplo pertinente é o <a title="Veja o Google Instant em ação" href="http://www.google.com/instant/" target="_blank">Google Instant</a>: Lançado em setembro, o Instant é uma colcha-de-retalhos de 16 diferentes tecnologias feito para otimizar suas pesquisas. O ganho com esse upgrade no engine de busca fica entre 2-5 segundos por busca. Aonde entra a Usabilidade aqui? Facilitando o usuário a fazer uma pesquisa de maneira mais rápida. &#8211; “Mas a rapidez do search do Google já é incrível. Pra que melhorar um tempo de busca que já é absurdamente rápido? Vale o custo-benefício?”
+As aplicações web de grande porte hoje em dia são monstruosas quando analisadas do ponto de vista da arquitetura. Não é raro você encontrar projetos que façam uso de várias tecnologias para atingir determinado objetivo. Um exemplo pertinente é o <a title="Veja o Google Instant em ação" href="https://www.google.com/instant/" target="_blank">Google Instant</a>: Lançado em setembro, o Instant é uma colcha-de-retalhos de 16 diferentes tecnologias feito para otimizar suas pesquisas. O ganho com esse upgrade no engine de busca fica entre 2-5 segundos por busca. Aonde entra a Usabilidade aqui? Facilitando o usuário a fazer uma pesquisa de maneira mais rápida. &#8211; “Mas a rapidez do search do Google já é incrível. Pra que melhorar um tempo de busca que já é absurdamente rápido? Vale o custo-benefício?”
 
 Sim. Vale e muito. Perguntar isso é pensar apenas em um ambiente restrito. É manter a cabeça no ambiente desktop. A web é maior que isso. Temos uma infinidade de dispositivos que hoje a acessam para compartilhar e usar informação. Quando aplicamos a solução nas pesquisas dos browsers dos smartphones, o Instant se transforma em uma das melhores soluções deste ano em termos de Usabilidade.
 
@@ -122,15 +122,15 @@ No próximo post detalho o passo-a-passo do Plano de Usabilidade, e tambem algun
 
 *Se estes bullets soam como Javanês nos seus ouvidos, recomendo fortemente a leitura de um livro sensacional do **Steve Souders** chamado **High Performance Web Sites.**
 
-******<a title="Aprendendo o estado-da-arte em Usabilidade" href="http://www.nngroup.com/events/tutorials/usability.html" target="_blank">Tá com grana no bolso para o investimento de uma carreira?</a>
+******<a title="Aprendendo o estado-da-arte em Usabilidade" href="https://www.nngroup.com/events/tutorials/usability.html" target="_blank">Tá com grana no bolso para o investimento de uma carreira?</a>
 
 Referências:
 
-  * <a href="http://webdesign.about.com/od/usability/tp/aatpwebusable.htm" target="_blank">Most Important Web Usability Issues</a>
+  * <a href="https://webdesign.about.com/od/usability/tp/aatpwebusable.htm" target="_blank">Most Important Web Usability Issues</a>
   * [Usability.gov &#8211; Visual Map][2]
   * [How do colors affect purchases?][3]
-  * <a href="http://oreilly.com/catalog/9780596529307" target="_blank">High Performance Web Sites &#8211; Essential Knowledge for Front-End Engineers</a>
+  * <a href="https://oreilly.com/catalog/9780596529307" target="_blank">High Performance Web Sites &#8211; Essential Knowledge for Front-End Engineers</a>
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/10/visual_map.png
- [2]: http://www.usability.gov/methods/process.html
- [3]: http://blog.kissmetrics.com/color-psychology/?wide=1
+ [2]: https://www.usability.gov/methods/process.html
+ [3]: https://blog.kissmetrics.com/color-psychology/?wide=1

@@ -8,7 +8,7 @@ url: /facebook-no-firefox/
 tweetbackscheck:
   - 1356462549
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/facebook-no-firefox/";s:7:"tinyurl";s:26:"http://tinyurl.com/cfgmrx7";s:4:"isgd";s:19:"http://is.gd/Byy33B";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/facebook-no-firefox/";s:7:"tinyurl";s:26:"https://tinyurl.com/cfgmrx7";s:4:"isgd";s:19:"https://is.gd/Byy33B";}'
 twittercomments:
   - 'a:1:{i:282898863298330625;s:7:"retweet";}'
 tweetcount:
@@ -26,4 +26,4 @@ A behind-the-scenes olhar para o desenvolvimento do Messenger para o Firefox mos
 
 Comece a experimentar agora. Entre com o Firefox nessa página e ative a feature no [hotsite do Facebook][1].
 
- [1]: http://www.facebook.com/about/messenger-for-firefox
+ [1]: https://www.facebook.com/about/messenger-for-firefox

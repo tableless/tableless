@@ -7,7 +7,7 @@ url: /gurus_vs_bloggers/
 tweetbackscheck:
   - 1356221918
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/gurus_vs_bloggers";s:7:"tinyurl";s:26:"http://tinyurl.com/3wp4egf";s:4:"isgd";s:19:"http://is.gd/GUaMFu";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/gurus_vs_bloggers";s:7:"tinyurl";s:26:"https://tinyurl.com/3wp4egf";s:4:"isgd";s:19:"https://is.gd/GUaMFu";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 536747238
@@ -31,6 +31,6 @@ Bloggers][2]
               
 Link ¿ [Andy Budd][3]
 
- [1]: http://www.designbyfire.com/
- [2]: http://www.designbyfire.com/000076.html#475
- [3]: http://www.andybudd.com/
+ [1]: https://www.designbyfire.com/
+ [2]: https://www.designbyfire.com/000076.html#475
+ [3]: https://www.andybudd.com/

@@ -18,7 +18,7 @@ tags:
 ---
 O HTML5 trouxe diversas coisas bacanas pra nós desenvolvedores. Uma das mais simples e que eu acho que são uma das mais legais é a questão da semântica com os novos elementos. O surgimento dessas _tags_ deixaram nossos códigos mais semânticos e legíveis, tanto por nós como pelas máquinas.
 
-Um desses elementos é o `time`. Já havia lido sobre ele, mas nunca tinha ido muito a fundo. Esses dias encontrei um texto do <a href="https://twitter.com/AurelioDeRosa" target="_blank">Aurelio De Rosa</a> no <a href="http://www.sitepoint.com/" target="_blank">SitePoint</a> que <a href="http://www.sitepoint.com/html5-time-element-guide/" target="_blank">explica bastante coisa</a> sobre este elemento e resolvi traduzir pra gente.
+Um desses elementos é o `time`. Já havia lido sobre ele, mas nunca tinha ido muito a fundo. Esses dias encontrei um texto do <a href="https://twitter.com/AurelioDeRosa" target="_blank">Aurelio De Rosa</a> no <a href="https://www.sitepoint.com/" target="_blank">SitePoint</a> que <a href="https://www.sitepoint.com/html5-time-element-guide/" target="_blank">explica bastante coisa</a> sobre este elemento e resolvi traduzir pra gente.
 
 &#8212;
 
@@ -26,7 +26,7 @@ Tempo &#8211; uma das poucas coisas que sabemos que é infinita. Os seres human
 
 Na web essa necessidade não é diferente. Mesmo nesse meio, precisamos nos comunicar com outras pessoas de que alguma coisa aconteceu em um determinado ponto, em uma data específica, ou em relação a um outro tempo definido.
 
-Antes do HTML5 não tivemos nenhum elemento para marcar semanticamente uma data ou hora. Nos últimos anos, outras soluções, como os <a href="http://microformats.org/" target="_blank">Microformats</a> e <a href="http://en.wikipedia.org/wiki/Microdata_%28HTML%29" target="_blank">Microdata</a>, tentaram preencher esta lacuna para situações específicas (data de nascimento, a publicação de um livro, e assim por diante).
+Antes do HTML5 não tivemos nenhum elemento para marcar semanticamente uma data ou hora. Nos últimos anos, outras soluções, como os <a href="https://microformats.org/" target="_blank">Microformats</a> e <a href="https://en.wikipedia.org/wiki/Microdata_%28HTML%29" target="_blank">Microdata</a>, tentaram preencher esta lacuna para situações específicas (data de nascimento, a publicação de um livro, e assim por diante).
 
 Nesse artigo eu irei cobrir o elemento `time` do HTML5, o que ajuda a responder à necessidade de que acabamos de discutir.
 
@@ -34,7 +34,7 @@ Nesse artigo eu irei cobrir o elemento `time` do HTML5, o que ajuda a responder 
 
 O elemento `time` foi introduzido na especificação do HTML5 em 2009. Então, em 2011 foi trocado  em favor do `data`. Então, em seguida, o elemento foi reintroduzido e melhorado para permitir novos formatos de data/hora. A partir deste ponto você pode ver que as especificações podem ser bastante controversas.
 
-O elemento `time` representa uma data e/ou um tempo no <a href="http://en.wikipedia.org/wiki/Gregorian_calendar" target="_blank">calendário gregoriano</a>. É um elemento inline (como `<span>` e `<a>`) e deve ter uma tag de fechamento (como `<div>` e `<span>`). Quando usado na sua forma mais simples, o conteúdo do elemento deve ser uma string <a href="http://www.w3.org/TR/html5/text-level-semantics.html#the-time-element" target="_blank">de data e/ou tempo válidas</a>.
+O elemento `time` representa uma data e/ou um tempo no <a href="https://en.wikipedia.org/wiki/Gregorian_calendar" target="_blank">calendário gregoriano</a>. É um elemento inline (como `<span>` e `<a>`) e deve ter uma tag de fechamento (como `<div>` e `<span>`). Quando usado na sua forma mais simples, o conteúdo do elemento deve ser uma string <a href="https://www.w3.org/TR/html5/text-level-semantics.html#the-time-element" target="_blank">de data e/ou tempo válidas</a>.
 
 Um exemplo abaixo:
 
@@ -99,9 +99,9 @@ Nesse caso, 05 de setembro de 2014 seria a data de publicação desse `article`.
 
 Eu fui um grande fã deste atributo desde que aprendi bastante sobre isso, mas, infelizmente, ele foi removido da especificação. Essa decisão criou um grande problema, porque um grande número de pessoas (inclusive eu) usam a data de publicação para julgar o frescor e a relevância de um artigo ou notícia. Embora seja verdade que você ainda possa acessar a página de um artigo e ver a data de publicação, precisamos de uma forma padrão para uma máquina de ler a data.
 
-No atual momento não existe um atributo que substitua `pubdate`, mas você pode empregar o <a href="http://schema.org/BlogPosting" target="_blank">BlogPosting schema</a>, e especificamente o valor `datePublished` como mostrado abaixo:
+No atual momento não existe um atributo que substitua `pubdate`, mas você pode empregar o <a href="https://schema.org/BlogPosting" target="_blank">BlogPosting schema</a>, e especificamente o valor `datePublished` como mostrado abaixo:
 
-<pre class="lang-html">&lt;article itemscope itemType="http://schema.org/BlogPosting"&gt;
+<pre class="lang-html">&lt;article itemscope itemType="https://schema.org/BlogPosting"&gt;
         &lt;h1 itemprop="headline"&gt;Um título&lt;/h1&gt;
         &lt;p itemprop="articleBody"&gt;Conteúdo do article.&lt;/p&gt;
  
@@ -213,16 +213,16 @@ Em caso da necessidade de especificar melhor o período, após o _&#8220;D&#8221
 &lt;time datetime="P4DT4H3M"&gt;quatro dias&lt;/time&gt;
 </pre>
 
-Esse formato também permite a você especificar um ou mais <a href="http://www.w3.org/TR/html5/infrastructure.html#duration-time-component" target="_blank">componentes de duração de tempo</a>.
+Esse formato também permite a você especificar um ou mais <a href="https://www.w3.org/TR/html5/infrastructure.html#duration-time-component" target="_blank">componentes de duração de tempo</a>.
 
 ## Limitações
 
-A especificação atual tem algumas limitações no que você pode definir com o elemento `time`. Uma dessas limitações é que você não pode indicar intervalos de datas. Então, se você estiver escrevendo um post sobre uma conferência que dura mais de um dia, por exemplo a partir de 26 de junho de 2014 a 28 de junho de 2014, você terá que usar dois elementos `time`. Um bom exemplo pode ser encontrado na <a href="http://aurelio.audero.it/speaking" target="_blank">página sobre palestras do meu website</a>, onde eu uso o elemento `time`, como mostrado abaixo:
+A especificação atual tem algumas limitações no que você pode definir com o elemento `time`. Uma dessas limitações é que você não pode indicar intervalos de datas. Então, se você estiver escrevendo um post sobre uma conferência que dura mais de um dia, por exemplo a partir de 26 de junho de 2014 a 28 de junho de 2014, você terá que usar dois elementos `time`. Um bom exemplo pode ser encontrado na <a href="https://aurelio.audero.it/speaking" target="_blank">página sobre palestras do meu website</a>, onde eu uso o elemento `time`, como mostrado abaixo:
 
 <pre class="lang-html">&lt;time datetime="2014-06-28"&gt;26&lt;span class="hidden"&gt;de Junho de 2014&lt;/span&gt;&lt;/time&gt;-&lt;time datetime="2014-06-28"&gt;28 Junho 2014&lt;/time&gt;
 </pre>
 
-Outra limitação é que você não pode usar o elemento `time` para representar datas antes da <a href="http://en.wikipedia.org/wiki/Common_Era" target="_blank">Era Comum</a>.
+Outra limitação é que você não pode usar o elemento `time` para representar datas antes da <a href="https://en.wikipedia.org/wiki/Common_Era" target="_blank">Era Comum</a>.
 
 ## Suporte
 
@@ -251,7 +251,7 @@ Para mais informações, aqui vão alguns links relevantes:
 
 Texto traduzido e adaptado do [O HTML5 trouxe diversas coisas bacanas pra nós desenvolvedores. Uma das mais simples e que eu acho que são uma das mais legais é a questão da semântica com os novos elementos. O surgimento dessas _tags_ deixaram nossos códigos mais semânticos e legíveis, tanto por nós como pelas máquinas.
 
-Um desses elementos é o `time`. Já havia lido sobre ele, mas nunca tinha ido muito a fundo. Esses dias encontrei um texto do <a href="https://twitter.com/AurelioDeRosa" target="_blank">Aurelio De Rosa</a> no <a href="http://www.sitepoint.com/" target="_blank">SitePoint</a> que <a href="http://www.sitepoint.com/html5-time-element-guide/" target="_blank">explica bastante coisa</a> sobre este elemento e resolvi traduzir pra gente.
+Um desses elementos é o `time`. Já havia lido sobre ele, mas nunca tinha ido muito a fundo. Esses dias encontrei um texto do <a href="https://twitter.com/AurelioDeRosa" target="_blank">Aurelio De Rosa</a> no <a href="https://www.sitepoint.com/" target="_blank">SitePoint</a> que <a href="https://www.sitepoint.com/html5-time-element-guide/" target="_blank">explica bastante coisa</a> sobre este elemento e resolvi traduzir pra gente.
 
 &#8212;
 
@@ -259,7 +259,7 @@ Tempo &#8211; uma das poucas coisas que sabemos que é infinita. Os seres human
 
 Na web essa necessidade não é diferente. Mesmo nesse meio, precisamos nos comunicar com outras pessoas de que alguma coisa aconteceu em um determinado ponto, em uma data específica, ou em relação a um outro tempo definido.
 
-Antes do HTML5 não tivemos nenhum elemento para marcar semanticamente uma data ou hora. Nos últimos anos, outras soluções, como os <a href="http://microformats.org/" target="_blank">Microformats</a> e <a href="http://en.wikipedia.org/wiki/Microdata_%28HTML%29" target="_blank">Microdata</a>, tentaram preencher esta lacuna para situações específicas (data de nascimento, a publicação de um livro, e assim por diante).
+Antes do HTML5 não tivemos nenhum elemento para marcar semanticamente uma data ou hora. Nos últimos anos, outras soluções, como os <a href="https://microformats.org/" target="_blank">Microformats</a> e <a href="https://en.wikipedia.org/wiki/Microdata_%28HTML%29" target="_blank">Microdata</a>, tentaram preencher esta lacuna para situações específicas (data de nascimento, a publicação de um livro, e assim por diante).
 
 Nesse artigo eu irei cobrir o elemento `time` do HTML5, o que ajuda a responder à necessidade de que acabamos de discutir.
 
@@ -267,7 +267,7 @@ Nesse artigo eu irei cobrir o elemento `time` do HTML5, o que ajuda a responder 
 
 O elemento `time` foi introduzido na especificação do HTML5 em 2009. Então, em 2011 foi trocado  em favor do `data`. Então, em seguida, o elemento foi reintroduzido e melhorado para permitir novos formatos de data/hora. A partir deste ponto você pode ver que as especificações podem ser bastante controversas.
 
-O elemento `time` representa uma data e/ou um tempo no <a href="http://en.wikipedia.org/wiki/Gregorian_calendar" target="_blank">calendário gregoriano</a>. É um elemento inline (como `<span>` e `<a>`) e deve ter uma tag de fechamento (como `<div>` e `<span>`). Quando usado na sua forma mais simples, o conteúdo do elemento deve ser uma string <a href="http://www.w3.org/TR/html5/text-level-semantics.html#the-time-element" target="_blank">de data e/ou tempo válidas</a>.
+O elemento `time` representa uma data e/ou um tempo no <a href="https://en.wikipedia.org/wiki/Gregorian_calendar" target="_blank">calendário gregoriano</a>. É um elemento inline (como `<span>` e `<a>`) e deve ter uma tag de fechamento (como `<div>` e `<span>`). Quando usado na sua forma mais simples, o conteúdo do elemento deve ser uma string <a href="https://www.w3.org/TR/html5/text-level-semantics.html#the-time-element" target="_blank">de data e/ou tempo válidas</a>.
 
 Um exemplo abaixo:
 
@@ -332,9 +332,9 @@ Nesse caso, 05 de setembro de 2014 seria a data de publicação desse `article`.
 
 Eu fui um grande fã deste atributo desde que aprendi bastante sobre isso, mas, infelizmente, ele foi removido da especificação. Essa decisão criou um grande problema, porque um grande número de pessoas (inclusive eu) usam a data de publicação para julgar o frescor e a relevância de um artigo ou notícia. Embora seja verdade que você ainda possa acessar a página de um artigo e ver a data de publicação, precisamos de uma forma padrão para uma máquina de ler a data.
 
-No atual momento não existe um atributo que substitua `pubdate`, mas você pode empregar o <a href="http://schema.org/BlogPosting" target="_blank">BlogPosting schema</a>, e especificamente o valor `datePublished` como mostrado abaixo:
+No atual momento não existe um atributo que substitua `pubdate`, mas você pode empregar o <a href="https://schema.org/BlogPosting" target="_blank">BlogPosting schema</a>, e especificamente o valor `datePublished` como mostrado abaixo:
 
-<pre class="lang-html">&lt;article itemscope itemType="http://schema.org/BlogPosting"&gt;
+<pre class="lang-html">&lt;article itemscope itemType="https://schema.org/BlogPosting"&gt;
         &lt;h1 itemprop="headline"&gt;Um título&lt;/h1&gt;
         &lt;p itemprop="articleBody"&gt;Conteúdo do article.&lt;/p&gt;
  
@@ -446,16 +446,16 @@ Em caso da necessidade de especificar melhor o período, após o _&#8220;D&#8221
 &lt;time datetime="P4DT4H3M"&gt;quatro dias&lt;/time&gt;
 </pre>
 
-Esse formato também permite a você especificar um ou mais <a href="http://www.w3.org/TR/html5/infrastructure.html#duration-time-component" target="_blank">componentes de duração de tempo</a>.
+Esse formato também permite a você especificar um ou mais <a href="https://www.w3.org/TR/html5/infrastructure.html#duration-time-component" target="_blank">componentes de duração de tempo</a>.
 
 ## Limitações
 
-A especificação atual tem algumas limitações no que você pode definir com o elemento `time`. Uma dessas limitações é que você não pode indicar intervalos de datas. Então, se você estiver escrevendo um post sobre uma conferência que dura mais de um dia, por exemplo a partir de 26 de junho de 2014 a 28 de junho de 2014, você terá que usar dois elementos `time`. Um bom exemplo pode ser encontrado na <a href="http://aurelio.audero.it/speaking" target="_blank">página sobre palestras do meu website</a>, onde eu uso o elemento `time`, como mostrado abaixo:
+A especificação atual tem algumas limitações no que você pode definir com o elemento `time`. Uma dessas limitações é que você não pode indicar intervalos de datas. Então, se você estiver escrevendo um post sobre uma conferência que dura mais de um dia, por exemplo a partir de 26 de junho de 2014 a 28 de junho de 2014, você terá que usar dois elementos `time`. Um bom exemplo pode ser encontrado na <a href="https://aurelio.audero.it/speaking" target="_blank">página sobre palestras do meu website</a>, onde eu uso o elemento `time`, como mostrado abaixo:
 
 <pre class="lang-html">&lt;time datetime="2014-06-28"&gt;26&lt;span class="hidden"&gt;de Junho de 2014&lt;/span&gt;&lt;/time&gt;-&lt;time datetime="2014-06-28"&gt;28 Junho 2014&lt;/time&gt;
 </pre>
 
-Outra limitação é que você não pode usar o elemento `time` para representar datas antes da <a href="http://en.wikipedia.org/wiki/Common_Era" target="_blank">Era Comum</a>.
+Outra limitação é que você não pode usar o elemento `time` para representar datas antes da <a href="https://en.wikipedia.org/wiki/Common_Era" target="_blank">Era Comum</a>.
 
 ## Suporte
 
@@ -488,10 +488,10 @@ Tradução autorizada pelo [SitePoint][7].
 
 Qualquer erro ou sugestão de melhoria na tradução, é bem vinda! <img class="wp-smiley" src="https://tableless.com.br/wp-includes/images/smilies/icon_smile.gif" alt=":)" />
 
- [1]: http://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-time-element
+ [1]: https://www.w3.org/html/wg/drafts/html/master/text-level-semantics.html#the-time-element
  [2]: https://html.spec.whatwg.org/multipage/semantics.html#the-time-element
  [3]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time
  [4]: https://wiki.whatwg.org/wiki/Time_element
- [5]: http://www.sitepoint.com/html5-time-element-guide/
+ [5]: https://www.sitepoint.com/html5-time-element-guide/
  [6]: https://twitter.com/AurelioDeRosa "Perfil do twitter"
- [7]: http://www.sitepoint.com/
+ [7]: https://www.sitepoint.com/

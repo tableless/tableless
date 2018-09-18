@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356406647
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/sections-elemento-nav";s:7:"tinyurl";s:26:"http://tinyurl.com/3fb7dsx";s:4:"isgd";s:19:"http://is.gd/aRROWm";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/sections-elemento-nav";s:7:"tinyurl";s:26:"https://tinyurl.com/3fb7dsx";s:4:"isgd";s:19:"https://is.gd/aRROWm";}'
 twittercomments:
   - 'a:1:{i:12674706184347648;s:6:"136333";}'
 tweetcount:
@@ -89,4 +89,4 @@ Dentro da `nav` você pode agrupar uma série de listas de links.
 
 A tag `nav` também pode estar em todos os elementos do HTML. Você pode colocá-la no `header` para definir menus, no `footer` para definir grupos de links, sidebars, articles e etc.
 
- [1]: http://tableless.com.br/sections-html5
+ [1]: https://tableless.com.br/sections-html5

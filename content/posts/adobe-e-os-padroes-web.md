@@ -22,12 +22,12 @@ A <del>Adobe</del> Macromedia, sem dúvida, revolucionou a web com a criação d
 
 Depois da atitude da Apple de barrar o Flash de seus aparelhos, o que a Adobe faria? Quando a Adobe percebeu que seu software não teria vez, ela foi **obrigada** a seguir outro caminho. Graças ao grande senhor das montanhas indígenas extraterrestres, eles tomaram o caminho correto. A Adobe tem tido algumas iniciativas para ajudar os desenvolvedores a criarem websites melhores. Se não pode com eles, junte-se a eles.
 
-Para você entender o que eu quero dizer, a Adobe criou um [http://html.adobe.com][1] para divulgar suas iniciativas para com a comunidade de desenvolvedores. As ideias expostas no site são sensacionais e eu, particularmente, quero muito que tudo se torne verdade. Separe um tempo e visite esse site. Você não vai perder nada.
+Para você entender o que eu quero dizer, a Adobe criou um [https://html.adobe.com][1] para divulgar suas iniciativas para com a comunidade de desenvolvedores. As ideias expostas no site são sensacionais e eu, particularmente, quero muito que tudo se torne verdade. Separe um tempo e visite esse site. Você não vai perder nada.
 
 Eles tem um software interessante que te ajuda a testar a responsividade do seu layout em diversos aparelhos e tem algumas sugestões de novos padrões que poderão nos ajudar demais em desenvolvimentos específicos. Leia sobre o CSS Regions e o [CSS Shaders][2]. Tem também o [PhoneGap][3].
 
 Parabéns para Adobe.
 
- [1]: http://html.adobe.com/
- [2]: http://tableless.com.br/introducao-ao-css-shaders/ "Introdução ao CSS Shaders – Parte 1"
- [3]: http://html.adobe.com/toolsandservices/phonegap/
+ [1]: https://html.adobe.com/
+ [2]: https://tableless.com.br/introducao-ao-css-shaders/ "Introdução ao CSS Shaders – Parte 1"
+ [3]: https://html.adobe.com/toolsandservices/phonegap/

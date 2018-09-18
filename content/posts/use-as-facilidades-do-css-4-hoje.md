@@ -95,13 +95,13 @@ CSS 4 está trazendo muitas features interessantes para seletores inteligentes, 
   * [CSS4 Rocks][9]
   * [PostCSS][10]
 
- [1]: http://cssnext.io/features/
+ [1]: https://cssnext.io/features/
  [2]: https://github.com/reworkcss/rework
  [3]: https://github.com/postcss/postcss
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/variables.gif
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/gray.gif
  [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/any-link.gif
- [7]: http://tableless.com.br/seletores-css-nivel-4-o-que-vem-por-ai/
- [8]: http://cssnext.io/
- [9]: http://css4.rocks/
+ [7]: https://tableless.com.br/seletores-css-nivel-4-o-que-vem-por-ai/
+ [8]: https://cssnext.io/
+ [9]: https://css4.rocks/
  [10]: https://github.com/postcss/

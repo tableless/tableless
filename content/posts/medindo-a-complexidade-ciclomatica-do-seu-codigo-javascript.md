@@ -39,11 +39,11 @@ Explicando de forma bem direta, complexidade ciclomática é uma métrica do nú
 
 A função **authenticate** possui valor **2** de complexidade ciclomática. Na prática, isso quer dizer que precisaríamos escrever dois testes unitários para cobrir todos os possíveis caminhos. Ou seja, quanto mais caminhos, maior a complexidade ciclomática e, quanto maior a complexidade ciclomática, mais difícil será de manter/testar seu código.
 
-<a href="http://www.mccabe.com/pdf/MeasuringSoftwareComplexityUAV.pdf" target="_blank">Estudos</a> recomendam **10** como o valor máximo que você deve permitir de complexidade ciclomática no seu método ou sua função. Este é um bom valor, mas tenha em mente que **10** já é uma complexidade alta e não deve, de forma alguma, ser a média de complexidade do seu projeto.
+<a href="https://www.mccabe.com/pdf/MeasuringSoftwareComplexityUAV.pdf" target="_blank">Estudos</a> recomendam **10** como o valor máximo que você deve permitir de complexidade ciclomática no seu método ou sua função. Este é um bom valor, mas tenha em mente que **10** já é uma complexidade alta e não deve, de forma alguma, ser a média de complexidade do seu projeto.
 
 ## Bad Fix
 
-Outra métrica tirada a partir da complexidade ciclomática é a probabilidade de uma correção injetar novos bugs no seu código. O pessoal da Aivosto, uma empresa especializada em ferramentas para desenvolvedores, chegou a <a href="http://www.aivosto.com/project/help/pm-complexity.html" target="_blank">seguinte tabela</a>:
+Outra métrica tirada a partir da complexidade ciclomática é a probabilidade de uma correção injetar novos bugs no seu código. O pessoal da Aivosto, uma empresa especializada em ferramentas para desenvolvedores, chegou a <a href="https://www.aivosto.com/project/help/pm-complexity.html" target="_blank">seguinte tabela</a>:
 
 <table>
   <tr>
@@ -125,9 +125,9 @@ Os relatórios do Plato armazenam históricos e é bem interessante ver os núme
 
 Abaixo temos alguns exemplos de relatórios disponibilizados no repositório do projeto, gerados a partir de bibliotecas e utilitários populares:
 
-  * <a href="http://jsoverson.github.com/plato/examples/jquery/" target="_blank">jquery</a>
-  * <a href="http://jsoverson.github.com/plato/examples/grunt/" target="_blank">grunt</a>
-  * <a href="http://jsoverson.github.com/plato/examples/marionette/" target="_blank">marionettejs</a>
+  * <a href="https://jsoverson.github.com/plato/examples/jquery/" target="_blank">jquery</a>
+  * <a href="https://jsoverson.github.com/plato/examples/grunt/" target="_blank">grunt</a>
+  * <a href="https://jsoverson.github.com/plato/examples/marionette/" target="_blank">marionettejs</a>
 
 ## Bugs estimados
 
@@ -137,9 +137,9 @@ Abaixo temos alguns exemplos de relatórios disponibilizados no repositório do 
 
 Um gráfico que chama a atenção nos relatórios do Plato é o de bugs estimados. Afinal de contas, entregar um produto sem bugs é (ou deveria ser) o objetivo final de qualquer desenvolvedor.
 
-Maurice Howard Halstead criou um <a href="http://www.amazon.com/Elements-Software-Science-Operating-programming/dp/0444002057" target="_blank">conjunto de fórmulas</a> para medir coisas como volume, esforço, dificuldade e bugs estimados em um código. As fórmulas são baseadas nos números únicos e totais de operadores e operandos.
+Maurice Howard Halstead criou um <a href="https://www.amazon.com/Elements-Software-Science-Operating-programming/dp/0444002057" target="_blank">conjunto de fórmulas</a> para medir coisas como volume, esforço, dificuldade e bugs estimados em um código. As fórmulas são baseadas nos números únicos e totais de operadores e operandos.
 
-Não vou entrar muito em detalhes sobre os valores e as fórmulas, mas é bem interessante ler sobre esse assunto (não precisa ser o livro, a Wikipedia mesmo fornece uma <a href="http://en.wikipedia.org/wiki/Halstead_complexity_measures" target="_blank">página</a> bem completa sobre as fórmulas).
+Não vou entrar muito em detalhes sobre os valores e as fórmulas, mas é bem interessante ler sobre esse assunto (não precisa ser o livro, a Wikipedia mesmo fornece uma <a href="https://en.wikipedia.org/wiki/Halstead_complexity_measures" target="_blank">página</a> bem completa sobre as fórmulas).
 
 ## Integração com Grunt
 
@@ -170,5 +170,5 @@ Apesar do nome pomposo e de muita teoria, não é pra ninguém ficar assustado. 
 
 E lembrem-se: nunca refatore um código sem que ele possua uma cobertura de testes satisfatória!
 
- [1]: http://tableless.com.br/testando-seu-codigo-jquery-com-jasmine-parte-1/
- [2]: http://tableless.com.br/qualidade-codigo-javascript/
+ [1]: https://tableless.com.br/testando-seu-codigo-jquery-com-jasmine-parte-1/
+ [2]: https://tableless.com.br/qualidade-codigo-javascript/

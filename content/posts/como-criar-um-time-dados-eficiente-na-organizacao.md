@@ -46,7 +46,7 @@ problemas da sua organização.**
 Na onda do [hype do Big
 Data](https://medium.com/tableless/as-verdades-que-o-mercado-brasileiro-e-vocÃª-precisam-ouvir-sobre-big-data-9fb6f8d5b9d3),
 muitas organizações estão começando a aplicar o conceito de [Data
-Lake](http://www.kdnuggets.com/2015/09/data-lake-vs-data-warehouse-key-differences.html)
+Lake](https://www.kdnuggets.com/2015/09/data-lake-vs-data-warehouse-key-differences.html)
 em suas operações de tecnologia. Estão se distanciando das ferramentas e
 técnicas tradicionais de [Business
 Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)*. *Tudo na

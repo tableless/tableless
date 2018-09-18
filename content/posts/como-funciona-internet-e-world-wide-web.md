@@ -26,7 +26,7 @@ Antes de falarmos sobre a Web, precisamos conhecer um pouco sobre **rede de comp
 
 <img class="alignnone wp-image-51929 size-full" title="Redes de computadores" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/computer-network.png" alt="Redes de computadores" width="760" height="400" />
 
-Suponha que queira acessar o site do **<a href="http://www.pensandonaweb.com.br" target="_blank">Pensando na Web</a>** para ler alguns posts interessantes sobre desenvolvimento web. Daí você abre o seu navegador predileto e digita `www.pensandonaweb.com.br` na barra de endereços e, passados poucos segundos, a página inicial do blog é exibida. Como esse processo todo, aparentemente simples, ocorre?
+Suponha que queira acessar o site do **<a href="https://www.pensandonaweb.com.br" target="_blank">Pensando na Web</a>** para ler alguns posts interessantes sobre desenvolvimento web. Daí você abre o seu navegador predileto e digita `www.pensandonaweb.com.br` na barra de endereços e, passados poucos segundos, a página inicial do blog é exibida. Como esse processo todo, aparentemente simples, ocorre?
 
 ## Endereço IP e portas
 

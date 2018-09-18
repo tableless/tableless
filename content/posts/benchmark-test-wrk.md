@@ -118,7 +118,7 @@ func fibonacci(num int) int {
 Ambas as aplicações vão rodar na porta 5050 e vamos executar o seguinte teste: fazer a requisição no nossa aplicação durante 10 segundos simulando 100 conexões, ou seja, vamos ter que executar o seguinte comando **wrk**
 
 ```
-$ wrk -c 100 -d 10s http://localhost:5050
+$ wrk -c 100 -d 10s https://localhost:5050
 ```
 
 ## Testando a aplicação Node

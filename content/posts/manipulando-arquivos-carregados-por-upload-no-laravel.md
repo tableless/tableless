@@ -21,7 +21,7 @@ Você pode encontrar essa evidência da <code>SplFileInfo</code> na classe <a h
 <pre>class File extends \SplFileInfo 
 {</pre>
 
-Essa referência a uma classe do <a href="http://symfony.com/" target="_blank">Symfony</a> pode parecer estranha se você não tem familiriadade com a arquitetura do Laravel, mas ele usa vários componentes do Symfony internamente.
+Essa referência a uma classe do <a href="https://symfony.com/" target="_blank">Symfony</a> pode parecer estranha se você não tem familiriadade com a arquitetura do Laravel, mas ele usa vários componentes do Symfony internamente.
 
 Bom, vamos ver como é possível fazer a manipulação na prática!
 

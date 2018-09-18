@@ -7,7 +7,7 @@ url: /footiefox-a-copa-em-nosso-navegador-predileto/
 tweetbackscheck:
   - 1356466779
 shorturls:
-  - 'a:3:{s:9:"permalink";s:69:"http://tableless.com.br/footiefox-a-copa-em-nosso-navegador-predileto";s:7:"tinyurl";s:26:"http://tinyurl.com/3ollp78";s:4:"isgd";s:19:"http://is.gd/70iw0P";}'
+  - 'a:3:{s:9:"permalink";s:69:"https://tableless.com.br/footiefox-a-copa-em-nosso-navegador-predileto";s:7:"tinyurl";s:26:"https://tinyurl.com/3ollp78";s:4:"isgd";s:19:"https://is.gd/70iw0P";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035522
@@ -23,4 +23,4 @@ Dica do Marcelo Moreschi: [FootieFox][1], acompanhe os jogos da Copa do Mundo em
 
 <!--more-->Interessante e impressionante, mostra um pouco do potencial da plataforma Mozilla, do XML e da Web. A aplicação é multi-plataforma, multi-idioma e atualizada em tempo real. Há alguns o desenvolvimento de uma aplicação dessas era um trabalho e tanto. Hoje é quase trivial.
 
- [1]: http://www.hpi.uni-potsdam.de/footiefox/?L=1
+ [1]: https://www.hpi.uni-potsdam.de/footiefox/?L=1

@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356388653
 shorturls:
-  - 'a:3:{s:9:"permalink";s:68:"http://tableless.com.br/layout-fixo-fluido-de-3-colunas-em-8-minutos";s:7:"tinyurl";s:26:"http://tinyurl.com/3p9a9h4";s:4:"isgd";s:19:"http://is.gd/7b2XNa";}'
+  - 'a:3:{s:9:"permalink";s:68:"https://tableless.com.br/layout-fixo-fluido-de-3-colunas-em-8-minutos";s:7:"tinyurl";s:26:"https://tinyurl.com/3p9a9h4";s:4:"isgd";s:19:"https://is.gd/7b2XNa";}'
 twittercomments:
   - 'a:12:{i:9948339156029440;s:7:"retweet";i:9898013027737600;s:7:"retweet";i:46309164930183168;s:7:"retweet";i:46308049937383424;s:7:"retweet";i:46307772807131136;s:7:"retweet";i:46291797089058816;s:7:"retweet";i:46276549661556736;s:7:"retweet";i:46276273185624064;s:7:"retweet";i:46276147134201857;s:7:"retweet";i:46274651185352706;s:7:"retweet";i:50379513451909121;s:6:"137326";i:50660352467288064;s:6:"137351";}'
 tweetcount:
@@ -51,7 +51,7 @@ Sem áudio não preciso fica me preocupando com a explicação, só digito, grav
 Se você quiser mais vídeos e em alta-resolução, visite o [Campus Online][4]. Lá você vai encontrar [vídeos tutoriais de Tableless, Ajax, Javascript][5] e boas práticas de desenvolvimento web.
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2008/06/3colunas-oitominutos.html
- [2]: http://www.vimeo.com/1148661?pg=embed&sec=1148661
- [3]: http://tableless.com.br/sobre-nomes-e-sobrenomes
- [4]: http://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
- [5]: http://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"
+ [2]: https://www.vimeo.com/1148661?pg=embed&sec=1148661
+ [3]: https://tableless.com.br/sobre-nomes-e-sobrenomes
+ [4]: https://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
+ [5]: https://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"

@@ -17,7 +17,7 @@ tags:
 ---
 De todo o trabalho que você tem ao programar uma aplicação android, uma grande parte dele é por conta de todo o código _boilerplate_ que **sempre** temos que fazer. Uma das coisas que mais me incomoda é que todos os recursos (_views e afins_) precisam ser referenciados para poderem ser acessados e isso, dependendo da quantidade de recursos que você precisa ter na aplicação, pode resultar em muitas e muitas linhas de código. Se você precisar criar eventos, serviços, _broadcasts_, _adapters_ ou rodar o código em uma nova _thread_  nem vou colocar em questão aqui!
 
-Nós que programamos para android acabamos nos <del>conformando</del> acostumando com todo esse código e tempo perdido que ele gera para ser produzido porque, num fluxo normal de desenvolvimento, ele é inevitável. Sem falar em classes gigantes as quais precisaremos manter depois. E foi exatamente por estes motivos que as **<a href="http://androidannotations.org/" target="_blank">Android Annotations</a> ** foram criadas.
+Nós que programamos para android acabamos nos <del>conformando</del> acostumando com todo esse código e tempo perdido que ele gera para ser produzido porque, num fluxo normal de desenvolvimento, ele é inevitável. Sem falar em classes gigantes as quais precisaremos manter depois. E foi exatamente por estes motivos que as **<a href="https://androidannotations.org/" target="_blank">Android Annotations</a> ** foram criadas.
 
 Essas anotações fazem parte de um framework de código livre, que utiliza <a href="https://pt.wikipedia.org/wiki/Inje%C3%A7%C3%A3o_de_depend%C3%AAncia" target="_blank">injeção de dependência</a>, para nos ajudar a eliminar todo aquele _boilerplate_, trocando-os por anotações. Uma vez que diminuímos a quantidade de código que temos que escrever, fica mais fácil de manter a aumentamos a velocidade com que desenvolvemos nossas aplicações.
 
@@ -26,8 +26,8 @@ Vou demonstrar aqui como utilizar as _annotation__s _em alguns dos elementos q
 Primeiro vamos declarar nosso layout num arquivo XML (não estou me preocupando com a estética do layout)
 
 <pre class="xml">&lt;!-- activity_register.xml --&gt;
-&lt;LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+&lt;LinearLayout xmlns:android="https://schemas.android.com/apk/res/android"
+    xmlns:tools="https://schemas.android.com/tools"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:orientation="vertical"

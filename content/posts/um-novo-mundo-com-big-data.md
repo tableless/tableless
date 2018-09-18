@@ -75,7 +75,7 @@ A Revista Harvard Business publicou em outubro do ano passado que a área de Dat
 Algumas referências para vocês aprenderem mais:
 
   * [Curso de Data Science Coursera.][1]
-  * <a href="http://www-01.ibm.com/software/data/infosphere/data-scientist/" target="_blank">IBM Data Scientist </a>
+  * <a href="https://www-01.ibm.com/software/data/infosphere/data-scientist/" target="_blank">IBM Data Scientist </a>
 
 Isto foi apenas uma amostra de uma área incrível e promissora. Espero que tenham curtido e ficado curiosos a respeito. Até uma próxima.
 

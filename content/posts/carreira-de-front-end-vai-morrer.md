@@ -180,27 +180,27 @@ Minha outra aposta é sobre a profissão de UX, que vai desaparecer não porque 
  [4]: https://protoship.io/tools/uipad.html
  [5]: https://tableless.com.br/o-webassembly-vem-ai/
  [6]: https://www.wired.com/2016/10/ubers-self-driving-truck-makes-first-delivery-50000-beers/
- [7]: http://movimentoux.com/work/felipememoria/
- [8]: http://www.fmemoria.com.br/
+ [7]: https://movimentoux.com/work/felipememoria/
+ [8]: https://www.fmemoria.com.br/
  [9]: https://www.shopify.com/partners/blog/91010886-3-easy-steps-for-working-with-realistic-data-in-sketch-using-json
  [10]: https://medium.com/@markjenkins/designing-with-data-7f6bcd907f0a#.95haya5yq
  [11]: https://blog.framer.com/prototype-with-real-data-in-framer-from-json-to-multi-device-and-internet-of-things-6eb1ae8b8325#.fo9b8i4gz
  [12]: https://medium.com/@anirudhs/project-comet-designing-with-real-data-959beccb5c1a#.v6khfndrh
  [13]: https://www.smashingmagazine.com/2010/01/lorem-ipsum-killing-designs/
  [14]: https://thenextweb.com/dd/2015/04/09/why-designers-should-never-use-fake-text/#.tnw_zjSSHkxh
- [15]: http://www.creativebloq.com/design/stop-using-lorem-ipsum-7116907
+ [15]: https://www.creativebloq.com/design/stop-using-lorem-ipsum-7116907
  [16]: https://signalvnoise.com/archives/001083.php
- [17]: http://webassembly.org/docs/faq/
+ [17]: https://webassembly.org/docs/faq/
  [18]: https://techcrunch.com/2015/06/17/google-microsoft-mozilla-and-others-team-up-to-launch-webassembly-a-new-binary-format-for-the-web/
  [19]: https://jaydson.com/webassembly-e-o-futuro-da-web/
  [20]: https://brendaneich.com/2015/06/from-asm-js-to-webassembly
  [21]: https://arstechnica.com/information-technology/2015/06/the-web-is-getting-its-bytecode-webassembly/
  [22]: https://frontend.directory/
- [23]: http://radify.io/blog/using-build-tools/
- [24]: http://usablica.github.io/front-end-frameworks/compare.html
+ [23]: https://radify.io/blog/using-build-tools/
+ [24]: https://usablica.github.io/front-end-frameworks/compare.html
  [25]: https://github.com/showcases/front-end-javascript-frameworks?s=stars
  [26]: https://www.sitepoint.com/front-end-tooling-trends-2017/
- [27]: http://blog.debugme.eu/front-end-web-developer-tools/
+ [27]: https://blog.debugme.eu/front-end-web-developer-tools/
  [28]: https://techbeacon.com/most-popular-javascript-front-end-tools
  [29]: https://colorlib.com/wp/top-templating-engines-for-javascript/
  [30]: https://speakerdeck.com/addyosmani/automating-front-end-workflow

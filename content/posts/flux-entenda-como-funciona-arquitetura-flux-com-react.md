@@ -19,10 +19,10 @@ O Flux (prefiro chamar assim) é uma arquitetura usada pelo Facebook, que junto 
 
 Caso você ainda não tenha noção do que é ou de como desenvolver com React, eu indico ler essa sequência de posts:
 
-  * Introdução sobre React: http://bit.ly/guia-react
-  * O que é React e como trabalhar com JSX: http://bit.ly/guia-react-pt1
-  * Virtual DOM e Criação de Componentes: http://bit.ly/guia-react-pt2
-  * Estados e propriedades de um Componente: http://bit.ly/guia-react-pt3
+  * Introdução sobre React: https://bit.ly/guia-react
+  * O que é React e como trabalhar com JSX: https://bit.ly/guia-react-pt1
+  * Virtual DOM e Criação de Componentes: https://bit.ly/guia-react-pt2
+  * Estados e propriedades de um Componente: https://bit.ly/guia-react-pt3
 
 O conteúdo é ótimo e em português.
 
@@ -295,13 +295,13 @@ Valeu gente!!!
 
 _Esse post foi originalmente publicado em [macgyvermartins.com.br][10]_
 
- [1]: http://facebook.github.io/react/docs/getting-started.html
- [2]: http://facebook.github.io/flux/docs/overview.html
+ [1]: https://facebook.github.io/react/docs/getting-started.html
+ [2]: https://facebook.github.io/flux/docs/overview.html
  [3]: https://github.com/facebook/flux/blob/master/src/Dispatcher.js
- [4]: http://notes.jetienne.com/2011/03/22/microeventjs.html
+ [4]: https://notes.jetienne.com/2011/03/22/microeventjs.html
  [5]: https://nodejs.org/api/events.html
  [6]: https://people.mozilla.org/~jorendorff/es6-draft.html#sec-object.assign
  [7]: https://github.com/sindresorhus/object-assign
  [8]: https://facebook.github.io/react/docs/component-specs.html
  [9]: https://github.com/facebook/flux/tree/master/examples/flux-todomvc
- [10]: http://macgyvermartins.com.br/como-funciona-a-arquitetura-flux-com-react/
+ [10]: https://macgyvermartins.com.br/como-funciona-a-arquitetura-flux-com-react/

@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356453509
 shorturls:
-  - 'a:3:{s:9:"permalink";s:62:"http://tableless.com.br/versionamento-inteligente-para-mobiles";s:7:"tinyurl";s:26:"http://tinyurl.com/3nn6jq9";s:4:"isgd";s:19:"http://is.gd/sSiR0n";}'
+  - 'a:3:{s:9:"permalink";s:62:"https://tableless.com.br/versionamento-inteligente-para-mobiles";s:7:"tinyurl";s:26:"https://tinyurl.com/3nn6jq9";s:4:"isgd";s:19:"https://is.gd/sSiR0n";}'
 twittercomments:
   - 'a:3:{i:47756324984983552;s:6:"137244";i:130255212161146881;s:7:"retweet";i:129968334593732608;s:7:"retweet";}'
 tweetcount:
@@ -56,6 +56,6 @@ O filtro ainda não está completo porque não estamos contemplando os aparelhos
 
 É sempre aquela mesma velha idéia: dar a melhor experiência para todos os meios de acesso. Sempre.
 
- [1]: http://tableless.com.br/porque-so-para-o-iphone
- [2]: http://tableless.com.br/introducao-sobre-media-queries
- [3]: http://tableless.com.br/o-que-sao-media-types
+ [1]: https://tableless.com.br/porque-so-para-o-iphone
+ [2]: https://tableless.com.br/introducao-sobre-media-queries
+ [3]: https://tableless.com.br/o-que-sao-media-types

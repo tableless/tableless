@@ -12,7 +12,7 @@ Recentemente participei de uma discussão onde o tema era: É possível substitu
 
 Deixando as coisas um pouco mais claras:
 
-Busca Orgânica &#8211; Você não paga por qualquer interação que receba de uma pesquisa, aqui você tem o potencial de ser localizado por seu publico, de maneira muito mais efetiva. Segundo a dados da <a href="http://www.33amd.com" target="_blank">agência SEO 33AMD</a>, buscas orgânicas tem métricas comportamentais até 80% maior que comparado as buscas patrocinadas.
+Busca Orgânica &#8211; Você não paga por qualquer interação que receba de uma pesquisa, aqui você tem o potencial de ser localizado por seu publico, de maneira muito mais efetiva. Segundo a dados da <a href="https://www.33amd.com" target="_blank">agência SEO 33AMD</a>, buscas orgânicas tem métricas comportamentais até 80% maior que comparado as buscas patrocinadas.
 
 Campanhas Patrocinadas &#8211; Pode ser Google Adwords, Facebook e Instagram Ads. Aqui você paga todas as vezes que seu cliente interagir com algum de seus anúncios. Este custo varia e você paga para ficar em posições de destaque rapidamente, sem muito esforço.
 

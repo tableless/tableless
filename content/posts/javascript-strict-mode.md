@@ -75,7 +75,7 @@ Hoje é muito comum concatenarmos arquivos para diminuir a quantidade de dados t
 
 ## O que muda?
 
-O _strict mode _trouxe várias mudanças na forma de como o JavaScript é executado. Mas vou focar nas principais partes. Caso queira descer mais ainda na toca do coelho, o artigo do_ _<span style="text-decoration: underline"><a style="color: #666666;text-decoration: underline" href="http://dmitrysoshnikov.com/ecmascript/es5-chapter-2-strict-mode/">Dmitry Soshnikov</a> é uma ótima leitura sobre todos os detalhes das mudanças que o <em>strict mode</em> trouxe.</p> 
+O _strict mode _trouxe várias mudanças na forma de como o JavaScript é executado. Mas vou focar nas principais partes. Caso queira descer mais ainda na toca do coelho, o artigo do_ _<span style="text-decoration: underline"><a style="color: #666666;text-decoration: underline" href="https://dmitrysoshnikov.com/ecmascript/es5-chapter-2-strict-mode/">Dmitry Soshnikov</a> é uma ótima leitura sobre todos os detalhes das mudanças que o <em>strict mode</em> trouxe.</p> 
 
 <h3 id="remoo_do_with">
   Remoção do <em>with</em>
@@ -279,7 +279,7 @@ var bar = 08;
 </p>
 
 <p>
-  De qualquer forma, você pode ter acesso a lista de compatibilidade do &#8220;use strict&#8221; junto aos navegadores, no no seguinte link: <a href="http://caniuse.com/use-strict">CanIUse</a>
+  De qualquer forma, você pode ter acesso a lista de compatibilidade do &#8220;use strict&#8221; junto aos navegadores, no no seguinte link: <a href="https://caniuse.com/use-strict">CanIUse</a>
 </p>
 
 <h2>
@@ -304,12 +304,12 @@ var bar = 08;
 
 <ul>
   <li>
-    <a href="http://www.nczonline.net/blog/2012/03/13/its-time-to-start-using-javascript-strict-mode/">Nicholas C. Zakas. It’s time to start using JavaScript strict mode</a>
+    <a href="https://www.nczonline.net/blog/2012/03/13/its-time-to-start-using-javascript-strict-mode/">Nicholas C. Zakas. It’s time to start using JavaScript strict mode</a>
   </li>
   <li>
-    <a href="http://loopinfinito.com.br/2013/07/16/javascript-strict-mode/">Caio Gondim. JavaScript Strict Mode. Lopinfinito</a>
+    <a href="https://loopinfinito.com.br/2013/07/16/javascript-strict-mode/">Caio Gondim. JavaScript Strict Mode. Lopinfinito</a>
   </li>
   <li>
-    <a href="http://tutsmais.com.br/blog/javascript-2/o-que-e-o-mode-strict-dojavascript/">Rodrigo Nery. O que é o Mode Strict no JavaScript.</a>
+    <a href="https://tutsmais.com.br/blog/javascript-2/o-que-e-o-mode-strict-dojavascript/">Rodrigo Nery. O que é o Mode Strict no JavaScript.</a>
   </li>
 </ul>

@@ -373,7 +373,7 @@ Na timeline abaixo, [retirada da documentação da API][8], é possível ver o f
 &nbsp;
 
 <div style="width: 576px" class="wp-caption aligncenter">
-  <a href="http://www.w3.org/TR/navigation-timing/timing-overview.png"><img class="   " alt="Modelo de Processo da Navigation Timing API" src="https://www.w3.org/TR/navigation-timing/timing-overview.png" width="566" height="338" /></a>
+  <a href="https://www.w3.org/TR/navigation-timing/timing-overview.png"><img class="   " alt="Modelo de Processo da Navigation Timing API" src="https://www.w3.org/TR/navigation-timing/timing-overview.png" width="566" height="338" /></a>
   
   <p class="wp-caption-text">
     Modelo de Processo da Navigation Timing API
@@ -520,38 +520,38 @@ Outra aplicação mais completa é o [bookmarket desenvolvido pela Kasia][13], c
 
 ## Referências e mais recursos
 
-Can I Use… **Navigation Timing API**. Disponível em: <http://caniuse.com/#feat=nav-timing>
+Can I Use… **Navigation Timing API**. Disponível em: <https://caniuse.com/#feat=nav-timing>
 
-Colin Ihrig. **Profiling Page Loads with the Navigation Timing API**. Disponível em: <http://www.sitepoint.com/profiling-page-loads-with-the-navigation-timing-api/>
+Colin Ihrig. **Profiling Page Loads with the Navigation Timing API**. Disponível em: <https://www.sitepoint.com/profiling-page-loads-with-the-navigation-timing-api/>
 
-Internet Explorer Developer Center. **Navigation timing (Windows)**. Disponível em: <http://msdn.microsoft.com/en-us/library/ie/hh673552(v=vs.85).aspx>
+Internet Explorer Developer Center. **Navigation timing (Windows)**. Disponível em: <https://msdn.microsoft.com/en-us/library/ie/hh673552(v=vs.85).aspx>
 
-Kasia Drzyzga. Breaking Down OnLoad Event – Performance Bookmarklet. Disponível em: <http://66.7percentangel.com/2011/12/breaking-down-onload-event-performance-bookmarklet/>
+Kasia Drzyzga. Breaking Down OnLoad Event – Performance Bookmarklet. Disponível em: <https://66.7percentangel.com/2011/12/breaking-down-onload-event-performance-bookmarklet/>
 
-Leigh Shevchik. **It’s All in the Timing: How to Use the Navigation Timing Specification to Improve Web Performance**. Disponível em: <http://blog.newrelic.com/2012/05/16/its-all-in-the-timing-how-to-use-the-navigation-timing-specification-to-improve-web-performance/>
+Leigh Shevchik. **It’s All in the Timing: How to Use the Navigation Timing Specification to Improve Web Performance**. Disponível em: <https://blog.newrelic.com/2012/05/16/its-all-in-the-timing-how-to-use-the-navigation-timing-specification-to-improve-web-performance/>
 
-Microsoft MSDN. **performanceTiming object**. Disponível em: <http://msdn.microsoft.com/en-us/library/ff975075>
+Microsoft MSDN. **performanceTiming object**. Disponível em: <https://msdn.microsoft.com/en-us/library/ff975075>
 
 Mozilla Developer Network. **Navigation Timing**. Disponível em: <https://developer.mozilla.org/en-US/docs/Navigation_timing>
 
-Sam Dutton. **Measuring Page Load Speed with Navigation Timing**. Disponível em: <http://www.html5rocks.com/en/tutorials/webperformance/basics/>
+Sam Dutton. **Measuring Page Load Speed with Navigation Timing**. Disponível em: <https://www.html5rocks.com/en/tutorials/webperformance/basics/>
 
-W3C. **HTML5: A vocabulary and associated APIs for HTML and XHTML**. Disponível em: <http://www.w3.org/TR/html5/syntax.html>
+W3C. **HTML5: A vocabulary and associated APIs for HTML and XHTML**. Disponível em: <https://www.w3.org/TR/html5/syntax.html>
 
-W3C. **Navigation Timing**. Disponível em: <http://www.w3.org/TR/navigation-timing/>
+W3C. **Navigation Timing**. Disponível em: <https://www.w3.org/TR/navigation-timing/>
 
 &nbsp;
 
- [1]: http://tableless.com.br/performance-frontend-parte1/#.UTYrNTDFSSo
- [2]: http://tableless.com.br/como-perder-peso-no-browser/#.UT4quRzFSSo
- [3]: http://www.w3.org/TR/navigation-timing/
+ [1]: https://tableless.com.br/performance-frontend-parte1/#.UTYrNTDFSSo
+ [2]: https://tableless.com.br/como-perder-peso-no-browser/#.UT4quRzFSSo
+ [3]: https://www.w3.org/TR/navigation-timing/
  [4]: https://developers.google.com/speed/pagespeed/insights
- [5]: http://www.webpagetest.org/
- [6]: http://caniuse.com/#feat=nav-timing
- [7]: http://66.7percentangel.com/2011/12/breaking-down-onload-event-performance-bookmarklet/
- [8]: http://www.w3.org/TR/navigation-timing/#processing-model
- [9]: http://www.html5rocks.com/en/tutorials/webperformance/basics/
- [10]: http://www.sitepoint.com/profiling-page-loads-with-the-navigation-timing-api/
+ [5]: https://www.webpagetest.org/
+ [6]: https://caniuse.com/#feat=nav-timing
+ [7]: https://66.7percentangel.com/2011/12/breaking-down-onload-event-performance-bookmarklet/
+ [8]: https://www.w3.org/TR/navigation-timing/#processing-model
+ [9]: https://www.html5rocks.com/en/tutorials/webperformance/basics/
+ [10]: https://www.sitepoint.com/profiling-page-loads-with-the-navigation-timing-api/
  [11]: https://developer.mozilla.org/en-US/docs/Navigation_timing
- [12]: http://webtimingdemo.appspot.com/
- [13]: http://kaaes.github.com/timing/
+ [12]: https://webtimingdemo.appspot.com/
+ [13]: https://kaaes.github.com/timing/

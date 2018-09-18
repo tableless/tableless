@@ -27,4 +27,4 @@ Local do Evento: SENAI LARANJEIRAS &#8211; R. Esteves Júnior, 47 &#8211; Laranj
   
 Data do Hackathon: 13 a 15 de Outubro.
 
- [1]: http://bit.ly/sesi-cultura-hackathon2016
+ [1]: https://bit.ly/sesi-cultura-hackathon2016

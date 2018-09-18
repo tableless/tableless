@@ -8,7 +8,7 @@ url: /drops-10-web-apps-ou-instalaveis-no-dispositivos/
 tweetbackscheck:
   - 1356392618
 shorturls:
-  - 'a:3:{s:9:"permalink";s:73:"http://tableless.com.br/drops-10-web-apps-ou-instalaveis-no-dispositivos/";s:7:"tinyurl";s:26:"http://tinyurl.com/cym7csc";s:4:"isgd";s:19:"http://is.gd/bvOBfW";}'
+  - 'a:3:{s:9:"permalink";s:73:"https://tableless.com.br/drops-10-web-apps-ou-instalaveis-no-dispositivos/";s:7:"tinyurl";s:26:"https://tinyurl.com/cym7csc";s:4:"isgd";s:19:"https://is.gd/bvOBfW";}'
 twittercomments:
   - 'a:8:{i:216197169290559489;s:7:"retweet";i:216181412972339201;s:7:"retweet";i:216180507115925505;s:7:"retweet";i:216172946828439552;s:7:"retweet";i:216023104365924352;s:7:"retweet";i:215977721887604737;s:7:"retweet";i:215976976719159296;s:7:"retweet";i:215972337051385857;s:7:"retweet";}'
 tweetcount:
@@ -16,7 +16,7 @@ tweetcount:
 enclosure:
   - |
     |
-        http://tableless.com.br/podcast/drops10.mp3
+        https://tableless.com.br/podcast/drops10.mp3
         4545637
         audio/mpeg
         
@@ -40,5 +40,5 @@ Essa é uma discussão antiga e não dá para dizer o que é certo e errado por 
 
 [Link direto do arquivo][1]. [RSS direto do podcast][2].
 
- [1]: http://tableless.com.br/podcast/drops10.mp3
+ [1]: https://tableless.com.br/podcast/drops10.mp3
  [2]: feed://tableless.com.br/categoria/podcasts/feed/

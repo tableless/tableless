@@ -7,7 +7,7 @@ url: /opera_windows_mobile/
 tweetbackscheck:
   - 1355218395
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/opera_windows_mobile";s:7:"tinyurl";s:26:"http://tinyurl.com/4yry732";s:4:"isgd";s:19:"http://is.gd/cH0myt";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/opera_windows_mobile";s:7:"tinyurl";s:26:"https://tinyurl.com/4yry732";s:4:"isgd";s:19:"https://is.gd/cH0myt";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 515269916
@@ -29,6 +29,6 @@ Mais informações sobre este assunto: [Mobile Life][2].
               
 Vídeo: [Opera&#8217;s mobile browser eases site-reading][3]
 
- [1]: http://www1.folha.uol.com.br/folha/informatica/ult124u16858.shtml
- [2]: http://www.mobilelife.com.br/comenta.asp?post=190#com
- [3]: http://news.com.com/1606-2-733828.html
+ [1]: https://www1.folha.uol.com.br/folha/informatica/ult124u16858.shtml
+ [2]: https://www.mobilelife.com.br/comenta.asp?post=190#com
+ [3]: https://news.com.com/1606-2-733828.html

@@ -8,7 +8,7 @@ url: /ano-novo-2012/
 tweetbackscheck:
   - 1356448683
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4972";s:7:"tinyurl";s:26:"http://tinyurl.com/bqj564y";s:4:"isgd";s:19:"http://is.gd/lnqnJX";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4972";s:7:"tinyurl";s:26:"https://tinyurl.com/bqj564y";s:4:"isgd";s:19:"https://is.gd/lnqnJX";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 518198474
@@ -38,26 +38,26 @@ A partir de agora, quero profissionalizar cada vez mais o site, de forma que co
 
 O ano que vem vai ser grande. O ano que vem vai ser de tirar o folêgo, de novo.
 
-<blockquote cite="http://www.webstandards.org/about/history/">
+<blockquote cite="https://www.webstandards.org/about/history/">
   <p>
     If not now, when? If not you, who? <strong>Web Standards Project</strong>
   </p>
 </blockquote>
 
- [1]: http://fluxodecaixa.com.br
- [2]: http://atipico.com.br/
- [3]: http://twitter.com/#!/alyssonfranklin "Alysson Franklin"
- [4]: http://twitter.com/#!/talitapagani "Talita Pagani"
- [5]: http://twitter.com/#!/thaipoplade "Thaiana Poplade"
- [6]: http://twitter.com/#!/davitferreira "Davi Ferreira"
- [7]: http://twitter.com/#!/paulorodriguesw "Rodrigues"
- [8]: http://twitter.com/#!/keppelen "Giovanni Keppelen"
- [9]: http://twitter.com/#!/mminero "Moacyr Minéro"
- [10]: http://twitter.com/#!/CampedelliLuiz "Luiz Campedelli"
- [11]: http://twitter.com/#!/h_bneto "Henrique Bustamante"
- [12]: http://twitter.com/#!/guipremonsa
- [13]: http://twitter.com/#!/felquis
- [14]: http://twitter.com/#!/riccardobenetti
- [15]: http://twitter.com/#!/deividmarques
- [16]: http://tableless.com.br/forum/ "Fórum do Tableless"
- [17]: http://boo-box.com/?utm_source=PostTableless&utm_medium=link&utm_campaign=linkTablelessComBr "Boo-box"
+ [1]: https://fluxodecaixa.com.br
+ [2]: https://atipico.com.br/
+ [3]: https://twitter.com/#!/alyssonfranklin "Alysson Franklin"
+ [4]: https://twitter.com/#!/talitapagani "Talita Pagani"
+ [5]: https://twitter.com/#!/thaipoplade "Thaiana Poplade"
+ [6]: https://twitter.com/#!/davitferreira "Davi Ferreira"
+ [7]: https://twitter.com/#!/paulorodriguesw "Rodrigues"
+ [8]: https://twitter.com/#!/keppelen "Giovanni Keppelen"
+ [9]: https://twitter.com/#!/mminero "Moacyr Minéro"
+ [10]: https://twitter.com/#!/CampedelliLuiz "Luiz Campedelli"
+ [11]: https://twitter.com/#!/h_bneto "Henrique Bustamante"
+ [12]: https://twitter.com/#!/guipremonsa
+ [13]: https://twitter.com/#!/felquis
+ [14]: https://twitter.com/#!/riccardobenetti
+ [15]: https://twitter.com/#!/deividmarques
+ [16]: https://tableless.com.br/forum/ "Fórum do Tableless"
+ [17]: https://boo-box.com/?utm_source=PostTableless&utm_medium=link&utm_campaign=linkTablelessComBr "Boo-box"

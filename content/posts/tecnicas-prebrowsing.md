@@ -90,9 +90,9 @@ Existem cenários onde você vai saber exatamente qual será a próxima página 
 
 ## Mais fontes:
 - [Eliminating Roundtrips with Preconnect](https://www.igvita.com/2015/08/17/eliminating-roundtrips-with-preconnect/)
-- [Preload Hints For Web Fonts](http://www.bramstein.com/writing/preload-hints-for-web-fonts.html)
-- [Chromium - For Developers](http://dev.chromium.org/developers/design-documents/dns-prefetching)
-- [Prebrowsing](http://www.stevesouders.com/blog/2013/11/07/prebrowsing/)
+- [Preload Hints For Web Fonts](https://www.bramstein.com/writing/preload-hints-for-web-fonts.html)
+- [Chromium - For Developers](https://dev.chromium.org/developers/design-documents/dns-prefetching)
+- [Prebrowsing](https://www.stevesouders.com/blog/2013/11/07/prebrowsing/)
 - [Minimize DNS lookups](https://varvy.com/pagespeed/dns-lookups.html)
 - [DNS Prefetching - David Walsh](https://davidwalsh.name/dns-prefetching)
-- [Prioritising resource loading on the page.](http://patrickhamann.com/workshops/performance/tasks/2_Critical_Path/2_3.html)
+- [Prioritising resource loading on the page.](https://patrickhamann.com/workshops/performance/tasks/2_Critical_Path/2_3.html)

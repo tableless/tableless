@@ -7,7 +7,7 @@ url: /browser-preocupando-se-com-o-basico/
 tweetbackscheck:
   - 1356140086
 shorturls:
-  - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/browser-preocupando-se-com-o-basico";s:7:"tinyurl";s:26:"http://tinyurl.com/3k46gk8";s:4:"isgd";s:19:"http://is.gd/3n9Nwz";}'
+  - 'a:3:{s:9:"permalink";s:59:"https://tableless.com.br/browser-preocupando-se-com-o-basico";s:7:"tinyurl";s:26:"https://tinyurl.com/3k46gk8";s:4:"isgd";s:19:"https://is.gd/3n9Nwz";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035357
@@ -34,7 +34,7 @@ Vá com calma. Na hora da implementação teste apenas em Firefox e Internet Exp
 
 A uma extensão para Firefox chamada [IETab][4] que abre apenas o Viewport do IE em uma tab do Firefox&#8230; Muito interessante, porque você não precisa ficar gerenciando duas janelas, só duas tabs.
 
- [1]: http://getfirefox.com/
- [2]: http://opera.com/
- [3]: http://www.apple.com/macosx/features/safari/
+ [1]: https://getfirefox.com/
+ [2]: https://opera.com/
+ [3]: https://www.apple.com/macosx/features/safari/
  [4]: https://addons.mozilla.org/firefox/1419/

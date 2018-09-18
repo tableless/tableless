@@ -18,7 +18,7 @@ tags:
 
 
 Esse post faz parte de uma coletânea de artigos sobre o Bitcoin, Ethereum, Blockchain e criptomoedas em geral. Fique ligado que mais novidades estão
-por vir! [Leia o segundo post](http://tableless.com.br/o-porque-do-bitcoin-parte-2-a-mitologia-grega-napster-refugiados-siria/).
+por vir! [Leia o segundo post](https://tableless.com.br/o-porque-do-bitcoin-parte-2-a-mitologia-grega-napster-refugiados-siria/).
 
 *****
 
@@ -65,7 +65,7 @@ começarmos por [La Casa de Papel](https://www.netflix.com/title/80192098)?
 
 ![](https://cdn-images-1.medium.com/max/1000/1*QQ2SEnaAiRKvFXNkDwfrtg.jpeg)
 <span class="figcaption_hack">Fonte:
-[http://nerdtatuado.com.br/la-casa-de-papel-serie-que-voce-precisa-ver/](http://nerdtatuado.com.br/la-casa-de-papel-serie-que-voce-precisa-ver/)</span>
+[https://nerdtatuado.com.br/la-casa-de-papel-serie-que-voce-precisa-ver/](https://nerdtatuado.com.br/la-casa-de-papel-serie-que-voce-precisa-ver/)</span>
 
 A série retrata o golpe perfeito.
 
@@ -169,8 +169,8 @@ Os mais ricos, por outro lado, sabem se proteger porque:
 1.  eles não dependem de salário mensal, e
 1.  eles não tem dinheiro parado, tá tudo aplicado. E grande parte dessas aplicações rendem mais que a inflação.
 
-Já ouviu falar num investimento chamado [Tesouro Direto](http://www.tesouro.fazenda.gov.br/tesouro-direto)? Uma das modalidades
-mais conhecidas do Tesouro, o [NTN-B](http://www.tesouro.gov.br/documents/10180/410323/NTN-B%20principal_novidades.pdf), paga seja lá o que a inflação for e mais um pouco.
+Já ouviu falar num investimento chamado [Tesouro Direto](https://www.tesouro.fazenda.gov.br/tesouro-direto)? Uma das modalidades
+mais conhecidas do Tesouro, o [NTN-B](https://www.tesouro.gov.br/documents/10180/410323/NTN-B%20principal_novidades.pdf), paga seja lá o que a inflação for e mais um pouco.
 
 Ou seja, pra eles tá sempre tudo bem.
 
@@ -295,7 +295,7 @@ aprendemos nada:
 
 ![](https://cdn-images-1.medium.com/max/800/1*cF9y6PeDlV0PJLFO2dhh6g.png)
 <span class="figcaption_hack">Fonte:
-[http://www.paulogala.com.br/o-caos-da-inflacao-nos-anos-80/](http://www.paulogala.com.br/o-caos-da-inflacao-nos-anos-80/)</span>
+[https://www.paulogala.com.br/o-caos-da-inflacao-nos-anos-80/](https://www.paulogala.com.br/o-caos-da-inflacao-nos-anos-80/)</span>
 
 O gráfico acima mostra a inflação mensal no Brasil da década de 80/90. Note que
 tem meses que a inflação bate 80%. Ou seja, em apenas um mês os preços do
@@ -316,12 +316,12 @@ tivemos: estagnação econômica, controle de preços, retração da produção
 industrial, dentre outras maravilhas.
 
 Até que o [Plano Real entrou em vigor e resolveu a hiperinflação no
-Brasil](http://g1.globo.com/economia/inflacao-como-os-governos-controlam/platb/).
+Brasil](https://g1.globo.com/economia/inflacao-como-os-governos-controlam/platb/).
 Compare os índices dos últimos anos e veja a diferença:
 
 ![](https://cdn-images-1.medium.com/max/800/1*NNmfP_p1QZ7VpWj8LvKgOA.png)
 <span class="figcaption_hack">Fonte:
-[http://especiais.g1.globo.com/politica/politica/processo-de-impeachment-de-dilma/2016/da-esperanca-a-crise-os-13-anos-do-pt/](http://especiais.g1.globo.com/politica/politica/processo-de-impeachment-de-dilma/2016/da-esperanca-a-crise-os-13-anos-do-pt/)</span>
+[https://especiais.g1.globo.com/politica/politica/processo-de-impeachment-de-dilma/2016/da-esperanca-a-crise-os-13-anos-do-pt/](https://especiais.g1.globo.com/politica/politica/processo-de-impeachment-de-dilma/2016/da-esperanca-a-crise-os-13-anos-do-pt/)</span>
 
 Mesmo assim, tivemos momentos ruins principalmente em 2002 (transição do governo
 FHC/Lula) e em 2015 (Dilma) tivemos inflação de dois dígitos, o que é muito mais
@@ -394,7 +394,7 @@ ano. E somente em 2017, foram incríveis *4.651% *(!!!).
 Com essa crise, que parece sem solução, o povo venezualano vê o Bitcoin como o
 refúgio monetário ideal para fugir das variações absurdas que a moeda local
 sofre e pra [literalmente não ter que passar
-fome](http://www1.folha.uol.com.br/mundo/2017/12/1944435-enquanto-venezuela-entra-em-colapso-as-criancas-estao-morrendo-de-fome.shtml).
+fome](https://www1.folha.uol.com.br/mundo/2017/12/1944435-enquanto-venezuela-entra-em-colapso-as-criancas-estao-morrendo-de-fome.shtml).
 
 Só pra ter uma ideia, o gráfico abaixo mostra o volume de transações entre o
 Bolívar, [a moeda venezuelana que passou a valer menos que a moeda virtual do
@@ -408,7 +408,7 @@ e o Bitcoin. Olhe o crescimento exponencial que começou a ocorrer a partir de
 [https://www.newsbtc.com/2017/02/20/localbitcoins-gains-from-regulations/](https://www.newsbtc.com/2017/02/20/localbitcoins-gains-from-regulations/)</span>
 
 Isso inclusive, [pode estar por trás da valorização expressiva que o Bitcoin
-começou a ter](http://www.bbc.com/portuguese/internacional-38553632) nos últimos
+começou a ter](https://www.bbc.com/portuguese/internacional-38553632) nos últimos
 anos, principalmente em 2017.
 
 *****
@@ -429,7 +429,7 @@ Um dólar em 1913 valiam em 2013 menos do que 6 centavos de dólar.
 No livro [Paper Money Collapse](https://www.amazon.com/gp/product/1118877322/),
 o autor argumenta que o dinheiro fiduciário (dólar, euro, real e outras moedas
 sem lastro) não apenas é desnecessário, como gera dívidas ([os EUA agora devem
-$21 trilhões](http://www.usdebtclock.org/)) e sempre vão ter seu valor reduzido
+$21 trilhões](https://www.usdebtclock.org/)) e sempre vão ter seu valor reduzido
 a zero, como o gráfico dos dólares acima demonstra.
 
 Segundo o autor, não existem exceções pra isso. E a história sempre mostra o
@@ -451,7 +451,7 @@ Então fique ligado que a série continua.
 
 *****
 
-**Se quiser receber de antemão mais posts como esse, [assine a newsletter](http://eepurl.com/bHZHC1).**
+**Se quiser receber de antemão mais posts como esse, [assine a newsletter](https://eepurl.com/bHZHC1).**
 
 Obrigado por ler! ❤
 

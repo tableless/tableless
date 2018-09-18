@@ -7,7 +7,7 @@ url: /internet_banking_do_passado/
 tweetbackscheck:
   - 1356329243
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/internet_banking_do_passado";s:7:"tinyurl";s:26:"http://tinyurl.com/3cd34km";s:4:"isgd";s:19:"http://is.gd/eNFqwp";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/internet_banking_do_passado";s:7:"tinyurl";s:26:"https://tinyurl.com/3cd34km";s:4:"isgd";s:19:"https://is.gd/eNFqwp";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032851
@@ -28,4 +28,4 @@ Outros usam tecnologia que funciona apenas em um tipo de plataforma.
 Chegamos a um ponto que ou mudamos ou mudamos.   
 Não adianta ir contra o fluxo.
 
- [1]: http://info.abril.com.br/aberto/infonews/062005/15062005-3.shl
+ [1]: https://info.abril.com.br/aberto/infonews/062005/15062005-3.shl

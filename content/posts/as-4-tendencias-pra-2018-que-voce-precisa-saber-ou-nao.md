@@ -79,8 +79,8 @@ dot-com](https://pt.wikipedia.org/wiki/Bolha_da_Internet) e com a [crise de
 Dito isso, é inegável a revolução que as criptomoedas, lideradas pelo Bitcoin,
 vão causar nas nossas vidas.
 
-Na [Venezuela](http://www.bbc.com/portuguese/internacional-38553632) e no
-[Zimbabwe](http://www.telegraph.co.uk/technology/2017/11/20/bitcoin-has-become-zimbabwes-crisis-currency/),
+Na [Venezuela](https://www.bbc.com/portuguese/internacional-38553632) e no
+[Zimbabwe](https://www.telegraph.co.uk/technology/2017/11/20/bitcoin-has-become-zimbabwes-crisis-currency/),
 o Bitcoin já está salvando vidas.
 
 ![O Maduro é um presidente nada maduro](https://cdn-images-1.medium.com/max/800/1*9QrER8kUVUSfEZaCZpLE4g.jpeg)
@@ -88,7 +88,7 @@ o Bitcoin já está salvando vidas.
 
 Pra mim, e pra diversas outras pessoas, [as criptomoedas são uma revolução tão
 grande quanto a própria
-internet](http://www.telegraph.co.uk/finance/currency/11434904/Bitcoin-revolution-could-be-the-next-internet-says-Bank-of-England.html).
+internet](https://www.telegraph.co.uk/finance/currency/11434904/Bitcoin-revolution-could-be-the-next-internet-says-Bank-of-England.html).
 
 Ficam então as minha previsões pra esse ano:
 
@@ -99,7 +99,7 @@ pior ainda: seus amigos insuportáveis, que geralmente também fazem Crossfit, v
 dizer que ganharam 10% ao dia com *trade* de *altcoins*.
 * Vamos ver novas utilidades para o Blockchain.
 * [Ethereum vai ser o novo
-Facebook](http://www.telegraph.co.uk/finance/currency/11434904/Bitcoin-revolution-could-be-the-next-internet-says-Bank-of-England.html)
+Facebook](https://www.telegraph.co.uk/finance/currency/11434904/Bitcoin-revolution-could-be-the-next-internet-says-Bank-of-England.html)
 * A sua mãe vai te perguntar sobre o Bitcoin. Isso se ela ainda não perguntou no
 ano passado (a minha já).
 
@@ -153,13 +153,13 @@ Com isso, pra esse ano prevejo:
 * Uma preocupação maior com as próprias senhas (provavelmente um aumento de
 serviços como o 1Password) e o uso de [2Factor](https://twofactorauth.org/).
 * A ascenção dos
-[dumbphones](http://www.dailymail.co.uk/sciencetech/article-5061263/Dumbphones-basic-functions-big-trend.html)
+[dumbphones](https://www.dailymail.co.uk/sciencetech/article-5061263/Dumbphones-basic-functions-big-trend.html)
 (igual aos *smartphones* só que com apenas funções básicas, ou seja sem o poder
 de destruição que nudes, geolocalização e roubo de senhas podem fazer na vida de
 alguém).
 * E no geral, uma preocupação maior com os *devices* que temos em casa. Vamos
 pensar duas vezes antes de deixar nosso *smartphone* entrar no quarto. O
-[#CumbucaGate](http://www.b9.com.br/80032/braincast-250-cumbucagate/) é só o
+[#CumbucaGate](https://www.b9.com.br/80032/braincast-250-cumbucagate/) é só o
 começo.
 
 *****

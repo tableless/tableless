@@ -7,7 +7,7 @@ url: /microformatos-internet-movel-e-quem-ainda-nao-entendeu-nada/
 tweetbackscheck:
   - 1356453926
 shorturls:
-  - 'a:3:{s:9:"permalink";s:83:"http://tableless.com.br/microformatos-internet-movel-e-quem-ainda-nao-entendeu-nada";s:7:"tinyurl";s:26:"http://tinyurl.com/3r3jdrh";s:4:"isgd";s:19:"http://is.gd/azp2JY";}'
+  - 'a:3:{s:9:"permalink";s:83:"https://tableless.com.br/microformatos-internet-movel-e-quem-ainda-nao-entendeu-nada";s:7:"tinyurl";s:26:"https://tinyurl.com/3r3jdrh";s:4:"isgd";s:19:"https://is.gd/azp2JY";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035637
@@ -46,16 +46,16 @@ Agora você pode ler seus e-mails, acessar conteúdo de verdade, ler os blogs de
 
 Ah, sim, nada do que eu disse nesse post é novo. O Henrique tem falado sobre microformats há um bocado de tempo, e já recomendamos [seu blog][13] aqui algumas vezes ao falar sobre o assunto. Já morte do WAP, essa é beeem mais velha. Mas resolvi escrever tudo de novo porque ainda tem muita gente confusa por aí, principalmente jornalistas 😉
 
- [1]: http://www.bloglines.com
- [2]: http://www.semjanelas.net/
- [3]: http://www.semjanelas.net/blog/2006/06/21/yahoo-local-suporta-microformatos/
- [4]: http://www.google.com/search?q=firefox%20microformats%20extension
- [5]: http://www.stripytshirt.co.uk/features/firefox/smartzilla
- [6]: http://flickr.com
- [7]: http://www.semjanelas.net/blog/2006/06/27/w3c-melhores-praticas-pra-web-movel-e-confusao-do-idg-now/
- [8]: http://pt.wikipedia.org/wiki/WAP#Fracasso.3F
- [9]: http://tableless.com.br
- [10]: http://www.google.com
- [11]: http://tableless.com.br/experimente-o-opera-mini
- [12]: http://visie.com.br "Propaganda descarada para dar combustível aos críticos ;-)"
- [13]: http://www.revolucao.etc.br/
+ [1]: https://www.bloglines.com
+ [2]: https://www.semjanelas.net/
+ [3]: https://www.semjanelas.net/blog/2006/06/21/yahoo-local-suporta-microformatos/
+ [4]: https://www.google.com/search?q=firefox%20microformats%20extension
+ [5]: https://www.stripytshirt.co.uk/features/firefox/smartzilla
+ [6]: https://flickr.com
+ [7]: https://www.semjanelas.net/blog/2006/06/27/w3c-melhores-praticas-pra-web-movel-e-confusao-do-idg-now/
+ [8]: https://pt.wikipedia.org/wiki/WAP#Fracasso.3F
+ [9]: https://tableless.com.br
+ [10]: https://www.google.com
+ [11]: https://tableless.com.br/experimente-o-opera-mini
+ [12]: https://visie.com.br "Propaganda descarada para dar combustível aos críticos ;-)"
+ [13]: https://www.revolucao.etc.br/

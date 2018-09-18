@@ -25,6 +25,6 @@ Links sobre o assunto:
   * [Introdução a Microdata no HTML5][2]
   * [Microdata: HTML5’s Best-Kept Secret][3]
 
- [1]: http://tableless.com.br/html5/?chapter=20
- [2]: http://tableless.com.br/introducao-a-microdata-no-html5/
- [3]: http://www.webmonkey.com/2010/09/microdata-html5s-best-kept-secret/
+ [1]: https://tableless.com.br/html5/?chapter=20
+ [2]: https://tableless.com.br/introducao-a-microdata-no-html5/
+ [3]: https://www.webmonkey.com/2010/09/microdata-html5s-best-kept-secret/

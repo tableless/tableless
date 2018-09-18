@@ -52,7 +52,7 @@ Pronto, seu aplicativo já está conectado com o **Firebase**, mas seu chat aind
 
 ## Enviando uma mensagem
 
-Na sequência, para possibilitar que o usuário envie uma mensagem, vamos adicionar um campo para que seja escrita as mensagens e um para o nome do usuário e vamos enviar para o servidor sempre que o usuário pressionar enter. Para obter o conteúdo da mensagem assim como o evento do envio, vamos utilizar um pouco de <a href="http://jquery.com/" rel="noreferrer">jQuery</a>, portanto não esqueça de incluí-lo em sua página. 
+Na sequência, para possibilitar que o usuário envie uma mensagem, vamos adicionar um campo para que seja escrita as mensagens e um para o nome do usuário e vamos enviar para o servidor sempre que o usuário pressionar enter. Para obter o conteúdo da mensagem assim como o evento do envio, vamos utilizar um pouco de <a href="https://jquery.com/" rel="noreferrer">jQuery</a>, portanto não esqueça de incluí-lo em sua página. 
 
 Até agora temos a seguinte estrutura:
 

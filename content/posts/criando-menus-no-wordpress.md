@@ -8,7 +8,7 @@ url: /criando-menus-no-wordpress/
 tweetbackscheck:
   - 1356403209
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/criando-menus-no-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/3sj7gkg";s:4:"isgd";s:19:"http://is.gd/AiwIyM";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/criando-menus-no-wordpress";s:7:"tinyurl";s:26:"https://tinyurl.com/3sj7gkg";s:4:"isgd";s:19:"https://is.gd/AiwIyM";}'
 twittercomments:
   - 'a:6:{i:144482084331847683;s:7:"retweet";i:145087211413569536;s:7:"retweet";i:153796274972393472;s:7:"retweet";i:164006827166670849;s:7:"retweet";i:164005868462030848;s:7:"retweet";i:164005767307997185;s:7:"retweet";}'
 tweetcount:
@@ -118,7 +118,7 @@ Vamos personalizar o menu para receber as informações de descrição, adicione
 
 [cce lang=&#8221;php&#8221;]
       
-/\* Código por: http://www.kriesi.at/archives/improve-your-wordpress-navigation-menu-output \*/
+/\* Código por: https://www.kriesi.at/archives/improve-your-wordpress-navigation-menu-output \*/
       
 class descricao\_walker extends Walker\_Nav_Menu
   
@@ -193,8 +193,8 @@ $output .= $indent . &#8216;
     
     [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/adicionando-descricao-300x242.png" alt="" width="300" height="242" class="alignnone size-medium wp-image-3098" srcset="uploads/2011/02/adicionando-descricao-300x242.png 300w, uploads/2011/02/adicionando-descricao.png 418w" sizes="(max-width: 300px) 100vw, 300px" />][2]
     
-    Fonte da descrição: [http://www.kriesi.at/archives/improve-your-wordpress-navigation-menu-output][3]
+    Fonte da descrição: [https://www.kriesi.at/archives/improve-your-wordpress-navigation-menu-output][3]
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/ativando-descricao.png
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/02/adicionando-descricao.png
- [3]: http://www.kriesi.at/archives/improve-your-wordpress-navigation-menu-output "Fonte da descrição"
+ [3]: https://www.kriesi.at/archives/improve-your-wordpress-navigation-menu-output "Fonte da descrição"

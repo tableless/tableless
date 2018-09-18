@@ -27,7 +27,7 @@ Olá tudo bem? Meu nome é Bernard De Luna, você está no Tableless, até aí t
 
 `linear-gradient` é uma funcionalidade das CSS3 para criar degrades entre 2 ou mais cores em linha. Farei um pequeno exemplo para perceberem como é fácil fazer um gradiente sem utilizar editor:
 
-OBS: Por questão de compatibilidade de browsers, vale a pena vocês consultarem o <a href="http://caniuse.com/#search=linear" title="http://caniuse.com/#search=linear" target="_blank">http://caniuse.com/#search=linear</a> para usar prefixos como -webkit, -moz, -ms, -o, etc., **para esses exemplos não utilizarei prefixos**. Outro ponto importante é que na nova especificação, o &#8220;top&#8221; virou &#8220;to bottom&#8221;, porém essa mudança só existe no valor sem prefixo, as escritas com prefixo ainda usam a direção top, right, bottom, left como padrões.
+OBS: Por questão de compatibilidade de browsers, vale a pena vocês consultarem o <a href="https://caniuse.com/#search=linear" title="https://caniuse.com/#search=linear" target="_blank">https://caniuse.com/#search=linear</a> para usar prefixos como -webkit, -moz, -ms, -o, etc., **para esses exemplos não utilizarei prefixos**. Outro ponto importante é que na nova especificação, o &#8220;top&#8221; virou &#8220;to bottom&#8221;, porém essa mudança só existe no valor sem prefixo, as escritas com prefixo ainda usam a direção top, right, bottom, left como padrões.
 
 ## linear-gradient nível básico
 

@@ -17,7 +17,7 @@ tags:
 ---
 Já faz um tempo que o Bootstrap vem dominando a web. Dificilmente vemos um desenvolvedor que não o conheça, e boa parte da comunidade web já ouviu falar ou já usou o framework.
 
-Agora a equipe do Bootstrap <a href="http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/" target="_blank">anunciou</a> sua nova versão, o **Bootstrap 4 Alpha**.
+Agora a equipe do Bootstrap <a href="https://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/" target="_blank">anunciou</a> sua nova versão, o **Bootstrap 4 Alpha**.
 
 [<img class="alignnone wp-image-50861 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/08/bs4-alpha.png" alt="Homepage do Bootstrap 4 Alpha" width="2360" height="1588" />][1]
 

@@ -7,7 +7,7 @@ url: /um-bom-2007/
 tweetbackscheck:
   - 1355298897
 shorturls:
-  - 'a:3:{s:9:"permalink";s:35:"http://tableless.com.br/um-bom-2007";s:7:"tinyurl";s:26:"http://tinyurl.com/3wj7kxs";s:4:"isgd";s:19:"http://is.gd/qLNqCp";}'
+  - 'a:3:{s:9:"permalink";s:35:"https://tableless.com.br/um-bom-2007";s:7:"tinyurl";s:26:"https://tinyurl.com/3wj7kxs";s:4:"isgd";s:19:"https://is.gd/qLNqCp";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036489
@@ -23,6 +23,6 @@ O [Tableless][3] cresceu ainda mais este ano. Notei que o perfil dos visitantes 
 
 Por isso continue com essa sede de aprender, sede de dar pitacos, sede de criticar e sugerir. Obrigado por fazer parte dessa frente. Um bom 2007.
 
- [1]: http://visie.com.br/
- [2]: http://elcio.com.br/
- [3]: http://tableless.com.br/
+ [1]: https://visie.com.br/
+ [2]: https://elcio.com.br/
+ [3]: https://tableless.com.br/

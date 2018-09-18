@@ -8,7 +8,7 @@ url: /boas-praticas-para-e-mail-marketing/
 tweetbackscheck:
   - 1356407059
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6602";s:7:"tinyurl";s:26:"http://tinyurl.com/cgxe3w4";s:4:"isgd";s:19:"http://is.gd/vhqQh2";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6602";s:7:"tinyurl";s:26:"https://tinyurl.com/cgxe3w4";s:4:"isgd";s:19:"https://is.gd/vhqQh2";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 797262658
@@ -63,7 +63,7 @@ Use sem medo o atributo border:
 
 Veja a tabela de atributos CSS suportados por diversos clientes de e-mail.
   
-<a title="http://www.campaignmonitor.com/css/" href="http://www.campaignmonitor.com/css/" target="_blank">http://www.campaignmonitor.com/css/</a>
+<a title="https://www.campaignmonitor.com/css/" href="https://www.campaignmonitor.com/css/" target="_blank">https://www.campaignmonitor.com/css/</a>
 
 ### Imagens
 
@@ -88,34 +88,34 @@ Confira mais dicas e boas práticas para o desenvolvimento do seu e-mail marketi
   7. Para remover um sublinhado basta usar css inline: _style=&#8221;text-decoration: none;&#8221;_ direto no link.
   8. Existem diversas palavras que devem ser evitadas no corpo do e-mail, caso ao contrário ele irá direto para a caixa de spam.
   
-    Conheça algumas delas: <a href="http://emailmarketing.virtualtarget.com.br/dicas/quais-as-palavras-que-devem-ser-evitadas-no-email-marketing" target="_blank">http://emailmarketing.virtualtarget.com.br/dicas/quais-as-palavras-que-devem-ser-evitadas-no-email-marketing</a>.
+    Conheça algumas delas: <a href="https://emailmarketing.virtualtarget.com.br/dicas/quais-as-palavras-que-devem-ser-evitadas-no-email-marketing" target="_blank">https://emailmarketing.virtualtarget.com.br/dicas/quais-as-palavras-que-devem-ser-evitadas-no-email-marketing</a>.
   9. Teste seu template em diversos clientes de email.
   
     Ao criar um site, qualquer desenvolvedor deve testá-lo em vários navegadores. Para email marketing isso não é diferente, os destinatários usam uma ampla variedade de clientes de email e, você deve desenvolver um template que seja perfeitamente visualizado na maioria deles.
   
     &#8211; Ferramenta gratuita para enviar e-mails.
   
-    <a href="http://putsmail.com" target="_blank">http://putsmail.com</a>
+    <a href="https://putsmail.com" target="_blank">https://putsmail.com</a>
   
     &#8211; Ferramenta paga, porém muito útil, ele testa seu html em todos os clientes de e-mail e retorna um print.
   
-    <a href="http://litmus.com/" target="_blank">http://litmus.com/</a>
+    <a href="https://litmus.com/" target="_blank">https://litmus.com/</a>
  10. Mesmo que seu html esteja lindo e perfeito, ele pode cair no SPAM.
   
     Conheça a tabela de regras antispam.
   
-    <a href="http://emailmarketing.virtualtarget.com.br/uploads/2008/04/tabela_de_pontos1.pdf" target="_blank">http://emailmarketing.virtualtarget.com.br/uploads/2008/04/tabela_de_pontos1.pdf</a>
+    <a href="https://emailmarketing.virtualtarget.com.br/uploads/2008/04/tabela_de_pontos1.pdf" target="_blank">https://emailmarketing.virtualtarget.com.br/uploads/2008/04/tabela_de_pontos1.pdf</a>
 
 Veja os clientes de e-mail mais utilizados:
   
- <a title="Saiba mais" href="http://www.ecommercebrasil.com.br/artigos/os-clientes-de-e-mail-mais-utilizados-pelos-usuarios/" target="_blank"><img src="https://anyzamaro.com.br/uploads/2011/10/emailmarketing1.jpg" alt="Clientes de e-mail mais utilizados" /></a>
+ <a title="Saiba mais" href="https://www.ecommercebrasil.com.br/artigos/os-clientes-de-e-mail-mais-utilizados-pelos-usuarios/" target="_blank"><img src="https://anyzamaro.com.br/uploads/2011/10/emailmarketing1.jpg" alt="Clientes de e-mail mais utilizados" /></a>
 
 Para aprofundar-se melhor sobre o assunto, segue links de referências:
 
-  * <http://www.campaignmonitor.com/blog/>
-  * <http://blog.templateria.com/html/>
-  * <http://www.campaignmonitor.com/css/>
-  * <http://emailmarketing.virtualtarget.com.br/>
+  * <https://www.campaignmonitor.com/blog/>
+  * <https://blog.templateria.com/html/>
+  * <https://www.campaignmonitor.com/css/>
+  * <https://emailmarketing.virtualtarget.com.br/>
 
- [1]: http://www.campaignmonitor.com/blog/post/3317/correct-doctype-to-use-in-html-email/
- [2]: http://tableless.com.br/bem-vindo-a-xangrila-parte-1/
+ [1]: https://www.campaignmonitor.com/blog/post/3317/correct-doctype-to-use-in-html-email/
+ [2]: https://tableless.com.br/bem-vindo-a-xangrila-parte-1/

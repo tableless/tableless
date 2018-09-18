@@ -24,15 +24,15 @@ A seguir listei algumas técnicas que podem ajudar bastante no seu dia a dia com
 
 É um documento que contém estilos e padrões de um projeto, que podem ser utilizados para manter a pregnância do design e desenvolvimento.
 
-Existem algumas metodologias que podem ajudar você no desenvolvimento desse <strong class="markup--strong markup--p-strong">Style Guide, </strong>como: <a href="http://getbem.com/introduction/" target="_blank">BEM</a>, <a href="https://github.com/necolas/idiomatic-css/tree/master/translations/pt-BR" target="_blank">IDIOMATIC</a>, <a href="http://primercss.io/scaffolding/" target="_blank">PRIMER CSS</a>, <a href="http://getbootstrap.com/css/" target="_blank">Twitter Bootstrap</a>.
+Existem algumas metodologias que podem ajudar você no desenvolvimento desse <strong class="markup--strong markup--p-strong">Style Guide, </strong>como: <a href="https://getbem.com/introduction/" target="_blank">BEM</a>, <a href="https://github.com/necolas/idiomatic-css/tree/master/translations/pt-BR" target="_blank">IDIOMATIC</a>, <a href="https://primercss.io/scaffolding/" target="_blank">PRIMER CSS</a>, <a href="https://getbootstrap.com/css/" target="_blank">Twitter Bootstrap</a>.
 
 #### Skeleton ou Estruturas Boilerplate
 
-<a href="http://www.initializr.com/" target="_blank">Initializr</a>, <a href="https://github.com/helderburato/generator-hyapp" target="_blank">Gerador HyApp</a> + <a href="http://yeoman.io/" target="_blank">Yeoman</a> e <a href="https://html5boilerplate.com/" target="_blank">HTML5 Boilerplate</a>. Que são geradores de pequenas estruturas de diretórios para iniciar projetos em HTML/CSS/JS;
+<a href="https://www.initializr.com/" target="_blank">Initializr</a>, <a href="https://github.com/helderburato/generator-hyapp" target="_blank">Gerador HyApp</a> + <a href="https://yeoman.io/" target="_blank">Yeoman</a> e <a href="https://html5boilerplate.com/" target="_blank">HTML5 Boilerplate</a>. Que são geradores de pequenas estruturas de diretórios para iniciar projetos em HTML/CSS/JS;
 
 #### Font Ícones
 
-<a href="http://fontawesome.io/" target="_blank">Font Awesome</a>, <a href="http://fontello.com/" target="_blank">Fontello</a>, <a href="https://icomoon.io/app/#/select" target="_blank">IcoMoon</a> são ótimas opções. No meu dia a dia costumo utilizar na maioria dos projetos o &#8220;Font Awesome&#8221; pela facilidade e padronização nos layouts da empresa em que trabalho;
+<a href="https://fontawesome.io/" target="_blank">Font Awesome</a>, <a href="https://fontello.com/" target="_blank">Fontello</a>, <a href="https://icomoon.io/app/#/select" target="_blank">IcoMoon</a> são ótimas opções. No meu dia a dia costumo utilizar na maioria dos projetos o &#8220;Font Awesome&#8221; pela facilidade e padronização nos layouts da empresa em que trabalho;
 
 #### Web Fonts
 
@@ -40,7 +40,7 @@ Existem algumas metodologias que podem ajudar você no desenvolvimento desse <st
 
 #### Task Runner
 
-Tratando-se de automatizadores de tarefas os mais conhecidos são o <a href="http://gulpjs.com/" target="_blank">GulpJS</a> e o <a href="http://gruntjs.com/" target="_blank">GruntJS</a>. Costumo utilizar o Gulp pois foi o que mais me identifiquei, mas você pode escolher o que mais adequar ao seu projeto ou ao modo de trabalho de sua equipe.
+Tratando-se de automatizadores de tarefas os mais conhecidos são o <a href="https://gulpjs.com/" target="_blank">GulpJS</a> e o <a href="https://gruntjs.com/" target="_blank">GruntJS</a>. Costumo utilizar o Gulp pois foi o que mais me identifiquei, mas você pode escolher o que mais adequar ao seu projeto ou ao modo de trabalho de sua equipe.
 
 ### Será que isso influencia mesmo na rotina ou nos custos do produto final?
 

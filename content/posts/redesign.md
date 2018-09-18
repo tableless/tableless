@@ -7,7 +7,7 @@ url: /redesign/
 tweetbackscheck:
   - 1356156784
 shorturls:
-  - 'a:3:{s:9:"permalink";s:32:"http://tableless.com.br/redesign";s:7:"tinyurl";s:26:"http://tinyurl.com/3upzpmz";s:4:"isgd";s:19:"http://is.gd/mZnsj8";}'
+  - 'a:3:{s:9:"permalink";s:32:"https://tableless.com.br/redesign";s:7:"tinyurl";s:26:"https://tinyurl.com/3upzpmz";s:4:"isgd";s:19:"https://is.gd/mZnsj8";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031809
@@ -25,4 +25,4 @@ Aos usuários de IE, peço desculpas por vocês não verem o efeito ALPHA das so
 
 Peço desculpas àqueles que não gostaram, mas quem sabe no próximo layout eu não agrado a mais pessoas? (difícil!)
 
- [1]: http://tableless.com.br/convertidos/
+ [1]: https://tableless.com.br/convertidos/

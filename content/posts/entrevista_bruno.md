@@ -6,11 +6,11 @@ date: 2004-11-24
 excerpt: 'Entrevista com Bruno Torres - parte 1'
 url: /entrevista_bruno/
 enclosure:
-  - http://tableless.com.br/podcast/brunotorres.mp3
+  - https://tableless.com.br/podcast/brunotorres.mp3
 tweetbackscheck:
   - 1355888836
 shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/entrevista_bruno";s:7:"tinyurl";s:26:"http://tinyurl.com/4x2qqpq";s:4:"isgd";s:19:"http://is.gd/ruY7Vj";}'
+  - 'a:3:{s:9:"permalink";s:40:"https://tableless.com.br/entrevista_bruno";s:7:"tinyurl";s:26:"https://tinyurl.com/4x2qqpq";s:4:"isgd";s:19:"https://is.gd/ruY7Vj";}'
 twittercomments:
   - 'a:2:{i:10230836678885376;s:7:"retweet";i:10223944359481345;s:7:"retweet";}'
 tweetcount:
@@ -31,7 +31,7 @@ Comentários:
   * Outro fato interessante é que nesse mesmo período o Fred, do [Usabilidoido][6], também começou a postar em áudio. Outro que vale a pena ser ouvido. É, também não suporta podcasting 🙁
   * Podcasting?!? É, eu sei, talvez você não saiba do que eu estou falando. Um resumo: ao publicar um post com áudio você pode inserir, no item daquele post em seu aruivo RSS, a seguinte tag:
   
-    `<enclosure url="http://tableless.com.br/anexo/brunotorres.mp3" length="2160144" type="audio/mpeg"/>`
+    `<enclosure url="https://tableless.com.br/anexo/brunotorres.mp3" length="2160144" type="audio/mpeg"/>`
   
     Pronto, é só isso. Assim, o sujeito que tem um mp3 player pode assinar seu feed em um programa como o [iPodder][7] e vai ter automaticamente cada áudio novo que você postar em seu mp3 player.
   * Algumas pessoas comentaram conosco que não acham que ninguém vai ficar ouvindo posts quando pode ler o contéudo. Bom, são coisas diferentes. Não vamos publicar tutoriais de CSS em áudio, ditando o código. Vamos publicar bate-papos, entrevistas, coisa de gente, não de nerd (embora admitamos que somos todos nerds.) Coisa que você vai querer ouvir em seu mp3 player, no carro ou no metrô, indo pro trabalho.
@@ -42,10 +42,10 @@ Comentários:
 
 Vou tentar publicar amanhã a segunda parte da entrevista. Divirtam-se.
 
- [1]: http://www.brunotorres.net "BrunoTorres.net | GNU/Linux, padrões web, XHTML, CSS, PHP, entrevistas"
- [2]: http://tableless.com.br/rss.asp "RSS 2.0 c/ enclosures"
- [3]: http://tableless.com.br/podcast/brunotorres.mp3 "Podcast Tableless #1 - Entrevista com o Bruno Torres - Primeira Parte"
- [4]: http://www.usina.com/rodaeavisa/ "roda & avisa"
- [5]: http://usina.com/renedepaula/ "rené de paula jr - resumée"
- [6]: http://www.usabilidoido.com.br/ "Usabilidoido: flash design com usabilidade"
- [7]: http://www.ipodder.org/ "iPodder.org"
+ [1]: https://www.brunotorres.net "BrunoTorres.net | GNU/Linux, padrões web, XHTML, CSS, PHP, entrevistas"
+ [2]: https://tableless.com.br/rss.asp "RSS 2.0 c/ enclosures"
+ [3]: https://tableless.com.br/podcast/brunotorres.mp3 "Podcast Tableless #1 - Entrevista com o Bruno Torres - Primeira Parte"
+ [4]: https://www.usina.com/rodaeavisa/ "roda & avisa"
+ [5]: https://usina.com/renedepaula/ "rené de paula jr - resumée"
+ [6]: https://www.usabilidoido.com.br/ "Usabilidoido: flash design com usabilidade"
+ [7]: https://www.ipodder.org/ "iPodder.org"

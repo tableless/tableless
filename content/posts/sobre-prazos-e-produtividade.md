@@ -65,4 +65,4 @@ Sabe como muitos desenvolvedores por aí perdem tempo? Segurando o mouse. Isso �
 
 Ninguém nasceu sabendo estimar. Isso se aprende durante sua carreira, errando muito. É algo que você aprende rápido e leva uma vida inteira para aperfeiçoar. É um assunto interessante e com certeza, com este artigo, abordamos muito superficialmente o que podemos melhorar para que entreguemos mais em menos tempo. Em artigos posteriores podemos abordar métodos ágeis, flexibilização de processos entre as equipes e outos assuntos importantes. Aguarde.
 
- [1]: http://tableless.com.br/dicas-truques-sublime-text/ "Dicas e truques de Sublime Text"
+ [1]: https://tableless.com.br/dicas-truques-sublime-text/ "Dicas e truques de Sublime Text"

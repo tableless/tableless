@@ -110,12 +110,12 @@ Existem vários componentes legais, como cards, menus, paginação, mensagens, 
 
 Isso é tudo pessoal (:
 
- [1]: http://jgthms.com/
- [2]: http://bulma.io/
- [3]: http://caniuse.com/#search=flexbox
- [4]: http://codepen.io/gabsprates/full/PNVJrP/
- [5]: http://bulma.io/documentation/grid/columns/
- [6]: http://bulma.io/documentation/grid/tiles/
- [7]: http://bulma.io/documentation/layout/hero/
- [8]: http://bulma.io/documentation/components/level/
- [9]: http://bulma.io/documentation/overview/start/
+ [1]: https://jgthms.com/
+ [2]: https://bulma.io/
+ [3]: https://caniuse.com/#search=flexbox
+ [4]: https://codepen.io/gabsprates/full/PNVJrP/
+ [5]: https://bulma.io/documentation/grid/columns/
+ [6]: https://bulma.io/documentation/grid/tiles/
+ [7]: https://bulma.io/documentation/layout/hero/
+ [8]: https://bulma.io/documentation/components/level/
+ [9]: https://bulma.io/documentation/overview/start/

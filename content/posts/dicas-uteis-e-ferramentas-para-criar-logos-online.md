@@ -75,7 +75,7 @@ O [Logotype Maker][5] é bastante poderoso. É muito fácil de usar e permite cu
 Criar um logo online hoje não é uma tarefa muito difícil e pode não apenas ajudar você, mas também os seus clientes. Essas são dicas bem simples, mas muito úteis. Você pode visitar qualquer um desses sites e escolher o que você mais gosta.
 
  [1]: https://logaster.com.br/
- [2]: http://www.logogarden.com/
- [3]: http://www.onlinelogomaker.com/
- [4]: http://www.freelogoservices.com/
- [5]: http://logotypemaker.com/
+ [2]: https://www.logogarden.com/
+ [3]: https://www.onlinelogomaker.com/
+ [4]: https://www.freelogoservices.com/
+ [5]: https://logotypemaker.com/

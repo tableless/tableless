@@ -29,10 +29,10 @@ Também é interessante para os devs frontend que precisam automatizar algumas t
 
 Vamos precisar de:
 
-  * Uma cópia do CakePHP (<http://cakephp.org/>, a direita tem uma palavra grande escrito Download com o link para a versão estável mais recente.)
-  * Uma cópia do Fancybox (<http://fancyapps.com/fancybox/#license>, botãozinho azul!)
+  * Uma cópia do CakePHP (<https://cakephp.org/>, a direita tem uma palavra grande escrito Download com o link para a versão estável mais recente.)
+  * Uma cópia do Fancybox (<https://fancyapps.com/fancybox/#license>, botãozinho azul!)
   * O DebugKit (<https://github.com/cakephp/debug_kit>, na lateral direita tem um link chamado “Download ZIP”)
-  * O WideImage (<http://wideimage.sourceforge.net/download/>, aonde está escrito “download it”, baixe só o lib (terceiro da lista))
+  * O WideImage (<https://wideimage.sourceforge.net/download/>, aonde está escrito “download it”, baixe só o lib (terceiro da lista))
   * Um desenvolvedor web
   * Água
   * Pó de café
@@ -134,7 +134,7 @@ A partir deste ponto é interessante que você conheça um pouco sobre MVC. Aqui
 
 **Relacionando as imagens com os albuns**
 
-Em primeiro lugar precisamos entender como as imagens se relacionam com cada álbum, a própria documentação do CakePHP já fala sobre isso (<http://book.cakephp.org/2.0/en/models/associations-linking-models-together.html>), infelizmente está em inglês, vou eu mesmo mostrar como é.
+Em primeiro lugar precisamos entender como as imagens se relacionam com cada álbum, a própria documentação do CakePHP já fala sobre isso (<https://book.cakephp.org/2.0/en/models/associations-linking-models-together.html>), infelizmente está em inglês, vou eu mesmo mostrar como é.
 
 Temos 4 tipos possíveis de relacionamento entre tabelas.
 
@@ -756,8 +756,8 @@ Note que esta é uma tarefa normalmente dispendiosa, é uma administração comp
 
 Você ainda precisa proteger a administração da sua aplicação com senha, adicionar um controle de imagens melhor, checar se o arquivo existe e alterar o nome para não substituir, apagar a imagem quando o dado for apagado do banco (tanto o álbum quanto as imagens), remover a imagem antiga quando troca no admin_editar, setar imagem de capa do álbum&#8230; enfim, mas agora você tem um norte pra começar a trabalhar.
 
-Aqui o arquivo pronto para download (o sql do banco está em app/Config/Schema/database.sql): <http://blog.erikfigueiredo.com.br/galeria.zip>
+Aqui o arquivo pronto para download (o sql do banco está em app/Config/Schema/database.sql): <https://blog.erikfigueiredo.com.br/galeria.zip>
 
 Obrigado a todos.
 
- [1]: http://blog.erikfigueiredo.com.br/exemplo-de-framework-com-psr-0-psr-1-e-psr-2-entendendo-o-padrao-mvc-na-pratica-parte-01/
+ [1]: https://blog.erikfigueiredo.com.br/exemplo-de-framework-com-psr-0-psr-1-e-psr-2-entendendo-o-padrao-mvc-na-pratica-parte-01/

@@ -7,7 +7,7 @@ url: /2005_css_reboot/
 tweetbackscheck:
   - 1356043376
 shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"http://tableless.com.br/2005_css_reboot";s:7:"tinyurl";s:26:"http://tinyurl.com/3vlr7v5";s:4:"isgd";s:19:"http://is.gd/qYummG";}'
+  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/2005_css_reboot";s:7:"tinyurl";s:26:"https://tinyurl.com/3vlr7v5";s:4:"isgd";s:19:"https://is.gd/qYummG";}'
 twittercomments:
   - 'a:1:{i:44224464673718272;s:7:"retweet";}'
 tweetcount:
@@ -27,7 +27,7 @@ Esse projeto não é novo. Ele foi inspirado em outro projeto que tinha a mesma 
   * [O cara da Idéia][3]
   * [O projeto em Flash][4]
 
- [1]: http://www.cssreboot.com/
- [2]: http://www.cssreboot.com/about/
- [3]: http://www.benjaminadam.com/archives/2005/03/03/css-web-standards-may-1st-reboot
- [4]: http://www.may1reboot.com
+ [1]: https://www.cssreboot.com/
+ [2]: https://www.cssreboot.com/about/
+ [3]: https://www.benjaminadam.com/archives/2005/03/03/css-web-standards-may-1st-reboot
+ [4]: https://www.may1reboot.com

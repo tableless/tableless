@@ -67,5 +67,5 @@ Internet das Coisas é algo que está ficando muito popular agora com os relogin
   * Existe um terreno de oportunidades na área de segurança gigante no #IoT
   * Design != Estética.
 
- [1]: http://conferenciaweb.w3c.br/
+ [1]: https://conferenciaweb.w3c.br/
  [2]: https://www.kickstarter.com/projects/mipowusa/playbulb-candle-color-led-flameless-candle-with-mo

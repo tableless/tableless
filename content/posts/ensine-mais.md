@@ -24,5 +24,5 @@ Isso não seria possível se não houvessem pessoas engajadas em compartilhar co
 
 Por isso tudo, o meu apelo para você é o seguinte: ensine mais. Inaugure um blog, faça um podcast, abra um fórum, contribua em algum projeto opensource&#8230; Se você não quiser ter o trabalho de fazer tudo isso, ajude as iniciativas que já existem. Aqui mesmo no Tableless, sempre incentivamos que [você escreva um artigo][1] ou [responda perguntas no nosso fórum][2]. O importante é ensinar.
 
- [1]: http://tableless.com.br/seja-um-autor/
- [2]: http://tableless.com.br/forum/
+ [1]: https://tableless.com.br/seja-um-autor/
+ [2]: https://tableless.com.br/forum/

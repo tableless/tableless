@@ -35,9 +35,9 @@ Então não perca mais tempo e acesse logo a [primeira edição da Revista Front
 
 Obs.: Apenas a primeira edição será gratuita. [Para acessar as demais edições][3] você precisará ter [uma assinatura MVP][4], que te dará acesso a todo o conteúdo da DevMedia, inclusive as outras revistas.
 
-<small>Este é um publieditorial do Tableless. <a href="http://tableless.com.br/anuncie-no-tableless/">Anuncie no Tableless</a>.</small>
+<small>Este é um publieditorial do Tableless. <a href="https://tableless.com.br/anuncie-no-tableless/">Anuncie no Tableless</a>.</small>
 
- [1]: http://www.devmedia.com.br/autor/diogo-souza/256249
- [2]: http://www.devmedia.com.br/revista-front-end-magazine-1/31029
- [3]: http://www.devmedia.com.br/revista-front-end-magazine
- [4]: http://www.devmedia.com.br/mvp/
+ [1]: https://www.devmedia.com.br/autor/diogo-souza/256249
+ [2]: https://www.devmedia.com.br/revista-front-end-magazine-1/31029
+ [3]: https://www.devmedia.com.br/revista-front-end-magazine
+ [4]: https://www.devmedia.com.br/mvp/
