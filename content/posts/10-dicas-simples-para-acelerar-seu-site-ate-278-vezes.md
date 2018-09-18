@@ -96,7 +96,7 @@ Há diversas ferramentas para isso, como, por exemplo, AdoDB e Memcached.
 
 ## 5. Não Execute Consultas Dentro de _Loops_ {#não-execute-consultas-dentro-de-loops}
 
-O velho <a href="http://rberaldo.com.br/o-problema-do-n-mais-1/" target="_blank"><strong>Problema do N + 1</strong></a>.
+O velho <a href="https://rberaldo.com.br/o-problema-do-n-mais-1/" target="_blank"><strong>Problema do N + 1</strong></a>.
 
 Imagine esta situação: um site de artigos, com uma tabela de usuários e outra de artigos, que possui um campo que relaciona o artigo com seu autor.
 
@@ -115,9 +115,9 @@ A segunda consulta seria executada `N` vezes, sendo `N` o número total de usuá
 
 Ou seja, total de consultas seria `N + 1` (`N` consultas de posts mais uma consulta para a lista de usuários).
 
-Porém, bastariam duas consultas ou mesmo um simples `JOIN` para resolver o problema, o que pode trazer um ganho de desempenho <a href="http://rberaldo.com.br/o-problema-do-n-mais-1/" target="_blank">de até 13 Vezes</a>.
+Porém, bastariam duas consultas ou mesmo um simples `JOIN` para resolver o problema, o que pode trazer um ganho de desempenho <a href="https://rberaldo.com.br/o-problema-do-n-mais-1/" target="_blank">de até 13 Vezes</a>.
 
-Explico o **Problema do N + 1** em mais detalhes <a href="http://rberaldo.com.br/o-problema-do-n-mais-1/" target="_blank">neste artigo</a>.
+Explico o **Problema do N + 1** em mais detalhes <a href="https://rberaldo.com.br/o-problema-do-n-mais-1/" target="_blank">neste artigo</a>.
 
 <div id="attachment_51745" style="width: 510px" class="wp-caption aligncenter">
   <img class="size-full wp-image-51745" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/10/seo-slow-loading11.jpg" alt="De olho no relógio!" width="500" height="333" />
@@ -199,12 +199,12 @@ Para o MySQL, um simples exemplo de otimização pode ser feito com esta consult
 
 Todas as dicas anteriores são válidas e trazem um certo ganho de desempenho.
 
-Mas já imaginou conseguir ganhos de desempenho de <a href="http://buscasupersonica.com.br" target="_blank">Até 278 Vezes</a>?!
+Mas já imaginou conseguir ganhos de desempenho de <a href="https://buscasupersonica.com.br" target="_blank">Até 278 Vezes</a>?!
 
 Esse é o ganho que podemos conseguir com um Servidor de Busca como o ElasticSearch.
 
 O ElasticSearch permite armazenar dados de forma otimizada para buscas extremamente rápidas.
 
-Se o seu sistema faz muitos `SELECT`s, o ElasticSearch pode trazer <a href="http://buscasupersonica.com.br" target="_blank">ganhos fenomenais em desempenho</a>.
+Se o seu sistema faz muitos `SELECT`s, o ElasticSearch pode trazer <a href="https://buscasupersonica.com.br" target="_blank">ganhos fenomenais em desempenho</a>.
 
-Veja <a href="http://buscasupersonica.com.br" target="_blank">Neste Vídeo</a> algumas dicas para Acelerar o Seu Site Até 278 Vezes!
+Veja <a href="https://buscasupersonica.com.br" target="_blank">Neste Vídeo</a> algumas dicas para Acelerar o Seu Site Até 278 Vezes!

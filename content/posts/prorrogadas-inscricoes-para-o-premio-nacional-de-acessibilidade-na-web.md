@@ -14,7 +14,7 @@ Ainda dá tempo de participar da segunda edição do Prêmio Nacional de Acessib
 
 Pesquisa recente do W3C Brasil aponta que o indicador de conformidade aos padrões de acessibilidade de páginas de sítios web dos órgãos públicos brasileiros alcança a média de 5% do total de mais 6 milhões de páginas analisadas. Estima-se que o indicador para as páginas web do setor privado, ainda em levantamento, seja semelhante ao do setor público. Esse número indica que há um espaço enorme para avançar na acessibilidade na web.
 
-A partir desse cenário, o W3C Brasil anuncia a prorrogação das inscrições para Prêmio por mais alguns dias. As inscrições estão abertas e vão até o dia 4 de outubro e podem ser feitas pelo link <http://premio.w3c.br/inscricoes/>
+A partir desse cenário, o W3C Brasil anuncia a prorrogação das inscrições para Prêmio por mais alguns dias. As inscrições estão abertas e vão até o dia 4 de outubro e podem ser feitas pelo link <https://premio.w3c.br/inscricoes/>
 
 São três categorias e três sub-categorias. São elas:
 
@@ -69,4 +69,4 @@ Cada categoria será premiada da seguinte forma:
   * Participação na solenidade
   * Trabalho exibido em publicação do W3C.br
 
-As inscrições estão abertas e vão até o dia 4 de outubro. Maiores informações podem ser encontradas no site <http://premio.w3c.br/inscricoes/>
+As inscrições estão abertas e vão até o dia 4 de outubro. Maiores informações podem ser encontradas no site <https://premio.w3c.br/inscricoes/>

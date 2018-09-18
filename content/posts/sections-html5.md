@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356460068
 shorturls:
-  - 'a:3:{s:9:"permalink";s:38:"http://tableless.com.br/sections-html5";s:7:"tinyurl";s:26:"http://tinyurl.com/3ul3roy";s:4:"isgd";s:19:"http://is.gd/4mycqs";}'
+  - 'a:3:{s:9:"permalink";s:38:"https://tableless.com.br/sections-html5";s:7:"tinyurl";s:26:"https://tinyurl.com/3ul3roy";s:4:"isgd";s:19:"https://is.gd/4mycqs";}'
 twittercomments:
   - 'a:2:{i:12673607016652800;s:6:"136331";i:25731677342924801;s:6:"136705";}'
 tweetcount:

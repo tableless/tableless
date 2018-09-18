@@ -13,13 +13,13 @@ tags:
 image:  https://imasters.com.br/wp-content/uploads/2014/02/moment-js.jpg
 ---
 
-Trabalhar com datas no JavaScript utilizando a biblioteca padrão pode ser muito complicado e "chato" em diversos cenários e situações do dia a dia. Nesse post vou mostrar como utilizar algumas das principais funções do [**Moment.js**](http://momentjs.com/) para facilitar nosso desenvolvimento e a manipulação de datas.
+Trabalhar com datas no JavaScript utilizando a biblioteca padrão pode ser muito complicado e "chato" em diversos cenários e situações do dia a dia. Nesse post vou mostrar como utilizar algumas das principais funções do [**Moment.js**](https://momentjs.com/) para facilitar nosso desenvolvimento e a manipulação de datas.
 
 ## Sobre o Moment.js
 
 O Moment.js é um pacote open source que pode ser utilizado para validar, manipular e fazer o parse de datas no JavaScript de uma maneira muito poderosa (para os que já utilizam JavaScript há algum tempo, sabem muito bem que em certos cenários utilizar a biblioteca padrão pode ser bem chatinho).
 
-O repositório oficial do Moment.js pode ser encontrado no [GitHub](https://github.com/moment/moment) e a documentação oficial no [site](http://momentjs.com/docs/).
+O repositório oficial do Moment.js pode ser encontrado no [GitHub](https://github.com/moment/moment) e a documentação oficial no [site](https://momentjs.com/docs/).
 
 ## Instalando o pacote
 
@@ -31,7 +31,7 @@ Para instalar o moment utilizando o npm, basta utilizar o comando:
 $ npm install moment
 ```
 
-*Obs: as demais formas de instalação podem ser lidas na [documentação.](http://momentjs.com/docs/#/use-it/)*
+*Obs: as demais formas de instalação podem ser lidas na [documentação.](https://momentjs.com/docs/#/use-it/)*
 
 ## Parse
 
@@ -80,7 +80,7 @@ moment("2018-02-24").add(2, "days") // 2018-02-26
 moment("2018-02-24").add(1, "year").subtract("1", "days") // 2019-02-23
 ```
 
-*Obs: todos os tipos disponíveis podem ser encontrados na [documentação.](http://momentjs.com/docs/#/manipulating/add/)*
+*Obs: todos os tipos disponíveis podem ser encontrados na [documentação.](https://momentjs.com/docs/#/manipulating/add/)*
 
 #### Início e Fim
 

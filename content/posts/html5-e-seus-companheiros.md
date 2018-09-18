@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356458773
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/html5-e-seus-companheiros";s:7:"tinyurl";s:26:"http://tinyurl.com/3pvfqub";s:4:"isgd";s:19:"http://is.gd/DE2KYN";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/html5-e-seus-companheiros";s:7:"tinyurl";s:26:"https://tinyurl.com/3pvfqub";s:4:"isgd";s:19:"https://is.gd/DE2KYN";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503039474

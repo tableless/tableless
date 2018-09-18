@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1355291553
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/bonito-de-se-ver-27-2";s:7:"tinyurl";s:26:"http://tinyurl.com/3uofk98";s:4:"isgd";s:19:"http://is.gd/GVrBX2";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/bonito-de-se-ver-27-2";s:7:"tinyurl";s:26:"https://tinyurl.com/3uofk98";s:4:"isgd";s:19:"https://is.gd/GVrBX2";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034742
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.ayerblogs.cl/>
-  2. <http://www.colourmod.com/>
-  3. <http://uxmag.com/>
-  4. <http://www.couloir.org/>
-  5. <http://www.onetruefit.com/>
+  1. <https://www.ayerblogs.cl/>
+  2. <https://www.colourmod.com/>
+  3. <https://uxmag.com/>
+  4. <https://www.couloir.org/>
+  5. <https://www.onetruefit.com/>

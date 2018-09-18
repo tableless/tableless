@@ -17,7 +17,7 @@ tags:
 
 Apresento-lhes:
 
-<a href="http://graphql.org/">GraphQL</a>: uma query language como o SQL, mas desenhada para rodar no lado <em>client</em>, no caso: front-end.
+<a href="https://graphql.org/">GraphQL</a>: uma query language como o SQL, mas desenhada para rodar no lado <em>client</em>, no caso: front-end.
 
 <a href="https://github.com/leocavalcante/siler">Siler</a>: uma biblioteca PHP que tem como diferencial simplificar o desenvolvimento evitando <em>overheads</em>.
 <h2>GraphQL</h2>
@@ -29,7 +29,7 @@ A GraphQL trás, na verdade, uma nova abordagem pro desenvolvimento, ela pratica
 
 https://www.youtube.com/watch?v=9sc8Pyc51uU
 
-Na especificação da GraphQL tem um conceito de extrema relevância pra tecnologia que é o sistema de tipos (<em><a href="http://facebook.github.io/graphql/#sec-Type-System">Type System</a></em>). Isso faz com que seus dados sejam forte e estaticamente "tipados", algo bem diferente do que estamos acostumados com JSON e principalmente Percent-encoding (application/x-www-form-urlencoded) onde tudo é uma String. Mas isso é uma especificação e o lado que infere a implementação é o do servidor; <em>então o que o PHP tá fazendo aqui, Léo?</em> Bom, hoje o PHP 7 tem um sistema de declaração de tipos que pode até ser estrito dentro do seu projeto, mas a GraphQL não é sobre os tipos da linguagem que você implementa é sobre os tipos do seu <em>endpoint</em>, eles são normalmente implementados de acordo com seu domínio, suas <em>entities</em> (ou <em>Models</em> pra galera que curte um MVC).
+Na especificação da GraphQL tem um conceito de extrema relevância pra tecnologia que é o sistema de tipos (<em><a href="https://facebook.github.io/graphql/#sec-Type-System">Type System</a></em>). Isso faz com que seus dados sejam forte e estaticamente "tipados", algo bem diferente do que estamos acostumados com JSON e principalmente Percent-encoding (application/x-www-form-urlencoded) onde tudo é uma String. Mas isso é uma especificação e o lado que infere a implementação é o do servidor; <em>então o que o PHP tá fazendo aqui, Léo?</em> Bom, hoje o PHP 7 tem um sistema de declaração de tipos que pode até ser estrito dentro do seu projeto, mas a GraphQL não é sobre os tipos da linguagem que você implementa é sobre os tipos do seu <em>endpoint</em>, eles são normalmente implementados de acordo com seu domínio, suas <em>entities</em> (ou <em>Models</em> pra galera que curte um MVC).
 
 Claro, você não precisa implementar do zero tipo primitivos escalares como Int, Float, String, Boolean e ID (se usar uma biblioteca descente). E existem tipos abstratos pra você usar como base na implementação dos seus próprios tipos como: Object, Interface e List.
 
@@ -65,7 +65,7 @@ $query = Graphql\type('Query')([
 ]);
 
 Response\header('Access-Control-Allow-Headers', 'content-type');
-Response\header('Access-Control-Allow-Origin', 'http://localhost:3000');
+Response\header('Access-Control-Allow-Origin', 'https://localhost:3000');
 
 Graphql\init(new \GraphQL\Schema([
     'query' =&gt; $query(),
@@ -78,7 +78,7 @@ No primeiro bloco (3-8) estamos declarando o que iremos usar da Siler, como pode
 
 O que importa pra gente é 12-14 e 19-21, porque na 16 e 17 estamos apenas declarando alguns <em>headers</em> que irão na nossa resposta HTTP pro <a href="https://en.wikipedia.org/wiki/Cross-origin_resource_sharing">CORS</a> funcionar direitinho.
 
-No bloco 12-14 estamos declarando um novo tipo GraphQL, aquele comentado anteriormente, com a Siler é só questão de chamar uma função. Na <code>Siler\Graphql\type</code> nós declaramos um <a href="http://facebook.github.io/graphql/#sec-Objects"><code>ObjectType</code></a> de nome Query, ali pode ser qualquer nome que você queira dar pra <a href="http://facebook.github.io/graphql/#sec-Initial-types">Root Query</a> do seu endpoint GraphQL. Essa função retorna outra função (porque programação funcional rulez) onde o primeiro argumento é um <em>array</em> de <em>fields</em>. Na linha 13 nós estamos declarando um novo <em>field</em> do tipo <a href="http://facebook.github.io/graphql/#sec-String"><em>String</em></a> e com mais um extra-help da Siler, passamos a função <code>always</code> que significa que vai retornar sempre esse mesmo valor (&lt;code&gt;bar&lt;/code&gt;) independente dos argumentos que essa função for chamada (<a href="http://hackage.haskell.org/package/base-4.9.1.0/docs/Prelude.html#v:const"><em>vide <code>const</code> do Haskell</em></a>).
+No bloco 12-14 estamos declarando um novo tipo GraphQL, aquele comentado anteriormente, com a Siler é só questão de chamar uma função. Na <code>Siler\Graphql\type</code> nós declaramos um <a href="https://facebook.github.io/graphql/#sec-Objects"><code>ObjectType</code></a> de nome Query, ali pode ser qualquer nome que você queira dar pra <a href="https://facebook.github.io/graphql/#sec-Initial-types">Root Query</a> do seu endpoint GraphQL. Essa função retorna outra função (porque programação funcional rulez) onde o primeiro argumento é um <em>array</em> de <em>fields</em>. Na linha 13 nós estamos declarando um novo <em>field</em> do tipo <a href="https://facebook.github.io/graphql/#sec-String"><em>String</em></a> e com mais um extra-help da Siler, passamos a função <code>always</code> que significa que vai retornar sempre esse mesmo valor (&lt;code&gt;bar&lt;/code&gt;) independente dos argumentos que essa função for chamada (<a href="https://hackage.haskell.org/package/base-4.9.1.0/docs/Prelude.html#v:const"><em>vide <code>const</code> do Haskell</em></a>).
 
 No bloco 19-21 nós estamos iniciando um novo <em>endpoint</em> que irá ouvir e interpretar a <em>query</em> de GraphQL que veio no <em>request</em>. Estamos prontos para testar a funcionalidade da nossa API e existe uma ferramenta excelente pra isso, onde podemos testar <em>endpoints</em> GraphQL com uma interface gráfica - seria o Postman do GraphQL - é do próprio Facebook e se chama <a href="https://github.com/graphql/graphiql">GraphiQL</a>!
 

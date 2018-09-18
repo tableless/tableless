@@ -7,7 +7,7 @@ url: /coisas-uteis-que-nao-funcionam-no-ie-4-position-fixed/
 tweetbackscheck:
   - 1355690746
 shorturls:
-  - 'a:3:{s:9:"permalink";s:77:"http://tableless.com.br/coisas-uteis-que-nao-funcionam-no-ie-4-position-fixed";s:7:"tinyurl";s:26:"http://tinyurl.com/3u8rfrv";s:4:"isgd";s:19:"http://is.gd/sbzce4";}'
+  - 'a:3:{s:9:"permalink";s:77:"https://tableless.com.br/coisas-uteis-que-nao-funcionam-no-ie-4-position-fixed";s:7:"tinyurl";s:26:"https://tinyurl.com/3u8rfrv";s:4:"isgd";s:19:"https://is.gd/sbzce4";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036557
@@ -83,7 +83,7 @@ Para o IE, você vai usar o seguinte código:
 
 Sim, o código não vai validar, mas você pode escolher outro hack que passe no validador.
 
- [1]: http://tableless.com.br/estudo/positionfixed/semie.html
- [2]: http://tableless.com.br/csshacks
- [3]: http://home.tampabay.rr.com/bmerkey/examples/fake-position-fixed.html
- [4]: http://tableless.com.br/estudo/positionfixed/ie.html
+ [1]: https://tableless.com.br/estudo/positionfixed/semie.html
+ [2]: https://tableless.com.br/csshacks
+ [3]: https://home.tampabay.rr.com/bmerkey/examples/fake-position-fixed.html
+ [4]: https://tableless.com.br/estudo/positionfixed/ie.html

@@ -21,7 +21,7 @@ tags:
 ---
 Em 2014 o Google apresentou o Material Design: um guia para redefinir o visual de aplicativos. Vários aplicativos aderiram ao Material Design, como por exemplo, o WhatsApp, que mudou por completo o visual.
 
-Para facilitar ainda mais a vida do usuário, o Google <a href="https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031" target="_blank">anunciou </a>uma ferramenta para introduzir o Material Design em websites, chamado de <a href="http://www.getmdl.io/" target="_blank">Material Design Lite (MDL).</a>
+Para facilitar ainda mais a vida do usuário, o Google <a href="https://medium.com/google-developers/introducing-material-design-lite-3ce67098c031" target="_blank">anunciou </a>uma ferramenta para introduzir o Material Design em websites, chamado de <a href="https://www.getmdl.io/" target="_blank">Material Design Lite (MDL).</a>
 
 Assim como qualquer outro _framework_, o MDL oferece uma documentação e vários exemplos para facilitar a aplicação em websites. O nome &#8220;Lite&#8221; &#8211;  segundo o Google &#8211; dá-se pela extrema facilidade, pouca dependência e também pelo tamanho do pacote (aproximadamente 27KB gzipped).
 

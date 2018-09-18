@@ -60,7 +60,7 @@ Eu gostei muito do novo logo. Dá um baque no início, mas lendo os conceitos, o
 
 <img src="https://diegoeis.github.io/tableless-static-images/2017/01/johnsonbanks_Mozilla_save.jpg" alt="" width="1500" height="1061" class="aligncenter size-full wp-image-56977" />
 
- [1]: http://johnsonbanks.co.uk/thoughtfortheweek/mozilla-the-chosen-route/
+ [1]: https://johnsonbanks.co.uk/thoughtfortheweek/mozilla-the-chosen-route/
  [2]: https://blog.mozilla.org/opendesign/now-for-the-fun-part/
  [3]: https://blog.mozilla.org/opendesign/design-route-a-the-eye/
  [4]: https://blog.mozilla.org/opendesign/design-route-e-wireframe-world/

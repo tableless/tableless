@@ -30,7 +30,7 @@ Vamos falar de dois editores: Edge Code e Sublime Text.
 
 O Edge Code tem como objetivo permitir o foco no trabalho, para isso ele tem uma interface propositalmente simples. Uma mágica que adoro nele é poder editar conteúdo de um arquivo por meio de outro com base em uma relação específica – ou seja, tenho no arquivo html uma marcação que faz referência a uma classe CSS, clicando com o botão direito nessa classe e selecionando quick edit podemos editar o CSS do arquivo externo com base no arquivo html. Esse baralho tem muito mais mágicas.
 
-O Sublime Text tem tantos recursos que possibilitam uma produtividade imensa. Quando você acessa <http://www.sublimetext.com/>, nota-se o foco em mostrar o quão produtivo o Sublime Text é. Uma mágica de produtividade é a possibilidade de selecionar um texto que se repete em um arquivo html por meio da tecla de atalho Ctrl+d e alterar todos ao mesmo tempo. Adoro isso.
+O Sublime Text tem tantos recursos que possibilitam uma produtividade imensa. Quando você acessa <https://www.sublimetext.com/>, nota-se o foco em mostrar o quão produtivo o Sublime Text é. Uma mágica de produtividade é a possibilidade de selecionar um texto que se repete em um arquivo html por meio da tecla de atalho Ctrl+d e alterar todos ao mesmo tempo. Adoro isso.
 
 ## Cartola
 

@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356470903
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/section-elemento-article";s:7:"tinyurl";s:26:"http://tinyurl.com/3msr8ps";s:4:"isgd";s:19:"http://is.gd/e7o2xV";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/section-elemento-article";s:7:"tinyurl";s:26:"https://tinyurl.com/3msr8ps";s:4:"isgd";s:19:"https://is.gd/e7o2xV";}'
 twittercomments:
   - 'a:6:{i:202779216335478787;s:7:"retweet";i:202771255529713666;s:7:"retweet";i:202771244641304577;s:7:"retweet";i:202769131785826304;s:7:"retweet";i:202768171176968192;s:7:"retweet";i:202760990826303489;s:7:"retweet";}'
 tweetcount:

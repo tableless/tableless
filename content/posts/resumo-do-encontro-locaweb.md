@@ -48,10 +48,10 @@ As duas palestras que fiz estão disponíveis aqui abaixo e se [quiser assistir,
 
 E eu, louco.
 
- [1]: http://encontrolocaweb.com.br
- [2]: http://tableless.com.br/anotacoes-da-palestra-do-silvio-meira/
+ [1]: https://encontrolocaweb.com.br
+ [2]: https://tableless.com.br/anotacoes-da-palestra-do-silvio-meira/
  [3]: https://www.eventials.com/pt-br/locaweb/silvio-meira-principios-de-alta-performance-para-empreendedorismo-digital/
- [4]: http://luli.com.br
- [5]: http://tableless.com.br/anotacoes-da-palestra-do-luli-radfahrer-no-15elw/ "Anotações da palestra do Luli Radfahrer no 15ELW"
+ [4]: https://luli.com.br
+ [5]: https://tableless.com.br/anotacoes-da-palestra-do-luli-radfahrer-no-15elw/ "Anotações da palestra do Luli Radfahrer no 15ELW"
  [6]: https://www.eventials.com/pt-br/locaweb/luli-radfahrer-internet-das-coisas-computacao-em-nuvem-e-tendencias-2013/
  [7]: https://www.eventials.com/pt-br/locaweb/diego-eis-a-semantica-do-html-5/

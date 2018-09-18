@@ -18,7 +18,7 @@ Quem nunca ouviu as seguintes frases: “Escrever SQL nos dias de hoje não é u
 
 O mercado de startups parece cada vez mais alérgico ao SQL, um dos recursos mais poderosos e antigos(1974!) no mundo dos bancos de dados.
 
-O que as pessoas esquecem ou escolhem ignorar é a <a href="http://rob.conery.io/2015/02/24/embracing-sql-in-postgres/" target="_blank">capacidade que um banco de dados tem</a> e pode te oferecer para resolver problemas banais.
+O que as pessoas esquecem ou escolhem ignorar é a <a href="https://rob.conery.io/2015/02/24/embracing-sql-in-postgres/" target="_blank">capacidade que um banco de dados tem</a> e pode te oferecer para resolver problemas banais.
 
 Mas a questão é, como e porque devemos perder o medo do SQL?
 
@@ -33,7 +33,7 @@ Porém, quando precisamos resolver consultas mais complexas, nós enfrentamos el
 
 Por mais vantajoso em termos de desempenho seja escrever a String da consulta dentro do ORM, muitas vezes preferimos processar essas consultas em tempo de execução utilizando os lindos recursos de nossas maravilhosas linguagens dinâmicas. Afinal, é deselegante escrever uma String com uma query SQL no meio do nosso Business Logic, né?
 
-Esse pensamento é bastante comum, pouco eficiente e bastante errado. Quando assumimos fazer o item 1, perdemos os recursos de <a href="http://en.wikipedia.org/wiki/Query_optimization" target="_blank">otimização de query</a> que o banco nos fornece e damos lugar um código que é muito provavelmente ineficiente e tem pouca garantia de consistência. Quando assumimos o item 2, ganhamos o fator otimização porém perdemos no fator manutenibilidade.
+Esse pensamento é bastante comum, pouco eficiente e bastante errado. Quando assumimos fazer o item 1, perdemos os recursos de <a href="https://en.wikipedia.org/wiki/Query_optimization" target="_blank">otimização de query</a> que o banco nos fornece e damos lugar um código que é muito provavelmente ineficiente e tem pouca garantia de consistência. Quando assumimos o item 2, ganhamos o fator otimização porém perdemos no fator manutenibilidade.
 
 Você pode alegar que não se pode ganhar todas né? Nesse caso, você pode sim ganhar todas.
 
@@ -41,7 +41,7 @@ Você pode alegar que não se pode ganhar todas né? Nesse caso, você pode sim 
 
 Funções internas do banco de dados são normalmente chamadas de Procedure ou Routine. Essas procedures se comportam como uma função em qualquer linguagem de programação, ou seja, podemos chama-las através de consultas, podemos utilizá-las em outras procedures e podemos também chama-las através do nosso ORM de preferência.
 
-Se quiser ler mais sobre procedures nativas do PostgreSQL tem uma <a href="http://rob.conery.io/2015/02/24/embracing-sql-in-postgres/" target="_blank">matéria bem legal</a> dando uma palhinha do que ele pode fazer por você.
+Se quiser ler mais sobre procedures nativas do PostgreSQL tem uma <a href="https://rob.conery.io/2015/02/24/embracing-sql-in-postgres/" target="_blank">matéria bem legal</a> dando uma palhinha do que ele pode fazer por você.
 
 ### Minhas procedures
 
@@ -71,7 +71,7 @@ Hello, Rafael!
 
 Podemos ver então que a declaração de uma procedure é bastante simples e flexível. Podemos ter funções com diversos retornos como tabelas, tipos nativos e tipos criados pelo usuário.
 
-Existe também aqueles que gostam de trabalhar somente com SQL por já ter se estressado o suficiente com o ORM e tentou <a href="http://rob.conery.io/2015/02/21/its-time-to-get-over-that-stored-procedure-aversion-you-have/" target="_blank">recriar o Devise utilizando procedures</a> (Este é um artigo bastante interessante de alguém que cansou de ter problemas com ORMs).
+Existe também aqueles que gostam de trabalhar somente com SQL por já ter se estressado o suficiente com o ORM e tentou <a href="https://rob.conery.io/2015/02/21/its-time-to-get-over-that-stored-procedure-aversion-you-have/" target="_blank">recriar o Devise utilizando procedures</a> (Este é um artigo bastante interessante de alguém que cansou de ter problemas com ORMs).
 
 ## Lógica de Dados VS Lógica de Negócios
 

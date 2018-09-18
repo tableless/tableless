@@ -45,13 +45,13 @@ Até lá você pode ler algo que identifiquei no processo de formar um Framework
   
 [Designers e Programadores][10]
 
- [1]: http://developer.locaweb.com.br
+ [1]: https://developer.locaweb.com.br
  [2]: https://github.com/locaweb/
  [3]: https://github.com/locaweb/bricklayer#readme
- [4]: http://developer.locaweb.com.br/documentacoes/
- [5]: http://wiki.locaweb.com.br/pt-br/P%C3%A1gina_principal
- [6]: http://github.com/locaweb/
- [7]: http://developer.locaweb.com.br/locawebstyle/
+ [4]: https://developer.locaweb.com.br/documentacoes/
+ [5]: https://wiki.locaweb.com.br/pt-br/P%C3%A1gina_principal
+ [6]: https://github.com/locaweb/
+ [7]: https://developer.locaweb.com.br/locawebstyle/
  [8]: https://github.com/locaweb/locawebstyle/
- [9]: http://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/ "Estruturação de Client-side – Parte 1: Préprocessadores, Framewoks e Bibliotecas"
- [10]: http://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/ "Estruturação de Client-side – Parte 2: Designers e Programadores"
+ [9]: https://tableless.com.br/estruturacao-de-client-side-preprocessadores-framewoks-e-bibliotecas-parte-1/ "Estruturação de Client-side – Parte 1: Préprocessadores, Framewoks e Bibliotecas"
+ [10]: https://tableless.com.br/estruturacao-de-client-side-designers-e-programadores-parte-2/ "Estruturação de Client-side – Parte 2: Designers e Programadores"

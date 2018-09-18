@@ -83,5 +83,5 @@ Após o envio do pedido você receberá no seu e-mail cadastrado nas configuraç
 
 Essa é uma forma bem econômica de avaliar seu negócio se vai mesmo pegar na internet e ir fazendo os ajustes para cada vez converter mais vendas para seu negócio. Alguns ajustes como informações claras sobre o produto, formas de pagamento, prazo de entrega, recomendações de clientes que já compraram e reduzir a quantidade de cliks até a finalização da compra é um ponto decisivo para o cliente efetuar ou não a compra do seu produto, essas são algumas dicas básicas para ter sucesso com seu e-commerce.
 
- [1]: http://tableless.com.br/lojas-virtuais-com-woocommerce/
- [2]: http://tableless.com.br/lojas-virtuais-com-woocommerce-ii-criando-temas-personalizados/
+ [1]: https://tableless.com.br/lojas-virtuais-com-woocommerce/
+ [2]: https://tableless.com.br/lojas-virtuais-com-woocommerce-ii-criando-temas-personalizados/

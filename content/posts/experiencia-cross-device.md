@@ -8,7 +8,7 @@ url: /experiencia-cross-device/
 tweetbackscheck:
   - 1356399447
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=4950";s:7:"tinyurl";s:26:"http://tinyurl.com/d9s39jn";s:4:"isgd";s:19:"http://is.gd/Ft38rG";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4950";s:7:"tinyurl";s:26:"https://tinyurl.com/d9s39jn";s:4:"isgd";s:19:"https://is.gd/Ft38rG";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 512438734
@@ -41,7 +41,7 @@ Me lembro que aqui no Brasil o recebimento de SMS internacional era um problema 
 
 Há uma frase interessantíssima no artigo de Scott Jenson onde ele diz assim:
 
-<blockquote cite="http://designmind.frogdesign.com/blog/the-coming-zombie-apocalypse-small-cheap-devices-will-disrupt-our-old-school-ux-assumptions.htm" lang="en">
+<blockquote cite="https://designmind.frogdesign.com/blog/the-coming-zombie-apocalypse-small-cheap-devices-will-disrupt-our-old-school-ux-assumptions.htm" lang="en">
   <p>
     This problem is simple, but pernicious: designers think of new technologies in terms of yesterday&#8217;s tasks, failing to clearly see the real potential of the new technologies.
   </p>
@@ -59,11 +59,11 @@ O Sonos é um aparelho de som Wi-Fi. Além do Pandora você pode sincronizar sua
 
 Entende o que é a experiência do usuário nesse cenário?
 
- [1]: http://tableless.com.br/diversidade-dos-meios-acesso/
- [2]: http://tableless.com.br/experiencia-deve-ter-comeco-meio-e-fim/
- [3]: http://tableless.com.br/introducao-ao-responsive-web-design/
- [4]: http://designmind.frogdesign.com/blog/the-coming-zombie-apocalypse-small-cheap-devices-will-disrupt-our-old-school-ux-assumptions.htm
- [5]: http://twitter.com/scottjenson
- [6]: http://www.sonos.com/
+ [1]: https://tableless.com.br/diversidade-dos-meios-acesso/
+ [2]: https://tableless.com.br/experiencia-deve-ter-comeco-meio-e-fim/
+ [3]: https://tableless.com.br/introducao-ao-responsive-web-design/
+ [4]: https://designmind.frogdesign.com/blog/the-coming-zombie-apocalypse-small-cheap-devices-will-disrupt-our-old-school-ux-assumptions.htm
+ [5]: https://twitter.com/scottjenson
+ [6]: https://www.sonos.com/
  [7]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/12/twitter-original-homepage.png
- [8]: http://www.youtube.com/watch?v=7Dv670PwVLM
+ [8]: https://www.youtube.com/watch?v=7Dv670PwVLM

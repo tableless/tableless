@@ -22,7 +22,7 @@ O padrão que é utilizado são dois campos: um para digitar e o outro para conf
 
 Muitos pensam que devem colocar o segundo campo de confirmação, para evitar o erro de digitação, já que os campos usam uma máscara nos caracteres. E é aí, que mora o problema.
 
-Alguns usuários cometem erros de digitação e não sabe se errou no campo da senha ou no de confirmação. <a href="http://www.formisimo.com/blog/case-study-small-changes-lead-to-a-55-increase-in-conversions/" rel="nofollow">Este estudo</a> constatou que o campo de confirmação foi responsável por mais de um quarto de abandono dos usuários. Feito isso, resolveram fazer outro teste sem o campo de confirmação e perceberam que houve uma diminuição de erros e um aumento na taxa de conversão de conclusão.
+Alguns usuários cometem erros de digitação e não sabe se errou no campo da senha ou no de confirmação. <a href="https://www.formisimo.com/blog/case-study-small-changes-lead-to-a-55-increase-in-conversions/" rel="nofollow">Este estudo</a> constatou que o campo de confirmação foi responsável por mais de um quarto de abandono dos usuários. Feito isso, resolveram fazer outro teste sem o campo de confirmação e perceberam que houve uma diminuição de erros e um aumento na taxa de conversão de conclusão.
 
 ### Não basta excluir
 

@@ -28,7 +28,7 @@ Após feito isso o plugin já vai estar instalado (da uma conferida na pasta app
 
 <ul class="task-list">
   <li>
-    Acesse o <a href="http://mailchimp.com/" rel="noreferrer">Mailchimp</a>
+    Acesse o <a href="https://mailchimp.com/" rel="noreferrer">Mailchimp</a>
   </li>
   <li>
     No menu do usuário, clique em Account

@@ -7,7 +7,7 @@ url: /ie8-targeting-version/
 tweetbackscheck:
   - 1356458420
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/ie8-targeting-version";s:7:"tinyurl";s:26:"http://tinyurl.com/4ysu77x";s:4:"isgd";s:19:"http://is.gd/vAvgnb";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/ie8-targeting-version";s:7:"tinyurl";s:26:"https://tinyurl.com/4ysu77x";s:4:"isgd";s:19:"https://is.gd/vAvgnb";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037878
@@ -43,7 +43,7 @@ O Internet Explorer 8 será muito mais diferente dos IEs passados. O pessoal que
 
 Os problemas que os desenvolvedores enfrentam são muitos. A falta do suporte total das linguagens que usamos, traz problemas de interpretação dos padrões. É normal hoje em dia, que dois browsers, atualizados, tragam renderizações diferentes de uma mesma ação.
 
-A solução que o pessoal da Microsoft, juntamente com o WaSP foi a seguinte: usando uma declaração de <a href=""http://tableless.com.br/metatags title="Para que servem as MetaTags?">metatag</a>, nós poderemos especificar a maneira que o motor de um browser como o IE8 deverá renderizar a página. O exemplo da metatag é o seguinte:
+A solução que o pessoal da Microsoft, juntamente com o WaSP foi a seguinte: usando uma declaração de <a href=""https://tableless.com.br/metatags title="Para que servem as MetaTags?">metatag</a>, nós poderemos especificar a maneira que o motor de um browser como o IE8 deverá renderizar a página. O exemplo da metatag é o seguinte:
 
 <pre><meta http-equiv="X-UA-Compatible" content="IE=8" />
 </pre>
@@ -71,6 +71,6 @@ Não podemos esquecer da falta de informação dos usuários. Muitos nem sabem o
 
 **(09/03/08) UPDATE: [E a Microsoft mudou de idéia][3].**
 
- [1]: http://tableless.com.br/escrevendo-um-xhtml-valido "Escrevendo um XHTML válido"
- [2]: http://webstandards.org/action/acid2/ "Teste de suporte aos Padrões"
- [3]: http://tableless.com.br/ie8-o-sonho-nao-acabou "A Microsoft mudou de idéia quanto ao Browser Targeting"
+ [1]: https://tableless.com.br/escrevendo-um-xhtml-valido "Escrevendo um XHTML válido"
+ [2]: https://webstandards.org/action/acid2/ "Teste de suporte aos Padrões"
+ [3]: https://tableless.com.br/ie8-o-sonho-nao-acabou "A Microsoft mudou de idéia quanto ao Browser Targeting"

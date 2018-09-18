@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356303769
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/bonito_de_se_ver18";s:7:"tinyurl";s:26:"http://tinyurl.com/454sprg";s:4:"isgd";s:19:"http://is.gd/vJ8HMk";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/bonito_de_se_ver18";s:7:"tinyurl";s:26:"https://tinyurl.com/454sprg";s:4:"isgd";s:19:"https://is.gd/vJ8HMk";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033802
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.questacademy.org/home/>
-  2. <http://www.emaginacion.com.ar/>
-  3. <http://www.mad4milk.net/>
-  4. <http://www.thefilebrowser.com/>
-  5. <http://www.rimshotdesign.com/>
+  1. <https://www.questacademy.org/home/>
+  2. <https://www.emaginacion.com.ar/>
+  3. <https://www.mad4milk.net/>
+  4. <https://www.thefilebrowser.com/>
+  5. <https://www.rimshotdesign.com/>

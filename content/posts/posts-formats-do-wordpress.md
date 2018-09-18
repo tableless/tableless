@@ -8,7 +8,7 @@ url: /posts-formats-do-wordpress/
 tweetbackscheck:
   - 1356467878
 shorturls:
-  - 'a:3:{s:9:"permalink";s:50:"http://tableless.com.br/posts-formats-do-wordpress";s:7:"tinyurl";s:26:"http://tinyurl.com/3d9lq9s";s:4:"isgd";s:19:"http://is.gd/wf5EOR";}'
+  - 'a:3:{s:9:"permalink";s:50:"https://tableless.com.br/posts-formats-do-wordpress";s:7:"tinyurl";s:26:"https://tinyurl.com/3d9lq9s";s:4:"isgd";s:19:"https://is.gd/wf5EOR";}'
 twittercomments:
   - 'a:1:{i:162738452469780480;s:7:"retweet";}'
 tweetcount:
@@ -102,5 +102,5 @@ Você pode personalizar este retorno das maneiras que quiser. Se for usar esta f
 
 Caso tenha maiores dúvidas, consulte o [codex de Posts Formats][2]
 
- [1]: http://tableless.com.br/tags-condicionais-do-wordpress "Guia de Referência de Tags Condicionais | Tableless"
- [2]: http://codex.wordpress.org/Post_Formats "Codex de Posts Formats"
+ [1]: https://tableless.com.br/tags-condicionais-do-wordpress "Guia de Referência de Tags Condicionais | Tableless"
+ [2]: https://codex.wordpress.org/Post_Formats "Codex de Posts Formats"

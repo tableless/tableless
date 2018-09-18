@@ -130,7 +130,7 @@ Ao clicarmos no botão, o produto é adicionado à tabela. Aqui o model poderia 
 
 ## Testes
 
-Por ser um framework que demanda um código JavaScript mais estruturado, fica bem simples testar sua aplicação. Utilizando <a href="http://tableless.com.br/testando-seu-codigo-jquery-com-jasmine-parte-1/" target="_blank">Jasmine</a>, por exemplo, poderíamos facilmente testar o controller dessa forma:
+Por ser um framework que demanda um código JavaScript mais estruturado, fica bem simples testar sua aplicação. Utilizando <a href="https://tableless.com.br/testando-seu-codigo-jquery-com-jasmine-parte-1/" target="_blank">Jasmine</a>, por exemplo, poderíamos facilmente testar o controller dessa forma:
 
 <pre class="lang-javascript">describe('Lista Compras Unitário', function () {
     describe('ListaComprasController', function () {
@@ -162,8 +162,8 @@ Por ser um framework que demanda um código JavaScript mais estruturado, fica be
 
 Deixei muitos tópicos de fora por enquanto. O objetivo aqui era mostrar o potencial do framework AngularJS. Seus recursos ainda incluem rotas, múltiplas views, AJAX e serviços REST e a criação de componentes personalizados. O que vocês viram foi o básico do básico, uma introdução.
 
-No <a href="http://angularjs.org/" target="_blank">site do framework</a> há uma documentação bem completa, com diversos tutoriais.
+No <a href="https://angularjs.org/" target="_blank">site do framework</a> há uma documentação bem completa, com diversos tutoriais.
 
-O código fonte do nosso exemplo vocês encontram no <a href="https://github.com/tableless/exemplos/tree/gh-pages/angularjs/lista-compras/" target="_blank">Github do Tableless</a>. E <a href="http://tableless.github.com/exemplos/angularjs/lista-compras/" target="_blank">nesse link</a> vocês conseguem visualizar nossa lista de compras em ação.
+O código fonte do nosso exemplo vocês encontram no <a href="https://github.com/tableless/exemplos/tree/gh-pages/angularjs/lista-compras/" target="_blank">Github do Tableless</a>. E <a href="https://tableless.github.com/exemplos/angularjs/lista-compras/" target="_blank">nesse link</a> vocês conseguem visualizar nossa lista de compras em ação.
 
-Finalizando, nosso camarada Vedovelli gravou um <a href="http://blog.vedovelli.com.br/?p=1946" target="_blank">screencast</a> bem completo sobre o AngularJS, recomendo!
+Finalizando, nosso camarada Vedovelli gravou um <a href="https://blog.vedovelli.com.br/?p=1946" target="_blank">screencast</a> bem completo sobre o AngularJS, recomendo!

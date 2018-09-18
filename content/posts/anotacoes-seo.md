@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356386004
 shorturls:
-  - 'a:3:{s:9:"permalink";s:37:"http://tableless.com.br/anotacoes-seo";s:7:"tinyurl";s:26:"http://tinyurl.com/3grppve";s:4:"isgd";s:19:"http://is.gd/bvuuLo";}'
+  - 'a:3:{s:9:"permalink";s:37:"https://tableless.com.br/anotacoes-seo";s:7:"tinyurl";s:26:"https://tinyurl.com/3grppve";s:4:"isgd";s:19:"https://is.gd/bvuuLo";}'
 twittercomments:
   - 'a:1:{i:18287600661962752;s:6:"136485";}'
 tweetcount:
@@ -57,4 +57,4 @@ A criação de um Sitemap.xml é importante para manter os buscadores atualizado
 
 O .htaccess vai servir para o controle de endereços antigos e redirecionamento para os endereços mais atuais. Atenção: cuidado para que o .htaccess tenha redirecionamentos demais. Isso pode prejudicar o trabalho dos buscadores e algumas de suas páginas podem não ser redirecionadas corretamente.
 
- [1]: http://tableless.com.br/seo-sitemaps
+ [1]: https://tableless.com.br/seo-sitemaps

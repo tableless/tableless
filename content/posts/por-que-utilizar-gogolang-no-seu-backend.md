@@ -31,7 +31,7 @@ Só por esta constatação, você já poderia largar tudo e seguir os passos del
 
 Acima, eu disse algumas vantagens de utilizar a linguagem, porém, a lista é bem mais vasta. Tentarei compilar os pontos que mais me chamam atenção e que possivelmente seriam casos de uso para você utilizá-la:
 
-  * Go é incrivelmente ‘leve’ em termos de uso de memória. Existe <a href="http://www.iron.io/how-we-went-from-30-servers-to-2-go/" target="_blank">um caso conhecido</a> de uma companhia que rodava um serviço em Ruby utilizando 50 servidores e foram para 2 com Go.
+  * Go é incrivelmente ‘leve’ em termos de uso de memória. Existe <a href="https://www.iron.io/how-we-went-from-30-servers-to-2-go/" target="_blank">um caso conhecido</a> de uma companhia que rodava um serviço em Ruby utilizando 50 servidores e foram para 2 com Go.
   * Concorrência é um dos pontos fortes da linguagem, se você precisar sobrecarregar um backend com diversos processamentos simultâneos, as `goroutines` e `channels` <a href="https://matt.aimonetti.net/posts/2012/11/27/real-life-concurrency-in-go/" target="_blank">vão te ajudar bastante</a>.
   * Compila muito rápido.
   * Tem _garbage collector_, você não precisa se preocupar tanto com memória como nos seus dias de C.
@@ -42,7 +42,7 @@ Acima, eu disse algumas vantagens de utilizar a linguagem, porém, a lista é be
 Existe uma infinidade de empresas que ao descobrirem os poderes mágicos de Go, foram migrando seus serviços/backend. Abaixo algumas grandes:
 
   * Uber &#8211; <a href="https://eng.uber.com/go-geofence/" target="_blank">How we built uber engineering’s highest query per second service using Go</a>
-  * Docker &#8211; <a href="http://pt.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go" target="_blank">Why did we decide to write Docker in Go?</a>
+  * Docker &#8211; <a href="https://pt.slideshare.net/jpetazzo/docker-and-go-why-did-we-decide-to-write-docker-in-go" target="_blank">Why did we decide to write Docker in Go?</a>
   * Dropbox &#8211; <a href="https://blogs.dropbox.com/tech/2014/07/open-sourcing-our-go-libraries/" target="_blank">Open sourcing our Go libraries</a>
   * OpenShift &#8211; <a href="https://blog.gopheracademy.com/birthday-bash-2014/openshift-3-old-dogs-new-tricks/" target="_blank">OpenShift3 and Go &#8211; Teaching Old Dogs New Tricks</a>
   * Twitter &#8211; <a href="https://blog.twitter.com/2015/handling-five-billion-sessions-a-day-in-real-time" target="_blank">Handling five billion sessions a day – in real time</a>

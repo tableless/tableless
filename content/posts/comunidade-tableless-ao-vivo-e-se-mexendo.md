@@ -7,7 +7,7 @@ url: /comunidade-tableless-ao-vivo-e-se-mexendo/
 tweetbackscheck:
   - 1356139801
 shorturls:
-  - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/comunidade-tableless-ao-vivo-e-se-mexendo";s:7:"tinyurl";s:26:"http://tinyurl.com/4y8t3ze";s:4:"isgd";s:19:"http://is.gd/KOUVF8";}'
+  - 'a:3:{s:9:"permalink";s:65:"https://tableless.com.br/comunidade-tableless-ao-vivo-e-se-mexendo";s:7:"tinyurl";s:26:"https://tinyurl.com/4y8t3ze";s:4:"isgd";s:19:"https://is.gd/KOUVF8";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037009
@@ -21,6 +21,6 @@ Já falei sobre a [Comunidade Tableless][1] [aqui][2]. Se você tem blog sobre d
 
 Mas se você quiser se juntar aos mais de 110 leitores, sinta-se à vontade. [Assine o Feed][3] ou leia [direto aqui pelo site][1].
 
- [1]: http://tableless.com.br/comunidade-tableless/
- [2]: http://tableless.com.br/comunidade-sobre-tableless
- [3]: http://feeds.feedburner.com/comunidadetableless
+ [1]: https://tableless.com.br/comunidade-tableless/
+ [2]: https://tableless.com.br/comunidade-sobre-tableless
+ [3]: https://feeds.feedburner.com/comunidadetableless

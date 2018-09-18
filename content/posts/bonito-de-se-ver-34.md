@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356433954
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bonito-de-se-ver-34";s:7:"tinyurl";s:26:"http://tinyurl.com/3j2un9n";s:4:"isgd";s:19:"http://is.gd/mxvPfI";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/bonito-de-se-ver-34";s:7:"tinyurl";s:26:"https://tinyurl.com/3j2un9n";s:4:"isgd";s:19:"https://is.gd/mxvPfI";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036349
@@ -21,8 +21,8 @@ tags:
   - bonitodesever
 
 ---
-  1. <http://www.johnandsara.com/>
-  2. <http://www.formsite.com/>
-  3. <http://cestudios.net/>
-  4. <http://www.creixems.com/home/>
-  5. <http://www.ashwebstudio.com/>
+  1. <https://www.johnandsara.com/>
+  2. <https://www.formsite.com/>
+  3. <https://cestudios.net/>
+  4. <https://www.creixems.com/home/>
+  5. <https://www.ashwebstudio.com/>

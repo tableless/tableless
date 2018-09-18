@@ -26,5 +26,5 @@ Pensando nisso, a comunidade se juntou pra levantar mais fundos, mas desta vez e
 
 [Conheça nossa campanha agora clicando aqui.][2]
 
- [1]: http://eventials.com/
- [2]: http://bit.ly/frontendunited-leokzw
+ [1]: https://eventials.com/
+ [2]: https://bit.ly/frontendunited-leokzw

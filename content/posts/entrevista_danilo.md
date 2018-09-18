@@ -8,12 +8,12 @@ url: /entrevista_danilo/
 enclosure:
   - |
     |
-        http://tableless.com.br/podcast/danilomedeiros.mp3
+        https://tableless.com.br/podcast/danilomedeiros.mp3
         
 tweetbackscheck:
   - 1355451893
 shorturls:
-  - 'a:3:{s:9:"permalink";s:41:"http://tableless.com.br/entrevista_danilo";s:7:"tinyurl";s:26:"http://tinyurl.com/3zhbzll";s:4:"isgd";s:19:"http://is.gd/xiUTbe";}'
+  - 'a:3:{s:9:"permalink";s:41:"https://tableless.com.br/entrevista_danilo";s:7:"tinyurl";s:26:"https://tinyurl.com/3zhbzll";s:4:"isgd";s:19:"https://is.gd/xiUTbe";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032121
@@ -31,6 +31,6 @@ A qualidade está bem ruim. Por enquanto vamos publicar assim. Percebi pelos log
               
 Na segunda parte da entrevista, que poremos no ar em breve, Danilo fala sobre o iPodder. Se você ainda não entendeu a diferença entre podcasting e audioblogs, aguarde a segunda parte da entrevista.
 
- [1]: http://tableless.com.br/rss.asp "RSS 2.0"
- [2]: http://tableless.com.br/podcast/danilomedeiros.mp3 "Podcast #3 - Entrevista com Danilo Medeiros - parte 1"
- [3]: http://www.digitalminds.com.br "DigitalMinds"
+ [1]: https://tableless.com.br/rss.asp "RSS 2.0"
+ [2]: https://tableless.com.br/podcast/danilomedeiros.mp3 "Podcast #3 - Entrevista com Danilo Medeiros - parte 1"
+ [3]: https://www.digitalminds.com.br "DigitalMinds"

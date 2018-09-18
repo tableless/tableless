@@ -46,9 +46,9 @@ Mas para não facilitar muito, uso o Opera. O Opera tem algumas opções bem int
 
 O que mais me deixa chateado são os banners que gravam os cookies de retargeting e que tem contratos e conexões com a base de Ads do Google (e Facebook, claro)... ou seja, eles estão te traqueando de qualquer maneira. Para mim ainda continua sendo aquela velha história: para quem você quer vender sua alma. Eu escolhi o Google, pois pelo menos ele me dá muitos serviços úteis em troca (embora sejam feitos para arrancar mais dados sobre mim), já o Facebook, por exemplo, não me devolve nada de produtivo.
 
-Há serviços como o [YourAdChoices](http://www.aboutads.info/choices/), que tentam facilitar o OptOut de cookies das empresas de ads. Ele escaneia seu browser procurando cookies de ads ligados à rede AdChoices, te dando a possibilidade de fazer o optout. Eu até tentei fazer o optout de pelo menos 130 empresas. O optout de 117 não foi possível por que eles estão com "problemas técnicos". Aham, sei...
+Há serviços como o [YourAdChoices](https://www.aboutads.info/choices/), que tentam facilitar o OptOut de cookies das empresas de ads. Ele escaneia seu browser procurando cookies de ads ligados à rede AdChoices, te dando a possibilidade de fazer o optout. Eu até tentei fazer o optout de pelo menos 130 empresas. O optout de 117 não foi possível por que eles estão com "problemas técnicos". Aham, sei...
 
-Se você quiser tentar também, [segue esse endereço](http://www.aboutads.info/choices/) e tente ser feliz.
+Se você quiser tentar também, [segue esse endereço](https://www.aboutads.info/choices/) e tente ser feliz.
 
 
 
@@ -59,4 +59,4 @@ Se você quiser tentar também, [segue esse endereço](http://www.aboutads.info/
 - [https://www.eugdpr.org/the-regulation.html](https://www.eugdpr.org/the-regulation.html)
 - [https://tecnoblog.net/245101/gdpr-privacidade-protecao-dados/](https://tecnoblog.net/245101/gdpr-privacidade-protecao-dados/)
 - [https://www.facebook.com/about/basics#youreincharge](https://www.facebook.com/about/basics#youreincharge)
-- [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/)
+- [https://www.aboutads.info/choices/](https://www.aboutads.info/choices/)

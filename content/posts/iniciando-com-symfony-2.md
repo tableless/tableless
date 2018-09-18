@@ -14,7 +14,7 @@ tags:
   - php
   - phpOO
 ---
-O symfony é um framework fullstack de aplicações web para as necessidades de alto desempenho, é um conjunto de componentes PHP, para grandes e avançados projetos, porém podemos instalar seus componentes separadamente em casos de projetos menores. É muito respeitado pela comunidade, não é apenas um Framework popular, mas também é uma das melhores plataformas para construir projetos Open-Source. Muitos projetos PHP estão incorporando alguns dos componentes ou estão usando o framework full-stack, projetos como <a title="DrupAl" href="http://symfony.com/projects/drupal" target="_blank">Drupal</a>, <a title="Laravel" href="http://symfony.com/projects/laravel" target="_blank">Laravel</a>, entre outros, <a title="Projetos com Symfony" href="http://symfony.com/projects" target="_blank">veja a lista</a>.
+O symfony é um framework fullstack de aplicações web para as necessidades de alto desempenho, é um conjunto de componentes PHP, para grandes e avançados projetos, porém podemos instalar seus componentes separadamente em casos de projetos menores. É muito respeitado pela comunidade, não é apenas um Framework popular, mas também é uma das melhores plataformas para construir projetos Open-Source. Muitos projetos PHP estão incorporando alguns dos componentes ou estão usando o framework full-stack, projetos como <a title="DrupAl" href="https://symfony.com/projects/drupal" target="_blank">Drupal</a>, <a title="Laravel" href="https://symfony.com/projects/laravel" target="_blank">Laravel</a>, entre outros, <a title="Projetos com Symfony" href="https://symfony.com/projects" target="_blank">veja a lista</a>.
 
 ## Iniciando
 
@@ -30,7 +30,7 @@ Após a criação da pasta, vamos entrar na mesma, com o comando:
 
 ## Instalação
 
-Vamos instalar o Symfony via composer, caso não o conheça, ou tenha dúvidas, leia este post (<a title="Composer para iniciantes" href="//tableless.com.br/composer-para-iniciantes/" target="_blank">Composer para iniciantes</a>). Para fazermos o Download do Symfony entramos no <a title="Symfony Download" href="http://symfony.com/download" target="_blank">site</a> e copiamos o comando, como na imagem abaixo:
+Vamos instalar o Symfony via composer, caso não o conheça, ou tenha dúvidas, leia este post (<a title="Composer para iniciantes" href="//tableless.com.br/composer-para-iniciantes/" target="_blank">Composer para iniciantes</a>). Para fazermos o Download do Symfony entramos no <a title="Symfony Download" href="https://symfony.com/download" target="_blank">site</a> e copiamos o comando, como na imagem abaixo:
   
 [<img class="alignnone size-full wp-image-46532" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/01.png" alt="Download do Symfony" width="750" height="403" srcset="uploads/2015/01/01.png 750w, uploads/2015/01/01-259x139.png 259w, uploads/2015/01/01-400x215.png 400w" sizes="(max-width: 750px) 100vw, 750px" />][1]
 
@@ -52,7 +52,7 @@ O Acme demo bundle é apenas uma demonstração de alguns recursos que podemos t
 
 2º &#8211; O symfony nos pergunta qual o drive de banco de dados que vamos utilizar.
   
-Em nosso caso vamos usar o PDO, que hoje é <a title="PHP PDO" href="http://php.net/manual/pt_BR/book.pdo.php" target="_blank">basicamente um padrão do PHP</a>, e o próprio symfony nos recomenda, damos apenas um enter para continuar.
+Em nosso caso vamos usar o PDO, que hoje é <a title="PHP PDO" href="https://php.net/manual/pt_BR/book.pdo.php" target="_blank">basicamente um padrão do PHP</a>, e o próprio symfony nos recomenda, damos apenas um enter para continuar.
 
 <pre class="lang-bash">$ database_driver (pdo_mysql):</pre>
 
@@ -110,7 +110,7 @@ Pronto, o Symfony está instalado!
   
 Para vê-lo rodando vamos iniciar nosso servidor.
   
-A partir do PHP 5.4, o próprio vem com um servidor web embutido (<a title="Manual Servidor PHP" href="http://php.net/manual/pt_BR/features.commandline.webserver.php" target="_blank">PHP&#8217;s built-in Web Server</a>). Ele pode ser usado para executar suas aplicações PHP localmente durante o desenvolvimento, para testar ou para demonstrações de aplicativos. Desta forma, você não tem que se preocupar em configurar um servidor full-featured web como o Apache ou Nginx.
+A partir do PHP 5.4, o próprio vem com um servidor web embutido (<a title="Manual Servidor PHP" href="https://php.net/manual/pt_BR/features.commandline.webserver.php" target="_blank">PHP&#8217;s built-in Web Server</a>). Ele pode ser usado para executar suas aplicações PHP localmente durante o desenvolvimento, para testar ou para demonstrações de aplicativos. Desta forma, você não tem que se preocupar em configurar um servidor full-featured web como o Apache ou Nginx.
 
 Para iniciarmos o servidor do php digitamos no terminal:
 
@@ -132,9 +132,9 @@ e digitamos:
 
 e teremos a resposta:
 
-<pre class="lang-bash">$ Server running on http://127.0.0.1:800</pre>
+<pre class="lang-bash">$ Server running on https://127.0.0.1:800</pre>
 
-Abrimos nosso navegador e digitamos a url: http://127.0.0.1:8000/
+Abrimos nosso navegador e digitamos a url: https://127.0.0.1:8000/
   
 E Pronto!
 
@@ -142,7 +142,7 @@ E Pronto!
 
 Irá aparecer um erro na tela, por não termos configurado as nossas rotas no Controller, porém sabemos que nossa aplicação está rodando. O Symfony gera uma rota de teste automaticamente, e para vermos se está tudo certo sem erros, então digitamos em nosso navegador a url:
   
-http://127.0.0.1:8000/app/example
+https://127.0.0.1:8000/app/example
   
 Aparecerá uma página em branco escrita Homepage, junto com a barra de debug do Symfony (a debug toolbar) utilizada em desenvolvimento, que estará no rodapé!
 
@@ -197,7 +197,7 @@ E adicionamos o conteúdo abaixo:
 <pre class="lang-markdown">Iniciando com Symfony 2
 =======================
 
-http://tableless.com.br/
+https://tableless.com.br/
 -----------------------
 
 **Tutorial do Portal Tableless**
@@ -221,13 +221,13 @@ Para:
 
 ## Controlando nossa aplicação
 
-Após essas simples configurações iniciais, podemos iniciar o Git em nosso projeto, para termos maior controle sobre nossa aplicação, não abordaremos conceitos sobre Git, mas em caso de <a title="Comandos iniciais Git" href="http://tableless.com.br/alguns-comandos-git/" target="_blank">dúvidas, Consulte</a>!
+Após essas simples configurações iniciais, podemos iniciar o Git em nosso projeto, para termos maior controle sobre nossa aplicação, não abordaremos conceitos sobre Git, mas em caso de <a title="Comandos iniciais Git" href="https://tableless.com.br/alguns-comandos-git/" target="_blank">dúvidas, Consulte</a>!
 
 O projeto se encontra no <a title="GitHub Candido Souza" href="https://github.com/candidosouza/tableless" target="_blank">meu GitHub</a>, assim ficará mais fácil para você analisar, estudar e comparar os códigos como o seu projeto! Lembrando que até o momento só instalamos o Symfony2, mas nos próximos tutoriais daremos continuidade ao nossos exemplos!
 
 ## Concluindo
 
-Para finalizarmos, recomendo a <a title="Documentação do Symfony" href="http://symfony.com/doc/current/index.html" target="_blank">documentação do Symfony</a>, ótima para estudos!
+Para finalizarmos, recomendo a <a title="Documentação do Symfony" href="https://symfony.com/doc/current/index.html" target="_blank">documentação do Symfony</a>, ótima para estudos!
 
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/01.png
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/01/02.png

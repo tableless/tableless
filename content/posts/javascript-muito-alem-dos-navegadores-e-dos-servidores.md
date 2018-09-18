@@ -30,7 +30,7 @@ Link do site do projeto: https://mozvr.com/#start
 
 Johnny-Five é a Plataforma JavaScript Robotics & Internet das coisas. Lançado pela Bocoup em 2012, Johnny-Five é mantido por uma comunidade de desenvolvedores de software apaixonados e engenheiros de hardware. Mais de 75 desenvolvedores fizeram contribuições para a construção de um ecossistema robusto, extensível e combináveis.
 
-Link do site do projeto: http://johnny-five.io/
+Link do site do projeto: https://johnny-five.io/
 
 **AR Drone**
 

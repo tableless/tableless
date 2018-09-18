@@ -105,6 +105,6 @@ Para finalizar, vamos apenas definir o que deverá acontecer com o link quando o
 
 Essa é a forma resumida e simples sobre como fazemos todos os menus horizontais da face da terra.
 
- [1]: http://tableless.com.br/video-menu-horizontal-em-5-minutos
- [2]: http://campus.tableless.com.br/
+ [1]: https://tableless.com.br/video-menu-horizontal-em-5-minutos
+ [2]: https://campus.tableless.com.br/
 

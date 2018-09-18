@@ -48,4 +48,4 @@ Pensem no usuário ao criar layouts, ao desenvolver seu código ao criar uma int
 
 Desenvolver e projetar interfaces não é fácil, no entanto, o caminho é o foco no usuário, até porque é ele quem utilizará. Lembre-se disso!
 
- [1]: http://tableless.com.br/wai-aria-estendendo-o-significado-das-interacoes/
+ [1]: https://tableless.com.br/wai-aria-estendendo-o-significado-das-interacoes/

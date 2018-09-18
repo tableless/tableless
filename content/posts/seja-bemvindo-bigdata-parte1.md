@@ -10,11 +10,11 @@ categories:
 tags:
   - Big Data
   - Semântica
-image: http://i.imgur.com/K8GN3jx.jpg
+image: https://i.imgur.com/K8GN3jx.jpg
 ---
 
 Bastante gente, seja na
-[faculdade](http://www.dcc.ufmg.br/dcc/), redes sociais ou em
+[faculdade](https://www.dcc.ufmg.br/dcc/), redes sociais ou em
 [meetups](https://www.meetup.com/Meetup-de-Machine-Learning-Belo-Horizonte/),
 sempre pede indicações de cursos e recursos para começar a aprender sobre Big
 Data/Machine Learning e suas ferramentas. Eu já tinha escrito parte deste guia
@@ -81,7 +81,7 @@ Engineering](https://en.wikipedia.org/wiki/Feature_engineering) e
 Para quem quiser ter só um overview sobre ML e seus métodos mais comuns e suas
 aplicações, como Analistas de Produto ou Gerentes de Projeto ou [até mesmo você
 Cientista de
-Dados](http://ericbrown.com/you-probably-dont-need-machine-learning.htm), o
+Dados](https://ericbrown.com/you-probably-dont-need-machine-learning.htm), o
 [primeiro curso da série](https://www.coursera.org/learn/ml-foundations) já
 basta.
 
@@ -92,12 +92,12 @@ basta.
 [https://www.edx.org/xseries/data-science-engineering-apacher-sparktm](https://www.edx.org/xseries/data-science-engineering-apacher-sparktm)
 
 Se quer aprender sobre a ferramenta [big data que mais cresce hoje no
-mercado](http://veekaybee.github.io/strata/), por quê não começar aprendendo com
+mercado](https://veekaybee.github.io/strata/), por quê não começar aprendendo com
 gente que ajudou a criá-la no [Amplab da UC
 Berkeley](https://amplab.cs.berkeley.edu/) e que está no
 [Databricks](https://databricks.com/) -marca comercial por traz do Spark- hoje?
 Esta série explica todo o fundamento da tecnologia, desde o [fundamental
-RDD](http://spark.apache.org/docs/latest/programming-guide.html#rdd-persistence)
+RDD](https://spark.apache.org/docs/latest/programming-guide.html#rdd-persistence)
 até como o Spark distribui as *tasks* entre os *workers* no modo *cluster*. As
 aulas não são tão divertidas como as do Prof. Carlos, mas os labs são incríveis!
 São todos casos reais de recuperação da informação, limpeza de dados e
@@ -122,7 +122,7 @@ Streaming](https://www.udemy.com/taming-big-data-with-spark-streaming-hands-on/?
 porque os cursos do EDx que citei anteriomente deixam a desejar nesses 2
 assuntos muito importantes da plataforma. Spark Streaming inclusive é uma
 implementação dos paradigmas mais importantes pra [data
-pipelines](http://radar.oreilly.com/2015/09/three-best-practices-for-building-successful-data-pipelines.html),
+pipelines](https://radar.oreilly.com/2015/09/three-best-practices-for-building-successful-data-pipelines.html),
 assunto que irei abordar no próximo post dessa série.
 
 Kane também tem um curso bem abrangente e bem avaliado sobre [Machine Learning
@@ -186,4 +186,4 @@ Não deixe de me seguir para não perder os próximos artigos! \o/
 Um lugar para ler e discutir sobre desenvolvimento, design, web semântica,
 back-end e outros assuntos relacionados a web. Se você quiser publicar artigos
 conosco, envie um email: medium[at]tableless.com.br ou *clique no link*
-[http://bit.ly/escreva-tableless-medium](http://bit.ly/escreva-tableless-medium)
+[https://bit.ly/escreva-tableless-medium](https://bit.ly/escreva-tableless-medium)

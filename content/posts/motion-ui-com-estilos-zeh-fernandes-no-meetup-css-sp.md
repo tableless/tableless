@@ -24,23 +24,23 @@ Neste artigo no Tableless, quero compartilhar a experiência de participar de um
 
 <img class="aligncenter size-full wp-image-49710" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/logos-meetup-css-sp.jpg" alt="Logos Meetup e Meetup CSS SP" width="474" height="200" />
 
-Excelente ferramenta para manter-se informado sobre os eventos que acontecem perto da sua cidade e com temas relacionados ao seu interesse, o **<a href="http://www.meetup.com/pt/" target="_blank">Meetup</a>** mescla site e aplicativo, permitindo a qualquer pessoa organizar e divulgar eventos e encontros em torno de qualquer tema. Eu já conhecia o site, mas só recentemente passei a acessá-lo com frequência. Foi quando descobri o **<a href="http://www.meetup.com/pt/CSS-SP/" target="_blank">Meetup CSS SP</a>**, comunidade organizada por **<a href="http://twitter.com/raphaelfabeni" target="_blank">Raphael Fabeni</a>** e **<a href="http://twitter.com/lfeh" target="_blank">Felipe Fialho</a>** que promove encontros para discutir assuntos do mundo front-end, com foco principalmente na linguagem de marcação CSS.
+Excelente ferramenta para manter-se informado sobre os eventos que acontecem perto da sua cidade e com temas relacionados ao seu interesse, o **<a href="https://www.meetup.com/pt/" target="_blank">Meetup</a>** mescla site e aplicativo, permitindo a qualquer pessoa organizar e divulgar eventos e encontros em torno de qualquer tema. Eu já conhecia o site, mas só recentemente passei a acessá-lo com frequência. Foi quando descobri o **<a href="https://www.meetup.com/pt/CSS-SP/" target="_blank">Meetup CSS SP</a>**, comunidade organizada por **<a href="https://twitter.com/raphaelfabeni" target="_blank">Raphael Fabeni</a>** e **<a href="https://twitter.com/lfeh" target="_blank">Felipe Fialho</a>** que promove encontros para discutir assuntos do mundo front-end, com foco principalmente na linguagem de marcação CSS.
 
 ## Zeh Fernandes
 
-Na 8ª edição do **Meetup CSS SP**, realizada no começo de junho de 2015, o tema foi a palestra do **<a href="https://twitter.com/zehf" target="_blank">Zeh Fernandes</a>** sobre **_Motion UI_ com estilos**. O Zeh pode ser definido, segundo ele mesmo, como um designer zen. Seus trabalhos podem ser vistos na <a href="https://www.behance.net/gallery/Project-Cliche/12708243" target="_blank">revista Cliche</a>, na rede colaborativa de troca de tempo <a href="http://www.bliive.com/" target="_blank">Blive</a> e nas criações da produtora digital **<a href="http://d3.do/" target="_blank">D3.do</a>, **que cedeu o local para que o encontro acontecesse. O Zeh já havia apresentado a mesma _talk_ na **<a href="http://www.conferenciacssbrasil.com.br/" target="_blank">Conferência CSS Brasil</a>** realizada em São Paulo, mas a experiência em um _Meetup_ é mais interessante, pois só quem se interessa especificamente pelo assunto participa do encontro, e ainda rolam conversas e debates após a apresentação (o que é muito produtivo para trocar experiências).
+Na 8ª edição do **Meetup CSS SP**, realizada no começo de junho de 2015, o tema foi a palestra do **<a href="https://twitter.com/zehf" target="_blank">Zeh Fernandes</a>** sobre **_Motion UI_ com estilos**. O Zeh pode ser definido, segundo ele mesmo, como um designer zen. Seus trabalhos podem ser vistos na <a href="https://www.behance.net/gallery/Project-Cliche/12708243" target="_blank">revista Cliche</a>, na rede colaborativa de troca de tempo <a href="https://www.bliive.com/" target="_blank">Blive</a> e nas criações da produtora digital **<a href="https://d3.do/" target="_blank">D3.do</a>, **que cedeu o local para que o encontro acontecesse. O Zeh já havia apresentado a mesma _talk_ na **<a href="https://www.conferenciacssbrasil.com.br/" target="_blank">Conferência CSS Brasil</a>** realizada em São Paulo, mas a experiência em um _Meetup_ é mais interessante, pois só quem se interessa especificamente pelo assunto participa do encontro, e ainda rolam conversas e debates após a apresentação (o que é muito produtivo para trocar experiências).
 
 ## _Motion UI_ com estilos
 
-No fim deste artigo, você pode conferir os slides da apresentação feita pelo Zeh, além do vídeo com a gravação realizada pelo <a href="http://twitter.com/matmarsiglio" target="_blank">Matheus Marsiglio</a> e algumas fotos do encontro. O propósito deste texto não é transcrever a palestra, mas apenas reforçar os pontos principais apresentados.
+No fim deste artigo, você pode conferir os slides da apresentação feita pelo Zeh, além do vídeo com a gravação realizada pelo <a href="https://twitter.com/matmarsiglio" target="_blank">Matheus Marsiglio</a> e algumas fotos do encontro. O propósito deste texto não é transcrever a palestra, mas apenas reforçar os pontos principais apresentados.
 
 ### A morte do Flash e o nascimento do _Flat Design_
 
 Desde que os sites feitos em Flash desapareceram, a web carecia de animação. Seu fim parecia estático, salvo pelos efeitos _mouseovers_ que provocavam certo tipo de resposta para a interação, ou pelos _gifs_ animados e vídeos, estes últimos, com sua utilização limitada.
 
-O surgimento do _flat design,_ em contrapartida com a era do <a href="https://pt.wikipedia.org/wiki/Esqueumorfismo" target="_blank">esqueumorfismo</a>, reforçava ainda mais a simplicidade da web. Eis que surge o HTML5 e o CSS3, trazendo novos recursos, dentre eles, as animações feitas principalmente com os elementos _transform_, _transition_ e _animation_ (confira este <a href="http://tableless.com.br/transition-e-animation/" target="_blank">post</a> do Rapahel Fabeni sobre _transition_ e _animation_ para saber mais).
+O surgimento do _flat design,_ em contrapartida com a era do <a href="https://pt.wikipedia.org/wiki/Esqueumorfismo" target="_blank">esqueumorfismo</a>, reforçava ainda mais a simplicidade da web. Eis que surge o HTML5 e o CSS3, trazendo novos recursos, dentre eles, as animações feitas principalmente com os elementos _transform_, _transition_ e _animation_ (confira este <a href="https://tableless.com.br/transition-e-animation/" target="_blank">post</a> do Rapahel Fabeni sobre _transition_ e _animation_ para saber mais).
 
-Surgiram botões animados, sites com efeitos _<a href="http://tableless.com.br/parallax-simples-com-jquery-e-css/" target="_blank">parallax</a>_, caixas animadas, animações de SVG, e tudo tomou vida novamente. Porém, assim como aconteceu com o Flash, alguns sites perderam o bom senso, usando os novos recursos apenas por usar, ou seja, apenas para dar aquela &#8220;animada&#8221; na página, muitas vezes, apenas cumprindo a demanda do cliente.
+Surgiram botões animados, sites com efeitos _<a href="https://tableless.com.br/parallax-simples-com-jquery-e-css/" target="_blank">parallax</a>_, caixas animadas, animações de SVG, e tudo tomou vida novamente. Porém, assim como aconteceu com o Flash, alguns sites perderam o bom senso, usando os novos recursos apenas por usar, ou seja, apenas para dar aquela &#8220;animada&#8221; na página, muitas vezes, apenas cumprindo a demanda do cliente.
 
 ### Animações com significado
 
@@ -58,9 +58,9 @@ Ela ajuda o cérebro a compreender como a informação deve ser entendida. Deve
 
 Como dito anteriormente, os principais elementos utilizados pelo CSS3 para criar animações são as propriedades _transform_, _transition_ e _animation_ do CSS, com uso adicional dos _keyframes_. Javascript ou jQuery podem ser utilizados ocasionalmente, mas não são obrigatórios.
 
-Para saber mais sobre o que faz cada uma destas propriedades, o Raphael Fabeni criou uma <a href="http://www.raphaelfabeni.com.br/lab-css3/" target="_blank">lista</a> resumindo as possibilidade de animações do CSS3:
+Para saber mais sobre o que faz cada uma destas propriedades, o Raphael Fabeni criou uma <a href="https://www.raphaelfabeni.com.br/lab-css3/" target="_blank">lista</a> resumindo as possibilidade de animações do CSS3:
 
-<a href="http://www.raphaelfabeni.com.br/lab-css3/" target="_blank"><img class="alignnone wp-image-49698 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/lab-css3-raphael-fabeni.png" alt="Lab CSS3 Raphael Fabeni" width="1085" height="710" /></a>
+<a href="https://www.raphaelfabeni.com.br/lab-css3/" target="_blank"><img class="alignnone wp-image-49698 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/lab-css3-raphael-fabeni.png" alt="Lab CSS3 Raphael Fabeni" width="1085" height="710" /></a>
 
 Já as principais propriedades de um elemento a serem modificadas por uma animação são _Position_, _Transform_, _Opacity_ e _Color_.
 
@@ -78,9 +78,9 @@ As camadas e suas respectivas propriedades:
 
 <img class="alignnone wp-image-49700 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/camadas-e-propriedades-animcao.png" alt="Camadas e suas respectivas propriedades" width="804" height="505" />
 
-Este comparativo retirado da apresentação **<a href="http://pt.slideshare.net/hugobessaa/performance-em-animacoes" target="_blank">Performance em Animações</a>** do **Hugo Bessa** mostra o processamento exigido por cada cada camada alterada nas animações:
+Este comparativo retirado da apresentação **<a href="https://pt.slideshare.net/hugobessaa/performance-em-animacoes" target="_blank">Performance em Animações</a>** do **Hugo Bessa** mostra o processamento exigido por cada cada camada alterada nas animações:
 
-<a href="http://pt.slideshare.net/hugobessaa/performance-em-animacoes" target="_blank"><img class="alignnone wp-image-49701 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/composite-layers-hugo-bessa.png" alt="Comparativo de performance nas camadas de animação por Hugo Bessa" width="1007" height="703" /></a>
+<a href="https://pt.slideshare.net/hugobessaa/performance-em-animacoes" target="_blank"><img class="alignnone wp-image-49701 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/composite-layers-hugo-bessa.png" alt="Comparativo de performance nas camadas de animação por Hugo Bessa" width="1007" height="703" /></a>
 
 ### _Easing_ e _Timing_
 
@@ -88,9 +88,9 @@ Duas variáveis importantes em qualquer animação são os efeitos da gravidade 
 
 O **_easing_** pode ser entendido como a aceleração ou desaceleração inicial ou final, comumente observada pela física nos movimentos tradicionais do nosso dia-a-dia. Por exemplo, os automóveis, ao saírem do lugar, começam a movimentar-se lentamente, e adquirem velocidade progressiva até que esta torne-se constante, para depois reduzirem o movimento de forma mais lenta ao frear. As bolas de futebol, por exemplo, não quicam no chão com a mesma velocidade que voltam para a mão de quem as lançou, sendo possível observar leve achatamento causado pela física ao chocarem-se com o chão. A aplicação deste conceito faz grande diferença na suavização dos movimentos das animações, tornando-as mais próximas do real, e comunicando melhor ao usuário o que a interface quer dizer.
 
-O site <a href="http://easings.net/pt-br" target="_blank">easings.net</a> oferece referências sobre os diversos tipos de efeitos de suavização:
+O site <a href="https://easings.net/pt-br" target="_blank">easings.net</a> oferece referências sobre os diversos tipos de efeitos de suavização:
 
-<a href="http://easings.net/pt-br" target="_blank"><img class="alignnone wp-image-49697 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/easing.png" alt="Exemplos de easings" width="878" height="622" /></a>
+<a href="https://easings.net/pt-br" target="_blank"><img class="alignnone wp-image-49697 size-full" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/easing.png" alt="Exemplos de easings" width="878" height="622" /></a>
 
 Já o **_timing_** está relacionado ao tempo de duração das animações. Animações muito longas não provocam a sensação de realidade, por isso, prefira efeitos com pouco milissegundos, algo entre 0,2 e 0,6 segundos.
 
@@ -120,4 +120,4 @@ Vários pontos de vista foram levantados, e o que tornou o debate mais interessa
 
 Em suma, os _Meetups_ são excelentes oportunidades para conhecer profissionais que lidam com assuntos do seu interesse, aprender novas abordagens, solucionar problemas ou aumentar a rede de contatos.
 
-Para quem achou interessante a proposta, <a href="http://www.meetup.com/CSS-SP/" target="_blank">cadastre-se aqui</a> e fique ligado nos próximos encontros. Sugira temas, problemas do seu dia-a-dia e fomente discussões. Ofereça lugares na sua empresa para que as reuniões aconteçam. Crie _Meetups_ na sua cidade. Esta é ferramenta de colaboração pode contribuir com o desenvolvimento da comunidade trazendo benefícios a todos.
+Para quem achou interessante a proposta, <a href="https://www.meetup.com/CSS-SP/" target="_blank">cadastre-se aqui</a> e fique ligado nos próximos encontros. Sugira temas, problemas do seu dia-a-dia e fomente discussões. Ofereça lugares na sua empresa para que as reuniões aconteçam. Crie _Meetups_ na sua cidade. Esta é ferramenta de colaboração pode contribuir com o desenvolvimento da comunidade trazendo benefícios a todos.

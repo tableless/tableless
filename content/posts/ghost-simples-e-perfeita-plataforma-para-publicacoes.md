@@ -129,17 +129,17 @@ Ghost on Github &#8211; [Fork][17] 🙂
  [1]: https://ghost.org
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/03/ghost.png
  [3]: https://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform
- [4]: http://docs.ghost.org/pt-BR/installation/
- [5]: http://docs.ghost.org/usage/settings/
+ [4]: https://docs.ghost.org/pt-BR/installation/
+ [5]: https://docs.ghost.org/usage/settings/
  [6]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/03/Ghost-Fonte.jpg
- [7]: http://docs.ghost.org/themes/
+ [7]: https://docs.ghost.org/themes/
  [8]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/03/Ghost-Index.jpg
  [9]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/03/Ghost-Post.jpg
  [10]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2014/03/Ghost-Settings.jpg
- [11]: http://docs.ghost.org/installation/deploy/
+ [11]: https://docs.ghost.org/installation/deploy/
  [12]: https://ghost.org/settings/billing/
  [13]: https://ghost.org/
- [14]: http://docs.ghost.org/installation/
- [15]: http://docs.ghost.org/usage/
+ [14]: https://docs.ghost.org/installation/
+ [15]: https://docs.ghost.org/usage/
  [16]: https://ghost.org/forum/
  [17]: https://github.com/tryghost/Ghost

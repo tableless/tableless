@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356399114
 shorturls:
-  - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/emuladores-para-browsers-mobiles";s:7:"tinyurl";s:26:"http://tinyurl.com/42ro6ht";s:4:"isgd";s:19:"http://is.gd/snt0Bb";}'
+  - 'a:3:{s:9:"permalink";s:56:"https://tableless.com.br/emuladores-para-browsers-mobiles";s:7:"tinyurl";s:26:"https://tinyurl.com/42ro6ht";s:4:"isgd";s:19:"https://is.gd/snt0Bb";}'
 twittercomments:
   - 'a:36:{i:57813311714107392;s:7:"retweet";i:57813141677023232;s:7:"retweet";i:57811911261163520;s:7:"retweet";i:57804247877697536;s:7:"retweet";i:57801060542201856;s:7:"retweet";i:57798684355723264;s:7:"retweet";i:57796522863116290;s:7:"retweet";i:57796136878092288;s:7:"retweet";i:57795710363516928;s:7:"retweet";i:57795111936987136;s:7:"retweet";i:57794104158994432;s:7:"retweet";i:57793647659323392;s:7:"retweet";i:57791666333036544;s:7:"retweet";i:57791092699037696;s:7:"retweet";i:126648264283013120;s:7:"retweet";i:127189029191036928;s:7:"retweet";i:126865771518373888;s:7:"retweet";i:126685948250554370;s:7:"retweet";i:126659840633356289;s:7:"retweet";i:126652069070372864;s:7:"retweet";i:126651491271458816;s:7:"retweet";i:126647706260226049;s:7:"retweet";i:126647547291901953;s:7:"retweet";i:126647208606044160;s:7:"retweet";i:126646181253234688;s:7:"retweet";i:126645705065512960;s:7:"retweet";i:126644027071270913;s:7:"retweet";i:126643812226445312;s:7:"retweet";i:126641930674245632;s:7:"retweet";i:126641653900509184;s:7:"retweet";i:126641634568978432;s:7:"retweet";i:126641313759248385;s:7:"retweet";i:268718079310188546;s:7:"retweet";i:268713093067075584;s:7:"retweet";i:268703954362302467;s:7:"retweet";i:268703802000035841;s:7:"retweet";}'
 tweetcount:
@@ -82,11 +82,11 @@ Se você tem um aparelho com Android, Windows Mobile ou NokiaS60, aconselho tamb
 
 A grande graça de fazer sites para mobiles, é que a grande maioria dos dispositivos realmente confortáveis para acessar a web, e que são os dispositivos que a maioria dos usuários compram porque querem navegar, tem um bom suporte a Padrões Web. Ter conforto para navegar nestes aparelhos é ponto crucial, por isso os fabricantes de sistemas e browsers tentam sempre manter os browsers atualizados com os Padrões.
 
- [1]: http://tableless.com.br/introducao-sobre-media-queries
- [2]: http://tableless.com.br/sites-para-dispositivos-moveis-mediatype
- [3]: http://developer.apple.com/iphone/index.action
- [4]: http://www.opera.com/mobile/demo/
+ [1]: https://tableless.com.br/introducao-sobre-media-queries
+ [2]: https://tableless.com.br/sites-para-dispositivos-moveis-mediatype
+ [3]: https://developer.apple.com/iphone/index.action
+ [4]: https://www.opera.com/mobile/demo/
  [5]: https://www.blackberry.com/Downloads/entry.do?code=060AD92489947D410D897474079C1477
- [6]: http://www.forum.nokia.com/info/sw.nokia.com/id/db2c69a2-4066-46ff-81c4-caac8872a7c5/NMB40_install.zip.html
- [7]: http://developer.android.com/guide/developing/tools/emulator.html
- [8]: http://www.skyfire.com/
+ [6]: https://www.forum.nokia.com/info/sw.nokia.com/id/db2c69a2-4066-46ff-81c4-caac8872a7c5/NMB40_install.zip.html
+ [7]: https://developer.android.com/guide/developing/tools/emulator.html
+ [8]: https://www.skyfire.com/

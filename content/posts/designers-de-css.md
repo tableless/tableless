@@ -7,7 +7,7 @@ url: /designers-de-css/
 tweetbackscheck:
   - 1356215533
 shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/designers-de-css";s:7:"tinyurl";s:26:"http://tinyurl.com/3hkkltv";s:4:"isgd";s:19:"http://is.gd/cPxC5w";}'
+  - 'a:3:{s:9:"permalink";s:40:"https://tableless.com.br/designers-de-css";s:7:"tinyurl";s:26:"https://tinyurl.com/3hkkltv";s:4:"isgd";s:19:"https://is.gd/cPxC5w";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036427

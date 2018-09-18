@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356387414
 shorturls:
-  - 'a:3:{s:9:"permalink";s:68:"http://tableless.com.br/formularios-definitivos-e-problema-de-logica";s:7:"tinyurl";s:26:"http://tinyurl.com/4ynzlzo";s:4:"isgd";s:19:"http://is.gd/PnI4Rg";}'
+  - 'a:3:{s:9:"permalink";s:68:"https://tableless.com.br/formularios-definitivos-e-problema-de-logica";s:7:"tinyurl";s:26:"https://tinyurl.com/4ynzlzo";s:4:"isgd";s:19:"https://is.gd/PnI4Rg";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503038204
@@ -45,6 +45,6 @@ Por falar na palestra, esse é o programa que temos preparado:<!--more-->
 
 Fizemos pensando nas necessidades mais comuns que aparecem nos [cursos de Tableless e Javascript][3]. Estou mostrando o programa agora porque, embora as apresentações já estejam preparadas, ainda dá tempo de mudar. Se alguém tiver alguma sugestão, por favor, deixe um comentário. Até quinta!
 
- [1]: http://visie.com.br/treinamento/formularios-semanticos/
- [2]: http://visie.com.br/eventos/charada
- [3]: http://visie.com.br/treinamento/
+ [1]: https://visie.com.br/treinamento/formularios-semanticos/
+ [2]: https://visie.com.br/eventos/charada
+ [3]: https://visie.com.br/treinamento/

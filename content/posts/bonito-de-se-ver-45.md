@@ -11,7 +11,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356392551
 shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"http://tableless.com.br/bonito-de-se-ver-45";s:7:"tinyurl";s:26:"http://tinyurl.com/3elvgae";s:4:"isgd";s:19:"http://is.gd/VTZDpT";}'
+  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/bonito-de-se-ver-45";s:7:"tinyurl";s:26:"https://tinyurl.com/3elvgae";s:4:"isgd";s:19:"https://is.gd/VTZDpT";}'
 twittercomments:
   - 'a:1:{i:9956163835658240;s:7:"retweet";}'
 tweetcount:
@@ -23,13 +23,13 @@ tags:
   - bonitodesever
 
 ---
-  * <http://www.soulshaker.co.uk/>
-  * <http://avalonstar.com/>
-  * <http://www.visualelixir.com/>
-  * <http://www.doonuts.com/>
-  * <http://www.justinshattuck.com/>
+  * <https://www.soulshaker.co.uk/>
+  * <https://avalonstar.com/>
+  * <https://www.visualelixir.com/>
+  * <https://www.doonuts.com/>
+  * <https://www.justinshattuck.com/>
 
 Assine o [Feed do Tableless][1]. Assine [nosso del.icio.us][2].
 
- [1]: http://tableless.com.br/feed/
- [2]: http://del.icio.us/rss/tableless
+ [1]: https://tableless.com.br/feed/
+ [2]: https://del.icio.us/rss/tableless

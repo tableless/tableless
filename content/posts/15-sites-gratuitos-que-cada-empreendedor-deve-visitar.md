@@ -56,12 +56,12 @@ Aprender as novas habilidades necessárias para iniciar um novo negócio pode se
     Esta plataforma oferece cursos on-line gratuitos de alguns dos nomes mais conhecidos na internet hoje, incluindo Google, Microsoft e Macmillan. Com mais de 4 milhões de usuários e mais de 600 cursos já, que abrange temas como alfabetização econômica, desenvolvimento pessoal e habilidades de negócios / corporativos.
 
  [1]: https://www.codecademy.com/
- [2]: http://academy.hubspot.com/
+ [2]: https://academy.hubspot.com/
  [3]: https://moz.com/
- [4]: http://www.learnvest.com/
+ [4]: https://www.learnvest.com/
  [5]: https://www.edx.org/
  [6]: https://www.khanacademy.org/
- [7]: http://ocw.mit.edu/
+ [7]: https://ocw.mit.edu/
  [8]: https://www.coursera.org/
- [9]: http://www.openculture.com/
+ [9]: https://www.openculture.com/
  [10]: https://alison.com/

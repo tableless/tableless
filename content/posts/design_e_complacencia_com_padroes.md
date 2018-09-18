@@ -7,7 +7,7 @@ url: /design_e_complacencia_com_padroes/
 tweetbackscheck:
   - 1356002346
 shorturls:
-  - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/design_e_complacencia_com_padroes";s:7:"tinyurl";s:26:"http://tinyurl.com/3vz6jp7";s:4:"isgd";s:19:"http://is.gd/ptjLl0";}'
+  - 'a:3:{s:9:"permalink";s:57:"https://tableless.com.br/design_e_complacencia_com_padroes";s:7:"tinyurl";s:26:"https://tinyurl.com/3vz6jp7";s:4:"isgd";s:19:"https://is.gd/ptjLl0";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031707
@@ -48,6 +48,6 @@ Claro, quando você aborda o HTML semanticamente, como manda o W3C, fica mais f�
   
 Sobre &#8220;consumptibilidade&#8221;, gostaria de perguntar aos meus leitores: vocês validam seu HTML e CSS? Porquê? Eu costumo validar meus documentos (sim, eu sei, nem este site nem [meu Blog][3] são válidos, mas, a despeito desse desleixo, eu costumo sim validar meus documentos.) Mas confesso que tenho uma certa dificuldade em convencer algumas pessoas a validar. A pergunta que sempre me fazem é, uma vez que o documento não-válido é acessível hoje, e bem, em qualquer navegador, se vale a pena se dar ao trabalho de validar. Se você escreve seu blog pessoal ou prepara conteúdo para um cliente, onde você sabe que ninguém vai mexer, faz todo o sentido, e meu blog não valida, confesso, por puro desleixo. Mas se você, como alguns dos meus alunos, trabalha na criação e manutenção de sites conectados a complexos CMS, usados por mais de duas centenas de jornalistas e editores a coisa parece diferente. Sim, jornalistas, não webdesigners ou programadores, gente para quem difereça entre negrito e forte, ou itálico e enfatizado, parece o sexo dos anjos. Gente que precisa inserir imagens e formatar texto, e quem vai convencer uma centena de jornalistas a fornecer boas alternativas textuais para suas imagens? Ainda não tenho uma resposta.
 
- [1]: http://jonasgalvez.com/br/blog/2004-06/bozoless "Jonas Galvez: Design e complacência com padrões"
- [2]: http://validator.w3.org/check?uri=http://tableless.com.br/
- [3]: http://elcio.locaweb.com.br/blog/ "fechaTag"
+ [1]: https://jonasgalvez.com/br/blog/2004-06/bozoless "Jonas Galvez: Design e complacência com padrões"
+ [2]: https://validator.w3.org/check?uri=https://tableless.com.br/
+ [3]: https://elcio.locaweb.com.br/blog/ "fechaTag"

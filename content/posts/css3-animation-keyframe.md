@@ -8,7 +8,7 @@ url: /css3-animation-keyframe/
 tweetbackscheck:
   - 1356400731
 shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"http://tableless.com.br/css3-animation-keyframe";s:7:"tinyurl";s:26:"http://tinyurl.com/3nyycgl";s:4:"isgd";s:19:"http://is.gd/7HTawD";}'
+  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/css3-animation-keyframe";s:7:"tinyurl";s:26:"https://tinyurl.com/3nyycgl";s:4:"isgd";s:19:"https://is.gd/7HTawD";}'
 twittercomments:
   - 'a:7:{i:153949422533885952;s:7:"retweet";i:153939853841661952;s:7:"retweet";i:153934310024544257;s:7:"retweet";i:169914590929498112;s:7:"retweet";i:174587167174176771;s:7:"retweet";i:174568866054275073;s:7:"retweet";i:174171765503823873;s:7:"retweet";}'
 tweetcount:
@@ -171,4 +171,4 @@ Logo nosso elemento girará pra sempre e ficará alternando a cor de fundo de pr
   
 No exemplo também defini apenas 3 estágios (0%, 50% e 100%) você pode definir um maior número de estágios: 5%, 10%, 12%, 16% e etc&#8230; Adequando as fases da animação às suas necessidades.
 
-Há exemplos muito interessantes na internet onde podemos ver todo o poder das animações feitas pela CSS. Veja o exemplo que fizemos aqui neste texto no endereço: <http://migre.me/4ubym>
+Há exemplos muito interessantes na internet onde podemos ver todo o poder das animações feitas pela CSS. Veja o exemplo que fizemos aqui neste texto no endereço: <https://migre.me/4ubym>

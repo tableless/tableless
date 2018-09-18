@@ -79,19 +79,19 @@ Veja os outros Weekly aqui:
 
 [Tableless Weekly 2][16]
 
- [1]: http://tableless.com.br/tablelessconf/
+ [1]: https://tableless.com.br/tablelessconf/
  [2]: https://twitter.com/diegoeis
  [3]: https://twitter.com/jcemer
- [4]: http://tableless.com.br/braziljs-2014/ "BrazilJS 2014"
- [5]: http://jcemer.com/ "Jean Carlo Emer"
- [6]: http://jcemer.com/brazil-js-2014-primeiro-dia.html "Primeiro dia"
- [7]: http://jcemer.com/brazil-js-2014-segundo-dia.html "Segundo dia"
- [8]: http://www.whatwg.org/specs/web-apps/current-work/multipage/tables.html#table-sorting-model "Table Sort"
- [9]: http://www.gonzaloperez.ws/ "Gonzalo Perez"
- [10]: http://www.amplifon.co.uk/sounds-of-street-view/index.html "Sounds of Street View"
- [11]: http://blogs.adobe.com/webplatform/2014/08/21/coming-soon-css-feature-queries "CSS Feature Queries"
- [12]: http://alloyui.com/ "Alloyui"
+ [4]: https://tableless.com.br/braziljs-2014/ "BrazilJS 2014"
+ [5]: https://jcemer.com/ "Jean Carlo Emer"
+ [6]: https://jcemer.com/brazil-js-2014-primeiro-dia.html "Primeiro dia"
+ [7]: https://jcemer.com/brazil-js-2014-segundo-dia.html "Segundo dia"
+ [8]: https://www.whatwg.org/specs/web-apps/current-work/multipage/tables.html#table-sorting-model "Table Sort"
+ [9]: https://www.gonzaloperez.ws/ "Gonzalo Perez"
+ [10]: https://www.amplifon.co.uk/sounds-of-street-view/index.html "Sounds of Street View"
+ [11]: https://blogs.adobe.com/webplatform/2014/08/21/coming-soon-css-feature-queries "CSS Feature Queries"
+ [12]: https://alloyui.com/ "Alloyui"
  [13]: https://bitbucket.org/ "Bitbucket"
  [14]: https://lenilson.typeform.com/to/ILh66e "Links"
- [15]: http://tableless.com.br/tableless-weekly-1/ "Tableless Weekly 1"
- [16]: http://tableless.com.br/tableless-weekly-2/ "Tableless Weekly 2"
+ [15]: https://tableless.com.br/tableless-weekly-1/ "Tableless Weekly 1"
+ [16]: https://tableless.com.br/tableless-weekly-2/ "Tableless Weekly 2"

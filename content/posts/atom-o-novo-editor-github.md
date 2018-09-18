@@ -102,4 +102,4 @@ Eu já sai do Sublime e fui pro Atom. Ainda vou continuar acompanhando o Bracket
 
 Você pode tratar o Atom como um Sublime melhorado&#8230; você não estaria errado. Mas acho que o futuro dele promete e talvez o Sublime não será mais onipresente como hoje.
 
- [1]: http://zenorocha.com/
+ [1]: https://zenorocha.com/

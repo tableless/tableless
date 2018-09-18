@@ -21,7 +21,7 @@ Já vimos em um [artigo anterior][1] como a usabilidade beneficia o desenvolvime
 
 A Usabilidade é “filha” da Interação Humano-Computador (IHC) e “neta” da Engenharia de Software, carregando esse legado ao longo de sua evolução, podendo ser definida como o **grau de facilidade** com que o usuário consegue interagir com determinada interface.
 
-Partindo da IHC, a usabilidade aborda a forma como o usuário se comunica com a máquina e como a tecnologia responde à interação do usuário, considerando as seguintes habilidades, de acordo com a norma <a title="Norma ISO 9241" href="http://en.wikipedia.org/wiki/ISO_9241" target="_blank">ISO 9241</a>:
+Partindo da IHC, a usabilidade aborda a forma como o usuário se comunica com a máquina e como a tecnologia responde à interação do usuário, considerando as seguintes habilidades, de acordo com a norma <a title="Norma ISO 9241" href="https://en.wikipedia.org/wiki/ISO_9241" target="_blank">ISO 9241</a>:
 
   * **Facilidade de aprendizado:** a utilização do sistema requer pouco treinamento;
   * **Fácil de memorizar:** o usuário deve lembrar como utilizar a interface depois de algum tempo;
@@ -104,7 +104,7 @@ Partindo da IHC, a usabilidade aborda a forma como o usuário se comunica com a 
   </p>
   
   <p>
-    SUMATHI, B. <strong>Chapter Three: User Centered Design Approach</strong>. Disponível em: <a href="http://dspace.fsktm.um.edu.my/bitstream/1812/214/8/Chapter%20Three.pdf">http://dspace.fsktm.um.edu.my/bitstream/1812/214/8/Chapter%20Three.pdf</a>.
+    SUMATHI, B. <strong>Chapter Three: User Centered Design Approach</strong>. Disponível em: <a href="https://dspace.fsktm.um.edu.my/bitstream/1812/214/8/Chapter%20Three.pdf">https://dspace.fsktm.um.edu.my/bitstream/1812/214/8/Chapter%20Three.pdf</a>.
   </p>
   
   <p>
@@ -124,24 +124,24 @@ Partindo da IHC, a usabilidade aborda a forma como o usuário se comunica com a 
   </p>
   
   <p>
-    UX Revisions. <strong>The Difference Between Usability and User Experience</strong>. Disponível em: <a href="http://www.uxrevisions.com/user-experience-design/the-difference-between-usability-and-user-experience/18/">http://www.uxrevisions.com/user-experience-design/the-difference-between-usability-and-user-experience/18/</a>
+    UX Revisions. <strong>The Difference Between Usability and User Experience</strong>. Disponível em: <a href="https://www.uxrevisions.com/user-experience-design/the-difference-between-usability-and-user-experience/18/">https://www.uxrevisions.com/user-experience-design/the-difference-between-usability-and-user-experience/18/</a>
   </p>
   
   <p>
-    UX Revisions. <strong>User Experience vs User Interaction</strong>. Disponível em: <a href="http://www.uxrevisions.com/user-experience-design/user-experience-vs-user-interaction/16/">http://www.uxrevisions.com/user-experience-design/user-experience-vs-user-interaction/16/</a>
+    UX Revisions. <strong>User Experience vs User Interaction</strong>. Disponível em: <a href="https://www.uxrevisions.com/user-experience-design/user-experience-vs-user-interaction/16/">https://www.uxrevisions.com/user-experience-design/user-experience-vs-user-interaction/16/</a>
   </p>
   
   <p>
-    Usability Geek. <strong>The Difference (And Relationship) Between Usability And User Experience</strong>. Disponível em: <a href="http://usabilitygeek.com/the-difference-between-usability-and-user-experience/">http://usabilitygeek.com/the-difference-between-usability-and-user-experience/</a>
+    Usability Geek. <strong>The Difference (And Relationship) Between Usability And User Experience</strong>. Disponível em: <a href="https://usabilitygeek.com/the-difference-between-usability-and-user-experience/">https://usabilitygeek.com/the-difference-between-usability-and-user-experience/</a>
   </p>
   
   <p>
-    NeoSpot. <strong>Usability vs. User Experience (UX)</strong>. Disponível em: <a href="http://neospot.se/usability-vs-user-experience/">http://neospot.se/usability-vs-user-experience/</a>
+    NeoSpot. <strong>Usability vs. User Experience (UX)</strong>. Disponível em: <a href="https://neospot.se/usability-vs-user-experience/">https://neospot.se/usability-vs-user-experience/</a>
   </p>
   
   <p>
-    Interaction by Design. <strong>Usability vs. user experience</strong>. Disponível em: <a href="http://www.interactionbydesign.com/thoughts/thumbnails/00000050.html">http://www.interactionbydesign.com/thoughts/thumbnails/00000050.html</a>
+    Interaction by Design. <strong>Usability vs. user experience</strong>. Disponível em: <a href="https://www.interactionbydesign.com/thoughts/thumbnails/00000050.html">https://www.interactionbydesign.com/thoughts/thumbnails/00000050.html</a>
   </p>
 </div>
 
- [1]: http://tableless.com.br/estabelecendo-uma-metodologia-agil-para-avaliacao-de-usabilidade
+ [1]: https://tableless.com.br/estabelecendo-uma-metodologia-agil-para-avaliacao-de-usabilidade

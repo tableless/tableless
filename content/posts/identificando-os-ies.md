@@ -8,7 +8,7 @@ url: /identificando-os-ies/
 tweetbackscheck:
   - 1356404460
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6404";s:7:"tinyurl";s:26:"http://tinyurl.com/d2dhykv";s:4:"isgd";s:19:"http://is.gd/HZpEUc";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6404";s:7:"tinyurl";s:26:"https://tinyurl.com/d2dhykv";s:4:"isgd";s:19:"https://is.gd/HZpEUc";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 759056657
@@ -114,4 +114,4 @@ Eu acho melhor utilizar os comentários condicionais para separar os arquivos de
 
 [Preparamos um PDF][1] que te ajuda a convencer clientes e chefes <del>tontos</del> mostrando as deficiencias de suportarmos browsers antigos. [Dá uma olhada aqui][1].
 
- [1]: http://tableless.com.br/browsers-antigos-guerra-contra-o-terror/
+ [1]: https://tableless.com.br/browsers-antigos-guerra-contra-o-terror/

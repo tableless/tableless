@@ -7,7 +7,7 @@ url: /em_qualquer_lugar_com_qualquer_dispositivo/
 tweetbackscheck:
   - 1356213209
 shorturls:
-  - 'a:3:{s:9:"permalink";s:66:"http://tableless.com.br/em_qualquer_lugar_com_qualquer_dispositivo";s:7:"tinyurl";s:26:"http://tinyurl.com/43aj7nb";s:4:"isgd";s:19:"http://is.gd/n0Infm";}'
+  - 'a:3:{s:9:"permalink";s:66:"https://tableless.com.br/em_qualquer_lugar_com_qualquer_dispositivo";s:7:"tinyurl";s:26:"https://tinyurl.com/43aj7nb";s:4:"isgd";s:19:"https://is.gd/n0Infm";}'
 twittercomments:
   - 'a:2:{i:56907243798532096;s:7:"retweet";i:56893636687831041;s:7:"retweet";}'
 tweetcount:
@@ -32,7 +32,7 @@ Quem é leitor assíduo desse blog, sabe que já disse essas coisas acima vária
                   
 Mas hoje, não vou apenas dizer, mas vou mostrar que o pessoal está se mexendo.
                   
-Há um grupo no <acronym title="World Wide Web Consortium"><a href="http://www.w3.org/">W3C</a></acronym> que estuda especificamente esse assunto. Visite [Device Independence Working Group][2] 
+Há um grupo no <acronym title="World Wide Web Consortium"><a href="https://www.w3.org/">W3C</a></acronym> que estuda especificamente esse assunto. Visite [Device Independence Working Group][2] 
 
 Para se inteirar do assunto, leia: 
 
@@ -47,14 +47,14 @@ Para se inteirar do assunto, leia:
   * [Introdução ao Mundo Wireless][10]
   * [Emulador para Windows Mobile][11]
 
- [1]: http://www.mobilelife.com.br/
- [2]: http://www.w3.org/2001/di/
- [3]: http://www.w3.org/TR/di-gloss/
- [4]: http://www.w3.org/TR/2005/WD-cselection-20050502/
- [5]: http://tableless.com.br/?browsers_em_dispositivos_moveis
- [6]: http://tableless.com.br/artigos/tendencias.asp
- [7]: http://tableless.com.br/artigos/acessibilidade.asp
- [8]: http://www.mobilelife.com.br/glossario.asp
- [9]: http://www.mobilelife.com.br/artigos/web_pda.asp
- [10]: http://mobilelife.com.br/artigos/introducao.asp
- [11]: http://www.mobilelife.com.br/artigos/tutorial_activesync.asp
+ [1]: https://www.mobilelife.com.br/
+ [2]: https://www.w3.org/2001/di/
+ [3]: https://www.w3.org/TR/di-gloss/
+ [4]: https://www.w3.org/TR/2005/WD-cselection-20050502/
+ [5]: https://tableless.com.br/?browsers_em_dispositivos_moveis
+ [6]: https://tableless.com.br/artigos/tendencias.asp
+ [7]: https://tableless.com.br/artigos/acessibilidade.asp
+ [8]: https://www.mobilelife.com.br/glossario.asp
+ [9]: https://www.mobilelife.com.br/artigos/web_pda.asp
+ [10]: https://mobilelife.com.br/artigos/introducao.asp
+ [11]: https://www.mobilelife.com.br/artigos/tutorial_activesync.asp

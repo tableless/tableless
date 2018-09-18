@@ -67,4 +67,4 @@ console.log(el.classList.length); // 2
 
 ## Quanto ao suporte
 
-A classList API possui um excelente suporte aos browsers modernos, e apenas o internet explorer com suporte a versão +10, para algo mais detalhado, <http://caniuse.com/#feat=classlist>
+A classList API possui um excelente suporte aos browsers modernos, e apenas o internet explorer com suporte a versão +10, para algo mais detalhado, <https://caniuse.com/#feat=classlist>

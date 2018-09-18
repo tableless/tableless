@@ -7,7 +7,7 @@ url: /internet_explorer_developer_toolbar/
 tweetbackscheck:
   - 1356178615
 shorturls:
-  - 'a:3:{s:9:"permalink";s:59:"http://tableless.com.br/internet_explorer_developer_toolbar";s:7:"tinyurl";s:26:"http://tinyurl.com/4x3voey";s:4:"isgd";s:19:"http://is.gd/LbN3Df";}'
+  - 'a:3:{s:9:"permalink";s:59:"https://tableless.com.br/internet_explorer_developer_toolbar";s:7:"tinyurl";s:26:"https://tinyurl.com/4x3voey";s:4:"isgd";s:19:"https://is.gd/LbN3Df";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033665
@@ -25,4 +25,4 @@ Sabe aquela extension do Firefox, [Web Developer][1], que adiciona uma barra com
 Interessante.
 
  [1]: https://addons.mozilla.org/extensions/moreinfo.php?id=60
- [2]: http://www.microsoft.com/downloads/details.aspx?FamilyID=E59C3964-672D-4511-BB3E-2D5E1DB91038&displaylang=en
+ [2]: https://www.microsoft.com/downloads/details.aspx?FamilyID=E59C3964-672D-4511-BB3E-2D5E1DB91038&displaylang=en

@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356384255
 shorturls:
-  - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/produtividade-editores-e-snippets";s:7:"tinyurl";s:26:"http://tinyurl.com/3jsphd4";s:4:"isgd";s:19:"http://is.gd/jBpidD";}'
+  - 'a:3:{s:9:"permalink";s:57:"https://tableless.com.br/produtividade-editores-e-snippets";s:7:"tinyurl";s:26:"https://tinyurl.com/3jsphd4";s:4:"isgd";s:19:"https://is.gd/jBpidD";}'
 twittercomments:
   - 'a:3:{i:154578867951124480;s:7:"retweet";i:154258868367654913;s:7:"retweet";i:154257360477634561;s:7:"retweet";}'
 tweetcount:
@@ -102,28 +102,28 @@ O Sparkup tem apenas suporte para Textmate e VIM, por enquanto. Já o Zen Coding
   
 [Para baixar o Zen Coding, visite seu projeto no Google Code][9].
 
- [1]: http://www.adobe.com/products/homesite/
- [2]: http://www.coffeecup.com/html-editor/
- [3]: http://editplus.com/
- [4]: http://notepad-plus.sourceforge.net/uk/site.htm
- [5]: http://bluefish.openoffice.nl/
- [6]: http://www.barebones.com/products/bbedit/
- [7]: http://macromates.com/
- [8]: http://www.panic.com/coda/
- [9]: http://code.google.com/p/zen-coding/
- [10]: http://chikuyonok.ru/
- [11]: http://visie.com.br/
- [12]: http://github.com/rstacruz
- [13]: http://github.com/rstacruz/sparkup
- [14]: http://tableless.com.br/desenvolvedor-analfabeto
- [15]: http://www.aptana.com/
- [16]: http://macrabbit.com/espresso/
- [17]: http://www.cdolivet.com/index.php?page=editArea
- [18]: http://www.microsoft.com/visualstudio/
- [19]: http://www.activestate.com/komodo/
- [20]: http://www.topstyle4.com/
- [21]: http://www.sublimetext.com/
- [22]: http://www.gnome.org/projects/gedit/
- [23]: http://www.adobe.com/products/dreamweaver/
- [24]: http://www.ultraedit.com/
- [25]: http://www.gnu.org/software/emacs/
+ [1]: https://www.adobe.com/products/homesite/
+ [2]: https://www.coffeecup.com/html-editor/
+ [3]: https://editplus.com/
+ [4]: https://notepad-plus.sourceforge.net/uk/site.htm
+ [5]: https://bluefish.openoffice.nl/
+ [6]: https://www.barebones.com/products/bbedit/
+ [7]: https://macromates.com/
+ [8]: https://www.panic.com/coda/
+ [9]: https://code.google.com/p/zen-coding/
+ [10]: https://chikuyonok.ru/
+ [11]: https://visie.com.br/
+ [12]: https://github.com/rstacruz
+ [13]: https://github.com/rstacruz/sparkup
+ [14]: https://tableless.com.br/desenvolvedor-analfabeto
+ [15]: https://www.aptana.com/
+ [16]: https://macrabbit.com/espresso/
+ [17]: https://www.cdolivet.com/index.php?page=editArea
+ [18]: https://www.microsoft.com/visualstudio/
+ [19]: https://www.activestate.com/komodo/
+ [20]: https://www.topstyle4.com/
+ [21]: https://www.sublimetext.com/
+ [22]: https://www.gnome.org/projects/gedit/
+ [23]: https://www.adobe.com/products/dreamweaver/
+ [24]: https://www.ultraedit.com/
+ [25]: https://www.gnu.org/software/emacs/

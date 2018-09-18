@@ -33,11 +33,11 @@ categories:
 ## Redução Progressiva
 
 <p dir="ltr">
-  Bem, foi pensando nestas questões que o pessoal da <a title="Progressive Reduction" href="http://layervault.tumblr.com/post/42361566927/progressive-reduction">Layer Vault</a> criou o conceito de Progressive Reduction, ou Redução Progressiva. A ideia principal do artigo é que usabilidade não é um conceito estático. Da mesma forma que o design responsivo otimiza o layout para diferentes tipos de mídia, interfaces também deveriam se adequar as necessidades de cada usuário. E isto pode ser feito reduzindo o ênfase ou espaço de alguns elementos conforme o uso. Um botão composto de ícone + legenda com o tempo poderia ganhar um destaque menor com cores mais discretas até se transformar em apenas um ícone.
+  Bem, foi pensando nestas questões que o pessoal da <a title="Progressive Reduction" href="https://layervault.tumblr.com/post/42361566927/progressive-reduction">Layer Vault</a> criou o conceito de Progressive Reduction, ou Redução Progressiva. A ideia principal do artigo é que usabilidade não é um conceito estático. Da mesma forma que o design responsivo otimiza o layout para diferentes tipos de mídia, interfaces também deveriam se adequar as necessidades de cada usuário. E isto pode ser feito reduzindo o ênfase ou espaço de alguns elementos conforme o uso. Um botão composto de ícone + legenda com o tempo poderia ganhar um destaque menor com cores mais discretas até se transformar em apenas um ícone.
 </p>
 
 <p dir="ltr">
-  <a href="http://layervault.tumblr.com/post/42361566927/progressive-reduction"><img class="alignnone size-full wp-image-38916" alt="progressive-reduction" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/09/progressive-reduction.jpg" width="660" height="400" srcset="uploads/2013/09/progressive-reduction.jpg 660w, uploads/2013/09/progressive-reduction-277x168.jpg 277w, uploads/2013/09/progressive-reduction-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" /></a>
+  <a href="https://layervault.tumblr.com/post/42361566927/progressive-reduction"><img class="alignnone size-full wp-image-38916" alt="progressive-reduction" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/09/progressive-reduction.jpg" width="660" height="400" srcset="uploads/2013/09/progressive-reduction.jpg 660w, uploads/2013/09/progressive-reduction-277x168.jpg 277w, uploads/2013/09/progressive-reduction-511x310.jpg 511w" sizes="(max-width: 660px) 100vw, 660px" /></a>
 </p>
 
 ## O estado atual do design digital
@@ -57,7 +57,7 @@ categories:
 </p>
 
 <p dir="ltr">
-  Os <a title="Implementing progressive reduction" href="http://layervault.tumblr.com/post/42442865260/implementing-progressive-reduction">exemplos práticos da Layer Vault</a>  estão estruturados em Ruby on Rails, mas não seria difícil adaptar o conceito para outras linguagens de programação. Já a variação de layouts em si é facilmente criada através de folhas de estilo com uma ajudinha de pré-processadores.
+  Os <a title="Implementing progressive reduction" href="https://layervault.tumblr.com/post/42442865260/implementing-progressive-reduction">exemplos práticos da Layer Vault</a>  estão estruturados em Ruby on Rails, mas não seria difícil adaptar o conceito para outras linguagens de programação. Já a variação de layouts em si é facilmente criada através de folhas de estilo com uma ajudinha de pré-processadores.
 </p>
 
 ## Declínio de Experiência
@@ -80,7 +80,7 @@ O conceito de Regressão Progressiva tem gerado tanto buzz que dividiu opiniões
 
 Esta documentação versa especificamente sobre ícones de interfaces gráficas que mudam de tamanho conforme frequência de uso. A patente está em contestação por que, bem, existem registros mais antigos de interfaces adaptáveis neste sentido&#8230; Não é exatamente uma idéia nova. Mas o artigo do Layer Vault foi o primeiro a descrever o conceito, apresentar bons argumentos e até mesmo alguns exemplos de implementação. O interessante do método é que pela primeira vez o usuário está no centro da mudança. O timing não poderia ser melhor. Em teoria isto pode ser algo tão revolucionário quanto o design responsivo foi para dispositivos móveis ou apenas tempestade em copo d&#8217;agua. A efetividade em si só poderá ser posta a prova empiricamente: implementando a Regressão Progressiva em projetos e testando extensivamente. Por maior que seja o debate entre desenvolvedores, designers e psicólogos quem vai dizer se a idéia funciona na prática ou não, como sempre, são os próprios usuários.
 
- [1]: http://azumbrunnen.me/blog/progressive-reduction-just-another-buzzword/ "Progressive reduction just another buzzword"
- [2]: http://alistapart.com/blog/post/progressive-reductionmodify-your-ui-over-time "Progressive reductionmodify your ui over time"
- [3]: http://patents.stackexchange.com/questions/4233/user-interface-changing-icon-appearance-based-on-frequency-of-use-samsung "User interface changing icon appearance based on frequency of use samsung"
- [4]: http://patents.stackexchange.com/questions/4233/user-interface-changing-icon-appearance-based-on-frequency-of-use-samsung
+ [1]: https://azumbrunnen.me/blog/progressive-reduction-just-another-buzzword/ "Progressive reduction just another buzzword"
+ [2]: https://alistapart.com/blog/post/progressive-reductionmodify-your-ui-over-time "Progressive reductionmodify your ui over time"
+ [3]: https://patents.stackexchange.com/questions/4233/user-interface-changing-icon-appearance-based-on-frequency-of-use-samsung "User interface changing icon appearance based on frequency of use samsung"
+ [4]: https://patents.stackexchange.com/questions/4233/user-interface-changing-icon-appearance-based-on-frequency-of-use-samsung

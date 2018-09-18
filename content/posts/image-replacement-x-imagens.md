@@ -7,7 +7,7 @@ url: /image-replacement-x-imagens/
 tweetbackscheck:
   - 1356126331
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/image-replacement-x-imagens";s:7:"tinyurl";s:26:"http://tinyurl.com/4yzokuc";s:4:"isgd";s:19:"http://is.gd/MUjCFl";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/image-replacement-x-imagens";s:7:"tinyurl";s:26:"https://tinyurl.com/4yzokuc";s:4:"isgd";s:19:"https://is.gd/MUjCFl";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037759

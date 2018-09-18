@@ -23,5 +23,5 @@ Eu mesmo em projetos pessoais tenho ignorando categoricamente qualquer coisa que
 
 [Fonte][2].
 
- [1]: http://www.netmarketshare.com/browser-market-share.aspx?qprid=2&qpcustomd=0
- [2]: http://www.webmonkey.com/2013/05/internet-explorer-10-doubles-market-share/
+ [1]: https://www.netmarketshare.com/browser-market-share.aspx?qprid=2&qpcustomd=0
+ [2]: https://www.webmonkey.com/2013/05/internet-explorer-10-doubles-market-share/

@@ -7,7 +7,7 @@ url: /o-caminho-suave-para-o-tableless/
 tweetbackscheck:
   - 1356411116
 shorturls:
-  - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/o-caminho-suave-para-o-tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3ls4hqa";s:4:"isgd";s:19:"http://is.gd/vynHZ8";}'
+  - 'a:3:{s:9:"permalink";s:56:"https://tableless.com.br/o-caminho-suave-para-o-tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3ls4hqa";s:4:"isgd";s:19:"https://is.gd/vynHZ8";}'
 twittercomments:
   - 'a:1:{i:20193385138626560;s:6:"136520";}'
 tweetcount:
@@ -58,10 +58,10 @@ Colocando no lugar:
 Tendo no [CSS][2]:
 
 <pre>.menu{
-<a href="http://www.w3.org/TR/REC-CSS1#font-family">font-family</a>: Arial, Helvetica, Sans-serif;
-<a href="http://www.w3.org/TR/REC-CSS1#font-size">font-size</a>: 80%;
-<a href="http://www.w3.org/TR/REC-CSS1#font-weight">font-weight</a>: bold;
-<a href="http://www.w3.org/TR/REC-CSS1#color">color</a>:#FF3300;
+<a href="https://www.w3.org/TR/REC-CSS1#font-family">font-family</a>: Arial, Helvetica, Sans-serif;
+<a href="https://www.w3.org/TR/REC-CSS1#font-size">font-size</a>: 80%;
+<a href="https://www.w3.org/TR/REC-CSS1#font-weight">font-weight</a>: bold;
+<a href="https://www.w3.org/TR/REC-CSS1#color">color</a>:#FF3300;
 }</pre>
 
 Como você pode ver, o [CSS][2] é extremamente simples. Aprender esses quatro atributos, mais o &#8220;[font-style][5]&#8221; (para fazer itálico), é a primeira coisa que eu recomendo. É claro, isso apenas faz cócegas nas possibilidades do [CSS][2], ainda há muito o que aprender, mas recomendo começar por aí porque é algo que você pode aprender em alguns minutos e vai te salvar muito, muito tempo. E você vai começar a ter o controle da formatação, tendo todas as definições de fonte em um único arquivo, podendo alterar, por exemplo, a qualquer momento, a fonte de todo o conteúdo ou de todos os menus do site.
@@ -71,7 +71,7 @@ O passo seguinte para limpar seu HTML é se livrar do spacer.gif, aquele gif tra
 O pulo-do-gato aqui é um atributo [CSS][2] chamado [padding][6]. O [padding][6] é a distância entre as bordas de um elemento e o texto dentro dele. Assim, se é preciso que o conteúdo de uma célula esteja a 10 pixels da borda esquerda, ao invés de inserir uma célula extra como espaçador, ou inserir mais uma tabela, basta definir uma classe para essa célula. Uma vez que você já está colocando a formatação no [CSS][2], provavelmente esta célula já tem uma classe. Então basta:
 
 <pre>.conteudo{
-<a href="http://www.w3.org/TR/REC-CSS1#padding">padding</a>-left:10px;
+<a href="https://www.w3.org/TR/REC-CSS1#padding">padding</a>-left:10px;
 }</pre>
 
 Isso vai fazer com que o texto esteja a 10 pixels da borda esquerda do documento. Ah, claro, o [CSS][2] também pode livrar você de definir no HTML as bordas e o background das células de sua tabela. Lembre-se, quanto mais layout e formatação você colocar no [CSS][2], mais controle terá sobre seu site, principalmente em mudanças de layout durante o processo de produção e em futuras manutenções. O site também será mais leve para carregar.
@@ -111,7 +111,7 @@ Logo, use as tags do HTML para aquilo para o que foram criadas:
 
 Você pode obter uma lista mais abrangente em:
   
-[http://www.w3schools.com/xhtml/xhtml_reference.asp][9]
+[https://www.w3schools.com/xhtml/xhtml_reference.asp][9]
 
 E formate tudo ao seu gosto com [CSS][2].
 
@@ -137,19 +137,19 @@ Estamos falando de muito mais do que criar sites estilosos. Há duas semanas est
 
 Quem segue os [padrões web][1] não precisa ter medo do futuro. Não importa que browser vai ser o mais usado daqui a dois anos, que tecnologia vai estar na moda ou de onde as pessoas vão estar usando a internet. Seu site estará lá, leve, acessível, atual e útil.
 
- [1]: http://www.webstandards.org/ "Web Standards Project"
- [2]: http://www.w3.org/Style/CSS/ "Cascading Style Sheets"
- [3]: http://www.w3schools.com/xhtml/ "Extensible HyperText Markup Language"
- [4]: http://validator.w3.org/ "W3C MarkUp Validation Service"
- [5]: http://www.w3.org/TR/REC-CSS1#font-style
- [6]: http://www.w3.org/TR/REC-CSS1#padding
- [7]: http://www.w3.org/TR/REC-CSS1#background
- [8]: http://www.w3.org/TR/REC-CSS1#border
- [9]: http://www.w3schools.com/xhtml/xhtml_reference.asp "XHTML Reference"
- [10]: http://tableless.com.br/tutorial/
- [11]: http://www.w3.org/XML/ "Extensible Markup Language"
- [12]: http://www.w3.org/Style/XSL/ "Extensible Stylesheet Language"
- [13]: http://www.palmone.com/us/products/handhelds/zire71/
- [14]: http://www.google.com.br/search?q=Linux&btnI=1&lr=lang_pt
- [15]: http://www.google.com.br "O Oráculo"
- [16]: http://www.google.com.br/search?q=webservices+xml&btnI=1&lr=lang_pt
+ [1]: https://www.webstandards.org/ "Web Standards Project"
+ [2]: https://www.w3.org/Style/CSS/ "Cascading Style Sheets"
+ [3]: https://www.w3schools.com/xhtml/ "Extensible HyperText Markup Language"
+ [4]: https://validator.w3.org/ "W3C MarkUp Validation Service"
+ [5]: https://www.w3.org/TR/REC-CSS1#font-style
+ [6]: https://www.w3.org/TR/REC-CSS1#padding
+ [7]: https://www.w3.org/TR/REC-CSS1#background
+ [8]: https://www.w3.org/TR/REC-CSS1#border
+ [9]: https://www.w3schools.com/xhtml/xhtml_reference.asp "XHTML Reference"
+ [10]: https://tableless.com.br/tutorial/
+ [11]: https://www.w3.org/XML/ "Extensible Markup Language"
+ [12]: https://www.w3.org/Style/XSL/ "Extensible Stylesheet Language"
+ [13]: https://www.palmone.com/us/products/handhelds/zire71/
+ [14]: https://www.google.com.br/search?q=Linux&btnI=1&lr=lang_pt
+ [15]: https://www.google.com.br "O Oráculo"
+ [16]: https://www.google.com.br/search?q=webservices+xml&btnI=1&lr=lang_pt

@@ -66,9 +66,9 @@ A Adobe comunicou que durante toda a semana estará nos informando no seu [canal
 
 A equipe deles se encontra entusiasmada para o seu próximo lançamento, e falou que quando se aproximar do 20º aniversario do querido Flash, eles convidarão animadores e designers para se juntar a eles para as próximas décadas.
 
- [1]: http://blogs.adobe.com/flashpro/welcome-adobe-animate-cc-a-new-era-for-flash-professional/
+ [1]: https://blogs.adobe.com/flashpro/welcome-adobe-animate-cc-a-new-era-for-flash-professional/
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/12/Adobe-Animate-CC.jpg
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/12/Sem-título-4.png
  [4]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/12/Sem-título.png
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/12/Sem-título-2.png
- [6]: http://www.twitch.tv/adobe
+ [6]: https://www.twitch.tv/adobe

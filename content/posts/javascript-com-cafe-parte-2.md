@@ -8,7 +8,7 @@ url: /javascript-com-cafe-parte-2/
 tweetbackscheck:
   - 1356393277
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6193";s:7:"tinyurl";s:26:"http://tinyurl.com/7ytcsho";s:4:"isgd";s:19:"http://is.gd/pGFqWH";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6193";s:7:"tinyurl";s:26:"https://tinyurl.com/7ytcsho";s:4:"isgd";s:19:"https://is.gd/pGFqWH";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 707047908
@@ -240,11 +240,11 @@ Finalizando, para aprender mais sobre CoffeeScript, indico os seguintes recursos
   * [A sip of CoffeeScript][7] &#8211; Curso interativo do pessoal da CodeSchool com vídeos e exercícios online. Bem legal!
   * [Smooth CoffeeScript][8] &#8211; Outro livro disponível de graça online e também em PDF. Possui ainda uma versão interativa em HTML5.
 
- [1]: http://tableless.com.br/javascript-com-cafe/ ""
- [2]: http://livereload.com/ ""
- [3]: http://incident57.com/codekit/ ""
+ [1]: https://tableless.com.br/javascript-com-cafe/ ""
+ [2]: https://livereload.com/ ""
+ [3]: https://incident57.com/codekit/ ""
  [4]: https://github.com/snookca/CoffeeConsole ""
  [5]: https://github.com/languages ""
- [6]: http://arcturo.github.com/library/coffeescript/ ""
- [7]: http://www.codeschool.com/courses/coffeescript ""
- [8]: http://autotelicum.github.com/Smooth-CoffeeScript/ ""
+ [6]: https://arcturo.github.com/library/coffeescript/ ""
+ [7]: https://www.codeschool.com/courses/coffeescript ""
+ [8]: https://autotelicum.github.com/Smooth-CoffeeScript/ ""

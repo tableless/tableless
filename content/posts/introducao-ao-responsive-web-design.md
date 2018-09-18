@@ -119,24 +119,24 @@ Há diversos caminhos que você pode tomar: você pode transformar o menu em um 
 
 Veja alguns exemplos abaixo. Entre no site e diminua a janela do browser para ver os efeitos. Se preferir ver na vida real, visite o site pelo seu smartphone:
 
-  *  <http://www.highwayhurricanes.com/>
-  * <http://www.citychoir.org.uk/>
-  * <http://leica-explorer.com/>
+  *  <https://www.highwayhurricanes.com/>
+  * <https://www.citychoir.org.uk/>
+  * <https://leica-explorer.com/>
 
 #### Diminuindo ou trocando imagens
 
 Não se preocupe se seu website trabalha utilizando grandes imagens, você trocar ou diminuir as imagens para que caibam em telas menores. Veja os exemplos abaixo:
 
-  * <http://www.ciscolondon2012.com/>
-  * <http://www.cujo.jp/>
-  * <http://spartanrobotics.org/>
-  * <http://1pictureaday.com/>
+  * <https://www.ciscolondon2012.com/>
+  * <https://www.cujo.jp/>
+  * <https://spartanrobotics.org/>
+  * <https://1pictureaday.com/>
 
 #### Media Queries &#8211; A Collection of sites using media queries
 
 Todos os exemplos de website que mostrei acima, retirei [deste website][8]. A ideia é genial!
   
-O <http://mediaqueri.es/> tem uma coleção impressionante de websites que utilizam de forma responsável as Media Queries. Veja os exemplos e entenda como você pode fazer um website adaptável para diversos cenários de uso.
+O <https://mediaqueri.es/> tem uma coleção impressionante de websites que utilizam de forma responsável as Media Queries. Veja os exemplos e entenda como você pode fazer um website adaptável para diversos cenários de uso.
 
 ### Cada meio de acesso tem sua característica
 
@@ -180,20 +180,20 @@ Algumas referências que você pode querer dar uma olhada:
 
 ---
 
-Fabulosa ferramenta gratuita para [transformar seus videos](http://www.freemake.com/br/free_video_converter/) em formatos HTML5 e incorporá-los em sua página. 
+Fabulosa ferramenta gratuita para [transformar seus videos](https://www.freemake.com/br/free_video_converter/) em formatos HTML5 e incorporá-los em sua página. 
 
 
- [1]: http://bit.ly/pcrwxY
- [2]: http://bit.ly/mSCRSD
- [3]: http://www.opera.com/mobile/
- [4]: http://bit.ly/r6Vr3P
- [5]: http://bit.ly/qUeFq6
- [6]: http://www.alistapart.com/d/responsive-web-design/ex/ex-site-mini.html
- [7]: http://www.bryanjamesdesign.co.uk/
- [8]: http://mediaqueri.es/
- [9]: http://bit.ly/o25mf6
- [10]: http://bit.ly/mGTiUF
- [11]: http://www.alistapart.com/articles/responsive-web-design/
- [12]: http://coding.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/
- [13]: http://designreviver.com/articles/designing-for-a-responsive-web-with-heuristic-methods/
- [14]: http://5by5.tv/bigwebshow/9
+ [1]: https://bit.ly/pcrwxY
+ [2]: https://bit.ly/mSCRSD
+ [3]: https://www.opera.com/mobile/
+ [4]: https://bit.ly/r6Vr3P
+ [5]: https://bit.ly/qUeFq6
+ [6]: https://www.alistapart.com/d/responsive-web-design/ex/ex-site-mini.html
+ [7]: https://www.bryanjamesdesign.co.uk/
+ [8]: https://mediaqueri.es/
+ [9]: https://bit.ly/o25mf6
+ [10]: https://bit.ly/mGTiUF
+ [11]: https://www.alistapart.com/articles/responsive-web-design/
+ [12]: https://coding.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/
+ [13]: https://designreviver.com/articles/designing-for-a-responsive-web-with-heuristic-methods/
+ [14]: https://5by5.tv/bigwebshow/9

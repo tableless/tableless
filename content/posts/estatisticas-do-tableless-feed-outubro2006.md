@@ -7,7 +7,7 @@ url: /estatisticas-do-tableless-feed-outubro2006/
 tweetbackscheck:
   - 1355009513
 shorturls:
-  - 'a:3:{s:9:"permalink";s:66:"http://tableless.com.br/estatisticas-do-tableless-feed-outubro2006";s:7:"tinyurl";s:26:"http://tinyurl.com/42ojdrk";s:4:"isgd";s:19:"http://is.gd/YUZnbV";}'
+  - 'a:3:{s:9:"permalink";s:66:"https://tableless.com.br/estatisticas-do-tableless-feed-outubro2006";s:7:"tinyurl";s:26:"https://tinyurl.com/42ojdrk";s:4:"isgd";s:19:"https://is.gd/YUZnbV";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503036193
@@ -23,7 +23,7 @@ Tento sempre divulgar o feed aqui do site para o pessoal mais desavisado e para 
   
 Estas estátisticas são extraídas do [FeedBurner][1]:
 
-**Endereço do Feed:** <http://tableless.com.br/feed/>
+**Endereço do Feed:** <https://tableless.com.br/feed/>
   
 **Assinantes do [feed do Tableless][2]:** 2.432 (e se mexendo 🙂 );
 
@@ -41,11 +41,11 @@ Estas estátisticas são extraídas do [FeedBurner][1]:
 
 Quer saber um pouco mais? [Assine][8] nosso feed. [Mais informações e dicas de agregadores aqui][8].
 
- [1]: http://feedburner.com/
- [2]: http://tableless.com.br/feed/
- [3]: http://bloglines.com/
- [4]: http://netvibes.com/
- [5]: http://www.mozilla.com/en-US/firefox/livebookmarks.html
- [6]: http://www.newsgator.com/
- [7]: http://www.rojo.com/
- [8]: http://tableless.com.br/assine/
+ [1]: https://feedburner.com/
+ [2]: https://tableless.com.br/feed/
+ [3]: https://bloglines.com/
+ [4]: https://netvibes.com/
+ [5]: https://www.mozilla.com/en-US/firefox/livebookmarks.html
+ [6]: https://www.newsgator.com/
+ [7]: https://www.rojo.com/
+ [8]: https://tableless.com.br/assine/

@@ -9,7 +9,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356468564
 shorturls:
-  - 'a:3:{s:9:"permalink";s:61:"http://tableless.com.br/breve-introducao-xhtml-mobile-profile";s:7:"tinyurl";s:26:"http://tinyurl.com/3mctpzx";s:4:"isgd";s:19:"http://is.gd/5YxfG7";}'
+  - 'a:3:{s:9:"permalink";s:61:"https://tableless.com.br/breve-introducao-xhtml-mobile-profile";s:7:"tinyurl";s:26:"https://tinyurl.com/3mctpzx";s:4:"isgd";s:19:"https://is.gd/5YxfG7";}'
 twittercomments:
   - 'a:1:{i:9908419200815104;s:7:"retweet";}'
 tweetcount:
@@ -43,4 +43,4 @@ Assunto interessante. Dá muito pano para manga.
   
 O texto não está tão elaborado porque é um rascunho sobre algumas coisas que ando lendo. Como não tive tempo de fazer um texto mais completo, acabei postando esse mesmo.
 
-<small>obs.: quase uma tradução do texto que está em <a href="http://www.developershome.com/wap/xhtmlmp/">XHTML MP</a>. E uma prévia para breves lançamentos na <a href="http://www.visie.com.br/">Visie</a>.</small>
+<small>obs.: quase uma tradução do texto que está em <a href="https://www.developershome.com/wap/xhtmlmp/">XHTML MP</a>. E uma prévia para breves lançamentos na <a href="https://www.visie.com.br/">Visie</a>.</small>

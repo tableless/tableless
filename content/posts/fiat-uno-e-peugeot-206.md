@@ -7,7 +7,7 @@ url: /fiat-uno-e-peugeot-206/
 tweetbackscheck:
   - 1356452940
 shorturls:
-  - 'a:3:{s:9:"permalink";s:46:"http://tableless.com.br/fiat-uno-e-peugeot-206";s:7:"tinyurl";s:26:"http://tinyurl.com/3kcmenf";s:4:"isgd";s:19:"http://is.gd/4ma9Nx";}'
+  - 'a:3:{s:9:"permalink";s:46:"https://tableless.com.br/fiat-uno-e-peugeot-206";s:7:"tinyurl";s:26:"https://tinyurl.com/3kcmenf";s:4:"isgd";s:19:"https://is.gd/4ma9Nx";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037437

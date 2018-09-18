@@ -32,7 +32,7 @@ Abaixo seguem as anotações da palestra:
   * html {direction: rtl;}
   * O atributo lang também é muito usado.
   * Você também consegue colocar uma classe no body para facilitar o suporte para browsers antigos.
-  * Você já acessou o site em árabe? Você já viu as posições de colunas, imagens, textos e etc? Tenha a curiosidade: http://www.booking.com/index.ar.html?sid=b5a9190f11814df8a0a64fcc61b35862;dcid=4
+  * Você já acessou o site em árabe? Você já viu as posições de colunas, imagens, textos e etc? Tenha a curiosidade: https://www.booking.com/index.ar.html?sid=b5a9190f11814df8a0a64fcc61b35862;dcid=4
   * Entenda as diferentes soluções de CSS para implementar websites multi-idiomas. Existem vários impactos nas posições dos elementos. #webb2014
   * Prefira usar inline-block em vez de float.
   * Use também display table/table-cell… é coisa linda. É difícil falar isso, mas ele ajuda muito.
@@ -42,4 +42,4 @@ Abaixo seguem as anotações da palestra:
   * Há um fluxo pré definido que envolve uma equipe de tradutores e coywriters para criar textos para websites multi-idioma.
   * UTF-8 All Things
 
- [1]: http://twitter.com/shiota/
+ [1]: https://twitter.com/shiota/

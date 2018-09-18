@@ -22,10 +22,10 @@ Ahh, e se alguém quiser visitar meu profile, basta [seguir este link][6].
 
 Para saber sobre mais extensões, visite nossa [categoria Extensions][7].
 
- [1]: http://www.meiobit.com/arq/008006.html
- [2]: http://www.guileite.com/archives/2006/06/chatsum.html
- [3]: http://www.chatsum.com/about
- [4]: http://www.chatsum.com/join "Tela de cadastro do Chatsum."
- [5]: http://www.chatsum.com/join "Tela de cadastro do Chatsum"
- [6]: http://www.chatsum.com/members/diegoeis
- [7]: http://tableless.com.br/categorias/extensions/
+ [1]: https://www.meiobit.com/arq/008006.html
+ [2]: https://www.guileite.com/archives/2006/06/chatsum.html
+ [3]: https://www.chatsum.com/about
+ [4]: https://www.chatsum.com/join "Tela de cadastro do Chatsum."
+ [5]: https://www.chatsum.com/join "Tela de cadastro do Chatsum"
+ [6]: https://www.chatsum.com/members/diegoeis
+ [7]: https://tableless.com.br/categorias/extensions/

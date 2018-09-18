@@ -7,7 +7,7 @@ url: /microsoft-compra-w3c/
 tweetbackscheck:
   - 1356453929
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/microsoft-compra-w3c";s:7:"tinyurl";s:26:"http://tinyurl.com/4x2m674";s:4:"isgd";s:19:"http://is.gd/MGin6H";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/microsoft-compra-w3c";s:7:"tinyurl";s:26:"https://tinyurl.com/4x2m674";s:4:"isgd";s:19:"https://is.gd/MGin6H";}'
 twittercomments:
   - 'a:1:{i:53869153282560000;s:6:"137496";}'
 tweetcount:

@@ -405,6 +405,6 @@ Pra quem quiser dar um olhada no repositório com o código deste artigo basta s
 
 Por hoje é só 🙂 até mais galera!
 
- [1]: http://tableless.com.br/tableless-weekly-5/ "Tableless Weekly 5"
- [2]: http://tableless.com.br/javascript-strict-mode/ "JavaScript Strict Mode"
+ [1]: https://tableless.com.br/tableless-weekly-5/ "Tableless Weekly 5"
+ [2]: https://tableless.com.br/javascript-strict-mode/ "JavaScript Strict Mode"
  [3]: https://github.com/lnlwd/ECMAScript6-loja "Repositório"

@@ -256,7 +256,7 @@ Pessoas diferentes vão se motivar por coisas e maneiras diferentes.
   * [Happy Melly][3]
   * [Jurgen Appelo][4]
 
- [1]: http://www.adaptworks.com.br/?utm_source=TablelessComBr&utm_medium=post&utm_campaign=PostTableless
- [2]: http://www.management30.com
- [3]: http://www.happymelly.com
- [4]: http://www.jurgenappelo.com
+ [1]: https://www.adaptworks.com.br/?utm_source=TablelessComBr&utm_medium=post&utm_campaign=PostTableless
+ [2]: https://www.management30.com
+ [3]: https://www.happymelly.com
+ [4]: https://www.jurgenappelo.com

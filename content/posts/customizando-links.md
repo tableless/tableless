@@ -8,7 +8,7 @@ url: /customizando-links/
 tweetbackscheck:
   - 1356452857
 shorturls:
-  - 'a:3:{s:9:"permalink";s:42:"http://tableless.com.br/customizando-links";s:7:"tinyurl";s:26:"http://tinyurl.com/3sw9q65";s:4:"isgd";s:19:"http://is.gd/hXTCcv";}'
+  - 'a:3:{s:9:"permalink";s:42:"https://tableless.com.br/customizando-links";s:7:"tinyurl";s:26:"https://tinyurl.com/3sw9q65";s:4:"isgd";s:19:"https://is.gd/hXTCcv";}'
 twittercomments:
   - 'a:18:{i:42633642580783105;s:7:"retweet";i:41117832653701120;s:7:"retweet";i:146373153311047680;s:7:"retweet";i:146251519275184130;s:7:"retweet";i:145626988575604736;s:7:"retweet";i:153903265577312257;s:7:"retweet";i:152768280539561984;s:7:"retweet";i:158757967867559936;s:7:"retweet";i:158752497245241345;s:7:"retweet";i:158712122237390848;s:7:"retweet";i:158710177950990337;s:7:"retweet";i:157796844854980608;s:7:"retweet";i:157787377409077248;s:7:"retweet";i:157257757794377728;s:7:"retweet";i:157238523362156544;s:7:"retweet";i:161443978548482048;s:7:"retweet";i:161443358257053696;s:7:"retweet";i:169588987638448129;s:7:"retweet";}'
 tweetcount:
@@ -57,7 +57,7 @@ Exemplo: [Contato do Tableless][3]
 
 Veja uma [lista de alguns seletores complexos][4] e como eles podem te ajudar com outros elementos.
 
- [1]: http://migre.me/3Tqgs "Seletores complexos"
+ [1]: https://migre.me/3Tqgs "Seletores complexos"
  [2]: #arquivo.pdf "Link de Teste - Icone de PDF"
  [3]: mailto: tableless@tableless.com.br
- [4]: http://migre.me/3Tqgs "Artigo sobre Seletores Complexos no CSS"
+ [4]: https://migre.me/3Tqgs "Artigo sobre Seletores Complexos no CSS"

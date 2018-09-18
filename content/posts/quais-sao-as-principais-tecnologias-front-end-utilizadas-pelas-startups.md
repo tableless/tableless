@@ -103,7 +103,7 @@ oportunidades.
 
 ## Crowd, a plataforma que disponibiliza a melhor cartela de clientes.
 
-A [Crowd]( http://crowd.br.com/sou-freelancer/?utm_source=tableless&utm_medium=publiposttableless&utm_campaign=Capta%C3%A7%C3%A3o%20de%20freelancers%20via%20Tableless), startup voltada para o mercado de Comunicação, Marketing e Tecnologia, criou
+A [Crowd]( https://crowd.br.com/sou-freelancer/?utm_source=tableless&utm_medium=publiposttableless&utm_campaign=Capta%C3%A7%C3%A3o%20de%20freelancers%20via%20Tableless), startup voltada para o mercado de Comunicação, Marketing e Tecnologia, criou
 uma plataforma inovadora para contratação de freelancers. Agências, startups e grandes
 empresas podem contratar especialistas em diversas áreas para desenvolvimento de
 projetos de forma remota e descomplicada.
@@ -119,4 +119,4 @@ disputas, leilões e a diminuição drásticas nos valores contratados.
 A Crowd se destaca das concorrentes como a melhor opção para quem busca diferentes
 desafios, ter uma renda extra ou migrar totalmente para a carreira freelancer. Conheça a
 Crowd e cadastre seu portfólio para trabalhar com as maiores agências e empresas do
-mercado no link: [http://crowd.br.com/sou-freelancer/]( http://crowd.br.com/sou-freelancer/?utm_source=tableless&utm_medium=publiposttableless&utm_campaign=Capta%C3%A7%C3%A3o%20de%20freelancers%20via%20Tableless).
+mercado no link: [https://crowd.br.com/sou-freelancer/]( https://crowd.br.com/sou-freelancer/?utm_source=tableless&utm_medium=publiposttableless&utm_campaign=Capta%C3%A7%C3%A3o%20de%20freelancers%20via%20Tableless).

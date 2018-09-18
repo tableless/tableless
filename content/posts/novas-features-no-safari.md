@@ -47,7 +47,7 @@ A propriedade **will-change** permite que você adiante para o browser quais pro
 
 Houveram outras mudanças no Safari ligadas ao browser em si. Por exemplo: eles retiraram (aleluia!) aquele delay de 350 milisegundos ao fazer o tap em elementos. Além de atualizações no Web Inspector etc&#8230; Veja todas as mudanças aqui: <https://webkit.org/blog/6008/new-web-features-in-safari/>
 
- [1]: http://w3c.github.io/html/semantics-embedded-content.html#the-picture-element
- [2]: http://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/
+ [1]: https://w3c.github.io/html/semantics-embedded-content.html#the-picture-element
+ [2]: https://tableless.com.br/como-usar-variaveis-no-css-de-forma-nativa/
  [3]: https://webkit.org/blog/5989/css-variables-in-webkit/
  [4]: https://webkit.org/blog/5735/css-font-features/

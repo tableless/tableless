@@ -18,7 +18,7 @@ Uma série de problemas encontradas ao utilizar _callbacks_ foram explorados jun
 Apenas uma _callback_ pode ser associada a um determinado evento do _loop_ interno de eventos do JavaScript.
 
 <pre class="lang-javascript">var xmlhttp = new XMLHttpRequest()
-xmlhttp.open('GET', 'http://url.com', true)
+xmlhttp.open('GET', 'https://url.com', true)
 xmlhttp.onreadystatechange = function callback() {}
 xmlhttp.send()
 </pre>
@@ -254,8 +254,8 @@ Ufa, esta leitura deve ter sido um tanto pesada. Alguns conceitos não são nada
 
 O próximo e último artigo da série irá tratar de _generators_ e como estes podem ser utilizados em conjunto com as promessas. Veremos também algumas propostas futuras para lidar com execução de código assíncrono no JavaScript.
 
- [1]: http://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-callbacks
+ [1]: https://tableless.com.br/fluxo-de-execucao-assincrono-em-javascript-callbacks
  [2]: https://github.com/jquery/jquery/blob/842958e7aecd0d75a7ee9e2aaec83457701aa2f3/src/core/ready.js
  [3]: https://promisesaplus.com
- [4]: http://blog.jquery.com/2015/07/13/jquery-3-0-and-jquery-compat-3-0-alpha-versions-released
- [5]: http://sealedabstract.com/code/broken-promises
+ [4]: https://blog.jquery.com/2015/07/13/jquery-3-0-and-jquery-compat-3-0-alpha-versions-released
+ [5]: https://sealedabstract.com/code/broken-promises

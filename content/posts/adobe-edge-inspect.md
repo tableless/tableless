@@ -30,7 +30,7 @@ Ao conectar um dispositivo com o App do Inspect instalado na rede Wi-Fi, será e
 
 Ainda é possível editar remotamente por meio da plugin instalado no navegador, o código da página de um dos dispositivos e acompanhar as modificações em tempo real no mesmo.
 
-Para ver o que foi explicado acima, vejam este vídeo  <http://tv.adobe.com/watch/adobe-technology-sneaks-2012/adobe-shadow/>.
+Para ver o que foi explicado acima, vejam este vídeo  <https://tv.adobe.com/watch/adobe-technology-sneaks-2012/adobe-shadow/>.
 
 Já existem versões do aplicativo para IOS e Android, proporcionando assim uma compatibilidade com a maior fatia do mercado de dispositivos móveis.
 
@@ -42,9 +42,9 @@ Sendo assim vale a pena conferir essa novidade que a gigante Adobe oferece para 
 
 #### Fontes:
 
-  * <http://www.webmonkey.com/2012/03/adobe-shadow-simplifies-mobile-web-testing/> 
-  * [http://html.adobe.com/edge/inspect/?promoid=3tv64\_12285L&promoid=3tv64\_12314L][1] 
-  * <http://tableless.com.br/responsive-web-design-voce-esta-fazendo-isso-errado/> 
-  * <http://blogs.adobe.com/edgeinspect/2012/09/23/shadow-is-now-adobe-edge-inspect/>
+  * <https://www.webmonkey.com/2012/03/adobe-shadow-simplifies-mobile-web-testing/> 
+  * [https://html.adobe.com/edge/inspect/?promoid=3tv64\_12285L&promoid=3tv64\_12314L][1] 
+  * <https://tableless.com.br/responsive-web-design-voce-esta-fazendo-isso-errado/> 
+  * <https://blogs.adobe.com/edgeinspect/2012/09/23/shadow-is-now-adobe-edge-inspect/>
 
- [1]: http://html.adobe.com/edge/inspect/?promoid=3tv64_12285L&promoid=3tv64_12314L
+ [1]: https://html.adobe.com/edge/inspect/?promoid=3tv64_12285L&promoid=3tv64_12314L

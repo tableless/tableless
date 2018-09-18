@@ -87,7 +87,7 @@ E o resultado será:
 
 Algumas aplicações podem acrescentar elementos **&lt;style&gt;** programaticamente a uma página. Nestes casos, há o perigo de que as novas regras afetem o conteúdo da página de forma não intencional. Ao utilizar o atributo **scoped**, as aplicações podem impedir que este infeliz efeito colateral aconteça.
 
-Sendo assim, utilizar **scoped** em estilos pode ser uma solução elegante para a **componentização** de aplicações _web_ de terceiros. Hoje em dia (quase) todo mundo faz uso de _plugins_ de _widgets_ e de diversos tipos em suas aplicações, e muita gente faz <a title="Mashup (Wikipedia)" href="http://pt.wikipedia.org/wiki/Mashup_(aplica%C3%A7%C3%A3o_web)" target="_blank"><em>mashups</em></a> com várias dessas aplicações, misturando tudo em uma única solução. Isto não é nenhuma novidade – há muito tempo.
+Sendo assim, utilizar **scoped** em estilos pode ser uma solução elegante para a **componentização** de aplicações _web_ de terceiros. Hoje em dia (quase) todo mundo faz uso de _plugins_ de _widgets_ e de diversos tipos em suas aplicações, e muita gente faz <a title="Mashup (Wikipedia)" href="https://pt.wikipedia.org/wiki/Mashup_(aplica%C3%A7%C3%A3o_web)" target="_blank"><em>mashups</em></a> com várias dessas aplicações, misturando tudo em uma única solução. Isto não é nenhuma novidade – há muito tempo.
 
 Então, o que acontece? Sabendo que muitas pessoas reutilizarão um determinado _plugin_, são usados diversos nomes de classes CSS de uma maneira a evitar conflitos com os estilos de outros _sites_ – onde farão uso desses _plugins_.
 
@@ -165,4 +165,4 @@ Tentei também aninhar estilos **scoped**, mas parece que isso não funciona leg
 
 No momento, apenas Google Chrome versão 20+.
 
- [1]: http://disqus.com "Disqus"
+ [1]: https://disqus.com "Disqus"

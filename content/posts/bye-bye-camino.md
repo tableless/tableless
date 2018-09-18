@@ -23,5 +23,5 @@ Muito triste. Era um bom browser. Eu cheguei a usá-lo durante algum tempo e des
 
 [Fonte][2]
 
- [1]: http://caminobrowser.org/
- [2]: http://www.theverge.com/2013/5/31/4384138/camino-mac-browser-ends-development-after-decade
+ [1]: https://caminobrowser.org/
+ [2]: https://www.theverge.com/2013/5/31/4384138/camino-mac-browser-ends-development-after-decade

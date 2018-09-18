@@ -86,8 +86,8 @@ Os critérios que não atendem ou que atendem parcialmente às heurísticas deve
 
 Se você deseja utilizar os critérios apresentados neste artigo, [disponibilizei esta planilha para download][5].
 
- [1]: http://tableless.com.br/?author=9
- [2]: http://tableless.com.br/vote-no-especialista-em-usabilidade-para-presidente
- [3]: http://www.labiutil.inf.ufsc.br/CriteriosErgonomicos/Abertura.html
- [4]: http://www.testinggeek.com/index.php/testing-templates/checklist-guidelines/78-web-application-ui-checklist
+ [1]: https://tableless.com.br/?author=9
+ [2]: https://tableless.com.br/vote-no-especialista-em-usabilidade-para-presidente
+ [3]: https://www.labiutil.inf.ufsc.br/CriteriosErgonomicos/Abertura.html
+ [4]: https://www.testinggeek.com/index.php/testing-templates/checklist-guidelines/78-web-application-ui-checklist
  [5]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2010/12/Avaliação-Heurística.xls

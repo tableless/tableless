@@ -10,7 +10,7 @@ uwre:
 tweetbackscheck:
   - 1356447098
 shorturls:
-  - 'a:3:{s:9:"permalink";s:65:"http://tableless.com.br/aplicando-um-plano-de-usabilidade-parte-1";s:7:"tinyurl";s:26:"http://tinyurl.com/4x33rhn";s:4:"isgd";s:19:"http://is.gd/RUN3bc";}'
+  - 'a:3:{s:9:"permalink";s:65:"https://tableless.com.br/aplicando-um-plano-de-usabilidade-parte-1";s:7:"tinyurl";s:26:"https://tinyurl.com/4x33rhn";s:4:"isgd";s:19:"https://is.gd/RUN3bc";}'
 twittercomments:
   - 'a:1:{i:145213022166724608;s:7:"retweet";}'
 tweetcount:
@@ -31,7 +31,7 @@ Pensar a Usabilidade não é algo fácil. Aprendê-la também não o é. Usabili
 
 Apesar de ser um assunto antigo, a Usabilidade (assim como a Acessibilidade) engatinha no Brasil e, se nao fossem os _Bandeirantes da Usabilidade_ que temos aqui, ainda estaríamos aprendendo a fazer faíscas. Por causa deles, parece que 2011 será o ano que vamos começar realmente a criar a roda. Agradecimento mais do que justo a quem desde 2007 tenta mostrar que sim, é uma cadeira que vale a pena conhecer.
 
-Criar um Plano de Usabilidade é uma atividade que não deve ser feita com olhos de desenvolvedor. Poderíamos falar que um Arquiteto de Software teria mais facilidade de trabalho que um desenvolvedor web em si, puramente por questão de perfil. A infraestrutura de um produto é algo que usualmente fica sob a responsabilidade destes profissionais. Mas quando o assunto é internet, eu defendo que o Especialista em Usabilidade seja o Desenvolvedor, e não o Arquiteto. A não ser que o Arquiteto tenha sido no passado um desenvolvedor fervoroso de aplicações para internet. Nada contra, eu mesmo planejo tirar o meu <a href="http://www.opengroup.org/itac/" title="acessar o site do Open Group sobre a Certificação IT Architect" target="_blank">ITAC*</a> este ano, mas explico a minha posição:
+Criar um Plano de Usabilidade é uma atividade que não deve ser feita com olhos de desenvolvedor. Poderíamos falar que um Arquiteto de Software teria mais facilidade de trabalho que um desenvolvedor web em si, puramente por questão de perfil. A infraestrutura de um produto é algo que usualmente fica sob a responsabilidade destes profissionais. Mas quando o assunto é internet, eu defendo que o Especialista em Usabilidade seja o Desenvolvedor, e não o Arquiteto. A não ser que o Arquiteto tenha sido no passado um desenvolvedor fervoroso de aplicações para internet. Nada contra, eu mesmo planejo tirar o meu <a href="https://www.opengroup.org/itac/" title="acessar o site do Open Group sobre a Certificação IT Architect" target="_blank">ITAC*</a> este ano, mas explico a minha posição:
 
 **O Desenvolvedor Web, com treinamento específico sobre o assunto pode oferecer mais a profissão por ter vivência na depuração de erros relativos a navegadores, agregando este valor no Plano de Usabilidade, salvando horas e barateando o custo do projeto ao longo do seu ciclo de vida. Arquitetos ou designers podem fazer Planos brilhantes, porém a possibilidade deste plano ser mais caro que um elaborado por um Desenvolvedor Web Sênior é muito maior.**
 
@@ -169,10 +169,10 @@ O planejamento do projeto é fundamental porque ajuda a focar seus objetivos. El
                   * [Web Usability Consulting (DOC &#8211; 42KB)][6]
                   * [Web Usability Testing (DOC &#8211; 48KB)][7]
 
- [1]: http://www.opengroup.org/itac/
- [2]: http://it.toolbox.com/blogs/css-asylum/the-ie6-absolute-positioning-bug-15285
- [3]: http://gs.statcounter.com/#browser_version-BR-monthly-201001-201012-bar
- [4]: http://www.usability.gov/sows/SampleTaskOrdReq05.doc
- [5]: http://www.usability.gov/sows/SOWparticipantrecruit.doc
- [6]: http://www.usability.gov/sows/SOWgisusability.doc
- [7]: http://www.usability.gov/sows/SOWdataprodusab.doc
+ [1]: https://www.opengroup.org/itac/
+ [2]: https://it.toolbox.com/blogs/css-asylum/the-ie6-absolute-positioning-bug-15285
+ [3]: https://gs.statcounter.com/#browser_version-BR-monthly-201001-201012-bar
+ [4]: https://www.usability.gov/sows/SampleTaskOrdReq05.doc
+ [5]: https://www.usability.gov/sows/SOWparticipantrecruit.doc
+ [6]: https://www.usability.gov/sows/SOWgisusability.doc
+ [7]: https://www.usability.gov/sows/SOWdataprodusab.doc

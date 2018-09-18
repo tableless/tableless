@@ -37,7 +37,7 @@ O Google Glass atualmente está em fase de teste. Existem 10.000 usuários (ou G
 
 Bem, é mais fácil mostrar do que falar. Saca só o vídeo promocional do aparelho.
 
-[youtube=http://www.youtube.com/watch?v=v1uyQZNg2vE&w=600]
+[youtube=https://www.youtube.com/watch?v=v1uyQZNg2vE&w=600]
 
 ### O Hardware
 
@@ -59,7 +59,7 @@ Alias, a razão para o sucesso do Glass talvez esteja em uma &#8220;falha&#8221;
 
 O Google Glass mal foi lançado, mas já existem diversas empresas na corrida pelo mercado eyewear. A idéia do [Epifhany][4], por exemplo, é ser fashion. Já o [LiveMap][5] é um capacete para motociclistas com GPS embutido. O [Lumus][6] se propoe a de fato criar uma realidade aumentada. Além destes temos o GlassUp, Scope Technologies, Seebright, Innovega, Telepathy One&#8230; Os diferenciais variam entre design do produto, especificações técnicas e o mais importante: preço. Inicialmente o custo para comprar um aparelho em beta teste do Google Glass foi de $1500 dolares. Alguns [rumores][7] indicam que o valor para o consumidor final será bem mais barato: US$ 299. Mas isto não passa de especulação.
 
-[<img class="alignnone size-full wp-image-38669" alt="http://www.epiphanyeyewear.com" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/epiphany.jpg" width="660" height="355" srcset="uploads/2013/08/epiphany.jpg 660w, uploads/2013/08/epiphany-312x168.jpg 312w, uploads/2013/08/epiphany-576x310.jpg 576w" sizes="(max-width: 660px) 100vw, 660px" />][8]
+[<img class="alignnone size-full wp-image-38669" alt="https://www.epiphanyeyewear.com" src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2013/08/epiphany.jpg" width="660" height="355" srcset="uploads/2013/08/epiphany.jpg 660w, uploads/2013/08/epiphany-312x168.jpg 312w, uploads/2013/08/epiphany-576x310.jpg 576w" sizes="(max-width: 660px) 100vw, 660px" />][8]
   
 <small>Epiphany</small>
 
@@ -71,7 +71,7 @@ Pense na timeline como uma estante&#8230; Quando você autoriza um serviço é c
 
 Este vídeo demonstra como interagir com a timeline.
 
-[youtube=http://www.youtube.com/watch?v=4EvNxWhskf8&w=600]
+[youtube=https://www.youtube.com/watch?v=4EvNxWhskf8&w=600]
 
 &nbsp;
 
@@ -185,35 +185,35 @@ Independente de você ser um fã da tecnologia ou não se interessar nem um pouc
   
 [Grupo de Desenvolvedores no Google+][32]
 
- [1]: http://www.google.com/glass/start/ "Google Glass"
- [2]: http://www.google.com/glass/start/
+ [1]: https://www.google.com/glass/start/ "Google Glass"
+ [2]: https://www.google.com/glass/start/
  [3]: https://support.google.com/glass/answer/3064128?hl=en "Support Google - Glass"
- [4]: http://www.epiphanyeyewear.com/ "Epiphany"
- [5]: http://www.livemap.info/ "LiveMap"
- [6]: http://www.lumus-optical.com/ "Lumus"
- [7]: http://www.techtudo.com.br/noticias/noticia/2013/08/google-glass-pode-ficar-cinco-vezes-mais-barato-no-lancamento-diz-estudo.html "Google Glass pode ficar cinco vezes mais barato no lançamento, diz estudo"
- [8]: http://www.epiphanyeyewear.com/
+ [4]: https://www.epiphanyeyewear.com/ "Epiphany"
+ [5]: https://www.livemap.info/ "LiveMap"
+ [6]: https://www.lumus-optical.com/ "Lumus"
+ [7]: https://www.techtudo.com.br/noticias/noticia/2013/08/google-glass-pode-ficar-cinco-vezes-mais-barato-no-lancamento-diz-estudo.html "Google Glass pode ficar cinco vezes mais barato no lançamento, diz estudo"
+ [8]: https://www.epiphanyeyewear.com/
  [9]: https://developers.google.com/glass/ "Google Mirror Glass"
- [10]: http://blog.evernote.com/blog/2013/05/16/first-look-evernote-for-google-glass/ "Evernote"
- [11]: http://glass-apps.org/google-glass-application-list "Glass-apps.org"
- [12]: http://cnn.currentnewsnotify.com/
+ [10]: https://blog.evernote.com/blog/2013/05/16/first-look-evernote-for-google-glass/ "Evernote"
+ [11]: https://glass-apps.org/google-glass-application-list "Glass-apps.org"
+ [12]: https://cnn.currentnewsnotify.com/
  [13]: https://developers.google.com/glass/ "Developers Google - Glass"
  [14]: https://developers.google.com/glass/downloads/ "Developers Goole - Glass - Downloads"
  [15]: https://mirror-api-playground.appspot.com/assets/css/base_style.css "Mirror API Playgrounds - Base Style"
  [16]: https://developers.google.com/glass/ui-guidelines
  [17]: https://developers.google.com/glass/playground "Deevelopers Google - Playground"
- [18]: http://dribbble.com/search?q=google+glass "Dribbble"
- [19]: http://jackwmorgan.com/ok-glass/ "Ok Glass"
- [20]: http://jackwmorgan.com/ok-glass/
- [21]: http://playgroundinc.com/blog/the-future-of-google-glass/ "Playground Inc."
+ [18]: https://dribbble.com/search?q=google+glass "Dribbble"
+ [19]: https://jackwmorgan.com/ok-glass/ "Ok Glass"
+ [20]: https://jackwmorgan.com/ok-glass/
+ [21]: https://playgroundinc.com/blog/the-future-of-google-glass/ "Playground Inc."
  [22]: https://developers.google.com/glass/playground "Google Mirror API Playground"
  [23]: https://developers.google.com/glass/playground
  [24]: https://github.com/Scarygami/mirror-api "Scarygami Mirror-API"
- [25]: http://www.glasssim.com/ "GlassSim"
+ [25]: https://www.glasssim.com/ "GlassSim"
  [26]: https://plus.google.com/photos/116585924925440751072/albums/5873077927767143073 "GlassSim Album @Google+"
- [27]: http://glasssim.com/
+ [27]: https://glasssim.com/
  [28]: https://developers.google.com/glass/overview "Developers Google - Glass"
  [29]: https://sites.google.com/site/glasscomms/faqs "FAQ"
- [30]: http://webdesign.tutsplus.com/articles/general/the-web-designers-guide-to-google-glass/ "The web designers guide to Google Glass"
- [31]: http://www.mobilexweb.com/blog/google-glass-browser-html5-responsive-web-design "http://www.mobilexweb.com/blog/google-glass-browser-html5-responsive-web-design"
+ [30]: https://webdesign.tutsplus.com/articles/general/the-web-designers-guide-to-google-glass/ "The web designers guide to Google Glass"
+ [31]: https://www.mobilexweb.com/blog/google-glass-browser-html5-responsive-web-design "https://www.mobilexweb.com/blog/google-glass-browser-html5-responsive-web-design"
  [32]: https://plus.google.com/communities/105104639432156353586 "Glass Developers"

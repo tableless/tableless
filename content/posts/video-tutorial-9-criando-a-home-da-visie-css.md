@@ -77,11 +77,11 @@ Obs.: O arquivo é grande, mas tem um buffer muito bom, dá para assistir tranq�
 
 Se você quiser mais vídeos e em alta-resolução, visite o [Campus Online][7]. Lá você vai encontrar [vídeos tutoriais de Tableless, Ajax, Javascript][8] e boas práticas de desenvolvimento web.
 
- [1]: http://visie.com.br/campus "Vídeos aulas de Tableless da Visie"
- [2]: http://visie.com.br/campus
- [3]: http://tableless.com.br/video-tutorial-8-criando-a-home-da-visie-estrutura-xhtml
- [4]: http://tableless.com.br/videotutorial/videotutorial9/videotutorial9.rar
- [5]: http://www.rarlab.com/
- [6]: http://tableless.com.br/videotutorial/videotutorial9/
- [7]: http://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
- [8]: http://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"
+ [1]: https://visie.com.br/campus "Vídeos aulas de Tableless da Visie"
+ [2]: https://visie.com.br/campus
+ [3]: https://tableless.com.br/video-tutorial-8-criando-a-home-da-visie-estrutura-xhtml
+ [4]: https://tableless.com.br/videotutorial/videotutorial9/videotutorial9.rar
+ [5]: https://www.rarlab.com/
+ [6]: https://tableless.com.br/videotutorial/videotutorial9/
+ [7]: https://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
+ [8]: https://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"

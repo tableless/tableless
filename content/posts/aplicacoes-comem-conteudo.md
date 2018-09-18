@@ -7,7 +7,7 @@ url: /aplicacoes-comem-conteudo/
 tweetbackscheck:
   - 1356447582
 shorturls:
-  - 'a:3:{s:9:"permalink";s:49:"http://tableless.com.br/aplicacoes-comem-conteudo";s:7:"tinyurl";s:26:"http://tinyurl.com/42t38t2";s:4:"isgd";s:19:"http://is.gd/H1zz4z";}'
+  - 'a:3:{s:9:"permalink";s:49:"https://tableless.com.br/aplicacoes-comem-conteudo";s:7:"tinyurl";s:26:"https://tinyurl.com/42t38t2";s:4:"isgd";s:19:"https://is.gd/H1zz4z";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035371
@@ -50,10 +50,10 @@ Já passou por aqui:
   * [Semântica é que manda][6]
   * [Subjetividade na Semântica][7]
 
- [1]: http://tableless.com.br/licoes_sobre_semantica_2
- [2]: http://tableless.com.br/licoes_sobre_semantica_1
- [3]: http://tableless.com.br/diferencas-sutis-na-semantica
- [4]: http://tableless.com.br/a-web-semantica/
- [5]: http://tableless.com.br/podcast-18-opera-9-wasabi-songbird-e-semantica
- [6]: http://tableless.com.br/a-semantica-e-que-manda
- [7]: http://tableless.com.br/subjetividade-na-semantica
+ [1]: https://tableless.com.br/licoes_sobre_semantica_2
+ [2]: https://tableless.com.br/licoes_sobre_semantica_1
+ [3]: https://tableless.com.br/diferencas-sutis-na-semantica
+ [4]: https://tableless.com.br/a-web-semantica/
+ [5]: https://tableless.com.br/podcast-18-opera-9-wasabi-songbird-e-semantica
+ [6]: https://tableless.com.br/a-semantica-e-que-manda
+ [7]: https://tableless.com.br/subjetividade-na-semantica

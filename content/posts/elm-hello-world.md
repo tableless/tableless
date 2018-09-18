@@ -35,7 +35,7 @@ Após a instalação você terá disponíveis os seguintes comandos:
 
 * elm-repl: é o runtime event loop, permite escrever algumas expressões direto no console.
 
-![elm-repl](http://i.imgur.com/RQT7Jlc.png)
+![elm-repl](https://i.imgur.com/RQT7Jlc.png)
 
 * elm-reactor: inicializa o servidor da sua aplicação (por default na porta 8000).
 * elm-make: responsável pelo build do projeto, esse comando é que irá compilar o seu código Elm em JavaScript para ser incluído no browser. Em projetos maiores é comum utilizarmos esse comando junto de ferramentas mais poderosas de build (como Gulp ou Grunt).
@@ -66,9 +66,9 @@ main =
 
 Sei que provavelmente você ainda não deve estar entendendo nada, mas calma que logo abaixo vamos detalhar linha a linha desse nosso primeiro Hello World.
 
-Para executar o que acabamos de fazer, basta ir no console e chamar o **elm-reactor** para iniciar a aplicação e acessar no browser através do endereço http://localhost:8000/Main.elm.
+Para executar o que acabamos de fazer, basta ir no console e chamar o **elm-reactor** para iniciar a aplicação e acessar no browser através do endereço https://localhost:8000/Main.elm.
 
-![elm-reactor](http://i.imgur.com/jSCnIkz.png)
+![elm-reactor](https://i.imgur.com/jSCnIkz.png)
 
 Observação: na primeira vez que acessar a página pode ser que demore alguns instantes, pois nesse primeiro acesso o Elm está baixando todos os pacotes necessários para rodar seu projeto.
 
@@ -121,5 +121,5 @@ No próximo artigo vamos ver como trabalhar com **Decoders**, que é a forma com
 
 [1]: https://tableless.com.br/introducao-ao-elm/
 [2]: https://guide.elm-lang.org/install.html
-[3]: http://package.elm-lang.org/
-[5]: http://elm-lang.org/examples
+[3]: https://package.elm-lang.org/
+[5]: https://elm-lang.org/examples

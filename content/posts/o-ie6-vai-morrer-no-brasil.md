@@ -9,7 +9,7 @@ tweetbackscheck:
   - 1356446604
 dsq_thread_id: 506446820
 shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"http://tableless.com.br/o-ie6-vai-morrer-no-brasil/";s:7:"tinyurl";s:26:"http://tinyurl.com/d3kufn8";s:4:"isgd";s:19:"http://is.gd/8p26jq";}'
+  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/o-ie6-vai-morrer-no-brasil/";s:7:"tinyurl";s:26:"https://tinyurl.com/d3kufn8";s:4:"isgd";s:19:"https://is.gd/8p26jq";}'
 twittercomments:
   - 'a:23:{i:147674971290865664;s:7:"retweet";i:147671399102824448;s:7:"retweet";i:149477443210723328;s:7:"retweet";i:149438912081821696;s:7:"retweet";i:148742986111524864;s:7:"retweet";i:148742881690128386;s:7:"retweet";i:147764502581088256;s:7:"retweet";i:147705687353462784;s:7:"retweet";i:147702421429305344;s:7:"retweet";i:147699283834044416;s:7:"retweet";i:147698059386691585;s:7:"retweet";i:147690869657583616;s:7:"retweet";i:147681300952776704;s:7:"retweet";i:147674863446933505;s:7:"retweet";i:147673856226762753;s:7:"retweet";i:147672534748368896;s:7:"retweet";i:147672520567439361;s:7:"retweet";i:147672178618413056;s:7:"retweet";i:147672126395129857;s:7:"retweet";i:147672122892881920;s:7:"retweet";i:147671801999278080;s:7:"retweet";i:147671548310994944;s:7:"retweet";i:147671544896819200;s:7:"retweet";}'
 tweetcount:
@@ -42,6 +42,6 @@ Microsoft, obrigado!
 
 E use este [link para pegar a imagem do post em tamanho maior][3].
 
- [1]: http://tableless.com.br/convencimento-e-educacao-liberdade/ "Convencimento e educação = liberdade"
- [2]: http://windowsteamblog.com/ie/b/ie/archive/2011/12/15/ie-to-start-automatic-upgrades-across-windows-xp-windows-vista-and-windows-7.aspx
+ [1]: https://tableless.com.br/convencimento-e-educacao-liberdade/ "Convencimento e educação = liberdade"
+ [2]: https://windowsteamblog.com/ie/b/ie/archive/2011/12/15/ie-to-start-automatic-upgrades-across-windows-xp-windows-vista-and-windows-7.aspx
  [3]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2011/12/goawayie6.jpg

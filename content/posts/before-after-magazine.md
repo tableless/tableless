@@ -7,7 +7,7 @@ url: /before-after-magazine/
 tweetbackscheck:
   - 1356431449
 shorturls:
-  - 'a:3:{s:9:"permalink";s:45:"http://tableless.com.br/before-after-magazine";s:7:"tinyurl";s:26:"http://tinyurl.com/3wjqysw";s:4:"isgd";s:19:"http://is.gd/TVanRN";}'
+  - 'a:3:{s:9:"permalink";s:45:"https://tableless.com.br/before-after-magazine";s:7:"tinyurl";s:26:"https://tinyurl.com/3wjqysw";s:4:"isgd";s:19:"https://is.gd/TVanRN";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503037001
@@ -22,5 +22,5 @@ Eles publicam pequenos PDF&#8217;s com dicas, tutoriais e truques sobre design, 
 
 Eles distribuem alguns PDF&#8217;s grátis. Bem interessante. Vale dar uma conferida.
 
- [1]: http://www.bamagazine.com/
- [2]: http://www.bamagazine.com/Subscribe.asp
+ [1]: https://www.bamagazine.com/
+ [2]: https://www.bamagazine.com/Subscribe.asp

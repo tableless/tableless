@@ -211,7 +211,7 @@ Como citei acima, o All Animation é  muito bom para quem está com uma carga d
 > 
 > Segue abaixo dois links para mais informações:
 > 
-> <a title="Ir para à página do All Animation CSS3" href="http://clovisdasilvaneto.github.io/all-animation/" target="_blank">Clique aqui para visualizar uma demo, dos efeitos</a>
+> <a title="Ir para à página do All Animation CSS3" href="https://clovisdasilvaneto.github.io/all-animation/" target="_blank">Clique aqui para visualizar uma demo, dos efeitos</a>
 > 
 > <a title="clique aqui para abrir o repositório no github" href="https://github.com/clovisdasilvaneto/all-animation" target="_blank">Github, clique aqui</a>
 > 

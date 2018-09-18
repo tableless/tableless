@@ -8,7 +8,7 @@ url: /seu-lugar-ao-sol/
 tweetbackscheck:
   - 1356414971
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5682";s:4:"isgd";s:19:"http://is.gd/1nCHyU";s:7:"tinyurl";s:26:"http://tinyurl.com/6vbmstj";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5682";s:4:"isgd";s:19:"https://is.gd/1nCHyU";s:7:"tinyurl";s:26:"https://tinyurl.com/6vbmstj";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 608064725
@@ -49,9 +49,9 @@ Experimente fazer o exercício de entender o futuro da web. É algo que todo pro
 Embora a ideia não seja apenas direcionada a Mobile mas para todos os meios de acesso, vale muito a pena ver a apresentação que o [Michel Lent][3] fez. Dá uma olhada:
 
 <div style="width:595px" id="__ss_11955809">
-  <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/mlent68/repensando-o-marketing-a-partir-do-mobile" title="Repensando o marketing a partir do mobile" target="_blank">Repensando o marketing a partir do mobile</a></strong>
+  <strong style="display:block;margin:12px 0 4px"><a href="https://www.slideshare.net/mlent68/repensando-o-marketing-a-partir-do-mobile" title="Repensando o marketing a partir do mobile" target="_blank">Repensando o marketing a partir do mobile</a></strong>
 </div>
 
- [1]: http://tableless.com.br/utilizando-apps-em-vez-de-browsers/
- [2]: http://tableless.com.br/agora-e-a-vez-dos-desenvolvedores/
- [3]: http://www.viuisso.com.br/?utm_source=TablelessComBr&utm_medium=linkPost&utm_campaign=PostBlog
+ [1]: https://tableless.com.br/utilizando-apps-em-vez-de-browsers/
+ [2]: https://tableless.com.br/agora-e-a-vez-dos-desenvolvedores/
+ [3]: https://www.viuisso.com.br/?utm_source=TablelessComBr&utm_medium=linkPost&utm_campaign=PostBlog

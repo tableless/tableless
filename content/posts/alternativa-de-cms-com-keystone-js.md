@@ -11,13 +11,13 @@ tags:
   - nodejs
   - keystone.js
 ---
-Este é o primeiro artigo de uma série sobre o <a href="http://keystonejs.com/" target="_blank">Keystone.js</a>, um framework desenvolvido em Node.js para servir de CMS e também Web Application. Pra começarmos, será necessário nesse primeiro artigo um pouco de teoria, pra termos uma noção.
+Este é o primeiro artigo de uma série sobre o <a href="https://keystonejs.com/" target="_blank">Keystone.js</a>, um framework desenvolvido em Node.js para servir de CMS e também Web Application. Pra começarmos, será necessário nesse primeiro artigo um pouco de teoria, pra termos uma noção.
 
 Aos apressados, o link do repo está disponível no <a href="https://github.com/victorkurauchi/post-keystone" target="_blank">github</a>.
 
 Pra começar, não vou falar detalhadamente sobre sua descrição, pois no site deles está bem explicado, apenas um resumo sobre, e depois, quando formos iniciar o projeto, ficará mais claro.
 
-O Keystone.js utiliza o <a href="http://expressjs.com/" target="_blank">Express</a>, então para muitos a curva de aprendizado será bem pequena e é um ponto bom, pois a customização (quando necessária) será tranquila. Na interface admin, utilizam o <a href="https://facebook.github.io/react/" target="_blank">React.js</a>. Este framework me chamou muito a atenção pelo fato de agilizar MUITA coisa no desenvolvimento, e ao mesmo tempo não deixar o desenvolvedor sem saber o que ocorre por baixo dos panos, os módulos de rotas/models/views são bem organizados.
+O Keystone.js utiliza o <a href="https://expressjs.com/" target="_blank">Express</a>, então para muitos a curva de aprendizado será bem pequena e é um ponto bom, pois a customização (quando necessária) será tranquila. Na interface admin, utilizam o <a href="https://facebook.github.io/react/" target="_blank">React.js</a>. Este framework me chamou muito a atenção pelo fato de agilizar MUITA coisa no desenvolvimento, e ao mesmo tempo não deixar o desenvolvedor sem saber o que ocorre por baixo dos panos, os módulos de rotas/models/views são bem organizados.
 
 Atualmente, a comunidade Keystone.js está trabalhando na próxima versão (0.4) que terá um rebuild da interface admin com o React e mais novidades.
 
@@ -27,7 +27,7 @@ A idéia nessa série é desenvolver um CMS (obviamente) onde vamos publicar po
 
 > Showmethecode!
 
-Pré requisitos: <a href="https://nodejs.org/en/" target="_blank">Node.js</a> e <a href="http://mongodb.org" target="_blank">Mongodb</a>. No terminal, digite:
+Pré requisitos: <a href="https://nodejs.org/en/" target="_blank">Node.js</a> e <a href="https://mongodb.org" target="_blank">Mongodb</a>. No terminal, digite:
 
 <pre class="lang-shell">$npm install -g generator-keystone
     $mkdir projeto-keystone
@@ -38,11 +38,11 @@ Pré requisitos: <a href="https://nodejs.org/en/" target="_blank">Node.js</a> e 
 
 Após a instalação via NPM, o generator fará algumas perguntas sobre as engines que deseja utilizar e informações sobre seu projeto (exemplo nome), esta parte fica a seu critério. Itens como template engine, pré-processor, taskers&#8230;
 
-<a href="http://ornitorrinko.com/blog/uploads/2016/03/Screen-Shot-2016-03-10-at-3.41.32-PM-300x156.png" rel="attachment wp-att-254"><img class="alignnone wp-image-254 size-medium" src="https://ornitorrinko.com/blog/uploads/2016/03/Screen-Shot-2016-03-10-at-3.41.32-PM-300x156.png" alt="Tela Instalação Keystone.JS" width="300" height="156" /></a>
+<a href="https://ornitorrinko.com/blog/uploads/2016/03/Screen-Shot-2016-03-10-at-3.41.32-PM-300x156.png" rel="attachment wp-att-254"><img class="alignnone wp-image-254 size-medium" src="https://ornitorrinko.com/blog/uploads/2016/03/Screen-Shot-2016-03-10-at-3.41.32-PM-300x156.png" alt="Tela Instalação Keystone.JS" width="300" height="156" /></a>
 
-Agora você já consegue navegar em <http://localhost:3000> pra ter uma noção do que o framework estruturou para você. Nesse momento, repare que já temos um Blog e uma Galeria de imagens (utilizando uma conta temporária da <a href="http://cloudinary.com/" target="_blank">Cloudinary</a>).
+Agora você já consegue navegar em <https://localhost:3000> pra ter uma noção do que o framework estruturou para você. Nesse momento, repare que já temos um Blog e uma Galeria de imagens (utilizando uma conta temporária da <a href="https://cloudinary.com/" target="_blank">Cloudinary</a>).
 
-Para acessar o admin, navegue em <a href="http://localhost:3000/keystone" target="_blank">http://localhost:3000/keystone</a> e informe usuário e senha que informou no generator (se não informou nada, é user: user@keystonejs.com pass: admin)
+Para acessar o admin, navegue em <a href="https://localhost:3000/keystone" target="_blank">https://localhost:3000/keystone</a> e informe usuário e senha que informou no generator (se não informou nada, é user: user@keystonejs.com pass: admin)
 
 ## Um pouco sobre as models e rotas
 
@@ -50,7 +50,7 @@ Esta parte é uma mão na roda, dê um check na estrutura de _./models/Post.js_ 
 
 Já as rotas, ficam em _./routes/index.js_ para serem registradas. Possuímos o arquivo _./routes/middleware.js_ para interceptar e tratar as requests de acordo com a nossa necessidade (veremos mais adiante).
 
-Uma boa prática que adotamos aqui na Ornito é separar a pasta de rotas em _./routes/api/*_ e _./routes/views/*, onde, respectivamente, incluiremos os arquivos de API  retornardos de nosso JSON, e ServerViews, que vamos renderizar pela template engine (<a href="http://jade-lang.com/" target="_blank">Jade</a> foi a escolhida)._
+Uma boa prática que adotamos aqui na Ornito é separar a pasta de rotas em _./routes/api/*_ e _./routes/views/*, onde, respectivamente, incluiremos os arquivos de API  retornardos de nosso JSON, e ServerViews, que vamos renderizar pela template engine (<a href="https://jade-lang.com/" target="_blank">Jade</a> foi a escolhida)._
 
 ### **Cadastro de Produtos**
 
@@ -97,7 +97,7 @@ Produto.defaultColumns = 'produto, ativo, preco, criadoEm';
 Produto.register();
 </pre>
 
-Já criamos a model, então podemos navegar pelo admin, e [http://localhost:3000/keystone][1] nos levará para o cadastro de um produto. Preencha as informações do produto.
+Já criamos a model, então podemos navegar pelo admin, e [https://localhost:3000/keystone][1] nos levará para o cadastro de um produto. Preencha as informações do produto.
 
 Agora temos que configurar a rota em _./routes/views/produtos.js_ , _./routes/index.js_ e _./routes/middleware.js_
 
@@ -242,11 +242,11 @@ block content
 
 </pre>
 
-Navegue em <a href="http://localhost:3000/produtos" target="_blank">http://localhost:3000/produtos</a> e verá o resultado 🙂
+Navegue em <a href="https://localhost:3000/produtos" target="_blank">https://localhost:3000/produtos</a> e verá o resultado 🙂
 
-<a href="http://ornitorrinko.com/blog/uploads/2016/03/Screen-Shot-2016-03-11-at-6.10.11-PM-300x148.png" rel="attachment wp-att-271"><img class="alignnone wp-image-271 size-medium" src="https://ornitorrinko.com/blog/uploads/2016/03/Screen-Shot-2016-03-11-at-6.10.11-PM-300x148.png" alt="Página Nossos Produtos com Keystone.js" width="300" height="148" /></a>
+<a href="https://ornitorrinko.com/blog/uploads/2016/03/Screen-Shot-2016-03-11-at-6.10.11-PM-300x148.png" rel="attachment wp-att-271"><img class="alignnone wp-image-271 size-medium" src="https://ornitorrinko.com/blog/uploads/2016/03/Screen-Shot-2016-03-11-at-6.10.11-PM-300x148.png" alt="Página Nossos Produtos com Keystone.js" width="300" height="148" /></a>
 
-Neste artigo não foi possível cobrir TODOS os detalhes do Keystone.js. Mas, se você se interessou pelo framework, vale dar uma olhada na <a href="http://keystonejs.com/docs/getting-started/" target="_blank">documentação</a> sobre tipos de dados, formatos, middlewares, serviços já integrados e tudo mais.
+Neste artigo não foi possível cobrir TODOS os detalhes do Keystone.js. Mas, se você se interessou pelo framework, vale dar uma olhada na <a href="https://keystonejs.com/docs/getting-started/" target="_blank">documentação</a> sobre tipos de dados, formatos, middlewares, serviços já integrados e tudo mais.
 
 Fiz aqui uma pequena imersão ao framework para mostrar o que ele pode fazer com pouco tempo e dedicação. No próximo artigo vamos ao detalhe do produto, e também começar com nossa API (para produtos e posts).
 
@@ -256,4 +256,4 @@ Até mais.
 
 @victorkurauchi
 
- [1]: http://localhost:3000/keystone/produtos
+ [1]: https://localhost:3000/keystone/produtos

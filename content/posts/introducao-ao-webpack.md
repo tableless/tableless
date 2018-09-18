@@ -115,8 +115,8 @@ Essa foi só uma introdução e vale ressaltar que o webpack não é uma alterna
 
 Isso aí, se ficou alguma dúvida, só chamar 😉
 
- [1]: http://browserify.org/
- [2]: http://webpack.github.io/docs/code-splitting.html
- [3]: http://nodejs.org/
- [4]: http://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/
+ [1]: https://browserify.org/
+ [2]: https://webpack.github.io/docs/code-splitting.html
+ [3]: https://nodejs.org/
+ [4]: https://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/
  [5]: https://www.npmjs.com/

@@ -60,8 +60,8 @@ Obviamente você só pode fazer um realinhamento se você tem uma boa base estru
 
 Na verdade esse é um pensamento ainda pouco explorado em um monte de empresas. Aqui na Locaweb estamos no processo de reboot. Infelizmente é um processo doloroso. Mas há a certeza de que os próximos passos serão mais fáceis. Os argumentos serão mais fortes e teremos números importantes falando ao nosso favor. Aqui é um pouco mais fácil porque [temos um framework][5] que nos ajuda no processo de padronização de (quase) todas as interfaces da empresa. Mas esse é outro papo.
 
- [1]: http://blog.intercom.io/the-dribbblisation-of-design/
- [2]: http://www.google.com/design/spec/components/buttons.html
- [3]: http://www.standard.co.uk/lifestyle/london-life/sir-jonathan-ive-the-iman-cometh-7562170.html
- [4]: http://alistapart.com/article/redesignrealign
- [5]: http://locaweb.github.io/locawebstyle/
+ [1]: https://blog.intercom.io/the-dribbblisation-of-design/
+ [2]: https://www.google.com/design/spec/components/buttons.html
+ [3]: https://www.standard.co.uk/lifestyle/london-life/sir-jonathan-ive-the-iman-cometh-7562170.html
+ [4]: https://alistapart.com/article/redesignrealign
+ [5]: https://locaweb.github.io/locawebstyle/

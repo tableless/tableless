@@ -8,7 +8,7 @@ url: /qualidade-codigo-javascript/
 tweetbackscheck:
   - 1356399448
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6380";s:7:"tinyurl";s:26:"http://tinyurl.com/872wb4u";s:4:"isgd";s:19:"http://is.gd/uZXMuA";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6380";s:7:"tinyurl";s:26:"https://tinyurl.com/872wb4u";s:4:"isgd";s:19:"https://is.gd/uZXMuA";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 757524617
@@ -24,7 +24,7 @@ tags:
   - jslint
 
 ---
-Enquanto <a href="http://tableless.com.br/testando-seu-codigo-jquery-com-jasmine-parte-1/" target="_blank">testes automatizados</a> asseguram o funcionamento de suas aplicações e, portanto, também a qualidade, algumas ferramentas atuam em outra área importante do seu código: a sintaxe.
+Enquanto <a href="https://tableless.com.br/testando-seu-codigo-jquery-com-jasmine-parte-1/" target="_blank">testes automatizados</a> asseguram o funcionamento de suas aplicações e, portanto, também a qualidade, algumas ferramentas atuam em outra área importante do seu código: a sintaxe.
 
 Ferramentas de lint são scripts que interpretam seus arquivos javascript e buscam erros como varáveis não utilizadas, espaços em branco no final de linha, ausência de ponto-e-vírgula (um ponto polêmico) entre outros.
 
@@ -34,25 +34,25 @@ Abaixo você encontra alguns utilitários que buscam garantir melhor qualidade e
 
 ## JSLint
 
-<a href="http://www.jslint.com/" target="_blank">http://www.jslint.com/</a>
+<a href="https://www.jslint.com/" target="_blank">https://www.jslint.com/</a>
 
 Desenvolvida por ninguém menos do que Douglas Crockford, pai do famoso &#8220;The Good Parts&#8221;, esta ferramenta busca tanto erros de sintaxe, como erros estruturais.
 
-As regras e convenções utilizadas na análise podem ser encontradas no site <a href="http://javascript.crockford.com/code.html" target="_blank">javascript.crockford.com/code.html</a>.
+As regras e convenções utilizadas na análise podem ser encontradas no site <a href="https://javascript.crockford.com/code.html" target="_blank">javascript.crockford.com/code.html</a>.
 
-Você pode utilizar a <a href="http://www.jslint.com/" target="_blank">versão online da ferramenta</a>, ou então instalar o script através do gerenciador de pacotes do NodeJS (npm). O código-fonte está <a href="https://github.com/douglascrockford/JSLint" target="_blank">disponível no GitHub</a>.
+Você pode utilizar a <a href="https://www.jslint.com/" target="_blank">versão online da ferramenta</a>, ou então instalar o script através do gerenciador de pacotes do NodeJS (npm). O código-fonte está <a href="https://github.com/douglascrockford/JSLint" target="_blank">disponível no GitHub</a>.
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/gjslint.jpg" alt="" width="605" height="439" class="alignnone size-full wp-image-6383" srcset="uploads/2012/07/gjslint.jpg 605w, uploads/2012/07/gjslint-300x217.jpg 300w" sizes="(max-width: 605px) 100vw, 605px" />
 
 ## JSHint
 
-<a href="http://www.jshint.com/" target="_blank">http://www.jshint.com/</a>
+<a href="https://www.jshint.com/" target="_blank">https://www.jshint.com/</a>
 
 A ferramenta JSHint teve início como um _fork_ da JSLint, visando uma maior flexibilidade, permitindo configurações de acordo com necessidades específicas.
 
-A documentação do projeto inclui uma <a href="http://www.jshint.com/options/" target="_blank">página de opções disponíveis</a> para essa personalização.
+A documentação do projeto inclui uma <a href="https://www.jshint.com/options/" target="_blank">página de opções disponíveis</a> para essa personalização.
 
-Assim como a JSLint, a JSHint pode <a href="http://www.jshint.com/" target="_blank">analisar seu código online</a> ou pode ser instalada via NPM.
+Assim como a JSLint, a JSHint pode <a href="https://www.jshint.com/" target="_blank">analisar seu código online</a> ou pode ser instalada via NPM.
 
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2012/07/jshint.jpg" alt="" width="770" height="361" class="alignnone size-full wp-image-6385" srcset="uploads/2012/07/jshint.jpg 770w, uploads/2012/07/jshint-300x140.jpg 300w" sizes="(max-width: 770px) 100vw, 770px" />
 
@@ -70,7 +70,7 @@ Os utilitários podem ser baixados na <a href="https://developers.google.com/clo
 
 ## jQuery Lint
 
-<a href="http://james.padolsey.com/javascript/jquery-lint/" target="_blank">http://james.padolsey.com/javascript/jquery-lint/</a>
+<a href="https://james.padolsey.com/javascript/jquery-lint/" target="_blank">https://james.padolsey.com/javascript/jquery-lint/</a>
 
 Para finalizar, uma ferramenta para os fãs de jQuery que analisa a sintaxe e a estrutura. Ela funciona de forma diferente das demais: sua aplicação é feita na página, ou seja, o script deve ser chamado após o código da sua aplicação, A resposta é enviada para o console do navegador.
 

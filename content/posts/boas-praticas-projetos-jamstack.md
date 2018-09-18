@@ -28,7 +28,7 @@ O mais conhecido é o [CloudFlare](https://www.cloudflare.com/br/), mas tem um m
 
 - [Google Hosted Libraries](https://developers.google.com/speed/libraries/#libraries)
 - [Yandex CDN](https://tech.yandex.ru/jslibs/)
-- [jsDelivr](http://www.jsdelivr.com/)
+- [jsDelivr](https://www.jsdelivr.com/)
 - [cdnjs](https://cdnjs.com/)
 
 ## Seu código fica no GIT

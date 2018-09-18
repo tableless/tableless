@@ -52,14 +52,14 @@ Saiba mais sobre o estado atual de especificações relativas a:
   
 &#8211; [Web móvel para o desenvolvimento social][11]
 
- [1]: http://www.w3.org/standards/techs/mobile
- [2]: http://www.w3.org/standards/techs/deviceindependenceauthoring
- [3]: http://www.w3.org/standards/techs/cssmobile
- [4]: http://www.w3.org/standards/techs/svgmobile
- [5]: http://www.w3.org/standards/techs/xhtmlmobile
- [6]: http://www.w3.org/standards/techs/html
- [7]: http://www.w3.org/standards/techs/css
- [8]: http://www.w3.org/standards/techs/js
- [9]: http://www.w3.org/Mobile/training/
- [10]: http://www.w3.org/standards/techs/mobile#w3c_all
- [11]: http://www.w3.org/standards/techs/mw4d
+ [1]: https://www.w3.org/standards/techs/mobile
+ [2]: https://www.w3.org/standards/techs/deviceindependenceauthoring
+ [3]: https://www.w3.org/standards/techs/cssmobile
+ [4]: https://www.w3.org/standards/techs/svgmobile
+ [5]: https://www.w3.org/standards/techs/xhtmlmobile
+ [6]: https://www.w3.org/standards/techs/html
+ [7]: https://www.w3.org/standards/techs/css
+ [8]: https://www.w3.org/standards/techs/js
+ [9]: https://www.w3.org/Mobile/training/
+ [10]: https://www.w3.org/standards/techs/mobile#w3c_all
+ [11]: https://www.w3.org/standards/techs/mw4d

@@ -13,5 +13,5 @@ Quer compartilhar conhecimento, escrever textos técnicos, ensinar outros devs e
 
 Para saber mais detalhes para contribuir, [leia nossas instruções e manda bala][2]!
 
- [1]: http://tableless.com.br/wp-login.php?action=register
- [2]: http://tableless.com.br/seja-um-autor/ "Seja um autor do Tableless"
+ [1]: https://tableless.com.br/wp-login.php?action=register
+ [2]: https://tableless.com.br/seja-um-autor/ "Seja um autor do Tableless"

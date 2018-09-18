@@ -8,7 +8,7 @@ url: /underscore-js-cinto-de-utilidades-javascript/
 tweetbackscheck:
   - 1356409409
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=6829";s:7:"tinyurl";s:26:"http://tinyurl.com/8pyjd3k";s:4:"isgd";s:19:"http://is.gd/gw4KmR";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6829";s:7:"tinyurl";s:26:"https://tinyurl.com/8pyjd3k";s:4:"isgd";s:19:"https://is.gd/gw4KmR";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 849528670
@@ -405,5 +405,5 @@ _.template(tpl, {times: times});
 
 Estes foram apenas alguns exemplos de métodos e funções utilitárias presentes na biblioteca Underscore.js. Para saber mais sobre o projeto, visite o [site oficial][2].
 
- [1]: http://underscorejs.org/ ""
- [2]: http://underscorejs.org/
+ [1]: https://underscorejs.org/ ""
+ [2]: https://underscorejs.org/

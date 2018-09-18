@@ -10,7 +10,7 @@ aktt_notify_twitter:
 tweetbackscheck:
   - 1356451601
 shorturls:
-  - 'a:3:{s:9:"permalink";s:56:"http://tableless.com.br/seletores-agrupados-e-encadeados";s:7:"tinyurl";s:26:"http://tinyurl.com/3bxmxho";s:4:"isgd";s:19:"http://is.gd/8gcuc0";}'
+  - 'a:3:{s:9:"permalink";s:56:"https://tableless.com.br/seletores-agrupados-e-encadeados";s:7:"tinyurl";s:26:"https://tinyurl.com/3bxmxho";s:4:"isgd";s:19:"https://is.gd/8gcuc0";}'
 twittercomments:
   - 'a:1:{i:10026108443435009;s:7:"retweet";}'
 tweetcount:
@@ -114,4 +114,4 @@ Note que a vírgula separa os elementos. Logo após da vírgula é iniciado um n
 
 Se você quer acompanhar essa pequena campanha, veja no Twitter o que nós podemos fazer sem o IE6. Siga o hash [#semie6][1].
 
- [1]: http://search.twitter.com/search?q=%23semie6
+ [1]: https://search.twitter.com/search?q=%23semie6

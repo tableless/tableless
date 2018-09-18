@@ -7,7 +7,7 @@ url: /blogbits-podcast/
 tweetbackscheck:
   - 1356403702
 shorturls:
-  - 'a:3:{s:9:"permalink";s:40:"http://tableless.com.br/blogbits-podcast";s:7:"tinyurl";s:26:"http://tinyurl.com/3wf5lv2";s:4:"isgd";s:19:"http://is.gd/6c9xhC";}'
+  - 'a:3:{s:9:"permalink";s:40:"https://tableless.com.br/blogbits-podcast";s:7:"tinyurl";s:26:"https://tinyurl.com/3wf5lv2";s:4:"isgd";s:19:"https://is.gd/6c9xhC";}'
 twittercomments:
   - 'a:1:{i:31430544789078016;s:7:"retweet";}'
 tweetcount:
@@ -35,9 +35,9 @@ Visite o site do [BlogBits][1] para ter mais detalhes ou simplesmente cadastre o
 
 [BlogBits Podcast][1]: o podcast mais divertido e informativo que você já conheceu&#8230; ou não&#8230; 😀
 
- [1]: http://www.blogbits.com.br/
- [2]: http://www.digitalminds.com.br/
- [3]: http://www.mobilelife.com.br
- [4]: http://brunotorres.net/
- [5]: http://meiobit.com
- [6]: http://guileite.com/
+ [1]: https://www.blogbits.com.br/
+ [2]: https://www.digitalminds.com.br/
+ [3]: https://www.mobilelife.com.br
+ [4]: https://brunotorres.net/
+ [5]: https://meiobit.com
+ [6]: https://guileite.com/

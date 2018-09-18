@@ -38,13 +38,13 @@ Para esse tipo de site mobile é muito importante atentar para as configuraçõe
 
 Nas páginas para desktop `a tag rel="alternate"` indica que exite uma outra versão da página, uma versão alternativa. Essa tag é inserida na seção <head> do HTML, no seguinte formato:
 
-<pre>&lt;link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.site.com.br/pagina-1.html" /&gt;</pre>
+<pre>&lt;link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.site.com.br/pagina-1.html" /&gt;</pre>
 
 Note que a página indicada deve ser a exata correpondente na versão mobile. É errado usar a página inicial do site em todas as tags alternate, por exemplo.
 
 Da mesma forma, **nas páginas para dispositivos móveis** é preciso adicionar, no <head> do HTML de cada página, uma tag rel=&#8221;canonical&#8221; apontando para a URL desktop correspondente. Dessa forma:
 
-<pre>&lt;link rel="canonical" href="http://www.site.com.br/pagina-1.html" /&gt;</pre>
+<pre>&lt;link rel="canonical" href="https://www.site.com.br/pagina-1.html" /&gt;</pre>
 
 Essa tag vai mostrar ao robô de busca, enquanto ele rastreia as páginas mobile, qual é a versão original da página. Isso previne a duplicação de conteúdo.
 
@@ -53,13 +53,13 @@ Também é possível indicar a URL &#8220;alternate&#8221; através do **sitemap
 Veja como inserir a URL **alternate** **no sitemap**:
 
 <pre class="lang-xml">&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"&gt;
+&lt;urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="https://www.w3.org/1999/xhtml"&gt;
  &lt;url&gt;
- &lt;loc&gt;http://www.site.com.br/pagina-1.html/&lt;/loc&gt;
+ &lt;loc&gt;https://www.site.com.br/pagina-1.html/&lt;/loc&gt;
  &lt;xhtml:link
      rel="alternate"
      media="only screen and (max-width: 640px)"
-     href="http://m.site.com.br/pagina-1.html" /&gt;
+     href="https://m.site.com.br/pagina-1.html" /&gt;
  &lt;/url&gt;
 &lt;/urlset&gt;</pre>
 

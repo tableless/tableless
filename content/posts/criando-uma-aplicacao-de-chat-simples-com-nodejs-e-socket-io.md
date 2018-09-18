@@ -186,7 +186,7 @@ Com nosso servidor concluido e rodando, vamos passar para a parte de client-side
 Primeiramente, inicializaremos o socket.io e criaremos uma variável **ready**, setada como false. Esta variável será responsável por indicar se o usuário já informou ou não o seu nickname.
 
 <pre class="prettyprint">$(document).ready(function(){
-    var socket = io.connect("http://localhost:3000");
+    var socket = io.connect("https://localhost:3000");
     var ready = false;
 });
 </pre>
@@ -253,7 +253,7 @@ Na minha opinião,  as sockets são uma das melhores funcionalidades do HTML5,
 Disponibilizei o código do tutorial no [github][7] para quem se interessar, e estou aberto a tirar dúvidas.
 
  [1]: https://raw.githubusercontent.com/dericeira/Simple-Chat-Socket.io/master/example.gif
- [2]: http://socket.io
+ [2]: https://socket.io
  [3]: https://www.html5rocks.com/pt/tutorials/websockets/basics/
  [4]: https://github.com/yarnpkg/yarn
  [5]: https://github.com/dericeira/Simple-Chat-Socket.io/blob/master/assets/css.css

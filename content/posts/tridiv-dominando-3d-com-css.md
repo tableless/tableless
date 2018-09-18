@@ -30,4 +30,4 @@ Nem preciso dizer que roda lindo, sem travar, sem fazer o seu computador gritar.
 
 Experimente e seja feliz.
 
- [1]: http://tridiv.com
+ [1]: https://tridiv.com

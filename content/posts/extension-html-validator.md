@@ -9,7 +9,7 @@ aktt_tweeted:
 tweetbackscheck:
   - 1356331114
 shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"http://tableless.com.br/extension-html-validator";s:7:"tinyurl";s:26:"http://tinyurl.com/3ojpgsq";s:4:"isgd";s:19:"http://is.gd/wmgVPd";}'
+  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/extension-html-validator";s:7:"tinyurl";s:26:"https://tinyurl.com/3ojpgsq";s:4:"isgd";s:19:"https://is.gd/wmgVPd";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035456
@@ -25,4 +25,4 @@ A extensão [HTML Validator][1] é muito simples: Ela te mostra se o site está 
 Você pode ver mais [dicas de extesões aqui][2].
 
  [1]: https://addons.mozilla.org/firefox/249/
- [2]: http://tableless.com.br/categorias/extensions/
+ [2]: https://tableless.com.br/categorias/extensions/

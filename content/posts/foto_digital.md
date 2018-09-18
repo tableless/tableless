@@ -7,7 +7,7 @@ url: /foto_digital/
 tweetbackscheck:
   - 1356372154
 shorturls:
-  - 'a:3:{s:9:"permalink";s:36:"http://tableless.com.br/foto_digital";s:7:"tinyurl";s:26:"http://tinyurl.com/3g9fzks";s:4:"isgd";s:19:"http://is.gd/NKOC10";}'
+  - 'a:3:{s:9:"permalink";s:36:"https://tableless.com.br/foto_digital";s:7:"tinyurl";s:26:"https://tinyurl.com/3g9fzks";s:4:"isgd";s:19:"https://is.gd/NKOC10";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031620
@@ -23,5 +23,5 @@ cima da mesa&#8230; Acabamos de colocar no ar: [Fotolab Online][1], você envia 
   
 papel fotográfico.
 
- [1]: http://www.fotolab.com.br/ "Fotolab - revelação digital, fotografia, câmera digital, banco de
+ [1]: https://www.fotolab.com.br/ "Fotolab - revelação digital, fotografia, câmera digital, banco de
 imagens"

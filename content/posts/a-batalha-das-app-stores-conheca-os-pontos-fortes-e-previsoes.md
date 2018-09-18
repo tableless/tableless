@@ -8,7 +8,7 @@ url: /a-batalha-das-app-stores-conheca-os-pontos-fortes-e-previsoes/
 tweetbackscheck:
   - 1356300599
 shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"http://tableless.com.br/?p=5796";s:7:"tinyurl";s:26:"http://tinyurl.com/cejbpwp";s:4:"isgd";s:19:"http://is.gd/fAYMYq";}'
+  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5796";s:7:"tinyurl";s:26:"https://tinyurl.com/cejbpwp";s:4:"isgd";s:19:"https://is.gd/fAYMYq";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 636240456
@@ -35,5 +35,5 @@ Já com relação ao **número de downloads** de cada app store, também é poss
 
 Infográfico: [A batalha das App Stores][1] | [PontoFrio.com][2].
 
- [1]: http://conteudo.pontofrio.com.br/html/infograficos/tablets-a-batalha-das-app-store.html?utm_medium=infografico&utm_campaign=TABLETS_batalha-app-stores&cm_mmc=Infograficos-_-TABLETS-_-infografico-_-batalha-app-stores
- [2]: http://pontofrio.com.br?utm_medium=infografico&utm_campaign=TABLETS_batalha-app-stores&cm_mmc=Infograficos-_-TABLETS-_-infografico-_-batalha-app-stores
+ [1]: https://conteudo.pontofrio.com.br/html/infograficos/tablets-a-batalha-das-app-store.html?utm_medium=infografico&utm_campaign=TABLETS_batalha-app-stores&cm_mmc=Infograficos-_-TABLETS-_-infografico-_-batalha-app-stores
+ [2]: https://pontofrio.com.br?utm_medium=infografico&utm_campaign=TABLETS_batalha-app-stores&cm_mmc=Infograficos-_-TABLETS-_-infografico-_-batalha-app-stores

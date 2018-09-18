@@ -7,7 +7,7 @@ url: /microsoft-expression-web-designer/
 tweetbackscheck:
   - 1356453930
 shorturls:
-  - 'a:3:{s:9:"permalink";s:57:"http://tableless.com.br/microsoft-expression-web-designer";s:7:"tinyurl";s:26:"http://tinyurl.com/3hhe79a";s:4:"isgd";s:19:"http://is.gd/uBwYMD";}'
+  - 'a:3:{s:9:"permalink";s:57:"https://tableless.com.br/microsoft-expression-web-designer";s:7:"tinyurl";s:26:"https://tinyurl.com/3hhe79a";s:4:"isgd";s:19:"https://is.gd/uBwYMD";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035331
@@ -28,6 +28,6 @@ Vale dar uma olhada nos [videozinhos][3] que mostram uma palhinha do software.
 
 Na verdade, a Microsoft não está somente lançando este software, mas sim uma coleção chamada Expression, que mira principalmente designers. No pacote vem um programa por exemplo, chamado Graphic Designer, que permite misturar Vetor com imagens em Pixel para criar gráficos. Bem interessante&#8230;
 
- [1]: http://www.microsoft.com/products/expression/en/web_designer/default.mspx
- [2]: http://www.webstandards.org/2006/05/15/microsoft-expression-preview-release/
- [3]: http://www.microsoft.com/products/expression/en/web_designer/demos.mspx
+ [1]: https://www.microsoft.com/products/expression/en/web_designer/default.mspx
+ [2]: https://www.webstandards.org/2006/05/15/microsoft-expression-preview-release/
+ [3]: https://www.microsoft.com/products/expression/en/web_designer/demos.mspx

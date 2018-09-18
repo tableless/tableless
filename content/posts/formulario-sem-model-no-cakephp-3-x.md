@@ -80,7 +80,7 @@ Linha 5 — Declaração da classe, obrigatório o sufixo Form tanto na decl
 
 Linha 12:17 — Método &#8216;**_buildSchema**&#8216;, recebe como parâmetro um objeto do tipo Schema. É usado para definir o esquema de dados que será utilizado pelo FormHelper para criar o formulário html. É possível definir o tipo do campo, tamanho do campo e precisão. Este método deve retornar o próprio objeto Schema.
 
-Linha 23:32 — Método **&#8216;_buildValidator**&#8216;, recebe como parâmetro um objeto do tipo Validator. É usado para definir o esquema de validação do formulário quando processado. É possível definir várias regras de validação para mesmo campo. Este método deve retornar o próprio objeto Validator. Veja mais regras e opções em: <a href="http://book.cakephp.org/3.0/en/core-libraries/validation.html" target="_blank">http://book.cakephp.org/3.0/en/core-libraries/validation.html</a>. Em breve irei publicar um artigo sobre Validação de dados.
+Linha 23:32 — Método **&#8216;_buildValidator**&#8216;, recebe como parâmetro um objeto do tipo Validator. É usado para definir o esquema de validação do formulário quando processado. É possível definir várias regras de validação para mesmo campo. Este método deve retornar o próprio objeto Validator. Veja mais regras e opções em: <a href="https://book.cakephp.org/3.0/en/core-libraries/validation.html" target="_blank">https://book.cakephp.org/3.0/en/core-libraries/validation.html</a>. Em breve irei publicar um artigo sobre Validação de dados.
 
 Linha 38:~ — Método &#8216;**_execute**&#8216;, recebe como parâmetro um array contendo os dados da requisição ou no caso os dados do formulário que o usuário preencheu. O retorno deste método é de acordo com a implementação.
 

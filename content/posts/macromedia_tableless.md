@@ -7,7 +7,7 @@ url: /macromedia_tableless/
 tweetbackscheck:
   - 1354951728
 shorturls:
-  - 'a:3:{s:9:"permalink";s:44:"http://tableless.com.br/macromedia_tableless";s:7:"tinyurl";s:26:"http://tinyurl.com/3eejpyy";s:4:"isgd";s:19:"http://is.gd/67LPGd";}'
+  - 'a:3:{s:9:"permalink";s:44:"https://tableless.com.br/macromedia_tableless";s:7:"tinyurl";s:26:"https://tinyurl.com/3eejpyy";s:4:"isgd";s:19:"https://is.gd/67LPGd";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503031508
@@ -24,5 +24,5 @@ Já faz um tempo que estou postando aqui todo site tableless comercial, bonito e
   
 Dica do Pablo Barros, na [arqHP][2]
 
- [1]: http://www.macromedia.com
- [2]: http://www.topica.com/lists/arqhp
+ [1]: https://www.macromedia.com
+ [2]: https://www.topica.com/lists/arqhp

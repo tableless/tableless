@@ -10,7 +10,7 @@ url: /nem-so-de-client-side-vive-um-site/
 tweetbackscheck:
   - 1356397670
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/nem-so-de-client-side-vive-um-site";s:7:"tinyurl";s:26:"http://tinyurl.com/436m26o";s:4:"isgd";s:19:"http://is.gd/iWRjuG";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/nem-so-de-client-side-vive-um-site";s:7:"tinyurl";s:26:"https://tinyurl.com/436m26o";s:4:"isgd";s:19:"https://is.gd/iWRjuG";}'
 twittercomments:
   - 'a:7:{i:108272256345583618;s:7:"retweet";i:111144456949989376;s:7:"retweet";i:109004925756907520;s:7:"retweet";i:108917283732209664;s:7:"retweet";i:164732688195010562;s:7:"retweet";i:164375208889827329;s:7:"retweet";i:164373101767954432;s:7:"retweet";}'
 tweetcount:

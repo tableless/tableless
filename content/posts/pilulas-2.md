@@ -33,4 +33,4 @@ tags:
  [5]: https://www.opera.com/products/mobile/operamini/
  [6]: https://www.khmerang.com/csslab/decoratingtype/
  [7]: https://groups.google.com/group/arqhp
- [8]: http://www.jedimania.com.br/
+ [8]: https://www.jedimania.com.br/

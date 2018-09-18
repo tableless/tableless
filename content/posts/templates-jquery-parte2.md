@@ -237,5 +237,5 @@ Templating é um conceito relativamente novo no jQuery, portanto, algumas funcio
 
 Procure organizar bem seu código e pensar sempre em uma possível evolução do projeto &#8211; nesse caso, templates vão ser uma mão na roda.
 
- [1]: http://tableless.com.br/templates-e-jquery-parte-1
- [2]: http://tableless.com.br/anatomia-de-um-plugin-jquery
+ [1]: https://tableless.com.br/templates-e-jquery-parte-1
+ [2]: https://tableless.com.br/anatomia-de-um-plugin-jquery

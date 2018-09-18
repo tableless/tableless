@@ -19,7 +19,7 @@ tags:
   <span class="s1">Olá pessoal, neste artigo irei abordar o básico sobre variáveis nativas com CSS, e como você pode usar essa tecnologia hoje e sem medo de ser feliz.</span>
 </p>
 
-## **<span class="s1"><a href="http://www.w3.org/TR/css-variables/" target="_blank">CSS Custom Properties for Cascading Variables Module Level 1</a></span>** {.p4}
+## **<span class="s1"><a href="https://www.w3.org/TR/css-variables/" target="_blank">CSS Custom Properties for Cascading Variables Module Level 1</a></span>** {.p4}
 
 <p class="p3">
   <span class="s1">Esta especificação ainda em fase de <em>Last Call Working Draft</em>, traz um novo módulo de CSS3 que permite a criação de varáveis de forma nativa, de uma forma simples e rápida como veremos a seguir.</span>
@@ -118,7 +118,7 @@ tags:
 ## <span class="s1">Até aqui legal, mas e o suporte?</span> {.p5}
 
 <p class="p3">
-  <span class="s1">Nem tudo são flores amigos, até o momento o suporte é apenas para Firefox. Vejam a tabela completa no <a href="http://caniuse.com/#feat=css-variables" target="_blank">Can i use</a>.</span>
+  <span class="s1">Nem tudo são flores amigos, até o momento o suporte é apenas para Firefox. Vejam a tabela completa no <a href="https://caniuse.com/#feat=css-variables" target="_blank">Can i use</a>.</span>
 </p>
 
 ## <span class="s1">Como usar hoje!</span> {.p5}

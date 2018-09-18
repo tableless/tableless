@@ -7,7 +7,7 @@ url: /browsers-e-seus-diferenciais/
 tweetbackscheck:
   - 1356184072
 shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"http://tableless.com.br/browsers-e-seus-diferenciais";s:7:"tinyurl";s:26:"http://tinyurl.com/3pnebgh";s:4:"isgd";s:19:"http://is.gd/ZQasFZ";}'
+  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/browsers-e-seus-diferenciais";s:7:"tinyurl";s:26:"https://tinyurl.com/3pnebgh";s:4:"isgd";s:19:"https://is.gd/ZQasFZ";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503035857
@@ -32,9 +32,9 @@ Realmente, suporte a padrões web é um diferencial que agrada a apenas desenvol
 
 O que fará os usuários finais usarem um determinado browser e não outro? Integração com algum serviço online? Velocidade? Extensões ou Plugins? Integração com o Sistema Operacional? Realmente, eu não sei&#8230; acho que as coisas começam a ficar mais interessantes a partir daqui&#8230; Idéias inteligentes e criativas, que realmente mudam a forma que o usuário se relaciona com a internet serão os verdadeiros diferenciais.
 
- [1]: http://apple.com
- [2]: http://developer.apple.com/wwdc/
- [3]: http://www.apple.com/macosx/leopard/dashboard.html
- [4]: http://www.apple.com/macosx/features/safari/
- [5]: http://www.apple.com/macosx/
- [6]: http://www.flock.com/
+ [1]: https://apple.com
+ [2]: https://developer.apple.com/wwdc/
+ [3]: https://www.apple.com/macosx/leopard/dashboard.html
+ [4]: https://www.apple.com/macosx/features/safari/
+ [5]: https://www.apple.com/macosx/
+ [6]: https://www.flock.com/

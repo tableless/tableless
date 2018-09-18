@@ -7,7 +7,7 @@ url: /microsoft_dropping_support_xhtml11/
 tweetbackscheck:
   - 1356453931
 shorturls:
-  - 'a:3:{s:9:"permalink";s:58:"http://tableless.com.br/microsoft_dropping_support_xhtml11";s:7:"tinyurl";s:26:"http://tinyurl.com/3ezg9kt";s:4:"isgd";s:19:"http://is.gd/uqMDCK";}'
+  - 'a:3:{s:9:"permalink";s:58:"https://tableless.com.br/microsoft_dropping_support_xhtml11";s:7:"tinyurl";s:26:"https://tinyurl.com/3ezg9kt";s:4:"isgd";s:19:"https://is.gd/uqMDCK";}'
 twittercomments:
   - 'a:3:{i:51799217429159936;s:7:"retweet";i:51795732163854336;s:7:"retweet";i:51790390633832448;s:7:"retweet";}'
 tweetcount:
@@ -21,4 +21,4 @@ tags:
 
 Não preciso nem comentar.
 
- [1]: http://webstandards.org/buzz/archive/2005_09.html#a000555
+ [1]: https://webstandards.org/buzz/archive/2005_09.html#a000555

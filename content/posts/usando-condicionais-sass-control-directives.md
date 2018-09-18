@@ -226,7 +226,7 @@ Claro, para fazer um grid um pouco mais complexo, usando porcentagens, guardando
 
 Eu não gosto de usar pré-processadores. [Eu já falei disso aqui há muito tempo][4]. Se você for fazer um site simples, sem muitas grandes ambições, nada muito complicado, talvez não seja necessário usar um Sass da vida. Contudo, em várias ocasiões, ter essas e outras funções que citamos aqui, o ganho na produtividade é enorme. Aí sim esses penduricalhos começam a valer a pena. 😉
 
- [1]: http://sass-lang.com/documentation/file.SASS_REFERENCE.html#control_directives__expressions "Control Directives"
- [2]: http://tableless.com.br/utilizando-maps-sass/
- [3]: http://bjorkoy.com/2010/05/css-grids-with-sass/
- [4]: http://tableless.com.br/pre-processadores-usar-ou-nao-usar/
+ [1]: https://sass-lang.com/documentation/file.SASS_REFERENCE.html#control_directives__expressions "Control Directives"
+ [2]: https://tableless.com.br/utilizando-maps-sass/
+ [3]: https://bjorkoy.com/2010/05/css-grids-with-sass/
+ [4]: https://tableless.com.br/pre-processadores-usar-ou-nao-usar/

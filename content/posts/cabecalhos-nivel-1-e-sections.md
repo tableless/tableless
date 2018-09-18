@@ -69,11 +69,11 @@ Ou seja: para garantir que tecnologias assistivas acessem o conteúdo de cabeça
 
 Os cabeçalhos de uma página tem função fundamental para a acessibilidade. Pessoas que utilizam softwares leitores de tela navegam pela estrutura de cabeçalhos e utilizam o tipo de cabeçalho para navegar entre eles. Por exemplo, nos principais leitores de tela ao pressionar a tecla &#8220;H&#8221; o software navega pelos cabeçalhos em sequência. Ao pressionar as teclas &#8220;1&#8221; a &#8220;6&#8221; a navegação é feita por níveis de cabeçalho, sendo a tecla &#8220;1&#8221; utilizada para navegar por cabeçalhos de nível 1 e assim por diante até o nível 6. Inclusive a navegação por cabeçalhos é uma das principais formas de localizar conteúdo, segundo a última [pesquisa do WebAim sobre usuários de softwares leitores de tela][8].
 
- [1]: http://blog.adrianroselli.com/2013/12/the-truth-about-truth-about-multiple-h1.html
- [2]: http://www.w3.org/TR/html5/sections.html#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements
- [3]: http://www.freedomscientific.com/Downloads/ProductDemos/#JAWS
- [4]: http://www.nvaccess.org/download/
+ [1]: https://blog.adrianroselli.com/2013/12/the-truth-about-truth-about-multiple-h1.html
+ [2]: https://www.w3.org/TR/html5/sections.html#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements
+ [3]: https://www.freedomscientific.com/Downloads/ProductDemos/#JAWS
+ [4]: https://www.nvaccess.org/download/
  [5]: https://www.w3.org/wiki/HTML/Usage/Headings/h1only
- [6]: http://www.w3.org/TR/2014/NOTE-WCAG20-TECHS-20140408/H42
- [7]: http://validator.w3.org/
- [8]: http://webaim.org/projects/screenreadersurvey5/#finding
+ [6]: https://www.w3.org/TR/2014/NOTE-WCAG20-TECHS-20140408/H42
+ [7]: https://validator.w3.org/
+ [8]: https://webaim.org/projects/screenreadersurvey5/#finding

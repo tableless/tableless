@@ -6,13 +6,13 @@ date: 2006-03-10
 url: /blogbits-podcast-3-convergencia-digital/
 enclosure:
   - |
-    http://blogbits.com.br/podcasts/blogbits-podcast-3.mp3
+    https://blogbits.com.br/podcasts/blogbits-podcast-3.mp3
     29912617
     audio/mpeg
 tweetbackscheck:
   - 1355384618
 shorturls:
-  - 'a:3:{s:9:"permalink";s:63:"http://tableless.com.br/blogbits-podcast-3-convergencia-digital";s:7:"tinyurl";s:26:"http://tinyurl.com/3oz23wr";s:4:"isgd";s:19:"http://is.gd/81JYf6";}'
+  - 'a:3:{s:9:"permalink";s:63:"https://tableless.com.br/blogbits-podcast-3-convergencia-digital";s:7:"tinyurl";s:26:"https://tinyurl.com/3oz23wr";s:4:"isgd";s:19:"https://is.gd/81JYf6";}'
 twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034957
@@ -35,19 +35,19 @@ E, claro, não ficou só nisso. Quer saber tudo que rolou no nosso papo de hoje,
 
 Participaram deste podcast [Danilo medeiros][11], [Bruno Torres][12], [Rigonatti][13] e [Léo Faoro][14]. O [Gui Leite][15] não pôde dar o ar de sua graça e o [Diego Eis][16] apareceu no finalzinho pra dar um tchau.
 
- [1]: http://www.blogbits.com.br/
- [2]: http://www.microsoft.com/windowsxp/umpc/default.mspx
- [3]: http://www.mobilelife.com.br/2006/03/09/ultra-mobile-pc-um-novo-modelo-de-negocio "Ultra Mobile PC: Um novo modelo de negócio (?)"
- [4]: http://www.getdemocracy.com/
- [5]: http://tvrss.net/
- [6]: http://en.wikipedia.org/wiki/RSS_enclosure
- [7]: http://www.feedburner.com/
- [8]: http://jnewland.com/articles/2006/02/22/how-to-subscribe-to-tv-shows-using-the-democracy-player-bittorrent-rss
- [9]: http://blogbits.com.br/feed/
- [10]: http://blogbits.com.br/podcasts/blogbits-podcast-3.mp3
- [11]: http://www.digitalminds.com.br/
- [12]: http://brunotorres.net/
- [13]: http://www.mobilelife.com.br/
- [14]: http://meiobit.com/
- [15]: http://guileite.com/
- [16]: http://tableless.com.br/
+ [1]: https://www.blogbits.com.br/
+ [2]: https://www.microsoft.com/windowsxp/umpc/default.mspx
+ [3]: https://www.mobilelife.com.br/2006/03/09/ultra-mobile-pc-um-novo-modelo-de-negocio "Ultra Mobile PC: Um novo modelo de negócio (?)"
+ [4]: https://www.getdemocracy.com/
+ [5]: https://tvrss.net/
+ [6]: https://en.wikipedia.org/wiki/RSS_enclosure
+ [7]: https://www.feedburner.com/
+ [8]: https://jnewland.com/articles/2006/02/22/how-to-subscribe-to-tv-shows-using-the-democracy-player-bittorrent-rss
+ [9]: https://blogbits.com.br/feed/
+ [10]: https://blogbits.com.br/podcasts/blogbits-podcast-3.mp3
+ [11]: https://www.digitalminds.com.br/
+ [12]: https://brunotorres.net/
+ [13]: https://www.mobilelife.com.br/
+ [14]: https://meiobit.com/
+ [15]: https://guileite.com/
+ [16]: https://tableless.com.br/
