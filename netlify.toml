@@ -1,2 +1,5 @@
 [context.production.environment]
   HUGO_VERSION = "0.31"
+
+/convertidos            https://convertidos.netlify.com/
+/forum            http://forum.tableless.com.br
