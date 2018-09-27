@@ -2,14 +2,14 @@
 title: Vivaldi 2.0
 authors: Diego Eis
 type: post
-date: 2018-09-29
+date: 2018-09-27
 excerpt: Vivaldi, o Opera melhorado, agora está na sua versão 2.0. Vale a pena ver.
 image: https://i.imgur.com/pneKud1.png
 categories:
+  - Browsers
   - Notícias
-  - Browsers
 tags:
-  - Browsers
+  - Vivaldi
 ---
 
 Eu adoro browsers alternativos. Desde os tempos de Camino, K-Meleon, Flock, SeaMonkey, Maxthon e até o Konqueror, que eu preferia quando era usuário de Linux. Hoje sou um usuário fiél, até quando durar, do Opera. Tanto a versão mobile que estou testando o Beta (finalmente irão lançar o Opera Touch dia 01/Outubro/2018), quanto a versão desktop. Sou usuário do Opera por muitos motivos: ele parece ser mais rápido, tem mais features úteis que outros browsers, o inspector é 90% igual do Chrome, além de outras pontas sobre privacidade.
