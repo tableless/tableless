@@ -1,9 +1,9 @@
 ---
-title: Opera Touch
+title: Opera Touch o novo browser do Opera
 authors: Diego Eis
 type: post
 date: 2018-10-01
-excerpt: Conheça o novo browser do Opera para Smartphones.
+excerpt: Conheça o mais novo browser para Smartphones
 image: https://i.imgur.com/uvN4hBq.png
 categories:
   - Browsers
