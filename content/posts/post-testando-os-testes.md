@@ -34,3 +34,52 @@ Pela minha experiência como desenvolvedor, muitas vezes me pegava escrevendo ma
 Aumentar a cobertura dos testes é relativamente simples, basta chamar a função com parâmetros diferentes, instanciar objetos, etc, que as linhas vermelhas que mostram o nosso código não coberto vão aos poucos desaparecendo.
 
 Para quem é do mundo JavaScript, umas das bibliotecas mais famosas para cobertura de testes é a [Istanbul](https://istanbul.js.org/), não vou entrar em detalhes sobre implementação pois não é o foco do artigo, porém já adianto que ela é bem simples e se integra facilmente com praticamente todos os frameworks de testes (mocha, AVA, tap, etc.).
+
+# Testes de mutação
+
+Uma das soluções que temos frente à busca implacável pela cobertura de testes são os **testes de mutação**.
+
+Para resumir, testes de mutação são **testes que testam os nossos testes**, como assim? São testes que incluem mudanças no nosso código criando os **mutantes** e rodando os nossos testes repetidamente sobre essa "nova versão" de código. Se os testes passarem isso significa que eles não foram capazes de identificar e matar os mutantes mostrando que o nosso teste não é tão "forte" assim.
+
+Vamos ao exemplo para tentar deixar as coisas mais claras, vamos supor que dada uma idade precisamos verificar se ela é maior que 18 anos, para isso teríamos uma função parecida com essa:
+
+```js
+function verificaIdade (idade) {
+  if (idade >= 18) {
+    return true
+  } else {
+    return false
+  }
+}
+
+test('teste verificaIdade') {
+  expect(verificaIdade(10)).toBeFalsy()
+  expect(verificaIdade(20)).toBeTruthy()
+}
+```
+
+No cenário acima os testes iriam passar bem como a cobertura estaria em **100%**, porém como já mencionei a cobertura não é o melhor indicador para garantir a qualidade dos nossos testes.
+
+Ao executar alguns **testes de mutação** no código acima pequenas alterações seriam feitas, como por exemplo mudar o `>=` por `>` e com isso esperar que meu teste falhe. Como você já deve ter percebido eu não estou testando a idade 18 corretamente, significando que meus testes podem ser bons mas eles ainda não são suficientes para garantir todas as possibilidades do meu código.
+
+Para melhorar esse cenário mecionado poderíamos adicionar um novo teste:
+
+```js
+expect(verificaIdade(18)).toBeTruthy()
+```
+
+Esse tipo de análise que acabamos de realizar é muito melhor para responder à perguntas como: "Quão bom meus testes são?".
+
+## Testando os nossos testes
+
+Uma ferramente bem legal para realizarmos testes de mutação é o [Stryker Mutator](https://stryker-mutator.io/), que é bem fácil de ser executado via *CLI* e que suporta a maioria dos frameworks de testes (mocha, jasmine, jest, etc.) e cuja execução mostra a resiliência dos nossos testes como um todo.
+
+Novamente como o foco desse artigo não é explicar sobre uma ferramenta específica sugiro que para quem se interessou pelo assunto que dê uma olhada no [quickstart](https://stryker-mutator.io/stryker/quickstart) que é bem simples e legal de ser feito. 
+
+# Conclusão
+
+Esse post foi para mostrar alternativas para a qualidade dos nossos testes do que apenas o *test coverage* e com isso melhorar os nossos projetos como um todo.
+
+Só queria deixar claro para não entenderem errado o objeetivo do post e nem desprezarem as métricas de cobertura de testes, esse valor ainda é muito importante. O objetivo é mostrar que esse valor por si só não garante a qualidade do nosso projeto e que existem ferramentas muito legais para nos ajudar a cada vez mais entregar código melhor.
+
+Então vamos matar os mutantes?
