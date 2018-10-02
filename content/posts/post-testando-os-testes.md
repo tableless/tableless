@@ -80,6 +80,6 @@ Novamente como o foco desse artigo não é explicar sobre uma ferramenta especí
 
 Esse post foi para mostrar alternativas para a qualidade dos nossos testes do que apenas o *test coverage* e com isso melhorar os nossos projetos como um todo.
 
-Só queria deixar claro para não entenderem errado o objeetivo do post e nem desprezarem as métricas de cobertura de testes, esse valor ainda é muito importante. O objetivo é mostrar que esse valor por si só não garante a qualidade do nosso projeto e que existem ferramentas muito legais para nos ajudar a cada vez mais entregar código melhor.
+Só queria deixar claro para não entenderem errado o objetivo do post e nem desprezarem as métricas de cobertura de testes, esse valor ainda é muito importante. O objetivo é mostrar que esse valor por si só não garante a qualidade do nosso projeto e que existem ferramentas muito legais para nos ajudar a cada vez mais entregar código melhor.
 
 Então vamos matar os mutantes?
