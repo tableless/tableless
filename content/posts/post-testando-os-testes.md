@@ -1,4 +1,4 @@
----
+﻿---
 title: Vida longa aos testes de mutação
 authors: Breno Panzolini
 type: post
@@ -8,8 +8,8 @@ categories:
   - NodeJS
   - JavaScript
 tags:
-  - NodeJS
   - JavaScript
+  - NodeJS
 image: https://stryker-mutator.io/images/strykerman.png
 ---
 
