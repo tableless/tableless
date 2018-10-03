@@ -2,8 +2,8 @@
 title: Vida longa aos testes de mutação
 authors: Breno Panzolini
 type: post
-date: 2018-10-02
-excerpt: Explicação sobre o por que test coverage não é uma métrica necessariamente boa e como podemos melhorar a qualidade dos nossos testes com testes de mutação.
+date: 2018-10-03
+excerpt: Test coverage não é uma métrica necessariamente boa e como podemos melhorar a qualidade dos nossos testes.
 categories:
   - NodeJS
   - JavaScript
@@ -72,7 +72,7 @@ Esse tipo de análise que acabamos de realizar é muito melhor para responder à
 
 ## Testando os nossos testes
 
-Uma ferramente bem legal para realizarmos testes de mutação é o [Stryker Mutator](https://stryker-mutator.io/), que é bem fácil de ser executado via *CLI* e que suporta a maioria dos frameworks de testes (mocha, jasmine, jest, etc.) e cuja execução mostra a resiliência dos nossos testes como um todo.
+Uma ferramenta bem legal para realizarmos testes de mutação é o [Stryker Mutator](https://stryker-mutator.io/), que é bem fácil de ser executado via *CLI* e que suporta a maioria dos frameworks de testes (mocha, jasmine, jest, etc.) e cuja execução mostra a resiliência dos nossos testes como um todo.
 
 Novamente como o foco desse artigo não é explicar sobre uma ferramenta específica sugiro que para quem se interessou pelo assunto que dê uma olhada no [quickstart](https://stryker-mutator.io/stryker/quickstart) que é bem simples e legal de ser feito. 
 
