@@ -172,3 +172,7 @@ openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b
 appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
 clickio.com, 127155, DIRECT
+openx.com, 537119011, RESELLER, 6a698e2ec38604c6
+openx.com, 540158170, RESELLER, 6a698e2ec38604c6
+teads.tv, 15389, RESELLER, 15a9c44f6d26cbe1
+appnexus.com, 9954, RESELLER
