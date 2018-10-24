@@ -1,6 +1,6 @@
 ---
 title: "GIT: Tenho que voltar para uma versão antiga, e agora?"
-authors: Allan Sene
+authors: Jaime Neves
 type: post
 date: 2018-10-21
 excerpt: Voltando o código para uma versão anterior.
