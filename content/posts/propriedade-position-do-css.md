@@ -70,6 +70,12 @@ Uma ocasião bem simples onde usaríamos position é na home do Flickr. Onde tem
 
 [<img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/05/flickr-exemplo.jpg" alt="flickr-exemplo" title="flickr-exemplo" width="578" height="411" class="alignnone size-full wp-image-1414" srcset="uploads/2009/05/flickr-exemplo.jpg 578w, uploads/2009/05/flickr-exemplo-300x213.jpg 300w" sizes="(max-width: 578px) 100vw, 578px" />][7]
 
+---
+
+Apoio: Fale ilimitado com todo o Brasil contratando o [NET Fone](https://www.telefonenet.com.br/net/net-fone/).
+
+---
+
  [1]: https://tableless.com.br/propriedade-float-do-css
  [2]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2009/04/fixed.html
  [3]: https://tableless.github.io/exemplos/position-fixed.html

@@ -227,3 +227,9 @@ Se quiser conhecer melhor essas novidades e algumas outras, criei um <a href="ht
 **<a href="https://cursophp7.ultimatephp.com.br" target="_blank">Clique aqui e se inscreva no meu curso gratuito do PHP 7</a>**
 
 Bons estudos e fique de olho no PHP 7!
+
+---
+
+Apoio: Acesse o site [Promoção NET](https://www.telefonenet.com.br/net/promocao-net/) e veja todas os descontos da operadora para você.
+
+---

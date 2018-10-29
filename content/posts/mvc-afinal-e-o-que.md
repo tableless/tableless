@@ -41,4 +41,10 @@ Caso você ainda esteja um pouco confuso, espero que esse diálogo possa te &#82
 **Controller**: Blz. View, o usuário informou os dados corretos. Vou mandar pra vc os dados dele e você carrega a página de perfil.
 **View**: Vlw. Mostrando ao usuário&#8230;
 
+---
+
+Apoio: Conheça os [Planos NET](https://www.telefonenet.com.br/net/planos-net/) de TV por assinatura e internet para sua casa aproveite as promoções atuais.
+
+---
+
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/02/laravel-introducao.jpg

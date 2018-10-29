@@ -187,4 +187,11 @@ OBS: Pessoal, conforme o comentário abaixo do Duke, existe uma correção a ser
   </div>
 </div>
 
+---
+
+Apoio: Conheça a [NET TV](https://www.telefonenet.com.br/net/net-tv/) e aproveite os diversos canais, em diversos planos. Confira as vantagens de contratar a NET TV e quais os descontos mais recentes da operadora!
+
+---
+
+
  [1]: https://tableless.com.br/sass-um-outro-metodo-de-escrever-css/#
