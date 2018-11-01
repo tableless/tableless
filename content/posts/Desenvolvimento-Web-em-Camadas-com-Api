@@ -1,9 +1,9 @@
 ---
-title: Desenvolvimento Web em Camadas com Api
+title: Desenvolvimento Web em camadas com API
 authors: Luccas Marra do Amaral
 type: post
 image: https://i.imgur.com/yS6Tb6R.png
-date: 2018-03-20
+date: 2018-11-01
 excerpt: Entenda mais sobre camadas na web e organize seu código.
 categories:
   - Front-end
@@ -17,9 +17,9 @@ tags:
   - 3 camadas web
 ---
 
-Muitos programadores web iniciam suas carreiras desenvolvendo websites e aplicações web como se fosse uma “brincadeira” simplesmente pelo fato de serem fascinados por tecnologia e terem curiosidade no assunto. Entre noites em claro, buscas incessantes por respostas e muita persistência, são impactados pelo retorno “Success”, uma mensagem magnífica para quem após centenas de tentativas em milhares de linhas de código conseguiu atingir o resultado tão esperado. Mas e depois para dar manutenção, será que você organizou do jeito certo para não ter que ler tudo de novo? 
+Muitos programadores web iniciam suas carreiras desenvolvendo websites e aplicações web como se fosse uma “brincadeira”, simplesmente pelo fato de serem fascinados por tecnologia e terem curiosidade no assunto. Entre noites em claro, buscas incessantes por respostas e muita persistência, são impactados pelo retorno “Success”, uma mensagem magnífica para quem após centenas de tentativas em milhares de linhas de código conseguiu atingir o resultado tão esperado. Você organizou do jeito certo? Você não vai querer ler tudo novamente para realizar manutenções. 
 
-Pensando nisso resolvi explicar de maneira rápida e didática as três camadas web e uma breve explicação sobre API. Esse conteúdo proporcionará que seu código fique mais organizado e você possa otimizar seu tempo conquistando melhores resultados e na hora da manutenção achar o que precisar. 
+Pensando nisso resolvi explicar de maneira rápida e didática as três camadas web e uma breve explicação sobre API. Esse conteúdo proporcionará que seu código fique mais organizado, além disso, você vai poder otimizar seu tempo conquistando melhores resultados, dessa forma, quando precisar fazer manutenção achará tudo o que precisar. 
 
 ![img](https://i.imgur.com/yS6Tb6R.png)
 
@@ -60,13 +60,13 @@ Dica: Existem diversas bibliotecas do JavaScript como o Ajax e Jquery que nos po
 ### 4.API 
 Acrônimo de Application Programming Interface, em português Interface de Programação de Aplicativos
 
-Nada mais é que um “cérebro”. Responsável por gerar resultados para determinada requisição que pode ser desenvolvida em diversas linguagens e na maioria das vezes possui comunicação a bancos de dados com o objetivo de responder prontamente as solicitações feitas. Como por exemplo quando realizamos um login, informamos nosso e-mail e senha é enviado para uma api decidir se seus dados estão corretos e você pode ou não acessar aquele conteúdo. 
+Nada mais é que um “cérebro”. Responsável por gerar resultados para determinada requisição que pode ser desenvolvida em diversas linguagens e na maioria das vezes possui comunicação a bancos de dados com o objetivo de responder prontamente as solicitações feitas. Como por exemplo quando realizamos um login, informamos nosso e-mail e senha é enviado para uma API decidir se seus dados estão corretos e você pode ou não acessar aquele conteúdo. 
 
 Dica: Procure no google “Como realizar uma consulta MYSQL utilizando Ajax e PHP” e continue aprendendo. 
 
 
 
-**Organizando as camadas e Api**
+**Organizando as camadas e API**
 
 ![img](https://i.imgur.com/GU5KGDx.png)
 
