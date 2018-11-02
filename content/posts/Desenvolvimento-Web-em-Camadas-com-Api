@@ -34,7 +34,7 @@ Hypertext Markup Language, em português: Linguagem de Marcação de Hipertexto
 
 Cascading Style Sheets, em português Folha de Estilos em Cascata
 
-Pelo nome já podemos identificar que é basicamente uma linguagem de regras de estilo que tem como objetivo alterar a forma visual do HTML, deixando sua página visualmente mais atrativa. Muitos utilizando o CSS diretamente do HTML mas para uma melhor organização ela deve ser a nossa segunda camada e será chamada de dentro do HTML entre as tags HEAD através da tag:
+Pelo nome já podemos identificar que é basicamente uma linguagem de regras de estilo que tem como objetivo alterar a forma visual do HTML, deixando sua página visualmente mais atrativa. Muitos utilizam o CSS diretamente no HTML. Porém, para melhorar a organização, deve ser a nossa segunda chamada. Além disso, ela deve estar dentro do HTML entre a tag HEAD, por exemplo:
 
 ```
 <head>
@@ -48,19 +48,19 @@ Dica: Existem inúmeras estilizações que você pode aplicar ao seu HTML, pesqu
 
 ### 3.JavaScript - Terceira Camada
 
-É uma linguagem de interpretação que nos permite manipular elementos. Atualmente a maior parte das aplicações web usufruem dele para gerar interações dinâmicas com o cliente, como por exemplo clicar em um botão que ao clicar uma informação que antes estava oculta aparece sem precisar recarregar a tela. E para você adicionar essa terceira camada ao nosso arquivo HTML utilize a tag:
+É uma linguagem de interpretação que nos permite manipular elementos. Atualmente a maior parte das aplicações web usufruem dele para gerar interações dinâmicas com o cliente, como por exemplo ao clicar em um botão, a informação que antes estava oculta, agora pode aparecer sem precisar recarregar a página. E para você adicionar essa terceira camada ao nosso arquivo HTML utilize a tag:
 
 ```
 <script src="caminho-do-seu-arquivo.js"></script>
 ```
 
-Dica: Existem diversas bibliotecas do JavaScript como o Ajax e Jquery que nos possibilitam realizar ações de maneira mais fácil e nos conectar com a nossa quarta camada, a API.
+Dica: Existem diversas bibliotecas, tais como Ajax e Jquery que nos possibilitam realizar ações de maneira mais fácil e nos conectar com a nossa quarta camada, a API.
 
 
 ### 4.API 
 Acrônimo de Application Programming Interface, em português Interface de Programação de Aplicativos
 
-Nada mais é que um “cérebro”. Responsável por gerar resultados para determinada requisição que pode ser desenvolvida em diversas linguagens e na maioria das vezes possui comunicação a bancos de dados com o objetivo de responder prontamente as solicitações feitas. Como por exemplo quando realizamos um login, informamos nosso e-mail e senha é enviado para uma API decidir se seus dados estão corretos e você pode ou não acessar aquele conteúdo. 
+Nada mais é que um “cérebro”. Responsável por gerar resultados para determinada requisição que pode ser desenvolvida em diversas linguagens. Na maioria das vezes possui comunicação a bancos de dados com o objetivo de responder prontamente as solicitações feitas. Como por exemplo quando realizamos um login, informamos nosso e-mail e senha é enviado para uma API decidir se seus dados estão corretos e você pode ou não acessar aquele conteúdo. 
 
 Dica: Procure no google “Como realizar uma consulta MYSQL utilizando Ajax e PHP” e continue aprendendo. 
 
@@ -72,7 +72,7 @@ Dica: Procure no google “Como realizar uma consulta MYSQL utilizando Ajax e PH
 
 
 
-**1 - Crie uma pasta para colocar seu arquivos, exemplo:  meu projeto**
+**1 - Crie uma pasta para colocar seus arquivos, exemplo:  meu projeto**
 **2 - Dentro dela crie as pastas: css, js, apis**
 **3 - Dentro de cada pasta coloque o arquivo que se refere a explicação acima:**
 
@@ -80,6 +80,6 @@ Na pasta css, coloque o arquivo caminho-do-seu-arquivo.css
 Na pasta js, coloque o arquivo caminho-do-seu-arquivo.js
 Na pasta apis, coloque o arquivo que será responsável por responder suas requisições.
 
-*Desse jeito você poderá organizar de maneira simples sua aplicação web mas esse é um artigo introdutório e caso queira se aprofundar e saber mais sobre organização procure sobre MVC.*
+*Desse jeito você poderá organizar de maneira simples sua aplicação web. Esse é um artigo introdutório e caso queira se aprofundar e saber mais sobre organização procure sobre MVC.*
 
  
