@@ -45,8 +45,6 @@ Voltando ao OpenFaas, ele tem em destaque algumas funcionalidades como:
 
 ## Visão geral do OpenFaaS
 
- 
-
 ![](https://king.host/blog/wp-content/uploads/2018/09/texto-1.png =633x342)
 
 ### Function Watchdog
@@ -74,25 +72,25 @@ Qualquer container ou processo em um container Docker pode ser uma **função s
 
 Supondo que você **já tenha o Docker instalado**, a primeira coisa que você precisa fazer é inicializar o **Docker Swarm** e implantar a stack do OpenFaaS.
 
-	docker swarm init --advertise-addr $(hostname -i) |
+    docker swarm init --advertise-addr $(hostname -i) |
 
 Mude para uma pasta de trabalho adequada e **instale a stack do OpenFaaS** clonando o repositório do github e executando o script de implementação.
 
-	git clone https://github.com/openfaas/faas &amp;&amp; \\  cd faas &amp;&amp; \\  ./deploy_stack.sh |
+    git clone https://github.com/openfaas/faas &amp;&amp; \\  cd faas &amp;&amp; \\  ./deploy_stack.sh |
 
 Neste momento é gerado um **username e password** para acesso a UI e CLI do OpenFaaS, **guarde estes dados**.
 
 Teste se a stack está funcionando invocando a função de exemplo **echoit** que faz echo de todos os dados de entrada enviados.
 
-	curl 127.0.0.1:8080/function/func_echoit -d 'hello world'
+    curl 127.0.0.1:8080/function/func_echoit -d 'hello world'
 
 Agora que o **OpenFaaS está funcionando**, você precisa **instalar a estrutura cli do OpenFaaS (faas-cli)** que permite construir, implementar e invocar suas próprias funções facilmente a partir da linha de comando.
 
-	curl -sL https://cli.openfaas.com \| sudo sh
+    curl -sL https://cli.openfaas.com \| sudo sh
 
 Em seguida, **instale o modelo PHP do OpenFaaS**:
 
-	faas-cli template pull https://github.com/itscaro/openfaas-template-php |
+    faas-cli template pull https://github.com/itscaro/openfaas-template-php |
 
 Agora vamos criar uma nova função e dizer qual linguagem usar.
 
@@ -104,7 +102,7 @@ A sintaxe da linha de comando do OpenFaaS para criar uma nova função é a **f
 
 O template PHP usa o nome da linguagem php para funções **PHP7,** e **php5 para funções PHP5**. Vamos criar uma função PHP7 chamada func-ping-php usando o código do template.
 
-	faas-cli new func-ping-php --lang php |
+    faas-cli new func-ping-php --lang php |
 
 Você observará um novo arquivo **func-ping-php.yml** e a **pasta da função será criada**.  
 Dentro de **./func-ping-php** há um diretório src que contém uma classe **Handler.php**. Abra isso e você verá:
@@ -118,14 +116,14 @@ Agora temos a configuração do projeto, podemos construí-lo!
 
 Para construir uma função, usaremos novamente o faas-cli:
 
-	faas-cli build -f ./func-ping-php.yml |
+    faas-cli build -f ./func-ping-php.yml |
 
 Isso criará o container docker que executará nossa função.  
 Uma vez que é construído, podemos implantá-lo!
 
 ### Implantando nossa função
 
-	faas-cli deploy -f ./func-ping-php.yml |
+    faas-cli deploy -f ./func-ping-php.yml |
 
 Depois de executar esta função, você deverá ver:
 
@@ -137,13 +135,13 @@ Isso nos diz que está tudo bem, assim como a URL com a qual podemos invocar a f
 
 Agora, podemos acessar nossa função enviando uma solicitação POST para o URL especificada:
 
-	curl -XPOST http://127.0.0.1:8080/function/func-ping-php |
+    curl -XPOST http://127.0.0.1:8080/function/func-ping-php |
 
 No entanto, não veremos nada, pois a função apenas retorna o que você envia para ela, e nós não enviamos nada para ela!
 
 Agora, se enviarmos dados para ele, devemos ter os dados retornados. Então executamos:
 
-	curl -XPOST -d "olá blog" http://127.0.0.1:8080/function/func-ping-php |
+    curl -XPOST -d "olá blog" http://127.0.0.1:8080/function/func-ping-php |
 
 Nos dará uma saída:  
 _olá blog_
@@ -158,7 +156,7 @@ Vamos atualizar nossa função para retornar algum json, então, de volta em **
 
 Podemos verificar executando:
 
-	curl -XPOST -H "Content-Type: application/json" http://127.0.0.1:8080/function/func-ping-php --head |
+    curl -XPOST -H "Content-Type: application/json" http://127.0.0.1:8080/function/func-ping-php --head |
 
 O que nos mostrará que a resposta também retorna o **application/json**:
 
@@ -168,15 +166,15 @@ Agora então vamos reconstruir nossa função e reimplanta-lá de acordo com as 
 
 #### Construir
 
-	faas-cli build -f ./func-ping-php.yml |
+    faas-cli build -f ./func-ping-php.yml |
 
 #### Implantar
 
-	faas-cli deploy -f ./func-ping-php.yml |
+    faas-cli deploy -f ./func-ping-php.yml |
 
 Agora, se executarmos nossa função, veremos que recuperamos o JSON especificado:
 
-	curl -XPOST http://127.0.0.1:8080/function/func-ping-php {"pong": 1532176701} |
+    curl -XPOST http://127.0.0.1:8080/function/func-ping-php {"pong": 1532176701} |
 
 ## Conclusão
 
@@ -184,7 +182,7 @@ Neste artigo/tutorial vimos que é simples **criarmos funções serverless** u
 
 Para isso nós usamos basicamente a ferramenta **CLI do OpenFaaS (faas-cli)**, mas você também pode utilizar a interface do usuário, que facilita e permite que invoque funções em seu navegador e crie novas, conforme necessário.
 
-![](https://king.host/blog/wp-content/uploads/2018/09/9-780x501.png =780x501)](https://king.host/blog/wp-content/uploads/2018/09/9.png)
+![](https://king.host/blog/wp-content/uploads/2018/09/9-780x501.png =780x501)\](https://king.host/blog/wp-content/uploads/2018/09/9.png)
 
 E você, já conhecia o projeto OpenFaaS e qual a sua opinião sobre Serverless, já está utilizando?
 
