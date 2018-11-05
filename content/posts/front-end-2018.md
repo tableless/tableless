@@ -1,3 +1,15 @@
+---
+title: Como dar início ao FRONT-END em 2018?
+authors: Leonardo Cesca Flach
+type: post
+date: 2018-11-05
+excerpt: Este post tem como objetivo ajudar e/ou guiar pessoas que tem interesse em descobrir um pouco mais sobre a área de front-end em 2018.
+categories:
+  - Front-end
+  - HTML
+  - CSS
+---
+
 #Como dar início ao FRONT-END em 2018?
 
 ##Conheça alguns passos para iniciar no front-end no ano de 2018.</h3>
@@ -22,6 +34,8 @@ Ok, SASS já meu novo amigo mas como compilo ele? Bom, você deve aprender algum
 
 Depois de aprender tudo isso, você pode partir para um [framework Javascript](https://becode.com.br/frameworks-e-bibliotecas-javascript-que-voce-deveria-conhecer/). Sim, como eu falei no início desse post, demora e a sua força de vontade pode aumentar ou diminuir esse tempo.
 
+Importante frisar que ANTES de tentar se aventurar em frameworks JavaScript é bom você estudar, com calma, o JS puro mais conhecido como [Vanilla](https://github.com/entrylvl/traducoes-de-artigos/blob/master/javascript/vale-a-pena-aprender-vanillajs--com-certeza.md). A partir dele, você vai começar a entender diversas funções que vão te auxiliar quando for usar um framework.
+
 Então, resumindo a curva de aprendizado:
 
 **1º- HTML5 / CSS3**
@@ -29,7 +43,8 @@ Então, resumindo a curva de aprendizado:
 **3º- BEM**
 **4º- SASS**
 **5º- GULP**
-**6º- Frameworks JS**
+**6º- JAVASCRIPT**
+**7º- Frameworks JS**
 
 Com isso, deu para perceber que é muita coisa, mas com perseverança tudo é possível de ser conquistado. *NÃO DESISTA!*
 
