@@ -60,4 +60,14 @@ Sim de fato, é muita para ser estudada e, as vezes, bate um desanimo por conta 
 
 **Lembre-se de uma coisa: O caminho pode ser longo e desgastante mas no fim você terá um futuro brilhante!**
 
+Há também os adeptos de planos de estudos. Particularmente, gosto bastante pois ajuda a ter um norte. Para isso, pode-se usar o [Trello](https://trello.com/) e adicionar cards para cada conteúdo a ser estudado, movendo-os quando estiver terminado. 
+
+Como dica de planos de estudos, sugiro:
+
+1º - Leia a documentação do que deseja aprender.
+2º - Tente montar algo a partir da documentação lida
+3º - Faça alguma video-aula sobre o assunto
+4º - Tente a partir da video-aula assistida, elaborar um projeto semelhante ao feito mas customizado por você
+5º - NÃO DESISTA!!
+
 Bons estudos !
