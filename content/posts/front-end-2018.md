@@ -46,6 +46,18 @@ Então, resumindo a curva de aprendizado:
 **6º- JAVASCRIPT**
 **7º- Frameworks JS**
 
-Com isso, deu para perceber que é muita coisa, mas com perseverança tudo é possível de ser conquistado. *NÃO DESISTA!*
+**Mas Léo, é muita coisa!!!**
+
+Sim de fato, é muita para ser estudada e, as vezes, bate um desanimo por conta disso. Mas aqui vão algumas dicas:
+
+- Comece pelo básico e não tenha vergonha disso. Não é porque as pessoas estão usando frameworks que você também deve. Se você se basear nos outros você irá se desanimar. Portanto, pense no quanto evoluiu até aqui e siga firme!
+
+- Estude uma coisa de cada vez e evite se distrair com conteúdos que não agreguem tanto valor ao que você quer aprender.
+
+- Faça projetos. Por mais "toscos" que possam parecer no inicio.. Fazer projetos é como trabalhar sem trabalhar e é um ótimo exercicío para melhorar suas habilidades.
+
+- Se você não consegue se concentrar por muito tempo em frente ao computador, existem técnicas como por exemplo [Pomodoro](https://www.napratica.org.br/pomodoro/) entre outras e que são comprovadas eficazes.
+
+**Lembre-se de uma coisa: O caminho pode ser longo e desgastante mas no fim você terá um futuro brilhante!**
 
 Bons estudos !
