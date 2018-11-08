@@ -1,24 +1,23 @@
 ---
 title: Como dar início ao FRONT-END em 2018?
 authors: Leonardo Cesca Flach
+image: https://i.imgur.com/JvE8HAp.jpg
 type: post
-date: 2018-11-05
-excerpt: Este post tem como objetivo ajudar e/ou guiar pessoas que tem interesse em descobrir um pouco mais sobre a área de front-end em 2018.
+date: 2018-11-09
+excerpt: Descubra um pouco mais sobre a área de front-end em 2018.
 categories:
   - Front-end
   - HTML
   - CSS
 ---
 
-#Como dar início ao FRONT-END em 2018?
-
-##Conheça alguns passos para iniciar no front-end no ano de 2018.</h3>
+##Conheça alguns passos para iniciar no front-end no ano de 2018.
 
 Talvez um dos tópicos mais pesquisados pelos iniciantes na área. Mas não se desespere em aprender rápido, as coisas levam tempo para se consolidarem e devem ser respeitadas.
 
 Você já deve ter se perguntado: Qual a maneira mais fácil e rápida de aprender front-end? A verdade é que não há atalhos e muito menos fórmulas mágicas para ser um desenvolvedor front-end, basta ter persistência e dedicação.
 
-Todos nós algum dia de nossas vidas nos perguntamos: *“Será que realmente estou no caminho certo aprendendo isso? É realmente necessário?”*
+Todos nós algum dia de nossas vidas nos perguntamos: *“Será que realmente estou no caminho certo aprendendo isso? É realmente necessário?”*  
 
 #Começando
 
@@ -39,12 +38,19 @@ Importante frisar que ANTES de tentar se aventurar em frameworks JavaScript é b
 Então, resumindo a curva de aprendizado:
 
 **1º- HTML5 / CSS3**
+
 **2º- Mobile-First**
+
 **3º- BEM**
+
 **4º- SASS**
+
 **5º- GULP**
+
 **6º- JAVASCRIPT**
-**7º- Frameworks JS**
+
+**7º- Frameworks JS**  
+
 
 **Mas Léo, é muita coisa!!!**
 
@@ -54,20 +60,24 @@ Sim de fato, é muita para ser estudada e, as vezes, bate um desanimo por conta 
 
 - Estude uma coisa de cada vez e evite se distrair com conteúdos que não agreguem tanto valor ao que você quer aprender.
 
-- Faça projetos. Por mais "toscos" que possam parecer no inicio.. Fazer projetos é como trabalhar sem trabalhar e é um ótimo exercicío para melhorar suas habilidades.
+- Faça projetos. Por mais "toscos" que possam parecer no inicio. Fazer projetos é como trabalhar sem trabalhar e é um ótimo exercicío para melhorar suas habilidades.
 
 - Se você não consegue se concentrar por muito tempo em frente ao computador, existem técnicas como por exemplo [Pomodoro](https://www.napratica.org.br/pomodoro/) entre outras e que são comprovadas eficazes.
-
-**Lembre-se de uma coisa: O caminho pode ser longo e desgastante mas no fim você terá um futuro brilhante!**
 
 Há também os adeptos de planos de estudos. Particularmente, gosto bastante pois ajuda a ter um norte. Para isso, pode-se usar o [Trello](https://trello.com/) e adicionar cards para cada conteúdo a ser estudado, movendo-os quando estiver terminado. 
 
 Como dica de planos de estudos, sugiro:
 
 1º - Leia a documentação do que deseja aprender.
+
 2º - Tente montar algo a partir da documentação lida
+
 3º - Faça alguma video-aula sobre o assunto
+
 4º - Tente a partir da video-aula assistida, elaborar um projeto semelhante ao feito mas customizado por você
-5º - NÃO DESISTA!!
+
+5º - NÃO DESISTA!!  
+
+**Lembre-se de uma coisa: O caminho pode ser longo e desgastante mas no fim você terá um futuro brilhante!**  
 
 Bons estudos !
