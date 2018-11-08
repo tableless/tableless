@@ -29,15 +29,15 @@ Como mencionei, o Git Flow são diretrizes para a organização dos nossos *bran
 
 - **master**: contém o nosso código de produção, todo o código que estamos desenvolvendo, em algum momento será "juntado" com essa branch
 - **develop**: contém o código do nosso próximo deploy, isso significa que conforme as features vão sendo finalizadas elas vão sendo juntadas nessa *branch* para posteriormente passarem por mais uma etapa antes de ser juntada com a **master**
-- __feature/\*__: são *branches* para o desenvolvimento de uma funcionalidade específica, por convenção elas tem o nome iniciado por **feature/**, por exemplo: feature/cadastro-usuarios. Importante ressalter que essas *branches* são criadas **sempre** à partir da **branch develop**
+- __feature/\*__: são *branches* para o desenvolvimento de uma funcionalidade específica, por convenção elas tem o nome iniciado por **feature/**, por exemplo: feature/cadastro-usuarios. Importante ressaltar que essas *branches* são criadas **sempre** à partir da **branch develop**
 - __hotfix/\*__: são *branches* responsáveis pela realização de alguma correção crítica encontrada em produção e por isso são criadas à partir da **master**. Importante ressaltar que essa *branch* deve ser juntada tanto com a **master** quanto com a **develop**
-- __release/\*__: tem uma confiança maior que a branch **develop** e que se encontram em nível de preparação para ser juntada com a **master** e com a **develop** (caso alguma coisa tenha sido modificada na branch em questão)
+- __release/\*__: tem uma confiança maior que a branch **develop** e que se encontra em nível de preparação para ser juntada com a **master** e com a **develop** (caso alguma coisa tenha sido modificada na branch em questão)
 
 É importante ressaltar, que sempre que uma branch **hotfix/** ou **release/** é mesclada com a **master** o Git Flow gera automaticamente **tags** facilitando assim uma eventual necessidade de mudarmos para uma versão mais antiga.
 
 # Exemplo Prático
 
-Nada melhor do que executarmos um exemplo prático para fixar os conceitos do **Git Flow**. Existe um plugin do Git que nos ajuda a executar todos os comandos de criação de branchs, tags, etc, facilitando assim todo o processo.
+Nada melhor do que executarmos um exemplo prático para fixar os conceitos do **Git Flow**. Existe um plugin do Git que nos ajuda a executar todos os comandos de criação de branches, tags, etc, facilitando assim todo o processo.
 
 ## 1. Instalando o plugin
 
@@ -99,7 +99,7 @@ $ git flow feature finish cadastro-usuarios
 
 ![feature finish](https://i.imgur.com/odkaNpS.png)
 
-## Iniciando o release
+## 6. Iniciando o release
 
 Agora que já temos a nossa funcionalidade de usuários na **branch develop** vamos iniciar o **release**
 
@@ -111,7 +111,7 @@ $ git flow release start 1.0.0
 
 Lembrando que mudanças podem acontecer na **release** antes de ser mesclada para **master**, porém em muitos cenários essa branch é imediatamente já juntada com a **master**.
 
-## Finalizando o release
+## 7. Finalizando o release
 
 Agora vamos finalizar o **release**
 
@@ -132,4 +132,4 @@ Feito isso seu código está na **master** pronto para ir para produção e sem 
 
 O objetivo desse post foi mostrar o básico do que o Git Flow é capaz de fornecer, maiores informações podem ser encontradas no [repositório do GitHub](https://github.com/nvie/gitflow).
 
-Na minha visão esse modelo para organizar as nossas *branches* é bem legal de ser seguido para times de desenvolvimento, pois permite o desenvolvimento "paralelo" de features quanto a correção de bugs críticos encontrados em produção.
+Na minha visão esse modelo para organizar as nossas *branches* é bem legal de ser seguido para times de desenvolvimento, pois permite tanto o desenvolvimento "paralelo" de features quanto a correção de bugs críticos encontrados em produção.
