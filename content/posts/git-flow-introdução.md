@@ -39,4 +39,35 @@ Como mencionei, o Git Flow são diretrizes para a organização dos nossos *bran
 
 Nada melhor do que executarmos um exemplo prático para fixar os conceitos do **Git Flow**. Existe um plugin do Git que nos ajuda a executar todos os comandos de criação de branchs, tags, etc, facilitando assim todo o processo.
 
+## 1. Instalando o plugin
+
+O **Git Flow** não é uma ferramenta padrão do **Git**, e por esse motivo precisamos antes de tudo realizar a instalação do plugin.
+
+No github tem o [passo a passo](https://github.com/nvie/gitflow/wiki/Installation) de como instalar em todos os ambientes.
+
+## 2. Criando um repositório Git
+
+Primeiramente vamos iniciar um repositório Git "normal", para isso executar os seguintes comandos:
+
+```sh
+$ mkdir teste-gitflow
+$ cd teste-gitflow
+$ git init
+```
+
+Apenas criamos um novo diretório chamado `teste-gitflow` e inicializamos o git com o comando `git init`.
+
+## 3. Inicializando o Git Flow
+
+Vamos inicializar o Git Flow no nosso repositório:
+
+```
+$ git flow init
+```
+
+Algumas perguntas referentes à nomenclatura serão feitas, recomendo apenas apertar ENTER e não alterar nenhuma configuração aqui.
+
+![git flow init](https://i.imgur.com/1UHlify.png)
+
+Interessante observar que apenas executando o comando acima já foi criado e feito o *checkout* para a **branch develop**.
 
