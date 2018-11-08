@@ -1,9 +1,9 @@
 ---
-title: Introdução ao Git Flow
+title: Gerenciando seus branches com o Git Flow
 authors: Breno Panzolini
 type: post
 date: 2018-11-08
-excerpt: Explicação dos conceitos básicos do Git Flow.
+excerpt: Explicação dos conceitos básicos e fundamentais do Git Flow.
 categories:
   - Técnicas e Práticas
   - GIT
