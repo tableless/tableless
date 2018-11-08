@@ -61,7 +61,7 @@ Apenas criamos um novo diretório chamado `teste-gitflow` e inicializamos o git 
 
 Vamos inicializar o Git Flow no nosso repositório:
 
-```
+```sh
 $ git flow init
 ```
 
@@ -71,3 +71,65 @@ Algumas perguntas referentes à nomenclatura serão feitas, recomendo apenas ape
 
 Interessante observar que apenas executando o comando acima já foi criado e feito o *checkout* para a **branch develop**.
 
+## 4. Iniciando uma feature branch
+
+Vamos simular a criação de uma feature para cadastro de usuários:
+
+```sh
+$ git flow feature start cadastro-usuarios
+```
+
+![feature start](https://i.imgur.com/ftbi1nA.png)
+
+Após executado o comando acima, vou criar um arquivo `usuarios.js` (apenas para simular o desenvolvimento de uma feature). E após isso vou realizar o `commit`.
+
+```sh
+$ touch usuarios.js
+$ git add .
+$ git commit -m "Criado cadastro de usuarios"
+```
+
+## 5. Finalizando a feature branch
+
+Agora que já temos nossa feature criada, podemos finalizar a *branch* e mesclá-la com a **develop**.
+
+```sh
+$ git flow feature finish cadastro-usuarios
+```
+
+![feature finish](https://i.imgur.com/odkaNpS.png)
+
+## Iniciando o release
+
+Agora que já temos a nossa funcionalidade de usuários na **branch develop** vamos iniciar o **release**
+
+```sh
+$ git flow release start 1.0.0
+```
+
+![release start](https://i.imgur.com/Dqnx0k1.png)
+
+Lembrando que mudanças podem acontecer na **release** antes de ser mesclada para **master**, porém em muitos cenários essa branch é imediatamente já juntada com a **master**.
+
+## Finalizando o release
+
+Agora vamos finalizar o **release**
+
+```sh
+$ git flow release finish 1.0.0
+```
+
+![release finish](https://i.imgur.com/yCodYvm.png)
+
+Se você está seguindo o passo a passo, irá notar que o Git Flow abre o editor de texto para que possamos editar algumas coisas:
+
+- Primeira para editar o texto do merge commit relacionado ao merge entre a release branch 1.0.0 e master (texto opcional)
+- Segunda para a descrição da tag 1.0.0, que será criada pelo Git Flow para facilitar mudanças de versão (texto obrigatório)
+
+Feito isso seu código está na **master** pronto para ir para produção e sem maiores problemas de versionamento.
+
+# Conclusão
+
+O objetivo desse post foi mostrar o básico do que o Git Flow é capaz de fornecer, maiores informações podem ser encontradas no [repositório do GitHub](https://github.com/nvie/gitflow).
+
+Na minha visão esse modelo para organizar as nossas *branches* é bem legal de ser seguido para times de desenvolvimento, pois permite o desenvolvimento "paralelo" de features quanto a correção de bugs críticos encontrados em produção.
