@@ -12,3 +12,31 @@ tags:
   - GIT
 image: https://git-scm.com/images/branching-illustration@2x.png
 ---
+
+# O que é o Git Flow?
+
+Quando estamos trabalhando em times pequenos, é comum adotarmos pouco controle (às vezes até nenhum) sobre o fluxo de *branches* dos nosso repositórios, porém conforme a complexidade do projeto e equipe vão aumentando coisas que antes eram simples, como um *hotfix*, começam a se tornar difíceis de controlar.
+
+O **Git Flow** é um modelo de conjunto de diretrizes que equipes de desenvolvimento podem seguir para organizar as *branches*.
+
+É importante ressaltar que o Git Flow são **diretrizes** e **não regras**, ou seja, você não precisa seguir 100% ao pé da letra o que ele fala, acho legal e até saudável que haja uma adaptação de acordo com a equipe de desenvolvimento.
+
+Uma outra observação importante, é que o Git Flow não é o único modelo que podemos seguir para organizar as nossas *branches* (existem até pessoas que criticam esse modelo), porém na minha experiência até hoje, ele foi o que mais se mostrou efetivo quando estamos trabalhando em conjunto com outros times de desenvolvimento.
+
+# Como Funciona
+
+Como mencionei, o Git Flow são diretrizes para a organização dos nossos *branches*, e por esse motivo ele estabelece **padrões de nomes** e **funções** para cada tipo de *branch*, são eles:
+
+- **master**: contém o nosso código de produção, todo o código que estamos desenvolvendo, em algum momento será "juntado" com essa branch
+- **develop**: contém o código do nosso próximo deploy, isso significa que conforme as features vão sendo finalizadas elas vão sendo juntadas nessa *branch* para posteriormente passarem por mais uma etapa antes de ser juntada com a **master**
+- __feature/\*__: são *branches* para o desenvolvimento de uma funcionalidade específica, por convenção elas tem o nome iniciado por **feature/**, por exemplo: feature/cadastro-usuarios. Importante ressalter que essas *branches* são criadas **sempre** à partir da **branch develop**
+- __hotfix/\*__: são *branches* responsáveis pela realização de alguma correção crítica encontrada em produção e por isso são criadas à partir da **master**. Importante ressaltar que essa *branch* deve ser juntada tanto com a **master** quanto com a **develop**
+- __release/\*__: tem uma confiança maior que a branch **develop** e que se encontram em nível de preparação para ser juntada com a **master** e com a **develop** (caso alguma coisa tenha sido modificada na branch em questão)
+
+É importante ressaltar, que sempre que uma branch **hotfix/** ou **release/** é mesclada com a **master** o Git Flow gera automaticamente **tags** facilitando assim uma eventual necessidade de mudarmos para uma versão mais antiga.
+
+# Exemplo Prático
+
+Nada melhor do que executarmos um exemplo prático para fixar os conceitos do **Git Flow**. Existe um plugin do Git que nos ajuda a executar todos os comandos de criação de branchs, tags, etc, facilitando assim todo o processo.
+
+
