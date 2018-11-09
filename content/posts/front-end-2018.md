@@ -11,7 +11,7 @@ categories:
   - CSS
 ---
 
-##Conheça alguns passos para iniciar no front-end no ano de 2018.
+## Conheça alguns passos para iniciar no front-end no ano de 2018.
 
 Talvez um dos tópicos mais pesquisados pelos iniciantes na área. Mas não se desespere em aprender rápido, as coisas levam tempo para se consolidarem e devem ser respeitadas.
 
@@ -19,7 +19,7 @@ Você já deve ter se perguntado: Qual a maneira mais fácil e rápida de aprend
 
 Todos nós algum dia de nossas vidas nos perguntamos: *“Será que realmente estou no caminho certo aprendendo isso? É realmente necessário?”*  
 
-#Começando
+## Começando
 
 Independente se você vai querer ser um [front end engineer ou front end design](https://tableless.com.br/os-dois-tipos-de-front-end-design-e-o-engineer-parte-1-uma-breve-historia/), a primeira coisa que você deve aprender e levar para vida são os fundamentos de HTML5 e CSS3, sem essa dupla fantástica e crucial dominada logo à frente encontrará problemas..
 
