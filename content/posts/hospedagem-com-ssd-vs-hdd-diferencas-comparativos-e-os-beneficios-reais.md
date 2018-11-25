@@ -15,7 +15,7 @@ Nos últimos anos, pudemos observar uma transição na indústria de computadore
 
 Notavelmente mais caros quando o assunto é custo por gigabyte de armazenamento, os SSDs trazem consigo inúmeras vantagens sobre os discos comuns utilizados desde a década de 1950: performance, durabilidade e segurança muito superiores são apenas alguns exemplos. Uma das grandes evoluções se dá pelo fato de que SSDs não possuem partes móveis e armazenam as informações em microchips, ao contrário dos HDDs que utilizam um braço mecânico (agulha semelhante a um toca discos de vinil) para ler/escrever as informações em uma espécie de prato (por isso, uma queda ou simples batida que cause vibração interior pode inutilizar um HDD por completo).
 
-![](/uploads/img1.jpeg)
+![](https://i.imgur.com/u7ZPPIF.jpg)
 
 _Imagem: HDD de 10Mb dos anos 60 vs SSD 128Gb moderno_
 
@@ -23,7 +23,7 @@ A título de comparação, atualmente SSDs superam, de longe, a quantidade de IO
 
 Na tabela abaixo podemos ver a comparação de um SSD com diversos HDDs com armazenamentos semelhantes e velocidades de rotação diferentes (15K, 10K e 7K RPM). Em todos os resultados (A, B e C) podemos observar uma quantidade absurdamente maior de IOPS que o SSD pode apresentar contra os HDDs utilizados.
 
-![](/uploads/img2-comparativo-hdd-vs-ssd-iops.jpg)  
+![](https://i.imgur.com/aDkN6AJ.jpg)  
 É coerente dizer, então, que HDDs serão em breve coisa do passado. Isso porque os SSDs vieram para ficar e, apesar do custo maior, os ganhos de performance e durabilidade compensam muito.
 
 Mas, como falamos no início, isso se refere a indústria da computação pessoal. 
@@ -58,7 +58,7 @@ O Google vem, há muitos anos, dando sinais sobre a importância da velocidade d
 
 A imagem abaixo resume muito bem a relação entre tempo de carregamento de uma página e a probabilidade de _bounce_ (rejeição, quando um visitante simplesmente sai da página sem concluir a ação ou continuar a navegação). Quanto maior o tempo de carregamento, maior a probabilidade do visitante evadir.
 
-![](/uploads/img3-mobile-page-speed-new-industry-benchmarks-01-21.png)
+![](https://i.imgur.com/ji1K1K8.png)
 
 Mas foi no apagar das luzes de 2018 que, novamente, vimos o gigante das buscas retomar o assunto de forma mais contundente, publicando uma nova versão da famosa ferramenta Page Speed Insights, agora com relatórios muito mais detalhados. 
 
