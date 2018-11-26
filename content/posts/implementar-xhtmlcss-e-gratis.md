@@ -5,18 +5,6 @@ type: post
 date: 2008-12-08
 excerpt: 'Você pode ser diferente, mas isso só depende de você. '
 url: /implementar-xhtmlcss-e-gratis/
-aktt_tweeted:
-  - 1
-aktt_notify_twitter:
-  - no
-tweetbackscheck:
-  - 1356392261
-shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/implementar-xhtmlcss-e-gratis";s:7:"tinyurl";s:26:"https://tinyurl.com/3h95jk4";s:4:"isgd";s:19:"https://is.gd/XXoYPj";}'
-twittercomments:
-  - 'a:2:{i:17638262411632640;s:6:"136470";i:17630219045179392;s:7:"retweet";}'
-tweetcount:
-  - 3
 dsq_thread_id: 503038700
 categories:
   - Artigos
@@ -55,5 +43,10 @@ Mas aí você pode dar a desculpa de: &#8220;- Naquele tempo nenhum site era esc
 Será que são escritos de forma semântica? Será que não tem muito código? Não há solução melhor?
 
 A minha revolta aqui é contra aqueles profissionais que não fazem questão de aprender mais. Que simplesmente fazem apenas o que mandam e não tem o desejo de mudar o mundo em nenhum sentido.
+
+
+---
+
+Apoio: Conheça a [NET TV](https://portaldeplanos.com.br/net/net-tv/) e aproveite os diversos canais, em diversos planos. Confira as vantagens de contratar a NET TV e quais os descontos mais recentes da operadora!
 
  [1]: https://marcogomes.com/blog/2008/campanha-programar-e-gratis "Programar é de graça"

@@ -110,6 +110,10 @@ Existem vários componentes legais, como cards, menus, paginação, mensagens, 
 
 Isso é tudo pessoal (:
 
+---
+
+Apoio: Está com problemas com sua banda larga? Acesse o site [NET](https://portaldeplanos.com.br/net/) e veja os planos em promoção ou converse com um especialista para conhecer os descontos e pacotes disponíveis para você.
+
  [1]: https://jgthms.com/
  [2]: https://bulma.io/
  [3]: https://caniuse.com/#search=flexbox

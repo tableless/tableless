@@ -191,5 +191,10 @@ Qualquer dúvida, critica ou sugestões comentem aqui em baixo.
   
 []&#8217;s !!!
 
+---
+
+Apoio: Conheça os pacotes [NET Fone](https://portaldeplanos.com.br/net/net-fone/) e fale ilimitado com todo o Brasil.
+
+
  [1]: https://nodejs.org/
  [2]: https://npmjs.org/ "npmjs.org"

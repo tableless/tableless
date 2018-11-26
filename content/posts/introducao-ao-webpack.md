@@ -115,8 +115,14 @@ Essa foi só uma introdução e vale ressaltar que o webpack não é uma alterna
 
 Isso aí, se ficou alguma dúvida, só chamar 😉
 
+---
+
+Apoio: A Netflix elegeu a [NET Internet](https://www.telefonenet.com.br/net/net-internet/) como a banda larga mais rápida do país. Acesse e confira os planos em promoção na sua região!
+
+
  [1]: https://browserify.org/
  [2]: https://webpack.github.io/docs/code-splitting.html
  [3]: https://nodejs.org/
  [4]: https://tableless.com.br/o-que-nodejs-primeiros-passos-com-node-js/
  [5]: https://www.npmjs.com/
+
