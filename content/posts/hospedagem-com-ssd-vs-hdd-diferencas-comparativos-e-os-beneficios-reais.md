@@ -11,7 +11,7 @@ title = "Hospedagem com SSD vs HDD: diferenças, comparativos e os benefícios r
 type = "post"
 
 +++
-Nos últimos anos, pudemos observar uma transição na indústria de computadores pessoais deixando de lado a utilização de discos rígidos (HDD, ou _hard drives disk_) para optar por armazenamentos sólidos (SSD, _solid state drives_). 
+Nos últimos anos, pudemos observar uma transição na indústria de computadores pessoais deixando de lado a utilização de discos rígidos (HDD, ou _hard drives disk_) para optar por armazenamentos sólidos (SSD, _solid state drives_).
 
 Notavelmente mais caros quando o assunto é custo por gigabyte de armazenamento, os SSDs trazem consigo inúmeras vantagens sobre os discos comuns utilizados desde a década de 1950: performance, durabilidade e segurança muito superiores são apenas alguns exemplos. Uma das grandes evoluções se dá pelo fato de que SSDs não possuem partes móveis e armazenam as informações em microchips, ao contrário dos HDDs que utilizam um braço mecânico (agulha semelhante a um toca discos de vinil) para ler/escrever as informações em uma espécie de prato (por isso, uma queda ou simples batida que cause vibração interior pode inutilizar um HDD por completo).
 
@@ -26,11 +26,11 @@ Na tabela abaixo podemos ver a comparação de um SSD com diversos HDDs com arma
 ![](https://i.imgur.com/aDkN6AJ.jpg)  
 É coerente dizer, então, que HDDs serão em breve coisa do passado. Isso porque os SSDs vieram para ficar e, apesar do custo maior, os ganhos de performance e durabilidade compensam muito.
 
-Mas, como falamos no início, isso se refere a indústria da computação pessoal. 
+Mas, como falamos no início, isso se refere a indústria da computação pessoal.
 
-E quando falamos de **hospedagem web**, como é o cenário SSD vs HDD? 
+E quando falamos de **hospedagem web**, como é o cenário SSD vs HDD?
 
-Você sabe se a hospedagem que utiliza armazena as informações em SSDs? O custo maior por escolher uma hospedagem SSD compensa? 
+Você sabe se a hospedagem que utiliza armazena as informações em SSDs? O custo maior por escolher uma hospedagem SSD compensa?
 
 Seus sites, aplicações, banco de dados e emails _precisam_ de uma estrutura em SSD para que atinjam a máxima performance, ou o usuário final (aquele que requisita a informação) não conseguirá distinguir a diferença?
 
@@ -60,12 +60,12 @@ A imagem abaixo resume muito bem a relação entre tempo de carregamento de uma 
 
 ![](https://i.imgur.com/ji1K1K8.png)
 
-Mas foi no apagar das luzes de 2018 que, novamente, vimos o gigante das buscas retomar o assunto de forma mais contundente, publicando uma nova versão da famosa ferramenta Page Speed Insights, agora com relatórios muito mais detalhados. 
+Mas foi no apagar das luzes de 2018 que, novamente, vimos o gigante das buscas retomar o assunto de forma mais contundente, publicando uma nova versão da famosa ferramenta Page Speed Insights, agora com relatórios muito mais detalhados.
 
-Mais do que nunca em 2019 será necessário cuidado próximo e otimização constante do tempo de carregamento para estar de acordo com as diretrizes, satisfazer usuários e não deixar dinheiro sobre a mesa. 
+Mais do que nunca em 2019 será necessário cuidado próximo e otimização constante do tempo de carregamento para estar de acordo com as diretrizes, satisfazer usuários e não deixar dinheiro sobre a mesa.
 
 Se você quiser ter certeza que está fazendo todo o possível para ter seu site ou aplicação sendo servido com a máxima velocidade, comece escolhendo uma [hospedagem 100% SSD](https://www.umbler.com/br/hospedagem-ssd?utm_source=tableless&utm_medium=ssdvshdd) e, de preferência, em um ambiente dedicado.
 
-A [Umbler](https://www.umbler.com/br?utm_source=tableless&utm_medium=ssdvshdd) possui um dos custos mais baixos do mercado e não cobra nada a mais para hospedar o que você precisar em estruturas 100% SSD. Além disso, até o dia 30 de novembro, você aproveita uma condição especial de Black Friday e ganha o dobro de créditos para testar qualquer plano de hospedagem sem precisar pagar nada (não há limitação de tempo para testar e não precisa colocar cartão de crédito). [**Crie sua conta**](https://app.umbler.com/account/register?utm_source=tableless&utm_medium=ssdvshdd) agora e coloque a prova nossa hospedagem SSD!
+A [Umbler](https://www.umbler.com/br?utm_source=tableless&utm_medium=ssdvshdd) possui um dos custos mais baixos do mercado e não cobra nada a mais para hospedar o que você precisar em estruturas 100% SSD. Além disso, ao criar sua conta, você recebe créditos grátis que permitem testar todos os planos de hospedagem sem limite de tempo (e sem precisar inserir cartão de crédito). [**Crie sua conta**](https://app.umbler.com/account/register?utm_source=tableless&utm_medium=ssdvshdd) agora e coloque a prova nossa hospedagem SSD!
 
 ¹[https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/](https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/ "https://www.thinkwithgoogle.com/marketing-resources/data-measurement/mobile-page-speed-new-industry-benchmarks/")

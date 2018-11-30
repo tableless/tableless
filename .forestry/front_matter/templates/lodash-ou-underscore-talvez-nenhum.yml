@@ -69,7 +69,6 @@ fields:
     original aqui.
   hidden: false
 pages:
-- content/posts/hospedagem-com-ssd-vs-hdd-diferenças-comparativos-e-os-benefícios-reais.md
 - content/posts/como-implementer-serverless-com-openfaas-e-php.md
 - content/posts/série-de-vídeos-sobre-a-carreira-de-desenvolvedor.md
 - content/posts/autenticacao-em-apis-aspnet-core-com-jwt-refresh-token.md
