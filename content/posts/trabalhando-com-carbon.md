@@ -45,4 +45,6 @@ use Carbon\Carbon;
 
 # Funcionalidades
 
-Agora, vamos ver algumas das funcionalidades que a biblioteca disponibiliza para trabalharmos com datas:
+Agora, vamos ver algumas das funcionalidades que a biblioteca disponibiliza para trabalharmos com datas.
+
+Para não ficar repetitivo, vou considerar em todos os exemplos que o passo anterior já foi executado, ou seja, já foi feito o `require` do autoload e o `use` da classe. Além disso em todas as execuções dos testes vou executar o comando `php teste.php` para mostrar a saída.
