@@ -2,7 +2,7 @@
 title: Datas no PHP com Carbon
 authors: Breno Panzolini
 type: post
-date: 2018-11-30
+date: 2018-12-02
 excerpt: Como utilizar o pacote Carbon para trabalhar de maneira mais eficiente com datas no PHP.
 categories:
   - PHP
@@ -27,7 +27,7 @@ Antes de começar, é bom se atentar na compatibilidade da versão do Carbon com
 - 1.x é compatível com PHP 5.3+
 - 2.x é compatível com PHP 7.1.8+
 
-A forma mais simples de instlar o Carbon no nosso projeto é através do **Composer**:
+A forma mais simples de instalar o Carbon no nosso projeto é através do **Composer**:
 
 ```sh
 $ composer require nesbot/carbon
@@ -81,7 +81,7 @@ print('Londres - ' . $londres . PHP_EOL);
 
 ## Adição e Subtração
 
-Temos diversas funções para adicionar e subtrair valores em uma data. Vou mostrar apenas alguns, porém todos seguem a mesma lógica.
+Temos diversas funções para adicionar e subtrair valores em uma data. Vou mostrar apenas algumas, porém todas seguem a mesma lógica.
 
 ```php
 $d = Carbon::create(2018, 01, 01, 0);
@@ -120,4 +120,4 @@ print($d->toDateTimeString() . PHP_EOL);
 
 Esse post foi para introduzir e mostrar algumas funções básicas da biblioteca **Carbon**, tenho certeza de que se você estiver trabalhando com datas no PHP é uma excelente escolha para facilitar o seu desenvolvimento.
 
-Aconselho para os que querem conhecer as demais funções e facilidades da biblioteca que consulte a [documentação oficial](https://carbon.nesbot.com/docs/).
+Aconselho para os que querem conhecer as demais funções e facilidades da biblioteca que consultem a [documentação oficial](https://carbon.nesbot.com/docs/).
