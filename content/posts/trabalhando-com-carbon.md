@@ -79,6 +79,29 @@ print('Londres - ' . $londres . PHP_EOL);
 
 ![timezone](https://i.imgur.com/pYTpeci.png)
 
+## Adição e Subtração
+
+Temos diversas funções para adicionar e subtrair valores em uma data. Vou mostrar apenas alguns, porém todos seguem a mesma lógica.
+
+```php
+$d = Carbon::create(2018, 01, 01, 0);
+
+print($d->addCenturies(2) . PHP_EOL);
+print($d->subCenturies(2) . PHP_EOL);
+
+print($d->addHour() . PHP_EOL);
+print($d->subHour() . PHP_EOL);
+
+print($d->addMinutes(10) . PHP_EOL);
+print($d->subMinutes(10) . PHP_EOL);
+
+// Métodos genéricos para manipulação
+print($d->add(10, 'minutes') . PHP_EOL);
+print($d->sub('1 day') . PHP_EOL);
+```
+
+![add e sub](https://i.imgur.com/LwTwUqz.png)
+
 # Conclusão
 
 Esse post foi para introduzir e mostrar algumas funções básicas da biblioteca **Carbon**, tenho certeza de que se você estiver trabalhando com datas no PHP é uma excelente escolha para facilitar o seu desenvolvimento.
