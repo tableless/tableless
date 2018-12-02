@@ -38,7 +38,7 @@ Com ele instalado, vamos criar um arquivo `teste.php` com o seguinte código:
 ```php
 <?php
 
-require 'vendor/autoload.php';
+require_once 'vendor/autoload.php';
 
 use Carbon\Carbon;
 ```
@@ -48,3 +48,39 @@ use Carbon\Carbon;
 Agora, vamos ver algumas das funcionalidades que a biblioteca disponibiliza para trabalharmos com datas.
 
 Para não ficar repetitivo, vou considerar em todos os exemplos que o passo anterior já foi executado, ou seja, já foi feito o `require` do autoload e o `use` da classe. Além disso em todas as execuções dos testes vou executar o comando `php teste.php` para mostrar a saída.
+
+## Data atual
+
+```php
+$agora = Carbon::now();
+print_r($agora);
+
+$instancia = new Carbon();
+print_r($instancia);
+```
+
+![now](https://i.imgur.com/Zt4iG2z.png)
+
+Os dois exemplos tiveram o mesmo efeito, exceto obviamente pelos milisegundos.
+
+## Timezone
+
+Com o Carbon também é muito tranquilo de se trabalhar com timezone, basta passar a opção no momento de criação da classe.
+
+```php
+$saoPaulo = Carbon::now(new DateTimeZone('America/Sao_Paulo'));
+$recife = Carbon::now(new DateTimeZone('America/Recife'));
+$londres = Carbon::now(new DateTimeZone('Europe/London'));
+
+print('São Paulo - ' . $saoPaulo . PHP_EOL);
+print('Recife - ' . $recife . PHP_EOL);
+print('Londres - ' . $londres . PHP_EOL);
+```
+
+![timezone](https://i.imgur.com/pYTpeci.png)
+
+# Conclusão
+
+Esse post foi para introduzir e mostrar algumas funções básicas da biblioteca **Carbon**, tenho certeza de que se você estiver trabalhando com datas no PHP é uma excelente escolha para facilitar o seu desenvolvimento.
+
+Aconselho para os que querem conhecer as demais funções e facilidades da biblioteca que consulte a [documentação oficial](https://carbon.nesbot.com/docs/).
