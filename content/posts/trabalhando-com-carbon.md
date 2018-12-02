@@ -102,6 +102,20 @@ print($d->sub('1 day') . PHP_EOL);
 
 ![add e sub](https://i.imgur.com/LwTwUqz.png)
 
+## Formatação
+
+Todas as opções de formatação se baseiam no método `format()` da própria classe `DateTime`, porém temos algumas funções que já facilitam alguns formatos mais comuns.
+
+```php
+$d = Carbon::now();
+
+print($d->toDateString() . PHP_EOL);
+print($d->toTimeString() . PHP_EOL);
+print($d->toDateTimeString() . PHP_EOL);
+```
+
+![formatação](https://i.imgur.com/m4xBi7C.png)
+
 # Conclusão
 
 Esse post foi para introduzir e mostrar algumas funções básicas da biblioteca **Carbon**, tenho certeza de que se você estiver trabalhando com datas no PHP é uma excelente escolha para facilitar o seu desenvolvimento.
