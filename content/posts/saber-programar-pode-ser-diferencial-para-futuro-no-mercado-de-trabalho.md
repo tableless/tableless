@@ -19,7 +19,7 @@ No entanto, [o mundo está passando por novas mudanças](https://tableless.com.b
 
 [![](https://i.imgur.com/iuHp6nu.png)](https://www.facebook.com/konbinifr/videos/10155995633024276/?t=0)
 
-Atualmente, [pesquisas afirmam que cerca de 40% da população mundial](https://olhardigital.com.br/noticia/40-da-populacao-mundial-esta-nas-redes-sociais-diz-estudo/70226) está conectada a alguma rede social, seja por um celular ou então por um computador. Isso significa uma presença online intensa, o que transforma o estilo de vida e a estrutura econômica do mundo. No Brasil, por exemplo, os números atuais comprovam essas mudanças. Existem cerca de 66 milhões de consumidores digitais no país, que gastam individualmente por volta de 280 dólares anuais apenas com compras online. Como as empresas aumentando o investimento na área digital, é preciso mais pessoas que falem a linguagem das novas tecnologia.
+Atualmente, [pesquisas afirmam que cerca de 40% da população mundial](https://olhardigital.com.br/noticia/40-da-populacao-mundial-esta-nas-redes-sociais-diz-estudo/70226) está conectada a alguma rede social, seja por um celular ou então por um computador. Isso significa uma presença online intensa, o que transforma o estilo de vida e a estrutura econômica do mundo. No Brasil, por exemplo, os números atuais comprovam essas mudanças. Existem cerca de 66 milhões de consumidores digitais no país, que gastam individualmente por volta de 280 dólares anuais apenas com compras online. Como as empresas aumentando o investimento na área digital, é preciso mais pessoas que falem a linguagem das novas tecnologias.
 
 **Entretenimento muda por novas tecnologias**
 
