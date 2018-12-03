@@ -2,10 +2,10 @@
 authors = "Tableless"
 canonical = ""
 categories = ["publieditorial"]
-date = "2018-11-28T18:13:10-02:00"
+date = "2018-11-24T18:13:10-02:00"
 excerpt = "A era da informação e dos computadores chegou e tem mostrado que o mundo precisa aprender uma nova língua, a da tecnologia."
 image = "https://i.imgur.com/4bd2IVK.jpg"
-publishdate = "2018-11-28T00:00:00-02:00"
+publishdate = "2018-11-24T00:00:00-02:00"
 tags = ["mercado"]
 title = "Saber programar pode ser diferencial para futuro no mercado de trabalho"
 type = "post"
