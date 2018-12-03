@@ -25,7 +25,7 @@ Atualmente, [pesquisas afirmam que cerca de 40% da população mundial](https://
 
 Não são apenas as áreas da comunicação e do mercado que sofrem tais mudanças. O entretenimento, uma das principais fontes financeiras ao redor do mundo, também tem sido alvo. A Netflix pode ser o melhor exemplo para isso, já que é um serviço de streaming funcionando basicamente com novas tecnologias. A plataforma anunciou recentemente ter cerca de 118,9 milhões de assinantes ao redor do mundo.
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/zT2EMb5AHf8](https://www.youtube.com/embed/zT2EMb5AHf8 "https://www.youtube.com/embed/zT2EMb5AHf8")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/zT2EMb5AHf8](https://www.youtube.com/embed/zT2EMb5AHf8 "https://www.youtube.com/embed/zT2EMb5AHf8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Outro exemplo está nos populares eSports - o mercado de jogos online está cada vez mais profissional. Atualmente, empresas de todos os lugares têm investido em equipes e também campeonatos de videogames. Por exemplo, a MIBR, equipe brasileira do jogo Counter-Strike:Global Offensive, é patrocinada por três empresas de ramos completamente diferentes. São elas a Mountain Dew, uma marca norte-americana de refrigerantes, a [Betway, um portal de apostas esportivas e jogos online](https://sports.betway.com/pt/sports), e também o Tinder, um aplicativo online de paquera. Ou seja, é a tecnologia fazendo a diferença no mercado e criando novas perspectivas.
 
