@@ -1,6 +1,23 @@
-# React Native: Build release android
+---
+title: React Native build release android
+authors: Kássio Luz
+type: post
+image: https://img.icons8.com/ios/1600/react-native-filled.png
+date: 2018-12-03
+excerpt: Neste artigo vou mostrar o passo a passo de como realizar o build de release android no react-native.
+categories:
+ - Android
+ - React Native
+tags:
+ - Android
+ - React Native
+---
+
+Olá pessoal, é a minha primeira vez escrevendo por aqui, decidi neste primeiro artigo escrever um passo a passo de como realizar o 
+build de release de um app Android, desenvolvido em React Native.
 
 ## Passo 1 :
+
 ### Gerando uma chave de assinatura
 Você pode gerar uma chave de assinatura privada usando o `keytool`
  ```sh
@@ -25,7 +42,7 @@ no diretório `android/app` do seu projeto
   MYAPP_RELEASE_KEY_PASSWORD=*****
 ```
 
-# Passo 4: 
+## Passo 4: 
 Edite o arquivo `android/app/build.gradle` na pasta do seu projeto e adicione a configuração de assinatura:
 
 ```sh
@@ -69,6 +86,11 @@ $ react-native run-android --variant=release
 ```
 
 obs: garanta que seu dispositivo esteja com o modo de depuração ligado. 
+
+
+## Conclusão
+Seguindo esses passos seu app estará pronto para ser publicado na Play Store. \o/
+Valeu até a próxima. :)
 
 *Para mais informações acesse:
 https://facebook.github.io/react-native/docs/signed-apk-android.html*

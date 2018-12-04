@@ -361,5 +361,9 @@ function setaImagem(){
 window.addEventListener("load",setaImagem,false);
 &lt;/script&gt;</pre>
 
+---
+
+Apoio: A Netflix elegeu a [NET Internet](https://portaldeplanos.com.br/net/net-internet/) como a banda larga mais rápida do Brasil. Acesse e confira os pacotes em oferta na sua casa!
+
  [1]: https://www.devmedia.com.br/criando-slideshow-do-zero-com-jquery-sem-usar-plugins/28297 "Clique para ir ao artigo"
  [2]: https://github.com/clovisdasilvaneto/slide-com-javascript-puro "visualizar exemplo pelo github"

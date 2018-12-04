@@ -76,3 +76,7 @@ Um ponto muito importante de destaque é a performance. O Angular 1, de fato, of
 ## Conclusão
 
 O Angular 2 veio pra ficar, além de ser uma ferramenta que evoluiu, ter uma grande empresa como o Google por trás só ajuda. A adoção deste framework só tende a crescer mais, e, sim, vale muito a pena usar em seus projetos.
+
+---
+
+Apoio: Com o [NET Combo](https://portaldeplanos.com.br/net/net-combo/) você pode obter muitos descontos ao invés de contratar os serviços de forma isolada. Acesse e conheça todos os pacotes e veja os descontos que pode obter com a operadora!
