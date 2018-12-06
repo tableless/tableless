@@ -84,6 +84,8 @@ Para lançar o programa de aceleração de desenvolvedores da Movile, um webinar
 
 A [Movile](https://www.movile.com/) é a empresa líder em **mobile marketplaces** no Brasil! Contando com mais de 10 marcas populares entre os brasileiros, como **iFood, PlayKids, Sympla e Rapiddo**, a Movile vem registrando altos níveis de crescimento nos últimos anos, e suas previsões continuam bastante positivas para o próximo ano!
 
+Quer acompanhar conteúdos, notícias e vagas do grupo Movile? Siga a [página deles no LinkedIn clicando aqui](https://www.linkedin.com/company/movile/).
+
 **A Code:Nation**
 
 Criada em 2017 em Florianópolis, a [Code:Nation](https://www.codenation.com.br/) é uma startup focada em **transformar o método de contratação e preparação de desenvolvedores**, dada a alta demanda por tais profissionais no mercado. O propósito da empresa é poder contribuir com o avanço tecnológico através da aceleração profissional daqueles que aceleram o mundo!
