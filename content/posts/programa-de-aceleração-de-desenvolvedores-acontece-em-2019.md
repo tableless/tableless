@@ -21,29 +21,23 @@ Promovido pela **Movile** - holding líder em mobile marketplaces e controladora
 
 Como o programa acontecerá em períodos distintos nas três cidades, as inscrições e os processos seletivos também diferem dependendo da região onde o AceleraDev acontecerá. Confira abaixo mais informações para cada uma das edições do evento:
 
-	[**Porto Alegre, RS**](https://www.codenation.com.br/acceleration/aceleradev-poa/index.html)
+[**Porto Alegre, RS**](https://www.codenation.com.br/acceleration/aceleradev-poa/index.html)
 
-		[_Inscrições e desafios: _](https://www.codenation.com.br/acceleration/aceleradev-poa/index.html)28/11/18 a 01/01/19;
+* [_Inscrições e desafios: _](https://www.codenation.com.br/acceleration/aceleradev-poa/index.html)28/11/18 a 01/01/19;
+* _Processo seletivo:_ 02/01/19 a 11/01/19;
+* _Aceleração:_ 19/01/19 a 09/02/19.
 
-		_Processo seletivo:_ 02/01/19 a 11/01/19;
+[**Recife, PE**](https://www.codenation.com.br/acceleration/aceleradev-recife/index.html)
 
-		_Aceleração:_ 19/01/19 a 09/02/19.
+* [_Inscrições e desafios: _](https://www.codenation.com.br/acceleration/aceleradev-recife/index.html)28/11/18 a 13/01/19;
+* _Processo seletivo:_ 14/01/19 a 25/01/19;
+* _Aceleração:_ 02/02/19 a 23/02/19.
 
-	[**Recife, PE**](https://www.codenation.com.br/acceleration/aceleradev-recife/index.html)
+[**São Paulo, SP**](https://www.codenation.com.br/acceleration/aceleradev-sp/index.html)
 
-		[_Inscrições e desafios: _](https://www.codenation.com.br/acceleration/aceleradev-recife/index.html)28/11/18 a 13/01/19;
-
-		_Processo seletivo:_ 14/01/19 a 25/01/19;
-
-		_Aceleração:_ 02/02/19 a 23/02/19.
-
-	[**São Paulo, SP**](https://www.codenation.com.br/acceleration/aceleradev-sp/index.html)
-
-		[_Inscrições e desafios: _](https://www.codenation.com.br/acceleration/aceleradev-sp/index.html)28/11/18 a 27/01/19;
-
-		_Processo seletivo:_ 28/01/19 a 08/02/19;
-
-		_Aceleração:_ 16/02/19 a 09/03/19.
+* [_Inscrições e desafios: _](https://www.codenation.com.br/acceleration/aceleradev-sp/index.html)28/11/18 a 27/01/19;
+* _Processo seletivo:_ 28/01/19 a 08/02/19;
+* _Aceleração:_ 16/02/19 a 09/03/19.
 
 **Como os candidatos serão selecionados?**
 
@@ -92,4 +86,4 @@ Criada em 2017 em Florianópolis, a [Code:Nation](https://www.codenation.com.br/
 
 **Apoio**
 
-O programa AceleraDev conta com o apoio do [**Desenvolvimento para Web**](https://desenvolvimentoparaweb.com/), [**Minerando Dados **](http://minerandodados.com.br/)e [**Tableless**](https://tableless.com.br/)! 
+O programa AceleraDev conta com o apoio do [**Desenvolvimento para Web**](https://desenvolvimentoparaweb.com/), [**Minerando Dados**](http://minerandodados.com.br/) e [**Tableless**](https://tableless.com.br/)!
