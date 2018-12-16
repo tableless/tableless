@@ -2,11 +2,13 @@
 title: Números grandes em JavaScript com BigInt
 authors: Matheus Alves
 type: post
-date: 2018-12-15
+date: 2018-12-16
 excerpt: Apresentação de um novo tipo de dado para números.
 image: https://i.imgur.com/vMZC6sg.jpg
 categories:
   - JavaScript
+tags:
+  - BigInt
 ---
 
 Certa vez, quando comecei estudar JavaScript, decidi criar uma [ferramenta para escrever números por extenso](https://github.com/theuves/extenso.js) na língua portuguesa. Tal ferramenta deveria escrever valores altos: até 999 decilhões.
@@ -33,7 +35,7 @@ console.log(5n / 2n) // Isso retorna 2n e não 2.5n.
 
 Observa-se também que `2.5n` não existe, sendo um `SyntaxError`.
 
-Outra  semelhança interessante com o `Number` é a possibilidade da nanipulação de números como se fossem valores booleanos, por exemplo, `Boolean(0n)` quem é igual a `false`, enquanto qualquer outro número diferente de zero é verdadeiro.
+Outra  semelhança interessante com o `Number` é a possibilidade da manipulação de números como se fossem valores booleanos, por exemplo, `Boolean(0n)` quem é igual a `false`, enquanto qualquer outro número diferente de zero é verdadeiro.
 
 ## Já posso usá-lo em projetos?
 
