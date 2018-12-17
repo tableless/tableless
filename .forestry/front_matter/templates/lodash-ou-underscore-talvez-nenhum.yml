@@ -68,6 +68,9 @@ fields:
   description: URL canonica. Caso seja uma tradução ou post duplicado. Insira a URL
     original aqui.
   hidden: false
+- type: text
+  label: sponsor
+  name: sponsor
 pages:
 - content/posts/internet-por-banda-larga-volta-a-crescer.md
 - content/posts/os-dois-tipos-de-front-end-design-e-o-engineer-parte-1-uma-breve-historia.md
