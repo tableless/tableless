@@ -177,3 +177,6 @@ openx.com, 540158170, RESELLER, 6a698e2ec38604c6
 teads.tv, 15389, RESELLER, 15a9c44f6d26cbe1
 appnexus.com, 9954, RESELLER
 indexexchange.com, 179394, RESELLER
+
+rubiconproject.com, 19944, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 19942, RESELLER, 0bfd66d529a55807
