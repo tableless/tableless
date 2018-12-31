@@ -2,12 +2,13 @@
 title: Entendendo os três tipos de deploy mais comuns
 authors: Breno Panzolini
 type: post
-date: 2018-12-29
+date: 2018-12-31
 excerpt: Entendendo os tipos de deploy Rolling, Blue-Green e Canary.
 categories:
   - Tecnologia e Tendências
 tags:
-  - Tecnologia e Tendências
+  - Deploy
+  - Tecnologia
 image: https://deploy.zenc.io/assets/deploy-cli-logo.png
 ---
 
@@ -15,7 +16,7 @@ Com o avanço dos microserviços e tecnologias de *CI/CD*, a quantidade de deplo
 
 Há alguns anos os deploys eram feitos em um ritmo muito menos acelerado do que atualmente, e por isso ter uma boa estratégia é muito importante para não afetar nenhuma parte do seu sistema e principalmente os usuários que o utilizão.
 
-O objetivo desse post é ser bem sucinto e objetivo explicando o básico de três estratégias muito utilizadas para deploy e que são simples de se implementar na maioria das ferramentas de orquestração (Kubernetes, Nomad, etc).
+O objetivo desse post é ser bem sucinto, explicando o básico de três estratégias muito utilizadas para deploy e que são simples de se implementar na maioria das ferramentas de orquestração (Kubernetes, Nomad, etc).
 
 # Rolling
 
