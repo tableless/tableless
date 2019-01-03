@@ -2,7 +2,7 @@
 title: Multi-idiomas com PHP sem banco de dados
 authors: Luccas Marra do Amaral
 type: post
-image: https://imgur.com/vApB8Ng
+image: https://i.imgur.com/vApB8Ng.png
 date: 2019-01-03
 excerpt: Implemente multi-idiomas em sua aplicação PHP.
 categories:
