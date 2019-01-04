@@ -182,3 +182,38 @@ rubiconproject.com, 19944, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 19942, RESELLER, 0bfd66d529a55807
 
 google.com, pub-8115861735629092, DIRECT, f08c47fec0942fa0
+
+vidoomy.com, 53325, DIRECT
+advertising.com, 22762, RESELLER
+aol.com, 22762, RESELLER
+advertising.com, 26631, RESELLER
+appnexus.com, 997, DIRECT, f5ab79cb980f11d1
+appnexus.com, 2081, RESELLER, f5ab79cb980f11d1
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+appnexus.com, 9923, RESELLER, f5ab79cb980f11d1
+beachfront.com, 6547, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+contextweb.com, 561252, RESELLER, 89ff185a4c4e857c
+districtm.io, 101540, DIRECT 
+fyber.com, 1236fbff61fdf8859e37831848a42ee5, RESELLER
+lkqd.com, 430, RESELLER, 59c49fa9598a0117
+lkqd.net, 430, RESELLER, 59c49fa9598a0117
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6 
+pubmatic.com, 154037, RESELLER
+pubmatic.com, 156498, RESELLER, 5d62403b186f2ace
+pubmatic.com, 156439, RESELLER
+tremorhub.com, 4cywq-a04wk, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+smartclip.net, 10180, DIRECT
+spotxchange.com, 218443, RESELLER, 7842df1d2fe2db34
+spotx.tv, 218443, RESELLER, 7842df1d2fe2db34
+sovrn.com, 257611, RESELLER, fafdf38b16bf6b2b 
+smartadserver.com, 1963, RESELLER
+smartadserver.com, 3136, RESELLER
+smartadserver.com, 3276,RESELLER
+freewheel.tv, 872257, RESELLER
+freewheel.tv, 894193, RESELLER
+rhythmone.com, 4107953657, reseller
+tremorhub.com, 4cywq-a04wk, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 4cywq, RESELLER, 1a4e959a1b50034a 
