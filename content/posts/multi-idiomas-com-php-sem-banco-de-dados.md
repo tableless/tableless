@@ -3,14 +3,14 @@ title: Multi-idiomas com PHP sem banco de dados
 authors: Luccas Marra do Amaral
 type: post
 image: https://i.imgur.com/vApB8Ng.png
-date: 2019-01-03
+date: 2019-01-05
 excerpt: Implemente multi-idiomas em sua aplicação PHP.
 categories:
   - Back-end
   - PHP
 tags:
-  - Desenvolvimento Web
   - Multi-idiomas com PHP
+  - Desenvolvimento Web
 ---
 
 
@@ -31,8 +31,7 @@ Crie uma pasta “traducoes” na raiz do seu projeto e os seguintes arquivos de
 * pt-br.php
 * en-us.php
 
-```Caso queira mais idiomas você poderá criar seguindo a mesma organização.```
-
+_Caso queira mais idiomas você poderá criar seguindo a mesma organização._
   
 
 ### 2 - Alimentando nossos arquivos de tradução
@@ -104,7 +103,7 @@ Agora basta você incluir no topo de sua pagina PHP o código que sera responsá
 <?php include('tradutor.php');?>
 ```
 
-E por final, seu codigo (PHP/HTML) ficará parecido com o abaixo:
+E por final, seu código (PHP/HTML) ficará parecido com o abaixo:
 
 ```
 <!DOCTYPE html>
