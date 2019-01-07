@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode | default "pt-br" }}" prefix="og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#">
+<html lang='{{ .Site.LanguageCode | default "pt-br" }}' prefix='og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#'>
 <head>
-  <script type="text/javascript" src="//ads.vidoomy.com/tableless_2906.js" ></script>
+  
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -9,9 +9,9 @@
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-MBKHDNC');</script>
   <!-- End Google Tag Manager -->
+  
   <script async type="text/javascript" src="//s.clickiocdn.com/t/consent_210746.js"></script>
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css?{{ now.Unix }}">
-<meta name="specificfeeds-verification-code" content="Ej5zU520BrYYgNXwEEvA"/>
   <title>
     {{.Title}} - Artigos sobre HTML, JavaScript, CSS e desenvolvimento web
   </title>
@@ -19,6 +19,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   <meta name="description" content="{{ .Params.excerpt }}">
+<meta name="specificfeeds-verification-code" content="Ej5zU520BrYYgNXwEEvA" />
 
   <link rel="preconnect" href="https://code.jquery.com/">
   <link rel="preconnect" href="https://duckduckgo.com/">
@@ -56,13 +57,7 @@
   <link href="https://www.specificfeeds.com/tableless?subParam=followPub" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
 
   <meta property="og:url" content="{{ .Permalink }}">
-
-  {{ if $.Scratch.Get "single"}}
-  <meta property="og:type" content="article">
-  {{end}}
-  {{ if .IsHome}}
-  <meta property="og:type" content="website" />
-  {{end}}
+  
   <meta property="og:title" content="{{ .Title}}">
   <meta property="og:description" content="{{ .Params.excerpt }}" name="description">
   <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
@@ -75,6 +70,7 @@
   <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
 
  {{if .IsHome}}
+  <meta property="og:type" content="website" />
 <script type='application/ld+json'>
     {
       "@context": "https://www.schema.org",
@@ -93,7 +89,9 @@
 
 
   {{ if $.Scratch.Get "single"}}
+  <meta property="og:type" content="article">
 
+<script type="text/javascript" src="//ads.vidoomy.com/tableless_2906.js" ></script>
   <script type="application/ld+json">
     { "@context": "https://schema.org",
       "@type": "Article",
