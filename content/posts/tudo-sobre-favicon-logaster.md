@@ -12,6 +12,7 @@ tags:
   - favicon
   - Na prática
 image: https://i.imgur.com/pnDV3Ov.jpg
+sponsor: schoolofnet
 ---
 
 ## O que é um Favicon?

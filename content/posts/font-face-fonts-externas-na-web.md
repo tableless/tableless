@@ -5,17 +5,7 @@ type: post
 date: 2010-03-30
 excerpt: font-face possibilita utilizar fonts externas em websites. Você já pode utilizar essa regra agora.
 url: /font-face-fonts-externas-na-web/
-aktt_notify_twitter:
-  - yes
-tweetbackscheck:
-  - 1356431818
-shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"https://tableless.com.br/font-face-fonts-externas-na-web";s:7:"tinyurl";s:26:"https://tinyurl.com/3mnp6xu";s:4:"isgd";s:19:"https://is.gd/MQYurQ";}'
-twittercomments:
-  - 'a:2:{i:35040372405178368;s:6:"137018";i:48426092440190977;s:6:"137269";}'
-tweetcount:
-  - 2
-dsq_thread_id: 503039406
+sponsor: schoolofnet
 categories:
   - CSS
   - Técnicas e Práticas

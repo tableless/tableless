@@ -9,7 +9,7 @@ publishdate = "2018-11-25T00:00:00-02:00"
 tags = ["hospedagem"]
 title = "Hospedagem com SSD vs HDD: diferenças, comparativos e os benefícios reais"
 type = "post"
-
+sponsor = "kinghost"
 +++
 Nos últimos anos, pudemos observar uma transição na indústria de computadores pessoais deixando de lado a utilização de discos rígidos (HDD, ou _hard drives disk_) para optar por armazenamentos sólidos (SSD, _solid state drives_).
 

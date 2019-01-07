@@ -52,3 +52,7 @@ disableLiveReload = true
             active = true
             site = "https://king.host/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
             name = "kinghost"
+        [params.sponsor.schoolofnet]
+            active = true
+            site = "https://www.schoolofnet.com/?utm_source=tableless&utm_medium=patrocinio_logo&utm_campaign=institucional_patrocinio_logobase&utm_term=institucional_patrocinio_logobase&utm_content=institucional_patrocinio_logobase"
+            name = "schoolofnet"

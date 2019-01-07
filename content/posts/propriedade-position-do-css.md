@@ -18,7 +18,7 @@ tags:
   - Na Prática
   - position
   - tableless
-
+sponsor: schoolofnet
 ---
 
 O Position é uma propriedade perigosa para iniciantes. Normalmente o desenvolvedor que acaba de conhecer essa propriedade, acha que ela é a resposta para todos os problemas de posicionamento e diagramação de layout. Pelo contrário. O Position não serve para diagramar a estrutura de layouts. Para isso, você utiliza a [propriedade float do css][1]. O Position vai servir para fazer coisas mais simples. 

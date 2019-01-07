@@ -16,7 +16,7 @@ tags:
   - ios
   - iphone
   - mobile
-
+sponsor: schoolofnet
 ---
 ## O que é o Ionic?
 

@@ -10,7 +10,7 @@ categories:
 tags:
   - Architectural Pattern
   - mvc
-
+sponsor: schoolofnet
 ---
 > **Model–view–controller (MVC)** is a software **architectural pattern** for implementing user interfaces. It **divides** a given **software** application into **three** interconnected **parts**, so as to separate **internal** representations of **information** from the ways that **information** is **presented** to or accepted from the user. &#8211; Wikipedia
 
