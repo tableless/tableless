@@ -29,9 +29,9 @@ enclosure:
 dsq_thread_id: 503039994
 categories:
   - Código
-  - Drops
+  - podcast
   - HTML
-  - Podcasts
+  - podcast
 tags:
   - 2011
   - drops

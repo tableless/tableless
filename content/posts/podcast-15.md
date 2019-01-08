@@ -9,7 +9,7 @@ enclosure:
 dsq_thread_id: 503034217
 categories:
   - Mobile
-  - Podcasts
+  - podcast
   - Tecnologia e Tendências
 tags:
   - Mobile

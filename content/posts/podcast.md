@@ -14,7 +14,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032050
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Estamos fazendo um teste para lançar, se possível semana que vem, um [podcasting][1] do Tableless. O link do RSS com enclosures está [aqui][2], se você quiser assinar já nosso podcasting. E se você não tem nenhum leitor de feeds com suporte a anexos pode ouvir o podcasting [baixando diretamente o arquivo mp3][3].

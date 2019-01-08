@@ -6,14 +6,14 @@ date: 2014-10-29
 excerpt: Essa é uma série que vai abordar generators usados por desenvolvedores front end no mercado. Um post que vai mostrar desde conceitos até a prática, que convém a nós é o que mais interessa.
 url: /em-um-relacionamento-serio-com-generators-front-end-parte-1/
 categories:
+  - Javascript
+tags:
   - Artigos
   - CSS
   - CSS3
   - HTML
   - HTML5
-  - Javascript
   - SASS
-
 ---
 ## Conceitos e visão geral
 

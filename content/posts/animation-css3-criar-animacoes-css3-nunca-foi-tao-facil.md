@@ -6,20 +6,10 @@ date: 2014-10-13
 excerpt: Animações cross-browser que darão mais ênfase a suas páginas como controles deslizantes, efeitos 3D’s, etc...
 url: /animation-css3-criar-animacoes-css3-nunca-foi-tao-facil/
 categories:
-  - Artigos
   - CSS3
-  - JQuery
+  - Javascript
 tags:
-  - All Animation CSS3
-  - animações css3
-  - Baixar o all animation css3
-  - como utilizar o all animation css3
-  - criando animações css3
-  - criando animações dinamicas com css3
-  - Frameworks animações css3
-  - frameworks css3
-  - porque utilizar o all animation
-
+  - JQuery
 ---
 Criar animações para nossos websites era algo &#8220;impensável&#8221; no passado. Com o surgimento do CSS3 e a morte do flash, a criação de websites dinâmicos, animados e leves, foi ficando cada vez mais fácil. Quem diria que há 7 anos atrás poderíamos alterar nossas animações para web sem precisar ter o flash instalado na nossa máquina ou até mesmo criar sites com efeitos paralax? Os devs antigos sabem bem o que estou querendo dizer.
 

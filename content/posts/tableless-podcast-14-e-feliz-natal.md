@@ -21,7 +21,7 @@ twittercomments:
 dsq_thread_id: 503034189
 categories:
   - Geral
-  - Podcasts
+  - podcast
 tags:
   - Técnicas e Práticas
 

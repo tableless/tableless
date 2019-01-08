@@ -18,7 +18,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032113
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Está no ar a segunda parte da entrevista do Bruno. Podcasting via RSS ou direto no [arquivo mp3][1]. Bruno fala sobre seu site, padrões web, conversão de sites e Microsoft.

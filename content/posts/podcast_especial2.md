@@ -14,7 +14,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033251
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Podcast Especial de novo.

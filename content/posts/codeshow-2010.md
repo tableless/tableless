@@ -21,6 +21,3 @@ Para quem não sabe, essa é a segunda edição do Codeshow. Desta vez iremos re
 Será no dia 27 de Maio de 2010, no Espaço Apas na Rua Pio XI, n° 1200, Alto da Lapa &#8211; São Paulo &#8211; SP, CEP 05060-001.
   
 Custa apenas R$30 e você pode ver mais informações e [fazer sua inscrição aqui][1].
-
- [1]: https://codeshow.visie.com.br/
- [2]: https://visie.com.br/campus/

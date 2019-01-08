@@ -18,8 +18,8 @@ tweetcount:
   - 6
 categories:
   - Artigos
-  - Drops
-  - Podcasts
+  - podcast
+  - podcast
 tags:
   - 2012
   - drops

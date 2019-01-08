@@ -5,14 +5,9 @@ type: post
 date: 2012-11-02
 excerpt: Pra você que cansou de ser um mero manipulador de plugins alheios
 url: /tudo-que-voce-gostaria-de-saber-sobre-plugins-jquery-e-ninguem-teve-paciencia-de-explicar/
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5999";s:7:"tinyurl";s:26:"https://tinyurl.com/7ppv8w6";s:4:"isgd";s:19:"https://is.gd/52YlXT";}'
-twittercomments:
-  - 'a:0:{}'
-tweetbackscheck:
-  - 1356447386
-dsq_thread_id: 672764821
 categories:
+  - Javascript
+tags:
   - JQuery
 
 ---

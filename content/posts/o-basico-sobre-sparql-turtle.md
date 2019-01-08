@@ -1,7 +1,7 @@
 ---
 title: "O básico sobre Sparql e Turtle"
 categories:
-  - Web Semântica
+  - Semântica
   - HTML
 excerpt: Entendendo um pouco sobre serialização RDF com Turtle e criando queries simples com Sparql
 image: https://imgh.us/pexels-photo-245618.jpeg

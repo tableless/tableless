@@ -21,7 +21,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033707
 categories:
-  - Podcasts
+  - podcast
 
 ---
 [Baixar Podcast #11][1] (ou [por aqui][2])

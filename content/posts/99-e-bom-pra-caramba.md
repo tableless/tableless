@@ -34,5 +34,3 @@ Se você fez um site mas não conseguiu validar uma determinada página. Relaxe&
 É normal querermos resultados rápidos ou termos todas as qualidades de algo que é novo. Infelizmente, dependendo do que esse algo novo seja, você precisa passar por uma curva de aprendizado que pode ser grande ou bem curta dependendo da pessoa. As vantagens vão crescendo conforme a sua experiência vai aumentando e seu conhecimento também.
 
 Lembre-se, até saber tudo e começar a colher os frutos do aprendizado, 99% é bom pra caramba. E dane-se o que os puristas dizem. 🙂
-
- [1]: https://visie.com.br/

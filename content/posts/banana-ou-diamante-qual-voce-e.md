@@ -17,12 +17,9 @@ tags:
   - cotidiano
 
 ---
-[Sobre especialização e mercado de trabalho.][1]
 
 No [podcast#17][2], fiz um pequeno comentário sobre o mercado de trabalho. E o Elcio, acabou de postar lá no recém lançado [blog da visie][3], um texto fantástico sobre o mesmo assunto. Um bom texto para as pessoas que estão acabando de chegar na área, e uma ótima dica para pessoas que já estão penando algum tempo.
 
 <small><b>Ps.:</b> para quem usa programas falidos para fazer websites como Fireworks, é bom dar uma lidinha. 😀</small>
 
- [1]: https://visie.com.br/blog/sobre-especializacao-e-mercado-de-trabalho
  [2]: https://tableless.com.br/podcast-17-ie7-beta-2-e-mercado-de-trabalho
- [3]: https://www.visie.com.br/blog

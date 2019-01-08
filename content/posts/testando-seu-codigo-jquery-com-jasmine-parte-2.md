@@ -5,19 +5,12 @@ type: post
 date: 2011-10-04
 excerpt: Nesta segunda parte você conhece um pouco mais sobre o framework de testes Jasmine. Aprenda a criar matchers personalizados e testar AJAX e métodos em objetos.
 url: /testando-seu-codigo-jquery-com-jasmine-parte-2/
-tweetbackscheck:
-  - 1356393493
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4189";s:7:"tinyurl";s:26:"https://tinyurl.com/6kyqegk";s:4:"isgd";s:19:"https://is.gd/3Ae4hM";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503040401
 categories:
   - Javascript
-  - JQuery
 tags:
-  - bdd
   - jasmine
+  - JQuery
+  - bdd
   - tdd
 
 ---

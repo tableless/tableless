@@ -6,8 +6,8 @@ date: 2015-08-13
 excerpt: Uma introdução ao Meteor.
 url: /introducao-ao-meteor/
 categories:
+  - Mobile
   - Javascript
-  - Meteor
   - O Básico
 tags:
   - meteor

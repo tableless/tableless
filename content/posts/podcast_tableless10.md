@@ -17,7 +17,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033436
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Desta vez falamos sobre apenas uma coisa: O que é tableless?!

@@ -20,7 +20,7 @@ tweetcount:
   - 3
 dsq_thread_id: 503032168
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Galera do meu coração&#8230; Estamos com mais um podcast do Tabeless&#8230; este é de número 5 e entrevistamos desta vez o Frederick Van Amstel, o cara do [Usabilidoido][1]. Falamos sobre Tableless, Design, Usabilidade, Infográfico, Dreamweaver e mais. [Baixe o Mp3][2]. 

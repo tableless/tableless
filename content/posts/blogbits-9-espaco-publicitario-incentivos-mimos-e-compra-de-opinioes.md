@@ -16,7 +16,7 @@ tweetcount:
   - 1
 dsq_thread_id: 503038062
 categories:
-  - Podcasts
+  - podcast
 tags:
   - blog
   - blogbits

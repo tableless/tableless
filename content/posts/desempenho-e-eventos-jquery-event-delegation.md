@@ -7,8 +7,8 @@ excerpt: Como a utilização de event delegation com o jQuery pode ser otimizada
 url: /desempenho-e-eventos-jquery-event-delegation/
 categories:
   - Javascript
+tags:
   - JQuery
-
 ---
 Todo mundo que leva a experiência de uso da sua página um pouco a sério já se pegou pensando &#8220;uso um plugin pronto ou faço eu mesmo?&#8221; e caso cogite usar algo já pronto, acaba em dúvida sobre quais das várias opções usar.
 

@@ -18,7 +18,7 @@ tweetcount:
 dsq_thread_id: 503037866
 categories:
   - Browsers
-  - Podcasts
+  - podcast
   - Técnicas e Práticas
 tags:
   - 2008

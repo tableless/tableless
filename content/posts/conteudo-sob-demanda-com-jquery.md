@@ -5,21 +5,10 @@ type: post
 date: 2011-04-19
 excerpt: Veja como exibir o conteúdo do seu site acabando com a necessidade de paginação e atualização da página.
 url: /conteudo-sob-demanda-com-jquery/
-tweetbackscheck:
-  - 1356413464
-shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"https://tableless.com.br/conteudo-sob-demanda-com-jquery";s:7:"tinyurl";s:26:"https://tinyurl.com/3eqvk69";s:4:"isgd";s:19:"https://is.gd/OWnGrs";}'
-twittercomments:
-  - 'a:12:{i:131435907017478144;s:7:"retweet";i:131374410035765248;s:7:"retweet";i:131362657344303104;s:7:"retweet";i:131358684302422016;s:7:"retweet";i:131344200401821696;s:7:"retweet";i:131343466121805824;s:7:"retweet";i:131342785608556544;s:7:"retweet";i:131341845082013696;s:7:"retweet";i:131341779235647488;s:7:"retweet";i:144800582710988800;s:7:"retweet";i:167415950839267328;s:7:"retweet";i:279221338042929152;s:7:"retweet";}'
-tweetcount:
-  - 38
-dsq_thread_id: 503014231
 categories:
   - Javascript
-  - JQuery
   - Técnicas e Práticas
 tags:
-  - Javascript
   - JQuery
 
 ---

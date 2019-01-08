@@ -4,15 +4,6 @@ authors: Diego Eis
 type: post
 date: 2004-12-15
 url: /video_tutorial_layout_3_colunas/
-aktt_tweeted:
-  - 1
-tweetbackscheck:
-  - 1356379838
-shorturls:
-  - 'a:3:{s:9:"permalink";s:55:"https://tableless.com.br/video_tutorial_layout_3_colunas";s:7:"tinyurl";s:26:"https://tinyurl.com/3pwedbb";s:4:"isgd";s:19:"https://is.gd/Lvxnx9";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503032174
 categories:
   - Geral
   - Vídeos Tutoriais
@@ -44,4 +35,3 @@ Para ver mais [vídeos sobre técnicas de CSS e Tableless][3], visite o Campus O
 
  [1]: https://tableless.com.br/videotutorial/videotutorial1/
  [2]: https://tableless.com.br/videotutorial/videotutorial1/videotutorial.zip
- [3]: https://campus.visie.com.br/ "video aulas de Tableless"

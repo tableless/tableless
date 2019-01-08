@@ -5,15 +5,6 @@ type: post
 date: 2009-06-25
 excerpt: Navegações e manipulações em jQuery e Javascript
 url: /digest-0609-javascript-jquery/
-aktt_notify_twitter:
-  - no
-tweetbackscheck:
-  - 1356140514
-shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/digest-0609-javascript-jquery";s:7:"tinyurl";s:26:"https://tinyurl.com/3gahrjh";s:4:"isgd";s:19:"https://is.gd/vogoYM";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 506925436
 categories:
   - Digest
   - Javascript

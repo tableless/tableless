@@ -4,12 +4,11 @@ authors: Michael Granados
 type: post
 date: 2008-09-11
 categories:
-  - Código
+  - Javascript
   - jQuery
   - Técnicas e Práticas
 tags:
   - Javascript
-  - JQuery
 ---
 Para os designers, familiarizar-se com a jQuery é um ato muito sutil. Isso se deve ao fato da mesma basear-se em um comando ( jQuery ou o seu atalho $ ) que referencia elementos e assim atribuir valores ou aplicar ações a eles. O mais interessante é que usamos as mesmas chamadas que usamos para referenciar elementos quando trabalhamos com CSS. Logo:
 <!--more-->

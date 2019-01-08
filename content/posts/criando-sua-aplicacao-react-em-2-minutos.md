@@ -5,12 +5,11 @@ type: post
 date: 2016-08-05
 excerpt: Configurar aplicações que utilizam React pode ser uma tarefa árdua e complexa... Babel, Webpack, ESLint, Autoprefixer... Mas agora não mais! Com o Create React App, é possível configurar o projeto em menos de 2 minutos!
 categories:
-  - javascript
+  - Javascript
 tags:
+  - reactjs
   - emberjs
   - Frameworks Javascript
-  - javascript
-  - reactjs
 ---
 
 Para facilitar a criação de aplicações utilizando React, o Facebook lançou uma ferramenta que promete reduzir toda complexidade envolvida em configurar um novo projeto que utilize a tecnologia.

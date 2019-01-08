@@ -7,12 +7,10 @@ excerpt: Drops 13 sobre semântica
 url: /drops-13-o-basico-sobre-semantica-html5-e-microdata/
 dsq_thread_id: 1462572199
 categories:
-  - Drops
-  - Podcasts
+  - podcast
 tags:
   - 2013
   - drops
-  - podcast
 
 ---
 Falei um pouco sobre o básico da semântica, novas tags do HTML5 e microdata.

@@ -20,7 +20,7 @@ categories:
   - Browsers
   - Geral
   - Mobile
-  - Podcasts
+  - podcast
   - Tecnologia e Tendências
 tags:
   - acessibilidade

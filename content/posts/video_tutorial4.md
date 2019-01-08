@@ -4,17 +4,6 @@ authors: Diego Eis
 type: post
 date: 2005-08-30
 url: /video_tutorial4/
-aktt_tweeted:
-  - 1
-tweetbackscheck:
-  - 1356453559
-shorturls:
-  - 'a:3:{s:9:"permalink";s:39:"https://tableless.com.br/video_tutorial4";s:7:"tinyurl";s:26:"https://tinyurl.com/3ury484";s:4:"isgd";s:19:"https://is.gd/N3qqpO";}'
-twittercomments:
-  - 'a:3:{i:10315529239666688;s:7:"retweet";i:10256575558062080;s:7:"retweet";i:32833145581608960;s:7:"retweet";}'
-tweetcount:
-  - 3
-dsq_thread_id: 503033463
 categories:
   - Geral
   - Vídeos Tutoriais
@@ -33,4 +22,3 @@ Tempo: ~6m
 Para ver mais vídeos sobre Tableless, visite o [Campus Online][2]!
 
  [1]: https://tableless.com.br/videotutorial/videotutorial4/imagereplacementnospan.swf
- [2]: https://campus.visie.com.br/ "Vídeo aulas sobre desenvolvimento web"

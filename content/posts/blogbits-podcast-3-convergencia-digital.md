@@ -17,7 +17,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503034957
 categories:
-  - Podcasts
+  - podcast
 tags:
   - blogbits
   - enclosures

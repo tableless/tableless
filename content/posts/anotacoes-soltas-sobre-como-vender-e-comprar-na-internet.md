@@ -4,13 +4,6 @@ authors: Diego Eis
 type: post
 date: 2008-04-14
 url: /anotacoes-soltas-sobre-como-vender-e-comprar-na-internet/
-tweetbackscheck:
-  - 1356465575
-shorturls:
-  - 'a:3:{s:9:"permalink";s:80:"https://tableless.com.br/anotacoes-soltas-sobre-como-vender-e-comprar-na-internet";s:7:"tinyurl";s:26:"https://tinyurl.com/3ja6lpp";s:4:"isgd";s:19:"https://is.gd/p3Uok1";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503038068
 categories:
   - mercado
 tags:
@@ -32,5 +25,4 @@ Essa fórmula já não pode ser aplicada ao pé da letra quando vendemos conteú
 
 Claro que compramos também por necessidades. Se você precisa de algum tênis, comida, roupa, você compra. Quando isso se torna emocional? Quando você compra algo que não está precisando? Se você já tem um smartphone bacana, porque vai querer o iPhone? O seu smartphone não faz ligações, não guarda contatos, não executa programas? Talvez, como eu, você não saiba responder porque quer. Mas com certeza você sabe que quer. Com o usuário é a mesma coisa. Basta descobrir, como a Apple, o caminho emocional que fará o usuário desejar (não querer) seu produto ou seu serviço.
 
- [1]: https://visie.com.br/pdf
  [2]: https://twitter.com/

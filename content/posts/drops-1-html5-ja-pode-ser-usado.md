@@ -28,8 +28,8 @@ tweetcount:
   - 18
 dsq_thread_id: 503039930
 categories:
-  - Drops
-  - Podcasts
+  - podcast
+  - podcast
 tags:
   - 2011
   - drops

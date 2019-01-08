@@ -9,7 +9,7 @@ enclosure:
 dsq_thread_id: 503034647
 categories:
   - Browsers
-  - Podcasts
+  - podcast
 tags:
   - browser
   - navegadores

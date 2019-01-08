@@ -57,5 +57,4 @@ Ah, sim, nada do que eu disse nesse post é novo. O Henrique tem falado sobre mi
  [9]: https://tableless.com.br
  [10]: https://www.google.com
  [11]: https://tableless.com.br/experimente-o-opera-mini
- [12]: https://visie.com.br "Propaganda descarada para dar combustível aos críticos ;-)"
  [13]: https://www.revolucao.etc.br/

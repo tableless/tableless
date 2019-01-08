@@ -28,13 +28,10 @@ tags:
 ---
 Podemos dizer que existem três braços importantes nessa máquina que é o desenvolvimento web: W3C, browsers e desenvolvedores.
   
-<!--more-->
-
-
   
 Vamos falar um pouco sobre os browsers.
   
-Você [conhece a história][1]: o Mosaic virou Netscape, que participou da guerra dos browsers com o Intenet Explorer. E aí começaram os problemas.
+Você conhece a história: o Mosaic virou Netscape, que participou da guerra dos browsers com o Intenet Explorer. E aí começaram os problemas.
 
 A visão bonita (se tivesse alguma) que a **Netscape** e a **Microsoft** tinham sobre a web e seus browsers se perdeu em algum lugar do caminho percorrido para conquistar os desenvolvedores. Atualizações constantes, falta de suporte aos padrões, código proprietário e um monte de outras coisas dificultavam o desenvolvimento naquele tempo. Mesmo assim, o Internet Explorer ganhou a guerra. Missão cumprida. A obrigação de fazer um bom browser para todos (pelo menos essa era a idéia por trás) sumiu depois que a guerra acabou. Algumas versões do Internet Explorer foram lançadas mais pra frente com algumas atualizações no suporte aos padrões, mas nada muito substancial.
   
@@ -73,7 +70,6 @@ Campanhas que você pode apoiar:
   * <https://imasters.uol.com.br/crossbrowser/>
   * <https://browsehappy.com/>
 
- [1]: https://visie.com.br/coisas/a-internet/
  [2]: https://iedeathmarch.org/ "IE Death March"
  [3]: https://www.thecounter.com
  [4]: https://www.thecounter.com/stats/2008/December/browser.php

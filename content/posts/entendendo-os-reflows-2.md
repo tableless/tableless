@@ -5,15 +5,6 @@ type: post
 date: 2011-07-18
 excerpt: O que são e como os Reflows podem ser otimizados para aplicações ficarem ainda mais rápidas.
 url: /entendendo-os-reflows-2/
-tweetbackscheck:
-  - 1356448139
-shorturls:
-  - 'a:3:{s:9:"permalink";s:47:"https://tableless.com.br/entendendo-os-reflows-2";s:7:"tinyurl";s:26:"https://tinyurl.com/3bgy96v";s:4:"isgd";s:19:"https://is.gd/RF5TTH";}'
-twittercomments:
-  - 'a:2:{i:144739315350650880;s:7:"retweet";i:152895559601106945;s:7:"retweet";}'
-tweetcount:
-  - 2
-dsq_thread_id: 503040345
 categories:
   - AJAX
   - Código

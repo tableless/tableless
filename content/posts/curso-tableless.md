@@ -21,7 +21,6 @@ tags:
   - CSS
   - padroes web
   - tableless
-  - visie
   - xhtml
 
 ---

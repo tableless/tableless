@@ -9,7 +9,6 @@ categories:
   - Javascript
   - front-end
 tags:
-  - reactjs
   - jquery
   - emberjs
   - Frameworks Javascript

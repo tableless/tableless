@@ -4,15 +4,6 @@ authors: Diego Eis
 type: post
 date: 2006-07-16
 url: /sobre-nomes-e-sobrenomes/
-tweetbackscheck:
-  - 1355358732
-shorturls:
-  - 'a:3:{s:9:"permalink";s:48:"https://tableless.com.br/sobre-nomes-e-sobrenomes";s:7:"tinyurl";s:26:"https://tinyurl.com/42ndtcq";s:4:"isgd";s:19:"https://is.gd/JRc8k5";}'
-twittercomments:
-  - 'a:2:{i:10665222859657216;s:7:"retweet";i:10450313265811456;s:7:"retweet";}'
-tweetcount:
-  - 2
-dsq_thread_id: 503035688
 categories:
   - Artigos
 tags:
@@ -38,9 +29,8 @@ Ter bons nomes é uma questão de semântica. Não é raro acontecer casos como 
 
 Uma dica que sempre dou aos alunos [aqui nos cursos][1], é nomear os elementos da página de acordo com sua função: Se na coluna da esquerda houver o menu principal do site, nomeio o div como **#menuprincipal** ou simplesmente **#menu**. Se a coluna da direita houver publicidade por exemplo, nomeie esta coluna como **#publicidade** e não **#colunadireita**. Isso evitará muito transtorno durante o desenvolvimento do projeto. Nomeie os elementos de acordo com sua função.
 
-Esta regra de nomeclatura também pode ser aplicado à arquivos. Já falei aqui sobre [Modulação de CSS][2]. Se você irá criar arquivos CSS individuais para cada seção do site, nomeie de acordo com a função da seção do site. Se é um CSS que irá formatar o menu principal, o arquivo poderia se chamar **menuprincipal.css**_._ Nem preciso dizer que nomes como **menu\_principal\_coluna_esquerda.css** __não são boas pedidas.
+Esta regra de nomeclatura também pode ser aplicado à arquivos. Já falei aqui sobre Modulação de CSS. Se você irá criar arquivos CSS individuais para cada seção do site, nomeie de acordo com a função da seção do site. Se é um CSS que irá formatar o menu principal, o arquivo poderia se chamar **menuprincipal.css**_._ Nem preciso dizer que nomes como **menu\_principal\_coluna_esquerda.css** __não são boas pedidas.
 
 Lembre-se que nomenclatura dos elementos pode ser questão de semântica. É coisa séria e pode trazer muitos problemas se não for pensado direito. Gaste uns segundos a mais para elaborar nomes melhores. Não dói e previne dor de cabeça.
 
- [1]: https://visie.com.br/cursos/
  [2]: https://tableless.com.br/css-modular-breve-explicacao

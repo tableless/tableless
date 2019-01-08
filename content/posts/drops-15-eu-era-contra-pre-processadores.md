@@ -6,8 +6,8 @@ date: 2015-03-30
 excerpt: Eu era contra pré-processadores, mas aprendi a gostar deles.
 url: /drops-15-eu-era-contra-pre-processadores/
 categories:
-  - Drops
-  - Podcasts
+  - podcast
+  - podcast
 tags:
   - drops
   - podcast

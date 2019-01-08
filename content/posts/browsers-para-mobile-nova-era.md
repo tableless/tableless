@@ -76,13 +76,10 @@ Enquanto isso, leia algo antes de começar a fazer a versões mobiles por aí:
  [10]: https://vimeo.com?pg=embed&sec=217513
  [11]: https://www.w3.org/QA/2008/04/is_your_mobile_browser_ready_f.html
  [12]: https://dev.w3.org/2008/mobile-test/test.html
- [13]: https://visie.com.br/treinamento/ "Treinamento em padrões web e sistemas de e-commerce"
- [14]: https://visie.com.br/treinamento/palestra-internet-movel/
  [15]: https://tableless.com.br/sites-para-dispositivos-moveis-breve-introducao
  [16]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-ssr/
  [17]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-mediatype/
  [18]: https://tableless.com.br/breve-introducao-xhtml-mobile-profile
  [19]: https://tableless.com.br/browsers_em_dispositivos_moveis
  [20]: https://tableless.com.br/27-bilhoes-de-celulares
- [21]: https://visie.com.br/cursos/intermediarios/internetmovel2.php
  [22]: https://www.evotech.net/blog/2007/07/web-development-for-the-iphone/

@@ -15,9 +15,9 @@ tweetcount:
   - 5
 dsq_thread_id: 637139220
 categories:
-  - Drops
+  - podcast
   - Mercado
-  - Podcasts
+  - podcast
   - Tecnologia e Tendências
 tags:
   - desenvolvimento

@@ -30,8 +30,8 @@ dsq_thread_id: 503040220
 categories:
   - Código
   - CSS
-  - Drops
-  - Podcasts
+  - podcast
+  - podcast
 tags:
   - 2011
   - Código

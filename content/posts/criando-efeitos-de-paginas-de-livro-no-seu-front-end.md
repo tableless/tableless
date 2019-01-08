@@ -7,7 +7,6 @@ excerpt: Uma breve introdução da biblioteca Turn.js para fazer efeitos de pág
 url: /criando-efeitos-de-paginas-de-livro-no-seu-front-end/
 categories:
   - javascript
-  - JQuery
 tags:
   - JQuery
   - html5

@@ -26,5 +26,3 @@ Do rascunho inicial à publicação em produção em um dia. Sem palestras teór
 Você verá como os padrões web se integram com o desenvolvimento server-side e como ferramentas como o controle de versão se integram ao processo produtivo. Verá como unir todas essas ferramentas para fazer com que seu time entregue muito rápido projetos web de qualidade.
 
 [CodeShow &#8211; Uma boa maneira de compartilhar conhecimento][1]
-
- [1]: https://visie.com.br/codeshow/

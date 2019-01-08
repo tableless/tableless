@@ -17,7 +17,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033348
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Falamos sobre o interesse do [Google][1] de comprar a [Mozilla Foundation][2], [contribuição da IBM para o Firefox][3], Sistemas para Mobiles, Padrões [HD-DVD][4] e [BlueRay][5], e mais. 

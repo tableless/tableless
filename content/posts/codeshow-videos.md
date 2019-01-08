@@ -34,7 +34,5 @@ Mostre o código.
 
 **[update 2]** Usamos como base o sistema da [KickApps][4]. Para quem não sabe o que eles fazem: imagine que você precise fazer um &#8220;youtube&#8221; da vida&#8230; Eles tem o sistema pronto e todo customizado com CSS. Eles vão lançar updates em breve. Depois dou mais detalhes!
 
- [1]: https://visie.com.br/codeshow/
- [2]: https://video.visie.com.br/
  [3]: https://youtube.com
  [4]: https://kickapps.com/

@@ -35,4 +35,3 @@ Iremos fazer **transmissão ao vivo**. Se quiser assistir via internet, faça se
 
  [1]: https://www.paulistaplaza.com.br/
  [2]: https://maps.google.com/maps/ms?ie=UTF8&om=1&msa=0&msid=100268483657177769788.0004374abd5c9656518ea&ll=-23.57152,-46.645997&spn=0.009558,0.020084&z=16
- [3]: https://visie.com.br/matricula

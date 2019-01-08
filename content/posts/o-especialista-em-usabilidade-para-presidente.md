@@ -5,15 +5,6 @@ type: post
 date: 2010-10-21
 excerpt: A usabilidade é algo muito abrangente e você, profissional front-end, tem muito a ver com isso.
 url: /vote-no-especialista-em-usabilidade-para-presidente/
-aktt_notify_twitter:
-  - yes
-tweetbackscheck:
-  - 1356465841
-shorturls:
-  - 'a:3:{s:9:"permalink";s:75:"https://tableless.com.br/vote-no-especialista-em-usabilidade-para-presidente";s:7:"tinyurl";s:26:"https://tinyurl.com/3pmlnfx";s:4:"isgd";s:19:"https://is.gd/UXSE3d";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503039683
 categories:
   - AJAX
   - Artigos

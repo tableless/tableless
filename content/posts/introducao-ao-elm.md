@@ -6,11 +6,9 @@ date: 2017-08-23
 excerpt: Uma introdução básica à linguagem Elm.
 categories:
   - Javascript
-  - Elm
   - Tecnologia e Tendências
 tags:
-  - Elm
-  - Javascript
+  - elm
 image:  https://cdn-images-1.medium.com/max/720/1*I-3kbXzEIAPAPEGiMcAs0A.png
 ---
 

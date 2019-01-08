@@ -9,7 +9,7 @@ enclosure:
 dsq_thread_id: 503034767
 categories:
   - Browsers
-  - Podcasts
+  - podcast
   - Tecnologia e Tendências
 tags:
   - Browsers

@@ -5,20 +5,11 @@ type: post
 date: 2012-03-01
 excerpt: Entenda como funciona as funções do JQuery para manipulação de classes nos elementos do HTML.
 url: /manipulacao-de-classes-com-jquery/
-tweetbackscheck:
-  - 1356415573
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5640";s:7:"tinyurl";s:26:"https://tinyurl.com/7b43okt";s:4:"isgd";s:19:"https://is.gd/nYdeqJ";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 594823697
 categories:
   - Javascript
-  - JQuery
 tags:
-  - 2012
-  - Javascript
   - JQuery
+  - 2012
   - Na Prática
 
 ---

@@ -7,12 +7,10 @@ excerpt: 'Um pouco sobre event delegation com a função <code>on()</code> do jQ
 url: /entendendo-o-event-delegation-jquery/
 categories:
   - Javascript
-  - JQuery
   - Técnicas e Práticas
 tags:
-  - event delegation
   - JQuery
-  - performance
+  - event delegation
 
 ---
 Geralmente uma &#8220;delegação&#8221;, que seria a uma tradução livre para **delegation**, significa definir um evento para um elemento pai, que será disparado para todos os seus filhos. O evento vai funcionar para qualquer elemento filho que já existir e também para os que forem adicionados posteriormente na árvore do DOM.

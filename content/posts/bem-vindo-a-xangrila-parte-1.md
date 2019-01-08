@@ -191,5 +191,4 @@ Uma vez apresentado, é hora de mergulhar fundo no Progressive Enhancement, mas 
   * <a href="https://en.wikipedia.org/wiki/Browser_wars" target="_blank" title="Acessar o site de referencia">A Guerra dos Browsers</a>
   * <a href="https://gs.statcounter.com/" target="_blank" title="Acessar o site de referencia">Statcounter</a>
 
- [1]: https://visie.com.br/
  [2]: https://tableless.com.br/graceful-degradation-e-tudo-sobre-acessibilidade

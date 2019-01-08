@@ -11,7 +11,6 @@ tags:
   - emberjs
   - Frameworks Javascript
   - javascript
-  - reactjs
 ---
 
 Ultimamente eu tenho conversado com diversos desenvolvedores sobre Framework

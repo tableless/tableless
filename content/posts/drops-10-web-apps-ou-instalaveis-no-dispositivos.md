@@ -22,7 +22,7 @@ enclosure:
         
 dsq_thread_id: 735991648
 categories:
-  - Drops
+  - podcast
 tags:
   - desenvolvimento
   - dev

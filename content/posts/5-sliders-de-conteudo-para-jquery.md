@@ -15,12 +15,11 @@ tweetcount:
   - 67
 dsq_thread_id: 503011664
 categories:
+  - Javascript
   - Código
-  - Javascript
-  - JQuery
 tags:
-  - Javascript
   - JQuery
+  - Javascript
 
 ---
 ### Nivo Slider

@@ -17,7 +17,7 @@ tweetcount:
   - 2
 dsq_thread_id: 503032100
 categories:
-  - Podcasts
+  - podcast
 
 ---
 É isso aí, estamos finalmente colocando no ar nosso primeiro podcast! Entrevistamos o Bruno Torres, até agora o maior colaborador da seção de convertidos daqui do Tableless e que é, entre outras coisas, o sujeito com quem eu aprendi a compilar o kernel do Linux. Estamos publicando a primeira parte da entrevista, em que o Bruno fala sobre Linux e sobre as entrevistas publicadas em [seu site][1].

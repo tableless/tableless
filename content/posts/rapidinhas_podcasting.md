@@ -14,7 +14,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032899
 categories:
-  - Podcasts
+  - podcast
 
 ---
   * O [Alexandre Sena][1], que mantém um [podcast][2] muito interessante, publicou ontem seu terceiro podcast: [O &#8220;top 10 do podcasting brasileiro&#8221;][3]. Obrigado ao Sena por citar o Tableless. Independente disso, excelente post, que mostra como os podcasts brasileiros estão crescendo.

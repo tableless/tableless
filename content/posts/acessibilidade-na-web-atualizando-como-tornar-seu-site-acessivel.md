@@ -14,7 +14,7 @@ categories:
   - HTML
   - Semântica
   - Técnicas e Práticas
-  - Web Semântica
+  - Semântica
 tags:
   - acessibilidade
   - jaws

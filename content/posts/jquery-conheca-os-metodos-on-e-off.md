@@ -5,21 +5,13 @@ type: post
 date: 2012-03-13
 excerpt: A versão 1.7 do framework jQuery implementa dois novos métodos que pretendem acabar de vez com a confusão gerada em torno da associação de eventos.
 url: /jquery-conheca-os-metodos-on-e-off/
-tweetbackscheck:
-  - 1356439497
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5521";s:7:"tinyurl";s:26:"https://tinyurl.com/6nq99g3";s:4:"isgd";s:19:"https://is.gd/Rw4F23";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 609422080
 categories:
   - Javascript
   - JQuery
 tags:
+  - JQuery
   - eventos
   - Javascript
-  - JQuery
-
 ---
 Em outubro de 2010 escrevi um [artigo][1] aqui mesmo no Tableless sobre a associação dinâmica de eventos. Na época, reinava uma confusão sobre quais métodos utilizar e quando utilizá-los. Eram três as opções: bind(), live() e delegate().
 

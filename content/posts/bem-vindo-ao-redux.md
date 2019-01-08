@@ -11,8 +11,8 @@ categories:
   - Javascript
   - Técnicas e Práticas
 tags:
-  - reactjs
   - redux
+  - reactjs
   - arquitetura
   - elm
   - flux

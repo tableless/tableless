@@ -16,8 +16,8 @@ tweetcount:
   - 21
 categories:
   - Código
-  - Drops
-  - Podcasts
+  - podcast
+  - podcast
 tags:
   - drops
   - podcast

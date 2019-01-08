@@ -17,7 +17,7 @@ tweetcount:
 dsq_thread_id: 503034458
 categories:
   - Código
-  - Podcasts
+  - podcast
   - Tecnologia e Tendências
 tags:
   - AJAX

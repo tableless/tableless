@@ -5,22 +5,14 @@ type: post
 date: 2012-07-09
 excerpt: Conheça ferramentas de análise de código que ajudam a manter a qualidade e o padrão de suas aplicações javascript.
 url: /qualidade-codigo-javascript/
-tweetbackscheck:
-  - 1356399448
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=6380";s:7:"tinyurl";s:26:"https://tinyurl.com/872wb4u";s:4:"isgd";s:19:"https://is.gd/uZXMuA";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 757524617
 categories:
   - Javascript
-  - JQuery
   - Técnicas e Práticas
 tags:
+  - JQuery
   - 2012
   - codigo
-  - Javascript
-  - js
   - jslint
 
 ---

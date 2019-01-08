@@ -12,7 +12,7 @@ categories:
   - Destaques
   - Semântica
   - Tecnologia e Tendências
-  - Web Semântica
+  - Semântica
 tags:
   - aprenda
   - padroes web

@@ -14,7 +14,7 @@ categories:
 tags:
   - Tecnologia e Tendências
   - Semântica
-  - Web Semântica
+  - Semântica
 ---
 
 Maio foi um mês intenso para o New York Times. Além de cortes importantes no staff, &#8220;vazou&#8221; na web [um interessante documento][1] da equipe de inovação do jornal. Por meio [dele][2], ficamos sabendo que a audiência da home do site está em decadência. Apenas um terço dos visitantes chega ao NYT por ali. O resto vem de redes sociais e de busca orgânica.

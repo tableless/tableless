@@ -7,12 +7,10 @@ date: 2013-05-23
 excerpt: Conheça as vantagens (e desvantagens) da nova versão da biblioteca de JavaScript mais utilizada no mundo.
 url: /jquery-2-0/
 categories:
-  - Artigos
-  - JQuery
-tags:
   - Javascript
   - JQuery
-
+tags:
+  - JQuery
 ---
 Há cerca de um mês o jQuery 2.0 foi oficialmente lançado. Neste meio tempo pudemos analisar a nova versão da biblioteca e conhecer de perto as novidades. Mas será que vale a pena fazer o upgrade? Ou já é hora de abandonar o barco? Conheça os novos recursos da biblioteca, diga adeus para alguns antigos e decida por si mesmo.
 

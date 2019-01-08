@@ -30,9 +30,9 @@ dsq_thread_id: 503040047
 categories:
   - Código
   - CSS
-  - Drops
+  - podcast
   - HTML
-  - Podcasts
+  - podcast
   - Técnicas e Práticas
 tags:
   - 2011

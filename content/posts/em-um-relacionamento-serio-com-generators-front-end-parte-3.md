@@ -7,12 +7,10 @@ image: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master
 excerpt: Nesta terceira parte da série, iremos abordar o Slush Generator, que é um Scaffolding Generator baseado em NodeJS e que tem uma forma diferenciada para criação de seus scaffolds.
 url: /em-um-relacionamento-serio-com-generators-front-end-parte-3/
 categories:
-  - Código
+  - Javascript
   - CSS
-  - Geral
   - HTML
   - HTML5
-  - Javascript
   - Técnicas e Práticas
   - Tecnologia e Tendências
 tags:

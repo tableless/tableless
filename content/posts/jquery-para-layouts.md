@@ -5,26 +5,17 @@ type: post
 date: 2010-12-15
 excerpt: 'Quando falta a compatibilidade de algumas propriedades do CSS nos browsers ou porque quando não é possível  manipular o HTML manualmente para suprir suas necessidades, o JQuery poderá ajudar.'
 url: /jquery-para-layouts/
-tweetbackscheck:
-  - 1356390539
-shorturls:
-  - 'a:3:{s:9:"permalink";s:43:"https://tableless.com.br/jquery-para-layouts";s:7:"tinyurl";s:26:"https://tinyurl.com/3wfv6rr";s:4:"isgd";s:19:"https://is.gd/wD0jzW";}'
-twittercomments:
-  - 'a:12:{i:144234675437715458;s:7:"retweet";i:144083034642194432;s:7:"retweet";i:144082557154230272;s:7:"retweet";i:146982470926090240;s:7:"retweet";i:146981745294704640;s:7:"retweet";i:144744699087949824;s:7:"retweet";i:146983246842970113;s:7:"retweet";i:146982091983302656;s:7:"retweet";i:146982548231294976;s:7:"retweet";i:146982215862063104;s:7:"retweet";i:146982200917766144;s:7:"retweet";i:146987329070972928;s:7:"retweet";}'
-tweetcount:
-  - 16
-dsq_thread_id: 503039835
 categories:
+  - Javascript
   - CSS
   - HTML
-  - Javascript
   - JQuery
   - Técnicas e Práticas
 tags:
+  - JQuery
   - 2010
   - aprenda
   - desenvolvimento web
-  - JQuery
   - web standards
 
 ---

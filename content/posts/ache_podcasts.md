@@ -12,7 +12,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 675677302
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Categoria [Podcasting][1] no [Feeds.com.br][2].

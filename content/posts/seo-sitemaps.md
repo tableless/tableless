@@ -5,17 +5,6 @@ type: post
 date: 2008-07-02
 excerpt: Saiba como funciona o sitemap.xml
 url: /seo-sitemaps/
-aktt_tweeted:
-  - 1
-tweetbackscheck:
-  - 1356437651
-shorturls:
-  - 'a:3:{s:9:"permalink";s:36:"https://tableless.com.br/seo-sitemaps";s:7:"tinyurl";s:26:"https://tinyurl.com/3bebl89";s:4:"isgd";s:19:"https://is.gd/CpQbnY";}'
-twittercomments:
-  - 'a:2:{i:164408104405053440;s:7:"retweet";i:164396722502635520;s:7:"retweet";}'
-tweetcount:
-  - 3
-dsq_thread_id: 503038264
 categories:
   - Artigos
   - SEO
@@ -138,6 +127,4 @@ Ter um sitemap.xml não garante que você uma URL seja ou não mais indexada que
  [2]: https://code.google.com/sm_thirdparty.html
  [3]: https://www.w3.org/TR/NOTE-datetime
  [4]: https://www.sitemaps.org/pt_BR/protocol.php
- [5]: https://visie.com.br/treinamento/sitemap.xml
- [6]: https://visie.com.br/treinamento/
  [7]: https://www.google.com/webmasters/tools/

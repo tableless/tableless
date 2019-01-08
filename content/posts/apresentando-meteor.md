@@ -5,6 +5,7 @@ type: post
 date: 2015-08-06
 url: /apresentando-meteor/
 categories:
+  - Mobile
   - Tecnologia e Tendências
 tags:
   - meteor

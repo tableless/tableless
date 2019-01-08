@@ -42,5 +42,3 @@ Se você quiser mais vídeos e em alta-resolução, visite o [Campus Online][8].
  [5]: https://www.teoriaglacial.com/2007/10/02/alternativa-web-2007-1o-dia
  [6]: https://verdesmares.globo.com/v3/canais/noticias.asp?codigo=194034&modulo=181
  [7]: https://www.netlus.com.br/alternativa-web-primeiramente/
- [8]: https://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
- [9]: https://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"

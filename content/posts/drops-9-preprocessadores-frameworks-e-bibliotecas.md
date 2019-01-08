@@ -25,7 +25,7 @@ tweetcount:
 dsq_thread_id: 684936937
 categories:
   - Código
-  - Drops
+  - podcast
   - O Básico
   - Técnicas e Práticas
 tags:

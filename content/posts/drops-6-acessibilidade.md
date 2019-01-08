@@ -14,7 +14,7 @@ twittercomments:
   - 'a:0:{}'
 categories:
   - Acessibilidade
-  - Drops
+  - podcast
 tags:
   - 2012
   - acessibilidade

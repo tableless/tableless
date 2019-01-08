@@ -5,21 +5,11 @@ type: post
 date: 2012-01-10
 excerpt: Performance é um aspecto muito importante em aplicações web. Confira algumas dicas simples de como otimizar seu código jQuery.
 url: /jquery-dicas-de-otimizacao-e-performance/
-tweetbackscheck:
-  - 1356436487
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4289";s:7:"tinyurl";s:26:"https://tinyurl.com/7k4rp23";s:4:"isgd";s:19:"https://is.gd/GjnsFV";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 533617737
 categories:
-  - Código
+  - Javascript
   - JQuery
 tags:
   - JQuery
-  - otimização
-  - performance
-
 ---
 A grande maioria dos desenvolvedores jQuery não se preocupa muito com performance e otimização. Afinal, o mantra do framework, &#8220;write less, do more&#8221;, envolve esconder a parte feia do Javascript e, muitas vezes, acrescentar camadas desnecessárias.
 

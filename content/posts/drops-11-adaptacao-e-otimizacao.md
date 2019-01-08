@@ -15,7 +15,7 @@ twittercomments:
 tweetcount:
   - 62
 categories:
-  - Drops
+  - podcast
 tags:
   - 2012
   - drops

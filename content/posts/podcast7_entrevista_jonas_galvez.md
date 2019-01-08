@@ -18,7 +18,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032241
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Podcast da entrevista com o [Jonas Galvez][1].

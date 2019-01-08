@@ -6,18 +6,16 @@ date: 2014-12-10
 excerpt: Na parte 2 de nossa série, vamos falar de Yeoman, um generator que, na minha opinião, é bem completo e atende a grandes necessidades na criação de um projeto.
 url: /em-um-relacionamento-serio-com-generators-front-end-parte-2/
 categories:
+  - Javascript
+tags:
+  - JQuery
   - AngularJS
-  - Artigos
   - CSS3
   - HTML
   - HTML5
-  - Javascript
-  - JQuery
   - LESS
   - Pré-processadores
   - SASS
-  - Técnicas e Práticas
-  - Tecnologia e Tendências
 
 ---
 # O início

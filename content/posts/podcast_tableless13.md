@@ -21,7 +21,7 @@ tweetcount:
   - 5
 dsq_thread_id: 503033903
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Bem, estamos reformulando aquele podcast com a turma toda&#8230; aguardem novidades em breve.

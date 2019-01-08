@@ -18,7 +18,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032150
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Quarto podcast do Tableless! Via [podcasting][1] ou acessando diretamente o [arquivo mp3][2]. [Danilo][3] fala sobre o iPodder, explicando a diferença entre podcasting e um audioblog, fala de videoblogs, rádio e tv, conteúdo textual, iPod Photo, videogames portáteis (Nintendo DS, Game Boy Advanced, PSP, nGage), jogos em rede e muito mais. Boa diversão!

@@ -18,7 +18,7 @@ twittercomments:
 dsq_thread_id: 503035873
 categories:
   - Geral
-  - Podcasts
+  - podcast
   - Tecnologia e Tendências
 tags:
   - brunotorres

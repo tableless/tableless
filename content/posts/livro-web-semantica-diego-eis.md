@@ -5,12 +5,12 @@ type: post
 date: 2017-09-23
 excerpt: A inteligência da Informação.
 categories:
-  - Web Semântica
+  - Semântica
   - HTML
 tags:
   - HTML
   - Semântica
-  - Web Semântica
+  - Semântica
 image: https://i.imgur.com/Zor8WQJ.png
 ---
 

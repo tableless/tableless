@@ -13,13 +13,12 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503040374
 categories:
-  - Código
   - Javascript
-  - JQuery
+  - Código
 tags:
+  - JQuery
   - dojo
   - Javascript
-  - JQuery
   - mootools
 
 ---

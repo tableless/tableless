@@ -4,28 +4,14 @@ authors: Diego Eis
 type: post
 date: 2006-09-01
 url: /podcast-tableless-22-primeira-impressao-sobre-padroes-web/
-enclosure:
-  - |
-    https://tableless.com.br/podcast/podcast-tableless-22.mp3
-    10743128
-    audio/mpeg
-tweetbackscheck:
-  - 1356415709
-shorturls:
-  - 'a:3:{s:9:"permalink";s:81:"https://tableless.com.br/podcast-tableless-22-primeira-impressao-sobre-padroes-web";s:7:"tinyurl";s:26:"https://tinyurl.com/3k9vsc6";s:4:"isgd";s:19:"https://is.gd/nxeKaw";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503035979
 categories:
-  - Podcasts
+  - podcast
   - Tecnologia e Tendências
 tags:
   - cotidiano
   - Na Prática
   - podcast
   - tableless
-  - visie
-
 ---
 Esta semana resolvi fazer um podcast um tanto diferente. Hoje (31/08) terminou mais um curso de [Tableless][1] na [Visie][2]. Em um dos dias do curso, nós conversamos um pouco sobre a dificuldade de adotar uma metodologia nova tanto para eles, que estão ingressando agora no mundos o Padrões Web, quanto na tentativa de evangelização dos colegas de trabalho, que na maioria das vezes, demonstram um certo preconceito sobre toda esta mudança.
   

@@ -5,21 +5,14 @@ type: post
 date: 2012-01-31
 excerpt: Conheça alguns métodos pouco utilizados mas que podem ser grandes aliados dos desenvolvedores jQuery.
 url: /jquery-metodos-desconhecidos/
-tweetbackscheck:
-  - 1356439207
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=5315";s:7:"tinyurl";s:26:"https://tinyurl.com/7sf6yg3";s:4:"isgd";s:19:"https://is.gd/3omKze";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 559084614
 categories:
   - Javascript
   - JQuery
   - Técnicas e Práticas
 tags:
+  - JQuery
   - 2012
   - Javascript
-  - JQuery
 
 ---
 No meu [último artigo][1] falei sobre dicas de otimização e performance de códigos jQuery. Na versão inicial do texto eu havia planejado um tópico sobre os métodos não muito conhecidos, já que alguns, como o ajaxSetup, podem também atuar na performance da sua aplicação.

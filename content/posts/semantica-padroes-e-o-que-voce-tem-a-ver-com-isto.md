@@ -9,7 +9,7 @@ url: /semantica-padroes-e-o-que-voce-tem-a-ver-com-isto/
 dsq_thread_id: 2043361185
 categories:
   - Semântica
-  - Web Semântica
+  - Semântica
 tags:
   - bold
   - em

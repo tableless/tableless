@@ -7,8 +7,8 @@ excerpt: Um podcast sobre comunicaçnao, produção de conteúdo e outras experi
 url: /atras-do-frontend/
 dsq_thread_id: 1326215552
 categories:
-  - Drops
-  - Podcasts
+  - podcast
+  - podcast
 tags:
   - 2013
   - podcast

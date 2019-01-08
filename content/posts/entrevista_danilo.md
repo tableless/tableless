@@ -18,7 +18,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032121
 categories:
-  - Podcasts
+  - podcast
 
 ---
 E aqui vai o terceiro podcast do Tableless! Via [podcasting][1] ou acessando diretamente o [arquivo mp3][2]. É a primeira parte da entrevista com [Danilo Medeiros][3], que eu acho que é o autor do primeiro podcasting em português. Se você ainda não entendeu a diferença entre podcasting e rádio, ouça esta parte da entrevista.

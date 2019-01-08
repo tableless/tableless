@@ -20,7 +20,7 @@ tweetcount:
   - 18
 dsq_thread_id: 503032220
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Segunda parte da entrevista com o [Fred Van Amstel][1].

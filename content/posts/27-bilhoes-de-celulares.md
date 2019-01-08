@@ -56,4 +56,3 @@ Novamente:
  [6]: https://tableless.com.br/aprenda/sites-para-dispositivos-moveis-mediatype/
  [7]: https://tableless.com.br/breve-introducao-xhtml-mobile-profile
  [8]: https://tableless.com.br/browsers_em_dispositivos_moveis
- [9]: https://visie.com.br/cursos/intermediarios/internetmovel2.php

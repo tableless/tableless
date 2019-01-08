@@ -23,7 +23,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033089
 categories:
-  - Podcasts
+  - podcast
 
 ---
 O caso do Tableless, ferramentas de podcasting, ajax um monte de besteiras.

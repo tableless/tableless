@@ -21,6 +21,5 @@ Acho que qualquer computador tem as especificações técnicas para ver a transm
 
 Estou meio ausente aqui do Tableless, se você quiser saber porque, só [visitar o meu Twitter][3].
 
- [1]: https://visie.com.br/matricula
  [2]: https://www.igrejaadventista.org.br/adra.asp
  [3]: https://twitter.com/diegoeis

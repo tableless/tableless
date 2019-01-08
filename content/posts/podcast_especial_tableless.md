@@ -19,7 +19,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033032
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Eu, o [Bruno Torres][1] e o [Thiago Rigonatti][2] fizemos mais um [podcast][3]. 

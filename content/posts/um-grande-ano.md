@@ -27,7 +27,6 @@ Ano que vem será outro grande ano para nós. Será um grande ano para você.
  [1]: https://tableless.com.br/gradientes-em-css "criando degrade no CSS"
  [2]: https://tableless.com.br/css3-columns
  [3]: https://tableless.com.br/elemento-tag-audio "Tag audio HTML5"
- [4]: https://campus.visie.com.br/ "Tag video HTML5"
  [5]: https://tableless.com.br/html5/?chapter=14 "Entendo o Canvas HTML5"
  [6]: https://tableless.com.br/html5/?chapter=13 "SVG e HTML5"
  [7]: https://tableless.com.br/html5/?chapter=21 "histórico de sessão e local storage no HTML5"

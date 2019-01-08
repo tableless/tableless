@@ -6,7 +6,8 @@ date: 2016-08-08
 url: /conheca-o-vue-js-um-framework-javascript-para-criacao-de-componentes-web-reativos/
 categories:
   - Javascript
-
+tags:
+  - vuejs
 ---
 Venho acompanhando a evolução de diversos frameworks &#8220;frontend&#8221; ao longo dos últimos anos, e sendo um entusiasta ao estudá-los e criar conteúdo sobre eles. Talvez o primeiro framework que tenhamos mais destaque (após a geração jQuery) foi o AngularJS, que está forte até hoje, mas já possui o seu sucessor, o Angular 2 (atualmente na versão beta). Também temos o React e o Aurelia nesse jogo, e além de todos estes, temos o framework que iremos abordar neste artigo, o Vue.js (pronuncia-se view).
 

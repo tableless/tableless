@@ -20,7 +20,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503032254
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Atom, Flash, Python e mais!

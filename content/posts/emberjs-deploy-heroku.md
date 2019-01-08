@@ -11,7 +11,6 @@ tags:
   - emberjs
   - Técnicas e Práticas
   - Tooling
-  - heroku
   - reactjs
   - angularjs
 ---

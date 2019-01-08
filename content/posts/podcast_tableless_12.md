@@ -19,7 +19,7 @@ twittercomments:
   - 'a:0:{}'
 dsq_thread_id: 503033750
 categories:
-  - Podcasts
+  - podcast
 
 ---
 Convidamos à mesa para nos ajudar nesse podcast o podcaster macmaníaco [Gui Leite][1], e também os nerds [Bruno Torres][2], [Danilo Medeiros][3], [Thiago Rigonatti][4] e [Eu][5] (Diego Eis). 

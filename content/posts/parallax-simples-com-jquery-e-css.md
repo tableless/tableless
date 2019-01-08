@@ -5,20 +5,12 @@ type: post
 date: 2013-01-14
 excerpt: Faça o efeito parallax com 3 passos simples.
 url: /parallax-simples-com-jquery-e-css/
-tweetbackscheck:
-  - 1356325721
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7592";s:7:"tinyurl";s:26:"https://tinyurl.com/cjtr2qg";s:4:"isgd";s:19:"https://is.gd/N0NxVG";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 1024953901
 categories:
   - Javascript
   - JQuery
-  - O Básico
+  - CSS
   - Técnicas e Práticas
 tags:
-  - Javascript
   - JQuery
   - parallax
 

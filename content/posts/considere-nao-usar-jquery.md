@@ -10,11 +10,9 @@ titulo_personalizado:
   - 'E se você tentasse utilizar <strong>menos jQuery?</strong>'
 categories:
   - Javascript
-  - JQuery
 tags:
-  - Javascript
   - JQuery
-
+  - Javascript
 ---
 Como todo novo começo, você aproveita para tentar fazer melhor e diferente. Com o novo design do Tableless, decidi tentar melhorar duas coisas: 1) a montagem do WordPress. 2) Fazer as funções JS sem o JQuery.
 

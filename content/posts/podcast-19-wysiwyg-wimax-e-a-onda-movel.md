@@ -17,7 +17,7 @@ tweetcount:
 dsq_thread_id: 503034991
 categories:
   - Geral
-  - Podcasts
+  - podcast
 tags:
   - cotidiano
   - google

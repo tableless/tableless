@@ -23,7 +23,7 @@ dsq_thread_id: 503036265
 categories:
   - Browsers
   - CSS
-  - Podcasts
+  - podcast
   - Tecnologia e Tendências
 tags:
   - CSS

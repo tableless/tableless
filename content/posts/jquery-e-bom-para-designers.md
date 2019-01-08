@@ -4,35 +4,11 @@ authors: Michael Granados
 type: post
 date: 2008-08-05
 url: /jquery-e-bom-para-designers/
-aktt_tweeted:
-  - 1
-aktt_notify_twitter:
-  - yes
-tweetbackscheck:
-  - 1356204785
-shorturls:
-  - 'a:3:{s:9:"permalink";s:51:"https://tableless.com.br/jquery-e-bom-para-designers";s:4:"isgd";s:19:"https://is.gd/xpGS0V";s:7:"tinyurl";s:26:"https://tinyurl.com/4y4oo7d";}'
-twittercomments:
-  - 'a:1:{i:216197732229066753;s:7:"retweet";}'
-tweetcount:
-  - 1
-dsq_thread_id: 503038371
 categories:
-  - JQuery
-tags:
-  - criação
   - Javascript
+  - Design
+tags:
   - JQuery
-  - menu
-  - padroes
-  - programação
-  - script
-  - slide
-  - solução
-  - submenu
-  - tableless
-  - tutorial
-
 ---
 No começo da web JavaScript era considerado uma linguagem de programação completamente difícil e inútil. Afinal, depois de uma semana estudando a linguagem, o sujeito só conseguia escrever um script que validasse um formulário de contato que muitas vezes dava erro em outros browsers que não o Internet Explorer. Isso acontecia porque tanto o Netscape quanto o Browser azul tinha seus prórpios padrões de implementações de solução para o Javascript que era ainda estava engatinhando como linguagem.
 

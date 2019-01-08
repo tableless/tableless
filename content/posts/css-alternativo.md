@@ -58,4 +58,3 @@ Fácil não é?
 Mas é bem mais legal quando você faz um script decente, que guarda a opção no cache e tudo mais. Fica mais interativo.
 
  [1]: https://tableless.com.br/video-tutorial-9-criando-a-home-da-visie-css
- [2]: https://visie.com.br/

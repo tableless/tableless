@@ -4,25 +4,14 @@ authors: Diego Eis
 type: post
 date: 2008-08-31
 url: /videos-wordpress-internetmovel-mais/
-aktt_tweeted:
-  - 1
-aktt_notify_twitter:
-  - no
-tweetbackscheck:
-  - 1356396428
-shorturls:
-  - 'a:3:{s:9:"permalink";s:59:"https://tableless.com.br/videos-wordpress-internetmovel-mais";s:7:"tinyurl";s:26:"https://tinyurl.com/3mzdq8j";s:4:"isgd";s:19:"https://is.gd/MV4dZl";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503038441
 categories:
   - Mobile
   - Vídeos Tutoriais
   - Wordpress
 tags:
+  - JQuery
   - cotidiano
   - Extensions
-  - JQuery
   - tableless
   - videos
   - videostutoriais
@@ -54,11 +43,7 @@ Conforme vou atualizando o conteúdo do site, vou reorganizando a segunda parte 
  [5]: https://tableless.com.br/internet-movel "Tudo sobre Internet Móvel"
  [6]: https://tableless.com.br/extensoes-do-firefox "Comentários e sugestões de Extensions de desenvolvimento web para Firefox"
  [7]: https://tableless.com.br/ "Fonte de informação sobre Desenvolvimento Web"
- [8]: https://campus.visie.com.br/ "Vídeos tutoriais sobre Tableless"
  [9]: https://visie.com.br/treinamentos/ "Curso de Ajax, Tableless e desenvolvimento web"
- [10]: https://campus.visie.com.br/ "Vídeos sobre Tableless e desenvolvimento web"
- [11]: https://campus.visie.com.br/
- [12]: https://campus.visie.com.br/campus/cadastrese "Cadastre-se grátis!"
  [13]: https://tableless.com.br/assine/ "Feed do Tableless"
  [14]: https://tableless.com.br/assine/
  [15]: https://twitter.com/

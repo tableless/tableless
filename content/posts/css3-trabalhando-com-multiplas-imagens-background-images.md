@@ -13,7 +13,7 @@ categories:
   - Design
   - HTML
   - HTML5
-  - Web Semântica
+  - Semântica
 tags:
   - CSS3
   - background

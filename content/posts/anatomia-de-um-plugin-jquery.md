@@ -5,23 +5,13 @@ type: post
 date: 2010-09-14
 excerpt: jQuery é um framework JavaScript, o mais sexy do pedaço, que transformou essa linguagem em uma das mais importantes ferramentas presentes no set de um webdesigner ou um desenvolvedor frontend. O que antes era chato e complicado, passou a ser extremamente dinâmico e elegante.
 url: /anatomia-de-um-plugin-jquery/
-aktt_notify_twitter:
-  - yes
-tweetbackscheck:
-  - 1356445418
-shorturls:
-  - 'a:3:{s:9:"permalink";s:52:"https://tableless.com.br/anatomia-de-um-plugin-jquery";s:7:"tinyurl";s:26:"https://tinyurl.com/3dv2fyc";s:4:"isgd";s:19:"https://is.gd/8RzJRK";}'
-twittercomments:
-  - 'a:0:{}'
 dsq_thread_id: 503039503
 categories:
+  - Javascript
   - Artigos
   - Código
-  - Javascript
-  - JQuery
   - Técnicas e Práticas
 tags:
-  - Javascript
   - JQuery
   - plugin
 

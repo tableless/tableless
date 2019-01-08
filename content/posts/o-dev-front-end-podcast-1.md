@@ -22,7 +22,7 @@ enclosure:
         audio/mpeg
         
 categories:
-  - Podcasts
+  - podcast
 tags:
   - Código
   - dev

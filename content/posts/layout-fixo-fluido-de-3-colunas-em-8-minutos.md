@@ -32,13 +32,7 @@ Na verdade a gravação foi feita em 7 minutos e 51 segundos.
   
 Neste vídeo mostro como faço para criar um layout básico de 3 colunas. Esta técnica tem um diferencial: retirando apenas uma linha do CSS, o layout passa de fixo, para fluido (como o layout do submarino ou americanas). Isso dá várias possibilidades de layout para o designer e poupa muito trabalho da equipe ao redesenhar e modificar o layout.
 
-Se quiser ver o exemplo com o código fonte, [clique aqui][1].
-  
-<!--more-->
-
-
-  
-.
+<iframe src="https://player.vimeo.com/video/1148661" width="640" height="401" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
   
 [Link direto para o vídeo Layout fixo/fluido de 3 colunas em 8 minutos][2].
 
@@ -53,5 +47,3 @@ Se você quiser mais vídeos e em alta-resolução, visite o [Campus Online][4].
  [1]: https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2008/06/3colunas-oitominutos.html
  [2]: https://www.vimeo.com/1148661?pg=embed&sec=1148661
  [3]: https://tableless.com.br/sobre-nomes-e-sobrenomes
- [4]: https://campus.visie.com.br/ "Vídeo aulas sobre Tableless e Ajax."
- [5]: https://campus.visie.com.br/ "Vídeos sobre Tableless e Ajax"

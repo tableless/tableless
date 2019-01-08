@@ -27,9 +27,9 @@ enclosure:
 dsq_thread_id: 503040154
 categories:
   - Código
-  - Drops
+  - podcast
   - HTML
-  - Podcasts
+  - podcast
 tags:
   - cotidiano
   - desenvolvimento web

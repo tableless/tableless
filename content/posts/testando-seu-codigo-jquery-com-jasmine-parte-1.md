@@ -5,21 +5,14 @@ type: post
 date: 2011-09-12
 excerpt: 'Com a evolução do desenvolvimento em JavaScript, testes automatizados começam a ganhar cada vez mais força. Neste artigo você conhece um pouco mais sobre a biblioteca Jasmine, focada em BDD &mdash;  Behavior Driven Development.'
 url: /testando-seu-codigo-jquery-com-jasmine-parte-1/
-tweetbackscheck:
-  - 1356408208
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4187";s:7:"tinyurl";s:26:"https://tinyurl.com/3mlgjzg";s:4:"isgd";s:19:"https://is.gd/1Aob5g";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503040397
 categories:
   - Javascript
   - JQuery
 tags:
+  - JQuery
   - bdd
   - jasmine
   - Javascript
-  - JQuery
   - tdd
 
 ---

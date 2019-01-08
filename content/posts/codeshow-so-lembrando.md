@@ -23,12 +23,5 @@ Para quem tem dúvidas sobre o evento, [vale dar uma olhada neste FAQ que fizemo
 
 OBS.: [A Visie ainda está precisando de gente][9]! Se você acha que se encaixa em alguma das vagas, por favor, entre em contato!
 
- [1]: https://visie.com.br/codeshow/
  [2]: https://brunotorres.net/
- [3]: https://visie.com.br/cursos/professores.pt
- [4]: https://visie.com.br/
  [5]: https://brunotorres.net/curso-de-acessibilidade-visie-codeshow
- [6]: https://visie.com.br/cursos/acessibilidade.pt
- [7]: https://visie.com.br/cursos/presencial.pt
- [8]: https://visie.com.br/blog/codeshow-perguntas-e-respostas
- [9]: https://visie.com.br/blog/ha-vagas-na-visie

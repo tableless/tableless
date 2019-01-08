@@ -11,7 +11,7 @@ categories:
   - Opinião
   - Semântica
   - Técnicas e Práticas
-  - Web Semântica
+  - Semântica
 tags:
   - acessibilidade
 

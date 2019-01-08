@@ -20,7 +20,7 @@ enclosure:
         audio/mpeg
         
 categories:
-  - Podcasts
+  - podcast
 tags:
   - 2012
   - acessibilidade

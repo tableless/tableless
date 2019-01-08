@@ -7,12 +7,10 @@ excerpt: Você já pensou no futuro do jQuery?
 url: /o-futuro-jquery/
 dsq_thread_id: 2336134935
 categories:
-  - JQuery
+  - Javascript
   - Traduções
 tags:
-  - Javascript
   - JQuery
-
 ---
 Desde quando o jQuery foi lançado em 2006, ele se tornou extremamente indispensável no dia-a-dia do desenvolvimento web. Ele é usado em pelo menos 60% dos websites mais visitados e sem dúvida é uma das bibliotecas client-side mais usadas hoje em dia.
 

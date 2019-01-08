@@ -13,7 +13,7 @@ twittercomments:
 dsq_thread_id: 503035091
 categories:
   - Geral
-  - Podcasts
+  - podcast
 tags:
   - blogbits
   - cotidiano
