@@ -44,7 +44,7 @@ Porém o tempo necessário para esta alteração tende a ser elevado, sem contar
 
 Tendo isso em mente, pensei em uma solução que pudesse ser implementada de forma genérica, algum tipo de camada de compatibilidade que permitiria que as funções descontinuadas pudessem ser utilizadas nas últimas versões do PHP, isso permitiria aplicar a solução rapidamente em diversas aplicações.
 
-Desta ideia nasceu a biblioteca [PHP5 Compatibility Layer](https://github.com/fbraz3), ao qual disponibilizo para quem necessitar migrar de versão ou mesmo efetuar benchmarkings com a aplicação com php7.
+Desta ideia nasceu a biblioteca [PHP5 Compatibility Layer](https://github.com/fbraz3/php5-compatibility-layer), ao qual disponibilizo para quem necessitar migrar de versão ou mesmo efetuar benchmarkings com a aplicação com php7.
 
 Para instalar a biblioteca, pode ser utilizado o [composer](https://getcomposer.org/).
 
