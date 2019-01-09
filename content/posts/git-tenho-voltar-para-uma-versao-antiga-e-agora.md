@@ -43,14 +43,18 @@ Comando para listar as versões: `git tag`.
 
 Por exemplo:
 
-    $[develop] 
+```
+$[develop]
+```
 
 se a quantidade de versões é grande, você pode digitar `git tag -l "v2.*"` para
 listar apenas as versões 2.x.
 
 ## 2. Faça o checkout para a versão desejada, no nosso caso, a versão v2.19.0.
 
-    $[develop] 
+```
+$[develop] 
+```
 
 Sua tela se parecerá com essa:
 
@@ -58,7 +62,7 @@ Nesse momento, todos os arquivos da sua aplicação, voltaram ao estado antigo.
 Todas as modificações e outros arquivos adicionados a partir da versão v2.19.0
 não existem.
 
-Você está dentro da versão [**v2.19.0]**.
+Você está dentro da versão [**v2.19.0**].
 
 Para as etapas posteriores, podem existir várias maneiras de fazer, vou mostrar
 a que usamos.
@@ -70,11 +74,17 @@ Pois com isso, vamos manter os **commits **separados, para um maior controle.
 
 Por exemplo:
 
-    $[v2.19.0] 
+```
+$[v2.19.0] 
+```
+
 
 ficará dessa maneira.
 
-    $[feature-bugfix]
+```
+$[feature-bugfix]
+```
+
 
 ## 4. Gerando uma Nova Versão.
 
@@ -82,11 +92,17 @@ Após a correção dos bugs, **adicione** e **comite** suas alterações.
 
 Para adicionar, eu gosto sempre de usar o `git add .` .
 
-    $[feature-bugfix] 
+```
+$[feature-bugfix] 
+```
+
 
 comitando as alterações.
 
-    $[feature-bugfix] 
+```
+$[feature-bugfix] 
+```
+
 
 Vamos gerar a versão **v2.19.1**.
 
@@ -97,7 +113,10 @@ a versão.
 
 Gerando pela linha de comando.
 
-    $[feature-bugfix] 
+```
+$[feature-bugfix] 
+```
+
 
 ### Fazendo o Merge na Linha Principal de Desenvolvimento.
 
@@ -107,11 +126,17 @@ linha principal de desenvolvimento. Fizemos da seguinte forma:
 Com a versão v2.19.1, sem nenhuma pendência de modificações, realizamos o
 checkout para a branch **develop**.
 
-    $[v2.19.1] 
+```
+$[v2.19.1] 
+```
+
 
 Realizamos o merge, na linha de comando.
 
-    $[develop] 
+```
+$[develop] 
+```
+
 
 Na hora do merge tivemos alguns conflitos em alguns arquivos, resolvemos os
 mesmos, e depois realizamos o commit das alterações.
