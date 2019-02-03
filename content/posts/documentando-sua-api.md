@@ -39,7 +39,9 @@ HOST: http://polls.apiblueprint.org/
 Exemplo de API utilizando Apiary + Blueprint
 ```
 
-A primeira linha é a indicação que no nosso Markdown estamos escrevendo utilizando o **[Blueprint](https://apiblueprint.org/)**, a próxima linha é para conseguirmos testar nossa API diretamente do editor e por final o nome da nossa API.
+- A primeira linha indica que estamos utilizando o **[Blueprint](https://apiblueprint.org/)** no nosso Markdown.
+- A segunda linha é para conseguirmos testar nossa API diretamente do editor.
+- Por final temos o nome e uma descrição da nossa API.
 
 Vamos começar escrevendo nosso primeiro recurso:
 
@@ -66,15 +68,17 @@ Agora que já temos um recurso definido, podemos começar a documentar as opera�
         ]
 ```
 
-É importante notar que as operações utilizam a convenção de um `Heading 3 = ###` e que também como estamos definindo as operações abaixo do recurso `## Usuários [/usuarios]` que foi criado anteriormente, precisamos apenas informar o tipo da ação desejada, no exemplo acima um `[GET]`.
+É importante notar que as operações utilizam a convenção de um `Heading 3 = ###`.
 
-Outra ponto que é necessário ter atenção e na identação do Markdown, pois se ela estiver errada a sua documentação não irá funcionar, porém fique tranquilo nesse ponto pois o **Apiary** faz a validação e caso tenha algum erro te informa a linha.
+Como estamos definindo as operações abaixo do recurso `## Usuários [/usuarios]` que foi criado anteriormente, precisamos apenas informar o tipo da ação desejada, no exemplo acima um `[GET]`.
+
+Outra ponto que é necessário ter atenção, é na identação do Markdown, pois se ela estiver errada a sua documentação não irá funcionar, porém fique tranquilo nesse ponto pois o **Apiary** faz a validação e caso tenha algum erro te informa a linha.
 
 # Melhorando nossa documentação com o MSON
 
-Antes de continuarmos e mostrar outros exemplos, vamos melhorar a nossa documentação com [MSON](https://github.com/apiaryio/mson).
+Antes de continuar e mostrar outros exemplos, vamos melhorar a nossa documentação com [MSON](https://github.com/apiaryio/mson).
 
-O **MSON** vêm de *Markdown Syntax for Object Notation*, ele é totalmente compatível com JSON e nos ajuda a evitar a repetição e a manter uma documentação bem organizada.
+O **MSON** vêm de *Markdown Syntax for Object Notation*, ele é totalmente compatível com JSON e nos ajuda a evitar a repetição e manter uma documentação bem organizada.
 
 No final do nosso Markdown, vamos adicionar uma seção chamada `# Data Structures` e modificar nosso recurso anterior para utilizar a entidade criada.
 
@@ -89,7 +93,7 @@ No final do nosso Markdown, vamos adicionar uma seção chamada `# Data Structur
 
 ## Usuario (object)
 
-- login: "jose_silva" (string, required)
+- login: "JoseSilva" (string, required)
 - name: José da Silva (string, required)
 - age: 40 (number)
 
@@ -101,16 +105,16 @@ No final do nosso Markdown, vamos adicionar uma seção chamada `# Data Structur
 Algumas modificações importantes:
 
 - Definimos a estrutura `Usuario` e `UsuarioInstance` com suas respectivas propriedades.
-- A estrutura `UsuarioInstance` herda todas as propriedades de `Usuario` e adicionar o atributo `id`. Essa separação será importante principalmente na hora que estivermos criando o recurso `POST`.
-- Nosso endpoint foi alterado para conter uma nova lista chamada `attributes` que irá retornar a propriedade `data` que contém um array de Usuarios.
+- A estrutura `UsuarioInstance` herda todas as propriedades de `Usuario` e adicionar o atributo `id`. Essa separação será importante principalmente na hora que criarmos o método `POST`.
+- Nosso endpoint foi alterado para conter uma nova lista chamada `attributes` que irá retornar uma propriedade `data` que contém um array de `UsuarioInstance`.
 
-A vantagem de utilizarmos o **MSON** é que temos objetos reusáveis (isso ficará mais evidente quando formos definir mais endpoints), além de facilitar a manutenção e possíveis modificações na nossa API.
+A vantagem de utilizar o **MSON** é que temos objetos reusáveis (isso ficará mais evidente quando formos definir mais endpoints), além de facilitar a manutenção e possíveis modificações futuras na nossa API.
 
-Aconselho fortemente que você de uma lida no [tutorial](https://github.com/apiaryio/mson/blob/master/Tutorial.md) e no [README](https://github.com/apiaryio/mson) do projeto, pois existe uma grande quantidade de coisas que podemos declarar para facilitar nossa vida (herença, type definitions, enum, etc).
+Aconselho fortemente uma lida no [tutorial](https://github.com/apiaryio/mson/blob/master/Tutorial.md) e no [README](https://github.com/apiaryio/mson) do projeto. Existe uma grande quantidade de coisas que podemos declarar para facilitar nossa vida (herença, type definitions, enum, etc).
 
 # Finalizando nosso recurso /usuarios
 
-Vamos escrever mais alguns endpoints para o nosso Usuário.
+Vamos escrever mais alguns endpoints para o nosso `/usuario`.
 
 ```
 ### Recuperar um usuário [GET /{id}]
@@ -145,10 +149,10 @@ Vamos escrever mais alguns endpoints para o nosso Usuário.
 
 Pontos importantes:
 
-- Incluímos a possibilidade de passar parâmetros nas nossas requisições. Como por exemplo o `GET /{id}]`, onde estamos informando que vamos ter um recurso `/usuarios/{id}`.
+- Incluímos a possibilidade de passar parâmetros nas nossas requisições. Como por exemplo o `GET /{id}]`.
 - Criamos uma response de `404 - Not Found` caso determinado usuário não seja encontrado pelo id.
 - Temos um endpoint para a criação de um novo usuário. Importante reparar o uso tanto da estrutura `Usuario` no momento do `request`, quanto da estrutura `UsuarioInstance` no momento do `response`.
-- Podemos chamar o verbo `DELETE` para remover um usuário, e agora reparamos que o response está vazio apenas com o status `204`.
+- Podemos chamar o verbo `DELETE` para remover um usuário, e o response será vazio apenas retornando o status `204`.
 
 # Exemplo completo
 
@@ -201,7 +205,7 @@ Exemplo de API utilizando Apiary + Blueprint
 
 ## Usuario (object)
 
-- login: "jose_silva" (string, required)
+- login: "JoseSilva" (string, required)
 - name: José da Silva (string, required)
 - age: 40 (number)
 
