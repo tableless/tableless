@@ -209,3 +209,15 @@ Exemplo de API utilizando Apiary + Blueprint
 
 - id: "abc123" (string, required)
 ```
+
+# Conclusão
+
+Esse post foi para mostrar uma ferramenta muito útil para a criação da documentação de nossas APIs. Vimos que é simples utilizar o **Blueprint** e que podemos utilizar o **MSON** para deixar as coisas um pouco mais robustas e fáceis de se alterar no futuro.
+
+O **Apiary** nos fornece uma série de outras funcionalidades super úteis que não foram abordadas nesse post.
+
+Aconselho para quem quer se aprofundar no tema que consulte os seguintes materiais de referência:
+
+- [Blueprint](https://apiblueprint.org/)
+- [Apiary](https://apiary.io/how-apiary-works)
+- [MSON](https://github.com/apiaryio/mson)
