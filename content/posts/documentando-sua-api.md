@@ -17,3 +17,92 @@ Preciso confessar de que nunca gostei de fazer documentação das APIs que desen
 Porém, conforme você vai ganhando experiência e trabalhando com times de desenvolvimentos maiores e mais descentralizados, fica nítido de que uma boa documentação é tão fundamental quanto uma boa API. Além disso, se sua API for para uso público ter uma boa documentação não é opção, mas sim uma obrigação.
 
 Nesse post vamos ver como utilizar o **Apiary** e **Blueprint** para escrever a especificação das nossas APIs. Se você está buscando uma forma simples e efetiva de executar essa tarefa, garanto que essa é uma excelente escolha.
+
+# O que é Apiary?
+
+[Apiary](https://apiary.io/) é uma plataforma completa que possibilita o design, prototipação, documentação e testes da sua API.
+
+Com a ferramenta é possível escrever um mock da sua API muito rápido e com isso fazer os testes, pedir opinião, compartilhar com os clientes e colegas que irão consumir seu serviço e com isso a codificação de fato será muito mais assertiva.
+
+Para começar, é necessário [criar um usuário no site](https://login.apiary.io/register), que pode ser feito inclusive através da sua conta do GitHub.
+
+# Escrevendo seu primeiro Endpoint
+
+A primeira coisa que encontramos é o cabeçalho da nossa API.
+
+```
+FORMAT: 1A
+HOST: http://polls.apiblueprint.org/
+
+# Foo Bar
+
+Exemplo de API utilizando Apiary + Blueprint
+```
+
+A primeira linha é a indicação que no nosso Markdown estamos escrevendo utilizando o **[Blueprint](https://apiblueprint.org/)**, a próxima linha é para conseguirmos testar nossa API diretamente do editor e por final o nome da nossa API.
+
+Vamos começar escrevendo nosso primeiro recurso:
+
+```
+## Usuários [/usuarios]
+```
+
+Para definir uma coleção, utilizamos um `Heading 2 = ##` e ao final entre `[]` definimos o nome do recurso, no nosso exemplo `/usuarios`.
+
+Agora que já temos um recurso definido, podemos começar a documentar as operações HTTP (GET, POST, PUT, DELETE) de maneira simples:
+
+```
+### Listar todos os usuários [GET]
+
++ Response 200 (application/json)
+
+        [
+            {
+                "id": "abc-123",
+                "login: "joao_silva",
+                "name": "João da Silva",
+                "age": 40,
+            }
+        ]
+```
+
+É importante notar que as operações utilizam a convenção de um `Heading 3 = ###` e que também como estamos definindo as operações abaixo do recurso `## Usuários [/usuarios]` que foi criado anteriormente, precisamos apenas informar o tipo da ação desejada, no exemplo acima um `[GET]`.
+
+Outra ponto que é necessário ter atenção e na identação do Markdown, pois se ela estiver errada a sua documentação não irá funcionar, porém fique tranquilo nesse ponto pois o **Apiary** faz a validação e caso tenha algum erro te informa a linha.
+
+# Melhorando nossa documentação com o MSON
+
+Antes de continuarmos e mostrar outros exemplos, vamos melhorar a nossa documentação com [MSON](https://github.com/apiaryio/mson).
+
+O **MSON** vêm de *Markdown Syntax for Object Notation*, ele é totalmente compatível com JSON e nos ajuda a evitar a repetição e a manter uma documentação bem organizada.
+
+No final do nosso Markdown, vamos adicionar uma seção chamada `# Data Structures` e modificar nosso recurso anterior para utilizar a entidade criada.
+
+```
+### Listar todos os usuários [GET]
+
++ Response 200 (application/json)
+    + Attributes
+        - data (array[Usuario])
+
+# Data Structures
+
+## Usuario (object)
+
+- id: 123 (string, required)
+- login: "jose_silva" (string, required)
+- name: José da Silva (string, required)
+- age: 40 (number)
+```
+
+Algumas modificações importantes:
+
+- Definimos a estrutura `Usuario` com suas respectivas propriedades
+- Nosso endpoint foi alterado para conter uma nova lista chamada `attributes` que irá retornar a propriedade `data` que contém um array de Usuarios.
+
+A vantagem de utilizarmos o **MSON** é que temos objetos reusáveis (isso ficará mais evidente quando formos definir mais endpoints), além de facilitar a manutenção e possíveis modificações na nossa API.
+
+Aconselho fortemente que você de uma lida no [tutorial](https://github.com/apiaryio/mson/blob/master/Tutorial.md) e no [README](https://github.com/apiaryio/mson) do projeto, pois existe uma grande quantidade de coisas que podemos declarar para facilitar nossa vida (herença, type definitions, enum, etc).
+
+
+
