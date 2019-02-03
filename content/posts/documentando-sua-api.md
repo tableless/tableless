@@ -72,7 +72,7 @@ Agora que já temos um recurso definido, podemos começar a documentar as opera�
 
 Como estamos definindo as operações abaixo do recurso `## Usuários [/usuarios]` que foi criado anteriormente, precisamos apenas informar o tipo da ação desejada, no exemplo acima um `[GET]`.
 
-Outra ponto que é necessário ter atenção, é na identação do Markdown, pois se ela estiver errada a sua documentação não irá funcionar, porém fique tranquilo nesse ponto pois o **Apiary** faz a validação e caso tenha algum erro te informa a linha.
+Outro ponto que é necessário ter atenção, é na identação do Markdown, pois se ela estiver errada a sua documentação não irá funcionar. Porém, fique tranquilo nesse ponto pois o **Apiary** faz a validação e caso tenha algum erro te informa a linha.
 
 # Melhorando nossa documentação com o MSON
 
