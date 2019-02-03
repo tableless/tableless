@@ -83,26 +83,129 @@ No final do nosso Markdown, vamos adicionar uma seção chamada `# Data Structur
 
 + Response 200 (application/json)
     + Attributes
-        - data (array[Usuario])
+        - data (array[UsuarioInstance])
 
 # Data Structures
 
 ## Usuario (object)
 
-- id: 123 (string, required)
 - login: "jose_silva" (string, required)
 - name: José da Silva (string, required)
 - age: 40 (number)
+
+## UsuarioInstance (Usuario)
+
+- id: "abc123" (string, required)
 ```
 
 Algumas modificações importantes:
 
-- Definimos a estrutura `Usuario` com suas respectivas propriedades
+- Definimos a estrutura `Usuario` e `UsuarioInstance` com suas respectivas propriedades.
+- A estrutura `UsuarioInstance` herda todas as propriedades de `Usuario` e adicionar o atributo `id`. Essa separação será importante principalmente na hora que estivermos criando o recurso `POST`.
 - Nosso endpoint foi alterado para conter uma nova lista chamada `attributes` que irá retornar a propriedade `data` que contém um array de Usuarios.
 
 A vantagem de utilizarmos o **MSON** é que temos objetos reusáveis (isso ficará mais evidente quando formos definir mais endpoints), além de facilitar a manutenção e possíveis modificações na nossa API.
 
 Aconselho fortemente que você de uma lida no [tutorial](https://github.com/apiaryio/mson/blob/master/Tutorial.md) e no [README](https://github.com/apiaryio/mson) do projeto, pois existe uma grande quantidade de coisas que podemos declarar para facilitar nossa vida (herença, type definitions, enum, etc).
 
+# Finalizando nosso recurso /usuarios
 
+Vamos escrever mais alguns endpoints para o nosso Usuário.
 
+```
+### Recuperar um usuário [GET /{id}]
+
++ Parameters
+    + id: "abc123" (string)
+
++ Response 200 (application/json)
+    + Attributes (UsuarioInstance)
+    
++ Response 404 (application/json)
+
+        {
+            "message": "Usuário não encontrado"
+        }
+    
+### Criar um usuário [POST]
+
++ Request (application/json)
+    + Attributes (Usuario)
+
++ Response 200 (application/json)
+    + Attributes (UsuarioInstance)
+
+### Deletar um usuário [DELETE /{id}]
+
++ Parameters
+    + id (string)
+
++ Response 204
+```
+
+Pontos importantes:
+
+- Incluímos a possibilidade de passar parâmetros nas nossas requisições. Como por exemplo o `GET /{id}]`, onde estamos informando que vamos ter um recurso `/usuarios/{id}`.
+- Criamos uma response de `404 - Not Found` caso determinado usuário não seja encontrado pelo id.
+- Temos um endpoint para a criação de um novo usuário. Importante reparar o uso tanto da estrutura `Usuario` no momento do `request`, quanto da estrutura `UsuarioInstance` no momento do `response`.
+- Podemos chamar o verbo `DELETE` para remover um usuário, e agora reparamos que o response está vazio apenas com o status `204`.
+
+# Exemplo completo
+
+```
+FORMAT: 1A
+HOST: http://polls.apiblueprint.org/
+
+# Foo Bar
+
+Exemplo de API utilizando Apiary + Blueprint
+
+## Usuários [/usuarios]
+
+### Listar todos os usuários [GET]
+
++ Response 200 (application/json)
+    + Attributes
+        - data (array[UsuarioInstance])
+
+### Recuperar um usuário [GET /{id}]
+
++ Parameters
+    + id: "abc123" (string)
+
++ Response 200 (application/json)
+    + Attributes (UsuarioInstance)
+    
++ Response 404 (application/json)
+
+        {
+            "message": "Usuário não encontrado"
+        }
+    
+### Criar um usuário [POST]
+
++ Request (application/json)
+    + Attributes (Usuario)
+
++ Response 200 (application/json)
+    + Attributes (UsuarioInstance)
+
+### Deletar um usuário [DELETE /{id}]
+
++ Parameters
+    + id (string)
+
++ Response 204
+
+# Data Structures
+
+## Usuario (object)
+
+- login: "jose_silva" (string, required)
+- name: José da Silva (string, required)
+- age: 40 (number)
+
+## UsuarioInstance (Usuario)
+
+- id: "abc123" (string, required)
+```
