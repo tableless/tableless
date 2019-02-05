@@ -4,18 +4,22 @@ authors: Morais Junior
 type: post
 image: https://about.gitlab.com/images/ci/ci-cd-test-deploy-illustration_2x.png
 date: 2019-02-05
-excerpt: Continuous Integration & Delivery é uma das partes mais importantes no trabalho de qualquer dev-ops, nesta artigo irei abordar como funciona este recurso no Gitlab. 
+excerpt: Continuous Integration & Delivery é uma das partes mais importantes no trabalho de qualquer dev-ops. 
 categories:
-  - DevOps
-  - Infra
-  - Gitlab
+  - Tecnologia e Tendências
+tags:
+ - DevOps
+ - Infra
+ - Gitlab
 ---
 # Continuous Integration & Delivery no Gitlab.com
-Creio que de todas as ferramentas que já trabalhei o gitlab-ci é uma das mais simples, basta incluir um arquivo chamado* .gitlab-ci.yml* na raiz do repositório e pronto sempre que tiver um commit ou deploy o gitlab vai subir maquinas e executar as tarefas descritas na sua configuração, a baixo vou explicar como montar esse arquivo.
+De todas as ferramentas que trabalhei, o gitlab-ci é uma das mais simples. Basta incluir um arquivo chamado _.gitlab-ci.yml_ na raiz do repositório. Com isso, ao ter um commit ou deploy, o gitlab vai executar as tarefas descritas na sua configuração, abaixo vou explicar como configurar esse arquivo.
 ## Pipeline
 No gitlab uma pipeline é um conjunto de tarefas e procedimentos a serem executados quando tiver alguma alteração no repositório, sejam eles, rodar o gulp, atualizar uma imagem docker, limpar um cache, fazer upload no seu bucket s3, qualquer coisa :)
 ## Jobs
-Job é cada tarefa dentro da pipeline, essas terefas podem ser dependentes umas das outras ou não, pode ser chamandas quando se faz um push ou via schedules, podem ser manuais e etc. Basicamente é um containner que o gitlab sobe execultando uma sequencia de comandos.
+Job é cada tarefa dentro da pipeline, essas tarefas podem ser dependentes umas das outras e chamadas quando se faz um push, via schedules,  manuais e etc. Basicamente é um container que o gitlab sobe executando uma sequência de comandos.
+## Runner
+Um Runner é o host onde o gitlab sobe as imagens da sua pipeline, ele já tem vários runners compartilhados de graça, mais se quiser pode incluir/registrar o seu particular.
 Ex:
 ```python
 job1:
@@ -24,9 +28,9 @@ job1:
 job2:
   script: "execute-script-for-job2"
 ```
-para esse exemplo sempre que ouver um push, a pipeline vai conter essas duas jobs, simples né?
+Neste exemplo, sempre que houver um push, a pipeline vai conter essas duas jobs, simples né?
 
-Ainda falando sobre jobs podemos ter *hidden jobs* que são tarefas que não aparecem na pipeline, pra isso é só colocar um . *ponto* no nome.
+Ainda sobre jobs, podemos ter tarefas que não aparecem na pipeline, conhecidas como hidden jobs. Basta colocar um ponto no nome.
 Ex:
 ```python
 .job1:
@@ -35,9 +39,9 @@ Ex:
 job2:
   script: "execute-script-for-job2"
 ```
-Nesse exemplo o job1 não será mostrado na pipeline. (mais a diante vocês vão entender como isso ajuda nossa vida)
+Nesse exemplo o job1 não será mostrado na pipeline. (mais adiante vocês vão entender como isso ajuda nossa vida)
 
-Outro item importante sobre tareflas são os *Anchors* que nada mais são do que modelos de tarefas que servem como uma especie de templates para evitar re-escrita de código. Ex:
+Outro item importante sobre tarefas são os *Anchors* que nada mais são do que modelos de tarefas que servem como uma espécie de templates para evitar re-escrita de código. Ex:
 ```python
 .job1: &modelo1
   key:value
@@ -46,9 +50,9 @@ job2:
 	<<: *modelo1
   script: "execute-script-for-job2"
 ```
-No exemplo acima a tarefa 2 vai herdar as configurações da tarefa que tem a ancora modelo1.
+No exemplo acima a tarefa 2 vai herdar as configurações da tarefa que tem a âncora modelo1.
 
-por ultimo, porem não menos importarnte são os *stages* nada mais é que uma forma de vc controlar a sequencia que suas tarefas serão execultadas. Ex:
+por último, porém não menos importante são os *stages* nada mais é que uma forma de vc controlar a sequência que suas tarefas serão executadas. Ex:
 ```python
 stages:
   - test
@@ -62,7 +66,7 @@ job2:
   stage: test
   script: "comando-depois-do-primeiro"
 ```
-No exemplo acima as tarefas seram executadas uma apos da outra, caso não tenha a definição de stages as tarefas entram em paralelo, isso é ruim pois por exemplo o deploy pode terminar antes de rodarem os testes.
+No exemplo acima as tarefas serão executadas uma após da outra, caso não tenha a definição de stages as tarefas entram em paralelo, isso é ruim pois por exemplo o deploy pode terminar antes de rodarem os testes.
 
 tendo entendido estes conceitos, iremos entrar nos detalhes sobre a criação de uma tarefa no gitlab:
 ## script
@@ -73,7 +77,7 @@ tarefa:
     - echo "hello!" 
 ```
 ## before_script and after_script
-Aqui são comandos que vc precisa rodar antes ou depois do script. Ex:
+Aqui são comandos que você precisa rodar antes ou depois do script. Ex:
 ```python
 before_script:
   - global before script
@@ -94,7 +98,7 @@ tarefa:
   script:
     - test1 project  
 ```
-No exemplo acima ele vai iniciar um container com base na imagem *ruby* e rodar o comando *test1 project*, isso é muito comum nas pipelines pos normalmente você tem que iniciar um PHP da vida, gerar alguma coisa, depois sobe um NodeJS e roda algum gulp, cada tarefa pode receber uma imagem diferente.
+No exemplo acima ele vai iniciar um container com base na imagem *ruby* e rodar o comando *test1 project*, isso é muito comum nas pipelines pois normalmente você tem que iniciar um PHP da vida, gerar alguma coisa, depois sobe um NodeJS e roda algum gulp, cada tarefa pode receber uma imagem diferente.
 
 ## only and except
 Nessa configuração controlamos quando a tarefa vai rodar, se é só quando fizermos commit no master, ou via schedules, ou manual e etc. Ex:
@@ -109,13 +113,13 @@ job:
   except:
     - schedules 
 ```
-Existem varias opções nesse item que não vou entrar em detalhe, porem vale a pena dar uma olhada na documentação oficial do gitlab pois da pra fazer muita coisa com isso :)
+Existem várias opções nesse item que não vou entrar em detalhe, porém vale a pena dar uma olhada na documentação oficial do gitlab, dá pra fazer muita coisa com isso :)
 
 ## allow_failure
-Aqui é simples, em uma papeline linear, uma tarefa só será execultada se a anterior tiver tido sucesso, essa configuração faz com que uma tarefa que tiver falha não pare toda a pipeline, utilizamos muito isso para o caso de crowlers pois cada job tem um timeout padrão de 1h.
+Aqui é simples, em uma papeline linear, uma tarefa só será executada se a anterior tiver tido sucesso, essa configuração faz com que uma tarefa que tiver falha não pare toda a pipeline, utilizamos muito isso para o caso de crowlers pois cada job tem um timeout padrão de 1h.
 
 ## environment
-Durante o desenvolvimento de um projeto é comum termos varias etapas, esté atributo é responsavel por fazer esse controle, podemos indicar varios ambientes em estagios diferentes, incluindo um para cada commit por ex.
+Durante o desenvolvimento de um projeto é comum termos várias etapas, este atributo é responsável por fazer esse controle, podemos indicar vários ambientes em estágios diferentes, incluindo um para cada commit por ex.
 ```python
 embiente:
   stage: deploy
@@ -136,21 +140,21 @@ job:
       - .config
 ```
 ## Retry
-Aqui definimos o nomero de tentativas que o Gitlab deve tentar para rodar um job em caso de falha:
+Aqui definimos o número de tentativas que o Gitlab deve tentar para rodar um job em caso de falha:
 ```python
 test:
   script: rspec
   retry: 2
 ```
 ## Parallel
-Este é simples, podemos execultar até 50 instancias do job em paralelo:
+Este é simples, podemos executar até 50 instâncias do job em paralelo:
 ```python
 test:
   script: rspec
   parallel: 5
 ```
 ## Artifacts
-Artifactis é utilizado para definir uma lista de arquivos ou diretórios para serem anexado ao job diferentimente do "cache" nesse atributo o job precisa terminar, os arquivos serão visualizados pelo job seguinte ex:
+Artifactis é utilizado para definir uma lista de arquivos ou diretórios para serem anexado ao job diferentemente do "cache" nesse atributo o job precisa terminar, os arquivos serão visualizados pelo job seguinte ex:
 ```python
 default-job:
   script:
@@ -169,6 +173,6 @@ release-job:
 ```
 
 # Conclusão
-Automatizar deploy é praticamente uma obrigação em tempos de entregas constantes, o Gitlab nos fornece uma ferramenta simples de configurar e com todos os recursos nescessarios para qualquer infra, recomendo lerem a documentação completa em: [https://docs.gitlab.com/ee/ci/yaml/](https://docs.gitlab.com/ee/ci/yaml/ "https://docs.gitlab.com/ee/ci/yaml/")
+Automatizar deploy é praticamente uma obrigação em tempos de entregas constantes, o Gitlab nos fornece uma ferramenta simples de configurar e com todos os recursos necessários para qualquer infra, recomendo lerem a documentação completa em: [https://docs.gitlab.com/ee/ci/yaml/](https://docs.gitlab.com/ee/ci/yaml/ "https://docs.gitlab.com/ee/ci/yaml/")
 OBS:
 Para completar ainda tem o plano free com runners compartilhados que atendem bem até projetos grandes :)
