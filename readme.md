@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/271fd5a3-32a3-49e4-9bd9-2c88197e84ba/deploy-status)](https://app.netlify.com/sites/tableless/deploys)
+
 # Tableless estático baseado em Hugo
 Este é o site do Tableless estático. Nada de Wordpress, nem qualquer outro CMS back-end. Os artigos são escritos em Markdown, com um frontmatter em yaml fácil de entender.
 
