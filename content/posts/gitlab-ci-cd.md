@@ -19,7 +19,7 @@ No gitlab uma pipeline é um conjunto de tarefas e procedimentos a serem executa
 ## Jobs
 Job é cada tarefa dentro da pipeline, essas tarefas podem ser dependentes umas das outras e chamadas quando se faz um push, via schedules,  manuais e etc. Basicamente é um container que o gitlab sobe executando uma sequência de comandos.
 ## Runner
-Um Runner é o host onde o gitlab sobe as imagens da sua pipeline, ele já tem vários runners compartilhados de graça, mais se quiser pode incluir/registrar o seu particular.
+Um Runner é o host onde o gitlab sobe as imagens da sua pipeline, ele já tem vários runners compartilhados de graça, mas pode incluir/registrar o seu particular.
 Ex:
 ```python
 job1:
@@ -41,7 +41,7 @@ job2:
 ```
 Nesse exemplo o job1 não será mostrado na pipeline. (mais adiante vocês vão entender como isso ajuda nossa vida)
 
-Outro item importante sobre tarefas são os *Anchors* que nada mais são do que modelos de tarefas que servem como uma espécie de templates para evitar re-escrita de código. Ex:
+As *Anchors* é outro item importante das tarefas, elas são modelos de tarefas que servem como uma espécie de templates, com isso, evitar re-escrita de código.
 ```python
 .job1: &modelo1
   key:value
@@ -52,7 +52,7 @@ job2:
 ```
 No exemplo acima a tarefa 2 vai herdar as configurações da tarefa que tem a âncora modelo1.
 
-por último, porém não menos importante são os *stages* nada mais é que uma forma de vc controlar a sequência que suas tarefas serão executadas. Ex:
+Por último, temos os stages. Stages são uma forma para controlar a sequência que as tarefas serão executadas. Ex:
 ```python
 stages:
   - test
@@ -66,9 +66,9 @@ job2:
   stage: test
   script: "comando-depois-do-primeiro"
 ```
-No exemplo acima as tarefas serão executadas uma após da outra, caso não tenha a definição de stages as tarefas entram em paralelo, isso é ruim pois por exemplo o deploy pode terminar antes de rodarem os testes.
+No exemplo acima, as tarefas serão executadas consecutivamente. Porém, se não houver a definição de stages, as tarefas entram em paralelo. Isso torna-se ruim, pois o deploy pode terminar antes dos testes serem executados.
 
-tendo entendido estes conceitos, iremos entrar nos detalhes sobre a criação de uma tarefa no gitlab:
+Após entender estes conceitos, podemos entrar nos detalhes sobre a criação de uma tarefa no gitlab:
 ## script
 Nessa configuração vão os comandos que precisam ser executados em cada tarefa. Ex:
 ```python
@@ -77,7 +77,7 @@ tarefa:
     - echo "hello!" 
 ```
 ## before_script and after_script
-Aqui são comandos que você precisa rodar antes ou depois do script. Ex:
+Comandos que você precisa rodar antes ou depois do script: Ex:
 ```python
 before_script:
   - global before script
@@ -91,15 +91,14 @@ job:
     - execute this after my script
 ```
 ## image
-Aqui temos o mesmo conceito da chamada de um container, o exemplo creio que é auto-explicativo:
+O mesmo conceito da chamada de um container: o exemplo creio que é auto-explicativo:
 ```python
 tarefa:
   image: ruby:2.1
   script:
     - test1 project  
 ```
-No exemplo acima ele vai iniciar um container com base na imagem *ruby* e rodar o comando *test1 project*, isso é muito comum nas pipelines pois normalmente você tem que iniciar um PHP da vida, gerar alguma coisa, depois sobe um NodeJS e roda algum gulp, cada tarefa pode receber uma imagem diferente.
-
+Neste exemplo, vai iniciar um container com base na imagem ruby e rodar o comando test1 project. Isso é muito comum nas pipelines, pois normalmente você deve iniciar o PHP e gerar alguma coisa. Após sobe o NodeJS e roda o gulp, cada tarefa pode receber uma imagem diferente.
 ## only and except
 Nessa configuração controlamos quando a tarefa vai rodar, se é só quando fizermos commit no master, ou via schedules, ou manual e etc. Ex:
 ```python
