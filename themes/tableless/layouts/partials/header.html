@@ -91,7 +91,6 @@
   {{ if $.Scratch.Get "single"}}
   <meta property="og:type" content="article">
 
-<script type="text/javascript" src="//ads.vidoomy.com/tableless_2906.js" ></script>
   <script type="application/ld+json">
     { "@context": "https://schema.org",
       "@type": "Article",
@@ -134,7 +133,22 @@
   </script>
   <script async type="text/javascript" src="https://s.clickiocdn.com/t/pb210746.js"></script>
   <script async type="text/javascript" src="https://s.clickiocdn.com/t/common_258.js"></script>
-
+  <script
+  src="http://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+  <script type="text/javascript">
+    (function($){
+    setInterval(() => {
+        $.each($('iframe'), (arr,x) => {
+            let src = $(x).attr('src');
+            if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
+                $(x).remove();
+            }
+        });
+    }, 300);
+})(jQuery);
+  </script>
 </head>
 <body>
 
