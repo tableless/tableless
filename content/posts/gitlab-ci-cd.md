@@ -91,7 +91,7 @@ job:
     - execute this after my script
 ```
 ## image
-O mesmo conceito da chamada de um container: o exemplo creio que é auto-explicativo:
+O mesmo conceito da chamada de um container:
 ```python
 tarefa:
   image: ruby:2.1
