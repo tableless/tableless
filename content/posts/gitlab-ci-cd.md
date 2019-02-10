@@ -3,7 +3,7 @@ title: Continuous Integration & Delivery no Gitlab.com
 authors: Morais Junior
 type: post
 image: https://about.gitlab.com/images/ci/ci-cd-test-deploy-illustration_2x.png
-date: 2019-02-05
+date: 2019-02-10
 excerpt: Continuous Integration & Delivery é uma das partes mais importantes no trabalho de qualquer dev-ops. 
 categories:
   - Tecnologia e Tendências
