@@ -1,9 +1,9 @@
 ---
-title: Continuous Integration & Delivery no Gitlab.com
+title: Continuous Integration & Delivery no Gitlab
 authors: Morais Junior
 type: post
 image: https://about.gitlab.com/images/ci/ci-cd-test-deploy-illustration_2x.png
-date: 2019-02-10
+date: 2019-02-12
 excerpt: Continuous Integration & Delivery é uma das partes mais importantes no trabalho de qualquer dev-ops. 
 categories:
   - Tecnologia e Tendências
@@ -12,12 +12,12 @@ tags:
  - Infra
  - Gitlab
 ---
-# Continuous Integration & Delivery no Gitlab.com
-De todas as ferramentas que trabalhei, o gitlab-ci é uma das mais simples. Basta incluir um arquivo chamado _.gitlab-ci.yml_ na raiz do repositório. Com isso, ao ter um commit ou deploy, o gitlab vai executar as tarefas descritas na sua configuração, abaixo vou explicar como configurar esse arquivo.
+# Continuous Integration & Delivery no Gitlab
+De todas as ferramentas que trabalhei, o gitlab-ci é uma das mais simples. Basta incluir um arquivo chamado _.gitlab-ci.yml_ na raiz do repositório. Com isso, ao ter um commit ou deploy, o GitLab vai executar as tarefas descritas na sua configuração, abaixo vou explicar como configurar esse arquivo.
 ## Pipeline
-No GitLab uma pipeline é um conjunto de tarefas e procedimentos a serem executados quando tiver alguma alteração no repositório, sejam eles, rodar o gulp, atualizar uma imagem docker, limpar um cache, fazer upload no seu bucket s3, qualquer coisa :)
+No GitLab uma pipeline é um conjunto de tarefas e procedimentos a serem executados quando tiver alguma alteração no repositório, sejam eles, rodar o gulp, atualizar uma imagem docker, limpar cache, fazer upload no seu bucket s3, qualquer coisa :)
 ## Jobs
-Job é cada tarefa dentro da pipeline, essas tarefas podem ser dependentes umas das outras e chamadas quando se faz um push, via schedules,  manuais e etc. Basicamente é um container que o GitLab sobe executando uma sequência de comandos.
+Job é cada tarefa dentro da pipeline, essas tarefas podem ser dependentes umas das outras e chamadas quando faz um push, via schedules,  manuais e etc. Basicamente é um container que o GitLab sobe executando uma sequência de comandos.
 ## Runner
 Um Runner é o host onde o GitLab sobe as imagens da sua pipeline, ele já tem vários runners compartilhados de graça, mas pode incluir/registrar o seu particular.
 Ex:
@@ -39,7 +39,7 @@ Ex:
 job2:
   script: "execute-script-for-job2"
 ```
-Nesse exemplo o job1 não será mostrado na pipeline. (mais adiante vocês vão entender como isso ajuda nossa vida)
+Nesse exemplo, o job1 não será mostrado na pipeline. (mais adiante vocês vão entender como isso ajuda nossa vida)
 
 As *Anchors* é outro item importante das tarefas, elas são modelos de tarefas que servem como uma espécie de templates, com isso, evitar re-escrita de código.
 ```python
@@ -115,7 +115,7 @@ job:
 Existem várias opções. Porém, não entraremos em detalhes, vale a pena olhar a documentação oficial do GitLab, você pode fazer muita coisa com isso :)
 
 ## allow_failure
-Em uma papeline linear, uma tarefa só será executada se a anterior tiver tido sucesso. Essa configuração faz com que uma tarefa com falha não pare toda a pipeline, É utilizado no caso de crowlers, pois cada job tem um timeout padrão de 1h.
+Em uma papeline linear, uma tarefa só será executada se a anterior tiver tido sucesso. Essa configuração faz com que uma tarefa com falha não pare toda a pipeline. É utilizado no caso de crowlers, pois cada job tem um timeout padrão de 1h.
 
 ## environment
 Durante o desenvolvimento de um projeto é comum termos várias etapas, este atributo é responsável por fazer esse controle, podemos indicar vários ambientes em estágios diferentes, incluindo um para cada commit por ex.
