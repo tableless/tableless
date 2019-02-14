@@ -83,6 +83,7 @@ pages:
 - content/posts/classificando-o-conteudo-do-stack-exchange-parte-2.md
 - content/posts/conexao-kinghost-2018-call4papers.md
 - content/posts/hacking.rio-2018.md
+- content/posts/react-hooks.md
 - content/posts/explorando-metodo-bind-em-javascript.md
 - content/posts/como-implementer-serverless-com-openfaas-e-php.md
 - content/posts/veja-os-salarios-de-desenvolvedores-e-de-outras-profissoes-de-ti-em-alta.md
@@ -98,4 +99,3 @@ pages:
 - content/posts/programa-de-aceleração-de-desenvolvedores-acontece-em-2019.md
 - content/posts/criando-um-blog-pelo-seu-smartphone-veja-o-que-você-precisa-saber.md
 - content/posts/afinal-onde-aplicar-sua-business-logic.md
-- content/posts/regressão-linear-simples.md
