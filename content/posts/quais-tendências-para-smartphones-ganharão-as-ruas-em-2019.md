@@ -2,10 +2,10 @@
 authors = "Tableless"
 canonical = ""
 categories = ["tecnologia", "publieditorial"]
-date = "2019-01-01T00:00:00-02:00"
+date = "2019-02-01T00:00:00-02:00"
 excerpt = "O mundo dos smartphones esteve repleto de lançamentos potentes no ano passado. Quais as tendências para os próximos?"
 image = "https://i.imgur.com/gm7k75Z.jpg"
-publishdate = "2019-01-01T00:00:00-02:00"
+publishdate = "2019-02-01T00:00:00-02:00"
 sponsor = ""
 tags = []
 title = "Quais tendências para smartphones ganharão as ruas em 2019?"
