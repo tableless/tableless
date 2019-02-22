@@ -20,7 +20,7 @@ Porém, tudo fica mais complexo de explicar e dos outros entenderem, ao falar qu
 
 ![](https://cdn-images-1.medium.com/max/800/1*9fdYtWewhWbCNtL9Ui3j5A.png) <span class="figcaption_hack">O que as pessoas pensam sobre trabalho remoto</span>
 
-#### A grande desvantagem
+### A grande desvantagem
 
 Posso citar várias vantagens em trabalhar de casa, principalmente sobre não ficar no trânsito e perder um tempo considerável. Mas existe um lado ruim que, não tão prazeroso assim, e que a longo prazo pode tornar-se um problema sério ou até mesmo uma doença. A nossa casa é considerado um lugar de refúgio e acolhimento, onde as pessoas ficam a vontade. Porém, para mim ficar um dia sem sair de casa me deixa muito abalado. A melhor forma que consegui revolver essa questão:
 
@@ -30,7 +30,7 @@ Posso citar várias vantagens em trabalhar de casa, principalmente sobre não fi
 
 Acho que essa imagem foi capaz de expressar o sentimento na minha mente. 
 
-#### Priorize o importante
+### Priorize o importante
 
 **“Faça o que é importante e não o que é urgente”**, essa frase é incrível, infelizmente não sei quem é o autor. Isso pode parecer um pouco clichê, principalmente, porque eu sei que durante o dia as coisas não acontecem como queremos, muitas vezes o trem saí dos trilhos e nos tornamos apenas mais um passageiro da nossa própria vida (talvez fui um pouco dramático, mas mesmo assim você entendeu), te entendo. 
 
@@ -44,7 +44,7 @@ Durante esse tempo li essa frase: **“Produtividade não é sobre fazer muitas 
 
 ![](https://cdn-images-1.medium.com/max/800/0*OStNax37ZHE5pVrx) <span class="figcaption_hack">Colocar energia no essencial</span>
 
-#### Um pouco sobre hábitos
+### Um pouco sobre hábitos
 
 Há um bom tempo, estudo sobre esse assunto. A mente humana é fascinante, principalmente o que conseguimos fazer com ela. Você pode ler mais sobre hábitos nesse artigo [Uma forma simples de criar um bom hábito](https://tableless.com.br/uma-forma-simples-de-criar-um-bom-habito/). 
 
