@@ -36,7 +36,7 @@ Acho que essa imagem foi capaz de expressar o sentimento na minha mente.
 
 A verdade, eu não priorizava o importante (e as vezes ainda não priorizo), e como faria isso? Se o tempo é muito curto e quase sempre me via com coisas atrasadas.
 
-**Será que o que achamos importante é realmente importante? **
+**Será que o que achamos importante é realmente importante?**
 
 Minha decisão foi dolorida (juro), mas removi todos os canais do youtube, maioria das newsletter, diminui consideravelmente o tempo das redes sociais. Entre outras coisas que não estavam entre as coisas importantes. Tudo isso para conseguir tempo para o que realmente amo fazer ou para onde quero chegar. Confesso, fiz algumas mudanças mais radicais em minha vida, como acordar as 5:30 da madrugada. Cuidar de mim mesmo se tornou **PRIORIDADE** (O mais importante, a coisa mais valiosa), por exemplo, tomar café da manhã, tomar água logo cedo, estudar inglês, entre outras coisas que agora posso e consigo fazer ao acordar. OBS: obviamente para acordar cedo, tive que começar a dormir cedo.
 
