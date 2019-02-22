@@ -11,11 +11,9 @@ tags:
 image: https://cdn-images-1.medium.com/max/1600/0*ZCwoIZn7IoacviC2.jpg
 ---
 
-# Uma forma simples de criar um bom hábito
-
 Em algum momento você já fez alguma coisa e não lembrava como tinha feito? Já fez algum código, sem no mínimo pensar no que estava fazendo?
 
-Vamos fazer uma simples análise, pensemos no ato de tirar um carro da garagem. No início essa tarefa exigia mais concentração, pois ela envolve em destrancar a porta do carro, entrar no carro, ajustar o banco e os retrovisores, inserir a chave na ignição, entre outros tantos processos.  
+Vamos fazer uma simples análise, pensemos no ato de tirar um carro da garagem. No início essa tarefa exigia mais concentração, pois ela envolve em destrancar a porta do carro, entrar no carro, ajustar o banco e os retrovisores, inserir a chave na ignição, entre outros tantos processos.
 
 No entanto, depois de um tempo de prática, você faz tudo isso sem ao menos nem pensar. Isso é o que chamamos de hábitos, eles existem porque nosso cérebro procura maneiras de poupar esforços e nossa massa cinzenta está livre para outros pensamentos.
 
@@ -35,7 +33,7 @@ Vamos a um exemplo, toda a tarde você come uma coxinha e toma um café. Digamos
 
 Qualquer pessoa pode criar um hábito, estimule a fazer algo em troca de uma recompensa. Além disso, precisa acreditar que a mudança é possível. 
 
-Esse texto foi publicado originalmente na newsletter [A vida, as máquinas e algo mais](https://docs.google.com/forms/d/e/1FAIpQLSf28Q9c_wAudkUNNG4KG3Qs4zjRX9ysJOwsfDSxqI1oMmdvRQ/viewform). Se você também quer receber artigos sobre a mente humana, [assine aqui](https://docs.google.com/forms/d/e/1FAIpQLSf28Q9c_wAudkUNNG4KG3Qs4zjRX9ysJOwsfDSxqI1oMmdvRQ/viewform).
+Para ler mais textos sobre produtividade, hábitos, maneiras para viver melhor, entre outras coisas da vida, assine a minha [newsletter](https://tinyletter.com/tailo), prometo que vou tentar lhe ajudar.
 
 ## Saiba mais:
 
