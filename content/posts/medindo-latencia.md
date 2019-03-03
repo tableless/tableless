@@ -61,6 +61,8 @@ Algumas as vantagens que podemos observar quando utilizamos percentis:
 
 Os números mais comuns para a medição da latência nos sistemas são: P50, P75, P90, P95 e P90.
 
+![percentile](https://user-images.githubusercontent.com/14098361/39696912-81b75bb8-51ef-11e8-8e8b-420b6d85c7f3.png)
+
 ## Como interpretar o percentil corretamente?
 
 Quando analisamos o valor do **P99**, por exemplo, significa saber que temos 1% das nossas amostras que vão estar acima desse valor e todo o restante estará abaixo.
