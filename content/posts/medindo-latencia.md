@@ -51,3 +51,18 @@ Dado a amostra acima, uma boa métrica de latência para começarmos analisar é
 
 - Para calcular o **P50**: descartamos 50% (em ordem) dos valores da amostra e recuperamos o primeiro valor que "sobra", ou seja, nosso P50 = **60ms**
 - Para calcular o **P90**: descartamos 90% (em ordem) dos valores da amostra e recuperamos o primeiro valor que "sobra", no caso o P90 = **900ms**
+
+## Quais as vantagens?
+
+Algumas as vantagens que podemos observar quando utilizamos percentis:
+
+1. Eles não são afetados por *outliers* (dados que se diferenciam drasticamente de todos os outros), como acontece com as médias.
+2. Cada percentil aponta, de fato, para a experiência que o nosso usuário está tendo no nosso sistema
+
+Os números mais comuns para a medição da latência nos sistemas são: P50, P75, P90, P95 e P90.
+
+## Como interpretar o percentil corretamente?
+
+Quando analisamos o valor do **P99**, por exemplo, significa saber que temos 1% das nossas amostras que vão estar acima desse valor e todo o restante estará abaixo.
+
+Por isso, se temos um P99 = 10ms, sabemos que apenas 1% dos nossos usuários estão tendo um valor acima disso e todo o restante está abaixo desse valor.
