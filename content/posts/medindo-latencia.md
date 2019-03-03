@@ -66,3 +66,9 @@ Os números mais comuns para a medição da latência nos sistemas são: P50, P7
 Quando analisamos o valor do **P99**, por exemplo, significa saber que temos 1% das nossas amostras que vão estar acima desse valor e todo o restante estará abaixo.
 
 Por isso, se temos um P99 = 10ms, sabemos que apenas 1% dos nossos usuários estão tendo um valor acima disso e todo o restante está abaixo desse valor.
+
+# Conclusão
+
+Esse post foi bem simples e curto, porém direto ao ponto, pois queria fazer com que mais pessoas saibam uma melhor forma de medir a latência nos seus sistemas.
+
+Outra coisa que queria deixar claro é que apesar de ter mostrado um pouco da estatística por trás das métricas, você não precisa se preocupar com a parte chata, a maioria dos sistemas já tem esses cálculos prontos para serem utilizados (DataDog, NewRelic, Grafana, etc).
