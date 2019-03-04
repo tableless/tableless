@@ -2,7 +2,7 @@
 title: Medindo corretamente a latência dos seus serviços
 authors: Breno Panzolini
 type: post
-date: 2019-03-03
+date: 2019-03-04
 excerpt: Se você sempre utilizou a média como medida de latência, você não está fazendo isso da melhor forma.
 categories:
   - Tecnologia e Tendências
@@ -25,7 +25,7 @@ Quanto menor for a latência, mais rápido nossas operações vão ser executada
 
 # Qual o problema com a média?
 
-A maioria das pessoas (e eu me coloco nessa lista), está acostumado a utilizar a média ou mediana para medir a latência nos seus sistemas, porém essa maneira pode trazar algums probleminhas.
+A maioria das pessoas (e eu me coloco nessa lista), está acostumado a utilizar a média ou mediana para medir a latência nos seus sistemas, porém essa maneira pode trazer alguns probleminhas.
 
 A melhor forma de mostrar é através de um exemplo.
 
@@ -41,7 +41,7 @@ Resumindo, usar a média como medida de latência pode te enganar e dar uma sens
 
 # Bem-vindo percentil
 
-Na estatística, existe uma medida chamada [percentil](https://pt.wikipedia.org/wiki/Percentil), e resumindo ela consiste em ordenar uma amostra de forma crescente e dividir ela em 100 partes, cada uma com uma porcentagem dos dados aproximadamente igual.
+Na estatística, existe uma medida chamada [percentil](https://pt.wikipedia.org/wiki/Percentil), e resumindo, ela consiste em ordenar uma amostra de forma crescente e dividir ela em 100 partes, cada uma com uma porcentagem dos dados aproximadamente igual.
 
 Talvez a teoria soa um pouco complicado, mas na prática é muito mais fácil do que parece, vamos ao exemplo.
 
