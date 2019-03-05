@@ -1,7 +1,8 @@
 {{ partial "header.html" . }}
 
 <section class="tb-feature-posts">
-{{ range first 4 (where .Site.Pages "Type" "post")}}
+
+{{ range first 4 (where .Site.Pages "Type" "post" )}}
   <div>
     <a href="{{ .RelPermalink }}" class="tb-post-img" title="Link para o post {{ .Title}}" style="background-image: url({{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }})">
     </a>
@@ -29,7 +30,7 @@
 <section class="tb-post-list">
   <div class="tb-container">
     {{ range first 3 (after 4 .Pages)}}
-    {{ partial "postbox.html" . }}
+      {{ partial "postbox.html" . }}
     {{end}}
   </div>
 </section>
