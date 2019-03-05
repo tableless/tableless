@@ -2,7 +2,6 @@
 title: "Conheça o Codelobster - o editor de PHP, HTML, CSS e Javascript grátis"
 authors: Tableless
 type: post
-featured: no
 date: 2019-02-05
 excerpt: Conheça mais um editor grátis para código, o Codelobster
 image: https://i.imgur.com/NZUSWQT.png
