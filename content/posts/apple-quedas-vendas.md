@@ -2,7 +2,7 @@
 title: "Apple: quedas nas vendas, no lucro e na bolsa de valores preocupam"
 authors: Tableless
 type: post
-date: 2019-02-15
+date: 2019-03-01
 excerpt: Como se não bastasse, um problema de segurança no iPhone, apontado por usuários do smartphone em janeiro, trouxe ainda mais dores de cabeça para a Apple.
 categories:
   - Publieditorial
