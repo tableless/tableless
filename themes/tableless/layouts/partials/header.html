@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang='{{ .Site.LanguageCode | default "pt-br" }}' prefix='og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#'>
 <head>
-  
+  <link rel="alternate" type="application/rss+xml" href="https://tableless.com.br/index.xml" title="Site Title">
+
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -19,7 +20,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
   <meta name="description" content="{{ .Params.excerpt }}">
-<meta name="specificfeeds-verification-code" content="Ej5zU520BrYYgNXwEEvA" />
 
   <link rel="preconnect" href="https://code.jquery.com/">
   <link rel="preconnect" href="https://duckduckgo.com/">
@@ -54,7 +54,6 @@
 
   <link rel="icon" href="https://tableless.com.br/images/favicon.png">
 
-  <link href="https://www.specificfeeds.com/tableless?subParam=followPub" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">
 
   <meta property="og:url" content="{{ .Permalink }}">
   
@@ -172,7 +171,6 @@
       </li>
       <li><a href="https://twitter.com/tableless" class="tb-lnk-social-twitter"><img src="{{ .Site.BaseURL }}images/logo-twitter.png" alt="Link para Twitter"></a></li>
       <li><a href="https://facebook.com/tablelessbr" class="tb-lnk-social-facebook"><img src="{{ .Site.BaseURL }}images/logo-facebook.png" alt="Link para Facebook"></a></li>
-      <li><a href="https://www.specificfeeds.com/tableless?subParam=followPub" class="tb-lnk-social-rss"><img src="{{ .Site.BaseURL }}images/logo-rss.png" alt="Link para RSS"></a></li>
       <li><a href="https://slack-tableless.herokuapp.com/" class="tb-lnk-social-slack"><img src="{{ .Site.BaseURL}}images/logo-slack.png" alt="Link para entrar no Slack do Tableless"></a></li>
       <li><a href="https://t.me/tableless" class="tb-lnk-social-telegram"><img src="{{ .Site.BaseURL}}images/logo-telegram.png" alt="Entrar no Telegram do Tableless"></a></li>
     </ul>
@@ -197,7 +195,7 @@
       <li><a href="https://medium.com/tableless/" class="tb-lnk-medium">Acesse nosso <b>Medium</b></a></li>
       <li><a href="https://twitter.com/tableless" class="tb-lnk-social-twitter"><img src="{{ .Site.BaseURL }}images/logo-twitter.png" alt="Link para Twitter"></a></li>
       <li><a href="https://facebook.com/tablelessbr" class="tb-lnk-social-facebook"><img src="{{ .Site.BaseURL }}images/logo-facebook.png" alt="Link para Facebook"></a></li>
-      <li><a href="https://www.specificfeeds.com/tableless?subParam=followPub" class="tb-lnk-social-rss"><img src="{{ .Site.BaseURL }}images/logo-rss.png" alt="Link para RSS"></a></li>
+      <li><a href="https://tableless.com.br/index.xml" class="tb-lnk-social-rss"><img src="{{ .Site.BaseURL }}images/logo-rss.png" alt="Link para RSS"></a></li>
       <li><a href="https://slack-tableless.herokuapp.com/" class="tb-lnk-social-slack"><img src="{{ .Site.BaseURL}}images/logo-slack.png" alt="Link para entrar no Slack do Tableless"></a></li>
       <li><a href="https://t.me/tableless" class="tb-lnk-social-telegram"><img src="{{ .Site.BaseURL}}images/logo-telegram.png" alt="Entrar no Telegram do Tableless"></a></li>
     </ul>
