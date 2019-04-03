@@ -20,6 +20,10 @@ Uma forma de vê-la seria pensar na UX como a ergonomia de um site. Quando uma p
 
 Não é difícil criar um _web design_ amigável com a UX, simplesmente basta um planejamento extra e o uso das múltiplas ferramentas disponíveis. Portais como o [https://ux.sapo.pt](https://ux.sapo.pt) compartilham várias diretrizes sobre Layout e Legibilidade que se concentram no dimensionamento, espaçamento, contraste e cor do texto, para ajudar a melhorar a legibilidade de um site. Um ponto importante a considerar, é que não se trata apenas da aparência, e é por isso que a incorporação de alguns princípios de hierarquia visual é necessária para impulsionar a experiência do usuário.
 
+![](https://i.imgur.com/VeVCgGI.jpg)
+
+Fonte: [Pixabay.com](https://pixabay.com/)
+
 ## As três regras para otimizar um site e torná-lo amigável para UX
 
 ### 1. Ter uma estrutura definida
