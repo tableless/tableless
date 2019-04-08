@@ -5,26 +5,10 @@ type: post
 date: 2011-12-13
 excerpt: Os dispositivos móveis estão tomando conta do mundo. Sendo assim, o que você acha de pensarmos nos dispositivos móveis antes de pensarmos nos desktops?
 url: /mobile-first-a-arte-de-pensar-com-foco/
-tweetbackscheck:
-  - 1356399448
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=4669";s:7:"tinyurl";s:26:"https://tinyurl.com/8xylsnv";s:4:"isgd";s:19:"https://is.gd/UYb8aY";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 503164429
 categories:
-  - Acessibilidade
-  - Artigos
-  - Browsers
-  - HTML
-  - Mercado
   - Mobile
   - Tecnologia e Tendências
-  - UX
 tags:
-  - 2011
-  - acessibilidade
-  - aprenda
   - design
   - internet
   - internetmovel
@@ -92,6 +76,8 @@ Onde os usuários utilizam seus mobiles e visitam seu site? Bem, de todo lugar. 
 Não existem mais desculpas. Os browsers para mobiles estão tão modernos quanto os dos desktops. O hardware está muito mais poderoso, mais do que poderíamos imaginar a dois anos atrás. Existe um número gigante de usuários utilizando estes dispositivos, isso os torna potenciais visitantes e claro, compradores. Porque desperdiçar esta oportunidade?
 
 Você pode [ler mais sobre este assunto neste livro][11] esperto escrito por [LUKE WROBLEWSKI][12]. Aproveite!
+
+Esse post é patrocinado pelo [UpSites - Quanto custa um site profissional?](https://upsites.digital/criacao-de-site/quanto-custa-site-profissional/).
 
  [1]: https://tech.fortune.cnn.com/2011/02/07/idc-smartphone-shipment-numbers-passed-pc-in-q4-2010/
  [2]: https://news.bango.com/2010/02/16/600-percent-growth-in-mobile-web-usage/
