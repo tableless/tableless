@@ -2,7 +2,7 @@
 title: Performance no scroll com IntersectionObserver
 authors: Morais Junior
 type: post
-date: 2019-04-18
+date: 2019-04-25
 excerpt: Veremos os benefícios em usar IntersectionObserver.
 categories:
   - Front-end
@@ -22,7 +22,7 @@ Temos várias técnicas para tratar da performance na rolagem de uma página web
 
 Entre elas a mais importante é o **IntersectionObserver**, neste artigo iremos conhecer melhor essa implementação e os benefícios que ela traz :)
 
-É comum no javascript a necessidade de implementarmos o evento*“scroll”*, porém, poucos fazem isso de forma correta, esse é um evento muito delicado, é chamado em cada alteração de pixel, então se você precisa verificar se um objeto está visível na tela e decidir utilizar um *addEventListener(“scroll”, func)* é quase certo que terá um caso de [layout trasting](https://tableless.com.br/repaint-reflow-layout-thrashing-performance-alem-do-carregamento/).
+É comum no javascript a necessidade de implementarmos o evento **scroll**, porém, poucos fazem isso de forma correta, esse é um evento muito delicado, é chamado em cada alteração de pixel, então se você precisa verificar se um objeto está visível na tela e decidir utilizar um *addEventListener(“scroll”, func)* é quase certo que terá um caso de [layout trasting](https://tableless.com.br/repaint-reflow-layout-thrashing-performance-alem-do-carregamento/).
 
 Para evitar constantes leituras na [Dom Tree](https://javascript.info/dom-nodes), existe o **IntersectionObserver**.
 É preciso criar uma instância de um Observer, e depois atribuir elementos ao observador. Abaixo descrevo um exemplo de sua utilização:
@@ -54,10 +54,13 @@ Para evitar constantes leituras na [Dom Tree](https://javascript.info/dom-nodes)
 No exemplo sempre que o elemento com o ID myDiv, chegar próximo de 400px da viewport ele aparecerá no console.
 
 Alguns atributos podem ser passados para o Observador, são eles:
+
 **root:**
 Elemento inicial para observação, ele irá buscar os objetos filhos de root, esse é um atributo muito importante, quanto mais abaixo o elemento estiver na Render Tree menor o uso de memória e consumo de CPU
+
 **rootMargin:**
 Margem de segurança para o observador, se sua tela tem 500px, e vc define uma margem de 100px, o observador vai considerar a área de visão como tendo 600px.
+
 **threshold:**
 Indica em qual porcentagem da visibilidade do alvo o retorno de chamada do observador deve ser executado. Se você quiser apenas detectar quando a visibilidade ultrapassar a marca de 50%, você poderá usar um valor de 0,5.
 
