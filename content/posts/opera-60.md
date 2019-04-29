@@ -3,7 +3,6 @@ title: 'Opera 60'
 authors: Diego Eis
 type: post
 date: 2019-04-29
-publishdate: 2019-04-29
 image: https://www-static-blogs.operacdn.com/wp-content/uploads/sites/3/2019/04/Reborn3_2019.04.09_03-700x438.png
 excerpt: 'Nova versão do Opera 60'
 categories:
