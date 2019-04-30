@@ -18,7 +18,10 @@ O diferencial desse novo browser, é que você pode usar diretamente por ele sua
 
 A empresa, no qual diz ter 320 milhões de usuários no mundo, sempre se posiciona como uma empresa que procura saciar as necessidades de um grupo crescente de pessoas que se preocupam com sua privacidade e segurança de dados na internet.
 
-“The more time we spend online, the more we need tools that help us control the security and privacy of our digital lives,” Krystian Kolondra, EVP na Opera, Head of Browsers, disse no press release da empresa. “With this major upgrade, we are taking the first step into Web 3.0, the new Web, where users are in control. We believe every browser in 2019 should be Web 3.0-ready.”
+> "The more time we spend online, the more we need tools that help us control the security and privacy of our digital lives," diz Krystian Kolondra, EVP na Opera, Head of Browsers, no press release da empresa. "With this major upgrade, we are taking the first step into Web 3.0, the new Web, where users are in control. We believe every browser in 2019 should be Web 3.0-ready."
+
+<iframe src="https://player.vimeo.com/video/327990524" width="640" height="270" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/327990524">Escape | A Sci-fi short film by Opera</a> from <a href="https://vimeo.com/operabrowser">Operabrowser</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Com a crypto wallet no browser, sempre que os usuários precisarem se identificar em um site Web 3.0 (seja lá o que isso signifique, a Opera não deixa claro), ou assinar uma transação no blockchain, o usuário receberá uma notificação em seu smartphone. Os usuários podem confirmar sua identidade da mesma forma que desbloqueiam seu celular, incluindo reconhecimento facial ou impressão digital. No caso do Opera, só para celulares Android (me ferrei).
 
@@ -26,7 +29,11 @@ Além disso, a Opera está melhorando ainda mais seus serviços de VPN (eles tem
 
 Com essa versão, o Opera lançou um teaser, bem interessante. O vídeo é basicamente um manifesto baseado na ideia de que "nós temos escolhas, e nossas escolhas importam". O vídeo usa ambientação punk futurista, claramente se referenciando a um ambiente de ficção científica. No texto, a Opera diz que o modo de storytelling que a ficção científica usa para expor ideias é ideal para reexaminar as nossas perspectivas sem preconceitos.
 
+> We believe the choice to reclaim control for ourselves is of utmost importance, especially in today's world.
+
 Leia o texto da Opera sobre o [Escape](https://www.opera.com/escape).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ybXChhOPYXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Meu browser padrão é o Opera. Gosto muito da forma com que eles melhoram sempre os browsers com pequenas funcionalidades que realmente facilitam a nossa vida simples de navegar na internet. Eles adoram experimentar coisas (vide Opera Neon) e isso é o que me mantém com eles até agora. Contudo, nessas últimas versões, fiquei bem confuso com o que eles querem dizer com Web 3.0, Reborn 3 e etc. Espero mais respostas nas próximas versões. 
 
