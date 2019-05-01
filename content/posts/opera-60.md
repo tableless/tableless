@@ -21,7 +21,6 @@ A empresa, no qual diz ter 320 milhões de usuários no mundo, sempre se posicio
 > "The more time we spend online, the more we need tools that help us control the security and privacy of our digital lives," diz Krystian Kolondra, EVP na Opera, Head of Browsers, no press release da empresa. "With this major upgrade, we are taking the first step into Web 3.0, the new Web, where users are in control. We believe every browser in 2019 should be Web 3.0-ready."
 
 <iframe src="https://player.vimeo.com/video/327990524" width="640" height="270" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/327990524">Escape | A Sci-fi short film by Opera</a> from <a href="https://vimeo.com/operabrowser">Operabrowser</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Com a crypto wallet no browser, sempre que os usuários precisarem se identificar em um site Web 3.0 (seja lá o que isso signifique, a Opera não deixa claro), ou assinar uma transação no blockchain, o usuário receberá uma notificação em seu smartphone. Os usuários podem confirmar sua identidade da mesma forma que desbloqueiam seu celular, incluindo reconhecimento facial ou impressão digital. No caso do Opera, só para celulares Android (me ferrei).
 
