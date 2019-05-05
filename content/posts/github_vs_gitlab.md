@@ -104,11 +104,8 @@ As duas plataformas dão um suporte excelente para quem quer aglo além de um co
 ## Para ler mais
 
 * [GitHub vs. Bitbucket vs. GitLab vs. Coding](https://medium.com/flow-ci/github-vs-bitbucket-vs-gitlab-vs-coding-7cf2b43888a1)
-
 * [GitLab e GitHub: How are they different?](https://www.upwork.com/hiring/development/gitlab-vs-github-how-are-they-different/)
-
 * [What Is GitHub and Why Should Your Digital Team Use It?](https://www.upwork.com/hiring/development/what-is-github-and-why-should-your-digital-team-use-it/)
-
 
 ---
 
