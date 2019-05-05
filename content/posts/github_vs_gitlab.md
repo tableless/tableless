@@ -108,3 +108,8 @@ As duas plataformas dão um suporte excelente para quem quer aglo além de um co
 * [GitLab e GitHub: How are they different?](https://www.upwork.com/hiring/development/gitlab-vs-github-how-are-they-different/)
 
 * [What Is GitHub and Why Should Your Digital Team Use It?](https://www.upwork.com/hiring/development/what-is-github-and-why-should-your-digital-team-use-it/)
+
+
+---
+
+**Apoio:** [Curso de Eletrecista](https://portaldaengenharia.com/cursos/curso-de-eletricista)
