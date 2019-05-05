@@ -2,7 +2,7 @@
 authors = "Tableless"
 canonical = ""
 categories = ["Publieditorial"]
-date = "2019-04-01T03:00:00+00:00"
+date = "2019-04-05"
 excerpt = "Aprenda cinco dicas essenciais para uma boa estratégia de marketing com e-mails"
 image = "https://i.imgur.com/oYC732g.png"
 publishdate = "2019-04-01T03:00:00+00:00"
@@ -10,8 +10,8 @@ sponsor = ""
 tags = ["Email"]
 title = "5 dicas de e-mail marketing para prender a atenção dos seus clientes"
 type = "post"
-
 +++
+
 O sucesso de uma empresa está diretamente ligado a suas estratégias de marketing. Os serviços e produtos oferecidos devem chegar aos consumidores de forma breve, sucinta e direta, em locais facilmente acessados por eles. Um bom exemplo de veículo de divulgação é, sem dúvidas, o bom e velho e-mail. Mas não são todas as empresas que acertam na hora de utilizar esse meio.
 
 Não é raro que os clientes recebam, diariamente, dezenas de mensagens repetitivas e que não agregam valor. Quando isso acontece, a comunicação se torna falha e o botãozinho da lixeira é acionado em um piscar de olhos. Assim, o e-mail perde o seu grande potencial de atrair consumidores, e todo o esforço empregado pelas companhias termina sendo visto como _spam_.
