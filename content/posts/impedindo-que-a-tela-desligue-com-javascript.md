@@ -3,11 +3,11 @@ title: Impedindo que a tela desligue com JavaScript
 authors: Matheus Alves
 type: post
 image: https://source.unsplash.com/mqyMjCTWJyQ/748x500
-date: 2019-05-05
-excerpt: Apresentação de alguns modos de impedir que a tela do usuário entre no modo de descanço enquanto ele estiver acessando sua página.
+date: 2019-05-07
+excerpt: Como podemos impedir que a tela do usuário entre no modo de descanso
 categories:
   - JavaScript
-  - Smartphones
+  - Mobile
 tags:
   - Acessibilidade
 ---
@@ -33,7 +33,7 @@ A segunda, [*NoSleep.js*](https://github.com/richtr/NoSleep.js), é uma bibliote
 
 ## Uso do NoSleep.js
 
-Usar essa biblioteca é extremamente simples, onde você possui apenas dois modos: ativado e desativado. O primeiro faz com que a tela não descance e o segundo, obviamente, deixa a tela no modo normal.
+Usar essa biblioteca é extremamente simples, onde você possui apenas dois modos: ativado e desativado. O primeiro faz com que a tela não descanse e o segundo, obviamente, deixa a tela no modo normal.
 
 É possível obter o NoSleep.js pelo [NPM](https://www.npmjs.com/), [Bower](https://bower.io/) (que já [foi descontinuado](https://snyk.io/blog/bower-is-dead/)) ou diretamente pelo *download* do código-fonte no GitHub.
 
