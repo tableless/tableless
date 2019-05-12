@@ -16,6 +16,7 @@ Todo mundo precisa de um website, fato. Seja um individuo ou uma empresa, qualqu
 Para essa fatia do mercado, ter um website customizado é caro. Além disso, os profissionais que essa fatia de mercado geralmente encontra são aqueles picaretas que prometem um website bonito e barato, mas somem no meio do caminho. Já tive dezenas de cliente que me procuraram exatamente porque o dev que estava fazendo seus projetos simplesmente sumiu ou falou que pegou outro projeto e desistiu, entre outras desculpas. Para esses clientes, é difícil encontrar um profissional barato, responsável e que faça o trabalho decentemente. É aí que entra o sistemas de DIY, que lhe permitem [criar site grátis](https://pt.wix.com), como o Wix: sistemas de Site Builder unem a facilidade de ter um site customizado, bonito, com todas as funcionalidades necessárias para controlar e publicar um site, com o preço que essa fatia de mercado tanto precisa: grátis ou perto disso.
 
 ## Um orçamento simples
+
 Vamos falar a verdade: quanto você cobraria pra fazer um site para um cabeleireiro hoje? Um projeto completo: Design, front-end e back-end. O cliente tem que conseguir mudar o conteúdo, criar ou apagar páginas... Além de uma galeria de fotos e página com formulário de contato?
 Chuto, de acordo com os projetos que fiz anteriormente, okay?
 

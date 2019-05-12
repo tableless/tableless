@@ -1,5 +1,5 @@
 {{ $.Scratch.Add "page" true }}
-{{ partialCached "header.html" . }}
+{{- partialCached "header.html" . -}}
 
 <header class="tb-post-header">
   <h1 class="tb-hero-title">{{ .Title }}</h1>
@@ -7,14 +7,16 @@
     {{.Params.excerpt}}
   </p>
 </header>
+
 <div class="tb-categ-banner">
   <script class='__lxGc__' type='text/javascript'>
   ((__lxGc__=window.__lxGc__||{'s':{},'b':0})['s']['_210746']=__lxGc__['s']['_210746']||{'b':{}})['b']['_609049']={'i':__lxGc__.b++};
   </script>
 </div>
+
 <section class="tb-list tb-list-all-posts">
-{{range .Site.RegularPages }}
-<div class="tb-list-item">
+  {{range .Site.RegularPages }}
+  <div class="tb-list-item">
     <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2>
       <p>
       {{if .Param "excerpt"}}
@@ -28,6 +30,7 @@
       <span class="tb-author">por <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
     {{end}}
   </div>
-{{end}}
+  {{end}}
 </section>
-{{ partialCached "footer.html" . }}
+
+{{- partialCached "footer.html" . -}}

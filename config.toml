@@ -6,53 +6,57 @@ theme = "tableless"
 disqusShortname = "tableless"
 googleAnalytics = "UA-335027-1"
 
+rssLimit = 5
+
 draft = false
 enableRobotsTXT = true
 disableLiveReload = true
 
 [permalinks]
-    posts = "/:filename"
-    pages = "/:filename"
+  posts = "/:filename"
+  pages = "/:filename"
 
 [taxonomies]
-    category = "categories"
-    tag = "tags"
-    author = "authors"
+  category = "categories"
+  tag = "tags"
+  author = "authors"
 
 [related]
-    threshold = 90
-    includeNewer = true
-    toLower = false
+  threshold = 90
+  includeNewer = true
+  toLower = false
 
-    [[related.indices]]
-    name  = "categories"
-    weight = 40
-    [[related.indices]]
-    name  = "tags"
-    weight = 30
-    [[related.indices]]
-    name  = "title"
-    weight = 15
-    [[related.indices]]
-    name  = "author"
-    toLower = true
-    weight = 15
+  [[related.indices]]
+  name  = "categories"
+  weight = 40
+  [[related.indices]]
+  name  = "tags"
+  weight = 30
+  [[related.indices]]
+  name  = "title"
+  weight = 15
+  [[related.indices]]
+  name  = "author"
+  toLower = true
+  weight = 15
 
 
 [params]
-    siteName = "Tableless"
-    description = "Website com artigos e textos sobre Padrões Web, Design, Back-end e Front-end tudo em um só lugar. "
+  siteName = "Tableless"
+  description = "Website com artigos e textos sobre Padrões Web, Design, Back-end e Front-end tudo em um só lugar. "
 
-    [params.sponsor]
-        [params.sponsor.alura]
-            active = true
-            site = "https://www.alura.com.br/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
-            name = "alura"
-        [params.sponsor.kinghost]
-            active = true
-            site = "https://king.host/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
-            name = "kinghost"
-        [params.sponsor.schoolofnet]
-            active = true
-            site = "https://www.schoolofnet.com/?utm_source=tableless&utm_medium=patrocinio_logo&utm_campaign=institucional_patrocinio_logobase&utm_term=institucional_patrocinio_logobase&utm_content=institucional_patrocinio_logobase"
-            name = "schoolofnet"
+  [params.sponsor]
+      [params.sponsor.alura]
+          active = true
+          site = "https://www.alura.com.br/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
+          name = "alura"
+      [params.sponsor.kinghost]
+          active = true
+          site = "https://king.host/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
+          name = "kinghost"
+      [params.sponsor.schoolofnet]
+          active = true
+          site = "https://www.schoolofnet.com/?utm_source=tableless&utm_medium=patrocinio_logo&utm_campaign=institucional_patrocinio_logobase&utm_term=institucional_patrocinio_logobase&utm_content=institucional_patrocinio_logobase"
+          name = "schoolofnet"
+  talkyardServerUrl = "https://comments-for-tableless-com-br.talkyard.net"
+  talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"

@@ -1,15 +1,22 @@
 # theme.toml template for a Hugo theme
-# See https://github.com/spf13/hugoThemes#themetoml for an example
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "tableless"
+name = "Tableless"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE.md"
-description = "2017 Tableless Design"
-homepage = "http://tableless.com.br/"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+description = ""
+homepage = "http://example.com/"
 tags = []
 features = []
-min_version = .19
+min_version = "0.55"
 
 [author]
-  name = "Diego Eis"
-  homepage = "http://diegoeis.com"
+  name = ""
+  homepage = ""
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
+
