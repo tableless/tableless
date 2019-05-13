@@ -3,7 +3,7 @@ title: 10 extensões essenciais para VS Code
 authors: Gustavo Bento de Paula
 type: post
 image: https://i.imgur.com/xYgjtTK.png
-date: 2019-05-13
+date: 2019-05-12
 excerpt: 10 extensões essenciais para VS Code
 categories:
   - Front-end
