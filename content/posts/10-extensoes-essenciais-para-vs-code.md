@@ -3,12 +3,12 @@ title: 10 extensões essenciais para VS Code
 authors: Gustavo Bento de Paula
 type: post
 image: https://i.imgur.com/xYgjtTK.png
-date: 2019-05-12
+date: 2019-05-13
+url: /10-extensoes-essenciais-para-vs-code/
 excerpt: 10 extensões essenciais para VS Code
 categories:
   - Front-end
   - Código
-  - Opinião
 ---
 
 Desde o lançamento do Visual Studio Code em 2015 a popularidade do editor de código-fonte só vem crescendo e ganhando o espaço que era divido entre editores como Sublime Text, Atom, Vim, e muitos outros.
