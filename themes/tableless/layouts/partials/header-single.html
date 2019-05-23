@@ -25,7 +25,7 @@
       "dateCreated": "{{.Params.date}}",
       "dateModified": "{{.Lastmod}}",
       "articleBody": "{{.Content| plainify}}",
-      "description": "{{ if .IsHome }}{{ .Site.Title }} - {{ .Site.Params.description}}{{ else }}{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}{{ end }}"
+      "description": "{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}"
     }
   </script>
 
