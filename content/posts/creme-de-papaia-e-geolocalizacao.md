@@ -4,14 +4,6 @@ authors: Reinaldo Ferraz
 type: post
 date: 2012-11-28
 excerpt: Utilize a API de geolocalização de uma maneira mais útil.
-url: /creme-de-papaia-e-geolocalizacao/
-tweetbackscheck:
-  - 1356389720
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7408";s:7:"tinyurl";s:26:"https://tinyurl.com/cyd6o5w";s:4:"isgd";s:19:"https://is.gd/hb0OgL";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 948116804
 categories:
   - HTML
   - HTML5
@@ -40,7 +32,7 @@ Você vai ver que utilizar a API de Geolocalização do HTML5 é mamão com aç�
  [2]: https://www.w3.org/TR/2010/CR-geolocation-API-20100907/
  [3]: https://www.w3.org/2008/geolocation/
  [4]: https://html5demos.com/geo
- [5]: https://cybercook.terra.com.br/resultado.php?palavra1=mamao+papaya&ingredientes=S
+ [5]: https://cybercook.com.br/premium/busca?q=mamao+papaya&is_premium=true&calorias=1&custo=1
  [6]: https://www.html5rocks.com/en/tutorials/geolocation/trip_meter/
  [7]: https://demo.tutorialzine.com/2012/05/weather-forecast-geolocation-jquery/
  [8]: https://www.malapronta.com.br/blog/2010/12/16/como-o-brasileiro-planeja-suas-ferias/
