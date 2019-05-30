@@ -7,6 +7,23 @@
   <meta property="og:type" content="article">
   <meta name="description" content='{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}'>
 
+  <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cefc9317feea60012093e3c&product=sticky-share-buttons' async='async'></script>
+
+  <link rel="canonical" href='{{ if $.Param "canonical" }}{{ $.Param "canonical" }}{{else}}{{.Permalink}}{{end}}'>
+
+  <meta property="og:url" content="{{ .Permalink }}">
+  
+  <meta property="og:title" content="{{ .Title}}">
+  <meta property="og:description" content="{{ .Params.excerpt }}" name="description">
+  <meta property="og:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
+  <meta property="fb:app_id" content="187329465112652">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@tableless">
+  <meta name="twitter:title" content="{{.Title}}">
+  <meta name="twitter:description" content="{{ .Params.excerpt }}">
+  <meta name="twitter:image" content="{{ with .Params.image }}{{ . }}{{ else }}images/missing-img.png{{ end }}">
+
   <script type="application/ld+json">
     { "@context": "https://schema.org",
       "@type": "Article",
