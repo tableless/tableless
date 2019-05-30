@@ -11,6 +11,7 @@
   {{ partial "postdate.html" . }}
   <a href="{{ .Permalink }}#disqus_thread" class="tb-lnk-comments">Comentários</a>
   <span class="tb-post-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
+
 </header>
 
 <div class="tb-post">
@@ -18,8 +19,10 @@
   <section class="tb-post-content">
     <article class="tb-post-article">
       {{.Content}}
+<div class="sharethis-inline-share-buttons"></div>
     </article>
-  
+
+
     {{ partial "sponsors/sponsor-paragraph.html" . }}
     
     <div class="tb-related-posts">
