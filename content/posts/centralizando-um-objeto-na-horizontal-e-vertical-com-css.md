@@ -5,7 +5,7 @@ type: post
 date: 2007-12-06
 excerpt: Saiba como centralizar um objeto na horizontal e vertical apenas com CSS.
 url: /centralizando-um-objeto-na-horizontal-e-vertical-com-css/
-sponsor: kinghost
+sponsor: organizze
 dsq_thread_id: 503018562
 categories:
   - Artigos

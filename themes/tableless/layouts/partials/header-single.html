@@ -7,7 +7,7 @@
   <meta property="og:type" content="article">
   <meta name="description" content='{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}'>
 
-<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cefe0277feea60012093e56&product=sticky-share-buttons' async='async'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5cefe0277feea60012093e56&product=social-analytics' async='async'></script>
 
   <link rel="canonical" href='{{ if $.Param "canonical" }}{{ $.Param "canonical" }}{{else}}{{.Permalink}}{{end}}'>
 
@@ -28,8 +28,8 @@
     { "@context": "https://schema.org",
       "@type": "Article",
       "headline": "{{.Title}}",
-      "author": "{{ .Param "author" }}",
-      "image": "{{ with .Params.image }}{{ . }}{{ else }}/images/missing-img.png{{ end }}",
+      "author": "{{with .Params.authors}}{{ . }}{{end}}",
+      "image": "{{ .Params.image }}",
       "publisher": {
         "@type" : "Organization",
         "name":"{{.Site.Params.siteName}}",
@@ -38,11 +38,10 @@
       "url": "{{ .Permalink }}",
       "wordCount": "{{ .FuzzyWordCount }}",
       "keywords": "{{.Params.tags}}",
-      "datePublished": "{{.Params.date}}",
-      "dateCreated": "{{.Params.date}}",
-      "dateModified": "{{.Lastmod}}",
-      "articleBody": "{{.Content| plainify}}",
-      "description": "{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end}}"
+      "datePublished": "{{ .Date.Format "02/01/2006"}}",
+      "dateCreated": "{{ .Date.Format "02/01/2006"}}",
+      "articleBody": "{{ .Content }}",
+      "description": "{{if .Param "excerpt"}}{{ .Param "excerpt" }}{{else}}{{ .Summary }}{{end }}"
     }
   </script>
 
@@ -52,6 +51,7 @@
 <body>
 
   <header id="tb-header">
+  {{- partialCached "sponsors/sponsor-header-logos.html" . -}}
 
     <a href="{{ .Site.BaseURL }}" class="tb-logo"><img src="{{ .Site.BaseURL }}images/logom.svg" alt="Logo tableless"></a>
     <ul class="tb-channels">

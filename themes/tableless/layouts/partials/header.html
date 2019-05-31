@@ -34,6 +34,7 @@
 {{if .IsHome}}
 
 <header id="tb-header-home">
+  {{- partialCached "sponsors/sponsor-header-logos.html" . -}}
 
     <a href="{{ .Site.BaseURL }}" class="tb-logo"><img src="{{ .Site.BaseURL }}images/logom.svg" alt="Logo tableless"></a>
 

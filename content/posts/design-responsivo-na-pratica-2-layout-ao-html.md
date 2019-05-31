@@ -6,7 +6,7 @@ type: post
 date: 2014-04-28
 excerpt: Acompanhe o desenvolvimento de um HTML/CSS responsivo passo-a-passo a partir de um layout fixo, com direito a muitas dicas, comentários e demo.
 url: /design-responsivo-na-pratica-2-layout-ao-html/
-sponsor: kinghost
+sponsor: organizze
 dsq_thread_id: 2634552725
 categories:
   - Responsive Web Design (RWD)

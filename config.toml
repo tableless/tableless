@@ -50,13 +50,11 @@ disableLiveReload = true
           active = true
           site = "https://www.alura.com.br/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
           name = "alura"
-      [params.sponsor.kinghost]
+      [params.sponsor.organizze]
           active = true
-          site = "https://king.host/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
-          name = "kinghost"
+          site = "https://www.organizze.com.br/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
+          name = "organizze"
       [params.sponsor.schoolofnet]
           active = true
           site = "https://www.schoolofnet.com/?utm_source=tableless&utm_medium=patrocinio_logo&utm_campaign=institucional_patrocinio_logobase&utm_term=institucional_patrocinio_logobase&utm_content=institucional_patrocinio_logobase"
           name = "schoolofnet"
-  talkyardServerUrl = "https://comments-for-tableless-com-br.talkyard.net"
-  talkyardScriptUrl = "https://c1.ty-cdn.net/-/talkyard-comments.min.js"
