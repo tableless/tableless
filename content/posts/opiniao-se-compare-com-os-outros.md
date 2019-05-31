@@ -1,34 +1,48 @@
 ---
-title: "Comentário: Se compare com os outros"
+title: "Design System e o gap de comunicação entre Designers e Devs"
 authors: Diego Eis
 type: post
-date: 2019-05-22
-publishdate: 2019-05-24
-image: https://i.imgur.com/G4zFNai.png
+date: 2019-05-31
+publishdate: 2019-05-31
+image: https://i.imgur.com/slk72ip.jpg
 categories:
   - Opinião
+  - design
+  - front-end
 tags:
   - Carreira
   - Mercado
+  - design system
+  - design
+  - front-end
 ---
 
-Essa foi uma [série de tweets](https://twitter.com/diegoeis/status/1128385316073746434) que fiz outro dia. No final, tem o link da thread. Segue as anotações:
+Essa foi uma [série de tweets](https://twitter.com/diegoeis/status/1134339782149058560) que fiz outro dia. No final, tem o link da thread. Segue as anotações:
 
 ----
 
-"Uma dica (vale para todos, mas principalmente devs): sempre se compare com os outros. 
-Existe uma falácia de que vc não pode se comparar com ninguém. Que fazer faz mal. Mentira. Você precisa sim entender quem é igual a você, quem é melhor que você e quem é pior que você.
+Vocês já pararam para pensar que o design system é expressão de como havia (e ainda há) um buraco de comunicação entre devs e Designers?
 
-Isso é necessário para que você tenha consciência do seu nível técnico atual, de onde você estava e onde você quer chegar. Você não deve se comparar por ego, mas para entender onde você precisa melhorar para chegar no próximo degrau e também para conhecer sua progressão.
+Durante anos devs implementam e criam, do início ao fim, design systems a partir dos layouts. Frameworks como Bootstrap surgem com essa necessidade de ter uma padronização visual e técnica dos elementos da tela pra dar mais velocidade e consistência na construção de interfaces.
 
-O que você aprendeu para estar no nível que está hoje?
-O que você tem que aprender para chegar no próximo milestone?
-Aumentar de nível não é aprender tudo o que vem pela frente. Requer inteligência para aprender só o necessário, da maneira certa, no momento certo.
+Estou dando o nome de design system, exatamente o que ele é: padronização, modularização e continuidade da interface.
 
-Se você sabe quem é melhor que você (e saber identificar quem é melhor pode ser um problema, mas é outra história), você já sabe o que talvez você tenha que aprender para chegar no nível técnico daquela pessoa. 
+O designer fazia o layout, o dev implementava esse layout, modularizando tudo o que podia, mas sem levar em consideração critérios de design, saciando apenas as necessidades técnicas afim de facilitar a manutenção e longevidade de código.
 
-Nenhuma faculdade, nenhum curso, nenhuma empresa, nenhum projeto vai te ensinar isso. Você precisa se planejar e entender seus objetivos de longo prazo para traçar um plano de curto prazo. 
+O problema da construção de interfaces sempre foi a componentização. A partir do momento que os devs perceberam isso, soluções como Web Components e ReactJS ajudaram muito nessa tarefa de montar uma interface usando módulos.
 
-Não caia na besteira de fazer 203 cursos online, de comprar 323 livros antes de ter certeza de onde você quer chegar. Tenha uma referência sólida, firme, que seja difícil de se igualar. Isso vai te garantir chegar um lugar privilegiado. Se desejar pouco, você terá pouco.
+E nesse processo, com o designer apenas se importando com o design da interface de forma “global”, digamos assim... os devs, por si só, quebravam a interface em pequenos pedaços de elementos funcionais, de fácil implementação e manutenção.
 
-<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Uma dica (vale para todos, mas principalmente devs): sempre se compare com os outros. <br>Existe uma falácia de que vc não pode se comparar com ninguém. Que fazer faz mal. Mentira. Você precisa sim entender quem é igual a você, quem é melhor que você e quem é pior que você 1/6</p>&mdash; Diego Eis (@diegoeis) <a href="https://twitter.com/diegoeis/status/1128385316073746434?ref_src=twsrc%5Etfw">May 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Não envolvendo os Designers, o resultando a médio e longo prazo era sempre a inconsistência de uso e principalmente do visual da interface durante todo o percurso do usuário no produto.
+
+Todo mundo já viu essa briga velada acontecer. E ela acontece o tempo inteiro. Sites com vários estilo de botões, com medidas, distâncias e estruturas não padronizadas... uma interface inconsistente, não preparada para os cenários que o negócio pode ter e o usuário exigir.
+
+Devo dizer que todo o conhecimento adquirido pelos devs sobre modularização de interfaces, está sendo conhecida pelos Designers apenas agora. O Design System, é um nome bonito para algo que os devs já fazem há anos. Alguns fazem muito melhor que Designers, inclusive.
+
+Da mesma forma que alguns Designers já eram conscientes desse gap desde o início e era o que separava os bons Designers dos grandes Designers de interface para web.
+
+Mas pra ter um design system decente, não se pensa apenas em componentes, que era o que a maioria dos devs (e não aqueles alguns citados acima) faziam. Se pensar apenas nos componentes por si só, o Design System vira uma simples biblioteca de elementos.
+
+É no design system que os devs e Designers devem complementar suas especialidades: o designer entende como a interface pode variar e cria uma linguagem visual que se adequa a todos os cenários de comportamento. O dev, por sua vez, implementa isso de forma consistente e flexível.
+
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Vocês já pararam para pensar que o design system é expressão de como havia (e ainda há) um buraco de comunicação entre devs e Designers?</p>&mdash; Diego Eis (@diegoeis) <a href="https://twitter.com/diegoeis/status/1134339782149058560?ref_src=twsrc%5Etfw">May 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
