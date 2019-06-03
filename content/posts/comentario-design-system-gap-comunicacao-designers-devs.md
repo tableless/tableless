@@ -2,7 +2,6 @@
 title: "Design System e o gap de comunicação entre Designers e Devs"
 authors: Diego Eis
 date: 2019-06-03
-publishdate: 2019-06-03
 image: https://i.imgur.com/slk72ip.jpg
 categories:
   - Opinião
