@@ -9,8 +9,8 @@ titulo_personalizado:
 categories:
   - Destaques
   - Geral
-
 ---
+
 Para ser um empreendedor bem sucedido significa que você precisa ter um monte de responsabilidades. No início, vai precisar servir café, abrir a porta, lavar privada, e até desenvolver, especialmente quando a sua empresa está apenas começando e você não tem funcionários suficientes para cobrir todas as áreas que você precisa.
 
 Aprender as novas habilidades necessárias para iniciar um novo negócio pode ser caro, mas, felizmente, a iniciativa é de graça, de alta qualidade, recursos educacionais on-line só tem continuado a crescer nos últimos anos. Abaixo estão alguns dos recursos disponíveis para aprender mais sobre marketing, empreendedorismo, gestão de negócios e muito mais.
