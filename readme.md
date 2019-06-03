@@ -6,7 +6,11 @@ Este é o site do Tableless estático. Nada de Wordpress, nem qualquer outro CMS
 ## Rodando o projeto
 Para rodar o projeto você vai precisar do [Hugo](https://gohugo.io/) instalado na sua máquina. Leia o [Quick Start direto do site do Hugo para iniciar](https://gohugo.io/getting-started/quick-start/).
 
-O CSS está usando SASS como pré-processador, para tanto, você precisa ter [SASS instalado na máquina](http://sass-lang.com/install). Uma vez instalado, você não precisa fazer nada, o Hugo cuida da compilação automática no momento do desenvolvimento.
+O CSS está usando SASS como pré-processador, para tanto, você precisa ter [SASS instalado na máquina](http://sass-lang.com/install). Uma vez instalado, você pode rodar o comando:
+
+```
+sass --watch themes/tableless/static/css/style.sass:themes/tableless/static/css/style.css --style compressed
+```
 
 As vezes quando tento rodar o server do Hugo, acontece de dar um erro no terminal assim: `ERROR 2017/09/03 08:56:44 Error: listen tcp 127.0.0.1:1313: socket: too many open files in system`
 

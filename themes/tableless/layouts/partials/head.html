@@ -9,12 +9,8 @@
   <!-- End Google Tag Manager -->
   
   <script async type="text/javascript" src="//s.clickiocdn.com/t/consent_210746.js"></script>
-
+  
   <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css?{{ now.Unix }}">
-
-{{ $style := resources.Get "css/style.sass" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
-<link rel="stylesheet" href="{{ $style.Permalink }}">
-
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
