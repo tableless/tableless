@@ -8,7 +8,7 @@ image = "https://i.imgur.com/UiDDUAF.jpg"
 publishdate = "2019-06-10T03:00:00+00:00"
 sponsor = "organizze"
 tags = ["javascript", "localstorage"]
-title = "Guia fácil sobre usar localStorage com Javascript"
+title = "Guia fácil para usar localStorage com Javascript"
 type = "post"
 
 +++
