@@ -61,15 +61,26 @@
 </noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-<script src="{{ .Site.BaseURL }}/js/sharect.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/share-this/dist/share-this.js"></script>
 <script>
-  var sharect = new Sharect();
-  sharect.config({
-    facebook: true,
-    twitter: true,
-    twitterUsername: '| via @tableless',
-    selectableElements: ['p', 'li', 'blockquote']
-  }).init();
+  const shareThis = require("share-this");
+
+  const twitterSharer = require("share-this/dist/sharers/twitter");
+
+  const selectionShare = shareThis({
+      selector: "#shareable",
+      sharers: [twitterSharer]
+  });
+
+  selectionShare.init();
+
+  // var sharect = new Sharect();
+  // sharect.config({
+  //   facebook: true,
+  //   twitter: true,
+  //   twitterUsername: '@tableless',
+  //   selectableElements: ['p', 'h1', 'li', 'blockquote']
+  // }).init();
 </script>
 
 </body>

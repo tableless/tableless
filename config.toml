@@ -6,7 +6,10 @@ theme = "tableless"
 disqusShortname = "tableless"
 googleAnalytics = "UA-335027-1"
 
-rssLimit = 5
+rssLimit = 50
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 
 draft = false
 enableRobotsTXT = true
