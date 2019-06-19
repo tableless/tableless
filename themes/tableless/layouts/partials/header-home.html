@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang='{{ .Site.LanguageCode | default "pt-br" }}' prefix='og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#'>
+<head>
+  <title>
+   {{ .Site.Title }} - Conteúdo sobre front-end é no Tableless
+  </title>
+  
+  {{if .IsHome}}
+  <meta property="og:type" content="website" />
+  <meta name="description" content="{{ .Site.Params.description}}">
+
+  <script type='application/ld+json'>
+    {
+      "@context": "https://www.schema.org",
+      "@type": "WebSite",
+      "name": "{{.Site.Params.siteName}}",
+      "alternateName": "{{ .Site.Title }}",
+      "url": "{{ .Site.BaseURL}}",
+      "description": "{{ .Site.Title }} - {{ .Site.Params.description}}",
+      "publisher": "Tableless",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://duckduckgo.com/?sites=tableless.com.br&q={search_term}&kl=br-pt&kz=1&ky=e&k8=g&k1=-1&kj=w&x=0&y=0&ia=web",
+        "query-input": "required name=search_term" }
+      }
+  </script>
+  {{end}}
+
+  {{- partialCached "head.html" . -}}
+  
+</head>
+<body>
+
+<header id="tb-header-home">
+  {{- partialCached "sponsors/sponsor-header-logos.html" . -}}
+
+    <a href="{{ .Site.BaseURL }}" class="tb-logo"><img src="{{ .Site.BaseURL }}images/logom.svg" alt="Logo tableless"></a>
+
+    <ul class="tb-channels">
+      <li>
+        <form class="tb-search" name="x" action="//duckduckgo.com/">
+          <input type="hidden" value="tableless.com.br" name="sites"></input>
+          <input type="hidden" value="br-pt" name="kl"></input>
+          <input type="hidden" value="1" name="kz"></input>
+          <input type="hidden" value="e" name="ky"></input>
+          <input type="hidden" value="g" name="k8"></input>
+          <input type="hidden" value="-1" name="k1"></input>
+          <input type="hidden" value="w" name="kj"></input>
+          <input type="text" placeholder="Faça sua busca" name="q"></input>
+          <input type="image" src="{{ .Site.BaseURL }}images/search.svg">
+        </form>
+      </li>
+      <li><a href="https://twitter.com/tableless" class="tb-lnk-social-twitter"><img src="{{ .Site.BaseURL }}images/logo-twitter.png" alt="Link para Twitter"></a></li>
+      <li><a href="https://facebook.com/tablelessbr" class="tb-lnk-social-facebook"><img src="{{ .Site.BaseURL }}images/logo-facebook.png" alt="Link para Facebook"></a></li>
+      <li><a href="https://slack-tableless.herokuapp.com/" class="tb-lnk-social-slack"><img src="{{ .Site.BaseURL}}images/logo-slack.png" alt="Link para entrar no Slack do Tableless"></a></li>
+      <li><a href="https://t.me/tableless" class="tb-lnk-social-telegram"><img src="{{ .Site.BaseURL}}images/logo-telegram.png" alt="Entrar no Telegram do Tableless"></a></li>
+    </ul>
+
+    {{- partialCached "menu-header.html" . -}}
+    
+</header>
