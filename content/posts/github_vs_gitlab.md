@@ -109,4 +109,4 @@ As duas plataformas dão um suporte excelente para quem quer aglo além de um co
 
 ---
 
-**Apoio:** [Curso de Eletricista](https://portaldaengenharia.com/cursos/curso-de-eletricista)
+**Apoio:** [Curso de Eletricista](https://portaldaengenharia.com/cursos/curso-de-eletricista/)
