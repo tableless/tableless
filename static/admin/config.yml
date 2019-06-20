@@ -14,11 +14,14 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Type", name: "type", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
-      - {label: "Authors", name: "authors", widget: "list"}
-      - {label: "Date", name: "date", widget: "date", format: "2017-09-17"}
-      - {label: "Image", name: "image", widget: "string"}
-      - {label: "Categories", name: "categories", widget: "list", default: ["front-end, back-end, design, wordpress, eventos-e-workshops, cotidiano, tecnologia, noticias, carreira, freebies, podcasts"]}
-      - {label: "Tags", name: "tags", widget: "list", default: ["html, css, javascript, reactjs, nodejs, php, java, angular, sass, less, css3, jquery, ux, ui"]}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Sponsor", name: "sponsor", widget: "hidden"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Resumo", name: "excerpt", widget: "string"}
+      - {label: "Autores (se mais de um autor, separar por vírgula)", name: "authors", widget: "list"}
+      - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Imagem", name: "image", widget: "string"}
+      - {label: "Categoria", name: "categories", widget: "list", default: ["front-end, back-end, design, git, acessibilidade, semântica, cms, soft-skill, eventos-e-workshops, cotidiano, tecnologia, noticias, carreira, freebies, podcasts, seo, agile-e-gestão, mercado-e-comportamento, tecnologia-e-tendencias, browsers, jamstack, tooling"]}
+      - {label: "Tags", name: "tags", widget: "list", default: ["html, css, javascript, reactjs, nodejs, php, java, angular, microdata, joomla, sass, less, css3, jquery, ux, ui"]}
+      - {label: "Seu texto em MARKDOWN", name: "body", widget: "markdown"}
+

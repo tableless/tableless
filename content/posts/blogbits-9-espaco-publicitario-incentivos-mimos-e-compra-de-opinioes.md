@@ -3,18 +3,6 @@ title: 'BlogBits #9 – Espaço publicitário: incentivos, mimos e compra de opi
 authors: Diego Eis
 type: post
 date: 2008-04-08
-url: /blogbits-9-espaco-publicitario-incentivos-mimos-e-compra-de-opinioes/
-aktt_tweeted:
-  - 1
-tweetbackscheck:
-  - 1355226455
-shorturls:
-  - 'a:3:{s:9:"permalink";s:92:"https://tableless.com.br/blogbits-9-espaco-publicitario-incentivos-mimos-e-compra-de-opinioes";s:7:"tinyurl";s:26:"https://tinyurl.com/3pakhp9";s:4:"isgd";s:19:"https://is.gd/rGsl67";}'
-twittercomments:
-  - 'a:1:{i:16830661478322176;s:7:"retweet";}'
-tweetcount:
-  - 1
-dsq_thread_id: 503038062
 categories:
   - podcast
 tags:
