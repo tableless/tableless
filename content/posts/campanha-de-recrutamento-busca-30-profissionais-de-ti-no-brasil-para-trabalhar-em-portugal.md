@@ -20,7 +20,7 @@ Uma iniciativa para facilitar a entrada de profissionais de TI do Brasil no merc
 
 A campanha 30 Tech Visas, que começa oficialmente no dia 13 de maio, é voltada para especialistas nas áreas de Back-end, Front-end e Data Science. Ela funcionará como um processo de recrutamento com várias fases de testes habilidades e entrevistas. No final do processo, 30 selecionados receberão uma oferta formal de emprego e assistência em todos os passos para obtenção do seu visto de trabalho para Portugal. 
 
-## Testes, entrevistas e webinars para os candidatos 
+## Testes, entrevistas e webinars para os candidatos
 
 Depois de fazerem a inscrição no [site da campanha](https://top.landing.jobs/), os candidatos farão um teste básico de qualificação, que será eliminatório. Após essa primeira seleção, tem início o processo de recrutamento. Todos os candidatos que participarem dessa segunda fase receberão um certificado de habilidades e terão acesso a dois webinars exclusivos, um sobre Portugal, estilo de vida, panorama empresarial e económico, mercado de TI local; e outro sobre processos de recrutamento em Portugal, com dicas para se preparar para entrevistas, entre outros temas. 
 
@@ -28,7 +28,7 @@ O processo de recrutamento será realizado através de teste técnico online, se
 
 Nessa campanha, a Landing.Jobs vai trabalhar com suas empresas parceiras, de forma a encontrar aquela mais adequada ao perfil e às habilidades de cada candidato finalista. No final da campanha, todos os candidatos selecionados terão duas ofertas possíveis para escolher entre empresas com mais de 10 anos no mercado e equipes de TI superiores a 50 pessoas, e empresas jovens, com equipes de TI formadas por pelo menos 20 pessoas. 
 
-## Novo visto foi lançado em Janeiro de 2019 
+## Novo visto foi lançado em Janeiro de 2019
 
 Com quase cinco anos de experiência em recrutamento de profissionais de TI para o mercado europeu, a Landing.jobs aproveita uma oportunidade para atrair especialistas para Portugal: o Tech Visa. Diante da forte demanda por mão-de-obra especializada em Tecnologia da Informação e da escassez de candidatos no país, o Governo Português lançou esse novo modelo de visto, que garante acesso de profissionais altamente qualificados de fora da União Europeia a vagas em empresas portuguesas. 
 
@@ -36,7 +36,7 @@ No entanto, apesar da facilidade e como o programa Tech Visa só foi lançado em
 
 “O nosso objetivo é dar um primeiro passo na mudança de mentalidade dos empregadores em Portugal, ao mesmo tempo que ajudamos a mudar a vida de 30 pessoas”, explica Maria Tolentino, Business Lead responsável pelo mercado português. A expectativa da Landing.jobs é de que até o fim de 2019 os 30 profissionais selecionados já estejam trabalhando em Portugal. 
 
-## Calendário da campanha 30 Tech Visas 
+## Calendário da campanha 30 Tech Visas
 
 Candidaturas e primeira fase de testes: até 23 de Junho de 2019 Segunda etapa de avaliação e seleção final dos candidatos: até 2 de Agosto de 2019 Anúncio final dos selecionados: Agosto de 2019 (após comunicação individual aos candidatos).
 
@@ -50,8 +50,4 @@ Nos processos seletivos da Landing.jobs, os candidatos nunca ficam sem um retorn
 
 Com sede em Lisboa, a Landing.jobs também tem escritórios no Porto, em Barcelona e em Londres. 
 
-**Mais informações:** 
-
-Flávia Motta\
-<mailto:mottaflavia@gmail.com>\
-+351 910 340 868 (Whatsapp)
+**Mais informações:**  <mailto:top@landing.jobs>
