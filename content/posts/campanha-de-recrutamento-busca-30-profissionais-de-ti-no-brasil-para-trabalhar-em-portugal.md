@@ -7,7 +7,7 @@ excerpt: >-
   Landing.jobs fará processo de seleção e auxiliará na concessão dos vistos para
   os selecionados 
 authors:
-  - Tableless
+  - tableless
 date: '2019-06-21'
 publishDate: '2019-06-21'
 image: 'https://i.imgur.com/Or9iCvb.jpg'
