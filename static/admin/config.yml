@@ -17,7 +17,7 @@ collections:
       - {label: "Sponsor", name: "sponsor", widget: "hidden"}
       - {label: "Título", name: "title", widget: "string"}
       - {label: "Resumo", name: "excerpt", widget: "string"}
-      - {label: "Autores (se mais de um autor, separar por vírgula)", name: "authors", widget: "list"}
+      - {label: "Autores", name: "authors", widget: "string"}
       - {label: "Data (aaaa-mm-dd", name: "date", widget: "date", format: "YYYY-MM-DD"}
       - {label: "Data de publicação (data futura)", name: "publishDate", widget: "date", format: "YYYY-MM-DD"}
       - {label: "Imagem", name: "image", widget: "string"}
