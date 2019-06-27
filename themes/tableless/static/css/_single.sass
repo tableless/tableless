@@ -76,6 +76,18 @@
 
 iframe[sandbox]
   min-height: 300px
+  display: none
+
+.tb-post .tb-post-content .tb-comments div#disqus_thread iframe[src*="disqusads"]
+  // outline: 1px solid red !important
+  display: none !important
+  opacity: 0 !important
+  visibility: hidden !important
+  height: 1px !important
+  width: 1px !important
+  position: absolute !important
+  top: 0 !important
+  left: 0 !important
 
 p code
   color: #AB2632
