@@ -283,3 +283,8 @@ Você pode ler mais sobre git e entender mais sobre controles de versão, nesses
 * <a href="https://tableless.com.br/iniciando-no-git-parte-1/" target="_blank">Iniciando com GIT &#8211; Parte 1</a> 
 * <a href="https://tableless.com.br/iniciando-no-git-parte-2/" target="_blank">Iniciando com GIT &#8211; Parte 2</a> 
 * <a href="https://tableless.com.br/git-com-interface-grafica/" target="_blank">Git com Interface Gráfica</a>
+
+
+---
+
+Apoio: Aproveite as promoções dos Planos de TV por assinatura e internet NET ligando grátis no [Telefone NET](https://combomultinetnow.com/telefone-net/).

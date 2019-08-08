@@ -16,7 +16,7 @@ O estudo aponta ainda que as desigualdades por classe socioeconômica e por áre
   
 Segundo o estudo, o preço da conexão permanece como principal motivo mencionado para a ausência de Internet nos domicílios: 27% dos entrevistados afirmam que o serviço é caro. "O dado revela ser cada vez mais essencial o investimento em infraestrutura e em políticas públicas que possibilitem que todos os brasileiros possam ter acesso à Internet em suas casas, sem distinção de classe social ou região geográfica", pontua Alexandre Barbosa, gerente do Cetic.br.  
   
-No que diz respeito ao principal tipo de conexão, a TIC Domicílios 2017 registrou estabilidade em relação ao ano anterior, seja por residência conectada por banda larga fixa (64%) ou móvel 3G ou 4G (25%). O acesso móvel, no entanto, continua sendo mais utilizado do que o fixo por domicílios de classes D/E (48%).
+No que diz respeito ao principal tipo de conexão, a TIC Domicílios 2017 registrou estabilidade em relação ao ano anterior, seja por residência conectada por [banda larga fixa](https://combomultinetnow.com/net-virtua/) (64%) ou móvel 3G ou 4G (25%). O acesso móvel, no entanto, continua sendo mais utilizado do que o fixo por domicílios de classes D/E (48%).
 
 ## Usuários de Internet
 
