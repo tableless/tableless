@@ -8,14 +8,10 @@ publishDate: '2019-08-07'
 image: 'https://tableless.com.br/images/uploads/illustration-beats-header-overflow.png'
 categories:
   - >-
-    front-end, back-end, design, git, acessibilidade, semântica, cms,
-    soft-skill, eventos-e-workshops, cotidiano, tecnologia, noticias, carreira,
-    freebies, podcasts, seo, agile-e-gestão, mercado-e-comportamento,
-    tecnologia-e-tendencias, browsers, jamstack, tooling
+    tooling, front-end
 tags:
   - >-
-    html, css, javascript, reactjs, nodejs, php, java, angular, microdata,
-    joomla, sass, less, css3, jquery, ux, ui
+    elasticsearch
 ---
 Começo explicando o que é o Elastic Stack e o que são os Beats, parece falar sobre mais do mesmo, mas algumas pessoas não sabem seu funcionamento real e arquitetura, e ainda que deem esse questionamento como respondido, erram principalmente na aplicação dos Beats Packages, disponibilizando-os neste mundo com IaC (InfraasCode) na mesma role e aplicando ao mesmo server de destino, o que não é conveniente, uma vez que faz mais sentido aplicar os Beats nos servers que enviarão informações ao ElasticSearch/LogStash.
 
