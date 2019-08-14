@@ -27,3 +27,54 @@ Na verdade, podemos até classificar o **go-resiliency** como um _wrapper_ de v�
   > Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 
 - [Semian](https://github.com/Shopify/semian): biblioteca de resiliência para Ruby
+
+Vamos então, dar uma olhada nos principais pacotes que a biblioteca nos oferece.
+
+## Circuit Breaker
+
+Para entender melhor esse padrão, vou deixar a [referência do Martin Fowler](https://martinfowler.com/bliki/CircuitBreaker.html), ela é muito boa e explica tudo bem detalhadamente.
+
+Basicamente, *circuits breakers* são importantes para proteger os pontos de integrações dos nossos serviços.
+
+Dentro do **go-resiliency** o *circuit breaker* está no pacote **breaker**. Exemplo de uso:
+
+```go
+import github.com/eapache/go-resiliency/breaker
+
+b := breaker.New(3, 1, 5*time.Second)
+
+result := b.Run(func() error {
+  // aqui vai o código que você deseja "proteger"
+})
+
+switch result {
+  case nil:
+    // sucesso na chamada
+  case breaker.ErrBreakerOpen:
+    // nossa função não foi chamada pois o circuito estava aberto
+  default:
+    // algum outro erro
+}
+```
+
+## Retriable
+
+Como o próprio nome diz, esse padrão consiste em tentar executar uma operação novamente antes de efetivamente "aceitar" o erro. 
+
+Essa técnica parte do pressuposto de que dependendo do erro que acontece, se a operação for executada novamente ela poderá dar sucesso (por exemplo a perda de conexão momentânea com um servidor).
+
+Dentro do **go-resiliency** o *retriable* está no pacote **retrier**. Exemplo de uso:
+
+```go
+import github.com/eapache/go-resiliency/retrier
+
+r := retrier.New(retrier.ConstantBackoff(3, 100*time.Millisecond), nil)
+
+err := r.Run(func() error {
+  // aqui vai o código que você deseja tentar novamente
+})
+
+if err != nil {
+  // se após 3 tentativas ainda obter um erro
+}
+```
