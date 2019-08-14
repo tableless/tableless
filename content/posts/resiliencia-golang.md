@@ -78,3 +78,28 @@ if err != nil {
   // se após 3 tentativas ainda obter um erro
 }
 ```
+
+## Deadline
+
+Implementa um padrão de *timeout*, ou seja, protege seu código de funções que podem demorar mais tempo do que o desejável para executar.
+
+Dentro do **go-resiliency** o *deadline* está no pacote **deadline**. Exemplo de uso:
+
+```go
+import github.com/eapache/go-resiliency/deadline
+
+dl := deadline.New(1 * time.Second)
+
+err := dl.Run(func() error {
+  // aqui vai o código que você deseja implementar o timeout
+})
+
+switch err {
+  case deadline.ErrTimedOut:
+    // execução longa
+  default:
+    // algum outro erro
+}
+```
+
+
