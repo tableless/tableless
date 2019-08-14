@@ -102,4 +102,8 @@ switch err {
 }
 ```
 
+# Conclusão
 
+Esse post foi para mostrar uma opção de pacote para melhorar a resiliência dos nossos serviços escritos em Go. Além dos padrões mencionados, o **go-resiliency** ainda fornece outros padrões como _batching_ e _semaphore_.
+
+Recomendo fortemente para quem quiser saber mais, que consulte a [GoDoc do pacote](https://godoc.org/github.com/eapache/go-resiliency).
