@@ -3,8 +3,8 @@ type: post
 title: Hackathons podem competir com eSports?
 excerpt: Hackatons competindo com eSports
 authors: Tableless
-date: '2019-07-01'
-publishDate: '2019-07-01'
+date: '2019-08-01'
+publishDate: '2019-08-01'
 image: >-
   https://images.unsplash.com/photo-1560603231-aaad09827dde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80
 categories:
