@@ -17,8 +17,7 @@
 <section class="tb-list tb-list-all-posts">
   {{range .Site.RegularPages }}
   <div class="tb-list-item">
-    {{ .Title }} {{ .Permalink }}<br>
-<!--     <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2>
+    <a href="{{ .RelPermalink }}"><h2>{{ .Title }}</h2>
       <p>
       {{if .Param "excerpt"}}
         {{ .Param "excerpt" }}
@@ -29,7 +28,7 @@
     </a>
     {{with .Params.authors}}
       <span class="tb-author">por <a href="{{ "/authors/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></span>
-    {{end}} -->
+    {{end}}
   </div>
   {{end}}
 </section>
