@@ -1,16 +1,18 @@
 ---
-title: Dicas úteis e ferramentas para criar logos online
-authors: Diego Eis
 type: post
-date: 2015-06-15
-excerpt: Entenda como ferramentas online podem te ajudar a criar logos para seu site e sua empresa.
-url: /dicas-uteis-e-ferramentas-para-criar-logos-online/
+title: Dicas úteis e ferramentas para criar logos online
+excerpt: >-
+  Entenda como ferramentas online podem te ajudar a criar logos para seu site e
+  sua empresa.
+authors: Diego Eis
+date: 2015-06-15T00:00:00.000Z
+publishDate: '2015-06-14'
+image: 'https://i.imgur.com/amPRURI.jpg'
 categories:
   - Publieditorial
 tags:
   - logos
   - patrocinado
-
 ---
 Muitas pessoas subestimam o design do logo. Mas a criação do logo é uma das necessidades mais básicas para qualquer empresa ou website.
 
@@ -69,6 +71,16 @@ A ferramenta do [OnlineLogoMaker][3] faz você se sentir um designer, ele não d
 <img src="https://raw.githubusercontent.com/diegoeis/tableless-static-images/master/2015/06/logotype-maker.png" alt="logotype-maker" width="1128" height="508" class="alignnone size-full wp-image-49521" />
 
 O [Logotype Maker][5] é bastante poderoso. É muito fácil de usar e permite customizar bastante as cores, fonts, tamanhos e principalmente formatos. Você pode mudar a posição e os efeitos também. Eles tem uma grand ecoleção de cliparts que podem fazer seu logo ser único e bastante original. A ferramenta também te dá a possibilidade de construir reflexos e inner shadows dentre vários outros filtros que podem ser ajustados durante a criação do logo.
+
+
+### Spark da Adobe
+
+![Imagem que mostra o App do Spark da Adobe no iPhone, Desktop e iPad](https://i.imgur.com/pjRSxlr.png)
+
+A Adobe também tem um serviço para fazer não apenas logotipos, mas várias outras peças criativas para você transformar ideias em histórias visuais impressionantes.
+
+<a href="https://spark.adobe.com/pt-BR/make/video-maker/" target="_blank" rel="noopener noreferrer"><strong>Adobe Spark</strong></a> para criar algo para compartilhar com a família e amigos.
+
 
 ### Conclusão
 
