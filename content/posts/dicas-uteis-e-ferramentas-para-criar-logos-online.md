@@ -6,7 +6,7 @@ excerpt: >-
   sua empresa.
 authors: Diego Eis
 date: 2015-06-15T00:00:00.000Z
-publishDate: '2015-06-14'
+publishDate: '2019-10-07'
 image: 'https://i.imgur.com/amPRURI.jpg'
 categories:
   - Publieditorial
