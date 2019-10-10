@@ -7,15 +7,9 @@ date: '2019-08-01'
 publishDate: '2019-08-01'
 image: 'https://i.imgur.com/b8LhlJs.png'
 categories:
-  - >-
-    front-end, back-end, design, git, acessibilidade, semântica, cms,
-    soft-skill, eventos-e-workshops, cotidiano, tecnologia, noticias, carreira,
-    freebies, podcasts, seo, agile-e-gestão, mercado-e-comportamento,
-    tecnologia-e-tendencias, browsers, jamstack, tooling
+  - design
 tags:
-  - >-
-    html, css, javascript, reactjs, nodejs, php, java, angular, microdata,
-    joomla, sass, less, css3, jquery, ux, ui
+  - ui
 ---
 Ao criar um website, blog, ou qualquer outra plataforma digital, uma das mais importantes decisões diz respeito às cores que serão usadas. Se durante a criação dos elementos visuais essa etapa for ignorada, muito provavelmente o resultado não será tão bom quanto poderia ser. Para buscar o sucesso gráfico, é preciso um pouco de tempo para entender a melhor forma de decidir quais cores serão usadas e como isso impactará na usabilidade da plataforma. Como o [McDonald’s](https://www.mcdonalds.com.br/) consegue uma harmonia tão grande em suas redes digitais?
 
