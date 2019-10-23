@@ -1,7 +1,11 @@
 ---
 type: post
 title: O que Hollywood pode ensinar sobre experiência do usuário (UX)?
-excerpt: O que a Teoria das Cores diz para o sucesso de um design digital.
+excerpt: >-
+  Muitos designers cometem o erro de achar que, para qualquer produto que estão
+  projetando, os usuários seguirão os fluxos de tarefas, estruturas
+  organizacionais e nomenclaturas que lhes foi imposta, perfeitamente e sem
+  hesitação. 
 authors: Tableless
 date: '2019-09-01'
 publishDate: '2019-09-01'
