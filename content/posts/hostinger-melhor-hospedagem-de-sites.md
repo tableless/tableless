@@ -3,8 +3,8 @@ type: post
 title: 'Hostinger: Todo os desempenho que você precisa na melhor hospedagem de sites'
 excerpt: 'Conheça a Hostinger: hospedagem de sites'
 authors: Tableless
-date: '2019-08-30'
-publishDate: '2019-08-30'
+date: '2019-05-30'
+publishDate: '2019-05-30'
 image: 'https://i.imgur.com/uqk4GZb.png'
 categories:
   - Publieditorial

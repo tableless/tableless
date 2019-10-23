@@ -8,7 +8,11 @@
       {{ .Param "excerpt" }}
   </p>
   {{ partial "byauthor.html" . }}
+  
+  {{if not (in .Params.categories "Publieditorial")}}
   {{ partial "postdate.html" . }}
+  {{end}}
+
   <a href="{{ .Permalink }}#disqus_thread" class="tb-lnk-comments">Comentários</a>
   <span class="tb-post-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
 

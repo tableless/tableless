@@ -7,8 +7,8 @@ excerpt: >-
   organizacionais e nomenclaturas que lhes foi imposta, perfeitamente e sem
   hesitação. 
 authors: Tableless
-date: '2019-09-01'
-publishDate: '2019-09-01'
+date: '2019-05-01'
+publishDate: '2019-05-01'
 image: 'https://i.imgur.com/zNGJDkN.png'
 categories:
   - Publieditorial
