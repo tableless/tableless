@@ -27,8 +27,6 @@ Em se tratando de registro de domínio, a Hostinger é uma empresa credenciada p
 
 Além dos tradicionais “.com.br e .com”, vale lembrar que a Hostinger também oferece centenas de outras extensões de domínio. 
 
-
-
 ## Serviços de Hospedagem da Hostinger
 
 Para quem está atrás da melhor hospedagem de sites, a [Hostinger](https://www.hostinger.com.br/tableless) apresenta várias alternativas viáveis, que conseguem combinar preços acessíveis e serviços de alta qualidade.
@@ -58,7 +56,6 @@ Algumas vantagens oferecidas pelo plano Enterprise consistem em certificado SSL 
 Ele também oferece 160GB de espaço em disco, painel de controle personalizado e intuitivo e backups diários, assegurando que você nunca vai perder arquivos e informações importantes.
 
 
-
 ## Criador de site da Hostinger
 
 A Hostinger também tem entre os seus serviços um criador de sites intuitivo. Por meio dele, o cliente pode construir em pouco tempo, qualquer tipo de projeto, seja um blog ou um e-commerce.
@@ -68,11 +65,8 @@ O criador de sites da Hostinger apresenta uma série de alternativas de template
 [Conheça a Hostinger](https://www.hostinger.com.br/tableless)
 
 
-
 ## Conclusão
 
 A Hostinger tem vários anos de experiência quando o assunto é oferecer para os clientes a melhor hospedagem de sites. Além disso, a empresa disponibiliza aos clientes um período de teste de 30 dias, garantindo o reembolso caso o cliente não se sinta satisfeito.
-
-
 
 Portanto, se você procura uma empresa de web hosting capaz de aliar um bom serviço com preços acessíveis, entre em contato com a Hostinger.
