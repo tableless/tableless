@@ -3,11 +3,11 @@ type: post
 title: 'A importância da teoria das cores na escolha dos elementos visuais '
 excerpt: O que a Teoria das Cores diz para o sucesso de um design digital.
 authors: Tableless
-date: '2019-08-01'
-publishDate: '2019-08-01'
+date: '2019-05-01'
+publishDate: '2019-05-01'
 image: 'https://i.imgur.com/b8LhlJs.png'
 categories:
-  - design
+  - Publieditorial
 tags:
   - ui
 ---
