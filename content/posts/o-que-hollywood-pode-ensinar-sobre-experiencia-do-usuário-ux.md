@@ -15,7 +15,7 @@ categories:
 tags:
   - ux
 ---
-Nós, humanos, somos criaturas imperfeitas por natureza emocional. Muitos designers cometem o erro de achar que, para qualquer produto que estão projetando, os usuários seguirão os fluxos de tarefas, estruturas organizacionais e nomenclaturas que lhes foi imposta, perfeitamente e sem hesitação. Isso força os usuários a se adaptarem ao modo de pensar do designer, e não o contrário. Nesse contexto, sites como [Moneyman](https://www.moneyman.com.br/) e outros se destacam pela sua fácil usabilidade.
+Nós, humanos, somos criaturas imperfeitas por natureza emocional. Muitos designers cometem o erro de achar que, para qualquer produto que estão projetando, os usuários seguirão os fluxos de tarefas, estruturas organizacionais e nomenclaturas que lhes foi imposta, perfeitamente e sem hesitação. Isso força os usuários a se adaptarem ao modo de pensar do designer, e não o contrário. Nesse contexto, sites como [https://www.moneyman.com.br/](https://www.moneyman.com.br/) e outros se destacam pela sua fácil usabilidade.
 
 Indo na contramão, inúmeras aplicações e experiências digitais colocam o fardo de atenção e esforço no usuário. Como usuário, você acaba fazendo grande parte do trabalho. Você acaba tendo que:
 
