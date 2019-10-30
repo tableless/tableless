@@ -79,7 +79,7 @@ O [Logotype Maker][5] é bastante poderoso. É muito fácil de usar e permite cu
 
 A Adobe também tem um serviço para fazer não apenas logotipos, mas várias outras peças criativas para você transformar ideias em histórias visuais impressionantes.
 
-<a href="https://spark.adobe.com/pt-BR/make/video-maker/" target="_blank"><strong>Adobe Spark</strong></a> para criar algo para compartilhar com a família e amigos.
+<a href="https://spark.adobe.com/pt-BR/make/logo-maker/" target="_blank"><strong>Adobe Spark</strong></a> para criar algo para compartilhar com a família e amigos.
 
 
 ### Conclusão
