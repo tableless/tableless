@@ -55,6 +55,6 @@ Já para desativá-lo, basta usar `noSleep.disable()` em qualquer lugar do códi
 
 ## Conclusão
 
-Você pode experimentar um [exemplo aqui](https://theuves.github.io/no-sleep-demo/), observando que é extremamente aconselhável que seu dispositivo esteja com um tempo limite de tela baixo, caso contrário você poderá perder muito tempo esperando até cair a fixa de que a demonstração está funcionando.
+Você pode experimentar um [exemplo aqui](https://theuves-demos.github.io/no-sleep-demo/), observando que é extremamente aconselhável que seu dispositivo esteja com um tempo limite de tela baixo, caso contrário você poderá perder muito tempo esperando até cair a fixa de que a demonstração está funcionando.
 
 Esse é um utilitário simples e que em alguns casos para determinados usuários pode não fazer absolutamente nenhuma diferença, mas que para outros, como foi o meu, pode fazer uma falta gigantesca, não somente para leitura dum texto (que talvez seja um caso mais incomum), mas também para jogos, páginas com animações ou simples aplicativos como o de um cronômetro.
