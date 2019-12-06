@@ -50,7 +50,7 @@ disableLiveReload = true
 
   [params.sponsor]
       [params.sponsor.alura]
-          active = true
+          active = false
           site = "https://www.alura.com.br/?utm_source=tableless&utm_medium=logo&utm_campaign=patrocinio&utm_content=Tableless"
           name = "alura"
       [params.sponsor.organizze]
