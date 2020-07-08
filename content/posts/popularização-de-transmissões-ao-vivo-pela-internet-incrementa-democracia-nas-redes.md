@@ -5,8 +5,8 @@ title: Popularização de transmissões ao vivo pela internet incrementa democra
 excerpt: Popularização de transmissões ao vivo pela internet incrementa
   democracia nas redes
 authors: tableless
-date: 2019-09-01
-publishDate: 2019-09-01
+date: 2020-07-01
+publishDate: 2020-07-01
 image: https://i.imgur.com/5NemzXL.jpg
 categories:
   - publieditorial
