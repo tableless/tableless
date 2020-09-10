@@ -13,7 +13,6 @@ tags:
   - Gestão
   - Contratação
 ---
-
 Quando se fala sobre crescimento de uma organização, a conversa geralmente leva à contratação. Embora seja claro que contratar é uma abordagem muito importante para organizações em crescimento, é comum utilizarmos essa opção com muita frequência.
 
 Para descobrir o momento certo para contratar é necessário que além de conhecer a estratégia da sua empresa, você também conheça muito bem seus times e em que momento estão.
