@@ -239,3 +239,5 @@ pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 13132, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
 sovrn.com, 247953, RESELLER, fafdf38b16bf6b2b
+google.com, pub-7168377611570943, RESELLER, f08c47fec0942fa0
+improvedigital.com, 1791, RESELLER
