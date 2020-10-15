@@ -40,7 +40,7 @@ Uma das frases mais batidas dos últimos anos vai bem nessa linha:
 
 A ideia com essa série de *posts* é justamente esclarecer por que tem tanta
 gente animada com o Bitcoin, Blockchain, Ethereum e em todo esse novo
-ecossistema que se formou baseado na **descentralização**.
+ecossistema que se formou baseado na **descentralização**, estimulando soluções como o [Bitcoin Bank](https://criptoeconomia.com.br/bitcoin-bank/).
 
 Os *posts* são longos, porque precisam ser. Sem o devido contexto você no máximo
 vai conseguir entender o *como* e não o que mais importa: [o
