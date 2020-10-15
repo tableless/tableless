@@ -23,9 +23,9 @@ Procurar algo divertido para jogar que não sobrecarregue seu sistema pode ser 
 
 ![](/images/uploads/img1.png)
 
-(Imagem: Reprodução/Nintendo)
+(Imagem: Reprodução/[Nintendo](https://www.nintendo.pt/Jogos/Aplicacoes-de-download-da-Nintendo-Switch/Oxenfree-1288984.html))
 
-Oxenfree do Night School Studio é um must-have em qualquer sistema e, graças aos seus gráficos e animações minimalistas mas impressionantes, projetados por ex-alunos da Disney, é ideal para o seu laptop mais antigo.
+Oxenfree do [Night School](https://nightschoolstudio.com/) Studio é um must-have em qualquer sistema e, graças aos seus gráficos e animações minimalistas mas impressionantes, projetados por ex-alunos da Disney, é ideal para o seu laptop mais antigo.
 
 Você joga com Alex, uma adolescente comum em uma excursão noturna com amigos a uma ilha misteriosa que costumava ser uma base militar da Segunda
 
@@ -37,7 +37,7 @@ O verdadeiro atrativo do jogo é o sistema de conversação, pois cada conver
 
 ![](/images/uploads/img2.png)
 
-(Imagem: Reprodução/APKPure)
+(Imagem: Reprodução/[APKPure](https://apkpure.com/br/zynga-poker-classic-tx-holdem/com.zynga.livepokerclassic))
 
 Se você já é familiarizado com os jogos populares da Zynga, como Farmville, também pode gostar de experimentar o casino online Zynga. Você pode jogar pôquer, caça-níqueis e outros jogos de cassino por conta própria ou pode competir contra seus amigos.
 
@@ -45,15 +45,15 @@ Você pode baixar os jogos de cassino da Zynga para seu smartphone Apple ou And
 
 O Zynga é apenas uma opção de jogos de azar desse tipo. São jogos leves, que não exigem muito do processamento do seu dispositivo. Se você tem
 
-interesse maior nesse nicho, aproveite a lista de todos os bônus de cassino e veja como você pode se divertir e, quem sabe, até ganhar uma grana extra!
+interesse maior nesse nicho, [aproveite a lista de todos os bônus de cassino](https://www.askgamblers.com/pt/gambling-news/blog/online-casino-bonus-guide/) e veja como você pode se divertir e, quem sabe, até ganhar uma grana extra!
 
 ## 3. Hotline Miami
 
 ![](/images/uploads/img3.png)
 
-(Imagem: Reprodução/Steam)
+(Imagem: Reprodução/[Steam](https://store.steampowered.com/app/355890/Hotline_Miami_2_Wrong_Number__Soundtrack/?l=brazilian))
 
-Hotline Miami é um jogo de tiro com visão de cima inicialmente lançado pela Devolver Digital Games, em 2012. Você joga como um protagonista sem nome (os fãs se referem como "Jacket") em 1989 em Miami. O jogo é dividido em capítulos, cada um com várias fases. As missões começam com uma mensagem telefônica que acaba levando Jacket a enfrentar uma operação da máfia russa. O objetivo é sempre eliminar todos os bandidos naquele local.
+Hotline Miami é um jogo de tiro com visão de cima inicialmente lançado pela [Devolver Digital Games](https://www.devolverdigital.com/), em 2012. Você joga como um protagonista sem nome (os fãs se referem como "Jacket") em 1989 em Miami. O jogo é dividido em capítulos, cada um com várias fases. As missões começam com uma mensagem telefônica que acaba levando Jacket a enfrentar uma operação da máfia russa. O objetivo é sempre eliminar todos os bandidos naquele local.
 
 Seus gráficos retrô combinados com sua trilha sonora inspirada nos anos 1980 dão uma vibe quase GTA: Vice City. Sua estrutura o torna ideal para jogar em pequenos intervalos de tempo, como enquanto espera o embarque no aeroporto.
 
@@ -61,7 +61,7 @@ Seus gráficos retrô combinados com sua trilha sonora inspirada nos anos 1980
 
 ![](/images/uploads/img4.png)
 
-(Imagem: Reprodução/GameSpot)
+(Imagem: Reprodução/[GameSpot](https://www.gamespot.com/reviews/portal-review/1900-6190126/))
 
 Portal se passa no universo Half-Life, embora isso só seja aparente por meio de referências feitas durante o jogo. Você joga como Chell, uma cobaia em uma instalação abandonada chamada Aperture Science. O jogo é mais um quebra-cabeças em primeira pessoa do que um jogo de tiro. Sua única “arma” é um dispositivo portátil que pode fazer portais de entrada e saída em superfícies planas.
 
@@ -71,7 +71,7 @@ Os únicos “inimigos” que você enfrenta são torres de armas automatizad
 
 ![](/images/uploads/img5.png)
 
-(Imagem: Reprodução/Games4U)
+(Imagem: Reprodução/[Games4U](https://www.games4u.com/sc/br/g4u/jogo/minecraft/c246696ef88e8c954cf5f2c62afa7518u9qtngdy/))
 
 A menos que você esteja muito fechado ou fechada em sua bolha, não há muito o que dizer sobre o Minecraft. O jogo vendeu mais de 180 milhões de cópias em várias plataformas e tem cerca de 112 milhões de jogadores ativos por mês.
 
