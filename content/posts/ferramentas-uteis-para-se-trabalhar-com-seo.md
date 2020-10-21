@@ -9,9 +9,10 @@ categories:
   - SEO
 
 ---
+
 Muitas vezes ficamos perdidos em como mensurar resultados e analisa-los, afim de traçar estratégias mais eficazes. Isso acontece principalmente quando estamos começando a trabalhar com SEO. Sabemos o quanto é importante trabalhar os fatores OnPage, ter um servidor estável e um site rápido, além de bons links e menções, entre outros fatores que, somados, fica difícil de se controlar.
 
-Por isso, trouxe aqui algumas ferramentas, umas pagas e outras free, mas que vão ajuda-lo a administrar a sua campanha. Vamos a elas.
+Por isso, trouxe aqui algumas [ferramentas de SEO](https://www.webpeak.com.br/), umas pagas e outras free, mas que vão ajuda-lo a administrar a sua campanha. Vamos a elas.
 
 ## SEO Tools for Excel
 
