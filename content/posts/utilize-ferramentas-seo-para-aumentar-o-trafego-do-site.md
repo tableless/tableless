@@ -16,7 +16,7 @@ tags:
   - sites
 
 ---
-Três amigos criaram sites para apresentar suas marcas e negócios online e resolveram se aventurar nos caminhos do marketing digital para aumentar o tráfego de suas páginas e, consequentemente, atrair o maior número de clientes. Após pesquisas e consultas com especialistas neste ramo, foram orientados a conhecer o SEO.
+Três amigos criaram sites para apresentar suas marcas e negócios online e resolveram se aventurar nos caminhos do [marketing digital](https://br.sharpspring.com/marketing-digital/) para aumentar o tráfego de suas páginas e, consequentemente, atrair o maior número de clientes. Após pesquisas e consultas com especialistas neste ramo, foram orientados a conhecer o SEO.
 
 Pensaram que poderia ser nome de alguém e fizeram buscas na internet seguindo essa referência. Diversos sites indicados pelo Google apareceram e indicaram essa sigla. Encontraram o nome SEO, viram que não se tratava de uma pessoa e decidiram estudá-lo. Ficaram intrigados ao visualizar que ao lado da sigla SEO existiam imagens gráficas de ferramentas.
 
