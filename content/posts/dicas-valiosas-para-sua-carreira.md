@@ -47,7 +47,7 @@ Ao investir nos seus soft skills você não está mais dependendo de tecnologia 
 **2. Formalização**
 No último tópico, mencionei que saber inglês fluente é essencial para que você consiga empregos melhores. Um outro fator fundamental para que você conquiste seu espaço no mercado de trabalho é possuir um CNPJ. Além da carreira CLT, profissionais da nossa área podem ainda escolher atuar como freelancer prestando serviço de forma autônoma para uma ou mais empresas e, neste caso, é importante que você regulamente a sua atividade, pois além de transmitir maior credibilidade em relação às suas entregas como profissional, você pagará menos impostos do que atuando como pessoa física. É muito comum que as empresas optem contratar desenvolvedores e programadores para freelas e, acredite, a preferência é daqueles que já atuam como pessoa jurídica. 
 
-Mesmo assim, não se preocupe em começar a entender esta parte burocrática. Você pode e deve buscar o auxílio de um contador que te direcionará para o melhor caminho e se responsabilizará por todos os processos. Além disso, hoje é possível abrir empresa online de forma prática, como a Contabilizei oferece, por exemplo.
+Mesmo assim, não se preocupe em começar a entender esta parte burocrática. Você pode e deve buscar o auxílio de um contador que te direcionará para o melhor caminho e se responsabilizará por todos os processos. Além disso, hoje é possível [abrir empresa online](https://www.contabilizei.com.br/contabilidade-online/como-abrir-empresa-online/) de forma prática, como a Contabilizei oferece, por exemplo.
 
 **3. Mistura de conhecimentos**
 
