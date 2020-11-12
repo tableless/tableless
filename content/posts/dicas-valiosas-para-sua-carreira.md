@@ -44,17 +44,22 @@ Tudo isso tem cura amigos, basta correr atrás. Existem cursos e coaching de car
   
 Ao investir nos seus soft skills você não está mais dependendo de tecnologia e está agregando valor a longo prazo em sua carreira e em qualidade de vida. Isso requer também uma boa dose de humildade para reconhecer que somos assim e tomarmos uma atitude em relação a isso. 
 
-**2. Mistura de conhecimentos**
+**2. Formalização**
+No último tópico, mencionei que saber inglês fluente é essencial para que você consiga empregos melhores. Um outro fator fundamental para que você conquiste seu espaço no mercado de trabalho é possuir um CNPJ. Além da carreira CLT, profissionais da nossa área podem ainda escolher atuar como freelancer prestando serviço de forma autônoma para uma ou mais empresas e, neste caso, é importante que você regulamente a sua atividade, pois além de transmitir maior credibilidade em relação às suas entregas como profissional, você pagará menos impostos do que atuando como pessoa física. É muito comum que as empresas optem contratar desenvolvedores e programadores para freelas e, acredite, a preferência é daqueles que já atuam como pessoa jurídica. 
+
+Mesmo assim, não se preocupe em começar a entender esta parte burocrática. Você pode e deve buscar o auxílio de um contador que te direcionará para o melhor caminho e se responsabilizará por todos os processos. Além disso, hoje é possível abrir empresa online de forma prática, como a Contabilizei oferece, por exemplo.
+
+**3. Mistura de conhecimentos**
 
 Você ama alguma linguagem promissora e não faz outra coisa a não ser isso?
 
 É hora de rever algumas coisas, seja sempre curioso em relação a coisas novas e aprender pelo menos o básico de outras coisas. Sendo assim, você nunca vai começar do zero, além do fato de que você poderá contar com um leque maior de conhecimentos para o seu dia a dia e não viverá fechado em um casulo. 
 
-**3. O balanço entre planejamento e ação.**
+**4. O balanço entre planejamento e ação.**
 
 Não há como planejarmos passo a passo os próximos 20 anos de nossa carreira, portanto é bom trabalharmos com algumas possibilidades de carreira e também quebrar isso em passos menores. Aqui temos conteúdo suficiente para um novo post sobre planejamento de carreira. A dica principal é não planejar demais e também não se perder no dia a dia. Devemos sempre saber como o dia de hoje está afetando nossos planos para o nossas metas futuras. 
 
-**4. Atitude na maioria dos casos supera o conhecimento**
+**5. Atitude na maioria dos casos supera o conhecimento**
 
 Falo isso por experiência própria. A algum tempo sai da área de segurança da informação para ir para área de desenvolvimento, mas não voltei a estaca zero, muito pelo contrário.
 
