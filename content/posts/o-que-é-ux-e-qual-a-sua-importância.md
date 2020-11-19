@@ -3,8 +3,8 @@ type: post
 title: O que é UX e qual a sua importância? 
 excerpt: Entendendo qual a importância do UX em grandes sites.
 authors: Tableless
-date: 2020-09-01
-publishDate: 2020-11-19
+date: 2020-08-31
+publishDate: 2020-08-31
 image: https://images.unsplash.com/photo-1531403009284-440f080d1e12?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 categories:
   - tooling
