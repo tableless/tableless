@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang='{{ .Site.LanguageCode | default "pt-br" }}' prefix='og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#'>
+<html class="Type-is-{{ .Type }} Kind-is-{{ .Kind }} Section-is-{{ .Section }}" lang='{{ .Site.LanguageCode | default "pt-br" }}' prefix='og: https://ogp.me/ns# fb: https://ogp.me/ns/fb#'>
 <head>
   <title>
     {{.Title}} - {{.Site.Params.siteName}} - {{ .Site.Params.description}}
@@ -51,7 +51,7 @@
 <body>
 
   <header id="tb-header">
-  {{- partialCached "sponsors/sponsor-header-logos.html" . -}}
+  <!-- - partialCached "sponsors/sponsor-header-logos.html" . - -->
 
     <a href="{{ .Site.BaseURL }}" class="tb-logo"><img src="{{ .Site.BaseURL }}images/logom.svg" alt="Logo tableless"></a>
     <ul class="tb-channels">

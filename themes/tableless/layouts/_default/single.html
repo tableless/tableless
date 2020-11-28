@@ -9,7 +9,7 @@
   </p>
   {{ partial "byauthor.html" . }}
   
-  {{if not (in .Params.categories "Publieditorial")}}
+  {{if not (in .Params.tags "publieditorial")}}
   {{ partial "postdate.html" . }}
   {{end}}
 
