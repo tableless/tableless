@@ -6,13 +6,6 @@ type: post
 date: 2013-01-03
 excerpt: Entenda como funciona e como fazer um email marketing responsivo.
 url: /e-mail-newsletter-responsivo/
-tweetbackscheck:
-  - 1356383143
-shorturls:
-  - 'a:3:{s:9:"permalink";s:31:"https://tableless.com.br/?p=7611";s:7:"tinyurl";s:26:"https://tinyurl.com/bsd5wcu";s:4:"isgd";s:19:"https://is.gd/WI4pk0";}'
-twittercomments:
-  - 'a:0:{}'
-dsq_thread_id: 992364554
 categories:
   - Acessibilidade
   - Artigos
@@ -403,6 +396,10 @@ Design responsivo não é apenas redimensionar alguns elementos do layout. A ide
 Já faz tempo que a internet não está mais apenas nos computadores. Smartphones, tablets, televisores e videogames portáteis são dispositivos comuns no dia-a-dia dos usuários. E ler e-mails é uma das atividades mais corriqueiras. É bem difícil prever quais serão os tipos de midia do futuro, mas o fato é que não podemos mais considerar a web como algo restrito a uma caixinha com 1024 pixels de largura. Apresentar um layout adequado para cada tipo de mídia deixa de ser um luxo e passa a ser uma obrigação. A minha aposta é que com o tempo seja tão essencial como desenvolver códigos semânticos, por exemplo.
 
 Da mesma forma que acontece com os browsers, a medida que os clientes de e-mail antigos passam a ser abandonados as opções de estilização ficam cada vez mais interessantes. A tendência é que as novas tecnologias leiam códigos cada vez mais complexos. É nossa responsabilidade, portanto, oferecer aos usuários sempre a melhor opção de usabilidade e acessibilidade. Em telas grandes e pequenas. Em sites e emails.
+
+Entenda um pouco melhor sobre esse assunto com uma [consultoria de marketing B2B](http://nextnova.com.br/).
+
+---
 
 [Download de exemplo][6]
 
