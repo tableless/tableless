@@ -17,7 +17,7 @@ Eu fui um insatisfeito durante muito tempo. Não encontrava um lugar certo, um l
 
 Eu consegui encontrar esse lugar ano passado, quando entrei na [Sympla](https://sympla.com.br?utm_source=tablelessDiegoEis&utm_medium=SiteDiegoEis&utm_campaign=postVagasFront). 
 
-Nós estamos contratando algumas perfis importantes para a nossa área de produto e tecnologia. Um desses perfis é front-end. Precisamos MUITO de gente muito boa tecnicamente, que tenha potencial e queira nos ajudar a manter o alto nível que temos. 
+Nós estamos contratando alguns perfis importantes para a nossa área de produto e tecnologia. Um desses perfis é front-end. Precisamos MUITO de gente muito boa tecnicamente, que tenha potencial e queira nos ajudar a manter o alto nível que temos. 
 
 Você é front-end (ou back?)? [Vem trabalhar conosco na Sympla](https://www.sympla.com.br/trabalhe-conosco?utm_source=tablelessDiegoEis&utm_medium=SiteDiegoEis&utm_campaign=postVagasFront).
 
