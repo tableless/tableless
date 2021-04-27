@@ -91,7 +91,7 @@ Como é fácil escrever código bom e bem documentado, a comunidade Python tem 
 
 Se você não programa em Python, espero tê-lo deixado pelo menos um pouquinho curioso. No próximo artigo, vamos falar um pouco mais da linguagem, mostrando algumas características da sintaxe e dos tipos de dados que a tornam tão interessante. Até lá, fique à vontade nos comentários. Sugestões, dúvidas, críticas e opiniões são muito bem vindas e vão me ajudar a preparar os próximos artigos.
 
-E você sempre pode [aprender Python na Classpert](https://pt-br.classpert.com/it-computer-science/software-development/python).
+E você sempre pode [aprender Python na Classpert](https://pt-br.classpert.com/blog/cursos-de-python).
 
 &nbsp;
 
