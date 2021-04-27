@@ -9,7 +9,8 @@ publishDate: 2020-12-01
 image: https://i.blogs.es/94a501/ov0/450_1000.jpg
 categories:
   - publieditorial
-tags: []
+tags:
+  - publieditorial
 ---
 Graças à qualidade dos jogos que foram lançados pela Blizzard desde sua criação, em 1991, a companhia estadunidense se tornou uma das maiores empresas do ramo. Tal qualidade mantida nos produtos da Blizzard ajudou também a construir e manter uma base de fãs altamente leal e que se encontra disposta a pelo menos tentar utilizar as novas franquias da companhia quando a mesma não investe em títulos mais tradicionais, como Warcraft e Diablo.
 

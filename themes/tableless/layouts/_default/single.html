@@ -13,7 +13,7 @@
   {{ partial "postdate.html" . }}
   {{end}}
 
-  <a href="{{ .Permalink }}#disqus_thread" class="tb-lnk-comments">Comentários</a>
+  <!-- <a href="{{ .Permalink }}#disqus_thread" class="tb-lnk-comments">Comentários</a> -->
   <span class="tb-post-time-read">~ {{.ReadingTime}} min. / {{.WordCount}} palavras</span>
 
 </header>
@@ -48,7 +48,9 @@
       </script>
     </div>
 
+  {{if not (in .Params.tags "publieditorial")}}
     {{ partial "comments.html" . }}
+  {{end}}
   </section>
 
  {{- partial "sidebar.html" . -}}

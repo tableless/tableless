@@ -9,7 +9,8 @@ publishDate: 2020-04-25
 image: https://i.imgur.com/xGkWcdk.png
 categories:
   - publieditorial
-tags: []
+tags:
+  - publieditorial
 ---
 Ter presença digital não se trata de um adereço, mas de uma necessidade. No dizer popular, “se você não está na internet, você não existe”. Por isso é tão importante para empresas [criar site profissional](https://www.construsitebrasil.com/).
 
