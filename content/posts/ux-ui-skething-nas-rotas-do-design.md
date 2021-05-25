@@ -1,14 +1,23 @@
-# UX/UI & Skething nas rotas do Design.
+---
+title: 'UX/UI & Skething nas rotas do Design'
+authors: Igor Giamoniano
+type: post
+date: 2021-05-25
+excerpt: 'Sobre a área de design com foco em suas terminologia no passado e no presente'
+categories:
+  - Design
+tags:
+  - mercado
+  - opinião
+--- 
 
-Esse artigo fala um pouco da minha visão da área de Design com foco em sua terminologia, no passado e no presente.<br>
-Pela abrangencia do termo vou me focar principalmente no Design Gráfico e Design Digital (minha primeira formação a quem devo eterna gratidão ao diretor do instituto <a href="https://www.linkedin.com/in/elwyn-correia-1235b986/"> Elwyn Correia </a>, uma pessoa incrivel que nunca esqueceu o significado do termo Educação.)
+Pela abrangência do termo vou me focar principalmente no Design Gráfico e Design Digital (minha primeira formação a quem devo eterna gratidão ao diretor do instituto <a href="https://www.linkedin.com/in/elwyn-correia-1235b986/"> Elwyn Correia </a>, uma pessoa incrível que nunca esqueceu o significado do termo Educação.)
 
-> "Tudo bem, eu sei, meu dicionário é velho
-> E se tiver no novo eu vou ligar pro Aurélio."
->                              Atitude 67 - Saideira
+> "Tudo bem, eu sei, meu dicionário é velho e se tiver no novo eu vou ligar pro Aurélio.", Atitude 67 - Saideira
 
 
 Ou no nosso caso o Michaelis:
+
 > "sm. Conceito de qualquer produto de acordo com seu ponto de vista estético e sua funcionalidade"
 
 
@@ -50,6 +59,7 @@ O UI esta voltado a áreas especificas do Design, nesse caso a criação de Inte
 É nesse momento que o Design tende a especialização, como Design de Software, Web Design ou Design Industrial.
 O Design de Interfaces trabalha com os dados gerados pela experiência do usuário e cria soluçoes práticas para os problemas encontrados, baseando-se principalmente na usabilidade.
 Para isso temos inclusive a padronização da <a href="https://en.wikipedia.org/wiki/ISO_9241">ISO 9241</a> (que trata principalmente de objetos gráficos), sendo seus atributos:
+
 - Clareza
 - Dicriminabilidade
 - Concisão
@@ -76,11 +86,3 @@ O esboço no Design deve ser encarado como um exercicio de desbloqueio mental on
 Assim como o mundo mudou nos ultimos nos ultimos 100 anos o Design como forma de compreenção e ação criativa mudou junto. Muitos foram os desafios ao longo dessa jornada e a constante evolução traz consigo ainda mais desafios, mas a diferença é que vemos um cenário mais profissional e mais focado em entregas de qualidade.
 
 Hoje pensamos em diversas formas de Design (Design Thinking, Design Service, etc.) que a criatividade, como natureza inerente a todo ser humano, seja sempre uma constante (ainda que variavel em sua subjetividade) em um futuro cheio de variaveis (ainda que objetivo em sua posição). 
-
-
-
-
-
-
-
-
