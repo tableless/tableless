@@ -11,9 +11,7 @@ categories:
   - Back-end
 ---
 
-# Sequelize - A solução para seus relacionamentos!
-
-### 1 - Introdução
+## 1 - Introdução
 
 Se você esta aqui provavelmente você ja conhece essa fácil e dinâmica biblioteca ORM.
 
@@ -23,7 +21,7 @@ Caso não conheça, não se preocupe!
 Nesse artigo vamos focar em como fazer relacionamentos entre tabelas, usando [Node.JS](https://nodejs.org/en/) e [Sequelize](https://sequelize.org/), então bora!
 <br><br>
 
-### 2 - Tipos de relacionamento
+## 2 - Tipos de relacionamento
 
 O Sequelize é compatível com as associações padrão:
 
@@ -39,8 +37,7 @@ Os métodos de criação de relacionamentos são:
 *  **hasMany** (tem muitos)
 *  **belongsToMany** (pertence a muitos)
 
-<br><br>
-### 3 - Relacionamento de 1:1 (Eu tenho um 😍 -  eu pertenço a um 😍)
+## 3 - Relacionamento de 1:1 (Eu tenho um 😍 -  eu pertenço a um 😍)
 
 Vamos usar as seguintes tabelas de exemplo:
 
@@ -135,7 +132,7 @@ Dessa vez estamos adicionando o campo `include` que dirá ao Sequelize qual a co
 Agora fica fácil!
 <br><br>
 
-### 3 - Relacionamento de 1:N (Eu + os contatinhos 😍😍😍 + eles são só meus! 😠)
+## 4 - Relacionamento de 1:N (Eu + os contatinhos 😍😍😍 + eles são só meus! 😠)
 
 Uma modalidade de relacionamento também conhecida como, modalidade MC Catra (ou para os mais novinhos, modalidade [*'Oh Juliana o que tu qué de mim?'*](https://www.youtube.com/watch?v=Tun92VU2OkU)), onde
 no caso ***uma pessoa*** pode ter ***vários crushes***.
@@ -169,8 +166,8 @@ Agora **uma pessoa** pode ter **vários crushs**.
 Ei, mas não temos que mudar o Model de Crushs?
 Nesse caso não! Pois, em um relacionamento de 1:N vários Crushs ainda pertencem a Uma pessoa o que justifica o uso do **belongsTo**.
 
-<br><br>
-### 4 - Relacionamento de N:N (Eu + os contatinhos 😍😍😍 depois da terapia 😌)
+
+## 5 - Relacionamento de N:N (Eu + os contatinhos 😍😍😍 depois da terapia 😌)
 
 Esse é o momento onde as coisas ficam um pouco mais complicadas mais, calma!
 Liga [aquela playlist](https://www.youtube.com/watch?v=EogJHhZwBPQ) de Tim Maia Lofi que você [já conhece](http://https://tableless.com.br/ux-ui-skething-nas-rotas-do-design/)!
@@ -297,7 +294,7 @@ Para finalizar faça uma requisição do tipo GET para este endpoint passando co
 Faça um teste tirando a opção attributes e veja a diferença!
 <br><br>
 
-### Conclusão
+## Conclusão
 
 Assim conseguimos de forma rápida fazer associação entre tabelas o que daria muito trabalho se tivéssemos que fazer na mão. <br>
 A [documentação](https://sequelize.org/master/manual/assocs.html) do Sequelize trata as associações de forma detalhada e é referência obrigatória na hora de criar sua aplicação, no próximo artigo falarei um pouco sobre *Eager Loading* e *Lazy Loading*, até lá!
