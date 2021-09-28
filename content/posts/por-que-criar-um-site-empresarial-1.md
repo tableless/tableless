@@ -1,12 +1,7 @@
 ---
 type: post
 title: Por que criar um site empresarial?
-excerpt: er presença digital não se trata de um adereço, mas de uma necessidade.
-  No dizer popular, “se você não está na internet, você não existe”. Por isso é
-  tão importante para
-  empresas[ ](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.construsitebrasil.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1632835668650000%26amp;usg%3DAOvVaw1y4ERum4pk90fLCwmbqC0V&sa=D&source=editors&ust=1632835668666000&usg=AOvVaw32iWhi4cB4jm_Y2N4J0HsI)[criar
-  site
-  profissional](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.construsitebrasil.com/%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1632835668651000%26amp;usg%3DAOvVaw2I26AhQrUiXiA7g06tOCn6&sa=D&source=editors&ust=1632835668666000&usg=AOvVaw3diESZHJ8shYAy0vauvCr5).
+excerpt: Ter presença digital não se trata de um adereço, mas de uma necessidade.
 authors: Tableless
 date: 2021-09-28
 publishDate: 2021-09-28
