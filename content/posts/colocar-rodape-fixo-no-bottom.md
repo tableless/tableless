@@ -4,18 +4,6 @@ authors: Diego Eis
 type: post
 date: 2010-01-12
 excerpt: Como deixar o Rodapé fixo fim da página quando houver pouco conteúdo.
-url: /colocar-rodape-fixo-no-bottom/
-aktt_notify_twitter:
-  - no
-tweetbackscheck:
-  - 1356391400
-shorturls:
-  - 'a:3:{s:9:"permalink";s:53:"https://tableless.com.br/colocar-rodape-fixo-no-bottom";s:7:"tinyurl";s:26:"https://tinyurl.com/42ny4bw";s:4:"isgd";s:19:"https://is.gd/pYGzBz";}'
-twittercomments:
-  - 'a:2:{i:33228918613868546;s:6:"136995";i:33229249532014592;s:6:"136996";}'
-tweetcount:
-  - 2
-dsq_thread_id: 503026001
 categories:
   - CSS
   - HTML
@@ -27,8 +15,8 @@ tags:
   - tecnicascss
   - tutorial
   - xhtml
-
 ---
+
 Você já precisou ter o rodapé fixo no fim da página algum dia. Normalmente os clientes chatos acham feio aquele rodapé terminando no meio da página quando há pouco conteúdo. Há uma técnica no CSS que resolve isso. Não funciona no IE6, já aviso agora. Na verdade, tem um jeito de funcionar, mas não quero te acostumar mal. 🙂
 
 Lembrando que você pode fazer isso facilmente com JQuery. 
