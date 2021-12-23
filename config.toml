@@ -43,17 +43,6 @@ disableLiveReload = true
   toLower = true
   weight = 15
 
-[[redirects]]
-  from = "/iniciantes/"
-  to = "http://tableless.github.io/iniciantes/"
-  status = 301
-  force = false
-
-[[redirects]]
-  from = "/colocar-rodape-fixo-no-bottom"
-  to = "https://productoversee.com/colocar-rodape-fixo-no-bottom/"
-  status = 301
-  force = false
 
 [params]
   siteName = "Tableless"
