@@ -1,3 +1,15 @@
 [context.production.environment]
   HUGO_VERSION = "0.55.5"
 
+
+[[redirects]]
+  from = "/iniciantes/"
+  to = "http://tableless.github.io/iniciantes/"
+  status = 301
+  force = false
+
+[[redirects]]
+  from = "/colocar-rodape-fixo-no-bottom"
+  to = "https://productoversee.com/colocar-rodape-fixo-no-bottom/"
+  status = 301
+  force = false
