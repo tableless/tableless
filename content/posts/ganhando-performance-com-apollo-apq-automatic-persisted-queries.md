@@ -2,7 +2,6 @@
 title: Ganhando performance com Apollo APQ — Automatic persisted queries
 authors: Roger Albino
 type: post
-image: uploads/2017/03/pexels-photo-296983-2.jpg
 date: 2017-03-20
 excerpt: Melhorando a performance enviando requests menores.
 categories:
