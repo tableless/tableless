@@ -2,7 +2,7 @@
 title: Como e porquê organizar a sua pirâmide de testes
 authors: Lucas Lacava
 type: post
-image: https://i.imgur.com/TexXlFM.png
+image: https://i.imgur.com/zovWaVc.png
 date: 2022-02-17
 excerpt: Como organizo minha pirâmide de testes para meus projetos front-end no BEES Brasil.
 categories:
