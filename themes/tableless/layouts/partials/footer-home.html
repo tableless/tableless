@@ -1,0 +1,72 @@
+
+
+
+<footer id="tb-footer">
+  <div class="tb-container">
+    <ul class="tb-social-links">
+      <li><a rel="noopener" href="https://facebook.com/tablelessbr">Facebook</a></li>
+      <li><a rel="noopener" href="https://twitter.com/tableless">Twitter</a></li>
+      <li><a rel="noopener" href="http://www.specificfeeds.com/tableless?subParam=followPub" type="application/rss+xml" class="tb-ico-rss">RSS</a></li>
+      <li><a rel="noopener" href="https://medium.com/tableless">Medium</a></li>
+    </ul>
+
+    <div class="tb-nav-footer">
+      <nav>
+        <h3>Sobre</h2>
+        <a href="{{ .Site.BaseURL}}sobre-nos/" class="tb-link-footer">Sobre o Tableless</a>
+        <a href="{{ .Site.BaseURL}}contato/" class="tb-link-footer">Contato</a>
+        <a href="{{ .Site.BaseURL}}anuncie-no-tableless/" class="tb-link-footer">Anuncie</a>
+        <a href="{{ .Site.BaseURL}}seja-um-autor/" class="tb-link-footer">Seja um Autor</a>
+        <a href="https://tableless.com.br/servicos/" class="tb-link-footer">Fazemos código front-end</a>
+      </nav>
+      <nav>
+        <h3>Acompanhe</h3>
+        <a href="https://www.eventials.com/tableless/" rel="noopener" title="Assista algumas vídeo aulas" class="tb-link-footer">Webinars</a>
+        <!-- <a href="http://forum.tableless.com.br/" rel="noopener" title="Pergunte e resposta perguntas no nosso Fórum" class="tb-link-footer">Fórum</a> -->
+        <a href="https://medium.com/tableless/" rel="noopener" title="Acompanhe artigos no Medium" class="tb-link-footer">Canal no Medium</a>
+        <a href="https://telegram.me/tableless" rel="noopener" title="Acompanhe notíficas e novos posts no Telegram" class="tb-link-footer">Canal no Telegram</a>
+      </nav>
+      <nav>
+        <h3>Comunidade</h3>
+        <!-- <a href="https://br.udacity.com/course/react-nanodegree--nd019/?utm_source=tableless&utm_medium=linkFooter&utm_campaign=tableless_footer&utm_content=Tableless" rel="noopener" title="">Udacity | Curso de React</a> -->
+        <a href="https://github.com/femug/femug" rel="noopener" title="Encontro Front-end no Brasil inteiro">Femug</a>
+        <a href="https://www.meetup.com/pt-BR/CSS-SP/" rel="noopener" title="Encontro de CSS em São Paulo">MeetupCSS</a>
+        <a href="http://zofe.com.br/" rel="noopener" title="Ouça um Podcast brasileiro sobre Front-end">Podcast ZOFE</a>
+        <a href="https://braziljs.org/" rel="noopener" title="Um dos maiores eventos de JavaScript e front-end do Brazil do Universo">BrazilJS</a>
+        <a href="http://devnaestrada.com.br/" rel="noopener" title="Podcast brasileiro sobre desenvolvimento web">DevNaEstrada</a>
+        <a href="https://github.com/frontendbr/" rel="noopener" title="Portando qualquer coisa relacionada ao mundo frontender para o Github">Front-End Brasil</a>
+      </nav>
+    </div>
+
+    <p class="tb-for-community">
+      Escrito pela e para a comunidade web brasileira. <a href="{{ .Site.BaseURL}}seja-um-autor/" class="tb-link-help">Ajude</a>.<br>
+      <small><a href="#" onclick="if(window.__lxG__consent__ !== undefined) {window.__lxG__consent__.showConsent()} else {alert('This function only for users from European Economic Area (EEA)')}; return false">
+                                                Change privacy settings
+                                            </a></small>
+    </p>
+  </div>
+</footer>
+
+{{ template "_internal/google_analytics_async.html" . }}
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+  <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBKHDNC" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+</body>
+</html>
