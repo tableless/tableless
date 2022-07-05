@@ -1,0 +1,154 @@
+---
+title: Observer com PropertyChangeListener
+authors: Mattheus Cassundé
+type: post
+date: 2022-07-05
+excerpt: Vamos explorar como aplicar o padrão Observer uando Java.
+categories:
+  - back-end
+tags:
+  - java
+---
+# Um pouco do padrão
+Esse padrão é simples, usado para comunicação entre objetos, o principal objetivo está em definir **como notificaremos vários objetos quando acontecer um evento com outro objeto**, por exemplo, sempre que uma venda for aprovada, devemos enviar um e-mail para o cliente e criar uma nota fiscal.
+
+Existem dois principais componentes nesse padrão, o Observável e o Observador, vamos conhecer mais um pouco sobre eles.
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/wmv2hx8b4i72la2yzyip.png)
+ 
+## Observable
+Representa o objeto que será observado, em nosso exemplo a Venda, sempre que mudar de status devemos notificar todos que escutam esse objeto.
+
+Observable, tem métodos para adicionar, remover e notificar os observadores.
+
+O objeto que será observado por outros por padrão ele deverá ter algumas características como: 
+
+- Ter uma referência para todos os seus observadores
+- Observadores podem se inscrever e desinscrever em tempo de execução
+
+## Observers
+Representa o objeto que será notificado quando um observável disparar suas notificações, ele deve ter um meio de receber as notificações do seu **observável**.
+
+Na implementação padrão, temos uma interface que será implementada por todos que querem receber essa "notificação", essa interface tem apenas um método que obriga seu dependente a implementar. 
+
+> Obs: Existe outros padrões que são parecidos como pub/sub
+
+# Quando Implementar?
+Quando existir uma necessidade informar a outros objetos que um objeto teve alteração.
+
+**Um exemplo**
+Quando um e-commerce recebe um pedido de compra e esse pedido é "APROVADO" com esse status precisamos fazer algumas coisas como, enviar e-mail de confirmação para cliente e vendedor
+
+# Como implementar?
+Nesse exemplo vamos usar:
+
+- PropertyChangeListener
+- PropertyChangeSupport
+- PropertyChangeEvent
+
+## Cenário
+Nosso cenário teremos uma rotina de **vendas** e sempre que recebermos uma venda deveremos disparar um e-mail para o comprador e disparar a rotina de criar nota fiscal.
+
+## Classe de negócio
+Começaremos criando a primeira classe, classe que representará uma ordem de venda, ela será nossa entidade central.
+
+```java
+public class Order {
+    private String client;
+    private BigDecimal amount;
+    private String status;
+}
+```
+
+## Criando um observador que envia e-mail
+Esse observador receberá as notificações da Order, usaremos a interface `PropertyChangeListener` para deixá-lo apto a receber essas notificações.
+
+```java
+public class SendEmailOrderObserver implements PropertyChangeListener {
+    @Override
+    public void propertyChange(PropertyChangeEvent evt) {
+            System.out.println("Disparar email para cliente");
+    }
+}
+```
+Note que essa interface tem apenas um método, que recebe um [PropertyChangeEvent](https://docs.oracle.com/javase/8/docs/api/java/beans/PropertyChangeEvent.html) e com ele conseguiremos ter acesso ao objeto antigo e o novo.
+
+## PropertyChangeEvent
+Classe que será enviada como **argumento** para todos os observadores assinados, normalmente esse objeto contém um `nome`, um `valor antigo` e um `valor novo`, com essas informações podemos fazer várias regras de negócio.
+
+## Criando Observável
+Essa classe será responsável de registrar, remover e disparar notificações para todos os `observadores` registrados, aqui vamos levar em consideração uma regra do Padrão, "todos os observadores podem inscrever-se e se desinscrever".
+
+```java
+public class OderObserver {
+
+    private PropertyChangeSupport support;
+
+    public OderObserver() {
+        this.support = new PropertyChangeSupport(this);
+    }
+
+    /*
+    * Método para registrar Observadores
+    */
+    public void addListener(PropertyChangeListener listener){
+        this.support.addPropertyChangeListener(listener);
+    }
+    
+    /*
+    * Método para remover Observadores
+    */
+    public void removeObserver(PropertyChangeListener observer){
+        this.changeSupport.removePropertyChangeListener(observer);
+    }
+    
+    /*
+    * Método para que receerá uma nova orden e notificará a todos
+    */
+    public void notification(Order order){
+        this.support.firePropertyChange("order", null, order);
+    }
+}
+```
+## Acessando objeto notificado
+Como vimos o objeto que receberemos é um `Order` agora vamos ver como podemos fazer para acessar os valores desse objeto, abaixo vamos mostrar como está atualmente o código
+```java
+@Override
+public void propertyChange(PropertyChangeEvent evt) {
+    System.out.println("Disparar email para cliente");
+}
+```
+
+Podemos usar a conversão para ajudar, como no trecho abaixo:
+```java
+@Override
+public void propertyChange(PropertyChangeEvent evt) {
+    System.out.println("Disparar email para cliente");
+    Order order = (Order) evt.getNewValue();
+    System.out.println("Valor "+ order.getAmount());
+}
+```
+Pronto agora temos acesso a todos os atributos do objeto notificado.
+
+## Observador Assincrono
+Por padrão essa rotina fica sempre dentro da mesma thread, se tivermos vários observadores teremos que esperar o primeiro fazer para deṕois o segundo fazer, isso pode ser um problema em um projeto real, portanto agora vamos ver como podemos usar uma outra classe bem legal do Java chamada de [CompletableFuture](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html), ela nos ajudará a escrever um Observador Assíncrono.
+
+O `CompletableFuture` como o próprio nome já diz, completa no futuro, com essa classe podemos pedir que o java execute uma operação em outra thread dando a possibilidade de executar coisas em paralelo.
+
+Em nosso exemplo, vamos mudar um pouco nossa implementação para usarmos essa classe.
+```java
+@Override
+public void propertyChange(PropertyChangeEvent evt) {
+    CompletableFuture.runAsync(()->{
+        System.out.println("Disparar email para cliente");
+        Order order = (Order) evt.getNewValue();
+        System.out.println("Valor "+ order.getAmount());     
+    }    
+}
+```
+# Conclusão
+Essa solução ajuda a escrever componentes **desacoplados**, ajudando na redução do escopo de cada Classe/Component.
+
+Repositório: https://github.com/cassunde/spring_boot_quarkus/tree/master/event/java/property
+
+vou ficando por aqui até a próxima...
