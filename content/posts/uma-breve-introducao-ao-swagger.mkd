@@ -1,0 +1,43 @@
+---
+title: Uma Breve Introdução ao Swagger
+authors: Bruno Ruiz
+type: post
+date: 2022-08-20
+excerpt: Um dos maiores problemas na construção de software reside na criação de uma documentação de fácil leitura, um esforço especial deve ser feito para que o que for construído se mantenha ao longo prazo.
+categories:
+  - Opinião
+tags:
+  - Documentação
+  - Swagger
+  - OpenAPI
+---
+
+## O que é e para que serve a OpenAPI?
+Um dos maiores problemas na construção de software reside na criação de uma documentação de fácil leitura, completa e que atenda seu principal objetivo: suavizar a compreensão do que foi feito por outros ou pelo próprio desenvolvedor após algum tempo sem contato com sua obra.
+
+A especificação OpenAPI tem como finalidade prover um método para criação descrições legíveis de APIs. Ela surgiu com sua primeira versão em 2011 sob o nome de Swagger e hoje é um projeto de colaboração de código aberto da Linux Foundation.
+
+## O que é e para que serve o Swagger?
+Especificações como a OpenAPI são a base para que ferramentas possam ser construídas com o intuito de tornar mais fácil a implementação de tais especificações.
+
+O Swagger é um conjunto de ferramentas que tem como finalidade ajudar desenvolvedores a construir documentações voltadas para APIs. 
+
+As ferramentas Swagger incluem:
+
+- Swagger Editor: editor para escrita de especificações de APIs utilizando a especificação OpenAPI.
+- Swagger UI: ferramenta capaz de renderizar as especificações OpenAPI como documentação interativa.
+- Swagger Codegen: gerador de código a partir da documentação especificada via OpenAPI.
+
+## Quem usa Swagger?
+Uma ferramenta se prova pelo resultado que ela produz. No entanto, como saber se vale ou não a pena começar a aprender e utilizar Swagger? Uma maneira é saber quem já usa e quais os resultados que eles têm obtido por meio dela.
+
+A Microsoft, uma das maiores empresas de tecnologia do mundo, implementou suporte interno ao Swagger para API Web ASP.NET.
+
+PicPay disponibiliza a documentação de referência de sua API pública para e-commerce por meio do Swagger.
+
+Talend é uma empresa que B2B que ajuda grandes corporações a aumentar a qualidade dos dados utilizados por tomadores de decisões, principalmente pode meio de integrações via APIs. Em seu site é possível ver documentações de APIs públicas utilizando Swagger. 
+
+NetFlix, que possui diversos clientes de consumo de suas APIs em larga escala, tem um grande desafio em gerenciar as alterações de suas APIs no sentido de evolução, ela também faz uso do Swagger.
+
+## O que você deve fazer?
+Se você quer elevar o padrão do seu desenvolvimento de APIs para um nível profissional de classe global, não há dúvidas que deve se aprofundar na compreensão do Swagger e aplicá-lo ao máximo possível em seus processos.
