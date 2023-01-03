@@ -6,8 +6,10 @@ image: https://i.imgur.com/MIm9ETo.png
 date: 2022-06-29
 excerpt: Devs front-end que você precisa conhecer
 categories:
-  - Front-end
+  - mercado
 ---
+
+
 
 # Simara Conceição: da ThoughtWorks ao quero ser dev
 
