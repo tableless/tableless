@@ -55,6 +55,12 @@ disableLiveReload = true
   status = 301
   force = false
 
+[[redirects]]
+  from = "/o-que-html-basico"
+  to = "https://productoversee.com/o-que-html-basico/"
+  status = 301
+  force = false
+
 [params]
   siteName = "Tableless"
   description = "Website com artigos e textos sobre Padrões Web, Design, Back-end e Front-end tudo em um só lugar. "
