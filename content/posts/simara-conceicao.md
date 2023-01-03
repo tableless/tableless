@@ -1,5 +1,5 @@
 ---
-title: Simara Conceição: da ThoughtWorks ao quero ser dev
+title: "Simara Conceição: da ThoughtWorks ao quero ser dev"
 authors: Danilo Vitoriano
 type: post
 image: https://i.imgur.com/MIm9ETo.png
